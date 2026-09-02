@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://softly.app/schema/atom.schema.json",
+  "title": "Softly Knowledge Atom (frontmatter)",
+  "description": "Validates the YAML frontmatter of one knowledge atom. The Markdown body is validated separately by the pipeline (named H2 renditions).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "type", "category", "title", "status", "sources", "review"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable, unique, kebab-case, permanent. Must equal the filename slug. Never rename."
+    },
+    "type": {
+      "enum": ["concept", "hormone", "phase", "symptom", "condition", "contraception", "test", "life-stage"]
+    },
+    "category": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Home category id; must exist in categories/categories.yaml."
+    },
+    "title": { "type": "string", "minLength": 1, "description": "Source-language (en) display title. Localizable." },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "description": "Search synonyms in the source language. Localizable."
+    },
+    "phases": {
+      "type": "array",
+      "items": { "enum": ["menstrual", "follicular", "ovulation", "luteal"] },
+      "uniqueItems": true
+    },
+    "illustrationId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Topic image id. Optional — falls back to category art, then placeholder."
+    },
+    "status": { "enum": ["draft", "published"] },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["type", "target"],
+        "properties": {
+          "type": { "enum": ["is-a", "part-of", "related-to", "symptom-of", "associated-with", "see-also"] },
+          "target": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "id of another atom; the build fails on a dangling link." }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "description": "At least one tier-1 citation. See EDITORIAL_POLICY.md for allowed orgs and licences.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["org", "title", "url", "accessed", "license"],
+        "properties": {
+          "org": { "enum": ["WHO", "NICE", "NHS", "ESHRE", "FIGO", "OWH", "NCBI", "PubMed", "ACOG"] },
+          "title": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+          "published": { "type": "string", "format": "date" },
+          "accessed": { "type": "string", "format": "date" },
+          "license": {
+            "type": "string",
+            "description": "Reuse licence of the source, e.g. OGL-3.0 (NHS), CC-BY-3.0-IGO (WHO), proprietary, public-domain. Governs how we may summarise/attribute."
+          }
+        }
+      }
+    },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["reviewedBy", "nextReviewDue", "contentVersion"],
+      "properties": {
+        "reviewedBy": { "type": "string", "description": "A clinician's name/handle, or the literal 'unreviewed'." },
+        "reviewedOn": { "type": ["string", "null"], "format": "date" },
+        "nextReviewDue": { "type": "string", "format": "date" },
+        "contentVersion": { "type": "integer", "minimum": 1 }
+      }
+    }
+  }
+}

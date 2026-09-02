@@ -1,0 +1,82 @@
+# Softly Knowledge — top-level taxonomy.
+# A FIXED, small set of categories. Each atom names exactly one home `category`.
+# Cross-links between categories are expressed with relations, not by duplicating atoms.
+#
+# Fields:
+#   id             stable, kebab-case, permanent (used by atoms + the app).
+#   title          source-language (en) display name; localizable.
+#   order          display order in Discover.
+#   colorToken     design-system token for the category's accent / placeholder gradient.
+#   illustrationId category hero image id (one of the first ~10 illustrations to produce).
+#   summary        one calm sentence; localizable.
+
+categories:
+  - id: cycle-and-phases
+    title: The cycle & its phases
+    order: 1
+    colorToken: phaseMenstrual
+    illustrationId: cat-cycle
+    summary: How your cycle moves through menstrual, follicular, ovulation and luteal.
+
+  - id: hormones
+    title: Hormones
+    order: 2
+    colorToken: phaseFollicular
+    illustrationId: cat-hormones
+    summary: The messengers behind your cycle — estrogen, progesterone, LH, FSH.
+
+  - id: fertility-and-ovulation
+    title: Fertility & ovulation
+    order: 3
+    colorToken: phaseOvulation
+    illustrationId: cat-fertility
+    summary: The fertile window, ovulation signs, and what shapes fertility.
+
+  - id: contraception
+    title: Contraception
+    order: 4
+    colorToken: brand
+    illustrationId: cat-contraception
+    summary: How different methods work, in plain language.
+
+  - id: symptoms-and-signals
+    title: Symptoms & body signals
+    order: 5
+    colorToken: phaseLuteal
+    illustrationId: cat-symptoms
+    summary: Pain, spotting, discharge, mood — what your body may be telling you.
+
+  - id: conditions
+    title: Conditions
+    order: 6
+    colorToken: brand
+    illustrationId: cat-conditions
+    summary: PCOS, endometriosis, fibroids and more — explained, with sources.
+
+  - id: sexual-and-intimate-health
+    title: Sexual & intimate health
+    order: 7
+    colorToken: brand
+    illustrationId: cat-intimate
+    summary: Intimate wellbeing, comfort, and common questions.
+
+  - id: life-stages
+    title: Life stages
+    order: 8
+    colorToken: brand
+    illustrationId: cat-lifestages
+    summary: From first period through perimenopause and menopause.
+
+  - id: wellbeing
+    title: Wellbeing & the cycle
+    order: 9
+    colorToken: brand
+    illustrationId: cat-wellbeing
+    summary: How sleep, stress and daily life connect with your cycle.
+
+  - id: tests-and-exams
+    title: Tests & exams
+    order: 10
+    colorToken: brand
+    illustrationId: cat-tests
+    summary: Breast self-exam, cervical screening, ovulation tests and more.

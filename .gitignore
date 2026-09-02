@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Build output (the compiled runtime artifact + intermediates)
+/build/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Editors
+.vscode/
+.idea/
+
+# Python (pipeline, later)
+__pycache__/
+*.pyc
+.venv/
+venv/
