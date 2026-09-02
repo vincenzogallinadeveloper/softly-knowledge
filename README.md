@@ -55,10 +55,20 @@ softly-knowledge/
 │   └── atom.schema.json      machine-checkable frontmatter schema
 ├── categories/
 │   └── categories.yaml       the fixed top-level taxonomy
+├── pipeline/                 validate + compile to knowledge.sqlite (see pipeline/README.md)
+├── i18n/                     translatable-string catalogs (see i18n/README.md)
 └── content/
     └── en/                   source-language atoms (one file per concept)
-        └── hormones/
-            └── estrogen.md   ← worked reference example
+        ├── cycle-and-phases/ the cycle, menstrual/follicular/luteal phases, ovulation
+        └── hormones/         estrogen, progesterone, …
+```
+
+## Building
+
+```bash
+pip install -r pipeline/requirements.txt
+python3 -m pipeline.build            # validate + compile build/knowledge.sqlite
+python3 -m pipeline.build --check    # validate only (CI gate)
 ```
 
 ## Licensing
@@ -70,5 +80,7 @@ softly-knowledge/
 
 ## Status
 
-Foundations. The build pipeline, translations, and the bulk of the content come next — but the
-**invariants are fixed first**, so quality is enforced by tooling, not by discipline.
+Early. The **build pipeline** (validation + SQLite/FTS5 compile) and the **i18n structure** are in
+place, and the first, least-controversial atoms are published (the cycle, its four phases,
+estrogen, progesterone). The invariants are enforced by tooling, not by discipline. Translations
+and the bulk of the content — more hormones, symptoms, conditions — come next.

@@ -1,7 +1,6 @@
 ---
 # REFERENCE EXAMPLE — copy this as the starting point for a new atom.
-# NOTE: the source URLs/dates below are ILLUSTRATIVE placeholders. Before setting status:
-# published, a human must open each link, confirm it supports the text, and set `accessed`.
+# Sources below were opened and verified on the `accessed` date.
 id: estrogen
 type: hormone
 category: hormones
@@ -9,25 +8,23 @@ title: Estrogen
 aliases: [oestrogen]
 phases: [follicular, ovulation]
 illustrationId: estrogen
-status: draft
+status: published
 
 relations:
   - { type: related-to, target: progesterone }
   - { type: part-of, target: menstrual-cycle }
   - { type: related-to, target: follicular-phase }
-  - { type: see-also, target: fsh }
+  - { type: see-also, target: ovulation }
 
 sources:
   - org: OWH
-    title: "Menstrual cycle — Office on Women's Health"
-    url: https://www.womenshealth.gov/menstrual-cycle
-    published: 2021-02-22
+    title: "Your menstrual cycle — Office on Women's Health"
+    url: https://www.womenshealth.gov/menstrual-cycle/your-menstrual-cycle
     accessed: 2026-09-02
     license: public-domain
   - org: NHS
     title: "Periods and fertility in the menstrual cycle"
     url: https://www.nhs.uk/conditions/periods/fertility-in-the-menstrual-cycle/
-    published: 2023-01-01
     accessed: 2026-09-02
     license: OGL-3.0
 

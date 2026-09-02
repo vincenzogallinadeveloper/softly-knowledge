@@ -1,0 +1,7 @@
+# The Softly Knowledge pipeline has ONE runtime dependency.
+#
+# PyYAML is a small, pure-Python-installable library used only to parse the
+# YAML frontmatter of each atom. Everything else (JSON-Schema validation,
+# graph checks, SQLite + FTS5 compilation) uses the Python standard library,
+# so the build runs fully offline in CI with nothing else to fetch.
+PyYAML>=6.0
