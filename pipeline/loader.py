@@ -67,11 +67,25 @@ class Category:
 
 
 @dataclass
+class LearningPath:
+    id: str
+    order: int
+    illustration_id: Optional[str]
+    status: str
+    title: str
+    summary: Optional[str]
+    steps: List[str]
+    data: dict                    # the raw YAML entry, for schema validation
+
+
+@dataclass
 class Corpus:
     atoms: List[Atom]
     categories: List[Category]
     categories_checksum: str = ""
     category_ids: set = field(default_factory=set)
+    paths: List["LearningPath"] = field(default_factory=list)
+    paths_checksum: str = ""
 
 
 def _normalize_yaml_dates(node):
@@ -175,13 +189,46 @@ def load_categories(path: Path):
     return cats, checksum
 
 
+def load_paths(path: Path):
+    """Load learning paths from paths/paths.yaml. Returns (paths, checksum).
+    A missing file is not an error — it just means no paths yet."""
+    if not path.exists():
+        return [], ""
+    raw = path.read_bytes()
+    checksum = hashlib.sha256(raw).hexdigest()
+    doc = yaml.safe_load(raw.decode("utf-8"))
+    if not isinstance(doc, dict) or "paths" not in doc:
+        raise LoadError(f"{path}: expected a top-level 'paths:' list")
+    paths: List[LearningPath] = []
+    for entry in doc["paths"] or []:
+        paths.append(
+            LearningPath(
+                id=str(entry.get("id", "")),
+                order=int(entry.get("order", 0)),
+                illustration_id=entry.get("illustrationId"),
+                status=str(entry.get("status", "")),
+                title=str(entry.get("title", "")),
+                summary=entry.get("summary"),
+                steps=list(entry.get("steps") or []),
+                data=entry,
+            )
+        )
+    return paths, checksum
+
+
 def load_corpus(content_dir: Path, categories_file: Path,
+                paths_file: Optional[Path] = None,
                 lang: str = SOURCE_LANG) -> Corpus:
     categories, cat_checksum = load_categories(categories_file)
     atoms = [load_atom(p, lang) for p in sorted(content_dir.rglob("*.md"))]
+    paths, paths_checksum = ([], "")
+    if paths_file is not None:
+        paths, paths_checksum = load_paths(paths_file)
     return Corpus(
         atoms=atoms,
         categories=categories,
         categories_checksum=cat_checksum,
         category_ids={c.id for c in categories},
+        paths=paths,
+        paths_checksum=paths_checksum,
     )

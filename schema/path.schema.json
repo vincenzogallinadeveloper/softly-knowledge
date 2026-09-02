@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://softly.app/schema/path.schema.json",
+  "title": "Softly Knowledge Learning Path",
+  "description": "Validates one entry in paths/paths.yaml. A learning path is a curated, ordered sequence of existing atoms — an editorial reading order over the graph, not a new concept. The graph-neutral parts (id, order, steps, illustrationId, status) never localize; only title and summary do.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "title", "order", "status", "steps"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable, unique, kebab-case, permanent. Never rename."
+    },
+    "title": { "type": "string", "minLength": 1, "description": "Source-language display title. Localizable." },
+    "summary": { "type": "string", "minLength": 1, "description": "One calm sentence shown on the path card. Localizable." },
+    "order": { "type": "integer", "minimum": 1, "description": "Display order in Discover." },
+    "illustrationId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Path hero image id. Optional — falls back to a placeholder."
+    },
+    "status": { "enum": ["draft", "published"] },
+    "steps": {
+      "type": "array",
+      "minItems": 2,
+      "uniqueItems": true,
+      "description": "Ordered atom ids. Each must resolve to an existing atom; for a published path, to a published atom (the build enforces this). At least two steps make a path.",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      }
+    }
+  }
+}

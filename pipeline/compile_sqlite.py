@@ -21,7 +21,7 @@ from typing import List
 
 from .loader import Atom, Corpus, SOURCE_LANG
 
-DB_SCHEMA_VERSION = 1
+DB_SCHEMA_VERSION = 2  # v2 adds paths / path_text / path_steps
 PIPELINE_VERSION = 1
 
 _DDL = """
@@ -104,6 +104,29 @@ CREATE TABLE sources (
 );
 CREATE INDEX idx_sources_atom ON sources(atom_id);
 
+CREATE TABLE paths (
+  id              TEXT PRIMARY KEY,
+  ord             INTEGER NOT NULL,
+  illustration_id TEXT,
+  status          TEXT NOT NULL
+);
+
+CREATE TABLE path_text (
+  path_id TEXT NOT NULL REFERENCES paths(id),
+  lang    TEXT NOT NULL REFERENCES languages(code),
+  title   TEXT NOT NULL,
+  summary TEXT,
+  PRIMARY KEY (path_id, lang)
+);
+
+CREATE TABLE path_steps (
+  path_id  TEXT NOT NULL REFERENCES paths(id),
+  position INTEGER NOT NULL,
+  atom_id  TEXT NOT NULL REFERENCES atoms(id),
+  PRIMARY KEY (path_id, position)
+);
+CREATE INDEX idx_path_steps_atom ON path_steps(atom_id);
+
 CREATE VIRTUAL TABLE atom_fts USING fts5 (
   title,
   aliases,
@@ -117,7 +140,8 @@ CREATE VIRTUAL TABLE atom_fts USING fts5 (
 _BODY_FIELDS = ("glance", "overview", "deep", "when_to_see_doctor", "red_flags")
 
 
-def _content_checksum(published: List[Atom], categories_checksum: str) -> str:
+def _content_checksum(published: List[Atom], categories_checksum: str,
+                      paths_checksum: str = "") -> str:
     h = hashlib.sha256()
     for atom in sorted(published, key=lambda a: a.id):
         h.update(atom.id.encode("utf-8"))
@@ -126,6 +150,8 @@ def _content_checksum(published: List[Atom], categories_checksum: str) -> str:
         h.update(b"\n")
     h.update(b"categories\0")
     h.update(categories_checksum.encode("utf-8"))
+    h.update(b"\npaths\0")
+    h.update(paths_checksum.encode("utf-8"))
     return h.hexdigest()
 
 
@@ -230,8 +256,37 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG) -> dict:
                 (atom.frontmatter["title"], aliases, body, atom.id, lang),
             )
 
+        # Learning paths — only published paths, whose steps are all published
+        # atoms (validated; guarded again so a stray draft step can't leak).
+        published_paths = sorted(
+            (p for p in corpus.paths if p.status == "published"),
+            key=lambda p: (p.order, p.id),
+        )
+        for path in published_paths:
+            conn.execute(
+                "INSERT INTO paths(id, ord, illustration_id, status) "
+                "VALUES (?, ?, ?, ?)",
+                (path.id, path.order, path.illustration_id, path.status),
+            )
+            conn.execute(
+                "INSERT INTO path_text(path_id, lang, title, summary) "
+                "VALUES (?, ?, ?, ?)",
+                (path.id, lang, path.title, path.summary),
+            )
+            pos = 0
+            for step in path.steps:
+                if step in published_ids:
+                    conn.execute(
+                        "INSERT INTO path_steps(path_id, position, atom_id) "
+                        "VALUES (?, ?, ?)",
+                        (path.id, pos, step),
+                    )
+                    pos += 1
+
         # Build metadata + semantic content version.
-        checksum = _content_checksum(published, corpus.categories_checksum)
+        checksum = _content_checksum(
+            published, corpus.categories_checksum, corpus.paths_checksum
+        )
         meta = {
             "db_schema_version": str(DB_SCHEMA_VERSION),
             "pipeline_version": str(PIPELINE_VERSION),
@@ -239,6 +294,7 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG) -> dict:
             "default_lang": lang,
             "atom_count": str(len(published)),
             "category_count": str(len(corpus.categories)),
+            "path_count": str(len(published_paths)),
             "content_checksum": checksum,
         }
         for key, value in meta.items():
@@ -256,6 +312,7 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG) -> dict:
         "published": len(published),
         "categories": len(corpus.categories),
         "relations": len(rel_rows),
+        "paths": len(published_paths),
         "content_checksum": checksum,
         "out": str(out_path),
     }

@@ -30,8 +30,12 @@ def _parse_args(argv):
                    help="source-language content directory (default: content/en)")
     p.add_argument("--categories", type=Path,
                    default=REPO_ROOT / "categories" / "categories.yaml")
+    p.add_argument("--paths", type=Path,
+                   default=REPO_ROOT / "paths" / "paths.yaml")
     p.add_argument("--schema", type=Path,
                    default=REPO_ROOT / "schema" / "atom.schema.json")
+    p.add_argument("--path-schema", type=Path,
+                   default=REPO_ROOT / "schema" / "path.schema.json")
     p.add_argument("--out", type=Path, default=REPO_ROOT / "build" / "knowledge.sqlite")
     p.add_argument("--check", action="store_true",
                    help="validate only; do not compile the database")
@@ -53,17 +57,21 @@ def main(argv=None) -> int:
 
     try:
         schema = json.loads(args.schema.read_text("utf-8"))
-        corpus = load_corpus(args.content, args.categories)
+        path_schema = (json.loads(args.path_schema.read_text("utf-8"))
+                       if args.path_schema.exists() else None)
+        corpus = load_corpus(args.content, args.categories, args.paths)
     except (LoadError, FileNotFoundError, json.JSONDecodeError) as e:
         print(f"✗ load failed: {e}", file=sys.stderr)
         return 2
 
     published = sum(1 for a in corpus.atoms if a.status == "published")
     drafts = len(corpus.atoms) - published
+    pub_paths = sum(1 for p in corpus.paths if p.status == "published")
     say(f"  loaded {len(corpus.atoms)} atom(s): {published} published, {drafts} draft"
-        f"; {len(corpus.categories)} categories")
+        f"; {len(corpus.categories)} categories; {len(corpus.paths)} path(s) "
+        f"({pub_paths} published)")
 
-    report = check(corpus, schema)
+    report = check(corpus, schema, path_schema)
 
     for w in report.warnings:
         say(f"  ⚠ {w}")
@@ -89,8 +97,8 @@ def main(argv=None) -> int:
         return 0
 
     stats = compile_db(corpus, args.out)
-    say(f"✓ compiled {stats['published']} atom(s), {stats['relations']} relation(s) "
-        f"→ {stats['out']}")
+    say(f"✓ compiled {stats['published']} atom(s), {stats['relations']} relation(s), "
+        f"{stats['paths']} path(s) → {stats['out']}")
     say(f"  content_checksum {stats['content_checksum'][:16]}…")
     return 0
 

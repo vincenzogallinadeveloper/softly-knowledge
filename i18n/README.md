@@ -10,6 +10,7 @@ language never touches the graph — it only supplies translated strings.
 | atom `title`, `aliases` | atom `id`, `type`, `category`, `status` |
 | renditions: `Glance`, `Overview`, `Deep`, `When to see a doctor`, `Red flags` | `relations`, `sources`, `phases`, `illustrationId`, `review` |
 | category `title`, `summary` | category `id`, `order`, `colorToken`, `illustrationId` |
+| learning-path `title`, `summary` | path `id`, `order`, `steps`, `illustrationId`, `status` |
 
 The source language is **English** (`content/en/**`). The English strings live in the Markdown
 atoms themselves — they are not duplicated here.

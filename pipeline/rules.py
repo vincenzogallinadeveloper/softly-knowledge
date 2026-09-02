@@ -35,7 +35,8 @@ class Report:
         return not self.errors
 
 
-def check(corpus: Corpus, schema: dict, today: date | None = None) -> Report:
+def check(corpus: Corpus, schema: dict, path_schema: dict | None = None,
+          today: date | None = None) -> Report:
     report = Report()
     today = today or date.today()
     atoms = corpus.atoms
@@ -70,6 +71,9 @@ def check(corpus: Corpus, schema: dict, today: date | None = None) -> Report:
 
     # --- graph reachability (orphans) --------------------------------------
     _check_orphans(atoms, report)
+
+    # --- learning paths ----------------------------------------------------
+    _check_paths(corpus, path_schema, status_by_id, report)
 
     return report
 
@@ -129,6 +133,32 @@ def _check_review(atom: Atom, today: date, report: Report) -> None:
                 report.warn(f"{atom.path}: review overdue (nextReviewDue {due})")
         except ValueError:
             pass  # schema validation already flags a malformed date
+
+
+def _check_paths(corpus: Corpus, path_schema, status_by_id: dict,
+                 report: Report) -> None:
+    seen: dict = {}
+    for path in corpus.paths:
+        where = f"paths.yaml::{path.id or '<no id>'}"
+        if path_schema is not None:
+            for err in validate(path.data, path_schema, path=where):
+                report.error(err)
+        if not path.id:
+            continue
+        if path.id in seen:
+            report.error(f"duplicate path id '{path.id}' in paths.yaml")
+        seen[path.id] = path
+
+        published = path.status == "published"
+        for pos, step in enumerate(path.steps):
+            if step not in status_by_id:
+                msg = f"{where}: step {pos} '{step}' does not resolve to any atom"
+                report.error(msg) if published else report.warn(msg)
+            elif published and status_by_id[step] != "published":
+                report.error(
+                    f"{where}: published path includes non-published atom "
+                    f"'{step}' — publish it or drop the step"
+                )
 
 
 def _check_orphans(atoms: List[Atom], report: Report) -> None:

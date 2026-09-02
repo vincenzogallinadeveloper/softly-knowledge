@@ -50,11 +50,15 @@ softly-knowledge/
 ├── docs/
 │   ├── EDITORIAL_POLICY.md   allowed sources, tone, safety, review cadence
 │   ├── ATOM_SCHEMA.md        the shape of one atom (frontmatter + body + relations)
+│   ├── LEARNING_PATHS.md     curated, ordered reading sequences over atoms
 │   └── DISCOVER_DESIGN.md    the app section this feeds (IA + interactions)
 ├── schema/
-│   └── atom.schema.json      machine-checkable frontmatter schema
+│   ├── atom.schema.json      machine-checkable frontmatter schema
+│   └── path.schema.json      machine-checkable learning-path schema
 ├── categories/
 │   └── categories.yaml       the fixed top-level taxonomy
+├── paths/
+│   └── paths.yaml            learning paths — curated reading orders (docs/LEARNING_PATHS.md)
 ├── pipeline/                 validate + compile to knowledge.sqlite (see pipeline/README.md)
 ├── i18n/                     translatable-string catalogs (see i18n/README.md)
 └── content/

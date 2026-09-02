@@ -31,6 +31,8 @@ Fatal (build fails):
 - Every atom has ≥ 1 source with `org`, `title`, `url`, `accessed`, `license` (via schema).
 - A **published** atom has a non-empty `## Glance` and `## Overview`.
 - A **published** atom's `relations[].target` resolves to another **published** atom.
+- A learning path validates against `schema/path.schema.json` (unique kebab id, ≥ 2 steps, no
+  duplicate steps); a **published** path's steps all resolve to **published** atoms.
 
 Warnings (surfaced; promoted to fatal with `--strict`):
 
@@ -41,17 +43,18 @@ Warnings (surfaced; promoted to fatal with `--strict`):
 ## What it produces
 
 `build/knowledge.sqlite` — language-neutral graph tables (`atoms`, `relations`, `sources`,
-`categories`, `atom_phases`), localized text tables (`atom_text`, `category_text`, keyed by
-`lang`), an FTS5 index (`atom_fts`) over title + aliases + body, and a `meta` table carrying
-`content_checksum`, `built_at`, counts, and schema/pipeline versions. Only `published` atoms ship.
-The file is built to a temp path and atomically moved into place.
+`categories`, `atom_phases`, `paths`, `path_steps`), localized text tables (`atom_text`,
+`category_text`, `path_text`, keyed by `lang`), an FTS5 index (`atom_fts`) over title + aliases +
+body, and a `meta` table carrying `content_checksum`, `built_at`, counts, and schema/pipeline
+versions. Only `published` atoms and paths ship. The file is built to a temp path and atomically
+moved into place.
 
 ## Modules
 
 | File | Role |
 |---|---|
 | `build.py` | CLI: orchestrates load → validate → compile |
-| `loader.py` | parse `categories.yaml` + atom Markdown (frontmatter + renditions) |
+| `loader.py` | parse `categories.yaml`, `paths.yaml`, and atom Markdown (frontmatter + renditions) |
 | `schema_validator.py` | tiny, dependency-free JSON-Schema validator (the schema stays authoritative) |
 | `rules.py` | the editorial + graph invariants |
 | `compile_sqlite.py` | DDL + inserts + FTS + checksum |

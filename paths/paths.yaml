@@ -1,0 +1,53 @@
+# Softly Knowledge — learning paths.
+# A learning path is a CURATED, ORDERED reading sequence over existing atoms —
+# an editorial "read these, in this order" path, not a new concept. It never
+# duplicates content: each step is just the id of an atom, and the step's display
+# comes from that atom (its title + Glance). Cross-links stay in the graph.
+#
+# Language-neutral: id, order, steps, illustrationId, status.
+# Localizable: title, summary.
+#
+# Rules the build enforces (schema/path.schema.json + pipeline):
+#   id                 stable, kebab-case, unique, permanent.
+#   steps              >= 2 atom ids, no duplicates; each must resolve.
+#   published path     every step must be a PUBLISHED atom (else the build fails).
+#   status             only `published` paths ship in knowledge.sqlite.
+
+paths:
+  - id: understand-your-cycle
+    title: Understand your cycle in 5 steps
+    order: 1
+    illustrationId: path-understand-cycle
+    status: published
+    summary: A calm walk through the whole cycle and each of its four phases.
+    steps:
+      - menstrual-cycle
+      - menstrual-phase
+      - follicular-phase
+      - ovulation
+      - luteal-phase
+
+  - id: getting-to-know-ovulation
+    title: Getting to know ovulation
+    order: 2
+    illustrationId: path-ovulation
+    status: published
+    summary: What ovulation is, the fertile window, and the signs your body gives.
+    steps:
+      - ovulation
+      - fertile-window
+      - cervical-mucus
+      - basal-body-temperature
+      - lh
+
+  - id: the-hormones-behind-your-cycle
+    title: The hormones behind your cycle
+    order: 3
+    illustrationId: path-hormones
+    status: published
+    summary: Meet the four messengers that drive the cycle — and what each one does.
+    steps:
+      - estrogen
+      - progesterone
+      - fsh
+      - lh
