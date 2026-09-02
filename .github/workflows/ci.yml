@@ -1,0 +1,44 @@
+name: build
+
+# The build IS the quality gate: it validates every atom + path against the
+# schema and the editorial invariants, runs the pipeline test suite, checks the
+# committed i18n catalog is in sync, and finally compiles knowledge.sqlite.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Validate content (schema + invariants)
+        run: python3 -m pipeline.build --check
+
+      - name: Run pipeline tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Check the i18n catalog is up to date
+        run: |
+          python3 -m pipeline.i18n_extract
+          git diff --exit-code i18n/ \
+            || (echo "::error::i18n catalog is stale — run 'python3 -m pipeline.i18n_extract' and commit." && exit 1)
+
+      - name: Compile knowledge.sqlite
+        run: python3 -m pipeline.build
+
+      - name: Upload compiled database
+        uses: actions/upload-artifact@v4
+        with:
+          name: knowledge-sqlite
+          path: build/knowledge.sqlite
+          if-no-files-found: error

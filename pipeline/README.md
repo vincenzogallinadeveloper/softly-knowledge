@@ -17,9 +17,12 @@ python3 -m pipeline.build            # validate, then compile build/knowledge.sq
 python3 -m pipeline.build --check    # validate only (use this as the CI gate)
 python3 -m pipeline.build --strict   # treat warnings as errors
 python3 -m pipeline.i18n_extract     # write i18n/en/catalog.en.json (translatable strings)
+python3 -m unittest discover -s tests   # run the pipeline test suite (stdlib only)
 ```
 
 Exit code is non-zero when validation fails, so `--check` doubles as the CI gate.
+CI (`.github/workflows/ci.yml`) runs `--check`, the tests, an i18n-catalog freshness
+check, and the compile on every push and pull request.
 
 ## What it enforces
 
