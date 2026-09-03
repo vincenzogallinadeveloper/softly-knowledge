@@ -84,7 +84,9 @@ python3 -m pipeline.build --check    # validate only (CI gate)
 
 ## Status
 
-Early. The **build pipeline** (validation + SQLite/FTS5 compile) and the **i18n structure** are in
-place, and the first, least-controversial atoms are published (the cycle, its four phases,
-estrogen, progesterone). The invariants are enforced by tooling, not by discipline. Translations
-and the bulk of the content — more hormones, symptoms, conditions — come next.
+Growing. The **build pipeline** (validation + SQLite/FTS5 compile), a **test suite + CI**, the
+**i18n structure**, and **learning paths** are all in place, and every one of the ten categories now
+has published, sourced atoms — the cycle and its phases, hormones, fertility signs, contraception,
+symptoms, conditions, life stages, intimate health, wellbeing, and tests. The invariants are
+enforced by tooling, not by discipline. Next: clinician review (especially the `condition` atoms),
+translations, deeper coverage, and illustrations.
