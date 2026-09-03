@@ -140,6 +140,37 @@ CREATE VIRTUAL TABLE atom_fts USING fts5 (
 _BODY_FIELDS = ("glance", "overview", "deep", "when_to_see_doctor", "red_flags")
 
 
+def _atom_text_fields(atom: Atom) -> dict:
+    """The source-language (English) display strings for one atom."""
+    fm = atom.frontmatter
+    r = atom.renditions
+    return {
+        "title": fm["title"],
+        "aliases": fm.get("aliases") or [],
+        "glance": r.get("glance"),
+        "overview": r.get("overview"),
+        "deep": r.get("deep"),
+        "when_to_see_doctor": r.get("when_to_see_doctor"),
+        "red_flags": r.get("red_flags"),
+    }
+
+
+def _overlay_value(field: str, translated: dict, english: dict):
+    """Pick a translated value, falling back to English. Returns
+    (value, applicable, translated_present) where `applicable` means the source
+    has this string at all (so it counts toward coverage)."""
+    ev = english.get(field)
+    tv = translated.get(field)
+    if field == "aliases":
+        ev = ev or []
+        if not ev:
+            return (tv or [], False, False)
+        return (tv or ev, True, bool(tv))
+    if ev:
+        return (tv or ev, True, bool(tv))
+    return (tv or ev, False, bool(tv))
+
+
 def _content_checksum(published: List[Atom], categories_checksum: str,
                       paths_checksum: str = "") -> str:
     h = hashlib.sha256()
@@ -155,8 +186,15 @@ def _content_checksum(published: List[Atom], categories_checksum: str,
     return h.hexdigest()
 
 
-def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG) -> dict:
-    """Build the SQLite artifact. Returns a small stats dict for reporting."""
+def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG,
+               target_catalogs: dict = None) -> dict:
+    """Build the SQLite artifact. Returns a small stats dict for reporting.
+
+    `target_catalogs` maps a language code to that language's translation catalog
+    (the shape pipeline.i18n_extract emits). Each one is overlaid into the *_text
+    and FTS tables for its language, falling back to the English source for any
+    string not yet translated, so a partial translation still yields a complete,
+    usable database."""
     published = [a for a in corpus.atoms if a.status == "published"]
     published.sort(key=lambda a: a.id)
 
@@ -283,6 +321,79 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG) -> dict:
                     )
                     pos += 1
 
+        # Target-language overlays (translations). English came from the
+        # Markdown source above; each target catalog fills the *_text + FTS
+        # tables for its language, falling back to English for untranslated
+        # strings so a partial translation still yields a complete database.
+        coverage = {}
+        for tgt_lang, catalog in (target_catalogs or {}).items():
+            if tgt_lang == lang:
+                continue
+            conn.execute(
+                "INSERT OR IGNORE INTO languages(code, name, is_source) "
+                "VALUES (?, ?, 0)",
+                (tgt_lang, (catalog.get("_meta") or {}).get("lang", tgt_lang)),
+            )
+            cat_atoms = catalog.get("atoms") or {}
+            cat_cats = catalog.get("categories") or {}
+            cat_paths = catalog.get("paths") or {}
+            done = total = 0
+
+            for atom in published:
+                en = _atom_text_fields(atom)
+                tr = cat_atoms.get(atom.id) or {}
+                vals = {}
+                for field in ("title", "aliases") + _BODY_FIELDS:
+                    value, applicable, translated = _overlay_value(field, tr, en)
+                    vals[field] = value
+                    if applicable:
+                        total += 1
+                        done += 1 if translated else 0
+                conn.execute(
+                    "INSERT INTO atom_text(atom_id, lang, title, aliases, glance, "
+                    "overview, deep, when_to_see_doctor, red_flags) "
+                    "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                    (
+                        atom.id, tgt_lang, vals["title"],
+                        json.dumps(vals["aliases"], ensure_ascii=False),
+                        vals["glance"], vals["overview"], vals["deep"],
+                        vals["when_to_see_doctor"], vals["red_flags"],
+                    ),
+                )
+                body = "\n\n".join(
+                    vals[f] for f in _BODY_FIELDS if vals.get(f)
+                )
+                conn.execute(
+                    "INSERT INTO atom_fts(title, aliases, body, atom_id, lang) "
+                    "VALUES (?, ?, ?, ?, ?)",
+                    (vals["title"], " ".join(vals["aliases"] or []), body,
+                     atom.id, tgt_lang),
+                )
+
+            for cat in corpus.categories:
+                tr = cat_cats.get(cat.id) or {}
+                total += 1
+                done += 1 if tr.get("title") else 0
+                conn.execute(
+                    "INSERT INTO category_text(category_id, lang, title, summary) "
+                    "VALUES (?, ?, ?, ?)",
+                    (cat.id, tgt_lang, tr.get("title") or cat.title,
+                     tr.get("summary") or cat.summary),
+                )
+
+            for path in published_paths:
+                tr = cat_paths.get(path.id) or {}
+                total += 1
+                done += 1 if tr.get("title") else 0
+                conn.execute(
+                    "INSERT INTO path_text(path_id, lang, title, summary) "
+                    "VALUES (?, ?, ?, ?)",
+                    (path.id, tgt_lang, tr.get("title") or path.title,
+                     tr.get("summary") or path.summary),
+                )
+
+            coverage[tgt_lang] = (done, total)
+
         # Build metadata + semantic content version.
         checksum = _content_checksum(
             published, corpus.categories_checksum, corpus.paths_checksum
@@ -295,6 +406,7 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG) -> dict:
             "atom_count": str(len(published)),
             "category_count": str(len(corpus.categories)),
             "path_count": str(len(published_paths)),
+            "languages": ",".join([lang] + list(coverage.keys())),
             "content_checksum": checksum,
         }
         for key, value in meta.items():
@@ -313,6 +425,7 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG) -> dict:
         "categories": len(corpus.categories),
         "relations": len(rel_rows),
         "paths": len(published_paths),
+        "coverage": coverage,   # {lang: (translated_fields, total_fields)}
         "content_checksum": checksum,
         "out": str(out_path),
     }

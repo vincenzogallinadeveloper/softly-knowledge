@@ -39,10 +39,20 @@ i18n/
    catalog carries `_meta.source_content_checksum`, so the DeepL step can tell when the English
    source changed and only re-translate what moved.
 
-3. **Compile.** A future build step overlays each target catalog into the database's `atom_text`
-   and `category_text` tables (one row per atom/category **per language**), keyed by the same
-   language-neutral ids. Today the build compiles only the English source; the schema already has
-   the `lang` columns waiting for the overlays.
+3. **Compile.** The build overlays every catalog it finds under `i18n/<lang>/` into the database's
+   `atom_text`, `category_text`, and `path_text` tables (one row per atom/category/path **per
+   language**), plus a per-language FTS row so search works in that language. Any string not yet
+   translated **falls back to English**, so a partial catalog still yields a complete, usable
+   database. Just run the normal build:
+
+   ```bash
+   python3 -m pipeline.build          # picks up i18n/it/catalog.it.json automatically
+   ```
+
+   It prints a coverage line per language (e.g. `it: 62% translated (…); rest fall back to en`).
+   The app then queries `WHERE lang = 'it'`; the English fallback rows mean nothing is ever blank.
+   Getting a language into Discover is therefore just: drop the DeepL-produced
+   `i18n/<lang>/catalog.<lang>.json` into place and rebuild.
 
 ## Rules
 

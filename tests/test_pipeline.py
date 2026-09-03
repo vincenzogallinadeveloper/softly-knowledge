@@ -363,5 +363,69 @@ class PathTests(unittest.TestCase):
             self.assertTrue(any("duplicate path id" in e for e in fx.report().errors))
 
 
+class OverlayTests(unittest.TestCase):
+    """Target-language overlays: translated strings win, English fills the gaps."""
+
+    def _fixture(self, tmp):
+        fx = Fixture(Path(tmp))
+        fx.write_atom("hormones/estrogen.md", atom_md(
+            id="estrogen", relations=[("related-to", "progesterone")]))
+        fx.write_atom("hormones/progesterone.md", atom_md(
+            id="progesterone", title="Progesterone",
+            relations=[("related-to", "estrogen")]))
+        return fx
+
+    def test_overlay_translates_and_falls_back(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            fx = self._fixture(tmp)
+            catalog = {
+                "_meta": {"lang": "it"},
+                "atoms": {"estrogen": {"title": "Estrogeno",
+                                       "glance": "Un ormone chiave."}},
+                "categories": {"hormones": {"title": "Ormoni"}},
+                "paths": {},
+            }
+            out = Path(tmp) / "k.sqlite"
+            stats = compile_db(fx.corpus(), out, target_catalogs={"it": catalog})
+            db = sqlite3.connect(out)
+            db.row_factory = sqlite3.Row
+            # translated atom shows Italian
+            est = db.execute(
+                "SELECT title, glance FROM atom_text WHERE atom_id='estrogen' "
+                "AND lang='it'").fetchone()
+            self.assertEqual(est["title"], "Estrogeno")
+            # untranslated atom falls back to English
+            prog = db.execute(
+                "SELECT title FROM atom_text WHERE atom_id='progesterone' "
+                "AND lang='it'").fetchone()
+            self.assertEqual(prog["title"], "Progesterone")
+            # category translated; both languages present
+            cat = db.execute("SELECT title FROM category_text WHERE "
+                             "category_id='hormones' AND lang='it'").fetchone()
+            self.assertEqual(cat["title"], "Ormoni")
+            langs = {r[0] for r in db.execute("SELECT code FROM languages")}
+            self.assertEqual(langs, {"en", "it"})
+            # Italian FTS finds the translated glance
+            hit = db.execute("SELECT atom_id FROM atom_fts WHERE atom_fts MATCH "
+                             "'ormone' AND lang='it'").fetchall()
+            self.assertTrue(hit)
+            db.close()
+            # coverage is reported and partial
+            done, total = stats["coverage"]["it"]
+            self.assertGreater(total, done)  # not everything translated
+            self.assertGreater(done, 0)      # but something is
+
+    def test_no_catalogs_means_english_only(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            fx = self._fixture(tmp)
+            out = Path(tmp) / "k.sqlite"
+            stats = compile_db(fx.corpus(), out)
+            self.assertEqual(stats["coverage"], {})
+            db = sqlite3.connect(out)
+            langs = {r[0] for r in db.execute("SELECT code FROM languages")}
+            self.assertEqual(langs, {"en"})
+            db.close()
+
+
 if __name__ == "__main__":
     unittest.main()

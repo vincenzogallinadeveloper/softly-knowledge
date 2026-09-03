@@ -17,10 +17,26 @@ from pathlib import Path
 
 from . import __version__
 from .compile_sqlite import compile_db
-from .loader import LoadError, load_corpus
+from .loader import SOURCE_LANG, LoadError, load_corpus
 from .rules import check
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+
+
+def _discover_catalogs(i18n_dir: Path, source_lang: str = SOURCE_LANG) -> dict:
+    """Find i18n/<lang>/catalog.<lang>.json for every target language (not the
+    source). Returns {lang: parsed catalog}."""
+    catalogs = {}
+    if not i18n_dir.exists():
+        return catalogs
+    for sub in sorted(p for p in i18n_dir.iterdir() if p.is_dir()):
+        lang = sub.name
+        if lang == source_lang:
+            continue
+        f = sub / f"catalog.{lang}.json"
+        if f.exists():
+            catalogs[lang] = json.loads(f.read_text("utf-8"))
+    return catalogs
 
 
 def _parse_args(argv):
@@ -37,6 +53,8 @@ def _parse_args(argv):
     p.add_argument("--path-schema", type=Path,
                    default=REPO_ROOT / "schema" / "path.schema.json")
     p.add_argument("--out", type=Path, default=REPO_ROOT / "build" / "knowledge.sqlite")
+    p.add_argument("--i18n-dir", type=Path, default=REPO_ROOT / "i18n",
+                   help="directory of translation catalogs (i18n/<lang>/catalog.<lang>.json)")
     p.add_argument("--check", action="store_true",
                    help="validate only; do not compile the database")
     p.add_argument("--strict", action="store_true",
@@ -96,9 +114,15 @@ def main(argv=None) -> int:
             "(run without --check once atoms are published)")
         return 0
 
-    stats = compile_db(corpus, args.out)
+    catalogs = _discover_catalogs(args.i18n_dir)
+    stats = compile_db(corpus, args.out, target_catalogs=catalogs)
+    langs = "en" + "".join(f", {l}" for l in stats["coverage"])
     say(f"✓ compiled {stats['published']} atom(s), {stats['relations']} relation(s), "
         f"{stats['paths']} path(s) → {stats['out']}")
+    say(f"  languages: {langs}")
+    for tgt, (done, tot) in stats["coverage"].items():
+        pct = (100 * done // tot) if tot else 0
+        say(f"    {tgt}: {pct}% translated ({done}/{tot} strings; rest fall back to en)")
     say(f"  content_checksum {stats['content_checksum'][:16]}…")
     return 0
 

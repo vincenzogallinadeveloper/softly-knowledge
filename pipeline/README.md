@@ -52,6 +52,11 @@ body, and a `meta` table carrying `content_checksum`, `built_at`, counts, and sc
 versions. Only `published` atoms and paths ship. The file is built to a temp path and atomically
 moved into place.
 
+Translations: the build also overlays any catalog under `i18n/<lang>/catalog.<lang>.json` into the
+`*_text` and FTS tables for that language, falling back to English for untranslated strings, and
+prints a coverage line per language. Adding a language to Discover is just dropping its catalog in
+and rebuilding — no code or schema change. See [`../i18n/README.md`](../i18n/README.md).
+
 ## Modules
 
 | File | Role |
