@@ -19,13 +19,25 @@ one of the most valuable things you can do here.
 5. Add `relations` to existing atoms where it helps the graph. Every `target` must be a real `id`.
 6. Leave `status: draft` until it's ready and (ideally) reviewed. Only `published` atoms ship.
 
+## Check your work locally
+```bash
+pip install -r pipeline/requirements.txt
+python3 -m pipeline.build --check     # schema + invariants (the CI gate)
+python3 -m unittest discover -s tests # pipeline tests
+python3 -m pipeline.report            # audit: review status, sources, gaps
+```
+If you changed any display text, also run `python3 -m pipeline.i18n_extract` and commit the updated
+`i18n/en/catalog.en.json`. A PR template with the full checklist appears automatically when you open
+a pull request.
+
 ## Golden rules
 - **One concept, one atom.** Don't create a second "Estrogen." Link, don't duplicate.
 - **Educational, never diagnostic or prescriptive.** No "you have X," no dosages, no instructions.
 - **Original prose + citation.** Summarise; never copy.
 - **Surface red flags.** Urgent signs go in `## Red flags` and must never be softened.
-- The graph is **language-neutral**; only display text is localized (translations come later, via
-  Softly's existing pipeline). Never translate `id`, `relations`, or `sources`.
+- The graph is **language-neutral**; only display text is localized. Translations live as overlays
+  in `i18n/<lang>/` and the build compiles them per language (see [`i18n/README.md`](i18n/README.md)).
+  Never translate `id`, `relations`, or `sources`.
 
 ## Review
 Pull requests are reviewed against the editorial policy and the schema (the build fails on a

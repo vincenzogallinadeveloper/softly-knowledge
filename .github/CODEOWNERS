@@ -1,0 +1,20 @@
+# Code owners — GitHub auto-requests a review from these owners on matching PRs.
+#
+# ⚠ Replace the placeholder handles below with real GitHub usernames or teams
+#   (e.g. @your-org/maintainers, @your-org/clinical-reviewers) before relying on
+#   this. Until then these lines are inert — GitHub silently ignores unknown owners.
+#
+# The intent: medical content and the editorial policy should not be merged
+# without an editorial (ideally clinical) reviewer.
+
+# Everything, as a fallback.
+*                          @REPLACE-with-maintainer-handle
+
+# The knowledge itself — the parts that make medical claims.
+/content/                  @REPLACE-with-maintainer-handle
+/categories/               @REPLACE-with-maintainer-handle
+/paths/                    @REPLACE-with-maintainer-handle
+
+# The rules that keep it trustworthy.
+/docs/EDITORIAL_POLICY.md  @REPLACE-with-maintainer-handle
+/schema/                   @REPLACE-with-maintainer-handle

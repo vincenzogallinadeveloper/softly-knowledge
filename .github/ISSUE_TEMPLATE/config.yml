@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Editorial policy (sources, tone, safety)
+    url: https://github.com/REPLACE-with-owner/softly-knowledge/blob/main/docs/EDITORIAL_POLICY.md
+    about: Please read this before proposing content or reporting an error.
+  - name: Medical emergency
+    url: https://www.who.int/health-topics/emergency-care
+    about: Softly is educational only. If you need medical help now, contact your local emergency services or a clinician.
