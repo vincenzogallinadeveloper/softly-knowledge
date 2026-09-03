@@ -21,7 +21,7 @@ import unittest
 from datetime import date
 from pathlib import Path
 
-from pipeline import loader, rules
+from pipeline import loader, report, rules
 from pipeline.compile_sqlite import compile_db
 from pipeline.schema_validator import validate
 
@@ -425,6 +425,28 @@ class OverlayTests(unittest.TestCase):
             langs = {r[0] for r in db.execute("SELECT code FROM languages")}
             self.assertEqual(langs, {"en"})
             db.close()
+
+
+class ReportTests(unittest.TestCase):
+    def test_collect_and_render(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            fx = Fixture(Path(tmp))
+            fx.write_atom("hormones/estrogen.md", atom_md(
+                id="estrogen", relations=[("related-to", "progesterone")]))
+            fx.write_atom("hormones/progesterone.md", atom_md(
+                id="progesterone", title="Progesterone",
+                relations=[("related-to", "estrogen")]))
+            fx.write_atom("hormones/draft-x.md", atom_md(
+                id="draft-x", title="Draft", status="draft"))
+            data = report.collect(fx.corpus(), date(2026, 9, 3))
+            self.assertEqual(data["published"], 2)
+            self.assertEqual(data["draft"], 1)
+            self.assertEqual(data["reviewed"], 0)  # fixtures are all unreviewed
+            # only related-to is used here, so the other five are flagged unused
+            self.assertIn("is-a", data["unused_relation_types"])
+            self.assertIn("symptom-of", data["unused_relation_types"])
+            # render produces a non-empty string without raising
+            self.assertIn("content report", report.render(data))
 
 
 if __name__ == "__main__":

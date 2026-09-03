@@ -17,6 +17,7 @@ python3 -m pipeline.build            # validate, then compile build/knowledge.sq
 python3 -m pipeline.build --check    # validate only (use this as the CI gate)
 python3 -m pipeline.build --strict   # treat warnings as errors
 python3 -m pipeline.i18n_extract     # write i18n/en/catalog.en.json (translatable strings)
+python3 -m pipeline.report           # maintainer audit: review status, sources, gaps
 python3 -m unittest discover -s tests   # run the pipeline test suite (stdlib only)
 ```
 
@@ -67,3 +68,4 @@ and rebuilding — no code or schema change. See [`../i18n/README.md`](../i18n/R
 | `rules.py` | the editorial + graph invariants |
 | `compile_sqlite.py` | DDL + inserts + FTS + checksum |
 | `i18n_extract.py` | extract translatable strings into `i18n/<lang>/catalog.<lang>.json` |
+| `report.py` | maintainer audit (review status, source coverage, graph/illustration gaps) |
