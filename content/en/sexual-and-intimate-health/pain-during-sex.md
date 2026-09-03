@@ -7,7 +7,7 @@ aliases: [pain during sex, painful sex, dyspareunia, pain with sex, vaginismus]
 status: published
 
 relations:
-  - { type: related-to, target: vaginal-dryness }
+  - { type: associated-with, target: vaginal-dryness }
   - { type: see-also, target: vaginal-health }
   - { type: related-to, target: menopause }
 

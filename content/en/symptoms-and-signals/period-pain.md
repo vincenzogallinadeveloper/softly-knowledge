@@ -11,6 +11,7 @@ relations:
   - { type: related-to, target: menstrual-phase }
   - { type: related-to, target: menstrual-cycle }
   - { type: see-also, target: luteal-phase }
+  - { type: symptom-of, target: endometriosis }
 
 sources:
   - org: NHS

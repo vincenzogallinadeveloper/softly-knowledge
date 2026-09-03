@@ -7,7 +7,7 @@ aliases: [vaginal dryness, dryness, vaginal atrophy]
 status: published
 
 relations:
-  - { type: related-to, target: menopause }
+  - { type: associated-with, target: menopause }
   - { type: see-also, target: pain-during-sex }
   - { type: related-to, target: estrogen }
 

@@ -10,6 +10,7 @@ relations:
   - { type: related-to, target: menstrual-cycle }
   - { type: related-to, target: menstrual-phase }
   - { type: see-also, target: cervical-mucus }
+  - { type: symptom-of, target: pcos }
 
 sources:
   - org: NHS

@@ -7,7 +7,7 @@ aliases: [coil, the coil, IUD, IUS, copper coil, hormonal coil, intrauterine dev
 status: published
 
 relations:
-  - { type: see-also, target: contraception }
+  - { type: is-a, target: contraception }
   - { type: related-to, target: menstrual-cycle }
   - { type: see-also, target: contraceptive-implant }
 

@@ -7,7 +7,7 @@ aliases: [contraceptive implant, the implant, Nexplanon, implant]
 status: published
 
 relations:
-  - { type: see-also, target: contraception }
+  - { type: is-a, target: contraception }
   - { type: related-to, target: ovulation }
   - { type: see-also, target: the-coil }
 

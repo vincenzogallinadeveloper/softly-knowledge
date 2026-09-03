@@ -8,7 +8,7 @@ phases: [luteal]
 status: published
 
 relations:
-  - { type: related-to, target: luteal-phase }
+  - { type: associated-with, target: luteal-phase }
   - { type: related-to, target: menstrual-cycle }
   - { type: see-also, target: period-pain }
 

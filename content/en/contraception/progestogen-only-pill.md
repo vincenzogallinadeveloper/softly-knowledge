@@ -7,7 +7,7 @@ aliases: [progestogen-only pill, mini pill, POP, progesterone only pill, desoges
 status: published
 
 relations:
-  - { type: see-also, target: contraception }
+  - { type: is-a, target: contraception }
   - { type: related-to, target: cervical-mucus }
   - { type: see-also, target: combined-pill }
 

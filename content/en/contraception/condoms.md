@@ -7,7 +7,7 @@ aliases: [condom, condoms, external condom, rubber, barrier method]
 status: published
 
 relations:
-  - { type: see-also, target: contraception }
+  - { type: is-a, target: contraception }
   - { type: see-also, target: combined-pill }
 
 sources:

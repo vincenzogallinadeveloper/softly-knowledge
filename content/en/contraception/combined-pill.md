@@ -7,7 +7,7 @@ aliases: [combined pill, the pill, combined oral contraceptive, COC]
 status: published
 
 relations:
-  - { type: see-also, target: contraception }
+  - { type: is-a, target: contraception }
   - { type: related-to, target: ovulation }
   - { type: see-also, target: progestogen-only-pill }
 
