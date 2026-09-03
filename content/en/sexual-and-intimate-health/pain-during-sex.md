@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Vaginal dryness"
-    url: https://www.nhs.uk/conditions/vaginal-dryness/
+    url: https://www.nhs.uk/symptoms/vaginal-dryness/
     accessed: 2026-09-03
     license: OGL-3.0
   - org: NHS

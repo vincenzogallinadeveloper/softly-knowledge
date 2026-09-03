@@ -21,7 +21,7 @@ sources:
     license: public-domain
   - org: NHS
     title: "Natural family planning (fertility awareness)"
-    url: https://www.nhs.uk/conditions/contraception/natural-family-planning/
+    url: https://www.nhs.uk/contraception/methods-of-contraception/natural-family-planning/
     accessed: 2026-09-02
     license: OGL-3.0
 

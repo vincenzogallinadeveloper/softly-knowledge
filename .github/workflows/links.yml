@@ -1,0 +1,21 @@
+name: check-links
+
+# Source citations rot over time. This runs off the offline build gate — on a
+# schedule and on demand — so dead/moved links surface without blocking PRs.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r pipeline/requirements.txt
+      - name: Check cited source URLs
+        run: python3 -m pipeline.check_links

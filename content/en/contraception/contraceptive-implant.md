@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Contraceptive implant"
-    url: https://www.nhs.uk/conditions/contraception/contraceptive-implant/
+    url: https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-implant/
     accessed: 2026-09-03
     license: OGL-3.0
   - org: NHS

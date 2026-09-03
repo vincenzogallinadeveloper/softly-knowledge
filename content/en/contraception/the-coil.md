@@ -14,12 +14,12 @@ relations:
 sources:
   - org: NHS
     title: "IUD (intrauterine device) or copper coil"
-    url: https://www.nhs.uk/conditions/contraception/iud-coil/
+    url: https://www.nhs.uk/contraception/methods-of-contraception/iud-coil/
     accessed: 2026-09-03
     license: OGL-3.0
   - org: NHS
     title: "IUS (intrauterine system) or hormonal coil"
-    url: https://www.nhs.uk/conditions/contraception/ius-intrauterine-system/
+    url: https://www.nhs.uk/contraception/methods-of-contraception/ius-hormonal-coil/
     accessed: 2026-09-03
     license: OGL-3.0
   - org: NHS

@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Progestogen-only pill"
-    url: https://www.nhs.uk/conditions/contraception/the-pill-progestogen-only/
+    url: https://www.nhs.uk/contraception/methods-of-contraception/progestogen-only-pill/
     accessed: 2026-09-03
     license: OGL-3.0
   - org: NHS

@@ -13,7 +13,7 @@ relations:
 sources:
   - org: NHS
     title: "Cervical screening"
-    url: https://www.nhs.uk/conditions/cervical-screening/
+    url: https://www.nhs.uk/tests-and-treatments/cervical-screening/
     accessed: 2026-09-03
     license: OGL-3.0
 

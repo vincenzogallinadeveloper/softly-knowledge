@@ -13,7 +13,7 @@ relations:
 sources:
   - org: NHS
     title: "Condoms"
-    url: https://www.nhs.uk/conditions/contraception/male-condoms/
+    url: https://www.nhs.uk/contraception/methods-of-contraception/condoms/
     accessed: 2026-09-03
     license: OGL-3.0
   - org: NHS

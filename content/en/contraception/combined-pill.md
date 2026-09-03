@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Combined pill"
-    url: https://www.nhs.uk/conditions/contraception/combined-contraceptive-pill/
+    url: https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/
     accessed: 2026-09-03
     license: OGL-3.0
   - org: NHS

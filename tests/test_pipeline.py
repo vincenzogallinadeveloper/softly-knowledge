@@ -21,7 +21,7 @@ import unittest
 from datetime import date
 from pathlib import Path
 
-from pipeline import loader, report, rules
+from pipeline import check_links, loader, report, rules
 from pipeline.compile_sqlite import compile_db
 from pipeline.schema_validator import validate
 
@@ -447,6 +447,30 @@ class ReportTests(unittest.TestCase):
             self.assertIn("symptom-of", data["unused_relation_types"])
             # render produces a non-empty string without raising
             self.assertIn("content report", report.render(data))
+
+
+class LinkCollectionTests(unittest.TestCase):
+    """URL collection is pure (no network); the HTTP check itself isn't unit-tested."""
+
+    def test_collect_urls_dedupes_and_maps_atoms(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            fx = Fixture(Path(tmp))
+            # both atoms cite the same default source URL (https://www.nhs.uk/x)
+            fx.write_atom("hormones/estrogen.md", atom_md(
+                id="estrogen", relations=[("related-to", "progesterone")]))
+            fx.write_atom("hormones/progesterone.md", atom_md(
+                id="progesterone", title="Progesterone",
+                relations=[("related-to", "estrogen")]))
+            fx.write_atom("hormones/draft-x.md", atom_md(
+                id="draft-x", title="Draft", status="draft"))
+            urls = check_links.collect_urls(fx.corpus())
+            self.assertEqual(set(urls), {"https://www.nhs.uk/x"})
+            # published atoms only, sorted; the draft is excluded
+            self.assertEqual(urls["https://www.nhs.uk/x"], ["estrogen", "progesterone"])
+
+    def test_norm_ignores_trailing_slash_and_scheme(self):
+        self.assertEqual(check_links._norm("http://a.com/x/"),
+                         check_links._norm("https://a.com/x"))
 
 
 if __name__ == "__main__":

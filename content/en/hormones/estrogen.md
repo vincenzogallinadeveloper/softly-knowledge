@@ -19,7 +19,7 @@ relations:
 sources:
   - org: OWH
     title: "Your menstrual cycle — Office on Women's Health"
-    url: https://www.womenshealth.gov/menstrual-cycle/your-menstrual-cycle
+    url: https://womenshealth.gov/menstrual-cycle/your-menstrual-cycle
     accessed: 2026-09-02
     license: public-domain
   - org: NHS

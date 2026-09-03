@@ -21,7 +21,7 @@ sources:
     license: CC-BY-NC-SA-3.0-IGO
   - org: NHS
     title: "Menopause and perimenopause"
-    url: https://www.nhs.uk/conditions/menopause/
+    url: https://www.nhs.uk/conditions/menopause-and-perimenopause/
     accessed: 2026-09-03
     license: OGL-3.0
 

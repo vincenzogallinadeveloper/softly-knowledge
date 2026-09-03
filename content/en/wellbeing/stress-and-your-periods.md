@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Missed or late periods"
-    url: https://www.nhs.uk/conditions/stopped-or-missed-periods/
+    url: https://www.nhs.uk/symptoms/missed-or-late-periods/
     accessed: 2026-09-03
     license: OGL-3.0
   - org: OWH

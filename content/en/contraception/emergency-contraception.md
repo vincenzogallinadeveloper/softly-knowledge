@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Emergency contraception"
-    url: https://www.nhs.uk/conditions/contraception/emergency-contraception/
+    url: https://www.nhs.uk/contraception/emergency-contraception/
     accessed: 2026-09-03
     license: OGL-3.0
 

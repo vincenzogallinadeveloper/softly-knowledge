@@ -16,7 +16,7 @@ relations:
 sources:
   - org: NHS
     title: "Period pain"
-    url: https://www.nhs.uk/conditions/period-pain/
+    url: https://www.nhs.uk/symptoms/period-pain/
     accessed: 2026-09-03
     license: OGL-3.0
   - org: OWH
