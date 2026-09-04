@@ -80,3 +80,10 @@ categories:
     colorToken: brand
     illustrationId: cat-tests
     summary: Breast self-exam, cervical screening, ovulation tests and more.
+
+  - id: pregnancy
+    title: Pregnancy
+    order: 11
+    colorToken: brand
+    illustrationId: cat-pregnancy
+    summary: Early signs, staying well, warning signs, and pregnancy loss — explained, with sources.
