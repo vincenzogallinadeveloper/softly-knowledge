@@ -13,7 +13,7 @@ relations:
 sources:
   - org: NHS
     title: "Pain relief in labour"
-    url: https://www.nhs.uk/pregnancy/labour-and-birth/what-happens/pain-relief-in-labour/
+    url: https://www.nhs.uk/pregnancy/labour-and-birth/pain-relief-in-labour/
     accessed: 2026-09-05
     license: OGL-3.0
 

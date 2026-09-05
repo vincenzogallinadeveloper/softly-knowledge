@@ -13,7 +13,7 @@ relations:
 sources:
   - org: NHS
     title: "Pregnant with twins"
-    url: https://www.nhs.uk/pregnancy/finding-out/pregnant-with-twins/
+    url: https://www.nhs.uk/pregnancy/your-pregnancy-care/pregnant-with-twins/
     accessed: 2026-09-05
     license: OGL-3.0
 
