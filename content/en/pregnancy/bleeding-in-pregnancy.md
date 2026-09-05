@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Vaginal bleeding in pregnancy"
-    url: https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/vaginal-bleeding/
+    url: https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/
     accessed: 2026-09-05
     license: OGL-3.0
 

@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Pregnancy symptoms (common health problems)"
-    url: https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/
+    url: https://www.nhs.uk/pregnancy/common-symptoms/
     accessed: 2026-09-05
     license: OGL-3.0
 

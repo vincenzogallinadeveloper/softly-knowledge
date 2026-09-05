@@ -20,7 +20,7 @@ sources:
     license: OGL-3.0
   - org: NHS
     title: "Your antenatal care and appointments"
-    url: https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-care/
+    url: https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-care-and-appointments/
     accessed: 2026-09-05
     license: OGL-3.0
 

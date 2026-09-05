@@ -12,7 +12,7 @@ relations:
 sources:
   - org: NHS
     title: "Vomiting and morning sickness"
-    url: https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/vomiting-and-morning-sickness/
+    url: https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/
     accessed: 2026-09-03
     license: OGL-3.0
 

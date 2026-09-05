@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Vitamins and supplements in pregnancy"
-    url: https://www.nhs.uk/start-for-life/pregnancy/vitamins-and-supplements-in-pregnancy/
+    url: https://www.nhs.uk/best-start-in-life/pregnancy/vitamins-and-supplements-in-pregnancy/
     accessed: 2026-09-05
     license: OGL-3.0
 

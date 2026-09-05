@@ -13,7 +13,7 @@ relations:
 sources:
   - org: NHS
     title: "Signs that labour has begun"
-    url: https://www.nhs.uk/pregnancy/labour-and-birth/signs-of-labour/signs-that-labour-has-begun/
+    url: https://www.nhs.uk/pregnancy/labour-and-birth/signs-that-labour-has-begun/
     accessed: 2026-09-03
     license: OGL-3.0
 

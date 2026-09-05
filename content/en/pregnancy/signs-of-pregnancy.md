@@ -14,7 +14,7 @@ relations:
 sources:
   - org: NHS
     title: "Signs and symptoms that might mean you're pregnant"
-    url: https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-of-pregnancy/
+    url: https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/
     accessed: 2026-09-03
     license: OGL-3.0
 

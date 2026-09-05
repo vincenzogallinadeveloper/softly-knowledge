@@ -13,7 +13,7 @@ relations:
 sources:
   - org: NHS
     title: "Postnatal depression"
-    url: https://www.nhs.uk/mental-health/conditions/post-natal-depression/
+    url: https://www.nhs.uk/mental-health/conditions/postnatal-depression/
     accessed: 2026-09-03
     license: OGL-3.0
 

@@ -13,7 +13,7 @@ relations:
 sources:
   - org: NHS
     title: "Benefits of breastfeeding"
-    url: https://www.nhs.uk/conditions/baby/breastfeeding-and-bottle-feeding/breastfeeding/benefits/
+    url: https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/benefits/
     accessed: 2026-09-03
     license: OGL-3.0
 

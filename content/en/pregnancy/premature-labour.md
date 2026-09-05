@@ -13,7 +13,7 @@ relations:
 sources:
   - org: NHS
     title: "Premature labour and birth"
-    url: https://www.nhs.uk/pregnancy/labour-and-birth/signs-of-labour/premature-labour-and-birth/
+    url: https://www.nhs.uk/pregnancy/labour-and-birth/premature-labour-and-birth/
     accessed: 2026-09-05
     license: OGL-3.0
 

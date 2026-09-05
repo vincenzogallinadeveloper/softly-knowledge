@@ -13,8 +13,8 @@ relations:
 
 sources:
   - org: NHS
-    title: "Planning your pregnancy"
-    url: https://www.nhs.uk/pregnancy/trying-for-a-baby/planning-your-pregnancy/
+    title: "Trying to get pregnant"
+    url: https://www.nhs.uk/pregnancy/trying-for-a-baby/trying-to-get-pregnant/
     accessed: 2026-09-05
     license: OGL-3.0
 
