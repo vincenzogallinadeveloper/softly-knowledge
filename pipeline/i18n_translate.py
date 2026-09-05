@@ -119,20 +119,35 @@ def get_value(catalog, unit):
     return node[field][index] if index is not None else node[field]
 
 
-def set_value(catalog, unit, value):
-    kind, node_id, field, index = unit
-    node = catalog[kind][node_id]
-    if index is not None:
-        node[field][index] = value
-    else:
-        node[field] = value
+def node_key(unit):
+    return (unit[0], unit[1])
+
+
+def node_is_done(catalog, kind, node_id):
+    """A node counts as translated when its (mandatory) title is a non-empty string —
+    the same signal the build's overlay uses to decide translated-vs-fallback."""
+    node = catalog.get(kind, {}).get(node_id)
+    return bool(node) and isinstance(node.get("title"), str) and bool(node["title"].strip())
+
+
+def blank_node(node, fields):
+    """Reset a node's translatable fields to the empty state the build reads as 'fall back to
+    English' (None for strings, [] for aliases). Structure/keys are preserved."""
+    for f in fields:
+        node[f] = None
+    if "aliases" in node:
+        node["aliases"] = []
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--langs", help="comma-separated app language codes (default: all supported)")
     parser.add_argument("--dry-run", action="store_true")
-    parser.add_argument("--force", action="store_true", help="overwrite existing catalog.<lang>.json")
+    parser.add_argument("--force", action="store_true", help="retranslate from scratch, ignoring any existing catalog")
+    parser.add_argument("--max-chars", type=int, default=0,
+                        help="stop after ~N source characters this run (0 = no cap). Untranslated "
+                             "atoms are left empty so they fall back to English; a later run with a "
+                             "fresh key resumes only what's still missing.")
     args = parser.parse_args()
 
     key = os.environ.get("DEEPL_API_KEY", "")
@@ -145,8 +160,18 @@ def main():
     checksum = source.get("_meta", {}).get("source_content_checksum", "")
 
     units = list(collect_units(source))
-    protected = [protect(get_value(source, u)) for u in units]
-    total_chars = sum(len(get_value(source, u)) for u in units)
+    # Group units by node, preserving order, and price each node by its source characters.
+    nodes = []  # list of node keys, in stable order
+    node_units = {}
+    node_chars = {}
+    for u in units:
+        nk = node_key(u)
+        if nk not in node_units:
+            nodes.append(nk)
+            node_units[nk] = []
+            node_chars[nk] = 0
+        node_units[nk].append(u)
+        node_chars[nk] += len(get_value(source, u))
 
     wanted = args.langs.split(",") if args.langs else [l for l in LANG_MAP if l != SOURCE_LOCALE]
 
@@ -157,37 +182,79 @@ def main():
             continue
         out_dir = os.path.join(I18N_DIR, lang)
         out_path = os.path.join(out_dir, f"catalog.{lang}.json")
+
+        # Resume: keep whatever an earlier (possibly partial) run already translated.
+        existing = None
         if os.path.exists(out_path) and not args.force:
-            print(f"skip {lang}: catalog.{lang}.json already exists (use --force to overwrite)")
+            with open(out_path, encoding="utf-8") as f:
+                existing = json.load(f)
+        done = {nk for nk in nodes if existing and node_is_done(existing, nk[0], nk[1])}
+
+        # Choose the nodes to translate this run: not already done, within the char budget.
+        budget = args.max_chars or float("inf")
+        selected, used = set(), 0
+        for nk in nodes:
+            if nk in done:
+                continue
+            if used + node_chars[nk] > budget:
+                continue  # try to fit a smaller later node rather than overshoot
+            selected.add(nk)
+            used += node_chars[nk]
+
+        remaining = len(nodes) - len(done) - len(selected)
+        tag = "[dry-run] " if args.dry_run else ""
+        print(f"{tag}{lang} ({target}): translate {len(selected)} nodes (~{used} chars), "
+              f"keep {len(done)} done, {remaining} still pending after this run")
+        if args.dry_run or not selected:
+            if not selected and not args.dry_run:
+                print(f"  nothing fits the budget for {lang}; skipping")
             continue
 
-        print(f"{'[dry-run] ' if args.dry_run else ''}{lang} ({target}): {len(units)} strings, ~{total_chars} chars")
-        if args.dry_run:
-            continue
-
+        # Translate only the selected nodes' strings.
+        todo_units = [u for nk in nodes if nk in selected for u in node_units[nk]]
+        protected = [protect(get_value(source, u)) for u in todo_units]
         translated = []
         for i in range(0, len(protected), 40):
             translated += translate_batch(protected[i:i + 40], target, key, args.dry_run)
             time.sleep(0.2)
+        tmap = {u: unprotect(v) for u, v in zip(todo_units, translated)}
 
-        # Deep-copy the source structure, then overlay the translations onto it.
+        # Assemble: start from the source structure, then per node use this run's translation,
+        # else a previously-done translation, else blank (→ English fallback at build time).
         out = json.loads(json.dumps(source))
         out["_meta"] = {
             "lang": lang,
             "is_source": False,
             "source_content_checksum": checksum,
             "review": "Machine-translated (DeepL) from en — needs native review.",
+            "partial": remaining > 0 or len(done) > 0,
         }
-        for unit, value in zip(units, translated):
-            set_value(out, unit, unprotect(value))
+        for kind, fields in (("atoms", ATOM_FIELDS), ("categories", CATPATH_FIELDS), ("paths", CATPATH_FIELDS)):
+            for node_id, node in out.get(kind, {}).items():
+                nk = (kind, node_id)
+                src = source[kind][node_id]
+                if nk in selected:
+                    for f in fields:
+                        if isinstance(src.get(f), str):
+                            node[f] = tmap[(kind, node_id, f, None)]
+                    if "aliases" in src:
+                        node["aliases"] = [tmap[(kind, node_id, "aliases", i)] for i in range(len(src.get("aliases") or []))]
+                elif nk in done:
+                    ex = existing[kind][node_id]
+                    for f in fields:
+                        node[f] = ex.get(f)
+                    if "aliases" in node:
+                        node["aliases"] = ex.get("aliases") or []
+                else:
+                    blank_node(node, fields)
 
         os.makedirs(out_dir, exist_ok=True)
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(out, f, ensure_ascii=False, indent=2)
             f.write("\n")
-        print(f"  wrote {out_path}")
+        print(f"  wrote {out_path} ({len(done) + len(selected)}/{len(nodes)} nodes translated)")
 
-    print("\nDone. Rebuild with `python3 -m pipeline.build`, then review each language natively.")
+    print("\nDone. Rebuild with `python3 -m pipeline.build`, then copy the DB into the app.")
 
 
 if __name__ == "__main__":

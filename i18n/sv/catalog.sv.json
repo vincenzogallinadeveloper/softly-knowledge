@@ -1,0 +1,994 @@
+{
+  "_meta": {
+    "lang": "sv",
+    "is_source": false,
+    "source_content_checksum": "3d041d4d3a5acb4667dcd299321f28f894e8f11442758e2cc190e89b1220677a",
+    "review": "Machine-translated (DeepL) from en — needs native review.",
+    "partial": false
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohol under graviditeten",
+      "aliases": [
+        "alkohol under graviditeten",
+        "alkoholkonsumtion under graviditeten",
+        "alkohol och graviditet",
+        "fosteralkohol",
+        "FASD"
+      ],
+      "glance": "Det säkraste är att helt avstå från alkohol under graviditeten eller när man försöker bli gravid.",
+      "overview": "NHSs råd är tydligt och enkelt: det säkraste är att **inte dricka alkohol alls** om du är\ngravid eller försöker bli gravid. Genom att avstå från alkohol minimeras risken för ditt barn.\n\nAnledningen är att alkohol passerar från ditt blod, genom moderkakan, till ditt barn – vars lever\ninte är tillräckligt utvecklad för att bryta ner den. Att dricka under graviditeten kan leda till fetalt alkoholsyndrom\n(FASD), en rad livslånga svårigheter med inlärning, beteende och utveckling.\n\nOm du drack innan du visste att du var gravid, försök att inte oroa dig: risken för barnet vid små\nmängder i ett tidigt skede är sannolikt låg. Det bästa du kan göra är helt enkelt att undvika alkohol under resten av\ngraviditeten från och med nu.",
+      "deep": null,
+      "when_to_see_doctor": "- Om du har svårt att sluta dricka är det inget att skämmas för – berätta det för din barnmorska eller\n  husläkare. De kan ge dig stöd utan att döma dig, och att söka hjälp är bra både för dig och ditt barn.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Graviditetsvård",
+      "aliases": [
+        "graviditetsvård",
+        "graviditetsvård",
+        "graviditetsvård",
+        "besök hos barnmorskan",
+        "boka tid",
+        "graviditetskontroller"
+      ],
+      "glance": "Graviditetsvård är de regelbundna kontrollerna under graviditeten som bidrar till att du och ditt barn mår bra.",
+      "overview": "Graviditetsvård är den vård du får under graviditeten för att du och ditt barn ska hålla er så friska som\nmöjligt. Du träffar vanligtvis en barnmorska, och även en läkare om du behöver det. Det lönar sig att börja tidigt:\nkontakta din barnmorska eller husläkare så snart du vet att du är gravid.\n\nDitt första riktiga besök – ”registreringsbesöket” – äger vanligtvis rum mellan vecka 8 och 12. Därefter\nerbjuds du regelbundna kontroller: minst 10 besök och 2 ultraljudsundersökningar om det är ditt\nförsta barn, eller cirka 7 om du har fött barn tidigare, med fler besök mot slutet av graviditeten.\n\nVid dessa besök kontrollerar din barnmorska ditt blodtryck och din urin, mäter din mage för att följa ditt\nbarns tillväxt, erbjuder screeningtester och pratar med dig om ditt barns rörelser och hur du\nmår. Många viktiga saker – som preeklampsi eller graviditetsdiabetes – upptäcks här\ninnan du själv märker något, vilket är precis varför besöken är så viktiga.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakta en **barnmorska eller husläkare så snart du får reda på att du är gravid** så att din vård kan påbörjas tidigt —\n  helst i god tid inför det första besöket, som brukar äga rum vid ungefär 10–12 veckor.\n- Försök att gå på **alla** dina mödravårdsbesök, även om du mår helt bra — flera av kontrollerna\n  är avsedda att upptäcka dolda problem i ett tidigt skede.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Ditt barns rörelser",
+      "aliases": [
+        "barnets rörelser",
+        "barnets rörelser",
+        "fosterrörelser",
+        "sparkar",
+        "känna barnet röra sig",
+        "begränsade rörelser"
+      ],
+      "glance": "Att känna att ditt barn rör sig är ett tecken på att det mår bra – om rörelserna avtar eller förändras ska du omedelbart kontakta din barnmorska.",
+      "overview": "Att känna barnet röra sig är ett av de betryggande tecknen på att det mår bra. De flesta börjar\nkänna rörelser någonstans mellan graviditetsvecka 16 och 24 – ofta senare vid en första graviditet, så\nefter vecka 20 är det vanligt första gången.\n\nDet finns inget fastställt antal rörelser som du ”borde” känna, och du behöver inte räkna sparkar för att nå ett visst mål.\nAlla barn är olika, och det viktiga är att lära känna just **ditt** barns eget vanliga mönster\nunder dagen – när det är aktivt och när det är lugnt.\n\nNär du väl känner till det mönstret är det förändringar i det som du ska vara uppmärksam på. Lita på vad du vet\nom just ditt barn.",
+      "deep": null,
+      "when_to_see_doctor": "Genom att lära känna ditt barns normala beteendemönster kan du upptäcka om något har förändrats. Om du någonsin är osäker på\nom rörelserna har avtagit eller förändrats är det alltid rätt att ringa och höra efter – du kommer aldrig att\nslösa bort någons tid.",
+      "red_flags": "- Om ditt barn **rör sig mindre än vanligt, om rörelserna förändras eller om du inte känner att det rör sig**,\n  **ring din barnmorska eller förlossningsavdelningen omedelbart** – oavsett tid på dygnet. **Vänta inte\n  tills nästa dag**, även om det är mitt i natten.\n- Lita inte på en hjärtfrekvensmätare för hemmabruk (doppler) eller en app för att lugna dig själv — låt dig undersökas\n  personligen."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Ryggsmärtor under graviditeten",
+      "aliases": [
+        "ryggsmärtor under graviditeten",
+        "ryggont under graviditeten",
+        "smärta i nedre delen av ryggen under graviditeten",
+        "ryggsmärtor under graviditeten"
+      ],
+      "glance": "Ryggsmärtor är mycket vanliga under graviditeten när ligamenten mjuknar och magen växer – oftast är det ofarligt.",
+      "overview": "Ryggsmärta är ett av de vanligaste besvären under graviditeten. När din kropp förbereder sig för förlossningen\nmjuknar och sträcks ligamenten naturligt, och din växande mage förändrar hur du fördelar din vikt –\nvilket båda sätter extra belastning på nedre delen av ryggen och bäckenet.\n\nVardagliga åtgärder kan lindra besvären: var uppmärksam på din hållning när du står, sitter och lyfter;\nbär platta skor med bra stöd; använd en fast madrass eller en stödjande kudde; och rör dig försiktigt och regelbundet\ngenom att till exempel promenera, göra graviditetsyoga eller övningar från en kurs. Om det verkligen stör kan en\ngraviditetsfysioterapeut ge skräddarsydda råd.\n\nDe flesta ryggsmärtor under graviditeten är inget att oroa sig för – men vissa symtom bör undersökas\nomedelbart, vilket är syftet med riktlinjerna nedan.",
+      "deep": null,
+      "when_to_see_doctor": "Kontakta din **husläkare eller barnmorska** omedelbart om din ryggvärk:\n\n- är **svår** eller uppstår under **andra eller tredje trimestern** (det kan ibland vara ett tecken på\n  för tidig förlossning)\n- åtföljs av **feber, blödning från slidan eller smärta när du kissar**\n- sitter **i sidan/sidorna, under revbenen**",
+      "red_flags": "- Ring **999 eller uppsök akutmottagningen** om du **förlorar känseln i benen, skinkorna eller underlivet**, eller om du förlorar\n  kontrollen över urinblåsan eller tarmarna. Detta är sällsynt, men kräver akutsjukvård."
+    },
+    "basal-body-temperature": {
+      "title": "Basal kroppstemperatur",
+      "aliases": [
+        "bbt",
+        "basaltemperaturen",
+        "uppvakningstemperatur",
+        "temperaturmetod"
+      ],
+      "glance": "Basaltemperaturen är din kroppstemperatur på morgonen i vilotillstånd, som stiger något efter ägglossningen.",
+      "overview": "Basaltemperaturen (BBT) är kroppens temperatur i fullständig vila. Om den mäts på samma sätt varje\ndag visar den en liten men talande förändring under cykeln: efter ägglossningen stiger den något och\nförblir hög fram till nästa menstruation.\n\nÖkningen är liten – cirka 0,4 till 0,8 °F (ungefär 0,2 till 0,4 °C) – så den avläses utifrån ett mönster över\nflera dagar, inte en enskild mätning. För att upptäcka den mäter du din temperatur varje morgon innan\ndu stiger upp, äter eller dricker, helst vid samma tidpunkt. Nästan alla har haft ägglossning inom cirka\ntre dagar efter att temperaturen stigit.\n\nEftersom temperaturhöjningen inträffar *efter* att ägget har släppts bekräftar BBT att ägglossningen har ägt rum snarare\nän att förutsäga den i förväg. Under några cykler kan det hjälpa dig att se hur din egen cykel ser ut,\näven om det i sig inte är ett exakt sätt att identifiera de fertila dagarna.",
+      "deep": "BBT är ett av de tecken på fertilitetsmedvetenhet som registreras dagligen, tillsammans med livmoderhalsslem och cykelns\nlängd. Det går naturligt hand i hand med slemövervakningen: övergången till klart, glatt slem tyder på att\nden fertila perioden inleds, medan temperaturhöjningen några dagar senare bekräftar att ägglossningen har\nskett. Många faktorer kan påverka vilotemperaturen – dålig sömn, sjukdom, alkohol eller att man sover länge –\nså enstaka avvikande mätvärden är mindre viktiga än den övergripande trenden.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Blödning under graviditeten",
+      "aliases": [
+        "blödning under graviditeten",
+        "vaginal blödning under graviditeten",
+        "blödningar under graviditeten",
+        "blödning under graviditeten"
+      ],
+      "glance": "Blödningar under graviditeten är inte alltid allvarliga – lätt blödning är vanligt i början – men låt alltid en läkare undersöka det.",
+      "overview": "Blödning från slidan under graviditeten är inte alltid ett tecken på att något är fel. Lätt\nblödning eller spotting är ganska vanligt, särskilt i början av graviditeten, och många graviditeter fortsätter\nutan problem efteråt.\n\nDock kan blödning ibland vara ett tecken på ett problem – till exempel ett missfall eller en utomkvedshäktig\ngraviditet – så det är något som **alltid bör undersökas**, oavsett hur mycket det blöder. Genom att\nlåta undersöka det kan man ta reda på orsaken och snabbt få rätt vård om det behövs.\n\nEftersom samma symptom kan betyda väldigt olika saker är det bästa man kan göra inte att gissa – utan att\nta kontakt och låta sig undersökas.",
+      "deep": null,
+      "when_to_see_doctor": "- **Kontakta alltid din mödravårdscentral** (eller, om du är i en graviditetsvecka under 20 eller inte har deras\n  nummer, en mottagning för tidig graviditet eller **NHS 111**) om du har **någon form av** vaginal blödning under graviditeten,\n  även om det bara är lätt blödning — så att orsaken kan undersökas.",
+      "red_flags": "- Ring **999 eller uppsök akutmottagningen** om du har **kraftig blödning** – till exempel om en bindan blir genomblöt strax efter att\n  du satt på den – särskilt om du har **svåra magsmärtor, smärta i axelbladen eller känner dig illamående, svimfärdig,\n  yr eller förlorar medvetandet.** Detta kräver akut vård."
+    },
+    "breast-awareness": {
+      "title": "Brösthälsa",
+      "aliases": [
+        "brösthälsa",
+        "bröstundersökning",
+        "självundersökning av brösten",
+        "självundersökning av brösten",
+        "bröstundersökning"
+      ],
+      "glance": "Bröstmedvetenhet handlar helt enkelt om att veta hur dina bröst normalt ser ut och känns, så att du kan upptäcka förändringar.",
+      "overview": "Bröstundersökning är ingen speciell teknik – det handlar bara om att lära känna vad som är normalt för just dig, så att\nnågot nytt sticker ut. Att regelbundet undersöka dina bröst hjälper dig att lära dig hur de brukar\nse ut och kännas; en gång i månaden är en bra frekvens.\n\nDet finns inget enda ”rätt” sätt. Många tittar i spegeln med armarna nedåt och sedan uppåt, och\nkänner på varje bröst, ända upp mot armhålan. Det du bygger upp är en känsla för dina bröst, inte en diagnos –\nmålet är bara att upptäcka en förändring tidigt om en sådan skulle inträffa.\n\nBrösten förändras också naturligt under menstruationscykeln och genom livet, så vissa förändringar är helt\nnormala. Poängen med att vara uppmärksam är att känna till ditt eget normala tillstånd tillräckligt väl för att upptäcka något som inte är det.",
+      "deep": null,
+      "when_to_see_doctor": "Uppsök en allmänläkare om du märker någon förändring som inte är normal för dig, till exempel:\n\n- en knöl eller svullnad i bröstet, bröstkorgen eller armhålan\n- en förändring i huden, till exempel gropar (det kan se ut som apelsinskal) eller rodnad\n- en förändring i storlek eller form på ett eller båda brösten\n- utsöndring från bröstvårtan (om du inte är gravid eller ammar), som kan innehålla blod\n- en förändring i bröstvårtans utseende, till exempel att den vänder sig inåt\n- smärta i bröstet eller armhålan som inte går över\n\nDe flesta förändringar i brösten är inte cancer och visar sig vara ofarliga – men det är alltid värt att låta\nundersöka en förändring så snart som möjligt, eftersom det är till hjälp att upptäcka eventuella problem i ett tidigt skede.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Amning",
+      "aliases": [
+        "amning",
+        "omvårdnad",
+        "bröstmjölk",
+        "amning",
+        "matning av ditt barn"
+      ],
+      "glance": "Bröstmjölk skyddar barnet mot infektioner och anpassar sig efterhand som barnet växer – och varje mängd har sina fördelar.",
+      "overview": "Bröstmjölk är en naturlig och fullvärdig näring för ett spädbarn: den ger den näring, de vitaminer och mineraler\nsom barnet behöver, och dess sammansättning förändras med tiden för att anpassas efter barnets utvecklingsstadium. Den bidrar också till att skydda mot infektioner\noch sjukdomar och ger vissa hälsofördelar på längre sikt.\n\nDet finns fördelar även för den som ammar – amning är bland annat kopplat till en lägre risk för bröst-\noch äggstockscancer – och generellt gäller att ju mer och ju längre du\nammar, desto större är fördelarna. Viktigt att komma ihåg är att **vilken** mängd bröstmjölk som helst är värdefull; det är\ninte en fråga om ”allt eller inget”.\n\nAtt amma ett barn kan också vara svårare än väntat i början, och det är vanligt. Det finns hjälp att få – från\ndin barnmorska, hälsovårdare och amningsstöd från NHS – så det är klokt att söka hjälp tidigt om det inte går\nsmidigt.",
+      "deep": null,
+      "when_to_see_doctor": "- Be din **barnmorska eller hälsovårdare** om hjälp redan i ett tidigt skede om amningen är smärtsam eller svår, eller\n  om du är orolig för att ditt barn inte får i sig tillräckligt – stöd kan göra stor skillnad.\n- Hur du matar ditt barn är ett personligt val, och du får stöd oavsett vad du väljer; det\n  viktigaste är att du och ditt barn mår bra.",
+      "red_flags": null
+    },
+    "cervical-mucus": {
+      "title": "Cervikalt slem",
+      "aliases": [
+        "cervikalt slem",
+        "utflöde",
+        "vaginala flytningar",
+        "livmoderhalssekret",
+        "äggviteslem"
+      ],
+      "glance": "Livmoderhalsslem är det naturliga sekretet som förändras under menstruationscykeln och markerar dina fertila dagar.",
+      "overview": "Livmoderhalsslem är den vätska som livmoderhalsen producerar och som du kan uppleva som flytningar. Det är normalt, och\ndess utseende och konsistens förändras enligt ett ganska förutsägbart mönster under cykeln – vilket är anledningen till att det är ett\nav de tecken som används för att identifiera de fertila dagarna.\n\nStrax efter mensen finns det ofta några ”torra” dagar med lite slem. När ett ägg börjar\nmogna ökar slemproduktionen och slemet tenderar att vara vitt eller gult, grumligt och klibbigt. Under dagarna strax\nföre ägglossningen blir det vanligtvis klart, vått och glatt och sträcker sig mellan fingrarna som rått\näggvita – detta är den mest fertila tiden. Efter ägglossningen blir det vanligtvis klibbigt och grumligt\nigen, eller torkar ut.\n\nAllas mönster är lite olika, och det kan ta några cykler av noggrann observation innan du lär dig\natt känna igen ditt eget. Vissa faktorer – såsom hormonella preventivmedel, amning eller en infektion – kan förändra\nslemmet, så det är inte ett tillförlitligt fertilitetsstecken för alla.",
+      "deep": "Att tolka livmoderhalsslemmet är ett av de tecken på fertilitet som människor håller koll på, tillsammans med vilotemperaturen\noch cykelns längd; det tar vanligtvis två till tre cykler att lära sig tolka dem. Till skillnad från en\ntemperaturhöjning, som bekräftar ägglossningen först efter att den har inträffat, brukar övergången till klart, glatt, äggviteaktigt\nslem oftast inträffa *före* ägglossningen, vilket är anledningen till att det används för att markera när det fertila fönstret\nöppnas snarare än efter att det har stängts.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Cervixscreening (cytologisk undersökning)",
+      "aliases": [
+        "livmoderhalscancerundersökning",
+        "cytologisk undersökning",
+        "fläck",
+        "cervixprov",
+        "cytologisk undersökning"
+      ],
+      "glance": "Livmoderhalscancerundersökning är en rutinmässig kontroll av livmoderhalsens hälsa som bidrar till att förebygga livmoderhalscancer.",
+      "overview": "Livmoderhalscancerundersökning är ett test som kontrollerar livmoderhalsens hälsa – öppningen till livmodern längst\nupp i slidan. Det är inte ett test för att upptäcka cancer. Istället är det ett sätt att upptäcka förändringar i ett tidigt skede och bidra till att\nförhindra att livmoderhalscancer utvecklas från första början.\n\nAlla som har en livmoderhals kallas in från 25 till 64 års ålder. Du får en inbjudan när\ndet är dags, med jämna mellanrum, så du behöver inte komma ihåg att boka tid på egen hand –\näven om det alltid är upp till dig om du vill gå dit eller inte.\n\nSjälva undersökningen går snabbt och utförs av en sjuksköterska. Många känner sig lite nervösa inför det, vilket är\nhelt förståeligt; att veta vad det är till för – en rutinmässig, förebyggande kontroll – kan göra att det känns\nlättare att hantera.",
+      "deep": null,
+      "when_to_see_doctor": "- Screening är till för när du **inte** har några symtom. Om du märker något som oroar dig\n  mellan screeningarna – till exempel ovanliga blödningar (mellan menstruationerna, efter samlag eller efter klimakteriet) –\n  ska du uppsöka en allmänläkare istället för att vänta på nästa inbjudan.\n- Om du har fått en inbjudan och känner dig osäker eller orolig inför besöket är det värt att prata med din husläkare eller\n  sjuksköterskan på vårdcentralen, som kan förklara vad som händer och svara på dina frågor.",
+      "red_flags": null
+    },
+    "combined-pill": {
+      "title": "Kombinationsp-piller",
+      "aliases": [
+        "kombinationspiller",
+        "p-piller",
+        "kombinerat p-piller",
+        "COC"
+      ],
+      "glance": "Kombinationsp-piller är ett piller som tas dagligen och innehåller två hormoner, och som främst verkar genom att förhindra ägglossning.",
+      "overview": "Kombinationsp-piller är en tablett som tas dagligen och innehåller två hormoner – varianter av östrogen och progestogen,\nliknande de som äggstockarna producerar. Det är en av de mest välkända formerna av preventivmedel.\n\nDet förhindrar graviditet på flera sätt samtidigt. Främst hindrar det äggstockarna från att släppa ut ett ägg\n(ägglossning). Det gör också slemmet i livmoderhalsen tjockare, vilket gör det svårare för spermier att ta sig\nigenom, och tunnar ut livmoderslemhinnan.\n\nHur väl det fungerar beror på att man tar det enligt anvisningarna: det är över 99 % effektivt vid perfekt användning, men\nvid vanlig, daglig användning – där piller ibland glöms bort eller tas för sent – är det cirka 91 %\neffektivt. Liksom de flesta preventivmetoder skyddar det inte mot sexuellt överförbara infektioner, så vissa använder även kondomer.",
+      "deep": "Kombinationsp-piller tas vanligtvis enligt ett fast schema under månaden, och hur man tar det, vem det passar för,\nsamt biverkningar och risker är saker som en läkare går igenom när det skrivs ut – det är inte\nlämpligt för alla. Eftersom det är en daglig preventivmetod beror dess faktiska effektivitet i stor utsträckning på\natt man följer rutinen. Denna artikel förklarar vad det är och hur det fungerar; detaljerna kring att börja, ta eller\nsluta med det ska diskuteras med en läkare, sjuksköterska eller apotekare.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Vanliga graviditetssymtom",
+      "aliases": [
+        "vanliga graviditetssymtom",
+        "graviditetsbesvär",
+        "halsbränna under graviditeten",
+        "ryggsmärtor under graviditeten",
+        "svullna fotleder",
+        "förstoppning under graviditeten",
+        "graviditetsbesvär"
+      ],
+      "glance": "En graviditet medför många små besvär och förändringar – de flesta är helt normala, men vissa bör man undersöka närmare.",
+      "overview": "Graviditeten innebär stora förändringar för kroppen och medför en lång rad vardagliga besvär. De flesta\när vanliga och inget tecken på att något är fel – de är helt enkelt en del av att bära ett barn.\n\nVanliga besvär är ryggvärk, halsbränna och matsmältningsbesvär, förstoppning, hemorrojder, svullna vrister, fötter\noch fingrar, trötthet och orolig sömn, kramper i benen, huvudvärk, svimningskänsla och mer flytningar än\nvanligt. Många av dessa besvär lindras med enkla åtgärder, och din barnmorska kan ge råd om vad som är säkert att göra om något\nbesvärar dig.\n\nDet är bra att veta vilka förändringar som är normala och vilka som är värda att uppmärksamma –\neftersom vissa symtom, även om de är mindre vanliga, behöver undersökas snarare än att man bara väntar ut dem.",
+      "deep": null,
+      "when_to_see_doctor": "Det mesta av detta är normalt, men kontakta omedelbart din **barnmorska eller förlossningsavdelning** om du upplever:\n\n- **blödning från slidan**, eller ett plötsligt utflöde eller sipprande av vätska\n- att ditt **barn rör sig mindre** än vanligt\n- **svår huvudvärk, synproblem eller plötslig svullnad** i ansiktet, händerna eller fötterna (möjliga\n  tecken på preeklampsi)\n- **svår eller ensidig magsmärta**, eller **hög feber**\n- **klåda**, särskilt på händer och fötter eller som förvärras på natten (det kan vara ett tecken på en\n  leversjukdom under graviditeten som behöver undersökas)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Kondomer",
+      "aliases": [
+        "kondom",
+        "kondomer",
+        "extern kondom",
+        "gummi",
+        "barriärmetoden"
+      ],
+      "glance": "Kondomer är en barriärmetod – och den enda preventivmetoden som även skyddar mot sexuellt överförbara infektioner.",
+      "overview": "En kondom är en tunn barriär – oftast av latex, eller ett plastalternativ för dem som är allergiska mot latex\n– som bärs på penis vid samlag. Den fungerar enkelt: den hindrar spermier från att tränga in i slidan.\n\nDet som gör kondomer speciella bland preventivmedlen är att de är **den enda metoden som också skyddar\nmot sexuellt överförbara infektioner (STI), inklusive HIV.** Det är därför de ofta används\ntillsammans med en annan metod – en för att förhindra graviditet, och båda tillsammans för att skydda mot infektioner.\n\nOm kondomer används korrekt varje gång är de cirka 98 % effektiva för att förhindra graviditet. Vid typisk\nanvändning – där de ibland används felaktigt eller inte varje gång – sjunker effektiviteten till cirka 82 %. Att använda\ndem på rätt sätt och konsekvent är det som gör skillnaden.",
+      "deep": "Eftersom kondomer används i stunden snarare än i förväg beror deras faktiska effektivitet\ni hög grad på att de används konsekvent och korrekt. Inre kondomer (som bärs inuti slidan) är ett annat\nbarriäralternativ. Till skillnad från de flesta metoder kräver kondomer inget recept och är lättillgängliga, och\nderas dubbla funktion – skydd mot graviditet och STI – är anledningen till att de så ofta nämns i samtal om\nsäkrare sex.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Preventivmedel",
+      "aliases": [
+        "preventivmedel",
+        "preventivmedel",
+        "familjeplanering"
+      ],
+      "glance": "Preventivmedel är de olika sätten att förhindra graviditet – och det finns många att välja mellan.",
+      "overview": "Preventivmedel – ibland kallat graviditetsskydd – är de olika metoder som används för att förhindra graviditet.\nDet finns många olika metoder, och de fungerar på olika sätt: vissa bygger på hormoner, vissa är barriärmetoder, vissa\nplaceras inuti livmodern och vissa bygger på att man följer menstruationscykeln.\n\nHur väl en metod fungerar beror till stor del på hur den används. Vissa metoder – som implantatet och\nspiralen – är av typen ”sätt in och glöm bort” och har en effektivitet på över 99 %. Andra, som p-piller eller kondomer, är\nmycket effektiva när de används perfekt, men något mindre effektiva vid vanlig, daglig användning, eftersom det är\nlättare att glömma ett p-piller eller använda en kondom felaktigt.\n\nEn sak som är värd att veta: **endast kondomer skyddar även mot sexuellt överförbara infektioner\n(STI:er)**. De andra metoderna förhindrar graviditet men inte infektioner, vilket är anledningen till att kondomer ibland\nanvänds tillsammans med en annan metod.\n\nDet finns ingen enskild ”bästa” metod – vilken som är rätt beror på din hälsa, din kropp och vad som passar\nditt liv. En allmänläkare eller en sexualhälsoklinik kan gå igenom alternativen med dig och hjälpa dig att välja.",
+      "deep": "Eftersom metoderna skiljer sig så mycket åt är det bra att fundera över vad som är viktigt för dig: hur effektiv metoden är,\nom den innebär att du måste komma ihåg något varje dag, hur länge den varar, om du vill använda hormoner eller\ninte, och om skydd mot STI är viktigt i just din situation. Många byter preventivmetod under sitt\nliv i takt med att behoven förändras. Denna kunskapsbas beskriver hur de vanligaste metoderna fungerar så att\nvalet känns tydligare – men beslutet, liksom eventuella recept eller anpassningar, ska fattas tillsammans med en\nvårdgivare.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Preventivimplantatet",
+      "aliases": [
+        "preventivimplantat",
+        "implantatet",
+        "Nexplanon",
+        "implantat"
+      ],
+      "glance": "Implantatet är en liten stav som placeras i överarmen och som avger ett hormon under några år.",
+      "overview": "Preventivimplantatet är en liten, flexibel stav – ungefär lika stor som en tändsticka – som placeras strax\nunder huden på överarmen av en utbildad vårdgivare. När det väl är på plats frigör det kontinuerligt ett progestogenhormon\noch verkar i upp till cirka tre år.\n\nDet förhindrar graviditet främst genom att hindra äggstockarna från att släppa ut ett ägg (ägglossning) och genom att\nfördjupa slemmet i livmoderhalsen så att spermier inte kan ta sig igenom. Eftersom det inte finns något att\nkomma ihåg från dag till dag är det en av metoderna av typen ”sätt in och glöm bort”.\n\nDet är också därför det är ett av de mest pålitliga alternativen: implantatet är över 99 % effektivt, och dess\neffektivitet varierar knappt mellan perfekt och typisk användning. Liksom andra hormonella metoder\nskyddar det inte mot sexuellt överförbara infektioner.",
+      "deep": "Implantatet är en långverkande, reversibel preventivmetod – det fortsätter att verka tills det tas bort, och fertiliteten\nåterkommer efter borttagningen. Insättning och borttagning är snabba ingrepp som utförs av vårdpersonal, som\nockså förklarar för vem metoden passar och vilka biverkningar den kan ha. Denna artikel beskriver vad det är och hur det\nfungerar; beslutet att skaffa ett implantat fattas i samråd med en läkare, sjuksköterska eller på en sexualhälsoklinik.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Din menscykel och ditt välbefinnande",
+      "aliases": [
+        "välbefinnande",
+        "cykling och hälsa",
+        "menstruationscykeln och hälsa",
+        "vitalparameter"
+      ],
+      "glance": "Din menscykel är lite som en månatlig hälsokontroll – det kan vara värt att lägga märke till förändringar i den.",
+      "overview": "Din menstruationscykel är inte skild från din övriga hälsa – den hänger ihop med den. En cykel\nsom är regelbunden för dig är i allmänhet ett tecken på att din kropp fungerar som den ska. Det är därför\nvissa ser mensen som en slags månatlig indikator på det allmänna välbefinnandet.\n\nVardagslivet spelar in. Kroppsvikten är ett exempel: att vara betydligt underviktig eller överviktig\nkan påverka de hormoner som styr ägglossningen, vilket kan göra menstruationerna oregelbundna. Detta gäller åt båda\nhållen – att ta hand om grundläggande saker, som en balanserad kost och att hålla sig aktiv, stöder\ncykeln, och en regelbunden cykel är ett tecken på att dessa saker är i rimlig balans.\n\nDet handlar inte om att sträva efter en ”perfekt” cykel eller att klandra sig själv för förändringar. Det handlar helt enkelt om att\natt vara uppmärksam på sin cykel kan ge en värdefull inblick i hur man mår – och vara en anledning att\nkontakta en läkare om något förändras.",
+      "deep": null,
+      "when_to_see_doctor": "- Uppsök en allmänläkare om dina menstruationer blir oregelbundna, upphör eller förändras på ett sätt som inte är normalt för dig —\n  långvariga förändringar kan ibland tyda på något som är värt att undersöka.\n- Det är också värt att prata med någon om menstruationsbesvär påverkar din vardag, så att du kan få\n  stöd istället för att bara stå ut med dem.",
+      "red_flags": null
+    },
+    "ectopic-pregnancy": {
+      "title": "Ektopisk graviditet",
+      "aliases": [
+        "utomkvedshavandeskap",
+        "ektopisk",
+        "äggledargraviditet"
+      ],
+      "glance": "En ektopisk graviditet utvecklas utanför livmodern – den kan inte fortsätta och kräver omedelbar medicinsk vård.",
+      "overview": "En ektopisk graviditet innebär att ett befruktat ägg fäster sig utanför livmodern, oftast i en av\näggledarna. Tyvärr kan en graviditet på denna plats inte utvecklas till ett barn, och den kan inte\nflyttas in i livmodern – därför måste den alltid behandlas.\n\nSymtom uppträder vanligtvis mellan ungefär vecka 4 och 12 och kan omfatta smärta långt ner på ena sidan av magen,\nvaginal blödning eller ett brunt, vattnigt flyt, smärta i axelspetsen eller obehag när\ndu kissar eller går på toaletten. Kombinationen av symtom varierar, och vissa kan lätt misstas för något mindre allvarligt,\nvilket är anledningen till att det är viktigt att få dem undersökta.\n\nDet är en ovanlig situation, men en potentiellt allvarlig sådan, så det är inte något man ska vänta ut. Att söka\nråd i ett tidigt skede innebär att det kan behandlas på ett säkert sätt.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakta din husläkare eller ring **NHS111** om du har en kombination av dessa symtom **och det finns en möjlighet att du är\n  gravid** – även om du inte har fått ett positivt graviditetstest. Det är viktigt att få råd omedelbart\n .",
+      "red_flags": "- Ring **999 eller uppsök akutmottagningen** om du har en **plötslig, skarp och intensiv smärta i magen**, känner dig **mycket\n  yr eller svimfärdig**, ser **mycket blek** ut eller mår illa i samband med detta. Detta kan betyda att äggledaren\n  har brustit – ett medicinskt nödläge som kräver omedelbar behandling."
+    },
+    "emergency-contraception": {
+      "title": "Akut preventivmedel",
+      "aliases": [
+        "akut preventivmedel",
+        "akutp-piller",
+        "dagen-efter-piller",
+        "akut-p-piller",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "Akutpreventivmedel kan förhindra graviditet efter oskyddat samlag – och ju tidigare, desto bättre.",
+      "overview": "Akutpreventivmedel är ett sätt att förhindra graviditet efter samlag utan skydd, eller när din\nvanliga preventivmetod kan ha misslyckats (en glömd p-piller, en trasig kondom). Det finns två typer, och tidpunkten\när avgörande för båda.\n\nDen första är **akutp-piller**. Det finns två typer: den ena (levonorgestrel) kan tas upp till\n3 dagar – 72 timmar – efter samlag, och den andra (ulipristalacetat, varumärke ellaOne) upp till 5 dagar –\n120 timmar. Det andra alternativet är **kopparspiralen (IUD)**, som en vårdgivare kan sätta in upp till 5 dagar\nefter samlag; det är den mest effektiva formen av akuta preventivmedel, och den kan sedan sitta kvar som\nkontinuerligt preventivmedel om du vill.\n\nFör alla dessa gäller att **ju snabbare du använder dem, desto bättre fungerar de i regel** – så det lönar sig att agera\nsnabbt istället för att vänta. Du kan få akuta preventivmedel från ett apotek, en allmänläkare, en\nsexualläkarmottagning eller en drop-in-mottagning, ofta gratis.",
+      "deep": null,
+      "when_to_see_doctor": "- Eftersom det är tidsbegränsat ska du inte vänta – en apotekare kan snabbt ge dig akuta p-piller, och\n  en sexualhälsoklinik eller en allmänläkare kan sätta in en spiral (IUD).\n- Akut preventivmedel handlar om att förhindra graviditet, inte infektioner. Om det finns någon risk för en\n  sexuellt överförbar infektion kan en sexualhälsoklinik ge råd om testning.\n- Om din mens sedan är mer än några dagar försenad, eller ser väldigt annorlunda ut än vanligt, är det värt att göra\n  ett graviditetstest och prata med en vårdgivare.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometrios",
+      "aliases": [
+        "endometrios",
+        "endo"
+      ],
+      "glance": "Endometrios är ett tillstånd där vävnad som liknar livmoderslemhinnan växer utanför livmodern, vilket ofta orsakar smärta.",
+      "overview": "Endometrios är en långvarig sjukdom där celler som liknar livmoderslemhinnan växer\ni andra delar av kroppen, till exempel runt äggstockarna, i bäckenet eller i tarmen. Det är vanligt –\nman uppskattar att det drabbar ungefär 1 av 10 kvinnor i fertil ålder världen över.\n\nEftersom denna vävnad beter sig ungefär som livmoderslemhinnan kan den orsaka inflammation och, med tiden,\närrvävnad. Det vanligaste tecknet är smärta: ofta kraftiga menssmärtor, men även smärta i bäckenet eller nedre delen av ryggen\nvid andra tillfällen, smärta under eller efter samlag samt smärta vid urinering eller avföring. Mycket rikliga menstruationer,\ndjup trötthet, nedstämdhet och svårigheter att bli gravid är också vanligt. Symtomen varierar mycket –\nvissa har svåra smärtor, andra knappt några alls.\n\nEndometrios missförstås ofta och det kan ta år att upptäcka sjukdomen, delvis eftersom menstruationssmärtor\nså ofta avfärdas som ”normala”. Svår smärta som stör ditt liv är inte något du bara måste\nstå ut med – det är värt att ta på allvar.",
+      "deep": "Den exakta orsaken till endometrios är okänd, och det finns för närvarande inget botemedel – men behandlingar kan\nhjälpa till att lindra symtomen, och stödet sträcker sig från läkemedel till, för vissa personer, kirurgi, tillsammans med\nstöd för den fysiska och känslomässiga påfrestningen. En av de största utmaningarna är fördröjningen: i genomsnitt kan det\nta flera år, ibland många, innan man får en diagnos. Det är en av anledningarna till att det kan vara så viktigt att föra noggranna anteckningar\növer dina symtom och att återvända till en läkare om du inte blir hörd.",
+      "when_to_see_doctor": "Det är värt att uppsöka en allmänläkare om:\n\n- du har svåra menssmärtor som hindrar dig från att utföra vanliga aktiviteter\n- dina menstruationer är mycket rikliga – till exempel om du måste byta bindor eller tamponger var 1–2 timmar\n- du har ihållande smärta i bäckenet eller nedre delen av ryggen, smärta under eller efter samlag, eller smärta när du kissar eller går på toaletten\n- du har svårt att bli gravid\n- tidigare behandling inte har hjälpt, eller om dina symtom har förvärrats\n\nEftersom det kan ta tid att ställa diagnosen endometrios är det okej att återkomma om dina symtom inte tas\npå allvar – en tydlig bild av hur din smärta utvecklas över tid är till hjälp. Om smärtan eller den kraftiga blödningen även\npåverkar ditt humör, berätta det för din allmänläkare; det är en del av helhetsbilden, och det finns stöd att få.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Östrogen",
+      "aliases": [
+        "östrogen"
+      ],
+      "glance": "Östrogen är ett viktigt hormon som hjälper kroppen att förbereda sig för en eventuell graviditet under varje cykel.",
+      "overview": "Östrogen är ett av de viktigaste hormonerna bakom menstruationscykeln. Under cykelns första hälft\n(follikelfasen) stiger dess nivå i takt med att en follikel i äggstocken mognar. Denna ökning gör att\nlivmoderslemhinnan blir tjockare och leder fram till ägglossningen.\n\nÖstrogen påverkar också saker som du kanske märker i vardagen – energi, humör och förändringar i\nlivmoderhalsslemmet kring dina fertila dagar. Efter ägglossningen sjunker nivån och förändras sedan igen,\noch samverkar med ett annat hormon, progesteron, under cykelns andra hälft.\n\nNivåerna stiger och sjunker naturligt under varje cykel, och de förändras också under livets olika skeden. Detta är\nnormalt – det är den rytm som din kropp följer, inte något som behöver ”åtgärdas”.",
+      "deep": "Östrogen är inte en enskild substans utan en grupp besläktade hormoner (det mest aktiva under cykeln\när östradiol). Det mesta produceras av äggstockarna, i den växande follikeln. Dess cykliska uppgång och\nnedgång – tillsammans med progesteron och hjärnans signalhormoner LH och FSH – är det som\nstyr cykelns olika faser. Eftersom östrogen påverkar många system kan dess naturliga variationer\nvisa sig i små förändringar under hela månaden; genom att följa utvecklingen lär du dig ditt eget mönster istället för att\njämföra det med ett ”genomsnitt”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Motion och din menscykel",
+      "aliases": [
+        "träning",
+        "fysisk aktivitet",
+        "träna",
+        "rörelse",
+        "motion och menstruationer"
+      ],
+      "glance": "Du kan hålla dig aktiv under hela din menstruationscykel – och regelbunden motion kan lindra kramper och PMS.",
+      "overview": "Du kan vara fysiskt aktiv när som helst under din menstruationscykel. Vissa upplever att de har mer energi och\nkan anstränga sig lite mer under vissa perioder av månaden, och mindre under andra – båda är normala, och\ninget av dem är en anledning att sluta röra på sig.\n\nRegelbunden träning kan faktiskt lindra vissa mensrelaterade besvär. Personer som tränar regelbundet\nhar ofta mindre smärtsamma kramper, och att hålla sig aktiv kan även lindra premenstruella besvär (PMS). På\ndagar när du har mindre energi räknas även lugnare rörelser – det behöver inte vara intensivt för att vara värdefullt.\n\nDet finns ingen anledning att planera ditt liv efter din cykel, och det finns inget enda ”rätt” sätt att röra på sig. Att lägga märke till\nditt eget energimönster under månaden kan helt enkelt hjälpa dig att planera på ett sätt som känns bra.",
+      "deep": null,
+      "when_to_see_doctor": "- Mycket intensiv träning, eller att träna så mycket att kroppen får brist på energi, kan leda till att menstruationen\n  blir oregelbunden eller upphör helt. En regelbunden menstruationscykel är i allmänhet ett tecken på att allt fungerar\n  som det ska, så det är värt att prata med en läkare om dina menstruationer blir oregelbundna eller upphör — detta kan på sikt ha\n  samband med benhälsa och hormonbalans.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Motion under graviditeten",
+      "aliases": [
+        "motion under graviditeten",
+        "Att hålla sig aktiv under graviditeten",
+        "träning under graviditeten",
+        "hålla sig i form under graviditeten"
+      ],
+      "glance": "Att hålla sig aktiv är säkert och bra under de flesta graviditeter – men gör det lugnt och utan att anstränga dig för mycket.",
+      "overview": "Att hålla sig aktiv under graviditeten är bra för dig och utgör ingen fara för ditt barn – tvärtom kan det\nhjälpa dig att hantera de förändringar som väntar och själva förlossningen. Du behöver inte börja med något krävande;\natt fortsätta med dina vanliga dagliga aktiviteter, så länge det känns bekvämt, är en bra utgångspunkt.\n\nEn enkel tumregel: du ska kunna **föra ett samtal** medan du rör på dig. Om du blir för\nandfådd för att prata, ta det lugnare. Lätta aktiviteter som promenader, simning, vattengymnastik för gravida och\ngravidyoga passar de flesta. Om du inte var aktiv tidigare är det inte rätt tidpunkt att börja med en\nansträngande ny träningsrutin – bygg istället upp din kondition gradvis.\n\nVissa aktiviteter bör helst undvikas eller utföras med försiktighet – till exempel att ligga platt på rygg efter\ncirka 16 veckor, kontaktsporter, dykning och allt som medför en reell risk för fall.",
+      "deep": null,
+      "when_to_see_doctor": "- Rådgör med din **barnmorska** innan du påbörjar ett nytt aerobiskt träningsprogram, eller om du har ett\n  hälsoproblem eller är orolig för din graviditet.\n- **Avbryt träningen och sök råd** om du mår dåligt, känner dig yr eller blir mycket andfådd, eller om du upplever smärta,\n  blödning eller sammandragningar under träningen.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Den fertila perioden",
+      "aliases": [
+        "fertilitetsfönster",
+        "fruktbara dagar",
+        "de mest fertila dagarna"
+      ],
+      "glance": "Den fertila perioden är de få dagarna under varje cykel då samlag kan leda till graviditet.",
+      "overview": "Det fertila fönstret är den korta perioden under cykeln då det är möjligt att bli gravid. Det beror på\ntvå tidsfaktorer som inte helt stämmer överens: ett ägg kan endast befruktas under cirka 12 till 24 timmar\nefter att det har släppts, men spermier kan överleva i kroppen i flera dagar – upp till ungefär en vecka –\ni väntan på ett ägg.\n\nSammantaget innebär det att det fertila fönstret öppnas några dagar före ägglossningen och stängs ungefär en dag\nefter den. I praktiken är du som mest fertil under de 2 till 3 dagarna före ägglossningen och på\nsjälva dagen, eftersom spermierna redan kan finnas där när ägget anländer.\n\nEftersom ägglossningen kan variera från cykel till cykel, förskjuts även det fertila fönstret. Det är därför det\nvanligtvis betraktas som ett intervall av dagar snarare än ett enskilt datum, och varför det är mer tillförlitligt att följa tecken över\nflera cykler än att förlita sig på en enda kalenderberäkning.",
+      "deep": "De exakta dagarna varierar från person till person och från månad till månad, så det är bäst att uppskatta detta fönster\nutifrån kroppens egna signaler snarare än en fast formel. Förändringar i livmoderhalsslemmet tyder på att\nfönstret öppnas när ägglossningen närmar sig, och en ökning av vilotemperaturen bekräftar – i\nefterhand – att ägglossningen har ägt rum och att fönstret har stängts. Ägglossningstester fungerar ett\nsteg tidigare och upptäcker den ökning av LH () som inträffar strax innan ägget\nsläpps.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Startperioder (första perioden)",
+      "aliases": [
+        "första perioden",
+        "första menstruationen",
+        "startperioder",
+        "att få mens"
+      ],
+      "glance": "Den första menstruationen brukar komma vid 12 års ålder – det är normalt att den kan komma när som helst mellan 8 och 17 år.",
+      "overview": "Din första mens – som ibland kallas menarche – är när menstruationscykeln börjar för första\ngången. De flesta får sin första mens runt 12 års ålder, men det är normalt att den inträffar någonstans mellan 8 och 17 år. Den kommer ofta\nungefär två år efter att brösten börjat utvecklas.\n\nDet finns oftast tecken som förebådar detta: växande hår under armarna och i underlivet, samt lite klart eller\nvitt flytande utsöndring under månaderna före. Att veta att dessa tecken kommer kan göra att den första mensen känns mindre\nplötslig.\n\nI början är menstruationerna ofta oregelbundna – intervallen kan vara långa eller korta, och det kan ta\nflera månader, till och med ett par år, för kroppen att hitta en jämnare rytm. När den väl har gjort det\nkommer menstruationerna oftast ungefär var 23:e till 35:e dag och varar i cirka 2 till 7 dagar. Tidiga\noregelbundenheter är normala och inget att oroa sig för.",
+      "deep": null,
+      "when_to_see_doctor": "- Uppsök en allmänläkare om mensen **inte har kommit vid 15 års ålder**, eller vid **13 års ålder om det inte finns några andra tecken på\n  puberteten** (som bröstutveckling eller kroppshår). Detta är bara för att kontrollera att utvecklingen går som\n  förväntat – oftast är allt som det ska.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Folsyra och vitaminer under graviditeten",
+      "aliases": [
+        "folsyra",
+        "folat",
+        "D-vitamin under graviditeten",
+        "vitaminer för gravida",
+        "kosttillskott under graviditeten"
+      ],
+      "glance": "Folsyra före och i början av graviditeten bidrar till att skydda barnet – och dessutom en daglig dos vitamin D.",
+      "overview": "Det finns två kosttillskott som är särskilt viktiga under graviditeten, och NHS rekommenderar båda.\n\n**Folsyra** är det viktigaste. Att ta ett tillskott på 400 mikrogram varje dag – helst redan innan du\nblir gravid (cirka tre månader i förväg) och fram till slutet av första trimestern, vid 12 veckor – hjälper till att\nskydda barnet mot neuralrörsdefekter såsom ryggmärgsbråck. Eftersom det verkar så tidigt är det\nen av de få sakerna som är värda att börja med *redan före* en graviditet om du försöker bli gravid.\n\n**Vitamin D** är det andra: ett dagligt tillskott på 10 mikrogram rekommenderas under hela graviditeten\noch under amningsperioden, för att stödja barnets ben och utveckling.\n\nUtöver dessa två täcker en hälsosam och varierad kost de flesta behoven – du behöver inte massor av extra kosttillskott.\nEtt som du bör undvika är **vitamin A** (retinol): ta inga kosttillskott som innehåller det och undvik\nlever, eftersom för mycket vitamin A kan skada barnet.",
+      "deep": null,
+      "when_to_see_doctor": "- En **allmänläkare, barnmorska eller apotekare** kan hjälpa dig att välja rätt kosttillskott, och vissa personer\n  rekommenderas att ta en **högre dos folsyra** (till exempel vid diabetes, högt BMI-värde, vissa\n  läkemedel eller en tidigare graviditet som drabbats av en neuralrörsdefekt) — så det är värt att fråga,\n  särskilt före eller i början av graviditeten.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Follikulärfasen",
+      "aliases": [
+        "follikulärfasen",
+        "cykelns första hälft"
+      ],
+      "glance": "Follikelfasen är den första halvan av cykeln, då ett ägg mognar och livmoderslemhinnan blir tjockare.",
+      "overview": "Follikelfasen är den första delen av cykeln. Den börjar den första dagen av mensen och\npågår fram till ägglossningen. Namnet kommer från follikeln – den lilla vätskefyllda säcken i äggstocken\nsom rymmer och utvecklar ett ägg under denna tid.\n\nUnder denna fas stiger hormonet östrogen. Det stigande östrogenet har två huvudsakliga effekter: det hjälper\nen follikel i äggstocken att mogna, och det förtjockar livmoderslemhinnan, vilket förbereder kroppen\nifall en graviditet skulle inledas senare i cykeln.\n\nEftersom östrogennivån stiger märker vissa personer att de får mer energi eller att livmoderhalsslemmet förändras när de\nfertila dagarna närmar sig. Alla upplever det på olika sätt, och inget av detta behöver ”hanteras” – det är\nhelt enkelt den första halvan av din cykel som gör sitt jobb.",
+      "deep": "Follikelfasen kan variera i längd från cykel till cykel, vilket är en av anledningarna till att hela cykler\nskiljer sig åt från person till person och från månad till månad. Den avslutas när stigande östrogennivåer bidrar till att utlösa\nutsläppet av ett ägg (ägglossning). Eftersom de sista dagarna leder fram till ägglossningen är det då det fertila\nfönstret öppnas – vilket är anledningen till att slutet av follikelfasen är viktigt för alla som följer sin fertilitet.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Livsmedel som bör undvikas under graviditeten",
+      "aliases": [
+        "mat man bör undvika under graviditeten",
+        "kost under graviditeten",
+        "Vad man inte ska äta när man är gravid",
+        "Koffein under graviditeten",
+        "listeria"
+      ],
+      "glance": "De flesta livsmedel går bra att äta under graviditeten – några bör man undvika, och det är bra att hålla koffeinintaget lågt.",
+      "overview": "Den goda nyheten är att de flesta livsmedel är helt ofarliga under graviditeten – det är bara ett fåtal som man bör\nundvika eller vara försiktig med, främst för att undvika bakterier som listeria eller för höga halter av vissa\nvitaminer. Om du känner till den korta listan kan du känna dig trygg med resten.\n\nNHSen rekommenderar att man är försiktig med:\n\n- **Vissa ostar** — mjuka ostar som mognat med mögel, som brie och camembert, samt mjuka blåmögelostar,\n  såvida de inte värms upp tills de är ångande heta; samt allt som är tillverkat av **opastöriserad** mjölk.\n- **Rått eller otillräckligt tillagat kött**, kallcharkuterier, **paté** och **lever** (som innehåller mycket\n  vitamin A).\n- **Råa eller halvkokta ägg**, såvida de inte är märkta med British Lion-märket.\n- **Vissa fiskar** — undvik haj, svärdfisk och marlin, begränsa intaget av tonfisk och ät högst två portioner\n  fet fisk per vecka.\n- **Koffein** — håll intaget under cirka 200 mg per dag (ungefär två muggar snabbkaffe), inklusive te,\n  cola, energidrycker och choklad.",
+      "deep": null,
+      "when_to_see_doctor": "- Detta är allmänna riktlinjer, inte en strikt diet – om du har frågor om vad som är säkert för dig, eller\n  om du har särskilda kostbehov, kan din **barnmorska** hjälpa dig att reda ut det.\n- Om du har ätit något som står på listan över vad du bör undvika, försök att inte få panik; nämn det för din barnmorska om\n  du är orolig eller mår dåligt.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Follikelstimulerande hormon (FSH)",
+      "aliases": [
+        "fsh",
+        "follikelstimulerande hormon",
+        "follikelstimulerande hormon"
+      ],
+      "glance": "FSH är ett hormon i hjärnan som får folliklarna i äggstockarna att växa i början av varje cykel.",
+      "overview": "FSH — follikelstimulerande hormon — är ett av de signalhormoner som sätter igång cykeln.\nDet produceras av en liten körtel i hjärnan (hypofysen) och, som namnet antyder, stimulerar det\nfolliklarna: de små vätskefyllda säckarna i äggstocken som var och en innehåller ett ägg.\n\nTidigt i cykeln stimulerar FSH en grupp av dessa folliklar att börja växa. När en follikel\nutvecklas frigör den mer östrogen, vilket i sin tur gör livmoderslemhinnan tjockare och förbereder den\nför en eventuell graviditet. Vanligtvis blir en follikel den dominerande som fortsätter mot\nägglossningen.\n\nFSH stiger och sjunker som en del av cykelns normala upp- och nedgångar. Du känner inte direkt av FSH\n— det verkar tyst i bakgrunden och förbereder de mer synliga förändringarna under follikelfasen.",
+      "deep": "FSH fungerar tillsammans med LH (); båda utsöndras av hypofysen i\nhjärnan och tillsammans styr de äggstockarnas cykel. FSH styr den första halvan av cykeln och får\nfolliklarna att växa, medan den senare ökningen av LH markerar ägglossningen i mitten av cykeln. Detta samspel är också\nanledningen till att man vid fertilitetsbehandlingar använder läkemedel som bygger på FSH: genom att tillföra extra FSH stimuleras flera folliklar att\nmognas samtidigt, istället för den enda som en naturlig cykel vanligtvis producerar.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Graviditetsdiabetes",
+      "aliases": [
+        "graviditetsdiabetes",
+        "diabetes under graviditeten",
+        "högt blodsocker under graviditeten"
+      ],
+      "glance": "Graviditetsdiabetes är förhöjt blodsocker under graviditeten – det upptäcks oftast genom screening och går ofta över efter förlossningen.",
+      "overview": "Graviditetsdiabetes är förhöjt blodsocker (glukos) som uppstår under graviditeten, när kroppen\ninte riktigt klarar av det ökade insulinbehovet. För de flesta försvinner tillståndet igen efter att\nbarnet har fötts.\n\nDet ger vanligtvis **inga symtom**, så det upptäcks genom ett screeningtest som erbjuds under graviditeten\n(ett glukostoleranstest, ofta runt vecka 24–28), särskilt om du har faktorer som ökar\nrisken för tillståndet – till exempel övervikt, diabetes i släkten, ett tidigare stort barn eller vissa\netniska bakgrunder.\n\nDet är mycket hanterbart. Att hålla blodsockret inom ett hälsosamt intervall – genom kost, motion och ibland\nläkemedel, allt under vägledning av ditt vårdteam – minskar risken för komplikationer för dig och ditt barn,\nvilket är anledningen till att det är värt att hålla koll på.",
+      "deep": null,
+      "when_to_see_doctor": "- Gå med på **screeningtestet** om det erbjuds – eftersom graviditetsdiabetes oftast inte ger några\n  symtom är det genom test som man upptäcker det.\n- Vänta inte på testet om du märker möjliga tecken på högt blodsocker – att du är väldigt törstig,\n  måste kissa ofta, har torr mun eller känner dig trött – ta upp dem med din barnmorska eller läkare.",
+      "red_flags": null
+    },
+    "group-b-strep": {
+      "title": "Streptokocker av grupp B (GBS)",
+      "aliases": [
+        "grupp B-streptokocker",
+        "GBS",
+        "grupp B-streptokocker",
+        "streptokocker av typ B under graviditeten"
+      ],
+      "glance": "Streptokocker av grupp B är en vanlig, oftast ofarlig bakterie – den lilla risken gäller barnet under förlossningen, och den går att hantera.",
+      "overview": "Streptokocker av grupp B (GBS) är en mycket vanlig bakterie som många människor bär på, oftast i slidan eller\nändtarmen, utan att veta om det och utan att det orsakar någon skada. Det är inte en sexuellt överförbar infektion,\noch det är normalt att bära på den.\n\nUnder graviditeten är det endast av betydelse eftersom det finns en **liten risk** att den kan överföras till barnet i samband med\nförlossningen och, i sällsynta fall, göra att barnet blir sjukt – detta inträffar i ungefär 1 av 1 750 graviditeter. Det\nupptäcks ofta av en slump, till exempel vid ett urinprov eller ett vaginalt prov som tas av en annan anledning (NHS\nen undersöker inte rutinmässigt alla för detta).\n\nDet betryggande är att det är mycket lätt att hantera: om man vet att GBS förekommer minskar risken för att barnet blir sjukt avsevärt genom att man får **antibiotika via\ndropp under förlossningen**.",
+      "deep": null,
+      "when_to_see_doctor": "- Om du får veta att du bär på grupp B-streptokocker – nu eller under en tidigare graviditet – **informera din barnmorska eller\n  förlossningsteamet**, så att man kan planera för antibiotikabehandling under förlossningen. Det är en enkel åtgärd som gör en\n  stor skillnad.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Halsbränna och matsmältningsbesvär under graviditeten",
+      "aliases": [
+        "halsbränna under graviditeten",
+        "matsmältningsbesvär under graviditeten",
+        "sura uppstötningar under graviditeten",
+        "reflux"
+      ],
+      "glance": "Halsbränna är mycket vanligt under graviditeten – oftast ofarligt och kan ofta lindras genom små förändringar i vardagen.",
+      "overview": "Halsbränna och matsmältningsbesvär – en brännande känsla eller obehag i bröstet, ofta efter måltider – är\nmycket vanligt under graviditeten. Det beror på att graviditetshormonerna mjukar upp muskeln längst upp i\nmagen och, senare under graviditeten, att det växande barnet trycker uppåt. Det är obehagligt, men inte skadligt.\n\nSmå förändringar hjälper ofta: att äta mindre måltider oftare istället för stora, att sitta upprätt medan\ndu äter och en stund efteråt, att dra ner på starkt kryddad, fet eller koffeinhaltig mat och dryck, och att inte äta\nför sent före sänggåendet. Vissa tycker att det är lite bekvämare att sova med huvudet något upphöjt.\n\nOm det inte räcker kan en **apotekare** föreslå antacida läkemedel som är säkra att använda under\ngraviditeten – ett bra första steg innan besvären blir allvarligare.",
+      "deep": null,
+      "when_to_see_doctor": "- Uppsök din **husläkare eller barnmorska** om enkla åtgärder och receptfria läkemedel inte hjälper, eller om du har\n  **svårt att svälja**, ständigt kräks upp mat, går ner i vikt utan att vilja det eller har\n  magont – det är värt att undersöka dessa besvär istället för att bara avfärda dem som vanlig halsbränna.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Kraftiga menstruationer",
+      "aliases": [
+        "kraftiga menstruationer",
+        "menorragi",
+        "kraftiga menstruationsblödningar",
+        "översvämning",
+        "kraftig blödning",
+        "blodproppar"
+      ],
+      "glance": "Kraftiga menstruationer innebär att man förlorar mycket blod vid varje cykel – det är vanligt, men det är värt att undersöka saken om det påverkar dig.",
+      "overview": "Kraftiga menstruationer – den medicinska benämningen är menorragi – innebär att man förlorar mycket blod under mensen.\nFör vissa är kraftig blödning helt normalt, men om det stör ditt liv eller gör att\ndu känner dig utmattad är det värt att undersöka saken.\n\nNågra tecken på att mensen är kraftig: att du behöver byta bindor eller tamponger var 1–2 timme,\natt använda två olika typer av mensprodukter samtidigt (till exempel en tampong och en binda), att blodet tränger igenom till\nkläderna eller sängkläderna, att du får blodproppar som är större än cirka 2,5 cm (ungefär en 10p-mynt) eller att mensen\nvarar i mer än 7 dagar.\n\nAtt förlora mycket blod månad efter månad kan göra dig trött eller andfådd, eftersom det kan leda\ntill järnbrist (anemi). Det finns många möjliga orsaker – från myom eller tillstånd som\nendometrios, adenomyos eller PCOS, till vissa läkemedel – och ofta hittas ingen allvarlig orsak. Oavsett\nvilket kan kraftiga menstruationer oftast behandlas, så det är inte något du bara måste leva med.",
+      "deep": null,
+      "when_to_see_doctor": "Uppsök en allmänläkare om:\n\n- kraftiga menstruationer påverkar din vardag\n- du blöder kraftigt under många timmar, eller om dina menstruationer varar länge\n- du dessutom har svåra menstruationssmärtor, eller smärta vid samlag, vid toalettbesök eller vid avföring\n- du har blödningar mellan menstruationerna eller efter samlag\n- du ofta känner dig trött eller andfådd (detta kan vara ett tecken på järnbrist)\n\nEn allmänläkare kan undersöka orsaken och diskutera vad som kan hjälpa.",
+      "red_flags": "- Sök **akut** medicinsk hjälp – ring **NHS111**, eller **999 / åk till akuten** om det är allvarligt – om du\n  **blöder så kraftigt att du blöder igenom en binda eller flera varje timme under flera timmar i rad**, eller om du\n  känner dig **svimfärdig, yr eller andfådd**. Detta kan vara tecken på att du förlorar för mycket blod."
+    },
+    "lh": {
+      "title": "Luteiniserande hormon (LH)",
+      "aliases": [
+        "lh",
+        "luteiniserande hormon",
+        "luteiniserande hormon"
+      ],
+      "glance": "LH är det hormon i hjärnan vars ökning i mitten av cykeln får äggstocken att släppa ett ägg.",
+      "overview": "LH — luteiniserande hormon — är det signalämne som sätter igång ägglossningen. Precis som FSH produceras det av en\nliten körtel i hjärnan (hypofysen) och signalerar till äggstocken när den ska släppa ut ett ägg.\n\nUnder större delen av cykelns första hälft håller sig LH-nivån låg. Sedan, ungefär i mitten av cykeln,\nstiger den kraftigt i vad som kallas LH-toppen. Denna topp är signalen som får äggstocken att\nsläppa ut sitt ägg – ägglossningen – vanligtvis ungefär en dag senare.\n\nUppgången är en kort, vältajmad signal snarare än något du skulle märka i hur du mår. Eftersom\nden inträffar så strax innan ägget släpps är tidpunkten för LH-uppgången en pålitlig markör för\nden mest fertila delen av cykeln.",
+      "deep": "LH verkar tillsammans med FSH, det hormon som får folliklarna att växa tidigare i cykeln. Medan FSH\nleder uppbyggnaden, utgör LH-ökningen vändpunkten: nivåerna börjar stiga ungefär en dag och en\nhalv innan ägget släpps och når sin topp ungefär en halv dag före detta. Efter den kraftiga ökningen går cykeln\nin i sin andra hälft. Denna exakta tidssynkronisering är anledningen till att LH är en så användbar markör för alla som följer\nägglossningen, och varför den är central för hur fertilitetsbehandlingar planeras.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Lutealfasen",
+      "aliases": [
+        "lutealfasen",
+        "cykelns andra hälft"
+      ],
+      "glance": "Lutealfasen är den andra halvan av cykeln, efter ägglossningen, då progesteronnivån stiger.",
+      "overview": "Lutealfasen är den del av cykeln som följer efter ägglossningen och pågår fram till dess att nästa menstruation\nbörjar. Den har fått sitt namn efter corpus luteum – den lilla struktur som äggstocken bildar av den tomma\nfollikeln efter att ägget har släppts.\n\nUnder denna fas stiger nivån av hormonet progesteron. Dess uppgift är att hålla livmoderslemhinnan\ntjock och stabil, så att ett befruktat ägg har någonstans att fästa sig om det anländer. Östrogen spelar\nockså en roll och samverkar med progesteron.\n\nOm ingen graviditet uppstår bryts corpus luteum ned, nivåerna av progesteron och östrogen sjunker, och\nlivmoderslemhinnan upprätthålls inte längre – vilket utlöser din nästa menstruation och startar en ny cykel. Detta är\nockså den period då vissa människor märker premenstruella förändringar i humör, sömn eller kroppen.",
+      "deep": "Lutealfasen brukar vara något mer jämn i längd än cykelns första hälft och varar ofta\nungefär två veckor, även om det finns normala variationer från person till\nperson. Eftersom dess slut är kopplat till minskningen av progesteron är menstruationens inträde i själva verket det\nsynliga tecknet på att hormonnivåerna har sjunkit. Att följa hur du mår under lutealfasen kan\nhjälpa dig att skilja mellan vad som är ett välbekant mönster för dig och vad som är nytt eller värt att ta upp med\nen läkare.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Klimakteriet",
+      "aliases": [
+        "klimakteriet",
+        "förändringen"
+      ],
+      "glance": "Klimakteriet är den tidpunkt då menstruationerna upphör för gott – ett naturligt skede som vanligtvis inträffar mellan 45 och 55 års ålder.",
+      "overview": "Klimakteriet är den tidpunkt då menstruationerna upphör för gott. Eftersom menstruationerna kan komma och gå under en\ntidsperiod i början räknas man som att man har nått klimakteriet när man har gått 12 månader i rad utan menstruation. Det inträffar vanligtvis\nmellan ungefär 45 och 55 års ålder, även om det kan ske tidigare eller senare.\n\nDet är en naturlig del av åldrandet, inte en sjukdom. Det sker när äggstockarna trappar ner sin aktivitet och nivån av\nöstrogen – ett viktigt hormon i cykeln – sjunker. Denna hormonella förändring ligger bakom de förändringar som många\nupplever: värmevallningar och nattliga svettningar, förändringar i menstruationen under upptakten, sömnsvårigheter,\nhumörsvängningar eller ångest, hjärndimma, vaginal torrhet och värk.\n\nUpplevelserna varierar enormt – vissa klarar det galant, andra har det svårt, och symtomen kan pågå i\nflera år. Inget av detta betyder att det är något fel på dig. Det finns stöd och alternativ, och\natt förstå vad som händer är ett bra första steg.",
+      "deep": "De år av förändringar som leder fram till klimakteriet kallas perimenopaus; själva klimakteriet är en enskild\ntidpunkt (den där 12-månadersperioden utan menstruation), och tiden därefter kallas ibland\npostmenopaus. Eftersom östrogen på lång sikt även påverkar benstommen och hjärtat lägger läkare\nvikt vid dessa faktorer vid sidan av de dagliga symtomen. Det finns en rad olika tillvägagångssätt – från livsstilsförändringar till\nicke-hormonella och hormonella behandlingar – som kan lindra symtomen, och vad som är rätt beror på din hälsa,\nsjukdomshistoria och dina preferenser, vilket är något du bör diskutera med en läkare.",
+      "when_to_see_doctor": "- Uppsök en allmänläkare om klimakteriebesvär stör dig eller påverkar din vardag, och du vill diskutera\n  vilka alternativ som finns.\n- **Uppsök alltid** en allmänläkare om du har **någon form av vaginal blödning efter 12 månader utan menstruation**\n  (blödning efter klimakteriet). Det är oftast inget allvarligt, men det bör alltid undersökas.\n- Det är också värt att uppsöka läkare om du blöder mer istället för mindre än tidigare, eller om dina menstruationer\n  förändras på ett sätt som oroar dig.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Menscykeln",
+      "aliases": [
+        "cykel",
+        "månadscykel"
+      ],
+      "glance": "Menscykeln är den månatliga rytmen som din kropp följer för att förbereda sig för en eventuell graviditet.",
+      "overview": "Menscykeln räknas från den första dagen i mensen – det är dag 1 – fram till dagen\ninnan nästa mens börjar. Den styrs av hormoner som stiger och sjunker i ett återkommande mönster\nvarje månad.\n\nEn cykel varar ofta omkring 28 dagar, men det är bara ett genomsnitt. Allt mellan cirka 21 och 35 dagar är\nnormalt, och din egen cykellängd kan variera lite från månad till månad. Att lära känna ditt eget mönster är\nmer användbart än att jämföra det med ett visst tal.\n\nUnder cykeln genomgår din kropp några olika faser: mensen, uppbyggnaden inför utsläppet av ett\nägg, själva utsläppet (ägglossningen) och perioden därefter. Varje fas styrs av\nhormoner, främst östrogen och progesteron.",
+      "deep": "Hela cykeln är en dialog mellan hjärnan och äggstockarna, som förmedlas via hormoner. Under den\nförsta halvan stiger östrogennivån när en follikel som innehåller ett ägg mognar i äggstocken och slemhinnan i\nlivmodern tjocknar. Ungefär i mitten av cykeln frigörs ett ägg. Under den andra halvan\nhjälper progesteron till att hålla livmoderslemhinnan redo ifall ett befruktat ägg anländer.\n\nOm ingen graviditet uppstår sjunker östrogen- och progesteronnivåerna till låga nivåer, livmoderslemhinnan stöts bort som din\nmens, och mönstret börjar om igen. Eftersom dessa hormoner påverkar många system kan du märka\nsmå förändringar från dag till dag under månaden – detta är cykelns normala rytm, inte något\nsom behöver ”åtgärdas”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstruationsfas (mens)",
+      "aliases": [
+        "period",
+        "menstruation",
+        "menstruationsfas",
+        "blödning"
+      ],
+      "glance": "Mens är de få dagar med blödning som inleder varje cykel, när livmoderslemhinnan stöts bort.",
+      "overview": "Menstruationsfasen är din mens – de dagar då du blöder. Den börjar på dag 1 i cykeln,\nnär nivåerna av östrogen och progesteron har sjunkit tillräckligt mycket för att det slemhinne som byggts upp\ninuti livmodern inte längre ska kunna bibehållas och därför lossnar och lämnar kroppen genom\nslidan.\n\nEn menstruation varar vanligtvis i cirka 2 till 7 dagar, men 5 dagar är det vanligaste. Blödningen är ofta\nkraftigast de första dagarna och avtar därefter. Menstruationen börjar vanligtvis runt 12 års ålder,\nmen det är också normalt att den börjar tidigare eller senare.\n\nVad som är ”normalt” varierar mycket från person till person. Att hålla koll på dina egna menstruationer hjälper dig att upptäcka\nvad som är vanligt för just dig, vilket är mycket mer meningsfullt än något genomsnitt.",
+      "deep": "Mensblödningen uppstår när livmoderslemhinnan (endometriet) stöts bort efter en cykel\ndär ingen graviditet har uppstått. Den markerar både slutet på en cykel och början på nästa, vilket\när anledningen till att dag 1 i din mens räknas som dag 1 i hela cykeln. När mensen avslutas\nbörjar östrogennivån stiga igen och kroppen börjar återuppbygga livmoderslemhinnan inför nästa cykel.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Missfall",
+      "aliases": [
+        "missfall",
+        "missfall",
+        "tidig missfall",
+        "att förlora ett barn under graviditeten"
+      ],
+      "glance": "Ett missfall innebär att en graviditet avbryts före den 24:e veckan – det är vanligt och nästan aldrig något som du själv har orsakat.",
+      "overview": "Ett missfall är när en graviditet avbryts under de första 24 veckorna. Det är vanligare än många\ntror, och en av de viktigaste sakerna att veta är att det nästan aldrig beror på något\ndu har gjort eller inte gjort – det beror oftast på ett problem med hur graviditeten utvecklades,\nnågot som ingen kunde påverka.\n\nDe vanligaste tecknen är blödning från slidan samt kramper eller smärta i nedre delen av magen. Blödning i\ntidigt skede av graviditeten betyder inte alltid att ett missfall är på gång – många blöder lite och får sedan\nen frisk graviditet – men det bör alltid undersökas.\n\nOavsett hur förlusten sker är de känslor som följer med den verkliga och berättigade, och sorg är en normal\nreaktion. Du behöver inte gå igenom det ensam – det finns stöd att få, både från din barnmorska eller husläkare och\nfrån organisationer som specialiserar sig på graviditetsförluster.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakta din husläkare, barnmorska eller enheten för tidig graviditet (eller ring NHS 111) om du har **blödning från slidan\n  eller lätt blödning under graviditeten**, även om blödningen är lätt och du har lite eller ingen smärta – så att det kan\n  undersökas.\n- Fråga efter din närmaste **mottagning för tidig graviditet**, som är inrättad just för detta.",
+      "red_flags": "- Ring **999 eller uppsök akutmottagningen** om du under graviditeten har **svåra magsmärtor, smärta i axelspetsen\n  , kraftiga blödningar eller känner dig yr eller mycket dålig**. Detta kan vara tecken på ett allvarligt\n  problem, till exempel en utomkvedshavandeskap, som kräver akut vård."
+    },
+    "morning-sickness": {
+      "title": "Graviditetsillamående",
+      "aliases": [
+        "graviditetsillamående",
+        "illamående under graviditeten",
+        "graviditetsillamående",
+        "kräkningar under graviditeten",
+        "hyperemesis",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "Att må illa eller vara sjuk är mycket vanligt i början av graviditeten och brukar avta omkring vecka 16 till 20.",
+      "overview": "Att känna sig illamående eller kräkas är mycket vanligt i början av graviditeten. Trots namnet ”morgonillamående”\nkan det uppstå när som helst på dygnet. För de flesta börjar det under de första veckorna och\navtar omkring vecka 16 till 20.\n\nDet är obehagligt, och för vissa påverkar det verkligen vardagen – men vanlig graviditetsillamående innebär\ningen ökad risk för ditt barn. Att äta små portioner ofta och hitta vad som hjälper just dig kan\ngöra det mer uthärdligt; en barnmorska, husläkare eller apotekare kan föreslå säkra alternativ om du har svårt att hantera det.\n\nFör ett fåtal personer blir illamåendet allvarligt (detta kallas hyperemesis gravidarum),\nmed en reell risk för uttorkning. I det fallet behövs medicinsk hjälp – se tecknen nedan.",
+      "deep": null,
+      "when_to_see_doctor": "Kontakta din barnmorska, din husläkare eller ring NHS 111 om du:\n\n- inte kan behålla mat eller dryck i magen under 24 timmar\n- har mycket mörk urin eller inte kissar på mer än 8 timmar\n- känner dig mycket svag, yr eller svimfärdig när du står upp\n- har magsmärtor, hög feber eller kräks blod\n- går ner i vikt",
+      "red_flags": "- Om du inte kan behålla vätska i magen och har mycket mörk urin eller ingen urin alls kan det tyda på att du håller på att bli uttorkad\n  (svår graviditetsillamående) — **kontakta din barnmorska, husläkare eller ring NHS 111 samma dag**, eftersom du kan\n  behöva behandling för att förhindra att tillståndet förvärras."
+    },
+    "ovulation": {
+      "title": "Ägglossning",
+      "aliases": [
+        "ägglossning",
+        "att släppa ut ett ägg",
+        "fertilt fönster"
+      ],
+      "glance": "Ägglossning är när en äggstock släpper ut ett ägg – det är den tidpunkt i cykeln då du är som mest fertil.",
+      "overview": "Ägglossning är det ögonblick då en äggstock släpper ut ett moget ägg. Det är cykelns vändpunkt: den\nförsta halvan leder fram till den, och den andra halvan följer efter den.\n\nI en cykel på cirka 28 dagar inträffar ägglossningen ofta omkring dag 14 – men tidpunkten varierar. Ett\nbra sätt att tänka på det är att ägglossningen vanligtvis inträffar någonstans mellan 10 och 16 dagar innan\ndin nästa menstruation börjar. Det kan vara svårt att fastställa den exakta dagen.\n\nNär ägget väl har frigjorts kan det befruktas under endast cirka 12 till 24 timmar. Spermier kan dock överleva\ni kroppen i flera dagar, så det ”fertila fönstret” är bredare än en enda dag – ungefär de få\ndagarna som leder fram till ägglossningen och själva dagen.",
+      "deep": "Ägglossningen utlöses av en kort, kraftig ökning av hormonnivåerna ungefär mitt i cykeln, efter\nden ökande östrogennivån under follikelfasen. Eftersom spermier kan överleva i flera dagar medan\näggcellen lever mindre än en dag, är sannolikheten för graviditet störst vid samlag dagarna strax före\nägglossningen. Ägglossningen kan variera från cykel till cykel på grund av faktorer som stress eller sjukdom, vilket är\nanledningen till att det är svårt att förutsäga den exakt och varför det är mer tillförlitligt att följa flera cykler än att förlita sig på en\nenskild beräkning.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Smärta vid samlag",
+      "aliases": [
+        "smärta vid samlag",
+        "smärtsamt samlag",
+        "dyspareuni",
+        "smärta vid samlag",
+        "vaginism"
+      ],
+      "glance": "Smärta vid samlag är vanligt, kan ha många olika orsaker och bör alltid undersökas – det finns hjälp att få.",
+      "overview": "Smärta vid samlag – som ibland kallas dyspareuni – är vanligare än många inser, och det är\naldrig något man bara måste finna sig i. Det kan finnas många orsaker, och att hitta den rätta är\nnyckeln till att lindra smärtan.\n\nVissa orsaker är fysiska. Vaginal torrhet är en vanlig orsak, ofta kopplad till hormonförändringar i samband med\nklimakteriet eller till otillräcklig upphetsning, och det kan göra att samlag känns smärtsamt eller obehagligt. Infektioner, såsom\nsvampinfektion, kan också orsaka smärta. En annan orsak är vaginism – när musklerna runt slidan\ndrar ihop sig av sig själva när man försöker tränga in, vilket kan göra samlaget smärtsamt eller kännas omöjligt.\nDetta sker ofrivilligt, det är inte ”i ditt huvud” och det går att behandla.\n\nEftersom orsaken kan vara fysisk, hormonell eller kopplad till hur avslappnad eller upphetsad du känner dig – och\nofta en kombination av dessa – är det klokt att låta undersöka saken istället för att gissa eller kämpa vidare.",
+      "deep": null,
+      "when_to_see_doctor": "- Uppsök en allmänläkare eller en sexualhälsoklinik om samlag är smärtsamt – oavsett orsaken är det värt att undersöka saken,\n  och det finns effektiv hjälp för de vanligaste orsakerna.\n- Det kan kännas pinsamt att ta upp ämnet, men vårdpersonal hanterar detta ofta och är där för att hjälpa, inte för att\n  döma. Du kan be om en kvinnlig läkare, ta med dig någon och prata igenom vad som skulle göra\n  undersökningen bekvämare.\n- Se till att få eventuella blödningar efter samlag undersökta, och uppsök vård snarare om smärtan är svår eller om du dessutom\n  mår dåligt.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Smärtlindring under förlossningen",
+      "aliases": [
+        "smärtlindring under förlossningen",
+        "epidural",
+        "gas och luft",
+        "Entonox",
+        "smärtlindring vid förlossning",
+        "födselbassäng",
+        "TENS"
+      ],
+      "glance": "Det finns flera sätt att lindra förlossningssmärtorna – det finns inget rätt eller fel val, och du kan vara flexibel.",
+      "overview": "Förlossningen ser olika ut för alla, och det finns flera sätt att hantera smärtan – från enkla\nåtgärder för att öka välbefinnandet till medicinska alternativ. Att i förväg veta vilka alternativ som finns kan hjälpa dig att känna dig mer\nförberedd.\n\nAlternativen sträcker sig från att **hålla sig aktiv och upprätt**, andnings- och avslappningstekniker, massage och att vistas i\n**vatten** (ett badkar eller en förlossningspool), till **en TENS-apparat**, **gas och luft** (Entonox, som du\nandas in själv), **injektioner** som petidin och en **epidural** (som ges av en narkosläkare och\nsom bedövar förlossningssmärtan mer fullständigt).\n\nDet finns inget ”bästa” val – det beror på dig, din förlossning och hur du mår just den dagen. Det är värt att\nanteckna dina önskemål i en **förlossningsplan**, samtidigt som du håller ett öppet sinne: många upptäcker att de vill ha\nmer eller mindre smärtlindring än de förväntat sig, och det är helt okej.",
+      "deep": null,
+      "when_to_see_doctor": "- Din **barnmorska** (och, om du väljer epidural, en narkosläkare) kommer att gå igenom alternativen med dig och hjälpa\n  dig att bestämma vad som passar dig bäst – både under graviditeten och under själva förlossningen. Du behöver inte\n  bestämma allt i förväg.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (polycystiskt ovariesyndrom)",
+      "aliases": [
+        "PCOS",
+        "polycystiskt ovariesyndrom",
+        "polycystiska äggstockar",
+        "polycystiskt ovariesyndrom"
+      ],
+      "glance": "PCOS är ett vanligt hormonellt tillstånd som kan påverka menstruationen, ägglossningen, huden och håret.",
+      "overview": "PCOS — polycystiskt ovariesyndrom — är ett vanligt tillstånd som hänger samman med balansen mellan\nde reproduktiva hormonerna. Uppskattningar tyder på att det drabbar ungefär 1 av 10 kvinnor i fertil ålder, och många\nsom har det får aldrig någon diagnos.\n\nDet kan yttra sig på olika sätt, och ingen är helt lik den andre. Vanliga kännetecken är\noregelbundna, sällsynta eller uteblivna menstruationer; förhöjda nivåer av hormoner som kallas androgener,\nvilket kan leda till ökad hårväxt i ansiktet eller på kroppen, akne eller tunnare hår på huvudet; samt\näggstockar som inte släpper ut ett ägg lika regelbundet som vanligt, vilket kan göra det svårare att bli gravid.\nViktförändringar och mörkare hudfläckar är också vanliga.\n\nDen exakta orsaken är inte helt klarlagd, och det finns inget botemedel – men symtomen går att hantera, och\natt förstå vad som händer är det första steget. PCOS är vanligt och hanterbart, inte något att\nskämmas för.",
+      "deep": "Eftersom PCOS påverkar kroppens hormoner och hur den hanterar insulin, är det på\nlängre sikt också kopplat till insulinresistens och en ökad risk för typ 2-diabetes, förhöjt blodtryck\nsamt förändringar i kolesterolvärdena – vilket är anledningen till att läkare brukar hålla ett öga på dessa faktorer över tid.\nUngefär hälften av alla som har PCOS kan utveckla diabetes eller prediabetes redan i fyrtioårsåldern, så regelbundna\nkontroller är viktiga. PCOSen är inte något man kan ställa själv: en läkare tittar på helhetsbilden\n– din sjukdomshistoria och dina menstruationer, ibland blodprover för att mäta hormoner och ibland en ultraljudsundersökning\nav äggstockarna – och utesluter andra orsaker innan en  ställs.",
+      "when_to_see_doctor": "Det är värt att uppsöka en allmänläkare om du märker symtom som stämmer överens med beskrivningen ovan, särskilt om de\npåverkar hur du mår i vardagen:\n\n- oregelbundna, mycket sällsynta eller uteblivna menstruationer\n- märkbart ökad hårväxt i ansiktet eller på kroppen, ihållande akne eller tunnare hår på huvudet\n- svårigheter att bli gravid efter att ha försökt en tid\n- viktökning som är svår att bli av med, tillsammans med andra symtom\n\nEn allmänläkare kan undersöka vad som pågår, bekräfta om det är PCOS eller något annat, och tillsammans med dig ta fram en\nplan som passar just dig. PCOS är också kopplat till nedstämdhet och ångest – om du har svårt med hur\ndu mår, berätta det också för din allmänläkare; det är en del av helhetsbilden och det finns stöd att få.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopaus",
+      "aliases": [
+        "perimenopaus",
+        "klimakteriet",
+        "förändringen"
+      ],
+      "glance": "Perimenopausen är övergångsfasen inför klimakteriet, då menstruationen och hormonerna börjar förändras.",
+      "overview": "Perimenopausen är den tidsperiod som föregår klimakteriet – åren ”runt klimakteriet”. Den\nbörjar när du först märker förändringarna och pågår fram till ett helt år efter din sista menstruation, då\ndu har nått klimakteriet. Den kan pågå i flera år.\n\nUnder denna tid producerar äggstockarna gradvis mindre östrogen, och nivåerna stiger och sjunker på ett mindre\nförutsägbart sätt än tidigare. Det vanligaste tidiga tecknet är att menstruationerna förändras – de kan komma\ntätare eller mer sällan, bli lättare eller rikligare. Många av de symtom som förknippas med klimakteriet, såsom\nvärmevallningar, sömnstörningar eller humörsvängningar, kan börja redan nu medan du fortfarande har menstruationer.\n\nEftersom det sker gradvis och varierar så mycket kan perimenopausen vara förvirrande – förändringarna inträffar inte\nalla på en gång eller i samma ordning för alla. Att veta att denna fas har ett namn, och att det är en\nnormal övergång, kan göra det lättare att förstå.",
+      "deep": null,
+      "when_to_see_doctor": "- Uppsök en allmänläkare om symtom på perimenopausen påverkar din vardag och du vill diskutera\n  vad som kan hjälpa.\n- Det är värt att låta undersöka dig om dina menstruationer blir mycket kraftiga, eller om du har blödningar mellan\n  menstruationerna eller efter samlag, så att orsaken kan fastställas.\n- Kom ihåg att du fortfarande kan bli gravid under perimenopausen, så det är värt att ta upp\n  frågan om preventivmedel med en läkare om det är aktuellt för dig.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Mensvärk",
+      "aliases": [
+        "mensvärk",
+        "mensvärk",
+        "kramper",
+        "dysmenorré",
+        "dysmenorré",
+        "smärtsamma menstruationer"
+      ],
+      "glance": "Mensvärk är kramper i nedre delen av magen i samband med mensen – det är vanligt och ofta en normal del av menstruationscykeln.",
+      "overview": "Menssmärtor är den krampaktiga, värkande känslan i nedre delen av magen som många upplever i samband med\nmens. Det uppstår när livmoderns muskelvägg dras samman och är ofta en normal del av\nmenscykeln. Den medicinska benämningen för detta är dysmenorré.\n\nDet börjar vanligtvis i början av mensen, eller strax före, och brukar pågå i upp till ungefär\ntre dagar. För vissa känns det som en mild tyngdkänsla, medan krampen är starkare för andra. Smärtan kan också\nförändras under livets gång och från cykel till cykel.\n\nMenssmärtor som följer detta välbekanta mönster är vanliga och går oftast att hantera. Många använder\nvardagliga åtgärder för att lindra besvären och enkla smärtstillande medel, och en apotekare eller husläkare kan ge råd om vad\nsom kan passa just dig. Det viktiga är att känna till ditt eget vanliga mönster – så att du märker om något\nförändras.",
+      "deep": null,
+      "when_to_see_doctor": "Det är värt att prata med en allmänläkare om:\n\n- dina menstruationer blir mer smärtsamma, rikligare eller mer oregelbundna än vanligt\n- smärtan hindrar dig från att utföra vardagliga sysslor som arbete eller skola\n- vanliga smärtstillande medel inte hjälper\n- du har smärta vid samlag, eller när du kissar eller går på toaletten\n- du blöder mellan menstruationerna\n- du har smärta vid andra tillfällen än strax före eller under mensen\n- du får ut blodproppar som är större än ett mynt (ungefär storleken på en quarter)\n- du också märker en svullen mage, minskad aptit eller viktminskning som du inte kan förklara\n\nDetta betyder inte nödvändigtvis att något är fel, men det är värt att undersöka – mensvärk som är ny,\nannorlunda eller svår att hantera kan ha orsaker som en läkare kan hjälpa till med.",
+      "red_flags": "- Begär en **brådskande** tid hos allmänläkaren eller ring **NHS 111** om din mens eller dina bäckenvärk är\n  **svåra, eller värre än vanligt, och smärtstillande medel inte har hjälpt.**"
+    },
+    "planning-pregnancy": {
+      "title": "Att planera en graviditet",
+      "aliases": [
+        "planera en graviditet",
+        "föreställning",
+        "försöker bli gravid",
+        "före graviditeten",
+        "förbereda sig inför graviditeten"
+      ],
+      "glance": "Några enkla åtgärder innan du försöker bli gravid – att ta folsyra, sluta röka och sluta dricka alkohol – ger graviditeten den bästa starten.",
+      "overview": "Om du funderar på att försöka få barn kan några åtgärder i förväg ge graviditeten en\nhälsosammare start – många av dem börjar redan innan du blir gravid.\n\nDe viktigaste är: börja ta **folsyra** (och vitamin D), **sluta röka** och **undvik alkohol**.\nAtt sträva efter en hälsosam vikt hjälper också, eftersom kraftig undervikt eller övervikt kan göra det\nsvårare att bli gravid. Det är också värt att se till att din **MMR-vaccination** är uppdaterad, eftersom vissa\ninfektioner kan påverka en graviditet.\n\nInget av detta behöver vara perfekt eller stressande. Små, vänliga förändringar i god tid är det som spelar roll —\noch att få en liten försprång är en av de finaste sakerna du kan göra för en framtida graviditet.",
+      "deep": null,
+      "when_to_see_doctor": "- Om du har ett **långvarigt hälsoproblem** eller tar **regelbundna läkemedel**, bör du kontakta din husläkare innan du\n  börjar försöka bli gravid – vissa tillstånd och läkemedel kräver särskild planering. **Sluta inte ta något receptbelagt\n  läkemedel** utan att först ha pratat med din läkare.\n- En läkare kan också ge råd om folsyra (bland annat om du behöver en högre dos) och om att uppnå en\n  hälsosam vikt före graviditeten.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Förlossningsdepression",
+      "aliases": [
+        "förlossningsdepression",
+        "förlossningsdepression",
+        "PND",
+        "förlossningsdepression",
+        "förlossningsdepression"
+      ],
+      "glance": "Förlossningsdepression är ett vanligt, behandlingsbart tillstånd med nedstämdhet efter förlossningen – det är inte ditt fel, och det finns hjälp att få.",
+      "overview": "Det är mycket vanligt att känna sig nedstämd, orolig eller irriterad under de första veckorna efter förlossningen – detta\nkallas ofta för ”babyblues” och går vanligtvis över av sig själv inom ungefär två veckor.\n\nFörlossningsdepression är något annat: en nedstämdhet som är djupare eller varar längre. Det är ett vanligt tillstånd,\ndet kan uppstå när som helst under det första året och kan även drabba pappor och partners. Tecken på detta är bland annat en\nihållande nedstämdhet, svårigheter att njuta av något, sömnproblem även när barnet sover,\noch ibland svåra känslor när det gäller att knyta an till barnet.\n\nAtt drabbas av det betyder **inte** att du är en dålig förälder eller att du inte älskar ditt barn – det är en sjukdom,\ninte ett misslyckande, och den svarar väl på stöd och behandling. Att söka hjälp tidigt är ett starkt och omtänksamt\nsteg, både för dig och ditt barn.",
+      "deep": null,
+      "when_to_see_doctor": "- Tala med din **husläkare, barnmorska eller hälsovårdare** om du tror att du kan ha förlossningsdepression,\n  eller om ”babyblues” inte har gått över efter två veckor. De har sett detta många gånger och kan\n  hjälpa dig att hitta rätt stöd.",
+      "red_flags": "- Om du har **tankar på att skada dig själv eller ditt barn**, eller att din familj skulle ha det bättre\n  utan dig, sök hjälp **omedelbart**: ring **999** eller åk till akuten, eller ring **NHS111** eller\n  Samaritans på **116 123**. Dessa tankar kan vara en del av sjukdomen, de är inte den du är, och\n  det finns akut hjälp att få."
+    },
+    "pre-eclampsia": {
+      "title": "Preeklampsi",
+      "aliases": [
+        "preeklampsi",
+        "preeklampsi",
+        "högt blodtryck under graviditeten",
+        "toxemi"
+      ],
+      "glance": "Preeklampsi är förhöjt blodtryck under graviditeten – ofta utan synliga symtom i början, vilket är anledningen till att mödravårdsbesök är så viktiga.",
+      "overview": "Preeklampsi är ett tillstånd under graviditeten som främst yttrar sig i form av högt blodtryck, tillsammans med\nprotein i urinen. Det uppträder vanligtvis från omkring vecka 20 och ibland även efter förlossningen.\n\nEn av de viktigaste sakerna att veta är att det i ett tidigt skede ofta inte ger **några symtom alls** –\ndu kan må helt bra. Det är just därför som din barnmorska kontrollerar ditt blodtryck och undersöker\ndin urin vid varje rutinmässigt mödravårdsbesök: det är genom dessa kontroller som tillståndet vanligtvis upptäcks\ninnan du själv märker något.\n\nNär symtomen väl uppträder är det viktigt att känna till dem, eftersom preeklampsi kan bli allvarligt för både dig\noch ditt barn. Sjukdomen är mycket lätt att behandla om den upptäcks i tid, och att gå på dina mödravårdsbesök regelbundet är\ndet allra bästa sättet att förebygga den.",
+      "deep": null,
+      "when_to_see_doctor": "- Se till att gå på alla dina **rutinmässiga mödravårdsbesök** — det är genom blodtrycks- och urinkontroller som\n  preeklampsi oftast upptäcks innan symtomen börjar.",
+      "red_flags": "Sök **omedelbart** läkarhjälp – kontakta din förlossningsavdelning eller ring **NHS111** – om du har\nnågot av följande symtom (ring **999** om du mår riktigt dåligt, till exempel om du får ett anfall):\n\n- **svår huvudvärk** som inte lindras av vanliga smärtstillande medel\n- **synstörningar** — suddig syn eller blinkande ljus\n- **plötslig svullnad** i ansiktet, händerna eller fötterna\n- **smärta strax under revbenen**\n- **illamående** eller att du plötsligt mår mycket dåligt"
+    },
+    "pregnancy": {
+      "title": "Graviditet",
+      "aliases": [
+        "graviditet",
+        "att vara gravid",
+        "förväntar sig",
+        "dräktighet",
+        "trimestrar",
+        "förfallodag",
+        "hur många veckor gravid"
+      ],
+      "glance": "En graviditet varar vanligtvis cirka 40 veckor, räknat från den första dagen i din senaste menstruation.",
+      "overview": "Graviditeten är den tid då din kropp växer och bär på ett barn. Den varar normalt cirka 40 veckor –\nallt mellan 37 och 42 veckor anses vara en fullgången och normal graviditet – och, kanske överraskande nog, räknas den\nfrån den första dagen i din **senaste menstruation**, inte från befruktningen. Det är helt enkelt det vanliga sättet att\nberäkna datum på.\n\nDitt **beräknade förlossningsdatum** är en uppskattning, inte en tidsgräns: barn föds gärna lite tidigare eller senare. Tidigt\nunder graviditeten kan en ”åldersbestämningsundersökning” (vanligtvis runt vecka 12) mäta ditt barn och ge ett mer exakt\ndatum, vilket ibland ändrar den ursprungliga uppskattningen.\n\nMan talar ofta om graviditeten i tre stadier, eller **trimestrar**, där varje trimester har sina egna förändringar. Under\nhela graviditeten får du regelbunden mödravård med besök hos en barnmorska (och en läkare om\ndet behövs) – en vård som hjälper dig och ditt barn att må bra.",
+      "deep": "Eftersom graviditeten räknas från den senaste menstruationen anses du vara ungefär fyra veckor gravid när\nmenstruationen uteblir. Räkningen av graviditetsveckor ligger till grund för hur vården organiseras – ultraljud, screening\noch kontrollbesök erbjuds alla vid vissa veckor. Om dina menstruationer är oregelbundna eller om du är osäker på\ndatum är det dateringsultraljudet som fastställer tidslinjen. Detta avsnitt fungerar som en karta över hela resan; de\nspecifika ämnena – tecken på graviditet, mödravård, att må bra och förlossning – har var och en sitt eget avsnitt.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Graviditetstest",
+      "aliases": [
+        "graviditetstest",
+        "hemgraviditetstest",
+        "hCG test",
+        "graviditetstest"
+      ],
+      "glance": "Ett graviditetstest för hemmabruk kontrollerar om det finns graviditetshormonet hCG i urinen – det är mest tillförlitligt från och med den första uteblivna menstruationen.",
+      "overview": "Ett graviditetstest för hemmabruk fungerar genom att det upptäcker ett hormon som kallas hCG (humant koriongonadotropin) i\ndin urin. Din kropp börjar producera det några dagar efter att ett befruktat ägg har fäst sig, och halten\nstiger snabbt i början av graviditeten.\n\nTestet är mest tillförlitligt från och med **den första dagen av en utebliven menstruation** – ungefär två veckor efter\nbefruktningen. Om du har oregelbunden cykel eller är osäker på när din menstruation ska komma, ger det ett mer tillförlitligt resultat om du väntar till\nminst 21 dagar efter oskyddat samlag. Du behöver inte testa direkt\npå morgonen; vilken tid på dagen som helst går bra.\n\nEtt **positivt** resultat är nästan säkert korrekt — mycket få tester visar positivt när du inte är\ngravid. Ett **negativt** resultat är lite mindre säkert: om din menstruation fortfarande inte kommer och du\ntror att du kan vara gravid, vänta några dagar och testa igen.",
+      "deep": null,
+      "when_to_see_doctor": "- Om du får ett positivt resultat ska du kontakta en **barnmorska eller husläkare** för att påbörja mödravården.\n- Om testresultaten är negativa men du inte har fått din mens och känner dig gravid (eller mår dåligt), ska du uppsöka en husläkare för att\n  ta reda på vad som står på.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "För tidiga värkar",
+      "aliases": [
+        "för tidiga värkar",
+        "för tidiga värkar",
+        "för tidig födsel",
+        "för tidig födsel",
+        "tidig förlossning",
+        "att vattnet går i förtid"
+      ],
+      "glance": "För tidig förlossning är en förlossning som inträffar före vecka 37 – agera snabbt, eftersom tidig vård verkligen gör skillnad.",
+      "overview": "För tidig förlossning (eller för tidiga värkar) är en förlossning som sätter igång före graviditetens 37:e vecka. Det förekommer vid\nungefär 8 av 100 förlossningar.\n\nBarn som föds för tidigt är mer utsatta, men många klarar sig bra – särskilt med den specialiserade\nvård som neonatalavdelningarna erbjuder. Det viktigaste är att agera snabbt om du tror att förlossningen kan vara på väg att sätta igång, så att du\nkan undersökas och, vid behov, få behandlingar som hjälper till att skydda barnet.\n\nTecknen liknar dem vid förlossning i vilket skede som helst, men före vecka 37 bör man aldrig vänta ut dem –\nde är alltid en anledning att omedelbart ta kontakt med sjukvården.",
+      "deep": null,
+      "when_to_see_doctor": "- Ring din **barnmorska eller förlossningsavdelningen** när som helst om du är **i vecka 37 eller tidigare** och känner dig osäker eller\n  orolig – det är alltid okej att höra av sig.",
+      "red_flags": "Kontakta din **barnmorska eller förlossningsavdelning omedelbart** – dag som natt – om du, **före vecka 37**,\nupplever något av följande:\n\n- regelbundna **sammandragningar** eller spänningar, eller mensliknande smärtor\n- en **ström eller dropp av vätska** från slidan (vattnet går)\n- **ryggvärk** som inte är vanligt för dig, eller en tryckande känsla långt ner"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (premenstruellt syndrom)",
+      "aliases": [
+        "pms",
+        "premenstruellt syndrom",
+        "premenstruell spänning",
+        "pmt"
+      ],
+      "glance": "PMS är den kombination av fysiska och känslomässiga förändringar som många upplever under den vecka eller de två veckorna före mensen.",
+      "overview": "PMS — premenstruellt syndrom — är benämningen på de förändringar som många upplever under dagarna eller de närmaste\nveckorna före mensen. Det kan drabba alla som har mens, och symtomen avtar vanligtvis inom några\ndagar efter att mensen har börjat.\n\nFörändringarna kan ta sig många olika uttryck. Fysiskt kan du uppleva uppblåsthet, ömma eller känsliga bröst,\nkramper, huvudvärk eller ökad trötthet. Känslomässigt kan det uppstå humörsvängningar, irritabilitet,\nångest eller nedstämdhet. Matbegär och sömnförändringar är också vanliga. Det är inte alla som drabbas av PMS,\noch de som gör det upplever inte nödvändigtvis alla symtom – det är ditt eget mönster som är avgörande.\n\nPMS är en normal och erkänd del av många människors cykel, kopplad till de naturliga hormonförändringarna under\nden andra halvan. Att lägga märke till hur det yttrar sig hos dig, cykel efter cykel, kan göra det lättare att planera\nrunt det – och att upptäcka om det någonsin förändras.",
+      "deep": null,
+      "when_to_see_doctor": "Det är värt att prata med en allmänläkare om:\n\n- dina symtom påverkar din vardag – arbete, studier, relationer\n- vardagliga förändringar i dina rutiner inte har hjälpt\n- din nedstämdhet, ångest eller irritabilitet känns allvarlig\n\nEn läkare kan gå igenom vad som kan hjälpa. En allvarligare form, som kallas premenstruell dysforisk\nstörning (PMDD), kan orsaka mycket starkare humörsymtom, och det finns stöd att få för detta.",
+      "red_flags": "- Om du har symtom på PMDD och **känner självmordstankar eller att du inte kan skydda dig själv**,\n  sök hjälp omedelbart: **ring 999 eller åk till akutmottagningen.** Kör inte själv – be någon att köra\n  dig, eller be om en ambulans. Du förtjänar stöd, och det finns hjälp att få."
+    },
+    "progesterone": {
+      "title": "Progesteron",
+      "aliases": [
+        "progesteron"
+      ],
+      "glance": "Progesteron är det hormon som dominerar under cykelns andra hälft och förbereder livmoderslemhinnan efter ägglossningen.",
+      "overview": "Progesteron är ett av de viktigaste hormonerna bakom menstruationscykeln och spelar en avgörande roll under\nden andra halvan – efter att ett ägg har släppts vid ägglossningen.\n\nDess huvudsakliga uppgift är att se till att livmoderslemhinnan förblir tjock och mottaglig, så att ett\nbefruktat ägg kan fästa sig och en graviditet kan inledas. På så sätt fungerar progesteron som\nen partner till östrogen, som stod för en stor del av uppbyggnaden tidigare i cykeln.\n\nOm ingen graviditet uppstår sjunker progesteronnivåerna. Det är denna sänkning som gör att livmoderslemhinnan stöts bort\nsom din nästa menstruation. Progesteronets upp- och nedgång under cykelns andra hälft är en\nnormal, förväntad rytm.",
+      "deep": "Progesteron produceras främst av gulkroppen – den struktur som äggstocken bildar av\nfollikeln efter att den har släppt ut sitt ägg. Det är därför som progesteronnivån stiger just under lutealfasen\n(efter ägglossningen). När gulkroppen bryts ned sjunker både progesteron- och östrogennivåerna,\nvilket signalerar början på en ny cykel. Dessa naturliga svängningar är en del av anledningen till att vissa upplever\nförmenstruella förändringar dagarna före menstruationen.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "P-piller som endast innehåller gestagen (minipiller)",
+      "aliases": [
+        "p-piller som endast innehåller gestagen",
+        "minipiller",
+        "POP",
+        "p-piller som endast innehåller progesteron",
+        "desogestrel-piller"
+      ],
+      "glance": "Minipillen är en tablett som tas dagligen och som innehåller ett hormon som gör livmoderhalsslemmet tjockare för att hindra spermier från att tränga in.",
+      "overview": "P-piller som endast innehåller gestagen – ofta kallat minipiller – är en tablett som tas dagligen och som endast innehåller ett\nhormon, nämligen gestagen. Det är ett alternativ för personer som inte kan eller helst inte vill ta östrogen.\n\nDess huvudsakliga verkan är att göra slemmet i livmoderhalsen tjockare, så att det blir svårare för spermierna att nå ett\nägg. En vanlig typ, desogestrelp-p-piller, förhindrar också att äggstockarna släpper ut ett ägg\n(ägglossning).\n\nOm det tas korrekt är det över 99 % effektivt; vid typisk daglig användning ligger effektiviteten på cirka 91 %. Precis som med andra\npiller är tidpunkten viktig, och det skyddar inte mot sexuellt överförbara infektioner.",
+      "deep": "Minipillen skiljer sig från kombinationspillen genom att den inte innehåller östrogen, vilket påverkar vilka den kan passa –\nnågot som vårdpersonalen tar hänsyn till vid förskrivningen. Vissa typer måste tas inom ett ganska\nsnävt tidsfönster varje dag för att vara effektiva. Denna artikel beskriver vad det är och hur det fungerar; hur man tar det\noch om det är rätt för dig är frågor som en läkare, sjuksköterska eller apotekare kan svara på.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "signs-of-labour": {
+      "title": "Tecken på förlossning",
+      "aliases": [
+        "tecken på förlossning",
+        "arbete",
+        "att få värkar",
+        "sammandragningar",
+        "vattnet går",
+        "programmet",
+        "latent fas"
+      ],
+      "glance": "Tecken på att förlossningen är på väg att sätta igång är bland annat regelbundna sammandragningar, att ”muddern” lossnar, ryggont eller att vattnet går.",
+      "overview": "Det finns några tecken på att förlossningen kan vara på väg att börja. Det viktigaste tecknet är sammandragningar – en känsla av att magen dras ihop\nsom uppträder regelbundet och blir starkare. Andra tecken är att ”plugg” (slemproppen från\nlivmoderhalsen lossnar), ihållande ryggvärk, behov av att gå på toaletten och att vattnet går.\n\nInnan den aktiva förlossningen börjar finns det ofta en tidig (”latent”) fas, då livmoderhalsen mjuknar och börjar\nöppna sig. Denna del kan ta timmar eller till och med dagar, och för många går det bra att stanna hemma och ha det bekvämt\nunder tiden, vila och se till att dricka tillräckligt.\n\nAlla förlossningar börjar lite olika, så du behöver inte bocka av varje tecken. När du\ntror att det börjar är din barnmorska eller förlossningsavdelningen där för att vägleda dig om vad du ska göra och\nnär du ska komma in.",
+      "deep": null,
+      "when_to_see_doctor": "- Ring din **barnmorska eller förlossningsavdelningen** för råd när du tror att förlossningen har börjat, eller när\n  värkarna är **regelbundna – ungefär var 5:e minut**. Om du inte får tag på din barnmorska, ring\n  **NHS 111**.",
+      "red_flags": "Ring din **barnmorska eller förlossningsavdelningen omedelbart** – oavsett om det är dag eller natt, vänta inte – om:\n\n- **vattnet går** (särskilt om vätskan är grön, brun eller luktar illa)\n- du har **någon form av vaginal blödning**\n- ditt **barn rör sig mindre än vanligt**\n- du har tecken på förlossning och är **mindre än 37 veckor gravid**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Tecken på graviditet",
+      "aliases": [
+        "tecken på graviditet",
+        "tidiga graviditetssymtom",
+        "Är jag gravid?",
+        "graviditetssymtom"
+      ],
+      "glance": "En utebliven menstruation är ofta det första tecknet på graviditet, ibland tillsammans med illamående, trötthet eller ömma bröst.",
+      "overview": "För många är det första tecknet på graviditet en **utebliven mens**. Men alla kroppar är olika, och vissa märker\nandra tidiga tecken först – ofta efter cirka 4 till 6 veckor.\n\nVanliga tidiga tecken är illamående eller kräkningar (när som helst på dygnet, inte bara på morgonen), bröst\nsom känns större eller ömma, ovanlig trötthet och behov av att kissa oftare. Vissa märker också\nen metallisk smak, en ny känslighet för vissa lukter eller att de inte längre tycker om mat som de normalt gillar.\n\nInget av dessa tecken i sig betyder att du definitivt är gravid – många överlappar med de vanliga upp- och\nnedgångarna under menstruationscykeln – och alla upplever inte dessa symtom. Det enda sättet att vara säker är att göra ett graviditetstest.",
+      "deep": null,
+      "when_to_see_doctor": "- Om ett test visar positivt resultat, kontakta en **barnmorska eller husläkare** för att tidigt påbörja din graviditetsvård (förlossningsvård).\n- Om din mens är försenad och testerna visar negativt resultat men symtomen kvarstår, är det värt att vända sig till en\n  husläkare för att undersöka vad det annars kan bero på.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Rökning under graviditeten",
+      "aliases": [
+        "rökning under graviditeten",
+        "sluta röka under graviditeten",
+        "sluta röka under graviditeten",
+        "e-cigaretter under graviditeten"
+      ],
+      "glance": "Att sluta röka är en av de bästa sakerna du kan göra för ditt barn – och det är aldrig för sent.",
+      "overview": "Att sluta röka är en av de mest effektiva åtgärderna du kan vidta för att ge ditt barn en hälsosam start i livet.\nVarje cigarett begränsar syretillförseln till ditt barn, vilket gör att barnets hjärta måste arbeta hårdare och kan\nhämma barnets tillväxt.\n\nRökning under graviditeten ökar risken för allvarliga problem, bland annat missfall, för tidig födsel,\nlåg födelsevikt, dödfödelse och plötslig spädbarnsdöd (SIDS) efter födseln. Passiv\nrökning spelar också roll, så ett rökfritt hem är till hjälp.\n\nDet uppmuntrande är att det **aldrig är för sent**. Att sluta när som helst under graviditeten hjälper, och att sluta\ntidigt ger störst nytta. Det kan vara riktigt svårt, vilket är precis varför det finns gratis hjälp – och\natt utnyttja den ökar chansen att lyckas avsevärt.",
+      "deep": null,
+      "when_to_see_doctor": "- Fråga din **barnmorska** om **gratis stöd för att sluta röka från NHS** — utbildade rådgivare (varav vissa\n  är specialiserade på graviditet) kan hjälpa dig, och det finns även en hjälplinje från Smokefree. Att söka hjälp är ett\n  tecken på att du tar hand om ditt barn, inte ett misslyckande.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Fläckblödning och blödning mellan menstruationerna",
+      "aliases": [
+        "upptäcka",
+        "blödning mellan menstruationerna",
+        "blödning mellan menstruationerna",
+        "mellanblödning",
+        "blödning efter samlag"
+      ],
+      "glance": "Spotting är lätt blödning mellan menstruationerna eller efter samlag – ofta inget allvarligt, men det är alltid värt att låta undersöka.",
+      "overview": "Spotting innebär lätt blödning som uppstår mellan menstruationerna eller efter samlag, utanför den normala\nmenscykeln. Det är vanligt och oftast inget allvarligt – men eftersom det kan ha flera orsaker,\när det alltid värt att låta en läkare undersöka saken.\n\nDet finns många vardagliga orsaker till detta. Att börja med eller använda hormonella preventivmedel är en vanlig orsak.\nAndra orsaker kan vara små, ofarliga utväxter i eller runt livmodern (polyper eller myom), ofarliga förändringar\npå livmoderhalsens yta, vaginal torrhet eller en infektion som klamydia.\n\nEftersom samma symptom kan ha olika orsaker – de flesta av dem lindriga – är det klokast\ninte att gissa, utan att låta undersöka det så att du får reda på vad som ligger bakom just i ditt fall.",
+      "deep": null,
+      "when_to_see_doctor": "- Uppsök en allmänläkare eller en sexualhälsoklinik **varje gång du har blödningar mellan menstruationerna eller efter samlag**,\n  även om blödningen är lätt. Det är oftast inget allvarligt, men genom att låta undersöka det kan man ta reda på orsaken\n  – och det är det bästa sättet att tidigt utesluta mindre vanliga orsaker.",
+      "red_flags": "- Begär en **brådskande** tid hos allmänläkaren eller ring **NHS 111** om du har **utebliven menstruation och\n  onormala blödningar tillsammans med smärta i magen eller bäckenet** — detta kräver omedelbar undersökning, eftersom det kan vara ett\n  tecken på en utomkvedshavandeskap."
+    },
+    "stillbirth": {
+      "title": "Dödfödelse",
+      "aliases": [
+        "dödfödelse",
+        "dödfödd",
+        "förlust av ett barn",
+        "förlust i slutet av graviditeten",
+        "barn som föds död"
+      ],
+      "glance": "Dödfödelse innebär att man förlorar ett barn efter 24 veckor – det är ovanligt, aldrig ditt fel och något som alltid möts med stöd.",
+      "overview": "Ett dödfött barn är ett barn som föds dött efter 24 veckors graviditet. (En förlust före 24 veckor\nkallas missfall.) Det är ovanligt – ungefär 1 av 250 födslar – men för de familjer som\ndrabbas är det en djup sorg, och all vård som följer syftar till att stödja er\nvarsamt genom denna svåra tid.\n\nIbland hittas en orsak – till exempel ett problem med moderkakan eller barnets utveckling, eller ett\nhälsotillstånd – och ibland, trots undersökningar, **hittas ingen orsak alls**. Oavsett orsaken är en\ndödfödelse inte något som en förälder har orsakat eller kunde ha vetat hur man skulle förhindra.\n\nEn sak hjälper verkligen till att minska risken, och det är enkelt: **att omedelbart meddela din barnmorska\nom ditt barns rörelser avtar eller förändras.** Utöver det spelar de vardagliga sakerna – att gå på\ngraviditetskontroller, att inte röka, att undvika alkohol och att sova på sidan från och med vecka 28 – alla\nen viktig roll.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakta din **barnmorska eller förlossningsavdelning omedelbart** – när som helst, dag som natt – om ditt **barn\n  rör sig mindre än vanligt eller om rörelserna känns annorlunda.** Vänta aldrig för att se om det går över; att\n  låta sig undersökas är precis det rätta att göra, och det är aldrig till besvär.\n- Efter en förlust finns specialiserade barnmorskor och sorgteam där för dig – för besluten,\n  de praktiska åtgärderna och sorgen. Du behöver inte gå igenom något av detta ensam, och stödgrupper\n  för förlust av barn finns tillgängliga så länge du behöver dem.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stress, livet och mensen",
+      "aliases": [
+        "stress och menstruation",
+        "stress",
+        "utebliven menstruation",
+        "sen period",
+        "Varför är min mens försenad?"
+      ],
+      "glance": "Stress, stora viktförändringar eller mycket träning kan fördröja eller utebli en mens – ofta bara under en kortare tid.",
+      "overview": "Det är vanligt att mensen kommer sent eller uteblir en månad, och orsaken har ofta mer att göra\nmed livet i allmänhet än med att något är fel. Stress är en vanlig orsak – samma system som reagerar\npå påfrestningar kan påverka de hormoner som styr din menstruationscykel.\n\nAndra vardagliga faktorer kan också påverka menstruationen: en stor viktförändring (upp eller ner), att träna mycket\neller att vara utmattad. Hormonella förändringar – till exempel när man närmar sig klimakteriet eller\ntillstånd som PCOS – kan också ligga bakom, liksom graviditet och vissa preventivmedel. Ofta varierar\nintervallet mellan menstruationerna helt enkelt lite då och då, och det är normalt.\n\nDet som är betryggande är att en enstaka försenad eller utebliven menstruation vanligtvis inte är något att oroa sig för, och\nsaker och ting brukar ofta stabilisera sig i takt med att livet går vidare. Det som är värt att hålla ett öga på är ett mönster av förändringar snarare än en enskild\nmånad.",
+      "deep": null,
+      "when_to_see_doctor": "Uppsök en allmänläkare om:\n\n- du har uteblivit **tre menstruationer i rad**, eller om dina menstruationer har blivit **oregelbundna**\n- dina menstruationer **upphör** och du inte vet varför (det kan vara en graviditet, så det är värt att göra ett test först)\n- uteblivna menstruationer åtföljs av andra förändringar — som oväntade viktförändringar, trötthet, ökad hårväxt\n  eller nedstämdhet\n\nDessa undersökningar syftar bara till att ta reda på vad som ligger bakom förändringen — vilket oftast är något\nsom går att hantera.",
+      "red_flags": null
+    },
+    "the-coil": {
+      "title": "Spolen (IUD och IUS)",
+      "aliases": [
+        "spole",
+        "spolen",
+        "IUD",
+        "IUS",
+        "kopparspiral",
+        "hormonell spiral",
+        "spiral",
+        "intrauterint system",
+        "Mirena"
+      ],
+      "glance": "Spiralen är en liten anordning som placeras i livmodern – antingen en kopparspiral (IUD) eller en hormonspiral (IUS) – och som sitter kvar i flera år.",
+      "overview": "Spiralen är en liten anordning som en läkare sätter in i livmodern. Det finns två typer, och det är bra att\nkunna skilja dem åt:\n\n- **IUD**, eller kopparspiralen, innehåller inga hormoner. Kopparn förändrar förhållandena i livmodern så\n  att spermier och ägg inte klarar sig särskilt bra, och den påverkar även livmoderhalsslemmet. Beroende på typ\n  fungerar den i cirka 5 till 10 år.\n- **IUS**, eller hormonspiralen, avger ett gestagen istället för att använda koppar. Den gör\n  cervixslemmet tjockare och livmoderslemhinnan tunnare; för vissa kan den också göra menstruationerna\n  mycket lättare.\n\nBåda är metoder av typen ”sätt in och glöm bort” och båda har en effektivitet på över 99 %, med liten skillnad mellan\nperfekt och typisk användning. Ingen av dem skyddar mot sexuellt överförbara infektioner.",
+      "deep": "Spiralerna är långverkande, reversibla preventivmetoder: när de väl har satts in fortsätter de att verka i flera år, och fertiliteten\nåterkommer efter att de har tagits bort. Insättning och borttagning utförs av en utbildad vårdgivare och tar bara\nnågra minuter, även om vissa upplever insättningen som obehaglig. Ett vanligt skäl till att man väljer mellan\nde två är deras inverkan på menstruationen – kopparIUDen kan göra menstruationen rikligare i början, medan den\nhormonella IUSen ofta gör den lättare. Vilken som passar dig bäst avgörs i samråd med en läkare; här\nförklaras bara hur de fungerar.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Tvilling- och flerlingsgraviditet",
+      "aliases": [
+        "tvillingar",
+        "tvillinggraviditet",
+        "flerbarnsgraviditet",
+        "väntar tvillingar",
+        "enäggstvillingar",
+        "olika tvillingar",
+        "trillingar"
+      ],
+      "glance": "Att man väntar tvillingar upptäcks oftast vid den första ultraljudsundersökningen, och det innebär lite mer mödravård.",
+      "overview": "Att man väntar fler än ett barn upptäcks oftast vid **graviditetsultraljudet** (runt vecka 12),\nvilket också kan visa om barnen delar på samma moderkaka.\n\nDet finns två huvudtyper. **Enäggstvillingar** kommer från ett enda befruktat ägg som delar sig, vilket innebär att de\ndelar samma gener och alltid är av samma kön. **Icke-identiska** tvillingar kommer från två separata\nägg och liknar varandra inte mer än andra syskon; de är den vanligaste av de två typerna och förekommer\nnågot oftare hos äldre kvinnor, vid familjehistoria på moderns sida eller efter fertilitetsbehandling.\n\nAtt vara gravid med tvillingar eller fler barn är en helt egen upplevelse, och det innebär vanligtvis **lite mer mödravård** –\nextra besök och ultraljud för att noga övervaka dig och dina barn. Ditt barnmorsketeam kommer att\nförklara vad du kan förvänta dig.",
+      "deep": null,
+      "when_to_see_doctor": "- Om en ultraljudsundersökning visar att du väntar tvillingar (eller fler) kommer din **barnmorska** att informera dig om de extra kontrollerna och\n  ultraljudsundersökningarna som ingår i en flerlingsgraviditet – att gå på alla dessa är det bästa sättet att se till att du får\n  den vård du behöver.",
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Vaginal torrhet",
+      "aliases": [
+        "vaginal torrhet",
+        "torrhet",
+        "vaginal atrofi"
+      ],
+      "glance": "Vaginal torrhet är vanligt, ofta kopplat till hormoner, och kan orsaka ömhet eller obehag vid samlag.",
+      "overview": "Vaginal torrhet är ett vanligt besvär som många upplever någon gång. Det uppstår när den\nnormala fuktigheten som håller slidan behaglig minskar, och det kan kännas som ömhet,\nklåda eller obehag – inklusive smärta eller obehag vid samlag.\n\nDet är ofta kopplat till hormoner, särskilt en minskning av östrogen. Därför är det vanligt kring\nklimakteriet och perimenopausen, men det kan också uppstå under amning, vid användning av vissa läkemedel (såsom\nvissa preventivmedel eller antidepressiva) eller när man inte är tillräckligt upphetsad före samlag. Det är\ninget att skämmas för – det är en fysisk åkomma, inte en reflektion av dig eller din\nrelation.\n\nAtt veta att det är vanligt och oftast mycket lätt att behandla är en bra utgångspunkt. Det finns enkla alternativ\nsom kan hjälpa, och en läkare eller apotekare kan vägleda dig till vad som passar just dig.",
+      "deep": null,
+      "when_to_see_doctor": "Uppsök en allmänläkare om:\n\n- vaginal torrhet besvärar dig eller inte går över efter några veckor\n- det påverkar ditt dagliga liv eller ditt sexliv\n- du dessutom har onormalt flyt eller blödningar efter samlag, mellan menstruationerna eller efter klimakteriet\n\nDu behöver inte bara finna dig i det – det finns hjälp att få, och en läkare kan undersöka vad som\nligger bakom besvären och vad som kan lindra dem.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Hälsa i slidan och på vulva",
+      "aliases": [
+        "vaginal hälsa",
+        "vulvans hälsa",
+        "intimhygien",
+        "hålla rent",
+        "sköljning",
+        "utflöde"
+      ],
+      "glance": "Slidan rengör sig själv – det räcker med skonsam vård på utsidan, och flytningar är helt normalt.",
+      "overview": "En av de mest betryggande sakerna att veta är att slidan sköter sig själv. Den är naturligt\nsjälvrengörande, och det flytning du märker är en del av det – en vätska som håller den ren och fuktig\noch hjälper till att skydda den mot infektioner. Mängden och konsistensen förändras under cykeln, vilket är\nhelt normalt.\n\nDärför behöver slidan inte tvättas inuti. Att tvätta inuti den –\n”sköljning” – kan faktiskt störa dess naturliga balans. Utsidan (vulvan) behöver bara skonsam vård: varmt\nvatten och, om du vill, en mild, oparfymerad tvål. Parfymerade tvålar, geler, deodoranter och doftande\nvåtservetter bör helst undvikas, eftersom de kan orsaka irritation.\n\nAtt lära känna vad som är normalt för dig – ditt vanliga flyt, utseende och känsla – gör det lättare att\nmärka om något förändras och kanske behöver undersökas.",
+      "deep": null,
+      "when_to_see_doctor": "Uppsök en allmänläkare eller en sexualhälsoklinik om du märker:\n\n- en förändring i ditt flyt – färg, lukt eller konsistens, eller om det är betydligt mer än vanligt\n- klåda, ömhet eller irritation kring slidan eller vulvan\n- blödning mellan menstruationerna eller efter samlag\n- smärta vid urinering, eller smärta lågt ner mellan magen och låren (bäckenvärk)\n\nDessa besvär är vanliga och kan ofta behandlas enkelt — en förändring i flytningen kan helt enkelt bero på en lindrig infektion\nsom till exempel svampinfektion. Att låta undersöka det är det bästa sättet att få veta säkert, istället för att gissa.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Cykel och dess faser",
+      "summary": "Hur din cykel går igenom menstruationsfasen, follikelfasen, ägglossningsfasen och lutealfasen."
+    },
+    "hormones": {
+      "title": "Hormoner",
+      "summary": "De signalämnen som styr din cykel — östrogen, progesteron, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Fruktbarhet och ägglossning",
+      "summary": "Den fertila perioden, tecken på ägglossning och vad som påverkar fertiliteten."
+    },
+    "contraception": {
+      "title": "Preventivmedel",
+      "summary": "Hur olika metoder fungerar, förklarat på ett lättbegripligt sätt."
+    },
+    "symptoms-and-signals": {
+      "title": "Symtom och kroppssignaler",
+      "summary": "Smärta, blödningar, flytningar, humörsvängningar – vad din kropp kanske försöker säga dig."
+    },
+    "conditions": {
+      "title": "Villkor",
+      "summary": "PCOSa, endometrios, myom och mer – förklarat med källhänvisningar."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Sexuell och intim hälsa",
+      "summary": "Intimt välbefinnande, komfort och vanliga frågor."
+    },
+    "life-stages": {
+      "title": "Livets olika faser",
+      "summary": "Från den första menstruationen till perimenopausen och menopausen."
+    },
+    "wellbeing": {
+      "title": "Välbefinnande och cykeln",
+      "summary": "Hur sömn, stress och vardagen påverkar din menstruationscykel."
+    },
+    "tests-and-exams": {
+      "title": "Prov och tentor",
+      "summary": "Självundersökning av brösten, livmoderhalscancerundersökning, ägglossningstester och mycket mer."
+    },
+    "pregnancy": {
+      "title": "Graviditet",
+      "summary": "Tidiga tecken, att må bra, varningssignaler och missfall – förklarat, med källor."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Lär dig mer om din menstruationscykel i 5 steg",
+      "summary": "En lugn genomgång av hela cykeln och var och en av dess fyra faser."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Att lära sig mer om ägglossningen",
+      "summary": "Vad ägglossning är, det fertila fönstret och de tecken som kroppen ger."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormonerna som styr din menstruationscykel",
+      "summary": "Lär känna de fyra drivkrafterna som driver cykeln – och vad var och en av dem gör."
+    }
+  }
+}

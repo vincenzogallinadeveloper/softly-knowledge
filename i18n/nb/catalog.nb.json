@@ -1,0 +1,994 @@
+{
+  "_meta": {
+    "lang": "nb",
+    "is_source": false,
+    "source_content_checksum": "3d041d4d3a5acb4667dcd299321f28f894e8f11442758e2cc190e89b1220677a",
+    "review": "Machine-translated (DeepL) from en — needs native review.",
+    "partial": false
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohol i svangerskapet",
+      "aliases": [
+        "alkohol i svangerskapet",
+        "alkoholbruk under svangerskapet",
+        "alkohol og graviditet",
+        "føtalt alkohol",
+        "FASD"
+      ],
+      "glance": "Det tryggeste er å ikke drikke alkohol i svangerskapet eller når man prøver å bli gravid.",
+      "overview": "Rådene fra «NHS» er klare og enkle: Den tryggeste fremgangsmåten er **å ikke drikke alkohol i det hele tatt** hvis du er\ngravid eller prøver å bli gravid. Å avstå fra alkohol holder risikoen for barnet ditt på et minimum.\n\nÅrsaken er at alkohol overføres fra blodet ditt, gjennom morkaken, til barnet ditt – hvis lever\nikke er utviklet nok til å bryte den ned. Å drikke under svangerskapet kan føre til føtalt alkoholspektrum\nsyndrom (FASD), en rekke livslange vansker med læring, atferd og utvikling.\n\nHvis du drakk før du visste at du var gravid, bør du prøve å ikke bekymre deg: risikoen for barnet ved små\nmengder tidlig i svangerskapet er sannsynligvis lav. Det viktigste er ganske enkelt å unngå alkohol resten av\nsvangerskapet fra nå av.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvis du synes det er vanskelig å slutte å drikke, er det ingenting å skamme seg over – snakk med jordmoren din eller\n  fastlegen din. De kan gi deg støtte uten å dømme deg, og det er bra for både deg og babyen din å få hjelp.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Svangerskapsomsorg",
+      "aliases": [
+        "svangerskapsomsorg",
+        "svangerskapsomsorg",
+        "svangerskapsomsorg",
+        "jordmorbesøk",
+        "bestille time",
+        "svangerskapskontroller"
+      ],
+      "glance": "Svangerskapsomsorg er de regelmessige kontrollene gjennom svangerskapet som bidrar til at både du og barnet ditt har det bra.",
+      "overview": "Svangerskapsomsorg er den omsorgen du får under svangerskapet for å sikre at du og barnet ditt holder dere så sunne som\nmulig. Du vil vanligvis møte en jordmor, og også en lege hvis du trenger det. Det lønner seg å starte tidlig:\nta kontakt med jordmoren din eller fastlegen din så snart du vet at du er gravid.\n\nDin første ordentlige time – «innmeldingstimen» – er vanligvis mellom 8. og 12. uke. Etter\ndet blir du tilbudt regelmessige kontroller: minst 10 konsultasjoner og 2 ultralydundersøkelser hvis det er ditt\nførste barn, eller rundt 7 hvis du har født før, med flere mot slutten.\n\nVed disse besøkene sjekker jordmoren blodtrykket og urinen din, måler magen din for å følge\nbabyens vekst, tilbyr screeningtester og snakker med deg om babyens bevegelser og hvordan du\nhar det. Mange viktige ting – som svangerskapsforgiftning eller svangerskapsdiabetes – oppdages her\nfør du selv merker noe, og det er nettopp derfor disse kontrollene er så viktige.",
+      "deep": null,
+      "when_to_see_doctor": "- Ta kontakt med en **jordmor eller fastlege så snart du finner ut at du er gravid**, slik at oppfølgingen kan starte tidlig —\n  helst i god tid før den første timeavtalen, som vanligvis finner sted rundt 10. til 12. uke.\n- Prøv å møte opp til **alle** svangerskapskontrollene dine, selv om du føler deg helt frisk — flere av undersøkelsene\n  er ment å oppdage skjulte problemer på et tidlig stadium.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Babyens bevegelser",
+      "aliases": [
+        "babyens bevegelser",
+        "babyens bevegelser",
+        "fosterbevegelser",
+        "spark",
+        "å kjenne at babyen beveger seg",
+        "begrensede bevegelser"
+      ],
+      "glance": "Når du kjenner at babyen beveger seg, er det et tegn på at alt står bra til — hvis bevegelsene avtar eller endrer seg, må du umiddelbart kontakte jordmoren din.",
+      "overview": "Å kjenne at babyen beveger seg, er et av de betryggende tegnene på at alt går bra med den. De fleste begynner å\nkjenne bevegelser et sted mellom 16. og 24. svangerskapsuke – ofte senere i et første svangerskap, så\ndet er vanlig at man kjenner det først etter 20. uke første gang.\n\nDet er ikke noe fast antall bevegelser du «bør» kjenne, og det er ikke nødvendig å telle sparkene opp mot et bestemt mål.\nHver baby er forskjellig, og det som teller er å bli kjent med **din** babys eget vanlige mønster\ngjennom dagen – når den er aktiv og når den er rolig.\n\nNår du kjenner dette mønsteret, er det endringer i det du bør være oppmerksom på. Stol på det du vet\nom din egen baby.",
+      "deep": null,
+      "when_to_see_doctor": "Det er ved å bli kjent med babyens normale mønster at du kan legge merke til en endring. Hvis du noen gang er usikker på\nom bevegelsene har blitt færre eller endret seg, er det alltid riktig å ringe og sjekke – du vil aldri\nkaste bort noens tid.",
+      "red_flags": "- Hvis babyen din **beveger seg mindre enn vanlig, bevegelsene endrer seg, eller du ikke kjenner at den beveger seg**,\n  **må du umiddelbart ringe jordmoren din eller fødeavdelingen** — uansett tidspunkt på døgnet. **Ikke vent\n  til neste dag**, selv om det er midt på natten.\n- Ikke stol på en hjerteslagsmåler (doppler) for hjemmebruk eller en app for å berolige deg selv — få det sjekket\n  ansikt til ansikt."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Ryggsmerter under svangerskapet",
+      "aliases": [
+        "ryggsmerter under svangerskapet",
+        "ryggsmerter under svangerskapet",
+        "ryggsmerter hos gravide",
+        "ryggsmerter under svangerskapet"
+      ],
+      "glance": "Ryggsmerter er svært vanlig under svangerskapet, ettersom leddbåndene blir mykere og magen vokser — dette er vanligvis ufarlig.",
+      "overview": "Ryggsmerter er et av de vanligste plagene under svangerskapet. Når kroppen din forbereder seg på fødselen, blir\nleddbåndene naturlig mykere og strekker seg, og den voksende magen endrer måten du fordeler vekten på —\nbegge deler legger ekstra belastning på korsryggen og bekkenet.\n\nHverdagslige tiltak kan lindre smertene: vær oppmerksom på holdningen din når du står, sitter og løfter;\nbruk flate sko med god støtte; en fast madrass eller en støttende pute; og mild, regelmessig bevegelse\nsom gåturer, graviditetsyoga eller øvelser fra et kurs. Hvis det virkelig blir et problem, kan en\nfødselsfysioterapeut gi deg skreddersydd rådgivning.\n\nDe fleste tilfeller av ryggsmerter under svangerskapet er ikke noe å bekymre seg for – men noen få symptommønstre bør undersøkes\nraskt, og det er nettopp det veiledningen nedenfor er ment for.",
+      "deep": null,
+      "when_to_see_doctor": "Ta umiddelbart kontakt med **fastlegen eller jordmoren** hvis ryggsmertene dine:\n\n- er **sterke**, eller oppstår i **andre eller tredje trimester** (det kan noen ganger være et tegn på\n  tidlig fødsel)\n- ledsages av **feber, blødning fra skjeden eller smerter når du tisser**\n- sitter **i siden(e), under ribbeina**",
+      "red_flags": "- Ring **999 eller oppsøk akuttmottaket** hvis du **mister følelsen i bena, baken eller kjønnsorganene**, eller mister\n  kontrollen over blæren eller tarmen. Dette skjer sjelden, men krever akuttbehandling."
+    },
+    "basal-body-temperature": {
+      "title": "Basal kroppstemperatur",
+      "aliases": [
+        "bbt",
+        "basal kroppstemperatur",
+        "oppvåkningstemperatur",
+        "temperaturmetode"
+      ],
+      "glance": "Basaltemperaturen er kroppstemperaturen din om morgenen i hvile, som stiger litt etter eggløsningen.",
+      "overview": "Basaltemperatur (BBT) er kroppstemperaturen din når du er helt i ro. Målt på samme måte hver\ndag viser den en liten, men avslørende endring gjennom syklusen: etter eggløsningen stiger den litt og\nholder seg høy frem til neste menstruasjon.\n\nStigningen er liten – rundt 0,4 til 0,8 °F (omtrent 0,2 til 0,4 °C) – så den avleses ut fra et mønster over\nflere dager, ikke en enkelt måling. For å fange opp endringen må du måle temperaturen hver morgen før\ndu står opp, spiser eller drikker, helst til samme tid. Nesten alle har hatt eggløsning innen omtrent\ntre dager etter at temperaturen har steget.\n\nFordi temperaturstigningen kommer *etter* at egget er sluppet ut, bekrefter «BBT» at eggløsningen har funnet sted, snarere\nenn å forutsi den på forhånd. Over noen få sykluser kan det hjelpe deg å se mønsteret i din egen syklus,\nselv om det i seg selv ikke er en presis måte å identifisere de fruktbare dagene på.",
+      "deep": "BBT er et av tegnene på fruktbarhet som registreres daglig, sammen med livmorhalsslim og sykluslengde.\nDet henger naturlig sammen med overvåking av livmorhalsslim: Endringen til klart, glatt slim tyder på at\ndet fruktbare vinduet åpner seg, mens temperaturstigningen noen dager senere bekrefter at eggløsningen har\nfunnet sted. Mange ting kan påvirke hviletemperaturen – dårlig søvn, sykdom, alkohol eller å sove lenge –\nså enkeltstående avvikende målinger har mindre betydning enn den generelle trenden.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Blødning under svangerskapet",
+      "aliases": [
+        "blødning under svangerskapet",
+        "vaginal blødning under svangerskapet",
+        "blødning under svangerskapet",
+        "blødning under svangerskapet"
+      ],
+      "glance": "Blødning under svangerskapet er ikke alltid alvorlig – lett blødning er vanlig i begynnelsen – men du bør alltid få det undersøkt.",
+      "overview": "Blødning fra skjeden under svangerskapet er ikke alltid et tegn på at noe er galt. Lett\nblødning eller flekker er ganske vanlig, særlig tidlig i svangerskapet, og mange svangerskap fortsetter\nhelt normalt etterpå.\n\nNår det er sagt, kan blødning noen ganger være et tegn på et problem – for eksempel spontanabort eller ektopisk\nsvangerskap – så dette er noe som **alltid bør undersøkes**, uansett hvor mye det er. Ved å\nfå det undersøkt, finner man årsaken og får raskt riktig behandling hvis du trenger det.\n\nSiden det samme symptomet kan bety svært forskjellige ting, er det ikke lurt å gjette – det beste er å\nta kontakt og bli undersøkt.",
+      "deep": null,
+      "when_to_see_doctor": "- **Ta alltid kontakt med fødeavdelingen** (eller, hvis du er under 20 uker på vei eller ikke har\n  nummeret deres, en avdeling for tidlig graviditet eller **NHS 111**) hvis du har **noen form for** blødning fra skjeden under svangerskapet,\n  selv om det bare er lett flekking — slik at årsaken kan undersøkes.",
+      "red_flags": "- Ring **999 eller oppsøk akuttmottaket** hvis du har **kraftig blødning** — for eksempel hvis et bind blir gjennomvåt kort tid etter\n  at du har satt det på — spesielt hvis du har **sterke magesmerter, smerter i skulderbladet, eller føler deg kvalm, svimmel,\n  eller mister bevisstheten.** Dette krever akutt behandling."
+    },
+    "breast-awareness": {
+      "title": "Brysthelse",
+      "aliases": [
+        "brysthelse",
+        "brystselvundersøkelse",
+        "selvundersøkelse av brystene",
+        "selvundersøkelse av brystene",
+        "brystundersøkelse"
+      ],
+      "glance": "Brystbevissthet handler ganske enkelt om å vite hvordan brystene dine normalt ser ut og føles, slik at du legger merke til endringer.",
+      "overview": "Brystselvundersøkelse er ikke en spesiell teknikk – det handler bare om å bli kjent med hva som er normalt for deg, slik\nat eventuelle endringer blir lagt merke til. Å undersøke brystene dine regelmessig hjelper deg å bli kjent med hvordan de vanligvis\nser ut og føles; en gang i måneden er et godt intervall.\n\nDet finnes ikke én «riktig» måte å gjøre det på. Mange ser seg i speilet med armene nede og deretter løftet, og\nføler på hvert bryst, helt opp til armhulen. Det du bygger opp er kjennskap, ikke en diagnose —\nmålet er bare å oppdage en endring tidlig, hvis det skulle skje.\n\nBrystene endrer seg også naturlig gjennom syklusen og livet, så noen endringer er helt\nnormale. Poenget med å være oppmerksom er å kjenne din egen normal tilstrekkelig godt til å oppdage noe som ikke er det.",
+      "deep": null,
+      "when_to_see_doctor": "Oppsøk fastlegen hvis du merker endringer som ikke er normale for deg, for eksempel:\n\n- en knute eller hevelse i brystet, brystkassen eller armhulen\n- en endring i huden, som for eksempel fordypninger (det kan se ut som appelsinskall) eller rødhet\n- en endring i størrelsen eller formen på det ene eller begge brystene\n- utflod fra brystvorten (hvis du ikke er gravid eller ammer), som kan inneholde blod\n- en endring i utseendet på brystvorten, for eksempel at den vender innover\n- smerter i brystet eller armhulen som ikke forsvinner\n\nDe fleste forandringer i brystene er ikke kreft og viser seg å være ufarlige – men det er alltid lurt å få en\nforandring undersøkt raskt, for hvis noe krever oppfølging, er det en fordel å oppdage det tidlig.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Amning",
+      "aliases": [
+        "amming",
+        "sykepleie",
+        "morsmelk",
+        "amning",
+        "å mate babyen din"
+      ],
+      "glance": "Morsmelk beskytter barnet mot infeksjoner og tilpasser seg etter hvert som barnet vokser — og uansett mengde har den positive effekter.",
+      "overview": "Morsmelk er et naturlig og fullverdig næringsmiddel for en baby: den gir den ernæringen, vitaminene og mineralene\nde trenger, og sammensetningen endrer seg over tid for å tilpasses barnets utviklingsstadium. Den bidrar også til å beskytte mot infeksjoner\nog sykdommer, og gir noen helsemessige fordeler på lengre sikt.\n\nDet er også fordeler for den som ammer – amming er blant annet knyttet til lavere risiko for bryst-\nog eggstokkreft – og generelt gjelder det at jo mer og jo lenger du\nammer, desto større er fordelene. Det er viktig å merke seg at **enhver** mengde morsmelk er verdifull; det er\nikke et spørsmål om «alt eller ingenting».\n\nÅ amme en baby kan også være vanskeligere enn forventet i begynnelsen, og det er vanlig. Det finnes hjelp å få – fra\njordmor, helsesøster og ammeveiledning på NHS – så det er lurt å ta kontakt tidlig hvis det ikke går\nslik du hadde håpet.",
+      "deep": null,
+      "when_to_see_doctor": "- Be **jordmoren eller helsesøsteren** om hjelp så tidlig som mulig hvis amming er smertefullt eller vanskelig, eller\n  hvis du er bekymret for at babyen din ikke får nok mat — støtte kan gjøre en stor forskjell.\n- Hvordan du ammer babyen din, er et personlig valg, og du får støtte uansett hva du velger; det\n  viktigste er at både du og babyen din har det bra.",
+      "red_flags": null
+    },
+    "cervical-mucus": {
+      "title": "Livmorhalsslim",
+      "aliases": [
+        "cervikalt slim",
+        "utløp",
+        "vaginal utflod",
+        "livmorhalssekresjoner",
+        "eggehviteaktig slim"
+      ],
+      "glance": "Livmorhalsslim er det naturlige utflodet som endrer seg gjennom syklusen og markerer de fruktbare dagene dine.",
+      "overview": "Livmorhalsslim er væsken som livmorhalsen produserer, og som du kanskje oppfatter som utflod. Det er helt normalt, og\nutseendet og konsistensen endrer seg etter et ganske forutsigbart mønster gjennom syklusen – og det er derfor det er et\nav tegnene som brukes til å identifisere de fruktbare dagene.\n\nRett etter mensen er det ofte noen få «tørre» dager med lite slim. Når et egg begynner å\nmodnes, øker slimproduksjonen, og slimet blir gjerne hvitt eller gult, grumset og klebrig. I dagene rett\nfør eggløsningen blir det vanligvis klart, vått og glatt, og strekker seg mellom fingrene som rå\neggehvite – dette er den mest fruktbare tiden. Etter eggløsningen blir det typisk klissete og grumset\nigjen, eller tørker inn.\n\nMønsteret er litt forskjellig fra person til person, og det kan ta noen sykluser med oppmerksom observasjon å lære å kjenne\nditt eget. Noen faktorer – som hormonell prevensjon, amming eller en infeksjon – kan endre\nslimet, så det er ikke et pålitelig fruktbarhetstegn for alle.",
+      "deep": "Å tolke livmorhalsslim er et av tegnene på fruktbarhet som folk følger med på, sammen med hviletemperatur\nog sykluslengde; det tar vanligvis to til tre sykluser å lære seg dette. I motsetning til en temperaturøkning,\nsom bekrefter eggløsningen først etter at den har funnet sted, opptrer endringen til klart, glatt, eggehviteaktig\nslim vanligvis *før* eggløsningen, og det er derfor det brukes til å markere det fruktbare vinduet når det\nåpner seg, snarere enn etter at det har lukket seg.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Livmorhalskreftundersøkelse (celleprøve)",
+      "aliases": [
+        "livmorhalskreftscreening",
+        "celleprøve",
+        "smøre",
+        "cervikaltest",
+        "celleprøve"
+      ],
+      "glance": "Livmorhalskreftscreening er en rutinemessig undersøkelse av livmorhalsens helse som bidrar til å forebygge livmorhalskreft.",
+      "overview": "Livmorhalsundersøkelse er en test som sjekker helsetilstanden til livmorhalsen – åpningen til livmoren øverst\ni skjeden. Det er ikke en krefttest. I stedet er det en måte å oppdage forandringer på et tidlig stadium og bidra til\nå forhindre at livmorhalskreft utvikler seg i utgangspunktet.\n\nAlle med livmorhals blir invitert fra de er 25 til 64 år. Du får tilsendt en invitasjon når\ndet er på tide, med jevne mellomrom, slik at du ikke trenger å huske å bestille time ut av det blå –\nselv om det alltid er ditt valg om du vil gå.\n\nSelve undersøkelsen går raskt og utføres av en sykepleier. Mange føler seg litt nervøse for det, noe som er\nhelt forståelig; å vite hva det er til – en rutinemessig, forebyggende undersøkelse – kan gjøre at det føles\nlettere å takle.",
+      "deep": null,
+      "when_to_see_doctor": "- Screening er ment for når du **ikke** har symptomer. Hvis du oppdager noe som bekymrer deg\n  mellom screeningene – for eksempel uvanlig blødning (mellom menstruasjonene, etter samleie eller etter overgangsalderen) –\n  bør du oppsøke fastlegen i stedet for å vente på neste innkalling.\n- Hvis du har fått en innkalling og er usikker eller engstelig for å gå dit, er det lurt å snakke med fastlegen din eller\n  helsesøster, som kan forklare hva som skjer og svare på spørsmålene dine.",
+      "red_flags": null
+    },
+    "combined-pill": {
+      "title": "Kombinasjonspillen",
+      "aliases": [
+        "kombinasjonspille",
+        "p-pillen",
+        "kombinert p-pille",
+        "COC"
+      ],
+      "glance": "Kombinasjonspillen er en daglig pille som inneholder to hormoner og som hovedsakelig virker ved å hindre eggløsning.",
+      "overview": "Kombinasjonspillen er en daglig tablett som inneholder to hormoner – varianter av østrogen og progestogen,\nsom ligner på de som eggstokkene produserer. Det er en av de mest kjente formene for prevensjon.\n\nDen forhindrer graviditet på flere måter samtidig. Hovedsakelig hindrer den eggstokkene i å frigjøre et egg\n(eggløsning). Den tykner også slimhinnen i livmorhalsen, noe som gjør det vanskeligere for sædceller å komme\ngjennom, og tynner ut livmorslimhinnen.\n\nHvor godt den virker, avhenger av at man tar den som foreskrevet: den er over 99 % effektiv ved perfekt bruk, men\nved vanlig, daglig bruk – der piller noen ganger blir glemt eller tatt for sent – er den rundt 91 %\neffektiv. Som de fleste metoder beskytter den ikke mot seksuelt overførbare infeksjoner, så noen bruker også kondomer.",
+      "deep": "Kombinasjonspillen tas vanligvis etter et fast mønster gjennom måneden, og hvordan den skal tas, hvem den passer for,\nsamt bivirkninger og risikoer er ting som en helsepersonell går gjennom når den forskrives — den er ikke\negnet for alle. Siden det er en daglig prevensjonsmetode, avhenger den faktiske effektiviteten i stor grad av\nrutine. Denne artikkelen forklarer hva den er og hvordan den virker; detaljene rundt å starte, ta eller\nslutte med den bør diskuteres med fastlege, sykepleier eller farmasøyt.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Vanlige graviditetssymptomer",
+      "aliases": [
+        "vanlige graviditetssymptomer",
+        "graviditetsplager",
+        "halsbrann under svangerskapet",
+        "ryggsmerter under svangerskapet",
+        "hovne ankler",
+        "forstoppelse under svangerskapet",
+        "svangerskapsplager"
+      ],
+      "glance": "Graviditet medfører mange små plager og forandringer — de fleste er helt normale, men noen få bør man sjekke opp.",
+      "overview": "Graviditeten medfører store forandringer i kroppen din, og den kommer med en lang liste over småplager i hverdagen. De fleste\ner vanlige og ikke et tegn på at noe er galt – de er bare en del av å bære frem et barn.\n\nNoen vanlige plager er ryggsmerter, halsbrann og fordøyelsesbesvær, forstoppelse, hemoroider, hovne ankler, føtter\nog fingre, tretthet og urolig søvn, kramper i bena, hodepine, svimmelhet og mer utflod enn\nvanlig. Mange av disse lindres med enkle tiltak, og jordmoren din kan gi deg råd om hva som er trygt å gjøre hvis noe\nplager deg.\n\nDet er nyttig å vite hvilke forandringer som er helt normale, og hvilke som bør tas opp –\nfor noen få symptomer, selv om de er mindre vanlige, bør undersøkes i stedet for å bare vente til de går over.",
+      "deep": null,
+      "when_to_see_doctor": "De fleste av disse symptomene er normale, men ta umiddelbart kontakt med **jordmoren eller fødeavdelingen** hvis du opplever:\n\n- **blødning fra skjeden**, eller en plutselig strøm eller drypp av væske\n- at **babyen beveger seg mindre** enn vanlig\n- **kraftig hodepine, synsproblemer eller plutselig hevelse** i ansiktet, hendene eller føttene (mulige\n  tegn på preeklampsi)\n- **sterke eller ensidige magesmerter**, eller **høy feber**\n- **kløe**, spesielt på hender og føtter, eller som er verre om natten (det kan være et tegn på en\n  leversykdom under svangerskapet som må undersøkes)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Kondomer",
+      "aliases": [
+        "kondom",
+        "kondomer",
+        "eksternt kondom",
+        "gummi",
+        "barriere-metode"
+      ],
+      "glance": "Kondomer er en barriereprevensjonsmetode – og den eneste prevensjonsformen som også beskytter mot seksuelt overførbare sykdommer.",
+      "overview": "Et kondom er en tynn barriere – vanligvis laget av lateks, eller et plastalternativ for de som har lateksallergi\n– som brukes på penis under samleie. Det fungerer enkelt: det hindrer sædceller i å komme inn i skjeden.\n\nDet som gjør kondomer spesielle blant prevensjonsmidler, er at de er **den eneste metoden som også beskytter\nmot seksuelt overførbare infeksjoner (SOI), inkludert HIV.** Derfor brukes de ofte\nsammen med en annen metode – én for å forhindre graviditet, og begge to for å beskytte mot infeksjoner.\n\nBrukt riktig hver gang er kondomer omtrent 98 % effektive når det gjelder å forhindre graviditet. Ved vanlig\nbruk – der de noen ganger brukes feil eller ikke hver gang – synker effektiviteten til rundt 82 %. Å bruke\ndet riktig og konsekvent er det som gjør hele forskjellen.",
+      "deep": "Siden kondomer brukes i øyeblikket og ikke på forhånd, avhenger deres faktiske effektivitet\ni stor grad av konsekvent og riktig bruk. Interne kondomer (som brukes inne i skjeden) er et annet\nbarrierealternativ. I motsetning til de fleste metoder krever kondomer ingen resept og er lett tilgjengelige, og\nderes doble funksjon – beskyttelse mot graviditet og STI – er grunnen til at de så ofte nevnes i samtaler om\ntryggere sex.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Prevensjon",
+      "aliases": [
+        "prevensjon",
+        "prevensjon",
+        "familieplanlegging"
+      ],
+      "glance": "Prevensjon er de ulike måtene å forhindre graviditet på – og det finnes mange å velge mellom.",
+      "overview": "Prevensjon — noen ganger kalt svangerskapsforebygging — er betegnelsen på de ulike metodene som brukes for å forhindre graviditet.\nDet finnes mange av dem, og de virker på forskjellige måter: Noen bruker hormoner, noen er barrieremetoder, noen\nplasseres inne i livmoren, og noen baserer seg på å følge med på syklusen.\n\nHvor godt en metode virker, avhenger i stor grad av hvordan den brukes. Noen metoder — som implantatet og\nspiralen — er av typen «sett inn og glem», og har en effektivitet på over 99 %. Andre, som p-pillen eller kondomer, er\nsvært effektive når de brukes perfekt, men litt mindre effektive ved vanlig, daglig bruk, fordi det er\nlettere å glemme en pille eller bruke et kondom feil.\n\nEn ting det er verdt å vite: **kun kondomer beskytter også mot seksuelt overførbare infeksjoner\n(SOI)**. De andre metodene forhindrer graviditet, men ikke infeksjon, og det er derfor kondomer noen ganger\nbrukes sammen med en annen metode.\n\nDet finnes ikke én «beste» metode – den rette avhenger av helsen din, kroppen din og hva som passer\ntil livet ditt. En fastlege eller en seksualhelseklinikk kan gå gjennom alternativene med deg og hjelpe deg med å velge.",
+      "deep": "Siden metodene varierer så mye, kan det være nyttig å tenke gjennom hva som er viktig for deg: hvor effektiv metoden er,\nom den innebærer at du må huske på noe hver dag, hvor lenge den varer, om du ønsker hormoner eller\nikke, og om beskyttelse mot «STI» er viktig i din situasjon. Mange bytter metode i løpet av\nlivet etter hvert som behovene endrer seg. Denne kunnskapsbasen beskriver hvordan de vanligste metodene fungerer, slik at\nvalgene blir tydeligere – men beslutningen, samt eventuell resept eller tilpasning, må tas i samråd med en\nhelsepersonell.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Prevensjonsimplantatet",
+      "aliases": [
+        "prevensjonsimplantat",
+        "implantatet",
+        "Nexplanon",
+        "implantat"
+      ],
+      "glance": "Implantatet er en liten stav som settes inn i overarmen og som frigjør et hormon i noen år.",
+      "overview": "Prevensjonsimplantatet er en liten, fleksibel stav – omtrent på størrelse med en fyrstikk – som settes inn like\nunder huden på overarmen av en kvalifisert helsepersonell. Når det er på plass, frigjør det jevnlig et progestogen\nhormon og virker i opptil omtrent tre år.\n\nDet forhindrer graviditet hovedsakelig ved å hindre eggstokkene i å frigjøre et egg (eggløsning), og ved å\ngjøre slimhinnen i livmorhalsen tykkere, slik at sædceller ikke kan trenge gjennom. Fordi det ikke er noe å\nhuske på fra dag til dag, er det en av metodene man kan «sette inn og glemme».\n\nDet er også grunnen til at det er et av de mest pålitelige alternativene: implantatet har en effektivitet på over 99 %, og\neffektiviteten varierer knapt mellom perfekt og typisk bruk. I likhet med andre hormonelle metoder\nbeskytter det ikke mot seksuelt overførbare infeksjoner.",
+      "deep": "Implantatet er en langvirkende, reversibel prevensjonsmetode – det virker helt til det fjernes, og fruktbarheten\nkommer tilbake etter fjerning. Innsetting og fjerning er raske inngrep som utføres av helsepersonell, som\nogså forklarer hvem det passer for og hvilke bivirkninger det kan ha. Denne artikkelen forklarer hva det er og hvordan det\nfungerer; beslutningen om å få det innsatt tas i samråd med fastlege, sykepleier eller en klinikk for seksuell helse.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Menstruasjonssyklusen din og ditt velvære",
+      "aliases": [
+        "velvære",
+        "sykling og helse",
+        "menstruasjonssyklus og helse",
+        "livstegn"
+      ],
+      "glance": "Menstruasjonssyklusen din er litt som en månedlig helsesjekk – det kan være lurt å legge merke til endringer i den.",
+      "overview": "Menstruasjonssyklusen din er ikke atskilt fra resten av helsen din – den henger sammen med den. En syklus\nsom er regelmessig for deg, er vanligvis et tegn på at kroppen din fungerer som den skal. Derfor\nser noen på mensen som en slags månedlig indikator på den generelle velvære.\n\nHverdagen spiller inn. Kroppsvekt er ett eksempel: å være betydelig under- eller overvektig\nkan påvirke hormonene som styrer eggløsningen, noe som kan føre til uregelmessig menstruasjon. Dette går begge\nveier – å ta vare på det grunnleggende, som et balansert kosthold og å holde seg aktiv, støtter\nsyklusen, og en jevn syklus er et tegn på at disse tingene er i rimelig balanse.\n\nDette handler ikke om å jakte på en «perfekt» syklus eller å klandre deg selv for endringer. Det handler ganske enkelt om at\nå være litt oppmerksom på syklusen din kan gi et nyttig innblikk i hvordan du har det – og være en påminnelse om å\nta kontakt med en helsepersonell hvis noe endrer seg.",
+      "deep": null,
+      "when_to_see_doctor": "- Oppsøk fastlegen hvis menstruasjonen din blir uregelmessig, uteblir eller endrer seg på en måte som ikke er vanlig for deg —\n  vedvarende endringer kan noen ganger tyde på noe det er verdt å undersøke nærmere.\n- Det er også verdt å ta en prat med legen hvis menstruasjonsproblemer påvirker hverdagen din, slik at du kan få\n  støtte i stedet for bare å finne deg i dem.",
+      "red_flags": null
+    },
+    "ectopic-pregnancy": {
+      "title": "Ektopisk graviditet",
+      "aliases": [
+        "ektopisk graviditet",
+        "ektopisk",
+        "eggledergraviditet"
+      ],
+      "glance": "Et ektopisk svangerskap utvikler seg utenfor livmoren — det kan ikke fortsette og krever øyeblikkelig medisinsk behandling.",
+      "overview": "Et ektopisk svangerskap oppstår når et befruktet egg fester seg utenfor livmoren, oftest i en av\negglederne. Dessverre kan et svangerskap i denne posisjonen ikke utvikle seg til et barn, og det kan ikke\nflyttes inn i livmoren – derfor må det alltid behandles.\n\nSymptomer viser seg vanligvis mellom uke 4 og 12, og kan omfatte magesmerter lavt nede på den ene siden,\nvaginal blødning eller et brunt, vannaktig utflod, smerter i skulderkanten eller ubehag når\ndu tisser eller går på do. Kombinasjonen av symptomer varierer, og noen kan lett forveksles med noe ubetydelig,\nog derfor er det viktig å få dem sjekket.\n\nDet er en uvanlig situasjon, men en potensielt alvorlig en, så det er ikke noe man bør vente med. Å få\nråd tidlig betyr at det kan behandles på en trygg måte.",
+      "deep": null,
+      "when_to_see_doctor": "- Ta kontakt med fastlegen din eller ring **NHS 111** hvis du har en kombinasjon av disse symptomene **og det kan være at du er\n  gravid** — selv om du ikke har fått et positivt resultat på en graviditetstest. Det er viktig å få råd med en gang\n .",
+      "red_flags": "- Ring **999 eller dra til akuttmottaket** hvis du har **plutselige, skarpe og intense smerter i magen**, føler deg **veldig\n  svimmel eller i ferd med å besvime**, ser **veldig blek** ut eller føler deg kvalm i tillegg til dette. Dette kan bety at egglederen\n  har sprukket — en medisinsk nødsituasjon som krever øyeblikkelig behandling."
+    },
+    "emergency-contraception": {
+      "title": "Nødprevensjon",
+      "aliases": [
+        "nødprevensjon",
+        "nødprevensjon",
+        "nødprevensjon",
+        "nødprevensjon",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "Nødprevensjon kan forhindre graviditet etter ubeskyttet samleie — og jo før, jo bedre.",
+      "overview": "Nødprevensjon er en måte å forhindre graviditet på etter samleie uten prevensjon, eller når din\nvanlige metode kan ha sviktet (en glemt pille, et kondom som har sprukket). Det finnes to typer, og tidspunktet\ner avgjørende for begge.\n\nDen første er **nødpillen**. Det finnes to typer: den ene (levonorgestrel) kan tas opptil\n3 dager – 72 timer – etter samleie, og den andre (ulipristalacetat, merkenavn ellaOne) opptil 5 dager –\n120 timer. Det andre alternativet er **kobberspiralen (IUD)**, som en helsepersonell kan sette inn opptil 5 dager\netter samleie; dette er den mest effektive formen for nødprevensjon, og den kan deretter bli sittende som\nfast prevensjon hvis du ønsker det.\n\nFor alle disse gjelder det at **jo raskere du bruker dem, jo bedre virker de vanligvis** — så det lønner seg å handle\nraskt i stedet for å vente. Du kan få nødprevensjon på apotek, hos fastlegen, på en\nseksualhelseklinikk eller på en drop-in-klinikk, ofte gratis.",
+      "deep": null,
+      "when_to_see_doctor": "- Siden det haster, må du ikke vente – en farmasøyt kan gi deg nødpillen raskt, og\n  en seksualhelseklinikk eller fastlege kan sette inn en «IUD».\n- Nødprevensjon handler om å forhindre graviditet, ikke infeksjon. Hvis det er noen sjanse for en\n  seksuelt overførbar infeksjon, kan en seksualhelseklinikk gi råd om testing.\n- Hvis mensen din deretter er mer enn noen få dager forsinket, eller veldig annerledes enn vanlig, er det lurt å ta\n  en graviditetstest og snakke med helsepersonell.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriose",
+      "aliases": [
+        "endometriose",
+        "endo"
+      ],
+      "glance": "Endometriose er en tilstand der vev som ligner livmorslimhinnen vokser utenfor livmoren, noe som ofte forårsaker smerter.",
+      "overview": "Endometriose er en langvarig tilstand der celler som ligner livmorslimhinnen vokser\ni andre deler av kroppen, for eksempel rundt eggstokkene, i bekkenet eller i tarmen. Det er en vanlig tilstand —\ndet anslås at rundt 1 av 10 kvinner i reproduktiv alder rammes av dette over hele verden.\n\nFordi dette vevet oppfører seg litt som livmorslimhinnen, kan det forårsake betennelse og, over tid,\narrvev. Det vanligste symptomet er smerter: ofte sterke menstruasjonssmerter, men også smerter i bekkenet eller nedre del av ryggen\npå andre tidspunkter, smerter under eller etter samleie, og smerter ved vannlating eller avføring. Svært kraftig menstruasjon,\ndyp utmattelse, nedstemthet og vanskeligheter med å bli gravid er også vanlig. Symptomene varierer mye —\nnoen har sterke smerter, andre har lite smerter.\n\nEndometriose blir ofte misforstått, og det kan ta flere år å få stilt diagnosen, delvis fordi menstruasjonssmerter\nså ofte avfeies som «normale». Sterke smerter som forstyrrer livet ditt, er ikke noe du bare må\nfinne deg i — det er verdt å ta på alvor.",
+      "deep": "Den eksakte årsaken til endometriose er ukjent, og det finnes foreløpig ingen kur – men behandlinger kan\nbidra til å lindre symptomene, og tilbudet spenner fra medisiner til, for noen, kirurgi, i tillegg til\nstøtte for å takle den fysiske og følelsesmessige belastningen. En av de største utfordringene er forsinkelser: i gjennomsnitt kan det\nta flere år, noen ganger mange, før man får en diagnose. Det er en av grunnene til at det kan være så viktig å føre nøyaktig oversikt\nover symptomene dine og oppsøke en lege på nytt hvis du ikke blir tatt på alvor.",
+      "when_to_see_doctor": "Det er lurt å oppsøke fastlegen hvis:\n\n- du har sterke menstruasjonssmerter som hindrer deg i å utføre vanlige aktiviteter\n- menstruasjonen din er svært kraftig – for eksempel hvis du må skifte bind eller tampong hver 1.–2. time\n- du har vedvarende smerter i bekkenet eller korsryggen, smerter under eller etter samleie, eller smerter når du tisser eller går på toalettet\n- du har vanskeligheter med å bli gravid\n- behandling du allerede har fått ikke har hjulpet, eller symptomene dine har blitt verre\n\nSiden det kan ta tid å stille diagnosen endometriose, er det greit å oppsøke legen på nytt hvis symptomene dine ikke blir tatt\npå alvor – et klart bilde av smertene dine over tid er til hjelp. Hvis smertene eller den kraftige blødningen også\npåvirker humøret ditt, bør du fortelle det til fastlegen din; det er en del av helhetsbildet, og det finnes støtte å få.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Østrogen",
+      "aliases": [
+        "østrogen"
+      ],
+      "glance": "Østrogen er et viktig hormon som bidrar til å forberede kroppen din på et mulig svangerskap i hver syklus.",
+      "overview": "Østrogen er et av de viktigste hormonene som styrer menstruasjonssyklusen. I første halvdel av syklusen\n(follikelfasen) stiger nivået etter hvert som en follikkel i eggstokken modnes. Denne økningen fører til at\nlivmorslimhinnen blir tykkere og resulterer i eggløsning.\n\nØstrogen påvirker også ting du kanskje legger merke til i hverdagen – energi, humør og endringer i\nlivmorhalsslimet rundt de fruktbare dagene dine. Etter eggløsningen synker nivået og endrer seg deretter igjen,\ni samspill med et annet hormon, progesteron, gjennom den andre halvdelen av syklusen.\n\nNivåene stiger og synker naturlig gjennom hver syklus, og de endrer seg også gjennom livets ulike faser. Dette er\nnormalt – det er rytmen kroppen din følger, ikke noe som må «fikses».",
+      "deep": "Østrogen er ikke et enkelt stoff, men en gruppe beslektede hormoner (det mest aktive i syklusen\ner østradiol). Det meste produseres av eggstokkene, i den voksende follikkelen. Dets sykliske økning og\nnedgang – sammen med progesteron og hjernens signalhormoner LH og FSH – er det som\nstyrer fasene i syklusen. Fordi østrogen påvirker mange systemer, kan de naturlige svingningene\nvises i små endringer gjennom hele måneden; ved å følge med kan du lære å kjenne ditt eget mønster i stedet for å\nsammenligne det med et «gjennomsnitt».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Fysisk aktivitet og menstruasjonssyklusen din",
+      "aliases": [
+        "trening",
+        "fysisk aktivitet",
+        "trening",
+        "bevegelse",
+        "trening og menstruasjon"
+      ],
+      "glance": "Du kan holde deg aktiv gjennom hele menstruasjonssyklusen – og regelmessig mosjon kan lindre kramper og PMS.",
+      "overview": "Du kan være fysisk aktiv når som helst i syklusen din. Noen opplever at de har mer energi og\nkan presse seg litt hardere på visse tidspunkter i måneden, og mindre på andre – begge deler er normalt, og\ningen av delene er en grunn til å slutte å bevege seg.\n\nRegelmessig aktivitet kan faktisk hjelpe mot noen menstruasjonsrelaterte symptomer. Personer som trener regelmessig\nhar ofte færre smertefulle kramper, og å holde seg aktiv kan også lindre premenstruelle symptomer (PMS). På\ndager med lavere energinivå teller også roligere bevegelse – det trenger ikke å være intens for å være verdt det.\n\nDu trenger ikke å tilpasse hverdagen din etter menstruasjonssyklusen, og det finnes ikke én «riktig» måte å bevege seg på. Å legge merke til\nditt eget energimønster gjennom måneden kan ganske enkelt hjelpe deg med å planlegge på en måte som føles bra.",
+      "deep": null,
+      "when_to_see_doctor": "- Svært intens trening, eller å trene så mye at kroppen din går tom for energi, kan føre til at menstruasjonen\n  blir uregelmessig eller uteblir helt. En regelmessig syklus er vanligvis et tegn på at alt går\n  som det skal, så det er lurt å snakke med fastlegen hvis menstruasjonen din blir uregelmessig eller uteblir — dette kan\n  ha sammenheng med bein- og hormonhelsen på sikt.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Trening under svangerskapet",
+      "aliases": [
+        "trening under svangerskapet",
+        "å holde seg aktiv under svangerskapet",
+        "trening under svangerskapet",
+        "å holde seg i form under svangerskapet"
+      ],
+      "glance": "Å holde seg aktiv er trygt og bra under de fleste svangerskap – men man bør ta det rolig og ikke slite seg ut.",
+      "overview": "Å holde seg aktiv under svangerskapet er bra for deg og utgjør ingen fare for barnet ditt — faktisk kan det å holde seg i form\nhjelpe deg med å takle de kommende endringene og selve fødselen. Du trenger ikke å begynne med noe krevende;\nå fortsette med dine vanlige daglige aktiviteter, så lenge det føles behagelig, er et godt utgangspunkt.\n\nEn enkel tommelfingerregel: du bør kunne **føre en samtale** mens du beveger deg. Hvis du blir for\nandpusten til å snakke, bør du ta det roligere. Milde aktiviteter som gåturer, svømming, svømmekurs for gravide og\ngravidyoga passer for de fleste. Hvis du ikke var aktiv før, er dette ikke tidspunktet for å starte en\nanstrengende ny rutine – bygg opp treningen gradvis i stedet.\n\nNoen aktiviteter bør helst unngås eller utføres med forsiktighet – for eksempel å ligge flatt på ryggen etter\nomtrent 16 uker, kontaktsporter, dykking og alt som medfører en reell risiko for å falle.",
+      "deep": null,
+      "when_to_see_doctor": "- Rådfør deg med **jordmoren** din før du starter et nytt aerobisk treningsprogram, eller hvis du har en\n  helsetilstand eller bekymringer knyttet til svangerskapet.\n- **Stopp og søk råd** hvis du føler deg uvel, svimmel eller svært andpusten, eller hvis du opplever smerter,\n  blødning eller rier mens du trener.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Det fruktbare tidsvinduet",
+      "aliases": [
+        "fruktbart tidsvindu",
+        "fruktbare dager",
+        "de mest fruktbare dagene"
+      ],
+      "glance": "Det fruktbare vinduet er de få dagene i hver syklus da samleie kan føre til graviditet.",
+      "overview": "Det fruktbare vinduet er den korte perioden i syklusen da det er mulig å bli gravid. Det skyldes\nto tidspunkter som ikke helt stemmer overens: et egg kan bare befruktes i omtrent 12 til 24 timer\netter at det er sluppet ut, men sædceller kan overleve inne i kroppen i flere dager – opptil omtrent en uke –\nmens de venter på et egg.\n\nSamlet sett betyr dette at fruktbarhetsvinduet åpner seg noen dager før eggløsningen og lukkes omtrent en dag\netterpå. I praksis er du mest fruktbar i løpet av de 2–3 dagene før eggløsningen og på selve\ndagen, fordi sædceller allerede kan være til stede når egget kommer.\n\nSiden eggløsningen kan variere fra syklus til syklus, flytter også det fruktbare vinduet seg. Derfor blir det\nvanligvis sett på som et tidsrom på flere dager snarere enn en enkelt dato, og derfor er det mer pålitelig å følge med på tegnene gjennom\nflere sykluser enn å stole på én kalenderberegning.",
+      "deep": "De nøyaktige dagene varierer fra person til person og fra måned til måned, så dette tidsvinduet anslås best\nut fra kroppens egne signaler snarere enn en fast formel. Endringer i livmorhalsslimet tyder på at\nfristen åpner seg når eggløsningen nærmer seg, og en økning i hviletemperaturen bekrefter – i\netterkant – at eggløsningen har funnet sted og at fristen er utløpt. Eggløsningstester virker et\ntrinn tidligere, ved å påvise økningen i LH () som oppstår kort tid før egget\nslippes ut.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Startperioder (første periode)",
+      "aliases": [
+        "første periode",
+        "første menstruasjon",
+        "startperioder",
+        "å få mensen"
+      ],
+      "glance": "Den første menstruasjonen kommer vanligvis rundt 12-årsalderen – alt mellom 8 og 17 år er normalt.",
+      "overview": "Din første menstruasjon – noen ganger kalt menarke – er når menstruasjonssyklusen starter for første\ngang. De fleste får den rundt 12-årsalderen, men det er normalt at den kommer mellom 8 og 17 år. Den kommer ofte\nomtrent to år etter at brystene dine begynner å utvikle seg.\n\nDet er vanligvis tegn på at den nærmer seg: økt hårvekst under armene og i kjønnsområdet, samt litt klart eller\nhvitt utflod i månedene før. Å vite at disse tegnene kommer, kan gjøre at den første menstruasjonen føles mindre\nplutselig.\n\nI begynnelsen er menstruasjonene ofte uregelmessige – intervallene kan være lange eller korte, og det kan ta\nkroppen flere måneder, til og med et par år, å finne en jevnere rytme. Når den først har gjort det,\nkommer menstruasjonene vanligvis omtrent hver 23. til 35. dag og varer i omtrent 2 til 7 dager. Tidlig\nuregelmessighet er normalt og ikke noe å bekymre seg for.",
+      "deep": null,
+      "when_to_see_doctor": "- Oppsøk fastlegen hvis mensen **ikke har satt inn innen du er 15 år**, eller innen **13 år hvis det ikke er andre tegn på\n  puberteten** (som brystutvikling eller kroppshår). Dette er bare for å sjekke at utviklingen går som\n  forventet — vanligvis er alt i orden.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Folsyre og vitaminer under svangerskapet",
+      "aliases": [
+        "folsyre",
+        "folat",
+        "D-vitamin under svangerskapet",
+        "vitaminer for gravide",
+        "kosttilskudd under svangerskapet"
+      ],
+      "glance": "Folsyre før og i begynnelsen av svangerskapet bidrar til å beskytte barnet – i tillegg til en daglig dose vitamin D.",
+      "overview": "Det er to kosttilskudd som er spesielt viktige under svangerskapet, og «NHS» anbefaler begge.\n\n**Folsyre** er det viktigste. Å ta et kosttilskudd på 400 mikrogram hver dag – helst fra før du\nblir gravid (omtrent tre måneder i forkant) og frem til slutten av første trimester, ved 12 uker – bidrar til å\nbeskytte barnet mot nevralrørsdefekter som spina bifida. Fordi det virker så tidlig, er det\nen av de få tingene det er verdt å begynne med *før* en graviditet hvis du prøver å bli gravid.\n\n**Vitamin D** er det andre: et daglig kosttilskudd på 10 mikrogram anbefales gjennom hele svangerskapet\nog under amming, for å støtte babyens bein og utvikling.\n\nUtover disse to dekker et sunt og variert kosthold de fleste behovene — du trenger ikke mange ekstra kosttilskudd.\nNoe du bør unngå er **vitamin A** (retinol): ikke ta kosttilskudd som inneholder det, og unngå\nlever, da for mye vitamin A kan skade barnet.",
+      "deep": null,
+      "when_to_see_doctor": "- En **fastlege, jordmor eller farmasøyt** kan hjelpe deg med å velge de riktige kosttilskuddene, og noen personer\n  anbefales å ta en **høyere dose folsyre** (for eksempel ved diabetes, høyBMIe, visse\n  medisiner eller en tidligere graviditet preget av nevralrørsdefekt) – så det er verdt å spørre,\n  spesielt før eller tidlig i svangerskapet.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Follikulærfase",
+      "aliases": [
+        "follikulærfase",
+        "første halvdel av syklusen"
+      ],
+      "glance": "Follikelfasen er den første halvdelen av syklusen, når et egg modnes og livmorslimhinnen blir tykkere.",
+      "overview": "Follikelfasen er den første delen av syklusen. Den begynner på den første dagen i mensen og\nvarer frem til eggløsningen. Navnet kommer fra follikkelen – den lille væskefylte sekken i eggstokken\nsom inneholder og utvikler et egg i løpet av denne perioden.\n\nGjennom denne fasen stiger nivået av hormonet østrogen. Det stigende østrogennivået har to hovedvirkninger: det bidrar til at\nen follikkel i eggstokken modnes, og det tykner livmorslimhinnen, slik at kroppen blir\nklar i tilfelle det oppstår en graviditet senere i syklusen.\n\nFordi østrogennivået stiger, merker noen økt energi eller endringer i livmorhalsslimet etter hvert som\nde fruktbare dagene nærmer seg. Opplevelsen er forskjellig fra person til person, og ingenting av dette trenger å «håndteres» – det er\nrett og slett den første halvdelen av syklusen din som gjør jobben sin.",
+      "deep": "Follikelfasen kan variere i lengde fra syklus til syklus, noe som er en av grunnene til at hele syklusene\nvarierer fra person til person og fra måned til måned. Den avsluttes når stigende østrogennivå bidrar til å utløse\nutløsningen av et egg (eggløsning). Siden de siste dagene fører opp til eggløsning, er det da det fruktbare\nvinduet åpner seg — og derfor er slutten av follikelfasen viktig for alle som følger med på fruktbarheten sin.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Matvarer man bør unngå under svangerskapet",
+      "aliases": [
+        "matvarer man bør unngå under svangerskapet",
+        "kosthold under svangerskapet",
+        "Hva man ikke bør spise når man er gravid",
+        "Koffein under svangerskapet",
+        "listeria"
+      ],
+      "glance": "De fleste matvarer er helt greie å spise under svangerskapet – noen få bør man unngå, og det er lurt å holde koffeininntaket lavt.",
+      "overview": "Den gode nyheten er at de fleste matvarer er helt trygge å spise under svangerskapet – det er bare et fåtall man bør\nunngå eller være forsiktig med, hovedsakelig for å unngå bakterier som listeria eller for høyt inntak av visse\nvitaminer. Når du kjenner til denne korte listen, kan du slappe av når det gjelder resten.\n\nNHS anbefaler å være forsiktig med:\n\n- **Noen oster** – myke oster modnet med mugg, som brie og camembert, og myke blåmuggoster,\n  med mindre de er oppvarmet til de er dampende varme; samt alt laget av **upasteurisert** melk.\n- **Rått eller underkokt kjøtt**, kaldt spekemat, **pâté** og **lever** (som inneholder svært mye\n  vitamin A).\n- **Rå eller flytende egg**, med mindre de er merket med British Lion-merket.\n- **Noen fiskesorter** — unngå hai, sverdfisk og marlin, begrens inntaket av tunfisk, og spis ikke mer enn to porsjoner\n  fet fisk i uken.\n- **Koffein** — hold inntaket under ca. 200 mg per dag (omtrent to krus med pulverkaffe), inkludert te,\n  cola, energidrikker og sjokolade.",
+      "deep": null,
+      "when_to_see_doctor": "- Dette er generelle retningslinjer, ikke en streng diett — hvis du har spørsmål om hva som er trygt for deg, eller\n  har spesielle kostholdsbehov, kan **jordmoren** din hjelpe deg med å finne ut av det.\n- Hvis du har spist noe som står på «unngå»-listen, må du ikke få panikk; si ifra til jordmoren din hvis\n  du er bekymret eller føler deg uvel.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Follikkelstimulerende hormon (FSH)",
+      "aliases": [
+        "fsh",
+        "follikkelstimulerende hormon",
+        "follikkelstimulerende hormon"
+      ],
+      "glance": "FSH er et hjernehormon som får folliklene i eggstokken til å vokse ved starten av hver syklus.",
+      "overview": "FSH — follikkelstimulerende hormon — er et av signalhormonene som setter syklusen i gang.\nDet produseres av en liten kjertel i hjernen (hypofysen) og, som navnet tilsier, stimulerer det\nfolliklene: de små væskefylte sekkene i eggstokken som hver inneholder et egg.\n\nTidlig i syklusen stimulerer FSH en gruppe av disse folliklene til å begynne å vokse. Når en follikkel\nutvikler seg, frigjør den mer østrogen, som igjen tykner livmorslimhinnen, klar\nfor en mulig graviditet. Vanligvis blir én follikkel den dominerende som fortsetter mot\neggløsning.\n\nFSH stiger og synker som en del av syklusens normale svingninger. Du merker ikke FSH direkte\n— det virker stille i bakgrunnen og legger grunnlaget for de mer synlige endringene i follikelfasen.",
+      "deep": "FSH virker sammen med luteiniserende hormon (LH); begge frigjøres av hypofysen i\nhjernen, og sammen styrer de eggstokkene gjennom syklusen. FSH styrer den første halvdelen og sørger for vekst av\nfolliklene, mens den senere økningen i LH markerer frigjøringen av et egg midt i syklusen. Dette samspillet er også\ngrunnen til at fertilitetsbehandlinger bruker medisiner basert på FSH: ved å gi ekstra FSH stimuleres flere follikler til å\nmodnes samtidig, i stedet for den ene som en naturlig syklus vanligvis produserer.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Svangerskapsdiabetes",
+      "aliases": [
+        "svangerskapsdiabetes",
+        "diabetes under svangerskapet",
+        "høyt blodsukker under svangerskapet"
+      ],
+      "glance": "Svangerskapsdiabetes er forhøyet blodsukker under svangerskapet — noe som vanligvis oppdages ved screening, og som ofte går over etter fødselen.",
+      "overview": "Svangerskapsdiabetes er høyt blodsukker (glukose) som oppstår under svangerskapet, når kroppen\nikke helt klarer å holde tritt med det økte insulinbehovet. Hos de fleste forsvinner tilstanden igjen etter at\nbarnet er født.\n\nDet gir vanligvis **ingen symptomer**, så det oppdages gjennom en screeningtest som tilbys under svangerskapet\n(en glukosetoleransetest, ofte rundt uke 24 til 28), spesielt hvis du har faktorer som øker\nrisikoen for det – som overvekt, diabetes i familien, tidligere fødsel av et stort barn eller visse\netniske bakgrunner.\n\nDet er veldig håndterbart. Å holde blodsukkeret innenfor et sunt område – gjennom kosthold, fysisk aktivitet og noen ganger\nmedisiner, alt under veiledning av helsepersonellet ditt – reduserer risikoen for komplikasjoner for deg og babyen din,\nog det er derfor det er verdt å holde øye med.",
+      "deep": null,
+      "when_to_see_doctor": "- Ta **screeningtesten** hvis den tilbys — siden svangerskapsdiabetes vanligvis ikke gir noen\n  symptomer, er testing den eneste måten å oppdage den på.\n- Ikke vent på testen hvis du merker mulige tegn på høyt blodsukker – sterk tørste,\n  hyppig vannlating, munntørrhet eller tretthet – ta det opp med jordmoren eller legen din.",
+      "red_flags": null
+    },
+    "group-b-strep": {
+      "title": "Streptokokker av gruppe B (GBS)",
+      "aliases": [
+        "streptokokker i gruppe B",
+        "GBS",
+        "streptokokker i gruppe B",
+        "streptokokk B under svangerskapet"
+      ],
+      "glance": "Streptokokker av gruppe B er en vanlig, vanligvis ufarlig bakterie – den lille risikoen gjelder barnet under fødselen, og den er håndterbar.",
+      "overview": "Streptokokker i gruppe B (GBS) er en svært vanlig bakterie som mange mennesker er bærere av, vanligvis i skjeden eller\ni endetarmen, uten å vite det og uten at det forårsaker noen skade. Det er ikke en seksuelt overførbar infeksjon,\nog det er normalt å være bærer av den.\n\nUnder svangerskapet er det kun av betydning fordi det er en **liten sjanse** for at den kan overføres til barnet rundt\nfødselstidspunktet og, i sjeldne tilfeller, gjøre barnet sykt — dette skjer i omtrent 1 av 1 750 svangerskap. Det\noppdages ofte ved en tilfeldighet, for eksempel ved en urinprøve eller en vaginaltest som er tatt av en annen grunn (NHS\nen undersøker ikke rutinemessig alle for dette).\n\nDet betryggende er at det er svært håndterbart: hvis man vet om GBS, reduserer **antibiotika gjennom\net drypp under fødselen** risikoen for at barnet blir sykt betydelig.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvis du får vite at du er bærer av streptokokker av gruppe B – nå eller i et tidligere svangerskap – **må du gi jordmor eller\n  fødselsteamet beskjed**, slik at det kan legges opp til antibiotikabehandling under fødselen. Det er et enkelt tiltak som gjør en\n  stor forskjell.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Halsbrann og fordøyelsesbesvær under svangerskapet",
+      "aliases": [
+        "halsbrann under svangerskapet",
+        "fordøyelsesbesvær under svangerskapet",
+        "sure oppstøt under svangerskapet",
+        "refluks"
+      ],
+      "glance": "Halsbrann er svært vanlig under svangerskapet — det er vanligvis ufarlig og kan ofte lindres ved hjelp av små endringer i hverdagen.",
+      "overview": "Halsbrann og fordøyelsesbesvær – en brennende følelse eller ubehag i brystet, ofte etter å ha spist – er\nsvært vanlig under svangerskapet. Dette skyldes at svangerskapshormonene mykgjør muskelen øverst i\nmagen, og senere at det voksende barnet trykker oppover. Det er ubehagelig, men ikke skadelig.\n\nSmå endringer hjelper ofte: å spise flere små måltider i stedet for store, å sitte oppreist mens\ndu spiser og en stund etterpå, å kutte ned på krydret, fet eller koffeinholdig mat, og å ikke spise\nsent før du legger deg. Noen synes det er litt mer behagelig å sove med hodet litt hevet.\n\nHvis det ikke er nok, kan en **farmasøyt** anbefale syrenøytraliserende midler som er trygge å bruke under\ngraviditeten – et godt første skritt før det blir et større problem.",
+      "deep": null,
+      "when_to_see_doctor": "- Oppsøk **fastlegen eller jordmoren** hvis enkle tiltak og apotekmedisiner ikke hjelper, eller hvis du har\n  **svelgevansker**, stadig kaster opp maten, går ned i vekt uten å ville det, eller har magesmerter\n  — det er lurt å få sjekket dette i stedet for å bare avfeie det som vanlig halsbrann.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Kraftige menstruasjoner",
+      "aliases": [
+        "kraftige menstruasjoner",
+        "menorragi",
+        "kraftig menstruasjonsblødning",
+        "oversvømmelse",
+        "kraftig blødning",
+        "blodpropper"
+      ],
+      "glance": "Kraftig menstruasjon innebærer at man mister mye blod hver syklus — dette er vanlig, men det er lurt å få det sjekket hvis det påvirker deg.",
+      "overview": "Kraftig menstruasjon – det medisinske begrepet er menoragi – betyr at man mister mye blod under mensen.\nFor noen er kraftig blødning helt normalt, men hvis det forstyrrer hverdagen din eller gjør\ndeg utmattet, er det verdt å undersøke nærmere.\n\nNoen tegn på at menstruasjonen er kraftig: å måtte skifte bind eller tampong hver 1. til 2. time,\nå bruke to typer menstruasjonsprodukter samtidig (for eksempel en tampong og et bind), at blodet siver gjennom til\nklærne eller sengetøyet, at du får ut blodpropper som er større enn ca. 2,5 cm (omtrent en 10p-mynt), eller menstruasjoner\nsom varer i mer enn 7 dager.\n\nÅ miste mye blod måned etter måned kan gjøre deg trøtt eller gi deg kortpustethet, fordi det kan føre\ntil lavt jernnivå (anemi). Det finnes mange mulige årsaker – fra fibroider eller tilstander som\nendometriose, adenomyose eller PCOS, til visse medisiner – og ofte finner man ingen alvorlig årsak. Uansett\nkan kraftig menstruasjon vanligvis behandles, så det er ikke noe du bare må leve med.",
+      "deep": null,
+      "when_to_see_doctor": "Oppsøk fastlegen hvis:\n\n- kraftige menstruasjoner påvirker hverdagen din\n- du blør kraftig i mange timer, eller menstruasjonene varer lenge\n- du også har sterke menstruasjonssmerter, eller smerter ved samleie, når du tisser eller når du går på toalettet\n- du har blødninger mellom menstruasjonene eller etter samleie\n- du ofte føler deg trøtt eller kortpustet (dette kan være et tegn på jernmangel)\n\nEn fastlege kan undersøke årsaken og snakke med deg om hva som kan hjelpe.",
+      "red_flags": "- Skaff deg **akutt** medisinsk hjelp — ring **NHS111**, eller **999 / oppsøk akuttmottaket** hvis tilstanden er alvorlig — hvis du\n  **blør så kraftig at du gjennomvætter et bind eller flere hver time i flere timer på rad**, eller hvis du\n  føler deg **svimmel, ør eller kortpustet**. Dette kan være tegn på at du mister for mye blod."
+    },
+    "lh": {
+      "title": "Luteiniserende hormon (LH)",
+      "aliases": [
+        "lh",
+        "luteiniserende hormon",
+        "luteiniserende hormon"
+      ],
+      "glance": "LH er det hjernehormonet som, når det øker i midten av syklusen, får eggstokken til å frigjøre et egg.",
+      "overview": "LH — luteiniserende hormon — er signalstoffet som utløser eggløsningen. I likhet med FSH produseres det av en\nliten kjertel i hjernen (hypofysen), og det gir eggstokken beskjed om når den skal frigjøre et egg.\n\nI det meste av syklusens første halvdel holder nivået av LH seg lavt. Deretter, rundt midten av syklusen,\nstiger det kraftig i det som kalles «LH-stigningen». Denne stigningen er signalet som får eggstokken til å\nslippe ut egget — eggløsning — vanligvis en dag eller så senere.\n\nØkningen er et kortvarig, godt timet signal, snarere enn noe du vil merke på hvordan du føler deg. Fordi\nden skjer så kort tid før egget frigjøres, er tidspunktet for økningen i LH en pålitelig markør for\nden mest fruktbare delen av syklusen.",
+      "deep": "LH virker sammen med FSH, hormonet som får folliklene til å vokse tidligere i syklusen. Mens FSH\nsetter i gang oppbyggingen, er LH-økningen vendepunktet: nivåene begynner å stige omtrent en dag og en\nhalv før egget frigjøres, og når sitt høydepunkt omtrent en halv dag før det. Etter økningen går syklusen\nover i sin andre halvdel. Denne presise tidsavstemmingen er grunnen til at LH er en så nyttig markør for alle som sporer\neggløsning, og hvorfor det er sentralt for hvordan fertilitetsbehandlinger planlegges.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Lutealfasen",
+      "aliases": [
+        "lutealfasen",
+        "andre halvdel av syklusen"
+      ],
+      "glance": "Lutealfasen er den andre halvdelen av syklusen, etter eggløsningen, når progesteronnivået stiger.",
+      "overview": "Lutealfasen er den delen av syklusen som følger etter eggløsningen og varer frem til neste menstruasjon\nbegynner. Den har fått navnet sitt etter corpus luteum – den lille strukturen som eggstokken danner fra den tomme\nfollikkelen etter at egget er sluppet ut.\n\nI denne fasen stiger nivået av hormonet progesteron. Dets oppgave er å holde livmorslimhinnen\ntykk og stabil, slik at et befruktet egg har et sted å feste seg hvis det kommer. Østrogen er også\nen del av bildet og virker sammen med progesteron.\n\nHvis det ikke oppstår graviditet, brytes corpus luteum ned, nivåene av progesteron og østrogen synker, og\nlivmorslimhinnen opprettholdes ikke lenger – noe som utløser neste menstruasjon og starter en ny syklus. Dette er\nogså perioden hvor noen opplever premenstruelle endringer i humør, søvn eller kroppen.",
+      "deep": "Lutealfasen er vanligvis litt jevnere i lengde enn den første halvdelen av syklusen, og varer ofte\nomtrent to uker, selv om det er normale variasjoner fra person til\nperson. Siden menstruasjonens begynnelse henger sammen med fallet i progesteronnivået, er menstruasjonens inntreden egentlig det\nsynlige tegnet på at hormonnivåene har sunket. Å følge med på hvordan du føler deg gjennom lutealfasen kan\nhjelpe deg med å skille mellom hva som er et kjent mønster for deg, og hva som er nytt eller verdt å ta opp med\nen helsepersonell.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Overgangsalderen",
+      "aliases": [
+        "overgangsalderen",
+        "endringen"
+      ],
+      "glance": "Overgangsalderen er når menstruasjonen opphører for godt — en naturlig fase som vanligvis inntrer mellom 45 og 55 år.",
+      "overview": "Overgangsalderen er det tidspunktet da menstruasjonen opphører for godt. Siden menstruasjonen kan komme og gå en\nstund i begynnelsen, regnes den som inntruffet når du har gått 12 måneder på rad uten menstruasjon. Det skjer vanligvis\nmellom 45 og 55 år, selv om det kan skje tidligere eller senere.\n\nDet er en naturlig del av aldringen, ikke en sykdom. Det skjer når eggstokkene trapper ned og nivået av\nøstrogen – et sentralt hormon i syklusen – synker. Denne hormonelle endringen ligger bak de forandringene mange\nmerker: hetetokter og nattesvette, endringer i menstruasjonen i forkant, søvnvansker,\nhumørsvingninger eller angst, «hjerne-tåke», vaginal tørrhet og smerter.\n\nOpplevelsene varierer enormt – noen kommer seg lett gjennom det, andre synes det er vanskelig, og symptomene kan vare i\nflere år. Ingenting av dette betyr at det er noe galt med deg. Det finnes støtte og alternativer, og\nå forstå hva som skjer er et godt første skritt.",
+      "deep": "Årene med forandringer som leder opp til overgangsalderen kalles perimenopause; selve overgangsalderen er et enkelt\ntidspunkt (det 12-måneders-uten-mens-merket), og tiden etter kalles noen ganger\npostmenopause. Fordi østrogen også påvirker bein og hjerte på lang sikt, legger leger\nvekt på disse forholdene i tillegg til de daglige symptomene. En rekke tilnærminger – fra livsstilsendringer til\nikke-hormonelle og hormonelle behandlinger – kan lindre symptomene, og hva som er riktig for deg, avhenger av helsen din,\nsykehistorien din og dine preferanser, noe du bør diskutere med en helsepersonell.",
+      "when_to_see_doctor": "- Oppsøk fastlegen hvis symptomer på overgangsalderen plager deg eller påvirker hverdagen, og du ønsker å snakke\n  om hvilke alternativer du har.\n- **Oppsøk alltid** fastlegen hvis du har **vaginal blødning etter 12 måneder uten menstruasjon**\n  (blødning etter overgangsalderen). Det er ofte ikke noe alvorlig, men det bør alltid undersøkes.\n- Det er også lurt å oppsøke lege hvis du blør mer enn før, eller hvis menstruasjonene dine\n  endrer seg på en måte som bekymrer deg.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Menstruasjonssyklusen",
+      "aliases": [
+        "syklus",
+        "månedssyklus"
+      ],
+      "glance": "Menstruasjonssyklusen er den månedlige rytmen kroppen din følger for å forberede seg på et eventuelt svangerskap.",
+      "overview": "Menstruasjonssyklusen regnes fra den første dagen i mensen – det er dag 1 – og frem til dagen\nfør neste mensen starter. Den styres av hormoner som stiger og synker i et gjentakende mønster\nhver måned.\n\nEn syklus varer ofte rundt 28 dager, men det er bare et gjennomsnitt. Alt fra omtrent 21 til 35 dager er\nnormalt, og lengden på din egen syklus kan variere litt fra måned til måned. Å lære å kjenne ditt eget mønster er\nmer nyttig enn å sammenligne det med et tall.\n\nGjennom syklusen går kroppen din gjennom noen få faser: mensen, oppbyggingen frem mot utløsning av et\negg, selve utløsningen (eggløsning) og perioden etterpå. Hver fase styres av\nhormoner, hovedsakelig østrogen og progesteron.",
+      "deep": "Hele syklusen er en dialog mellom hjernen og eggstokkene, som formidles av hormoner. I den\nførste halvdelen stiger østrogennivået etter hvert som en follikkel med et egg modnes i eggstokken, og slimhinnen i\nlivmoren blir tykkere. Omtrent midt i syklusen frigjøres et egg. I den andre halvdelen\nbidrar progesteron til å holde livmorslimhinnen klar i tilfelle et befruktet egg skulle ankomme.\n\nHvis det ikke blir graviditet, synker østrogen- og progesteronnivået til lave nivåer, livmorslimhinnen skilles ut som\nmenstruasjon, og mønsteret begynner på nytt. Fordi disse hormonene påvirker mange systemer, kan du merke\nsmå endringer fra dag til dag gjennom måneden – dette er syklusens normale rytme, ikke noe\ndu trenger å «fikse».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstruasjonsfase (menstruasjonen)",
+      "aliases": [
+        "periode",
+        "menstruasjon",
+        "menstruasjonsfase",
+        "blødning"
+      ],
+      "glance": "Menstruasjonen er de få dagene med blødning som innleder hver syklus, når livmorslimhinnen skilles ut.",
+      "overview": "Menstruasjonsfasen er mensen din – dagene når du blør. Den starter på dag 1 i syklusen,\nnår nivåene av østrogen og progesteron har sunket så lavt at slimhinnen som har bygget seg opp\ninne i livmoren ikke lenger opprettholdes og løsner, for så å forlate kroppen gjennom\nskjeden.\n\nEn menstruasjon varer vanligvis mellom 2 og 7 dager, og typisk er den rundt 5 dager. Blødningen er ofte\nsterkest de første par dagene og blir deretter lettere. Menstruasjonen begynner vanligvis rundt 12-årsalderen,\nmen det er også normalt at den starter tidligere eller senere.\n\nHva som er «normalt», varierer mye fra person til person. Å føre oversikt over dine egne menstruasjoner hjelper deg å legge merke til\nhva som er vanlig for deg, noe som er langt mer meningsfullt enn et hvilket som helst gjennomsnitt.",
+      "deep": "Menstruasjonsblødningen oppstår når livmorslimhinnen (endometriumet) skilles ut etter en syklus\nder det ikke har oppstått graviditet. Den markerer både slutten på én syklus og starten på den neste, og det\ner derfor dag 1 i menstruasjonen regnes som dag 1 i hele syklusen. Når mensen er over,\nbegynner østrogennivået å stige igjen, og kroppen begynner å gjenoppbygge livmorslimhinnen for den kommende syklusen.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Spontanabort",
+      "aliases": [
+        "spontanabort",
+        "svangerskapstap",
+        "tidlig spontanabort",
+        "å miste et svangerskap"
+      ],
+      "glance": "Et spontanabort er tap av et svangerskap før 24. uke – det er vanlig, og nesten aldri noe du selv har forårsaket.",
+      "overview": "Et spontanabort er tap av et svangerskap i løpet av de første 24 ukene. Det er vanligere enn mange\ner klar over, og noe av det viktigste å vite er at det nesten aldri skyldes noe\ndu har gjort eller ikke har gjort — det skjer vanligvis på grunn av et problem med hvordan svangerskapet utviklet seg,\nnoe som var utenfor noens kontroll.\n\nDe vanligste tegnene er blødning fra skjeden og kramper eller smerter nederst i magen. Blødning i\ntidlig svangerskap betyr ikke alltid at det er et spontanabort på gang – mange blør litt og får\nlikevel et sunt svangerskap – men det bør alltid undersøkes.\n\nUansett hvordan tapet skjer, er følelsene som følger med det ekte og berettigede, og sorg er en normal\nreaksjon. Du trenger ikke å gå gjennom dette alene – det finnes støtte å få, både fra jordmor eller fastlege og\nfra organisasjoner som spesialiserer seg på svangerskapstap.",
+      "deep": null,
+      "when_to_see_doctor": "- Ta kontakt med fastlegen din, jordmoren eller enheten for tidlig graviditet (eller ring NHS 111) hvis du har **blødning fra skjeden\n  eller flekkblødning under svangerskapet**, selv om det er lite og du har lite eller ingen smerter — slik at det kan\n  undersøkes.\n- Spør om hvor nærmeste **enhet for tidlig graviditet** ligger, som er opprettet nettopp for slike tilfeller.",
+      "red_flags": "- Ring **999 eller oppsøk akuttmottaket** hvis du under svangerskapet har **sterke magesmerter, smerter i skulderpartiet\n, kraftig blødning, eller hvis du føler deg svimmel eller svært uvel**. Dette kan være tegn på et alvorlig\n  problem, for eksempel en ektopisk graviditet, som krever akutt behandling."
+    },
+    "morning-sickness": {
+      "title": "Graviditetskvalme",
+      "aliases": [
+        "graviditetskvalme",
+        "kvalme under svangerskapet",
+        "graviditetskvalme",
+        "oppkast under svangerskapet",
+        "hyperemese",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "Å føle seg uvel eller være syk er svært vanlig i begynnelsen av svangerskapet, og dette avtar vanligvis rundt uke 16 til 20.",
+      "overview": "Å føle seg kvalm eller å være kvalm er svært vanlig tidlig i svangerskapet. Til tross for betegnelsen «morgenkvalme»,\nkan det oppstå når som helst på døgnet. For de fleste begynner det i løpet av de første ukene og\navtar rundt uke 16 til 20.\n\nDet er ubehagelig, og for noen påvirker det virkelig hverdagen – men vanlig morgenkvalme utgjør\nikke noen økt risiko for babyen din. Å spise små mengder ofte og finne ut hva som hjelper deg, kan\ngjøre det mer utholdelig; en jordmor, fastlege eller farmasøyt kan foreslå trygge alternativer hvis du sliter.\n\nFor et lite antall personer blir kvalmen alvorlig (dette kalles hyperemesis gravidarum),\nmed en reell risiko for dehydrering. I slike tilfeller trenger du medisinsk hjelp – se tegnene nedenfor.",
+      "deep": null,
+      "when_to_see_doctor": "Ta kontakt med jordmoren din, fastlegen eller ring NHS 111 hvis du:\n\n- ikke klarer å holde mat eller drikke nede i 24 timer\n- har svært mørk urin, eller ikke har tisset på mer enn 8 timer\n- føler deg svært svak, svimmel eller besvimer når du reiser deg\n- har magesmerter, høy feber eller kaster opp blod\n- går ned i vekt",
+      "red_flags": "- Hvis du ikke klarer å holde på væske, og urinen er svært mørk eller uteblir helt, kan det bety at du er i ferd med å bli dehydrert\n  (alvorlig svangerskapskvalme) — **ta kontakt med jordmor, fastlegen eller ring NHS 111 samme dag**, da du kan\n  trenge behandling for å hindre at tilstanden forverres."
+    },
+    "ovulation": {
+      "title": "Eggløsning",
+      "aliases": [
+        "eggløsning",
+        "å slippe ut et egg",
+        "fruktbart tidsvindu"
+      ],
+      "glance": "Eggløsning er når en eggstokk frigjør et egg – det mest fruktbare tidspunktet i syklusen din.",
+      "overview": "Eggløsning er det øyeblikket en eggstokk frigjør et modent egg. Det er vendepunktet i syklusen: den\nførste halvdelen bygger opp mot dette, og den andre halvdelen følger etter.\n\nI en syklus på omtrent 28 dager skjer eggløsningen ofte rundt dag 14 – men tidspunktet varierer. En\nnyttig måte å tenke på det på er at eggløsningen vanligvis skjer et sted mellom 10 og 16 dager før\ndin neste menstruasjon starter. Det kan være vanskelig å fastslå den eksakte dagen.\n\nNår egget er sluppet ut, kan det befruktes i bare omtrent 12 til 24 timer. Sperm kan imidlertid overleve\ni kroppen i flere dager, så det «fruktbare vinduet» er bredere enn én enkelt dag – omtrent de få\ndagene før eggløsningen og selve dagen.",
+      "deep": "Eggløsningen utløses av en kort, kraftig økning i hormonnivået rundt midten av syklusen, etter\nøstrogenoppbyggingen i follikelfasen. Siden sædceller kan overleve i flere dager, mens\negget bare lever i mindre enn et døgn, er det størst sannsynlighet for graviditet ved samleie i dagene like før\neggløsningen. Eggløsningen kan variere fra syklus til syklus på grunn av faktorer som stress eller sykdom, og det er\nderfor det er vanskelig å forutsi den nøyaktig, og hvorfor det er mer pålitelig å følge med på flere sykluser enn å basere seg på en\nenkelt beregning.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Smerter under samleie",
+      "aliases": [
+        "smerter under samleie",
+        "smertefullt samleie",
+        "dyspareuni",
+        "smerter ved samleie",
+        "vaginisme"
+      ],
+      "glance": "Smerter under samleie er vanlig, kan ha mange mulige årsaker og bør alltid undersøkes – det finnes hjelp å få.",
+      "overview": "Smerter under samleie — noen ganger kalt dyspareuni — er vanligere enn mange er klar over, og det er\naldri noe man bare må finne seg i. Det kan ha mange årsaker, og å finne den riktige årsaken er\nnøkkelen til å lindre smertene.\n\nNoen årsaker er fysiske. Vaginal tørrhet er en vanlig årsak, ofte knyttet til hormonelle endringer rundt\novergangsalderen eller til utilstrekkelig opphisselse, og det kan føre til at sex føles smertefullt eller ubehagelig. Infeksjoner, som\nfor eksempel trøske, kan også forårsake smerter. En annen årsak er vaginisme – når musklene rundt skjeden\ntrekker seg sammen av seg selv når man forsøker penetrasjon, noe som kan gjøre sex smertefullt eller føles umulig.\nDette skjer ufrivillig, det er ikke «noe du innbiller deg», og det kan behandles.\n\nFordi årsaken kan være fysisk, hormonell eller knyttet til hvor avslappet eller opphisset du føler deg – og\nofte en kombinasjon av disse – er det lurt å få det undersøkt i stedet for å gjette eller bare holde ut.",
+      "deep": null,
+      "when_to_see_doctor": "- Oppsøk fastlege eller en seksuell helseklinikk hvis samleie er smertefullt – uansett årsak er det verdt å få det sjekket,\n  og det finnes effektiv hjelp for de vanligste årsakene.\n- Det kan føles ubehagelig å ta opp temaet, men helsepersonell håndterer dette ofte og er der for å hjelpe, ikke for å\n  dømme. Du kan be om en kvinnelig lege, ta med deg noen, og snakke om hva som vil gjøre\n  undersøkelsen behagelig.\n- Få sjekket eventuelle blødninger etter sex, og oppsøk helsepersonell raskere hvis smertene er sterke eller du også\n  føler deg uvel.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Smertelindring under fødselen",
+      "aliases": [
+        "smertelindring under fødselen",
+        "epidural",
+        "gass og luft",
+        "Entonox",
+        "smertelindring ved fødsel",
+        "fødselsbasseng",
+        "TENS"
+      ],
+      "glance": "Det finnes flere måter å lindre fødselssmerter på – det finnes ikke noe riktig eller galt valg, og du kan være fleksibel.",
+      "overview": "Fødselssmerter oppleves forskjellig fra person til person, og det finnes flere måter å takle smertene på – alt fra enkle\ntrøstetiltak til medisinske alternativer. Å vite på forhånd hva som finnes tilgjengelig, kan bidra til at du føler deg bedre\nforberedt.\n\nAlternativene spenner fra **å holde seg aktiv og oppreist**, puste- og avslapningsteknikker, massasje og å være i\n**vann** (et badekar eller fødekar), til **en TENS-maskin**, **gass og luft** (Entonox, som du\npuster inn selv), **injeksjoner** som petidin og en **epidural** (gitt av en anestesilege,\nsom bedøver fødselssmertene mer fullstendig).\n\nDet finnes ikke noe «beste» valg – det avhenger av deg, fødselen din og hvordan du føler deg den dagen. Det er lurt å\nnotere preferansene dine i en **fødselsplan**, samtidig som du holder et åpent sinn: Mange opplever at de ønsker\nmer eller mindre smertelindring enn de hadde forventet, og det er helt greit.",
+      "deep": null,
+      "when_to_see_doctor": "- Din **jordmor** (og, hvis du skal ha epidural, en anestesilege) vil gå gjennom alternativene med deg og hjelpe\n  deg med å bestemme hva som passer best for deg – både under svangerskapet og senere under selve fødselen. Du trenger ikke å\n  bestemme alt på forhånd.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (polycystisk ovariesyndrom)",
+      "aliases": [
+        "PCOS",
+        "polycystisk ovariesyndrom",
+        "polycystiske eggstokker",
+        "polycystisk ovariesyndrom"
+      ],
+      "glance": "PCOS er en vanlig hormonell tilstand som kan påvirke menstruasjonen, eggløsningen, huden og håret.",
+      "overview": "PCOS — polycystisk ovariesyndrom — er en vanlig tilstand knyttet til balansen mellom kjønnshormonene.\nDet anslås at rundt 1 av 10 kvinner i reproduktiv alder rammes av tilstanden, og mange\nsom har den, får aldri stilt en diagnose.\n\nTilstanden kan gi seg uttrykk på ulike måter, og ingen to personer er helt like. Vanlige kjennetegn inkluderer\nuregelmessige, sjeldne eller uteblitte menstruasjoner; høyere nivåer av hormoner kalt androgener,\nnoe som kan føre til økt hårvekst i ansiktet eller på kroppen, akne eller tynnere hår på hodebunnen; og\neggstokker som ikke frigjør et egg like regelmessig som vanlig, noe som kan gjøre det vanskeligere å bli gravid.\nVektendringer og mørkere hudflekker er også vanlig.\n\nDen eksakte årsaken er ikke fullt ut forstått, og det finnes ingen kur – men symptomene kan behandles, og\nå forstå hva som skjer er det første skrittet. PCOS er vanlig og håndterbart, ikke noe å\nskamme seg over.",
+      "deep": "Siden «PCOS» handler om kroppens hormoner og hvordan den håndterer insulin, er tilstanden også knyttet på\nlang sikt til insulinresistens og økt risiko for type 2-diabetes, forhøyet blodtrykk\nog endringer i kolesterolnivået – og det er grunnen til at leger pleier å følge nøye med på disse faktorene over tid.\nOmtrent halvparten av de som har PCOS, kan utvikle diabetes eller prediabetes innen de er i førtiårene, så regelmessige\nkontroller er viktig. Diagnosen er ikke noe man kan stille selv: en lege ser på det samlede\nbildet – din sykehistorie og menstruasjonssyklus, noen ganger blodprøver for hormoner og noen ganger en ultralyd\nav eggstokkene – og utelukker andre årsaker før hun kommer frem til enPCOSe.",
+      "when_to_see_doctor": "Det er lurt å oppsøke fastlegen hvis du merker symptomer som passer til beskrivelsen ovenfor, spesielt hvis de\npåvirker hvordan du føler deg i hverdagen:\n\n- uregelmessig menstruasjon, svært sjeldne menstruasjoner eller at menstruasjonen har opphørt\n- merkbart økt hårvekst i ansiktet eller på kroppen, vedvarende akne eller tynnere hår på hodet\n- vanskeligheter med å bli gravid etter å ha prøvd en stund\n- vektøkning som er vanskelig å bli kvitt, sammen med andre symptomer\n\nEn fastlege kan undersøke hva som foregår, bekrefte om det er PCOS eller noe annet, og snakke gjennom en\nplan som passer for deg. PCOS er også knyttet til nedstemthet og angst – hvis du sliter med hvordan\ndu føler deg, bør du også fortelle det til fastlegen din; det er en del av helhetsbildet, og det finnes støtte å få.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopause",
+      "aliases": [
+        "perimenopause",
+        "overgangsalderen",
+        "endringen"
+      ],
+      "glance": "Perimenopausen er overgangsfasen som leder frem til overgangsalderen, når menstruasjonen og hormonene begynner å endre seg.",
+      "overview": "Perimenopausen er tidsperioden frem til overgangsalderen – årene «rundt overgangsalderen». Den\nbegynner når du først merker endringene og varer helt til ett år etter din siste menstruasjon, da\ndu har nådd overgangsalderen. Den kan vare i flere år.\n\nI løpet av denne tiden produserer eggstokkene gradvis mindre østrogen, og nivåene stiger og faller mindre\nforutsigbart enn før. Det vanligste tidlige tegnet er at menstruasjonene endrer seg – de kommer\ntetttere eller sjeldnere, blir lettere eller kraftigere. Mange av symptomene knyttet til overgangsalderen, som\nhetetokter, søvnforstyrrelser eller humørsvingninger, kan begynne allerede nå, mens du fremdeles har menstruasjon.\n\nFordi det skjer gradvis og varierer så mye, kan perimenopausen være forvirrende – endringene kommer ikke\npå en gang eller i samme rekkefølge for alle. Å vite at denne fasen har et navn, og at det er en\nnormal overgang, kan gjøre det lettere å forstå den.",
+      "deep": null,
+      "when_to_see_doctor": "- Oppsøk fastlegen hvis symptomer på perimenopausen påvirker hverdagen din og du ønsker å snakke om\n  hva som kan hjelpe.\n- Det er lurt å få det sjekket hvis menstruasjonen din blir veldig kraftig, eller hvis du har blødninger mellom\n  menstruasjonene eller etter samleie, slik at årsaken kan avklares.\n- Husk at du fortsatt kan bli gravid i overgangsalderen, så det er lurt å ta opp\n  prevensjon med en helsepersonell hvis det er aktuelt for deg.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Menstruasjonssmerter",
+      "aliases": [
+        "menstruasjonssmerter",
+        "menstruasjonssmerter",
+        "kramper",
+        "dysmenoré",
+        "dysmenoré",
+        "smertefulle menstruasjoner"
+      ],
+      "glance": "Menstruasjonssmerter er kramper i nedre del av magen rundt menstruasjonen – dette er vanlig og ofte en normal del av syklusen.",
+      "overview": "Menstruasjonssmerter er den krampelignende, verkende følelsen i underlivet som mange opplever rundt\nmenstruasjonen. Det oppstår når livmorens muskelvegg trekker seg sammen, og er ofte en normal del av\nmenstruasjonssyklusen. Den medisinske betegnelsen for dette er dysmenoré.\n\nDet oppstår vanligvis i begynnelsen av mensen, eller like før, og varer gjerne i opptil omtrent\ntre dager. For noen er det en mild tyngdefølelse; for andre er krampene sterkere. Smertene kan også\nendres gjennom livet og fra syklus til syklus.\n\nMenstruasjonssmerter som følger dette kjente mønsteret er vanlige og kan vanligvis håndteres. Mange bruker\nhverdagslige tiltak for å lindre ubehaget og enkle smertestillende midler, og en farmasøyt eller fastlege kan gi råd om hva\nsom kan passe for deg. Det viktigste er å kjenne ditt eget vanlige mønster – slik at du kan merke det hvis noe\nendrer seg.",
+      "deep": null,
+      "when_to_see_doctor": "Det er lurt å snakke med fastlegen hvis:\n\n- mensen din blir mer smertefull, kraftigere eller mer uregelmessig enn vanlig\n- smertene hindrer deg i å utføre daglige aktiviteter som jobb eller skole\n- vanlige smertestillende midler ikke hjelper\n- du har smerter under samleie, eller når du tisser eller går på do\n- du blør mellom menstruasjonene\n- smertene oppstår på andre tidspunkter enn like før eller under mensen\n- du får ut blodpropper som er større enn en mynt (omtrent på størrelse med en kvartdollar)\n- du også merker en oppblåst mage, redusert appetitt eller vekttap du ikke kan forklare\n\nDette betyr ikke nødvendigvis at noe er galt, men det er verdt å få sjekket – menstruasjonssmerter som er nye,\nannerledes eller vanskelige å håndtere, kan ha årsaker som en helsepersonell kan hjelpe deg med.",
+      "red_flags": "- Be om en **haster** time hos fastlegen, eller ring **NHS 111** hvis menstruasjonssmertene eller bekkenplagene dine er\n  **sterke eller verre enn vanlig, og smertestillende midler ikke har hjulpet.**"
+    },
+    "planning-pregnancy": {
+      "title": "Planlegging av graviditet",
+      "aliases": [
+        "planlegging av graviditet",
+        "forhåndsoppfatning",
+        "prøver å bli gravid",
+        "før graviditeten",
+        "forberede seg på graviditet"
+      ],
+      "glance": "Noen få enkle tiltak før du prøver å bli gravid – folsyre, å slutte å røyke og å kutte ut alkoholen – gir svangerskapet den beste starten.",
+      "overview": "Hvis du vurderer å prøve å bli gravid, kan noen få tiltak på forhånd gi svangerskapet en\nsunnere start – mange av dem virker allerede før du blir gravid.\n\nDe viktigste er: begynn å ta **folsyre** (og vitamin D), **slutt å røyke** og **unngå alkohol**.\nÅ strebe etter en sunn vekt hjelper også, siden det å være betydelig undervektig eller overvektig kan gjøre det\nvanskeligere å bli gravid. Det er også lurt å sørge for at **MMR-vaksinasjonen** din er oppdatert, siden enkelte\ninfeksjoner kan påvirke et svangerskap.\n\nIngenting av dette trenger å være perfekt eller stressende. Det er de små, milde endringene du gjør i god tid som teller —\nog å få et lite forsprang er noe av det beste du kan gjøre for et fremtidig svangerskap.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvis du har en **langvarig helsetilstand** eller tar **medisiner regelmessig**, bør du oppsøke fastlegen din før du\n  begynner å prøve å bli gravid — noen tilstander og medisiner krever at man planlegger på forhånd. **Du må ikke slutte å ta reseptbelagte\n  medisiner** uten å snakke med legen din først.\n- Fastlegen kan også gi råd om folsyre (blant annet om du trenger en høyere dose) og om å oppnå en\n  sunn vekt før graviditeten.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Fødselsdepresjon",
+      "aliases": [
+        "postnatal depresjon",
+        "fødselsdepresjon",
+        "PND",
+        "babyblues",
+        "fødselsdepresjon"
+      ],
+      "glance": "Fødselsdepresjon er en vanlig, behandlingsbar nedstemthet etter fødselen – det er ikke din skyld, og det finnes hjelp å få.",
+      "overview": "Det er svært vanlig å føle seg nedstemt, engstelig eller irritabel de første par ukene etter fødselen — dette\nkalles ofte «babyblues», og det går vanligvis over av seg selv i løpet av omtrent to uker.\n\nFødselsdepresjon er noe annet: en nedstemthet som er dypere eller varer lenger. Det er en vanlig tilstand,\nden kan oppstå når som helst i løpet av det første året, og den kan også ramme fedre og partnere. Tegn på dette er blant annet\nvedvarende nedstemthet, vanskeligheter med å finne glede i noe, søvnproblemer selv når babyen sover,\nog noen ganger vanskelige følelser knyttet til å knytte bånd til babyen.\n\nÅ ha dette betyr **ikke** at du er en dårlig forelder eller at du ikke elsker babyen din – det er en sykdom,\nikke en svikt, og den responderer godt på støtte og behandling. Å søke hjelp tidlig er en sterk og omsorgsfull\nhandling, både for deg og babyen din.",
+      "deep": null,
+      "when_to_see_doctor": "- Ta kontakt med **fastlegen, jordmoren eller helsesøster** hvis du tror du kan ha fødselsdepresjon,\n  eller hvis «babyblues» ikke har gitt seg etter to uker. De har sett dette mange ganger og kan\n  hjelpe deg med å finne riktig støtte.",
+      "red_flags": "- Hvis du har **tanker om å skade deg selv eller barnet ditt**, eller at familien din ville ha det bedre\n  uten deg, må du **umiddelbart** søke hjelp: ring **999** eller oppsøk akuttmottaket, eller ring **NHS111** eller\n  Samaritans på **116 123**. Disse tankene kan være en del av sykdommen, de er ikke den du er, og\n  det finnes akutt hjelp å få."
+    },
+    "pre-eclampsia": {
+      "title": "Preeklampsi",
+      "aliases": [
+        "preeklampsi",
+        "preeklampsi",
+        "høyt blodtrykk under svangerskapet",
+        "toksemi"
+      ],
+      "glance": "Preeklampsi er forhøyet blodtrykk under svangerskapet — ofte uten synlige symptomer i begynnelsen, og det er derfor svangerskapskontrollene er så viktige.",
+      "overview": "Preeklampsi er en tilstand under svangerskapet som hovedsakelig kjennetegnes ved høyt blodtrykk, sammen med\nprotein i urinen. Den oppstår vanligvis fra rundt 20. uke, og noen ganger etter fødselen.\n\nNoe av det viktigste å vite er at tilstanden i begynnelsen ofte **ikke gir noen symptomer i det hele tatt** —\ndu kan føle deg helt frisk. Det er nettopp derfor jordmoren din måler blodtrykket ditt og tar\nurinprøver ved hver rutinemessige svangerskapskontroll: det er gjennom disse kontrollene tilstanden vanligvis oppdages\nfør du selv merker noe.\n\nNår symptomene først dukker opp, er det viktig å kjenne dem, fordi preeklampsi kan bli alvorlig både for deg\nog barnet ditt. Tilstanden er svært behandlingsbar når den oppdages i tide, og å følge opp svangerskapskontrollene dine er\nden aller beste måten å være på forkant med utviklingen på.",
+      "deep": null,
+      "when_to_see_doctor": "- Sørg for å møte opp til alle dine **rutinemessige svangerskapskontroller** — det er gjennom blodtrykks- og urinprøver at\n  preeklampsi vanligvis oppdages før symptomene setter inn.",
+      "red_flags": "Søk medisinsk hjelp **umiddelbart** – kontakt fødeavdelingen din, eller ring **NHS111** – hvis du har\nnoen av følgende symptomer (ring **999** hvis du er alvorlig syk, for eksempel ved krampeanfall):\n\n- **kraftig hodepine** som ikke lindres med vanlige smertestillende midler\n- **synsproblemer** — uskarpt syn eller blinkende lys\n- **plutselig hevelse** i ansiktet, hendene eller føttene\n- **smerter rett under ribbeina**\n- **oppkast** eller plutselig å føle deg svært uvel"
+    },
+    "pregnancy": {
+      "title": "Graviditet",
+      "aliases": [
+        "graviditet",
+        "å være gravid",
+        "i forventning om",
+        "svangerskap",
+        "trimester",
+        "forfallsdato",
+        "hvor mange uker gravid"
+      ],
+      "glance": "Graviditeten varer vanligvis rundt 40 uker, regnet fra den første dagen i din siste menstruasjon.",
+      "overview": "Graviditet er den perioden hvor kroppen din vokser og bærer frem et barn. Den varer normalt rundt 40 uker —\nalt fra 37 til 42 uker regnes som fullgått og normalt — og, kanskje overraskende, regnes den\nfra den første dagen i din **siste menstruasjon**, ikke fra befruktningen. Det er bare den vanlige måten datoer\nberegnes på.\n\n**Terminen** er et anslag, ikke en frist: babyer kommer gjerne litt tidligere eller senere. Tidlig\ni svangerskapet kan en «terminbestemmelsesundersøkelse» (vanligvis rundt 12 uker) måle babyen din og gi et mer nøyaktig\nanslag, noe som noen ganger endrer det opprinnelige anslaget.\n\nGraviditet blir ofte delt inn i tre faser, eller **trimester**, hver med sine egne forandringer. Hele\nveien gjennom blir du fulgt opp med regelmessige svangerskapskontroller hos jordmor (og lege ved\nbehov) – omsorgen som bidrar til at både du og babyen din har det bra.",
+      "deep": "Siden datoene regnes fra siste menstruasjon, regnes du som omtrent fire uker gravid når\nmenstruasjonen uteblir. Antall svangerskapsuker er grunnlaget for hvordan oppfølgingen organiseres – ultralyd, screening\nog kontrollbesøk tilbys alle i bestemte uker. Hvis menstruasjonene dine er uregelmessige eller du er usikker på\ndatoene, er det dateringsultralyden som fastsetter tidslinjen. Denne delen er oversikten over hele reisen; de\nspesifikke temaene – tegn på graviditet, svangerskapsomsorg, å holde seg frisk og fødsel – har hver sin egen del.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Graviditetstest",
+      "aliases": [
+        "graviditetstest",
+        "graviditetstest for hjemmebruk",
+        "hCG test",
+        "graviditetstest"
+      ],
+      "glance": "En graviditetstest for hjemmebruk sjekker om urinen din inneholder graviditetshormonet hCG – og er mest pålitelig fra og med den første uteblitte menstruasjonen.",
+      "overview": "En graviditetstest for hjemmebruk fungerer ved å påvise et hormon kalt hCG (humant koriongonadotropin) i\nurinen din. Kroppen din begynner å produsere dette hormonet noen dager etter at et befruktet egg har festet seg, og mengden\nstiger raskt tidlig i svangerskapet.\n\nTesten er mest pålitelig fra **den første dagen etter uteblitt menstruasjon** – omtrent to uker etter\nbefruktningen. Hvis du har uregelmessig menstruasjonssyklus eller er usikker på når menstruasjonen skal komme, vil du få et mer pålitelig resultat hvis du venter til\nminst 21 dager etter ubeskyttet samleie. Du trenger ikke å ta testen først\nom morgenen; det går bra når som helst på dagen.\n\nEt **positivt** resultat er nesten helt sikkert riktig – svært få tester viser positivt når du ikke er\ngravid. Et **negativt** resultat er litt mindre sikkert: hvis mensen fortsatt ikke kommer og du\ntror du kan være gravid, bør du vente noen dager og teste på nytt.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvis du får et positivt resultat, bør du kontakte en **jordmor eller fastlege** for å starte svangerskapsoppfølgingen.\n- Hvis testene er negative, men mensen uteblir og du føler deg gravid (eller uvel), bør du oppsøke fastlegen for å\n  finne ut hva som skjer.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "For tidlig fødsel",
+      "aliases": [
+        "for tidlig fødsel",
+        "for tidlig fødsel",
+        "for tidlig fødsel",
+        "for tidlig fødsel",
+        "tidlig fødsel",
+        "vannet går tidlig"
+      ],
+      "glance": "For tidlig fødsel er fødsel før 37. uke – handle raskt, for tidlig behandling gjør en stor forskjell.",
+      "overview": "For tidlig fødsel er en fødsel som starter før den 37. svangerskapsuken. Det skjer ved\nomtrent 8 av 100 fødsler.\n\nBabyer som fødes for tidlig er mer sårbare, men mange klarer seg godt senere – spesielt med den spesialiserte\nomsorgen som nyfødtavdelingene tilbyr. Det viktigste er å handle raskt hvis du tror at fødselen kan være i ferd med å starte, slik at du\nkan bli undersøkt og, om nødvendig, få behandling som bidrar til å beskytte barnet.\n\nTegnene ligner på fødsel i alle stadier, men før 37. uke bør man aldri vente –\nde er alltid en grunn til å ta kontakt umiddelbart.",
+      "deep": null,
+      "when_to_see_doctor": "- Ring **jordmoren eller fødeavdelingen** når som helst du er **mindre enn 37 uker** på vei og er usikker eller\n  bekymret — det er alltid greit å sjekke.",
+      "red_flags": "Kontakt **jordmoren eller fødeavdelingen umiddelbart** – uansett om det er dag eller natt – hvis du, **før 37. uke**,\nopplever noe av følgende:\n\n- regelmessige **sammentrekninger** eller stramming, eller smerter som ligner menstruasjonssmerter\n- en **strøm eller drypp av væske** fra skjeden (vannet går)\n- **ryggsmerter** som ikke er vanlig for deg, eller en følelse av trykk nederst i magen"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (premenstruelt syndrom)",
+      "aliases": [
+        "pms",
+        "premenstruelt syndrom",
+        "premenstruell spenning",
+        "pmt"
+      ],
+      "glance": "PMS er den kombinasjonen av fysiske og følelsesmessige forandringer som mange opplever i løpet av den siste uken eller de to siste ukene før mensen.",
+      "overview": "PMS — premenstruelt syndrom — er betegnelsen på endringene mange opplever i dagene eller de siste\nukene før mensen. Det kan ramme alle som har mensen, og symptomene avtar vanligvis i løpet av noen få\ndager etter at mensen har begynt.\n\nEndringene kan ta mange former. Fysisk kan du oppleve oppblåsthet, ømme eller følsomme bryster,\nkramper, hodepine eller økt tretthet. Følelsesmessig kan det oppstå humørsvingninger, irritabilitet,\nangst eller nedstemthet. Matlyst og endringer i søvnmønsteret er også vanlig. Ikke alle opplever «PMS»,\nog de som gjør det, vil ikke oppleve alle symptomene – det er ditt eget mønster som teller. «\n\nPMS» er en normal, anerkjent del av mange menneskers syklus, knyttet til de naturlige hormonelle endringene i\nden andre halvdelen av syklusen. Å legge merke til hvordan det viser seg hos deg, syklus etter syklus, kan gjøre det lettere å planlegge\nrundt det – og å oppdage om det noen gang endrer seg.",
+      "deep": null,
+      "when_to_see_doctor": "Det er lurt å snakke med fastlegen hvis:\n\n- symptomene dine påvirker hverdagen din – jobb, studier, relasjoner\n- små endringer i dagligdagse rutiner ikke har hjulpet\n- nedstemtheten, angsten eller irritabiliteten din føles alvorlig\n\nEn helsepersonell kan snakke med deg om hva som kan hjelpe. En mer alvorlig form, kalt premenstruell dysforisk\nlidelse (PMDD), kan forårsake mye sterkere humørsymptomer, og det finnes støtte for dette.",
+      "red_flags": "- Hvis du har symptomer på PMDD og **har selvmordstanker eller føler at du ikke kan ivareta din egen sikkerhet**,\n  må du umiddelbart søke hjelp: **ring 999 eller dra til akuttmottaket.** Ikke kjør selv — be noen om å kjøre\n  deg, eller be om ambulanse. Du fortjener støtte, og det finnes hjelp å få."
+    },
+    "progesterone": {
+      "title": "Progesteron",
+      "aliases": [
+        "progesteron"
+      ],
+      "glance": "Progesteron er hormonet i syklusens andre halvdel, som forbereder livmorslimhinnen etter eggløsningen.",
+      "overview": "Progesteron er et av de viktigste hormonene bak menstruasjonssyklusen, og det spiller en avgjørende rolle i\nden andre halvdelen – etter at et egg er sluppet ut ved eggløsningen.\n\nHovedoppgaven er å bidra til at livmorslimhinnen forblir tykk og klar, slik at hvis et\nbefruktet egg kommer, kan det feste seg og et svangerskap kan begynne. På denne måten fungerer progesteron som\nen partner til østrogen, som sto for mye av oppbyggingen tidligere i syklusen.\n\nHvis det ikke oppstår graviditet, synker progesteronnivået. Det er dette fallet som gjør at livmorslimhinnen skilles ut\nsom din neste menstruasjon. Oppgangen og nedgangen i progesteron gjennom syklusens andre halvdel er en\nnormal, forventet rytme.",
+      "deep": "Progesteron produseres hovedsakelig av corpus luteum – den strukturen eggstokken danner fra\nfollikkelen etter at den har sluppet ut egget. Dette er grunnen til at progesteronnivået stiger spesielt i lutealfasen\n(etter eggløsning). Når corpus luteum brytes ned, synker både progesteron- og østrogennivået,\nnoe som signaliserer starten på en ny syklus. Disse naturlige svingningene er en av grunnene til at noen opplever\npremenstruelle forandringer i dagene før mensen.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "P-pillen som kun inneholder progestogen (minipillen)",
+      "aliases": [
+        "p-piller som kun inneholder progestogen",
+        "minipillen",
+        "POP",
+        "pille som kun inneholder progesteron",
+        "desogestrel-pille"
+      ],
+      "glance": "Minipillen er en daglig pille som inneholder ett hormon som gjør livmorhalsslimet tykkere for å hindre at sædceller trenger gjennom.",
+      "overview": "Den progestogen-baserte p-pillen – ofte kalt minipillen – er en daglig tablett som bare inneholder ett\nhormon, nemlig progestogen. Den er et alternativ for personer som ikke kan eller helst ikke vil ta østrogen.\n\nHovedvirkningen er å gjøre slimhinnen i livmorhalsen tykkere, slik at sædceller har vanskeligere for å nå et\negg. En vanlig type, desogestrel-pillen, hindrer også eggstokkene i å frigjøre et egg\n(ægløsning).\n\nNår den tas riktig, er den over 99 % effektiv; ved vanlig daglig bruk er effektiviteten rundt 91 %. Som med andre\npiller er tidspunktet viktig, og den beskytter ikke mot seksuelt overførbare infeksjoner.",
+      "deep": "Minipillen skiller seg fra kombinasjonspillen ved at den ikke inneholder østrogen, noe som påvirker hvem den kan være egnet for —\nnoe en helsepersonell vurderer når den forskrives. Noen typer må tas innenfor et ganske\nstramt daglig tidsvindu for å være effektive. Denne artikkelen beskriver hva den er og hvordan den virker; hvordan du skal ta den\nog om den er riktig for deg, er spørsmål som en fastlege, sykepleier eller farmasøyt må vurdere.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "signs-of-labour": {
+      "title": "Tegn på fødsel",
+      "aliases": [
+        "tegn på fødsel",
+        "arbeid",
+        "å gå i fødsel",
+        "sammentrekninger",
+        "vannet går",
+        "programmet",
+        "latent fase"
+      ],
+      "glance": "Tegn på at fødselen er i gang er blant annet regelmessige veer, at «vannet går», ryggsmerter eller at fostervannet går.",
+      "overview": "Det er noen tegn på at fødselen kan være i ferd med å sette i gang. Det viktigste tegnet er veer – sammentrekninger i\nmagen som kommer med jevne mellomrom og blir sterkere. Andre tegn er «show» (at slimproppen fra\nlivmorhalsen løsner), vedvarende ryggsmerter, trang til å gå på toalettet og at vannet går.\n\nFør den aktive fødselen starter, er det ofte en tidlig («latent») fase, der livmorhalsen mykner opp og begynner å\nåpne seg. Denne fasen kan vare i timer eller til og med dager, og for mange er det helt greit å holde seg komfortabelt\nhjemme i løpet av denne tiden, hvile og drikke nok væske.\n\nFødselsforløpet starter litt forskjellig for alle, så du trenger ikke å krysse av for hvert eneste tegn. Når du\ntror at det begynner, er jordmoren din eller fødeavdelingen der for å veilede deg om hva du skal gjøre og\nnår du skal komme inn.",
+      "deep": null,
+      "when_to_see_doctor": "- Ring din **jordmor eller fødeavdelingen** for veiledning når du tror fødselen har satt i gang, eller når\n  veene kommer **med jevne mellomrom – omtrent hvert 5. minutt**. Hvis du ikke får tak i jordmoren din, ring\n  **NHS111**.",
+      "red_flags": "Ring **jordmoren eller fødeavdelingen umiddelbart** – uansett om det er dag eller natt, ikke vent – hvis:\n\n- **vannet går** (spesielt hvis væsken er grønn, brun eller lukter vondt)\n- du har **vaginal blødning**\n- **babyen din beveger seg mindre enn vanlig**\n- du har tegn på fødsel og er **mindre enn 37 uker på vei**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Tegn på graviditet",
+      "aliases": [
+        "tegn på graviditet",
+        "tidlige graviditetssymptomer",
+        "Er jeg gravid?",
+        "graviditetssymptomer"
+      ],
+      "glance": "En uteblitt menstruasjon er ofte det første tegn på graviditet, noen ganger sammen med kvalme, tretthet eller ømhet i brystene.",
+      "overview": "For mange er det første tegnet på graviditet en **uteblitt menstruasjon**. Men kroppene er forskjellige, og noen merker\nandre tidlige tegn først — ofte rundt 4 til 6 uker inn i svangerskapet.\n\nVanlige tidlige tegn er kvalme eller oppkast (når som helst på dagen, ikke bare om morgenen), bryster\nsom føles større eller ømme, uvanlig tretthet og hyppigere vannlating. Noen merker også\nen metallisk smak, en ny følsomhet overfor visse lukter eller at de ikke lenger liker mat de vanligvis liker.\n\nIngen av disse tegnene alene betyr at du definitivt er gravid – mange overlapper med de vanlige svingningene i\nmenstruasjonssyklusen – og ikke alle opplever dem. Den eneste måten å vite det sikkert på er å ta en graviditetstest.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvis testen er positiv, bør du kontakte en **jordmor eller fastlege** for å komme i gang med svangerskapsoppfølgingen så tidlig som mulig.\n- Hvis mensen uteblir og testene er negative, men symptomene vedvarer, er det lurt å ta kontakt med en\n  fastlege for å finne ut hva annet som kan være årsaken.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Røyking under svangerskapet",
+      "aliases": [
+        "røyking under svangerskapet",
+        "slutte å røyke under svangerskapet",
+        "å slutte å røyke når man er gravid",
+        "e-sigaretter under svangerskapet"
+      ],
+      "glance": "Å slutte å røyke er noe av det beste du kan gjøre for babyen din — og det er aldri for sent.",
+      "overview": "Å slutte å røyke er noe av det viktigste du kan gjøre for å gi barnet ditt en sunn start på livet.\nHver sigarett reduserer oksygenet barnet ditt får, noe som gjør at hjertet må jobbe hardere og kan\nhemme veksten.\n\nRøyking under svangerskapet øker risikoen for alvorlige problemer, blant annet spontanabort, for tidlig fødsel,\nlav fødselsvekt, dødfødsel og krybbedød (SIDS) etter fødselen. Passiv\nrøyking har også betydning, så et røykfritt hjem er en fordel.\n\nDet oppmuntrende er at det **aldri er for sent**. Å slutte når som helst i svangerskapet hjelper, og å slutte\ntidlig gir størst utbytte. Det kan være virkelig vanskelig, og det er nettopp derfor det finnes gratis hjelp – og\nå benytte seg av den øker sjansene for å lykkes betydelig.",
+      "deep": null,
+      "when_to_see_doctor": "- Spør **jordmoren** din om **gratis støtte til røykeslutt fra NHS** — utdannede rådgivere (noen av dem\n  med spesialisering i graviditet) kan hjelpe deg, og det finnes også en «Smokefree»-hjelpetelefon. Å be om hjelp er et\n  tegn på at du tar vare på babyen din, ikke en svakhet.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Flekkblødning og blødning mellom menstruasjonene",
+      "aliases": [
+        "blødning",
+        "blødning mellom menstruasjonene",
+        "blødning mellom menstruasjonene",
+        "mellomblødning",
+        "blødning etter samleie"
+      ],
+      "glance": "Spotting er lett blødning mellom menstruasjonene eller etter samleie — ofte ikke alvorlig, men det er alltid lurt å få det sjekket.",
+      "overview": "«Spotting» betyr lett blødning som oppstår mellom menstruasjonene eller etter samleie, utenom den vanlige\nblødningen. Det er vanlig, og det er vanligvis ikke noe alvorlig — men siden det kan ha flere årsaker,\ner det alltid lurt å få dette sjekket av helsepersonell.\n\nDet finnes mange hverdagslige årsaker til dette. Å begynne med eller bruke hormonell prevensjon er en vanlig årsak.\nAndre årsaker kan være små, ufarlige svulster i eller rundt livmoren (polypper eller myomer), ufarlige forandringer\npå overflaten av livmorhalsen, vaginalt tørrhet eller en infeksjon som for eksempel klamydia.\n\nSiden det samme symptomet kan skyldes ulike årsaker — de fleste av dem ubetydelige — er det klokest\nikke å gjette, men å få det undersøkt slik at du vet hva som ligger bak i ditt tilfelle.",
+      "deep": null,
+      "when_to_see_doctor": "- Oppsøk fastlege eller en seksualhelseklinikk **hver gang du opplever blødning mellom menstruasjonene eller etter samleie**,\n  selv om blødningen er lett. Det er vanligvis ikke noe alvorlig, men ved å få det sjekket kan man finne årsaken\n  — og det er måten å utelukke mindre vanlige årsaker på et tidlig stadium.",
+      "red_flags": "- Be om en **haster** time hos fastlegen eller ring **NHS 111** hvis du **har uteblitt menstruasjon og har\n  uvanlig blødning sammen med magesmerter eller smerter i bekkenet** — dette må undersøkes umiddelbart, da det kan være et\n  tegn på et ektopisk svangerskap."
+    },
+    "stillbirth": {
+      "title": "Dødfødsel",
+      "aliases": [
+        "dødfødsel",
+        "dødfødt",
+        "tap av et barn",
+        "abort sent i svangerskapet",
+        "Baby Born Sleeping"
+      ],
+      "glance": "Dødfødsel er tapet av et barn etter 24 uker – det er uvanlig, det er aldri din skyld, og du vil alltid få støtte.",
+      "overview": "En dødfødsel er når et barn blir født dødt etter 24 uker av svangerskapet. (Et tap før 24 uker\nkalles spontanabort.) Det er uvanlig – omtrent 1 av 250 fødsler – men for familiene det\nrammer, er det et dyptgripende tap, og alt ved den etterfølgende omsorgen er ment å støtte deg\npå en skånsom måte gjennom denne tiden.\n\nNoen ganger finner man en årsak – for eksempel et problem med morkaken eller babyens utvikling, eller en\nhelsetilstand – og noen ganger, til tross for undersøkelser, **finner man ingen årsak i det hele tatt**. Uansett årsak er en\ndødfødsel ikke noe foreldrene har forårsaket eller kunne ha forhindret.\n\nDet er én ting som virkelig bidrar til å redusere risikoen, og det er enkelt: **å fortelle jordmoren din med en gang\nhvis babyens bevegelser avtar eller endrer seg.** I tillegg spiller de hverdagslige tingene – å gå til\nsvangerskapskontroller, ikke røyke, unngå alkohol og sove på siden fra 28. uke – alle\nen rolle.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakt **jordmoren eller fødeavdelingen umiddelbart** – når som helst, dag eller natt – hvis **babyen din\n  beveger seg mindre enn vanlig eller bevegelsene føles annerledes.** Vent aldri for å se om det går over; å få\n  det sjekket er akkurat det rette å gjøre, og det er aldri til bry.\n- Etter et tap står spesialiserte jordmødre og sorgteam klare for deg – både når det gjelder beslutninger,\n  praktiske tiltak og sorgbearbeiding. Du trenger ikke å takle noe av dette alene, og støttegrupper\n  for foreldre som har mistet et barn, er tilgjengelige så lenge du trenger dem.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stress, livet og mensen",
+      "aliases": [
+        "stress og menstruasjon",
+        "stress",
+        "uteblitt menstruasjon",
+        "sen periode",
+        "Hvorfor er mensen min forsinket?"
+      ],
+      "glance": "Stress, store vektendringer eller mye trening kan forsinke eller utebli menstruasjonen – ofte bare en kort stund.",
+      "overview": "Det er vanlig at mensen kommer for sent eller uteblir en måned, og årsaken har ofte mer å gjøre\nmed livssituasjonen enn at noe er galt. Stress er en vanlig årsak – det samme systemet som reagerer\npå press, kan påvirke hormonene som styrer mensen din.\n\nAndre hverdagslige ting kan også forskyve menstruasjonen: en stor vektendring (opp eller ned), mye\ntrening eller å være utslitt. Hormonelle endringer – som for eksempel når overgangsalderen nærmer seg, eller\ntilstander som PCOS – kan også ligge bak, i likhet med graviditet og enkelte prevensjonsmidler. Ofte varierer\nintervallet mellom menstruasjonene ganske enkelt litt fra gang til gang, og det er helt normalt.\n\nDet betryggende er at en enkelt forsinket eller uteblitt menstruasjon vanligvis ikke er grunn til bekymring, og\nting ordner seg ofte av seg selv etter hvert som livet går sin gang. Det som er verdt å holde øye med, er et mønster av endringer snarere enn en enkelt\nmåned.",
+      "deep": null,
+      "when_to_see_doctor": "Oppsøk fastlegen hvis:\n\n- du har uteblitt **tre menstruasjoner på rad**, eller menstruasjonene dine har blitt **uregelmessige**\n- menstruasjonene dine **slutter** og du ikke er sikker på hvorfor (og siden graviditet er en mulighet, bør du ta en test først)\n- uteblitte menstruasjoner ledsages av andre forandringer – som uventede vektendringer, tretthet, økt hårvekst\n  eller nedstemthet\n\nDisse undersøkelsene er bare for å finne ut hva som ligger bak forandringen – noe som vanligvis er noe\nsom lar seg håndtere.",
+      "red_flags": null
+    },
+    "the-coil": {
+      "title": "Spolen (IUD og IUS)",
+      "aliases": [
+        "spole",
+        "spolen",
+        "IUD",
+        "IUS",
+        "kobberspiral",
+        "hormonell spiral",
+        "spiralen",
+        "intrauterint system",
+        "Mirena"
+      ],
+      "glance": "Spiralen er en liten innretning som settes inn i livmoren – enten en kobberspiral (IUD) eller en hormonspiral (IUS) – og som varer i flere år.",
+      "overview": "Spiralen er en liten enhet som en helsepersonell setter inn i livmoren. Det finnes to typer, og det er nyttig å\nskille dem fra hverandre:\n\n- **IUD**, også kalt kobberspiral, inneholder ingen hormoner. Kobberet endrer forholdene i livmoren slik\n  at sædceller og egg ikke kan overleve like godt, og det påvirker også livmorhalsslimet. Avhengig av type,\n  virker den i omtrent 5 til 10 år.\n- **IUS**, eller hormonspiralen, frigjør et progestogen i stedet for å bruke kobber. Det tykner\n  slimet i livmorhalsen og tynner ut livmorslimhinnen; for noen kan det også føre til at menstruasjonen blir\n  mye lettere.\n\nBegge er «sett inn og glem»-metoder, og begge har en effektivitet på over 99 %, med liten forskjell mellom\nperfekt og typisk bruk. Ingen av dem beskytter mot seksuelt overførbare infeksjoner.",
+      "deep": "Spiralene er langvarige, reversible prevensjonsmetoder: Når de først er satt inn, virker de i årevis, og fruktbarheten\nkommer tilbake etter at de er fjernet. Innsetting og fjerning utføres av en kvalifisert helsepersonell og tar bare noen\nminutter, selv om noen opplever innsettingen som ubehagelig. En vanlig grunn til at folk velger mellom\nde to er hvordan de påvirker menstruasjonen – kobberIUDet kan gjøre menstruasjonen kraftigere i begynnelsen, mens det\nhormonelle IUSet ofte gjør den lettere. Hvilken som passer best for deg, bør du diskutere med en helsepersonell; denne artikkelen\nforklarer bare hvordan hver av dem fungerer.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Tvilling- og flerlingsgraviditet",
+      "aliases": [
+        "tvillinger",
+        "tvillinggraviditet",
+        "flerlingsgraviditet",
+        "venter tvillinger",
+        "eneggede tvillinger",
+        "ikke-identiske tvillinger",
+        "trillinger"
+      ],
+      "glance": "At man er gravid med tvillinger, oppdages vanligvis først ved svangerskapsundersøkelsen, og det innebærer litt mer svangerskapsoppfølging.",
+      "overview": "At man venter mer enn ett barn, oppdages vanligvis først ved **svangerskapsultralyd** (rundt 12. uke),\nsom også kan vise om barna deler en morkake.\n\nDet finnes to hovedtyper. **Eneggede** tvillinger stammer fra ett befruktet egg som deler seg, så de\nhar de samme genene og er alltid av samme kjønn. **Ikke-identiske** tvillinger stammer fra to separate\negg, og ligner ikke mer på hverandre enn andre søsken; de er den vanligste av de to typene, og forekommer\nlitt oftere hos eldre mødre, ved familiehistorie på morssiden eller etter fertilitetsbehandling.\n\nÅ være gravid med tvillinger eller flere er en helt egen opplevelse, og det innebærer vanligvis **litt mer svangerskapsomsorg** –\nekstra konsultasjoner og ultralydundersøkelser for å holde nøye øye med deg og babyene dine. Jordmorteamet ditt vil\nforklare hva du kan forvente.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvis en ultralydundersøkelse viser at du er gravid med tvillinger (eller flere), vil **jordmoren** din informere deg om de ekstra kontrollene og\n  ultralydundersøkelsene som følger med et flerlingssvangerskap – å møte opp til dem alle er den beste måten å sikre at du får\n  god oppfølging.",
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Vaginal tørrhet",
+      "aliases": [
+        "vaginal tørrhet",
+        "tørrhet",
+        "vaginal atrofi"
+      ],
+      "glance": "Vaginal tørrhet er vanlig, ofte knyttet til hormoner, og kan føre til smerter eller ubehag under samleie.",
+      "overview": "Vaginal tørrhet er en vanlig opplevelse som mange opplever på et eller annet tidspunkt. Det oppstår når den\nvanlige fuktigheten som sørger for at skjeden føles behagelig, reduseres, og det kan gi en følelse av ømhet,\nkløe eller ubehag – inkludert smerter eller ubehag under samleie.\n\nDet er ofte knyttet til hormoner, spesielt et fall i østrogennivået. Derfor er det vanlig rundt\novergangsalderen og i perioden før overgangsalderen, men det kan også oppstå under amming, ved bruk av visse medisiner (som\nfor eksempel visse prevensjonsmidler eller antidepressiva), eller når man ikke er tilstrekkelig opphisset før samleie. Det er\ningenting å skamme seg over – det er en fysisk tilstand, ikke et uttrykk for hvem du er eller hvordan\nforholdet ditt er.\n\nÅ vite at det er vanlig, og vanligvis lett å behandle, er et godt utgangspunkt. Det finnes enkle tiltak\nsom kan hjelpe, og en fastlege eller apotekspersonell kan veilede deg til det som passer best for deg.",
+      "deep": null,
+      "when_to_see_doctor": "Oppsøk fastlege hvis:\n\n- vaginaltørrhet plager deg eller ikke går over etter noen uker\n- det påvirker hverdagen din eller sexlivet ditt\n- du i tillegg har uvanlig utflod eller blødning etter samleie, mellom menstruasjonene eller etter overgangsalderen\n\nDu trenger ikke bare å finne deg i det – det finnes hjelp, og en helsepersonell kan undersøke hva som\nligger bak og hva som kan lindre plagene.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Helse i skjeden og vulvaen",
+      "aliases": [
+        "vaginal helse",
+        "vulvahelse",
+        "intimhygiene",
+        "holde rent",
+        "skylning",
+        "utløp"
+      ],
+      "glance": "Skeden renser seg selv — den trenger bare litt skånsom pleie på utsiden, og utflod er helt normalt.",
+      "overview": "Noe av det mest betryggende å vite er at skjeden tar vare på seg selv. Den er naturlig\nselvrensende, og utflodet du legger merke til er en del av dette – en væske som holder den ren og fuktig\nog bidrar til å beskytte den mot infeksjoner. Mengden og konsistensen endrer seg gjennom syklusen, noe som er\nhelt normalt.\n\nDerfor trenger skjeden ikke å vaskes innvendig. Faktisk kan innvendig vask —\n«skjedespyling» — forstyrre den naturlige balansen. Utsiden (vulvaen) trenger bare skånsom pleie: varmt\nvann og, hvis du ønsker det, en mild, uparfymert såpe. Parfymerte såper, geler, deodoranter og duftende\nvåtservietter bør helst unngås, da de kan forårsake irritasjon.\n\nÅ bli kjent med hva som er normalt for deg – din vanlige utflod, utseende og følelse – gjør det lettere å\nlegge merke til om noe endrer seg og kanskje bør undersøkes.",
+      "deep": null,
+      "when_to_see_doctor": "Oppsøk fastlege eller en klinikk for seksuell helse hvis du merker:\n\n- endringer i utflod – farge, lukt eller konsistens, eller mye mer utflod enn vanlig\n- kløe, ømhet eller irritasjon rundt skjeden eller vulva\n- blødning mellom menstruasjonene eller etter samleie\n- smerter når du tisser, eller smerter lavt nede mellom magen og lårene (bekkenpine)\n\nDette er vanlige plager som ofte er enkle å behandle — en endring i utflod kan ganske enkelt bety en mild infeksjon\nsom for eksempel trøske. Å få det sjekket er den beste måten å finne ut av det på, i stedet for å gjette.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Syklusen og dens faser",
+      "summary": "Hvordan syklusen din går gjennom menstruasjonsfasen, follikelfasen, eggløsningsfasen og lutealfasen."
+    },
+    "hormones": {
+      "title": "Hormoner",
+      "summary": "Signalstoffene som styrer syklusen din — østrogen, progesteron, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Fruktbarhet og eggløsning",
+      "summary": "Fruktbarhetsvinduet, tegn på eggløsning og hva som påvirker fruktbarheten."
+    },
+    "contraception": {
+      "title": "Prevensjon",
+      "summary": "Hvordan ulike metoder fungerer, forklart på en enkel måte."
+    },
+    "symptoms-and-signals": {
+      "title": "Symptomer og kroppssignaler",
+      "summary": "Smerter, blødninger, utflod, humørsvingninger – hva kroppen din kanskje prøver å fortelle deg."
+    },
+    "conditions": {
+      "title": "Vilkår",
+      "summary": "PCOSe, endometriose, myomer og mer — forklaringer med kildehenvisninger."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Seksual- og intimitetshelse",
+      "summary": "Intimt velvære, komfort og vanlige spørsmål."
+    },
+    "life-stages": {
+      "title": "Livsfaser",
+      "summary": "Fra den første menstruasjonen og gjennom perimenopausen og menopausen."
+    },
+    "wellbeing": {
+      "title": "Velvære og syklusen",
+      "summary": "Hvordan søvn, stress og hverdagen påvirker menstruasjonssyklusen din."
+    },
+    "tests-and-exams": {
+      "title": "Prøver og eksamener",
+      "summary": "Selvundersøkelse av brystene, livmorhalskreftundersøkelse, eggløsningstester og mer."
+    },
+    "pregnancy": {
+      "title": "Graviditet",
+      "summary": "Tidlige tegn, å holde seg frisk, advarselstegn og spontanabort – forklaringer med kildehenvisninger."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Lær å forstå menstruasjonssyklusen din i 5 trinn",
+      "summary": "En rolig gjennomgang av hele syklusen og hver av dens fire faser."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Lær mer om eggløsning",
+      "summary": "Hva eggløsning er, det fruktbare vinduet og tegnene kroppen din gir."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormonene som styrer menstruasjonssyklusen din",
+      "summary": "Bli kjent med de fire aktørene som driver syklusen – og hva hver av dem gjør."
+    }
+  }
+}
