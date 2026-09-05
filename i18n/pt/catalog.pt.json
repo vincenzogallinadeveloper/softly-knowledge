@@ -1,0 +1,993 @@
+{
+  "_meta": {
+    "lang": "pt",
+    "is_source": false,
+    "source_content_checksum": "3d041d4d3a5acb4667dcd299321f28f894e8f11442758e2cc190e89b1220677a",
+    "review": "Machine-translated (DeepL) from en — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Álcool durante a gravidez",
+      "aliases": [
+        "álcool durante a gravidez",
+        "consumo de álcool durante a gravidez",
+        "álcool e gravidez",
+        "álcool fetal",
+        "FASD"
+      ],
+      "glance": "A abordagem mais segura é não beber álcool durante a gravidez ou quando se está a tentar engravidar.",
+      "overview": "O conselho da «NHS» é claro e simples: a abordagem mais segura é **não beber álcool de todo** se estiver\ngrávida ou a tentar engravidar. Não beber reduz ao mínimo qualquer risco para o seu bebé.\n\nA razão é que o álcool passa do seu sangue, através da placenta, para o seu bebé — cujo fígado\nainda não está suficientemente desenvolvido para o metabolizar. Beber durante a gravidez pode levar à síndrome do espectro alcoólico fetal\n(FASD), um conjunto de dificuldades ao longo da vida relacionadas com a aprendizagem, o comportamento e o desenvolvimento.\n\nSe bebeu antes de saber que estava grávida, tente não se preocupar: o risco para o bebé decorrente de pequenas\nquantidades consumidas no início da gravidez é provavelmente baixo. O mais importante é simplesmente evitar o álcool durante o resto da\ngravidez a partir de agora.",
+      "deep": null,
+      "when_to_see_doctor": "- Se está a ter dificuldade em deixar de beber, não há motivo para se envergonhar — fale com a sua parteira ou\n  médico de família. Eles podem oferecer-lhe apoio sem a julgar, e procurar ajuda é bom para si e para o seu bebé.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Cuidados pré-natais",
+      "aliases": [
+        "cuidados pré-natais",
+        "cuidados pré-natais",
+        "cuidados durante a gravidez",
+        "consultas com a parteira",
+        "marcar uma consulta",
+        "consultas pré-natais"
+      ],
+      "glance": "Os cuidados pré-natais consistem nas consultas regulares realizadas ao longo da gravidez que ajudam a garantir o bem-estar da mãe e do bebé.",
+      "overview": "Os cuidados pré-natais são os cuidados que recebe durante a gravidez para que tanto a si como ao seu bebé se mantenham o mais saudáveis\npossível. Normalmente, irá consultar uma parteira e também um médico, caso seja necessário. Vale a pena começar cedo:\ncontacte a sua parteira ou o seu médico de família assim que souber que está grávida.\n\nA sua primeira consulta propriamente dita — a «consulta de registo» — realiza-se normalmente entre as 8.ª e a 12.ª semana. Depois\ndisso, ser-lhe-ão oferecidos exames de controlo regulares: pelo menos 10 consultas e 2 ecografias se for o seu\nprimeiro bebé, ou cerca de 7 se já tiver dado à luz anteriormente, com mais consultas à medida que a gravidez avança.\n\nNestas consultas, a sua parteira verifica a sua pressão arterial e a urina, mede a sua barriga para acompanhar o\ncrescimento do bebé, propõe exames de rastreio e conversa consigo sobre os movimentos do bebé e como se está a\nsentir. Muitas coisas importantes — como a pré-eclâmpsia ou a diabetes gestacional — são detetadas nesta fase,\nantes de dares por isso, e é precisamente por isso que as consultas são tão importantes.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacte uma **parteira ou um médico de família assim que souber que está grávida**, para que os cuidados possam começar cedo —\n  de preferência a tempo da primeira consulta, que deve ocorrer por volta das 10 a 12 semanas.\n- Tente comparecer a **todas** as suas consultas pré-natais, mesmo que se sinta completamente bem — vários exames\n  têm como objetivo detetar precocemente problemas assintomáticos.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Os movimentos do seu bebé",
+      "aliases": [
+        "movimentos do bebé",
+        "movimentos do bebé",
+        "movimentos fetais",
+        "chutes",
+        "sentir o bebé a mexer-se",
+        "movimentos reduzidos"
+      ],
+      "glance": "Sentir o seu bebé a mexer-se é um sinal de que ele está bem — se os movimentos abrandarem ou mudarem, contacte imediatamente a sua parteira.",
+      "overview": "Sentir o bebé a mexer-se é um dos sinais tranquilizadores de que ele está bem. A maioria das pessoas começa a\nsentir os movimentos algures entre as 16.ª e as 24.ª semanas de gravidez — muitas vezes mais tarde na primeira gravidez, pelo que\né comum que isso aconteça após as 20.ª semanas na primeira gravidez.\n\nNão há um número definido de movimentos que «deveria» sentir, nem é necessário contar os pontapés em relação a uma meta.\nCada bebé é diferente, e o que importa é conhecer o padrão habitual do **seu** bebé\nao longo do dia — os momentos em que está ativo e aqueles em que está calmo.\n\nAssim que conhecer esse padrão, deve prestar atenção a qualquer alteração em relação ao mesmo. Confie no que sabe\nsobre o seu próprio bebé.",
+      "deep": null,
+      "when_to_see_doctor": "Conhecer o padrão normal do seu bebé é o que lhe permite perceber uma alteração. Se alguma vez tiver dúvidas\nsobre se os movimentos abrandaram ou se alteraram, é sempre aconselhável ligar e verificar — nunca estará\na fazer perder tempo a ninguém.",
+      "red_flags": "- Se o seu bebé estiver **a mexer-se menos do que o habitual, se os seus movimentos mudarem ou se não conseguir senti-lo a mexer-se**,\n  **ligue imediatamente à sua parteira ou à maternidade** — a qualquer hora do dia ou da noite. **Não espere\n  até ao dia seguinte**, mesmo que seja a meio da noite.\n- Não confie num monitor de batimentos cardíacos doméstico (doppler) ou numa aplicação para se tranquilizar — vá fazer um exame\n  presencialmente."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Dores nas costas durante a gravidez",
+      "aliases": [
+        "dores nas costas durante a gravidez",
+        "dores nas costas durante a gravidez",
+        "dores lombares na gravidez",
+        "dores nas costas durante a gravidez"
+      ],
+      "glance": "A dor nas costas é muito comum durante a gravidez, à medida que os ligamentos se tornam mais flexíveis e a barriga cresce — geralmente é inofensiva.",
+      "overview": "A dor nas costas é um dos sintomas mais comuns da gravidez. À medida que o seu corpo se prepara para o parto, os\nligamentos amolecem e alongam-se naturalmente, e a sua barriga em crescimento altera a forma como distribui o seu peso —\nambos os fatores exercem uma pressão adicional na parte inferior das costas e na pélvis.\n\nAlgumas medidas do dia a dia podem aliviar esta dor: prestar atenção à sua postura quando estiver de pé, sentada ou a levantar objetos;\nusar sapatos rasos que ofereçam bom apoio; um colchão firme ou uma almofada que ofereça bom apoio; e praticar atividades físicas suaves e regulares,\ncomo caminhadas, ioga para grávidas ou exercícios de uma aula. Se estiver realmente a causar incómodo, um\nfisioterapeuta obstétrico pode dar-lhe conselhos personalizados.\n\nNa maioria dos casos, a dor nas costas durante a gravidez não é motivo de preocupação — mas há alguns padrões que vale a pena verificar\nimediatamente, e é para isso que servem as orientações abaixo.",
+      "deep": null,
+      "when_to_see_doctor": "Contacte imediatamente o seu **médico de família ou parteira** se a sua dor nas costas:\n\n- for **intensa** ou surgir no **segundo ou terceiro trimestre** (por vezes, pode ser um sinal de\n  parto prematuro)\n- for acompanhada de **febre, sangramento vaginal ou dor ao urinar**\n- for **nas laterais do corpo, por baixo das costelas**",
+      "red_flags": "- Ligue para o **999 ou dirija-se ao serviço de urgências** se **perder a sensibilidade nas pernas, nas nádegas ou nos órgãos genitais**, ou se perder\n  o controlo da bexiga ou dos intestinos. Isto é raro, mas requer cuidados de emergência."
+    },
+    "basal-body-temperature": {
+      "title": "Temperatura corporal basal",
+      "aliases": [
+        "bbt",
+        "temperatura corporal basal",
+        "temperatura ao acordar",
+        "método da temperatura"
+      ],
+      "glance": "A temperatura corporal basal é a temperatura matinal em repouso, que aumenta ligeiramente após a ovulação.",
+      "overview": "A temperatura corporal basal (BBT) é a temperatura do seu corpo em estado de repouso total. Medida da mesma forma todos os\ndias, revela uma variação pequena, mas reveladora, ao longo do ciclo: após a ovulação, sobe ligeiramente e\nmantém-se elevada até à sua próxima menstruação.\n\nO aumento é pequeno — cerca de 0,4 a 0,8 °F (aproximadamente 0,2 a 0,4 °C) — pelo que se avalia com base num padrão ao longo de\nvários dias, e não numa única medição. Para a detetar, deve medir a sua temperatura todas as manhãs antes de\nse levantar, comer ou beber, de preferência à mesma hora. Quase todas as mulheres ovulam no prazo de cerca de\ntrês dias após o aumento da temperatura.\n\nComo o aumento ocorre *depois* da libertação do óvulo, o método «BBT» confirma que a ovulação já ocorreu, em vez de\na prever antecipadamente. Ao longo de alguns ciclos, pode ajudar-te a perceber o padrão do teu próprio ciclo,\nembora, por si só, não seja uma forma precisa de identificar os dias férteis.",
+      "deep": "BBT é um dos sinais de consciência da fertilidade registados diariamente, juntamente com o muco cervical e a\nduração do ciclo. Combina naturalmente com o acompanhamento do muco: a mudança para um muco transparente e escorregadio sugere que a\njanela fértil está a abrir-se, enquanto o aumento da temperatura alguns dias depois confirma que a ovulação já\nocorreu. Muitos fatores podem influenciar a temperatura em repouso — sono de má qualidade, doença, álcool ou dormir até tarde —\npelo que valores isolados anormais têm menos importância do que a tendência geral.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Sangramento durante a gravidez",
+      "aliases": [
+        "sangramento durante a gravidez",
+        "sangramento vaginal durante a gravidez",
+        "sangramento durante a gravidez",
+        "sangramento durante a gravidez"
+      ],
+      "glance": "O sangramento durante a gravidez nem sempre é grave — é comum haver um ligeiro sangramento no início da gravidez — mas deve sempre consultar um médico.",
+      "overview": "O sangramento vaginal durante a gravidez nem sempre é sinal de que algo está errado. Um\nsangramento ligeiro ou manchas de sangue são bastante comuns, sobretudo no início da gravidez, e muitas gravidezes continuam\na decorrer perfeitamente bem depois disso.\n\nDito isto, o sangramento pode, por vezes, ser um sinal de um problema — como um aborto espontâneo ou uma gravidez ectópica\n—, pelo que é algo que deve **ser sempre avaliado**, independentemente da quantidade. Só\nao consultar um médico é que se descobre a causa e se obtém rapidamente os cuidados adequados, caso sejam necessários.\n\nComo o mesmo sintoma pode significar coisas muito diferentes, o mais sensato não é adivinhar — é\nentrar em contacto com um profissional de saúde e ser examinada.",
+      "deep": null,
+      "when_to_see_doctor": "- **Contacte sempre a sua maternidade** (ou, se estiver com menos de 20 semanas ou não tiver o\n  número, um serviço de acompanhamento da gravidez precoce ou o **NHS 111**) se tiver **qualquer** sangramento vaginal durante a gravidez,\n  mesmo que seja apenas um ligeiro manchado — para que a causa possa ser verificada.",
+      "red_flags": "- Ligue para o **999 ou dirija-se ao serviço de urgências** se tiver **sangramento intenso** — por exemplo, se encher um penso higiénico pouco tempo depois de\n  o ter colocado — especialmente se tiver **dores abdominais intensas, dores na ponta do ombro ou se sentir náuseas, desmaios,\n  tonturas ou perder a consciência.** Isto requer cuidados de emergência."
+    },
+    "breast-awareness": {
+      "title": "Consciencialização sobre o cancro da mama",
+      "aliases": [
+        "consciencialização sobre o cancro da mama",
+        "exame mamário",
+        "autoexame das mamas",
+        "autoexame das mamas",
+        "exame das mamas"
+      ],
+      "glance": "A sensibilização para a saúde mamária consiste simplesmente em conhecer o aspeto e a textura normais das suas mamas, para que possa detetar eventuais alterações.",
+      "overview": "A auto-avaliação mamária não é uma técnica especial — trata-se apenas de conhecer o que é normal para si, para que\nqualquer alteração se destaque. Examinar regularmente as suas mamas ou peito ajuda-a a familiarizar-se com o seu\naspecto e textura habituais; uma vez por mês é uma boa frequência.\n\nNão existe uma única forma «certa» de o fazer. Muitas pessoas olham-se ao espelho com os braços para baixo e depois levantados, e\napalpam cada mama, subindo até à axila. O que se pretende é ganhar familiaridade, não fazer um diagnóstico — o\nobjetivo é apenas detetar uma alteração precocemente, caso ocorra.\n\nAs mamas também mudam naturalmente ao longo do ciclo menstrual e ao longo da vida, pelo que algumas alterações são completamente\nnormais. O objetivo da atenção é conhecer o seu próprio estado normal suficientemente bem para detetar algo que não o seja.",
+      "deep": null,
+      "when_to_see_doctor": "Consulte um médico de família se notar alguma alteração que não seja normal para si, tal como:\n\n- um nódulo ou inchaço na mama, no peito ou na axila\n- uma alteração na pele, como covinhas (pode parecer casca de laranja) ou vermelhidão\n- uma alteração no tamanho ou na forma de uma ou ambas as mamas\n- secreção do mamilo (se não estiver grávida ou a amamentar), que pode conter sangue\n- uma alteração no aspeto do mamilo, como, por exemplo, se este ficar virado para dentro\n- dor na mama ou na axila que não desaparece\n\nA maioria das alterações mamárias não é cancro e acaba por ser inofensiva — mas vale sempre a pena fazer um\nexame imediato a qualquer alteração, porque, se algo precisar de atenção, a deteção precoce ajuda.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Amamentação",
+      "aliases": [
+        "amamentação",
+        "enfermagem",
+        "leite materno",
+        "amamentação",
+        "alimentar o seu bebé"
+      ],
+      "glance": "O leite materno protege o bebé contra infeções e adapta-se à medida que este cresce — e qualquer quantidade traz benefícios.",
+      "overview": "O leite materno é um alimento natural e completo para o bebé: fornece os nutrientes, as vitaminas e os minerais\nde que necessita e vai-se adaptando ao longo do tempo à fase de desenvolvimento do bebé. Além disso, ajuda a proteger contra infeções\ne doenças e proporciona alguns benefícios para a saúde a longo prazo.\n\nExistem também benefícios para a mãe — a amamentação está associada a um risco mais baixo de cancro da mama\ne do ovário, entre outros — e, em geral, quanto mais e durante mais tempo\namamentar, maiores são os benefícios. É importante referir que **qualquer** quantidade de leite materno vale a pena; não é\numa questão de «tudo ou nada».\n\nAmamentar um bebé também pode ser mais difícil do que o esperado no início, e isso é comum. Há ajuda disponível — da\nsua parteira, do profissional de saúde que a acompanha e do apoio à amamentação dNHS — por isso, procurar ajuda logo no início, se as coisas não estiverem a correr\nbem, é uma boa ideia.",
+      "deep": null,
+      "when_to_see_doctor": "- Peça ajuda à sua **parteira ou assistente de saúde** logo no início, se a amamentação for dolorosa ou difícil, ou\n  se estiver preocupada por o seu bebé não estar a receber alimento suficiente — o apoio pode fazer toda a diferença.\n- A forma como amamenta o seu bebé é uma decisão pessoal, e terá apoio independentemente da sua escolha; o que\n  importa é que você e o seu bebé estejam bem.",
+      "red_flags": null
+    },
+    "cervical-mucus": {
+      "title": "Muco cervical",
+      "aliases": [
+        "muco cervical",
+        "descarga",
+        "corrimento vaginal",
+        "secreções cervicais",
+        "muco com consistência de clara de ovo"
+      ],
+      "glance": "O muco cervical é a secreção natural que se altera ao longo do ciclo e indica os teus dias férteis.",
+      "overview": "O muco cervical é o fluido produzido pelo colo do útero, que pode ser percebido como corrimento. É normal, e\na sua aparência e textura variam de acordo com um padrão bastante previsível ao longo do ciclo — razão pela qual é um\ndos sinais utilizados para identificar os dias férteis.\n\nLogo após a menstruação, há frequentemente alguns dias «secos», com pouca quantidade de muco. À medida que um óvulo começa a\namadurecer, o muco aumenta e tende a ficar branco ou amarelado, turvo e pegajoso. Nos dias imediatamente\nantes da ovulação, torna-se geralmente transparente, húmido e escorregadio, esticando-se entre os dedos como clara\nde ovo crua — este é o período mais fértil. Após a ovulação, torna-se normalmente pegajoso e turvo\nnovamente, ou seca.\n\nO padrão de cada pessoa é um pouco diferente, e pode ser necessário prestar atenção durante alguns ciclos para aprender\na reconhecer o seu próprio padrão. Alguns fatores — como a contraceção hormonal, a amamentação ou uma infeção — podem alterar\no muco, pelo que não é um sinal de fertilidade fiável para todas as pessoas.",
+      "deep": "A observação do muco cervical é um dos sinais de consciência da fertilidade que as pessoas monitorizam, a par da temperatura corporal\nem repouso e da duração do ciclo; aprender a interpretá-los demora normalmente dois a três ciclos. Ao contrário de um\naumento da temperatura, que só confirma a ovulação depois de esta ter ocorrido, a mudança para um muco transparente, escorregadio e com consistência de clara de ovo\ntende a surgir *antes* da ovulação, razão pela qual é utilizado para sinalizar a janela fértil à medida que esta\nse abre, em vez de depois de se fechar.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Rastreio do colo do útero (citrologia)",
+      "aliases": [
+        "rastreio do colo do útero",
+        "esfregaço",
+        "mancha",
+        "exame de Papanicolau",
+        "citrologia cervical"
+      ],
+      "glance": "O rastreio do colo do útero é um exame de rotina à saúde do colo do útero que ajuda a prevenir o cancro do colo do útero.",
+      "overview": "O rastreio cervical é um exame que avalia a saúde do colo do útero — a abertura que dá acesso ao útero, na\nparte superior da vagina. Não se trata de um exame para detetar cancro. Pelo contrário, é uma forma de identificar alterações numa fase precoce e ajudar a\nprevenir, desde o início, o desenvolvimento do cancro do colo do útero.\n\nTodas as pessoas com colo do útero são convidadas a partir dos 25 até aos 64 anos. Recebes um convite quando\nchegar a altura, a intervalos regulares, pelo que não precisas de te lembrar de marcar a consulta de improviso —\nembora a decisão de ir ou não seja sempre tua.\n\nO exame em si é rápido e é realizado por uma enfermeira. Muitas pessoas sentem-se um pouco nervosas com isso, o que é\nperfeitamente compreensível; saber para que serve — um exame de rotina e preventivo — pode fazer com que pareça\nmais fácil de lidar.",
+      "deep": null,
+      "when_to_see_doctor": "- O rastreio destina-se a quem **não** apresenta sintomas. Se notar algo que o preocupe\n  entre os rastreios — como, por exemplo, sangramento invulgar (entre menstruações, após relações sexuais ou após a menopausa) —\n  consulte o seu médico de família em vez de esperar pelo próximo convite.\n- Se recebeu um convite e está indecisa ou ansiosa em relação à consulta, vale a pena falar com o seu médico de família ou\n  com a enfermeira do consultório, que lhe podem explicar o que vai acontecer e responder às suas perguntas.",
+      "red_flags": null
+    },
+    "combined-pill": {
+      "title": "A pílula combinada",
+      "aliases": [
+        "pílula combinada",
+        "a pílula",
+        "contraceptivo oral combinado",
+        "COC"
+      ],
+      "glance": "A pílula combinada é um comprimido diário que contém duas hormonas e que atua principalmente impedindo a ovulação.",
+      "overview": "A pílula combinada é um comprimido diário que contém duas hormonas — variantes do estrogénio e do progestogénio,\nsemelhantes às produzidas pelos ovários. É um dos métodos contraceptivos mais conhecidos.\n\nPrevine a gravidez de várias formas ao mesmo tempo. Principalmente, impede que os ovários libertem um óvulo\n(ovulação). Também torna o muco do colo do útero mais espesso, dificultando a passagem dos espermatozoides,\ne torna o revestimento do útero mais fino.\n\nA sua eficácia depende do cumprimento das instruções de utilização: é eficaz em mais de 99% dos casos com uma utilização perfeita, mas\ncom uma utilização típica do dia a dia — em que, por vezes, se esquece de tomar a pílula ou se atrasa a sua toma —, a eficácia ronda os 91%\n. Tal como a maioria dos métodos, não protege contra as IST, pelo que algumas pessoas utilizam também preservativos.",
+      "deep": "A pílula combinada é normalmente tomada seguindo um padrão ao longo do mês, e a forma de a tomar, a quem se adequa,\nbem como os seus efeitos secundários e riscos, são aspetos que o médico aborda quando a prescreve — não é\nadequada para todas as pessoas. Por se tratar de um método diário, a sua eficácia na prática depende muito da\nrotina. Este artigo explica o que é e como funciona; os pormenores relativos ao início, à toma ou\nà interrupção do tratamento devem ser discutidos com um médico de família, um enfermeiro ou um farmacêutico.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Sintomas comuns da gravidez",
+      "aliases": [
+        "sintomas comuns da gravidez",
+        "incomodidades da gravidez",
+        "azia na gravidez",
+        "dores nas costas durante a gravidez",
+        "tornozelos inchados",
+        "prisão de ventre na gravidez",
+        "dores da gravidez"
+      ],
+      "glance": "A gravidez traz consigo muitas pequenas dores e alterações — na sua maioria normais, embora algumas mereçam uma consulta médica.",
+      "overview": "A gravidez traz muitas mudanças ao seu corpo e vem acompanhada de uma longa lista de pequenos incómodos do dia a dia. A maioria\né comum e não é sinal de que algo esteja errado — fazem simplesmente parte do processo de gestação de um bebé.\n\nEntre as mais comuns contam-se dores nas costas, azia e indigestão, obstipação, hemorróidas, tornozelos, pés\ne dedos inchados, cansaço e sono interrompido, cãibras nas pernas, dores de cabeça, sensação de desmaio e mais corrimento do que\no habitual. Muitos aliviem-se com pequenos cuidados de conforto, e a sua parteira pode sugerir o que é seguro se algo a\nestiver a incomodar.\n\nO importante é saber quais as mudanças que são normais e quais as que merecem atenção —\nporque alguns sintomas, embora menos comuns, precisam de ser avaliados em vez de se esperar que desapareçam por si próprios.",
+      "deep": null,
+      "when_to_see_doctor": "A maioria destes sintomas é normal, mas contacte imediatamente a sua **parteira ou a maternidade** se tiver:\n\n- **sangramento vaginal** ou uma fuga repentina ou gotejamento de líquido\n- o seu **bebé a mexer-se menos** do que o habitual\n- uma **dor de cabeça intensa, problemas de visão ou inchaço repentino** do rosto, das mãos ou dos pés (possíveis\n  sinais de pré-eclâmpsia)\n- **dor abdominal intensa ou unilateral**, ou **febre elevada**\n- **comichão**, especialmente nas mãos e nos pés ou que se agrava à noite (pode ser um sinal de uma\n  doença hepática na gravidez que requer avaliação)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Preservativos",
+      "aliases": [
+        "preservativo",
+        "preservativos",
+        "preservativo externo",
+        "borracha",
+        "método de barreira"
+      ],
+      "glance": "Os preservativos são um método de barreira — e o único tipo de contraceção que também protege contra as IST.",
+      "overview": "Um preservativo é uma barreira fina — geralmente de látex ou de um material plástico alternativo para quem tem alergia ao látex\n— que se coloca no pénis durante a relação sexual. O seu funcionamento é simples: impede que os espermatozoides entrem na vagina.\n\nO que torna os preservativos especiais entre os contraceptivos é o facto de serem **o único método que também protege\ncontra infeções sexualmente transmissíveis (IST), incluindo o VIH.** É por isso que são frequentemente utilizados\nem conjunto com outro método — um para a gravidez e o outro para a proteção contra infeções.\n\nQuando utilizados corretamente em todas as ocasiões, os preservativos têm uma eficácia de cerca de 98% na prevenção da gravidez. Com uma\nutilização típica — em que, por vezes, são utilizados incorretamente ou não em todas as ocasiões —, essa eficácia desce para cerca de 82%. Utilizar\num preservativo de forma adequada e consistente é o que faz a diferença.",
+      "deep": "Uma vez que os preservativos são utilizados no momento e não antecipadamente, a sua eficácia na prática\ndepende em grande medida de uma utilização consistente e correta. Os preservativos internos (colocados no interior da vagina) são outra\nopção de barreira. Ao contrário da maioria dos métodos, os preservativos não requerem receita médica e estão amplamente disponíveis, e\na sua dupla função — proteção contra a gravidez e contra a STI — é a razão pela qual são tão frequentemente mencionados em conversas sobre\nsexo seguro.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Contracepção",
+      "aliases": [
+        "contracepção",
+        "contracepção",
+        "planeamento familiar"
+      ],
+      "glance": "A contraceção consiste nas diferentes formas de prevenir a gravidez — e há muitas por onde escolher.",
+      "overview": "A contraceção — por vezes denominada «controlo de natalidade» — é o conjunto de métodos utilizados para prevenir a gravidez.\nExistem muitos métodos, e funcionam de formas diferentes: alguns utilizam hormonas, outros são de barreira, outros\nsão colocados no interior do útero e outros baseiam-se no acompanhamento do ciclo.\n\nA eficácia de um método depende muito da forma como é utilizado. Alguns métodos — como o implante e os\ndispositivos intrauterinos — são do tipo «colocar e esquecer» e têm uma eficácia superior a 99%. Outros, como a pílula ou os preservativos, são\nmuito eficazes quando utilizados na perfeição, mas um pouco menos no uso diário e habitual, porque é\nmais fácil esquecer-se de tomar uma pílula ou utilizar um preservativo de forma incorreta.\n\nUma coisa que vale a pena saber: **apenas os preservativos protegem também contra infeções sexualmente transmissíveis\n(IST)**. Os outros métodos previnem a gravidez, mas não as infeções, razão pela qual os preservativos são, por vezes,\nutilizados em conjunto com outro método.\n\nNão existe um único método «melhor» — o método certo depende da sua saúde, do seu corpo e do que se adequa\nà sua vida. Um médico de família ou uma clínica de saúde sexual pode explicar-lhe as opções e ajudá-la a escolher.",
+      "deep": "Como os métodos variam tanto, é útil refletir sobre o que é importante para si: qual a eficácia do método,\nse implica ter de se lembrar de algo diariamente, quanto tempo dura, se pretende ou\nnão utilizar hormonas e se a proteção cSTIa é importante na sua situação. Muitas pessoas mudam de método ao longo da\nvida, à medida que as suas necessidades mudam. Esta base de conhecimento descreve como funcionam os métodos mais comuns, para que as\nescolhas pareçam mais claras — mas a decisão, bem como qualquer prescrição ou adaptação, deve ser tomada em conjunto com um\nprofissional de saúde.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "O implante contraceptivo",
+      "aliases": [
+        "implante contraceptivo",
+        "o implante",
+        "Nexplanon",
+        "implante"
+      ],
+      "glance": "O implante é uma pequena haste colocada na parte superior do braço que liberta uma hormona durante alguns anos.",
+      "overview": "O implante contraceptivo é uma pequena haste flexível — aproximadamente do tamanho de um palito de fósforo — colocada logo\nsob a pele da parte superior do braço por um profissional de saúde qualificado. Uma vez inserido, liberta de forma constante uma hormona progestogénica\ne tem uma duração de até cerca de três anos.\n\nPrevine a gravidez principalmente ao impedir que os ovários libertem um óvulo (ovulação) e ao\ntornar o muco do colo do útero mais espesso, de modo a que os espermatozoides não consigam passar. Como não há nada de que\nse tenha de lembrar no dia-a-dia, é um dos métodos do tipo «colocar e esquecer».\n\nÉ também por isso que é uma das opções mais fiáveis: o implante tem uma eficácia superior a 99% e a sua\neficácia praticamente não varia entre a utilização perfeita e a utilização típica. Tal como outros métodos hormonais,\nnão protege contra as IST.",
+      "deep": "O implante é um método reversível de ação prolongada — continua a funcionar até ser removido, e a fertilidade\nrecupera-se após a remoção. A colocação e a remoção são procedimentos rápidos realizados por um profissional de saúde, que\ntambém explica a quem se destina e quais são os seus efeitos secundários. Este artigo explica o que é e como\nfunciona; a decisão de o utilizar deve ser tomada em consulta com um médico de família, um enfermeiro ou numa clínica de saúde sexual.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "O teu ciclo e o teu bem-estar",
+      "aliases": [
+        "bem-estar",
+        "ciclismo e saúde",
+        "ciclo menstrual e saúde",
+        "sinal vital"
+      ],
+      "glance": "O teu ciclo é um pouco como uma avaliação mensal da tua saúde — vale a pena estar atenta às alterações que nele possam ocorrer.",
+      "overview": "O teu ciclo menstrual não é algo separado do resto da tua saúde — está ligado a ela. Um ciclo\nque seja regular para ti é, geralmente, um sinal de que o teu corpo está a funcionar como deve. É por isso que\nalgumas pessoas encaram a menstruação como uma espécie de sinal mensal sobre o bem-estar geral.\n\nA vida quotidiana tem influência nisso. O peso corporal é um exemplo: estar significativamente abaixo ou acima do peso\npode afetar as hormonas que regulam a ovulação, o que pode tornar a menstruação irregular. Isto funciona nos dois\nsentidos — cuidar dos aspetos básicos, como uma alimentação equilibrada e manter-se ativa, apoia o\nciclo, e um ciclo regular é um sinal de que essas coisas estão num equilíbrio razoável.\n\nNão se trata de procurar um ciclo «perfeito» nem de se culpar pelas alterações. Trata-se simplesmente de\nprestar uma atenção discreta ao seu ciclo, o que pode ser uma forma útil de perceber como se sente — e um incentivo para\nconsultar um profissional de saúde caso algo mude.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulte um médico de família se os seus períodos se tornarem irregulares, deixarem de ocorrer ou sofrerem alterações que não sejam habituais para si —\n  alterações persistentes podem, por vezes, indicar algo que vale a pena investigar.\n- Também vale a pena falar com um médico se os problemas menstruais estiverem a afetar a sua vida quotidiana, para que possa obter\n  apoio em vez de simplesmente ter de os suportar.",
+      "red_flags": null
+    },
+    "ectopic-pregnancy": {
+      "title": "Gravidez ectópica",
+      "aliases": [
+        "gravidez ectópica",
+        "ectópico",
+        "gravidez tubária"
+      ],
+      "glance": "Uma gravidez ectópica desenvolve-se fora do útero — não pode prosseguir e requer cuidados médicos imediatos.",
+      "overview": "Uma gravidez ectópica ocorre quando um óvulo fertilizado se implanta fora do útero, na maioria das vezes numa das\ntrompas de Falópio. Infelizmente, uma gravidez nesta localização não pode evoluir para um bebé e não pode ser\ntransferida para o útero — pelo que requer sempre tratamento.\n\nOs sintomas surgem normalmente entre a 4.ª e a 12.ª semana e podem incluir dor abdominal na parte inferior de um dos lados,\nsangramento vaginal ou corrimento aquoso acastanhado, dor na ponta do ombro ou desconforto ao\nurinar ou evacuar. A combinação de sintomas varia, e alguns podem ser facilmente confundidos com algo de menor gravidade,\nrazão pela qual é importante fazer um exame médico.\n\nTrata-se de uma situação pouco comum, mas potencialmente grave, pelo que não se deve esperar que passe por si só. Procurar\naconselhamento médico atempadamente significa que a situação pode ser tratada com segurança.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacte o seu médico de família ou ligue para o **NHS 111** se tiver uma combinação destes sintomas **e se achar que pode estar\n  grávida** — mesmo que o teste de gravidez não tenha dado positivo. É importante procurar aconselhamento\n  imediatamente.",
+      "red_flags": "- Ligue para o **999 ou dirija-se ao serviço de urgências** se sentir uma **dor repentina, aguda e intensa na barriga**, se se sentir **muito\n  tonturento ou prestes a desmaiar**, se estiver **muito pálido** ou se tiver náuseas juntamente com estes sintomas. Isto pode significar que a trompa de Falópio\n  se rompeu — uma emergência médica que requer tratamento urgente."
+    },
+    "emergency-contraception": {
+      "title": "Contraceção de emergência",
+      "aliases": [
+        "contraceção de emergência",
+        "pílula do dia seguinte",
+        "pílula do dia seguinte",
+        "pílula do dia seguinte",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "A contraceção de emergência pode prevenir a gravidez após relações sexuais desprotegidas — e quanto mais cedo, melhor.",
+      "overview": "A contraceção de emergência é uma forma de prevenir a gravidez após relações sexuais sem contraceção, ou quando o\nteu método habitual pode ter falhado (uma pílula esquecida, um preservativo rasgado). Existem dois tipos, e o momento em que\né tomada é importante para ambos.\n\nA primeira é a **pílula de emergência**. Existem dois tipos: um (levonorgestrel) pode ser tomado até\n3 dias — 72 horas — após a relação sexual, e outro (acetato de ulipristal, com a marca comercial ellaOne) até 5 dias —\n120 horas. A segunda opção é o **dispositivo intrauterino de cobre (IUD)**, que um profissional de saúde pode colocar até 5 dias\napós a relação sexual; é a forma mais eficaz de contraceção de emergência e pode, posteriormente, permanecer como\ncontraceção contínua, se assim o desejar.\n\nEm todos estes casos, **quanto mais cedo os utilizar, melhor tendem a funcionar** — por isso, vale a pena agir\nrápidamente em vez de esperar. Pode obter a contraceção de emergência numa farmácia, junto de um médico de família, numa\nclínica de saúde sexual ou num centro de atendimento sem marcação, muitas vezes gratuitamente.",
+      "deep": null,
+      "when_to_see_doctor": "- Como se trata de uma situação urgente, não espere — um farmacêutico pode fornecer a pílula de emergência rapidamente e\n  uma clínica de saúde sexual ou um médico de família pode prescrever a pílula de emergência «IUD».\n- A contraceção de emergência destina-se a prevenir a gravidez, não a infeções. Se houver alguma possibilidade de uma\n  infeção sexualmente transmissível, uma clínica de saúde sexual pode aconselhá-la sobre a realização de exames.\n- Se a sua menstruação se atrasar mais do que alguns dias, ou se for muito diferente do habitual, vale a pena fazer\n  um teste de gravidez e falar com um profissional de saúde.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriose",
+      "aliases": [
+        "endometriose",
+        "endo"
+      ],
+      "glance": "A endometriose é uma doença em que tecido semelhante ao revestimento do útero cresce fora do útero, causando frequentemente dor.",
+      "overview": "A endometriose é uma doença crónica em que células semelhantes ao revestimento do útero crescem\nnoutras partes do corpo, como à volta dos ovários, na pélvis ou no intestino. É comum —\nestima-se que afete cerca de 1 em cada 10 mulheres em idade reprodutiva em todo o mundo.\n\nComo este tecido se comporta de forma semelhante ao revestimento do útero, pode causar inflamação e, com o tempo,\ntecido cicatricial. O sintoma mais comum é a dor: frequentemente dores menstruais intensas, mas também dores pélvicas ou na parte inferior das costas\nnoutras ocasiões, dor durante ou após as relações sexuais e dor ao urinar ou defecar. Menstruações muito intensas,\ncansaço profundo, baixo de ânimo e dificuldade em engravidar também são comuns. Os sintomas variam muito —\nalgumas pessoas têm dores intensas, outras têm poucas.\n\nA endometriose é frequentemente mal compreendida e pode demorar anos a ser diagnosticada, em parte porque as dores menstruais são\nmuitas vezes consideradas «normais». Uma dor intensa que perturba a sua vida não é algo que tenha simplesmente\nde suportar — vale a pena levá-la a sério.",
+      "deep": "A causa exata da endometriose não é conhecida e, atualmente, não existe cura — mas os tratamentos podem\najudar a controlar os sintomas, e as opções vão desde medicamentos até, para algumas pessoas, cirurgia, a par de\napoio para lidar com o impacto físico e emocional. Um dos maiores desafios é a demora: em média, pode\ndemorar vários anos, por vezes muitos, até se chegar a um diagnóstico. É por isso que manter um registo claro\ndos seus sintomas e voltar a consultar um médico se não for ouvida pode ser tão importante.",
+      "when_to_see_doctor": "Vale a pena consultar um médico de família se:\n\n- tiver dores menstruais intensas que a impeçam de realizar as suas atividades normais\n- os seus períodos forem muito abundantes — por exemplo, se precisar de trocar um penso higiénico ou tampão a cada 1–2 horas\n- tiver dores pélvicas ou na parte inferior das costas persistentes, dor durante ou após as relações sexuais, ou dor ao urinar ou defecar\n- estiver com dificuldade em engravidar\n- o tratamento que já recebeu não tiver ajudado, ou os seus sintomas tiverem piorado\n\nComo o diagnóstico da endometriose pode demorar algum tempo, não há problema em voltar ao médico se os seus sintomas não forem levados\na sério — ter uma visão clara da evolução da sua dor ao longo do tempo ajuda. Se a dor ou o sangramento intenso também estiverem\na afetar o seu humor, informe o seu médico de família; isso faz parte do quadro clínico e há apoio disponível.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogénio",
+      "aliases": [
+        "estrogénio"
+      ],
+      "glance": "O estrogénio é uma hormona fundamental que ajuda a preparar o corpo para uma eventual gravidez em cada ciclo.",
+      "overview": "O estrogénio é uma das principais hormonas responsáveis pelo ciclo menstrual. Na primeira metade do ciclo\n(a fase folicular), o seu nível aumenta à medida que um folículo no ovário amadurece. Este aumento torna mais espesso o\nrevestimento do útero e conduz à ovulação.\n\nO estrogénio também influencia aspetos que poderá notar no dia a dia — energia, humor e alterações no\nmuco cervical em torno dos seus dias férteis. Após a ovulação, o seu nível desce e, em seguida, muda novamente,\natuando em conjunto com outra hormona, a progesterona, durante a segunda metade do ciclo.\n\nOs níveis aumentam e diminuem naturalmente ao longo de cada ciclo e também variam ao longo das diferentes fases da vida. Isto é\nnormal — é o ritmo a que o seu corpo funciona, não algo que seja preciso «corrigir».",
+      "deep": "O estrogénio não é uma única substância, mas sim um grupo de hormonas relacionadas (a mais ativa no ciclo\né o estradiol). A maior parte é produzida pelos ovários, no folículo em crescimento. O seu aumento e\ndiminuição cíclicos — em conjunto com a progesterona e as hormonas de sinalização do cérebro, a LHa e a FSHa — são o que\ndetermina as fases do ciclo. Como o estrogénio afeta muitos sistemas, as suas oscilações naturais podem\nmanifestar-se de forma subtil ao longo do mês; o acompanhamento ajuda-a a conhecer o seu próprio padrão, em vez de\no comparar com uma «média».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "A atividade física e o teu ciclo",
+      "aliases": [
+        "exercício",
+        "atividade física",
+        "a fazer exercício",
+        "movimento",
+        "exercício e períodos"
+      ],
+      "glance": "Pode manter-se ativa durante todo o seu ciclo — e a prática regular de exercício físico pode aliviar as cólicas e a PMS.",
+      "overview": "Pode praticar atividade física em qualquer fase do seu ciclo. Algumas pessoas sentem que têm mais energia e\nconseguem esforçar-se um pouco mais em certas alturas do mês, e menos noutras — ambas as situações são normais e\nnenhuma delas é motivo para deixar de se movimentar.\n\nA atividade física regular pode, na verdade, ajudar a aliviar alguns sintomas relacionados com a menstruação. As pessoas que praticam exercício regularmente\ntêm, muitas vezes, cólicas menos dolorosas, e manter-se ativa também pode aliviar os sintomas pré-menstruais (PMS). Nos\ndias em que a energia está mais baixa, os movimentos mais suaves também contam — não é preciso ser intenso para valer a pena.\n\nNão há necessidade de organizar a sua vida em função do seu ciclo, nem existe uma única forma «certa» de se movimentar. Observar\no seu próprio padrão de energia ao longo do mês pode simplesmente ajudá-la a planear de uma forma que lhe faça bem.",
+      "deep": null,
+      "when_to_see_doctor": "- Um treino muito intenso, ou praticar tanto exercício físico que o corpo fique com pouca energia, pode fazer com que as menstruações\n  se tornem irregulares ou cessem por completo. Um ciclo regular é, geralmente, um sinal de que tudo está a\n  correr bem, por isso vale a pena falar com um médico de família se a menstruação se tornar irregular ou parar — isto pode estar\n  relacionado com a saúde óssea e hormonal a longo prazo.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Exercício físico durante a gravidez",
+      "aliases": [
+        "exercício físico durante a gravidez",
+        "manter-se ativa durante a gravidez",
+        "exercício durante a gravidez",
+        "manter a forma durante a gravidez"
+      ],
+      "glance": "Manter-se ativa é seguro e benéfico na maioria das gravidezes — com moderação, sem se esgotar.",
+      "overview": "Manter-se ativa durante a gravidez faz bem à sua saúde e não é perigoso para o seu bebé — na verdade, manter-se em forma\npode ajudá-la a lidar com as mudanças que se avizinham e com o parto. Não precisa de praticar nenhuma atividade intensa;\ncontinuar com a sua rotina diária normal, desde que se sinta confortável, é um bom ponto de partida.\n\nUma regra simples: deve conseguir **manter uma conversa** enquanto se movimenta. Se ficar demasiado\nsem fôlego para falar, abrande o ritmo. Opções suaves como caminhadas, natação, aulas de hidroginástica para grávidas e\nioga para grávidas são adequadas para a maioria das pessoas. Se não era ativa antes, esta não é a altura para começar uma\nnova rotina extenuante — em vez disso, vá aumentando a intensidade gradualmente.\n\nÉ melhor evitar algumas atividades ou abordá-las com cuidado — como deitar-se de costas após\ncerca de 16 semanas, desportos de contacto, mergulho e qualquer coisa que implique um risco real de queda.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulte a sua **parteira** antes de iniciar um novo programa de exercício aeróbico, ou se tiver algum\n  problema de saúde ou alguma preocupação relacionada com a gravidez.\n- **Pare e procure aconselhamento** se se sentir mal, com tonturas ou com muita falta de ar, ou se sentir alguma dor,\n  sangramento ou contrações durante o exercício.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "A janela fértil",
+      "aliases": [
+        "período fértil",
+        "dias férteis",
+        "dias mais férteis"
+      ],
+      "glance": "A janela fértil corresponde aos poucos dias de cada ciclo em que as relações sexuais podem conduzir à gravidez.",
+      "overview": "A janela fértil é o curto período do ciclo em que é possível engravidar. Existe devido a\ndois momentos que não coincidem exatamente: um óvulo só pode ser fertilizado durante cerca de 12 a 24 horas\napós a sua libertação, mas os espermatozoides podem sobreviver no interior do corpo durante vários dias — até cerca de uma semana —\nà espera de um óvulo.\n\nEm conjunto, isso significa que a janela se abre alguns dias antes da ovulação e fecha cerca de um dia\ndepois desta. Na prática, estás mais fértil nos 2 a 3 dias que antecedem a ovulação e no\npróprio dia da ovulação, porque os espermatozoides já podem estar presentes quando o óvulo chega.\n\nUma vez que a ovulação pode variar de ciclo para ciclo, a janela fértil também se desloca. É por isso que é\nnormalmente considerada como um intervalo de dias, em vez de uma data única, e que acompanhar os sinais ao longo de\nvários ciclos é mais fiável do que basear-se num único cálculo do calendário.",
+      "deep": "Os dias exatos variam de pessoa para pessoa e de mês para mês, pelo que a melhor forma de estimar essa janela é\natravés dos sinais do próprio corpo, em vez de uma fórmula fixa. As alterações no muco cervical indicam que a\njanela se abre à medida que a ovulação se aproxima, e um aumento da temperatura corporal em repouso confirma — após\no facto — que a ovulação já ocorreu e que a janela se fechou. Os kits de previsão da ovulação funcionam uma\netapa antes, detetando o pico do hormónio luteinizante (LH) que ocorre pouco antes da libertação do óvulo\n.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Períodos iniciais (primeiro período)",
+      "aliases": [
+        "primeiro período",
+        "menarca",
+        "períodos iniciais",
+        "ter o período"
+      ],
+      "glance": "A primeira menstruação surge normalmente por volta dos 12 anos — é normal que ocorra entre os 8 e os 17 anos, aproximadamente.",
+      "overview": "A tua primeira menstruação — por vezes chamada de menarca — é quando o ciclo menstrual começa pela primeira\nvez. A maioria das pessoas começa por volta dos 12 anos, mas é normal que ocorra entre os 8 e os 17 anos, aproximadamente. Geralmente surge\ncerca de dois anos depois de os seios começarem a desenvolver-se.\n\nNormalmente, há sinais que antecedem esta fase: crescimento de pêlos nas axilas e na zona púbica e um pequeno corrimento transparente ou\nbranco nos meses que antecedem. Saber que estes sinais estão a chegar pode fazer com que a primeira menstruação pareça menos\nrepentina.\n\nNo início, as menstruações costumam ser irregulares — os intervalos podem ser longos ou curtos, e o teu\ncorpo pode demorar vários meses, ou mesmo alguns anos, a estabelecer um ritmo mais constante. Quando isso acontece,\nas menstruações tendem a ocorrer a cada 23 a 35 dias e a durar cerca de 2 a 7 dias. A\nirregularidade inicial é normal e não é motivo de preocupação.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulte um médico de família se a menstruação **ainda não tiver começado aos 15 anos**, ou aos **13 anos, caso não haja outros sinais de\n  puberdade** (como desenvolvimento mamário ou pêlos no corpo). Isto serve apenas para verificar se tudo está a decorrer como\n  esperado — normalmente, está tudo bem.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Ácido fólico e vitaminas durante a gravidez",
+      "aliases": [
+        "ácido fólico",
+        "folato",
+        "vitamina D na gravidez",
+        "vitaminas para a gravidez",
+        "suplementos durante a gravidez"
+      ],
+      "glance": "O ácido fólico antes e no início da gravidez ajuda a proteger o bebé — além de uma dose diária de vitamina D.",
+      "overview": "Há dois suplementos que são realmente importantes durante a gravidez, e a NHS recomenda ambos.\n\n**O ácido fólico** é o mais importante. Tomar um suplemento de 400 microgramas por dia — idealmente desde antes da\nconcepção (cerca de três meses antes) e até ao final do primeiro trimestre, às 12 semanas — ajuda a\nproteger o bebé contra defeitos do tubo neural, como a espinha bífida. Como atua numa fase tão precoce, é\numa das poucas coisas que vale a pena começar *antes* da gravidez, se estiver a tentar engravidar.\n\n**A vitamina D** é a outra: recomenda-se um suplemento diário de 10 microgramas durante toda a gravidez\ne durante a amamentação, para apoiar o desenvolvimento ósseo e geral do bebé.\n\nPara além destas duas, uma alimentação saudável e variada cobre a maioria das necessidades — não é necessário tomar muitos suplementos adicionais.\nUm suplemento a evitar é a **vitamina A** (retinol): não tome suplementos que a contenham e evite\no fígado, pois o excesso de vitamina A pode prejudicar o bebé.",
+      "deep": null,
+      "when_to_see_doctor": "- Um **médico de família, parteira ou farmacêutico** pode ajudá-la a escolher os suplementos adequados, e a algumas pessoas é\n  recomendado que tomem uma **dose mais elevada de ácido fólico** (por exemplo, em caso de diabetes, de um nível elevado de BMI, de determinados\n  medicamentos ou uma gravidez anterior afetada por um defeito do tubo neural) — por isso, vale a pena perguntar,\n  especialmente antes ou no início da gravidez.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Fase folicular",
+      "aliases": [
+        "fase folicular",
+        "primeira metade do ciclo"
+      ],
+      "glance": "A fase folicular é a primeira metade do ciclo, durante a qual um óvulo amadurece e o revestimento do útero fica mais espesso.",
+      "overview": "A fase folicular é a primeira parte do ciclo. Começa no primeiro dia da menstruação e\nestende-se até à ovulação. O seu nome deriva do folículo — a pequena bolsa cheia de líquido no ovário\nque contém e faz crescer um óvulo durante este período.\n\nAo longo desta fase, a hormona estrogénio aumenta. Esse aumento do estrogénio tem duas funções principais: ajuda\num folículo no ovário a amadurecer e torna o revestimento do útero mais espesso, preparando o corpo\npara o caso de se iniciar uma gravidez mais tarde no ciclo.\n\nComo o estrogénio está a aumentar, algumas pessoas notam mais energia ou alterações no muco cervical à medida que\nos dias férteis se aproximam. A experiência de cada pessoa é diferente e nada disso precisa de ser «gerido» — é\nsimplesmente a primeira metade do teu ciclo a fazer o seu trabalho.",
+      "deep": "A duração da fase folicular pode variar de ciclo para ciclo, o que explica, em parte, por que razão os ciclos completos\ndiferem de pessoa para pessoa e de mês para mês. Termina quando o aumento dos níveis de estrogénio ajuda a desencadear a\nliberação de um óvulo (ovulação). Como os seus últimos dias conduzem à ovulação, é neste momento que se abre a\njanela de fertilidade — razão pela qual o fim da fase folicular é importante para quem está a monitorizar a fertilidade.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Alimentos a evitar durante a gravidez",
+      "aliases": [
+        "alimentos a evitar durante a gravidez",
+        "alimentação durante a gravidez",
+        "O que não se deve comer durante a gravidez",
+        "cafeína durante a gravidez",
+        "listeria"
+      ],
+      "glance": "A maioria dos alimentos não apresenta problemas durante a gravidez — há alguns que é melhor evitar, e é aconselhável limitar o consumo de cafeína.",
+      "overview": "A boa notícia é que a maioria dos alimentos não apresenta qualquer problema durante a gravidez — apenas um pequeno número deve ser\nevitado ou consumido com cuidado, principalmente para evitar bactérias como a listeria ou o consumo excessivo de certas\nvitaminas. Conhecer essa pequena lista significa que pode ficar tranquila em relação ao resto.\n\nA «NHS» aconselha a ter cuidado com:\n\n- **Alguns queijos** — queijos macios curados com bolor, como o brie e o camembert, e queijos azuis macios,\n  a menos que sejam cozinhados até ficarem bem quentes; e qualquer produto feito com leite **não pasteurizado**.\n- **Carne crua ou mal cozinhada**, enchidos, **patê** e **fígado** (que é muito rico em\n  vitamina A).\n- **Ovos crus ou mal cozidos**, a menos que tenham a marca «British Lion».\n- **Alguns peixes** — evite o tubarão, o peixe-espada e o marlin, limite o consumo de atum e não coma mais do que duas porções\n  de peixe gordo por semana.\n- **Cafeína** — mantenha o consumo abaixo de cerca de 200 mg por dia (aproximadamente duas canecas de café instantâneo), incluindo chá,\n  refrigerantes de cola, bebidas energéticas e chocolate.",
+      "deep": null,
+      "when_to_see_doctor": "- Estas são orientações gerais, não uma dieta rigorosa — se tiver dúvidas sobre o que é seguro para si ou\n  uma necessidade alimentar específica, a sua **parteira** pode esclarecer-lhe essas questões.\n- Se tiver comido algo que consta da lista de «alimentos a evitar», tente não entrar em pânico; fale com a sua parteira se\n  estiver preocupada ou se não se sentir bem.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Hormona folículo-estimulante (FSH)",
+      "aliases": [
+        "fsh",
+        "hormona folículo-estimulante",
+        "hormona folículo-estimulante"
+      ],
+      "glance": "FSH é uma hormona cerebral que estimula o crescimento dos folículos no ovário no início de cada ciclo.",
+      "overview": "FSH — a hormona folículo-estimulante — é uma das hormonas mensageiras que dá início ao ciclo.\nÉ produzida por uma pequena glândula no cérebro (a hipófise) e, tal como o próprio nome indica, estimula\nos folículos: as minúsculas bolsas cheias de líquido nos ovários, cada uma das quais contém um óvulo.\n\nNo início do ciclo, a «FSH» estimula um grupo destes folículos a começar a crescer. À medida que um folículo\nse desenvolve, liberta mais estrogénio, o que, por sua vez, engrossa o revestimento do útero (matriz), preparando-o\npara uma eventual gravidez. Normalmente, um folículo torna-se o dominante, que prossegue até à\novulação.\n\nFSH aos altos e baixos, como parte da oscilação normal do ciclo. Não se sente diretamente o «FSH»\n— este atua discretamente em segundo plano, preparando as alterações mais visíveis da fase folicular.",
+      "deep": "FSH atua em conjunto com a hormona luteinizante (LH); ambas são libertadas pela glândula pituitária no\ncérebro e, em conjunto, conduzem os ovários ao longo do ciclo. A FSH lidera a primeira metade, promovendo o crescimento dos\nfolículos, enquanto o pico de LH, que ocorre mais tarde, marca a libertação de um óvulo a meio do ciclo. Esta interação é também\na razão pela qual os tratamentos de fertilidade utilizam medicamentos à base de FSH: a administração de FSH adicional estimula a\nmaturação simultânea de vários folículos, em vez do único que um ciclo natural normalmente produz.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Diabetes gestacional",
+      "aliases": [
+        "diabetes gestacional",
+        "diabetes na gravidez",
+        "níveis elevados de açúcar no sangue durante a gravidez"
+      ],
+      "glance": "A diabetes gestacional consiste num aumento dos níveis de açúcar no sangue durante a gravidez — geralmente detetada através de exames de rastreio — e, muitas vezes, resolve-se após o parto.",
+      "overview": "A diabetes gestacional é um nível elevado de açúcar no sangue (glicose) que surge durante a gravidez, quando o corpo\nnão consegue satisfazer totalmente a procura adicional de insulina. Na maioria das pessoas, desaparece após o\nnascimento do bebé.\n\nNormalmente, **não causa sintomas**, pelo que é detetada através de um teste de rastreio realizado durante a gravidez\n(um teste de tolerância à glicose, geralmente por volta das 24.ª a 28.ª semanas), especialmente se tiver fatores que aumentem o\nrisco de a desenvolver — como excesso de peso, antecedentes familiares de diabetes, ter tido anteriormente um bebé de grande peso ou pertencer a certas\norigens étnicas.\n\nÉ muito fácil de controlar. Manter a glicemia dentro de valores saudáveis — através da alimentação, da atividade física e, por vezes,\nde medicação, tudo orientado pela sua equipa de cuidados de saúde — reduz o risco de complicações para si e para o seu bebé,\nrazão pela qual vale a pena estar atenta a esta situação.",
+      "deep": null,
+      "when_to_see_doctor": "- Faça o **teste de rastreio**, caso lhe seja proposto — uma vez que a diabetes gestacional normalmente não apresenta\n  sintomas, o teste é a forma de a detetar.\n- Não espere pelo teste se notar possíveis sinais de níveis elevados de açúcar no sangue — sensação de muita sede,\n  necessidade frequente de urinar, boca seca ou cansaço — fale sobre eles com a sua parteira ou médico.",
+      "red_flags": null
+    },
+    "group-b-strep": {
+      "title": "Estreptococo do grupo B (GBS)",
+      "aliases": [
+        "estreptococo do grupo B",
+        "GBS",
+        "estreptococo do grupo B",
+        "estreptococo B na gravidez"
+      ],
+      "glance": "O estreptococo do grupo B é uma bactéria comum e, na maioria das vezes, inofensiva — o risco, ainda que reduzido, diz respeito ao bebé durante o parto, e é controlável.",
+      "overview": "O estreptococo do grupo B (GBS) é uma bactéria muito comum que muitas pessoas transportam, normalmente na vagina ou\nno ânus, sem o saberem e sem que isso cause qualquer dano. Não se trata de uma infeção de transmissão sexual,\ne ser portador desta bactéria é normal.\n\nDurante a gravidez, só é relevante porque existe uma **pequena probabilidade** de poder ser transmitida ao bebé por volta do\nmomento do parto e, raramente, causar-lhe problemas de saúde — isto acontece em cerca de 1 em cada 1 750 gravidezes. É\nfrequentemente detetada por acaso, por exemplo, num exame à urina ou num esfregaço vaginal realizado por outro motivo (o «NHS\n» não faz rastreios de rotina a todas as mulheres para esta bactéria).\n\nO que é tranquilizador é que é muito fácil de controlar: se se souber da presença da GBS, a administração de **antibióticos por\nsoro durante o trabalho de parto** reduz significativamente a probabilidade de o bebé adoecer.",
+      "deep": null,
+      "when_to_see_doctor": "- Se lhe disserem que é portadora do estreptococo do grupo B — agora ou numa gravidez anterior — **informe a sua parteira ou\n  a equipa de maternidade**, para que se possa planear a administração de antibióticos durante o trabalho de parto. É uma medida simples que faz uma\n  verdadeira diferença.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Azia e indigestão na gravidez",
+      "aliases": [
+        "azia na gravidez",
+        "indigestão na gravidez",
+        "refluxo ácido na gravidez",
+        "refluxo"
+      ],
+      "glance": "A azia é muito comum durante a gravidez — geralmente é inofensiva e, muitas vezes, pode ser aliviada com pequenas mudanças no dia a dia.",
+      "overview": "A azia e a indigestão — uma sensação de ardor ou desconforto no peito, frequentemente após as refeições — são\nmuito comuns durante a gravidez. Isso deve-se às hormonas da gravidez, que relaxam o músculo na parte superior do\nestômago e, mais tarde, ao bebé em crescimento que exerce pressão para cima. É desconfortável, mas não é prejudicial.\n\nPequenas mudanças costumam ajudar: fazer refeições mais pequenas e mais frequentes em vez de refeições grandes, manter-se sentada enquanto\ncome e durante algum tempo depois, reduzir o consumo de alimentos picantes, gordurosos ou com cafeína e não comer\ntarde, antes de se deitar. Algumas pessoas acham que dormir com o corpo ligeiramente elevado é mais confortável.\n\nSe isso não for suficiente, um **farmacêutico** pode sugerir antiácidos seguros para utilizar durante a\ngravidez — uma boa primeira opção antes que o problema se agrave.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulte o seu **médico de família ou parteira** se mudanças simples e remédios de farmácia não estiverem a ajudar, ou se tiver\n  **dificuldade em engolir**, se continuar a vomitar, se perder peso sem querer ou se tiver dores\n  de barriga — vale a pena investigar estes sintomas, em vez de os atribuir a uma azia comum.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Menstruações intensas",
+      "aliases": [
+        "menstruações intensas",
+        "menorragia",
+        "sangramento menstrual intenso",
+        "inundações",
+        "hemorragia intensa",
+        "coágulos"
+      ],
+      "glance": "Menstruações intensas significam uma grande perda de sangue em cada ciclo — é comum, mas vale a pena verificar se isso te afeta.",
+      "overview": "Menstruações intensas — cujo nome médico é menorragia — significam perder muito sangue durante a menstruação.\nPara algumas pessoas, o sangramento abundante é simplesmente normal, mas se estiver a perturbar a sua vida ou a deixá-la\nesgotada, vale a pena investigar.\n\nAlguns sinais de que a menstruação está a ser mais abundante: precisar de trocar um penso higiénico ou tampão a cada 1 a 2 horas,\nusar dois tipos de produtos higiénicos em simultâneo (como um tampão e um penso), sangramento que penetra na\nroupa ou na roupa de cama, expulsão de coágulos de sangue com mais de cerca de 2,5 cm (aproximadamente uma moeda de 10 pence) ou menstruações\nque duram mais de 7 dias.\n\nPerder muita sangue mês após mês pode deixá-la cansada ou com falta de ar, porque pode levar\nà falta de ferro (anemia). Existem muitas causas possíveis — desde miomas ou condições como\na endometriose, a adenomiose ou a síndrome dePCOS, até alguns medicamentos — e, muitas vezes, não se identifica nenhuma causa grave. Seja\ncomo for, é normalmente possível tratar as menstruações intensas, pelo que não são algo com que tenhas simplesmente de conviver.",
+      "deep": null,
+      "when_to_see_doctor": "Consulte um médico de família se:\n\n- as menstruações intensas estiverem a afetar a sua vida quotidiana\n- tiver um sangramento intenso durante muitas horas, ou se as suas menstruações durarem muito tempo\n- também tiver dores menstruais intensas, ou dor durante as relações sexuais, ao urinar ou ao evacuar\n- tiver sangramento entre menstruações ou após as relações sexuais\n- se sentir frequentemente cansada ou com falta de ar (isto pode ser um sinal de falta de ferro)\n\nUm médico de família pode procurar a causa e explicar-lhe o que poderá ajudar.",
+      "red_flags": "- Procure ajuda médica **urgente** — ligue para o **NHS111**, ou para o **999 / dirija-se ao serviço de urgências** se for grave — se estiver\n  **sangrar tanto que encharca um penso ou mais a cada hora, durante várias horas seguidas**, ou se\n  se sentir **fraco, tonto ou com falta de ar**. Estes podem ser sinais de perda excessiva de sangue."
+    },
+    "lh": {
+      "title": "Hormona luteinizante (LH)",
+      "aliases": [
+        "lh",
+        "hormona luteinizante",
+        "hormona luteinizante"
+      ],
+      "glance": "LH é a hormona cerebral cujo pico a meio do ciclo induz o ovário a libertar um óvulo.",
+      "overview": "LH — a hormona luteinizante — é o mensageiro que desencadeia a ovulação. Tal como aFSHa, é produzida por uma\npequena glândula no cérebro (a hipófise) e indica ao ovário quando deve libertar um óvulo.\n\nDurante a maior parte da primeira metade do ciclo, LH mantém-se em níveis baixos. Depois, por volta do meio do ciclo,\naumenta acentuadamente no que se denomina pico de LH. Este pico é o sinal que faz com que o ovário\nlibere o óvulo — a ovulação —, normalmente um dia ou dois depois.\n\nEste pico é um sinal breve e oportuno, e não algo que se note na forma como se sente. Como\nocorre muito pouco antes da libertação do óvulo, o momento em que o LH sobe é um indicador fiável da\nfase mais fértil do ciclo.",
+      "deep": "LH atua em conjunto com o FSH, a hormona responsável pelo crescimento dos folículos nas fases iniciais do ciclo. Enquanto o FSH\nconduz a fase de acumulação, o pico de LH marca o ponto de viragem: os níveis começam a subir cerca de um dia e meio\nantes da libertação do óvulo e atingem o pico cerca de meio dia antes. Após o pico, o ciclo\nentra na sua segunda metade. Este calendário rigoroso é a razão pela qual LH é um marcador tão útil para quem acompanha\na ovulação e porque é fundamental para o planeamento dos tratamentos de fertilidade.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Fase lútea",
+      "aliases": [
+        "fase lútea",
+        "segunda metade do ciclo"
+      ],
+      "glance": "A fase lútea é a segunda metade do ciclo, após a ovulação, quando os níveis de progesterona aumentam.",
+      "overview": "A fase lútea é a parte do ciclo que se segue à ovulação e se prolonga até ao início da próxima menstruação.\nO seu nome deriva do corpo lúteo — a pequena estrutura que o ovário forma a partir do folículo vazio\napós a libertação do óvulo.\n\nNesta fase, a progesterona aumenta. A sua função é manter o revestimento do útero\nespesso e estável, para que, caso um óvulo fertilizado chegue, tenha um local onde se implantar. O estrogénio continua\ntambém a fazer parte do processo, atuando em conjunto com a progesterona.\n\nSe não se iniciar uma gravidez, o corpo lúteo degrada-se, os níveis de progesterona e estrogénio baixam e o\nrevestimento deixa de ser mantido — o que desencadeia a sua próxima menstruação e dá início a um novo ciclo. Este é\ntambém o período em que algumas pessoas notam alterações pré-menstruais no humor, no sono ou no corpo.",
+      "deep": "A fase lútea tende a ter uma duração um pouco mais estável do que a primeira metade do ciclo,\ndurando frequentemente cerca de duas semanas, embora haja variações normais de pessoa para\npessoa. Como o seu fim está ligado à queda dos níveis de progesterona, a chegada da menstruação é, na verdade, o\nsinal visível de que os níveis hormonais baixaram. Acompanhar como se sente ao longo da fase lútea pode\najudá-la a distinguir o que é um padrão familiar para si do que é novo ou que vale a pena discutir com\num médico.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopausa",
+      "aliases": [
+        "menopausa",
+        "a mudança"
+      ],
+      "glance": "A menopausa é o momento em que a menstruação cessa definitivamente — uma fase natural, que geralmente ocorre entre os 45 e os 55 anos, aproximadamente.",
+      "overview": "A menopausa é o momento em que a menstruação cessa definitivamente. Como a menstruação pode ainda ocorrer de forma irregular durante algum\ntempo, considera-se que a menopausa foi atingida quando se passam 12 meses consecutivos sem menstruação. Normalmente,\nocorre entre os 45 e os 55 anos, embora possa ocorrer mais cedo ou mais tarde.\n\nÉ uma parte natural do envelhecimento, não uma doença. Ocorre à medida que os ovários vão perdendo a sua função e o nível de\nestrogénio — uma hormona fundamental do ciclo — diminui. Essa alteração hormonal está na origem das mudanças que muitas\npessoas notam: afrontamentos e suores noturnos, alterações na menstruação na fase que antecede a menopausa, dificuldades em dormir,\nmudanças de humor ou ansiedade, confusão mental, secura vaginal e dores.\n\nAs experiências variam enormemente — algumas pessoas passam por esta fase sem problemas, outras têm mais dificuldade, e os sintomas podem durar\nvários anos. Nada disso significa que haja algo de errado consigo. Existem apoio e opções disponíveis, e\ncompreender o que está a acontecer é um bom primeiro passo.",
+      "deep": "Os anos de mudança que antecedem a menopausa são designados por perimenopausa; a menopausa propriamente dita é um único\nmomento no tempo (aquela marca de 12 meses sem menstruação), e o período que se segue é por vezes designado por\npós-menopausa. Como o estrogénio também afeta os ossos e o coração a longo prazo, os médicos prestam\natenção a esses aspetos, a par dos sintomas do dia-a-dia. Uma variedade de abordagens — desde mudanças no estilo de vida até\ntratamentos não hormonais e hormonais — pode aliviar os sintomas, e o que é mais adequado depende da sua saúde,\nhistórico e preferências, o que deve ser discutido com um médico.",
+      "when_to_see_doctor": "- Consulte um médico de família se os sintomas da menopausa a estiverem a incomodar ou a afetar a sua vida quotidiana e se quiser discutir\n  as suas opções.\n- Consulte **sempre** um médico de família se tiver **qualquer sangramento vaginal após 12 meses sem menstruação**\n  (sangramento após a menopausa). Muitas vezes não é nada de grave, mas deve ser sempre avaliado.\n- Também vale a pena consultar se o sangramento for mais intenso do que antes, ou se a sua menstruação\n  sofrer alterações que a preocupem.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "O ciclo menstrual",
+      "aliases": [
+        "ciclo",
+        "ciclo mensal"
+      ],
+      "glance": "O ciclo menstrual é o ritmo mensal que o teu corpo segue para se preparar para uma eventual gravidez.",
+      "overview": "O ciclo menstrual é contado a partir do primeiro dia da menstruação — que é o dia 1 — até ao dia\nanterior ao início da menstruação seguinte. É regulado por hormonas cujos níveis sobem e descem num padrão repetitivo\ntodos os meses.\n\nUm ciclo dura normalmente cerca de 28 dias, mas isso é apenas uma média. Qualquer duração entre cerca de 21 e 35 dias é\nnormal, e a duração do teu ciclo pode variar um pouco de mês para mês. Conhecer o teu próprio padrão é\nmais útil do que compará-lo com um número.\n\nAo longo do ciclo, o teu corpo passa por várias fases: o período, a fase que antecede a libertação de um\nóvulo, a própria libertação (ovulação) e a fase que se segue. Cada fase é determinada pelas\nhormonas, principalmente o estrogénio e a progesterona.",
+      "deep": "Todo o ciclo é uma comunicação entre o cérebro e os ovários, mediada pelas hormonas. Na\nprimeira metade, os níveis de estrogénio aumentam à medida que um folículo contendo um óvulo amadurece no ovário e o revestimento do\nútero (matriz) se torna mais espesso. Por volta do meio do ciclo, um óvulo é libertado. Na segunda metade,\na progesterona ajuda a manter esse revestimento preparado, caso chegue um óvulo fertilizado.\n\nSe não houver gravidez, os níveis de estrogénio e progesterona descem para valores baixos, o revestimento é eliminado sob a forma de\nmenstruação e o padrão recomeça. Como estas hormonas afetam muitos sistemas, poderá notar\npequenas alterações no dia a dia ao longo do mês — este é o ritmo normal do ciclo, não algo\nque seja preciso «corrigir».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Fase menstrual (o período)",
+      "aliases": [
+        "período",
+        "menstruação",
+        "fase menstrual",
+        "hemorragia"
+      ],
+      "glance": "A menstruação corresponde aos poucos dias de sangramento que marcam o início de cada ciclo, à medida que o revestimento do útero é eliminado.",
+      "overview": "A fase menstrual corresponde ao período — os dias em que se tem sangramento. Começa no 1.º dia do ciclo,\nquando os níveis de estrogénio e progesterona baixam o suficiente para que o revestimento que se formou\nno interior do útero deixe de ser mantido e se desprenda, saindo do corpo através da\nvagina.\n\nA menstruação dura normalmente entre 2 a 7 dias, sendo que 5 dias é a duração típica. O fluxo é frequentemente\nmais intenso nos primeiros dois dias e mais leve a seguir. A menstruação começa geralmente por volta dos 12 anos,\nembora seja também normal começar mais cedo ou mais tarde.\n\nO que é «normal» varia muito de pessoa para pessoa. Acompanhar os teus próprios períodos ajuda-te a perceber\no que é habitual para ti, o que é muito mais significativo do que qualquer média.",
+      "deep": "O sangramento menstrual corresponde à descamação do revestimento do útero (o endométrio) após um ciclo\nem que não se verificou gravidez. Marca tanto o fim de um ciclo como o início do seguinte, razão pela qual\no primeiro dia da menstruação é considerado o primeiro dia de todo o ciclo. À medida que a menstruação termina,\nos níveis de estrogénio começam a aumentar novamente e o corpo inicia a reconstrução do revestimento para o ciclo seguinte.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Aborto espontâneo",
+      "aliases": [
+        "aborto espontâneo",
+        "perda de gravidez",
+        "perda da gravidez na fase inicial",
+        "perda de uma gravidez"
+      ],
+      "glance": "O aborto espontâneo é a perda de uma gravidez antes das 24 semanas — é comum e quase nunca é algo que tenhas causado.",
+      "overview": "Um aborto espontâneo é a perda de uma gravidez nas primeiras 24 semanas. É mais comum do que muitas pessoas\npensam, e uma das coisas mais importantes a saber é que quase nunca é causado por algo\nque tenha feito ou deixado de fazer — geralmente acontece devido a um problema no desenvolvimento da gravidez,\nque estava fora do controlo de qualquer pessoa.\n\nOs sinais mais comuns são sangramento vaginal e cólicas ou dor na parte inferior da barriga. O sangramento no\ninício da gravidez nem sempre significa que está a ocorrer um aborto espontâneo — muitas pessoas têm um pequeno sangramento e\nacabam por ter uma gravidez saudável — mas deve ser sempre avaliado.\n\nSeja qual for a forma como a perda ocorre, os sentimentos que a acompanham são reais e válidos, e o luto é uma\nreação normal. Não tem de passar por isto sozinha — há apoio disponível, tanto da sua parteira ou médico de família como\nde instituições de caridade dedicadas à perda de gravidez.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacte o seu médico de família, parteira ou unidade de acompanhamento da gravidez precoce (ou ligue para o número NHS 111) se tiver **sangramento vaginal\n  ou manchas de sangue durante a gravidez**, mesmo que seja leve e haja pouca ou nenhuma dor — para que possa ser\n  avaliado.\n- Informe-se sobre a **unidade de gravidez precoce** mais próxima, que foi criada precisamente para este fim.",
+      "red_flags": "- Ligue para o **999 ou dirija-se ao serviço de urgências** se, durante a gravidez, tiver **dores abdominais intensas, dor na ponta do\n  ombro, hemorragia intensa ou se se sentir prestes a desmaiar ou muito mal**. Estes podem ser sinais de um problema grave,\n  como uma gravidez ectópica, que requer cuidados urgentes."
+    },
+    "morning-sickness": {
+      "title": "Enjoos matinais",
+      "aliases": [
+        "enjoos matinais",
+        "náuseas na gravidez",
+        "enjoos da gravidez",
+        "vómitos durante a gravidez",
+        "hiperémese",
+        "hiperémese gravídica"
+      ],
+      "glance": "Sentir-se mal ou ter náuseas é muito comum no início da gravidez e, normalmente, estas sintomas atenuam-se por volta das semanas 16 a 20.",
+      "overview": "Sentir-se enjoada, ou vomitar, é muito comum no início da gravidez. Apesar do nome «enjoos matinais»,\npode acontecer a qualquer hora do dia ou da noite. Para a maioria das pessoas, começa nas primeiras semanas e\nacalma por volta das 16.ª a 20.ª semanas.\n\nÉ desagradável e, para algumas pessoas, afeta realmente o dia-a-dia — mas os enjoos matinais normais\nnão representam qualquer risco acrescido para o bebé. Comer pequenas quantidades com frequência e descobrir o que a ajuda pode\ntorná-los mais suportáveis; uma parteira, um médico de família ou um farmacêutico podem sugerir opções seguras se estiver com dificuldades.\n\nPara um pequeno número de pessoas, os enjoos tornam-se graves (o que se denomina hiperémese gravídica),\ncom um risco real de desidratação. Nesse caso, é necessária assistência médica — consulte os sinais abaixo.",
+      "deep": null,
+      "when_to_see_doctor": "Contacte a sua parteira, o seu médico de família ou ligue para o número NHS 111 se:\n\n- não conseguir reter alimentos ou bebidas durante 24 horas\n- tiver urina muito escura ou não urinar durante mais de 8 horas\n- se sentir muito fraca, tonta ou prestes a desmaiar ao levantar-se\n- tiver dores de barriga, febre alta ou estiver a vomitar sangue\n- estiver a perder peso",
+      "red_flags": "- A incapacidade de reter líquidos, acompanhada de urina muito escura ou ausência de urina, pode indicar que está a ficar desidratada\n  (enjoos graves da gravidez) — **contacte a sua parteira, o seu médico de família ou ligue para o NHS 111 ainda nesse mesmo dia**, pois poderá\n  necessitar de tratamento para evitar que a situação piore."
+    },
+    "ovulation": {
+      "title": "Ovulação",
+      "aliases": [
+        "ovulação",
+        "liberar um óvulo",
+        "período fértil"
+      ],
+      "glance": "A ovulação ocorre quando um ovário liberta um óvulo — o momento de maior fertilidade do teu ciclo.",
+      "overview": "A ovulação é o momento em que um ovário liberta um óvulo maduro. É o ponto de viragem do ciclo: a\nprimeira metade conduz a esse momento e a segunda metade segue-se a ele.\n\nNum ciclo de cerca de 28 dias, a ovulação ocorre frequentemente por volta do 14.º dia — mas o momento pode variar. Uma\nforma útil de pensar nisso é que a ovulação ocorre normalmente entre 10 e 16 dias antes\ndo início da sua próxima menstruação. Pode ser difícil determinar o dia exato.\n\nUma vez libertado, um óvulo só pode ser fertilizado durante cerca de 12 a 24 horas. Os espermatozoides, porém, podem sobreviver\nno corpo durante vários dias, pelo que a «janela fértil» é mais ampla do que um único dia — abrangendo, aproximadamente, os poucos\ndias que antecedem a ovulação e o próprio dia da ovulação.",
+      "deep": "A libertação do óvulo é desencadeada por um aumento breve e acentuado das hormonas por volta do meio do ciclo, na sequência\ndo aumento dos níveis de estrogénio durante a fase folicular. Como os espermatozoides podem sobreviver durante vários dias, enquanto\no óvulo tem uma vida útil inferior a um dia, é mais provável que a gravidez resulte de relações sexuais nos dias imediatamente anteriores\nà ovulação. A ovulação pode variar de ciclo para ciclo devido a fatores como o stress ou uma doença, razão pela qual\né difícil prever a data exata e por que razão acompanhar vários ciclos é mais fiável do que qualquer\ncálculo isolado.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Dor durante as relações sexuais",
+      "aliases": [
+        "dor durante as relações sexuais",
+        "relações sexuais dolorosas",
+        "dispareunia",
+        "dor durante as relações sexuais",
+        "vaginismo"
+      ],
+      "glance": "A dor durante as relações sexuais é comum, tem muitas causas possíveis e vale sempre a pena consultar um médico — há ajuda disponível.",
+      "overview": "A dor durante as relações sexuais — por vezes denominada dispareunia — é mais comum do que muitas pessoas pensam, e\nnunca é algo que se deva simplesmente aceitar. Pode ter várias causas, e identificar a causa certa é a\nchave para a aliviar.\n\nAlgumas causas são físicas. A secura vaginal é uma causa frequente, muitas vezes associada às alterações hormonais na\nmenopausa ou à excitação insuficiente, e pode tornar o sexo doloroso ou desconfortável. As infeções, tais\ncomo a candidíase, também podem causar dor. Outra causa é o vaginismo — quando os músculos à volta da vagina\nse contraem espontaneamente ao tentar a penetração, o que pode tornar o sexo doloroso ou parecer impossível.\nIsto é involuntário, não é «na tua cabeça» e é tratável.\n\nComo a causa pode ser física, hormonal ou estar relacionada com o teu nível de relaxamento ou excitação — e\nmuitas vezes é uma combinação destas fatores —, o passo mais útil é consultar um especialista, em vez de adivinhar ou de insistir na relação.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulte um médico de família ou uma clínica de saúde sexual se tiver dores durante as relações sexuais — seja qual for a causa, vale a pena verificar,\n  e há tratamentos eficazes para as causas mais comuns.\n- Pode parecer estranho falar sobre o assunto, mas os profissionais de saúde lidam com isto frequentemente e estão lá para ajudar, não para\n  julgar. Pode pedir para ser atendida por uma médica, levar alguém consigo e explicar o que tornaria\n  o exame mais confortável.\n- Não deixe de consultar um médico caso tenha sangramento após o sexo e procure ajuda mais cedo se a dor for intensa ou se também\n  se sentir indisposta.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Alívio da dor durante o parto",
+      "aliases": [
+        "alívio da dor durante o parto",
+        "epidural",
+        "gás e ar",
+        "Entonox",
+        "alívio das dores do parto",
+        "piscina de parto",
+        "TENS"
+      ],
+      "glance": "Existem várias formas de aliviar as dores do parto — não há uma escolha certa ou errada, e pode manter-se flexível.",
+      "overview": "O trabalho de parto é diferente para cada pessoa, e existem várias formas de lidar com a dor — desde simples\nmedidas de conforto até opções médicas. Saber antecipadamente o que está disponível pode ajudá-la a sentir-se mais\npreparada.\n\nAs opções vão desde **manter-se ativa e de pé**, técnicas de respiração e relaxamento, massagem e estar na\n**água** (um banho ou piscina de parto), até **um aparelho TENS**, **gás e ar** (Entonox, que\nrespiras por ti própria), **injeções** como a petidina e uma **epidural** (administrada por um anestesista,\nque alivia a dor do trabalho de parto de forma mais completa).\n\nNão existe uma escolha «melhor» — depende de si, do seu trabalho de parto e de como se sentir nesse dia. Vale a pena\nanotar as suas preferências num **plano de parto**, mantendo ao mesmo tempo uma mente aberta: muitas pessoas descobrem que querem\nmais, ou menos, alívio da dor do que esperavam, e isso é perfeitamente normal.",
+      "deep": null,
+      "when_to_see_doctor": "- A sua **parteira** (e, no caso de uma epidural, um anestesista) irá explicar-lhe as opções e ajudá-la\n  a decidir o que é mais adequado para si — tanto durante a gravidez como durante o próprio trabalho de parto. Não há necessidade de\n  decidir tudo com antecedência.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (síndrome dos ovários policísticos)",
+      "aliases": [
+        "SOP",
+        "síndrome dos ovários policísticos",
+        "ovários policísticos",
+        "síndrome dos ovários policísticos"
+      ],
+      "glance": "PCOS é uma perturbação hormonal comum que pode afetar o ciclo menstrual, a ovulação, a pele e o cabelo.",
+      "overview": "PCOS — a síndrome dos ovários policísticos — é uma condição comum associada ao equilíbrio das hormonas\nreprodutivas. As estimativas sugerem que afeta cerca de 1 em cada 10 mulheres em idade reprodutiva, e muitas\npessoas que a têm nunca são diagnosticadas.\n\nPode manifestar-se de diferentes formas, e não há duas pessoas com sintomas exatamente iguais. As características comuns incluem\nciclos menstruais irregulares, pouco frequentes ou ausentes; níveis mais elevados de hormonas chamadas androgénios,\nque podem levar a um crescimento excessivo de pêlos no rosto ou no corpo, acne ou queda de cabelo no couro cabeludo; e\novários que não libertam um óvulo com a regularidade habitual, o que pode tornar mais difícil engravidar.\nAlterações de peso e manchas de pele mais escura também são comuns.\n\nA causa exata ainda não é totalmente compreendida e não existe cura — mas os sintomas podem ser controlados, e\ncompreender o que está a acontecer é o primeiro passo. A síndrome de PCOS é comum e controlável, não é algo de que\nse deva envergonhar.",
+      "deep": "Uma vez que a «PCOS» envolve as hormonas do corpo e a forma como este processa a insulina, está também associada, a\nlongo prazo, à resistência à insulina e a um risco mais elevado de diabetes tipo 2, hipertensão arterial\ne alterações nos níveis de colesterol — razão pela qual os médicos tendem a acompanhar estes aspetos ao longo do tempo.\nCerca de metade das pessoas com síndrome de PCOSo pode desenvolver diabetes ou pré-diabetes por volta dos quarenta anos, pelo que os\nexames regulares são importantes. O diagnóstico não é algo que se deva autoavaliar: um médico analisa o quadro global\n— o seu historial e ciclos menstruais, por vezes análises ao sangue para avaliar as hormonas e, por vezes, uma ecografia\ndos ovários — e exclui outras causas antes de chegar a umPCOSe.",
+      "when_to_see_doctor": "Vale a pena consultar um médico de família se notar sintomas que correspondam ao quadro acima, especialmente se estiverem\na afetar a forma como se sente no dia a dia:\n\n- menstruações irregulares, muito pouco frequentes ou que tenham cessado\n- aumento visível do crescimento de pêlos no rosto ou no corpo, acne persistente ou queda de cabelo\n- dificuldade em engravidar após tentar durante algum tempo\n- aumento de peso difícil de perder, acompanhado de outros sintomas\n\nUm médico de família pode investigar o que se passa, confirmar se se trata de umPCOSo ou de outra condição e discutir um\nplano adequado para si. O o também está associado a baixo de ânimo e ansiedade — se estiver a sentir dificuldades com a forma como\nse sente, fale também com o seu médico de família; isso faz parte do quadro clínico e há apoio disponível.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopausa",
+      "aliases": [
+        "perimenopausa",
+        "transição da menopausa",
+        "a mudança"
+      ],
+      "glance": "A perimenopausa é a fase de transição que antecede a menopausa, durante a qual os períodos menstruais e as hormonas começam a sofrer alterações.",
+      "overview": "A perimenopausa é o período que antecede a menopausa — os anos «em torno da menopausa». Começa\nquando se começa a notar as alterações e prolonga-se até um ano após a última menstruação, altura em\nque se atinge a menopausa. Pode durar vários anos.\n\nDurante este período, os ovários produzem gradualmente menos estrogénio, e os níveis oscilam de forma menos\nprevisível do que antes. O sinal precoce mais comum é a alteração dos períodos menstruais — tornando-se mais\nfrequentes ou mais espaçados, mais leves ou mais intensos. Muitos dos sintomas associados à menopausa, tais como\nondas de calor, alterações do sono ou mudanças de humor, podem começar nesta fase, enquanto ainda tem períodos menstruais.\n\nPor ser gradual e variar tanto, a perimenopausa pode ser confusa — as alterações não surgem\ntodas de uma vez nem na mesma ordem para todas as mulheres. Saber que esta fase tem um nome e que se trata de uma\ntransição normal pode ajudar a compreendê-la melhor.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulte um médico de família se os sintomas da perimenopausa estiverem a afetar a sua vida quotidiana e se quiser falar sobre\n  o que poderá ajudar.\n- Vale a pena fazer um exame se os seus períodos se tornarem muito intensos, ou se tiver sangramento entre\n  períodos ou após as relações sexuais, para que se possa identificar a causa.\n- Lembre-se de que ainda é possível engravidar durante a perimenopausa, por isso vale a pena abordar\n  a questão da contraceção com um profissional de saúde, se isso for relevante para si.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Dores menstruais",
+      "aliases": [
+        "dores menstruais",
+        "cólicas menstruais",
+        "cólicas",
+        "dismenorreia",
+        "dismenorreia",
+        "menstruações dolorosas"
+      ],
+      "glance": "As dores menstruais são cólicas na parte inferior da barriga que ocorrem por altura do período — são comuns e, muitas vezes, fazem parte do ciclo normal.",
+      "overview": "A dor menstrual é aquela sensação de cólicas e dor na parte inferior da barriga que muitas pessoas sentem por volta da\nmenstruação. Ocorre quando a parede muscular do útero se contrai e, muitas vezes, é uma parte normal do\nciclo menstrual. O nome médico para esta condição é dismenorreia.\n\nNormalmente surge no início da menstruação, ou mesmo antes, e tende a durar até cerca de\ntrês dias. Para algumas pessoas, trata-se de uma sensação leve de peso; para outras, as cólicas são mais intensas. A dor também pode\nvariar ao longo da vida e de ciclo para ciclo.\n\nAs dores menstruais que seguem este padrão familiar são comuns e, normalmente, controláveis. Medidas de conforto\ncotidianas e analgésicos simples são o que muitas pessoas utilizam, e um farmacêutico ou médico de família pode aconselhá-la sobre o que\npode ser mais adequado para si. O importante é conhecer o seu próprio padrão habitual — para que possa perceber se algo\nmudar.",
+      "deep": null,
+      "when_to_see_doctor": "Vale a pena falar com um médico de família se:\n\n- os teus períodos se tornarem mais dolorosos, mais intensos ou mais irregulares do que o habitual\n- a dor te impedir de realizar atividades quotidianas, como ir ao trabalho ou à escola\n- os analgésicos comuns não surtirem efeito\n- sentires dor durante as relações sexuais, ao urinar ou ao evacuar\n- tiveres sangramento entre os períodos\n- a dor surgir em momentos que não sejam imediatamente antes ou durante a menstruação\n- expelir coágulos de sangue maiores do que uma moeda (aproximadamente do tamanho de uma moeda de 25 cêntimos)\n- notar também inchaço na barriga, falta de apetite ou perda de peso que não consiga explicar\n\nIsto não significa necessariamente que haja algo de errado, mas vale a pena verificar — dores menstruais que sejam novas,\ndiferentes ou difíceis de controlar podem ter causas que um profissional de saúde pode ajudar a resolver.",
+      "red_flags": "- Marque uma consulta **urgente** com o médico de família ou ligue para o **NHS 111** se a sua menstruação ou dor pélvica for\n  **intensa, ou pior do que o habitual, e os analgésicos não tiverem surtido efeito.**"
+    },
+    "planning-pregnancy": {
+      "title": "Planear uma gravidez",
+      "aliases": [
+        "planear uma gravidez",
+        "preconceito",
+        "a tentar engravidar",
+        "antes da gravidez",
+        "preparar-se para a gravidez"
+      ],
+      "glance": "Algumas medidas simples antes de tentar engravidar — tomar ácido fólico, deixar de fumar e de beber álcool — proporcionam o melhor começo possível à gravidez.",
+      "overview": "Se está a pensar em tentar engravidar, algumas medidas tomadas antecipadamente podem proporcionar à gravidez um\ncomeço mais saudável — muitas delas com efeito desde antes mesmo da conceção.\n\nAs principais são: comece a tomar **ácido fólico** (e vitamina D), **deixe de fumar** e **evite o álcool**.\nProcurar manter um peso saudável também ajuda, uma vez que estar significativamente abaixo ou acima do peso pode tornar\nmais difícil a conceção. Também vale a pena certificar-se de que a sua **vacina MMR** está em dia, uma vez que algumas\ninfecções podem afetar uma gravidez.\n\nNada disto precisa de ser perfeito nem causar stress. O que importa são pequenas mudanças positivas feitas com antecedência —\ne começar a preparar-se com alguma antecedência é uma das melhores coisas que pode fazer para uma futura gravidez.",
+      "deep": null,
+      "when_to_see_doctor": "- Se tiver uma **doença crónica** ou tomar **medicação regularmente**, consulte o seu médico de família antes de\n  começar a tentar engravidar — algumas doenças e medicamentos exigem um planeamento específico. **Não interrompa a toma de nenhum medicamento prescrito\n  ** sem falar primeiro com o seu médico.\n- O médico de família também pode aconselhá-la sobre o ácido fólico (incluindo se necessita de uma dose mais elevada) e sobre como atingir um\n  peso saudável antes da gravidez.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Depressão pós-parto",
+      "aliases": [
+        "depressão pós-parto",
+        "depressão pós-parto",
+        "PND",
+        "depressão pós-parto",
+        "depressão pós-parto"
+      ],
+      "glance": "A depressão pós-parto é um estado de desânimo comum e tratável que surge após o parto — não é culpa sua e há ajuda disponível.",
+      "overview": "Sentir-se em baixo, ansiosa ou irritável nas primeiras semanas após o parto é muito comum — isto\né frequentemente designado por «baby blues» e, normalmente, passa por si só ao fim de cerca de duas semanas.\n\nA depressão pós-parto é diferente: trata-se de um estado de ânimo deprimido mais profundo ou que se prolonga por mais tempo. É uma condição comum,\npode surgir em qualquer momento durante o primeiro ano e também pode afetar pais e parceiros. Os sinais incluem um\nbaixo estado de ânimo persistente, dificuldade em desfrutar de qualquer coisa, problemas em dormir mesmo quando o bebé dorme,\ne, por vezes, sentimentos de dificuldade em criar laços com o bebé.\n\nTer esta condição **não** significa que seja um mau pai ou que não ame o seu bebé — é uma doença,\nnão uma falha, e responde bem ao apoio e ao tratamento. Procurar ajuda logo no início é uma atitude forte e atenciosa\n, tanto para si como para o seu bebé.",
+      "deep": null,
+      "when_to_see_doctor": "- Fale com o seu **médico de família, parteira ou assistente de saúde** se achar que pode estar a sofrer de depressão pós-parto,\n  ou se a «tristeza pós-parto» não tiver passado ao fim de duas semanas. Eles já se depararam com esta situação muitas vezes e podem\n  ajudá-la a encontrar o apoio adequado.",
+      "red_flags": "- Se tiver **pensamentos de se magoar a si próprio ou ao seu bebé**, ou de que a sua família ficaria melhor\n  sem si, procure ajuda **imediatamente**: ligue para o **999** ou dirija-se ao serviço de urgências, ou ligue para o **NHS 111** ou para os\n  Samaritans através do **116 123**. Estes pensamentos podem fazer parte da doença, não definem quem tu és e\n  há ajuda urgente disponível."
+    },
+    "pre-eclampsia": {
+      "title": "Pre-eclâmpsia",
+      "aliases": [
+        "pré-eclâmpsia",
+        "pré-eclâmpsia",
+        "hipertensão arterial na gravidez",
+        "toxemia"
+      ],
+      "glance": "A pré-eclâmpsia consiste no aumento da pressão arterial durante a gravidez — muitas vezes assintomática no início, razão pela qual os exames pré-natais são importantes.",
+      "overview": "A pré-eclâmpsia é uma condição da gravidez que se manifesta principalmente através de hipertensão arterial, juntamente com\na presença de proteínas na urina. Surge normalmente a partir da 20.ª semana, e por vezes após o parto.\n\nUma das coisas mais importantes a saber é que, numa fase inicial, muitas vezes não causa **nenhum sintoma** —\npode sentir-se perfeitamente bem. É precisamente por isso que a sua parteira verifica a sua pressão arterial e analisa\na sua urina em todas as consultas pré-natais de rotina: é através desses exames que a condição é normalmente detetada\nantes de dar por isso.\n\nQuando os sintomas aparecem, é importante conhecê-los, porque a pré-eclâmpsia pode tornar-se grave tanto para si\ncomo para o seu bebé. É uma condição muito tratável quando detetada, e manter as consultas pré-natais em dia é\na melhor forma de a prevenir.",
+      "deep": null,
+      "when_to_see_doctor": "- Não falte a nenhuma das suas **consultas pré-natais de rotina** — é através das verificações da pressão arterial e da análise à urina que\n  a pré-eclâmpsia é normalmente detetada antes do aparecimento dos sintomas.",
+      "red_flags": "Procure ajuda médica **imediatamente** — contacte a sua maternidade ou ligue para o **NHS111** — se tiver\nalgum destes sintomas (ligue para o **999** se se sentir gravemente doente, por exemplo, se tiver uma convulsão):\n\n- uma **dor de cabeça intensa** que não alivia com analgésicos comuns\n- **problemas de visão** — visão turva ou flashes de luz\n- **inchaço repentino** do rosto, das mãos ou dos pés\n- **dor logo abaixo das costelas**\n- **náuseas** ou sensação repentina de grande mal-estar"
+    },
+    "pregnancy": {
+      "title": "Gravidez",
+      "aliases": [
+        "gravidez",
+        "estar grávida",
+        "à espera de",
+        "gestação",
+        "trimestres",
+        "data de vencimento",
+        "em que semana de gravidez"
+      ],
+      "glance": "A gravidez dura normalmente cerca de 40 semanas, contadas a partir do primeiro dia da sua última menstruação.",
+      "overview": "A gravidez é o período em que o teu corpo cresce e acolhe um bebé. Normalmente dura cerca de 40 semanas —\nqualquer período entre as 37 e as 42 semanas é considerado completo e normal — e, talvez surpreendentemente, é contada\na partir do primeiro dia da tua **última menstruação**, e não a partir da conceção. Essa é apenas a forma padrão como as datas\nsão calculadas.\n\nA sua **data prevista para o parto** é uma estimativa, não um prazo: os bebés nascem felizes um pouco mais cedo ou mais tarde. No início\nda gravidez, uma «ecografia de datação» (normalmente por volta das 12 semanas) pode medir o seu bebé e fornecer uma data mais precisa\n, o que, por vezes, altera a estimativa original.\n\nA gravidez é frequentemente dividida em três fases, ou **trimestres**, cada uma com as suas próprias alterações. Ao longo de\ntodo o processo, é acompanhada por consultas pré-natais regulares com uma parteira (e um médico, se\nnecessário) — cuidados que ajudam a manter a sua saúde e a do seu bebé.",
+      "deep": "Como as datas são contadas a partir da última menstruação, considera-se que está grávida de cerca de quatro semanas na\naltura em que a menstruação não surge. A contagem das semanas de gravidez é a base sobre a qual se organiza os cuidados de saúde — as ecografias, os exames de rastreio\ne as consultas de acompanhamento são todos realizados em semanas específicas. Se os seus períodos forem irregulares ou se não tiver a certeza das\ndatas, é a ecografia de datagem que define o calendário. Esta secção é o mapa de toda a jornada; os\ntópicos específicos — sinais de gravidez, cuidados pré-natais, manter-se saudável e o trabalho de parto — têm, cada um, a sua própria secção.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Teste de gravidez",
+      "aliases": [
+        "teste de gravidez",
+        "teste de gravidez caseiro",
+        "hCG teste",
+        "teste de gravidez"
+      ],
+      "glance": "Um teste de gravidez caseiro analisa a urina para detetar a presença da hormona da gravidez, o hCG — sendo mais fiável a partir da primeira falta da menstruação.",
+      "overview": "Um teste de gravidez caseiro funciona através da deteção de uma hormona chamada hCG (gonadotrofina coriônica humana) na\nsua urina. O seu corpo começa a produzi-la alguns dias após a implantação do óvulo fertilizado, e a quantidade\naumenta rapidamente no início da gravidez.\n\nO teste é mais fiável a partir do **primeiro dia de atraso na menstruação** — cerca de duas semanas após a\nconcepção. Se o seu ciclo for irregular ou se não tiver a certeza de quando é que a sua menstruação deve ocorrer, esperar até, pelo\nmenos, 21 dias após a relação sexual desprotegida proporciona um resultado mais fiável. Não é necessário fazer o teste logo\nde manhã; a qualquer hora do dia serve.\n\nUm resultado **positivo** é quase certamente correto — muito poucos testes dão positivo quando não se está\ngrávida. Um resultado **negativo** é um pouco menos certo: se a menstruação ainda não chegar e achares\nque podes estar grávida, espera alguns dias e faz o teste novamente.",
+      "deep": null,
+      "when_to_see_doctor": "- Se o resultado for positivo, contacte uma **parteira ou um médico de família** para iniciar os cuidados pré-natais.\n- Se os testes forem negativos, mas a menstruação não surgir e se sentir grávida (ou indisposta), consulte um médico de família para\n  descobrir o que se passa.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Parto prematuro",
+      "aliases": [
+        "parto prematuro",
+        "parto prematuro",
+        "parto prematuro",
+        "parto prematuro",
+        "parto prematuro",
+        "ruptura prematura das águas"
+      ],
+      "glance": "O parto prematuro é aquele que ocorre antes das 37 semanas — aja rapidamente, pois os cuidados precoces fazem toda a diferença.",
+      "overview": "O trabalho de parto prematuro (ou pré-termo) é aquele que se inicia antes da 37.ª semana de gravidez. Ocorre em\ncerca de 8 em cada 100 partos.\n\nOs bebés que nascem prematuramente são mais vulneráveis, mas muitos acabam por se desenvolver bem — especialmente com os\ncuidados especializados prestados pelas unidades neonatais. O importante é agir rapidamente se achar que o trabalho de parto pode estar a começar, para que\npossa ser avaliada e, se necessário, receber tratamentos que ajudem a proteger o bebé.\n\nOs sinais são semelhantes aos do trabalho de parto em qualquer fase, mas antes das 37 semanas nunca se deve esperar que passem por si —\nsão sempre motivo para contactar os serviços de saúde imediatamente.",
+      "deep": null,
+      "when_to_see_doctor": "- Ligue à sua **parteira ou maternidade** sempre que estiver com **menos de 37 semanas** e tiver dúvidas ou\n  estiver preocupada — não há problema nenhum em verificar.",
+      "red_flags": "Contacte a sua **parteira ou a maternidade imediatamente** — seja de dia ou de noite — se, **antes das 37 semanas**, tiver\nalgum destes sintomas:\n\n- **contrações ou espasmos** regulares, ou dores semelhantes às da menstruação\n- um **jato ou gotejamento de líquido** pela vagina (rompimento das águas)\n- **dor nas costas** que não seja habitual para si, ou uma sensação de pressão na parte inferior do abdómen"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (síndrome pré-menstrual)",
+      "aliases": [
+        "TPM",
+        "síndrome pré-menstrual",
+        "tensão pré-menstrual",
+        "pmt"
+      ],
+      "glance": "PMS é a combinação de alterações físicas e emocionais que muitas pessoas notam uma ou duas semanas antes da menstruação.",
+      "overview": "PMS — síndrome pré-menstrual — é o nome dado às alterações que muitas pessoas sentem nos dias ou nas duas\nsemanas que antecedem a menstruação. Pode afetar qualquer pessoa que tenha menstruação e, normalmente, alivia-se alguns\ndias após o início da menstruação.\n\nEssas alterações manifestam-se de várias formas. A nível físico, pode notar inchaço, seios doridos ou sensíveis,\ncólicas, dores de cabeça ou um aumento do cansaço. A nível emocional, podem ocorrer alterações de humor, irritabilidade,\nansiedade ou sensação de desânimo. Os desejos por comida e as alterações no sono também são comuns. Nem toda a gente sofre de «PMS»,\ne quem sofre não apresenta necessariamente todos os sintomas — o que importa é o seu próprio padrão. A «\n\nPMS» é uma parte normal e reconhecida dos ciclos de muitas pessoas, ligada às alterações hormonais naturais da\nsegunda metade do ciclo. Perceber como se manifesta no seu caso, ciclo após ciclo, pode facilitar o planeamento\nem torno disso — e permitir detetar se alguma vez houver alterações.",
+      "deep": null,
+      "when_to_see_doctor": "Vale a pena falar com um médico de família se:\n\n- os teus sintomas estiverem a afetar a tua vida quotidiana — trabalho, estudos, relações\n- as mudanças na tua rotina do dia a dia não tiverem ajudado\n- o teu baixo estado de ânimo, ansiedade ou irritabilidade parecerem graves\n\nUm profissional de saúde pode explicar-lhe o que poderá ajudar. Uma forma mais grave, denominada «transtorno disfórico pré-menstrual»\n(PMDD), pode causar sintomas de humor muito mais intensos, e existe apoio disponível para esta condição.",
+      "red_flags": "- Se tiver sintomas de PMDD e estiver **a sentir pensamentos suicidas ou a sentir que não consegue manter-se em segurança**,\n  procure ajuda imediatamente: **ligue para o 999 ou dirija-se ao serviço de urgências.** Não conduza — peça a alguém para o levar\n  ou peça uma ambulância. Merece apoio e há ajuda disponível."
+    },
+    "progesterone": {
+      "title": "Progesterona",
+      "aliases": [
+        "progesterona"
+      ],
+      "glance": "A progesterona é a hormona da segunda metade do ciclo, que prepara o revestimento do útero após a ovulação.",
+      "overview": "A progesterona é uma das principais hormonas responsáveis pelo ciclo menstrual e assume o papel principal na\nsegunda metade — após a libertação de um óvulo na ovulação.\n\nA sua principal função é ajudar o revestimento do útero a manter-se espesso e preparado, para que, caso um\nóvulo fertilizado chegue, este se possa implantar e a gravidez possa ter início. Desta forma, a progesterona funciona como\nparceira do estrogénio, que foi responsável por grande parte da preparação no início do ciclo.\n\nSe não se iniciar uma gravidez, os níveis de progesterona baixam. É essa descida que permite que o revestimento seja eliminado\nna sua próxima menstruação. A subida e descida da progesterona ao longo da segunda metade do ciclo é um\nritmo normal e esperado.",
+      "deep": "A progesterona é produzida principalmente pelo corpo lúteo — a estrutura que o ovário forma a partir do\nfolículo após este ter libertado o óvulo. É por isso que os níveis de progesterona aumentam especificamente na fase lútea\n(pós-ovulação). Quando o corpo lúteo se degrada, tanto a progesterona como o estrogénio diminuem,\nassinalando o início de um novo ciclo. Estas oscilações naturais são parte da razão pela qual algumas pessoas notam\nalterações pré-menstruais nos dias que antecedem a menstruação.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "A pílula apenas com progestogénio (mini-pílula)",
+      "aliases": [
+        "pílula apenas com progestogénio",
+        "mini-pílula",
+        "POP",
+        "pílula só de progesterona",
+        "comprimido de desogestrel"
+      ],
+      "glance": "A minipílula é um comprimido diário que contém uma única hormona, que torna o muco cervical mais espesso para bloquear os espermatozoides.",
+      "overview": "A pílula só de progestogénio — frequentemente chamada de «mini-pílula» — é um comprimido diário que contém apenas uma\nhormona, um progestogénio. É uma opção para quem não pode ou prefere não tomar estrogénio.\n\nA sua principal ação consiste em tornar o muco do colo do útero mais espesso, dificultando assim que os espermatozoides alcancem um\nóvulo. Um tipo comum, a pílula de desogestrel, também impede os ovários de libertarem um óvulo\n(ovulação).\n\nQuando tomada corretamente, tem uma eficácia superior a 99%; com uma utilização diária típica, ronda os 91%. Tal como acontece com outras\npílulas, o momento da toma é importante e não protege contra as IST.",
+      "deep": "A minipílula difere da pílula combinada por não conter estrogénio, o que altera o perfil das pessoas a quem se adequa —\nalgo que o médico avalia no momento da prescrição. Alguns tipos têm de ser tomados dentro de um intervalo diário bastante\nrestrito para manterem a eficácia. Este artigo explica o que é e como funciona; como tomá-la\ne se é adequada para si são questões que devem ser avaliadas por um médico de família, enfermeiro ou farmacêutico.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "signs-of-labour": {
+      "title": "Sinais de trabalho de parto",
+      "aliases": [
+        "sinais de trabalho de parto",
+        "trabalho",
+        "entrar em trabalho de parto",
+        "contrações",
+        "romper da bolsa",
+        "o espetáculo",
+        "fase latente"
+      ],
+      "glance": "Os sinais de que o trabalho de parto está a começar incluem contrações regulares, a «suação», dores nas costas ou a ruptura da bolsa.",
+      "overview": "Existem alguns sinais que podem indicar que o trabalho de parto está a começar. O principal são as contrações — sensações de aperto na\nbarriga que ocorrem regularmente e vão-se intensificando. Outros incluem a «suação» (o tampão mucoso do\ncolo do útero a soltar-se), dores de costas persistentes, necessidade de ir à casa de banho e a ruptura da bolsa.\n\nAntes do trabalho de parto ativo, há frequentemente uma fase inicial («latente»), em que o colo do útero amolece e começa a\ndilar-se. Esta fase pode demorar horas ou até dias e, para muitas pessoas, não há problema em ficar confortavelmente em\ncasa durante esse período, a descansar e a manter-se hidratada.\n\nO trabalho de parto de cada pessoa começa de forma um pouco diferente, por isso não é necessário verificar todos os sinais. Quando\nachar que as coisas estão a começar, a sua parteira ou a maternidade estarão lá para a orientar sobre o que fazer e\nquando deve dar entrada.",
+      "deep": null,
+      "when_to_see_doctor": "- Ligue à sua **parteira ou à maternidade** para obter orientação quando achar que o trabalho de parto começou, ou quando\n  as contrações forem **regulares — aproximadamente a cada 5 minutos**. Se não conseguir contactar a sua parteira, ligue para\n  **NHS 111**.",
+      "red_flags": "Ligue imediatamente à sua **parteira ou à maternidade** — seja de dia ou de noite, não espere — se:\n\n- **romper as águas** (especialmente se o líquido for verde, castanho ou tiver mau cheiro)\n- tiver **qualquer tipo de sangramento vaginal**\n- o seu **bebé se mexer menos do que o habitual**\n- tiver sinais de trabalho de parto e estiver **com menos de 37 semanas de gravidez**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Sinais de gravidez",
+      "aliases": [
+        "sinais de gravidez",
+        "sintomas precoces da gravidez",
+        "Estarei grávida?",
+        "sintomas de gravidez"
+      ],
+      "glance": "A ausência da menstruação é frequentemente o primeiro sinal de gravidez, por vezes acompanhada de náuseas, cansaço ou sensibilidade nos seios.",
+      "overview": "Para muitas pessoas, o primeiro indício de gravidez é a **ausência da menstruação**. Mas cada corpo é diferente, e algumas pessoas notam\noutros sinais precoces primeiro — muitas vezes por volta das 4 a 6 semanas.\n\nOs sinais precoces comuns incluem náuseas ou vómitos (a qualquer hora do dia, não apenas de manhã), seios\nque parecem maiores ou sensíveis ao toque, cansaço invulgar e necessidade de urinar com mais frequência. Algumas pessoas também\nnotam um sabor metálico, uma nova sensibilidade a certos cheiros ou aversão a alimentos de que normalmente gostam.\n\nNenhum destes sintomas, por si só, significa que esteja definitivamente grávida — muitos coincidem com as oscilações normais\ndo ciclo — e nem todas as mulheres os apresentam. A forma de ter a certeza é fazer um teste de gravidez.",
+      "deep": null,
+      "when_to_see_doctor": "- Se o teste der positivo, contacte uma **parteira ou um médico de família** para iniciar o acompanhamento da gravidez (pré-natal) o mais cedo possível.\n- Se a menstruação estiver atrasada e os testes derem negativo, mas os sintomas persistirem, vale a pena consultar um\n  médico de família para avaliar o que mais se poderá estar a passar.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Fumar durante a gravidez",
+      "aliases": [
+        "fumar durante a gravidez",
+        "deixar de fumar durante a gravidez",
+        "deixar de fumar durante a gravidez",
+        "uso de cigarros eletrónicos durante a gravidez"
+      ],
+      "glance": "Deixar de fumar é uma das melhores coisas que pode fazer pelo seu bebé — e nunca é tarde demais.",
+      "overview": "Deixar de fumar é uma das medidas mais eficazes que pode tomar para proporcionar ao seu bebé um começo de vida saudável.\nCada cigarro reduz o oxigénio que o seu bebé recebe, o que faz com que o coração dele tenha de trabalhar mais e pode\natrasar o seu crescimento.\n\nFumar durante a gravidez aumenta o risco de problemas graves, incluindo aborto espontâneo, parto prematuro,\nbaixo peso à nascença, natimorto e síndrome da morte súbita infantil (SMSI) após o nascimento. O fumo passivo\ntambém é importante, por isso, uma casa sem fumo ajuda.\n\nA parte encorajadora: **nunca é tarde demais**. Deixar de fumar em qualquer fase da gravidez ajuda, e fazê-lo\ncedo traz os maiores benefícios. Pode ser realmente difícil, e é precisamente por isso que existe ajuda gratuita — e\nrecorrer a ela aumenta significativamente as hipóteses de sucesso.",
+      "deep": null,
+      "when_to_see_doctor": "- Pergunte à sua **parteira** sobre o **apoio gratuito do programa «NHS» para deixar de fumar** — os conselheiros com formação (alguns dos quais\n  especializados em gravidez) podem ajudá-la, e existe também uma linha de apoio do «Smokefree». Procurar ajuda é um\n  sinal de que está a cuidar do seu bebé, não uma falha.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Manchas e sangramento entre menstruações",
+      "aliases": [
+        "manchas",
+        "sangramento entre períodos menstruais",
+        "sangramento intermenstrual",
+        "sangramento intermenstrual",
+        "sangramento após as relações sexuais"
+      ],
+      "glance": "O sangramento intermenstrual é um sangramento ligeiro que ocorre entre os períodos menstruais ou após a relação sexual — muitas vezes não é grave, mas vale sempre a pena fazer um exame.",
+      "overview": "O sangramento intermenstrual refere-se a um sangramento ligeiro que ocorre entre os períodos menstruais ou após relações sexuais, fora do\nfluxo normal. É comum e, normalmente, não é nada de grave — mas, como pode ter várias causas,\né o tipo de situação em que vale sempre a pena consultar um médico.\n\nExistem muitas razões comuns para que isso aconteça. Começar a tomar ou utilizar contraceção hormonal é uma das mais frequentes.\nOutras incluem pequenas formações inofensivas no útero ou à sua volta (pólipos ou miomas), alterações inofensivas\nna superfície do colo do útero, secura vaginal ou uma infeção como a clamídia.\n\nComo o mesmo sintoma pode ter origens diferentes — a maioria delas de menor gravidade —, o passo mais sensato\nnão é tentar adivinhar, mas sim consultar um médico para saber o que está na origem do seu caso.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulte um médico de família ou uma clínica de saúde sexual **sempre que tiver sangramento entre períodos ou após relações sexuais**,\n  mesmo que seja leve. Normalmente não é nada de grave, mas fazer um exame é a forma de\n  descobrir a causa — e é a maneira de excluir precocemente causas menos comuns.",
+      "red_flags": "- Marque uma consulta **urgente** com o médico de família ou ligue para o **NHS 111** se **não tiver tido o período e tiver\n  sangramento invulgar acompanhado de dores abdominais ou pélvicas** — isto requer uma avaliação imediata, pois pode ser um\n  sinal de gravidez ectópica."
+    },
+    "stillbirth": {
+      "title": "Nascimento de feto morto",
+      "aliases": [
+        "natimorto",
+        "nascido morto",
+        "perda de um bebé",
+        "perda fetal na fase tardia da gravidez",
+        "bebé que nasceu a dormir"
+      ],
+      "glance": "O natimorto é a perda de um bebé após as 24 semanas — é pouco comum, nunca é culpa sua e conta sempre com apoio.",
+      "overview": "Fala-se de natimorto quando um bebé nasce já sem vida após 24 semanas de gravidez. (Uma perda antes das 24 semanas\né designada por aborto espontâneo.) É pouco comum — cerca de 1 em cada 250 nascimentos — mas, para as famílias que\npor isso passam, é uma perda profunda, e todos os cuidados que se seguem têm como objetivo acompanhá-lo\ncom delicadeza durante este processo.\n\nPor vezes, é identificada uma causa — por exemplo, um problema com a placenta ou com o desenvolvimento do bebé, ou uma\ncondição de saúde — e, outras vezes, apesar dos exames, **não é identificada qualquer causa**. Seja qual for a razão, um\nnascimento de feto morto não é algo que os pais tenham causado ou que pudessem ter previsto para evitar.\n\nHá uma coisa que ajuda verdadeiramente a reduzir o risco, e é simples: **informar imediatamente a sua parteira\nse os movimentos do seu bebé abrandarem ou mudarem.** Além disso, as coisas do dia-a-dia — ir às\nconsultas pré-natais, não fumar, evitar o álcool e dormir de lado a partir da 28.ª semana — todas\nelas têm o seu papel.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacte a sua **parteira ou a unidade de maternidade imediatamente** — a qualquer hora, de dia ou de noite — se o seu **bebé estiver\n  a mexer-se menos do que o habitual ou se os seus movimentos parecerem diferentes.** Nunca espere para ver se isso passa; fazer\n  uma consulta é exatamente o que deve fazer, e nunca é um incómodo.\n- Após uma perda, parteiras especializadas e equipas de apoio ao luto estão ao seu dispor — para as decisões,\n  as medidas práticas e o luto. Não tem de enfrentar nada disto sozinha, e existem grupos de apoio\n  para a perda de um bebé disponíveis durante o tempo que precisar.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "O stress, a vida e a menstruação",
+      "aliases": [
+        "stress e menstruação",
+        "stress",
+        "ausência de menstruação",
+        "período tardio",
+        "Por que é que a minha menstruação está atrasada?"
+      ],
+      "glance": "O stress, grandes variações de peso ou a prática intensiva de exercício físico podem atrasar ou interromper a menstruação — muitas vezes apenas por algum tempo.",
+      "overview": "É comum que a menstruação se atrase ou que falte um mês, e muitas vezes a razão tem mais a ver\ncom o estilo de vida do que com algum problema de saúde. O stress é uma causa frequente — o mesmo sistema que responde\nà pressão pode influenciar as hormonas que regulam o ciclo menstrual.\n\nOutros fatores do dia a dia também podem alterar a menstruação: uma grande variação de peso (para cima ou para baixo), praticar muito\nexercício físico ou estar exausta. Alterações hormonais — como a aproximação da perimenopausa ou\ncondições como a síndrome dePCOSo — também podem estar na origem disso, assim como a gravidez e alguns métodos contraceptivos. Muitas vezes, o intervalo\nentre os períodos menstruais varia apenas um pouco de vez em quando, e isso é normal.\n\nO que é tranquilizador é que um atraso pontual ou a ausência de um período não costuma ser motivo de preocupação, e\nas coisas costumam normalizar-se à medida que a vida segue o seu curso. O que vale a pena observar é um padrão de alteração, em vez de um único\nmês.",
+      "deep": null,
+      "when_to_see_doctor": "Consulte um médico de família se:\n\n- não tiver tido **três menstruações consecutivas**, ou se as suas menstruações se tornarem **irregulares**\n- as suas menstruações **pararem** e não souber bem porquê (e, como existe a possibilidade de gravidez, vale a pena fazer primeiro um teste)\n- a ausência de menstruação vier acompanhada de outras alterações — como variações de peso inesperadas, cansaço, crescimento excessivo de pêlos\n  ou sensação de desânimo\n\nEstes exames servem apenas para compreender o que está por trás da alteração — o que, normalmente, é algo\nque se pode controlar.",
+      "red_flags": null
+    },
+    "the-coil": {
+      "title": "A bobina (IUD e IUS)",
+      "aliases": [
+        "bobina",
+        "a bobina",
+        "IUD",
+        "IUS",
+        "bobina de cobre",
+        "espiral hormonal",
+        "dispositivo intrauterino",
+        "sistema intrauterino",
+        "Mirena"
+      ],
+      "glance": "O dispositivo intrauterino é um pequeno dispositivo colocado no útero — de cobre (IUD) ou hormonal (IUS) — que tem uma duração de vários anos.",
+      "overview": "O DIU é um pequeno dispositivo que um profissional de saúde coloca no interior do útero. Existem dois tipos, e é útil\nsaber distingui-los:\n\n- O **IUD**, ou DIU de cobre, não contém hormonas. O cobre altera as condições no útero de forma a\n  que os espermatozoides e os óvulos não consigam sobreviver bem, e também afeta o muco cervical. Dependendo do tipo,\n  a sua eficácia dura cerca de 5 a 10 anos.\n- O **IUS**, ou espiral hormonal, liberta um progestogénio em vez de utilizar cobre. Este espessa o\n  muco no colo do útero e torna o revestimento uterino mais fino; em algumas pessoas, também pode tornar as menstruações\n  muito mais leves.\n\nAmbos são métodos do tipo «colocar e esquecer» e ambos têm uma eficácia superior a 99%, com pouca diferença entre\na utilização perfeita e a utilização típica. Nenhum deles protege contra as IST.",
+      "deep": "Os dispositivos intrauterinos são métodos reversíveis de ação prolongada: uma vez colocados, continuam a funcionar durante anos, e a fertilidade\nretorna após a sua remoção. A colocação e a remoção são realizadas por um profissional de saúde qualificado e demoram apenas\nalguns minutos, embora algumas pessoas considerem a colocação desconfortável. Uma razão comum pela qual as pessoas escolhem entre\nos dois é o seu efeito na menstruação — oIUDe de cobre pode tornar a menstruação mais intensa no início, enquanto o\nIUSe hormonal costuma torná-la mais leve. Qual o mais adequado para si deve ser discutido com um profissional de saúde; este artigo\napenas explica como cada um funciona.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Gravidez gemelar e múltipla",
+      "aliases": [
+        "gémeos",
+        "gravidez de gémeos",
+        "gravidez múltipla",
+        "à espera de gémeos",
+        "gémeos idênticos",
+        "gémeos não idênticos",
+        "trigémeos"
+      ],
+      "glance": "A gravidez de gémeos é normalmente detectada pela primeira vez na ecografia de datação da gravidez e implica um pouco mais de acompanhamento pré-natal.",
+      "overview": "A gravidez de mais de um bebé é normalmente diagnosticada pela primeira vez na **ecografia de datagem** (por volta das 12 semanas),\nque também pode revelar se os bebés partilham a mesma placenta.\n\nExistem dois tipos principais. Os gémeos **idênticos** provêm de um único óvulo fertilizado que se divide, pelo que\npartilham os mesmos genes e são sempre do mesmo sexo. Os gémeos **não idênticos** provêm de dois\nóvulos distintos e não são mais parecidos do que quaisquer outros irmãos; são os mais comuns dos dois e a sua\nprobabilidade de ocorrência é ligeiramente maior com a idade avançada, em caso de antecedentes familiares do lado materno ou após tratamentos de fertilidade.\n\nA gravidez de gémeos ou mais é uma experiência única e, normalmente, implica **um pouco mais de cuidados pré-natais** —\nconsultas e ecografias adicionais para acompanhar de perto a sua saúde e a dos seus bebés. A sua equipa de parteiras irá\nexplicar-lhe o que pode esperar.",
+      "deep": null,
+      "when_to_see_doctor": "- Se uma ecografia revelar a existência de gémeos (ou mais), a sua **parteira** irá explicar-lhe quais são os exames e\n  ecografias adicionais associados a uma gravidez múltipla — comparecer a todos eles é a melhor forma de garantir que\n  recebe os cuidados adequados.",
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Secura vaginal",
+      "aliases": [
+        "secura vaginal",
+        "secura",
+        "atrofia vaginal"
+      ],
+      "glance": "A secura vaginal é comum, está frequentemente associada às hormonas e pode causar dor ou desconforto durante as relações sexuais.",
+      "overview": "A secura vaginal é uma experiência comum que muitas pessoas vivem em algum momento. Ocorre quando a\nhumidade habitual que mantém a vagina confortável diminui, podendo manifestar-se como dor,\ncomichão ou desconforto — incluindo dor ou desconforto durante as relações sexuais.\n\nEstá frequentemente associada às hormonas, especialmente a uma diminuição dos níveis de estrogénio. É por isso que é comum na\nmenopausa e na perimenopausa, mas também pode ocorrer durante a amamentação, com alguns medicamentos (como\ncertos contraceptivos ou antidepressivos), ou quando não há excitação suficiente antes do sexo. Não é\nnada de que se deva envergonhar — é uma questão física, não um reflexo de si ou da sua\nrelação.\n\nSaber que é comum e, normalmente, muito tratável, é um bom ponto de partida. Existem opções simples\nque podem ajudar, e um médico de família ou farmacêutico pode indicar-lhe o que melhor se adequa a si.",
+      "deep": null,
+      "when_to_see_doctor": "Consulte um médico de família se:\n\n- a secura vaginal a estiver a incomodar ou não desaparecer após algumas semanas\n- estiver a afetar a sua vida quotidiana ou a sua vida sexual\n- também tiver corrimento invulgar ou qualquer sangramento após as relações sexuais, entre períodos menstruais ou após a menopausa\n\nNão há necessidade de simplesmente aguentar — há ajuda disponível, e um profissional de saúde pode investigar qual é a\ncausa e o que poderá aliviar os sintomas.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Saúde vaginal e da vulva",
+      "aliases": [
+        "saúde vaginal",
+        "saúde da vulva",
+        "higiene íntima",
+        "manter a limpeza",
+        "ducha vaginal",
+        "descarga"
+      ],
+      "glance": "A vagina limpa-se sozinha — basta cuidar suavemente da parte externa, e o corrimento é normal.",
+      "overview": "Uma das coisas mais tranquilizadoras que se pode saber é que a vagina cuida de si própria. É naturalmente\nautolimpante, e o corrimento que se observa faz parte desse processo — um fluido que a mantém limpa e húmida\ne ajuda a protegê-la de infeções. A quantidade e a textura variam ao longo do ciclo, o que é\ncompletamente normal.\n\nPor isso, não é necessário lavar o interior da vagina. Na verdade, a lavagem interna —\n«ducha vaginal» — pode perturbar o seu equilíbrio natural. A parte exterior (a vulva) requer apenas cuidados suaves: água morna\ne, se preferir, um sabonete suave e sem perfume. É melhor evitar sabonetes perfumados, géis, desodorizantes e toalhitas perfumadas,\numa vez que podem causar irritação.\n\nSaber o que é normal para si — o seu corrimento habitual, o aspeto e a sensação — torna mais fácil\nperceber se algo muda e se pode ser necessário consultar um médico.",
+      "deep": null,
+      "when_to_see_doctor": "Consulte um médico de família ou uma clínica de saúde sexual se notar:\n\n- uma alteração no corrimento — na cor, no cheiro ou na textura, ou se for muito mais abundante do que o habitual\n- comichão, dor ou irritação à volta da vagina ou da vulva\n- sangramento entre menstruações ou após relações sexuais\n- dor ao urinar, ou dor na parte inferior, entre a barriga e as coxas (dor pélvica)\n\nEstes sintomas são comuns e, muitas vezes, fáceis de tratar — uma alteração no corrimento pode significar simplesmente uma infeção ligeira,\ncomo uma candidíase. É melhor fazer um exame para ter a certeza, em vez de ficar a adivinhar.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "O ciclo e as suas fases",
+      "summary": "Como o teu ciclo passa pelas fases menstrual, folicular, de ovulação e lútea."
+    },
+    "hormones": {
+      "title": "Hormonas",
+      "summary": "Os mediadores por trás do teu ciclo — estrogénio, progesterona, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Fertilidade e ovulação",
+      "summary": "A janela fértil, os sinais de ovulação e os fatores que influenciam a fertilidade."
+    },
+    "contraception": {
+      "title": "Contracepção",
+      "summary": "Como funcionam os diferentes métodos, em linguagem simples."
+    },
+    "symptoms-and-signals": {
+      "title": "Sintomas e sinais do corpo",
+      "summary": "Dor, sangramento ligeiro, corrimento, alterações de humor — o que o seu corpo lhe pode estar a dizer."
+    },
+    "conditions": {
+      "title": "Condições",
+      "summary": "PCOSa, endometriose, miomas e muito mais — explicados, com referências."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Saúde sexual e íntima",
+      "summary": "Bem-estar íntimo, conforto e perguntas frequentes."
+    },
+    "life-stages": {
+      "title": "Fases da vida",
+      "summary": "Desde a primeira menstruação até à perimenopausa e à menopausa."
+    },
+    "wellbeing": {
+      "title": "Bem-estar e o ciclo",
+      "summary": "Como o sono, o stress e a vida quotidiana se relacionam com o teu ciclo."
+    },
+    "tests-and-exams": {
+      "title": "Testes e exames",
+      "summary": "Autoexame das mamas, rastreio do colo do útero, testes de ovulação e muito mais."
+    },
+    "pregnancy": {
+      "title": "Gravidez",
+      "summary": "Sinais precoces, como manter-se saudável, sinais de alerta e perda da gravidez — explicados, com referências."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Compreenda o seu ciclo em 5 passos",
+      "summary": "Um passeio tranquilo pelo ciclo completo e por cada uma das suas quatro fases."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Conhecer a ovulação",
+      "summary": "O que é a ovulação, o período fértil e os sinais que o corpo dá."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "As hormonas responsáveis pelo teu ciclo",
+      "summary": "Conheça os quatro mensageiros que impulsionam o ciclo — e o papel de cada um deles."
+    }
+  }
+}

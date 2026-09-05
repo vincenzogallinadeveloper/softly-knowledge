@@ -1,0 +1,993 @@
+{
+  "_meta": {
+    "lang": "fr",
+    "is_source": false,
+    "source_content_checksum": "3d041d4d3a5acb4667dcd299321f28f894e8f11442758e2cc190e89b1220677a",
+    "review": "Machine-translated (DeepL) from en — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "L'alcool pendant la grossesse",
+      "aliases": [
+        "la consommation d'alcool pendant la grossesse",
+        "la consommation d'alcool pendant la grossesse",
+        "l'alcool et la grossesse",
+        "syndrome d'alcoolisation fœtale",
+        "ETCAF"
+      ],
+      "glance": "La meilleure chose à faire est de ne pas boire d'alcool pendant la grossesse ou lorsque l'on essaie de concevoir un enfant.",
+      "overview": "Les recommandations de l’NHS sont claires et simples : la solution la plus sûre consiste à **ne pas boire d’alcool du tout** si vous êtes\nenceinte ou si vous essayez de concevoir un enfant. En ne buvant pas, vous réduisez au minimum tout risque pour votre bébé.\n\nEn effet, l’alcool passe de votre sang à celui de votre bébé via le placenta, alors que le foie de ce dernier\nn’est pas suffisamment développé pour le métaboliser. La consommation d’alcool pendant la grossesse peut entraîner un trouble du spectre de l’alcoolisation fœtale\n(TSAF), qui se traduit par toute une série de difficultés persistantes en matière d’apprentissage, de comportement et de développement.\n\nSi vous avez bu avant de savoir que vous étiez enceinte, essayez de ne pas vous inquiéter : le risque pour le bébé lié à de petites\nquantités consommées au tout début de la grossesse est probablement faible. L’important est simplement d’éviter l’alcool pour le reste de\nla grossesse à partir de maintenant.",
+      "deep": null,
+      "when_to_see_doctor": "- Si vous avez du mal à arrêter de boire, il n'y a aucune raison d'avoir honte : parlez-en à votre sage-femme ou à\n  votre médecin généraliste. Ils pourront vous apporter leur soutien sans vous juger, et demander de l'aide est bénéfique pour vous et votre bébé.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Suivi prénatal",
+      "aliases": [
+        "suivi prénatal",
+        "suivi prénatal",
+        "suivi de grossesse",
+        "consultations chez la sage-femme",
+        "prendre rendez-vous",
+        "consultations prénatales"
+      ],
+      "glance": "Les soins prénataux consistent en des examens réguliers tout au long de la grossesse qui permettent de veiller à votre bien-être et à celui de votre bébé.",
+      "overview": "Les soins prénataux désignent les soins que vous recevez pendant votre grossesse afin de vous permettre, à vous et à votre bébé, de rester en aussi bonne santé que\npossible. Vous serez généralement suivie par une sage-femme, ainsi que par un médecin si nécessaire. Il est recommandé de commencer tôt :\ncontactez votre sage-femme ou votre médecin généraliste dès que vous apprenez que vous êtes enceinte.\n\nVotre premier rendez-vous officiel — le « rendez-vous d’inscription » — a généralement lieu entre la 8e et la 12e semaine. Par la suite,\non vous proposera des contrôles réguliers : au moins 10 rendez-vous et 2 échographies s’il s’agit de votre\npremier enfant, ou environ 7 si vous avez déjà accouché, avec une fréquence accrue vers la fin de la grossesse.\n\nLors de ces visites, votre sage-femme vérifie votre tension artérielle et analyse votre urine, mesure votre ventre pour suivre la\ncroissance de votre bébé, vous propose des tests de dépistage et discute avec vous des mouvements de votre bébé et de la façon dont vous\nvous sentez. De nombreux problèmes importants — comme la pré-éclampsie ou le diabète gestationnel — sont détectés à ce stade\navant même que vous ne remarquiez quoi que ce soit, et c’est précisément pour cela que ces rendez-vous sont essentiels.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactez une **sage-femme ou un médecin généraliste dès que vous apprenez que vous êtes enceinte** afin que votre suivi puisse commencer tôt —\n  idéalement à temps pour ce premier rendez-vous, qui a lieu vers la 10e à la 12e semaine.\n- Essayez de vous rendre à **tous** vos rendez-vous prénataux, même si vous vous sentez en pleine forme — plusieurs examens\n  ont pour but de détecter précocement des problèmes asymptomatiques.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Les mouvements de votre bébé",
+      "aliases": [
+        "mouvements du bébé",
+        "les mouvements du bébé",
+        "mouvements fœtaux",
+        "coups de pied",
+        "sentir le bébé bouger",
+        "mouvements réduits"
+      ],
+      "glance": "Sentir votre bébé bouger est un signe qu’il va bien. Si ses mouvements ralentissent ou changent, appelez immédiatement votre sage-femme.",
+      "overview": "Sentir votre bébé bouger est l'un des signes rassurants qui indiquent qu'il se porte bien. La plupart des femmes commencent à\nsentir les mouvements entre la 16e et la 24e semaine de grossesse — souvent plus tard lors d'une première grossesse, c'est pourquoi\nil est courant de les ressentir après la 20e semaine lors d'une première grossesse.\n\nIl n’y a pas de nombre précis de mouvements que vous « devriez » ressentir, et il n’est pas nécessaire de compter les coups de pied pour atteindre un objectif.\nChaque bébé est différent, et ce qui compte, c'est d'apprendre à reconnaître le rythme habituel de **votre** bébé\nau fil de la journée — les moments où il est actif et ceux où il est calme.\n\nUne fois que vous connaissez ce rythme, c'est tout changement par rapport à celui-ci qui doit retenir votre attention. Fiez-vous à ce que vous savez\nde votre propre bébé.",
+      "deep": null,
+      "when_to_see_doctor": "C'est en apprenant à connaître le rythme habituel de votre bébé que vous pourrez remarquer tout changement. Si jamais vous avez un doute\nquant à savoir si ses mouvements ont ralenti ou changé, n'hésitez pas à appeler pour vérifier : vous ne ferez jamais\nperdre de temps à personne.",
+      "red_flags": "- Si votre bébé **bouge moins que d'habitude, si ses mouvements changent ou si vous ne le sentez pas bouger**,\n  **appelez immédiatement votre sage-femme ou le service de maternité** — à toute heure du jour ou de la nuit. **N'attendez pas\n  le lendemain**, même si c'est au milieu de la nuit.\n- Ne vous fiez pas à un écouteur fœtal (doppler) ou à une application pour vous rassurer — faites-vous examiner\n  en personne."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Mal de dos pendant la grossesse",
+      "aliases": [
+        "douleurs dorsales pendant la grossesse",
+        "mal de dos pendant la grossesse",
+        "douleurs lombaires chez la femme enceinte",
+        "douleurs dorsales pendant la grossesse"
+      ],
+      "glance": "Les maux de dos sont très fréquents pendant la grossesse, car les ligaments se relâchent et le ventre s'arrondit — ils sont généralement sans gravité.",
+      "overview": "Les maux de dos font partie des symptômes les plus courants de la grossesse. À mesure que votre corps se prépare à l'accouchement, les\nligaments s'assouplissent et s'étirent naturellement, et votre ventre qui s'arrondit modifie la répartition de votre poids —\nce qui exerce une pression supplémentaire sur le bas du dos et le bassin.\n\nDes gestes simples au quotidien peuvent vous soulager : faire attention à votre posture lorsque vous êtes debout, assise ou que vous soulevez des objets ;\nporter des chaussures plates offrant un bon maintien ; utiliser un matelas ferme ou un oreiller offrant un bon soutien ; et pratiquer une activité physique douce et régulière,\ncomme la marche, le yoga prénatal ou des exercices proposés en cours. Si ces douleurs deviennent vraiment gênantes, un\nkinésithérapeute obstétrique peut vous donner des conseils personnalisés.\n\nLa plupart des maux de dos liés à la grossesse ne sont pas inquiétants — mais certains symptômes méritent d’être examinés\nrapidement, et c’est à cela que servent les conseils ci-dessous.",
+      "deep": null,
+      "when_to_see_doctor": "Contactez sans tarder votre **médecin généraliste ou votre sage-femme** si vos douleurs dorsales :\n\n- sont **intenses**, ou apparaissent au cours du **deuxième ou troisième trimestre** (cela peut parfois être un signe de\n  début de travail)\n- s'accompagne de **fièvre, de saignements vaginaux ou de douleurs lorsque vous urinez**\n- se situe **au niveau d'un ou des deux flancs, sous les côtes**",
+      "red_flags": "- Appelez le **999 ou rendez-vous aux urgences** si vous **perdez toute sensation au niveau des jambes, des fesses ou des parties génitales**, ou si vous perdez\n  le contrôle de votre vessie ou de vos intestins. Ce cas de figure est rare, mais nécessite des soins d'urgence."
+    },
+    "basal-body-temperature": {
+      "title": "Température basale",
+      "aliases": [
+        "bbt",
+        "température basale",
+        "température au réveil",
+        "méthode de la température"
+      ],
+      "glance": "La température basale correspond à votre température matinale au repos, qui augmente légèrement après l'ovulation.",
+      "overview": "La température basale (BBT) correspond à la température de votre corps au repos complet. Mesurée de la même manière chaque\njour, elle présente une variation légère mais révélatrice tout au long du cycle : après l’ovulation, elle augmente légèrement et\nreste élevée jusqu’à vos prochaines règles.\n\nCette hausse est faible — environ 0,4 à 0,8 °F (soit environ 0,2 à 0,4 °C) — ; il faut donc l'interpréter à partir d'une tendance observée sur\nplusieurs jours, et non à partir d'une seule mesure. Pour la détecter, vous devez prendre votre température chaque matin avant de\nvous lever, de manger ou de boire, idéalement à la même heure. Presque toutes les femmes ovulent dans les\ntrois jours suivant la hausse de la température.\n\nComme cette hausse survient *après* la libération de l'ovule, la méthode de l'BBTe permet de confirmer que l'ovulation a bien eu lieu plutôt que\nde la prédire à l'avance. Sur plusieurs cycles, elle peut vous aider à cerner le profil de votre propre cycle,\nmême si, à elle seule, elle ne constitue pas un moyen précis de déterminer vos jours fertiles.",
+      "deep": "BBT C'est l'un des indicateurs de la connaissance de la fertilité relevés quotidiennement, au même titre que la glaire cervicale et la\ndurée du cycle. Il s'associe naturellement au suivi de la glaire : le passage à une glaire claire et glissante suggère que la\nfenêtre de fertilité s'ouvre, tandis que la hausse de température quelques jours plus tard confirme que l'ovulation est\ndéjà passée. De nombreux facteurs peuvent influencer la température au repos — un sommeil de mauvaise qualité, une maladie, la consommation d’alcool ou une grasse matinée —\nc’est pourquoi les mesures isolées atypiques ont moins d’importance que la tendance générale.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Saignements pendant la grossesse",
+      "aliases": [
+        "saignements pendant la grossesse",
+        "saignements vaginaux pendant la grossesse",
+        "saignements légers pendant la grossesse",
+        "saignements pendant la grossesse"
+      ],
+      "glance": "Les saignements pendant la grossesse ne sont pas toujours graves — de légers saignements sont fréquents au début de la grossesse — mais il faut toujours consulter un médecin.",
+      "overview": "Les saignements vaginaux pendant la grossesse ne sont pas toujours le signe d'un problème. Les\nsaignements légers ou les petites pertes sont assez fréquents, notamment en début de grossesse, et de nombreuses grossesses se poursuivent\nsans aucun problème après cela.\n\nCela dit, ces saignements peuvent parfois être le signe d’un problème — comme une fausse couche ou une grossesse extra-utérine\n— ; c’est donc un symptôme qui doit **toujours faire l’objet d’un examen**, quelle que soit l’abondance des saignements. C’est en\nconsultant un médecin que l’on peut en déterminer la cause et bénéficier rapidement des soins adaptés si nécessaire.\n\nComme un même symptôme peut avoir des significations très différentes, la meilleure chose à faire n’est pas de deviner, mais de\nprendre rendez-vous et de se faire examiner.",
+      "deep": null,
+      "when_to_see_doctor": "- **Contactez toujours votre service de maternité** (ou, si vous en êtes à moins de 20 semaines ou si vous n’avez pas leur\n  numéro, un service de suivi des grossesses précoces ou **NHS 111**) si vous constatez **le moindre** saignement vaginal pendant votre grossesse,\n  même de légers saignements — afin que la cause puisse être déterminée.",
+      "red_flags": "- Appelez le **999 ou rendez-vous aux urgences** si vous présentez des **saignements abondants** — par exemple, si une serviette hygiénique est trempée peu de temps après\n  avoir été mise en place — surtout si vous ressentez **de fortes douleurs abdominales, des douleurs au niveau des omoplates, ou si vous avez des nausées, des vertiges,\n  des étourdissements ou si vous perdez connaissance.** Vous devez recevoir des soins d'urgence."
+    },
+    "breast-awareness": {
+      "title": "Sensibilisation au cancer du sein",
+      "aliases": [
+        "sensibilisation au cancer du sein",
+        "l'auto-examen des seins",
+        "auto-examen des seins",
+        "auto-examen des seins",
+        "examen des seins"
+      ],
+      "glance": "La sensibilisation au cancer du sein consiste simplement à connaître l'aspect et la texture habituels de vos seins, afin de pouvoir détecter tout changement.",
+      "overview": "L'autopalpiration des seins n'est pas une technique particulière : il s'agit simplement d'apprendre à reconnaître ce qui est normal chez vous, afin\nque tout changement soit immédiatement perceptible. Examiner régulièrement vos seins vous aide à vous familiariser avec leur\naspect et leur texture habituels ; une fois par mois est un bon rythme.\n\nIl n’y a pas une seule « bonne » façon de procéder. Beaucoup de personnes se regardent dans le miroir, les bras le long du corps puis levés, et\npalpent chaque sein, jusqu’à l’aisselle. Ce que vous cherchez à faire, c’est de vous familiariser avec vos seins, pas de poser un diagnostic — l’\nobjectif est simplement de repérer rapidement un changement s’il se produit.\n\nLes seins évoluent également naturellement au cours du cycle menstruel et tout au long de la vie ; certains changements sont donc tout à fait\nnormaux. L’intérêt de cette vigilance est de bien connaître votre état normal afin de repérer tout ce qui s’en écarte.",
+      "deep": null,
+      "when_to_see_doctor": "Consultez un médecin généraliste si vous remarquez un changement inhabituel chez vous, tel que :\n\n- une grosseur ou un gonflement au niveau du sein, de la poitrine ou de l'aisselle\n- une altération de la peau, comme des fossettes (qui peuvent ressembler à une peau d'orange) ou une rougeur\n- un changement de taille ou de forme d'un sein ou des deux seins\n- un écoulement mammaire (si vous n’êtes ni enceinte ni en période d’allaitement), pouvant contenir du sang\n- un changement d’aspect de votre mamelon, par exemple s’il se rétracte vers l’intérieur\n- une douleur au niveau du sein ou de l’aisselle qui persiste\n\nLa plupart des modifications mammaires ne sont pas cancéreuses et s’avèrent bénignes — mais il est toujours préférable de faire\nexaminer rapidement tout changement, car si un problème nécessite une prise en charge, un dépistage précoce est déterminant.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Allaitement maternel",
+      "aliases": [
+        "allaitement maternel",
+        "soins infirmiers",
+        "lait maternel",
+        "allaitement maternel",
+        "l'alimentation de votre bébé"
+      ],
+      "glance": "Le lait maternel protège le bébé contre les infections et s'adapte à mesure qu'il grandit — et quelle que soit la quantité, il présente des bienfaits.",
+      "overview": "Le lait maternel est un aliment naturel et complet pour le bébé : il lui apporte les nutriments, les vitamines et les minéraux\ndont il a besoin, et sa composition évolue au fil du temps pour s'adapter à son stade de développement. Il contribue également à le protéger contre les infections\net les maladies, et offre certains bienfaits pour la santé à long terme.\n\nLa mère qui allaite en tire également des bienfaits : l’allaitement maternel est notamment associé à un risque moindre de cancer du sein\net de l’ovaire — et, en règle générale, plus vous allaitez souvent et longtemps,\nplus les bienfaits sont importants. Il est important de noter que **toute** quantité de lait maternel est bénéfique ; ce n’est\npas une question de « tout ou rien ».\n\nAllaiter un bébé peut aussi s’avérer plus difficile que prévu au début, et c’est tout à fait normal. Vous pouvez obtenir de l’aide — auprès de\nvotre sage-femme, de votre infirmière de santé publique et des services d’NHSs sur l’allaitement — ; il est donc judicieux de demander de l’aide dès le début si cela ne se passe pas\ncomme prévu.",
+      "deep": null,
+      "when_to_see_doctor": "- Demandez rapidement de l'aide à votre **sage-femme ou à votre infirmière de santé publique** si l'allaitement est douloureux ou difficile, ou\n  si vous craignez que votre bébé ne soit pas suffisamment nourri — un accompagnement peut vraiment faire la différence.\n- La manière dont vous nourrissez votre bébé relève d'un choix personnel, et vous pouvez compter sur un soutien quel que soit votre choix ; l'important,\n  c'est que vous et votre bébé alliez bien.",
+      "red_flags": null
+    },
+    "cervical-mucus": {
+      "title": "Glaire cervicale",
+      "aliases": [
+        "glaire cervicale",
+        "décharge",
+        "pertes vaginales",
+        "sécrétions cervicales",
+        "mucus blanc comme un blanc d'œuf"
+      ],
+      "glance": "La glaire cervicale est une sécrétion naturelle dont la texture évolue au fil du cycle et qui permet d'identifier vos jours fertiles.",
+      "overview": "La glaire cervicale est le liquide produit par le col de l'utérus, que vous pouvez percevoir sous forme de pertes. C'est tout à fait normal, et\nson aspect et sa consistance évoluent selon un schéma assez prévisible tout au long du cycle — c'est pourquoi elle constitue l'un\ndes signes permettant d'identifier les jours fertiles.\n\nJuste après les règles, on observe souvent quelques jours « secs » avec peu de glaire. À mesure qu’un ovule commence à\nmûrir, la glaire augmente et a tendance à être blanche ou jaune, trouble et collante. Dans les jours qui\nprécèdent l’ovulation, il devient généralement transparent, humide et glissant, s’étirant entre les doigts comme du\nblanc d’œuf cru — c’est le moment le plus fertile. Après l’ovulation, il redevient généralement collant et trouble\n, ou s’assèche.\n\nLe profil de chaque femme est légèrement différent, et il faut parfois observer plusieurs cycles pour apprendre à\nreconnaître le vôtre. Certains facteurs — tels que la contraception hormonale, l’allaitement ou une infection — peuvent modifier\nla texture de la glaire, ce qui fait qu’il ne s’agit pas d’un signe de fertilité fiable pour tout le monde.",
+      "deep": "L'observation de la glaire cervicale fait partie des signes de fertilité que les personnes surveillent, au même titre que la\ntempérature corporelle au repos et la durée du cycle ; il faut généralement deux à trois cycles pour apprendre à les interpréter. Contrairement à une\nhausse de température, qui ne confirme l'ovulation qu'après qu'elle a eu lieu, le passage à une glaire claire, glissante, semblable à du blanc d'œuf\ntend à se produire *avant* l'ovulation ; c'est pourquoi elle sert à signaler le début de la fenêtre de fertilité dès qu'elle\ns'ouvre, plutôt qu'après sa fermeture.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Dépistage du cancer du col de l'utérus (frottis)",
+      "aliases": [
+        "dépistage du cancer du col de l'utérus",
+        "frottis",
+        "frottis",
+        "frottis cervical",
+        "frottis cervical"
+      ],
+      "glance": "Le dépistage du cancer du col de l'utérus est un examen de routine qui permet d'évaluer l'état de santé de votre col de l'utérus et de prévenir le cancer du col de l'utérus.",
+      "overview": "Le dépistage du cancer du col de l'utérus est un examen qui permet de vérifier l'état de santé du col de l'utérus, c'est-à-dire l'ouverture de l'utérus située à l'\nextrémité du vagin. Il ne s'agit pas d'un test de dépistage du cancer. Il permet plutôt de détecter précocement d'éventuelles anomalies et de contribuer à\nprévenir l'apparition du cancer du col de l'utérus.\n\nToutes les personnes possédant un col de l'utérus sont invitées à y participer entre 25 et 64 ans. Vous recevez une invitation lorsque\nle moment est venu, à intervalles réguliers, vous n’avez donc pas besoin de vous souvenir de prendre rendez-vous spontanément —\nmême si c’est toujours à vous de décider si vous souhaitez y aller ou non.\n\nLe dépistage lui-même est rapide et réalisé par une infirmière. Beaucoup de personnes se sentent un peu nerveuses à cette idée, ce qui est\ntout à fait compréhensible ; savoir à quoi cela sert — un examen de routine à visée préventive — peut aider à le vivre\nplus sereinement.",
+      "deep": null,
+      "when_to_see_doctor": "- Le dépistage s'adresse aux femmes qui **ne présentent pas** de symptômes. Si vous remarquez quelque chose qui vous inquiète\n  entre deux dépistages — comme des saignements inhabituels (entre deux règles, après un rapport sexuel ou après la ménopause) —\n  consultez votre médecin généraliste plutôt que d'attendre votre prochaine convocation.\n- Si vous avez reçu une invitation et que vous hésitez ou que vous êtes anxieuse à l’idée de vous y rendre, n’hésitez pas à en parler à votre médecin généraliste ou à\n  l’infirmière de votre cabinet, qui pourra vous expliquer le déroulement de l’examen et répondre à vos questions.",
+      "red_flags": null
+    },
+    "combined-pill": {
+      "title": "La pilule combinée",
+      "aliases": [
+        "pilule combinée",
+        "la pilule",
+        "contraceptif oral combiné",
+        "COC"
+      ],
+      "glance": "La pilule combinée est un comprimé à prendre quotidiennement qui contient deux hormones et dont le principe d'action consiste principalement à bloquer l'ovulation.",
+      "overview": "La pilule combinée est un comprimé à prendre quotidiennement qui contient deux hormones : des formes d'œstrogène et de progestatif,\nsimilaires à celles produites par les ovaires. C'est l'une des méthodes contraceptives les plus courantes.\n\nElle empêche la grossesse de plusieurs façons à la fois. Elle empêche principalement les ovaires de libérer un ovule\n(ovulation). Elle épaissit également la glaire cervicale, rendant plus difficile le passage des spermatozoïdes,\net amincit la muqueuse utérine.\n\nSon efficacité dépend du respect des consignes d’utilisation : elle est supérieure à 99 % en cas d’utilisation parfaite, mais\ndans le cadre d’une utilisation quotidienne typique — où il arrive parfois que l’on oublie de prendre une pilule ou que l’on la prenne en retard —, elle est d’environ 91 %\n. Comme la plupart des méthodes, elle ne protège pas contre les IST ; c’est pourquoi certaines personnes utilisent également des préservatifs.",
+      "deep": "La pilule combinée se prend généralement selon un schéma mensuel, et la manière de la prendre, les personnes à qui elle convient,\nainsi que ses effets secondaires et ses risques sont autant de points qu’un professionnel de santé aborde lors de la prescription — elle ne\nconvient pas à tout le monde. Comme il s’agit d’une méthode à prendre quotidiennement, son efficacité dans la pratique repose en grande partie sur la\nrégularité. Cet article explique ce qu’est la pilule combinée et comment elle fonctionne ; les détails concernant sa mise en place, sa prise ou\nson arrêt doivent faire l’objet d’un entretien avec un médecin généraliste, une infirmière ou un pharmacien.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Symptômes courants de la grossesse",
+      "aliases": [
+        "symptômes courants de la grossesse",
+        "désagréments liés à la grossesse",
+        "brûlures d'estomac pendant la grossesse",
+        "douleurs dorsales pendant la grossesse",
+        "chevilles enflées",
+        "la constipation pendant la grossesse",
+        "douleurs liées à la grossesse"
+      ],
+      "glance": "La grossesse s'accompagne de nombreux petits maux et changements — la plupart sont tout à fait normaux, mais certains méritent qu'on s'y attarde.",
+      "overview": "La grossesse entraîne de nombreux changements pour votre corps et s'accompagne d'une longue liste de petits désagréments quotidiens. La plupart\nsont courants et ne sont pas le signe d'un problème — ils font simplement partie du développement du bébé.\n\nParmi les plus courantes, on peut citer les maux de dos, les brûlures d’estomac et l’indigestion, la constipation, les hémorroïdes, le gonflement des chevilles, des pieds\net des doigts, la fatigue et les troubles du sommeil, les crampes dans les jambes, les maux de tête, les sensations de malaise et des pertes vaginales plus abondantes que\nd’habitude. Beaucoup d’entre eux s’atténuent grâce à de petites mesures de confort, et votre sage-femme peut vous conseiller des solutions sans danger si quelque chose\nvous gêne.\n\nIl est utile de savoir quels changements sont normaux et lesquels méritent d’être signalés —\ncar certains symptômes, bien que moins courants, nécessitent un examen médical plutôt que d’attendre qu’ils disparaissent d’eux-mêmes.",
+      "deep": null,
+      "when_to_see_doctor": "La plupart de ces symptômes sont normaux, mais contactez rapidement votre **sage-femme ou votre service de maternité** si vous présentez :\n\n- **des saignements vaginaux**, ou un écoulement soudain ou un suintement de liquide\n- une **diminution des mouvements de votre bébé** par rapport à d’habitude\n- un **mal de tête intense, des troubles de la vision ou un gonflement soudain** du visage, des mains ou des pieds (signes possibles\n  de pré-éclampsie)\n- **une douleur abdominale intense ou unilatérale**, ou une **forte fièvre**\n- **des démangeaisons**, en particulier au niveau des mains et des pieds, ou qui s'aggravent la nuit (cela peut être le signe d'une\n  affection hépatique pendant la grossesse qui nécessite un examen)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Préservatifs",
+      "aliases": [
+        "préservatif",
+        "préservatifs",
+        "préservatif externe",
+        "caoutchouc",
+        "méthode de barrière"
+      ],
+      "glance": "Les préservatifs constituent une méthode de barrière — et le seul moyen de contraception qui protège également contre les IST.",
+      "overview": "Un préservatif est une fine barrière — généralement en latex, ou en matière synthétique pour les personnes allergiques au latex\n— que l'on enfile sur le pénis pendant les rapports sexuels. Son principe est simple : il empêche les spermatozoïdes de pénétrer dans le vagin.\n\nCe qui distingue les préservatifs des autres moyens de contraception, c’est qu’ils constituent **la seule méthode qui protège également\ncontre les infections sexuellement transmissibles (IST), y compris le VIH.** C’est pourquoi ils sont souvent utilisés\nen complément d’une autre méthode : l’une pour éviter la grossesse, l’autre pour se protéger contre les infections.\n\nUtilisés correctement à chaque rapport, les préservatifs ont une efficacité d’environ 98 % pour prévenir une grossesse. En\nutilisation typique — c’est-à-dire lorsqu’ils sont parfois mal utilisés ou pas systématiquement —, cette efficacité tombe à environ 82 %. C’est le fait de\nles utiliser correctement et systématiquement qui fait toute la différence.",
+      "deep": "Comme les préservatifs s’utilisent au moment de l’acte plutôt qu’à l’avance, leur efficacité dans la pratique\ndépend fortement d’une utilisation régulière et correcte. Les préservatifs internes (portés à l’intérieur du vagin) constituent une autre\noption de protection de barrière. Contrairement à la plupart des méthodes, les préservatifs ne nécessitent pas d’ordonnance et sont largement disponibles ;\nleur double rôle — protection contre la grossesse et contre l’STI — explique pourquoi ils reviennent si souvent dans les discussions sur les\nrapports sexuels protégés.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Contraception",
+      "aliases": [
+        "contraception",
+        "contraception",
+        "planning familial"
+      ],
+      "glance": "La contraception désigne les différentes méthodes permettant d'éviter une grossesse — et il en existe de nombreuses parmi lesquelles choisir.",
+      "overview": "La contraception — parfois appelée « contrôle des naissances » — désigne l'ensemble des méthodes utilisées pour éviter une grossesse.\nIl en existe de nombreuses, qui fonctionnent de différentes manières : certaines font appel aux hormones, d'autres sont des barrières, d'autres encore\nse placent à l'intérieur de l'utérus, et d'autres reposent sur le suivi du cycle menstruel.\n\nL'efficacité d'une méthode dépend en grande partie de la façon dont elle est utilisée. Certaines méthodes — comme l'implant et le\nstérilet — sont du type « on le met et on n'y pense plus », et leur efficacité dépasse 99 %. D’autres, comme la pilule ou les préservatifs, sont\ntrès efficaces lorsqu’elles sont utilisées à la perfection, mais un peu moins dans le cadre d’une utilisation quotidienne normale, car il est\nplus facile d’oublier une pilule ou de mal utiliser un préservatif.\n\nUne chose à savoir : **seuls les préservatifs protègent également contre les infections sexuellement transmissibles\n(IST)**. Les autres méthodes empêchent la grossesse mais pas les infections, c’est pourquoi les préservatifs sont parfois\nutilisés en complément d’une autre méthode.\n\nIl n’y a pas de « meilleure » méthode en soi : celle qui vous convient dépend de votre état de santé, de votre corps et de ce qui correspond le mieux à\nvotre mode de vie. Un médecin généraliste ou un centre de santé sexuelle peut vous présenter les différentes options et vous aider à faire votre choix.",
+      "deep": "Comme les méthodes varient considérablement, il est utile de réfléchir à ce qui compte pour vous : son efficacité,\nle fait qu’elle implique ou non de se souvenir de quelque chose chaque jour, sa durée d’action, si vous souhaitez ou\nnon prendre des hormones, et si la protection contre l’STI est importante dans votre situation. Beaucoup de personnes changent de méthode au cours de leur\nvie, à mesure que leurs besoins évoluent. Cette base de connaissances décrit le fonctionnement des méthodes courantes afin que les\nchoix vous paraissent plus clairs — mais la décision, ainsi que toute prescription ou mise en place, doit être prise en concertation avec un\nprofessionnel de santé.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "L'implant contraceptif",
+      "aliases": [
+        "implant contraceptif",
+        "l'implant",
+        "Nexplanon",
+        "implant"
+      ],
+      "glance": "L'implant est une minuscule tige placée dans le haut du bras qui libère une hormone pendant quelques années.",
+      "overview": "L'implant contraceptif est une petite tige souple — de la taille d'une allumette environ — que l'on place juste\nsous la peau du haut du bras par un professionnel de santé qualifié. Une fois en place, il libère progressivement une hormone progestative\net reste efficace pendant environ trois ans.\n\nIl empêche la grossesse principalement en empêchant les ovaires de libérer un ovule (ovulation) et en\népaississant la glaire cervicale afin que les spermatozoïdes ne puissent pas la traverser. Comme il n'y a rien à\nretenir au quotidien, c'est l'une des méthodes dites « à poser et à oublier ».\n\nC’est également pour cette raison qu’il s’agit de l’une des options les plus fiables : l’implant présente une efficacité supérieure à 99 %, et son\nefficacité varie très peu entre une utilisation parfaite et une utilisation typique. À l’instar des autres méthodes hormonales, il\nne protège pas contre les IST.",
+      "deep": "L'implant est une méthode contraceptive réversible à action prolongée : il reste efficace jusqu'à ce qu'il soit retiré, et la fertilité\nrevient après son retrait. La pose et le retrait sont des interventions rapides réalisées par un professionnel de santé, qui\nvous expliquera également à qui ce dispositif convient et quels sont ses effets secondaires. Cet article explique ce qu’est cet implant et comment il\nfonctionne ; la décision de le faire poser doit faire l’objet d’un entretien avec un médecin généraliste, une infirmière ou le personnel d’un centre de santé sexuelle.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Votre cycle et votre bien-être",
+      "aliases": [
+        "bien-être",
+        "vélo et santé",
+        "cycle menstruel et santé",
+        "signe vital"
+      ],
+      "glance": "Votre cycle menstruel, c'est un peu comme un bilan de santé mensuel : il peut être utile de prêter attention aux changements qui s'y produisent.",
+      "overview": "Votre cycle menstruel n'est pas dissocié du reste de votre santé : il y est intimement lié. Un cycle\nrégulier est généralement le signe que votre corps fonctionne comme il se doit. C'est pourquoi\ncertaines personnes considèrent les règles comme une sorte d'indicateur mensuel de leur bien-être général.\n\nLa vie quotidienne joue un rôle important à cet égard. Le poids corporel en est un exemple : un surpoids ou une insuffisance pondérale importants\npeuvent affecter les hormones qui régissent l'ovulation, ce qui peut entraîner des règles irrégulières. Cela fonctionne dans les deux\nsens : prendre soin des éléments fondamentaux, comme une alimentation équilibrée et une activité physique régulière, favorise le\ncycle, et un cycle régulier est le signe que ces éléments sont dans un équilibre raisonnable.\n\nIl ne s’agit pas de rechercher un cycle « parfait » ni de se reprocher les changements qui surviennent. Il s’agit simplement de\nprêter une attention bienveillante à votre cycle, ce qui peut vous donner un aperçu utile de votre état de santé — et vous inciter à\nconsulter un professionnel de santé si quelque chose change.",
+      "deep": null,
+      "when_to_see_doctor": "- Consultez un médecin généraliste si vos règles deviennent irrégulières, cessent ou changent d'une manière inhabituelle pour vous —\n  des changements persistants peuvent parfois indiquer un problème qu'il convient d'examiner.\n- Il est également utile d'en parler si vos problèmes de règles affectent votre vie quotidienne, afin que vous puissiez bénéficier\n  d'un accompagnement plutôt que de simplement les supporter.",
+      "red_flags": null
+    },
+    "ectopic-pregnancy": {
+      "title": "Grossesse extra-utérine",
+      "aliases": [
+        "grossesse extra-utérine",
+        "ectopique",
+        "grossesse extra-utérine"
+      ],
+      "glance": "Une grossesse extra-utérine se développe en dehors de l'utérus : elle ne peut pas se poursuivre et nécessite une prise en charge médicale immédiate.",
+      "overview": "On parle de grossesse extra-utérine lorsqu'un ovule fécondé s'implante en dehors de l'utérus, le plus souvent dans l'une des\ntrompes de Fallope. Malheureusement, une grossesse dans cette position ne peut pas aboutir à la naissance d'un bébé et ne peut pas être\ntransférée dans l'utérus ; elle nécessite donc toujours un traitement.\n\nLes symptômes apparaissent généralement entre la 4e et la 12e semaine environ et peuvent inclure une douleur abdominale basse d'un côté,\ndes saignements vaginaux ou des pertes brunâtres et aqueuses, une douleur à la pointe de l'épaule, ou une gêne lorsque\nvous urinez ou allez à la selle. La combinaison des symptômes varie, et certains peuvent facilement être confondus avec un problème bénin,\nc’est pourquoi il est important de se faire examiner.\n\nIl s’agit d’une situation rare, mais potentiellement grave, qu’il ne faut donc pas laisser traîner. Consulter\ntôt permet de la prendre en charge en toute sécurité.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactez votre médecin traitant ou appelez le **NHS 111** si vous présentez plusieurs de ces symptômes **et que vous pourriez être\n  enceinte** — même si votre test de grossesse n'est pas positif. Il est important de demander conseil sans\n  tarder.",
+      "red_flags": "- Appelez le **999 ou rendez-vous aux urgences** si vous ressentez une **douleur soudaine, aiguë et intense au niveau du ventre**, si vous avez de **grands\n  vertiges ou si vous vous sentez sur le point de vous évanouir**, si vous êtes **très pâle** ou si vous avez des nausées en plus de ces symptômes. Cela peut signifier que la trompe de Fallope\n  s'est rompue — une urgence médicale qui nécessite un traitement immédiat."
+    },
+    "emergency-contraception": {
+      "title": "Contraception d'urgence",
+      "aliases": [
+        "contraception d'urgence",
+        "pilule du lendemain",
+        "pilule du lendemain",
+        "pilule du lendemain",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "La contraception d'urgence permet d'éviter une grossesse après un rapport sexuel non protégé — et plus on agit tôt, mieux c'est.",
+      "overview": "La contraception d'urgence est un moyen de prévenir une grossesse après un rapport sexuel non protégé, ou lorsque votre\nméthode habituelle a pu échouer (oubli d'une pilule, préservatif déchiré). Il en existe deux types, et le délai\nest important pour les deux.\n\nLa première est la **pilule du lendemain**. Il en existe deux types : l’un (le lévonorgestrel) peut être pris jusqu’à\n3 jours — 72 heures — après le rapport sexuel, et l’autre (l’acétate d’ulipristal, commercialisé sous le nom d’ellaOne) jusqu’à 5 jours —\n120 heures. La deuxième option est le **stérilet au cuivre (IUD)**, qu’un professionnel de santé peut poser jusqu’à 5 jours\naprès un rapport sexuel ; c’est la forme la plus efficace de contraception d’urgence, et il peut ensuite rester en place comme\nmoyen de contraception permanent si vous le souhaitez.\n\nPour toutes ces méthodes, **plus vous les utilisez tôt, plus elles ont tendance à être efficaces** — il vaut donc mieux agir\nrapidement plutôt que d’attendre. Vous pouvez vous procurer une contraception d’urgence en pharmacie, chez un médecin généraliste, dans un\ncentre de santé sexuelle ou dans un centre de consultation sans rendez-vous, souvent gratuitement.",
+      "deep": null,
+      "when_to_see_doctor": "- Comme le temps est un facteur crucial, n’attendez pas : un pharmacien peut vous remettre rapidement la pilule du lendemain, et\n  un centre de santé sexuelle ou un médecin généraliste peut vous presIUD.\n- La contraception d’urgence vise à prévenir une grossesse, pas une infection. S’il existe un risque d’\n  infection sexuellement transmissible, un centre de santé sexuelle pourra vous conseiller sur les tests à effectuer.\n- Si vos règles ont ensuite plus de quelques jours de retard, ou si elles sont très différentes de d’habitude, il est recommandé de faire\n  un test de grossesse et d’en parler à un professionnel de santé.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endométriose",
+      "aliases": [
+        "endométriose",
+        "endo"
+      ],
+      "glance": "L'endométriose est une affection caractérisée par la croissance, à l'extérieur de l'utérus, de tissus semblables à la muqueuse utérine, ce qui provoque souvent des douleurs.",
+      "overview": "L'endométriose est une affection chronique caractérisée par la prolifération de cellules similaires à celles de la muqueuse utérine\ndans d'autres parties du corps, notamment autour des ovaires, dans le bassin ou au niveau de l'intestin. Il s'agit d'une affection courante —\non estime qu'elle touche environ 1 femme sur 10 en âge de procréer dans le monde.\n\nComme ce tissu se comporte un peu comme la muqueuse utérine, il peut provoquer une inflammation et, avec le temps,\nla formation de tissu cicatriciel. Le symptôme le plus courant est la douleur : souvent des règles très douloureuses, mais aussi des douleurs pelviennes ou dans le bas du dos\nà d’autres moments, des douleurs pendant ou après les rapports sexuels, ainsi que des douleurs lors de la miction ou de la défécation. Des règles très abondantes,\nune fatigue profonde, une baisse de moral et des difficultés à tomber enceinte sont également fréquentes. Les symptômes varient considérablement —\ncertaines personnes ressentent des douleurs intenses, d’autres très peu.\n\nL’endométriose est souvent mal comprise et peut mettre des années à être diagnostiquée, en partie parce que les douleurs menstruelles sont\ntrès souvent considérées comme « normales ». Une douleur intense qui perturbe votre vie n’est pas quelque chose que vous devez simplement\nsupporter — elle mérite d’être prise au sérieux.",
+      "deep": "La cause exacte de l’endométriose n’est pas connue, et il n’existe actuellement aucun remède — mais les traitements peuvent\naider à soulager les symptômes, et les solutions vont des médicaments à, pour certaines personnes, la chirurgie, sans oublier\nun accompagnement pour faire face au poids physique et émotionnel de la maladie. L’un des principaux défis réside dans les délais : en moyenne, il faut\nplusieurs années, parfois même beaucoup, pour obtenir un diagnostic. C’est en partie pour cette raison qu’il est si important de tenir un journal précis\nde vos symptômes et de revenir voir un professionnel de santé si vous n’êtes pas écoutée.",
+      "when_to_see_doctor": "Il est conseillé de consulter un médecin généraliste si :\n\n- vous souffrez de douleurs menstruelles intenses qui vous empêchent de mener vos activités habituelles\n- vos règles sont très abondantes — par exemple, si vous devez changer de serviette hygiénique ou de tampon toutes les 1 à 2 heures\n- vous souffrez de douleurs pelviennes ou lombaires persistantes, de douleurs pendant ou après les rapports sexuels, ou de douleurs lorsque vous urinez ou allez à la selle\n- vous avez des difficultés à tomber enceinte\n- le traitement que vous avez déjà suivi n'a pas été efficace, ou vos symptômes se sont aggravés\n\nComme le diagnostic de l’endométriose peut prendre du temps, n’hésitez pas à retourner consulter si vos symptômes ne sont pas pris\nau sérieux — un suivi précis de vos douleurs au fil du temps est utile. Si la douleur ou les saignements abondants ont également\nun impact sur votre humeur, parlez-en à votre médecin généraliste ; cela fait partie du tableau clinique, et un accompagnement est disponible.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Œstrogène",
+      "aliases": [
+        "œstrogène"
+      ],
+      "glance": "L'œstrogène est une hormone essentielle qui aide votre corps à se préparer à une éventuelle grossesse à chaque cycle.",
+      "overview": "L'œstrogène est l'une des principales hormones à l'origine du cycle menstruel. Au cours de la première moitié du cycle\n(la phase folliculaire), son taux augmente à mesure qu'un follicule mûrit dans l'ovaire. Cette augmentation provoque un épaississement de la\nmuqueuse utérine et conduit à l'ovulation.\n\nL'œstrogène influence également certains aspects que vous pouvez remarquer au quotidien : votre énergie, votre humeur et les changements de\nla glaire cervicale autour de vos jours fertiles. Après l'ovulation, son taux baisse puis évolue à nouveau,\nen synergie avec une autre hormone, la progestérone, tout au long de la seconde moitié du cycle.\n\nLes taux augmentent et diminuent naturellement au cours de chaque cycle, et ils varient également selon les étapes de la vie. C'est\nnormal : c'est le rythme qui régit votre corps, ce n'est pas quelque chose qu'il faut « corriger ».",
+      "deep": "L'œstrogène n'est pas une substance unique, mais un groupe d'hormones apparentées (la plus active au cours du cycle\nest l'estradiol). Il est principalement produit par les ovaires, dans le follicule en croissance. Ses variations cycliques\n— associées à la progestérone et aux hormones de signalisation du cerveau, l’LHe et l’FSHe — sont ce qui\ndétermine les phases du cycle. Comme l’œstrogène agit sur de nombreux systèmes, ses variations naturelles peuvent\nse manifester par de petits changements tout au long du mois ; le suivi vous aide à connaître votre propre rythme plutôt que de\nle comparer à une « moyenne ».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "L'activité physique et votre cycle menstruel",
+      "aliases": [
+        "exercice",
+        "activité physique",
+        "faire du sport",
+        "mouvement",
+        "exercice et cycles"
+      ],
+      "glance": "Vous pouvez rester active tout au long de votre cycle — et une activité physique régulière peut aider à soulager les crampes et l'PMSs.",
+      "overview": "Vous pouvez pratiquer une activité physique à n’importe quel moment de votre cycle. Certaines personnes constatent qu’elles ont plus d’énergie et\npeuvent se donner un peu plus à fond à certaines périodes du mois, et moins à d’autres — ces deux situations sont normales, et\naucune ne justifie d’arrêter de bouger.\n\nUne activité physique régulière peut en effet aider à soulager certains symptômes liés aux règles. Les personnes qui font régulièrement de l'exercice\nont souvent moins de crampes douloureuses, et rester active peut également atténuer les symptômes prémenstruels (PMS). Les\njours où vous manquez d'énergie, une activité plus douce compte tout autant : elle n'a pas besoin d'être intense pour être bénéfique.\n\nIl n’est pas nécessaire d’organiser votre vie en fonction de votre cycle, et il n’y a pas une seule « bonne » façon de faire de l’exercice. Observer\nvos propres variations d’énergie au fil du mois peut simplement vous aider à vous organiser de manière à vous sentir bien.",
+      "deep": null,
+      "when_to_see_doctor": "- Un entraînement très intense, ou une activité physique si intense que votre corps vient à manquer d'énergie, peut entraîner des règles\n  irrégulières, voire leur arrêt complet. Un cycle régulier est généralement le signe que tout se passe\n  bien ; il est donc conseillé de consulter un médecin généraliste si vos règles deviennent irrégulières ou cessent — cela peut avoir\n  des répercussions sur la santé osseuse et hormonale à long terme.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "L'activité physique pendant la grossesse",
+      "aliases": [
+        "l'activité physique pendant la grossesse",
+        "Rester active pendant la grossesse",
+        "exercice physique pendant la grossesse",
+        "Rester en forme pendant la grossesse"
+      ],
+      "glance": "Rester active est sans danger et bénéfique dans la plupart des grossesses — à condition de le faire en douceur, sans se surmener.",
+      "overview": "Rester active pendant la grossesse est bon pour vous et ne présente aucun danger pour votre bébé — au contraire, rester en forme\npeut vous aider à faire face aux changements à venir et à l'accouchement. Vous n'avez pas besoin de vous lancer dans une activité intense ;\npoursuivre vos activités quotidiennes habituelles, tant que vous vous sentez à l'aise, est un excellent\npoint de départ.\n\nUne règle simple : vous devriez pouvoir **tenir une conversation** tout en bougeant. Si vous êtes trop\nessoufflée pour parler, ralentissez le rythme. Des activités douces comme la marche, la natation, les cours d’aquagym prénatale et\nle yoga pour femmes enceintes conviennent à la plupart des femmes. Si vous n’étiez pas active auparavant, ce n’est pas le moment de vous lancer dans un\nnouveau programme d’entraînement intense — commencez plutôt en douceur.\n\nIl vaut mieux éviter certaines activités ou les pratiquer avec prudence — comme s’allonger à plat sur le dos après\nenviron 16 semaines, les sports de contact, la plongée sous-marine et toute activité présentant un risque réel de chute.",
+      "deep": null,
+      "when_to_see_doctor": "- Consultez votre **sage-femme** avant de commencer un nouveau programme d'exercices d'aérobie, ou si vous souffrez d'un\n  problème de santé ou si vous avez des inquiétudes concernant votre grossesse.\n- **Arrêtez-vous et demandez conseil** si vous ne vous sentez pas bien, si vous avez des vertiges ou si vous êtes très essoufflée, ou si vous ressentez des douleurs,\n  des saignements ou des contractions pendant l'exercice.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "La période de fertilité",
+      "aliases": [
+        "période de fertilité",
+        "jours fertiles",
+        "jours les plus fertiles"
+      ],
+      "glance": "La période de fertilité correspond à la courte période de quelques jours, au cours de chaque cycle, pendant laquelle les rapports sexuels peuvent déboucher sur une grossesse.",
+      "overview": "La période de fertilité correspond à la brève période du cycle pendant laquelle une grossesse est possible. Elle existe en raison\nde deux moments qui ne coïncident pas tout à fait : un ovule ne peut être fécondé que pendant environ 12 à 24 heures\naprès sa libération, mais les spermatozoïdes peuvent survivre à l'intérieur du corps pendant plusieurs jours — jusqu'à environ une semaine —\nen attendant un ovule.\n\nEn résumé, cela signifie que la fenêtre s'ouvre quelques jours avant l'ovulation et se referme environ un jour\naprès celle-ci. En pratique, vous êtes la plus fertile pendant les 2 à 3 jours précédant l'ovulation et le\njour même de celle-ci, car les spermatozoïdes peuvent déjà être présents lorsque l'ovule arrive.\n\nComme l'ovulation peut varier d'un cycle à l'autre, la fenêtre de fertilité varie également. C'est pourquoi on la\nconsidère généralement comme une plage de jours plutôt que comme une date unique, et pourquoi le suivi des signes sur\nplusieurs cycles est plus fiable que de se fier à un seul calcul calendaire.",
+      "deep": "Les jours exacts varient d'une personne à l'autre et d'un mois à l'autre ; il est donc préférable d'estimer cette « fenêtre »\nen se basant sur les signaux émis par le corps plutôt que sur une formule fixe. Les changements dans la glaire cervicale indiquent que la\nfenêtre s'ouvre à l'approche de l'ovulation, et une hausse de la température corporelle au repos confirme — après\ncoup — que l'ovulation a eu lieu et que la fenêtre s'est refermée. Les tests de prédiction de l’ovulation interviennent à un\nstade antérieur, en détectant le pic de l’hormone lutéinisante (LH) qui survient peu avant la\nlibération de l’ovule.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Périodes de début (première période)",
+      "aliases": [
+        "première période",
+        "menarche",
+        "périodes de début",
+        "avoir ses règles"
+      ],
+      "glance": "Les premières règles surviennent généralement vers l'âge de 12 ans — mais il est tout à fait normal qu'elles apparaissent entre 8 et 17 ans environ.",
+      "overview": "Les premières règles — parfois appelées « ménarche » — marquent le début du cycle menstruel.\nElles apparaissent généralement vers l’âge de 12 ans, mais il est normal qu’elles surviennent entre 8 et 17 ans environ. Elles surviennent souvent\nenviron deux ans après le début du développement des seins.\n\nIl y a généralement des signes avant-coureurs : l'apparition de poils sous les aisselles et au niveau du pubis, ainsi que de légères pertes claires ou\nblanches au cours des mois précédents. Le fait de savoir que ces changements vont se produire peut aider à rendre ces premières règles moins\nbrusques.\n\nAu début, les règles sont souvent irrégulières : les intervalles peuvent être longs ou courts, et il faut parfois\nplusieurs mois, voire quelques années, à votre corps pour trouver un rythme plus régulier. Une fois ce rythme atteint,\nles règles surviennent généralement tous les 23 à 35 jours et durent environ 2 à 7 jours. Ces\nirrégularités initiales sont normales et ne doivent pas vous inquiéter.",
+      "deep": null,
+      "when_to_see_doctor": "- Consultez un médecin généraliste si les règles **ne se sont pas encore manifestées à l’âge de 15 ans**, ou à **13 ans s’il n’y a aucun autre signe de\n  puberté** (comme le développement des seins ou la pilosité corporelle). Il s’agit simplement de vérifier que tout se déroule comme\n  prévu — en général, tout va bien.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Acide folique et vitamines pendant la grossesse",
+      "aliases": [
+        "acide folique",
+        "folate",
+        "La vitamine D pendant la grossesse",
+        "vitamines pour la grossesse",
+        "compléments alimentaires pendant la grossesse"
+      ],
+      "glance": "La prise d'acide folique avant et au début de la grossesse contribue à protéger le bébé — sans oublier une dose quotidienne de vitamine D.",
+      "overview": "Deux compléments alimentaires sont particulièrement importants pendant la grossesse, et l’NHS, recommande les deux.\n\n**L'acide folique** est le plus important. Prendre un complément de 400 microgrammes par jour — idéalement avant même la\nconception (environ trois mois à l'avance) et jusqu'à la fin du premier trimestre, soit à 12 semaines — aide à\nprotéger le bébé contre les anomalies du tube neural telles que le spina bifida. Comme son action commence très tôt, c’est\nl’un des rares compléments qu’il vaut la peine de prendre *avant* la grossesse si vous essayez de concevoir.\n\nLa **vitamine D** est l’autre complément essentiel : un apport quotidien de 10 microgrammes est recommandé tout au long de la grossesse\net pendant l’allaitement, pour favoriser le développement osseux et la croissance du bébé.\n\nAu-delà de ces deux éléments, une alimentation saine et variée couvre la plupart des besoins — vous n’avez pas besoin de nombreux compléments alimentaires supplémentaires.\nIl faut toutefois éviter la **vitamine A** (rétinol) : ne prenez pas de compléments qui en contiennent et évitez\nle foie, car un excès de vitamine A peut nuire au bébé.",
+      "deep": null,
+      "when_to_see_doctor": "- Un **médecin généraliste, une sage-femme ou un pharmacien** peut vous aider à choisir les compléments adaptés, et il est\n  recommandé à certaines personnes de prendre une **dose plus élevée d’acide folique** (par exemple en cas de diabète, d’BMI élevée, de prise de certains\n  médicaments ou en cas de grossesse antérieure marquée par une anomalie du tube neural). Il est donc utile de se renseigner,\n  en particulier avant ou au début de la grossesse.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Phase folliculaire",
+      "aliases": [
+        "phase folliculaire",
+        "première moitié du cycle"
+      ],
+      "glance": "La phase folliculaire correspond à la première moitié du cycle, durant laquelle un ovule arrive à maturité et la muqueuse utérine s'épaissit.",
+      "overview": "La phase folliculaire est la première partie du cycle. Elle commence le premier jour de vos règles et\nse poursuit jusqu'à l'ovulation. Son nom vient du follicule, cette petite poche remplie de liquide située dans l'ovaire\nqui abrite et fait mûrir un ovule pendant cette période.\n\nAu cours de cette phase, le taux d’œstrogènes augmente. Cette hausse d’œstrogènes a deux effets principaux : elle favorise\nla maturation d’un follicule dans l’ovaire et elle épaissit la muqueuse utérine (matrice), préparant ainsi le corps\nà une éventuelle grossesse plus tard dans le cycle.\n\nEn raison de cette augmentation du taux d’œstrogènes, certaines personnes constatent un regain d’énergie ou des changements au niveau de la glaire cervicale à l’approche des\njours fertiles. Chaque personne vit cette phase différemment, et rien de tout cela ne nécessite d’être « géré » : il s’agit\nsimplement de la première moitié de votre cycle qui suit son cours normal.",
+      "deep": "La durée de la phase folliculaire peut varier d’un cycle à l’autre, ce qui explique en partie pourquoi les cycles complets\ndiffèrent d’une personne à l’autre et d’un mois à l’autre. Elle prend fin lorsque l'augmentation du taux d'œstrogènes contribue à déclencher la\nlibération d'un ovule (ovulation). Comme ses derniers jours précèdent l'ovulation, c'est à ce moment-là que s'ouvre la\nfenêtre de fertilité — c'est pourquoi la fin de la phase folliculaire est importante pour toute personne qui suit sa fertilité.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Aliments à éviter pendant la grossesse",
+      "aliases": [
+        "aliments à éviter pendant la grossesse",
+        "alimentation pendant la grossesse",
+        "Ce qu'il ne faut pas manger pendant la grossesse",
+        "la caféine pendant la grossesse",
+        "listeria"
+      ],
+      "glance": "La plupart des aliments sont sans danger pendant la grossesse ; il vaut mieux en éviter certains, et il est conseillé de limiter sa consommation de caféine.",
+      "overview": "La bonne nouvelle, c’est que la plupart des aliments peuvent être consommés sans risque pendant la grossesse — seuls quelques-uns méritent d’être\névités ou consommés avec prudence, principalement pour se prémunir contre des micro-organismes comme la listéria ou un excès de certaines\nvitamines. Connaître cette courte liste vous permet d’avoir l’esprit tranquille pour le reste.\n\nL’NHS recommande de faire attention aux aliments suivants :\n\n- **Certains fromages** — les fromages à pâte molle affinés à la moisissure comme le brie et le camembert, ainsi que les fromages bleus à pâte molle,\n  à moins qu’ils ne soient cuits jusqu’à ce qu’ils soient brûlants ; et tout produit à base de lait **non pasteurisé**.\n- **La viande crue ou insuffisamment cuite**, la charcuterie, le **pâté** et le **foie** (qui est très riche en\n  vitamine A).\n- **Les œufs crus ou à la coque**, sauf s’ils portent le label « British Lion ».\n- **Certains poissons** — évitez le requin, l’espadon et le marlin, limitez votre consommation de thon et ne consommez pas plus de deux portions\n  de poisson gras par semaine.\n- **La caféine** — ne pas dépasser environ 200 mg par jour (soit environ deux tasses de café instantané), en comptant également le thé,\n  le cola, les boissons énergisantes et le chocolat.",
+      "deep": null,
+      "when_to_see_doctor": "- Il s'agit de conseils généraux, et non d'un régime alimentaire strict. Si vous avez des questions sur ce qui est sans danger pour vous ou\n  si vous avez des besoins alimentaires spécifiques, votre **sage-femme** pourra en discuter avec vous.\n- Si vous avez mangé un aliment figurant sur la liste des « aliments à éviter », ne paniquez pas ; parlez-en à votre sage-femme si\n  vous êtes inquiète ou si vous ne vous sentez pas bien.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Hormone folliculo-stimulante (FSH)",
+      "aliases": [
+        "fsh",
+        "hormone folliculo-stimulante",
+        "hormone folliculo-stimulante"
+      ],
+      "glance": "FSH est une hormone cérébrale qui stimule la croissance des follicules dans l'ovaire au début de chaque cycle.",
+      "overview": "FSH — l’hormone folliculo-stimulante — est l’une des hormones messagères qui déclenchent le cycle.\nElle est produite par une petite glande située dans le cerveau (l’hypophyse) et, comme son nom l’indique, elle stimule\nles follicules : ces minuscules sacs remplis de liquide situés dans l’ovaire et contenant chacun un ovule.\n\nAu début du cycle, l’FSHe favorise la croissance d’un groupe de ces follicules. À mesure qu’un follicule\nse développe, il libère davantage d’œstrogènes, ce qui provoque l’épaississement de la muqueuse utérine (matrice) en vue\nd’une éventuelle grossesse. Généralement, un follicule devient dominant et mène à l’\novulation.\n\nFSH augmente et diminue dans le cadre des fluctuations normales du cycle. Vous ne ressentez pas directement l’FSH\n— il agit discrètement en arrière-plan, préparant les changements plus visibles de la phase folliculaire.",
+      "deep": "FSH agit en synergie avec l'hormone LHe () ; toutes deux sont sécrétées par l'hypophyse, située dans le\ncerveau, et, ensemble, elles régulent le cycle ovarien. L'FSHe pilote la première moitié du cycle en favorisant la croissance des\nfollicules, tandis que le pic de LHe qui survient plus tard marque la libération d'un ovule en milieu de cycle. C’est également grâce à cette interaction\nque les traitements de fertilité utilisent des médicaments à base d’FSHe : l’apport supplémentaire d’FSHe favorise la maturation simultanée de plusieurs follicules,\nau lieu d’un seul comme c’est généralement le cas lors d’un cycle naturel.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Diabète gestationnel",
+      "aliases": [
+        "diabète gestationnel",
+        "diabète gestationnel",
+        "hyperglycémie pendant la grossesse"
+      ],
+      "glance": "Le diabète gestationnel se caractérise par une élévation du taux de glycémie pendant la grossesse ; il est généralement détecté lors d'un dépistage et disparaît souvent après l'accouchement.",
+      "overview": "Le diabète gestationnel est un état caractérisé par une glycémie élevée (taux de glucose) qui apparaît pendant la grossesse, lorsque l'organisme\nn'arrive pas tout à fait à répondre à la demande supplémentaire en insuline. Chez la plupart des femmes, il disparaît après la\nnaissance du bébé.\n\nIl ne provoque généralement **aucun symptôme** ; il est donc détecté grâce à un test de dépistage proposé pendant la grossesse\n(un test de tolérance au glucose, souvent réalisé entre la 24e et la 28e semaine), surtout si vous présentez des facteurs qui augmentent le\nrisque de le développer — comme un surpoids, des antécédents familiaux de diabète, un précédent bébé de gros poids ou certaines\norigines ethniques.\n\nCe trouble est très facile à prendre en charge. Maintenir votre glycémie dans une fourchette normale — grâce à l’alimentation, à l’activité physique et parfois à des\nmédicaments, le tout sous la supervision de votre équipe soignante — réduit le risque de complications pour vous et votre bébé,\nc’est pourquoi il est important d’y prêter attention.",
+      "deep": null,
+      "when_to_see_doctor": "- Faites le **test de dépistage** s’il vous est proposé — comme le diabète gestationnel ne présente généralement aucun\n  symptôme, c’est grâce à ce test qu’on le détecte.\n- N'attendez pas le test si vous remarquez des signes pouvant indiquer une glycémie élevée — soif intense,\n  besoin fréquent d'uriner, bouche sèche ou fatigue — : signalez-les à votre sage-femme ou à votre médecin.",
+      "red_flags": null
+    },
+    "group-b-strep": {
+      "title": "Streptocoque du groupe B (SGB)",
+      "aliases": [
+        "streptocoque du groupe B",
+        "GBS",
+        "streptocoque du groupe B",
+        "Streptocoque B pendant la grossesse"
+      ],
+      "glance": "Le streptocoque du groupe B est une bactérie courante, généralement inoffensive ; le risque, bien que minime, concerne le bébé lors de l'accouchement, mais il est maîtrisable.",
+      "overview": "Le streptocoque du groupe B (SGB) est une bactérie très courante dont de nombreuses personnes sont porteuses, généralement au niveau du vagin ou\nde l’anus, sans le savoir et sans que cela ne cause le moindre problème. Il ne s’agit pas d’une infection sexuellement transmissible,\net le fait d’en être porteuse est tout à fait normal.\n\nPendant la grossesse, cela n’a d’importance que parce qu’il existe un **faible risque** qu’elle se transmette au bébé au moment de l’\naccouchement et, dans de rares cas, qu’elle le rende malade — cela arrive dans environ 1 grossesse sur 1 750. Elle est\nsouvent détectée par hasard, par exemple lors d’une analyse d’urine ou d’un prélèvement vaginal effectué pour une autre raison (l’NHS\ne ne procède pas systématiquement à un dépistage chez toutes les femmes).\n\nCe qui est rassurant, c’est que cette infection est très facile à prendre en charge : si la présence du SGB est connue, l’administration d’**antibiotiques par\nperfusion pendant le travail** réduit considérablement le risque que le bébé tombe malade.",
+      "deep": null,
+      "when_to_see_doctor": "- Si l'on vous a dit que vous étiez porteuse du streptocoque du groupe B — actuellement ou lors d'une grossesse précédente — **informez-en votre sage-femme ou\n  votre équipe de maternité**, afin que l'administration d'antibiotiques pendant le travail puisse être prévue. C'est une mesure simple qui fait une\n  véritable différence.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Brûlures d'estomac et indigestion pendant la grossesse",
+      "aliases": [
+        "brûlures d'estomac pendant la grossesse",
+        "indigestion pendant la grossesse",
+        "reflux acide pendant la grossesse",
+        "reflux"
+      ],
+      "glance": "Les brûlures d'estomac sont très fréquentes pendant la grossesse ; elles sont généralement sans danger et s'atténuent souvent grâce à de petits changements dans le quotidien.",
+      "overview": "Les brûlures d'estomac et l'indigestion — une sensation de brûlure ou une gêne au niveau de la poitrine, souvent après les repas — sont\ntrès fréquentes pendant la grossesse. Cela s'explique par les hormones de grossesse qui relâchent le muscle situé à la partie supérieure de l'\nestomac et, par la suite, par la pression exercée vers le haut par le bébé qui grandit. C'est désagréable, mais sans danger.\n\nDe petits changements aident souvent : privilégier des repas plus légers et plus fréquents plutôt que des repas copieux, rester assise pendant\nle repas et pendant un moment après, limiter les aliments épicés, gras ou contenant de la caféine, et ne pas manger\ntrop tard avant de se coucher. Certaines femmes trouvent qu'il est plus confortable de dormir la tête légèrement surélevée.\n\nSi cela ne suffit pas, un **pharmacien** peut vous conseiller des antiacides sans danger pendant la\ngrossesse — c’est une bonne première étape avant que le problème ne s’aggrave.",
+      "deep": null,
+      "when_to_see_doctor": "- Consultez votre **médecin généraliste ou votre sage-femme** si de simples changements et les remèdes en pharmacie ne suffisent pas, ou si vous avez\n  **des difficultés à avaler**, si vous régurgitez sans cesse, si vous perdez du poids sans le vouloir ou si vous avez des\n  douleurs abdominales — il vaut mieux faire examiner ces symptômes plutôt que de les attribuer à de simples brûlures d’estomac.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Règles abondantes",
+      "aliases": [
+        "règles abondantes",
+        "ménorragie",
+        "saignements menstruels abondants",
+        "inondations",
+        "saignements abondants",
+        "caillots"
+      ],
+      "glance": "Des règles abondantes impliquent une perte importante de sang à chaque cycle — c’est fréquent, mais cela vaut la peine de consulter si cela vous pose problème.",
+      "overview": "Les règles abondantes — dont le terme médical est « ménorragie » — se caractérisent par une perte importante de sang pendant les règles.\nPour certaines personnes, ces saignements abondants correspondent tout simplement à la norme, mais s’ils perturbent votre vie quotidienne ou vous\népuisent, cela vaut la peine de se renseigner.\n\nVoici quelques signes indiquant que vos règles sont abondantes : devoir changer de serviette hygiénique ou de tampon toutes les 1 à 2 heures,\nutiliser deux types de produits d’hygiène féminine en même temps (comme un tampon et une serviette hygiénique), des saignements qui traversent vos\nvêtements ou votre literie, l’évacuation de caillots de sang de plus de 2,5 cm environ (soit à peu près la taille d’une pièce de 10 pence), ou des règles\nqui durent plus de 7 jours.\n\nPerdre beaucoup de sang mois après mois peut vous fatiguer ou vous essouffler, car cela peut entraîner\nune carence en fer (anémie). Les causes possibles sont nombreuses — des fibromes ou des pathologies telles que\nl’endométriose, l’adénomyose ou l’PCOS à certains médicaments — et souvent, aucune cause grave n’est identifiée. Quoi qu’il\nen soit, il est généralement possible de soulager les règles abondantes ; vous n’êtes donc pas obligée de vous en accommoder.",
+      "deep": null,
+      "when_to_see_doctor": "Consultez un médecin généraliste si :\n\n- vos règles abondantes perturbent votre vie quotidienne\n- vous avez des saignements abondants pendant plusieurs heures, ou si vos règles durent très longtemps\n- vous souffrez également de douleurs menstruelles intenses, ou de douleurs lors des rapports sexuels, lorsque vous urinez ou lorsque vous allez à la selle\n- vous avez des saignements entre deux règles ou après un rapport sexuel\n- vous vous sentez souvent fatiguée ou à bout de souffle (cela peut être le signe d’une carence en fer)\n\nUn médecin généraliste pourra en rechercher la cause et vous proposer des solutions adaptées.",
+      "red_flags": "- Consultez **d’urgence** un médecin — appelez le **NHS111**, ou le **999 / rendez-vous aux urgences** si votre état est grave — si vous\n  **saignez si abondamment que vous imbibez une serviette hygiénique, voire plusieurs, toutes les heures pendant plusieurs heures d'affilée**, ou si vous\n  vous sentez **prise de vertiges, étourdie ou à bout de souffle**. Ces symptômes peuvent indiquer une perte de sang importante."
+    },
+    "lh": {
+      "title": "Hormone lutéinisante (LH)",
+      "aliases": [
+        "lh",
+        "hormone lutéinisante",
+        "hormone lutéinisante"
+      ],
+      "glance": "LH est l'hormone cérébrale dont le pic au milieu du cycle déclenche la libération d'un ovule par l'ovaire.",
+      "overview": "LH — l'hormone lutéinisante — est le messager qui déclenche l’ovulation. Tout comme l’FSHe, elle est produite par une\npetite glande située dans le cerveau (l’hypophyse) et indique à l’ovaire quand libérer un ovule.\n\nPendant la majeure partie de la première moitié du cycle, le taux d’LHe reste faible. Puis, vers le milieu du cycle, il\naugmente brusquement lors de ce qu’on appelle le pic d’LHe. Ce pic est le signal qui déclenche la\nlibération de l’ovule par l’ovaire — l’ovulation —, généralement un jour ou deux plus tard.\n\nCe pic est un signal bref et bien synchronisé, plutôt qu’un phénomène que l’on pourrait percevoir au niveau de son état physique. Comme\nil survient très peu de temps avant la libération de l’ovule, le moment de la hausse de l’LHe constitue un indicateur fiable de\nla période la plus fertile du cycle.",
+      "deep": "LH agit en synergie avec l'FSH, l'hormone qui stimule la croissance des follicules au début du cycle. Alors que l'FSH\ninitie la phase de préparation, le pic d'LHe marque un tournant décisif : les taux commencent à grimper environ un jour et demi\navant la libération de l'ovule et atteignent leur pic environ une demi-journée avant celle-ci. Après ce pic, le cycle\nentre dans sa seconde moitié. Ce timing très précis explique pourquoi la LH est un indicateur si utile pour toute personne souhaitant suivre\nson ovulation, et pourquoi elle joue un rôle central dans la planification des traitements de fertilité.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Phase lutéale",
+      "aliases": [
+        "phase lutéale",
+        "deuxième moitié du cycle"
+      ],
+      "glance": "La phase lutéale correspond à la seconde moitié du cycle, après l'ovulation, durant laquelle le taux de progestérone augmente.",
+      "overview": "La phase lutéale est la partie du cycle qui suit l'ovulation et s'étend jusqu'au début de vos prochaines règles.\nElle tire son nom du corps jaune — cette petite structure que l'ovaire forme à partir du follicule vide\nune fois l'ovule libéré.\n\nAu cours de cette phase, le taux de progestérone augmente. Cette hormone a pour rôle de maintenir la muqueuse utérine\népaisse et stable, afin qu’un ovule fécondé puisse s’y implanter s’il arrive. L’œstrogène reste\négalement présent et agit en synergie avec la progestérone.\n\nSi aucune grossesse ne survient, le corps jaune se résorbe, les taux de progestérone et d’œstrogènes baissent, et la\nmuqueuse utérine n’est plus entretenue — ce qui déclenche vos prochaines règles et marque le début d’un nouveau cycle. C’est\négalement pendant cette période que certaines personnes remarquent des changements prémenstruels au niveau de l’humeur, du sommeil ou du corps.",
+      "deep": "La durée de la phase lutéale a tendance à être un peu plus régulière que celle de la première moitié du cycle ; elle\nse situe souvent aux alentours de deux semaines, bien qu’il existe des variations normales d’une personne à l’\nautre. Comme sa fin est liée à la baisse du taux de progestérone, l’arrivée des règles est en réalité le\nsigne visible d’une baisse des taux hormonaux. Noter comment vous vous sentez tout au long de la phase lutéale peut\nvous aider à distinguer ce qui correspond à votre schéma habituel de ce qui est nouveau ou mérite d’être discuté avec\nun professionnel de santé.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Ménopause",
+      "aliases": [
+        "ménopause",
+        "le changement"
+      ],
+      "glance": "La ménopause correspond à l'arrêt définitif des règles : il s'agit d'une étape naturelle qui survient généralement entre 45 et 55 ans environ.",
+      "overview": "La ménopause correspond au moment où les règles cessent définitivement. Comme les règles peuvent encore apparaître de manière irrégulière pendant un\ncertain temps au début, on considère que la ménopause est effective dès lors que vous n’avez pas eu de règles pendant 12 mois consécutifs. Elle survient généralement\nentre 45 et 55 ans environ, bien qu’elle puisse se produire plus tôt ou plus tard.\n\nIl s’agit d’un phénomène naturel lié au vieillissement, et non d’une maladie. Elle survient lorsque les ovaires cessent progressivement de fonctionner et que le taux d’\nœstrogènes — une hormone clé du cycle — diminue. Ce changement hormonal est à l’origine des changements que de nombreuses\npersonnes remarquent : bouffées de chaleur et sueurs nocturnes, modifications des règles avant la ménopause, troubles du sommeil,\nsautes d’humeur ou anxiété, troubles de la concentration, sécheresse vaginale et douleurs.\n\nLes expériences varient énormément : certaines personnes traversent cette période sans encombre, d’autres la trouvent difficile, et les symptômes peuvent durer\nplusieurs années. Rien de tout cela ne signifie qu’il y a un problème chez vous. Il existe des aides et des solutions, et\ncomprendre ce qui se passe est un bon premier pas.",
+      "deep": "Les années de transition qui précèdent la ménopause sont appelées « périménopause » ; la ménopause elle-même correspond à un\nmoment précis (à savoir l'absence de règles pendant 12 mois), et la période qui suit est parfois appelée\n« postménopause ». Comme les œstrogènes ont également un impact à long terme sur les os et le cœur, les professionnels de santé y prêtent\nattention, parallèlement aux symptômes quotidiens. Diverses approches — allant des changements de mode de vie aux\ntraitements non hormonaux et hormonaux — peuvent soulager les symptômes, et le choix de la solution la mieux adaptée dépend de votre état de santé, de\nvos antécédents et de vos préférences, ce qui doit faire l’objet d’un entretien avec un professionnel de santé.",
+      "when_to_see_doctor": "- Consultez un médecin généraliste si les symptômes de la ménopause vous gênent ou affectent votre vie quotidienne, et si vous souhaitez discuter\n  des options qui s'offrent à vous.\n- Consultez **toujours** un médecin généraliste si vous présentez **des saignements vaginaux après 12 mois sans règles**\n  (saignements après la ménopause). Ce n’est souvent rien de grave, mais il faut toujours faire examiner cela.\n- Il est également recommandé de consulter si vos saignements sont plus abondants qu’auparavant, ou si vos règles\n  changent d’une manière qui vous inquiète.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Le cycle menstruel",
+      "aliases": [
+        "cycle",
+        "cycle mensuel"
+      ],
+      "glance": "Le cycle menstruel est le rythme mensuel qui régit le fonctionnement de votre corps afin de le préparer à une éventuelle grossesse.",
+      "overview": "Le cycle menstruel est compté à partir du premier jour de vos règles — c'est le jour 1 — jusqu'au jour\nprécédant le début de vos prochaines règles. Il est régulé par des hormones dont les taux fluctuent selon un schéma répétitif\nchaque mois.\n\nUn cycle dure souvent environ 28 jours, mais il ne s’agit là que d’une moyenne. Une durée comprise entre 21 et 35 jours est\nconsidérée comme normale, et la durée de votre cycle peut varier légèrement d’un mois à l’autre. Apprendre à connaître votre propre rythme est\nplus utile que de le comparer à une valeur moyenne.\n\nTout au long du cycle, votre corps passe par plusieurs phases : vos règles, la période précédant la libération d’un\novule, la libération elle-même (ovulation) et la phase qui suit. Chaque phase est régie par\ndes hormones, principalement l’œstrogène et la progestérone.",
+      "deep": "L'ensemble du cycle est un dialogue entre le cerveau et les ovaires, régulé par les hormones. Au cours de la\npremière moitié, le taux d'œstrogènes augmente à mesure qu'un follicule contenant un ovule mûrit dans l'ovaire et que la muqueuse\nutérine s'épaissit. Vers le milieu du cycle, un ovule est libéré. Au cours de la seconde moitié,\nla progestérone contribue à maintenir cette muqueuse prête à accueillir un ovule fécondé.\n\nEn l'absence de grossesse, les taux d’œstrogènes et de progestérone redescendent à des niveaux bas, la muqueuse est éliminée sous forme de\nrègles, et le cycle recommence. Comme ces hormones agissent sur de nombreux systèmes, vous pouvez remarquer\nde légers changements au quotidien tout au long du mois — il s’agit du rythme normal du cycle, et non de quelque chose\nqu’il faille « corriger ».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Phase menstruelle (vos règles)",
+      "aliases": [
+        "période",
+        "menstruation",
+        "phase menstruelle",
+        "saignement"
+      ],
+      "glance": "Les règles correspondent aux quelques jours de saignements qui marquent le début de chaque cycle, lorsque la muqueuse utérine se détache.",
+      "overview": "La phase menstruelle correspond à vos règles, c'est-à-dire les jours où vous saignez. Elle commence le premier jour du cycle,\nlorsque les taux d'œstrogènes et de progestérone ont suffisamment baissé pour que la muqueuse qui s'est formée\nà l'intérieur de l'utérus ne soit plus maintenue et se détache, pour être évacuée par le\nvagin.\n\nLes règles durent généralement entre 2 et 7 jours, la durée typique étant d’environ 5 jours. Le flux est souvent\nplus abondant les deux premiers jours, puis s’atténue par la suite. Les règles apparaissent généralement vers l’âge de 12 ans,\nbien qu’il soit également normal qu’elles commencent plus tôt ou plus tard.\n\nCe qui est « normal » varie beaucoup d’une personne à l’autre. Suivre vos propres règles vous aide à identifier\nce qui est habituel pour vous, ce qui est bien plus significatif que n’importe quelle moyenne.",
+      "deep": "Les saignements menstruels correspondent à l'élimination de la muqueuse utérine (l'endomètre) à l'issue d'un cycle\nau cours duquel aucune grossesse ne s'est produite. Ils marquent à la fois la fin d'un cycle et le début du suivant, ce qui\nexplique pourquoi le premier jour de vos règles est considéré comme le premier jour du cycle dans son ensemble. À la fin de vos règles,\nle taux d’œstrogènes recommence à augmenter et le corps entame la reconstitution de la muqueuse en vue du cycle suivant.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Fausse couche",
+      "aliases": [
+        "fausse couche",
+        "fausse couche",
+        "fausse couche précoce",
+        "faire une fausse couche"
+      ],
+      "glance": "Une fausse couche correspond à la perte d'une grossesse avant la 24e semaine ; c'est un phénomène courant, et ce n'est presque jamais de votre faute.",
+      "overview": "Une fausse couche correspond à la perte d'une grossesse au cours des 24 premières semaines. C'est plus fréquent que beaucoup de gens\nne le pensent, et l'une des choses les plus importantes à savoir est que cela n'est presque jamais dû à quelque chose\nque vous avez fait ou n'avez pas fait — cela survient généralement en raison d'un problème lié au déroulement de la grossesse,\nqui échappe au contrôle de quiconque.\n\nLes signes les plus courants sont des saignements vaginaux, ainsi que des crampes ou des douleurs dans le bas du ventre. Des saignements en\ndébut de grossesse ne signifient pas toujours qu’une fausse couche est en cours — de nombreuses femmes ont de légers saignements et mènent\nensuite une grossesse saine — mais il faut toujours consulter un médecin.\n\nQuelle que soit la manière dont la perte survient, les sentiments qui l’accompagnent sont réels et légitimes, et le deuil est une\nréaction normale. Vous n’avez pas à traverser cette épreuve seule : vous pouvez bénéficier d’un soutien, que ce soit auprès de votre sage-femme ou de votre médecin généraliste,\nou auprès d’associations spécialisées dans l’accompagnement des pertes de grossesse.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactez votre médecin généraliste, votre sage-femme ou un service de suivi précoce de la grossesse (ou appelez le NHS 111) si vous présentez **des saignements vaginaux\n  ou des pertes légères pendant votre grossesse**, même s'ils sont légers et s'accompagnent de peu ou pas de douleur — afin que cela puisse être\n  examiné.\n- Renseignez-vous sur le **service de suivi précoce de la grossesse** le plus proche, qui est justement là pour cela.",
+      "red_flags": "- Appelez le **999 ou rendez-vous aux urgences** si, pendant votre grossesse, vous ressentez **de fortes douleurs abdominales, une douleur au niveau de la pointe de l'\n  épaule, des saignements abondants, ou si vous vous sentez prise de vertige ou très mal**. Ces symptômes peuvent être les signes d’un\n  problème grave, tel qu’une grossesse extra-utérine, qui nécessite des soins d’urgence."
+    },
+    "morning-sickness": {
+      "title": "Nausées matinales",
+      "aliases": [
+        "nausées matinales",
+        "nausées pendant la grossesse",
+        "nausées de grossesse",
+        "les vomissements pendant la grossesse",
+        "hyperémèse",
+        "hyperémèse gravidique"
+      ],
+      "glance": "Les nausées et les vomissements sont très fréquents au début de la grossesse et s'atténuent généralement vers la 16e à la 20e semaine.",
+      "overview": "Les nausées et les vomissements sont très fréquents en début de grossesse. Malgré leur nom de « nausées matinales »,\nils peuvent survenir à tout moment de la journée ou de la nuit. Chez la plupart des femmes, ils apparaissent au cours des premières semaines et\ns'atténuent vers la 16e à la 20e semaine.\n\nC’est désagréable, et pour certaines femmes, cela affecte vraiment la vie quotidienne — mais les nausées matinales ordinaires ne\nprésentent aucun risque accru pour votre bébé. Manger de petites quantités fréquemment et trouver ce qui vous aide peut\nrendre cette période plus supportable ; une sage-femme, un médecin généraliste ou un pharmacien peut vous suggérer des solutions sans danger si vous rencontrez des difficultés.\n\nChez un petit nombre de femmes, les nausées deviennent sévères (on parle alors d’hyperémèse gravidique),\navec un risque réel de déshydratation. Dans ce cas, une prise en charge médicale est nécessaire — voir les signes ci-dessous.",
+      "deep": null,
+      "when_to_see_doctor": "Contactez votre sage-femme, votre médecin généraliste ou le service « NHS 111 » si :\n\n- ne parvenez pas à garder de la nourriture ou des boissons pendant 24 heures\n- avez des urines très foncées ou n'urinez pas depuis plus de 8 heures\n- vous sentez très faible, étourdi(e) ou sur le point de vous évanouir lorsque vous vous levez\n- avez des douleurs abdominales, de la fièvre ou si vous vomissez du sang\n- perdez du poids",
+      "red_flags": "- Si vous ne parvenez pas à garder les liquides que vous buvez et que votre urine est très foncée ou absente, cela peut indiquer une déshydratation\n  (nausées et vomissements sévères liés à la grossesse) — **contactez votre sage-femme, votre médecin généraliste ou le service «NHS» au 111 le jour même**, car vous pourriez\n  avoir besoin d'un traitement pour éviter que la situation ne s'aggrave."
+    },
+    "ovulation": {
+      "title": "Ovulation",
+      "aliases": [
+        "ovulation",
+        "libérer un ovule",
+        "période de fertilité"
+      ],
+      "glance": "L'ovulation correspond au moment où un ovaire libère un ovule : c'est le moment le plus fertile de votre cycle.",
+      "overview": "L'ovulation est le moment où un ovaire libère un ovule mature. C'est le tournant du cycle : la\npremière moitié y mène, et la seconde moitié s'ensuit.\n\nDans un cycle d'environ 28 jours, l'ovulation a souvent lieu vers le 14e jour, mais le moment varie. Une\nfaçon utile de s'en faire une idée est de considérer que l'ovulation se produit généralement entre 10 et 16 jours avant\nle début de vos prochaines règles. Il peut être difficile de déterminer le jour exact.\n\nUne fois libéré, un ovule ne peut être fécondé que pendant environ 12 à 24 heures. Les spermatozoïdes, en revanche, peuvent survivre\ndans l’organisme pendant plusieurs jours ; la « fenêtre de fertilité » s’étend donc au-delà d’une seule journée — elle couvre approximativement les quelques\njours précédant l’ovulation et le jour même.",
+      "deep": "La libération de l'ovule est déclenchée par une hausse brève et marquée des hormones vers le milieu du cycle, à la suite\nde l'accumulation d'œstrogènes pendant la phase folliculaire. Étant donné que les spermatozoïdes peuvent survivre plusieurs jours alors que\nl'ovule ne vit pas plus d'une journée, les rapports sexuels ayant lieu dans les jours précédant immédiatement\nl'ovulation sont ceux qui offrent le plus de chances de tomber enceinte. L’ovulation peut varier d’un cycle à l’autre en raison de facteurs tels que le stress ou la maladie, ce qui\nexplique pourquoi il est difficile de la prédire avec exactitude et pourquoi le suivi de plusieurs cycles est plus fiable qu’un\nsimple calcul ponctuel.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Douleurs pendant les rapports sexuels",
+      "aliases": [
+        "douleur pendant les rapports sexuels",
+        "rapports sexuels douloureux",
+        "dyspareunie",
+        "douleur lors des rapports sexuels",
+        "vaginisme"
+      ],
+      "glance": "Les douleurs pendant les rapports sexuels sont fréquentes, peuvent avoir de nombreuses causes et méritent toujours d'être examinées — il existe des solutions.",
+      "overview": "La douleur pendant les rapports sexuels — parfois appelée dyspareunie — est plus fréquente que beaucoup ne le pensent, et ce n’est\njamais quelque chose qu’il faut simplement accepter. Elle peut avoir de nombreuses causes, et identifier la bonne est la\nclé pour la soulager.\n\nCertaines causes sont d’ordre physique. La sécheresse vaginale en est une fréquente, souvent liée aux changements hormonaux liés à la\nménopause ou à une excitation insuffisante, et elle peut rendre les rapports sexuels douloureux ou désagréables. Des infections, telles que\nla candidose, peuvent également être à l’origine de douleurs. Une autre cause est le vaginisme — lorsque les muscles autour du vagin\nse contractent spontanément lors d’une tentative de pénétration, ce qui peut rendre les rapports sexuels douloureux, voire impossibles.\nIl s’agit d’un phénomène involontaire, ce n’est pas « dans votre tête », et cela se soigne.\n\nComme la cause peut être physique, hormonale ou liée à votre niveau de détente ou d’excitation — et\nsouvent une combinaison de ces facteurs —, la meilleure chose à faire est de consulter un spécialiste plutôt que de faire des suppositions ou de persévérer malgré tout.",
+      "deep": null,
+      "when_to_see_doctor": "- Consultez un médecin généraliste ou un centre de santé sexuelle si vos rapports sexuels sont douloureux — quelle qu’en soit la cause, cela vaut la peine de faire examiner la situation,\n  et il existe des traitements efficaces pour les causes courantes.\n- Cela peut sembler gênant d’aborder le sujet, mais les professionnels de santé sont habitués à ce genre de situation et sont là pour vous aider, pas pour\n  vous juger. Vous pouvez demander à être examinée par une femme médecin, vous faire accompagner et expliquer ce qui vous permettrait de\n  vous sentir à l’aise pendant l’examen.\n- Faites toujours examiner tout saignement après un rapport sexuel, et consultez plus rapidement si la douleur est intense ou si vous\n  vous sentez mal.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Soulagement de la douleur pendant le travail",
+      "aliases": [
+        "soulagement de la douleur pendant le travail",
+        "péridurale",
+        "gaz et air",
+        "Entonox",
+        "soulagement des douleurs de l'accouchement",
+        "piscine d'accouchement",
+        "TENS"
+      ],
+      "glance": "Il existe plusieurs façons de soulager les douleurs de l'accouchement : il n'y a pas de bon ou de mauvais choix, et vous pouvez rester flexible.",
+      "overview": "L'accouchement est une expérience différente pour chacune, et il existe plusieurs façons de gérer la douleur — allant de simples\nmesures de confort à des options médicales. Connaître à l'avance les possibilités qui s'offrent à vous peut vous aider à vous sentir mieux\npréparée.\n\nLes options vont de **rester active et en position verticale**, à la respiration et à la relaxation, en passant par les massages et le fait d’être dans\n**l’eau** (un bain ou une baignoire d’accouchement), jusqu’à **un appareil TENS**, **au gaz et à l'air** (Entonox, que vous\nrespirerez vous-même), aux **injections** comme la péthidine, et à une **péridurale** (administrée par un anesthésiste,\nqui atténue plus complètement la douleur du travail).\n\nIl n’y a pas de « meilleur » choix : tout dépend de vous, de votre accouchement et de ce que vous ressentirez le jour J. Il est utile de\nnoter vos préférences dans un **plan de naissance**, tout en gardant l’esprit ouvert : beaucoup de femmes se rendent compte qu’elles souhaitent\nplus ou moins de soulagement de la douleur qu’elles ne l’avaient prévu, et c’est tout à fait normal.",
+      "deep": null,
+      "when_to_see_doctor": "- Votre **sage-femme** (et, en cas de péridurale, un anesthésiste) vous présentera les différentes options et vous aidera\n  à choisir ce qui vous convient le mieux, tant pendant la grossesse que pendant l'accouchement lui-même. Il n'est pas nécessaire de\n  tout décider à l'avance.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (syndrome des ovaires polykystiques)",
+      "aliases": [
+        "SOPK",
+        "syndrome des ovaires polykystiques",
+        "ovaires polykystiques",
+        "syndrome des ovaires polykystiques"
+      ],
+      "glance": "PCOS Il s'agit d'un trouble hormonal courant qui peut avoir des répercussions sur les règles, l'ovulation, la peau et les cheveux.",
+      "overview": "PCOS — le syndrome des ovaires polykystiques — est une affection courante liée à l’équilibre des\nhormones reproductives. Selon les estimations, elle toucherait environ une femme sur dix en âge de procréer, et de nombreuses\npersonnes qui en sont atteintes ne sont jamais diagnostiquées.\n\nElle peut se manifester de différentes manières, et chaque cas est unique. Parmi les caractéristiques courantes, on peut citer\ndes règles irrégulières, peu fréquentes ou absentes ; des taux élevés d’hormones appelées androgènes,\nqui peuvent entraîner une pilosité excessive sur le visage ou le corps, de l’acné ou un amincissement des cheveux ; et\ndes ovaires qui ne libèrent pas d’ovule aussi régulièrement que d’habitude, ce qui peut rendre la conception plus difficile.\nDes variations de poids et des taches cutanées plus foncées sont également fréquentes.\n\nLa cause exacte n’est pas entièrement comprise, et il n’existe pas de remède — mais les symptômes peuvent être pris en charge, et\ncomprendre ce qui se passe est la première étape. Le syndrome d’PCOSe est courant et gérable, ce n’est pas quelque chose dont\nil faut avoir honte.",
+      "deep": "Comme l’PCOSe implique les hormones de l’organisme et la façon dont celui-ci gère l’insuline, elle est également associée, à\nlong terme, à une résistance à l’insuline et à un risque accru de diabète de type 2, d’hypertension artérielle\net de modifications du taux de cholestérol — c’est pourquoi les cliniciens ont tendance à surveiller ces paramètres au fil du temps.\nEnviron la moitié des personnes atteintes d’PCOSe peuvent développer un diabète ou un prédiabète dès la quarantaine ; c’est pourquoi des\nsuivis réguliers sont essentiels. Le diagnostic ne doit pas être posé par soi-même : un médecin examine la situation dans son ensemble\n— vos antécédents et vos cycles menstruels, parfois des analyses sanguines pour doser les hormones, et parfois une échographie\ndes ovaires — et exclut d’autres causes avant de poser lPCOSe.",
+      "when_to_see_doctor": "Il est conseillé de consulter un médecin généraliste si vous remarquez des symptômes correspondant à la description ci-dessus, surtout s’ils\nont un impact sur votre bien-être au quotidien :\n\n- des règles irrégulières, très espacées ou qui ont cessé\n- une pilosité nettement plus importante sur le visage ou le corps, une acné persistante ou un amincissement des cheveux\n- des difficultés à tomber enceinte après avoir essayé pendant un certain temps\n- une prise de poids difficile à perdre, associée à d'autres symptômes\n\nUn médecin généraliste pourra examiner votre situation, confirmer s'il s'agit d'PCOSe ou d'une autre affection, et discuter avec vous d'un\nplan de prise en charge adapté à vos besoins. L'e est également associée à une baisse de moral et à de l'anxiété — si vous avez du mal à gérer votre\nhumeur, parlez-en également à votre médecin généraliste ; cela fait partie du tableau clinique et une aide est disponible.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Périménopause",
+      "aliases": [
+        "périménopause",
+        "transition ménopausique",
+        "le changement"
+      ],
+      "glance": "La périménopause est la période de transition qui précède la ménopause, durant laquelle les règles et les hormones commencent à évoluer.",
+      "overview": "La périménopause désigne la période qui précède la ménopause, c'est-à-dire les années « autour de la ménopause ». Elle\ncommence dès que vous remarquez les premiers changements et se prolonge jusqu'à un an après vos dernières règles, moment\noù vous êtes considérée comme ménopausée. Elle peut durer plusieurs années.\n\nAu cours de cette période, les ovaires produisent progressivement moins d’œstrogènes, et les taux fluctuent de manière moins\nprévisible qu’auparavant. Le premier signe le plus courant est une modification des règles : elles deviennent plus\nrégulières ou plus espacées, plus légères ou plus abondantes. Bon nombre des symptômes liés à la ménopause, tels que les\nbouffées de chaleur, les troubles du sommeil ou les sautes d’humeur, peuvent apparaître dès cette période, alors que vous avez encore vos règles.\n\nComme elle est progressive et varie considérablement d’une personne à l’autre, la périménopause peut être source de confusion : les changements ne surviennent pas\ntous en même temps ni dans le même ordre pour tout le monde. Savoir que cette phase porte un nom et qu’il s’agit d’une\ntransition normale peut aider à mieux la comprendre.",
+      "deep": null,
+      "when_to_see_doctor": "- Consultez un médecin généraliste si les symptômes de la périménopause perturbent votre vie quotidienne et que vous souhaitez discuter\n  des solutions possibles.\n- Il est recommandé de consulter si vos règles deviennent très abondantes, ou si vous présentez des saignements entre\n  deux règles ou après un rapport sexuel, afin d’en déterminer la cause.\n- N’oubliez pas qu’une grossesse est toujours possible pendant la périménopause ; il est donc conseillé d’aborder\n  la question de la contraception avec un professionnel de santé si cela vous concerne.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Douleurs menstruelles",
+      "aliases": [
+        "douleurs menstruelles",
+        "douleurs menstruelles",
+        "crampes",
+        "dysménorrhée",
+        "dysménorrhée",
+        "règles douloureuses"
+      ],
+      "glance": "Les douleurs menstruelles sont des crampes dans le bas du ventre qui surviennent au moment des règles ; elles sont courantes et font souvent partie du cycle normal.",
+      "overview": "Les douleurs menstruelles sont ces crampes et cette sensation de douleur dans le bas-ventre que beaucoup de personnes ressentent au moment de leurs\nrègles. Elles surviennent lorsque la paroi musculaire de l’utérus se contracte, et font souvent partie du\ncycle menstruel. Le terme médical pour désigner ce phénomène est « dysménorrhée ».\n\nElles apparaissent généralement au début des règles, ou juste avant, et durent généralement jusqu’à environ\ntrois jours. Pour certaines, il s’agit d’une légère sensation de lourdeur ; pour d’autres, les crampes sont plus intenses. La douleur peut également\névoluer au cours de la vie et d’un cycle à l’autre.\n\nLes douleurs menstruelles qui suivent ce schéma familier sont courantes et généralement gérables. La plupart des personnes ont recours à des\nmesures de confort au quotidien et à des analgésiques simples ; un pharmacien ou un médecin généraliste peut vous conseiller sur ce qui\npourrait vous convenir. L’important est de connaître votre schéma habituel, afin de pouvoir remarquer si quelque chose\nchange.",
+      "deep": null,
+      "when_to_see_doctor": "Il est conseillé de consulter un médecin généraliste si :\n\n- vos règles deviennent plus douloureuses, plus abondantes ou plus irrégulières que d’habitude\n- la douleur vous empêche d’accomplir vos activités quotidiennes, comme aller au travail ou à l’école\n- les analgésiques courants ne soulagent pas la douleur\n- vous ressentez des douleurs pendant les rapports sexuels, ou lorsque vous urinez ou allez à la selle\n- vous avez des saignements entre deux règles\n- vos douleurs surviennent à d’autres moments que juste avant ou pendant vos règles\n- vous évacuez des caillots de sang plus gros qu’une pièce de monnaie (de la taille d’un quart de dollar environ)\n- vous constatez également un gonflement du ventre, une perte d’appétit ou une perte de poids inexpliquée\n\nCes symptômes ne signifient pas nécessairement qu’il y a un problème, mais ils méritent d’être examinés : des douleurs menstruelles nouvelles,\ndifférentes ou difficiles à gérer peuvent avoir des causes pour lesquelles un professionnel de santé peut vous aider.",
+      "red_flags": "- Demandez un rendez-vous **urgent** chez votre médecin généraliste ou appelez le **NHS 111** si vos règles ou vos douleurs pelviennes sont\n  **intenses, ou plus fortes que d'habitude, et que les analgésiques ne vous ont pas soulagée.**"
+    },
+    "planning-pregnancy": {
+      "title": "Préparer une grossesse",
+      "aliases": [
+        "préparer une grossesse",
+        "idées préconçues",
+        "essayer de tomber enceinte",
+        "avant la grossesse",
+        "Se préparer à la grossesse"
+      ],
+      "glance": "Quelques mesures simples à prendre avant d'essayer de concevoir — prendre de l'acide folique, arrêter de fumer et ne plus boire d'alcool — permettent de donner à la grossesse le meilleur départ possible.",
+      "overview": "Si vous envisagez d'essayer d'avoir un bébé, quelques mesures prises en amont peuvent permettre à votre grossesse de\ndémarrer sous de meilleurs auspices — dont beaucoup agissent avant même la conception.\n\nLes principales : commencez à prendre de l’**acide folique** (et de la vitamine D), **arrêtez de fumer** et **évitez l’alcool**.\nIl est également utile de viser un poids santé, car un surpoids ou une insuffisance pondérale importants peuvent\nrendre la conception plus difficile. Il est également recommandé de vérifier que votre **vaccination ROR** est à jour, car certaines\ninfections peuvent avoir des répercussions sur la grossesse.\n\nRien de tout cela ne doit être parfait ni source de stress. Ce sont les petits changements positifs mis en place à l’avance qui comptent —\net prendre un peu d’avance est l’une des meilleures choses que vous puissiez faire pour votre future grossesse.",
+      "deep": null,
+      "when_to_see_doctor": "- Si vous souffrez d'une **maladie chronique** ou si vous prenez **des médicaments régulièrement**, consultez votre médecin généraliste avant de\n  commencer à essayer d'avoir un enfant : certaines maladies et certains médicaments nécessitent une préparation particulière. **N'arrêtez aucun traitement prescrit\n  ** sans en avoir d'abord parlé à votre médecin.\n- Un médecin généraliste peut également vous conseiller sur la prise d’acide folique (notamment pour savoir si vous avez besoin d’une dose plus élevée) et sur la manière d’atteindre un\n  poids santé avant la grossesse.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Dépression postnatale",
+      "aliases": [
+        "dépression postnatale",
+        "dépression post-partum",
+        "PND",
+        "dépression post-partum",
+        "dépression postnatale"
+      ],
+      "glance": "La dépression postnatale est un état de morosité courant et traitable qui survient après l'accouchement — ce n'est pas de votre faute, et vous pouvez obtenir de l'aide.",
+      "overview": "Il est très fréquent de se sentir déprimée, anxieuse ou irritable au cours des deux premières semaines suivant l'accouchement — ce\nphénomène est souvent appelé « baby blues » et disparaît généralement de lui-même au bout d'environ deux semaines.\n\nLa dépression postnatale est différente : il s'agit d'une humeur maussade plus profonde ou qui dure plus longtemps. C’est un trouble courant,\nqui peut survenir à tout moment au cours de la première année et qui peut également toucher les pères et les conjoints. Parmi les signes, on peut citer une\nmauvaise humeur persistante, la difficulté à trouver du plaisir à quoi que ce soit, des troubles du sommeil même lorsque votre bébé dort,\net parfois des sentiments contradictoires concernant le lien affectif avec votre bébé.\n\nEn souffrir ne signifie **pas** que vous êtes un mauvais parent ou que vous n’aimez pas votre bébé — c’est une maladie,\npas un échec, et elle répond bien au soutien et au traitement. Demander de l’aide dès les premiers signes est un geste fort et bienveillant\n, tant pour vous que pour votre bébé.",
+      "deep": null,
+      "when_to_see_doctor": "- Parlez-en à votre **médecin généraliste, à votre sage-femme ou à votre infirmière de santé publique** si vous pensez souffrir d'une dépression postnatale,\n  ou si le « baby blues » persiste au-delà de deux semaines. Ils ont déjà été confrontés à ce genre de situation à maintes reprises et pourront\n  vous aider à trouver le soutien dont vous avez besoin.",
+      "red_flags": "- Si vous avez **des pensées suicidaires ou si vous envisagez de faire du mal à votre bébé**, ou si vous pensez que votre famille serait mieux\n  sans vous, demandez de l'aide **immédiatement** : appelez le **999** ou rendez-vous aux urgences, ou appelez le **NHS 111** ou les\n  Samaritains au **116 123**. Ces pensées peuvent faire partie de la maladie, elles ne reflètent pas qui vous êtes, et\n  une aide d’urgence est à votre disposition."
+    },
+    "pre-eclampsia": {
+      "title": "Pré-éclampsie",
+      "aliases": [
+        "pré-éclampsie",
+        "prééclampsie",
+        "hypertension artérielle pendant la grossesse",
+        "toxémie"
+      ],
+      "glance": "La pré-éclampsie se caractérise par une hypertension artérielle pendant la grossesse — souvent asymptomatique au début, d’où l’importance des examens prénataux.",
+      "overview": "La pré-éclampsie est une affection liée à la grossesse qui se manifeste principalement par une hypertension artérielle, associée à\nla présence de protéines dans les urines. Elle apparaît généralement vers la 20e semaine de grossesse, et parfois après l'accouchement.\n\nL’une des choses les plus importantes à savoir est qu’au début, elle ne provoque souvent **aucun symptôme** —\nvous pouvez vous sentir parfaitement bien. C’est précisément pour cette raison que votre sage-femme vérifie votre tension artérielle et analyse\nvotre urine à chaque consultation prénatale de routine : c’est grâce à ces contrôles qu’elle est généralement détectée\navant même que vous ne remarquiez quoi que ce soit.\n\nLorsque des symptômes apparaissent, il est important de les reconnaître, car la pré-éclampsie peut devenir grave tant pour vous\nque pour votre bébé. Elle se soigne très bien lorsqu’elle est détectée à temps, et le fait de vous rendre régulièrement à vos consultations prénatales est\nle meilleur moyen de la prévenir.",
+      "deep": null,
+      "when_to_see_doctor": "- Ne manquez aucun de vos **rendez-vous prénataux de routine** : c'est grâce aux contrôles de la tension artérielle et de l'urine que\n  l'on détecte généralement la pré-éclampsie avant l'apparition des symptômes.",
+      "red_flags": "Consultez un médecin **immédiatement** — contactez votre service de maternité ou appelez le **NHS 111** — si vous présentez\nl'un des symptômes suivants (appelez le **999** si votre état est grave, par exemple en cas de crise ou de convulsions) :\n\n- un **mal de tête intense** qui ne s'atténue pas avec des analgésiques courants\n- **des troubles de la vision** — vision floue ou éclairs lumineux\n- **un gonflement soudain** du visage, des mains ou des pieds\n- une **douleur juste sous les côtes**\n- des **nausées** ou une sensation soudaine de très mauvais état"
+    },
+    "pregnancy": {
+      "title": "Grossesse",
+      "aliases": [
+        "grossesse",
+        "être enceinte",
+        "en attendant",
+        "gestation",
+        "trimestres",
+        "date d'échéance",
+        "À combien de semaines de grossesse ?"
+      ],
+      "glance": "La grossesse dure généralement environ 40 semaines, à compter du premier jour de vos dernières règles.",
+      "overview": "La grossesse est la période durant laquelle votre corps se développe et porte un bébé. Elle dure généralement environ 40 semaines —\nune grossesse est considérée comme à terme et normale lorsqu’elle dure entre 37 et 42 semaines — et, même si cela peut paraître surprenant, elle est comptée\nà partir du premier jour de vos **dernières règles**, et non à partir de la conception. C'est simplement la méthode standard utilisée pour\ncalculer les dates.\n\nVotre **date prévue d’accouchement** est une estimation, pas une date butoir : les bébés naissent souvent un peu plus tôt ou un peu plus tard. Au début\nde la grossesse, une « échographie de datation » (généralement vers la 12e semaine) permet de mesurer votre bébé et de donner une date plus précise,\nce qui modifie parfois l’estimation initiale.\n\nOn parle souvent de la grossesse en trois phases, ou **trimestres**, chacune comportant ses propres changements. Tout\nau long de votre grossesse, vous bénéficiez d’un suivi régulier assuré par une sage-femme (et un médecin si\nnécessaire) — un accompagnement qui contribue à votre bien-être et à celui de votre bébé.",
+      "deep": "Comme le décompte commence à partir des dernières règles, on estime que vous êtes enceinte d’environ quatre semaines au\nmoment où vos règles ne se présentent pas. C’est en fonction du nombre de semaines de grossesse que s’organise la prise en charge : échographies, dépistages\net contrôles sont tous proposés à des semaines précises. Si vos règles sont irrégulières ou si vous n’êtes pas sûre des\ndates, c’est l’échographie de datation qui définit le calendrier. Cette rubrique sert de fil conducteur à l’ensemble du parcours ; les\nthèmes spécifiques — signes de grossesse, suivi prénatal, rester en bonne santé et accouchement — ont chacun leur propre rubrique.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Test de grossesse",
+      "aliases": [
+        "test de grossesse",
+        "test de grossesse à domicile",
+        "hCG test",
+        "test de grossesse"
+      ],
+      "glance": "Un test de grossesse à domicile détecte la présence de l'hormone de grossesse, l'hCG, dans vos urines ; il est particulièrement fiable dès le premier retard de règles.",
+      "overview": "Un test de grossesse à domicile fonctionne en détectant une hormone appelée « hCG » (gonadotrophine chorionique humaine) dans\nvotre urine. Votre corps commence à la produire quelques jours après la nidation de l’ovule fécondé, et son taux\naugmente rapidement en début de grossesse.\n\nLe test est le plus fiable dès le **premier jour de retard de règles** — soit environ deux semaines après la\nconception. Si votre cycle est irrégulier ou si vous ne savez pas exactement quand vos règles doivent arriver, attendre au\nmoins 21 jours après un rapport sexuel non protégé permet d'obtenir un résultat plus fiable. Vous n’avez pas besoin de faire le test\ndès le réveil ; vous pouvez le faire à n’importe quel moment de la journée.\n\nUn résultat **positif** est presque certainement exact — très peu de tests s’avèrent positifs lorsque vous n’êtes pas\nenceinte. Un résultat **négatif** est un peu moins certain : si vos règles ne se manifestent toujours pas et que vous\npensez être enceinte, attendez quelques jours et refaites un test.",
+      "deep": null,
+      "when_to_see_doctor": "- Si le résultat est positif, contactez une **sage-femme ou un médecin généraliste** pour entamer un suivi prénatal.\n- Si les tests sont négatifs mais que vous n'avez pas vos règles et que vous pensez être enceinte (ou que vous ne vous sentez pas bien), consultez un médecin généraliste pour\n  savoir ce qui se passe.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Accouchement prématuré",
+      "aliases": [
+        "accouchement prématuré",
+        "travail prématuré",
+        "naissance prématurée",
+        "naissance prématurée",
+        "début du travail",
+        "perte des eaux prématurée"
+      ],
+      "glance": "Un accouchement prématuré est un accouchement survenant avant la 37e semaine — agissez rapidement, car une prise en charge précoce fait vraiment la différence.",
+      "overview": "Un accouchement prématuré (ou avant terme) est un accouchement qui commence avant la 37e semaine de grossesse. Il survient dans\nenviron 8 naissances sur 100.\n\nLes bébés nés prématurément sont plus vulnérables, mais beaucoup d’entre eux s’en sortent bien — notamment grâce aux\nsoins spécialisés prodigués dans les unités de néonatologie. L'essentiel est d'agir rapidement si vous pensez que le travail commence, afin que vous\npuissiez être examinée et, si nécessaire, bénéficier de traitements qui contribuent à protéger le bébé.\n\nLes signes sont similaires à ceux d'un accouchement à n'importe quel stade, mais avant la 37e semaine, il ne faut jamais attendre qu'ils disparaissent :\nils constituent toujours une raison de contacter immédiatement les services médicaux.",
+      "deep": null,
+      "when_to_see_doctor": "- Appelez votre **sage-femme ou votre service de maternité** dès que vous en êtes à **moins de 37 semaines** et que vous avez des doutes ou\n  des inquiétudes — il n'y a aucun mal à se renseigner.",
+      "red_flags": "Contactez **immédiatement votre sage-femme ou votre service de maternité** — de jour comme de nuit — si, **avant la 37e semaine**, vous\nprésentez l’un des symptômes suivants :\n\n- des **contractions ou des resserrements** réguliers, ou des douleurs semblables à celles des règles\n- un **écoulement abondant ou un suintement de liquide** par le vagin (perte des eaux)\n- **un mal de dos** inhabituel chez vous, ou une sensation de pression dans le bas-ventre"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (syndrome prémenstruel)",
+      "aliases": [
+        "pms",
+        "syndrome prémenstruel",
+        "tension prémenstruelle",
+        "pmt"
+      ],
+      "glance": "PMS Il s'agit de l'ensemble des changements physiques et émotionnels que de nombreuses personnes ressentent une semaine ou deux avant leurs règles.",
+      "overview": "PMS — le syndrome prémenstruel — désigne les changements que de nombreuses personnes ressentent dans les jours ou les deux\nsemaines précédant leurs règles. Il peut toucher toute personne ayant des règles, et s’atténue généralement en quelques\njours après le début des règles.\n\nCes changements peuvent prendre différentes formes. Sur le plan physique, vous pouvez ressentir des ballonnements, une sensibilité ou une douleur au niveau des seins,\ndes crampes, des maux de tête ou une fatigue accrue. Sur le plan émotionnel, vous pouvez être sujette à des sautes d’humeur, à de l’irritabilité,\nà de l’anxiété ou à un sentiment de déprime. Les fringales et les troubles du sommeil sont également fréquents. Tout le monde ne souffre pas d’PMSe,\net celles qui en souffrent ne présentent pas nécessairement tous les symptômes — c’est votre propre schéma qui importe. L’\n\nPMSe est une partie normale et reconnue du cycle de nombreuses personnes, liée aux variations hormonales naturelles de\nla seconde moitié du cycle. Observer comment cela se manifeste chez vous, cycle après cycle, peut vous aider à mieux vous organiser\net à repérer tout changement éventuel.",
+      "deep": null,
+      "when_to_see_doctor": "Il est conseillé de consulter un médecin généraliste si :\n\n- vos symptômes affectent votre vie quotidienne (travail, études, relations)\n- les changements apportés à votre routine quotidienne n'ont pas été efficaces\n- votre baisse de moral, votre anxiété ou votre irritabilité vous semblent très intenses\n\nUn professionnel de santé pourra vous expliquer ce qui pourrait vous aider. Une forme plus grave, appelée trouble dysphorique prémenstruel\n(PMDD), peut entraîner des symptômes émotionnels bien plus intenses ; un accompagnement est disponible pour y faire face.",
+      "red_flags": "- Si vous présentez des symptômes d'PMDDe et que vous **avez des pensées suicidaires ou que vous ne vous sentez pas en sécurité**,\n  demandez immédiatement de l'aide : **appelez le 999 ou rendez-vous aux urgences.** Ne conduisez pas vous-même : demandez à quelqu'un de vous\n  accompagner ou demandez qu'on vous envoie une ambulance. Vous méritez d’être soutenu(e), et de l’aide est à votre disposition."
+    },
+    "progesterone": {
+      "title": "Progestérone",
+      "aliases": [
+        "progestérone"
+      ],
+      "glance": "La progestérone est l'hormone de la seconde moitié du cycle, qui prépare la muqueuse utérine après l'ovulation.",
+      "overview": "La progestérone est l'une des principales hormones à l'origine du cycle menstruel, et elle joue un rôle prépondérant au cours de la\nseconde moitié de celui-ci — après la libération d'un ovule lors de l'ovulation.\n\nSon rôle principal est d’aider la muqueuse utérine à rester épaisse et prête à accueillir un\novule fécondé, afin qu’il puisse s’implanter et qu’une grossesse puisse débuter. La progestérone agit ainsi en\nsynergie avec l’œstrogène, qui a assuré l’essentiel de la préparation en début de cycle.\n\nSi aucune grossesse ne se produit, le taux de progestérone diminue. C’est cette baisse qui permet à la muqueuse utérine de se détacher\net de donner lieu à vos prochaines règles. Les fluctuations du taux de progestérone au cours de la seconde moitié du cycle constituent un\nrythme normal et prévisible.",
+      "deep": "La progestérone est principalement produite par le corps jaune — la structure que l'ovaire forme à partir du\nfollicule après que celui-ci a libéré son ovule. C'est pourquoi le taux de progestérone augmente spécifiquement pendant la phase lutéale\n(post-ovulatoire). Lorsque le corps jaune se résorbe, les taux de progestérone et d’œstrogène baissent tous les deux,\nmarquant ainsi le début d’un nouveau cycle. Ces fluctuations naturelles expliquent en partie pourquoi certaines personnes constatent\ndes changements prémenstruels dans les jours précédant leurs règles.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "La pilule progestative (mini-pilule)",
+      "aliases": [
+        "pilule progestative",
+        "mini-pilule",
+        "POP",
+        "pilule à base de progestérone seule",
+        "pilule au désogestrel"
+      ],
+      "glance": "La mini-pilule est une pilule à prendre tous les jours qui contient une seule hormone et qui épaissit la glaire cervicale afin d'empêcher le passage des spermatozoïdes.",
+      "overview": "La pilule progestative — souvent appelée « mini-pilule » — est un comprimé à prendre quotidiennement qui ne contient qu’une seule\nhormone, un progestatif. Elle constitue une alternative pour les personnes qui ne peuvent pas ou ne souhaitent pas prendre d’œstrogènes.\n\nSon action principale consiste à épaissir la glaire cervicale, ce qui rend plus difficile l’accès des spermatozoïdes à l’\novule. L’un des types courants, la pilule au désogestrel, empêche également les ovaires de libérer un ovule\n(ovulation).\n\nPrise correctement, son efficacité dépasse 99 % ; dans le cadre d’une utilisation quotidienne typique, elle est d’environ 91 %. Comme pour les autres\npilules, le respect des horaires est essentiel, et elle ne protège pas contre les IST.",
+      "deep": "La mini-pilule se distingue de la pilule combinée par l'absence d'œstrogènes, ce qui modifie le profil des femmes à qui elle peut convenir —\nun aspect que le professionnel de santé prend en compte lors de la prescription. Certains types doivent être pris dans un\nintervalle quotidien assez restreint pour rester efficaces. Cet article explique ce qu’est la mini-pilule et comment elle fonctionne ; quant à la manière de la prendre\net à savoir si elle vous convient, ces questions relèvent de la compétence d’un médecin généraliste, d’une infirmière ou d’un pharmacien.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "signs-of-labour": {
+      "title": "Signes annonciateurs de l'accouchement",
+      "aliases": [
+        "signes du travail",
+        "travail",
+        "entrer en travail",
+        "contractions",
+        "perte des eaux",
+        "l'émission",
+        "phase latente"
+      ],
+      "glance": "Parmi les signes annonciateurs du début du travail, on peut citer des contractions régulières, la perte des muqueuses, des maux de dos ou la rupture des eaux.",
+      "overview": "Il existe quelques signes indiquant que le travail pourrait commencer. Le principal est celui des contractions : des resserrements au niveau\nde votre ventre qui surviennent régulièrement et s’intensifient. Parmi les autres signes, on peut citer la « perte muqueuse » (le bouchon muqueux de votre\ncol de l’utérus qui se détache), un mal de dos persistant, le besoin d’aller aux toilettes et la rupture de la poche des eaux.\n\nAvant le travail actif, il y a souvent une phase précoce (« latente »), durant laquelle le col de l'utérus s'assouplit et commence à\nse dilater. Cette phase peut durer des heures, voire des jours, et pour beaucoup de femmes, il est tout à fait possible de rester confortablement chez\nsoi pendant cette période, en se reposant et en s'hydratant régulièrement.\n\nLe travail commence un peu différemment pour chacune, vous n’avez donc pas besoin de cocher tous les signes. Lorsque vous\npensez que cela commence, votre sage-femme ou votre service de maternité est là pour vous guider sur ce qu’il faut faire et\nquand venir.",
+      "deep": null,
+      "when_to_see_doctor": "- Appelez votre **sage-femme ou votre service de maternité** pour obtenir des conseils lorsque vous pensez que le travail a commencé, ou lorsque\n  les contractions sont **régulières — environ toutes les 5 minutes**. Si vous ne parvenez pas à joindre votre sage-femme, appelez\n  **NHS 111**.",
+      "red_flags": "Appelez **immédiatement votre sage-femme ou votre service de maternité** — de jour comme de nuit, n'attendez pas — si :\n\n- vous **perdez les eaux** (surtout si le liquide est vert, brun ou malodorant)\n- vous présentez **des saignements vaginaux**\n- votre **bébé bouge moins que d'habitude**\n- vous présentez des signes de travail et que vous en êtes **à moins de 37 semaines de grossesse**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Signes de grossesse",
+      "aliases": [
+        "signes de grossesse",
+        "symptômes précoces de la grossesse",
+        "Est-ce que je suis enceinte ?",
+        "symptômes de grossesse"
+      ],
+      "glance": "Un retard de règles est souvent le premier signe d'une grossesse, parfois accompagné de nausées, de fatigue ou de seins sensibles.",
+      "overview": "Pour beaucoup de femmes, le premier signe d’une grossesse est l’**absence de règles**. Mais chaque corps est différent, et certaines remarquent\nd’abord d’autres signes précoces — souvent vers la 4e à la 6e semaine.\n\nParmi les signes précoces courants, on peut citer les nausées ou les vomissements (à tout moment de la journée, pas seulement le matin), des seins\nqui semblent plus volumineux ou sensibles, une fatigue inhabituelle et un besoin plus fréquent d’uriner. Certaines femmes\nremarquent également un goût métallique, une nouvelle sensibilité à certaines odeurs ou une aversion pour des aliments qu’elles apprécient habituellement.\n\nAucun de ces symptômes, pris isolément, ne signifie que vous êtes forcément enceinte — beaucoup d’entre eux se confondent avec les fluctuations habituelles\ndu cycle — et tout le monde ne les ressent pas. Pour en avoir le cœur net, il faut faire un test de grossesse.",
+      "deep": null,
+      "when_to_see_doctor": "- Si le test est positif, contactez une **sage-femme ou un médecin généraliste** afin de commencer rapidement votre suivi prénatal.\n- Si vos règles sont en retard, que les tests sont négatifs mais que les symptômes persistent, il est conseillé de consulter un\n  médecin généraliste pour déterminer s'il s'agit d'autre chose.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Le tabagisme pendant la grossesse",
+      "aliases": [
+        "le tabagisme pendant la grossesse",
+        "arrêter de fumer pendant la grossesse",
+        "arrêter de fumer pendant la grossesse",
+        "le vapotage pendant la grossesse"
+      ],
+      "glance": "Arrêter de fumer est l'une des meilleures choses que vous puissiez faire pour votre bébé — et il n'est jamais trop tard pour le faire.",
+      "overview": "Arrêter de fumer est l’une des mesures les plus efficaces que vous puissiez prendre pour offrir à votre bébé un bon départ dans la vie.\nChaque cigarette réduit l’apport en oxygène de votre bébé, ce qui oblige son cœur à fournir un effort supplémentaire et peut\nfreiner sa croissance.\n\nFumer pendant la grossesse augmente le risque de problèmes graves, notamment de fausse couche, de naissance prématurée,\nd'insuffisance pondérale à la naissance, de mort-né et de syndrome de mort subite du nourrisson (SMSN) après la naissance. Le tabagisme passif\na également son importance ; il est donc utile de créer un environnement sans tabac à la maison.\n\nLa bonne nouvelle : il n’est **jamais trop tard**. Arrêter de fumer à n’importe quel moment de la grossesse est bénéfique, et arrêter\ntôt apporte le plus d’avantages. Cela peut être vraiment difficile, et c’est précisément pour cela qu’il existe une aide gratuite — et\ny avoir recours augmente considérablement vos chances de réussite.",
+      "deep": null,
+      "when_to_see_doctor": "- Renseignez-vous auprès de votre **sage-femme** sur l'**aide gratuite proposée par l'NHS pour arrêter de fumer** : des conseillers formés (dont certains\n  sont spécialisés dans la grossesse) peuvent vous accompagner, et il existe également une ligne d'assistance « Smokefree ». Demander de l'aide est un\n  signe que vous prenez soin de votre bébé, et non un échec.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Spottings et saignements entre deux règles",
+      "aliases": [
+        "saignements",
+        "saignements entre deux règles",
+        "saignements intermenstruels",
+        "saignements intermenstruels",
+        "saignements après un rapport sexuel"
+      ],
+      "glance": "Les saignements intermenstruels correspondent à de légers saignements entre deux règles ou après un rapport sexuel — ils ne sont souvent pas graves, mais il est toujours préférable de consulter un médecin.",
+      "overview": "Les saignements intermenstruels désignent de légers saignements qui surviennent entre deux règles ou après un rapport sexuel, en dehors de vos\nrègles habituelles. Ce phénomène est courant et n’est généralement pas grave ; toutefois, comme il peut avoir plusieurs causes,\nil est toujours recommandé de consulter un professionnel de santé.\n\nIl existe de nombreuses causes courantes. Le début ou l’utilisation d’une contraception hormonale en est une fréquente.\nD’autres causes incluent de petites excroissances bénignes dans ou autour de l’utérus (polypes ou fibromes), des modifications bénignes\nde la surface du col de l’utérus, une sécheresse vaginale ou une infection telle que la chlamydia.\n\nComme un même symptôme peut avoir différentes causes — pour la plupart bénignes —, la meilleure chose à faire\nn’est pas de deviner, mais de consulter afin de connaître la cause précise de votre cas.",
+      "deep": null,
+      "when_to_see_doctor": "- Consultez un médecin généraliste ou rendez-vous dans un centre de santé sexuelle **dès que vous constatez des saignements entre deux règles ou après un rapport sexuel**,\n  même s'ils sont légers. Il ne s'agit généralement pas de rien de grave, mais c'est en faisant examiner cela que l'on peut\n  en déterminer la cause — et c'est le moyen d'écarter rapidement les causes moins courantes.",
+      "red_flags": "- Demandez un rendez-vous **urgent** chez votre médecin généraliste ou appelez le **NHS 111** si vous avez **un retard de règles et présentez\n  des saignements inhabituels accompagnés de douleurs abdominales ou pelviennes** — cela nécessite une consultation rapide, car cela peut être le\n  signe d’une grossesse extra-utérine."
+    },
+    "stillbirth": {
+      "title": "Mort-né",
+      "aliases": [
+        "mort-né",
+        "mort-né",
+        "perte d'un bébé",
+        "fausse couche tardive",
+        "bébé né sans vie"
+      ],
+      "glance": "La mortinatalité désigne la perte d'un bébé après 24 semaines de grossesse : c'est un événement rare, qui n'est jamais de votre faute et pour lequel vous pouvez toujours compter sur un soutien.",
+      "overview": "On parle de mort-né lorsqu'un bébé naît sans vie après 24 semaines de grossesse. (Une perte avant 24 semaines\nest appelée fausse couche.) C'est rare — environ 1 naissance sur 250 — mais pour les familles qui\nsont touchées, c'est une perte immense, et tous les soins qui s'ensuivent ont pour but de vous\naccompagner avec bienveillance dans cette épreuve.\n\nParfois, on en identifie la cause — par exemple un problème au niveau du placenta ou du développement du bébé, ou un\nproblème de santé — et parfois, malgré les examens, **aucune cause n’est identifiée**. Quelle qu’en soit la raison, une\nmort-née n’est pas quelque chose qu’un parent a provoqué ou qu’il aurait pu prévoir pour l’éviter.\n\nIl existe toutefois un moyen qui contribue réellement à réduire ce risque, et c’est très simple : **prévenir immédiatement votre sage-femme\nsi les mouvements de votre bébé ralentissent ou changent.** Par ailleurs, les gestes du quotidien — se rendre aux\nconsultations prénatales, ne pas fumer, éviter l’alcool et dormir sur le côté à partir de la 28e semaine — jouent tous\nun rôle.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactez **immédiatement votre sage-femme ou votre service de maternité** — à toute heure du jour ou de la nuit — si votre **bébé\n  bouge moins que d’habitude ou si ses mouvements vous semblent différents.** N’attendez jamais de voir si cela passe ; se faire\n  examiner est exactement ce qu’il faut faire, et cela ne dérange jamais.\n- Après une perte, des sages-femmes spécialisées et des équipes d’accompagnement du deuil sont là pour vous — pour vous aider à prendre des décisions,\n  à régler les aspects pratiques et à faire face au deuil. Vous n’avez pas à affronter tout cela seule, et des groupes de soutien\n  pour les parents ayant perdu un bébé sont à votre disposition aussi longtemps que vous en aurez besoin.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Le stress, la vie et vos règles",
+      "aliases": [
+        "le stress et les règles",
+        "stress",
+        "absence de règles",
+        "période tardive",
+        "Pourquoi mes règles sont-elles en retard ?"
+      ],
+      "glance": "Le stress, les variations importantes de poids ou une activité physique intense peuvent retarder ou interrompre les règles — souvent seulement pendant un certain temps.",
+      "overview": "Il est fréquent que les règles soient en retard ou qu’un mois soit sauté, et la raison tient souvent davantage\naux aléas de la vie qu’à un problème de santé. Le stress en est une cause fréquente : le même système qui réagit\nà la pression peut influencer les hormones qui régissent votre cycle.\n\nD’autres facteurs du quotidien peuvent également perturber vos règles : une variation importante de poids (à la hausse ou à la baisse), une pratique intensive\nd’exercice physique ou un état de fatigue. Des changements hormonaux — tels que l’approche de la périménopause ou\ndes troubles comme l’PCOSe — peuvent également en être à l’origine, tout comme la grossesse et certaines méthodes contraceptives. Souvent, l’intervalle\nentre les règles varie simplement un peu de temps à autre, et c’est tout à fait normal.\n\nCe qui est rassurant, c’est qu’un retard ponctuel ou une absence de règles n’est généralement pas une source d’inquiétude, et que\nles choses se stabilisent souvent au fil de la vie. Ce qu’il convient de surveiller, c’est une tendance à long terme plutôt qu’un seul\nmois.",
+      "deep": null,
+      "when_to_see_doctor": "Consultez un médecin généraliste si :\n\n- vous n'avez pas eu vos règles pendant **trois cycles consécutifs**, ou si vos règles sont devenues **irrégulières**\n- vos règles **s'arrêtent** et que vous ne savez pas pourquoi (une grossesse étant possible, il est préférable de faire d'abord un test)\n- l'absence de règles s'accompagne d'autres changements — comme des variations de poids inattendues, de la fatigue, une pilosité accrue\n  ou une baisse de moral\n\nCes examens visent simplement à comprendre ce qui est à l'origine de ce changement — qui est généralement quelque chose\nde gérable.",
+      "red_flags": null
+    },
+    "the-coil": {
+      "title": "La bobine (IUD et IUS)",
+      "aliases": [
+        "bobine",
+        "la bobine",
+        "IUD",
+        "IUS",
+        "serpentin en cuivre",
+        "stérilet hormonal",
+        "dispositif intra-utérin",
+        "système intra-utérin",
+        "Mirena"
+      ],
+      "glance": "Le stérilet est un petit dispositif placé dans l'utérus — en cuivre (IUD) ou hormonal (IUS) — qui reste en place pendant plusieurs années.",
+      "overview": "Le stérilet est un petit dispositif qu’un professionnel de santé place à l’intérieur de l’utérus. Il en existe deux types, et il est utile de\nsavoir les distinguer :\n\n- Le **IUD**, ou stérilet en cuivre, ne contient pas d’hormones. Le cuivre modifie les conditions à l’intérieur de l’utérus de telle sorte\n  que les spermatozoïdes et les ovules ne puissent pas y survivre correctement, et il agit également sur la glaire cervicale. Selon le type,\n  elle est efficace pendant environ 5 à 10 ans.\n- Le **IUS**, ou stérilet hormonal, libère un progestatif au lieu d’utiliser du cuivre. Elle épaissit la\n  glaire cervicale et amincit la muqueuse utérine ; chez certaines personnes, elle peut également rendre les règles\n  beaucoup plus légères.\n\nCes deux méthodes sont de type « poser et oublier » et présentent toutes deux une efficacité supérieure à 99 %, avec peu de différence entre\nl’utilisation parfaite et l’utilisation typique. Aucune des deux ne protège contre les IST.",
+      "deep": "Les stérilets constituent des méthodes réversibles à action prolongée : une fois posés, ils restent efficaces pendant des années, et la fertilité\nrevient après leur retrait. La pose et le retrait sont effectués par un professionnel de santé qualifié et ne prennent que\nquelques minutes, même si certaines personnes trouvent la pose désagréable. L’une des raisons courantes pour lesquelles les femmes choisissent entre\nces deux options est leur effet sur les règles : l’IUD au cuivre peut rendre les règles plus abondantes au début, tandis que le\nIUS hormonal les rend souvent plus légères. Pour savoir lequel vous convient le mieux, il faut en discuter avec un professionnel de santé ; cet article\nse contente d’expliquer le fonctionnement de chacun.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Grossesses gémellaires et multiples",
+      "aliases": [
+        "jumeaux",
+        "grossesse gémellaire",
+        "grossesse multiple",
+        "en attente de jumeaux",
+        "jumeaux identiques",
+        "jumeaux non identiques",
+        "triplés"
+      ],
+      "glance": "La grossesse gémellaire est généralement détectée pour la première fois lors de l'échographie de datation, ce qui implique un suivi prénatal un peu plus intense.",
+      "overview": "On découvre généralement qu'on attend plus d'un bébé lors de l'**échographie de datation** (vers la 12e semaine),\nqui permet également de déterminer si les bébés partagent un même placenta.\n\nIl en existe deux types principaux. Les jumeaux **identiques** proviennent d’un seul ovule fécondé qui se divise ; ils\npartagent donc les mêmes gènes et sont toujours du même sexe. Les jumeaux **non identiques** proviennent de deux\novules distincts et ne se ressemblent pas plus que n’importe quels autres frères et sœurs ; ils sont les plus courants des deux et leur\nprobabilité d’apparition est légèrement plus élevée avec l’âge, en cas d’antécédents familiaux du côté maternel ou après un traitement de fertilité.\n\nPorter des jumeaux ou plus est une expérience à part entière, et cela implique généralement un **suivi prénatal un peu plus intensif** —\ndes consultations et des échographies supplémentaires pour vous surveiller de près, vous et vos bébés. Votre équipe de sages-femmes vous\nexpliquera à quoi vous attendre.",
+      "deep": null,
+      "when_to_see_doctor": "- Si une échographie révèle une grossesse gémellaire (ou multiple), votre **sage-femme** vous expliquera en détail les examens de suivi supplémentaires et\n  les échographies prévus dans le cadre d'une grossesse multiple — y assister à chaque fois est le meilleur moyen de bénéficier d'un\n  suivi optimal.",
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Sécheresse vaginale",
+      "aliases": [
+        "sécheresse vaginale",
+        "sécheresse",
+        "atrophie vaginale"
+      ],
+      "glance": "La sécheresse vaginale est fréquente, souvent liée aux hormones, et peut entraîner des douleurs ou une gêne lors des rapports sexuels.",
+      "overview": "La sécheresse vaginale est un phénomène courant que de nombreuses personnes connaissent à un moment ou à un autre. Elle survient lorsque l’\nhydratation habituelle qui assure le confort du vagin diminue, et peut se traduire par des sensations de douleur,\nde démangeaisons ou d’inconfort — y compris des douleurs ou une gêne lors des rapports sexuels.\n\nElle est souvent liée aux hormones, en particulier à une baisse du taux d’œstrogènes. C’est pourquoi elle est fréquente autour de la\nménopause et de la périménopause, mais elle peut également survenir pendant l’allaitement, sous l’effet de certains médicaments (tels que\ncertains contraceptifs ou antidépresseurs), ou en cas d’excitation sexuelle insuffisante avant les rapports. Il n’y a\naucune raison d’en avoir honte : il s’agit d’un phénomène physique, qui ne reflète en rien votre personnalité ni votre\nrelation.\n\nSavoir que ce phénomène est courant et généralement très facile à traiter constitue un bon point de départ. Il existe des solutions simples\nqui peuvent vous aider, et un médecin généraliste ou un pharmacien pourra vous orienter vers celle qui vous convient le mieux.",
+      "deep": null,
+      "when_to_see_doctor": "Consultez un médecin généraliste si :\n\n- la sécheresse vaginale vous gêne ou ne s'atténue pas au bout de quelques semaines\n- elle affecte votre vie quotidienne ou votre vie sexuelle\n- vous présentez également des pertes inhabituelles, ou des saignements après un rapport sexuel, entre deux règles ou après la ménopause\n\nIl n’y a aucune raison de simplement vous résigner : vous pouvez obtenir de l’aide, et un professionnel de santé pourra déterminer les\ncauses de ce problème et les solutions susceptibles de le soulager.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Santé vaginale et vulvaire",
+      "aliases": [
+        "santé vaginale",
+        "santé de la vulve",
+        "hygiène intime",
+        "rester propre",
+        "douche vaginale",
+        "décharge"
+      ],
+      "glance": "Le vagin se nettoie tout seul : il suffit de l'entretenir délicatement à l'extérieur, et les pertes sont normales.",
+      "overview": "L’une des choses les plus rassurantes à savoir, c’est que le vagin s’entretient tout seul. Il est naturellement\nautonettoyant, et les pertes que vous remarquez font partie de ce processus : il s’agit d’un liquide qui le maintient propre et hydraté\net qui aide à le protéger contre les infections. Leur quantité et leur texture varient au fil du cycle, ce qui est\ntout à fait normal.\n\nC’est pourquoi il n’est pas nécessaire de laver l’intérieur du vagin. En effet, le laver à l’intérieur —\nc’est-à-dire pratiquer des « douches vaginales » — peut perturber son équilibre naturel. L’extérieur (la vulve) a simplement besoin de soins doux : de l’eau tiède\net, si vous le souhaitez, un savon doux et non parfumé. Il vaut mieux éviter les savons, gels, déodorants et lingettes parfumés,\ncar ils peuvent provoquer des irritations.\n\nEn apprenant à reconnaître ce qui est normal pour vous — vos pertes habituelles, leur aspect et leur texture —, vous pourrez plus facilement\nremarquer si quelque chose change et nécessite une consultation.",
+      "deep": null,
+      "when_to_see_doctor": "Consultez un médecin généraliste ou un centre de santé sexuelle si vous remarquez :\n\n- un changement au niveau de vos pertes — leur couleur, leur odeur ou leur texture, ou un volume nettement supérieur à la normale\n- des démangeaisons, des douleurs ou une irritation au niveau du vagin ou de la vulve\n- des saignements entre deux règles ou après un rapport sexuel\n- des douleurs lorsque vous urinez, ou une douleur dans la partie basse, entre le ventre et les cuisses (douleur pelvienne)\n\nCes symptômes sont courants et souvent faciles à traiter — un changement au niveau des pertes peut simplement indiquer une infection bénigne\ncomme une mycose. Il vaut mieux consulter pour en avoir le cœur net, plutôt que de se livrer à des conjectures.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Le cycle et ses phases",
+      "summary": "Comment se déroule votre cycle : phase menstruelle, phase folliculaire, ovulation et phase lutéale."
+    },
+    "hormones": {
+      "title": "Hormones",
+      "summary": "Les messagers à l'origine de votre cycle : l'œstrogène, la progestérone, l'LH et l'FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Fertilité et ovulation",
+      "summary": "La période de fertilité, les signes d'ovulation et les facteurs qui influencent la fertilité."
+    },
+    "contraception": {
+      "title": "Contraception",
+      "summary": "Le fonctionnement des différentes méthodes, expliqué en termes simples."
+    },
+    "symptoms-and-signals": {
+      "title": "Symptômes et signaux corporels",
+      "summary": "Douleurs, saignements légers, pertes, humeur… Ce que votre corps essaie peut-être de vous dire."
+    },
+    "conditions": {
+      "title": "Conditions",
+      "summary": "PCOSe, endométriose, fibromes et bien d’autres maladies — expliquées, avec des sources."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Santé sexuelle et intime",
+      "summary": "Bien-être intime, confort et questions courantes."
+    },
+    "life-stages": {
+      "title": "Les étapes de la vie",
+      "summary": "De la première règles jusqu’à la périménopause et la ménopause."
+    },
+    "wellbeing": {
+      "title": "Le bien-être et le cycle",
+      "summary": "Comment le sommeil, le stress et la vie quotidienne influencent votre cycle."
+    },
+    "tests-and-exams": {
+      "title": "Tests et examens",
+      "summary": "Auto-examen des seins, dépistage du cancer du col de l'utérus, tests d'ovulation et bien plus encore."
+    },
+    "pregnancy": {
+      "title": "Grossesse",
+      "summary": "Premiers signes, comment rester en bonne santé, signes d'alerte et fausses couches — tout ce qu'il faut savoir, avec des sources."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Comprendre son cycle en 5 étapes",
+      "summary": "Une promenade sereine à travers le cycle dans son ensemble et chacune de ses quatre phases."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Tout savoir sur l'ovulation",
+      "summary": "Qu'est-ce que l'ovulation ? Qu'est-ce que la période de fertilité ? Et quels sont les signes que votre corps vous envoie ?"
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Les hormones à l'origine de votre cycle",
+      "summary": "Découvrez les quatre messagers qui régissent ce cycle — et le rôle de chacun d'entre eux."
+    }
+  }
+}

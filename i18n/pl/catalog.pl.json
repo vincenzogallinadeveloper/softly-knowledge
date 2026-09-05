@@ -1,0 +1,993 @@
+{
+  "_meta": {
+    "lang": "pl",
+    "is_source": false,
+    "source_content_checksum": "3d041d4d3a5acb4667dcd299321f28f894e8f11442758e2cc190e89b1220677a",
+    "review": "Machine-translated (DeepL) from en — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohol w ciąży",
+      "aliases": [
+        "alkohol w ciąży",
+        "picie alkoholu w ciąży",
+        "alkohol a ciąża",
+        "alkohol płodowy",
+        "FASD"
+      ],
+      "glance": "Najbezpieczniej jest całkowicie unikać spożywania alkoholu w czasie ciąży oraz podczas starań o dziecko.",
+      "overview": "Zalecenia brytyjskiego stowarzyszenia położników (NHS) są jasne i proste: najbezpieczniejszym rozwiązaniem jest **całkowite powstrzymanie się od spożywania alkoholu**, jeśli jesteś\nw ciąży lub starasz się zajść w ciążę. Powstrzymanie się od picia ogranicza ryzyko dla dziecka do minimum.\n\nPowodem jest to, że alkohol przedostaje się z krwi matki przez łożysko do organizmu dziecka, którego wątroba\nnie jest jeszcze wystarczająco rozwinięta, aby go przetworzyć. Picie alkoholu w czasie ciąży może prowadzić do spektrum zaburzeń alkoholowych płodu\n(FASD), czyli szeregu utrzymujących się przez całe życie trudności związanych z uczeniem się, zachowaniem i rozwojem.\n\nJeśli piłaś alkohol, zanim dowiedziałaś się o ciąży, staraj się nie martwić: ryzyko dla dziecka związane z niewielkimi\nilościami spożytymi we wczesnym okresie ciąży jest prawdopodobnie niewielkie. Najlepiej po prostu unikać alkoholu przez resztę\nciąży od teraz.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli trudno ci przestać pić, nie ma się czego wstydzić — powiedz o tym swojej położnej lub\n  lekarzowi pierwszego kontaktu. Mogą oni zaoferować ci wsparcie bez osądzania, a skorzystanie z pomocy jest korzystne zarówno dla ciebie, jak i dla twojego dziecka.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Opieka przedporodowa",
+      "aliases": [
+        "opieka przedporodowa",
+        "opieka prenatalna",
+        "opieka nad kobietami w ciąży",
+        "wizyty u położnej",
+        "umówienie wizyty",
+        "wizyty przedporodowe"
+      ],
+      "glance": "Opieka prenatalna to regularne badania kontrolne przeprowadzane w trakcie ciąży, które pomagają zadbać o zdrowie Twoje i Twojego dziecka.",
+      "overview": "Opieka przedporodowa to opieka, z której korzystasz w czasie ciąży, aby zapewnić sobie i dziecku jak najlepszy\nstan zdrowia. Zazwyczaj spotykasz się z położną, a w razie potrzeby również z lekarzem. Warto zacząć jak najwcześniej:\nskontaktuj się z położną lub lekarzem rodzinnym, gdy tylko dowiesz się, że jesteś w ciąży.\n\nPierwsza właściwa wizyta — tzw. „wizyta rejestracyjna” — odbywa się zazwyczaj między 8. a 12. tygodniem ciąży. Następnie\nzaproponowane zostaną Ci regularne wizyty kontrolne: co najmniej 10 wizyt i 2 badania USG, jeśli jest to Twoje\npierwsze dziecko, lub około 7, jeśli rodziłaś już wcześniej, przy czym pod koniec ciąży wizyt będzie więcej.\n\nPodczas tych wizyt położna sprawdza ciśnienie krwi i mocz, mierzy obwód brzucha, aby śledzić\nwzrost dziecka, proponuje badania przesiewowe oraz rozmawia z tobą o ruchach dziecka i o tym, jak się\nczujesz. Wiele ważnych problemów — takich jak stan przedrzucawkowy czy cukrzyca ciążowa — jest wykrywanych właśnie na tym etapie,\nzanim sama cokolwiek zauważysz, i właśnie dlatego te wizyty są tak ważne.",
+      "deep": null,
+      "when_to_see_doctor": "- Skontaktuj się z **położną lub lekarzem rodzinnym, gdy tylko dowiesz się, że jesteś w ciąży**, aby opieka mogła rozpocząć się wcześnie —\n  najlepiej tak, aby zdążyć na pierwszą wizytę przed około 10–12 tygodniem ciąży.\n- Staraj się stawiać na **wszystkie** wizyty prenatalne, nawet jeśli czujesz się całkowicie dobrze — niektóre badania\n  mają na celu wczesne wykrycie ukrytych problemów.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Ruchy Twojego dziecka",
+      "aliases": [
+        "ruchy dziecka",
+        "ruchy dziecka",
+        "ruchy płodu",
+        "kopnięcia",
+        "odczuwanie ruchów dziecka",
+        "ograniczone ruchy"
+      ],
+      "glance": "Odczuwanie ruchów dziecka to znak, że wszystko z nim w porządku — jeśli ruchy te osłabną lub ulegną zmianie, natychmiast skontaktuj się ze swoją położną.",
+      "overview": "Odczuwanie ruchów dziecka jest jednym z uspokajających znaków, że wszystko z nim w porządku. Większość kobiet zaczyna\nodczuwać ruchy między 16. a 24. tygodniem ciąży — często później w przypadku pierwszej ciąży, więc\nprzy pierwszym porodzie często dzieje się to po 20. tygodniu.\n\nNie ma ustalonej liczby ruchów, które „powinnaś” odczuwać, i nie ma potrzeby liczenia kopnięć w celu osiągnięcia jakiejś liczby.\nKażde dziecko jest inne, a liczy się poznanie **własnego**, typowego rytmu **Twojego** dziecka\nw ciągu dnia — momentów, kiedy jest aktywne, i momentów, kiedy jest spokojne.\n\nKiedy już poznasz ten rytm, warto zwrócić uwagę na wszelkie od niego odstępstwa. Zaufaj temu, co wiesz\no swoim dziecku.",
+      "deep": null,
+      "when_to_see_doctor": "Znajomość normalnego rytmu życia Twojego dziecka pozwala Ci dostrzec wszelkie zmiany. Jeśli kiedykolwiek nie masz pewności,\nczy ruchy dziecka osłabły lub uległy zmianie, zawsze warto zadzwonić i sprawdzić — nigdy nie będziesz\nmarnować niczyjego czasu.",
+      "red_flags": "- Jeśli Twoje dziecko **ruchuje się mniej niż zwykle, jego ruchy się zmieniają lub nie czujesz, jak się porusza**,\n  **natychmiast skontaktuj się z położną lub oddziałem położniczym** — o każdej porze dnia i nocy. **Nie czekaj\n  do następnego dnia**, nawet jeśli jest środek nocy.\n- Nie polegaj na domowym monitorze bicia serca (dopplerze) ani na aplikacji, aby się uspokoić — zgłoś się na\n  osobistą kontrolę."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Ból pleców w ciąży",
+      "aliases": [
+        "ból pleców w ciąży",
+        "ból pleców w ciąży",
+        "ból w dolnej części pleców u kobiet w ciąży",
+        "ból pleców w ciąży"
+      ],
+      "glance": "Ból pleców jest bardzo częstym objawem w czasie ciąży, ponieważ więzadła stają się bardziej elastyczne, a brzuch powiększa się — zazwyczaj nie stanowi to zagrożenia.",
+      "overview": "Ból pleców to jedna z najczęstszych dolegliwości związanych z ciążą. Gdy organizm przygotowuje się do porodu,\nwięzadła w naturalny sposób miękną i rozciągają się, a rosnący brzuch zmienia sposób rozkładu ciężaru ciała —\noba te czynniki powodują dodatkowe obciążenie dolnej części pleców i miednicy.\n\nPomóc mogą proste, codzienne czynności: zwracanie uwagi na postawę podczas stania, siedzenia i podnoszenia przedmiotów;\nnoszenie płaskich butów zapewniających odpowiednie wsparcie; twardy materac lub poduszka zapewniająca odpowiednie podparcie; oraz delikatna, regularna aktywność fizyczna,\ntaka jak spacery, joga dla kobiet w ciąży lub ćwiczenia z zajęć. Jeśli ból naprawdę przeszkadza,\nfizjoterapeuta położniczy może udzielić indywidualnych porad.\n\nW większości przypadków ból pleców w ciąży nie stanowi powodu do niepokoju — jednak niektóre objawy warto\nniezwłocznie zbadać, i właśnie temu służą poniższe wskazówki.",
+      "deep": null,
+      "when_to_see_doctor": "Należy niezwłocznie skontaktować się z **lekarzem rodzinnym lub położną**, jeśli ból pleców:\n\n- jest **silny** lub pojawia się w **drugim lub trzecim trymestrze** (czasami może to być oznaką\n  wczesnego porodu)\n- towarzyszy mu **gorączka, krwawienie z pochwy lub ból podczas oddawania moczu**\n- występuje **w boku (bokach), pod żebrami**",
+      "red_flags": "- Zadzwoń pod numer **999 lub udaj się na oddział ratunkowy**, jeśli **stracisz czucie w nogach, pośladkach lub narządach płciowych** albo utracisz\n  kontrolę nad pęcherzem lub jelitami. Sytuacja ta występuje rzadko, ale wymaga natychmiastowej pomocy medycznej."
+    },
+    "basal-body-temperature": {
+      "title": "Podstawowa temperatura ciała",
+      "aliases": [
+        "bbt",
+        "temperatura podstawowa ciała",
+        "temperatura przy budzeniu",
+        "metoda temperaturowa"
+      ],
+      "glance": "Podstawowa temperatura ciała to poranna temperatura mierzonego w stanie spoczynku, która nieznacznie wzrasta po owulacji.",
+      "overview": "Temperatura podstawowa ciała (BBT) to temperatura organizmu w stanie całkowitego spoczynku. Mierzona codziennie w ten sam sposób\nwykazuje niewielką, ale charakterystyczną zmianę w trakcie cyklu: po owulacji nieznacznie wzrasta i\nutrzymuje się na wyższym poziomie aż do następnej miesiączki.\n\nWzrost ten jest niewielki — wynosi około 0,4 do 0,8°F (mniej więcej 0,2 do 0,4°C) — dlatego ocenia się go na podstawie przebiegu\nw ciągu kilku dni, a nie pojedynczego pomiaru. Aby to wychwycić, temperaturę mierzy się codziennie rano przed\nwstaniem, jedzeniem lub piciem, najlepiej o tej samej porze. U prawie wszystkich kobiet owulacja następuje w ciągu około\ntrzech dni od wzrostu temperatury.\n\nPonieważ wzrost temperatury następuje *po* uwolnieniu komórki jajowej, aplikacja „BBT” potwierdza, że owulacja miała miejsce, a nie\nprzewiduje jej z wyprzedzeniem. W ciągu kilku cykli może ona pomóc w rozpoznaniu przebiegu własnego cyklu,\nchoć sama w sobie nie jest precyzyjnym sposobem na określenie dni płodnych.",
+      "deep": "BBT jest jednym z codziennie rejestrowanych wskaźników świadomości płodności, obok śluzu szyjkowego i\ndługości cyklu. Naturalnie idzie w parze z obserwacją śluzu: zmiana na przezroczysty, śliski śluz sugeruje, że\nzaczyna się okres płodności, podczas gdy wzrost temperatury kilka dni później potwierdza, że owulacja już\nminęła. Na temperaturę spoczynkową może wpływać wiele czynników — zły sen, choroba, alkohol lub dłuższe spanie —\ndlatego pojedyncze nietypowe odczyty mają mniejsze znaczenie niż ogólna tendencja.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Krwawienie w ciąży",
+      "aliases": [
+        "krwawienie w ciąży",
+        "krwawienie z pochwy w ciąży",
+        "krwawienie w ciąży",
+        "krwawienie w czasie ciąży"
+      ],
+      "glance": "Krwawienie w ciąży nie zawsze jest poważne — na początku ciąży często występują niewielkie plamienia — ale zawsze należy to sprawdzić u lekarza.",
+      "overview": "Krwawienie z pochwy w czasie ciąży nie zawsze oznacza, że coś jest nie tak. Lekkie\nkrwawienie lub plamienie występuje dość często, zwłaszcza we wczesnym okresie ciąży, a wiele ciąż przebiega\ncałkowicie normalnie po jego wystąpieniu.\n\nNiemniej jednak krwawienie może czasami być oznaką problemu — takiego jak poronienie lub ciąża pozamaciczna\n— dlatego należy je **zawsze zbadać**, niezależnie od jego natężenia. Tylko dzięki\nkonsultacji lekarskiej można ustalić przyczynę i szybko uzyskać odpowiednią opiekę, jeśli jest ona potrzebna.\n\nPonieważ ten sam objaw może oznaczać bardzo różne rzeczy, nie należy zgadywać — należy\nskontaktować się z lekarzem i zgłosić się na wizytę.",
+      "deep": null,
+      "when_to_see_doctor": "- **Zawsze skontaktuj się ze swoim oddziałem położniczym** (lub, jeśli jesteś w mniej niż 20. tygodniu ciąży albo nie masz jego\n  numeru, z poradnią wczesnej ciąży lub **NHS 111**), jeśli wystąpi u Ciebie **jakiekolwiek** krwawienie z pochwy w czasie ciąży,\n  nawet niewielkie plamienie — aby można było ustalić przyczynę.",
+      "red_flags": "- Zadzwoń pod numer **999 lub udaj się na pogotowie**, jeśli wystąpi **silne krwawienie** — na przykład gdy podpaska przemoczy się wkrótce po\n  jej założeniu — zwłaszcza w połączeniu z **silnym bólem brzucha, bólem w okolicy łopatek lub mdłościami, omdleniem,\n  zawrotami głowy lub utratą przytomności.** Wymaga to natychmiastowej pomocy medycznej."
+    },
+    "breast-awareness": {
+      "title": "Świadomość dotycząca piersi",
+      "aliases": [
+        "świadomość dotycząca piersi",
+        "badanie piersi",
+        "samobadanie piersi",
+        "samobadanie piersi",
+        "badanie piersi"
+      ],
+      "glance": "Świadomość dotycząca piersi polega po prostu na tym, by wiedzieć, jak Twoje piersi zazwyczaj wyglądają i jak się je czuje, dzięki czemu można zauważyć wszelkie zmiany.",
+      "overview": "Samokontrola piersi nie polega na stosowaniu jakiejś specjalnej techniki — chodzi po prostu o to, by poznać, co jest dla Ciebie normą, tak\naby wszelkie nowe zmiany rzucały się w oczy. Regularne badanie piersi pomaga Ci zapoznać się z ich zwykłym\nwyglądem i konsystencją; dobrym rytmem jest raz w miesiącu.\n\nNie ma jednej „właściwej” metody. Wiele osób ogląda się w lustrze z opuszczonymi, a następnie uniesionymi rękami, a następnie\nobmaca każdą pierś, sięgając aż do pachy. Chodzi o to, by dobrze poznać swoje ciało, a nie o postawienie diagnozy —\ncelem jest po prostu wczesne wykrycie ewentualnych zmian.\n\nPiersi zmieniają się również naturalnie w trakcie cyklu miesiączkowego i w miarę upływu życia, więc niektóre zmiany są całkowicie\nnormalne. Celem tej świadomości jest wystarczająco dobre poznanie własnej normy, aby dostrzec coś, co nią nie jest.",
+      "deep": null,
+      "when_to_see_doctor": "Zgłoś się do lekarza pierwszego kontaktu, jeśli zauważysz jakąkolwiek zmianę, która nie jest dla Ciebie typowa, na przykład:\n\n- guzek lub obrzęk w piersi, klatce piersiowej lub pod pachą\n- zmiana w wyglądzie skóry, np. wgłębienia (może przypominać skórkę pomarańczy) lub zaczerwienienie\n- zmiana wielkości lub kształtu jednej lub obu piersi\n- wydzielina z brodawki sutkowej (jeśli nie jesteś w ciąży ani nie karmisz piersią), która może zawierać krew\n- zmiana wyglądu brodawki sutkowej, np. jej wciągnięcie do wewnątrz\n- ból w piersi lub pod pachą, który nie ustępuje\n\nWiększość zmian w piersiach nie jest nowotworowa i okazuje się nieszkodliwa — jednak zawsze warto\nniezwłocznie zbadać każdą zmianę, ponieważ jeśli coś wymaga uwagi, wczesne wykrycie jest bardzo pomocne.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Karmienie piersią",
+      "aliases": [
+        "karmienie piersią",
+        "pielęgniarstwo",
+        "mleko matki",
+        "karmienie piersią",
+        "karmienie dziecka"
+      ],
+      "glance": "Mleko matki chroni dziecko przed infekcjami i dostosowuje się do jego rozwoju — a każda jego ilość przynosi korzyści.",
+      "overview": "Mleko matki jest naturalnym, kompletnym pożywieniem dla niemowlęcia: dostarcza składników odżywczych, witamin i minerałów,\nktórych dziecko potrzebuje, a jego skład zmienia się z upływem czasu, dostosowując się do etapu rozwoju dziecka. Pomaga również chronić przed infekcjami\ni chorobami oraz zapewnia pewne długoterminowe korzyści zdrowotne.\n\nKorzyści odczuwa również osoba karmiąca — karmienie piersią wiąże się między innymi z mniejszym ryzykiem zachorowania na raka piersi\ni jajników — a ogólna zasada jest taka, że im częściej i dłużej\nkarmisz piersią, tym większe są korzyści. Co ważne, **każda** ilość mleka matki ma znaczenie; nie jest to\nkwestia „wszystko albo nic”.\n\nKarmienie dziecka może początkowo być trudniejsze niż się spodziewałaś, i to jest normalne. Możesz liczyć na pomoc — od\npołożnej, pielęgniarki środowiskowej oraz NHS wsparcia w zakresie karmienia — więc warto jak najwcześniej zwrócić się o pomoc, jeśli nie idzie\ngładko.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli karmienie jest bolesne lub trudne albo\n  martwisz się, że Twoje dziecko nie otrzymuje wystarczającej ilości pokarmu, poproś o pomoc **położną lub pielęgniarkę środowiskową** już na wczesnym etapie — wsparcie może naprawdę wiele zmienić.\n- Sposób karmienia dziecka to osobista decyzja, a wsparcie jest dostępne niezależnie od tego, co wybierzesz; liczy się\n  tylko to, abyście ty i twoje dziecko czuli się dobrze.",
+      "red_flags": null
+    },
+    "cervical-mucus": {
+      "title": "Śluz szyjki macicy",
+      "aliases": [
+        "śluz szyjki macicy",
+        "wyładowanie",
+        "wydzielina z pochwy",
+        "wydzieliny z szyjki macicy",
+        "śluz z białka jaja"
+      ],
+      "glance": "Śluz szyjki macicy to naturalna wydzielina, która zmienia się w trakcie cyklu i wskazuje dni płodności.",
+      "overview": "Śluz szyjki macicy to płyn wytwarzany przez szyjkę macicy, który można dostrzec jako wydzielinę. Jest to zjawisko normalne, a\njego wygląd i konsystencja zmieniają się w dość przewidywalny sposób w trakcie cyklu — właśnie dlatego jest to jeden\nz objawów służących do rozpoznawania dni płodnych.\n\nTuż po miesiączce często występuje kilka „suchych” dni, podczas których wydzielina jest niewielka. Gdy komórka jajowa zaczyna\ndojrzewać, wydzielina staje się obfitsza i ma zazwyczaj biały lub żółty kolor, jest mętna i lepka. W dniach tuż\nprzed owulacją śluz zazwyczaj staje się przezroczysty, wilgotny i śliski, rozciągając się między palcami jak surowe\nbiałko jajka — jest to okres największej płodności. Po owulacji zazwyczaj znów staje się lepki i mętny\nlub wysycha.\n\nWzorzec u każdej kobiety jest nieco inny i może zająć kilka cykli obserwacji, aby poznać\nswój własny. Niektóre czynniki — takie jak hormonalna antykoncepcja, karmienie piersią lub infekcja — mogą wpływać na\nzmianę konsystencji śluzu, więc nie jest to wiarygodny wskaźnik płodności dla wszystkich.",
+      "deep": "Obserwacja śluzu szyjkowego jest jednym z objawów świadomości płodności, które ludzie śledzą, obok temperatury ciała w spoczynku\ni długości cyklu; opanowanie tej metody zajmuje zazwyczaj od dwóch do trzech cykli. W przeciwieństwie do wzrostu temperatury,\nktóry potwierdza owulację dopiero po jej wystąpieniu, zmiana konsystencji śluzu na przezroczysty, śliski, przypominający białko jajka\nzwykle pojawia się *przed* owulacją, dlatego służy ona do sygnalizowania początku okna płodności, a nie\npo jego zakończeniu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Badania przesiewowe szyjki macicy (badanie cytologiczne)",
+      "aliases": [
+        "badania przesiewowe szyjki macicy",
+        "badanie cytologiczne",
+        "plama",
+        "badanie cytologiczne",
+        "badanie cytologiczne"
+      ],
+      "glance": "Badanie przesiewowe szyjki macicy to rutynowa kontrola stanu zdrowia szyjki macicy, która pomaga zapobiegać rakowi szyjki macicy.",
+      "overview": "Badanie przesiewowe szyjki macicy to badanie sprawdzające stan zdrowia szyjki macicy — ujścia macicy znajdującego się w\ngórnej części pochwy. Nie jest to badanie na raka. Stanowi natomiast sposób na wczesne wykrycie zmian i pomaga\nzapobiegać rozwojowi raka szyjki macicy.\n\nDo badania zapraszane są wszystkie osoby posiadające szyjkę macicy w wieku od 25 do 64 lat. Zaproszenie jest wysyłane w\nodpowiednim terminie, w regularnych odstępach czasu, więc nie musisz pamiętać o umówieniu się na badanie z własnej inicjatywy —\nchociaż decyzja o tym, czy się na nie udać, zawsze należy do Ciebie.\n\nSam badanie jest szybkie i przeprowadza je pielęgniarka. Wiele osób odczuwa w związku z tym pewną tremę, co jest\ncałkowicie zrozumiałe; świadomość, czemu służy — rutynowa kontrola profilaktyczna — może sprawić, że\nbędzie łatwiej to znieść.",
+      "deep": null,
+      "when_to_see_doctor": "- Badania przesiewowe są przeznaczone dla osób, które **nie** mają objawów. Jeśli w okresie między badaniami zauważysz coś niepokojącego\n  — na przykład nietypowe krwawienie (między miesiączkami, po stosunku lub po menopauzie) —\n  udaj się do lekarza pierwszego kontaktu, zamiast czekać na kolejne zaproszenie.\n- Jeśli otrzymałaś zaproszenie, ale masz wątpliwości lub obawy związane z wizytą, warto porozmawiać z lekarzem pierwszego kontaktu lub\n  pielęgniarką przychodni, którzy wyjaśnią Ci, na czym polega badanie, i odpowiedzą na Twoje pytania.",
+      "red_flags": null
+    },
+    "combined-pill": {
+      "title": "Pigułka złożona",
+      "aliases": [
+        "pigułka złożona",
+        "pigułka",
+        "kombinowany doustny środek antykoncepcyjny",
+        "COC"
+      ],
+      "glance": "Pigułka złożona to pigułka przyjmowana codziennie, zawierająca dwa hormony, której działanie polega głównie na hamowaniu owulacji.",
+      "overview": "Pigułka złożona to tabletka przyjmowana codziennie, zawierająca dwa hormony — odmiany estrogenu i progestagenu,\npodobne do tych wytwarzanych przez jajniki. Jest to jedna z najbardziej znanych metod antykoncepcyjnych.\n\nZapobiega ciąży na kilka sposobów jednocześnie. Przede wszystkim hamuje uwalnianie komórki jajowej przez jajniki\n(owulację). Ponadto zagęszcza śluz w szyjce macicy, utrudniając plemnikom przedostanie się\ndo jej wnętrza, a także powoduje ścieńczenie błony śluzowej macicy.\n\nSkuteczność tej metody zależy od przestrzegania zaleceń dotyczących przyjmowania tabletek: przy idealnym stosowaniu skuteczność wynosi ponad 99%, ale\nprzy typowym, codziennym stosowaniu — gdy czasami pomija się dawkę lub opóźnia jej przyjęcie — wynosi ona około 91%\n. Podobnie jak większość metod, nie chroni ona przed chorobami przenoszonymi drogą płciową, dlatego niektóre osoby stosują dodatkowo prezerwatywy.",
+      "deep": "Tabletki antykoncepcyjne zazwyczaj przyjmuje się zgodnie z ustalonym schematem w ciągu miesiąca, a sposób ich stosowania, dla kogo są odpowiednie,\njak również skutki uboczne i ryzyko to kwestie, które lekarz omawia podczas przepisywania leku — nie jest to\nmetoda odpowiednia dla wszystkich. Ponieważ jest to metoda stosowana codziennie, jej rzeczywista skuteczność w dużej mierze zależy od\nregularności stosowania. Niniejszy artykuł wyjaśnia, czym jest ta pigułka i jak działa; szczegóły dotyczące rozpoczęcia, przyjmowania lub\nzaprzestania stosowania należy omówić z lekarzem rodzinnym, pielęgniarką lub farmaceutą.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Typowe objawy ciąży",
+      "aliases": [
+        "typowe objawy ciąży",
+        "dolegliwości ciążowe",
+        "zgaga w ciąży",
+        "ból pleców w ciąży",
+        "opuchnięte kostki",
+        "zaparcia w ciąży",
+        "dolegliwości ciążowe"
+      ],
+      "glance": "Ciąża wiąże się z wieloma drobnymi dolegliwościami i zmianami — w większości są one normalne, choć niektóre z nich warto zbadać.",
+      "overview": "Ciąża wiąże się z wieloma zmianami w organizmie i towarzyszy jej długa lista codziennych dolegliwości. Większość\nz nich jest powszechna i nie oznacza, że coś jest nie tak — to po prostu część procesu rozwoju dziecka.\n\nDo typowych dolegliwości należą bóle pleców, zgaga i niestrawność, zaparcia, hemoroidy, opuchnięte kostki, stopy\ni palce, zmęczenie i przerywany sen, skurcze nóg, bóle głowy, uczucie omdlenia oraz większa niż\nzwykle wydzielina. Wiele z nich można złagodzić za pomocą prostych środków łagodzących, a położna może zaproponować bezpieczne rozwiązania, jeśli coś\nCi dokucza.\n\nWarto wiedzieć, które zmiany są normalne, a które należy zgłosić —\nponieważ niektóre objawy, choć rzadziej występujące, wymagają konsultacji lekarskiej, a nie tylko cierpliwego czekania.",
+      "deep": null,
+      "when_to_see_doctor": "Większość z tych objawów jest normalna, ale należy niezwłocznie skontaktować się z **położną lub oddziałem położniczym**, jeśli wystąpią:\n\n- **krwawienie z pochwy** lub nagły wyciek lub sączenie płynu\n- **mniej ruchów dziecka** niż zwykle\n- **silny ból głowy, zaburzenia widzenia lub nagły obrzęk** twarzy, dłoni lub stóp (możliwe\n  objawy stanu przedrzucawkowego)\n- **silny lub jednostronny ból brzucha** lub **wysoka temperatura**\n- **swędzenie**, zwłaszcza na dłoniach i stopach lub nasilające się w nocy (może to być objawem\n  choroby wątroby w ciąży, która wymaga zbadania)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Prezerwatywy",
+      "aliases": [
+        "prezerwatywa",
+        "prezerwatywy",
+        "prezerwatywa zewnętrzna",
+        "guma",
+        "metoda barierowa"
+      ],
+      "glance": "Prezerwatywy to metoda barierowa — i jedyna metoda antykoncepcyjna, która zapewnia również ochronę przed chorobami przenoszonymi drogą płciową.",
+      "overview": "Prezerwatywa to cienka bariera — zazwyczaj wykonana z lateksu lub z alternatywnego materiału syntetycznego dla osób z alergią na lateks\n— zakładana na penisa podczas stosunku. Działa w prosty sposób: uniemożliwia przedostanie się nasienia do pochwy.\n\nTo, co wyróżnia prezerwatywy spośród środków antykoncepcyjnych, to fakt, że są one **jedyną metodą, która dodatkowo chroni\nprzed chorobami przenoszonymi drogą płciową (STI), w tym przed HIV.** Dlatego często stosuje się je\nw połączeniu z inną metodą — jedną zapobiegającą ciąży, a obie razem zapewniają ochronę przed infekcjami.\n\nPrzy prawidłowym stosowaniu za każdym razem prezerwatywy są skuteczne w zapobieganiu ciąży w około 98%. Przy typowym\nstosowaniu — gdy czasami są używane nieprawidłowo lub nie za każdym razem — skuteczność ta spada do około 82%. Prawidłowe i\nkonsekwentne stosowanie prezerwatyw ma kluczowe znaczenie.",
+      "deep": "Ponieważ prezerwatywy stosuje się w danej chwili, a nie z wyprzedzeniem, ich rzeczywista skuteczność\nw dużym stopniu zależy od konsekwentnego i prawidłowego stosowania. Prezerwatywy wewnętrzne (wkładane do pochwy) stanowią kolejną\nmetodę barierową. W przeciwieństwie do większości metod, prezerwatywy nie wymagają recepty i są powszechnie dostępne, a\nich podwójna rola — ochrona przed ciążą i STI — sprawia, że tak często pojawiają się w rozmowach na temat\nbezpiecznego seksu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Antykoncepcja",
+      "aliases": [
+        "antykoncepcja",
+        "antykoncepcja",
+        "planowanie rodziny"
+      ],
+      "glance": "Antykoncepcja to różne metody zapobiegania ciąży — a do wyboru jest ich wiele.",
+      "overview": "Antykoncepcja — zwana czasem kontrolą urodzeń — to szereg metod stosowanych w celu zapobiegania ciąży.\nIstnieje wiele takich metod, a działają one na różne sposoby: niektóre wykorzystują hormony, inne stanowią barierę, jeszcze inne\numieszcza się w macicy, a niektóre opierają się na śledzeniu cyklu.\n\nSkuteczność danej metody w dużej mierze zależy od tego, jak jest stosowana. Niektóre metody — takie jak implant i\nwkładka domaciczna — działają na zasadzie „załóż i zapomnij” i są skuteczne w ponad 99%. Inne, takie jak pigułki antykoncepcyjne czy prezerwatywy, są\nbardzo skuteczne przy idealnym stosowaniu, ale nieco mniej skuteczne w codziennym, typowym użytkowaniu, ponieważ\nłatwiej jest zapomnieć o zażyciu pigułki lub nieprawidłowo założyć prezerwatywę.\n\nWarto wiedzieć, że **tylko prezerwatywy chronią również przed infekcjami przenoszonymi drogą płciową\n(STI)**. Pozostałe metody zapobiegają ciąży, ale nie chronią przed infekcjami, dlatego prezerwatywy są czasami\nstosowane w połączeniu z inną metodą.\n\nNie ma jednej „najlepszej” metody — wybór odpowiedniej zależy od Twojego stanu zdrowia, budowy ciała oraz tego, co najlepiej pasuje\ndo Twojego stylu życia. Lekarz rodzinny lub poradnia zdrowia seksualnego może omówić z Tobą dostępne opcje i pomóc w wyborze.",
+      "deep": "Ponieważ metody tak bardzo się od siebie różnią, warto zastanowić się, co jest dla Ciebie ważne: jak skuteczna jest dana metoda,\nczy wymaga codziennego pamiętania o czymś, jak długo działa, czy chcesz stosować hormony, czy\nnie, oraz czy w Twojej sytuacji istotna jest ochrona przedSTIacją. Wiele osób zmienia metody w ciągu swojego\nżycia, w miarę jak zmieniają się ich potrzeby. Niniejsza baza wiedzy opisuje, jak działają popularne metody, dzięki czemu\nwybór staje się bardziej przejrzysty — jednak decyzję, a także wszelkie kwestie związane z receptą lub dopasowaniem, należy podjąć wspólnie z\nlekarzem.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Implant antykoncepcyjny",
+      "aliases": [
+        "implant antykoncepcyjny",
+        "implant",
+        "Nexplanon",
+        "implant"
+      ],
+      "glance": "Implant to niewielki pręcik umieszczany w ramieniu, który przez kilka lat uwalnia hormon.",
+      "overview": "Implant antykoncepcyjny to niewielki, elastyczny pręcik — mniej więcej wielkości zapałki — umieszczany tuż\npod skórą ramienia przez wykwalifikowanego lekarza. Po wszczepieniu stopniowo uwalnia hormon progestagenowy\ni działa przez okres do około trzech lat.\n\nZapobiega ciąży głównie poprzez hamowanie uwalniania komórki jajowej przez jajniki (owulacji) oraz poprzez\nzagęszczenie śluzu w szyjce macicy, co uniemożliwia przedostanie się plemników. Ponieważ nie trzeba o tym\npamiętać na co dzień, jest to jedna z metod typu „załóż i zapomnij”.\n\nTo również powód, dla którego jest to jedna z najbardziej niezawodnych opcji: skuteczność implantu wynosi ponad 99%, a jego\nskuteczność praktycznie nie zmienia się niezależnie od tego, czy jest stosowany idealnie, czy w typowych warunkach. Podobnie jak inne metody hormonalne,\nnie chroni przed chorobami przenoszonymi drogą płciową.",
+      "deep": "Implant jest metodą długotrwałego, odwracalnego działania — działa do momentu jego usunięcia, a płodność\npowraca po usunięciu. Zakładanie i usuwanie implantu to szybkie zabiegi wykonywane przez lekarza, który\nomawia również, dla kogo jest on odpowiedni i jakie są jego skutki uboczne. Niniejszy artykuł wyjaśnia, czym jest implant i jak\ndziała; decyzja o jego założeniu powinna zostać podjęta w rozmowie z lekarzem pierwszego kontaktu, pielęgniarką lub w poradni zdrowia seksualnego.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Twój cykl i Twoje samopoczucie",
+      "aliases": [
+        "dobre samopoczucie",
+        "rower i zdrowie",
+        "cykl miesiączkowy i zdrowie",
+        "parametr życiowy"
+      ],
+      "glance": "Twój cykl menstruacyjny przypomina swego rodzaju comiesięczną kontrolę stanu zdrowia — warto zwracać uwagę na zachodzące w nim zmiany.",
+      "overview": "Twój cykl menstruacyjny nie jest odrębny od reszty Twojego zdrowia — jest z nim powiązany. Cykl,\nktóry jest dla Ciebie regularny, to zazwyczaj znak, że Twoje ciało funkcjonuje tak, jak powinno. Dlatego właśnie\nniektórzy postrzegają miesiączkę jako swego rodzaju comiesięczny sygnał dotyczący ogólnego samopoczucia.\n\nWpływ na to ma codzienne życie. Jednym z przykładów jest masa ciała: znaczna niedowaga lub nadwaga\nmoże wpływać na hormony regulujące owulację, co może powodować nieregularne miesiączki. Działa to w obie\nstrony — dbanie o podstawowe kwestie, takie jak zbilansowana dieta i aktywność fizyczna, wspiera\ncykl, a regularny cykl jest oznaką, że te elementy są w rozsądnej równowadze.\n\nNie chodzi tu o dążenie do „idealnego” cyklu ani o obwinianie się za zmiany. Chodzi po prostu o to, że\ndelikatne zwracanie uwagi na swój cykl może być przydatnym wskaźnikiem tego, jak się czujesz — oraz sygnałem, by\nskonsultować się z lekarzem, jeśli coś się zmieni.",
+      "deep": null,
+      "when_to_see_doctor": "- Udaj się do lekarza pierwszego kontaktu, jeśli Twoje miesiączki staną się nieregularne, ustaną lub zmienią się w sposób nietypowy dla Ciebie —\n  trwające zmiany mogą czasem wskazywać na coś, co warto zbadać.\n- Warto również porozmawiać z lekarzem, jeśli problemy z miesiączką wpływają na Twoje codzienne życie, abyś mogła uzyskać\n  wsparcie, zamiast po prostu się z nimi godzić.",
+      "red_flags": null
+    },
+    "ectopic-pregnancy": {
+      "title": "Ciąża pozamaciczna",
+      "aliases": [
+        "ciąża pozamaciczna",
+        "pozamaciczny",
+        "ciąża jajowodowa"
+      ],
+      "glance": "Ciąża pozamaciczna rozwija się poza macicą — nie może się dalej rozwijać i wymaga natychmiastowej pomocy medycznej.",
+      "overview": "Ciąża pozamaciczna ma miejsce, gdy zapłodniona komórka jajowa zagnieżdża się poza macicą, najczęściej w jednym z\njajowodów. Niestety, ciąża w tej lokalizacji nie może rozwinąć się w dziecko i nie można jej\nprzenieść do macicy — dlatego zawsze wymaga leczenia.\n\nObjawy pojawiają się zazwyczaj między 4. a 12. tygodniem ciąży i mogą obejmować ból brzucha w dolnej części po jednej stronie,\nkrwawienie z pochwy lub brązową, wodnistą wydzielinę, ból w okolicy łopatki lub dyskomfort podczas\noddawania moczu lub wypróżniania. Zestaw objawów jest zróżnicowany, a niektóre z nich można łatwo pomylić z czymś niegroźnym,\ndlatego tak ważne jest, aby je zbadać.\n\nJest to rzadka, ale potencjalnie poważna sytuacja, więc nie należy zwlekać. Wczesne\nzasięgnięcie porady oznacza, że problem można bezpiecznie rozwiązać.",
+      "deep": null,
+      "when_to_see_doctor": "- Skontaktuj się ze swoim lekarzem rodzinnym lub zadzwoń pod numer **NHS 111**, jeśli występuje u Ciebie kombinacja tych objawów **i istnieje możliwość, że jesteś\n  w ciąży** — nawet jeśli wynik testu ciążowego nie był pozytywny. Ważne jest, aby natychmiast\n  uzyskać poradę.",
+      "red_flags": "- Zadzwoń pod numer **999 lub udaj się na pogotowie**, jeśli odczuwasz **nagły, ostry i intensywny ból brzucha**, masz **silne\n  zawroty głowy lub uczucie omdlenia**, jesteś **bardzo blady** lub towarzyszą ci te objawy. Może to oznaczać pęknięcie jajowodu\n  — stan zagrożenia życia wymagający natychmiastowego leczenia."
+    },
+    "emergency-contraception": {
+      "title": "Antykoncepcja awaryjna",
+      "aliases": [
+        "antykoncepcja awaryjna",
+        "pigułka „po”",
+        "pigułka „dzień po”",
+        "pigułka „dzień po”",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "Antykoncepcja awaryjna może zapobiec ciąży po stosunku bez zabezpieczenia — im szybciej, tym lepiej.",
+      "overview": "Antykoncepcja awaryjna to sposób na zapobieganie ciąży po stosunku bez zabezpieczenia lub w sytuacji, gdy\nzwykła metoda mogła zawieść (pominięcie tabletki, pęknięcie prezerwatywy). Istnieją dwa rodzaje tej metody, a w obu przypadkach\nważny jest czas zastosowania.\n\nPierwsza to **pigułka awaryjna**. Wyróżnia się dwa rodzaje: jeden (lewonorgestrel) można przyjąć do\n3 dni — 72 godzin — po stosunku, a drugi (octan ulipristalu, nazwa handlowa ellaOne) do 5 dni —\n120 godzin. Drugą opcją jest **wkładka miedziana (IUD)**, którą lekarz może założyć do 5 dni\npo stosunku; jest to najskuteczniejsza forma antykoncepcji awaryjnej, a następnie może pozostać w ciele jako\nstała metoda antykoncepcyjna, jeśli chcesz.\n\nW przypadku wszystkich tych metod **im szybciej je zastosujesz, tym skuteczniejsze zazwyczaj są** — dlatego warto działać\nszybko, zamiast czekać. Środki antykoncepcji awaryjnej można otrzymać w aptece, u lekarza pierwszego kontaktu, w\nklinice zdrowia seksualnego lub w przychodni bez rejestracji, często bezpłatnie.",
+      "deep": null,
+      "when_to_see_doctor": "- Ponieważ czas ma tu kluczowe znaczenie, nie zwlekaj — farmaceuta może szybko wydać pigułkę „po”, a\n  klinika zdrowia seksualnego lub lekarz rodzinny może założyć wkładkę „IUD”.\n- Antykoncepcja awaryjna ma na celu zapobieganie ciąży, a nie infekcjom. Jeśli istnieje jakakolwiek możliwość\n  zakażenia przenoszonego drogą płciową, klinika zdrowia seksualnego może udzielić porady dotyczącej badań.\n- Jeśli miesiączka spóźni się o więcej niż kilka dni lub będzie przebiegać zupełnie inaczej niż zwykle, warto wykonać\n  test ciążowy i skonsultować się z lekarzem.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometrioza",
+      "aliases": [
+        "endometrioza",
+        "endo"
+      ],
+      "glance": "Endometrioza to schorzenie, w którym tkanka podobna do błony śluzowej macicy rozwija się poza macicą, co często powoduje ból.",
+      "overview": "Endometrioza to przewlekła choroba, w której komórki podobne do błony śluzowej macicy rozrastają się\nw innych częściach ciała, np. w okolicy jajników, miednicy lub jelit. Jest to powszechna dolegliwość —\nszacuje się, że dotyka około 1 na 10 kobiet w wieku rozrodczym na całym świecie.\n\nPonieważ tkanka ta zachowuje się podobnie jak błona śluzowa macicy, może powodować stan zapalny, a z czasem\ntworzenie się blizn. Najczęstszym objawem jest ból: często silny ból menstruacyjny, ale także ból miednicy lub dolnej części pleców\nw innych momentach, ból podczas stosunku lub po nim, a także ból podczas oddawania moczu lub wypróżniania się. Często występują również bardzo obfite miesiączki,\ngłębokie zmęczenie, obniżony nastrój oraz trudności z zajściem w ciążę. Objawy są bardzo zróżnicowane —\nniektóre osoby odczuwają silny ból, inne — niewielki.\n\nEndometrioza jest często źle rozumiana, a jej rozpoznanie może zająć lata, częściowo dlatego, że ból menstruacyjny jest\ntak często lekceważony jako „normalny”. Silny ból, który zakłóca codzienne życie, nie jest czymś, z czym po prostu trzeba\nsię pogodzić — warto potraktować go poważnie.",
+      "deep": "Dokładna przyczyna endometriozy nie jest znana i obecnie nie ma na nią lekarstwa — jednak metody leczenia mogą\npomóc w łagodzeniu objawów, a dostępne formy wsparcia obejmują zarówno leki, jak i — w przypadku niektórych osób — zabiegi chirurgiczne, a także\npomoc w radzeniu sobie z fizycznymi i emocjonalnymi skutkami choroby. Jednym z największych wyzwań jest opóźnienie: średnio\nustalenie diagnozy może zająć kilka lat, a czasem nawet wiele lat. To właśnie dlatego tak ważne jest prowadzenie szczegółowej dokumentacji\nobjawów oraz ponowne zgłoszenie się do lekarza, jeśli nie zostaniesz wysłuchana.",
+      "when_to_see_doctor": "Warto zgłosić się do lekarza pierwszego kontaktu, jeśli:\n\n- odczuwasz silne bóle menstruacyjne, które uniemożliwiają ci wykonywanie codziennych czynności\n- masz bardzo obfite miesiączki — na przykład musisz zmieniać podpaskę lub tampon co 1–2 godziny\n- odczuwasz uporczywy ból w okolicy miednicy lub dolnej części pleców, ból podczas stosunku lub po nim, albo ból podczas oddawania moczu lub wypróżniania\n- masz trudności z zajściem w ciążę\n- dotychczasowe leczenie nie przyniosło efektów lub objawy się pogorszyły\n\nPonieważ rozpoznanie endometriozy może zająć trochę czasu, nie ma nic złego w ponownej wizycie, jeśli objawy nie są traktowane\npoważnie — pomocny jest jasny obraz przebiegu bólu w czasie. Jeśli ból lub obfite krwawienie mają również\nwpływ na Twój nastrój, poinformuj o tym lekarza pierwszego kontaktu; jest to część obrazu klinicznego, a wsparcie jest dostępne.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogen",
+      "aliases": [
+        "estrogen"
+      ],
+      "glance": "Estrogen jest kluczowym hormonem, który w każdym cyklu pomaga przygotować organizm na ewentualną ciążę.",
+      "overview": "Estrogen jest jednym z głównych hormonów regulujących cykl menstruacyjny. W pierwszej połowie cyklu\n(faza folikularna) jego poziom wzrasta wraz z dojrzewaniem pęcherzyka jajnikowego. Wzrost ten powoduje pogrubienie\nbłony śluzowej macicy i prowadzi do owulacji.\n\nEstrogen wpływa również na rzeczy, które możesz zauważać na co dzień — poziom energii, nastrój oraz zmiany w\nśluzie szyjki macicy w okresie dni płodnych. Po owulacji jego poziom spada, a następnie ponownie się zmienia,\nwspółdziałając z innym hormonem, progesteronem, w drugiej połowie cyklu.\n\nPoziomy naturalnie rosną i opadają w trakcie każdego cyklu, a także zmieniają się w różnych etapach życia. Jest to\nnormalne — to rytm, według którego funkcjonuje Twoje ciało, a nie coś, co należy „naprawiać”.",
+      "deep": "Estrogen nie jest pojedynczą substancją, lecz grupą powiązanych hormonów (najbardziej aktywnym w cyklu\njest estradiol). Większość estrogenu jest wytwarzana przez jajniki, w rosnącym pęcherzyku. Jego cykliczny wzrost i\nspadek — wraz z progesteronem oraz hormonami sygnałowymi mózgu, takimi jakLHa i FSH — są tym, co\nnapędza fazy cyklu. Ponieważ estrogen oddziałuje na wiele układów organizmu, jego naturalne wahania mogą\nprzejawiać się w drobnych zmianach w ciągu miesiąca; śledzenie tych zmian pomaga poznać własny wzorzec, zamiast\nporównywać go do „średniej”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Aktywność fizyczna a cykl menstruacyjny",
+      "aliases": [
+        "ćwiczenia",
+        "aktywność fizyczna",
+        "ćwiczenia",
+        "ruch",
+        "ćwiczenia i okresy"
+      ],
+      "glance": "Możesz pozostać aktywna przez cały cykl — a regularna aktywność fizyczna może złagodzić skurcze i PMS.",
+      "overview": "Możesz być aktywna fizycznie w dowolnym momencie cyklu. Niektóre osoby zauważają, że mają więcej energii i\nmogą dać z siebie nieco więcej w pewnych okresach miesiąca, a mniej w innych — obie te sytuacje są normalne i\nżadna z nich nie stanowi powodu, by przestać się ruszać.\n\nRegularna aktywność fizyczna może faktycznie pomóc w łagodzeniu niektórych objawów związanych z miesiączką. Osoby, które regularnie ćwiczą,\nczęsto odczuwają mniej bolesnych skurczów, a aktywność fizyczna może również złagodzić objawy przedmiesiączkowe (PMS). W\ndniach, kiedy masz mniej energii, łagodniejsze ruchy też się liczą — aktywność nie musi być intensywna, żeby przynosiła korzyści.\n\nNie ma potrzeby planowania życia w oparciu o cykl menstruacyjny i nie ma jednego „właściwego” sposobu na ruch. Obserwowanie\nwłasnych zmian poziomu energii w ciągu miesiąca może po prostu pomóc w planowaniu w sposób, który jest dla Ciebie komfortowy.",
+      "deep": null,
+      "when_to_see_doctor": "- Bardzo intensywny trening lub ćwiczenia fizyczne w tak dużym zakresie, że organizmowi zaczyna brakować energii, mogą spowodować, że miesiączki\n  staną się nieregularne lub całkowicie ustaną. Regularny cykl jest zazwyczaj oznaką, że wszystko przebiega\n  prawidłowo, dlatego warto skonsultować się z lekarzem rodzinnym, jeśli miesiączki staną się nieregularne lub ustaną — z czasem może to mieć\n  wpływ na zdrowie kości i gospodarkę hormonalną.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Ćwiczenia fizyczne w ciąży",
+      "aliases": [
+        "ćwiczenia w ciąży",
+        "aktywny tryb życia w ciąży",
+        "ćwiczenia w ciąży",
+        "aktywność fizyczna w ciąży"
+      ],
+      "glance": "W większości przypadków ciąż aktywność fizyczna jest bezpieczna i korzystna — należy ją uprawiać w umiarkowanym tempie, nie doprowadzając się do wyczerpania.",
+      "overview": "Aktywność fizyczna w czasie ciąży jest dla Ciebie korzystna i nie stanowi zagrożenia dla dziecka — wręcz przeciwnie, dbanie o kondycję\nmoże pomóc Ci poradzić sobie z nadchodzącymi zmianami oraz z porodem. Nie musisz podejmować żadnych intensywnych ćwiczeń;\nkontynuowanie zwykłych codziennych czynności, o ile czujesz się przy tym komfortowo, to świetny punkt\npoczątkowy.\n\nProsta zasada: podczas ruchu powinnaś być w stanie **prowadzić rozmowę**. Jeśli jesteś zbyt\nzdyszana, by mówić, zwolnij tempo. Łagodne formy aktywności, takie jak spacery, pływanie, zajęcia aqua-natalne i\njoga dla kobiet w ciąży, są odpowiednie dla większości osób. Jeśli wcześniej nie prowadziłaś aktywnego trybu życia, nie jest to odpowiedni moment na rozpoczęcie\nnowego, intensywnego programu ćwiczeń — zamiast tego stopniowo zwiększaj intensywność.\n\nNiektórych aktywności najlepiej unikać lub podchodzić do nich z ostrożnością — takich jak leżenie płasko na plecach po\nokoło 16 tygodniu ciąży, sporty kontaktowe, nurkowanie z akwalungiem oraz wszelkie czynności wiążące się z realnym ryzykiem upadku.",
+      "deep": null,
+      "when_to_see_doctor": "- Przed rozpoczęciem nowego programu ćwiczeń aerobowych lub w przypadku\n  problemów zdrowotnych albo obaw związanych z ciążą skonsultuj się ze swoją **położną**.\n- **Przerwij ćwiczenia i zasięgnij porady**, jeśli poczujesz się źle, pojawi się zawrót głowy lub silna duszność, albo jeśli podczas ćwiczeń wystąpi ból,\n  krwawienie lub skurcze.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Okres płodności",
+      "aliases": [
+        "okres płodności",
+        "dni płodne",
+        "dni największej płodności"
+      ],
+      "glance": "Okres płodności to kilka dni w każdym cyklu, w których stosunek płciowy może doprowadzić do zajścia w ciążę.",
+      "overview": "Okres płodności to krótki fragment cyklu, w którym możliwe jest zajście w ciążę. Istnieje ono z powodu\ndwóch momentów, które nie do końca się pokrywają: komórka jajowa może zostać zapłodniona tylko przez około 12 do 24 godzin\npo uwolnieniu, ale plemniki mogą przetrwać w organizmie przez kilka dni — nawet do około tygodnia —\nczekając na komórkę jajową.\n\nW sumie oznacza to, że okno otwiera się na kilka dni przed owulacją i zamyka się około jednego dnia\npo niej. W praktyce największą płodność osiąga się w ciągu 2–3 dni poprzedzających owulację oraz w\nsamym dniu owulacji, ponieważ plemniki mogą już tam znajdować się, gdy pojawi się komórka jajowa.\n\nPonieważ owulacja może się przesuwać w poszczególnych cyklach, okno płodności również ulega zmianie. Dlatego\nzwykle traktuje się je jako przedział dni, a nie pojedynczą datę, i dlatego śledzenie objawów w ciągu\nkilku cykli jest bardziej wiarygodne niż poleganie na jednej kalkulacji kalendarzowej.",
+      "deep": "Dokładne dni różnią się w zależności od osoby i miesiąca, dlatego okres ten najlepiej oszacować\nna podstawie sygnałów wysyłanych przez organizm, a nie według stałego wzoru. Zmiany w śluzie szyjki macicy wskazują na\nrozpoczęcie tego okresu wraz ze zbliżaniem się owulacji, a wzrost temperatury spoczynkowej organizmu potwierdza — już\npo fakcie — że owulacja minęła, a ten okres się zakończył. Zestawy do przewidywania owulacji działają\no krok wcześniej, wykrywając skok hormonu luteinizującego (LH), który następuje na krótko przed\nuwolnieniem komórki jajowej.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Okresy początkowe (pierwszy okres)",
+      "aliases": [
+        "pierwsza lekcja",
+        "pierwsza miesiączka",
+        "okresy początkowe",
+        "pojawienie się miesiączki"
+      ],
+      "glance": "Pierwsza miesiączka pojawia się zazwyczaj w wieku około 12 lat — za normalny uważa się przedział wiekowy od około 8 do 17 lat.",
+      "overview": "Pierwsza miesiączka — zwana czasem menarche — to moment, w którym po raz pierwszy rozpoczyna się cykl menstruacyjny.\nU większości dziewcząt pojawia się ona około 12. roku życia, ale za normalny uważa się przedział wiekowy od około 8 do 17 lat. Często pojawia się\nmniej więcej dwa lata po tym, jak piersi zaczynają się rozwijać.\n\nZazwyczaj pojawiają się przed nim pewne oznaki: rosnące owłosienie pod pachami i w okolicy łonowej oraz niewielka przezroczysta lub\nbiała wydzielina w poprzedzających miesiącach. Świadomość tych zmian może sprawić, że pierwsza miesiączka nie będzie wydawała się tak\nnagła.\n\nNa początku miesiączki są często nieregularne — przerwy między nimi mogą być długie lub krótkie, a organizmowi może zająć\nkilka miesięcy, a nawet kilka lat, zanim ustabilizuje się w bardziej regularnym rytmie. Gdy to nastąpi,\nmiesiączki pojawiają się zazwyczaj co około 23–35 dni i trwają około 2–7 dni. Wczesna\nnieregularność jest zjawiskiem normalnym i nie ma powodu do niepokoju.",
+      "deep": null,
+      "when_to_see_doctor": "- Należy zgłosić się do lekarza pierwszego kontaktu, jeśli miesiączka **nie pojawiła się do 15. roku życia** lub do **13. roku życia, jeśli nie występują inne oznaki\n  dojrzewania** (takie jak rozwój piersi czy owłosienie na ciele). Ma to na celu jedynie sprawdzenie, czy wszystko przebiega zgodnie z\n  oczekiwaniami — zazwyczaj wszystko jest w porządku.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Kwas foliowy i witaminy w ciąży",
+      "aliases": [
+        "kwas foliowy",
+        "kwas foliowy",
+        "witamina D w ciąży",
+        "witaminy dla kobiet w ciąży",
+        "suplementy w czasie ciąży"
+      ],
+      "glance": "Kwas foliowy przed ciążą i we wczesnym okresie ciąży pomaga chronić dziecko — a do tego codzienna dawka witaminy D.",
+      "overview": "W czasie ciąży naprawdę ważne są dwa suplementy, a Amerykańskie Towarzystwo Kobiet w Ciąży (NHS) zaleca stosowanie obu.\n\n**Kwas foliowy** jest najważniejszy. Codzienne przyjmowanie 400 mikrogramów suplementu — najlepiej już przed\npoczęciem (około trzech miesięcy wcześniej) i do końca pierwszego trymestru, czyli do 12. tygodnia — pomaga\nchronić dziecko przed wadami cewy nerwowej, takimi jak rozszczep kręgosłupa. Ponieważ działa on już na tak wczesnym etapie, jest to\njedna z niewielu rzeczy, które warto zacząć stosować *przed* ciążą, jeśli starasz się o dziecko.\n\n**Witamina D** jest drugim ważnym suplementem: zaleca się codzienne przyjmowanie 10 mikrogramów przez cały okres ciąży\noraz podczas karmienia piersią, aby wspierać rozwój kości i ogólny rozwój dziecka.\n\nPoza tymi dwoma składnikami zdrowa, zróżnicowana dieta zaspokaja większość potrzeb — nie potrzebujesz wielu dodatkowych suplementów.\nNależy unikać **witaminy A** (retinolu): nie przyjmuj suplementów ją zawierających i unikaj\nwątrob, ponieważ nadmiar witaminy A może zaszkodzić dziecku.",
+      "deep": null,
+      "when_to_see_doctor": "- **Lekarz rodzinny, położna lub farmaceuta** mogą pomóc w wyborze odpowiednich suplementów, a niektórym osobom\n  zaleca się przyjmowanie **wyższej dawki kwasu foliowego** (na przykład w przypadku cukrzycy, wysokiego BMIu, niektórych\n  leków lub w przypadku poprzedniej ciąży, w której wystąpiła wada cewy nerwowej) — dlatego warto o to zapytać,\n  szczególnie przed ciążą lub we wczesnym jej okresie.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Faza folikularna",
+      "aliases": [
+        "faza folikularna",
+        "pierwsza połowa cyklu"
+      ],
+      "glance": "Faza folikularna to pierwsza połowa cyklu, podczas której dojrzewa komórka jajowa, a błona śluzowa macicy pogrubia się.",
+      "overview": "Faza folikularna to pierwsza część cyklu. Rozpoczyna się pierwszego dnia miesiączki i\ntrwa do momentu owulacji. Jej nazwa pochodzi od pęcherzyka — małego, wypełnionego płynem woreczka w jajniku,\nw którym w tym okresie znajduje się i rozwija się komórka jajowa.\n\nW trakcie tej fazy wzrasta poziom hormonu estrogenu. Ten wzrost estrogenu ma dwa główne skutki: pomaga\nw dojrzewaniu pęcherzyka w jajniku oraz powoduje pogrubienie błony śluzowej macicy, przygotowując organizm\nna ewentualną ciążę, która może nastąpić w dalszej części cyklu.\n\nPonieważ poziom estrogenu rośnie, niektóre osoby odczuwają większą energię lub zauważają zmiany w śluzie szyjkowym w miarę\nzbliżania się dni płodnych. Każda osoba doświadcza tego inaczej i nie ma potrzeby „zarządzania” tymi zmianami — to\npo prostu pierwsza połowa cyklu, która spełnia swoją rolę.",
+      "deep": "Długość fazy folikularnej może się różnić w poszczególnych cyklach, co jest jednym z powodów, dla których całe cykle\nróżnią się u poszczególnych osób i z miesiąca na miesiąc. Kończy się ona, gdy wzrost poziomu estrogenu przyczynia się do wywołania\nuwolnienia komórki jajowej (owulacji). Ponieważ jej ostatnie dni poprzedzają owulację, właśnie wtedy otwiera się\nokno płodności — dlatego koniec fazy folikularnej ma znaczenie dla każdej osoby monitorującej swoją płodność.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Produkty spożywcze, których należy unikać w czasie ciąży",
+      "aliases": [
+        "produkty spożywcze, których należy unikać w czasie ciąży",
+        "dieta w ciąży",
+        "czego nie należy jeść w ciąży",
+        "kofeina w czasie ciąży",
+        "listeria"
+      ],
+      "glance": "Większość produktów spożywczych można bezpiecznie spożywać w czasie ciąży — warto jednak unikać kilku z nich, a także ograniczyć spożycie kofeiny.",
+      "overview": "Dobrą wiadomością jest to, że większość produktów spożywczych można bez obaw jeść w ciąży — tylko niewielką ich liczbę warto\nunikać lub spożywać z ostrożnością, głównie po to, by uniknąć zakażeń, takich jak listerioza, lub nadmiernego spożycia niektórych\nwitamin. Znajomość tej krótkiej listy pozwala zrelaksować się w kwestii pozostałych produktów.\n\nNHS zaleca zachowanie ostrożności w przypadku:\n\n- **Niektórych serów** — miękkich serów dojrzewających pod wpływem pleśni, takich jak brie i camembert, oraz miękkich serów pleśniowych,\n  chyba że są podgrzane do momentu, aż zaczną parować; a także wszelkich produktów wytworzonych z mleka **niepasteryzowanego**.\n- **Surowego lub niedogotowanego mięsa**, wędlin, **pasztetu** oraz **wątroby** (która zawiera bardzo duże ilości\n  witaminy A).\n- **Surowe lub płynne jajka**, chyba że posiadają znak British Lion.\n- **Niektóre ryby** — należy unikać rekina, miecznika i marlina, ograniczyć spożycie tuńczyka oraz spożywać nie więcej niż dwie porcje\n  tłustych ryb tygodniowo.\n- **Kofeina** — należy ograniczyć jej spożycie do około 200 mg dziennie (mniej więcej dwie filiżanki kawy rozpuszczalnej), uwzględniając również herbatę,\n  colę, napoje energetyczne i czekoladę.",
+      "deep": null,
+      "when_to_see_doctor": "- To są ogólne wskazówki, a nie ścisła dieta — jeśli masz pytania dotyczące tego, co jest dla Ciebie bezpieczne, lub\n  masz konkretne potrzeby żywieniowe, możesz to omówić ze swoją **położną**.\n- Jeśli zjadłaś coś z listy „produktów, których należy unikać”, staraj się nie panikować; powiedz o tym swojej położnej, jeśli\n  martwisz się lub źle się czujesz.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Hormon folikulotropowy (FSH)",
+      "aliases": [
+        "fsh",
+        "hormon folikulotropowy",
+        "hormon folikulotropowy"
+      ],
+      "glance": "FSH jest hormonem mózgowym, który na początku każdego cyklu stymuluje wzrost pęcherzyków w jajniku.",
+      "overview": "FSH — hormon folikulotropowy — jest jednym z hormonów przekaźnikowych, które uruchamiają cykl.\nJest wytwarzany przez niewielki gruczoł w mózgu (przysadkę mózgową) i, jak sama nazwa wskazuje, stymuluje\npęcherzyki: maleńkie, wypełnione płynem woreczki w jajniku, z których każdy zawiera komórkę jajową.\n\nNa początku cyklu hormon FSH pobudza grupę tych pęcherzyków do wzrostu. W miarę rozwoju pęcherzyka\nuwalnia on coraz więcej estrogenu, który z kolei powoduje pogrubienie błony śluzowej macicy, przygotowując ją\nna ewentualną ciążę. Zazwyczaj jeden pęcherzyk staje się pęcherzykiem dominującym, który rozwija się aż do\nowulacji.\n\nFSH wzrasta i opada w ramach normalnych wahań cyklu. Nie odczuwasz bezpośrednio działania hormonu FSHu\n— działa on cicho w tle, przygotowując bardziej widoczne zmiany fazy folikularnej.",
+      "deep": "FSH działa w parze z hormonem luteinizującym (LH); oba są uwalniane przez przysadkę mózgową w\nmózgu i wspólnie regulują cykl jajników. Hormon FSH kieruje pierwszą połową cyklu, powodując wzrost\npęcherzyków, podczas gdy późniejszy wzrost stężenia hormonu LH oznacza uwolnienie komórki jajowej w połowie cyklu. Ta współdziałająca relacja jest również\npowodem, dla którego w terapiach wspomagających płodność stosuje się leki oparte na FSH: podanie dodatkowego FSH stymuluje dojrzewanie kilku pęcherzyków\njednocześnie, zamiast jednego, jaki zwykle powstaje w naturalnym cyklu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Cukrzyca ciążowa",
+      "aliases": [
+        "cukrzyca ciążowa",
+        "cukrzyca ciążowa",
+        "wysoki poziom cukru we krwi w ciąży"
+      ],
+      "glance": "Cukrzyca ciążowa to podwyższony poziom cukru we krwi w czasie ciąży — zazwyczaj wykrywana jest podczas badań przesiewowych i często ustępuje po porodzie.",
+      "overview": "Cukrzyca ciążowa to podwyższony poziom cukru we krwi (glukozy), który pojawia się w czasie ciąży, gdy organizm\nnie jest w stanie w pełni zaspokoić zwiększonego zapotrzebowania na insulinę. U większości kobiet ustępuje ona po\nurodzeniu dziecka.\n\nZazwyczaj nie powoduje **żadnych objawów**, dlatego wykrywa się ją za pomocą badania przesiewowego przeprowadzanego w czasie ciąży\n(test tolerancji glukozy, często przeprowadzany między 24. a 28. tygodniem), zwłaszcza jeśli występują czynniki zwiększające\nryzyko jej wystąpienia — takie jak nadwaga, cukrzyca w rodzinie, urodzenie wcześniej dużego dziecka lub przynależność do niektórych\ngrup etnicznych.\n\nChoroba ta jest łatwa do opanowania. Utrzymywanie poziomu cukru we krwi w zdrowym zakresie — poprzez dietę, aktywność fizyczną, a czasem\nleki, wszystko pod nadzorem zespołu opieki — zmniejsza ryzyko powikłań zarówno dla Ciebie, jak i dla Twojego dziecka,\ndlatego warto mieć to pod kontrolą.",
+      "deep": null,
+      "when_to_see_doctor": "- Skorzystaj z **badania przesiewowego**, jeśli zostanie Ci ono zaproponowane — ponieważ cukrzyca ciążowa zazwyczaj nie daje żadnych\n  objawów, wykrywa się ją właśnie dzięki badaniom.\n- Nie czekaj na badanie, jeśli zauważysz możliwe objawy wysokiego poziomu cukru we krwi — silne pragnienie,\n  częste oddawanie moczu, suchość w ustach lub zmęczenie — poinformuj o nich swoją położną lub lekarza.",
+      "red_flags": null
+    },
+    "group-b-strep": {
+      "title": "Paciorkowce grupy B (GBS)",
+      "aliases": [
+        "paciorkowce grupy B",
+        "GBS",
+        "paciorkowce grupy B",
+        "Streptococcus grupy B w ciąży"
+      ],
+      "glance": "Paciorkowce grupy B to powszechnie występujące, zazwyczaj nieszkodliwe bakterie — istnieje niewielkie ryzyko dla dziecka podczas porodu, ale można mu zapobiec.",
+      "overview": "Paciorkowce grupy B (GBS) to bardzo powszechne bakterie, które występują u wielu osób, zazwyczaj w pochwie lub\nw okolicy odbytu, bez ich wiedzy i nie powodując żadnych dolegliwości. Nie jest to infekcja przenoszona drogą płciową,\na obecność tych bakterii jest zjawiskiem normalnym.\n\nW czasie ciąży ma to znaczenie tylko dlatego, że istnieje **niewielkie prawdopodobieństwo**, że bakteria ta może zostać przeniesiona na dziecko w\nokresie porodu i, w rzadkich przypadkach, spowodować u niego dolegliwości — zdarza się to w około 1 na 1 750 ciąż. Często\nwykrywa się ją przypadkowo, na przykład podczas badania moczu lub wymazu z pochwy wykonanego z innego powodu (NHS\na nie przeprowadza rutynowych badań przesiewowych u wszystkich kobiet pod tym kątem).\n\nPocieszające jest to, że sytuację tę można łatwo opanować: jeśli wiadomo o obecności GBS, podanie **antybiotyków w\nkroplówce podczas porodu** znacznie zmniejsza ryzyko zachorowania dziecka.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli dowiesz się, że jesteś nosicielką paciorkowców grupy B — obecnie lub w trakcie poprzedniej ciąży — **poinformuj o tym swoją położną lub\n  zespół położniczy**, aby można było zaplanować podanie antybiotyków podczas porodu. To prosty krok, który ma\n  naprawdę duże znaczenie.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Zgaga i niestrawność w ciąży",
+      "aliases": [
+        "zgaga w ciąży",
+        "niestrawność w ciąży",
+        "refluks żołądkowy w ciąży",
+        "refluks"
+      ],
+      "glance": "Zgaga jest bardzo częstym objawem w czasie ciąży — zazwyczaj jest nieszkodliwa, a często można ją złagodzić dzięki niewielkim zmianom w codziennym trybie życia.",
+      "overview": "Zgaga i niestrawność — uczucie pieczenia lub dyskomfortu w klatce piersiowej, często pojawiające się po posiłku — są\nbardzo częste w czasie ciąży. Wynika to z działania hormonów ciążowych, które rozluźniają mięsień u góry\nżołądka, a w późniejszym okresie — z nacisku rosnącego dziecka na górną część żołądka. Jest to nieprzyjemne, ale nieszkodliwe.\n\nCzęsto pomagają drobne zmiany: spożywanie częstszych, mniejszych posiłków zamiast dużych, siedzenie w pozycji wyprostowanej podczas\njedzenia i przez chwilę po nim, ograniczenie pikantnych, tłustych lub zawierających kofeinę potraw oraz unikanie jedzenia\ntuż przed snem. Niektórym osobom wygodniej jest spać w pozycji lekko podpartej.\n\nJeśli to nie wystarczy, **farmaceuta** może zaproponować leki zobojętniające kwas, które można bezpiecznie stosować w\nczasie ciąży — warto się do niego zwrócić, zanim dolegliwości staną się bardziej uciążliwe.",
+      "deep": null,
+      "when_to_see_doctor": "- Skontaktuj się ze swoim **lekarzem rodzinnym lub położną**, jeśli proste zmiany w trybie życia i leki dostępne w aptece nie przynoszą ulgi lub jeśli odczuwasz\n  **trudności z połykaniem**, ciągle zwracasz pokarm, tracisz na wadze bez zamiaru lub odczuwasz ból\n  brzucha — warto to zbadać, zamiast przypisywać te objawy zwykłej zgadze.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Obfite miesiączki",
+      "aliases": [
+        "obfite miesiączki",
+        "krwotok miesiączkowy",
+        "obfite krwawienia miesiączkowe",
+        "powódź",
+        "obfite krwawienie",
+        "skrzepy"
+      ],
+      "glance": "Obfite miesiączki oznaczają utratę dużej ilości krwi w każdym cyklu — to zjawisko powszechne, ale warto to sprawdzić, jeśli dotyczy to właśnie Ciebie.",
+      "overview": "Obfite miesiączki — termin medyczny to krwotok miesiączkowy — oznaczają utratę dużej ilości krwi podczas miesiączki.\nDla niektórych osób obfite krwawienie jest po prostu normą, ale jeśli zakłóca to Twoje życie lub powoduje\nwyczerpanie, warto to zbadać.\n\nOto kilka oznak wskazujących na obfite miesiączki: konieczność zmiany podpaski lub tamponu co 1–2 godziny,\njednoczesne stosowanie dwóch rodzajów produktów higienicznych (np. tamponu i podpaski), przesiąkanie krwi na\nubranie lub pościel, wydalanie skrzepów krwi większych niż około 2,5 cm (mniej więcej wielkości monety 10 pensów) lub miesiączki\ntrwające dłużej niż 7 dni.\n\nUtrata dużej ilości krwi miesiąc po miesiącu może powodować zmęczenie lub duszności, ponieważ może prowadzić\ndo niedoboru żelaza (niedokrwistości). Istnieje wiele możliwych przyczyn — od mięśniaków macicy lub schorzeń takich jak\nendometrioza, adenomioza czy zespół nadmiernego krwawienia z macicy (PCOS), po niektóre leki — i często nie stwierdza się żadnej poważnej przyczyny. Tak czy\ninaczej, w przypadku obfitych miesiączek zazwyczaj można znaleźć rozwiązanie, więc nie jest to coś, z czym po prostu trzeba się pogodzić.",
+      "deep": null,
+      "when_to_see_doctor": "Zgłoś się do lekarza pierwszego kontaktu, jeśli:\n\n- obfite miesiączki utrudniają Ci codzienne funkcjonowanie\n- występuje u Ciebie obfite krwawienie trwające wiele godzin lub miesiączki trwają bardzo długo\n- odczuwasz również silny ból menstruacyjny lub ból podczas stosunku, oddawania moczu lub wypróżniania\n- występuje u Ciebie krwawienie między miesiączkami lub po stosunku\n- często odczuwasz zmęczenie lub duszności (może to być objawem niedoboru żelaza)\n\nLekarz rodzinny może ustalić przyczynę i omówić z Tobą, co może pomóc.",
+      "red_flags": "- Zasięgnij **pilnej** pomocy medycznej — zadzwoń pod numer **NHS111** lub **999 / udaj się na pogotowie**, jeśli stan jest poważny — jeśli\n  **krwawienie jest tak obfite, że przez kilka godzin z rzędu przemaczasz jedną lub więcej podpasek na godzinę** lub\n  odczuwasz **oszołomienie, zawroty głowy lub duszności**. Mogą to być objawy nadmiernej utraty krwi."
+    },
+    "lh": {
+      "title": "Hormon luteinizujący (LH)",
+      "aliases": [
+        "lh",
+        "hormon luteinizujący",
+        "hormon luteinizujący"
+      ],
+      "glance": "LH jest to hormon mózgowy, którego wzrost w połowie cyklu powoduje, że jajnik uwalnia komórkę jajową.",
+      "overview": "LH — hormon luteinizujący — jest czynnikiem wyzwalającym owulację. Podobnie jak hormon FSH, jest wytwarzany przez\nmały gruczoł w mózgu (przysadkę mózgową) i sygnalizuje jajnikowi, kiedy ma uwolnić komórkę jajową.\n\nPrzez większość pierwszej połowy cyklu poziom LH pozostaje niski. Następnie, mniej więcej w połowie cyklu,\ngwałtownie wzrasta, co nazywa się skokiem LH. Ten skok jest sygnałem, który powoduje, że jajnik\nuwalnia komórkę jajową — czyli dochodzi do owulacji — zazwyczaj dzień lub dwa później.\n\nSkok ten jest krótkim, pojawiającym się w odpowiednim momencie sygnałem, a nie czymś, co można by odczuć fizycznie. Ponieważ\nwystępuje on tuż przed uwolnieniem komórki jajowej, moment wzrostu poziomu LHu jest wiarygodnym wskaźnikiem\nnajbardziej płodnej fazy cyklu.",
+      "deep": "LH działa wspólnie z FSH, hormonem odpowiedzialnym za wzrost pęcherzyków we wczesnej fazie cyklu. Podczas gdy FSH\nodpowiada za narastanie stężenia, skok LH stanowi punkt zwrotny: stężenie zaczyna rosnąć mniej więcej półtora dnia\nprzed uwolnieniem komórki jajowej i osiąga szczyt około pół dnia przed tym wydarzeniem. Po tym wzroście cykl\nprzechodzi w drugą połowę. To ścisłe zsynchronizowanie czasowe sprawia, że LH jest tak przydatnym wskaźnikiem dla każdej osoby śledzącej\nowulację oraz ma kluczowe znaczenie dla planowania zabiegów wspomagających płodność.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Faza lutealna",
+      "aliases": [
+        "faza lutealna",
+        "druga połowa cyklu"
+      ],
+      "glance": "Faza lutealna to druga połowa cyklu, następująca po owulacji, w której dochodzi do wzrostu stężenia progesteronu.",
+      "overview": "Faza lutealna to część cyklu następująca po owulacji i trwająca do momentu rozpoczęcia kolejnej miesiączki.\nSwoją nazwę zawdzięcza ciałku żółtemu — niewielkiej strukturze, którą jajnik tworzy z pustego\npęcherzyka po uwolnieniu komórki jajowej.\n\nW tej fazie wzrasta poziom hormonu progesteronu. Jego zadaniem jest utrzymanie błony śluzowej macicy\nw stanie grubym i stabilnym, tak aby zapłodniona komórka jajowa miała gdzie się zagnieździć. Estrogen również\nodgrywa tu rolę, działając wspólnie z progesteronem.\n\nJeśli nie dojdzie do ciąży, ciałko żółte ulega rozpadowi, poziom progesteronu i estrogenu spada, a\nbłona śluzowa nie jest już utrzymywana — co powoduje nadejście kolejnej miesiączki i rozpoczęcie nowego cyklu. Jest to\nrównież okres, w którym niektóre osoby zauważają przedmiesiączkowe zmiany nastroju, snu lub samopoczucia fizycznego.",
+      "deep": "Faza lutealna ma zazwyczaj nieco bardziej stałą długość niż pierwsza połowa cyklu i często\ntrwa około dwóch tygodni, choć występują normalne różnice między poszczególnymi\nosobami. Ponieważ jej koniec wiąże się ze spadkiem poziomu progesteronu, pojawienie się miesiączki jest w rzeczywistości\nwidocznym sygnałem, że poziom hormonów spadł. Śledzenie samopoczucia w trakcie fazy lutealnej może\npomóc w odróżnieniu tego, co jest dla Ciebie znanym wzorcem, od tego, co jest nowe lub warte omówienia z\nlekarzem.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopauza",
+      "aliases": [
+        "menopauza",
+        "zmiana"
+      ],
+      "glance": "Menopauza to okres, w którym miesiączki ustają na stałe — jest to naturalny etap, który zwykle następuje między 45. a 55. rokiem życia.",
+      "overview": "Menopauza to moment, w którym miesiączki ustają na stałe. Ponieważ miesiączki mogą początkowo pojawiać się i znikać przez\npewien czas, za moment osiągnięcia menopauzy uznaje się okres 12 kolejnych miesięcy bez miesiączki. Zazwyczaj\nwystępuje ona między 45. a 55. rokiem życia, choć może nastąpić wcześniej lub później.\n\nJest to naturalny element procesu starzenia się, a nie choroba. Następuje w wyniku zmniejszania się aktywności jajników i spadku poziomu\nestrogenu — kluczowego hormonu cyklu miesiączkowego. Ta zmiana hormonalna jest przyczyną zmian, które wiele\nosób zauważa: uderzeń gorąca i nocnych potów, zmian w przebiegu miesiączek w okresie poprzedzającym menopauzę, trudności z zasypianiem,\nwahania nastroju lub niepokoju, mgły umysłowej, suchości pochwy oraz bólów.\n\nDoświadczenia są bardzo zróżnicowane — niektórym kobietom przechodzi to bez problemu, dla innych jest to trudny okres, a objawy mogą utrzymywać się\nprzez kilka lat. Żadna z tych sytuacji nie oznacza, że coś jest z tobą nie tak. Istnieje wsparcie i różne możliwości, a\nzrozumienie tego, co się dzieje, jest dobrym pierwszym krokiem.",
+      "deep": "Lata zmian poprzedzające menopauzę nazywane są perimenopauzą; sama menopauza to pojedynczy\nmoment w czasie (okres 12 miesięcy bez miesiączki), a okres po niej nazywany jest czasem\npostmenopauzą. Ponieważ estrogen w dłuższej perspektywie wpływa również na kości i serce, lekarze zwracają\nuwagę na te kwestie obok codziennych objawów. Szereg metod — od zmiany stylu życia po\nterapie niehormonalne i hormonalne — może złagodzić objawy, a to, co jest odpowiednie, zależy od stanu zdrowia,\nhistorii medycznej i preferencji, co należy omówić z lekarzem.",
+      "when_to_see_doctor": "- Udaj się do lekarza pierwszego kontaktu, jeśli objawy menopauzy sprawiają Ci kłopoty lub wpływają na codzienne życie i chcesz omówić\n  dostępne opcje.\n- **Zawsze** udaj się do lekarza pierwszego kontaktu, jeśli wystąpi **jakiekolwiek krwawienie z pochwy po 12 miesiącach braku miesiączki**\n  (krwawienie po menopauzie). Często nie jest to nic poważnego, ale zawsze należy to zbadać.\n- Warto również zgłosić się do lekarza, jeśli krwawienie jest obfitsze niż wcześniej lub jeśli Twoje miesiączki\n  zmieniają się w sposób, który Cię niepokoi.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Cykl menstruacyjny",
+      "aliases": [
+        "cykl",
+        "cykl miesięczny"
+      ],
+      "glance": "Cykl menstruacyjny to comiesięczny rytm, zgodnie z którym funkcjonuje organizm, przygotowując się na ewentualną ciążę.",
+      "overview": "Cykl menstruacyjny liczy się od pierwszego dnia miesiączki — to dzień 1 — aż do dnia\npoprzedzającego rozpoczęcie kolejnej miesiączki. Jest on regulowany przez hormony, których poziom wzrasta i opada według powtarzającego się schematu\nkażdego miesiąca.\n\nCykl często trwa około 28 dni, ale to tylko średnia. Za\nnormalny uważa się cykl trwający od około 21 do 35 dni, a jego długość może się nieco różnić z miesiąca na miesiąc. Poznanie własnego rytmu jest\nbardziej przydatne niż porównywanie go z jakąś liczbą.\n\nW trakcie cyklu organizm przechodzi przez kilka etapów: miesiączkę, okres poprzedzający uwolnienie\nkomórki jajowej, samo uwolnienie (owulację) oraz okres po owulacji. Każdy etap jest regulowany przez\nhormony, głównie estrogen i progesteron.",
+      "deep": "Cały cykl to dialog między mózgiem a jajnikami, w którym pośredniczą hormony. W\npierwszej połowie poziom estrogenu wzrasta w miarę dojrzewania w jajniku pęcherzyka zawierającego komórkę jajową, a błona śluzowa\nmacicy pogrubia się. Mniej więcej w połowie cyklu dochodzi do uwolnienia komórki jajowej. W drugiej połowie\nprogesteron pomaga utrzymać błonę śluzową w stanie gotowości na wypadek pojawienia się zapłodnionej komórki jajowej.\n\nJeśli nie dojdzie do ciąży, poziom estrogenu i progesteronu spada do niskiego poziomu, błona śluzowa zostaje wydalona w postaci\nmiesiączki, a cykl zaczyna się od nowa. Ponieważ hormony te oddziałują na wiele układów organizmu, możesz zauważać\nniewielkie codzienne zmiany w ciągu miesiąca — jest to normalny rytm cyklu, a nie coś, co\nnależy „naprawiać”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Faza menstruacyjna (miesiączka)",
+      "aliases": [
+        "okres",
+        "miesiączka",
+        "faza menstruacyjna",
+        "krwawienie"
+      ],
+      "glance": "Miesiączka to kilka dni krwawienia, które rozpoczynają każdy cykl, w wyniku złuszczania się błony śluzowej macicy.",
+      "overview": "Faza menstruacyjna to miesiączka — dni, w których występuje krwawienie. Rozpoczyna się ona w 1. dniu cyklu,\ngdy poziom estrogenu i progesteronu spadnie na tyle, że błona śluzowa, która nagromadziła się\nw macicy, nie jest już utrzymywana i ulega złuszczeniu, opuszczając organizm przez\npochwę.\n\nMiesiączka trwa zazwyczaj od 2 do 7 dni, przy czym typowy czas trwania to około 5 dni. Krwawienie jest często\nnajsilniejsze w ciągu pierwszych kilku dni, a potem staje się lżejsze. Miesiączki zwykle pojawiają się około 12. roku życia,\nchociaż wcześniejszy lub późniejszy początek jest również normalny.\n\nTo, co jest „normalne”, różni się znacznie w zależności od osoby. Śledzenie własnych cykli menstruacyjnych pomaga zauważyć,\nco jest dla Ciebie typowe, co ma znacznie większe znaczenie niż jakakolwiek średnia.",
+      "deep": "Krwawienie menstruacyjne polega na złuszczaniu się błony śluzowej macicy (endometrium) po cyklu,\nw którym nie doszło do ciąży. Oznacza ono zarówno koniec jednego cyklu, jak i początek kolejnego,\ndlatego pierwszy dzień miesiączki uznaje się za pierwszy dzień całego cyklu. Gdy miesiączka dobiega końca,\npoziom estrogenu znów zaczyna wzrastać, a organizm rozpoczyna odbudowę błony śluzowej na potrzeby kolejnego cyklu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Poronienie",
+      "aliases": [
+        "poronienie",
+        "poronienie",
+        "wczesna utrata ciąży",
+        "przerwanie ciąży"
+      ],
+      "glance": "Poronienie to utrata ciąży przed 24. tygodniem — jest to częste zjawisko i prawie nigdy nie wynika z winy kobiety.",
+      "overview": "Poronienie to utrata ciąży w ciągu pierwszych 24 tygodni. Zdarza się to częściej, niż wiele osób\nsobie wyobraża, a jedną z najważniejszych rzeczy, o których należy wiedzieć, jest to, że prawie nigdy nie jest to spowodowane czymś,\nco zrobiłaś lub czego nie zrobiłaś — zazwyczaj dzieje się to z powodu problemów z przebiegiem ciąży,\nna które nikt nie ma wpływu.\n\nNajczęstszymi objawami są krwawienie z pochwy oraz skurcze lub ból w dolnej części brzucha. Krwawienie we\nwczesnej ciąży nie zawsze oznacza, że dochodzi do poronienia — wiele kobiet ma niewielkie krwawienia, a następnie\ndonosi ciążę do końca — jednak zawsze należy to zbadać.\n\nNiezależnie od tego, jak dochodzi do utraty ciąży, towarzyszące jej uczucia są prawdziwe i uzasadnione, a żal jest normalną\nreakcją. Nie musisz przechodzić przez to sama — możesz liczyć na wsparcie ze strony położnej lub lekarza pierwszego kontaktu, a także\nspecjalistycznych organizacji charytatywnych zajmujących się pomocą w przypadku utraty ciąży.",
+      "deep": null,
+      "when_to_see_doctor": "- Skontaktuj się ze swoim lekarzem rodzinnym, położną lub poradnią wczesnej ciąży (lub zadzwoń pod numer NHS 111), jeśli wystąpi u Ciebie **krwawienie z pochwy\n  lub plamienie w czasie ciąży**, nawet jeśli jest ono niewielkie i towarzyszy mu niewielki ból lub nie ma go wcale — aby można było to\n  zbadac.\n- Zapytaj o najbliższą **poradnię wczesnej ciąży**, która została utworzona właśnie w tym celu.",
+      "red_flags": "- Zadzwoń pod numer **999 lub udaj się na oddział ratunkowy**, jeśli w czasie ciąży odczuwasz **silny ból brzucha, ból w okolicy czubka\n  ramienia, masz obfite krwawienie lub czujesz, że tracisz przytomność lub czujesz się bardzo źle**. Mogą to być objawy poważnego\n  problemu, takiego jak ciąża pozamaciczna, wymagającego natychmiastowej pomocy medycznej."
+    },
+    "morning-sickness": {
+      "title": "Poranne mdłości",
+      "aliases": [
+        "mdłości poranne",
+        "mdłości w ciąży",
+        "mdłości ciążowe",
+        "wymioty w ciąży",
+        "hiperemesis",
+        "hiperemesis gravidarum"
+      ],
+      "glance": "Złe samopoczucie lub mdłości są bardzo częstym zjawiskiem we wczesnej ciąży i zazwyczaj ustępują około 16.–20. tygodnia.",
+      "overview": "Złe samopoczucie lub wymioty są bardzo częste we wczesnej ciąży. Pomimo nazwy „poranne mdłości”,\nmogą one wystąpić o każdej porze dnia i nocy. U większości kobiet objawy te pojawiają się w pierwszych tygodniach ciąży i\nustępują mniej więcej między 16. a 20. tygodniem.\n\nJest to nieprzyjemne, a u niektórych osób naprawdę wpływa na codzienne życie — jednak zwykłe poranne mdłości\nnie stanowią żadnego zwiększonego ryzyka dla dziecka. Częste spożywanie niewielkich ilości pokarmu oraz znalezienie tego, co pomaga, może\nuczynić ten stan bardziej znośnym; położna, lekarz rodzinny lub farmaceuta mogą zaproponować bezpieczne rozwiązania, jeśli zmagasz się z tym problemem.\n\nU niewielkiej liczby osób mdłości stają się poważne (nazywa się to hiperemesis gravidarum),\nco wiąże się z realnym ryzykiem odwodnienia. W takim przypadku konieczna jest pomoc medyczna — zapoznaj się z poniższymi objawami.",
+      "deep": null,
+      "when_to_see_doctor": "Skontaktuj się ze swoją położną, lekarzem rodzinnym lub zadzwoń pod numer NHS 111, jeśli:\n\n- nie jesteś w stanie utrzymać żadnego pokarmu ani napoju w żołądku przez 24 godziny\n- masz bardzo ciemny mocz lub nie oddajesz moczu przez ponad 8 godzin\n- czujesz się bardzo osłabiona, masz zawroty głowy lub mdłości po wstaniu\n- odczuwasz ból brzucha, masz wysoką temperaturę lub wymiotujesz krwią\n- tracisz na wadze",
+      "red_flags": "- Jeśli nie jesteś w stanie zatrzymać płynów w żołądku, a mocz jest bardzo ciemny lub w ogóle go nie oddajesz, może to oznaczać, że dochodzi do odwodnienia\n  (ciężkie mdłości ciążowe) — **skontaktuj się z położną, lekarzem rodzinnym lub zadzwoń pod numer NHS 111 jeszcze tego samego dnia**, ponieważ może być\n  konieczne leczenie, aby zapobiec pogorszeniu się stanu."
+    },
+    "ovulation": {
+      "title": "Owulacja",
+      "aliases": [
+        "owulacja",
+        "wydalenie komórki jajowej",
+        "okres płodności"
+      ],
+      "glance": "Owulacja to moment, w którym jajnik uwalnia komórkę jajową — jest to najbardziej płodny moment cyklu.",
+      "overview": "Owulacja to moment, w którym jajnik uwalnia dojrzałą komórkę jajową. Jest to punkt zwrotny cyklu:\npierwsza połowa prowadzi do niej, a druga następuje po niej.\n\nW cyklu trwającym około 28 dni owulacja często występuje około 14. dnia — jednak termin ten bywa zmienny.\nPomocnym sposobem na zrozumienie tego zjawiska jest założenie, że owulacja zwykle ma miejsce gdzieś między 10. a 16. dniem przed\nrozpoczęciem kolejnej miesiączki. Trudno jest dokładnie określić ten dzień.\n\nPo uwolnieniu komórka jajowa może zostać zapłodniona tylko przez około 12 do 24 godzin. Plemniki mogą jednak przetrwać\nw organizmie przez kilka dni, więc „okno płodności” jest szersze niż jeden dzień — obejmuje mniej więcej kilka\ndni poprzedzających owulację oraz sam dzień owulacji.",
+      "deep": "Uwolnienie komórki jajowej jest wywołane krótkim, gwałtownym wzrostem poziomu hormonów mniej więcej w połowie cyklu, następującym po\nnagromadzeniu estrogenu w fazie folikularnej. Ponieważ plemniki mogą przeżyć kilka dni, podczas gdy\nkomórka jajowa żyje krócej niż jeden dzień, największe prawdopodobieństwo zajścia w ciążę występuje w przypadku stosunku płciowego w dniach tuż przed\nowulacją. Czas owulacji może się zmieniać z cyklu na cykl pod wpływem takich czynników, jak stres lub choroba, dlatego\ntrudno jest ją dokładnie przewidzieć, a śledzenie kilku cykli jest bardziej wiarygodne niż jakakolwiek\npojedyncza kalkulacja.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Ból podczas stosunku",
+      "aliases": [
+        "ból podczas stosunku",
+        "bolesny stosunek",
+        "dyspareunia",
+        "ból podczas stosunku",
+        "waginizm"
+      ],
+      "glance": "Ból podczas stosunku jest częstym zjawiskiem, ma wiele możliwych przyczyn i zawsze warto to zbadać — można uzyskać pomoc.",
+      "overview": "Ból podczas stosunku — zwany czasem dyspareunią — występuje częściej, niż wielu osobom się wydaje, i\nnigdy nie jest czymś, z czym po prostu trzeba się pogodzić. Może mieć wiele przyczyn, a ustalenie właściwej jest\nkluczem do złagodzenia tego dolegliwości.\n\nNiektóre przyczyny mają charakter fizyczny. Częstą przyczyną jest suchość pochwy, często związana ze zmianami hormonalnymi w okresie\nmenopauzy lub z niewystarczającym podnieceniem, co może sprawiać, że stosunek staje się bolesny lub nieprzyjemny. Infekcje, takie\njak pleśniawka, również mogą powodować ból. Inną przyczyną jest pochwicę — stan, w którym mięśnie wokół pochwy\nsamoczynnie się napinają przy próbie penetracji, co może sprawiać, że seks jest bolesny lub wydaje się niemożliwy.\nJest to reakcja mimowolna, nie jest to „w twojej głowie” i można to leczyć.\n\nPonieważ przyczyna może być fizyczna, hormonalna lub związana z tym, jak bardzo czujesz się zrelaksowana lub podniecona — a\nczęsto jest to połączenie tych czynników — warto zgłosić się do lekarza, zamiast zgadywać lub uparcie próbować.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli stosunek jest bolesny, zgłoś się do lekarza pierwszego kontaktu lub do poradni zdrowia seksualnego — niezależnie od przyczyny warto to sprawdzić,\n  a w przypadku najczęstszych przyczyn dostępna jest skuteczna pomoc.\n- Poruszenie tego tematu może wydawać się krępujące, ale lekarze często mają do czynienia z takimi przypadkami i są po to, by pomóc, a nie\n  oceniać. Możesz poprosić o wizytę u lekarki, zabrać ze sobą kogoś bliskiego i omówić, co sprawiłoby, że\n  badanie przebiegnie w komfortowych warunkach.\n- Zgłoś się do lekarza w przypadku krwawienia po stosunku, a jeśli ból jest silny lub dodatkowo\n  czujesz się źle, zgłoś się jak najszybciej.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Łagodzenie bólu podczas porodu",
+      "aliases": [
+        "łagodzenie bólu podczas porodu",
+        "zewnątrzoponowy",
+        "gaz i powietrze",
+        "Entonox",
+        "łagodzenie bólu porodowego",
+        "baza danych urodzeń",
+        "TENS"
+      ],
+      "glance": "Istnieje kilka sposobów na złagodzenie bólu porodowego — nie ma tu dobrych ani złych wyborów, więc możesz zachować elastyczność.",
+      "overview": "Poród przebiega inaczej u każdej kobiety, a sposobów radzenia sobie z bólem jest wiele — od prostych\nśrodków zapewniających komfort po rozwiązania medyczne. Znajomość dostępnych opcji z wyprzedzeniem może pomóc Ci poczuć się lepiej\nprzygotowaną.\n\nMożliwości obejmują **aktywność fizyczną i utrzymywanie pozycji pionowej**, techniki oddechowe i relaksacyjne, masaż oraz przebywanie w\n**wodzie** (w wannie lub basenie porodowym), a także **urządzenie TENS**, **gaz i powietrze** (Entonox, który\nwdychasz samodzielnie), **zastrzyki**, takie jak petydyna, oraz **znieczulenie zewnątrzoponowe** (podawane przez anestezjologa,\nktóre bardziej skutecznie uśmierza ból porodowy).\n\nNie ma „najlepszego” wyboru — zależy to od Ciebie, przebiegu porodu i tego, jak będziesz się czuła w tym dniu. Warto\nzapisać swoje preferencje w **planie porodu**, zachowując jednocześnie otwarty umysł: wiele osób odkrywa, że potrzebuje\nwięcej lub mniej środków przeciwbólowych, niż się spodziewały, i to jest całkowicie w porządku.",
+      "deep": null,
+      "when_to_see_doctor": "- Twoja **położna** (a w przypadku znieczulenia zewnątrzoponowego – anestezjolog) omówi z Tobą dostępne opcje i pomoże\n  Ci wybrać to, co najbardziej Ci odpowiada — zarówno w trakcie ciąży, jak i podczas samego porodu. Nie ma potrzeby,\n  aby o wszystkim decydować z wyprzedzeniem.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (zespół policystycznych jajników)",
+      "aliases": [
+        "PCOS",
+        "zespół policystycznych jajników",
+        "zespół policystycznych jajników",
+        "zespół policystycznych jajników"
+      ],
+      "glance": "PCOS jest powszechną zaburzeniem hormonalnym, które może wpływać na miesiączki, owulację, skórę i włosy.",
+      "overview": "PCOS — zespół policystycznych jajników — to powszechna dolegliwość związana z równowagą\nhormonów rozrodczych. Szacuje się, że dotyka ona około 1 na 10 kobiet w wieku rozrodczym, a u wielu\nosób cierpiących na tę dolegliwość nigdy nie zostaje ona zdiagnozowana.\n\nMoże ona objawiać się na różne sposoby i u każdej osoby przebieg jest nieco inny. Do typowych objawów należą:\nnieregularne, rzadkie lub brak miesiączki; podwyższony poziom hormonów zwanych androgenami,\nco może prowadzić do nadmiernego owłosienia na twarzy lub ciele, trądziku lub przerzedzania się włosów na głowie; oraz\njajniki, które nie uwalniają komórki jajowej tak regularnie jak zwykle, co może utrudniać poczęcie.\nCzęsto występują również wahania wagi i ciemniejsze plamy na skórze.\n\nDokładna przyczyna nie jest w pełni poznana i nie ma lekarstwa — jednak objawy można łagodzić, a\nzrozumienie tego, co się dzieje, jest pierwszym krokiem. Zespół policystycznych jajników (PCOS) jest powszechny i można sobie z nim radzić; nie jest to coś, czego\nnależy się wstydzić.",
+      "deep": "Ponieważ zespół nadwagi (PCOS) wiąże się z hormonami organizmu i sposobem, w jaki organizm radzi sobie z insuliną, w\ndłuższej perspektywie wiąże się on również z insulinoopornością oraz większym ryzykiem cukrzycy typu 2, podwyższonym ciśnieniem krwi\ni zmianami poziomu cholesterolu — dlatego lekarze zazwyczaj monitorują te parametry na przestrzeni czasu.\nMniej więcej u połowy osób z zespołem PCOSa może rozwinąć się cukrzyca lub stan przedcukrzycowy przed czterdziestką, dlatego regularne\nkontrole mają duże znaczenie. Diagnozy nie należy stawiać samodzielnie: lekarz analizuje całościowy\nobraz sytuacji — historię choroby i cykle miesiączkowe, czasami wyniki badań krwi na poziom hormonów, a czasami wyniki badania USG\njajników — i wyklucza inne przyczyny przed postawieniPCOSu.",
+      "when_to_see_doctor": "Warto zgłosić się do lekarza pierwszego kontaktu, jeśli zauważysz objawy pasujące do powyższego opisu, zwłaszcza jeśli\nwpływają one na Twoje samopoczucie w codziennym życiu:\n\n- nieregularne miesiączki, bardzo rzadkie miesiączki lub ich brak\n- zauważalnie zwiększone owłosienie na twarzy lub ciele, uporczywy trądzik lub przerzedzenie włosów na głowie\n- trudności z zajściem w ciążę po dłuższych próbach\n- przyrost masy ciała, którego trudno się pozbyć, w połączeniu z innymi objawami\n\nLekarz rodzinny może zbadać, co się dzieje, potwierdzić, czy jest to zespół nadmiernego owłosienia (PCOS) czy coś innego, oraz omówić z Tobą\nplan leczenia dostosowany do Twoich potrzeb. Zespół nadmiernego owłosienia (PCOS) wiąże się również z obniżonym nastrojem i lękiem — jeśli zmagasz się z tym, jak\nsię czujesz, poinformuj o tym również swojego lekarza rodzinnego; to część całościowego obrazu, a pomoc jest dostępna.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Okres okołomenopauzalny",
+      "aliases": [
+        "okres okołomenopauzalny",
+        "okres przejściowy menopauzy",
+        "zmiana"
+      ],
+      "glance": "Okres okołomenopauzalny to faza przejściowa poprzedzająca menopauzę, w której dochodzi do zmian w cyklu miesiączkowym i poziomie hormonów.",
+      "overview": "Okres okołomenopauzalny to czas poprzedzający menopauzę — lata „wokół menopauzy”. Rozpoczyna się\nw momencie, gdy po raz pierwszy zauważysz zmiany, i trwa do upływu pełnego roku od ostatniej miesiączki, kiedy to\nnastępuje menopauza. Może trwać kilka lat.\n\nW tym czasie jajniki stopniowo wytwarzają mniej estrogenu, a jego poziom waha się w sposób mniej\nprzewidywalny niż wcześniej. Najczęstszym wczesnym objawem są zmiany w cyklu miesiączkowym — miesiączki stają się częstsze\nlub rzadsze, mniej obfite lub bardziej obfite. Wiele objawów związanych z menopauzą, takich jak\nuderzenia gorąca, zaburzenia snu lub wahania nastroju, może pojawić się już w tym okresie, kiedy nadal występują miesiączki.\n\nPonieważ proces ten przebiega stopniowo i jest bardzo zróżnicowany, okres okołomenopauzalny może budzić dezorientację — zmiany nie pojawiają się\nnaraz ani w tej samej kolejności u wszystkich kobiet. Świadomość, że ta faza ma swoją nazwę i że jest to\nnormalny proces przejściowy, może pomóc w jej zrozumieniu.",
+      "deep": null,
+      "when_to_see_doctor": "- Udaj się do lekarza pierwszego kontaktu, jeśli objawy okresu okołomenopauzalnego utrudniają Ci codzienne funkcjonowanie i chcesz porozmawiać o tym,\n  co mogłoby Ci pomóc.\n- Warto poddać się badaniu, jeśli miesiączki stają się bardzo obfite lub występują krwawienia między\n  miesiączkami lub po stosunku, aby ustalić przyczynę.\n- Pamiętaj, że w okresie okołomenopauzalnym nadal może dojść do ciąży, dlatego warto poruszyć\n  kwestię antykoncepcji z lekarzem, jeśli ma to dla Ciebie znaczenie.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Bóle menstruacyjne",
+      "aliases": [
+        "bóle menstruacyjne",
+        "skurcze menstruacyjne",
+        "skurcze",
+        "bóle menstruacyjne",
+        "bolesne miesiączki",
+        "bolesne miesiączki"
+      ],
+      "glance": "Bóle menstruacyjne to skurcze w dolnej części brzucha występujące w okresie miesiączki — są one powszechne i często stanowią normalną część cyklu.",
+      "overview": "Ból menstruacyjny to skurcze i uczucie bólu w dolnej części brzucha, które odczuwa wiele osób w okresie\nmiesiączki. Pojawia się on, gdy mięśniowa ściana macicy napina się, i często stanowi normalną część\ncyklu miesiączkowego. Jego medyczna nazwa to dysmenorrhea.\n\nZazwyczaj pojawia się na początku miesiączki lub tuż przed nią i trwa zazwyczaj do około\ntrzech dni. Dla niektórych jest to łagodne uczucie ciężkości, dla innych skurcze są silniejsze. Ból może również\nzmieniać się w ciągu życia oraz z cyklu na cykl.\n\nBóle menstruacyjne o tym typowym przebiegu są powszechne i zazwyczaj można je złagodzić. Wiele osób stosuje codzienne środki\nzwiększające komfort oraz proste leki przeciwbólowe, a farmaceuta lub lekarz rodzinny może doradzić, co\nmoże być dla Ciebie odpowiednie. Ważne jest, abyś znała swój typowy przebieg cyklu — dzięki temu będziesz w stanie zauważyć, jeśli coś\nsię zmieni.",
+      "deep": null,
+      "when_to_see_doctor": "Warto skonsultować się z lekarzem rodzinnym, jeśli:\n\n- miesiączki stają się bardziej bolesne, obfitsze lub mniej regularne niż zwykle\n- ból uniemożliwia wykonywanie codziennych czynności, takich jak praca lub nauka\n- zwykłe leki przeciwbólowe nie przynoszą ulgi\n- odczuwasz ból podczas stosunku, oddawania moczu lub wypróżniania\n- występuje krwawienie między miesiączkami\n- ból pojawia się w innych momentach niż tuż przed miesiączką lub w jej trakcie\n- wydalasz skrzepy krwi większe niż moneta (wielkości około ćwierćdolarówki)\n- zauważasz również wzdęcie brzucha, mniejszy apetyt lub niewyjaśnioną utratę wagi\n\nNie oznacza to, że coś jest nie tak, ale warto to sprawdzić — ból menstruacyjny, który pojawił się niedawno,\njest inny niż zwykle lub trudny do opanowania, może mieć przyczyny, w których lekarz może pomóc.",
+      "red_flags": "- Poproś o **pilną** wizytę u lekarza pierwszego kontaktu lub zadzwoń pod numer **NHS 111**, jeśli ból związany z miesiączką lub ból miednicy jest\n  **silny lub silniejszy niż zwykle, a środki przeciwbólowe nie przyniosły ulgi.**"
+    },
+    "planning-pregnancy": {
+      "title": "Planowanie ciąży",
+      "aliases": [
+        "planowanie ciąży",
+        "przedstawienie",
+        "próby zajścia w ciążę",
+        "przed ciążą",
+        "przygotowania do ciąży"
+      ],
+      "glance": "Kilka prostych kroków przed podjęciem starań o dziecko — przyjmowanie kwasu foliowego, rzucenie palenia i zaprzestanie spożywania alkoholu — zapewnia ciążę w najlepszych warunkach.",
+      "overview": "Jeśli myślisz o staraniu się o dziecko, kilka kroków podjętych z wyprzedzeniem może zapewnić ciążie\nzdrowszy początek — wiele z nich warto wprowadzić jeszcze przed samym poczęciem.\n\nNajważniejsze z nich to: zacznij przyjmować **kwas foliowy** (i witaminę D), **rzucaj palenie** oraz **unikaj alkoholu**.\nPomocne jest również dążenie do osiągnięcia zdrowej wagi, ponieważ znaczna niedowaga lub nadwaga mogą\nutrudniać poczęcie. Warto również upewnić się, że **szczepienie MMR** jest aktualne, ponieważ niektóre\ninfekcje mogą mieć wpływ na ciążę.\n\nNie musi to być nic perfekcyjnego ani stresującego. Liczą się drobne, przemyślane zmiany wprowadzone z wyprzedzeniem —\na rozpoczęcie przygotowań nieco wcześniej to jedna z najpiękniejszych rzeczy, jakie możesz zrobić dla przyszłej ciąży.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli cierpisz na **długotrwałą chorobę** lub regularnie zażywasz **leki**, skonsultuj się z lekarzem rodzinnym przed\n  rozpoczęciem starań o dziecko — niektóre schorzenia i leki wymagają odpowiedniego zaplanowania. **Nie przerywaj przyjmowania żadnych przepisanych\n  leków** bez wcześniejszej konsultacji z lekarzem.\n- Lekarz rodzinny może również udzielić porad dotyczących kwasu foliowego (w tym tego, czy potrzebujesz wyższej dawki) oraz osiągnięcia\n  zdrowej wagi przed ciążą.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Depresja poporodowa",
+      "aliases": [
+        "depresja poporodowa",
+        "depresja poporodowa",
+        "PND",
+        "depresja poporodowa",
+        "depresja poporodowa"
+      ],
+      "glance": "Depresja poporodowa to powszechne, uleczalne obniżenie nastroju występujące po porodzie — to nie twoja wina, a pomoc jest dostępna.",
+      "overview": "Złe samopoczucie, niepokój lub drażliwość w pierwszych kilku tygodniach po porodzie to zjawisko bardzo powszechne — często\nnazywa się to „baby blues” i zazwyczaj mija samoistnie w ciągu około dwóch tygodni.\n\nDepresja poporodowa to coś innego: gorszy nastrój, który jest głębszy lub trwa dłużej. Jest to powszechny stan,\nktóry może pojawić się w dowolnym momencie pierwszego roku życia dziecka i może dotknąć również ojców oraz partnerów. Objawy obejmują\nutrzymujące się obniżenie nastroju, trudności w czerpaniu radości z czegokolwiek, problemy ze snem nawet wtedy, gdy dziecko śpi,\na czasem również trudne odczucia związane z nawiązywaniem więzi z dzieckiem.\n\nCierpienie na tę dolegliwość **nie** oznacza, że jesteś złym rodzicem ani że nie kochasz swojego dziecka — to choroba,\na nie porażka, i dobrze reaguje na wsparcie oraz leczenie. Wczesne zwrócenie się o pomoc to mądry i troskliwy\nkrok, zarówno dla ciebie, jak i dla twojego dziecka.",
+      "deep": null,
+      "when_to_see_doctor": "- Porozmawiaj ze swoim **lekarzem rodzinnym, położną lub pielęgniarką środowiskową**, jeśli podejrzewasz, że możesz cierpieć na depresję poporodową,\n  lub jeśli „baby blues” nie ustąpił po dwóch tygodniach. Osoby te wielokrotnie miały do czynienia z takimi przypadkami i mogą\n  pomóc Ci znaleźć odpowiednie wsparcie.",
+      "red_flags": "- Jeśli masz **myśli o wyrządzeniu krzywdy sobie lub dziecku** albo wydaje ci się, że twojej rodzinie byłoby lepiej\n  bez ciebie, **natychmiast** zwróć się o pomoc: zadzwoń pod numer **999**, udaj się na pogotowie lub zadzwoń pod numer **NHS111** albo do\n  organizację „Samaritans” pod numer **116 123**. Te myśli mogą być częścią choroby, nie odzwierciedlają tego, kim jesteś, a\n  możesz liczyć na pilną pomoc."
+    },
+    "pre-eclampsia": {
+      "title": "Stan przedrzucawkowy",
+      "aliases": [
+        "stan przedrzucawkowy",
+        "stan przedrzucawkowy",
+        "nadciśnienie tętnicze w ciąży",
+        "toksemia"
+      ],
+      "glance": "Stan przedrzucawkowy to podwyższone ciśnienie krwi w ciąży — często początkowo przebiegające bezobjawowo, dlatego tak ważne są badania prenatalne.",
+      "overview": "Stan przedrzucawkowy to schorzenie występujące w ciąży, objawiające się głównie wysokim ciśnieniem krwi oraz\nobecnością białka w moczu. Zazwyczaj pojawia się około 20. tygodnia ciąży, a czasami dopiero po porodzie.\n\nJedną z najważniejszych rzeczy, o których należy wiedzieć, jest to, że we wczesnym stadium często nie powoduje ona **żadnych objawów** —\nmożesz czuć się zupełnie dobrze. Właśnie dlatego położna sprawdza ciśnienie krwi i bada\nmocz podczas każdej rutynowej wizyty przedporodowej: dzięki tym badaniom zwykle wykrywa się ten stan,\nzanim sama cokolwiek zauważysz.\n\nWarto znać objawy, gdy już się pojawią, ponieważ stan przedrzucawkowy może stać się poważny zarówno dla Ciebie,\njak i dla Twojego dziecka. Jest on bardzo uleczalny, jeśli zostanie wcześnie wykryty, a regularne wizyty prenatalne to\nnajlepszy sposób, aby mu zapobiec.",
+      "deep": null,
+      "when_to_see_doctor": "- Należy regularnie zgłaszać się na **rutynowe wizyty prenatalne** — pomiary ciśnienia krwi i badania moczu pozwalają\n  zazwyczaj wykryć stan przedrzucawkowy, zanim pojawią się objawy.",
+      "red_flags": "**Natychmiast** zgłoś się po pomoc medyczną — skontaktuj się z oddziałem położniczym lub zadzwoń pod numer **NHS 111** — jeśli wystąpi u Ciebie\nktórykolwiek z poniższych objawów (zadzwoń pod numer **999**, jeśli czujesz się bardzo źle, na przykład w przypadku drgawek):\n\n- **silny ból głowy**, który nie ustępuje po zażyciu zwykłych środków przeciwbólowych\n- **problemy z widzeniem** — niewyraźne widzenie lub migotanie świateł\n- **nagły obrzęk** twarzy, rąk lub stóp\n- **ból tuż pod żebrami**\n- **mdłości** lub nagłe poczucie bardzo złego samopoczucia"
+    },
+    "pregnancy": {
+      "title": "Ciąża",
+      "aliases": [
+        "ciąża",
+        "bycie w ciąży",
+        "oczekując",
+        "ciąża",
+        "trymestry",
+        "termin płatności",
+        "w którym tygodniu ciąży"
+      ],
+      "glance": "Ciąża trwa zazwyczaj około 40 tygodni, licząc od pierwszego dnia ostatniej miesiączki.",
+      "overview": "Ciąża to okres, w którym organizm kobiety rozwija się i nosi dziecko. Trwa ona zazwyczaj około 40 tygodni —\nza pełną i prawidłową uważa się ciążę trwającą od 37 do 42 tygodni — i, co może być zaskakujące, liczy się ją\nod pierwszego dnia **ostatniej miesiączki**, a nie od momentu poczęcia. Jest to po prostu standardowy sposób\nobliczania terminów.\n\n**Termin porodu** to szacunkowa data, a nie ostateczny termin: dzieci chętnie przychodzą na świat nieco wcześniej lub później. We wczesnej\nfazie ciąży „badanie ultrasonograficzne w celu ustalenia wieku ciążowego” (zwykle około 12. tygodnia) pozwala zmierzyć dziecko i podać dokładniejszą\ndatę, co czasami powoduje zmianę pierwotnego szacunku.\n\nCiąża jest często dzielona na trzy etapy, czyli **trimestry**, z których każdy wiąże się z własnymi zmianami. Przez\ncały ten czas jesteś pod opieką położnej (a w razie\npotrzeby również lekarza), która zapewnia regularne badania prenatalne — opieka ta pomaga zadbać o zdrowie Twoje i Twojego dziecka.",
+      "deep": "Ponieważ terminy liczy się od ostatniej miesiączki, w momencie\nbraku miesiączki uznaje się, że jesteś w około czwartym tygodniu ciąży. Liczba tygodni ciąży stanowi podstawę organizacji opieki — badania USG, badania przesiewowe\ni wizyty kontrolne są oferowane w określonych tygodniach. Jeśli Twoje miesiączki są nieregularne lub nie masz pewności co do\ndat, to badanie ultrasonograficzne ustalające termin ciąży wyznacza jej harmonogram. Ta sekcja stanowi mapę całej podróży;\nposzczególne tematy — objawy ciąży, opieka przedporodowa, dbanie o zdrowie i poród — mają swoje osobne sekcje.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Test ciążowy",
+      "aliases": [
+        "test ciążowy",
+        "domowy test ciążowy",
+        "hCG test",
+        "test ciążowy"
+      ],
+      "glance": "Domowy test ciążowy bada mocz pod kątem obecności hormonu ciążowego (hCG) — jest on najbardziej wiarygodny od momentu pierwszej opóźnionej miesiączki.",
+      "overview": "Domowy test ciążowy działa na zasadzie wykrywania hormonu zwanego hCG (hCG) w\nmoczu. Organizm zaczyna go wytwarzać kilka dni po zagnieżdżeniu się zapłodnionej komórki jajowej, a jego stężenie\nszybko rośnie we wczesnej ciąży.\n\nTest jest najbardziej wiarygodny od **pierwszego dnia opóźnienia miesiączki** — mniej więcej dwa tygodnie po\npoczęciu. Jeśli cykl jest nieregularny lub nie masz pewności, kiedy powinna pojawić się miesiączka, poczekanie co\nnajmniej 21 dni od stosunku bez zabezpieczenia zapewni bardziej wiarygodny wynik. Nie musisz wykonywać testu\nzaraz rano; można to zrobić o dowolnej porze dnia.\n\nWynik **pozytywny** jest prawie na pewno prawidłowy — bardzo rzadko zdarza się, by test wykazał wynik pozytywny, gdy nie\njesteś w ciąży. Wynik **negatywny** jest nieco mniej pewny: jeśli miesiączka nadal nie nadchodzi, a\nsądzisz, że możesz być w ciąży, poczekaj kilka dni i wykonaj test ponownie.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli wynik testu będzie pozytywny, skontaktuj się z **położną lub lekarzem rodzinnym**, aby rozpocząć opiekę prenatalną.\n- Jeśli wyniki testów są negatywne, ale nie masz miesiączki i czujesz, że jesteś w ciąży (lub źle się czujesz), udaj się do lekarza rodzinnego, aby\n  dowiedzieć się, co się dzieje.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Przedwczesny poród",
+      "aliases": [
+        "przedwczesny poród",
+        "przedwczesny poród",
+        "poród przedwczesny",
+        "poród przedwczesny",
+        "wczesna faza porodu",
+        "przedwczesne pęknięcie wód płodowych"
+      ],
+      "glance": "Poród przedwczesny to poród przed 37. tygodniem ciąży — należy działać szybko, ponieważ wczesna opieka ma ogromne znaczenie.",
+      "overview": "Poród przedwczesny (lub przedterminowy) to poród, który rozpoczyna się przed 37. tygodniem ciąży. Występuje on w\nprzybliżeniu w 8 na 100 porodów.\n\nDzieci urodzone przedwcześnie są bardziej wrażliwe, ale wiele z nich dobrze się rozwija — zwłaszcza dzięki specjalistycznej\nopiece zapewnianej przez oddziały noworodkowe. Najważniejsze jest szybkie działanie, jeśli podejrzewasz, że poród się zaczyna, abyś\nmogła zostać zbadana i, w razie potrzeby, otrzymać leczenie, które pomoże chronić dziecko.\n\nObjawy są podobne do tych występujących w każdym etapie porodu, ale przed 37. tygodniem nigdy nie należy czekać, aż miną —\nzawsze stanowią one powód do natychmiastowego skontaktowania się z lekarzem.",
+      "deep": null,
+      "when_to_see_doctor": "- Skontaktuj się ze swoją **położną lub oddziałem położniczym** w każdej chwili, gdy jesteś w **poniżej 37 tygodnia ciąży** i masz wątpliwości lub\n  obawy — zawsze warto to sprawdzić.",
+      "red_flags": "Skontaktuj się **natychmiast z położną lub oddziałem położniczym** — o każdej porze dnia i nocy — jeśli **przed 37. tygodniem** wystąpi u Ciebie\nktórykolwiek z poniższych objawów:\n\n- regularne **skurcze lub napinanie się brzucha** lub bóle przypominające menstruacyjne\n- **wyciek lub strumień płynu** z pochwy (pęknięcie worka owodniowego)\n- **ból pleców**, który nie jest dla Ciebie typowy, lub uczucie ucisku w dolnej części brzucha"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (zespół napięcia przedmiesiączkowego)",
+      "aliases": [
+        "pms",
+        "zespół napięcia przedmiesiączkowego",
+        "napięcie przedmiesiączkowe",
+        "pmt"
+      ],
+      "glance": "PMS to połączenie zmian fizycznych i emocjonalnych, które wiele osób odczuwa na tydzień lub dwa przed miesiączką.",
+      "overview": "PMS — zespół napięcia przedmiesiączkowego — to nazwa zmian, które wiele osób odczuwa na kilka dni lub kilka\ntygodni przed miesiączką. Może dotknąć każdą osobę miesiączkującą i zazwyczaj ustępuje w ciągu kilku\ndni po rozpoczęciu miesiączki.\n\nZmiany te mogą przybierać różne formy. Pod względem fizycznym możesz odczuwać wzdęcia, ból lub wrażliwość piersi,\nskurcze, bóle głowy lub większe zmęczenie. Pod względem emocjonalnym mogą występować wahania nastroju, drażliwość,\nniepokój lub przygnębienie. Często pojawiają się również zachcianki żywieniowe i zmiany w trybie snu. Nie u wszystkich występuje zespół napięcia przedmiesiączkowego (PMS),\na u tych, u których się pojawia, nie wszystkie objawy muszą wystąpić — liczy się Twój indywidualny wzorzec. Zespół napięcia przedmiesiączkowego (\n\nPMS) jest normalną, uznaną częścią cyklu wielu osób, związaną z naturalnymi zmianami hormonalnymi w\ndrugiej połowie cyklu. Zwracanie uwagi na to, jak objawia się u Ciebie w poszczególnych cyklach, może ułatwić planowanie\nz uwzględnieniem tego stanu — oraz dostrzeżenie ewentualnych zmian.",
+      "deep": null,
+      "when_to_see_doctor": "Warto porozmawiać z lekarzem pierwszego kontaktu, jeśli:\n\n- objawy wpływają na codzienne życie — pracę, naukę, relacje z innymi\n- codzienne zmiany w trybie życia nie przyniosły poprawy\n- obniżony nastrój, niepokój lub drażliwość wydają się poważne\n\nLekarz może omówić z Tobą, co może pomóc. Bardziej nasilona postać tego zaburzenia, zwana przedmiesiączkowym zaburzeniem dysforycznym\n(PMDD), może powodować znacznie silniejsze objawy nastrojowe, a w tym przypadku dostępne jest odpowiednie wsparcie.",
+      "red_flags": "- Jeśli masz objawy zaburzeń lękowych z napadami paniki (PMDD) i **masz myśli samobójcze lub czujesz, że nie jesteś w stanie zapewnić sobie bezpieczeństwa**,\n  natychmiast zwróć się o pomoc: **zadzwoń pod numer 999 lub udaj się na pogotowie (A&E).** Nie jedź samodzielnie — poproś kogoś, aby cię\n  zawiózł, lub wezwij karetkę. Zasługujesz na wsparcie, a pomoc jest dostępna."
+    },
+    "progesterone": {
+      "title": "Progesteron",
+      "aliases": [
+        "progesteron"
+      ],
+      "glance": "Progesteron to hormon drugiej połowy cyklu, który przygotowuje błonę śluzową macicy po owulacji.",
+      "overview": "Progesteron jest jednym z głównych hormonów regulujących cykl menstruacyjny i odgrywa wiodącą rolę w\njego drugiej połowie — po uwolnieniu komórki jajowej podczas owulacji.\n\nJego głównym zadaniem jest utrzymanie grubej i gotowej błony śluzowej macicy, tak aby w przypadku\ndotarcia zapłodnionej komórki jajowej mogła ona się zagnieździć i rozpocząć się ciąża. W ten sposób progesteron działa jako\npartner estrogenu, który w wcześniejszej fazie cyklu w znacznym stopniu przyczynił się do przygotowania błony śluzowej.\n\nJeśli ciąża nie wystąpi, poziom progesteronu spada. To właśnie ten spadek powoduje złuszczenie błony śluzowej\nw postaci kolejnej miesiączki. Wzrost i spadek poziomu progesteronu w drugiej połowie cyklu stanowią\nnormalny, oczekiwany rytm.",
+      "deep": "Progesteron jest wytwarzany głównie przez ciałko żółte — strukturę, którą jajnik tworzy z\npęcherzyka po uwolnieniu komórki jajowej. Dlatego właśnie poziom progesteronu wzrasta właśnie w fazie lutealnej\n(po owulacji). Kiedy ciałko żółte ulega rozpadowi, poziom zarówno progesteronu, jak i estrogenu spada,\nsygnalizując początek nowego cyklu. Te naturalne wahania są jednym z powodów, dla których niektóre osoby odczuwają\nzmiany przedmiesiączkowe w dniach poprzedzających miesiączkę.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Pigułka zawierająca wyłącznie progestagen (mini-pigułka)",
+      "aliases": [
+        "pigułka zawierająca wyłącznie progestagen",
+        "mini-pigułka",
+        "POP",
+        "pigułka zawierająca wyłącznie progesteron",
+        "tabletka zawierająca desogestrel"
+      ],
+      "glance": "Mini-pigułka to pigułka przyjmowana codziennie, zawierająca jeden hormon, który zagęszcza śluz szyjki macicy, blokując w ten sposób ruch plemników.",
+      "overview": "Pigułka zawierająca wyłącznie progestagen — często nazywana „mini pigułką” — to tabletka do codziennego stosowania, zawierająca tylko jeden\nhormon, czyli progestagen. Jest to opcja dla osób, które nie mogą lub wolą nie przyjmować estrogenu.\n\nJej głównym działaniem jest zagęszczenie śluzu w szyjce macicy, co utrudnia plemnikom dotarcie do\nkomórki jajowej. Jeden z popularnych rodzajów, pigułka zawierająca desogestrel, zapobiega również uwalnianiu komórki jajowej przez jajniki\n(owulacji).\n\nPrzy prawidłowym stosowaniu skuteczność tej pigułki wynosi ponad 99%; przy typowym codziennym stosowaniu wynosi około 91%. Podobnie jak w przypadku innych\npigułek, ważne jest przestrzeganie harmonogramu przyjmowania, a pigułka ta nie chroni przed chorobami przenoszonymi drogą płciową.",
+      "deep": "Mini-pigułka różni się od pigułki złożonej tym, że nie zawiera estrogenu, co wpływa na to, dla kogo może być odpowiednia —\njest to kwestia, którą lekarz rozważa przy przepisywaniu leku. Niektóre rodzaje pigułek należy przyjmować w dość\nwąskim przedziale czasowym każdego dnia, aby zachowały skuteczność. Niniejszy artykuł wyjaśnia, czym jest ta pigułka i jak działa; kwestie dotyczące sposobu jej przyjmowania\noraz tego, czy jest ona odpowiednia dla Ciebie, należy omówić z lekarzem pierwszego kontaktu, pielęgniarką lub farmaceutą.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "signs-of-labour": {
+      "title": "Objawy porodu",
+      "aliases": [
+        "objawy porodu",
+        "praca",
+        "rozpoczęcie porodu",
+        "skurcze",
+        "odchodzenie wód płodowych",
+        "program",
+        "faza utajona"
+      ],
+      "glance": "Oznaki rozpoczynającego się porodu to między innymi regularne skurcze, pojawienie się śluzu, ból pleców lub pęknięcie błon płodowych.",
+      "overview": "Istnieje kilka oznak wskazujących, że poród może się rozpoczynać. Najważniejszą z nich są skurcze — napinanie się\nbrzucha, które pojawia się regularnie i nasila się. Inne to „wyjście czopu śluzowego” (oddzielenie się czopu śluzowego z\nszyjki macicy), uporczywy ból pleców, potrzeba pójścia do toalety oraz pęknięcie wód płodowych.\n\nPrzed aktywną fazą porodu często występuje faza wczesna („utajona”), podczas której szyjka macicy mięknie i zaczyna się\notwierać. Ta faza może trwać godziny, a nawet dni, i dla wielu kobiet nie ma nic złego w tym, by w tym czasie pozostać w komfortowych warunkach\nw domu, odpoczywając i dbając o odpowiednie nawodnienie.\n\nPoród u każdej kobiety zaczyna się nieco inaczej, więc nie musisz odhaczać wszystkich objawów. Kiedy\npoczujesz, że to się zaczyna, położna lub personel oddziału położniczego doradzi Ci, co robić i\nkiedy zgłosić się do szpitala.",
+      "deep": null,
+      "when_to_see_doctor": "- Skontaktuj się z **położną lub oddziałem położniczym**, aby uzyskać wskazówki, gdy uznasz, że rozpoczął się poród, lub gdy\n  skurcze będą **regularne — co około 5 minut**. Jeśli nie możesz skontaktować się z położną, zadzwoń pod numer\n  **NHS 111**.",
+      "red_flags": "Zadzwoń **natychmiast do położnej lub oddziału położniczego** — o każdej porze dnia i nocy, nie czekaj — jeśli:\n\n- **odpłyną wody płodowe** (zwłaszcza jeśli płyn ma kolor zielony, brązowy lub wydziela nieprzyjemny zapach)\n- wystąpi **jakiekolwiek krwawienie z pochwy**\n- **dziecko porusza się mniej niż zwykle**\n- występują objawy porodu, a **jesteś w mniej niż 37. tygodniu ciąży**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Objawy ciąży",
+      "aliases": [
+        "objawy ciąży",
+        "wczesne objawy ciąży",
+        "Czy jestem w ciąży?",
+        "objawy ciąży"
+      ],
+      "glance": "Brak miesiączki jest często pierwszą oznaką ciąży, czasami towarzyszą jej mdłości, zmęczenie lub wrażliwość piersi.",
+      "overview": "Dla wielu osób pierwszą oznaką ciąży jest **brak miesiączki**. Jednak organizmy są różne i niektóre osoby zauważają\nnajpierw inne wczesne objawy — często około 4–6 tygodnia.\n\nTypowe wczesne objawy to mdłości lub wymioty (o każdej porze dnia, nie tylko rano), piersi,\nktóre wydają się większe lub wrażliwe na dotyk, niezwykłe zmęczenie oraz częstsze oddawanie moczu. Niektóre osoby\nzauważają również metaliczny posmak, nową wrażliwość na niektóre zapachy lub utratę apetytu na potrawy, które zazwyczaj lubią.\n\nŻadna z tych oznak sama w sobie nie oznacza, że na pewno jesteś w ciąży — wiele z nich pokrywa się ze zwykłymi wahaniami\nw trakcie cyklu — i nie u każdej kobiety występują. Jedynym sposobem, aby się upewnić, jest wykonanie testu ciążowego.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli wynik testu jest pozytywny, skontaktuj się z **położną lub lekarzem rodzinnym**, aby jak najwcześniej rozpocząć opiekę prenatalną.\n- Jeśli masz opóźnienie w miesiączce, a wyniki testów są negatywne, ale objawy utrzymują się, warto zgłosić się do\n  lekarza rodzinnego, aby sprawdzić, co jeszcze może być przyczyną.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Palenie tytoniu w czasie ciąży",
+      "aliases": [
+        "palenie tytoniu w czasie ciąży",
+        "rzucenie palenia w czasie ciąży",
+        "rzucenie palenia w ciąży",
+        "używanie e-papierosów w czasie ciąży"
+      ],
+      "glance": "Rzucenie palenia to jedna z najlepszych rzeczy, jakie możesz zrobić dla swojego dziecka — i nigdy nie jest na to za późno.",
+      "overview": "Rzucenie palenia to jedna z najskuteczniejszych rzeczy, jakie możesz zrobić, aby zapewnić dziecku zdrowy start w życie.\nKażdy papieros ogranicza dopływ tlenu do organizmu dziecka, co zmusza jego serce do cięższej pracy i może\nhamować jego wzrost.\n\nPalenie w ciąży zwiększa ryzyko poważnych komplikacji, w tym poronienia, przedwczesnego porodu,\nniskiej masy urodzeniowej, porodu martwego oraz zespołu nagłej śmierci niemowląt (SIDS) po urodzeniu. Bieżne\nnarażenie na dym tytoniowy również ma znaczenie, dlatego pomocne jest utrzymanie domu wolnego od dymu.\n\nPozytywną wiadomością jest to, że **nigdy nie jest za późno**. Rzucenie palenia w dowolnym momencie ciąży przynosi korzyści, a\njak najwcześniejsze zaprzestanie palenia daje największe korzyści. Może to być naprawdę trudne, ale właśnie dlatego istnieje bezpłatna pomoc — a\nskorzystanie z niej znacznie zwiększa szanse na sukces.",
+      "deep": null,
+      "when_to_see_doctor": "- Zapytaj swoją **położną** o **bezpłatne wsparcie w rzucaniu palenia w ramach programu „NHS”** — przeszkoleni doradcy (w tym niektórzy\n  specjalizujący się w kwestiach związanych z ciążą) mogą Ci pomóc, a ponadto dostępna jest infolinia „Smokefree”. Zwrócenie się o pomoc to\n  oznak troski o dziecko, a nie porażka.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Plamienie i krwawienie między miesiączkami",
+      "aliases": [
+        "wykrywanie",
+        "krwawienie między miesiączkami",
+        "krwawienie międzymiesiączkowe",
+        "krwawienie międzymiesiączkowe",
+        "krwawienie po stosunku"
+      ],
+      "glance": "Plamienie to niewielkie krwawienie występujące między miesiączkami lub po stosunku — często nie jest to nic poważnego, ale zawsze warto to sprawdzić.",
+      "overview": "Plamienie to niewielkie krwawienie występujące między miesiączkami lub po stosunku, poza normalnym\ncyklem miesiączkowym. Jest to zjawisko powszechne i zazwyczaj nie stanowi poważnego zagrożenia — jednak ponieważ może mieć wiele przyczyn,\nzawsze warto zgłosić się do lekarza w celu zbadania.\n\nIstnieje wiele codziennych przyczyn tego zjawiska. Częstą przyczyną jest rozpoczęcie stosowania hormonalnych środków antykoncepcyjnych.\nInne przyczyny to niewielkie, nieszkodliwe narośla w macicy lub wokół niej (polipy lub mięśniaki), niegroźne zmiany\nna powierzchni szyjki macicy, suchość pochwy lub infekcja, taka jak chlamydia.\n\nPonieważ ten sam objaw może wynikać z różnych przyczyn — z których większość jest niegroźna — rozsądnym krokiem\nnie jest zgadywanie, lecz poddanie się badaniu, aby dowiedzieć się, co konkretnie jest tego przyczyną w Twoim przypadku.",
+      "deep": null,
+      "when_to_see_doctor": "- Udaj się do lekarza pierwszego kontaktu lub poradni zdrowia seksualnego **za każdym razem, gdy wystąpi krwawienie między miesiączkami lub po stosunku**,\n  nawet jeśli jest ono niewielkie. Zazwyczaj nie jest to nic poważnego, ale badanie pozwala ustalić przyczynę\n  — i jest sposobem na wczesne wykluczenie rzadszych przyczyn.",
+      "red_flags": "- Poproś o **pilną** wizytę u lekarza pierwszego kontaktu lub zadzwoń pod numer **NHS111**, jeśli **nie pojawiła się miesiączka i występuje\n  nietypowe krwawienie wraz z bólem brzucha lub miednicy** — wymaga to natychmiastowej oceny, ponieważ może to być\n  objawem ciąży pozamacicznej."
+    },
+    "stillbirth": {
+      "title": "Poród martwego dziecka",
+      "aliases": [
+        "martwe urodzenie",
+        "martwo urodzony",
+        "utrata dziecka",
+        "późna utrata ciąży",
+        "dziecko urodziło się martwe"
+      ],
+      "glance": "Martwe urodzenie to utrata dziecka po 24 tygodniach ciąży — zdarza się rzadko, nigdy nie jest to twoja wina i zawsze możesz liczyć na wsparcie.",
+      "overview": "Martwe urodzenie ma miejsce, gdy dziecko rodzi się martwe po upływie 24 tygodni ciąży. (Utrata dziecka przed 24 tygodniem\nnazywana jest poronieniem.) Zjawisko to występuje rzadko — około 1 na 250 porodów — ale dla rodzin, których\ndotyka, jest to ogromna strata, a cała dalsza opieka ma na celu\ndelikatne wsparcie w tym trudnym okresie.\n\nCzasami udaje się ustalić przyczynę — na przykład problem z łożyskiem lub rozwojem dziecka albo\nstan zdrowia — a czasami, pomimo badań, **nie udaje się ustalić żadnej przyczyny**. Niezależnie od przyczyny,\nporód martwego dziecka nie jest czymś, co spowodowali rodzice ani czymś, czego mogliby zapobiec.\n\nJest jednak jedna rzecz, która naprawdę pomaga zmniejszyć ryzyko, i to w prosty sposób: **natychmiastowe poinformowanie położnej,\njeśli ruchy dziecka zwolnią lub ulegną zmianie.** Oprócz tego znaczenie mają codzienne czynności — chodzenie na\nwizyty prenatalne, niepalenie, unikanie alkoholu oraz spanie na boku od 28. tygodnia — wszystkie\none odgrywają ważną rolę.",
+      "deep": null,
+      "when_to_see_doctor": "- Skontaktuj się **natychmiast z położną lub oddziałem położniczym** — o każdej porze, w dzień czy w nocy — jeśli Twoje **dziecko\n  ruchuje się mniej niż zwykle lub jego ruchy wydają się inne niż zwykle.** Nigdy nie czekaj, aby sprawdzić, czy to minie; zgłoszenie się\n  na kontrolę jest dokładnie tym, co należy zrobić, i nigdy nie jest to uciążliwe.\n- Po stracie dziecka specjalistyczne położne i zespoły wsparcia dla osób w żałobie są do Twojej dyspozycji — pomogą Ci w podejmowaniu decyzji,\n  w kwestiach praktycznych oraz w radzeniu sobie z żałobą. Nie musisz zmagać się z tym wszystkim sama, a grupy wsparcia\n  dla osób po stracie dziecka są dostępne tak długo, jak tego potrzebujesz.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stres, życie i miesiączka",
+      "aliases": [
+        "stres i miesiączki",
+        "stres",
+        "brak miesiączki",
+        "późny okres",
+        "dlaczego mam opóźnienie w miesiączce"
+      ],
+      "glance": "Stres, znaczne wahania wagi lub intensywne ćwiczenia fizyczne mogą opóźnić lub zatrzymać miesiączkę — często tylko na jakiś czas.",
+      "overview": "Często zdarza się, że miesiączka spóźnia się lub pomija się jeden miesiąc, a przyczyna często wynika bardziej\nz okoliczności życiowych niż z jakiejkolwiek nieprawidłowości. Częstym czynnikiem jest stres — ten sam układ, który reaguje\nna presję, może wpływać na hormony regulujące cykl.\n\nInne codzienne czynniki również mogą wpływać na cykl: znaczna zmiana wagi (w górę lub w dół), intensywne\nćwiczenia fizyczne lub przemęczenie. Przyczyną mogą być również zmiany hormonalne — takie jak zbliżająca się perimenopauza lub\nschorzenia, np. zespół nadmiernego wydzielania estrogenu (PCOS) — a także ciąża i niektóre metody antykoncepcyjne. Często odstęp\nmiędzy miesiączkami po prostu od czasu do czasu nieco się zmienia i jest to normalne.\n\nPocieszające jest to, że jednorazowe opóźnienie lub brak miesiączki zazwyczaj nie stanowi powodu do niepokoju, a\nsytuacja często wraca do normy wraz z biegiem życia. Warto zwracać uwagę raczej na powtarzające się zmiany niż na pojedynczy\nmiesiąc.",
+      "deep": null,
+      "when_to_see_doctor": "Zgłoś się do lekarza pierwszego kontaktu, jeśli:\n\n- nie miałeś **trzech miesiączek z rzędu** lub Twoje miesiączki stały się **nieregularne**\n- Twoje miesiączki **ustały** i nie wiesz, dlaczego (możliwa jest ciąża, warto najpierw wykonać test)\n- brak miesiączki towarzyszą inne zmiany — takie jak nieoczekiwane wahania wagi, zmęczenie, nadmierny\n  wzrost owłosienia lub obniżony nastrój\n\nBadania te mają na celu jedynie ustalenie przyczyny tych zmian — zazwyczaj jest to coś,\nz czym można sobie poradzić.",
+      "red_flags": null
+    },
+    "the-coil": {
+      "title": "Cewka (IUD oraz IUS)",
+      "aliases": [
+        "cewka",
+        "cewka",
+        "IUD",
+        "IUS",
+        "cewka miedziana",
+        "wkładka hormonalna",
+        "wkładka domaciczna",
+        "system wewnątrzmaciczny",
+        "Mirena"
+      ],
+      "glance": "Spirala to niewielkie urządzenie umieszczane w macicy — miedziana (IUD) lub hormonalna (IUS) — które działa przez wiele lat.",
+      "overview": "Wkładka jest niewielkim urządzeniem, które lekarz umieszcza w macicy. Istnieją dwa rodzaje wkładek i warto\nje rozróżnić:\n\n- **Wkładka miedziana (IUD)**, zwana również wkładką miedzianą, nie zawiera hormonów. Miedź zmienia warunki panujące w macicy, przez co\n  plemniki i komórki jajowe nie są w stanie dobrze przetrwać, a ponadto wpływa na śluz szyjki macicy. W zależności od rodzaju\n  działa przez około 5 do 10 lat.\n- **Wkładka hormonalna (IUS)**, zwana również wkładką hormonalną, zamiast miedzi uwalnia progestagen. Powoduje to zagęszczenie\n  śluzu w szyjce macicy i ścieńczenie błony śluzowej macicy; u niektórych osób może to również spowodować, że miesiączki będą\n  znacznie skromniejsze.\n\nObie są metodami typu „załóż i zapomnij” i obie charakteryzują się skutecznością powyżej 99%, przy niewielkiej różnicy między\nstosowaniem idealnym a typowym. Żadna z nich nie chroni przed chorobami przenoszonymi drogą płciową.",
+      "deep": "Wkładki są metodami odwracalnymi o długotrwałym działaniu: po założeniu działają przez lata, a płodność\npowraca po ich usunięciu. Zakładanie i usuwanie przeprowadza wykwalifikowany lekarz i zajmuje to zaledwie\nkilka minut, choć niektóre osoby odczuwają dyskomfort podczas zakładania. Częstym powodem, dla którego kobiety wybierają jedną z\ntych metod, jest ich wpływ na miesiączki — miedziana spirala IUD może początkowo powodować obfitsze miesiączki, podczas gdy\nhormonalna spirala IUS często sprawia, że są one skromniejsze. Która z nich jest dla Ciebie odpowiednia, ustalisz podczas rozmowy z lekarzem; ten artykuł\nwyjaśnia jedynie, jak działa każda z nich.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Ciąża bliźniacza i wielokrotna",
+      "aliases": [
+        "bliźniaki",
+        "ciąża bliźniacza",
+        "ciąża mnogowa",
+        "spodziewam się bliźniąt",
+        "bliźniaki jednojajowe",
+        "bliźniaki nieidentyczne",
+        "trojaczki"
+      ],
+      "glance": "Ciąża bliźniacza jest zazwyczaj wykrywana po raz pierwszy podczas badania USG w ramach ustalenia wieku ciążowego i wiąże się z nieco większym nakładem opieki prenatalnej.",
+      "overview": "Ciąża bliźniacza jest zazwyczaj stwierdzana po raz pierwszy podczas **badania ultrasonograficznego w celu ustalenia wieku ciążowego** (około 12 tygodnia),\nktóre pozwala również ustalić, czy dzieci mają wspólne łożysko.\n\nWyróżnia się dwa główne rodzaje. Bliźnięta **jednojajowe** powstają z jednego zapłodnionego jajeczka, które ulega podziałowi, dlatego\nmają identyczny zestaw genów i zawsze są tej samej płci. **Bliźnięta nieidentyczne** powstają z dwóch oddzielnych\nkomórek jajowych i nie są do siebie bardziej podobne niż inne rodzeństwo; są one częstsze z tych dwóch rodzajów i występują\nnieco częściej w przypadku starszego wieku matki, występowania takich przypadków w rodzinie ze strony matki lub po zabiegach wspomagających płodność.\n\nCiąża bliźniacza lub wielokrotna to wyjątkowe doświadczenie i zazwyczaj wiąże się z **nieco większą opieką prenatalną** —\ndodatkowymi wizytami i badaniami USG, aby dokładnie monitorować stan matki i dzieci. Zespół położniczy\nwyjaśni, czego można się spodziewać.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli badanie USG wykaże, że spodziewasz się bliźniąt (lub większej liczby dzieci), Twoja **położna** omówi z Tobą dodatkowe wizyty kontrolne i\n  badania USG związane z ciążą mnogą — regularne uczestnictwo we wszystkich tych wizytach to najlepszy sposób, aby zapewnić sobie\n  odpowiednią opiekę.",
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Suchość pochwy",
+      "aliases": [
+        "suchość pochwy",
+        "suchość",
+        "atrofia pochwy"
+      ],
+      "glance": "Suchość pochwy to powszechne zjawisko, często związane z hormonami, które może powodować ból lub dyskomfort podczas stosunku.",
+      "overview": "Suchość pochwy to powszechne zjawisko, z którym wiele osób ma do czynienia w pewnym momencie życia. Występuje, gdy\nzmniejsza się poziom nawilżenia, który zapewnia komfort w pochwie, i może objawiać się bólem,\nswędzeniem lub dyskomfortem — w tym bólem lub nieprzyjemnymi odczuciami podczas stosunku.\n\nCzęsto wiąże się to z hormonami, zwłaszcza ze spadkiem poziomu estrogenu. Dlatego jest to powszechne w okresie\nmenopauzy i okołomenopauzy, ale może również wystąpić podczas karmienia piersią, przy stosowaniu niektórych leków (takich\njak niektóre środki antykoncepcyjne lub leki przeciwdepresyjne) lub gdy przed stosunkiem nie dochodzi do wystarczającego podniecenia. Nie ma\nsię czego wstydzić — to kwestia fizyczna, a nie odzwierciedlenie Ciebie ani Twojego\nzwiązku.\n\nŚwiadomość, że jest to powszechne i zazwyczaj łatwe do wyleczenia, stanowi dobry punkt wyjścia. Istnieją proste rozwiązania,\nktóre mogą pomóc, a lekarz rodzinny lub farmaceuta może wskazać Ci to, co będzie dla Ciebie odpowiednie.",
+      "deep": null,
+      "when_to_see_doctor": "Zgłoś się do lekarza pierwszego kontaktu, jeśli:\n\n- suchość pochwy sprawia Ci kłopoty lub nie ustępuje po kilku tygodniach\n- wpływa na Twoje codzienne życie lub życie seksualne\n- występują również nietypowe upławy lub krwawienia po stosunku, między miesiączkami lub po menopauzie\n\nNie musisz się z tym po prostu godzić — możesz liczyć na pomoc, a lekarz może ustalić, co jest\nprzyczyną tego stanu i co może przynieść ulgę.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Zdrowie pochwy i sromu",
+      "aliases": [
+        "zdrowie pochwy",
+        "zdrowie sromu",
+        "higiena intymna",
+        "utrzymywanie czystości",
+        "płukanie pochwy",
+        "wyładowanie"
+      ],
+      "glance": "Pochwa sama się oczyszcza — wystarczy delikatna pielęgnacja zewnętrzna, a wydzielina jest zjawiskiem normalnym.",
+      "overview": "Jedną z najbardziej uspokajających rzeczy jest świadomość, że pochwa sama dba o siebie. Posiada naturalną\nzdolność do samooczyszczania się, a zauważana wydzielina jest tego częścią — jest to płyn, który utrzymuje ją w czystości i nawilżeniu\noraz pomaga chronić ją przed infekcjami. Jej ilość i konsystencja zmieniają się w trakcie cyklu, co jest\ncałkowicie normalne.\n\nZ tego powodu pochwa nie wymaga mycia od wewnątrz. W rzeczywistości mycie jej wnętrza —\n„płukanie” — może zaburzyć jej naturalną równowagę. Część zewnętrzna (srom) wymaga jedynie delikatnej pielęgnacji: ciepłej\nwody i, jeśli chcesz, łagodnego, bezzapachowego mydła. Najlepiej unikać perfumowanych mydeł, żeli, dezodorantów i pachnących\nchusteczek, ponieważ mogą one powodować podrażnienia.\n\nPoznanie tego, co jest dla Ciebie normą — Twoja typowa wydzielina, wygląd i odczucia — ułatwia\nzauważenie, czy coś się zmieniło i czy może być konieczna konsultacja lekarska.",
+      "deep": null,
+      "when_to_see_doctor": "Zgłoś się do lekarza pierwszego kontaktu lub poradni zdrowia seksualnego, jeśli zauważysz:\n\n- zmianę w wydzielinie — jej kolor, zapach lub konsystencję, albo znacznie większą ilość niż zwykle\n- swędzenie, ból lub podrażnienie w okolicy pochwy lub sromu\n- krwawienie między miesiączkami lub po stosunku\n- ból podczas oddawania moczu lub ból w dolnej części brzucha, między brzuchem a udami (ból miednicy)\n\nSą to częste objawy, które zazwyczaj łatwo wyleczyć — zmiana charakteru wydzieliny może oznaczać po prostu łagodną infekcję,\ntaką jak pleśniawka. Aby się upewnić, lepiej poddać się badaniu, zamiast zgadywać.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Cykl i jego fazy",
+      "summary": "Jak przebiega cykl miesiączkowy – od fazy menstruacyjnej, przez fazę folikularną i owulacyjną, aż po fazę lutealną."
+    },
+    "hormones": {
+      "title": "Hormony",
+      "summary": "Substancje regulujące cykl — estrogen, progesteron, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Płodność i owulacja",
+      "summary": "Okres płodności, objawy owulacji oraz czynniki wpływające na płodność."
+    },
+    "contraception": {
+      "title": "Antykoncepcja",
+      "summary": "Jak działają różne metody – prostym językiem."
+    },
+    "symptoms-and-signals": {
+      "title": "Objawy i sygnały wysyłane przez organizm",
+      "summary": "Ból, plamienie, wydzielina, zmiany nastroju — co może ci sugerować twoje ciało."
+    },
+    "conditions": {
+      "title": "Warunki",
+      "summary": "PCOSa, endometrioza, mięśniaki macicy i nie tylko — objaśnienia wraz z podanymi źródłami."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Zdrowie seksualne i intymne",
+      "summary": "Dobre samopoczucie w sferze intymnej, komfort i najczęściej zadawane pytania."
+    },
+    "life-stages": {
+      "title": "Etapy życia",
+      "summary": "Od pierwszej miesiączki, przez okres okołomenopauzalny, aż po menopauzę."
+    },
+    "wellbeing": {
+      "title": "Dobre samopoczucie i cykl",
+      "summary": "Jak sen, stres i codzienne życie wpływają na Twój cykl."
+    },
+    "tests-and-exams": {
+      "title": "Testy i egzaminy",
+      "summary": "Samobadanie piersi, badania przesiewowe szyjki macicy, testy owulacyjne i nie tylko."
+    },
+    "pregnancy": {
+      "title": "Ciąża",
+      "summary": "Wczesne objawy, dbanie o zdrowie, sygnały ostrzegawcze i poronienia — wyjaśnienie wraz z podanymi źródłami."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Poznaj swój cykl w 5 krokach",
+      "summary": "Spokojne omówienie całego cyklu i każdej z jego czterech faz."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Poznajemy owulację",
+      "summary": "Czym jest owulacja, okres płodności oraz jakie sygnały wysyła organizm."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormony odpowiedzialne za cykl miesiączkowy",
+      "summary": "Poznaj czterech posłańców, którzy napędzają ten cykl — i dowiedz się, czym się zajmuje każdy z nich."
+    }
+  }
+}

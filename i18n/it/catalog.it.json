@@ -1,0 +1,993 @@
+{
+  "_meta": {
+    "lang": "it",
+    "is_source": false,
+    "source_content_checksum": "3d041d4d3a5acb4667dcd299321f28f894e8f11442758e2cc190e89b1220677a",
+    "review": "Machine-translated (DeepL) from en — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "L'alcol in gravidanza",
+      "aliases": [
+        "l'alcol in gravidanza",
+        "il consumo di alcol in gravidanza",
+        "alcol e gravidanza",
+        "alcol fetale",
+        "FASD"
+      ],
+      "glance": "L'approccio più sicuro è quello di non bere alcolici durante la gravidanza o quando si sta cercando di concepire.",
+      "overview": "Il consiglio dell’NHS è chiaro e semplice: l’approccio più sicuro è **non bere affatto alcolici** se sei\nincinta o stai cercando di concepire. Non bere riduce al minimo qualsiasi rischio per il tuo bambino.\n\nIl motivo è che l’alcol passa dal sangue materno, attraverso la placenta, al bambino, il cui fegato\nnon è ancora sufficientemente sviluppato per metabolizzarlo. Bere durante la gravidanza può causare la sindrome feto-alcolica\n(FASD), una serie di difficoltà permanenti nell’apprendimento, nel comportamento e nello sviluppo.\n\nSe hai bevuto prima di sapere di essere incinta, cerca di non preoccuparti: il rischio per il bambino derivante da piccole\nquantità assunte nelle prime fasi della gravidanza è probabilmente basso. La cosa più utile è semplicemente evitare l’alcol per il resto della\ngravidanza da questo momento in poi.",
+      "deep": null,
+      "when_to_see_doctor": "- Se hai difficoltà a smettere di bere, non c'è nulla di cui vergognarsi: parlane con la tua ostetrica o\n  con il tuo medico di famiglia. Potranno offrirti sostegno senza giudicarti, e chiedere aiuto fa bene sia a te che al tuo bambino.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Assistenza prenatale",
+      "aliases": [
+        "assistenza prenatale",
+        "assistenza prenatale",
+        "assistenza durante la gravidanza",
+        "visite dall’ostetrica",
+        "prenotazione di un appuntamento",
+        "visite prenatali"
+      ],
+      "glance": "L’assistenza prenatale consiste nei controlli periodici effettuati durante la gravidanza che contribuiscono al benessere tuo e del tuo bambino.",
+      "overview": "L’assistenza prenatale è l’assistenza che ricevi durante la gravidanza per garantire che tu e il tuo bambino stiate il più bene\npossibile. Di solito ti seguirà un’ostetrica e, se necessario, anche un medico. È importante iniziare presto:\ncontatta la tua ostetrica o il tuo medico di base non appena scopri di essere incinta.\n\nIl tuo primo vero appuntamento — il “primo controllo” — si svolge solitamente tra l’8ª e la 12ª settimana. Successivamente\nti verranno offerti controlli regolari: almeno 10 visite e 2 ecografie se è il tuo\nprimo bambino, oppure circa 7 se hai già partorito in precedenza, con un numero maggiore verso la fine della gravidanza.\n\nDurante queste visite l’ostetrica controlla la pressione sanguigna e le urine, misura il girovita per seguire la\ncrescita del bambino, propone test di screening e parla con te dei movimenti del bambino e di come ti\nsenti. Molte condizioni importanti — come la preeclampsia o il diabete gestazionale — vengono individuate in questa fase\nprima ancora che tu possa notare qualcosa, ed è proprio per questo che gli appuntamenti sono fondamentali.",
+      "deep": null,
+      "when_to_see_doctor": "- Contatta un’**ostetrica o il medico di famiglia non appena scopri di essere incinta**, in modo che l’assistenza possa iniziare tempestivamente —\n  idealmente in tempo per la prima visita, da effettuare intorno alla 10ª-12ª settimana.\n- Cerca di rispettare **tutti** gli appuntamenti prenatali, anche se ti senti perfettamente bene: molti controlli\n  sono pensati proprio per individuare precocemente eventuali problemi asintomatici.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "I movimenti del tuo bambino",
+      "aliases": [
+        "movimenti del bambino",
+        "i movimenti del bambino",
+        "movimenti fetali",
+        "calci",
+        "sentire il bambino muoversi",
+        "movimenti ridotti"
+      ],
+      "glance": "Sentire il tuo bambino muoversi è segno che sta bene: se i movimenti rallentano o cambiano, chiama subito la tua ostetrica.",
+      "overview": "Sentire il bambino muoversi è uno dei segnali rassicuranti che indicano che sta bene. La maggior parte delle donne inizia a\npercepire i movimenti tra la 16ª e la 24ª settimana di gravidanza — spesso più tardi nella prima gravidanza, quindi\ndopo la 20ª settimana è normale quando si tratta della prima volta.\n\nNon esiste un numero prestabilito di movimenti che “dovresti” sentire, né è necessario contare i calci per raggiungere un obiettivo.\nOgni bambino è diverso, e ciò che conta è imparare a riconoscere il ritmo abituale del **tuo** bambino\nnel corso della giornata — i momenti in cui è attivo e quelli in cui è tranquillo.\n\nUna volta individuato questo ritmo, è a eventuali cambiamenti rispetto ad esso che devi prestare attenzione. Fidati di ciò che sai\ndel tuo bambino.",
+      "deep": null,
+      "when_to_see_doctor": "Conoscere il ritmo normale del tuo bambino è ciò che ti permette di notare un cambiamento. Se mai dovessi avere dei dubbi\nsul fatto che i movimenti si siano rallentati o siano cambiati, è sempre giusto chiamare per verificare: non farai mai\nperdere tempo a nessuno.",
+      "red_flags": "- Se il tuo bambino **si muove meno del solito, i suoi movimenti cambiano o non riesci a percepirli**,\n  **chiama immediatamente la tua ostetrica o il reparto di ostetricia** — a qualsiasi ora del giorno o della notte. **Non aspettare\n  fino al giorno dopo**, anche se è notte fonda.\n- Non affidarti a un monitor domestico per il battito cardiaco (doppler) o a un’app per tranquillizzarti: fatti visitare\n  di persona."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Mal di schiena in gravidanza",
+      "aliases": [
+        "mal di schiena in gravidanza",
+        "mal di schiena in gravidanza",
+        "mal di schiena in gravidanza",
+        "mal di schiena in gravidanza"
+      ],
+      "glance": "Il mal di schiena è molto comune in gravidanza, poiché i legamenti si ammorbidiscono e il pancione cresce — di solito è innocuo.",
+      "overview": "Il mal di schiena è uno dei disturbi più comuni durante la gravidanza. Man mano che il corpo si prepara al parto, i\nlegamenti si ammorbidiscono e si allungano naturalmente, mentre il pancione in crescita modifica la distribuzione del peso —\nentrambi questi fattori esercitano una pressione aggiuntiva sulla parte bassa della schiena e sul bacino.\n\nAlcune semplici abitudini quotidiane possono alleviare il dolore: prestare attenzione alla postura quando si sta in piedi, seduti o si sollevano oggetti;\nindossare scarpe piatte che sostengano bene il piede; utilizzare un materasso rigido o un cuscino che offra un buon sostegno; e praticare un’attività fisica leggera e regolare\ncome camminare, lo yoga in gravidanza o gli esercizi proposti in un corso. Se il dolore diventa davvero fastidioso, un\nfisioterapista ostetrico può fornire consigli su misura.\n\nNella maggior parte dei casi il mal di schiena in gravidanza non è motivo di preoccupazione — ma alcuni sintomi meritano di essere controllati\ntempestivamente, ed è proprio a questo che servono le indicazioni riportate di seguito.",
+      "deep": null,
+      "when_to_see_doctor": "Contatta tempestivamente il tuo **medico di famiglia o l’ostetrica** se il tuo mal di schiena:\n\n- è **grave**, o si manifesta nel **secondo o terzo trimestre** (a volte può essere un segno di\n  travaglio prematuro)\n- è accompagnato da **febbre, sanguinamento vaginale o dolore durante la minzione**\n- si manifesta **ai fianchi, sotto le costole**",
+      "red_flags": "- Chiama il **999 o recati al pronto soccorso** se **perdi la sensibilità alle gambe, ai glutei o ai genitali**, oppure se perdi\n  il controllo della vescica o dell'intestino. Si tratta di un evento raro, ma che richiede cure di emergenza."
+    },
+    "basal-body-temperature": {
+      "title": "Temperatura corporea basale",
+      "aliases": [
+        "bbt",
+        "temperatura corporea basale",
+        "temperatura al risveglio",
+        "metodo della temperatura"
+      ],
+      "glance": "La temperatura corporea basale è la temperatura misurata al risveglio, a riposo, che aumenta leggermente dopo l'ovulazione.",
+      "overview": "La temperatura corporea basale (BBT) è la temperatura del corpo a completo riposo. Se misurata ogni giorno nello stesso modo,\nmostra una variazione lieve ma significativa nel corso del ciclo: dopo l’ovulazione, aumenta leggermente e\nrimane elevata fino alle mestruazioni successive.\n\nL’aumento è modesto — circa da 0,4 a 0,8 °F (da 0,2 a 0,4 °C) — quindi va interpretato osservando l’andamento nel corso di\ndiversi giorni, non basandosi su una singola misurazione. Per rilevarlo, misurate la temperatura ogni mattina prima di\nalzarvi, mangiare o bere, idealmente alla stessa ora. Quasi tutte le donne ovulano entro circa\ntre giorni dall’aumento della temperatura.\n\nPoiché l’aumento si verifica *dopo* il rilascio dell’ovulo, l’BBTe conferma che l’ovulazione è avvenuta piuttosto che\nprevedere in anticipo. Nel corso di alcuni cicli può aiutarti a capire l’andamento del tuo ciclo,\nanche se di per sé non è un metodo preciso per individuare i giorni fertili.",
+      "deep": "BBT è uno degli indicatori del metodo della consapevolezza della fertilità registrati quotidianamente, insieme al muco cervicale e alla durata\ndel ciclo. Si abbina naturalmente al monitoraggio del muco: il passaggio a un muco trasparente e scivoloso suggerisce che\nla finestra fertile si stia aprendo, mentre l’aumento della temperatura, alcuni giorni dopo, conferma che l’ovulazione è\ngià avvenuta. Molti fattori possono influenzare la temperatura a riposo — sonno di scarsa qualità, malattia, alcol o un risveglio tardivo —\nquindi i singoli valori anomali contano meno dell’andamento generale.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Sanguinamento in gravidanza",
+      "aliases": [
+        "emorragia in gravidanza",
+        "sanguinamento vaginale in gravidanza",
+        "spotting in gravidanza",
+        "sanguinamento durante la gravidanza"
+      ],
+      "glance": "Le perdite di sangue durante la gravidanza non sono sempre gravi — nelle prime fasi è normale avere delle lievi perdite — ma è sempre bene farsi controllare.",
+      "overview": "Il sanguinamento vaginale durante la gravidanza non è sempre segno che ci sia qualcosa che non va. Un leggero\nsanguinamento o delle perdite sono piuttosto comuni, soprattutto all’inizio della gravidanza, e molte gravidanze proseguono\nsenza problemi anche dopo.\n\nDetto questo, il sanguinamento a volte può essere sintomo di un problema — come un aborto spontaneo o una gravidanza ectopica\n— quindi è una situazione che dovrebbe **essere sempre controllata**, indipendentemente dall’entità. Farsi\nvisitare permette di individuarne la causa e di ricevere rapidamente le cure adeguate, se necessario.\n\nPoiché lo stesso sintomo può avere significati molto diversi, la cosa più utile da fare non è cercare di indovinare, ma\ncontattare un medico e farsi visitare.",
+      "deep": null,
+      "when_to_see_doctor": "- **Contatta sempre il tuo reparto di ostetricia** (oppure, se sei a meno di 20 settimane o non hai il loro\n  numero, un centro per la gravidanza precoce o **NHS 111**) se hai **qualsiasi** sanguinamento vaginale durante la gravidanza,\n  anche se si tratta solo di un leggero spruzzetto — in modo che se ne possa verificare la causa.",
+      "red_flags": "- Chiama il **999 o recati al pronto soccorso** se hai un **sanguinamento abbondante** — ad esempio, se un assorbente si impregna subito dopo\n  averlo messo — soprattutto se accompagnato da **forte dolore addominale, dolore alla punta della spalla, nausea, svenimento,\n  vertigini o perdita di coscienza.** In questi casi è necessario ricorrere alle cure di emergenza."
+    },
+    "breast-awareness": {
+      "title": "Prevenzione del cancro al seno",
+      "aliases": [
+        "prevenzione del cancro al seno",
+        "come controllare il seno",
+        "autopalpazione del seno",
+        "autopalpazione del seno",
+        "controllo del seno"
+      ],
+      "glance": "La consapevolezza del proprio seno consiste semplicemente nel conoscere l'aspetto e la consistenza normali del proprio seno, in modo da poter notare eventuali cambiamenti.",
+      "overview": "L’autopalpazione del seno non è una tecnica particolare: si tratta semplicemente di imparare a riconoscere ciò che è normale per te, in modo\nche qualsiasi novità ti salti all’occhio. Controllare regolarmente il seno ti aiuta a familiarizzare con il suo\naspetto e la sua consistenza abituali; una volta al mese è una buona frequenza.\n\nNon esiste un unico modo \"giusto\" per farlo. Molte persone si guardano allo specchio con le braccia lungo i fianchi e poi sollevate, e\npalpano ciascun seno, risalendo fino all’ascella. Quello che stai acquisendo è familiarità, non una diagnosi: l’\nobiettivo è semplicemente quello di notare tempestivamente un cambiamento, qualora dovesse verificarsi.\n\nInoltre, il seno cambia naturalmente nel corso del ciclo mestruale e nel corso della vita, quindi alcuni cambiamenti sono del tutto\nnormali. Lo scopo della consapevolezza è conoscere abbastanza bene la propria normalità da individuare qualcosa che non lo è.",
+      "deep": null,
+      "when_to_see_doctor": "Rivolgiti al medico di famiglia se noti qualsiasi cambiamento che non sia normale per te, come ad esempio:\n\n- un nodulo o un gonfiore al seno, al torace o all’ascella\n- un cambiamento della pelle, come la formazione di fossette (che possono assomigliare alla buccia d’arancia) o arrossamenti\n- un cambiamento nelle dimensioni o nella forma di uno o entrambi i seni\n- secrezioni dal capezzolo (se non sei incinta o non stai allattando), che potrebbero presentare tracce di sangue\n- un cambiamento nell’aspetto del capezzolo, come ad esempio il suo rigirarsi verso l’interno\n- dolore al seno o all’ascella che non scompare\n\nLa maggior parte dei cambiamenti al seno non è di natura tumorale e si rivela innocua — ma vale sempre la pena far\ncontrollare tempestivamente qualsiasi cambiamento, perché se qualcosa richiede attenzione, individuarlo precocemente è di grande aiuto.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Allattamento al seno",
+      "aliases": [
+        "allattamento al seno",
+        "assistenza infermieristica",
+        "latte materno",
+        "allattamento al seno",
+        "l'alimentazione del tuo bambino"
+      ],
+      "glance": "Il latte materno protegge il bambino dalle infezioni e si adatta man mano che cresce — e qualsiasi quantità apporta benefici.",
+      "overview": "Il latte materno è un alimento naturale e completo per il bambino: fornisce le sostanze nutritive, le vitamine e i minerali\ndi cui ha bisogno e si adatta nel tempo alle diverse fasi della sua crescita. Aiuta inoltre a proteggere da infezioni\ne malattie e offre alcuni benefici per la salute a lungo termine.\n\nCi sono benefici anche per la madre: l’allattamento al seno è associato a un minor rischio di cancro al seno\ne alle ovaie, tra le altre cose — e in generale vale la regola che più a lungo e più spesso si\nallatta, maggiori sono i benefici. È importante sottolineare che **qualsiasi** quantità di latte materno è preziosa; non è\nuna questione di “tutto o niente”.\n\nAllattare un neonato può anche risultare più difficile del previsto all’inizio, ed è una cosa normale. È disponibile assistenza — da parte della\ntua ostetrica, dell’assistente sanitario e del servizio di supporto all’allattamento “NHS” — quindi rivolgersi tempestivamente a qualcuno se le cose non procedono\nsenza intoppi è una mossa saggia.",
+      "deep": null,
+      "when_to_see_doctor": "- Chiedi aiuto alla tua **ostetrica o all’assistente sanitaria** sin dall’inizio se l’allattamento è doloroso o difficile, oppure\n  se temi che il tuo bambino non si stia nutrendo a sufficienza: il sostegno può fare davvero la differenza.\n- Il modo in cui allatti il tuo bambino è una scelta personale e troverai sostegno qualunque sia la tua decisione; ciò che\n  conta è che tu e il tuo bambino stiate bene.",
+      "red_flags": null
+    },
+    "cervical-mucus": {
+      "title": "Muco cervicale",
+      "aliases": [
+        "muco cervicale",
+        "scarico",
+        "secrezione vaginale",
+        "secrezioni cervicali",
+        "muco dell'albume"
+      ],
+      "glance": "Il muco cervicale è la secrezione naturale che varia nel corso del ciclo e indica i giorni fertili.",
+      "overview": "Il muco cervicale è il fluido prodotto dalla cervice, che potresti notare sotto forma di secrezioni. È normale, e\nil suo aspetto e la sua consistenza cambiano secondo uno schema abbastanza prevedibile nel corso del ciclo — ed è per questo che è uno\ndei segni utilizzati per individuare i giorni fertili.\n\nSubito dopo le mestruazioni ci sono spesso alcuni giorni “asciutti” con poco muco. Man mano che l’ovulo inizia a\nmaturare, il muco aumenta e tende ad essere bianco o giallo, torbido e appiccicoso. Nei giorni immediatamente\nprecedenti l’ovulazione, di solito diventa trasparente, umido e scivoloso, allungandosi tra le dita come l’\nalbume d’uovo crudo: questo è il momento di massima fertilità. Dopo l’ovulazione, in genere torna ad essere appiccicoso e torbido\n, oppure si asciuga.\n\nIl modello varia leggermente da persona a persona e possono essere necessari alcuni cicli di osservazione per imparare a\nriconoscere il proprio. Alcuni fattori — come la contraccezione ormonale, l’allattamento al seno o un’infezione — possono alterare\nla consistenza del muco, quindi non si tratta di un segno di fertilità affidabile per tutte.",
+      "deep": "L’osservazione del muco cervicale è uno dei segni di consapevolezza della fertilità che le persone monitorano, insieme alla temperatura corporea a riposo\ne alla durata del ciclo; imparare a riconoscerli richiede solitamente da due a tre cicli. A differenza dell’aumento della temperatura\n, che conferma l’ovulazione solo dopo che questa si è verificata, il passaggio a un muco trasparente, scivoloso e simile all’albume\ntende a manifestarsi *prima* dell’ovulazione; ecco perché viene utilizzato per segnalare l’inizio della finestra fertile\npiuttosto che la sua chiusura.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Screening cervicale (pap test)",
+      "aliases": [
+        "screening cervicale",
+        "pap test",
+        "macchia",
+        "pap test",
+        "pap test"
+      ],
+      "glance": "Lo screening cervicale è un controllo di routine dello stato di salute della cervice che aiuta a prevenire il cancro del collo dell'utero.",
+      "overview": "Lo screening cervicale è un esame che verifica lo stato di salute della cervice, ovvero l’apertura dell’utero situata nella\nparte superiore della vagina. Non si tratta di un test per il cancro, bensì di un modo per individuare precocemente eventuali alterazioni e contribuire a\nprevenire lo sviluppo del cancro cervicale.\n\nTutte le persone con una cervice sono invitate a sottoporsi all’esame dall’età di 25 fino ai 64 anni. Ti verrà inviato un invito quando\nsarà il momento, a intervalli regolari, quindi non dovrai ricordarti di prenotarlo all’improvviso —\nanche se la scelta di sottoporvisi spetta sempre a te.\n\nL’esame in sé è veloce e viene eseguito da un’infermiera. Molte persone si sentono un po’ nervose al riguardo, il che è\ndel tutto comprensibile; sapere a cosa serve — un controllo di routine e preventivo — può farlo sembrare\npiù gestibile.",
+      "deep": null,
+      "when_to_see_doctor": "- Lo screening è indicato quando **non** si presentano sintomi. Se noti qualcosa che ti preoccupa\n  tra un screening e l’altro — come sanguinamenti insoliti (tra un ciclo e l’altro, dopo un rapporto sessuale o dopo la menopausa) —\n  rivolgiti al medico di base invece di aspettare il prossimo invito.\n- Se hai ricevuto l’invito e sei indecisa o ansiosa all’idea di andare, vale la pena parlare con il tuo medico di base o\n  con l’infermiera dello studio medico, che potranno spiegarti come si svolge la visita e rispondere alle tue domande.",
+      "red_flags": null
+    },
+    "combined-pill": {
+      "title": "La pillola combinata",
+      "aliases": [
+        "pillola combinata",
+        "la pillola",
+        "contraccettivo orale combinato",
+        "COC"
+      ],
+      "glance": "La pillola combinata è una pillola da assumere quotidianamente che contiene due ormoni e agisce principalmente bloccando l'ovulazione.",
+      "overview": "La pillola combinata è una compressa da assumere quotidianamente che contiene due ormoni — forme di estrogeno e progestinico,\nsimili a quelli prodotti dalle ovaie. È uno dei metodi contraccettivi più conosciuti.\n\nPreviene la gravidanza in diversi modi contemporaneamente. Principalmente, impedisce alle ovaie di rilasciare un ovulo\n(ovulazione). Inoltre, rende più denso il muco alla cervice, rendendo più difficile il passaggio degli spermatozoi,\ne assottiglia il rivestimento dell’utero.\n\nLa sua efficacia dipende dal rispetto delle indicazioni: è efficace oltre il 99% se utilizzata in modo perfetto, ma\nnell’uso tipico e quotidiano — in cui a volte le pillole vengono saltate o assunte in ritardo — l’efficacia si attesta intorno al 91%\n. Come la maggior parte dei metodi, non protegge dalle malattie sessualmente trasmissibili, quindi alcune persone utilizzano anche i preservativi.",
+      "deep": "La pillola combinata viene solitamente assunta seguendo uno schema mensile, e le modalità di assunzione, a chi è indicata,\nnonché i suoi effetti collaterali e i rischi sono aspetti che il medico illustra al momento della prescrizione — non è\nadatta a tutte. Trattandosi di un metodo da assumere quotidianamente, la sua efficacia nella pratica dipende in gran parte dalla\nregolarità. Questo articolo spiega cos’è e come funziona; i dettagli relativi all’inizio, all’assunzione o\nall’interruzione del trattamento devono essere discussi con un medico di base, un infermiere o un farmacista.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Sintomi comuni della gravidanza",
+      "aliases": [
+        "sintomi comuni della gravidanza",
+        "disturbi della gravidanza",
+        "bruciore di stomaco in gravidanza",
+        "mal di schiena in gravidanza",
+        "caviglie gonfie",
+        "stitichezza in gravidanza",
+        "dolori legati alla gravidanza"
+      ],
+      "glance": "La gravidanza comporta tanti piccoli disturbi e cambiamenti — per lo più normali, anche se alcuni meritano di essere tenuti sotto controllo.",
+      "overview": "La gravidanza comporta molti cambiamenti per il corpo e porta con sé una lunga serie di piccoli fastidi quotidiani. La maggior parte\ndi essi è comune e non indica che ci sia qualcosa che non va: fanno semplicemente parte della crescita del bambino.\n\nTra quelli più comuni figurano mal di schiena, bruciore di stomaco e indigestione, stitichezza, emorroidi, gonfiore alle caviglie, ai piedi\ne alle dita, stanchezza e sonno disturbato, crampi alle gambe, mal di testa, sensazione di svenimento e secrezioni più abbondanti del\nsolito. Molti di questi disturbi si alleviano con piccoli accorgimenti, e la tua ostetrica potrà consigliarti quali soluzioni sono sicure se qualcosa\nti dà fastidio.\n\nÈ utile sapere quali cambiamenti sono normali e quali invece meritano attenzione —\nperché alcuni sintomi, sebbene meno comuni, richiedono un controllo piuttosto che essere semplicemente ignorati.",
+      "deep": null,
+      "when_to_see_doctor": "La maggior parte di questi sintomi è normale, ma contatta tempestivamente la tua **ostetrica o il reparto di maternità** se manifesti:\n\n- **sanguinamento vaginale**, oppure un improvviso getto o sgocciolio di liquido\n- il **bambino che si muove meno** del solito\n- **forte mal di testa, problemi alla vista o improvviso gonfiore** del viso, delle mani o dei piedi (possibili\n  segni di pre-eclampsia)\n- **dolore addominale intenso o localizzato su un solo lato**, oppure **febbre alta**\n- **prurito**, specialmente alle mani e ai piedi o che peggiora di notte (può essere un segno di una\n  patologia epatica in gravidanza che richiede un controllo)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Preservativi",
+      "aliases": [
+        "preservativo",
+        "preservativi",
+        "preservativo esterno",
+        "gomma",
+        "metodo della barriera"
+      ],
+      "glance": "I preservativi sono un metodo contraccettivo di barriera — e l'unico tipo di contraccezione che protegge anche dalle malattie sessualmente trasmissibili.",
+      "overview": "Il preservativo è una sottile barriera — solitamente in lattice, oppure in un materiale plastico alternativo per chi soffre di allergia al lattice\n— che si indossa sul pene durante il rapporto sessuale. Il suo funzionamento è semplice: impedisce agli spermatozoi di entrare nella vagina.\n\nCiò che rende i preservativi speciali tra i contraccettivi è che sono **l'unico metodo che protegge anche\ndalle infezioni sessualmente trasmissibili (IST), compreso l’HIV.** Ecco perché vengono spesso utilizzati\ninsieme a un altro metodo: uno per prevenire la gravidanza, entrambi insieme per proteggersi dalle infezioni.\n\nSe utilizzati correttamente ogni volta, i preservativi hanno un’efficacia di circa il 98% nella prevenzione della gravidanza. Con un\nuso tipico — in cui a volte vengono utilizzati in modo errato o non sempre — tale efficacia scende a circa l’82%. Utilizzarne\nuno in modo corretto e costante è ciò che fa la differenza.",
+      "deep": "Poiché i preservativi vengono utilizzati al momento piuttosto che in anticipo, la loro efficacia nella pratica\ndipende in larga misura da un uso corretto e costante. I preservativi interni (da inserire nella vagina) rappresentano un’altra\nopzione di barriera. A differenza della maggior parte dei metodi, i preservativi non richiedono prescrizione medica e sono ampiamente disponibili, e\nil loro duplice ruolo — protezione dalla gravidanza e dall’STIe — è il motivo per cui vengono citati così spesso nelle conversazioni sul\nsesso sicuro.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Contraccezione",
+      "aliases": [
+        "contraccezione",
+        "contraccezione",
+        "pianificazione familiare"
+      ],
+      "glance": "La contraccezione comprende i diversi metodi per prevenire una gravidanza — e ce ne sono molti tra cui scegliere.",
+      "overview": "La contraccezione — talvolta chiamata “controllo delle nascite” — è l’insieme dei metodi utilizzati per prevenire la gravidanza.\nNe esistono molti, che funzionano in modi diversi: alcuni utilizzano ormoni, altri sono metodi di barriera, altri ancora\nvengono inseriti nell’utero e altri si basano sul monitoraggio del ciclo mestruale.\n\nL’efficacia di un metodo dipende in gran parte da come viene utilizzato. Alcuni metodi — come l’impianto e la\nspirale — sono del tipo «inserisci e dimentica» e hanno un’efficacia superiore al 99%. Altri, come la pillola o i preservativi, sono\nmolto efficaci se utilizzati in modo perfetto, ma lo sono un po’ meno nell’uso quotidiano e tipico, perché è\npiù facile dimenticare una pillola o usare un preservativo in modo errato.\n\nUna cosa da sapere: **solo i preservativi proteggono anche dalle infezioni sessualmente trasmissibili\n(IST)**. Gli altri metodi prevengono la gravidanza ma non le infezioni, motivo per cui i preservativi vengono talvolta\nutilizzati in combinazione con un altro metodo.\n\nNon esiste un unico metodo “migliore”: quello giusto dipende dalla tua salute, dal tuo corpo e da ciò che si adatta meglio\nalla tua vita. Un medico di base o una clinica di salute sessuale possono illustrarti le opzioni disponibili e aiutarti a scegliere.",
+      "deep": "Poiché i metodi differiscono notevolmente, è utile riflettere su ciò che conta per te: quanto sia efficace,\nse comporti il dover ricordare qualcosa ogni giorno, quanto duri, se desideri assumere ormoni o\nmeno e se la protezione contro l’STIe sia importante nella tua situazione. Molte persone cambiano metodo nel corso della loro\nvita man mano che cambiano le loro esigenze. Questa guida descrive come funzionano i metodi più comuni in modo che le\nscelte risultino più chiare — ma la decisione, così come l’eventuale prescrizione o applicazione, va presa insieme a un\nmedico.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "L'impianto contraccettivo",
+      "aliases": [
+        "impianto contraccettivo",
+        "l'impianto",
+        "Nexplanon",
+        "impianto"
+      ],
+      "glance": "L'impianto è una minuscola asticella inserita nella parte superiore del braccio che rilascia un ormone per alcuni anni.",
+      "overview": "L’impianto contraccettivo è una piccola asticella flessibile — delle dimensioni di un fiammifero — che viene inserita appena\nsotto la pelle della parte superiore del braccio da un operatore sanitario qualificato. Una volta inserito, rilascia in modo costante un ormone progestinico\ne rimane efficace per un periodo massimo di circa tre anni.\n\nPreviene la gravidanza principalmente impedendo alle ovaie di rilasciare un ovulo (ovulazione) e\nrendendo più denso il muco della cervice, in modo che gli spermatozoi non possano attraversarlo. Poiché non c’è nulla di cui\nricordarsi giorno per giorno, è uno dei metodi “inserisci e dimentica”.\n\nQuesto è anche il motivo per cui è una delle opzioni più affidabili: l’impianto ha un’efficacia superiore al 99% e la sua\nefficacia varia di poco tra l’uso perfetto e quello tipico. Come altri metodi ormonali,\nnon protegge dalle malattie sessualmente trasmissibili.",
+      "deep": "L’impianto è un metodo contraccettivo reversibile a lunga durata: continua a funzionare fino alla sua rimozione e la fertilità\nritorna dopo la rimozione. L’inserimento e la rimozione sono procedure rapide eseguite da un medico, che\nspiega anche a chi è indicato e quali sono i suoi effetti collaterali. Questo articolo spiega cos’è e come\nfunziona; la decisione di ricorrervi va presa dopo averne discusso con un medico di base, un infermiere o presso un centro di salute sessuale.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Il ciclo mestruale e il benessere",
+      "aliases": [
+        "benessere",
+        "ciclismo e salute",
+        "ciclo mestruale e salute",
+        "segno vitale"
+      ],
+      "glance": "Il ciclo mestruale è un po’ come un controllo mensile dello stato di salute: vale la pena prestare attenzione ai cambiamenti che si verificano.",
+      "overview": "Il ciclo mestruale non è una cosa a sé stante rispetto al resto della tua salute: è strettamente legato ad essa. Un ciclo\nregolare è in genere un segno che il tuo corpo funziona come dovrebbe. Ecco perché\nalcune persone considerano le mestruazioni una sorta di indicatore mensile del benessere generale.\n\nLa vita quotidiana influisce su di esso. Il peso corporeo ne è un esempio: essere significativamente sottopeso o sovrappeso\npuò influire sugli ormoni che regolano l’ovulazione, causando irregolarità mestruali. Questo vale in entrambi i\nsensi: prendersi cura degli aspetti fondamentali, come seguire un’alimentazione equilibrata e mantenersi attive, favorisce il\nciclo, e un ciclo regolare è segno che questi aspetti sono in un ragionevole equilibrio.\n\nNon si tratta di cercare un ciclo “perfetto” o di incolpare se stesse per i cambiamenti. È semplicemente che\nprestare un po’ di attenzione al proprio ciclo può essere un utile indicatore di come ci si sente — e uno spunto per\nconsultare un medico se qualcosa cambia.",
+      "deep": null,
+      "when_to_see_doctor": "- Rivolgiti al medico di famiglia se le mestruazioni diventano irregolari, cessano o subiscono cambiamenti insoliti per te —\n  cambiamenti persistenti possono talvolta indicare un problema che vale la pena approfondire.\n- Vale la pena parlarne anche se i disturbi mestruali stanno influenzando la tua vita quotidiana, in modo da poter ricevere\n  aiuto invece di limitarti a sopportarli.",
+      "red_flags": null
+    },
+    "ectopic-pregnancy": {
+      "title": "Gravidanza ectopica",
+      "aliases": [
+        "gravidanza ectopica",
+        "ectopico",
+        "gravidanza tubarica"
+      ],
+      "glance": "Una gravidanza ectopica si sviluppa al di fuori dell'utero: non può proseguire e richiede un intervento medico immediato.",
+      "overview": "Si parla di gravidanza ectopica quando un ovulo fecondato si impianta al di fuori dell’utero, il più delle volte in una delle\ntube di Falloppio. Purtroppo, una gravidanza in questa posizione non può portare alla nascita di un bambino e non può essere\ntrasferita nell’utero — pertanto richiede sempre un trattamento.\n\nI sintomi compaiono solitamente tra la quarta e la dodicesima settimana circa e possono includere dolore addominale nella parte bassa su un lato,\nsanguinamento vaginale o perdite acquose di colore marrone, dolore alla punta della spalla o fastidio durante\nla minzione o la defecazione. La combinazione dei sintomi varia e alcuni possono essere facilmente scambiati per qualcosa di banale,\nmotivo per cui è importante sottoporsi a un controllo.\n\nSi tratta di una situazione rara, ma potenzialmente grave, quindi non è il caso di aspettare che passi da sé. Rivolgersi a un\nmedico tempestivamente significa poterla gestire in modo sicuro.",
+      "deep": null,
+      "when_to_see_doctor": "- Contatta il tuo medico di famiglia o chiama il numero **NHS 111** se presenti una combinazione di questi sintomi **e potresti essere\n  incinta** — anche se il test di gravidanza non è risultato positivo. È importante chiedere consiglio\n  immediatamente.",
+      "red_flags": "- Chiama il **999 o recati al pronto soccorso** se avverti un **dolore improvviso, acuto e intenso all’addome**, se ti senti **molto\n  stordito o sul punto di svenire**, se sei **molto pallido** o se hai nausea insieme a questi sintomi. Questo può indicare una rottura della tuba di Falloppio\n  — un’emergenza medica che richiede un trattamento urgente."
+    },
+    "emergency-contraception": {
+      "title": "Contraccezione d'emergenza",
+      "aliases": [
+        "contraccezione d’emergenza",
+        "pillola del giorno dopo",
+        "pillola del giorno dopo",
+        "pillola del giorno dopo",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "La contraccezione d’emergenza può prevenire una gravidanza dopo un rapporto sessuale non protetto — e prima si interviene, meglio è.",
+      "overview": "La contraccezione d’emergenza è un modo per prevenire una gravidanza dopo un rapporto sessuale non protetto o quando il tuo\nmetodo abituale potrebbe aver fallito (una pillola dimenticata, un preservativo rotto). Ne esistono due tipi e, in entrambi i casi,\ni tempi sono fondamentali.\n\nIl primo è la **pillola del giorno dopo**. Ne esistono due tipi: uno (levonorgestrel) può essere assunto fino a\n3 giorni — 72 ore — dopo il rapporto sessuale, mentre l’altro (ulipristal acetato, nome commerciale ellaOne) fino a 5 giorni —\n120 ore. La seconda opzione è la **spirale in rame (IUD)**, che un medico può inserire fino a 5 giorni\ndopo il rapporto; è la forma più efficace di contraccezione d’emergenza e può poi rimanere inserita come\nmetodo contraccettivo continuativo, se lo desideri.\n\nPer tutti questi metodi, **prima li si utilizza, maggiore è la loro efficacia** — quindi conviene agire\nrapidamente piuttosto che aspettare. È possibile ottenere la contraccezione d’emergenza in farmacia, dal medico di base, presso una\nclinica di salute sessuale o in un centro senza appuntamento, spesso gratuitamente.",
+      "deep": null,
+      "when_to_see_doctor": "- Poiché il tempo è fondamentale, non aspettare: un farmacista può fornirti rapidamente la pillola del giorno dopo, mentre\n  un centro di salute sessuale o il medico di base possono prescriverti l’IUDe.\n- La contraccezione d’emergenza serve a prevenire la gravidanza, non le infezioni. Se c’è la minima possibilità di un’\n  infezione a trasmissione sessuale, un centro di salute sessuale può consigliarti di sottoporti a un test.\n- Se poi il ciclo mestruale è in ritardo di più di qualche giorno o è molto diverso dal solito, è opportuno fare\n  un test di gravidanza e rivolgersi a un medico.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriosi",
+      "aliases": [
+        "endometriosi",
+        "endo"
+      ],
+      "glance": "L'endometriosi è una patologia in cui un tessuto simile al rivestimento dell'utero cresce al di fuori dell'utero, causando spesso dolore.",
+      "overview": "L’endometriosi è una patologia cronica in cui cellule simili al rivestimento dell’utero crescono\nin altre parti del corpo, ad esempio intorno alle ovaie, nella zona pelvica o nell’intestino. È una patologia comune:\nsi stima che colpisca circa 1 donna su 10 in età riproduttiva in tutto il mondo.\n\nPoiché questo tessuto si comporta in modo simile al rivestimento uterino, può causare infiammazione e, nel tempo,\nla formazione di tessuto cicatriziale. Il sintomo più comune è il dolore: spesso si manifesta con forti dolori mestruali, ma anche con dolori pelvici o alla parte bassa della schiena\nin altri momenti, dolore durante o dopo i rapporti sessuali e dolore durante la minzione o la defecazione. Sono comuni anche mestruazioni molto abbondanti,\nstanchezza profonda, umore depresso e difficoltà a rimanere incinta. I sintomi variano molto —\nalcune persone provano dolore intenso, altre solo lieve.\n\nL’endometriosi è spesso fraintesa e possono volerci anni per riconoscerla, in parte perché i dolori mestruali vengono\nspesso liquidati come “normali”. Un dolore intenso che compromette la tua vita non è qualcosa che devi semplicemente\nsopportare: vale la pena prenderlo sul serio.",
+      "deep": "La causa esatta dell’endometriosi non è nota e attualmente non esiste una cura, ma i trattamenti possono\naiutare a gestire i sintomi; le opzioni vanno dai farmaci, fino, in alcuni casi, all’intervento chirurgico, oltre a\nun sostegno per affrontare il peso fisico ed emotivo della malattia. Una delle sfide maggiori è il ritardo: in media possono\ncorrere diversi anni, a volte molti, prima di arrivare a una diagnosi. Questo è uno dei motivi per cui tenere un registro chiaro\ndei propri sintomi e rivolgersi nuovamente a un medico se non si viene ascoltate può essere così importante.",
+      "when_to_see_doctor": "Vale la pena consultare il medico di base se:\n\n- soffri di forti dolori mestruali che ti impediscono di svolgere le normali attività\n- hai un flusso mestruale molto abbondante — ad esempio, se devi cambiare un assorbente o un tampone ogni 1–2 ore\n- soffri di dolori pelvici o alla parte bassa della schiena persistenti, dolore durante o dopo i rapporti sessuali, oppure dolore durante la minzione o la defecazione\n- hai difficoltà a rimanere incinta\n- le cure che hai già seguito non hanno dato risultati, oppure i tuoi sintomi sono peggiorati\n\nPoiché la diagnosi dell’endometriosi può richiedere tempo, è giusto tornare dal medico se i tuoi sintomi non vengono presi\nsul serio: un quadro chiaro dell’evoluzione del tuo dolore nel tempo è d’aiuto. Se il dolore o il sanguinamento abbondante stanno\ninfluendo anche sul tuo umore, parlane con il tuo medico di base; fa parte del quadro clinico e puoi ricevere sostegno.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogeno",
+      "aliases": [
+        "estrogeno"
+      ],
+      "glance": "L'estrogeno è un ormone fondamentale che aiuta a preparare il corpo a un'eventuale gravidanza ad ogni ciclo.",
+      "overview": "L’estrogeno è uno dei principali ormoni alla base del ciclo mestruale. Nella prima metà del ciclo\n(la fase follicolare) il suo livello aumenta man mano che un follicolo nell’ovaio matura. Questo aumento ispessisce il\nrivestimento dell’utero e porta all’ovulazione.\n\nL’estrogeno influenza anche aspetti che potresti notare nella vita quotidiana: l’energia, l’umore e i cambiamenti nel\nmuco cervicale nei giorni fertili. Dopo l’ovulazione, il suo livello cala per poi variare nuovamente,\nagendo in sinergia con un altro ormone, il progesterone, durante la seconda metà del ciclo.\n\nI livelli aumentano e diminuiscono naturalmente nel corso di ogni ciclo e cambiano anche nelle diverse fasi della vita. Questo è\nnormale: è il ritmo che regola il tuo corpo, non qualcosa da “correggere”.",
+      "deep": "L'estrogeno non è una singola sostanza, ma un gruppo di ormoni correlati (il più attivo nel ciclo\nè l'estradiolo). La maggior parte viene prodotta dalle ovaie, nel follicolo in crescita. Il suo aumento e la sua\ndiminuzione ciclici — insieme al progesterone e agli ormoni di segnalazione del cervello, l’LHa e l’FSHa — sono ciò che\ndeterminano le fasi del ciclo. Poiché gli estrogeni influenzano molti sistemi, le loro variazioni naturali possono\nmanifestarsi in piccoli modi nel corso del mese; monitorarle ti aiuta a conoscere il tuo schema personale piuttosto che\nconfrontarlo con una “media”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "L'attività fisica e il ciclo mestruale",
+      "aliases": [
+        "esercizio fisico",
+        "attività fisica",
+        "allenarsi",
+        "movimento",
+        "esercizio fisico e cicli mestruali"
+      ],
+      "glance": "Puoi rimanere attiva per tutta la durata del ciclo — e un’attività fisica regolare può alleviare i crampi e l’PMSe.",
+      "overview": "Puoi praticare attività fisica in qualsiasi momento del tuo ciclo. Alcune persone notano di avere più energia e\ndi riuscire a spingersi un po’ oltre in certi periodi del mese, mentre in altri ne hanno meno: entrambe le situazioni sono normali e\nnessuna delle due è un motivo per smettere di muoversi.\n\nUn’attività fisica regolare può effettivamente aiutare ad alleviare alcuni sintomi legati al ciclo mestruale. Chi si allena regolarmente\nspesso soffre meno di crampi dolorosi, e rimanere attive può alleviare anche i sintomi premestruali (PMS). Nei\ngiorni in cui l’energia è più bassa, anche un movimento più leggero è comunque utile: non deve essere per forza intenso per essere efficace.\n\nNon c’è bisogno di organizzare la tua vita in base al ciclo mestruale, né esiste un unico modo “giusto” di muoversi. Osservare\nil tuo andamento energetico nel corso del mese può semplicemente aiutarti a pianificare le attività in modo che ti facciano stare bene.",
+      "deep": null,
+      "when_to_see_doctor": "- Un allenamento molto intenso, o un'attività fisica così intensa da esaurire le riserve energetiche del corpo, può causare\n  irregolarità mestruali o l'interruzione del ciclo. Un ciclo regolare è generalmente segno che tutto procede\n  bene, quindi vale la pena consultare il medico di base se le mestruazioni diventano irregolari o cessano: ciò può essere\n  correlato, nel tempo, alla salute delle ossa e all’equilibrio ormonale.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "L'attività fisica in gravidanza",
+      "aliases": [
+        "attività fisica in gravidanza",
+        "rimanere attive durante la gravidanza",
+        "esercizio fisico in gravidanza",
+        "mantenersi in forma durante la gravidanza"
+      ],
+      "glance": "Rimanere attive è sicuro e fa bene nella maggior parte delle gravidanze — con moderazione, senza affaticarsi troppo.",
+      "overview": "Mantenersi attive durante la gravidanza fa bene alla salute e non è pericoloso per il bambino — anzi, mantenersi in forma\npuò aiutarti ad affrontare i cambiamenti che ti attendono e il travaglio. Non è necessario dedicarsi ad attività intense;\ncontinuare con le normali attività quotidiane, purché ti senta a tuo agio, è un ottimo punto di partenza.\n\nUna semplice regola empirica: dovresti riuscire a **mantenere una conversazione** mentre ti muovi. Se sei troppo\nsenza fiato per parlare, rallenta il ritmo. Attività delicate come camminare, nuotare, i corsi di acquagym prenatale e\nlo yoga in gravidanza sono adatte alla maggior parte delle persone. Se prima non eri attiva, questo non è il momento di iniziare una\nnuova routine faticosa: aumenta gradualmente l’intensità.\n\nÈ meglio evitare alcune attività o affrontarle con cautela, come stare distesa sulla schiena dopo\ncirca la 16ª settimana, gli sport di contatto, le immersioni subacquee e qualsiasi attività che comporti un rischio reale di caduta.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta la tua **ostetrica** prima di iniziare un nuovo programma di esercizi aerobici, oppure se hai una\n  patologia o qualche dubbio riguardo alla gravidanza.\n- **Interrompi l’attività e chiedi consiglio** se ti senti male, hai le vertigini o sei molto affannata, oppure se avverti dolore,\n  sanguinamento o contrazioni durante l’attività fisica.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Il periodo fertile",
+      "aliases": [
+        "periodo fertile",
+        "giorni fertili",
+        "giorni più fertili"
+      ],
+      "glance": "La finestra fertile è quella breve periodo di pochi giorni in ogni ciclo in cui un rapporto sessuale può portare a una gravidanza.",
+      "overview": "La finestra fertile è quel breve periodo del ciclo in cui è possibile rimanere incinta. Esiste perché\ndue tempistiche non coincidono perfettamente: un ovulo può essere fecondato solo per circa 12-24 ore\ndopo il rilascio, mentre gli spermatozoi possono sopravvivere all’interno del corpo per diversi giorni — fino a circa una settimana —\nin attesa di un ovulo.\n\nNel complesso, ciò significa che la finestra si apre alcuni giorni prima dell’ovulazione e si chiude circa un giorno\ndopo. In pratica, la fertilità raggiunge il picco nei 2-3 giorni che precedono l’ovulazione e nel\ngiorno stesso, poiché gli spermatozoi possono già trovarsi lì quando arriva l’ovulo.\n\nPoiché l’ovulazione può variare da un ciclo all’altro, anche la finestra fertile si sposta. Ecco perché viene\nsolitamente considerata come un intervallo di giorni piuttosto che una singola data, ed ecco perché monitorare i segnali nel corso di\ndiversi cicli è più affidabile che basarsi su un unico calcolo del calendario.",
+      "deep": "I giorni esatti variano da persona a persona e di mese in mese, quindi è meglio stimare la finestra\nin base ai segnali inviati dal proprio corpo piuttosto che a una formula fissa. I cambiamenti nel muco cervicale indicano l’\napertura della finestra man mano che l’ovulazione si avvicina, mentre un aumento della temperatura corporea a riposo conferma — a\nposteriori — che l’ovulazione è avvenuta e che la finestra si è chiusa. I test di previsione dell’ovulazione agiscono con\nun certo anticipo, rilevando il picco dell’ormone luteinizzante (LH) che si verifica poco prima del rilascio dell’ovulo\n.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Cicli mestruali (primo ciclo)",
+      "aliases": [
+        "primo periodo",
+        "menarca",
+        "periodi iniziali",
+        "avere le mestruazioni"
+      ],
+      "glance": "Il primo ciclo mestruale arriva di solito intorno ai 12 anni: è normale che si verifichi in un intervallo compreso tra gli 8 e i 17 anni circa.",
+      "overview": "Il primo ciclo mestruale — talvolta chiamato menarca — è il momento in cui il ciclo mestruale ha inizio per la prima\nvolta. La maggior parte delle ragazze lo ha intorno ai 12 anni, ma è normale che avvenga in un arco di età compreso tra gli 8 e i 17 anni circa. Spesso si manifesta\ncirca due anni dopo l’inizio dello sviluppo del seno.\n\nDi solito ci sono dei segnali che lo anticipano: la crescita dei peli sotto le ascelle e nella zona pubica e una leggera secrezione trasparente o\nbianca nei mesi precedenti. Sapere che questi cambiamenti stanno per arrivare può far sembrare il primo ciclo meno\nimprovviso.\n\nAll’inizio, le mestruazioni sono spesso irregolari: gli intervalli possono essere lunghi o brevi, e il tuo\ncorpo può impiegare diversi mesi, o addirittura un paio d’anni, per stabilizzarsi su un ritmo più regolare. Una volta raggiunto questo equilibrio,\nle mestruazioni tendono a presentarsi ogni 23-35 giorni circa e durano dai 2 ai 7 giorni. L’\nirregolarità iniziale è normale e non è motivo di preoccupazione.",
+      "deep": null,
+      "when_to_see_doctor": "- Rivolgiti al medico di famiglia se il ciclo mestruale **non è ancora iniziato all’età di 15 anni**, oppure a **13 anni se non ci sono altri segni di\n  pubertà** (come lo sviluppo del seno o la peluria corporea). Si tratta semplicemente di verificare che tutto proceda come\n  previsto — di solito va tutto bene.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Acido folico e vitamine in gravidanza",
+      "aliases": [
+        "acido folico",
+        "folato",
+        "vitamina D in gravidanza",
+        "vitamine per la gravidanza",
+        "integratori in gravidanza"
+      ],
+      "glance": "L'acido folico prima e all'inizio della gravidanza aiuta a proteggere il bambino — oltre a una dose giornaliera di vitamina D.",
+      "overview": "Ci sono due integratori davvero importanti in gravidanza, e l’NHSe ne raccomanda entrambi.\n\n**L'acido folico** è il più importante. Assumere ogni giorno un integratore da 400 microgrammi — idealmente a partire da prima del\nconcepimento (circa tre mesi prima) e fino alla fine del primo trimestre, alla 12ª settimana — aiuta a\nproteggere il bambino dai difetti del tubo neurale, come la spina bifida. Poiché agisce in una fase così precoce, è\nuna delle poche cose che vale la pena iniziare *prima* di una gravidanza se si sta cercando di concepire.\n\nL’**altra** è la **vitamina D**: si raccomanda un integratore giornaliero da 10 microgrammi per tutta la durata della gravidanza\ne durante l’allattamento, per sostenere lo sviluppo e la salute delle ossa del bambino.\n\nOltre a queste due, una dieta sana e varia copre la maggior parte del fabbisogno: non servono molti integratori aggiuntivi.\nDa evitare è la **vitamina A** (retinolo): non assumere integratori che la contengano ed evita il\nfegato, poiché un eccesso di vitamina A può danneggiare il bambino.",
+      "deep": null,
+      "when_to_see_doctor": "- Un **medico di base, un’ostetrica o un farmacista** possono aiutarti a scegliere gli integratori giusti, e ad alcune persone viene\n  consigliato di assumere una **dose più elevata di acido folico** (ad esempio in caso di diabete, ipBMIa, assunzione di determinati\n  farmaci o una precedente gravidanza caratterizzata da un difetto del tubo neurale) — quindi vale la pena chiedere consiglio,\n  soprattutto prima o all’inizio della gravidanza.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Fase follicolare",
+      "aliases": [
+        "fase follicolare",
+        "prima metà del ciclo"
+      ],
+      "glance": "La fase follicolare è la prima metà del ciclo, durante la quale un ovulo matura e il rivestimento uterino si ispessisce.",
+      "overview": "La fase follicolare è la prima parte del ciclo. Inizia il primo giorno delle mestruazioni e\ndura fino all’ovulazione. Il suo nome deriva dal follicolo, ovvero la piccola sacca piena di liquido presente nell’ovaio\nche contiene e fa maturare un ovulo durante questo periodo.\n\nDurante questa fase, il livello dell’ormone estrogeno aumenta. Questo aumento dell’estrogeno ha due effetti principali: aiuta\nun follicolo nell’ovaio a maturare e ispessisce il rivestimento dell’utero (matrice), preparando il corpo\nnel caso in cui si verifichi una gravidanza più avanti nel ciclo.\n\nPoiché gli estrogeni sono in aumento, alcune persone notano un maggiore livello di energia o cambiamenti nel muco cervicale man mano che\nsi avvicinano i giorni fertili. L’esperienza varia da persona a persona e non c’è bisogno di “gestirla”: è\nsemplicemente la prima metà del ciclo che svolge la sua funzione.",
+      "deep": "La durata della fase follicolare può variare da un ciclo all’altro, il che spiega in parte perché i cicli completi\ndifferiscono da persona a persona e di mese in mese. Essa termina quando l’aumento degli estrogeni contribuisce a innescare il\nrilascio di un ovulo (ovulazione). Poiché i suoi ultimi giorni precedono l’ovulazione, è in questo momento che si apre la\nfinestra di fertilità — ed è per questo che la fine della fase follicolare è importante per chiunque monitori la propria fertilità.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Alimenti da evitare durante la gravidanza",
+      "aliases": [
+        "alimenti da evitare in gravidanza",
+        "dieta in gravidanza",
+        "Cosa non mangiare in gravidanza",
+        "la caffeina in gravidanza",
+        "listeria"
+      ],
+      "glance": "La maggior parte degli alimenti va bene durante la gravidanza: alcuni è meglio evitarli, ed è consigliabile limitare il consumo di caffeina.",
+      "overview": "La buona notizia è che la maggior parte degli alimenti è perfettamente sicura in gravidanza: solo un numero limitato merita di\nessere evitato o consumato con cautela, soprattutto per stare alla larga da batteri come la listeria o da un eccesso di alcune\nvitamine. Conoscere questo breve elenco significa che per il resto puoi stare tranquilla.\n\nL’NHSa di prestare attenzione a:\n\n- **Alcuni formaggi** — formaggi a pasta molle stagionati con muffa come il brie e il camembert, e formaggi erborinati a pasta molle,\n  a meno che non siano cotti fino a diventare bollenti; e qualsiasi prodotto a base di latte **non pastorizzato**.\n- **Carne cruda o poco cotta**, salumi, **paté** e **fegato** (che è molto ricco di\n  vitamina A).\n- **Uova crude o con tuorlo liquido**, a meno che non rechino il marchio British Lion.\n- **Alcuni tipi di pesce** — evitare lo squalo, il pesce spada e il marlin, limitare il tonno e non consumare più di due porzioni\n  di pesce grasso a settimana.\n- **Caffeina** — mantenetene l’assunzione al di sotto dei 200 mg al giorno (circa due tazze di caffè solubile), includendo anche tè,\n  bibite alla cola, bevande energetiche e cioccolato.",
+      "deep": null,
+      "when_to_see_doctor": "- Queste sono linee guida generali, non una dieta rigida: se hai domande su cosa sia sicuro per te o\n  se hai esigenze alimentari specifiche, la tua **ostetrica** potrà aiutarti a chiarirle.\n- Se hai mangiato qualcosa che figura nell’elenco degli alimenti “da evitare”, cerca di non farti prendere dal panico; parlane con la tua ostetrica se\n  sei preoccupata o ti senti male.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Ormone follicolo-stimolante (FSH)",
+      "aliases": [
+        "fsh",
+        "ormone follicolo-stimolante",
+        "ormone follicolo-stimolante"
+      ],
+      "glance": "FSH è un ormone prodotto dal cervello che stimola la crescita dei follicoli nell'ovaio all'inizio di ogni ciclo.",
+      "overview": "FSH — l’ormone follicolo-stimolante — è uno degli ormoni messaggeri che danno il via al ciclo.\nÈ prodotto da una piccola ghiandola situata nel cervello (l’ipofisi) e, come suggerisce il nome, stimola\ni follicoli: le minuscole sacche piene di liquido presenti nell’ovaio, ciascuna delle quali contiene un ovulo.\n\nAll’inizio del ciclo, l’FSHa stimola un gruppo di questi follicoli a iniziare a crescere. Man mano che un follicolo\nsi sviluppa, rilascia una maggiore quantità di estrogeni, che a loro volta ispessiscono il rivestimento dell’utero (matrice), preparandolo\na una possibile gravidanza. Di solito un follicolo diventa quello dominante e prosegue verso l’\novulazione.\n\nFSH aumenta e diminuisce come parte del normale andamento altalenante del ciclo. L’FSHa non si avverte direttamente\n— agisce silenziosamente in background, preparando i cambiamenti più visibili della fase follicolare.",
+      "deep": "FSH agisce in sinergia con l’ormone luteinizzante (LH); entrambi vengono rilasciati dalla ghiandola pituitaria nel\ncervello e, insieme, guidano le ovaie attraverso il ciclo. L’FSH guida la prima metà del ciclo, favorendo la crescita dei\nfollicoli, mentre il picco di LH, che si verifica successivamente, segna il rilascio di un ovulo a metà ciclo. Questa interazione è anche\nil motivo per cui i trattamenti per la fertilità utilizzano farmaci a base di FSH: l’apporto supplementare di FSH stimola la\nmaturazione simultanea di diversi follicoli, anziché di uno solo come avviene solitamente in un ciclo naturale.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Diabete gestazionale",
+      "aliases": [
+        "diabete gestazionale",
+        "diabete in gravidanza",
+        "iperglicemia in gravidanza"
+      ],
+      "glance": "Il diabete gestazionale è un aumento della glicemia durante la gravidanza — solitamente diagnosticato tramite screening — e spesso si risolve dopo il parto.",
+      "overview": "Il diabete gestazionale è un aumento della glicemia (glucosio) che si manifesta durante la gravidanza, quando l’organismo\nnon riesce a soddisfare appieno il fabbisogno supplementare di insulina. Nella maggior parte dei casi scompare dopo la\nnascita del bambino.\n\nDi solito non provoca **alcun sintomo**, quindi viene individuato tramite un test di screening effettuato durante la gravidanza\n(un test di tolleranza al glucosio, spesso effettuato tra la 24ª e la 28ª settimana), soprattutto se si presentano fattori che ne aumentano il\nrischio — come un peso elevato, una storia familiare di diabete, un precedente parto di un bambino di peso elevato o determinate\norigini etniche.\n\nÈ una condizione facilmente gestibile. Mantenere la glicemia entro valori normali — attraverso l’alimentazione, l’attività fisica e, talvolta,\ni farmaci, il tutto sotto la guida del tuo team medico — riduce il rischio di complicazioni per te e per il tuo bambino,\ned è per questo che vale la pena tenerla sotto controllo.",
+      "deep": null,
+      "when_to_see_doctor": "- Sottoponiti al **test di screening** se ti viene proposto: dato che il diabete gestazionale di solito non presenta\n  sintomi, è proprio attraverso il test che viene diagnosticato.\n- Non aspettare di fare il test se noti possibili segni di glicemia alta — forte sete,\n  bisogno frequente di urinare, bocca secca o stanchezza — segnalali alla tua ostetrica o al tuo medico.",
+      "red_flags": null
+    },
+    "group-b-strep": {
+      "title": "Streptococco del gruppo B (GBS)",
+      "aliases": [
+        "streptococco del gruppo B",
+        "GBS",
+        "streptococco del gruppo B",
+        "Streptococco di tipo B in gravidanza"
+      ],
+      "glance": "Lo streptococco del gruppo B è un batterio comune, solitamente innocuo: il rischio, seppur minimo, riguarda il bambino durante il parto ed è gestibile.",
+      "overview": "Lo streptococco di gruppo B (GBS) è un batterio molto comune di cui molte persone sono portatrici, solitamente nella vagina o\nnell’ano, senza saperlo e senza che ciò causi alcun danno. Non si tratta di un’infezione a trasmissione sessuale,\ned esserne portatori è normale.\n\nDurante la gravidanza è rilevante solo perché esiste una **piccola probabilità** che possa trasmettersi al bambino intorno al\nmomento del parto e, raramente, causargli problemi di salute — ciò accade in circa 1 gravidanza su 1.750. Spesso\nviene individuato per caso, ad esempio durante un’analisi delle urine o un tampone vaginale effettuato per altri motivi (l’NHS\ne non effettua screening di routine su tutte le donne).\n\nLa notizia rassicurante è che si tratta di una condizione facilmente gestibile: se si è a conoscenza della presenza del GBS, la somministrazione di **antibiotici tramite\nflebo durante il travaglio** riduce notevolmente il rischio che il bambino si ammali.",
+      "deep": null,
+      "when_to_see_doctor": "- Se ti viene detto che sei portatrice dello streptococco di gruppo B — ora o in una gravidanza precedente — **informane la tua ostetrica o\n  il team di ostetricia**, in modo che si possa pianificare la somministrazione di antibiotici durante il travaglio. È una misura semplice che fa davvero\n  la differenza.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Bruciore di stomaco e indigestione in gravidanza",
+      "aliases": [
+        "bruciore di stomaco in gravidanza",
+        "indigestione in gravidanza",
+        "reflusso gastrico in gravidanza",
+        "reflusso"
+      ],
+      "glance": "Il bruciore di stomaco è molto comune in gravidanza: di solito è innocuo e spesso si allevia con piccoli cambiamenti nelle abitudini quotidiane.",
+      "overview": "Il bruciore di stomaco e l’indigestione — una sensazione di bruciore o fastidio al petto, spesso dopo i pasti — sono\nmolto comuni in gravidanza. Ciò è dovuto agli ormoni della gravidanza che rilassano il muscolo situato nella parte superiore dello\nstomaco e, in seguito, alla pressione esercitata dal bambino in crescita verso l’alto. È fastidioso, ma non dannoso.\n\nSpesso bastano piccoli accorgimenti: consumare pasti più piccoli e più frequenti anziché pasti abbondanti, stare sedute con la schiena dritta mentre\nsi mangia e per un po’ anche dopo, ridurre il consumo di cibi piccanti, grassi o contenenti caffeina e non mangiare\ntroppo tardi prima di andare a letto. Alcune donne trovano più comodo dormire con la testa leggermente rialzata.\n\nSe ciò non bastasse, un **farmacista** può consigliare farmaci antiacidi sicuri da usare in\ngravidanza: è una buona prima risorsa a cui rivolgersi prima che il fastidio diventi più grave.",
+      "deep": null,
+      "when_to_see_doctor": "- Rivolgiti al tuo **medico di famiglia o all’ostetrica** se semplici cambiamenti nello stile di vita e i rimedi da farmacia non sono d’aiuto, oppure se hai\n  **difficoltà a deglutire**, continui a rigurgitare il cibo, perdi peso senza volerlo o hai\n  dolori addominali: è meglio far controllare questi sintomi piuttosto che attribuirli a un semplice bruciore di stomaco.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Mestruazioni abbondanti",
+      "aliases": [
+        "ciclo mestruale abbondante",
+        "menorragia",
+        "sanguinamento mestruale abbondante",
+        "allagamento",
+        "sanguinamento abbondante",
+        "coaguli"
+      ],
+      "glance": "Un ciclo mestruale abbondante comporta una perdita di sangue significativa ad ogni ciclo: è un fenomeno comune, ma vale la pena fare un controllo se ti crea problemi.",
+      "overview": "Mestruazioni abbondanti — il termine medico è menorragia — significano perdere molto sangue durante il ciclo mestruale.\nPer alcune persone il sanguinamento abbondante è semplicemente la norma, ma se interferisce con la tua vita o ti lascia\nesaurita, vale la pena approfondire la questione.\n\nAlcuni segnali che indicano che le mestruazioni sono abbondanti: la necessità di cambiare un assorbente o un tampone ogni 1 o 2 ore,\nutilizzare due tipi di prodotti mestruali contemporaneamente (come un tampone e un assorbente), sanguinare fino a macchiare i\nvestiti o le lenzuola, espellere coaguli di sangue più grandi di circa 2,5 cm (all’incirca una moneta da 10 pence) o avere mestruazioni\nche durano più di 7 giorni.\n\nPerdere molto sangue mese dopo mese può farti sentire stanca o affannata, perché può portare\na una carenza di ferro (anemia). Le cause possibili sono molteplici — dai fibromi o da patologie come l’\nendometriosi, l’adenomiosi o l’PCOSe, fino ad alcuni farmaci — e spesso non viene individuata alcuna causa grave. In ogni caso,\ndi solito è possibile alleviare le mestruazioni abbondanti, quindi non è qualcosa con cui devi semplicemente convivere.",
+      "deep": null,
+      "when_to_see_doctor": "Rivolgiti al medico di base se:\n\n- le mestruazioni abbondanti interferiscono con la tua vita quotidiana\n- hai sanguinamenti abbondanti che durano molte ore, oppure le mestruazioni si protraggono a lungo\n- soffri anche di forti dolori mestruali, oppure provi dolore durante i rapporti sessuali, quando urini o quando vai di corpo\n- hai sanguinamenti tra una mestruazione e l’altra o dopo un rapporto sessuale\n- ti senti spesso stanca o a corto di fiato (questo può essere un sintomo di carenza di ferro)\n\nIl medico di base potrà individuare la causa e illustrarti quali soluzioni potrebbero aiutarti.",
+      "red_flags": "- Richiedi assistenza medica **urgente** — chiama il **NHS111**, oppure il **999 / recati al pronto soccorso** se i sintomi sono gravi — se\n  **sanguini così abbondantemente da bagnare completamente un assorbente o più di uno ogni ora per diverse ore di seguito**, oppure\n  ti senti **svenire, hai le vertigini o ti manca il respiro**. Questi possono essere segni di una perdita eccessiva di sangue."
+    },
+    "lh": {
+      "title": "Ormone luteinizzante (LH)",
+      "aliases": [
+        "lh",
+        "ormone luteinizzante",
+        "ormone luteinizzante"
+      ],
+      "glance": "LH è l'ormone cerebrale il cui picco a metà ciclo induce l'ovaio a rilasciare un ovulo.",
+      "overview": "LH — l'ormone luteinizzante — è il messaggero che innesca l'ovulazione. Come l'FSHa, è prodotto da una\npiccola ghiandola situata nel cervello (l'ipofisi) e indica all'ovaio quando rilasciare un ovulo.\n\nPer gran parte della prima metà del ciclo, l’LHe rimane a livelli bassi. Poi, verso la metà del ciclo,\naumenta bruscamente in quello che viene chiamato picco dell’LHa. Questo picco è il segnale che induce l’ovaio a\nrilasciare l’ovulo — l’ovulazione — di solito un giorno o poco più tardi.\n\nIl picco è un segnale breve e ben sincronizzato, piuttosto che qualcosa che si nota a livello di sensazioni fisiche. Poiché\nsi verifica poco prima del rilascio dell’ovulo, il momento in cui si verifica l’aumento dell’LHo è un indicatore affidabile del\nperiodo più fertile del ciclo.",
+      "deep": "LH agisce in sinergia con l’FSH, l’ormone che stimola la crescita dei follicoli nelle prime fasi del ciclo. Mentre l’FSH\nguida la fase di accumulo, il picco di LH rappresenta il punto di svolta: i livelli iniziano a salire circa un giorno e mezzo\nprima del rilascio dell’ovulo e raggiungono il picco circa mezza giornata prima. Dopo il picco, il ciclo\nentra nella sua seconda metà. Questa tempistica così precisa è il motivo per cui LH è un indicatore così utile per chiunque voglia monitorare\nl’ovulazione, e perché è fondamentale nella pianificazione dei trattamenti di fertilità.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Fase luteale",
+      "aliases": [
+        "fase luteale",
+        "seconda metà del ciclo"
+      ],
+      "glance": "La fase luteale è la seconda metà del ciclo, successiva all'ovulazione, durante la quale il livello di progesterone aumenta.",
+      "overview": "La fase luteale è la parte del ciclo che segue l’ovulazione e si protrae fino all’inizio delle mestruazioni successive.\nPrende il nome dal corpo luteo, la piccola struttura che l’ovaio forma dal follicolo vuoto\nuna volta che l’ovulo è stato rilasciato.\n\nIn questa fase aumenta il livello dell’ormone progesterone. Il suo compito è quello di mantenere il rivestimento dell’utero (matrice)\nspesso e stabile, in modo che, se dovesse arrivare un ovulo fecondato, abbia un luogo in cui impiantarsi. Anche l’estrogeno rimane\nparte integrante del processo, agendo in sinergia con il progesterone.\n\nSe non si instaura una gravidanza, il corpo luteo si degrada, i livelli di progesterone ed estrogeni calano e il\nrivestimento non viene più mantenuto — il che fa scattare il ciclo mestruale successivo e avvia un nuovo ciclo. Questo è\nanche il periodo in cui alcune persone notano cambiamenti premestruali nell’umore, nel sonno o nel corpo.",
+      "deep": "La fase luteale tende ad avere una durata un po’ più costante rispetto alla prima metà del ciclo, spesso\ndureando circa due settimane, sebbene vi siano normali variazioni da persona a\npersona. Poiché la sua fine è legata al calo del progesterone, l’arrivo delle mestruazioni è in realtà il\nsegno visibile che i livelli ormonali sono diminuiti. Tenere traccia di come ti senti durante la fase luteale può\naiutarti a distinguere ciò che per te è un andamento familiare da ciò che è nuovo o che merita di essere discusso con\nun medico.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopausa",
+      "aliases": [
+        "menopausa",
+        "il cambiamento"
+      ],
+      "glance": "La menopausa è il momento in cui le mestruazioni cessano definitivamente: si tratta di una fase naturale, che di solito si raggiunge tra i 45 e i 55 anni circa.",
+      "overview": "La menopausa è il momento in cui le mestruazioni cessano definitivamente. Poiché all’inizio le mestruazioni possono presentarsi a intermittenza per un\ncerto periodo, si considera raggiunta la menopausa solo dopo 12 mesi consecutivi senza mestruazioni. Di solito\nsi verifica tra i 45 e i 55 anni circa, anche se può verificarsi prima o dopo.\n\nÈ una fase naturale dell’invecchiamento, non una malattia. Si verifica quando le ovaie smettono gradualmente di funzionare e il livello di\nestrogeni — un ormone fondamentale del ciclo — diminuisce. Questo cambiamento ormonale è alla base dei cambiamenti che molte\npersone notano: vampate di calore e sudorazioni notturne, alterazioni del ciclo mestruale nel periodo che precede la menopausa, difficoltà a dormire,\nsbalzi d’umore o ansia, annebbiamento mentale, secchezza vaginale e dolori.\n\nLe esperienze variano enormemente: alcune persone lo superano senza problemi, altre lo trovano difficile e i sintomi possono durare\ndiversi anni. Nulla di tutto ciò significa che ci sia qualcosa che non va in te. Esistono sostegno e alternative, e\ncapire cosa sta succedendo è un buon primo passo.",
+      "deep": "Gli anni di cambiamento che precedono la menopausa sono chiamati perimenopausa; la menopausa stessa è un singolo\nmomento nel tempo (quello in cui non si hanno mestruazioni per 12 mesi), mentre il periodo successivo è talvolta chiamato\npostmenopausa. Poiché gli estrogeni influiscono a lungo termine anche sulle ossa e sul cuore, i medici prestano\nattenzione a questi aspetti oltre che ai sintomi quotidiani. Esiste una vasta gamma di approcci — dallo stile di vita ai\ntrattamenti non ormonali e ormonali — in grado di alleviare i sintomi; la scelta più adatta dipende dal vostro stato di salute,\ndalla vostra anamnesi e dalle vostre preferenze, aspetti da discutere con un medico.",
+      "when_to_see_doctor": "- Rivolgiti al medico di base se i sintomi della menopausa ti danno fastidio o influenzano la tua vita quotidiana e desideri discutere\n  delle opzioni a tua disposizione.\n- Rivolgiti **sempre** al medico di base se hai **qualunque tipo di sanguinamento vaginale dopo 12 mesi senza ciclo mestruale**\n  (sanguinamento post-menopausale). Spesso non si tratta di nulla di grave, ma è sempre bene sottoporsi a un controllo.\n- Vale la pena consultare un medico anche se il sanguinamento è più abbondante rispetto a prima, oppure se le mestruazioni\n  subiscono cambiamenti che ti preoccupano.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Il ciclo mestruale",
+      "aliases": [
+        "ciclo",
+        "ciclo mensile"
+      ],
+      "glance": "Il ciclo mestruale è il ritmo mensile che il tuo corpo segue per prepararsi a una possibile gravidanza.",
+      "overview": "Il ciclo mestruale si conta a partire dal primo giorno delle mestruazioni — che è il giorno 1 — fino al giorno\nche precede l’inizio delle mestruazioni successive. È regolato dagli ormoni, i cui livelli aumentano e diminuiscono seguendo uno schema ricorrente\nogni mese.\n\nUn ciclo dura spesso circa 28 giorni, ma si tratta solo di una media. È considerato normale un ciclo compreso tra i 21 e i 35 giorni circa\ne la durata del tuo ciclo può variare leggermente di mese in mese. Imparare a conoscere il tuo schema personale è\npiù utile che confrontarlo con un numero.\n\nNel corso del ciclo il tuo corpo attraversa diverse fasi: il ciclo mestruale, la fase che precede il rilascio di un\novulo, il rilascio stesso (ovulazione) e la fase successiva. Ogni fase è determinata dagli\normoni, principalmente estrogeni e progesterone.",
+      "deep": "L’intero ciclo è un dialogo tra il cervello e le ovaie, mediato dagli ormoni. Nella\nprima metà, i livelli di estrogeni aumentano man mano che un follicolo contenente un ovulo matura nell’ovaio e il rivestimento\ndell’utero (grembo) si ispessisce. Verso la metà del ciclo viene rilasciato un ovulo. Nella seconda metà,\nil progesterone contribuisce a mantenere il rivestimento pronto nel caso in cui arrivi un ovulo fecondato.\n\nSe non si verifica una gravidanza, i livelli di estrogeni e progesterone scendono, il rivestimento viene espulso sotto forma di\nmestruazioni e il ciclo ricomincia. Poiché questi ormoni influenzano molti sistemi dell’organismo, potresti notare\npiccoli cambiamenti quotidiani nel corso del mese: si tratta del normale ritmo del ciclo, non di qualcosa\nda “correggere”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Fase mestruale (il ciclo)",
+      "aliases": [
+        "periodo",
+        "mestruazione",
+        "fase mestruale",
+        "emorragia"
+      ],
+      "glance": "Il ciclo mestruale è costituito dai pochi giorni di sanguinamento che segnano l’inizio di ogni ciclo, quando il rivestimento dell’utero viene espulso.",
+      "overview": "La fase mestruale è il ciclo mestruale, ovvero i giorni in cui si ha il sanguinamento. Inizia il primo giorno del ciclo,\nquando i livelli di estrogeni e progesterone sono scesi a un livello tale che il rivestimento che si è formato\nall’interno dell’utero non viene più mantenuto e si stacca, uscendo dal corpo attraverso la\nvagina.\n\nLe mestruazioni durano solitamente dai 2 ai 7 giorni, con una durata tipica di circa 5 giorni. Il flusso è spesso\npiù abbondante nei primi due giorni e poi diventa più leggero. Le mestruazioni iniziano comunemente intorno ai 12 anni,\nanche se è normale che inizino prima o dopo.\n\nCiò che è «normale» varia molto da persona a persona. Tenere traccia delle proprie mestruazioni aiuta a capire\nqual è il proprio ritmo abituale, il che è molto più significativo di qualsiasi media.",
+      "deep": "Il sanguinamento mestruale consiste nell’espulsione del rivestimento dell’utero (l’endometrio) al termine di un ciclo\nin cui non si è verificata una gravidanza. Segna sia la fine di un ciclo che l’inizio di quello successivo, motivo per cui\nil primo giorno delle mestruazioni viene considerato il primo giorno dell’intero ciclo. Al termine del ciclo mestruale,\ni livelli di estrogeni ricominciano a salire e il corpo inizia a ricostruire il rivestimento in vista del ciclo successivo.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Aborto spontaneo",
+      "aliases": [
+        "aborto spontaneo",
+        "aborto spontaneo",
+        "aborto precoce",
+        "perdere una gravidanza"
+      ],
+      "glance": "L'aborto spontaneo è la perdita di una gravidanza prima della 24ª settimana: è un evento comune e quasi mai è colpa tua.",
+      "overview": "Un aborto spontaneo è la perdita di una gravidanza nelle prime 24 settimane. È più comune di quanto molti\npensino, e una delle cose più importanti da sapere è che quasi mai è causato da qualcosa\nche hai fatto o non hai fatto: di solito accade a causa di un problema nello sviluppo della gravidanza,\nche esula dal controllo di chiunque.\n\nI sintomi più comuni sono sanguinamento vaginale e crampi o dolore nella parte bassa dell’addome. Il sanguinamento nelle\nprime fasi della gravidanza non significa sempre che si stia verificando un aborto spontaneo — molte donne hanno un leggero sanguinamento e\nproseguono poi con una gravidanza sana — ma dovrebbe sempre essere valutato da un medico.\n\nA prescindere da come avvenga la perdita, i sentimenti che ne derivano sono reali e legittimi, e il lutto è una\nreazione normale. Non devi affrontarlo da sola: puoi contare sul sostegno della tua ostetrica o del tuo medico di base e\ndi associazioni di beneficenza specializzate nella perdita di gravidanza.",
+      "deep": null,
+      "when_to_see_doctor": "- Contatta il tuo medico di famiglia, l’ostetrica o il centro di assistenza per la gravidanza precoce (oppure chiama il numero NHS 111) se hai **sanguinamento vaginale\n  o perdite durante la gravidanza**, anche se sono lievi e il dolore è minimo o assente — in modo che tu possa\n  farti controllare.\n- Informati su dove si trova il **centro di assistenza per la gravidanza precoce** più vicino, istituito proprio per questo tipo di situazioni.",
+      "red_flags": "- Chiama il **999 o recati al pronto soccorso** se, durante la gravidanza, avverti **forte dolore addominale, dolore alla punta della\n  spalla, sanguinamento abbondante, oppure se ti senti svenire o stai molto male**. Questi possono essere sintomi di un problema grave\n  come una gravidanza extrauterina che richiede cure urgenti."
+    },
+    "morning-sickness": {
+      "title": "Nausea mattutina",
+      "aliases": [
+        "nausea mattutina",
+        "nausea in gravidanza",
+        "nausea in gravidanza",
+        "vomito in gravidanza",
+        "iperemesi",
+        "iperemesi gravidica"
+      ],
+      "glance": "La nausea o il malessere sono molto comuni nelle prime fasi della gravidanza e di solito si attenuano intorno alla 16ª-20ª settimana.",
+      "overview": "Sentirsi male o avere la nausea è molto comune all’inizio della gravidanza. Nonostante il nome “nausea mattutina”,\npuò manifestarsi in qualsiasi momento del giorno o della notte. Per la maggior parte delle donne, inizia nelle prime settimane e\nsi attenua intorno alla 16ª-20ª settimana.\n\nÈ sgradevole e, per alcune donne, influisce davvero sulla vita quotidiana — ma la normale nausea mattutina\nnon comporta alcun rischio maggiore per il bambino. Mangiare spesso piccole quantità e trovare ciò che ti aiuta può\nrenderla più sopportabile; un’ostetrica, un medico di base o un farmacista possono suggerirti opzioni sicure se hai difficoltà.\n\nPer un numero limitato di persone la nausea diventa grave (si parla in questo caso di iperemesi gravidica),\ncon un rischio reale di disidratazione. In questo caso è necessario ricorrere all’aiuto medico: consulta i sintomi riportati di seguito.",
+      "deep": null,
+      "when_to_see_doctor": "Contatta la tua ostetrica, il tuo medico di base o chiama il numero NHS 111 se:\n\n- non riesci a trattenere né cibo né bevande per 24 ore\n- hai urine molto scure o non urini da più di 8 ore\n- ti senti molto debole, hai le vertigini o ti senti svenire quando ti alzi in piedi\n- hai mal di pancia, febbre alta o vomiti sangue\n- stai perdendo peso",
+      "red_flags": "- L'incapacità di trattenere i liquidi, accompagnata da urina molto scura o dall'assenza di urina, può indicare che ti stai disidratando\n  (nausea grave in gravidanza) — **contatta la tua ostetrica, il medico di famiglia o chiama il numero NHS 111 lo stesso giorno**, poiché potresti\n  aver bisogno di cure per evitare che la situazione peggiori."
+    },
+    "ovulation": {
+      "title": "Ovulazione",
+      "aliases": [
+        "ovulazione",
+        "rilasciare un uovo",
+        "periodo fertile"
+      ],
+      "glance": "L'ovulazione è il momento in cui un ovaio rilascia un ovulo: è il momento di maggiore fertilità del ciclo.",
+      "overview": "L’ovulazione è il momento in cui un ovaio rilascia un ovulo maturo. È il punto di svolta del ciclo: la\nprima metà del ciclo conduce a questo momento, mentre la seconda metà lo segue.\n\nIn un ciclo di circa 28 giorni, l’ovulazione avviene spesso intorno al 14° giorno, ma la tempistica può variare. Un\nmodo utile per inquadrarla è pensare che l’ovulazione si verifichi solitamente tra il 10° e il 16° giorno prima\ndell’inizio del ciclo mestruale successivo. Può essere difficile individuare il giorno esatto.\n\nUna volta rilasciato, un ovulo può essere fecondato solo per circa 12-24 ore. Gli spermatozoi, invece, possono sopravvivere\nnel corpo per diversi giorni, quindi la “finestra fertile” è più ampia di un solo giorno — approssimativamente i pochi\ngiorni che precedono l’ovulazione e il giorno stesso.",
+      "deep": "Il rilascio dell’ovulo è innescato da un breve e brusco aumento degli ormoni intorno alla metà del ciclo, a seguito\ndell’accumulo di estrogeni durante la fase follicolare. Poiché gli spermatozoi possono sopravvivere per diversi giorni mentre\nl’ovulo vive meno di un giorno, la gravidanza è più probabile in seguito a rapporti sessuali nei giorni immediatamente precedenti\nl’ovulazione. L’ovulazione può variare da un ciclo all’altro a causa di fattori quali lo stress o una malattia; ecco\nperché è difficile prevederla con esattezza e perché monitorare diversi cicli è più affidabile di qualsiasi\nsingolo calcolo.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Dolore durante i rapporti sessuali",
+      "aliases": [
+        "dolore durante i rapporti sessuali",
+        "rapporti sessuali dolorosi",
+        "dispareunia",
+        "dolore durante i rapporti sessuali",
+        "vaginismo"
+      ],
+      "glance": "Il dolore durante i rapporti sessuali è un fenomeno comune, può avere molte cause diverse e vale sempre la pena farsi visitare: ci sono soluzioni.",
+      "overview": "Il dolore durante i rapporti sessuali — talvolta chiamato dispareunia — è più comune di quanto molti credano, e non è\nmai qualcosa che si debba semplicemente accettare. Può avere molte cause, e individuarne la giusta è la\nchiave per alleviarlo.\n\nAlcune cause sono di natura fisica. La secchezza vaginale è una delle più frequenti, spesso legata agli sbalzi ormonali legati alla\nmenopausa o a un’eccitazione insufficiente, e può rendere il rapporto sessuale doloroso o fastidioso. Anche le infezioni, come\nil candidosi, possono causare dolore. Un’altra causa è il vaginismo — quando i muscoli intorno alla vagina\nsi contraggono spontaneamente al tentativo di penetrazione, rendendo il rapporto sessuale doloroso o addirittura impossibile.\nSi tratta di un fenomeno involontario, non è “tutto nella tua testa” ed è curabile.\n\nPoiché la causa può essere fisica, ormonale o legata al tuo livello di rilassamento o eccitazione — e\nspesso è una combinazione di questi fattori — la cosa più utile da fare è farsi visitare piuttosto che cercare di indovinare o andare avanti a tutti i costi.",
+      "deep": null,
+      "when_to_see_doctor": "- Rivolgiti a un medico di base o a un centro di salute sessuale se il rapporto sessuale è doloroso: qualunque sia la causa, vale la pena fare un controllo,\n  e per le cause più comuni esistono rimedi efficaci.\n- Può sembrare imbarazzante parlarne, ma i medici affrontano spesso questo tipo di situazioni e sono lì per aiutarti, non per\n  giudicarti. Puoi chiedere di essere visitata da una dottoressa, farti accompagnare da qualcuno e spiegare cosa ti aiuterebbe a\n  sentirti a tuo agio durante la visita.\n- Fai controllare eventuali sanguinamenti dopo un rapporto sessuale e rivolgiti a un medico prima se il dolore è forte o se ti\n  senti anche male.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Alleviamento del dolore durante il travaglio",
+      "aliases": [
+        "alleviamento del dolore durante il travaglio",
+        "epidurale",
+        "gas e aria",
+        "Entonox",
+        "alleviamento del dolore durante il travaglio",
+        "vasca per il parto",
+        "TENS"
+      ],
+      "glance": "Esistono diversi modi per alleviare i dolori del travaglio: non c’è una scelta giusta o sbagliata, e puoi rimanere flessibile.",
+      "overview": "Il travaglio è diverso per ogni persona e ci sono diversi modi per affrontare il dolore: dalle semplici\nmisure di sollievo alle opzioni mediche. Sapere in anticipo quali sono le possibilità a disposizione può aiutarti a sentirti più\npreparata.\n\nLe opzioni spaziano dal **rimanere attive e in posizione eretta**, alle tecniche di respirazione e rilassamento, ai massaggi e all’immersione in\n**acqua** (un bagno o una vasca da parto), fino all’uso di **un apparecchio TENS**, **gas e aria** (Entonox, che si\ninala autonomamente), **iniezioni** come la petidina e l’**epidurale** (somministrata da un anestesista,\nche allevia il dolore del travaglio in modo più completo).\n\nNon esiste una scelta “migliore”: dipende da te, dal tuo travaglio e da come ti sentirai quel giorno. Vale la pena\nannotare le tue preferenze in un **piano di parto**, pur mantenendo una mente aperta: molte persone scoprono di volere\npiù o meno sollievo dal dolore di quanto si aspettassero, e va benissimo così.",
+      "deep": null,
+      "when_to_see_doctor": "- La tua **ostetrica** (e, in caso di epidurale, un anestesista) ti illustrerà le opzioni disponibili e ti aiuterà\n  a decidere cosa fa al caso tuo — sia durante la gravidanza che durante il travaglio stesso. Non c’è bisogno di\n  decidere tutto in anticipo.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (sindrome dell'ovaio policistico)",
+      "aliases": [
+        "sindrome dell'ovaio policistico",
+        "sindrome dell'ovaio policistico",
+        "ovaie policistiche",
+        "sindrome dell'ovaio policistico"
+      ],
+      "glance": "PCOS è un disturbo ormonale comune che può influire sul ciclo mestruale, sull'ovulazione, sulla pelle e sui capelli.",
+      "overview": "PCOS — la sindrome dell’ovaio policistico — è una patologia comune legata all’equilibrio degli\normoni riproduttivi. Secondo le stime, colpisce circa 1 donna su 10 in età riproduttiva, e molte\npersone che ne sono affette non ricevono mai una diagnosi.\n\nPuò manifestarsi in modi diversi, e non esistono due casi identici. Tra le caratteristiche comuni figurano\ncicli mestruali irregolari, poco frequenti o assenti; livelli più elevati di ormoni chiamati androgeni,\nche possono causare un’eccessiva crescita dei peli sul viso o sul corpo, acne o diradamento dei capelli sul cuoio capelluto; e\novarie che non rilasciano un ovulo con la regolarità abituale, il che può rendere più difficile il concepimento.\nSono comuni anche variazioni di peso e macchie cutanee più scure.\n\nLa causa esatta non è ancora del tutto chiara e non esiste una cura, ma i sintomi possono essere gestiti e\ncapire cosa sta succedendo è il primo passo. La sindrome di PCOS è comune e gestibile, non è qualcosa di cui\nvergognarsi.",
+      "deep": "Poiché l’PCOSe coinvolge gli ormoni dell’organismo e il modo in cui questo gestisce l’insulina, è anche collegata, nel\nlungo periodo, all’insulino-resistenza e a un rischio maggiore di diabete di tipo 2, ipertensione arteriosa\ne alterazioni dei livelli di colesterolo — motivo per cui i medici tendono a tenere sotto controllo questi parametri nel corso del tempo.\nCirca la metà delle persone affette da PCOSe può sviluppare il diabete o il pre-diabete entro i quarant’anni, pertanto è importante sottoporsi a\ncontrolli regolari. La diagnosi non è qualcosa che si può stabilire da sole: un medico valuta il quadro complessivo\n— la vostra anamnesi e il ciclo mestruale, a volte esamina gli esami del sangue per gli ormoni e, in alcuni casi, esegue un’ecografia\ndelle ovaie — ed esclude altre cause prima di giungere a unPCOSe.",
+      "when_to_see_doctor": "Vale la pena consultare il medico di famiglia se noti sintomi che corrispondono al quadro sopra descritto, soprattutto se questi\ninfluiscono sul tuo benessere quotidiano:\n\n- cicli mestruali irregolari, molto sporadici o assenti\n- aumento evidente della peluria sul viso o sul corpo, acne persistente o diradamento dei capelli\n- difficoltà a rimanere incinta dopo averci provato per un po’\n- aumento di peso difficile da smaltire, accompagnato da altri sintomi\n\nUn medico di base può valutare la situazione, confermare se si tratta di unPCOSo o di qualcos’altro e discutere con te un\npiano su misura per te. L’PCOSo è anche associato a umore depresso e ansia: se stai facendo fatica a gestire come\nti senti, parlane anche con il tuo medico di base; fa parte del quadro clinico e puoi ricevere sostegno.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopausa",
+      "aliases": [
+        "perimenopausa",
+        "transizione menopausale",
+        "il cambiamento"
+      ],
+      "glance": "La perimenopausa è la fase di transizione che precede la menopausa, durante la quale il ciclo mestruale e i livelli ormonali iniziano a cambiare.",
+      "overview": "La perimenopausa è il periodo che precede la menopausa, ovvero gli anni “intorno alla menopausa”.\nInizia quando si notano i primi cambiamenti e prosegue fino a un anno intero dopo l’ultimo ciclo mestruale,\nmomento in cui si è raggiunta la menopausa. Può durare diversi anni.\n\nDurante questo periodo le ovaie producono gradualmente meno estrogeni e i livelli oscillano in modo meno\nprevedibile rispetto a prima. Il primo segno più comune è il cambiamento del ciclo mestruale: le mestruazioni possono diventare più\nfrequenti o più distanziate, più leggere o più abbondanti. Molti dei sintomi associati alla menopausa, come\nle vampate di calore, i disturbi del sonno o gli sbalzi d’umore, possono manifestarsi già in questa fase, mentre si ha ancora il ciclo mestruale.\n\nPoiché è un processo graduale e molto variabile, la perimenopausa può creare confusione: i cambiamenti non si verificano\ntutti in una volta né nello stesso ordine per tutte le donne. Sapere che questa fase ha un nome e che si tratta di una\ntransizione normale può aiutare a comprenderla meglio.",
+      "deep": null,
+      "when_to_see_doctor": "- Rivolgiti al medico di base se i sintomi della perimenopausa stanno influenzando la tua vita quotidiana e desideri discutere\n  di cosa potrebbe aiutarti.\n- È opportuno sottoporsi a un controllo se le mestruazioni diventano molto abbondanti o se si verificano sanguinamenti tra un\n  ciclo e l’altro o dopo un rapporto sessuale, in modo da individuarne la causa.\n- Ricorda che durante la perimenopausa è ancora possibile rimanere incinta, quindi vale la pena discutere\n  della contraccezione con un medico, se è una questione rilevante per te.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Dolori mestruali",
+      "aliases": [
+        "dolori mestruali",
+        "crampi mestruali",
+        "crampi",
+        "dismenorrea",
+        "dismenorrea",
+        "cicli mestruali dolorosi"
+      ],
+      "glance": "I dolori mestruali sono crampi nella parte bassa dell'addome che si manifestano durante il ciclo mestruale: sono comuni e spesso costituiscono una parte normale del ciclo.",
+      "overview": "Il dolore mestruale è quella sensazione di crampi e indolenzimento nella parte bassa dell’addome che molte persone avvertono durante il\nciclo mestruale. Si verifica quando la parete muscolare dell’utero si contrae ed è spesso una parte normale del\nciclo mestruale. Il termine medico per indicarlo è dismenorrea.\n\nDi solito insorge all’inizio del ciclo mestruale, o poco prima, e tende a durare fino a circa\ntre giorni. Per alcune persone si manifesta come una lieve sensazione di pesantezza; per altre i crampi sono più intensi. Il dolore può anche\nvariare nel corso della vita e da un ciclo all’altro.\n\nI dolori mestruali che seguono questo schema familiare sono comuni e solitamente gestibili. Molte persone ricorrono a\nmisure di comfort quotidiane e a semplici antidolorifici; un farmacista o un medico di base può consigliarti ciò che\npotrebbe fare al caso tuo. L’importante è conoscere il proprio andamento abituale, in modo da poter notare se qualcosa\ncambia.",
+      "deep": null,
+      "when_to_see_doctor": "Vale la pena rivolgersi al medico di famiglia se:\n\n- le mestruazioni diventano più dolorose, abbondanti o irregolari del solito\n- il dolore ti impedisce di svolgere le attività quotidiane, come andare al lavoro o a scuola\n- i normali antidolorifici non sono efficaci\n- provi dolore durante i rapporti sessuali, quando urini o quando vai di corpo\n- hai sanguinamenti tra una mestruazione e l’altra\n- il dolore si manifesta in momenti diversi da quelli immediatamente prima o durante il ciclo mestruale\n- espelli coaguli di sangue più grandi di una moneta (circa delle dimensioni di un quarto di dollaro)\n- noti anche gonfiore addominale, calo dell’appetito o perdita di peso che non riesci a spiegarti\n\nQuesti sintomi non significano necessariamente che ci sia qualcosa che non va, ma vale la pena farli controllare: un dolore mestruale nuovo,\ndiverso dal solito o difficile da gestire può avere cause per le quali un medico può aiutarti.",
+      "red_flags": "- Richiedi un appuntamento **urgente** dal medico di base oppure chiama il numero **NHS 111** se il dolore mestruale o pelvico è\n  **grave, o più intenso del solito, e gli antidolorifici non hanno dato risultati.**"
+    },
+    "planning-pregnancy": {
+      "title": "Pianificare una gravidanza",
+      "aliases": [
+        "pianificare una gravidanza",
+        "preconcetto",
+        "cercare di rimanere incinta",
+        "prima della gravidanza",
+        "Prepararsi alla gravidanza"
+      ],
+      "glance": "Alcuni semplici accorgimenti prima di provare a concepire — assumere acido folico, smettere di fumare e non bere alcolici — garantiscono alla gravidanza il miglior inizio possibile.",
+      "overview": "Se stai pensando di provare ad avere un bambino, alcune misure da adottare in anticipo possono garantire alla gravidanza un\ninizio più sano — molte delle quali sono efficaci già prima del concepimento.\n\nLe principali sono: iniziare ad assumere **acido folico** (e vitamina D), **smettere di fumare** ed **evitare l’alcol**.\nAnche puntare a un peso sano è d’aiuto, poiché un peso significativamente insufficiente o eccessivo può rendere\npiù difficile il concepimento. Vale anche la pena assicurarsi che la **vaccinazione MMR** sia aggiornata, poiché alcune\ninfezioni possono influire sulla gravidanza.\n\nNulla di tutto ciò deve essere perfetto o stressante. Ciò che conta sono piccoli cambiamenti positivi apportati con anticipo —\ne partire con un po’ di anticipo è una delle cose più belle che puoi fare per una futura gravidanza.",
+      "deep": null,
+      "when_to_see_doctor": "- Se soffri di una **patologia cronica** o assumi **farmaci regolarmente**, consulta il tuo medico di famiglia prima di\n  iniziare a cercare di avere un figlio: alcune patologie e alcuni farmaci richiedono una pianificazione specifica. **Non interrompere l’assunzione di alcun farmaco prescritto\n  ** senza aver prima consultato il tuo medico.\n- Il medico di famiglia può anche fornirti consigli sull’acido folico (compresa l’eventuale necessità di una dose più elevata) e su come raggiungere un\n  peso sano prima della gravidanza.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Depressione post-parto",
+      "aliases": [
+        "depressione post-parto",
+        "depressione post-parto",
+        "PND",
+        "depressione post-parto",
+        "depressione post-parto"
+      ],
+      "glance": "La depressione post-parto è uno stato di malumore comune e curabile che insorge dopo il parto: non è colpa tua, e puoi trovare aiuto.",
+      "overview": "Sentirsi giù di morale, ansiosi o irritabili nelle prime due settimane dopo il parto è molto comune: questa\ncondizione viene spesso definita “baby blues” e di solito si risolve spontaneamente nel giro di circa due settimane.\n\nLa depressione post-parto è diversa: si tratta di uno stato d’animo depresso più profondo o che dura più a lungo. È una condizione comune,\npuò manifestarsi in qualsiasi momento durante il primo anno e può colpire anche i padri e i partner. I sintomi includono un\numore persistentemente basso, difficoltà a provare gioia in qualsiasi cosa, problemi a dormire anche quando il bambino dorme,\ne talvolta sentimenti contrastanti riguardo al legame con il bambino.\n\nAverla **non** significa che sei un cattivo genitore o che non ami il tuo bambino: è una malattia,\nnon un fallimento, e risponde bene al sostegno e alle cure. Chiedere aiuto tempestivamente è un gesto forte e premuroso\nda compiere, sia per te che per il tuo bambino.",
+      "deep": null,
+      "when_to_see_doctor": "- Rivolgiti al tuo **medico di famiglia, all’ostetrica o all’assistente sanitario** se pensi di soffrire di depressione post-parto,\n  oppure se il “baby blues” non è scomparso dopo due settimane. Avranno già affrontato situazioni simili molte volte e potranno\n  aiutarti a trovare il sostegno giusto.",
+      "red_flags": "- Se hai **pensieri di fare del male a te stesso o al tuo bambino**, o pensi che la tua famiglia starebbe meglio\n  senza di te, chiedi aiuto **subito**: chiama il **999** o recati al pronto soccorso, oppure chiama il **NHS111** o i\n  Samaritans al numero **116 123**. Questi pensieri possono essere parte della malattia, non rappresentano chi sei veramente e\n  è disponibile un aiuto urgente."
+    },
+    "pre-eclampsia": {
+      "title": "Pre-eclampsia",
+      "aliases": [
+        "pre-eclampsia",
+        "preeclampsia",
+        "ipertensione in gravidanza",
+        "tossiemia"
+      ],
+      "glance": "La preeclampsia è un aumento della pressione arteriosa in gravidanza — spesso asintomatica all’inizio, motivo per cui i controlli prenatali sono fondamentali.",
+      "overview": "La preeclampsia è una condizione che si manifesta durante la gravidanza principalmente con ipertensione, accompagnata dalla\npresenza di proteine nelle urine. Di solito compare a partire dalla ventesima settimana circa e, talvolta, anche dopo il parto.\n\nUna delle cose più importanti da sapere è che, nelle fasi iniziali, spesso non provoca **alcun sintomo** —\npotresti sentirti perfettamente bene. È proprio per questo che l’ostetrica controlla la pressione arteriosa ed esegue\nl’analisi delle urine ad ogni visita prenatale di routine: è grazie a questi controlli che solitamente viene individuata\nprima ancora che tu possa notare qualcosa.\n\nQuando i sintomi si manifestano, è importante riconoscerli, perché la preeclampsia può diventare grave sia per te\nche per il tuo bambino. È facilmente curabile se diagnosticata in tempo, e rispettare gli appuntamenti prenatali è\nil modo migliore per prevenirla.",
+      "deep": null,
+      "when_to_see_doctor": "- Rispetta tutti i tuoi **controlli prenatali di routine**: i controlli della pressione arteriosa e delle urine sono il modo in cui\n  di solito si individua la preeclampsia prima che compaiano i sintomi.",
+      "red_flags": "Richiedi **immediatamente** assistenza medica — contatta il tuo reparto di ostetricia oppure chiama il numero **NHS 111** — se presenti\nuno qualsiasi dei seguenti sintomi (chiama il **999** se ti senti gravemente male, ad esempio in caso di crisi epilettica):\n\n- un **forte mal di testa** che non si allevia con i normali antidolorifici\n- **problemi alla vista** — visione offuscata o lampi di luce\n- **gonfiore improvviso** del viso, delle mani o dei piedi\n- **dolore appena sotto le costole**\n- **nausea** o improvviso malessere"
+    },
+    "pregnancy": {
+      "title": "Gravidanza",
+      "aliases": [
+        "gravidanza",
+        "essere incinta",
+        "in attesa di",
+        "gestazione",
+        "trimestri",
+        "data di scadenza",
+        "a quante settimane di gravidanza"
+      ],
+      "glance": "La gravidanza dura solitamente circa 40 settimane, calcolate a partire dal primo giorno dell'ultimo ciclo mestruale.",
+      "overview": "La gravidanza è il periodo in cui il corpo cresce e porta in grembo un bambino. Di norma dura circa 40 settimane —\nun periodo compreso tra le 37 e le 42 settimane è considerato a termine e normale — e, anche se può sorprendere, viene calcolata\na partire dal primo giorno dell’**ultimo ciclo mestruale**, non dal concepimento. È semplicemente il modo standard in cui\nvengono calcolate le date.\n\nLa **data prevista per il parto** è una stima, non una scadenza: i bambini nascono tranquillamente un po’ prima o un po’ dopo. All’inizio\ndella gravidanza, un’ecografia di datazione (di solito intorno alla 12ª settimana) può misurare il tuo bambino e fornire una data più precisa\n, il che a volte modifica la stima iniziale.\n\nSi parla spesso della gravidanza in tre fasi, o **trimestri**, ciascuna con i propri cambiamenti. Per\ntutto il percorso, sarai seguita con controlli prenatali regolari da un’ostetrica (e da un medico se\nnecessario) — un’assistenza che contribuisce al benessere tuo e del tuo bambino.",
+      "deep": "Poiché le date vengono calcolate a partire dall’ultimo ciclo mestruale, quando\nil ciclo non si presenta si considera che la gravidanza sia già di circa quattro settimane. Il conteggio delle settimane di gravidanza determina l’organizzazione dell’assistenza: ecografie, screening\ne controlli vengono tutti offerti in settimane specifiche. Se le mestruazioni sono irregolari o non si è sicure delle\ndate, l’ecografia di datazione stabilisce la linea temporale. Questa sezione funge da mappa dell’intero percorso; gli\nargomenti specifici — segni di gravidanza, assistenza prenatale, benessere e travaglio — hanno ciascuno una propria sezione dedicata.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Test di gravidanza",
+      "aliases": [
+        "test di gravidanza",
+        "test di gravidanza fai da te",
+        "hCG test",
+        "test di gravidanza"
+      ],
+      "glance": "Un test di gravidanza casalingo rileva la presenza dell’ormone della gravidanza, l’hCG, nelle urine; è più affidabile a partire dal primo ritardo mestruale.",
+      "overview": "Un test di gravidanza casalingo funziona rilevando un ormone chiamato hCG (gonadotrofina corionica umana) nelle\nurine. Il corpo inizia a produrlo pochi giorni dopo l’annidamento dell’ovulo fecondato e la sua concentrazione\naumenta rapidamente nelle prime fasi della gravidanza.\n\nIl test è più affidabile a partire dal **primo giorno di ritardo delle mestruazioni** — circa due settimane dopo il\nconcepimento. Se il ciclo è irregolare o non si è sicure di quando dovrebbero arrivare le mestruazioni, attendere almeno\n21 giorni dopo un rapporto sessuale non protetto garantisce un risultato più affidabile. Non è necessario effettuare il test di\nmattina presto; va bene qualsiasi momento della giornata.\n\nUn risultato **positivo** è quasi certamente corretto: sono pochissimi i test che risultano positivi quando non si è\nincinta. Un risultato **negativo** è un po’ meno certo: se le mestruazioni non arrivano ancora e pensi\ndi poter essere incinta, aspetta qualche giorno e ripeti il test.",
+      "deep": null,
+      "when_to_see_doctor": "- Se il risultato è positivo, contatta un'**ostetrica o un medico di base** per iniziare il percorso di assistenza prenatale.\n- Se i test sono negativi ma non hai il ciclo e pensi di essere incinta (o non ti senti bene), rivolgiti a un medico di base per\n  capire cosa sta succedendo.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Parto prematuro",
+      "aliases": [
+        "parto prematuro",
+        "travaglio pretermine",
+        "parto prematuro",
+        "parto prematuro",
+        "inizio del travaglio",
+        "rottura anticipata delle acque"
+      ],
+      "glance": "Il travaglio pretermine è quello che si verifica prima della 37ª settimana: agisci rapidamente, perché un intervento tempestivo fa davvero la differenza.",
+      "overview": "Il travaglio prematuro (o pretermine) è quello che inizia prima della 37ª settimana di gravidanza. Si verifica in\ncirca 8 casi su 100.\n\nI bambini nati prematuramente sono più vulnerabili, ma molti crescono bene, soprattutto grazie alle\ncure specialistiche fornite dai reparti di neonatologia. La chiave è agire rapidamente se si sospetta che il travaglio stia iniziando, in modo da\npoter essere valutata e, se necessario, ricevere trattamenti che aiutino a proteggere il bambino.\n\nI sintomi sono simili a quelli del travaglio in qualsiasi fase, ma prima della 37ª settimana non bisogna mai aspettare che passino da soli:\nsono sempre un motivo per contattare immediatamente il personale sanitario.",
+      "deep": null,
+      "when_to_see_doctor": "- Chiama la tua **ostetrica o il reparto di ostetricia** ogni volta che sei **a meno di 37 settimane** e hai dei dubbi o\n  sei preoccupata: è sempre bene informarsi.",
+      "red_flags": "Contatta **immediatamente la tua ostetrica o il reparto di maternità** — di giorno o di notte — se, **prima della 37ª settimana**,\nmanifesti uno dei seguenti sintomi:\n\n- **contrazioni o contrazioni uterine** regolari, oppure dolori simili a quelli mestruali\n- un **flusso improvviso o un gocciolio di liquido** dalla vagina (rottura delle acque)\n- **mal di schiena** insolito per te, o una sensazione di pressione nella parte bassa dell’addome"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (sindrome premestruale)",
+      "aliases": [
+        "pms",
+        "sindrome premestruale",
+        "tensione premestruale",
+        "pmt"
+      ],
+      "glance": "PMS è l'insieme dei cambiamenti fisici ed emotivi che molte persone avvertono nelle una o due settimane che precedono le mestruazioni.",
+      "overview": "PMS — la sindrome premestruale — è il termine con cui si indicano i cambiamenti che molte persone avvertono nei giorni o nelle due\nsettimane precedenti le mestruazioni. Può colpire chiunque abbia il ciclo mestruale e di solito si attenua nel giro di pochi\ngiorni dall’inizio delle mestruazioni.\n\nQuesti cambiamenti possono manifestarsi in vari modi. A livello fisico, potresti notare gonfiore, seno dolorante o sensibile,\ncrampi, mal di testa o una maggiore stanchezza. A livello emotivo, possono verificarsi sbalzi d’umore, irritabilità,\nansia o senso di malinconia. Sono comuni anche le voglie di cibo e i cambiamenti nel sonno. Non tutte le persone soffrono di sindrome premestruale (PMS),\ne chi ne soffre non presenta necessariamente tutti i sintomi: ciò che conta è il tuo schema personale. La sindrome premestruale (\n\nPMS) è una parte normale e riconosciuta del ciclo di molte persone, legata ai naturali sbalzi ormonali della\nseconda metà del ciclo. Notare come si manifesta nel tuo caso, ciclo dopo ciclo, può aiutarti a pianificare\nal meglio la tua vita e a individuare eventuali cambiamenti.",
+      "deep": null,
+      "when_to_see_doctor": "Vale la pena rivolgersi al medico di famiglia se:\n\n- i sintomi stanno influenzando la tua vita quotidiana — lavoro, studi, relazioni\n- i piccoli cambiamenti apportati alla tua routine non hanno dato risultati\n- il malumore, l’ansia o l’irritabilità ti sembrano particolarmente gravi\n\nUn medico potrà illustrarti quali soluzioni potrebbero esserti d’aiuto. Una forma più grave, denominata disturbo disforico premestruale\n(PMDD), può causare sintomi dell’umore molto più intensi, ma è disponibile un supporto specifico per questa condizione.",
+      "red_flags": "- Se manifesti sintomi di PMDD e **hai pensieri suicidi o temi di non riuscire a garantirti la sicurezza**,\n  chiedi subito aiuto: **chiama il 999 o recati al pronto soccorso**. Non guidare da solo: chiedi a qualcuno di accompagnarti\n  o chiama un’ambulanza. Meriti sostegno e c’è qualcuno pronto ad aiutarti."
+    },
+    "progesterone": {
+      "title": "Progesterone",
+      "aliases": [
+        "progesterone"
+      ],
+      "glance": "Il progesterone è l'ormone della seconda metà del ciclo, che prepara il rivestimento uterino dopo l'ovulazione.",
+      "overview": "Il progesterone è uno dei principali ormoni alla base del ciclo mestruale e assume un ruolo di primo piano nella\nseconda metà del ciclo, dopo il rilascio di un ovulo durante l’ovulazione.\n\nIl suo ruolo principale è quello di aiutare il rivestimento dell’utero (matrice) a rimanere spesso e pronto, in modo che, se\narriva un ovulo fecondato, possa impiantarsi e abbia inizio una gravidanza. In questo modo il progesterone agisce come\npartner dell’estrogeno, che ha svolto gran parte del lavoro di preparazione nelle fasi precedenti del ciclo.\n\nSe non si instaura una gravidanza, i livelli di progesterone diminuiscono. È proprio questo calo che permette al rivestimento di distaccarsi\ndando origine alle mestruazioni successive. L’aumento e la diminuzione del progesterone nella seconda metà del ciclo costituiscono un\nritmo normale e prevedibile.",
+      "deep": "Il progesterone è prodotto principalmente dal corpo luteo — la struttura che l’ovaio forma a partire dal\nfollicolo dopo che questo ha rilasciato l’ovulo. Questo è il motivo per cui il progesterone aumenta specificamente nella fase luteale\n(post-ovulatoria). Quando il corpo luteo si degrada, sia il progesterone che gli estrogeni diminuiscono,\nsegnalando l’inizio di un nuovo ciclo. Le sue fluttuazioni naturali sono uno dei motivi per cui alcune persone avvertono\ncambiamenti premestruali nei giorni che precedono le mestruazioni.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "La pillola a base di solo progestinico (mini pillola)",
+      "aliases": [
+        "pillola a base di solo progestinico",
+        "mini pillola",
+        "POP",
+        "pillola a base di solo progesterone",
+        "pillola al desogestrel"
+      ],
+      "glance": "La mini-pillola è una pillola da assumere quotidianamente contenente un unico ormone che rende più denso il muco cervicale per bloccare lo sperma.",
+      "overview": "La pillola a base di solo progestinico — spesso chiamata “mini pillola” — è una compressa da assumere quotidianamente che contiene un solo\normone, il progestinico. Rappresenta un’opzione per chi non può o preferisce non assumere estrogeni.\n\nLa sua azione principale consiste nell’ispessire il muco della cervice, rendendo più difficile agli spermatozoi raggiungere un\novulo. Un tipo comune, la pillola a base di desogestrel, impedisce inoltre alle ovaie di rilasciare un ovulo\n(ovulazione).\n\nSe assunta correttamente, ha un’efficacia superiore al 99%; con un uso quotidiano tipico si aggira intorno al 91%. Come per le altre\npillole, la regolarità nell’assunzione è fondamentale e non protegge dalle malattie sessualmente trasmissibili.",
+      "deep": "La mini-pillola si differenzia dalla pillola combinata per l’assenza di estrogeni, il che ne modifica l’idoneità per alcune donne —\nun aspetto che il medico valuta al momento della prescrizione. Alcuni tipi devono essere assunti entro una\nfinestra temporale giornaliera piuttosto ristretta per garantire la loro efficacia. Questo articolo spiega cos’è e come funziona; come assumerla\ne se è adatta a te sono questioni da valutare con il medico di famiglia, un infermiere o un farmacista.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "signs-of-labour": {
+      "title": "Segnali del travaglio",
+      "aliases": [
+        "segni del travaglio",
+        "lavoro",
+        "entrare in travaglio",
+        "contrazioni",
+        "rottura delle acque",
+        "lo spettacolo",
+        "fase latente"
+      ],
+      "glance": "Tra i segnali che indicano l'inizio del travaglio vi sono contrazioni regolari, la \"perdita di muco\", mal di schiena o la rottura delle acque.",
+      "overview": "Ci sono alcuni segnali che indicano che il travaglio potrebbe essere in fase di inizio. Il principale è rappresentato dalle contrazioni — contrazioni in tutto il\npancione che si verificano a intervalli regolari e si intensificano. Altri segnali includono la “perdita di muco” (il tappo mucoso della\ncervice che si stacca), un mal di schiena persistente, la necessità di andare in bagno e la rottura delle acque.\n\nPrima del travaglio attivo c’è spesso una fase iniziale (“latente”), durante la quale la cervice si ammorbidisce e inizia a\ndissociarsi. Questa fase può durare ore o addirittura giorni e, per molte donne, va benissimo rimanere comodamente a\ncasa durante questo periodo, riposando e mantenendosi idratate.\n\nIl travaglio inizia in modo leggermente diverso per ogni persona, quindi non è necessario che si verifichino tutti i segni. Quando\npensi che stia iniziando, la tua ostetrica o il reparto di maternità saranno lì per guidarti su cosa fare e\nquando recarti in ospedale.",
+      "deep": null,
+      "when_to_see_doctor": "- Chiama la tua **ostetrica o il reparto di ostetricia** per ricevere indicazioni quando pensi che il travaglio sia iniziato, oppure quando\n  le contrazioni sono **regolari — circa ogni 5 minuti**. Se non riesci a contattare la tua ostetrica, chiama\n  **NHS 111**.",
+      "red_flags": "Chiama **immediatamente la tua ostetrica o il reparto di maternità** — di giorno o di notte, non aspettare — se:\n\n- ti **si rompono le acque** (soprattutto se il liquido è verde, marrone o maleodorante)\n- hai **qualunque tipo di sanguinamento vaginale**\n- il tuo **bambino si muove meno del solito**\n- hai segni di travaglio e sei **a meno di 37 settimane di gravidanza**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Segni di gravidanza",
+      "aliases": [
+        "segni di gravidanza",
+        "sintomi precoci della gravidanza",
+        "Sono incinta?",
+        "sintomi della gravidanza"
+      ],
+      "glance": "L'assenza delle mestruazioni è spesso il primo segno di gravidanza, a volte accompagnata da nausea, stanchezza o tensione mammaria.",
+      "overview": "Per molte persone il primo indizio di una gravidanza è l’**assenza delle mestruazioni**. Ma ogni corpo è diverso, e alcune persone notano\nprima altri segni precoci — spesso intorno alla quarta o alla sesta settimana.\n\nTra i segni precoci più comuni figurano la nausea o il vomito (in qualsiasi momento della giornata, non solo al mattino), il seno\nche appare più gonfio o sensibile, una stanchezza insolita e la necessità di urinare più spesso. Alcune persone notano anche\nun sapore metallico in bocca, una nuova sensibilità a determinati odori o una repulsione per cibi che normalmente gradiscono.\n\nNessuno di questi sintomi, da solo, significa che sei sicuramente incinta — molti si sovrappongono ai normali alti e\nbassi del ciclo — e non tutte le donne li manifestano. L’unico modo per saperlo con certezza è un test di gravidanza.",
+      "deep": null,
+      "when_to_see_doctor": "- Se il test risulta positivo, contatta un'**ostetrica o un medico di base** per iniziare tempestivamente l'assistenza prenatale.\n- Se hai un ritardo mestruale e i test risultano negativi, ma i sintomi persistono, vale la pena rivolgersi a un\n  medico di base per capire quali altre cause potrebbero esserci.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Il fumo in gravidanza",
+      "aliases": [
+        "il fumo in gravidanza",
+        "smettere di fumare in gravidanza",
+        "smettere di fumare in gravidanza",
+        "lo svapo in gravidanza"
+      ],
+      "glance": "Smettere di fumare è una delle cose migliori che puoi fare per il tuo bambino — e non è mai troppo tardi.",
+      "overview": "Smettere di fumare è una delle cose più importanti che puoi fare per garantire al tuo bambino un inizio di vita sano.\nOgni sigaretta riduce l’apporto di ossigeno al tuo bambino, costringendo il suo cuore a lavorare di più e può\nostacolarne la crescita.\n\nFumare in gravidanza aumenta il rischio di gravi complicazioni, tra cui aborto spontaneo, parto prematuro,\nbasso peso alla nascita, natimortalità e sindrome della morte improvvisa del lattante (SIDS) dopo la nascita. Anche il fumo\npassivo è un fattore di rischio, quindi una casa senza fumo è di grande aiuto.\n\nLa nota incoraggiante: **non è mai troppo tardi**. Smettere in qualsiasi momento della gravidanza è utile, e smettere\npresto porta i maggiori benefici. Può essere davvero difficile, ed è proprio per questo che esistono servizi di assistenza gratuiti — e\nricorrervi aumenta notevolmente le probabilità di successo.",
+      "deep": null,
+      "when_to_see_doctor": "- Chiedi alla tua **ostetrica** informazioni sul **servizio gratuito di supporto per smettere di fumare \"NHS\"**: consulenti qualificati (alcuni dei quali\n  specializzati in gravidanza) possono aiutarti, ed è disponibile anche una linea di assistenza \"Smokefree\". Chiedere aiuto è un\n  segno di attenzione verso il tuo bambino, non un fallimento.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Spotting e sanguinamento tra un ciclo e l’altro",
+      "aliases": [
+        "individuazione",
+        "sanguinamento tra un ciclo e l’altro",
+        "sanguinamento intermestruale",
+        "sanguinamento intermestruale",
+        "sanguinamento dopo un rapporto sessuale"
+      ],
+      "glance": "Lo spotting è un leggero sanguinamento che si verifica tra un ciclo e l’altro o dopo un rapporto sessuale: spesso non è grave, ma è sempre bene farsi controllare.",
+      "overview": "Per “spotting” si intende un leggero sanguinamento che si verifica tra un ciclo e l’altro o dopo un rapporto sessuale, al di fuori del normale\nflusso mestruale. È un fenomeno comune e di solito non è nulla di grave, ma poiché può avere diverse cause,\nè sempre opportuno farsi controllare da un medico.\n\nLe cause quotidiane sono molteplici. L’inizio o l’uso di contraccettivi ormonali è una delle più frequenti.\nAltre includono piccole escrescenze innocue all’interno o intorno all’utero (polipi o fibromi), alterazioni innocue\ndella superficie della cervice, secchezza vaginale o un’infezione come la clamidia.\n\nPoiché lo stesso sintomo può derivare da cause diverse — la maggior parte delle quali di lieve entità — la cosa più utile da fare\nnon è cercare di indovinare, ma farsi visitare per capire qual è la causa specifica nel proprio caso.",
+      "deep": null,
+      "when_to_see_doctor": "- Rivolgiti al medico di base o a un centro di salute sessuale **ogni volta che hai perdite di sangue tra un ciclo e l’altro o dopo un rapporto sessuale**,\n  anche se sono leggere. Di solito non si tratta di nulla di grave, ma sottoporsi a un controllo è il modo per individuarne la causa\n  e per escludere tempestivamente le cause meno comuni.",
+      "red_flags": "- Richiedi un appuntamento **urgente** dal medico di base oppure chiama il numero **NHS 111** se hai **un ritardo mestruale e presenti\n  sanguinamento insolito accompagnato da dolori addominali o pelvici**: è necessario sottoporsi immediatamente a una visita, poiché potrebbe trattarsi di un\n  segno di gravidanza extrauterina."
+    },
+    "stillbirth": {
+      "title": "Nato morto",
+      "aliases": [
+        "natimortalità",
+        "nato morto",
+        "perdita di un neonato",
+        "aborto tardivo",
+        "bambino nato senza vita"
+      ],
+      "glance": "La natimortalità è la perdita di un bambino dopo la 24ª settimana di gravidanza: è un evento raro, non è mai colpa tua e ricevi sempre tutto il sostegno necessario.",
+      "overview": "Si parla di natimortalità quando un bambino nasce già morto dopo la 24ª settimana di gravidanza. (Una perdita prima della 24ª settimana\nviene definita aborto spontaneo.) Si tratta di un evento raro — circa 1 su 250 nascite — ma per le famiglie che ne\nsono colpite rappresenta una perdita profonda, e ogni aspetto dell’assistenza che ne consegue ha lo scopo di accompagnarvi\ncon delicatezza in questo momento difficile.\n\nA volte si individua una causa — ad esempio un problema alla placenta o allo sviluppo del bambino, oppure una\npatologia — e a volte, nonostante gli esami, **non si individua alcuna causa**. Qualunque sia il motivo, un\nnascita di un feto morto non è qualcosa che un genitore ha causato o avrebbe potuto prevedere per prevenirla.\n\nC’è una cosa che aiuta davvero a ridurre il rischio, ed è semplice: **comunicare immediatamente alla tua ostetrica\nse i movimenti del tuo bambino rallentano o cambiano.** Oltre a questo, anche le piccole abitudini quotidiane — andare alle\nvisite prenatali, non fumare, evitare l’alcol e dormire su un fianco a partire dalla 28ª settimana — hanno tutte\nun ruolo importante.",
+      "deep": null,
+      "when_to_see_doctor": "- Contatta **immediatamente la tua ostetrica o il reparto di maternità** — a qualsiasi ora, di giorno o di notte — se il tuo **bambino si\n  muove meno del solito o se i suoi movimenti ti sembrano diversi dal solito.** Non aspettare mai per vedere se la situazione si risolve da sola; farsi\n  controllare è esattamente la cosa giusta da fare, e non è mai un fastidio.\n- Dopo una perdita, ostetriche specializzate e team di sostegno al lutto sono a tua disposizione — per le decisioni,\n  gli aspetti pratici e il lutto. Non devi affrontare nulla di tutto ciò da sola, e i gruppi di sostegno\n  per la perdita di un bambino sono a tua disposizione per tutto il tempo di cui avrai bisogno.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Lo stress, la vita e il ciclo mestruale",
+      "aliases": [
+        "stress e cicli mestruali",
+        "stress",
+        "mancata mestruazione",
+        "periodo tardivo",
+        "Perché ho un ritardo mestruale?"
+      ],
+      "glance": "Lo stress, forti variazioni di peso o un'intensa attività fisica possono ritardare o interrompere il ciclo mestruale, spesso solo per un breve periodo.",
+      "overview": "È normale che le mestruazioni arrivino in ritardo o che saltino un mese, e spesso il motivo ha più a che fare\ncon la vita quotidiana che con un problema di salute. Lo stress è una causa frequente: lo stesso sistema che reagisce\nalla pressione può influenzare gli ormoni che regolano il ciclo mestruale.\n\nAnche altri fattori quotidiani possono alterare il ciclo mestruale: un forte cambiamento di peso (in aumento o in diminuzione), fare molto\nesercizio fisico o essere affaticate. Anche i cambiamenti ormonali — come l’avvicinarsi della perimenopausa o\ncondizioni come l’PCOSe — possono esserne la causa, così come la gravidanza e alcuni metodi contraccettivi. Spesso l’intervallo\ntra un ciclo e l’altro varia semplicemente un po’ di volta in volta, ed è normale.\n\nLa cosa rassicurante è che un ritardo occasionale o l’assenza di un ciclo di solito non sono motivo di preoccupazione, e\nspesso la situazione si stabilizza con il procedere della vita. Ciò che vale la pena tenere d’occhio è un andamento ricorrente piuttosto che un singolo\nmese.",
+      "deep": null,
+      "when_to_see_doctor": "Rivolgiti al medico di base se:\n\n- hai saltato **tre cicli mestruali di fila**, oppure i tuoi cicli sono diventati **irregolari**\n- le mestruazioni **si interrompono** e non ne capisci il motivo (e, dato che è possibile che tu sia incinta, vale la pena fare prima un test)\n- l’assenza delle mestruazioni è accompagnata da altri cambiamenti, come variazioni di peso inaspettate, stanchezza, aumento della crescita dei peli\n  o senso di malessere\n\nQuesti controlli servono solo a capire cosa c’è dietro al cambiamento, che di solito è qualcosa\ndi gestibile.",
+      "red_flags": null
+    },
+    "the-coil": {
+      "title": "La bobina (IUD e IUS)",
+      "aliases": [
+        "bobina",
+        "la bobina",
+        "IUD",
+        "IUS",
+        "serpentina in rame",
+        "spirale ormonale",
+        "dispositivo intrauterino",
+        "sistema intrauterino",
+        "Mirena"
+      ],
+      "glance": "La spirale è un piccolo dispositivo che viene inserito nell’utero — in rame (IUD) o ormonale (IUS) — e che dura anni.",
+      "overview": "Lo spirale è un piccolo dispositivo che il medico inserisce all’interno dell’utero. Ne esistono due tipi ed è utile\nsaperli distinguere:\n\n- Lo **IUD**, o spirale di rame, non contiene ormoni. Il rame modifica le condizioni all’interno dell’utero in modo tale\n  che spermatozoi e ovuli non possano sopravvivere facilmente, e influisce anche sul muco cervicale. A seconda del tipo,\n  la sua efficacia dura dai 5 ai 10 anni circa.\n- La **IUS**, o spirale ormonale, rilascia un progestinico invece di utilizzare il rame. Rende più denso il\n  muco della cervice e assottiglia il rivestimento uterino; in alcune persone può anche rendere le mestruazioni\n  molto più leggere.\n\nEntrambi sono metodi “inserisci e dimentica” ed entrambi hanno un’efficacia superiore al 99%, con una differenza minima tra\nl’uso perfetto e quello tipico. Nessuno dei due protegge dalle malattie sessualmente trasmissibili.",
+      "deep": "Gli spirali sono metodi reversibili a lunga durata: una volta inseriti, continuano a funzionare per anni e la fertilità\nritorna dopo la loro rimozione. L’inserimento e la rimozione vengono effettuati da un medico qualificato e richiedono solo\npochi minuti, anche se alcune persone trovano l’inserimento fastidioso. Un motivo comune per cui le persone scelgono tra\ni due è il loro effetto sulle mestruazioni: l’IUDe al rame può rendere le mestruazioni più abbondanti all’inizio, mentre la\nIUSe ormonale spesso le rende più leggere. Per capire quale sia più adatto a te è necessario un colloquio con un medico; questo articolo\nsi limita a spiegare come funziona ciascuno dei due.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Gravidanza gemellare e plurigesta",
+      "aliases": [
+        "gemelli",
+        "gravidanza gemellare",
+        "gravidanza plurigemellare",
+        "in attesa di gemelli",
+        "gemelli identici",
+        "gemelli non identici",
+        "terzine"
+      ],
+      "glance": "La gravidanza gemellare viene solitamente individuata per la prima volta durante l’ecografia di datazione e comporta un’assistenza prenatale leggermente più intensa.",
+      "overview": "La presenza di più di un bambino viene solitamente rilevata per la prima volta durante l’**ecografia di datazione** (intorno alla 12ª settimana),\nche può anche indicare se i bambini condividono la placenta.\n\nEsistono due tipi principali. I gemelli **identici** derivano da un unico ovulo fecondato che si divide, quindi\ncondividono gli stessi geni e sono sempre dello stesso sesso. I gemelli **non identici** provengono da due ovuli distinti\ne non sono più simili tra loro di qualsiasi altro fratello o sorella; sono i più comuni tra i due tipi e la loro\nprobabilità aumenta leggermente con l’avanzare dell’età, in presenza di una storia familiare da parte della madre o in seguito a trattamenti di fertilità.\n\nPortare in grembo due o più gemelli è un’esperienza a sé stante e di solito comporta **un po’ più di assistenza prenatale** —\nvisite e ecografie aggiuntive per tenere sotto stretta osservazione te e i tuoi bambini. Il tuo team di ostetriche ti\nspiegherà cosa aspettarti.",
+      "deep": null,
+      "when_to_see_doctor": "- Se un’ecografia rivela la presenza di gemelli (o più bambini), la tua **ostetrica** ti spiegherà quali sono i controlli aggiuntivi e\n  le ecografie previste in caso di gravidanza multipla: partecipare a tutti questi appuntamenti è il modo migliore per essere\n  seguita al meglio.",
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Secchezza vaginale",
+      "aliases": [
+        "secchezza vaginale",
+        "secchezza",
+        "atrofia vaginale"
+      ],
+      "glance": "La secchezza vaginale è un fenomeno comune, spesso legato agli ormoni, e può causare dolore o fastidio durante i rapporti sessuali.",
+      "overview": "La secchezza vaginale è un disturbo comune che molte persone sperimentano prima o poi. Si verifica quando l’\numidità naturale che mantiene la vagina in condizioni ottimali si riduce e può manifestarsi con indolenzimento,\nprurito o fastidio — compreso dolore o disagio durante i rapporti sessuali.\n\nSpesso è legata agli ormoni, in particolare a un calo degli estrogeni. Ecco perché è comune in\nperiodo di menopausa e perimenopausa, ma può verificarsi anche durante l’allattamento, con l’assunzione di alcuni farmaci (come\ndeterminati contraccettivi o antidepressivi) o quando l’eccitazione prima del rapporto sessuale non è sufficiente. Non c’è\nnulla di cui vergognarsi: si tratta di un fenomeno fisico, non riflette chi sei né la tua\nrelazione.\n\nSapere che è un fenomeno comune e solitamente molto curabile è un buon punto di partenza. Esistono soluzioni semplici\nche possono aiutarti, e il medico di famiglia o il farmacista possono indicarti quella più adatta a te.",
+      "deep": null,
+      "when_to_see_doctor": "Rivolgiti al medico di base se:\n\n- la secchezza vaginale ti dà fastidio o non si risolve dopo alcune settimane\n- influisce sulla tua vita quotidiana o sulla tua vita sessuale\n- presenti anche perdite insolite o sanguinamenti dopo i rapporti sessuali, tra un ciclo e l’altro o dopo la menopausa\n\nNon c’è motivo di sopportare passivamente questa situazione: è possibile ricevere aiuto e un medico potrà valutare quali siano le\ncause alla base del problema e quali soluzioni possano alleviarlo.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Salute vaginale e vulvare",
+      "aliases": [
+        "salute vaginale",
+        "salute della vulva",
+        "igiene intima",
+        "mantenere pulito",
+        "lavaggio vaginale",
+        "scarico"
+      ],
+      "glance": "La vagina si pulisce da sola: basta una cura delicata della zona esterna, e le perdite sono normali.",
+      "overview": "Una delle cose più rassicuranti da sapere è che la vagina si prende cura di sé stessa. È naturalmente\nautopulente, e le secrezioni che noti ne fanno parte: un fluido che la mantiene pulita e umida\ne aiuta a proteggerla dalle infezioni. La quantità e la consistenza cambiano durante il ciclo, il che è\nassolutamente normale.\n\nPer questo motivo, non è necessario lavare l’interno della vagina. Anzi, lavarla internamente —\novvero effettuare “lavaggi vaginali” — può alterarne l’equilibrio naturale. La parte esterna (la vulva) richiede solo una cura delicata: acqua tiepida\ne, se lo desideri, un sapone delicato e non profumato. È meglio evitare saponi, gel, deodoranti e salviettine profumate,\npoiché possono causare irritazioni.\n\nConoscere ciò che è normale per te — le tue secrezioni abituali, l’aspetto e la sensazione — rende più facile\nnotare se qualcosa cambia e potrebbe richiedere un controllo.",
+      "deep": null,
+      "when_to_see_doctor": "Rivolgiti al medico di base o a un centro di salute sessuale se noti:\n\n- un cambiamento nelle secrezioni — nel colore, nell’odore o nella consistenza, oppure una quantità molto maggiore del solito\n- prurito, dolore o irritazione nella zona vaginale o vulvare\n- sanguinamento tra un ciclo e l’altro o dopo un rapporto sessuale\n- dolore durante la minzione o dolore nella zona bassa tra l'addome e le cosce (dolore pelvico)\n\nSi tratta di sintomi comuni e spesso facilmente curabili: un cambiamento nelle perdite può semplicemente indicare una lieve infezione\ncome il mughetto. Farsi controllare è il modo migliore per saperlo con certezza, piuttosto che fare supposizioni.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Il ciclo e le sue fasi",
+      "summary": "Come si sviluppa il ciclo mestruale attraverso le fasi mestruale, follicolare, dell’ovulazione e luteale."
+    },
+    "hormones": {
+      "title": "Ormoni",
+      "summary": "I messaggeri che regolano il tuo ciclo: estrogeni, progesterone, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Fertilità e ovulazione",
+      "summary": "Il periodo fertile, i segnali dell’ovulazione e i fattori che influenzano la fertilità."
+    },
+    "contraception": {
+      "title": "Contraccezione",
+      "summary": "Come funzionano i diversi metodi, in parole semplici."
+    },
+    "symptoms-and-signals": {
+      "title": "Sintomi e segnali del corpo",
+      "summary": "Dolore, perdite ematiche, secrezioni, sbalzi d'umore: ecco cosa potrebbe dirti il tuo corpo."
+    },
+    "conditions": {
+      "title": "Condizioni",
+      "summary": "PCOSe, endometriosi, fibromi e altro ancora — spiegati con riferimenti alle fonti."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Salute sessuale e intima",
+      "summary": "Benessere intimo, comfort e domande frequenti."
+    },
+    "life-stages": {
+      "title": "Fasi della vita",
+      "summary": "Dal primo ciclo mestruale fino alla perimenopausa e alla menopausa."
+    },
+    "wellbeing": {
+      "title": "Il benessere e il ciclo",
+      "summary": "In che modo il sonno, lo stress e la vita quotidiana influiscono sul tuo ciclo mestruale."
+    },
+    "tests-and-exams": {
+      "title": "Prove ed esami",
+      "summary": "Autopalpazione del seno, screening cervicale, test di ovulazione e altro ancora."
+    },
+    "pregnancy": {
+      "title": "Gravidanza",
+      "summary": "Primi sintomi, come stare bene, segnali di allarme e interruzione di gravidanza: tutto spiegato, con riferimenti."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Comprendi il tuo ciclo in 5 passaggi",
+      "summary": "Un percorso tranquillo attraverso l’intero ciclo e ciascuna delle sue quattro fasi."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Conoscere l'ovulazione",
+      "summary": "Che cos’è l’ovulazione, qual è il periodo fertile e quali sono i segnali che il tuo corpo ti invia."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Gli ormoni alla base del ciclo mestruale",
+      "summary": "Scopri i quattro messaggeri che guidano il ciclo e il ruolo di ciascuno di essi."
+    }
+  }
+}
