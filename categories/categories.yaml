@@ -87,3 +87,10 @@ categories:
     colorToken: brand
     illustrationId: cat-pregnancy
     summary: Early signs, staying well, warning signs, and pregnancy loss — explained, with sources.
+
+  - id: for-partners
+    title: For partners
+    order: 12
+    colorToken: accentRose
+    illustrationId: cat-partner
+    summary: Understanding her cycle, supporting her well, and building a relationship on respect.
