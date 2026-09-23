@@ -58,7 +58,7 @@
         "additionalProperties": false,
         "required": ["org", "title", "url", "accessed", "license"],
         "properties": {
-          "org": { "enum": ["WHO", "NICE", "NHS", "ESHRE", "FIGO", "OWH", "NCBI", "PubMed", "ACOG"] },
+          "org": { "enum": ["WHO", "NICE", "NHS", "ESHRE", "FIGO", "OWH", "NCBI", "PubMed", "ACOG", "ISTAT", "MinisteroSalute", "DPO"] },
           "title": { "type": "string", "minLength": 1 },
           "url": { "type": "string", "format": "uri", "pattern": "^https://" },
           "published": { "type": "string", "format": "date" },

@@ -27,6 +27,22 @@ Use these organisations. Prefer their **patient-education** pages over primary r
 | **ESHRE / FIGO** | fertility, reproductive medicine | proprietary — summarise, cite |
 | **NCBI / PubMed** | last resort, background only | **do not interpret primary research**; only for uncontroversial, well-established facts already echoed by a patient-education source |
 
+### Safety & support (violence / abuse) — additional accredited bodies
+
+For the `safety-and-support` category only, these official public bodies are also allowed, because
+the authoritative, current source for helplines and national statistics is government, not clinical
+patient-education. Cite them exactly like any other source.
+
+| Org (code) | Best for | Notes on reuse |
+|-----|----------|----------------|
+| **WHO** | definitions, forms of violence, global framing and prevalence | as above |
+| **ISTAT** (`ISTAT`) | prevalence of violence against women in Italy | national statistics office — attribute; content generally CC BY |
+| **Dipartimento per le Pari Opportunità** (`DPO`) | the 1522 anti-violence & stalking helpline (Italy) | Italian public administration — attribute; public-sector |
+| **Ministero della Salute** (`MinisteroSalute`) | the Italian health-service pathway for women experiencing violence | Italian public administration — attribute; verify the live page before citing (it may sit behind a bot check) |
+
+Emergency numbers (112 in the EU, 911 in the US, 999 in the UK) are standard public-safety facts and
+need no citation. National helplines vary by country — name the country beside each number.
+
 **Never:** blogs, forums, social media, commercial health sites, AI-generated medical claims,
 or a single primary study interpreted by us. If only PubMed has it, it is probably too clinical
 for Softly.

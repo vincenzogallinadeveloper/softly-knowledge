@@ -94,3 +94,10 @@ categories:
     colorToken: accentRose
     illustrationId: cat-partner
     summary: Understanding her cycle, supporting her well, and building a relationship on respect.
+
+  - id: safety-and-support
+    title: Safety & support
+    order: 13
+    colorToken: brand
+    illustrationId: cat-safety
+    summary: Recognising abuse, staying safe, and how to find help — with emergency numbers.

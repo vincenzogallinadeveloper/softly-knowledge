@@ -928,6 +928,82 @@
       "deep": null,
       "when_to_see_doctor": "Rivolgiti al medico di base o a un centro di salute sessuale se noti:\n\n- un cambiamento nelle secrezioni — nel colore, nell’odore o nella consistenza, oppure una quantità molto maggiore del solito\n- prurito, dolore o irritazione nella zona vaginale o vulvare\n- sanguinamento tra un ciclo e l’altro o dopo un rapporto sessuale\n- dolore durante la minzione o dolore nella zona bassa tra l'addome e le cosce (dolore pelvico)\n\nSi tratta di sintomi comuni e spesso facilmente curabili: un cambiamento nelle perdite può semplicemente indicare una lieve infezione\ncome il mughetto. Farsi controllare è il modo migliore per saperlo con certezza, piuttosto che fare supposizioni.",
       "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Riconoscere una relazione abusiva",
+      "aliases": [
+        "riconoscere gli abusi",
+        "relazione abusiva",
+        "violenza domestica",
+        "violenza dal partner",
+        "segnali di abuso",
+        "sto subendo violenza"
+      ],
+      "glance": "L'abuso può essere fisico, sessuale, psicologico o basato sul controllo — e non è mai colpa di chi lo subisce.",
+      "overview": "L'abuso in una relazione non è solo fisico. Può assumere più forme, spesso insieme: violenza fisica, coercizione sessuale, danno emotivo o psicologico, e comportamenti di controllo — un partner che decide dove vai, chi vedi o cosa puoi fare. Ognuna di queste può essere abuso, anche quando non ci sono segni visibili.\n\nÈ più comune di quanto si pensi. Nel mondo circa 1 donna su 3 subisce violenza fisica o sessuale nel corso della vita, il più delle volte da un partner; in Italia il quadro è simile. Quindi, se fa parte della tua vita, non sei sola, e non è qualcosa che hai causato tu.\n\nDargli un nome può essere difficile — l'abuso spesso si mescola a momenti belli, scuse o promesse di cambiare, e può crescere così lentamente da sembrare normale. Fidarti della tua sensazione che qualcosa non va è un motivo valido per chiedere aiuto. Non devi esserne certa, né aspettare che diventi «abbastanza grave», per parlarne con qualcuno.",
+      "deep": "Sotto le diverse forme, l'abuso tende a seguire uno schema in cui una persona cerca potere e controllo su un'altra, e può intensificarsi nel tempo. Ha un impatto reale sulla salute — è associato ad ansia, depressione, difficoltà a dormire ed effetti fisici a lungo termine. Nulla di tutto ciò significa che sei debole o colpevole; significa che ciò che stai vivendo è dannoso, e che esiste un supporto per aiutarti a rifletterci in sicurezza e con i tuoi tempi.",
+      "when_to_see_doctor": "- Puoi parlarne in modo riservato quando te la senti — con un medico o un'infermiera, un centro antiviolenza o una linea di ascolto (in Italia il **1522**, gratuito e sempre attivo). Non servono prove, un piano o una decisione: sono lì per ascoltarti e aiutarti a capire le tue opzioni.\n- Un professionista sanitario può anche curare eventuali lesioni e metterti in contatto, con discrezione, con servizi specializzati.",
+      "red_flags": "- Se sei in **pericolo immediato**, contatta subito i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada.\n- In Italia il **1522** — numero nazionale antiviolenza e stalking, gratuito — è attivo 24 ore su 24, in forma anonima, per telefono o in chat, in più lingue."
+    },
+    "coercive-control": {
+      "title": "Controllo coercitivo",
+      "aliases": [
+        "controllo coercitivo",
+        "comportamento controllante",
+        "abuso psicologico",
+        "isolamento",
+        "abuso economico",
+        "gaslighting"
+      ],
+      "glance": "Il controllo coercitivo è uno schema di comportamenti di controllo — isolare, sorvegliare, minacciare — riconosciuto come forma di abuso.",
+      "overview": "Il controllo coercitivo è una forma di abuso che agisce attraverso il controllo, invece della violenza fisica o insieme ad essa. È uno schema — non un singolo litigio — in cui una persona limita a poco a poco la libertà e l'identità di un'altra.\n\nPuò assomigliare all'essere allontanata da amici e familiari, avere il telefono, gli spostamenti o le spese controllati o limitati, sentirsi dire come vestirsi o come comportarsi, o convivere con critiche costanti, minacce o intimidazioni. Poiché possono non esserci lividi, è difficile da nominare, e gli altri possono non vederlo — ma è riconosciuto come abuso, e può essere dannoso quanto la violenza fisica.\n\nSe riconosci qualcosa di tutto questo, non è segno che sei troppo sensibile o che te la sei cercata. Il comportamento controllante è una scelta che fa l'altra persona. Capirlo per quello che è può essere il primo passo verso un aiuto.",
+      "deep": "Il controllo coercitivo cresce spesso lentamente, ed è anche questo a renderlo difficile da riconoscere dall'interno — piccoli controlli diventano normali, e il dubbio su di sé aumenta. Con il tempo logora la salute mentale. Parlarne con qualcuno preparato a riconoscere questi schemi può aiutarti a vedere la situazione più chiaramente e a pensare a cosa vuoi fare, senza pressioni.",
+      "when_to_see_doctor": "- Un centro antiviolenza o una linea di ascolto (in Italia il **1522**) può parlare di ciò che stai vivendo, in modo riservato e gratuito, e aiutarti a capire le tue opzioni — non devi essere in pericolo fisico per chiedere aiuto.\n- Anche un medico o uno psicologo possono sostenerti e indirizzarti a servizi specializzati.",
+      "red_flags": "- Se sei in **pericolo immediato**, contatta subito i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada.\n- In Italia il **1522** è gratuito, attivo 24 ore su 24, anonimo e multilingue — per telefono o in chat."
+    },
+    "safety-plan": {
+      "title": "Mettersi al sicuro (piano di sicurezza)",
+      "aliases": [
+        "piano di sicurezza",
+        "mettersi al sicuro",
+        "restare al sicuro",
+        "andarsene in sicurezza"
+      ],
+      "glance": "Un piano di sicurezza è qualche passo pratico per stare più al sicuro — e servizi esperti possono aiutarti a costruirlo.",
+      "overview": "Un piano di sicurezza è semplicemente pensare in anticipo a come tenere più al sicuro te stessa (e gli eventuali figli). Non è una decisione di andartene o di restare — riguarda l'essere un po' più preparata, qualunque cosa tu scelga.\n\nPer alcune persone aiuta avere in silenzio alcune cose pronte: una persona di fiducia che sappia cosa sta succedendo, documenti e numeri importanti a portata di mano, una piccola borsa con l'essenziale, un'idea delle vie d'uscita più sicure di casa, o una parola o un segnale che dica a qualcuno che hai bisogno di aiuto. Ciò che ha senso dipende dalla tua situazione.\n\nNon devi capirlo da sola, ed è spesso più sicuro non farlo. I servizi antiviolenza sono esperti nel costruire piani di sicurezza insieme alle persone, in modo riservato e gratuito — anche per il momento in cui ci si allontana, che può essere più a rischio e va pianificato con supporto, non di fretta.",
+      "deep": null,
+      "when_to_see_doctor": "- Contatta un centro antiviolenza o una linea di ascolto (in Italia il **1522**) per costruire un piano adatto alla tua situazione — lo fanno ogni giorno, in modo riservato, e possono aiutarti con i passi pratici, legali ed emotivi.\n- Se tieni una qualsiasi traccia di ciò che accade, conservala in un luogo privato e sicuro.",
+      "red_flags": "- Se sei in **pericolo immediato**, contatta subito i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada.\n- In Italia il **1522** — gratuito, 24 ore su 24, anonimo, multilingue — può aiutarti per telefono o in chat, anche per la pianificazione urgente della sicurezza."
+    },
+    "getting-help": {
+      "title": "A chi rivolgersi",
+      "aliases": [
+        "a chi rivolgersi",
+        "numeri utili",
+        "linee di ascolto",
+        "centro antiviolenza",
+        "1522",
+        "numeri d'emergenza"
+      ],
+      "glance": "Un aiuto gratuito e riservato esiste — in emergenza chiama il numero unico; in Italia il 1522, a qualsiasi ora.",
+      "overview": "Se stai subendo violenza, non devi affrontarla da sola, e chiedere aiuto non ti impegna a nulla. Ci sono persone il cui lavoro è proprio ascoltare e aiutare, in modo riservato e gratuito.\n\nDiversi tipi di aiuto convivono:\n\n- **Soccorsi d'emergenza** — in caso di pericolo immediato, chiama il numero d'emergenza (sotto).\n- **Una linea nazionale** — in Italia il **1522**, numero antiviolenza e stalking gratuito: attivo 24 ore su 24, anonimo, in più lingue, per telefono o in chat online.\n- **Centri antiviolenza** — servizi locali che offrono supporto gratuito e riservato, pianificazione della sicurezza, aiuto legale e psicologico.\n- **Servizi sanitari** — il medico di base, o il pronto soccorso, dove il personale è sempre più formato per riconoscere gli abusi e metterti in contatto con un supporto.\n- **Persone di fiducia** — un'amica o un familiare con cui ti senti al sicuro.\n\nPuoi iniziare da ciò che ti sembra più possibile, e non devi aver deciso nulla.",
+      "deep": null,
+      "when_to_see_doctor": "- Puoi parlare con il **medico di base o con un ospedale** di ciò che sta succedendo, in modo riservato; possono curare eventuali lesioni e metterti in contatto con servizi specializzati.\n- Se ti è più facile scrivere che parlare, la **chat del 1522** è un altro modo per iniziare.",
+      "red_flags": "- Se sei in **pericolo immediato**, contatta subito i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada.\n- **Italia:** **1522** (gratuito, 24 ore su 24, anonimo, multilingue — telefono o chat).\n- I numeri delle linee di ascolto cambiano da Paese a Paese. Se ti trovi altrove, cerca la linea nazionale antiviolenza del tuo Paese e usa il **112** se sei nell'UE."
+    },
+    "supporting-someone": {
+      "title": "Sostenere chi subisce violenza",
+      "aliases": [
+        "sostenere chi subisce violenza",
+        "aiutare un'amica",
+        "come aiutare",
+        "come sostenere"
+      ],
+      "glance": "Se una persona che conosci potrebbe subire violenza, ascoltarla senza giudicare — e sapere dove indirizzarla — aiuta.",
+      "overview": "Accorgersi che una persona a cui tieni potrebbe subire violenza è difficile, e voler aiutare è un buon istinto. Le cose più utili che puoi offrire sono spesso le più semplici.\n\nAscolta, e credile. Lasciala parlare con i suoi tempi, senza giudicare, incolpare o chiederle cosa ha fatto per provocarlo. Dille chiaramente che non è colpa sua e che non lo merita. Cerca di non dirle cosa fare né di spingerla ad andarsene: andarsene spetta a lei deciderlo, e farlo di fretta può addirittura aumentare il pericolo — aiuta di più che si senta sostenuta e non sola.\n\nMantieni privato ciò che ti confida. Aiutala con delicatezza a trovare un supporto specializzato quando è pronta — una linea come il **1522** in Italia, o un centro antiviolenza locale — e offri un aiuto pratico, come cercare insieme i numeri o esserci quando chiama. E prenditi cura anche di te; sostenere qualcuno in questo può pesare.",
+      "deep": null,
+      "when_to_see_doctor": "- Incoraggiala (senza pressioni) a contattare una linea di ascolto o un centro antiviolenza, che possono guidare entrambe su cosa fare. Puoi offrirti di aiutarla a chiamare o a trovare il numero.\n- Se è ferita, un medico o un ospedale possono aiutarla — e metterla in contatto con i servizi di supporto.",
+      "red_flags": "- Se è in **pericolo immediato**, chiama i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada.\n- In Italia il **1522** (gratuito, 24 ore su 24, anonimo, multilingue — telefono o chat) può consigliare anche te su come aiutare una persona."
     }
   },
   "categories": {
@@ -974,6 +1050,10 @@
     "pregnancy": {
       "title": "Gravidanza",
       "summary": "Primi sintomi, come stare bene, segnali di allarme e interruzione di gravidanza: tutto spiegato, con riferimenti."
+    },
+    "safety-and-support": {
+      "title": "Sicurezza e supporto",
+      "summary": "Riconoscere gli abusi, mettersi al sicuro e come trovare aiuto — con i numeri d'emergenza."
     }
   },
   "paths": {

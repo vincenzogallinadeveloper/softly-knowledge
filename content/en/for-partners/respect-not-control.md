@@ -18,7 +18,7 @@ sources:
     license: CC-BY-NC-SA-3.0-IGO
   - org: OWH
     title: "Effects of violence against women"
-    url: https://www.womenshealth.gov/relationships-and-safety/effects-violence-against-women
+    url: https://womenshealth.gov/relationships-and-safety/effects-violence-against-women
     accessed: 2026-09-05
     license: public-domain
 
