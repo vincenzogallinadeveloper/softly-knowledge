@@ -127,6 +127,19 @@ CREATE TABLE path_steps (
 );
 CREATE INDEX idx_path_steps_atom ON path_steps(atom_id);
 
+CREATE TABLE helplines (
+  code            TEXT PRIMARY KEY,   -- ISO country code, or 'EU'
+  country         TEXT NOT NULL,
+  emergency       TEXT NOT NULL,      -- number to call in immediate danger
+  emergency_notes TEXT,
+  dv_name         TEXT,               -- national anti-violence helpline (optional)
+  dv_number       TEXT,
+  dv_hours        TEXT,
+  dv_languages    TEXT,               -- JSON array
+  dv_url          TEXT,
+  dv_chat         INTEGER             -- 0/1
+);
+
 CREATE VIRTUAL TABLE atom_fts USING fts5 (
   title,
   aliases,
@@ -172,7 +185,7 @@ def _overlay_value(field: str, translated: dict, english: dict):
 
 
 def _content_checksum(published: List[Atom], categories_checksum: str,
-                      paths_checksum: str = "") -> str:
+                      paths_checksum: str = "", helplines_checksum: str = "") -> str:
     h = hashlib.sha256()
     for atom in sorted(published, key=lambda a: a.id):
         h.update(atom.id.encode("utf-8"))
@@ -183,6 +196,8 @@ def _content_checksum(published: List[Atom], categories_checksum: str,
     h.update(categories_checksum.encode("utf-8"))
     h.update(b"\npaths\0")
     h.update(paths_checksum.encode("utf-8"))
+    h.update(b"\nhelplines\0")
+    h.update(helplines_checksum.encode("utf-8"))
     return h.hexdigest()
 
 
@@ -394,9 +409,27 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG,
 
             coverage[tgt_lang] = (done, total)
 
+        # Safety helplines (language-neutral reference data by country).
+        for h in corpus.helplines:
+            dv = h.get("dv_helpline") or {}
+            langs = dv.get("languages")
+            conn.execute(
+                "INSERT INTO helplines(code, country, emergency, emergency_notes, "
+                "dv_name, dv_number, dv_hours, dv_languages, dv_url, dv_chat) "
+                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                (
+                    h["code"], h.get("country"), h["emergency"],
+                    h.get("emergency_notes"),
+                    dv.get("name"), dv.get("number"), dv.get("hours"),
+                    json.dumps(langs, ensure_ascii=False) if langs else None,
+                    dv.get("url"), 1 if dv.get("chat") else (0 if dv else None),
+                ),
+            )
+
         # Build metadata + semantic content version.
         checksum = _content_checksum(
-            published, corpus.categories_checksum, corpus.paths_checksum
+            published, corpus.categories_checksum, corpus.paths_checksum,
+            corpus.helplines_checksum,
         )
         meta = {
             "db_schema_version": str(DB_SCHEMA_VERSION),
@@ -406,6 +439,7 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG,
             "atom_count": str(len(published)),
             "category_count": str(len(corpus.categories)),
             "path_count": str(len(published_paths)),
+            "helpline_count": str(len(corpus.helplines)),
             "languages": ",".join([lang] + list(coverage.keys())),
             "content_checksum": checksum,
         }

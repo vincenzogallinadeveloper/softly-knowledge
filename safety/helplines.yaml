@@ -1,0 +1,156 @@
+# Emergency and anti-violence helpline numbers by country, for the app to show the
+# RIGHT numbers based on the user's country/location. Language-neutral reference
+# data — numbers and country codes do not translate.
+#
+# SAFETY-CRITICAL. Only verified numbers go here. `emergency` numbers are stable,
+# widely published public-safety facts. National anti-violence (`dv_helpline`)
+# numbers are added only when confirmed against an official source.
+#
+# Fields per entry:
+#   code             ISO 3166-1 alpha-2 country code, or "EU" for the bloc default
+#   country          English display name
+#   emergency        the number to call in immediate danger (police / general)
+#   emergency_notes  optional (e.g. a separate ambulance number)
+#   dv_helpline:     optional national domestic-abuse / anti-violence helpline
+#     name           service name
+#     number         number or short code
+#     hours          e.g. "24/7"
+#     languages      optional list of language codes
+#     url            official page (https)
+#     chat           optional (true if an online chat exists)
+#
+# STATUS: emergency numbers populated for the app's main markets; the only
+# verified dv_helpline so far is Italy's 1522. More national anti-violence lines
+# (DE, FR, ES, UK, US, …) are pending source verification — see EDITORIAL_POLICY.
+
+helplines:
+  - code: EU
+    country: European Union
+    emergency: "112"
+    emergency_notes: 112 is the single emergency number across every EU country.
+
+  - code: IT
+    country: Italy
+    emergency: "112"
+    dv_helpline:
+      name: Numero antiviolenza e stalking (1522)
+      number: "1522"
+      hours: "24/7"
+      languages: [it, en, fr, es, ar]
+      url: https://www.1522.eu/
+      chat: true
+
+  - code: GB
+    country: United Kingdom
+    emergency: "999"
+    emergency_notes: 112 also reaches emergency services in the UK.
+
+  - code: IE
+    country: Ireland
+    emergency: "112"
+    emergency_notes: 999 also works in Ireland.
+
+  - code: US
+    country: United States
+    emergency: "911"
+
+  - code: CA
+    country: Canada
+    emergency: "911"
+
+  - code: AU
+    country: Australia
+    emergency: "000"
+
+  - code: NZ
+    country: New Zealand
+    emergency: "111"
+
+  - code: DE
+    country: Germany
+    emergency: "112"
+
+  - code: FR
+    country: France
+    emergency: "112"
+
+  - code: ES
+    country: Spain
+    emergency: "112"
+
+  - code: PT
+    country: Portugal
+    emergency: "112"
+
+  - code: NL
+    country: Netherlands
+    emergency: "112"
+
+  - code: BE
+    country: Belgium
+    emergency: "112"
+
+  - code: AT
+    country: Austria
+    emergency: "112"
+
+  - code: PL
+    country: Poland
+    emergency: "112"
+
+  - code: DK
+    country: Denmark
+    emergency: "112"
+
+  - code: SE
+    country: Sweden
+    emergency: "112"
+
+  - code: FI
+    country: Finland
+    emergency: "112"
+
+  - code: "NO"
+    country: Norway
+    emergency: "112"
+    emergency_notes: 112 is police; the ambulance number is 113.
+
+  - code: TR
+    country: Türkiye
+    emergency: "112"
+
+  - code: RU
+    country: Russia
+    emergency: "112"
+
+  - code: UA
+    country: Ukraine
+    emergency: "112"
+
+  - code: ID
+    country: Indonesia
+    emergency: "112"
+
+  - code: JP
+    country: Japan
+    emergency: "110"
+    emergency_notes: 110 is police; fire and ambulance are 119.
+
+  - code: KR
+    country: South Korea
+    emergency: "112"
+    emergency_notes: 112 is police; fire and ambulance are 119.
+
+  - code: CN
+    country: China (mainland)
+    emergency: "110"
+    emergency_notes: 110 is police; ambulance is 120.
+
+  - code: TW
+    country: Taiwan
+    emergency: "110"
+    emergency_notes: 110 is police; fire and ambulance are 119.
+
+  - code: HK
+    country: Hong Kong
+    emergency: "999"

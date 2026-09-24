@@ -32,7 +32,7 @@ _ATOM_FIELDS = ("title", "aliases") + _BODY_FIELDS
 
 def build_catalog(content_dir: Path, categories_file: Path, paths_file: Path,
                   lang: str) -> dict:
-    corpus = load_corpus(content_dir, categories_file, paths_file, lang)
+    corpus = load_corpus(content_dir, categories_file, paths_file, lang=lang)
     published = sorted(
         (a for a in corpus.atoms if a.status == "published"), key=lambda a: a.id
     )

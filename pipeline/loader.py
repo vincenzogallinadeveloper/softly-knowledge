@@ -86,6 +86,8 @@ class Corpus:
     category_ids: set = field(default_factory=set)
     paths: List["LearningPath"] = field(default_factory=list)
     paths_checksum: str = ""
+    helplines: List[dict] = field(default_factory=list)
+    helplines_checksum: str = ""
 
 
 def _normalize_yaml_dates(node):
@@ -216,14 +218,31 @@ def load_paths(path: Path):
     return paths, checksum
 
 
+def load_helplines(path: Path):
+    """Load safety/helplines.yaml (emergency + anti-violence numbers by country).
+    Returns (helplines, checksum). A missing file is not an error."""
+    if not path.exists():
+        return [], ""
+    raw = path.read_bytes()
+    checksum = hashlib.sha256(raw).hexdigest()
+    doc = yaml.safe_load(raw.decode("utf-8"))
+    if not isinstance(doc, dict) or "helplines" not in doc:
+        raise LoadError(f"{path}: expected a top-level 'helplines:' list")
+    return list(doc["helplines"] or []), checksum
+
+
 def load_corpus(content_dir: Path, categories_file: Path,
                 paths_file: Optional[Path] = None,
+                helplines_file: Optional[Path] = None,
                 lang: str = SOURCE_LANG) -> Corpus:
     categories, cat_checksum = load_categories(categories_file)
     atoms = [load_atom(p, lang) for p in sorted(content_dir.rglob("*.md"))]
     paths, paths_checksum = ([], "")
     if paths_file is not None:
         paths, paths_checksum = load_paths(paths_file)
+    helplines, helplines_checksum = ([], "")
+    if helplines_file is not None:
+        helplines, helplines_checksum = load_helplines(helplines_file)
     return Corpus(
         atoms=atoms,
         categories=categories,
@@ -231,4 +250,6 @@ def load_corpus(content_dir: Path, categories_file: Path,
         category_ids={c.id for c in categories},
         paths=paths,
         paths_checksum=paths_checksum,
+        helplines=helplines,
+        helplines_checksum=helplines_checksum,
     )

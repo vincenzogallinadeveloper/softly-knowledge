@@ -18,6 +18,11 @@ sources:
     url: https://www.1522.eu/
     accessed: 2026-09-23
     license: public-sector
+  - org: MinisteroSalute
+    title: "Violenza sulle donne — Ministero della Salute"
+    url: https://www.salute.gov.it/new/it/tema/salute-della-donna/violenza-sulle-donne/?paragraph=0
+    accessed: 2026-09-24
+    license: public-sector
   - org: WHO
     title: "Violence against women — WHO fact sheet"
     url: https://www.who.int/news-room/fact-sheets/detail/violence-against-women

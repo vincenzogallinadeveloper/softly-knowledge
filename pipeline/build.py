@@ -48,6 +48,8 @@ def _parse_args(argv):
                    default=REPO_ROOT / "categories" / "categories.yaml")
     p.add_argument("--paths", type=Path,
                    default=REPO_ROOT / "paths" / "paths.yaml")
+    p.add_argument("--helplines", type=Path,
+                   default=REPO_ROOT / "safety" / "helplines.yaml")
     p.add_argument("--schema", type=Path,
                    default=REPO_ROOT / "schema" / "atom.schema.json")
     p.add_argument("--path-schema", type=Path,
@@ -77,7 +79,8 @@ def main(argv=None) -> int:
         schema = json.loads(args.schema.read_text("utf-8"))
         path_schema = (json.loads(args.path_schema.read_text("utf-8"))
                        if args.path_schema.exists() else None)
-        corpus = load_corpus(args.content, args.categories, args.paths)
+        corpus = load_corpus(args.content, args.categories, args.paths,
+                             args.helplines)
     except (LoadError, FileNotFoundError, json.JSONDecodeError) as e:
         print(f"✗ load failed: {e}", file=sys.stderr)
         return 2
@@ -87,7 +90,7 @@ def main(argv=None) -> int:
     pub_paths = sum(1 for p in corpus.paths if p.status == "published")
     say(f"  loaded {len(corpus.atoms)} atom(s): {published} published, {drafts} draft"
         f"; {len(corpus.categories)} categories; {len(corpus.paths)} path(s) "
-        f"({pub_paths} published)")
+        f"({pub_paths} published); {len(corpus.helplines)} helpline record(s)")
 
     report = check(corpus, schema, path_schema)
 

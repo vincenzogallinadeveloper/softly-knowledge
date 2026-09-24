@@ -75,7 +75,35 @@ def check(corpus: Corpus, schema: dict, path_schema: dict | None = None,
     # --- learning paths ----------------------------------------------------
     _check_paths(corpus, path_schema, status_by_id, report)
 
+    # --- safety helplines --------------------------------------------------
+    _check_helplines(corpus, report)
+
     return report
+
+
+def _check_helplines(corpus: Corpus, report: Report) -> None:
+    """Emergency/anti-violence numbers are safety-critical: each needs a country
+    code and an emergency number, codes are unique, and any dv_helpline URL is
+    https."""
+    seen = set()
+    for i, h in enumerate(corpus.helplines):
+        where = f"helplines.yaml[{i}] ({h.get('code', '?')})"
+        code = h.get("code")
+        if not isinstance(code, str) or not code:
+            report.error(f"{where}: missing 'code'")
+        elif code in seen:
+            report.error(f"helplines.yaml: duplicate country code '{code}'")
+        else:
+            seen.add(code)
+        if not isinstance(h.get("emergency"), str) or not h.get("emergency"):
+            report.error(f"{where}: missing 'emergency' number (must be a string)")
+        dv = h.get("dv_helpline")
+        if dv is not None:
+            if not dv.get("number"):
+                report.error(f"{where}: dv_helpline is missing 'number'")
+            url = dv.get("url")
+            if url and not str(url).startswith("https://"):
+                report.error(f"{where}: dv_helpline url must be https")
 
 
 def _check_schema(atom: Atom, schema: dict, report: Report) -> None:

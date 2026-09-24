@@ -47,11 +47,12 @@ Warnings (surfaced; promoted to fatal with `--strict`):
 ## What it produces
 
 `build/knowledge.sqlite` — language-neutral graph tables (`atoms`, `relations`, `sources`,
-`categories`, `atom_phases`, `paths`, `path_steps`), localized text tables (`atom_text`,
-`category_text`, `path_text`, keyed by `lang`), an FTS5 index (`atom_fts`) over title + aliases +
-body, and a `meta` table carrying `content_checksum`, `built_at`, counts, and schema/pipeline
-versions. Only `published` atoms and paths ship. The file is built to a temp path and atomically
-moved into place.
+`categories`, `atom_phases`, `paths`, `path_steps`), a `helplines` table (emergency + national
+anti-violence numbers by country, from `safety/helplines.yaml`, so the app shows the right numbers
+for the user's location), localized text tables (`atom_text`, `category_text`, `path_text`, keyed
+by `lang`), an FTS5 index (`atom_fts`) over title + aliases + body, and a `meta` table carrying
+`content_checksum`, `built_at`, counts, and schema/pipeline versions. Only `published` atoms and
+paths ship. The file is built to a temp path and atomically moved into place.
 
 Translations: the build also overlays any catalog under `i18n/<lang>/catalog.<lang>.json` into the
 `*_text` and FTS tables for that language, falling back to English for untranslated strings, and

@@ -105,6 +105,7 @@ class Fixture:
         self.categories = tmp / "categories.yaml"
         self.categories.write_text(CATEGORIES_YAML, "utf-8")
         self.paths_file = tmp / "paths.yaml"
+        self.helplines_file = tmp / "helplines.yaml"
 
     def write_atom(self, filename, text):
         p = self.content / filename
@@ -114,9 +115,13 @@ class Fixture:
     def write_paths(self, yaml_text):
         self.paths_file.write_text(yaml_text, "utf-8")
 
+    def write_helplines(self, yaml_text):
+        self.helplines_file.write_text(yaml_text, "utf-8")
+
     def corpus(self):
         paths = self.paths_file if self.paths_file.exists() else None
-        return loader.load_corpus(self.content, self.categories, paths)
+        helplines = self.helplines_file if self.helplines_file.exists() else None
+        return loader.load_corpus(self.content, self.categories, paths, helplines)
 
     def report(self):
         return rules.check(self.corpus(), ATOM_SCHEMA, PATH_SCHEMA, today=date(2026, 9, 3))
@@ -471,6 +476,58 @@ class LinkCollectionTests(unittest.TestCase):
     def test_norm_ignores_trailing_slash_and_scheme(self):
         self.assertEqual(check_links._norm("http://a.com/x/"),
                          check_links._norm("https://a.com/x"))
+
+
+class HelplineTests(unittest.TestCase):
+    def _fx(self, tmp, helplines_yaml):
+        fx = Fixture(Path(tmp))
+        fx.write_atom("hormones/estrogen.md", atom_md(id="estrogen"))
+        fx.write_helplines(helplines_yaml)
+        return fx
+
+    def test_valid_helplines_compile(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            fx = self._fx(tmp, textwrap.dedent("""
+                helplines:
+                  - code: EU
+                    country: European Union
+                    emergency: "112"
+                  - code: IT
+                    country: Italy
+                    emergency: "112"
+                    dv_helpline:
+                      name: "1522"
+                      number: "1522"
+                      hours: "24/7"
+                      url: https://www.1522.eu/
+                      chat: true
+            """))
+            self.assertEqual(fx.report().errors, [])
+            out = Path(tmp) / "k.sqlite"
+            compile_db(fx.corpus(), out)
+            db = sqlite3.connect(out)
+            self.assertEqual(db.execute("SELECT count(*) FROM helplines").fetchone()[0], 2)
+            row = db.execute("SELECT emergency, dv_number, dv_chat FROM helplines "
+                             "WHERE code='IT'").fetchone()
+            self.assertEqual(row, ("112", "1522", 1))
+            db.close()
+
+    def test_duplicate_code_and_missing_emergency_are_errors(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            fx = self._fx(tmp, textwrap.dedent("""
+                helplines:
+                  - code: IT
+                    country: Italy
+                    emergency: "112"
+                  - code: IT
+                    country: Italy again
+                    emergency: "113"
+                  - code: FR
+                    country: France
+            """))
+            errs = fx.report().errors
+            self.assertTrue(any("duplicate country code" in e for e in errs))
+            self.assertTrue(any("emergency" in e for e in errs))
 
 
 if __name__ == "__main__":
