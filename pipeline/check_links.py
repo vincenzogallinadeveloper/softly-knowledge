@@ -34,6 +34,11 @@ def collect_urls(corpus) -> dict:
             continue
         for src in atom.frontmatter.get("sources") or []:
             urls.setdefault(src["url"], set()).add(atom.id)
+    # Safety helpline sites are cited too — verify they still resolve.
+    for h in corpus.helplines:
+        dv = h.get("dv_helpline") or {}
+        if dv.get("url"):
+            urls.setdefault(dv["url"], set()).add(f"helpline:{h.get('code')}")
     return {u: sorted(ids) for u, ids in sorted(urls.items())}
 
 
@@ -79,7 +84,9 @@ def _parse_args(argv):
     p.add_argument("--content", type=Path, default=REPO_ROOT / "content" / "en")
     p.add_argument("--categories", type=Path,
                    default=REPO_ROOT / "categories" / "categories.yaml")
-    p.add_argument("--timeout", type=float, default=15.0)
+    p.add_argument("--helplines", type=Path,
+                   default=REPO_ROOT / "safety" / "helplines.yaml")
+    p.add_argument("--timeout", type=float, default=25.0)
     p.add_argument("--workers", type=int, default=8)
     p.add_argument("--strict", action="store_true",
                    help="treat redirects as failures too")
@@ -88,7 +95,8 @@ def _parse_args(argv):
 
 def main(argv=None) -> int:
     args = _parse_args(argv)
-    corpus = load_corpus(args.content, args.categories)
+    corpus = load_corpus(args.content, args.categories,
+                         helplines_file=args.helplines)
     urls = collect_urls(corpus)
     print(f"Checking {len(urls)} source URL(s)…")
     results = check_all(urls, args.timeout, args.workers)

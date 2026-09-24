@@ -29,6 +29,11 @@ sources:
     published: 2026-06-18
     accessed: 2026-09-23
     license: CC-BY-NC-SA-3.0-IGO
+  - org: FindAHelpline
+    title: "Find a Helpline — abuse & domestic violence (global directory)"
+    url: https://findahelpline.com/it-IT/topics/abuse-domestic-violence
+    accessed: 2026-09-24
+    license: proprietary
 
 review:
   reviewedBy: unreviewed
@@ -66,5 +71,6 @@ You can start with whichever feels most possible, and you don't need to have dec
 - If you are in **immediate danger**, contact emergency services now: **112** in the EU (including
   Italy), **999** in the UK, **911** in the US and Canada.
 - **Italy:** **1522** (free, 24/7, anonymous, multilingual — call or chat).
-- Helpline numbers differ from country to country. If you are outside these places, search for your
-  national domestic-violence or anti-violence helpline, and use **112** if you are in the EU.
+- Helpline numbers differ from country to country. The app can show the numbers for your country,
+  and **findahelpline.com** lists anti-violence helplines worldwide (it detects your country and has
+  a quick-exit button). If you are in the EU, **112** works everywhere.

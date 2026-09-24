@@ -39,6 +39,7 @@ patient-education. Cite them exactly like any other source.
 | **ISTAT** (`ISTAT`) | prevalence of violence against women in Italy | national statistics office — attribute; content generally CC BY |
 | **Dipartimento per le Pari Opportunità** (`DPO`) | the 1522 anti-violence & stalking helpline (Italy) | Italian public administration — attribute; public-sector |
 | **Ministero della Salute** (`MinisteroSalute`) | the Italian health-service pathway for women experiencing violence | Italian public administration — attribute; verify the live page before citing (it may sit behind a bot check) |
+| **findahelpline.com** (`FindAHelpline`) | national anti-violence helplines worldwide (a maintained global directory by ThroughLine) | attribute; prefer it as the *live directory* to point users to, and confirm any specific number against the service's own official site before freezing it into `safety/helplines.yaml` |
 
 Emergency numbers (112 in the EU, 911 in the US, 999 in the UK) are standard public-safety facts and
 need no citation. National helplines vary by country — name the country beside each number.
