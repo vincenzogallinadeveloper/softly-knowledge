@@ -13,6 +13,7 @@ warnings (the citation still works but the URL should probably be updated).
 from __future__ import annotations
 
 import argparse
+import socket
 import sys
 import urllib.error
 import urllib.request
@@ -64,7 +65,13 @@ def _check_one(url: str, timeout: float):
         except (urllib.error.URLError, TimeoutError, OSError) as e:
             if method == "HEAD":
                 continue  # retry with GET before giving up
-            return ("dead", f"unreachable: {getattr(e, 'reason', e)}")
+            reason = getattr(e, "reason", e)
+            # A timeout means the site is slow, not that the link is dead — flag it
+            # (warning), but keep genuine failures (DNS, refused, HTTP 4xx/5xx) as dead.
+            if isinstance(e, (TimeoutError, socket.timeout)) or \
+               isinstance(reason, (TimeoutError, socket.timeout)):
+                return ("slow", "timed out")
+            return ("dead", f"unreachable: {reason}")
     return ("dead", "unreachable")
 
 
@@ -101,23 +108,27 @@ def main(argv=None) -> int:
     print(f"Checking {len(urls)} source URL(s)…")
     results = check_all(urls, args.timeout, args.workers)
 
-    dead, redirects, ok = [], [], 0
+    dead, redirects, slow, ok = [], [], [], 0
     for url, (status, detail) in sorted(results.items()):
         if status == "ok":
             ok += 1
         elif status == "redirect":
             redirects.append((url, detail))
+        elif status == "slow":
+            slow.append((url, detail))
         else:
             dead.append((url, detail))
 
     for url, detail in redirects:
         print(f"  ↪ REDIRECT {url}\n      → {detail}  (cited by: {', '.join(urls[url])})")
+    for url, detail in slow:
+        print(f"  … SLOW     {url}  [{detail}]  (cited by: {', '.join(urls[url])})")
     for url, detail in dead:
         print(f"  ✗ DEAD     {url}  [{detail}]\n      cited by: {', '.join(urls[url])}",
               file=sys.stderr)
 
-    print(f"\n{ok} ok, {len(redirects)} redirect(s), {len(dead)} dead.")
-    failed = bool(dead) or (args.strict and bool(redirects))
+    print(f"\n{ok} ok, {len(redirects)} redirect(s), {len(slow)} slow, {len(dead)} dead.")
+    failed = bool(dead) or (args.strict and (redirects or slow))
     return 1 if failed else 0
 
 

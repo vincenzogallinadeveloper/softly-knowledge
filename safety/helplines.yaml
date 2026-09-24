@@ -16,8 +16,9 @@
 #   dv_helpline:              optional national domestic-abuse / anti-violence line
 #     name, number, hours (only when confirmed), languages, url (https), chat
 #
-# Countries with only an emergency number (no single verified national dv line yet):
-# TR, RU, ID, CN, CA, BE, HK — the app should fall back to findahelpline for these.
+# Countries with only an emergency number (no single verified national dv line):
+# RU and CA — no clear single national anti-violence line, so the app should fall
+# back to the findahelpline directory for these.
 
 helplines:
   - code: EU
@@ -138,6 +139,12 @@ helplines:
   - code: BE
     country: Belgium
     emergency: "112"
+    dv_helpline:
+      name: 1712 (hulplijn geweld, misbruik en kindermishandeling — Flanders)
+      number: "1712"
+      hours: "Mon-Fri 09:00-18:00"
+      url: https://www.1712.be/nl
+      chat: true
 
   - code: AT
     country: Austria
@@ -194,6 +201,11 @@ helplines:
   - code: TR
     country: Türkiye
     emergency: "112"
+    dv_helpline:
+      name: ALO 183 Sosyal Destek Hattı
+      number: "183"
+      hours: "24/7"
+      url: https://alo183.aile.gov.tr/
 
   - code: RU
     country: Russia
@@ -210,6 +222,12 @@ helplines:
   - code: ID
     country: Indonesia
     emergency: "112"
+    dv_helpline:
+      name: SAPA 129 (Kemen PPPA)
+      number: "129"
+      hours: "24/7"
+      url: https://www.kemenpppa.go.id/
+      chat: true
 
   - code: JP
     country: Japan
@@ -234,6 +252,11 @@ helplines:
     country: China (mainland)
     emergency: "110"
     emergency_notes: 110 is police; ambulance is 120.
+    dv_helpline:
+      name: All-China Women's Federation women's rights hotline (12338)
+      number: "12338"
+      hours: "24/7"
+      url: https://www.womenofchina.com/
 
   - code: TW
     country: Taiwan
@@ -248,3 +271,8 @@ helplines:
   - code: HK
     country: Hong Kong
     emergency: "999"
+    dv_helpline:
+      name: Harmony House 24-hour Woman Hotline
+      number: "2522 0434"
+      hours: "24/7"
+      url: https://www.harmonyhousehk.org/en/
