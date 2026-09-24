@@ -1004,6 +1004,69 @@
       "deep": null,
       "when_to_see_doctor": "- Incoraggiala (senza pressioni) a contattare una linea di ascolto o un centro antiviolenza, che possono guidare entrambe su cosa fare. Puoi offrirti di aiutarla a chiamare o a trovare il numero.\n- Se è ferita, un medico o un ospedale possono aiutarla — e metterla in contatto con i servizi di supporto.",
       "red_flags": "- Se è in **pericolo immediato**, chiama i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada.\n- In Italia il **1522** (gratuito, 24 ore su 24, anonimo, multilingue — telefono o chat) può consigliare anche te su come aiutare una persona."
+    },
+    "stalking": {
+      "title": "Stalking",
+      "aliases": [
+        "stalking",
+        "essere perseguitata",
+        "molestie",
+        "atti persecutori",
+        "attenzioni non desiderate",
+        "qualcuno mi segue"
+      ],
+      "glance": "Lo stalking è un'attenzione ripetuta e non desiderata che ti fa sentire in pericolo o impaurita — e va preso sul serio.",
+      "overview": "Lo stalking è uno schema di comportamenti ripetuti e non desiderati da parte di qualcuno che ti lasciano impaurita, sorvegliata o insicura. Può includere l'essere seguita, qualcuno che si presenta dove sei, telefonate o messaggi continui, regali non desiderati, il controllo online o attraverso il telefono, o minacce. Spesso è opera di un ex partner o di una persona che conosci, ma non sempre.\n\nLa paura che provoca è legittima, anche quando ogni singolo gesto potrebbe sembrare «piccolo» agli altri — è lo schema, e come ti fa sentire, ciò che conta. Lo stalking è riconosciuto come una forma di abuso, e in molti Paesi è un reato. Niente di tutto ciò è colpa tua, e non devi conviverci e basta.\n\nSe è sicuro farlo, tenere una traccia può aiutare in seguito: date e orari, screenshot dei messaggi, e cosa è successo. Non devi capire da sola se «conta» — i servizi di supporto possono aiutarti a darne un senso e a valutare le opzioni.",
+      "deep": null,
+      "when_to_see_doctor": "- Rivolgiti alle **forze dell'ordine** per denunciare lo stalking, e a una linea antiviolenza o antistalking per supporto e consigli (in Italia il **1522** è per la violenza **e** lo stalking).\n- Conservare le prove e costruire un piano di sicurezza, con l'aiuto di un servizio specializzato, può fare una differenza concreta.",
+      "red_flags": "- Se sei in **pericolo immediato**, contatta subito i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada.\n- In Italia il **1522** — gratuito, 24 ore su 24, anonimo, multilingue — può aiutarti per telefono o in chat."
+    },
+    "sexual-violence": {
+      "title": "Violenza sessuale e consenso",
+      "aliases": [
+        "violenza sessuale",
+        "aggressione sessuale",
+        "stupro",
+        "consenso",
+        "abuso sessuale",
+        "non consensuale"
+      ],
+      "glance": "La violenza sessuale è qualsiasi atto sessuale senza consenso — e non è mai colpa di chi la subisce.",
+      "overview": "La violenza sessuale è qualsiasi atto sessuale, o tentativo di ottenerlo, senza consenso o attraverso la coercizione. Comprende lo stupro e qualsiasi contatto sessuale non desiderato, e può essere commessa da chiunque — uno sconosciuto, una conoscenza, o un partner o coniuge.\n\nAl centro c'è il consenso. Consenso significa essere d'accordo liberamente, e non è possibile quando una persona dorme, è priva di sensi, è ubriaca o drogata, è minorenne, oppure è sotto pressione, minacciata o impaurita. Può essere ritirato in qualsiasi momento. Per questo la violenza sessuale non è **mai** colpa di chi l'ha subita — non per come era vestita, se aveva bevuto, se si è bloccata invece di reagire, o se conosceva la persona.\n\nSe è successo a te, il supporto c'è, che sia stato di recente o molto tempo fa. Ti si crede, e cosa fare dopo è una tua scelta.",
+      "deep": null,
+      "when_to_see_doctor": "- Puoi rivolgerti a un **servizio sanitario, un ospedale o un servizio specializzato per la violenza sessuale**, che possono prendersi cura di te, curare eventuali lesioni e — se lo desideri — aiutarti con la denuncia e la conservazione delle prove.\n- Alcuni passi sanitari sono **tempo-dipendenti** — per esempio la contraccezione d'emergenza o la prevenzione delle infezioni — quindi rivolgersi **presto** può aiutare. Ma non c'è un limite di tempo per chiedere supporto, ed è sempre una tua scelta se denunciare.",
+      "red_flags": "- Se sei in **pericolo immediato**, contatta subito i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada.\n- Dopo un'aggressione recente, un **ospedale o un servizio specializzato può aiutarti con urgenza**. In Italia il **1522** (gratuito, 24 ore su 24, anonimo, multilingue — telefono o chat) può indirizzarti alle cure giuste."
+    },
+    "child-abuse": {
+      "title": "Abuso sui minori e proteggere i bambini",
+      "aliases": [
+        "abuso sui minori",
+        "maltrattamento minori",
+        "sicurezza dei bambini",
+        "proteggere un bambino",
+        "preoccupata per un bambino",
+        "trascuratezza"
+      ],
+      "glance": "Se temi che un bambino venga maltrattato o trascurato, è giusto chiedere consiglio — non devi averne la certezza.",
+      "overview": "L'abuso sui minori — o maltrattamento infantile — è un danno a chiunque abbia meno di 18 anni. Comprende l'abuso fisico, sessuale ed emotivo, e la trascuratezza (non soddisfare i bisogni fondamentali di un bambino). È purtroppo comune, può causare danni per tutta la vita, e non è mai colpa del bambino.\n\nPotresti avere un timore per un bambino della tua vita, o per un bambino che hai notato. Non devi esserne certa, né avere prove, per agire su quel timore — fidartene e chiedere consiglio è proprio la cosa giusta da fare, e può proteggere un bambino.\n\nE se sei tu ad aver subito abusi da bambina, sappi che il danno non è mai stato colpa tua, e che il supporto è disponibile anche per te, a qualsiasi età.",
+      "deep": null,
+      "when_to_see_doctor": "- Se sei preoccupata per un bambino, puoi rivolgerti ai **servizi di protezione dell'infanzia / servizi sociali**, a una **linea dedicata per la protezione dei minori**, o a un **medico, un pediatra o la scuola del bambino** per un consiglio, in forma riservata.\n- Non stai «esagerando» a chiedere. Meglio verificare che aspettare.",
+      "red_flags": "- Se un bambino è in **pericolo immediato** o gravemente ferito, contatta subito i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada."
+    },
+    "economic-abuse": {
+      "title": "Violenza economica",
+      "aliases": [
+        "violenza economica",
+        "abuso economico",
+        "controllo del denaro",
+        "controllo delle finanze",
+        "debiti a mio nome"
+      ],
+      "glance": "La violenza economica è controllare l'accesso di una persona a denaro, lavoro o risorse — una forma riconosciuta di abuso.",
+      "overview": "La violenza economica è quando una persona controlla l'accesso di un'altra al denaro e a ciò che il denaro permette. È una forma di comportamento controllante, e spesso si affianca ad altri tipi di abuso.\n\nPuò assomigliare al controllare tutte le spese o al farti rendere conto di ogni centesimo, prendere il tuo stipendio o i tuoi sussidi, accumulare debiti a tuo nome, tenerti lontana dai conti bancari o dai documenti, o impedirti di lavorare o studiare. Poiché può lasciare una persona senza i mezzi per andarsene o per gestire la quotidianità, è uno dei modi in cui l'abuso può sembrare una trappola.\n\nSe qualcosa di tutto questo ti è familiare, non è segno che sei «incapace con i soldi» o colpevole. Controllare le risorse di un'altra persona è una scelta che fa l'altra persona — ed è riconosciuta come abuso.",
+      "deep": null,
+      "when_to_see_doctor": "- Anche per questo i servizi antiviolenza possono aiutare — non solo per la sicurezza, ma con passi pratici e finanziari, in modo riservato e gratuito (in Italia il **1522** può indirizzarti al supporto locale).\n- Un piano di sicurezza può includere il mettere al sicuro, in silenzio, l'accesso a un po' di denaro, ai documenti chiave e ai numeri importanti.",
+      "red_flags": "- Se sei in **pericolo immediato**, contatta subito i soccorsi: **112** nell'UE (Italia inclusa), **999** nel Regno Unito, **911** in USA e Canada.\n- In Italia il **1522** — gratuito, 24 ore su 24, anonimo, multilingue — può aiutarti per telefono o in chat."
     }
   },
   "categories": {
