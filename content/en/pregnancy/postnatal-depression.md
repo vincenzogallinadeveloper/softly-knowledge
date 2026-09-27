@@ -47,6 +47,6 @@ thing to do, for you and your baby.
 
 ## Red flags
 - If you have **thoughts of harming yourself or your baby**, or that your family would be better off
-  without you, get help **right away**: call **999** or go to A&E, or call **NHS 111** or the
-  Samaritans on **116 123**. These thoughts can be part of the illness, they are not who you are, and
+  without you, get help **right away**: call **{{emergency}}** or go to the emergency department, or call
+  a crisis helpline. These thoughts can be part of the illness, they are not who you are, and
   urgent help is available.

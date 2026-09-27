@@ -38,7 +38,7 @@ breastfeed, the greater the benefits. Importantly, **any** amount of breast milk
 not all-or-nothing.
 
 Feeding a baby can also be harder than expected at first, and that's common. Help is available — from
-your midwife, health visitor, and NHS feeding support — so reaching out early if it's not going
+your midwife, health visitor, and local breastfeeding support services — so reaching out early if it's not going
 smoothly is a good move.
 
 ## When to see a doctor

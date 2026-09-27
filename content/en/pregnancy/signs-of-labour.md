@@ -43,7 +43,7 @@ when to come in.
 ## When to see a doctor
 - Call your **midwife or maternity unit** for guidance when you think labour has started, or when
   contractions are **regular — about every 5 minutes**. If you can't reach your midwife, call
-  **NHS 111**.
+  the hospital where you plan to give birth.
 
 ## Red flags
 Call your **midwife or maternity unit immediately** — day or night, don't wait — if:

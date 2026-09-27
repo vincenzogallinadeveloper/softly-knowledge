@@ -42,12 +42,12 @@ response. You don't have to go through it alone — support is available, from y
 from dedicated pregnancy-loss charities.
 
 ## When to see a doctor
-- Contact your GP, midwife, or early pregnancy unit (or call NHS 111) if you have **vaginal bleeding
+- Contact your GP, midwife, or early pregnancy unit (or an out-of-hours doctor) if you have **vaginal bleeding
   or spotting in pregnancy**, even if it's light and there's little or no pain — so it can be
   checked.
 - Ask about your nearest **early pregnancy unit**, which is set up for exactly this.
 
 ## Red flags
-- Call **999 or go to A&E** if, in pregnancy, you have **severe tummy pain, pain in the tip of your
+- Call **{{emergency}} or go to the emergency department** if, in pregnancy, you have **severe tummy pain, pain in the tip of your
   shoulder, heavy bleeding, or you feel faint or very unwell**. These can be signs of a serious
   problem such as an ectopic pregnancy that needs urgent care.

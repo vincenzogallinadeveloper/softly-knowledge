@@ -39,7 +39,7 @@ For a small number of people the sickness becomes severe (this is called hyperem
 with a real risk of becoming dehydrated. That version needs medical help — see the signs below.
 
 ## When to see a doctor
-Contact your midwife, GP, or NHS 111 if you:
+Contact your midwife, GP, or an out-of-hours doctor if you:
 
 - cannot keep any food or drink down for 24 hours
 - have very dark urine, or do not pee for more than 8 hours
@@ -49,5 +49,5 @@ Contact your midwife, GP, or NHS 111 if you:
 
 ## Red flags
 - Being unable to keep fluids down, with very dark or no urine, can mean you're getting dehydrated
-  (severe pregnancy sickness) — **contact your midwife, GP or NHS 111 the same day**, as you may
+  (severe pregnancy sickness) — **contact your midwife, GP or an out-of-hours doctor the same day**, as you may
   need treatment to stop it getting worse.

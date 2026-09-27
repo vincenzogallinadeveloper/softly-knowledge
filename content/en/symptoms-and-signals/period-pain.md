@@ -65,5 +65,5 @@ These don't mean something is wrong, but they're worth checking — period pain 
 different, or hard to manage can have causes a clinician can help with.
 
 ## Red flags
-- Ask for an **urgent** GP appointment or call **NHS 111** if your period or pelvic pain is
+- Ask for an **urgent** GP appointment, or contact an **out-of-hours doctor**, if your period or pelvic pain is
   **severe, or worse than usual, and painkillers have not helped.**

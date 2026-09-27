@@ -42,10 +42,10 @@ make contact and be seen.
 
 ## When to see a doctor
 - **Always contact your maternity unit** (or, if you're less than 20 weeks or don't have their
-  number, an early pregnancy unit or **NHS 111**) if you have **any** vaginal bleeding in pregnancy,
+  number, an early pregnancy unit or an **out-of-hours doctor**) if you have **any** vaginal bleeding in pregnancy,
   even light spotting — so the cause can be checked.
 
 ## Red flags
-- Call **999 or go to A&E** if you have **heavy bleeding** — for example soaking a pad soon after
+- Call **{{emergency}} or go to the emergency department** if you have **heavy bleeding** — for example soaking a pad soon after
   putting it on — especially with **severe tummy pain, shoulder-tip pain, or feeling sick, faint,
   dizzy, or losing consciousness.** This needs emergency care.

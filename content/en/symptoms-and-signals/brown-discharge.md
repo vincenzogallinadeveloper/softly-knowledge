@@ -81,16 +81,16 @@ helpful step isn't to guess. It's to have it looked at, so you know what's behin
 - See a GP or a sexual health clinic if you have **brown spotting or bleeding between periods or
   after sex**, even if it's light. It's usually not serious, but it's always worth getting checked.
 - If you're **pregnant, or might be**, contact your maternity unit, an early pregnancy unit or
-  **NHS 111** about any spotting, including brown spotting, so the cause can be checked.
+  an **out-of-hours doctor** about any spotting, including brown spotting, so the cause can be checked.
 - See a GP if you notice **any brown or pink discharge or bleeding after your menopause**, even if
   it's only a small amount or has only happened once.
-- Get advice from a GP, a sexual health clinic or **NHS 111** if your discharge **changes colour,
+- Get advice from a GP, a sexual health clinic or an out-of-hours doctor if your discharge **changes colour,
   smell or texture**, or comes with itching, soreness, pelvic pain or pain when you pee.
 
 ## Red flags
-- Ask for an **urgent** GP appointment or call **NHS 111** if you have **recently missed a period
+- Ask for an **urgent** GP appointment, or contact an **out-of-hours doctor**, if you have **recently missed a period
   and have unusual bleeding along with tummy or pelvic pain**. This needs to be checked quickly, as
   it can be a sign of an ectopic pregnancy.
-- If you're pregnant, call **999** if you're bleeding and have **severe tummy pain, pain in your
+- If you're pregnant, call **{{emergency}}** if you're bleeding and have **severe tummy pain, pain in your
   shoulder, feel faint, dizzy or sick, or the bleeding is heavy** (soaking a pad soon after putting
   it on).

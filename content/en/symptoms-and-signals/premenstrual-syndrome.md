@@ -60,5 +60,5 @@ disorder (PMDD), can cause much stronger mood symptoms, and support is available
 
 ## Red flags
 - If you have symptoms of PMDD and are **feeling suicidal or that you cannot keep yourself safe**,
-  get help straight away: **call 999 or go to A&E.** Don't drive yourself — ask someone to take
+  get help straight away: **call {{emergency}} or go to the emergency department.** Don't drive yourself — ask someone to take
   you, or ask for an ambulance. You deserve support, and help is available.

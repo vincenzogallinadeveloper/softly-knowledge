@@ -41,11 +41,11 @@ It's an uncommon situation, but a potentially serious one, so it's not something
 advice early means it can be looked after safely.
 
 ## When to see a doctor
-- Contact your GP or call **NHS 111** if you have a combination of these symptoms **and you might be
+- Contact your GP or an **out-of-hours doctor** if you have a combination of these symptoms **and you might be
   pregnant** — even if you haven't had a positive pregnancy test. It's important to get advice right
   away.
 
 ## Red flags
-- Call **999 or go to A&E** if you have a **sudden, sharp, intense pain in your tummy**, feel **very
+- Call **{{emergency}} or go to the emergency department** if you have a **sudden, sharp, intense pain in your tummy**, feel **very
   dizzy or faint**, look **very pale**, or feel sick with these. This can mean the fallopian tube
   has ruptured — a medical emergency that needs urgent treatment.

@@ -45,8 +45,8 @@ the single best way to stay ahead of it.
   pre-eclampsia is usually found before symptoms start.
 
 ## Red flags
-Get medical help **immediately** — contact your maternity unit, or call **NHS 111** — if you have
-any of these (call **999** if you're seriously unwell, for example a fit/seizure):
+Get medical help **immediately** — contact your maternity unit or an **out-of-hours doctor** — if you have
+any of these (call **{{emergency}}** if you're seriously unwell, for example a fit/seizure):
 
 - a **severe headache** that doesn't ease with ordinary painkillers
 - **vision problems** — blurring or flashing lights

@@ -52,6 +52,6 @@ isn't to guess, it's to have it looked at so you know what's behind it for you.
   found — and it's the way to rule out less common causes early.
 
 ## Red flags
-- Ask for an **urgent** GP appointment or call **NHS 111** if you have **missed a period and have
+- Ask for an **urgent** GP appointment, or contact an **out-of-hours doctor**, if you have **missed a period and have
   unusual bleeding along with tummy or pelvic pain** — this needs prompt assessment, as it can be a
   sign of an ectopic pregnancy.

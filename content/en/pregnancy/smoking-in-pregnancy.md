@@ -41,6 +41,6 @@ early brings the most benefit. It can be genuinely hard, which is exactly why fr
 using it makes success much more likely.
 
 ## When to see a doctor
-- Ask your **midwife** about **free NHS stop-smoking support** — trained advisers (some who
-  specialise in pregnancy) can support you, and there's a Smokefree helpline too. Getting help is a
+- Ask your **midwife** about **free stop-smoking support** — trained advisers (some who
+  specialise in pregnancy) can support you, and many countries also have a free quit-smoking helpline. Getting help is a
   sign of looking after your baby, not a failing.

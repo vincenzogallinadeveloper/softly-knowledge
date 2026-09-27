@@ -78,7 +78,7 @@ HIV, so they're worth using whatever the time of the month.
   want to get pregnant, speak to a pharmacist, GP or sexual health clinic **as soon as you can**
   about emergency contraception. It needs to be used within a few days, and it usually works better
   the sooner it's used.
-- Get help from a pharmacist, sexual health clinic, GP or **NHS 111** if a **condom splits or comes
+- Get help from a pharmacist, sexual health clinic or GP if a **condom splits or comes
   off** during sex. You may need emergency contraception or an STI test.
 - See a GP or a sexual health clinic if you notice **bleeding after sex when you're not on your
   period**. It's usually not serious, but it's always worth getting checked.

@@ -50,5 +50,5 @@ Contact your **GP or midwife** promptly if your back pain:
 - is **in your side(s), under your ribs**
 
 ## Red flags
-- Call **999 or go to A&E** if you **lose feeling in your legs, buttocks, or genitals**, or lose
+- Call **{{emergency}} or go to the emergency department** if you **lose feeling in your legs, buttocks, or genitals**, or lose
   control of your bladder or bowels. This is rare, but needs emergency care.

@@ -57,6 +57,6 @@ See a GP if:
 A GP can look for a cause and talk through what might help.
 
 ## Red flags
-- Get **urgent** medical help — call **NHS 111**, or **999 / go to A&E** if it's severe — if you're
+- Get **urgent** medical help — contact a doctor or an **out-of-hours service**, or call **{{emergency}}** / go to the emergency department if it's severe — if you're
   **bleeding so heavily you soak through a pad or more every hour for a few hours in a row**, or you
   feel **faint, dizzy, or short of breath**. These can be signs of losing too much blood.
