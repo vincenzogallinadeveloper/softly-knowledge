@@ -42,8 +42,8 @@ stays up until your next period.
 
 The rise is small — around 0.4 to 0.8°F (roughly 0.2 to 0.4°C) — so it's read from a pattern over
 several days, not a single reading. To catch it, you take your temperature each morning before
-getting up, eating or drinking, ideally at the same time. Almost everyone has ovulated within about
-three days of the temperature climbing.
+getting up, eating or drinking, ideally at the same time. By about three days after the temperature
+starts to climb, almost everyone has already ovulated.
 
 Because the rise comes *after* the egg is released, BBT confirms that ovulation has happened rather
 than predicting it in advance. Over a few cycles it can help you see the shape of your own cycle,

@@ -3,7 +3,7 @@ id: premenstrual-syndrome
 type: symptom
 category: symptoms-and-signals
 title: PMS (premenstrual syndrome)
-aliases: [pms, premenstrual syndrome, premenstrual tension, pmt]
+aliases: [pms, premenstrual syndrome, premenstrual tension, pmt, pmdd, premenstrual dysphoric disorder]
 phases: [luteal]
 status: published
 

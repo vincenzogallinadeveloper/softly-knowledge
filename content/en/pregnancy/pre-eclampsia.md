@@ -37,8 +37,8 @@ your urine at every routine antenatal appointment: those checks are how it's usu
 before you'd notice anything.
 
 When symptoms do come, they're worth knowing, because pre-eclampsia can become serious for both you
-and your baby. It's very treatable when caught, and keeping up with your antenatal appointments is
-the single best way to stay ahead of it.
+and your baby. It can be treated well when it's found in time, and keeping up with your antenatal
+appointments is the single best way to catch it early.
 
 ## When to see a doctor
 - Keep all your **routine antenatal appointments** — the blood-pressure and urine checks are how

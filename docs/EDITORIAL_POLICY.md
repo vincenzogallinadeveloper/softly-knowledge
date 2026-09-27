@@ -40,6 +40,7 @@ patient-education. Cite them exactly like any other source.
 | **Dipartimento per le Pari Opportunità** (`DPO`) | the 1522 anti-violence & stalking helpline (Italy) | Italian public administration — attribute; public-sector |
 | **Ministero della Salute** (`MinisteroSalute`) | the Italian health-service pathway for women experiencing violence | Italian public administration — attribute; verify the live page before citing (it may sit behind a bot check) |
 | **findahelpline.com** (`FindAHelpline`) | national anti-violence helplines worldwide (a maintained global directory by ThroughLine) | attribute; prefer it as the *live directory* to point users to, and confirm any specific number against the service's own official site before freezing it into `safety/helplines.yaml` |
+| **Tommy's** (`Tommys`) | pregnancy topics the NHS site hands over to it (e.g. sex in pregnancy: nhs.uk redirects there) | UK pregnancy charity, clinically reviewed, PIF TICK certified — attribute; content is not openly licensed, so paraphrase, never copy |
 
 Emergency numbers (112 in the EU, 911 in the US, 999 in the UK) are standard public-safety facts and
 need no citation. National helplines vary by country — name the country beside each number.

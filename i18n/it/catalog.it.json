@@ -807,7 +807,7 @@
         "tossiemia"
       ],
       "glance": "La preeclampsia è un aumento della pressione arteriosa in gravidanza — spesso asintomatica all’inizio, motivo per cui i controlli prenatali sono fondamentali.",
-      "overview": "La preeclampsia è una condizione che si manifesta durante la gravidanza principalmente con ipertensione, accompagnata dalla\npresenza di proteine nelle urine. Di solito compare a partire dalla ventesima settimana circa e, talvolta, anche dopo il parto.\n\nUna delle cose più importanti da sapere è che, nelle fasi iniziali, spesso non provoca **alcun sintomo** —\npotresti sentirti perfettamente bene. È proprio per questo che l’ostetrica controlla la pressione arteriosa ed esegue\nl’analisi delle urine ad ogni visita prenatale di routine: è grazie a questi controlli che solitamente viene individuata\nprima ancora che tu possa notare qualcosa.\n\nQuando i sintomi si manifestano, è importante riconoscerli, perché la preeclampsia può diventare grave sia per te\nche per il tuo bambino. È facilmente curabile se diagnosticata in tempo, e rispettare gli appuntamenti prenatali è\nil modo migliore per individuarla in tempo.",
+      "overview": "La preeclampsia è una condizione che si manifesta durante la gravidanza principalmente con ipertensione, accompagnata dalla\npresenza di proteine nelle urine. Di solito compare a partire dalla ventesima settimana circa e, talvolta, anche dopo il parto.\n\nUna delle cose più importanti da sapere è che, nelle fasi iniziali, spesso non provoca **alcun sintomo** —\npotresti sentirti perfettamente bene. È proprio per questo che l’ostetrica controlla la pressione arteriosa ed esegue\nl’analisi delle urine ad ogni visita prenatale di routine: è grazie a questi controlli che solitamente viene individuata\nprima ancora che tu possa notare qualcosa.\n\nQuando i sintomi si manifestano, è importante riconoscerli, perché la preeclampsia può diventare grave sia per te\nche per il tuo bambino. Si può trattare bene se viene riconosciuta in tempo, e rispettare gli appuntamenti prenatali è\nil modo migliore per individuarla in tempo.",
       "deep": null,
       "when_to_see_doctor": "- Rispetta tutti i tuoi **controlli prenatali di routine**: i controlli della pressione arteriosa e delle urine sono il modo in cui\n  di solito si individua la preeclampsia prima che compaiano i sintomi.",
       "red_flags": "Richiedi **immediatamente** assistenza medica — contatta il tuo reparto di ostetricia o la **guardia medica** — se presenti\nuno qualsiasi dei seguenti sintomi (chiama il **{{emergency}}** se ti senti gravemente male, ad esempio in caso di convulsioni):\n\n- un **forte mal di testa** che non si allevia con i normali antidolorifici\n- **problemi alla vista** — visione offuscata o lampi di luce\n- **gonfiore improvviso** del viso, delle mani o dei piedi\n- **dolore appena sotto le costole**\n- **vomito** o improvviso malessere"
@@ -865,7 +865,9 @@
         "pms",
         "sindrome premestruale",
         "tensione premestruale",
-        "pmt"
+        "pmt",
+        "pmdd",
+        "disturbo disforico premestruale"
       ],
       "glance": "La PMS è l'insieme dei cambiamenti fisici ed emotivi che molte persone avvertono nella settimana o nelle due settimane che precedono le mestruazioni.",
       "overview": "La PMS — sindrome premestruale — è il termine con cui si indicano i cambiamenti che molte persone avvertono nei giorni o nelle due\nsettimane precedenti le mestruazioni. Può colpire chiunque abbia il ciclo mestruale e di solito si attenua nel giro di pochi\ngiorni dall’inizio delle mestruazioni.\n\nQuesti cambiamenti possono manifestarsi in vari modi. A livello fisico, potresti notare gonfiore, seno dolorante o sensibile,\ncrampi, mal di testa o una maggiore stanchezza. A livello emotivo, possono verificarsi sbalzi d’umore, irritabilità,\nansia o senso di malinconia. Sono comuni anche le voglie di cibo e i cambiamenti nel sonno. Non tutte le persone soffrono di sindrome premestruale (PMS),\ne chi ne soffre non presenta necessariamente tutti i sintomi: ciò che conta è il tuo schema personale.\n\nLa sindrome premestruale (PMS) è una parte normale e riconosciuta del ciclo di molte persone, legata ai naturali sbalzi ormonali della\nseconda metà del ciclo. Notare come si manifesta nel tuo caso, ciclo dopo ciclo, può aiutarti a pianificare\nal meglio la tua vita e a individuare eventuali cambiamenti.",
@@ -961,6 +963,24 @@
       "deep": null,
       "when_to_see_doctor": "- Se hai avuto un rapporto **senza contraccezione**, o se la tua contraccezione potrebbe non aver funzionato, e non vuoi una gravidanza, parla **il prima possibile** con un farmacista, il medico di base o un centro di salute sessuale della contraccezione d'emergenza. Va usata entro pochi giorni e di solito funziona meglio quanto prima la si usa.\n- Chiedi aiuto a un farmacista, a un centro di salute sessuale o al medico di base se durante un rapporto il **preservativo si rompe o si sfila**. Potresti aver bisogno della contraccezione d'emergenza o di un test per le IST.\n- Rivolgiti al medico di base o a un centro di salute sessuale se noti **perdite di sangue dopo un rapporto quando non hai il ciclo**. Di solito non è niente di grave, ma è sempre bene farsi controllare.",
       "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Sesso in gravidanza",
+      "aliases": [
+        "sesso in gravidanza",
+        "rapporti in gravidanza",
+        "fare l'amore in gravidanza",
+        "si può fare sesso in gravidanza",
+        "il sesso fa male al bambino",
+        "rapporti sessuali durante la gravidanza",
+        "orgasmo in gravidanza",
+        "desiderio sessuale in gravidanza"
+      ],
+      "glance": "Nella maggior parte delle gravidanze il sesso è sicuro e non fa male al bambino, salvo diversa indicazione dell'ostetrica o del medico.",
+      "overview": "Per la maggior parte delle persone, fare sesso in gravidanza è sicuro, a meno che l'ostetrica o il medico non ti abbiano detto di evitarlo. Il bambino è ben protetto dentro l'utero e il sesso non gli fa del male.\n\nIn alcune situazioni potrebbero consigliarti di evitare i rapporti con penetrazione: se hai una **placenta bassa (placenta previa)**, per il rischio di sanguinamento; se **ti si sono rotte le acque**, per il rischio di infezione; oppure se hai avuto **diversi aborti spontanei**.\n\nIl desiderio cambia spesso in gravidanza — c'è chi ha più voglia di sesso, chi meno, chi per un po' non ne ha affatto — e ormoni, cambiamenti del corpo, stanchezza, nausea e preoccupazioni hanno tutti un ruolo. È tutto normale. Se non hai voglia di sesso, baci, coccole e massaggi sono altri modi per restare vicini.\n\nMan mano che il pancione cresce, alcune posizioni diventano scomode; spesso le posizioni sul fianco risultano più facili. Gli ormoni possono rendere la vagina più secca, e un lubrificante a base d'acqua può aiutare.\n\nVerso la fine della gravidanza, il sesso o un orgasmo possono provocare contrazioni di Braxton Hicks, quando l'utero diventa duro per un po'. È normale e non significa che stia iniziando il travaglio — e non ci sono prove che il sesso faccia partire il travaglio.\n\nSe c'è la possibilità che uno di voi abbia un'infezione sessualmente trasmissibile (IST), usate il preservativo, anche per il sesso orale: un'infezione non curata può causare danni seri a te e al bambino. Evitate il sesso orale se uno di voi ha l'herpes labiale, perché il virus può essere trasmesso al bambino.",
+      "deep": null,
+      "when_to_see_doctor": "- Parla con la tua **ostetrica o il tuo medico** se hai dubbi sul fatto che il sesso sia sicuro per te, o se le preoccupazioni legate al sesso o alla vostra relazione ti pesano.\n- Se hai **qualsiasi perdita di sangue** in gravidanza, fatti controllare prima di avere di nuovo rapporti — contatta l'ostetrica, il medico o il reparto di ostetricia.\n- Rivolgiti a un **centro di salute sessuale** se tu o il tuo partner potreste avere un'IST.",
+      "red_flags": "- Contatta subito il tuo **reparto di ostetricia** se pensi che **ti si siano rotte le acque**, e non avere rapporti finché non ti hanno visitata.\n- Chiama il **{{emergency}} o recati al pronto soccorso** se hai un **sanguinamento abbondante**, soprattutto se accompagnato da **forte dolore alla pancia** o se ti senti svenire."
     },
     "sexual-violence": {
       "title": "Violenza sessuale e consenso",
