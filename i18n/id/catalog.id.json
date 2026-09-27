@@ -448,301 +448,715 @@
       "red_flags": null
     },
     "heavy-periods": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Haid yang berat",
+      "aliases": [
+        "haid yang berat",
+        "menoragia",
+        "perdarahan menstruasi yang berat",
+        "banjir",
+        "pendarahan hebat",
+        "gumpalan"
+      ],
+      "glance": "Haid yang berat berarti kehilangan banyak darah setiap siklus — hal ini umum terjadi, tetapi sebaiknya diperiksa jika hal ini memengaruhi Anda.",
+      "overview": "Haid yang berat — istilah medisnya adalah menorrhagia — berarti kehilangan banyak darah saat haid. Bagi sebagian orang, perdarahan yang berat memang merupakan hal yang normal, tetapi jika hal ini mengganggu kehidupan Anda atau membuat Anda kelelahan, sebaiknya Anda memeriksakannya.\n\nBeberapa tanda bahwa menstruasi tergolong berat: perlu mengganti pembalut atau tampon setiap 1 hingga 2 jam, menggunakan dua jenis produk menstruasi sekaligus (seperti tampon dan pembalut), darah menembus pakaian atau seprai, mengeluarkan gumpalan darah yang ukurannya lebih besar dari sekitar 2,5 cm (kira-kira sebesar koin 10p), atau menstruasi yang berlangsung lebih dari 7 hari.\n\nKehilangan banyak darah setiap bulan dapat membuat Anda lelah atau sesak napas, karena hal ini dapat menyebabkan kekurangan zat besi (anemia). Ada banyak kemungkinan penyebabnya — mulai dari fibroid atau kondisi seperti endometriosis, adenomiosis, atau PCOS, hingga beberapa jenis obat — dan seringkali tidak ditemukan penyebab yang serius. Bagaimanapun juga, menstruasi yang berat biasanya dapat diatasi, sehingga hal ini bukanlah sesuatu yang harus Anda terima begitu saja.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "Kunjungi dokter umum jika:\n\n- Haid yang berat memengaruhi kehidupan sehari-hari Anda\n- Anda mengalami pendarahan hebat selama berjam-jam, atau menstruasi Anda berlangsung lama\n- Anda juga mengalami nyeri haid yang parah, atau rasa sakit saat berhubungan seks, buang air kecil, atau buang air besar\n- Anda mengalami perdarahan di antara periode menstruasi atau setelah berhubungan seks\n- Anda sering merasa lelah atau sesak napas (ini bisa menjadi tanda kekurangan zat besi)\n\nSeorang dokter umum dapat mencari penyebabnya dan membahas apa saja yang mungkin dapat membantu.",
+      "red_flags": "- Segera dapatkan bantuan medis **darurat** — hubungi **NHS 111**, atau **999 / kunjungi Unit Gawat Darurat (A&E)** jika kondisinya parah — jika Anda **mengalami pendarahan sangat hebat hingga membasahi satu pembalut atau lebih setiap jam selama beberapa jam berturut-turut**, atau Anda merasa **pingsan, pusing, atau sesak napas**. Hal-hal ini bisa menjadi tanda-tanda kehilangan darah yang terlalu banyak."
     },
     "lh": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
+      "title": "Hormon luteinizing (LH)",
+      "aliases": [
+        "lh",
+        "hormon luteinizing",
+        "hormon luteinizing"
+      ],
+      "glance": "LH adalah hormon otak yang lonjakannya pada pertengahan siklus memicu ovarium untuk melepaskan sel telur.",
+      "overview": "LH — hormon luteinizing — adalah hormon yang memicu ovulasi. Seperti FSH, hormon ini diproduksi oleh kelenjar kecil di otak (hipofisis) dan memberi sinyal kepada ovarium kapan harus melepaskan sel telur.\n\nSelama sebagian besar paruh pertama siklus, kadar LH tetap rendah. Kemudian, sekitar pertengahan siklus, kadarnya meningkat tajam dalam apa yang disebut lonjakan LH. Lonjakan ini merupakan sinyal yang memicu ovarium untuk melepaskan sel telurnya — ovulasi — biasanya sekitar satu hari kemudian.\n\nLonjakan ini merupakan sinyal singkat yang muncul pada waktu yang tepat, bukan sesuatu yang dapat Anda rasakan. Karena terjadi sangat dekat sebelum sel telur dilepaskan, waktu terjadinya lonjakan LH merupakan penanda yang dapat diandalkan untuk mengetahui bagian siklus yang paling subur.",
+      "deep": "LH bekerja sama dengan FSH, hormon yang menstimulasi pertumbuhan folikel pada awal siklus. Sementara FSH memimpin proses pembentukan, lonjakan LH menjadi titik balik: kadarnya mulai naik sekitar satu setengah hari sebelum sel telur dilepaskan dan mencapai puncaknya sekitar setengah hari sebelum pelepasan. Setelah lonjakan tersebut, siklus memasuki paruh kedua. Waktu yang sangat tepat inilah yang menjadikan LH sebagai penanda yang sangat berguna bagi siapa pun yang memantau ovulasi, dan mengapa LH menjadi inti dalam perencanaan perawatan kesuburan.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "luteal-phase": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
+      "title": "Fase luteal",
+      "aliases": [
+        "fase luteal",
+        "paruh kedua siklus"
+      ],
+      "glance": "Fase luteal adalah paruh kedua dari siklus, setelah ovulasi, ketika kadar progesteron meningkat.",
+      "overview": "Fase luteal adalah bagian dari siklus yang terjadi setelah ovulasi dan berlangsung hingga menstruasi berikutnya dimulai. Fase ini dinamai berdasarkan corpus luteum — struktur kecil yang terbentuk di ovarium dari folikel kosong setelah sel telur dilepaskan.\n\nPada fase ini, kadar hormon progesteron meningkat. Fungsinya adalah menjaga lapisan rahim tetap tebal dan stabil, sehingga jika sel telur yang telah dibuahi tiba, ia memiliki tempat untuk menempel. Estrogen juga tetap berperan, bekerja bersama progesteron.\n\nJika kehamilan tidak terjadi, korpus luteum akan hancur, kadar progesteron dan estrogen menurun, dan lapisan endometrium tidak lagi dipertahankan — yang memicu menstruasi berikutnya dan memulai siklus baru. Ini juga merupakan masa ketika beberapa orang mengalami perubahan pramenstruasi pada suasana hati, tidur, atau tubuh.",
+      "deep": "Fase luteal cenderung memiliki durasi yang sedikit lebih stabil dibandingkan paruh pertama siklus, seringkali berlangsung sekitar dua minggu, meskipun terdapat variasi normal antarindividu. Karena akhir fase ini terkait dengan penurunan kadar progesteron, datangnya menstruasi sebenarnya merupakan tanda nyata bahwa kadar hormon telah menurun. Melacak bagaimana perasaan Anda selama fase luteal dapat membantu Anda membedakan pola yang sudah biasa Anda alami dari hal-hal yang baru atau yang perlu didiskusikan dengan tenaga medis.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "menopause": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
-      "when_to_see_doctor": null,
+      "title": "Menopause",
+      "aliases": [
+        "menopause",
+        "perubahan"
+      ],
+      "glance": "Menopause adalah saat haid berhenti selamanya — sebuah tahap alami yang biasanya terjadi pada usia antara 45 hingga 55 tahun.",
+      "overview": "Menopause adalah masa ketika menstruasi Anda berhenti secara permanen. Karena menstruasi mungkin masih datang dan pergi untuk sementara waktu, menopause dianggap telah tercapai setelah Anda tidak mengalami menstruasi selama 12 bulan berturut-turut. Hal ini biasanya terjadi antara usia 45 hingga 55 tahun, meskipun bisa lebih awal atau lebih lambat.\n\nIni adalah bagian alami dari proses penuaan, bukan penyakit. Hal ini terjadi seiring dengan berkurangnya fungsi ovarium dan turunnya kadar estrogen — hormon utama dalam siklus tersebut. Perubahan hormonal tersebut menjadi penyebab berbagai gejala yang dirasakan banyak orang: hot flushes dan keringat malam, perubahan pola menstruasi menjelang masa menopause, kesulitan tidur, perubahan suasana hati atau kecemasan, kesulitan berkonsentrasi, kekeringan vagina, dan nyeri.\n\nPengalaman setiap orang sangat bervariasi — ada yang melewatinya dengan lancar, ada pula yang merasa sulit, dan gejalanya bisa berlangsung selama beberapa tahun. Semua itu tidak berarti ada yang salah dengan Anda. Dukungan dan berbagai pilihan tersedia, dan memahami apa yang sedang terjadi adalah langkah awal yang baik.",
+      "deep": "Tahun-tahun perubahan menjelang menopause disebut perimenopause; menopause itu sendiri adalah satu titik waktu (tanda 12 bulan tanpa menstruasi), dan masa setelahnya kadang-kadang disebut pascamenopause. Karena estrogen juga memengaruhi tulang dan jantung dalam jangka panjang, para ahli kesehatan memperhatikan hal-hal tersebut di samping gejala sehari-hari. Berbagai pendekatan — mulai dari perubahan gaya hidup hingga pengobatan non-hormonal dan hormonal — dapat meringankan gejala, dan pilihan yang tepat bergantung pada kesehatan, riwayat, dan preferensi Anda, yang perlu didiskusikan dengan ahli kesehatan.",
+      "when_to_see_doctor": "- Kunjungi dokter umum jika gejala menopause mengganggu Anda atau memengaruhi kehidupan sehari-hari, dan Anda ingin mendiskusikan pilihan-pilihan yang tersedia.\n- **Selalu** periksakan diri ke dokter umum jika Anda mengalami **pendarahan vagina setelah 12 bulan tanpa menstruasi** (pendarahan setelah menopause). Seringkali hal ini tidak serius, tetapi harus selalu diperiksa.\n- Sebaiknya periksakan diri juga jika Anda mengalami pendarahan yang lebih banyak daripada sebelumnya, atau jika siklus menstruasi Anda berubah dengan cara yang membuat Anda khawatir.",
       "red_flags": null
     },
     "menstrual-cycle": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
+      "title": "Siklus menstruasi",
+      "aliases": [
+        "siklus",
+        "siklus bulanan"
+      ],
+      "glance": "Siklus menstruasi adalah ritme bulanan yang dijalankan tubuh Anda untuk mempersiapkan kemungkinan kehamilan.",
+      "overview": "Siklus menstruasi dihitung mulai dari hari pertama haid Anda — yaitu hari ke-1 — hingga hari sebelum haid berikutnya dimulai. Siklus ini dipengaruhi oleh hormon yang naik dan turun dalam pola berulang setiap bulan.\n\nSiklus menstruasi biasanya sekitar 28 hari, tetapi itu hanyalah rata-rata. Durasi antara 21 hingga 35 hari dianggap normal, dan lamanya siklus Anda sendiri bisa sedikit bervariasi dari bulan ke bulan. Mengenali pola siklus Anda sendiri lebih bermanfaat daripada membandingkannya dengan angka tertentu.\n\nSepanjang siklus, tubuh Anda melewati beberapa tahap: menstruasi, masa persiapan pelepasan sel telur, pelepasan sel telur itu sendiri (ovulasi), dan masa setelahnya. Setiap tahap dipengaruhi oleh hormon, terutama estrogen dan progesteron.",
+      "deep": "Seluruh siklus ini merupakan komunikasi antara otak dan ovarium, yang dimediasi oleh hormon. Pada paruh pertama, kadar estrogen meningkat seiring dengan pematangan folikel yang mengandung sel telur di dalam ovarium dan penebalan lapisan rahim. Sekitar pertengahan siklus, sel telur dilepaskan. Pada paruh kedua, progesteron membantu menjaga lapisan tersebut tetap siap jika sel telur yang telah dibuahi tiba.\n\nJika tidak terjadi kehamilan, kadar estrogen dan progesteron akan turun ke level rendah, lapisan rahim terlepas sebagai menstruasi, dan pola ini berulang kembali. Karena hormon-hormon ini memengaruhi banyak sistem dalam tubuh, Anda mungkin merasakan perubahan kecil sehari-hari sepanjang bulan — ini adalah ritme normal dari siklus tersebut, bukan sesuatu yang perlu “diperbaiki.”",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "menstrual-phase": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
+      "title": "Fase menstruasi (haid)",
+      "aliases": [
+        "periode",
+        "menstruasi",
+        "fase menstruasi",
+        "perdarahan"
+      ],
+      "glance": "Haid adalah periode pendarahan selama beberapa hari yang terjadi di awal setiap siklus, saat lapisan rahim terlepas.",
+      "overview": "Fase menstruasi adalah masa haid Anda — hari-hari ketika Anda mengalami pendarahan. Fase ini dimulai pada hari ke-1 siklus, ketika kadar estrogen dan progesteron telah turun cukup rendah sehingga lapisan yang terbentuk di dalam rahim tidak lagi terjaga dan terlepas, kemudian keluar dari tubuh melalui vagina.\n\nHaid biasanya berlangsung sekitar 2 hingga 7 hari, dengan durasi rata-rata sekitar 5 hari. Aliran darah biasanya paling deras pada dua hari pertama dan berkurang setelahnya. Haid umumnya dimulai sekitar usia 12 tahun, meskipun mulai lebih awal atau lebih lambat juga merupakan hal yang normal.\n\nApa yang dianggap \"normal\" sangat bervariasi dari satu orang ke orang lain. Melacak siklus menstruasi Anda sendiri membantu Anda mengenali pola yang biasa terjadi pada diri Anda, yang jauh lebih bermakna daripada angka rata-rata apa pun.",
+      "deep": "Pendarahan saat menstruasi terjadi karena lapisan rahim (endometrium) terlepas setelah siklus di mana tidak terjadi kehamilan. Hal ini menandai akhir dari satu siklus dan awal siklus berikutnya, itulah sebabnya hari ke-1 menstruasi dihitung sebagai hari ke-1 dari keseluruhan siklus. Saat menstruasi Anda berakhir, kadar estrogen mulai naik kembali dan tubuh mulai membangun kembali lapisan rahim untuk siklus berikutnya.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "miscarriage": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Keguguran",
+      "aliases": [
+        "keguguran",
+        "keguguran",
+        "keguguran dini",
+        "keguguran"
+      ],
+      "glance": "Keguguran adalah hilangnya kehamilan sebelum usia kehamilan 24 minggu — hal ini umum terjadi, dan hampir tidak pernah disebabkan oleh Anda.",
+      "overview": "Keguguran adalah hilangnya kehamilan pada 24 minggu pertama. Hal ini lebih umum terjadi daripada yang disadari banyak orang, dan salah satu hal terpenting yang perlu diketahui adalah bahwa keguguran hampir tidak pernah disebabkan oleh sesuatu yang Anda lakukan atau tidak lakukan — keguguran biasanya terjadi karena adanya masalah dalam perkembangan kehamilan, yang berada di luar kendali siapa pun.\n\nTanda-tanda yang paling umum adalah perdarahan vagina, serta kram atau nyeri di bagian bawah perut. Perdarahan pada awal kehamilan tidak selalu berarti terjadi keguguran — banyak orang mengalami perdarahan ringan dan kemudian menjalani kehamilan yang sehat — tetapi hal ini harus selalu diperiksa.\n\nBagaimanapun cara kehilangan itu terjadi, perasaan yang menyertainya adalah nyata dan wajar, dan kesedihan adalah respons yang normal. Anda tidak perlu menghadapinya sendirian — dukungan tersedia, baik dari bidan atau dokter umum Anda maupun dari lembaga amal yang khusus menangani kehilangan kehamilan.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "- Hubungi dokter umum, bidan, atau unit kehamilan awal (atau hubungi NHS 111) jika Anda mengalami **perdarahan vagina atau bercak selama kehamilan**, meskipun perdarahannya ringan dan nyerinya sedikit atau tidak ada sama sekali — agar dapat diperiksa.\n- Tanyakan tentang **unit kehamilan dini** terdekat, yang didirikan khusus untuk hal ini.",
+      "red_flags": "- Hubungi **999 atau segera pergi ke Unit Gawat Darurat (A&E)** jika, selama kehamilan, Anda mengalami **nyeri perut yang parah, nyeri di ujung bahu, pendarahan hebat, atau merasa pusing atau sangat tidak enak badan**. Gejala-gejala ini bisa menjadi tanda adanya masalah serius seperti kehamilan ektopik yang memerlukan perawatan darurat."
     },
     "morning-sickness": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Mual di pagi hari",
+      "aliases": [
+        "mual di pagi hari",
+        "mual saat kehamilan",
+        "mual saat kehamilan",
+        "muntah saat kehamilan",
+        "hiperemesis",
+        "hiperemesis gravidarum"
+      ],
+      "glance": "Merasa mual atau sakit adalah hal yang sangat umum terjadi pada awal kehamilan, dan biasanya mereda sekitar minggu ke-16 hingga ke-20.",
+      "overview": "Merasa mual atau muntah adalah hal yang sangat umum terjadi pada awal kehamilan. Meskipun disebut \"morning sickness\" (mual di pagi hari), hal ini dapat terjadi kapan saja, baik siang maupun malam. Bagi kebanyakan orang, gejala ini mulai muncul pada beberapa minggu pertama dan mereda sekitar minggu ke-16 hingga ke-20.\n\nHal ini memang tidak menyenangkan, dan bagi sebagian orang benar-benar memengaruhi kehidupan sehari-hari — namun mual di pagi hari yang biasa tidak meningkatkan risiko apa pun bagi bayi Anda. Makan dalam porsi kecil namun sering, serta menemukan cara yang membantu Anda, dapat membuatnya lebih tertahankan; bidan, dokter umum, atau apoteker dapat menyarankan pilihan yang aman jika Anda mengalami kesulitan.\n\nBagi sebagian kecil orang, mual dan muntah ini bisa menjadi parah (ini disebut hiperemesis gravidarum), dengan risiko nyata mengalami dehidrasi. Kondisi ini memerlukan bantuan medis — lihat tanda-tandanya di bawah ini.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "Hubungi bidan, dokter umum, atau NHS 111 jika Anda:\n\n- tidak dapat menahan makanan atau minuman apa pun selama 24 jam\n- memiliki urine yang sangat gelap, atau tidak buang air kecil selama lebih dari 8 jam\n- merasa sangat lemah, pusing, atau hampir pingsan saat berdiri\n- mengalami sakit perut, demam tinggi, atau muntah darah\n- sedang menurunkan berat badan",
+      "red_flags": "- Jika Anda tidak bisa menahan cairan yang diminum, disertai urine yang sangat gelap atau tidak ada urine sama sekali, hal ini bisa menjadi tanda bahwa Anda mengalami dehidrasi (mual dan muntah parah selama kehamilan) — **segera hubungi bidan, dokter umum, atau NHS 111 pada hari yang sama**, karena Anda mungkin memerlukan perawatan agar kondisinya tidak semakin memburuk."
     },
     "ovulation": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
+      "title": "Ovulasi",
+      "aliases": [
+        "ovulasi",
+        "pelepasan sel telur",
+        "jendela subur"
+      ],
+      "glance": "Ovulasi adalah saat ovarium melepaskan sel telur — titik paling subur dalam siklus Anda.",
+      "overview": "Ovulasi adalah momen ketika ovarium melepaskan sel telur yang matang. Ini merupakan titik balik dalam siklus: paruh pertama siklus mengarah ke momen ini, dan paruh kedua mengikuti setelahnya.\n\nDalam siklus sekitar 28 hari, ovulasi sering terjadi sekitar hari ke-14 — namun waktunya bervariasi. Cara yang berguna untuk memahaminya adalah bahwa ovulasi biasanya terjadi antara 10 hingga 16 hari sebelum menstruasi berikutnya dimulai. Terkadang sulit untuk menentukan hari pastinya.\n\nSetelah dilepaskan, sel telur hanya dapat dibuahi selama sekitar 12 hingga 24 jam. Namun, sperma dapat bertahan hidup di dalam tubuh selama beberapa hari, sehingga “jendela subur” lebih luas daripada satu hari saja — kira-kira beberapa hari menjelang ovulasi dan hari ovulasi itu sendiri.",
+      "deep": "Pelepasan sel telur dipicu oleh lonjakan hormon yang singkat dan tajam di sekitar pertengahan siklus, setelah penumpukan estrogen pada fase folikuler. Karena sperma dapat bertahan hidup selama beberapa hari sedangkan sel telur hanya bertahan kurang dari satu hari, kehamilan paling mungkin terjadi akibat hubungan seksual pada hari-hari menjelang ovulasi. Waktu ovulasi dapat bervariasi dari satu siklus ke siklus lainnya akibat faktor-faktor seperti stres atau penyakit; itulah sebabnya memprediksi waktu ovulasi secara tepat sulit dilakukan, dan mengapa memantau beberapa siklus lebih dapat diandalkan daripada perhitungan tunggal apa pun.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "pain-during-sex": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Nyeri saat berhubungan seks",
+      "aliases": [
+        "nyeri saat berhubungan seks",
+        "hubungan seksual yang menyakitkan",
+        "dispareunia",
+        "nyeri saat berhubungan seks",
+        "vaginismus"
+      ],
+      "glance": "Rasa sakit saat berhubungan seks adalah hal yang umum, memiliki banyak kemungkinan penyebab, dan selalu perlu diperiksa — bantuan tersedia.",
+      "overview": "Rasa sakit saat berhubungan seks — yang kadang-kadang disebut dispareunia — lebih umum daripada yang disadari banyak orang, dan ini bukanlah sesuatu yang harus Anda terima begitu saja. Ada banyak penyebabnya, dan menemukan penyebab yang tepat adalah kunci untuk meredakannya.\n\nBeberapa penyebabnya bersifat fisik. Kekeringan vagina adalah salah satu penyebab yang sering terjadi, sering kali terkait dengan hormon seputar masa menopause atau gairah yang tidak cukup, dan hal ini dapat membuat hubungan seksual terasa perih atau tidak nyaman. Infeksi, seperti sariawan, juga dapat menyebabkan rasa sakit. Penyebab lainnya adalah vaginismus — yaitu ketika otot-otot di sekitar vagina mengencang dengan sendirinya saat terjadi upaya penetrasi, yang dapat membuat hubungan seksual terasa menyakitkan atau bahkan mustahil dilakukan. Hal ini terjadi di luar kendali, bukan sekadar \"imajinasi\", dan dapat diobati.\n\nKarena penyebabnya bisa bersifat fisik, hormonal, atau terkait dengan seberapa rileks atau terangsang yang Anda rasakan — dan seringkali merupakan kombinasi dari semuanya — langkah yang tepat adalah memeriksakannya ke dokter daripada menebak-nebak atau memaksakan diri untuk terus beraktivitas.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "- Kunjungi dokter umum atau klinik kesehatan seksual jika hubungan seksual terasa menyakitkan — apa pun penyebabnya, sebaiknya diperiksa, dan terdapat bantuan yang efektif untuk penyebab yang umum.\n- Mungkin terasa canggung untuk membicarakannya, tetapi para tenaga medis sering menghadapi hal ini dan ada untuk membantu, bukan untuk menghakimi. Anda bisa meminta dokter wanita, membawa seseorang bersama Anda, dan mendiskusikan apa saja yang dapat membuat pemeriksaan terasa nyaman.\n- Pastikan untuk memeriksakan diri jika mengalami perdarahan setelah berhubungan seks, dan segera temui tenaga medis jika rasa sakitnya parah atau Anda juga merasa tidak enak badan.",
       "red_flags": null
     },
     "pain-relief-in-labour": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Penghilang rasa sakit saat persalinan",
+      "aliases": [
+        "penghilang rasa sakit saat persalinan",
+        "epidural",
+        "gas dan udara",
+        "Entonox",
+        "penghilang rasa sakit saat persalinan",
+        "kolam persalinan",
+        "TENS"
+      ],
+      "glance": "Ada beberapa cara untuk meredakan rasa sakit saat melahirkan — tidak ada pilihan yang benar atau salah, dan Anda bisa tetap fleksibel.",
+      "overview": "Proses persalinan berbeda-beda bagi setiap orang, dan ada beberapa cara untuk mengatasi rasa sakit — mulai dari langkah-langkah sederhana untuk meredakan rasa tidak nyaman hingga pilihan medis. Mengetahui pilihan yang tersedia sejak dini dapat membantu Anda merasa lebih siap.\n\nPilihannya beragam, mulai dari **tetap aktif dan tegak**, pernapasan dan relaksasi, pijat, dan berada di dalam **air** (bak mandi atau kolam persalinan), hingga **mesin TENS**, **gas dan udara** (Entonox, yang Anda hirup sendiri), **suntikan** seperti petidin, dan **epidural** (diberikan oleh ahli anestesi, yang lebih menyeluruh mematikan rasa sakit saat persalinan).\n\nTidak ada pilihan yang \"paling baik\" — semuanya tergantung pada Anda, proses persalinan Anda, dan bagaimana perasaan Anda pada hari itu. Sebaiknya tuliskan preferensi Anda dalam **rencana persalinan**, sambil tetap bersikap terbuka: banyak orang menyadari bahwa mereka menginginkan lebih banyak, atau lebih sedikit, pereda nyeri daripada yang mereka perkirakan, dan itu sama sekali tidak masalah.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "- **Bidan** Anda (dan, untuk epidural, seorang ahli anestesi) akan menjelaskan berbagai pilihan kepada Anda dan membantu Anda memutuskan mana yang paling sesuai — selama kehamilan dan juga saat persalinan berlangsung. Tidak perlu memutuskan semuanya terlebih dahulu.",
       "red_flags": null
     },
     "pcos": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
-      "when_to_see_doctor": null,
+      "title": "PCOS (sindrom ovarium polikistik)",
+      "aliases": [
+        "PCOS",
+        "sindrom ovarium polikistik",
+        "ovarium polikistik",
+        "sindrom ovarium polikistik"
+      ],
+      "glance": "PCOS adalah kondisi hormonal yang umum dan dapat memengaruhi siklus menstruasi, ovulasi, kulit, dan rambut.",
+      "overview": "PCOS — sindrom ovarium polikistik — adalah kondisi umum yang berkaitan dengan keseimbangan hormon reproduksi. Perkiraan menunjukkan bahwa kondisi ini memengaruhi sekitar 1 dari 10 wanita usia reproduksi, dan banyak penderitanya yang tidak pernah didiagnosis.\n\nGejalanya dapat muncul dalam berbagai bentuk, dan tidak ada dua orang yang persis sama. Ciri-ciri umum termasuk menstruasi yang tidak teratur, jarang, atau tidak datang sama sekali; tingkat hormon androgen yang lebih tinggi, yang dapat menyebabkan pertumbuhan rambut berlebih di wajah atau tubuh, jerawat, atau rambut di kulit kepala menipis; dan ovarium yang tidak melepaskan sel telur secara teratur seperti biasanya, yang dapat mempersulit kehamilan. Perubahan berat badan dan bercak-bercak kulit yang lebih gelap juga sering terjadi.\n\nPenyebab pastinya belum sepenuhnya dipahami, dan belum ada obatnya — tetapi gejalanya dapat dikelola, dan memahami apa yang terjadi adalah langkah pertama. PCOS adalah kondisi yang umum dan dapat dikelola, bukan sesuatu yang perlu membuat Anda merasa malu.",
+      "deep": "Karena PCOS berkaitan dengan hormon tubuh dan cara tubuh memproses insulin, kondisi ini juga terkait dalam jangka panjang dengan resistensi insulin serta risiko lebih tinggi terkena diabetes tipe 2, tekanan darah tinggi, dan perubahan kadar kolesterol — itulah sebabnya para dokter cenderung memantau hal-hal ini dari waktu ke waktu. Sekitar setengah dari penderita PCOS mungkin mengalami diabetes atau pradiabetes pada usia empat puluhan, sehingga pemeriksaan rutin sangat penting. Diagnosis bukanlah sesuatu yang dapat dinilai sendiri: seorang dokter akan melihat gambaran keseluruhan — riwayat kesehatan dan siklus menstruasi Anda, terkadang tes darah untuk hormon, dan terkadang USG ovarium — serta menyingkirkan penyebab lain sebelum menyimpulkan bahwa Anda menderita PCOS.",
+      "when_to_see_doctor": "Sebaiknya Anda berkonsultasi dengan dokter umum jika Anda mengalami gejala yang sesuai dengan gambaran di atas, terutama jika hal tersebut memengaruhi perasaan Anda sehari-hari:\n\n- haid yang tidak teratur, sangat jarang, atau sudah berhenti\n- pertumbuhan rambut yang terlihat lebih banyak di wajah atau tubuh, jerawat yang terus-menerus, atau rambut di kulit kepala yang menipis\n- kesulitan hamil setelah mencoba selama beberapa waktu\n- penambahan berat badan yang sulit diatasi, disertai gejala-gejala lain\n\nSeorang dokter umum dapat memeriksa apa yang sedang terjadi, memastikan apakah itu PCOS atau kondisi lain, dan mendiskusikan rencana perawatan yang sesuai untuk Anda. PCOS juga terkait dengan suasana hati yang buruk dan kecemasan — jika Anda merasa kesulitan menghadapi perasaan tersebut, sampaikan juga kepada dokter umum Anda; hal itu merupakan bagian dari gambaran keseluruhan dan dukungan tersedia untuk Anda.",
       "red_flags": null
     },
     "perimenopause": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Perimenopause",
+      "aliases": [
+        "perimenopause",
+        "masa transisi menopause",
+        "perubahan"
+      ],
+      "glance": "Perimenopause adalah masa transisi menjelang menopause, saat siklus menstruasi dan hormon mulai mengalami perubahan.",
+      "overview": "Perimenopause adalah periode menjelang menopause — tahun-tahun “sekitar menopause”. Periode ini dimulai saat Anda pertama kali menyadari adanya perubahan dan berlangsung hingga satu tahun penuh setelah menstruasi terakhir Anda, saat itulah Anda telah mencapai menopause. Periode ini dapat berlangsung selama beberapa tahun.\n\nSelama masa ini, ovarium secara bertahap memproduksi lebih sedikit estrogen, dan kadarnya naik turun dengan pola yang kurang dapat diprediksi dibandingkan sebelumnya. Tanda awal yang paling umum adalah perubahan siklus menstruasi — menjadi lebih sering atau lebih jarang, lebih ringan atau lebih berat. Banyak gejala yang terkait dengan menopause, seperti hot flushes, perubahan pola tidur, atau perubahan suasana hati, dapat mulai muncul saat Anda masih mengalami menstruasi.\n\nKarena berlangsung secara bertahap dan sangat bervariasi, masa perimenopause bisa membingungkan — perubahan-perubahan tersebut tidak terjadi sekaligus atau dalam urutan yang sama bagi setiap orang. Mengetahui bahwa fase ini memiliki nama, dan bahwa ini merupakan transisi yang normal, dapat membantu Anda memahaminya dengan lebih mudah.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "- Kunjungi dokter umum jika gejala perimenopause memengaruhi kehidupan sehari-hari Anda dan Anda ingin mendiskusikan hal-hal yang mungkin dapat membantu.\n- Sebaiknya periksakan diri jika menstruasi Anda menjadi sangat berat, atau jika Anda mengalami perdarahan di antara periode menstruasi atau setelah berhubungan seks, agar penyebabnya dapat diketahui.\n- Ingatlah bahwa kehamilan masih bisa terjadi selama masa perimenopause, jadi sebaiknya diskusikan soal kontrasepsi dengan tenaga medis jika hal tersebut relevan bagi Anda.",
       "red_flags": null
     },
     "period-pain": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Nyeri haid",
+      "aliases": [
+        "nyeri haid",
+        "kram menstruasi",
+        "kram",
+        "dismenorea",
+        "dismenorea",
+        "haid yang menyakitkan"
+      ],
+      "glance": "Nyeri haid adalah kram di perut bagian bawah saat menstruasi — hal ini umum terjadi, dan sering kali merupakan bagian normal dari siklus menstruasi.",
+      "overview": "Nyeri haid adalah rasa kram dan nyeri di perut bagian bawah yang dialami banyak orang menjelang atau selama menstruasi. Hal ini terjadi ketika dinding otot rahim berkontraksi, dan sering kali merupakan bagian normal dari siklus menstruasi. Istilah medis untuk kondisi ini adalah dismenore.\n\nRasa sakit ini biasanya muncul pada awal menstruasi, atau sesaat sebelumnya, dan cenderung berlangsung hingga sekitar tiga hari. Bagi sebagian orang, rasa sakitnya ringan; bagi yang lain, kramnya lebih kuat. Rasa sakit juga dapat berubah seiring berjalannya waktu dan dari satu siklus ke siklus lainnya.\n\nNyeri haid yang mengikuti pola yang sudah dikenal ini umum terjadi dan biasanya dapat diatasi. Banyak orang menggunakan cara-cara untuk merasa nyaman sehari-hari dan obat pereda nyeri sederhana, dan seorang apoteker atau dokter umum dapat memberi saran mengenai apa yang mungkin cocok untuk Anda. Yang terpenting adalah mengetahui pola haid Anda sendiri — sehingga Anda dapat menyadari jika ada perubahan.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "Sebaiknya konsultasikan dengan dokter umum jika:\n\n- haid Anda menjadi lebih nyeri, lebih banyak, atau lebih tidak teratur dari biasanya\n- Rasa sakit tersebut menghalangi Anda melakukan aktivitas sehari-hari seperti bekerja atau bersekolah\n- obat pereda nyeri biasa tidak membantu\n- Anda mengalami nyeri saat berhubungan seks, atau saat buang air kecil atau buang air besar\n- Anda mengalami pendarahan di antara periode menstruasi\n- rasa sakit Anda muncul pada waktu-waktu lain selain hanya sebelum atau selama menstruasi\n- Anda mengeluarkan gumpalan darah yang lebih besar dari koin (sekitar ukuran koin seperempat)\n- Anda juga mungkin memperhatikan perut yang membengkak, nafsu makan berkurang, atau penurunan berat badan yang tidak dapat Anda jelaskan\n\nHal-hal ini tidak berarti ada yang salah, tetapi perlu diperiksa — nyeri haid yang baru muncul, berbeda dari biasanya, atau sulit diatasi bisa disebabkan oleh berbagai faktor yang dapat ditangani oleh tenaga medis.",
+      "red_flags": "- Segera buat janji temu dengan dokter umum (GP) atau hubungi **NHS 111** jika menstruasi atau nyeri panggul Anda **sangat parah, atau lebih parah dari biasanya, dan obat pereda nyeri tidak membantu.**"
     },
     "planning-pregnancy": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Merencanakan kehamilan",
+      "aliases": [
+        "merencanakan kehamilan",
+        "prakonsepsi",
+        "berusaha untuk hamil",
+        "sebelum kehamilan",
+        "bersiap untuk kehamilan"
+      ],
+      "glance": "Beberapa langkah sederhana sebelum mencoba — mengonsumsi asam folat, berhenti merokok, dan menghindari alkohol — akan memberikan awal terbaik bagi kehamilan.",
+      "overview": "Jika Anda sedang mempertimbangkan untuk mencoba memiliki bayi, beberapa langkah yang dilakukan sebelumnya dapat memberikan awal yang lebih sehat bagi kehamilan — banyak di antaranya sudah dapat dilakukan bahkan sebelum Anda hamil.\n\nYang terpenting: mulailah mengonsumsi **asam folat** (dan vitamin D), **berhenti merokok**, dan **hindari alkohol**. Menjaga berat badan yang sehat juga membantu, karena berat badan yang jauh di bawah atau di atas normal dapat mempersulit kehamilan. Sebaiknya pastikan juga **vaksinasi MMR** Anda sudah diperbarui, karena beberapa infeksi dapat memengaruhi kehamilan.\n\nSemua ini tidak perlu sempurna atau membuat stres. Perubahan kecil dan penuh perhatian yang dilakukan sejak dini lah yang penting — dan memulai persiapan lebih awal adalah salah satu hal terbaik yang dapat Anda lakukan untuk kehamilan di masa depan.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "- Jika Anda memiliki **kondisi kesehatan jangka panjang** atau mengonsumsi **obat secara rutin**, konsultasikan dengan dokter umum Anda sebelum mulai mencoba — beberapa kondisi dan obat memerlukan perencanaan khusus. **Jangan menghentikan obat yang diresepkan** tanpa berkonsultasi terlebih dahulu dengan dokter Anda.\n- Seorang dokter umum juga dapat memberikan saran mengenai asam folat (termasuk apakah Anda memerlukan dosis yang lebih tinggi) dan mencapai berat badan yang sehat sebelum kehamilan.",
       "red_flags": null
     },
     "postnatal-depression": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Depresi pascapersalinan",
+      "aliases": [
+        "depresi pascapersalinan",
+        "depresi pascapersalinan",
+        "PND",
+        "baby blues",
+        "depresi pasca melahirkan"
+      ],
+      "glance": "Depresi pascapersalinan adalah kondisi suasana hati yang rendah yang umum terjadi dan dapat diobati setelah melahirkan — ini bukan kesalahan Anda, dan bantuan tersedia.",
+      "overview": "Merasa sedih, cemas, atau mudah marah pada beberapa minggu pertama setelah melahirkan adalah hal yang sangat umum — hal ini sering disebut sebagai \"baby blues,\" dan biasanya akan hilang dengan sendirinya dalam waktu sekitar dua minggu.\n\nDepresi pascapersalinan berbeda: suasana hati yang rendah yang lebih dalam atau berlangsung lebih lama. Ini adalah kondisi yang umum, dapat dimulai kapan saja dalam tahun pertama, dan dapat memengaruhi ayah serta pasangan juga. Tanda-tandanya meliputi suasana hati yang terus-menerus lesu, kesulitan menikmati apa pun, kesulitan tidur meskipun bayi Anda sudah tidur, dan terkadang perasaan yang rumit terkait ikatan dengan bayi Anda.\n\nMengalami hal ini **bukan** berarti Anda adalah orang tua yang buruk atau bahwa Anda tidak mencintai bayi Anda — ini adalah penyakit, bukan kegagalan, dan dapat ditangani dengan baik melalui dukungan dan pengobatan. Mencari bantuan sejak dini adalah tindakan yang kuat dan penuh kepedulian, baik bagi Anda maupun bayi Anda.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "- Konsultasikan dengan **dokter umum, bidan, atau petugas kesehatan** jika Anda merasa mungkin mengalami depresi pascapersalinan, atau jika \"baby blues\" belum mereda setelah dua minggu. Mereka pasti sudah sering menghadapi hal ini dan dapat membantu Anda menemukan dukungan yang tepat.",
+      "red_flags": "- Jika Anda **memiliki pikiran untuk menyakiti diri sendiri atau bayi Anda**, atau merasa keluarga Anda akan lebih baik tanpa Anda, segera cari bantuan **sekarang juga**: hubungi **999** atau kunjungi Unit Gawat Darurat (A&E), atau hubungi **NHS 111** atau Samaritans di **116 123**. Pikiran-pikiran ini bisa jadi bagian dari penyakit yang Anda alami, bukan cerminan diri Anda yang sebenarnya, dan bantuan darurat selalu tersedia."
     },
     "pre-eclampsia": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Preeklampsia",
+      "aliases": [
+        "pre-eklampsia",
+        "preeklampsia",
+        "tekanan darah tinggi selama kehamilan",
+        "toksemia"
+      ],
+      "glance": "Preeklampsia adalah tekanan darah tinggi selama kehamilan — sering kali tidak menunjukkan gejala pada awalnya, itulah mengapa pemeriksaan antenatal sangat penting.",
+      "overview": "Preeklampsia adalah kondisi kehamilan yang terutama ditandai dengan tekanan darah tinggi, disertai adanya protein dalam urin. Kondisi ini biasanya muncul sekitar minggu ke-20 kehamilan, dan terkadang setelah melahirkan.\n\nSalah satu hal terpenting yang perlu diketahui adalah bahwa pada tahap awal, hal ini seringkali **sama sekali tidak menimbulkan gejala** — Anda bisa saja merasa baik-baik saja. Itulah tepatnya mengapa bidan Anda memeriksa tekanan darah dan melakukan tes urine pada setiap kunjungan antenatal rutin: pemeriksaan tersebut biasanya menjadi cara untuk mendeteksinya sebelum Anda menyadari adanya masalah.\n\nKetika gejala-gejala tersebut muncul, penting untuk mengetahuinya, karena preeklampsia dapat menjadi serius bagi Anda dan bayi Anda. Kondisi ini sangat dapat diobati jika terdeteksi dini, dan rutin menghadiri pemeriksaan antenatal adalah cara terbaik untuk mencegahnya.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "- Pastikan Anda menghadiri semua **janji temu antenatal rutin** — pemeriksaan tekanan darah dan urine adalah cara umum untuk mendeteksi preeklampsia sebelum gejala muncul.",
+      "red_flags": "Segera dapatkan bantuan medis **segera** — hubungi unit kebidanan Anda, atau hubungi **NHS 111** — jika Anda mengalami salah satu dari hal berikut (hubungi **999** jika Anda dalam kondisi sangat tidak sehat, misalnya kejang):\n\n- **sakit kepala parah** yang tidak mereda dengan obat pereda nyeri biasa\n- **masalah penglihatan** — penglihatan kabur atau kilatan cahaya\n- **pembengkakan mendadak** pada wajah, tangan, atau kaki Anda\n- **rasa sakit tepat di bawah tulang rusuk Anda**\n- **sakit**, atau tiba-tiba merasa sangat tidak enak badan"
     },
     "pregnancy": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
+      "title": "Kehamilan",
+      "aliases": [
+        "kehamilan",
+        "kehamilan",
+        "hamil",
+        "kehamilan",
+        "trimester",
+        "tanggal jatuh tempo",
+        "berapa minggu kehamilan"
+      ],
+      "glance": "Kehamilan biasanya berlangsung sekitar 40 minggu, dihitung sejak hari pertama haid terakhir Anda.",
+      "overview": "Kehamilan adalah masa di mana tubuh Anda berkembang dan mengandung bayi. Biasanya berlangsung sekitar 40 minggu — rentang 37 hingga 42 minggu dianggap sebagai kehamilan penuh dan normal — dan, mungkin mengejutkan, hitungannya dimulai dari hari pertama **haid terakhir** Anda, bukan dari saat pembuahan. Itu hanyalah cara standar dalam menghitung tanggal.\n\n**Tanggal perkiraan kelahiran** Anda hanyalah perkiraan, bukan batas waktu: bayi biasanya lahir dengan selamat sedikit lebih awal atau lebih lambat. Pada awal kehamilan, \"pemeriksaan USG penentuan usia kehamilan\" (biasanya sekitar minggu ke-12) dapat mengukur ukuran bayi Anda dan memberikan perkiraan tanggal yang lebih akurat, yang terkadang mengubah perkiraan awal.\n\nKehamilan sering dibahas dalam tiga tahap, atau **trimester**, yang masing-masing memiliki perubahan tersendiri. Selama masa kehamilan, Anda akan dipantau melalui pemeriksaan antenatal rutin oleh bidan (dan dokter jika diperlukan) — perawatan yang membantu menjaga kesehatan Anda dan bayi Anda.",
+      "deep": "Karena perhitungan usia kehamilan dimulai dari tanggal haid terakhir, Anda dianggap hamil sekitar empat minggu saat haid tidak datang. Perhitungan usia kehamilan ini menjadi dasar pengaturan perawatan — USG, skrining, dan pemeriksaan rutin ditawarkan pada minggu-minggu tertentu. Jika menstruasi Anda tidak teratur atau Anda tidak yakin dengan tanggalnya, USG penentuan usia kehamilanlah yang menentukan garis waktunya. Bagian ini adalah peta dari seluruh perjalanan; topik-topik spesifik — tanda-tanda kehamilan, perawatan antenatal, menjaga kesehatan, dan persalinan — masing-masing memiliki bagian tersendiri.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "pregnancy-test": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Tes kehamilan",
+      "aliases": [
+        "tes kehamilan",
+        "tes kehamilan di rumah",
+        "Tes hCG",
+        "tes kehamilan"
+      ],
+      "glance": "Tes kehamilan di rumah memeriksa urine Anda untuk mendeteksi hormon kehamilan hCG — hasil yang paling akurat diperoleh sejak periode pertama yang terlewat.",
+      "overview": "Tes kehamilan di rumah bekerja dengan mendeteksi hormon yang disebut hCG (human chorionic gonadotrophin) dalam urin Anda. Tubuh Anda mulai memproduksinya beberapa hari setelah sel telur yang telah dibuahi menempel, dan jumlahnya meningkat dengan cepat pada awal kehamilan.\n\nTes ini paling akurat dilakukan mulai dari **hari pertama keterlambatan menstruasi** — kira-kira dua minggu setelah pembuahan. Jika siklus menstruasi Anda tidak teratur atau Anda tidak yakin kapan menstruasi Anda seharusnya datang, menunda tes hingga setidaknya 21 hari setelah hubungan seksual tanpa pengaman akan memberikan hasil yang lebih dapat diandalkan. Anda tidak perlu melakukan tes ini tepat di pagi hari; kapan pun sepanjang hari boleh dilakukan.\n\nHasil **positif** hampir pasti benar — sangat jarang tes menunjukkan hasil positif jika Anda tidak hamil. Hasil **negatif** sedikit kurang pasti: jika menstruasi Anda masih belum datang dan Anda merasa mungkin hamil, tunggu beberapa hari dan lakukan tes lagi.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "- Jika Anda mendapatkan hasil positif, hubungi **bidan atau dokter umum** untuk memulai perawatan antenatal.\n- Jika hasil tes negatif tetapi menstruasi Anda tidak kunjung datang dan Anda merasa hamil (atau tidak enak badan), kunjungi dokter umum untuk mengetahui apa yang sedang terjadi.",
       "red_flags": null
     },
     "premature-labour": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Persalinan prematur",
+      "aliases": [
+        "persalinan prematur",
+        "persalinan prematur",
+        "kelahiran prematur",
+        "kelahiran prematur",
+        "tahap awal persalinan",
+        "air ketuban pecah lebih awal"
+      ],
+      "glance": "Persalinan prematur adalah persalinan yang terjadi sebelum usia kehamilan 37 minggu — bertindaklah cepat, karena perawatan dini benar-benar membuat perbedaan.",
+      "overview": "Persalinan prematur (atau persalinan sebelum waktunya) adalah persalinan yang dimulai sebelum minggu ke-37 kehamilan. Hal ini terjadi pada sekitar 8 dari setiap 100 kelahiran.\n\nBayi yang lahir prematur memang lebih rentan, tetapi banyak di antaranya yang kemudian tumbuh dengan baik — terutama dengan perawatan khusus yang diberikan oleh unit neonatal. Kuncinya adalah bertindak cepat jika Anda menduga hal ini mungkin akan terjadi, sehingga Anda dapat diperiksa dan, jika diperlukan, diberikan perawatan yang membantu melindungi bayi.\n\nGejala-gejalanya mirip dengan persalinan pada tahap mana pun, tetapi sebelum usia kehamilan 37 minggu, gejala tersebut tidak boleh diabaikan — gejala tersebut selalu menjadi alasan untuk segera menghubungi pihak berwenang.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "- Hubungi **bidan atau unit kebidanan** Anda kapan saja jika usia kehamilan Anda **belum mencapai 37 minggu** dan Anda merasa ragu atau khawatir — tidak ada salahnya untuk memeriksakan diri.",
+      "red_flags": "Hubungi **bidan atau unit kebidanan segera** — siang atau malam — jika, **sebelum usia kehamilan 37 minggu**, Anda mengalami salah satu dari hal berikut:\n\n- **kontraksi atau rasa kencang** yang teratur, atau nyeri seperti saat menstruasi\n- **aliran cairan yang deras atau sedikit** dari vagina Anda (air ketuban pecah)\n- **sakit punggung** yang tidak biasa Anda alami, atau rasa tekanan di bagian bawah"
     },
     "premenstrual-syndrome": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "PMS (sindrom pramenstruasi)",
+      "aliases": [
+        "pms",
+        "sindrom pramenstruasi",
+        "ketegangan pramenstruasi",
+        "pmt"
+      ],
+      "glance": "PMS adalah gabungan perubahan fisik dan emosional yang dirasakan banyak orang dalam satu atau dua minggu sebelum menstruasi.",
+      "overview": "PMS — sindrom pramenstruasi — adalah istilah untuk perubahan yang dirasakan banyak orang beberapa hari atau beberapa minggu sebelum menstruasi. Kondisi ini dapat dialami oleh siapa saja yang mengalami menstruasi, dan biasanya mereda dalam beberapa hari setelah menstruasi dimulai.\n\nPerubahan ini muncul dalam berbagai bentuk. Secara fisik, Anda mungkin mengalami perut kembung, payudara terasa nyeri atau sensitif, kram, sakit kepala, atau rasa lelah yang lebih parah. Secara emosional, bisa terjadi perubahan suasana hati, mudah marah, cemas, atau merasa sedih. Mengidam makanan dan perubahan pola tidur juga sering terjadi. Tidak semua orang mengalami PMS, dan mereka yang mengalaminya pun tidak akan mengalami setiap gejala — pola yang Anda alami lah yang penting.\n\nPMS adalah bagian normal dan umum dari siklus banyak orang, yang terkait dengan perubahan hormonal alami pada paruh kedua siklus. Dengan memperhatikan bagaimana PMS muncul pada diri Anda dari siklus ke siklus, Anda akan lebih mudah merencanakan aktivitas — dan mendeteksi jika ada perubahan.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "Sebaiknya konsultasikan dengan dokter umum jika:\n\n- gejala yang Anda alami memengaruhi kehidupan sehari-hari Anda — pekerjaan, studi, hubungan\n- Perubahan sehari-hari pada rutinitas Anda belum membantu\n- suasana hati yang buruk, kecemasan, atau mudah marah yang Anda rasakan terasa parah\n\nSeorang tenaga medis dapat menjelaskan hal-hal yang mungkin membantu. Bentuk yang lebih parah, yang disebut gangguan disforik pramenstruasi (PMDD), dapat menyebabkan gejala suasana hati yang jauh lebih berat, dan dukungan tersedia untuk kondisi tersebut.",
+      "red_flags": "- Jika Anda mengalami gejala PMDD dan **merasa ingin bunuh diri atau merasa tidak dapat menjaga keselamatan diri sendiri**, segera cari bantuan: **hubungi 999 atau pergi ke Unit Gawat Darurat (A&E).** Jangan mengemudi sendiri — mintalah seseorang untuk mengantar Anda, atau panggil ambulans. Anda berhak mendapatkan dukungan, dan bantuan tersedia."
     },
     "progesterone": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
+      "title": "Progesteron",
+      "aliases": [
+        "progesteron"
+      ],
+      "glance": "Progesteron adalah hormon pada paruh kedua siklus menstruasi, yang mempersiapkan lapisan rahim setelah ovulasi.",
+      "overview": "Progesteron adalah salah satu hormon utama yang berperan dalam siklus menstruasi, dan hormon ini memegang peranan utama pada paruh kedua siklus — setelah sel telur dilepaskan saat ovulasi.\n\nPeran utamanya adalah membantu lapisan rahim (uterus) tetap tebal dan siap, sehingga jika sel telur yang telah dibuahi tiba, sel telur tersebut dapat menempel dan kehamilan dapat dimulai. Dengan cara ini, progesteron bekerja sebagai mitra estrogen, yang telah melakukan sebagian besar proses pembentukan lapisan tersebut pada tahap awal siklus.\n\nJika tidak terjadi kehamilan, kadar progesteron akan turun. Penurunan tersebutlah yang memungkinkan lapisan rahim terlepas sebagai menstruasi berikutnya. Naik-turunnya kadar progesteron pada paruh kedua siklus merupakan ritme yang normal dan dapat diprediksi.",
+      "deep": "Progesteron diproduksi terutama oleh korpus luteum — struktur yang terbentuk di ovarium dari folikel setelah sel telur dilepaskan. Inilah sebabnya mengapa kadar progesteron meningkat secara spesifik pada fase luteal (pasca-ovulasi). Ketika korpus luteum mengalami degenerasi, kadar progesteron dan estrogen sama-sama menurun, menandakan dimulainya siklus baru. Perubahan alami ini merupakan salah satu alasan mengapa beberapa orang merasakan perubahan pramenstruasi beberapa hari sebelum menstruasi.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "progestogen-only-pill": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
+      "title": "Pil progestogen saja (pil mini)",
+      "aliases": [
+        "pil progestogen saja",
+        "pil mini",
+        "POP",
+        "pil progesteron saja",
+        "pil desogestrel"
+      ],
+      "glance": "Pil mini adalah pil harian yang mengandung satu hormon yang berfungsi mengentalkan lendir serviks untuk menghalangi sperma.",
+      "overview": "Pil progestogen saja — sering disebut pil mini — adalah tablet harian yang hanya mengandung satu hormon, yaitu progestogen. Pil ini merupakan pilihan bagi orang-orang yang tidak bisa atau memilih untuk tidak mengonsumsi estrogen.\n\nMekanisme kerjanya terutama adalah dengan mengentalkan lendir di leher rahim, sehingga sperma lebih sulit mencapai sel telur. Salah satu jenis yang umum, pil desogestrel, juga menghentikan ovarium melepaskan sel telur (ovulasi).\n\nJika digunakan dengan benar, efektivitasnya lebih dari 99%; dengan penggunaan sehari-hari yang umum, efektivitasnya sekitar 91%. Seperti pil kontrasepsi lainnya, waktu pemakaian sangat penting, dan pil ini tidak melindungi dari infeksi menular seksual (IMS).",
+      "deep": "Pil mini berbeda dari pil kombinasi karena tidak mengandung estrogen, yang memengaruhi siapa saja yang cocok menggunakannya — hal ini menjadi pertimbangan dokter saat meresepkannya. Beberapa jenis pil perlu dikonsumsi dalam rentang waktu harian yang cukup ketat agar tetap efektif. Artikel ini menjelaskan apa itu pil mini dan bagaimana cara kerjanya; sedangkan cara mengonsumsinya dan apakah pil ini cocok untuk Anda adalah hal-hal yang perlu dibahas dengan dokter umum, perawat, atau apoteker.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "signs-of-labour": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Tanda-tanda persalinan",
+      "aliases": [
+        "tanda-tanda persalinan",
+        "persalinan",
+        "akan melahirkan",
+        "kontraksi",
+        "air ketuban pecah",
+        "acara tersebut",
+        "fase laten"
+      ],
+      "glance": "Tanda-tanda dimulainya persalinan antara lain kontraksi yang teratur, \"show,\" sakit punggung, atau ketuban pecah.",
+      "overview": "Ada beberapa tanda bahwa persalinan mungkin akan dimulai. Tanda utamanya adalah kontraksi — rasa kencang di perut yang terjadi secara teratur dan semakin intens. Tanda-tanda lainnya meliputi \"show\" (keluarnya sumbat lendir dari serviks), nyeri punggung yang terus-menerus, keinginan untuk buang air kecil, dan ketuban pecah.\n\nSebelum persalinan aktif, sering kali terdapat fase awal (\"latent\"), saat serviks melunak dan mulai membuka. Fase ini bisa berlangsung berjam-jam atau bahkan berhari-hari, dan bagi banyak orang, tidak masalah untuk tetap merasa nyaman di rumah selama fase ini, beristirahat, dan menjaga tubuh tetap terhidrasi.\n\nProses persalinan setiap orang dimulai dengan cara yang sedikit berbeda, jadi Anda tidak perlu memeriksa setiap tanda. Saat Anda merasa proses persalinan sudah dimulai, bidan atau unit kebidanan akan membimbing Anda mengenai apa yang harus dilakukan dan kapan harus datang ke rumah sakit.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "- Hubungi **bidan atau unit kebidanan** Anda untuk mendapatkan panduan saat Anda merasa persalinan telah dimulai, atau saat kontraksi sudah **teratur — sekitar setiap 5 menit**. Jika Anda tidak dapat menghubungi bidan Anda, hubungi **NHS 111**.",
+      "red_flags": "Hubungi **bidan atau unit kebidanan segera** — siang atau malam, jangan tunda — jika:\n\n- **ketika air ketuban pecah** (terutama jika cairannya berwarna hijau, coklat, atau berbau)\n- Anda mengalami **pendarahan vagina**\n- **Bayi Anda bergerak lebih sedikit dari biasanya**\n- Anda mengalami tanda-tanda persalinan dan usia kehamilan Anda **kurang dari 37 minggu**"
     },
     "signs-of-pregnancy": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Tanda-tanda kehamilan",
+      "aliases": [
+        "tanda-tanda kehamilan",
+        "gejala awal kehamilan",
+        "Apakah saya hamil?",
+        "gejala kehamilan"
+      ],
+      "glance": "Haid yang terlambat sering kali menjadi tanda pertama kehamilan, terkadang disertai mual, kelelahan, atau payudara terasa nyeri.",
+      "overview": "Bagi banyak orang, tanda pertama kehamilan adalah **tidak datangnya haid**. Namun, setiap tubuh berbeda, dan beberapa orang mungkin lebih dulu menyadari tanda-tanda awal lainnya — biasanya sekitar 4 hingga 6 minggu setelah pembuahan.\n\nTanda-tanda awal yang umum meliputi merasa mual atau muntah (kapan saja sepanjang hari, tidak hanya di pagi hari), payudara yang terasa membesar atau nyeri, merasa lelah secara tidak biasa, dan sering buang air kecil. Beberapa orang juga merasakan rasa logam di mulut, sensitivitas baru terhadap bau tertentu, atau tiba-tiba tidak suka makanan yang biasanya mereka sukai.\n\nTidak satu pun dari gejala ini secara terpisah berarti Anda pasti hamil — banyak di antaranya tumpang tindih dengan fluktuasi normal dalam siklus — dan tidak semua orang mengalaminya. Cara untuk memastikannya adalah dengan melakukan tes kehamilan.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "- Jika hasil tes positif, hubungi **bidan atau dokter umum** untuk memulai perawatan kehamilan (antenatal) sedini mungkin.\n- Jika menstruasi Anda terlambat dan hasil tes negatif tetapi gejalanya terus berlanjut, sebaiknya periksakan diri ke dokter umum untuk mengetahui apa yang mungkin terjadi.",
       "red_flags": null
     },
     "smoking-in-pregnancy": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Merokok selama kehamilan",
+      "aliases": [
+        "merokok selama kehamilan",
+        "berhenti merokok saat kehamilan",
+        "berhenti merokok saat hamil",
+        "merokok vape selama kehamilan"
+      ],
+      "glance": "Berhenti merokok adalah salah satu hal terbaik yang dapat Anda lakukan untuk bayi Anda — dan tidak pernah ada kata terlambat.",
+      "overview": "Berhenti merokok adalah salah satu hal paling efektif yang dapat Anda lakukan untuk memberikan awal yang sehat bagi bayi Anda. Setiap batang rokok membatasi pasokan oksigen yang diterima bayi Anda, yang membuat jantungnya bekerja lebih keras dan dapat menghambat pertumbuhannya.\n\nMerokok selama kehamilan meningkatkan risiko masalah serius, termasuk keguguran, kelahiran prematur, berat badan lahir rendah, janin lahir mati, dan sindrom kematian bayi mendadak (SIDS) setelah kelahiran. Asap rokok pasif juga berdampak buruk, sehingga rumah yang bebas asap rokok sangat membantu.\n\nHal yang memberi semangat: **tidak pernah ada kata terlambat**. Berhenti merokok pada tahap mana pun selama kehamilan tetap membantu, dan berhenti sedini mungkin memberikan manfaat terbesar. Hal ini memang bisa sangat sulit, dan itulah tepatnya mengapa ada bantuan gratis — dan memanfaatkannya akan membuat peluang keberhasilan jauh lebih besar.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "- Tanyakan kepada **bidan** Anda tentang **dukungan berhenti merokok gratis dari NHS** — para penasihat terlatih (beberapa di antaranya berspesialisasi dalam kehamilan) dapat membantu Anda, dan ada juga saluran bantuan Smokefree. Mencari bantuan adalah tanda bahwa Anda peduli terhadap bayi Anda, bukan suatu kegagalan.",
       "red_flags": null
     },
     "spotting": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Bercak & perdarahan di antara periode menstruasi",
+      "aliases": [
+        "bercak darah",
+        "perdarahan di antara periode menstruasi",
+        "perdarahan di antara periode menstruasi",
+        "perdarahan di luar siklus menstruasi",
+        "pendarahan setelah berhubungan seks"
+      ],
+      "glance": "Bercak adalah perdarahan ringan di antara periode menstruasi atau setelah berhubungan seks — seringkali tidak serius, tetapi selalu sebaiknya diperiksa.",
+      "overview": "Spotting adalah perdarahan ringan yang terjadi di antara periode menstruasi atau setelah berhubungan seks, di luar aliran menstruasi normal Anda. Hal ini umum terjadi, dan biasanya bukan sesuatu yang serius — tetapi karena dapat disebabkan oleh berbagai hal, sebaiknya selalu diperiksa oleh tenaga medis.\n\nAda banyak alasan sehari-hari yang mendasari hal ini. Memulai atau menggunakan kontrasepsi hormonal adalah salah satu yang paling umum. Alasan lainnya meliputi pertumbuhan kecil yang tidak berbahaya di dalam atau di sekitar rahim (polip atau fibroid), perubahan yang tidak berbahaya pada permukaan serviks, kekeringan vagina, atau infeksi seperti klamidia.\n\nKarena gejala yang sama bisa disebabkan oleh berbagai hal — kebanyakan di antaranya ringan — langkah yang tepat bukanlah menebak-nebak, melainkan memeriksakannya agar Anda tahu apa yang sebenarnya menjadi penyebabnya bagi Anda.",
       "deep": null,
-      "when_to_see_doctor": null,
-      "red_flags": null
+      "when_to_see_doctor": "- Kunjungi dokter umum atau klinik kesehatan seksual **setiap kali Anda mengalami perdarahan di antara periode menstruasi atau setelah berhubungan seks**, meskipun perdarahannya ringan. Biasanya hal ini tidak serius, tetapi dengan memeriksakannya, penyebabnya dapat diketahui — dan ini adalah cara untuk menyingkirkan penyebab yang kurang umum sejak dini.",
+      "red_flags": "- Segera buat janji temu dengan dokter umum (GP) secara **mendesak** atau hubungi **NHS 111** jika Anda **tidak menstruasi dan mengalami perdarahan yang tidak biasa disertai nyeri perut atau panggul** — hal ini memerlukan penilaian segera, karena bisa menjadi tanda kehamilan ektopik."
     },
     "stillbirth": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Bayi lahir mati",
+      "aliases": [
+        "bayi lahir mati",
+        "bayi lahir mati",
+        "keguguran",
+        "keguguran pada trimester akhir",
+        "bayi lahir dalam keadaan meninggal"
+      ],
+      "glance": "Kematian janin adalah kehilangan bayi setelah usia kehamilan 24 minggu — hal ini jarang terjadi, bukan kesalahan Anda, dan selalu disertai dukungan.",
+      "overview": "Kelahiran mati adalah ketika bayi lahir dalam keadaan meninggal setelah kehamilan berusia 24 minggu. (Kehilangan janin sebelum usia kehamilan 24 minggu disebut keguguran.) Hal ini jarang terjadi — sekitar 1 dari setiap 250 kelahiran — namun bagi keluarga yang mengalaminya, ini merupakan kehilangan yang sangat mendalam, dan seluruh perawatan yang diberikan setelahnya dimaksudkan untuk mendampingi Anda dengan penuh kelembutan selama masa sulit ini.\n\nTerkadang penyebabnya dapat ditemukan — misalnya masalah pada plasenta atau perkembangan bayi, atau kondisi kesehatan tertentu — dan terkadang, meskipun telah dilakukan berbagai tes, **tidak ditemukan penyebab sama sekali**. Apa pun alasannya, kelahiran mati bukanlah sesuatu yang disebabkan oleh orang tua atau yang dapat mereka ketahui untuk dicegah.\n\nAda satu hal yang benar-benar membantu menurunkan risiko, dan caranya sederhana: **segera beri tahu bidan Anda jika gerakan bayi Anda melambat atau berubah.** Selain itu, hal-hal sehari-hari — pergi ke pemeriksaan kehamilan, tidak merokok, menghindari alkohol, dan tidur miring mulai minggu ke-28 — semuanya berperan penting.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "- Hubungi **bidan atau unit kebidanan segera** — kapan saja, siang atau malam — jika **bayi Anda bergerak lebih sedikit dari biasanya atau gerakannya terasa berbeda.** Jangan pernah menunda untuk melihat apakah hal itu akan berlalu; memeriksakan diri adalah hal yang tepat untuk dilakukan, dan itu tidak pernah merepotkan.\n- Setelah kehilangan bayi, bidan spesialis dan tim pendamping duka siap mendampingi Anda — baik dalam pengambilan keputusan, langkah-langkah praktis, maupun proses berduka. Anda tidak perlu menghadapi semua ini sendirian, dan kelompok dukungan untuk kehilangan bayi tersedia selama Anda membutuhkannya.",
       "red_flags": null
     },
     "stress-and-your-periods": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Stres, kehidupan, dan siklus menstruasi Anda",
+      "aliases": [
+        "Stres dan menstruasi",
+        "tekanan",
+        "tidak haid",
+        "haid terlambat",
+        "mengapa menstruasi saya terlambat"
+      ],
+      "glance": "Stres, perubahan berat badan yang drastis, atau olahraga yang berlebihan dapat menunda atau menghentikan menstruasi — seringkali hanya untuk sementara waktu.",
+      "overview": "Seringkali haid datang terlambat atau terlewat satu bulan, dan penyebabnya sering kali lebih berkaitan dengan kondisi kehidupan daripada adanya masalah kesehatan. Stres adalah salah satu penyebab yang umum — sistem yang sama yang merespons tekanan juga dapat memengaruhi hormon yang mengatur siklus menstruasi Anda.\n\nHal-hal sehari-hari lainnya juga dapat memengaruhi siklus menstruasi Anda: perubahan berat badan yang signifikan (naik atau turun), berolahraga secara berlebihan, atau kelelahan. Perubahan hormonal — seperti mendekati masa perimenopause, atau kondisi seperti PCOS — juga dapat menjadi penyebabnya, begitu pula kehamilan dan beberapa metode kontrasepsi. Seringkali, selang waktu antara periode menstruasi hanya sedikit bervariasi dari waktu ke waktu, dan itu normal.\n\nHal yang menenangkan adalah bahwa keterlambatan atau terlewatnya menstruasi sekali saja biasanya tidak perlu dikhawatirkan, dan keadaan sering kali kembali normal seiring berjalannya waktu. Yang perlu diperhatikan adalah pola perubahan, bukan hanya satu bulan saja.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "Kunjungi dokter umum jika:\n\n- Anda telah melewatkan **tiga kali menstruasi berturut-turut**, atau siklus menstruasi Anda menjadi **tidak teratur**\n- haid Anda **berhenti** dan Anda tidak tahu alasannya (dan kemungkinan kehamilan ada, sebaiknya lakukan tes terlebih dahulu)\n- Keterlambatan menstruasi sering disertai dengan perubahan lain — seperti perubahan berat badan yang tak terduga, kelelahan, pertumbuhan rambut berlebih, atau perasaan sedih\n\nPemeriksaan ini hanya untuk memahami apa yang mendasari perubahan tersebut — yang biasanya merupakan hal yang dapat ditangani.",
       "red_flags": null
     },
     "the-coil": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
-      "deep": null,
+      "title": "Alat kontrasepsi dalam rahim (IUD dan IUS)",
+      "aliases": [
+        "spiral",
+        "spiral",
+        "IUD",
+        "IUS",
+        "spiral tembaga",
+        "spiral hormonal",
+        "alat kontrasepsi dalam rahim",
+        "sistem intrauterin",
+        "Mirena"
+      ],
+      "glance": "Spiral adalah alat kecil yang ditempatkan di dalam rahim — terbuat dari tembaga (IUD) atau hormonal (IUS) — yang dapat bertahan selama bertahun-tahun.",
+      "overview": "IUD adalah alat kecil yang dipasang oleh tenaga medis di dalam rahim. Ada dua jenis, dan sebaiknya dibedakan sebagai berikut:\n\n- **IUD**, atau spiral tembaga, tidak mengandung hormon. Tembaga mengubah kondisi di dalam rahim sehingga sperma dan sel telur tidak dapat bertahan hidup dengan baik, dan hal ini juga memengaruhi lendir serviks. Tergantung pada jenisnya, IUD ini efektif selama sekitar 5 hingga 10 tahun.\n- **IUS**, atau spiral hormonal, melepaskan progestogen alih-alih menggunakan tembaga. Alat ini menebalkan lendir di leher rahim dan menipiskan lapisan rahim; bagi sebagian orang, alat ini juga dapat membuat haid menjadi jauh lebih ringan.\n\nKeduanya merupakan metode \"pasang dan lupakan\" dan keduanya memiliki efektivitas lebih dari 99%, dengan sedikit perbedaan antara penggunaan yang sempurna dan penggunaan yang umum. Keduanya tidak melindungi dari IMS.",
+      "deep": "IUD adalah metode kontrasepsi reversibel jangka panjang: setelah dipasang, IUD akan tetap berfungsi selama bertahun-tahun, dan kesuburan akan kembali setelah IUD dilepas. Pemasangan dan pelepasan dilakukan oleh tenaga medis terlatih dan hanya memakan waktu beberapa menit, meskipun beberapa orang merasa tidak nyaman saat pemasangan. Alasan umum orang memilih di antara keduanya adalah pengaruhnya terhadap menstruasi — IUD tembaga dapat membuat menstruasi lebih banyak pada awalnya, sedangkan IUS hormonal sering kali membuatnya lebih sedikit. Mana yang cocok untuk Anda perlu didiskusikan dengan tenaga medis; artikel ini hanya menjelaskan cara kerja masing-masing.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "twin-pregnancy": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Kehamilan kembar dan kehamilan multipel",
+      "aliases": [
+        "kembar",
+        "kehamilan kembar",
+        "kehamilan kembar",
+        "mengandung anak kembar",
+        "kembar identik",
+        "kembar tidak identik",
+        "kembar tiga"
+      ],
+      "glance": "Kehamilan kembar biasanya pertama kali terdeteksi pada pemeriksaan USG untuk menentukan usia kehamilan, dan hal ini berarti memerlukan perawatan antenatal yang sedikit lebih intensif.",
+      "overview": "Kehamilan kembar biasanya pertama kali terdeteksi pada **pemeriksaan USG penentuan usia kehamilan** (sekitar 12 minggu), yang juga dapat menunjukkan apakah bayi-bayi tersebut berbagi plasenta.\n\nAda dua jenis utama. Kembar **identik** berasal dari satu sel telur yang telah dibuahi yang kemudian terbelah, sehingga mereka memiliki gen yang sama dan selalu berjenis kelamin sama. Kembar **tidak identik** berasal dari dua sel telur yang terpisah, dan kemiripannya tidak lebih dari saudara kandung lainnya; jenis ini lebih umum di antara keduanya, dan kemungkinannya sedikit lebih tinggi pada usia yang lebih tua, riwayat keluarga dari pihak ibu, atau setelah menjalani perawatan kesuburan.\n\nMengandung anak kembar atau lebih merupakan pengalaman tersendiri, dan biasanya berarti **perawatan antenatal yang sedikit lebih intensif** — janji temu dan pemeriksaan USG tambahan untuk memantau Anda dan bayi-bayi Anda dengan cermat. Tim bidan Anda akan menjelaskan apa yang akan Anda alami.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "- Jika hasil USG menunjukkan adanya kembar (atau lebih), **bidan** Anda akan menjelaskan tentang pemeriksaan dan USG tambahan yang diperlukan dalam kehamilan kembar — menghadiri semua pemeriksaan tersebut adalah cara terbaik untuk memastikan Anda mendapatkan perawatan yang optimal.",
       "red_flags": null
     },
     "vaginal-dryness": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Kekeringan vagina",
+      "aliases": [
+        "kekeringan vagina",
+        "kekeringan",
+        "atrofi vagina"
+      ],
+      "glance": "Kekeringan vagina adalah hal yang umum, sering kali terkait dengan hormon, dan dapat menyebabkan rasa nyeri atau ketidaknyamanan saat berhubungan seks.",
+      "overview": "Kekeringan vagina adalah pengalaman umum yang dialami banyak orang pada suatu saat. Hal ini terjadi ketika kelembapan yang biasanya menjaga kenyamanan vagina berkurang, dan dapat menimbulkan rasa nyeri, gatal, atau ketidaknyamanan — termasuk rasa sakit atau ketidaknyamanan saat berhubungan seks.\n\nHal ini sering dikaitkan dengan hormon, terutama penurunan kadar estrogen. Itulah sebabnya hal ini umum terjadi saat menopause dan perimenopause, tetapi juga dapat terjadi selama menyusui, akibat penggunaan beberapa obat (seperti kontrasepsi tertentu atau antidepresan), atau ketika tidak ada gairah yang cukup sebelum berhubungan seks. Ini bukanlah sesuatu yang perlu membuat Anda malu — ini adalah masalah fisik, bukan cerminan diri Anda atau hubungan Anda.\n\nMengetahui bahwa hal ini umum terjadi, dan biasanya dapat diatasi dengan mudah, merupakan titik awal yang baik. Ada beberapa pilihan sederhana yang dapat membantu, dan dokter umum atau apoteker dapat mengarahkan Anda ke pilihan yang sesuai untuk Anda.",
       "deep": null,
-      "when_to_see_doctor": null,
+      "when_to_see_doctor": "Kunjungi dokter umum jika:\n\n- kekeringan vagina mengganggu Anda atau tidak kunjung membaik setelah beberapa minggu\n- hal ini memengaruhi kehidupan sehari-hari atau kehidupan seksual Anda\n- Anda juga mengalami keputihan yang tidak biasa, atau pendarahan setelah berhubungan seks, di antara periode menstruasi, atau setelah menopause\n\nTidak perlu hanya menanggungnya begitu saja — bantuan tersedia, dan seorang tenaga medis dapat mengidentifikasi penyebabnya serta cara-cara yang mungkin dapat meringankan gejalanya.",
       "red_flags": null
     },
     "vaginal-health": {
-      "title": null,
-      "aliases": [],
-      "glance": null,
-      "overview": null,
+      "title": "Kesehatan vagina dan vulva",
+      "aliases": [
+        "kesehatan vagina",
+        "kesehatan vulva",
+        "kebersihan area intim",
+        "menjaga kebersihan",
+        "pembilasan vagina",
+        "keluar"
+      ],
+      "glance": "Vagina membersihkan dirinya sendiri — perawatan yang lembut pada bagian luar sudah cukup, dan keputihan adalah hal yang normal.",
+      "overview": "Salah satu hal yang paling menenangkan untuk diketahui adalah bahwa vagina dapat menjaga kesehatannya sendiri. Vagina secara alami membersihkan dirinya sendiri, dan keputihan yang Anda lihat merupakan bagian dari proses tersebut — cairan yang menjaganya tetap bersih dan lembap serta membantu melindunginya dari infeksi. Jumlah dan teksturnya berubah sepanjang siklus, yang merupakan hal yang sepenuhnya normal.\n\nOleh karena itu, bagian dalam vagina tidak perlu dicuci. Bahkan, mencuci bagian dalamnya — \"douching\" — dapat mengganggu keseimbangan alaminya. Bagian luar (vulva) hanya perlu perawatan yang lembut: air hangat dan, jika Anda mau, sabun yang lembut dan tanpa pewangi. Sebaiknya hindari sabun, gel, deodoran, dan tisu basah beraroma, karena dapat menyebabkan iritasi.\n\nDengan mengetahui apa yang normal bagi Anda — keputihan, penampilan, dan sensasi yang biasa Anda rasakan — akan lebih mudah bagi Anda untuk menyadari jika ada perubahan dan mungkin perlu diperiksa.",
       "deep": null,
+      "when_to_see_doctor": "Segera temui dokter umum atau klinik kesehatan seksual jika Anda mengalami:\n\n- perubahan pada cairan vagina Anda — warna, bau, atau teksturnya, atau jumlahnya jauh lebih banyak dari biasanya\n- gatal, nyeri, atau iritasi di sekitar vagina atau vulva\n- pendarahan di antara periode menstruasi atau setelah berhubungan seks\n- rasa sakit saat buang air kecil, atau rasa sakit di bagian bawah antara perut dan paha (nyeri panggul)\n\nHal-hal ini umum terjadi dan sering kali mudah diobati — perubahan pada cairan vagina bisa jadi hanya menandakan infeksi ringan seperti sariawan. Periksakan diri ke dokter adalah cara terbaik untuk mengetahuinya, daripada hanya menebak-nebak.",
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Persetujuan dan rasa hormat",
+      "aliases": [
+        "persetujuan",
+        "hormati batasannya",
+        "persetujuan yang antusias",
+        "otonomi tubuh"
+      ],
+      "glance": "Persetujuan adalah jawaban ya yang jelas, bebas, dan antusias — setiap saat, dan dapat ditarik kapan saja.",
+      "overview": "Rasa hormat dimulai dari haknya untuk memutuskan tentang tubuhnya sendiri — selalu. Persetujuan terhadap keintiman berarti a\ndiberikan secara cuma-cuma, terinformasi, antusias **ya**. Diam bukanlah persetujuan. \"Denda\" yang enggan bukanlah persetujuan.\nSeseorang yang tertidur, mabuk berat, atau berada di bawah tekanan tidak bisa benar-benar menyetujuinya. Dan jawaban ya untuk satu hal, atau aktif\nsuatu hari nanti, bukanlah jawaban ya untuk segalanya atau untuk waktu berikutnya.\n\nPersetujuan dapat ditarik kapan saja, dan \"berhenti\" atau \"tidak malam ini\" adalah jawaban lengkap yang tidak memerlukannya\npembenaran. Menekan, menimbulkan rasa bersalah, merajuk hingga dia menyerah, atau memperlakukan seks sebagai sesuatu\nAnda berhutang tidak apa-apa - suatu hubungan bukanlah hutang.",
+      "deep": "Seperti apa rasa hormat dalam praktiknya:\n\n- **Tanya, dan check in.** \"Apakah ini oke?\" dan memperhatikan bagaimana dia merespons — kata-kata dan tubuh.\n- **Terima kata \"tidak\" dengan anggun.** Tidak ada cibiran, tekanan, atau hukuman. Jawabannya adalah akhir dari semuanya.\n- **Antusiasme itu penting.** Jika dia tampak tidak yakin, ragu-ragu, atau sekadar menyetujuinya, berhentilah dan tanyakan.\n- **Tubuhnya, panggilannya** — tentang keintiman, kontrasepsi, kehamilan, kesehatannya, penampilannya, dirinya\n  pilihan. Anda mendapatkan suara dalam kehidupan Anda bersama, tidak pernah ada hak veto atas tubuhnya.\n- **Rasa hormat terjadi setiap hari.** Cara Anda berbicara dengannya, tentang dia, dan memperlakukan batasannya dalam hal-hal kecil adalah hal yang penting\n  fondasi segala sesuatu yang lain bertumpu.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Mendengarkan dan dukungan emosional",
+      "aliases": [
+        "bagaimana cara mendengarkan",
+        "dukungan emosional untuk pasangan",
+        "komunikasi",
+        "berada di sana untuknya"
+      ],
+      "glance": "Seringkali dia perlu didengarkan, bukan diperbaiki — dengarkan dulu, dan tanyakan sebelum Anda memberi nasihat.",
+      "overview": "Ketika seseorang yang kita cintai sedang berjuang, naluri kita adalah untuk terjun dan menyelesaikannya. Namun seringkali yang paling membantu\nmerasa benar-benar didengarkan: bahwa perasaannya masuk akal dan dia tidak sendirian dengan perasaan itu. Memperbaiki juga\nfast bisa berakhir sebagai \"perasaanmu adalah masalah yang harus ditutup\".\n\nMendengarkan dengan baik adalah keterampilan yang dapat dipelajari siapa pun. Yang paling utama adalah perhatian: meletakkan telepon, menghadapnya,\ndan membiarkannya menyelesaikannya. Anda tidak harus menyetujui setiap hal untuk membuatnya merasa dihormati.",
+      "deep": "Cara praktis untuk tampil:\n\n- **Dengarkan untuk memahami, bukan untuk membalas.** Biarkan dia berbicara tanpa menyela atau merencanakan pembelaan Anda.\n- **Renungkan kembali.** \"Kedengarannya sangat menegangkan\" atau \"Aku mengerti kenapa itu menyakitkan\" mengalahkan \"tapi jangan\n  khawatir tentang hal itu\".\n- **Bertanya sebelum menasihati.** \"Apakah kamu butuh bantuan untuk memikirkannya matang-matang, atau kamu hanya ingin aku mendengarkan?\"\n- **Jangan tersinggung** ketika hari yang berat bukan tentang Anda. Kemantapan adalah anugerah.\n- **Akui bagianmu.** Jika kamu melakukan kesalahan, permintaan maaf yang tulus — tanpa kata \"tetapi\" — akan membangun kembali kepercayaan.\n- **Perhatikan gambaran yang lebih besar.** Jika dia terus-menerus terlihat murung, cemas atau tidak, dengan lembut\n  mendorong dukungan dan menawarkan untuk membantunya mencapainya. Anda adalah rekan satu tim, bukan terapis.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "respect-not-control": {
+      "title": "Hormati, bukan kontrol",
+      "aliases": [
+        "mengendalikan perilaku",
+        "kontrol yang bersifat memaksa",
+        "hubungan yang sehat",
+        "tanda-tanda peringatan",
+        "di mana mendapatkan bantuan",
+        "penyalahgunaan"
+      ],
+      "glance": "Cinta dibangun atas dasar rasa hormat dan kebebasan — kendali, kecemburuan, dan tekanan bukanlah cinta, dan pertolongan itu ada.",
+      "overview": "Hubungan yang sehat bertumpu pada rasa hormat, kepercayaan, kesetaraan, dan kebebasan: dua orang yang masing-masing menjaga haknya\npersahabatan, pilihan, dan ruang sendiri. Kontrol justru sebaliknya. Seringkali bersembunyi di balik kata-kata seperti cinta atau\nkecemburuan — \"Aku memeriksa ponselmu karena aku peduli\", \"Aku tidak ingin kamu melihatnya karena aku mencintaimu\" — tapi\ndampaknya adalah menyusutkan dunia dan kebebasannya.\n\nPengendalian jarang dimulai dengan kekerasan. Biasanya dimulai dari hal yang kecil - sebuah kritik, melewati batas, a\n\"lelucon\" yang menyengat — dan berkembang. Menyebutnya sejak awal sangatlah penting, karena kontrol koersif itu sendiri merupakan salah satu bentuk kontrol koersif\npelecehan dan tanda peringatan yang lebih buruk. Ini bukan tentang rasa bersalah; ini tentang kejujuran dan perubahan.",
+      "deep": "**Jika Anda mengenali beberapa hal ini dalam diri Anda, kesadaran itu adalah titik awal — bukan hukuman seumur hidup.**\nOrang bisa berubah dengan usaha nyata dan bantuan yang tepat. Menjangkau program khusus untuk pria\nyang ingin berhenti bersikap mengontrol atau melakukan kekerasan adalah tanda kekuatan, bukan kelemahan. Bicaralah dengan a\nprofesional, dokter, atau layanan perubahan perilaku pria.\n\nJika **dia** adalah orang yang berada dalam bahaya, atau Anda mengkhawatirkan seseorang, dorong dan dukung dia untuk menghubunginya\nbantuan - dengan persyaratannya, tidak pernah dengan mengambil alih.\n\n**Di mana mendapatkan bantuan**\n- Dalam keadaan darurat, atau jika ada orang yang berada dalam bahaya, hubungi nomor darurat setempat\n  (**112** di Italia dan sebagian besar Eropa; **911** di AS).\n- **Italia — 1522**: saluran bantuan nasional anti-kekerasan dan penguntitan. Gratis, 24/7, anonim, dan\n  multibahasa, dijalankan oleh Department for Equal Opportunities. Ini juga memandu orang ke lokal\n  pusat anti kekerasan (centri antiviolenza).\n- Pusat anti-kekerasan dan program perubahan perilaku laki-laki (di Italia, \"centri per uomini autori di\n  violenza\") menawarkan dukungan rahasia untuk perubahan.",
+      "when_to_see_doctor": null,
+      "red_flags": "Tanda-tanda peringatan perilaku mengontrol atau kasar — ​​patut ditanggapi dengan serius dalam diri Anda atau suatu hubungan:\n\n- **Memantau atau mengisolasi**: memeriksa ponselnya, melacak lokasinya, atau memutuskan hubungan dengannya\n  teman dan keluarga.\n- **Kontrol atas pilihan**: uang, apa yang dia kenakan, ke mana dia pergi, siapa yang dia lihat.\n- **Kecemburuan dibingkai sebagai cinta**, tuduhan terus-menerus, atau kebutuhan untuk mengetahui di mana dia berada setiap saat.\n- **Meremehkan, menyalahkan, atau membuatnya merasa takut**, bersalah, atau \"berjalan di atas kulit telur\".\n- **Tekanan atau ancaman** tentang seks, putus cinta, atau menyakiti diri sendiri untuk mendapatkan kepatuhan.\n- **Kekuatan fisik, intimidasi, atau ketakutan apa pun.** Jika ada, itu adalah pelecehan — segera hubungi bantuan\n  di atas. Tidak pernah ada alasan, dan itu bukan salahnya."
+    },
+    "supporting-her-period": {
+      "title": "Mendukungnya selama menstruasi",
+      "aliases": [
+        "membantu selama menstruasinya",
+        "dukungan periode untuk mitra",
+        "perawatan periode"
+      ],
+      "glance": "Menstruasi dapat menimbulkan rasa sakit dan kelelahan yang nyata — perawatan kecil dan praktis akan membawa perbedaan besar.",
+      "overview": "Suatu menstruasi bukan hanya pendarahan yang terjadi selama beberapa hari; bagi banyak orang, penyakit ini disertai dengan kram, sakit punggung, sakit kepala,\nkelelahan dan energi rendah. Nyeri haid adalah hal yang umum dan bisa sangat menguras tenaga - namun bukan itu masalahnya\nberlebihan. Perlakukan seperti Anda memperlakukan pasangan mana pun yang sedang tidak sehat: dengan kebaikan yang nyata.\n\nNormalisasikan juga. Menstruasi bukanlah hal yang menjijikkan, memalukan, atau tabu. Menjadi nyaman membeli pembalut atau\ntampon, menyimpannya di rumah, atau memberinya botol air panas tanpa ribut-ribut menunjukkan bahwa dia aman dan sehat\ndidukung.",
+      "deep": "Hal-hal sederhana yang membantu:\n\n- **Kehangatan dan istirahat.** Botol air panas atau bantalan pemanas di perut bagian bawah meredakan kram; menawarkan ketenangan\n  malam masuk.\n- **Singkirkan barang-barang dari piringnya.** Memasak, merapikan, menjalankan tugas, mengantarnya — bantuan praktis semakin sulit\n  daripada kata-kata.\n- **Simpan persediaan.** Ketahui apa yang dia gunakan dan simpan persediaan, sehingga hari yang berat tidak pernah menjadi krisis.\n- **Obat pereda nyeri dan makanan penenang** jika dia menginginkannya; pilihannya.\n- **Jangan menekan untuk seks atau energi yang tidak dia miliki.** Kedekatan bisa berupa pelukan di sofa.",
+      "when_to_see_doctor": "Dorong dia untuk menemui dokter (dan tawarkan untuk pergi bersamanya) jika nyeri haidnya **parah, semakin parah,\natau menghentikannya dari kehidupan sehari-hari**, jika menstruasinya **sangat deras** (merendam perlindungan setiap jam,\ngumpalan besar), atau jika nyeri masih baru dan tidak biasa – hal ini dapat menunjukkan kondisi seperti endometriosis\nberhak mendapatkan perawatan yang tepat.",
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Hari-hari pramenstruasi",
+      "aliases": [
+        "PMS untuk mitra",
+        "mendukungnya sebelum menstruasi",
+        "dukungan pramenstruasi",
+        "dukungan fase luteal"
+      ],
+      "glance": "Pada hari-hari sebelum menstruasi, dia mungkin merasa lebih lelah, lemah lembut, atau lesu – hadapilah dengan sabar, bukan bercanda.",
+      "overview": "Sekitar seminggu sebelum menstruasi, banyak orang mengalami gejala pramenstruasi: perubahan suasana hati, mudah tersinggung\natau perasaan lesu, kelelahan, nyeri payudara, kembung, sakit kepala, atau sulit tidur. Ini sangat umum\ndan ini nyata - didorong oleh perubahan hormon alami pada fase luteal, bukan karena \"reaksi berlebihan\" -nya.\n\nBagi sebagian kecil orang, suasana hati yang buruk ini sangat parah (suatu kondisi yang disebut PMDD) dan patut menjadi kenyataan\ndukungan dan perawatan medis. Apa pun yang terjadi, tugas Anda bukanlah mendiagnosis atau menyembuhkannya, melainkan menjaga kestabilan dan kesehatannya\nbaik hati.\n\nSatu-satunya hal paling merusak yang bisa dilakukan pasangan di sini adalah mempersenjatainya: \"kamu hanya sedang PMS\", memutar mata,\natau menganggap perasaannya tidak valid karena kencan tersebut. Itu mengabaikannya dan menambah rasa sakit hati\nminggu. Perasaannya tetap diperhitungkan, bahkan ketika hormon menjadi bagian dari gambarannya.",
+      "deep": "Apa yang sebenarnya membantu saat ini:\n\n- **Meringankan bebannya.** Lakukan tugas rumah, memasak, atau daftar tugas mental tanpa diminta.\n- **Kenyamanan, bukan koreksi.** Tawarkan kehangatan, istirahat, sebotol air panas, makanan favoritnya — dan biarkan\n  dia merasakan apa yang dia rasakan.\n- **Dengarkan dulu.** Jika dia kesal, \"kedengarannya sangat sulit\" mengalahkan \"tenang\" setiap saat.\n- **Jangan mencatat skor.** Hari yang berat bukanlah hutang yang harus dia bayar padamu nanti.\n- **Tanyakan apa yang dia butuhkan** — ada yang menginginkan kedekatan, ada yang menginginkan ruang. Keduanya baik-baik saja; hormati jawabannya.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Memahami siklusnya",
+      "aliases": [
+        "panduan mitra untuk siklus tersebut",
+        "siklus untuk mitra",
+        "bagaimana siklusnya bekerja",
+        "mendukung siklusnya"
+      ],
+      "glance": "Tubuhnya bergerak melalui siklus bulanan dengan empat fase — mengetahui dasar-dasarnya membantu Anda mendukungnya tanpa menebak-nebak.",
+      "overview": "Siklus menstruasi kira-kira merupakan ritme bulanan, rata-rata sekitar 28 hari tetapi seringkali berkisar antara 21 hari\nhingga 35, dan normal baginya adalah apa pun yang biasa bagi *dia*. Ini berjalan dalam empat fase: **menstruasi**\nfase (menstruasinya), fase **folikel**, **ovulasi** di sekitar pertengahan, dan **luteal**\nfase sebelum periode berikutnya.\n\nEnergi, suasana hati, tidur, dan hasrat dapat berubah dalam fase-fase ini karena hormon naik dan turun – begitulah\nbiologi, bukan cacat karakter dan bukan sesuatu yang bisa menggodanya. Beberapa orang merasakan penurunan yang nyata\nhari sebelum haid; yang lain hampir tidak menyadarinya. Tidak ada satu pun cara yang \"benar\" untuk merasakan.\n\nAnda tidak perlu menjadi seorang ahli. Hal yang paling membantu adalah sederhana: mengetahui secara kasar di mana dia berada dalam siklusnya\n(aplikasi ini dapat menunjukkannya kepada Anda, dengan izinnya), memperkirakan bahwa hari-hari tertentu lebih sulit daripada hari-hari lainnya, dan bertanya\npadanya apa yang *dia* anggap berguna daripada berasumsi.",
+      "deep": "Beberapa hal yang perlu diketahui, agar mitos tidak mengisi kesenjangan:\n\n- **\"Sedang haid\" bukan merupakan penghinaan atau penjelasan atas ketidaksetujuannya.** Menggunakan siklusnya untuk\n  mengabaikan perasaannya (\"kamu hanya hormonal\") adalah tindakan yang tidak sopan, dan biasanya hal itu salah. Alasannya\n  masih menjadi alasannya.\n- **Siklus ini mempengaruhi lebih dari sekedar menstruasi.** Kram, sakit kepala, payudara nyeri, energi rendah, atau lebih rendah\n  suasana hati semua bisa menjadi bagian darinya. Bantuan praktis mengalahkan nasihat.\n- **Pelacakan adalah miliknya.** Jika dia berbagi siklusnya dengan Anda, perlakukan itu sebagai jendela untuk mengetahui bagaimana keadaannya\n  perasaan - ajakan untuk bersikap baik, bukan alat untuk memantau atau mengendalikannya.\n- **Jika ragu, tanyakan.** \"Bagaimana perasaanmu hari ini? Ada yang bisa saya lakukan?\" bernilai lebih dari grafik mana pun.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Kekerasan terhadap anak & menjaga keselamatan anak-anak",
+      "aliases": [
+        "kekerasan terhadap anak",
+        "kekerasan terhadap anak",
+        "keselamatan anak",
+        "melindungi anak",
+        "khawatir tentang seorang anak",
+        "mengabaikan"
+      ],
+      "glance": "Jika Anda khawatir ada anak yang mungkin mengalami kekerasan atau penelantaran, adalah hal yang tepat untuk mencari nasihat — Anda tidak perlu yakin terlebih dahulu.",
+      "overview": "Kekerasan terhadap anak — atau penganiayaan terhadap anak — adalah tindakan yang merugikan siapa pun yang berusia di bawah 18 tahun. Hal ini mencakup kekerasan fisik, seksual, dan emosional, serta pengabaian (tidak memenuhi kebutuhan dasar anak). Sayangnya, hal ini sering terjadi, dapat menyebabkan dampak seumur hidup, dan bukan merupakan kesalahan anak.\n\nMungkin Anda merasa khawatir tentang seorang anak dalam kehidupan Anda, atau tentang seorang anak yang Anda perhatikan. Anda tidak perlu yakin atau memiliki bukti untuk menindaklanjuti kekhawatiran tersebut — mempercayai insting Anda dan meminta saran adalah hal yang tepat untuk dilakukan, dan hal itu dapat melindungi seorang anak.\n\nDan jika Anda sendiri pernah mengalami kekerasan saat masih anak-anak, ketahuilah bahwa penderitaan tersebut bukanlah kesalahan Anda, dan bahwa dukungan juga tersedia untuk Anda, di usia berapa pun.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika Anda khawatir tentang seorang anak, Anda dapat menghubungi **layanan perlindungan anak / dinas sosial**, **saluran bantuan khusus perlindungan anak**, atau **dokter umum, petugas kesehatan masyarakat, atau sekolah anak tersebut** untuk mendapatkan saran — secara rahasia.\n- Anda tidak “bereaksi berlebihan” dengan bertanya. Lebih baik memeriksa daripada menunggu.",
+      "red_flags": "- Jika seorang anak berada dalam **bahaya langsung** atau terluka parah, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada."
+    },
+    "coercive-control": {
+      "title": "Kontrol koersif",
+      "aliases": [
+        "kontrol paksa",
+        "perilaku mengontrol",
+        "kekerasan emosional",
+        "kekerasan psikologis",
+        "isolasi",
+        "kekerasan finansial",
+        "gaslighting"
+      ],
+      "glance": "Kontrol koersif adalah pola perilaku mengendalikan — mengisolasi, memantau, mengancam — yang diakui sebagai bentuk kekerasan.",
+      "overview": "Kontrol koersif adalah bentuk kekerasan yang dilakukan melalui pengendalian, bukan melalui, atau selain, kekerasan fisik. Ini adalah pola — bukan sekadar pertengkaran tunggal — di mana seseorang secara bertahap membatasi kebebasan dan rasa identitas diri orang lain.\n\nHal ini bisa berupa terputusnya hubungan dengan teman dan keluarga, pemantauan atau pembatasan penggunaan ponsel, pergerakan, atau pengeluaran uang, diperintahkan apa yang harus dipakai atau bagaimana harus bersikap, atau hidup dengan kritik, ancaman, atau intimidasi yang terus-menerus. Karena mungkin tidak ada memar, hal ini bisa sulit untuk diidentifikasi, dan orang lain mungkin tidak menyadarinya — namun hal ini diakui sebagai kekerasan, dan dampaknya bisa sama berbahayanya dengan kekerasan fisik.\n\nJika Anda mengenali beberapa hal ini, itu bukan pertanda bahwa Anda terlalu sensitif atau bahwa Anda yang menyebabkannya sendiri. Perilaku mengontrol adalah pilihan yang dibuat oleh orang lain. Memahami hal tersebut apa adanya dapat menjadi langkah pertama menuju dukungan.",
+      "deep": "Kontrol koersif sering kali terbentuk secara perlahan, yang menjadi salah satu alasan mengapa sulit untuk dikenali dari dalam — kontrol-kontrol kecil menjadi hal yang biasa, dan keraguan diri pun semakin tumbuh. Hal ini secara bertahap merusak kesehatan mental. Membicarakan hal ini dengan seseorang yang terlatih untuk memahami pola-pola tersebut dapat membantu Anda melihat situasi dengan lebih jelas dan memikirkan langkah selanjutnya, tanpa tekanan.",
+      "when_to_see_doctor": "- Pusat anti-kekerasan atau saluran bantuan (di Italia, **1522**) dapat mendengarkan apa yang Anda alami, secara rahasia dan gratis, serta membantu Anda memahami pilihan-pilihan yang ada — Anda tidak harus berada dalam bahaya fisik untuk menghubungi mereka.\n- Seorang dokter umum atau konselor juga dapat mendukung Anda dan mengarahkan Anda ke layanan spesialis.",
+      "red_flags": "- Jika Anda berada dalam **bahaya langsung**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** adalah layanan gratis, tersedia 24 jam sehari, anonim, dan multibahasa — melalui telepon atau obrolan."
+    },
+    "economic-abuse": {
+      "title": "Kekerasan ekonomi",
+      "aliases": [
+        "kekerasan ekonomi",
+        "kekerasan finansial",
+        "pengelolaan keuangan",
+        "mengelola keuangan",
+        "utang atas nama saya"
+      ],
+      "glance": "Kekerasan ekonomi adalah tindakan mengendalikan akses seseorang terhadap uang, pekerjaan, atau sumber daya — suatu bentuk kekerasan yang diakui.",
+      "overview": "Kekerasan ekonomi terjadi ketika seseorang mengendalikan akses orang lain terhadap uang dan hal-hal yang dapat dibeli dengan uang. Ini merupakan bentuk perilaku mengendalikan, dan sering kali terjadi bersamaan dengan jenis kekerasan lainnya.\n\nHal ini bisa berupa mengontrol semua pengeluaran atau memaksa Anda mempertanggungjawabkan setiap sen, mengambil gaji atau tunjangan Anda, menumpuk utang atas nama Anda, menyembunyikan rekening bank atau dokumen dari Anda, atau mencegah Anda bekerja atau belajar. Karena hal ini dapat membuat seseorang tidak memiliki sarana untuk pergi atau mengelola kehidupan sehari-hari, inilah salah satu cara di mana kekerasan dapat terasa seperti perangkap.\n\nJika beberapa hal ini terasa familiar, itu bukanlah tanda bahwa Anda \"buruk dalam mengelola uang\" atau harus disalahkan. Mengontrol sumber daya orang lain adalah pilihan yang dibuat oleh orang tersebut — dan hal ini diakui sebagai kekerasan.",
+      "deep": null,
+      "when_to_see_doctor": "- Layanan anti-kekerasan juga dapat membantu dalam hal ini — tidak hanya terkait keamanan, tetapi juga langkah-langkah praktis dan finansial, secara rahasia dan gratis (di Italia, saluran bantuan **1522** dapat mengarahkan Anda ke layanan dukungan lokal).\n- Rencana keselamatan dapat mencakup upaya diam-diam untuk mengamankan akses ke sejumlah uang, dokumen penting, dan nomor-nomor penting.",
+      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — gratis, 24 jam sehari, anonim, dan multibahasa — dapat memberikan bantuan melalui telepon atau obrolan."
+    },
+    "getting-help": {
+      "title": "Tempat mendapatkan bantuan",
+      "aliases": [
+        "mendapatkan bantuan",
+        "siapa yang harus dihubungi",
+        "saluran bantuan",
+        "nomor-nomor penting",
+        "pusat anti-kekerasan",
+        "1522",
+        "nomor darurat"
+      ],
+      "glance": "Bantuan gratis dan rahasia tersedia — dalam keadaan darurat, hubungi nomor darurat setempat; di Italia, hubungi 1522 kapan saja.",
+      "overview": "Jika Anda mengalami kekerasan, Anda tidak perlu menghadapinya sendirian, dan meminta bantuan tidak berarti Anda terikat pada apa pun. Ada orang-orang yang tugasnya sepenuhnya adalah mendengarkan dan membantu, secara rahasia dan gratis.\n\nBeberapa jenis bantuan tersedia secara bersamaan:\n\n- **Layanan darurat** — jika berada dalam bahaya mendesak, hubungi nomor darurat setempat (di bawah ini).\n- **Layanan bantuan nasional** — di Italia, **1522**, layanan bantuan gratis untuk kasus kekerasan dan penguntitan: buka 24 jam sehari, anonim, tersedia dalam beberapa bahasa, melalui telepon atau obrolan daring.\n- **Pusat anti-kekerasan** (di Italia, *centri antiviolenza*) — layanan lokal yang menawarkan dukungan gratis dan rahasia, perencanaan keamanan, serta bantuan hukum dan psikologis.\n- **Layanan kesehatan** — dokter umum, atau unit gawat darurat rumah sakit, di mana stafnya semakin terlatih untuk mengenali kekerasan dan menghubungkan Anda dengan layanan dukungan.\n- **Orang yang Anda percayai** — seorang teman atau anggota keluarga yang membuat Anda merasa aman.\n\nAnda bisa memulai dengan topik mana pun yang terasa paling memungkinkan, dan Anda tidak perlu memutuskan apa pun terlebih dahulu.",
+      "deep": null,
+      "when_to_see_doctor": "- Anda dapat berkonsultasi dengan **dokter umum atau rumah sakit** secara rahasia mengenai apa yang sedang Anda alami; mereka dapat menangani cedera apa pun dan menghubungkan Anda dengan layanan spesialis.\n- Jika lebih mudah menulis daripada berbicara, **layanan obrolan 1522** adalah alternatif lain yang bisa digunakan.",
+      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- **Italia:** **1522** (gratis, 24/7, anonim, multibahasa — telepon atau obrolan).\n- Nomor saluran bantuan berbeda-beda di setiap negara. Aplikasi ini dapat menampilkan nomor untuk negara Anda, dan **findahelpline.com** mencantumkan saluran bantuan anti-kekerasan di seluruh dunia (situs ini mendeteksi negara Anda dan memiliki tombol keluar cepat). Jika Anda berada di Uni Eropa, **112** dapat dihubungi di mana saja."
+    },
+    "recognising-abuse": {
+      "title": "Mengenali hubungan yang penuh kekerasan",
+      "aliases": [
+        "mengenali kekerasan",
+        "hubungan yang penuh kekerasan",
+        "kekerasan dalam rumah tangga",
+        "kekerasan dalam hubungan intim",
+        "tanda-tanda kekerasan",
+        "Apakah saya sedang mengalami kekerasan?"
+      ],
+      "glance": "Kekerasan dapat berupa kekerasan fisik, seksual, emosional, atau pengendalian — dan hal ini tidak pernah menjadi kesalahan orang yang mengalaminya.",
+      "overview": "Kekerasan dalam hubungan tidak hanya bersifat fisik. Kekerasan dapat terjadi dalam berbagai bentuk, yang sering kali terjadi secara bersamaan: kekerasan fisik, paksaan seksual, kekerasan emosional atau psikologis, serta perilaku mengontrol — misalnya, pasangan yang menentukan ke mana Anda pergi, dengan siapa Anda bertemu, atau apa yang boleh Anda lakukan. Semua hal tersebut dapat dikategorikan sebagai kekerasan, meskipun tidak ada luka fisik yang terlihat.\n\nHal ini lebih umum daripada yang disadari banyak orang. Di seluruh dunia, sekitar 1 dari 3 wanita mengalami kekerasan fisik atau seksual sepanjang hidupnya, paling sering dari pasangan; gambaran di Italia pun serupa. Jadi, jika hal ini menjadi bagian dari hidup Anda, Anda tidak sendirian, dan ini bukanlah sesuatu yang Anda sebabkan.\n\nMenyebutkannya bisa jadi sulit — kekerasan sering kali bercampur dengan momen-momen indah, permintaan maaf, atau janji untuk berubah, dan hal ini bisa berkembang secara perlahan sehingga terasa normal. Mempercayai insting Anda sendiri bahwa ada sesuatu yang salah adalah alasan yang sah untuk mencari bantuan. Anda tidak perlu merasa yakin sepenuhnya, atau menunggu sampai situasinya menjadi “cukup buruk,” untuk berbicara dengan seseorang.",
+      "deep": "Di balik berbagai bentuknya, kekerasan cenderung mengikuti pola di mana satu orang berusaha menguasai dan mengendalikan orang lain, dan hal ini dapat semakin memburuk seiring waktu. Hal ini berdampak sangat besar pada kesehatan — terkait dengan kecemasan, depresi, kesulitan tidur, dan dampak fisik jangka panjang. Semua itu tidak berarti Anda lemah atau bersalah; itu berarti apa yang Anda alami saat ini berbahaya, dan ada dukungan yang tersedia untuk membantu Anda memikirkannya dengan aman dan sesuai dengan kecepatan Anda sendiri.",
+      "when_to_see_doctor": "- Kamu bisa berbicara dengan seseorang secara rahasia kapan pun kamu siap — dokter umum atau perawat, pusat anti-kekerasan, atau saluran bantuan (di Italia, **1522**, gratis dan tersedia kapan saja). Anda tidak perlu bukti, rencana, atau keputusan terlebih dahulu; mereka ada di sana untuk mendengarkan dan membantu Anda memahami pilihan-pilihan yang ada.\n- Seorang tenaga kesehatan juga dapat menangani cedera apa pun dan secara diam-diam menghubungkan Anda dengan dukungan spesialis.",
+      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — saluran bantuan nasional gratis untuk kasus kekerasan dan penguntitan — tersedia 24 jam sehari, secara anonim, melalui telepon atau obrolan, dalam beberapa bahasa."
+    },
+    "safety-plan": {
+      "title": "Membuat rencana keselamatan",
+      "aliases": [
+        "rencana keselamatan",
+        "tetap aman",
+        "menjaga keamanan",
+        "perencanaan keselamatan",
+        "pergi dengan aman"
+      ],
+      "glance": "Rencana keselamatan adalah beberapa langkah praktis untuk membantu Anda tetap aman — dan layanan yang terlatih dapat membantu Anda menyusunnya.",
+      "overview": "Rencana keamanan hanyalah cara untuk memikirkan terlebih dahulu bagaimana menjaga diri Anda (dan anak-anak Anda, jika ada) agar lebih aman. Ini bukanlah keputusan untuk pergi atau tetap tinggal — melainkan tentang bersiap sedikit lebih baik, apa pun pilihan Anda.\n\nBagi sebagian orang, ada baiknya menyiapkan beberapa hal secara diam-diam: seseorang yang dipercaya dan mengetahui apa yang sedang terjadi, dokumen-dokumen penting serta nomor-nomor yang dapat dihubungi, tas kecil berisi barang-barang penting, pengetahuan tentang rute teraman untuk keluar dari rumah, atau kata atau isyarat yang memberi tahu seseorang bahwa Anda membutuhkan bantuan. Apa yang masuk akal sepenuhnya bergantung pada situasi Anda sendiri.\n\nAnda tidak perlu menghadapi ini sendirian, dan seringkali lebih aman jika tidak melakukannya. Layanan anti-kekerasan berpengalaman dalam menyusun rencana keselamatan bersama orang-orang, secara rahasia dan gratis — termasuk untuk masa-masa menjelang kepergian, yang bisa menjadi momen berisiko tinggi dan sebaiknya direncanakan dengan dukungan daripada dilakukan terburu-buru.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi pusat anti-kekerasan atau saluran bantuan (di Italia, **1522**) untuk menyusun rencana yang sesuai dengan situasi Anda — mereka menangani hal ini setiap hari, secara rahasia, dan dapat membantu dengan langkah-langkah praktis, hukum, dan emosional.\n- Jika Anda mencatat apa yang terjadi, simpanlah di tempat yang pribadi dan aman.",
+      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — gratis, 24 jam sehari, anonim, dan multibahasa — dapat memberikan bantuan melalui telepon atau obrolan, termasuk untuk perencanaan keamanan darurat."
+    },
+    "sexual-violence": {
+      "title": "Kekerasan seksual & persetujuan",
+      "aliases": [
+        "kekerasan seksual",
+        "kekerasan seksual",
+        "pemerkosaan",
+        "persetujuan",
+        "kekerasan seksual",
+        "tanpa persetujuan"
+      ],
+      "glance": "Kekerasan seksual adalah setiap tindakan seksual tanpa persetujuan — dan hal itu tidak pernah menjadi kesalahan orang yang mengalaminya.",
+      "overview": "Kekerasan seksual berarti setiap tindakan seksual, atau upaya untuk melakukannya, tanpa persetujuan atau melalui paksaan. Hal ini mencakup pemerkosaan dan setiap kontak seksual yang tidak diinginkan, dan dapat dilakukan oleh siapa saja — orang asing, kenalan, atau pasangan atau suami/istri.\n\nPersetujuan adalah inti dari semuanya. Persetujuan berarti menyetujui secara sukarela, dan hal ini tidak mungkin terjadi ketika seseorang sedang tidur, tidak sadarkan diri, mabuk atau di bawah pengaruh obat-obatan, masih anak-anak, atau dipaksa, diancam, atau merasa takut. Persetujuan dapat ditarik kembali kapan saja. Karena itu, kekerasan seksual **tidak pernah** menjadi kesalahan orang yang mengalaminya — bukan karena apa yang mereka kenakan, apakah mereka sedang minum alkohol, apakah mereka membeku alih-alih melawan, atau apakah mereka mengenal orang tersebut.\n\nJika hal ini pernah terjadi pada Anda, bantuan selalu tersedia, baik itu baru-baru ini maupun sudah lama berlalu. Anda dipercaya, dan apa yang akan Anda lakukan selanjutnya adalah pilihan Anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Anda dapat mengunjungi **layanan kesehatan, rumah sakit, atau layanan khusus kekerasan seksual**, yang dapat merawat Anda, mengobati luka apa pun, dan — jika Anda menginginkannya — membantu dalam melaporkan kejadian tersebut serta mengamankan bukti.\n- Beberapa langkah kesehatan bersifat **sensitif terhadap waktu** — misalnya kontrasepsi darurat, atau pencegahan infeksi — sehingga menghubungi pihak terkait **secepatnya** dapat membantu. Namun, tidak ada batas waktu untuk mendapatkan dukungan, dan Anda selalu memiliki pilihan apakah akan melapor atau tidak.",
+      "red_flags": "- Jika Anda berada dalam **bahaya langsung**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Setelah mengalami kekerasan baru-baru ini, **rumah sakit atau layanan khusus dapat memberikan bantuan segera**. Di Italia, **1522** (gratis, 24 jam sehari, 7 hari seminggu, anonim, multibahasa — melalui telepon atau obrolan) dapat mengarahkan Anda ke layanan perawatan yang tepat."
+    },
+    "stalking": {
+      "title": "Penguntitan",
+      "aliases": [
+        "stalking",
+        "dikejar-kejar",
+        "pelecehan",
+        "perhatian yang tidak diinginkan",
+        "seseorang yang mengikuti saya",
+        "cyberstalking"
+      ],
+      "glance": "Stalking adalah perhatian yang berulang dan tidak diinginkan yang membuat Anda merasa takut atau tidak aman — dan hal ini ditanggapi dengan serius.",
+      "overview": "Stalking adalah pola perilaku yang tidak diinginkan dan berulang dari seseorang yang membuat Anda merasa takut, diawasi, atau tidak aman. Hal ini dapat mencakup diikuti, seseorang tiba-tiba muncul di tempat Anda berada, panggilan atau pesan yang terus-menerus, hadiah yang tidak diinginkan, pemantauan terhadap Anda secara daring atau melalui ponsel Anda, atau ancaman. Tindakan ini sering dilakukan oleh mantan pasangan atau seseorang yang Anda kenal, meskipun tidak selalu demikian.\n\nRasa takut yang ditimbulkannya wajar, meskipun setiap tindakan tunggal mungkin tampak “kecil” bagi orang lain — yang penting adalah pola perilakunya, dan bagaimana hal itu membuat Anda merasa. Penguntitan diakui sebagai bentuk kekerasan, dan di banyak negara hal ini merupakan tindak pidana. Semua ini bukan kesalahan Anda, dan Anda tidak perlu hanya menerimanya begitu saja.\n\nJika aman untuk melakukannya, menyimpan catatan dapat membantu di kemudian hari: tanggal dan waktu, tangkapan layar pesan, serta apa yang terjadi. Anda tidak perlu memutuskan sendiri apakah hal tersebut \"termasuk\" — layanan dukungan dapat membantu Anda memahami situasinya dan mempertimbangkan pilihan yang ada.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi **polisi** untuk melaporkan tindakan menguntit, serta layanan bantuan anti-kekerasan atau anti-menguntit untuk mendapatkan dukungan dan saran (di Italia, **1522** diperuntukkan bagi kasus kekerasan **dan** tindakan menguntit).\n- Menyimpan bukti dan menyusun rencana keselamatan, dengan bantuan dari layanan spesialis, dapat memberikan dampak yang nyata.",
+      "red_flags": "- Jika Anda merasa berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — gratis, 24 jam sehari, anonim, dan multibahasa — dapat memberikan bantuan melalui telepon atau obrolan."
+    },
+    "supporting-someone": {
+      "title": "Memberikan dukungan kepada seseorang yang mengalami kekerasan",
+      "aliases": [
+        "mendukung seseorang",
+        "membantu seorang teman",
+        "cara membantu",
+        "seseorang yang mengalami kekerasan",
+        "cara memberikan dukungan"
+      ],
+      "glance": "Jika ada orang yang Anda kenal mungkin sedang mengalami kekerasan, mendengarkan tanpa menghakimi — dan mengetahui ke mana harus mengarahkan mereka — dapat membantu.",
+      "overview": "Menyadari bahwa seseorang yang Anda sayangi mungkin sedang mengalami kekerasan adalah hal yang sulit, dan keinginan untuk membantu adalah insting yang baik. Hal paling berguna yang dapat Anda tawarkan seringkali adalah hal yang paling sederhana.\n\nDengarkan, dan percayai mereka. Biarkan mereka berbicara sesuai kecepatan mereka sendiri, tanpa menghakimi, menyalahkan, atau menanyakan apa yang mereka lakukan sehingga hal ini terjadi. Katakan dengan jelas bahwa ini bukan kesalahan mereka dan bahwa mereka tidak pantas mengalaminya. Usahakan untuk tidak memberi tahu mereka apa yang harus dilakukan atau mendesak mereka untuk pergi: keputusan untuk pergi ada di tangan mereka, dan melakukannya terburu-buru justru dapat meningkatkan bahaya — yang lebih membantu adalah membuat mereka merasa didukung dan tidak sendirian.\n\nJaga kerahasiaan apa yang mereka ceritakan kepada Anda. Bantu mereka dengan lembut untuk mencari dukungan spesialis saat mereka siap — seperti saluran bantuan **1522** di Italia, atau pusat anti-kekerasan setempat — dan tawarkan bantuan praktis, seperti mencari nomor telepon bersama-sama atau menemani mereka saat menelepon. Dan jaga diri Anda juga; mendukung seseorang melalui masa sulit ini bisa sangat melelahkan.",
+      "deep": null,
+      "when_to_see_doctor": "- Dorong mereka (tanpa tekanan) untuk menghubungi saluran bantuan atau pusat anti-kekerasan, yang dapat memandu Anda berdua mengenai langkah selanjutnya. Anda dapat menawarkan bantuan untuk menelepon atau mencari nomor tersebut.\n- Jika mereka mengalami cedera, dokter umum atau rumah sakit dapat membantu — dan menghubungkan mereka dengan layanan dukungan.",
+      "red_flags": "- Jika mereka berada dalam **bahaya langsung**, hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** (gratis, 24 jam sehari, 7 hari seminggu, anonim, multibahasa — melalui telepon atau obrolan) juga dapat memberi saran tentang cara membantu seseorang."
     }
   },
   "categories": {
@@ -783,26 +1197,34 @@
       "summary": "Bagaimana tidur, stres, dan aktivitas sehari-hari memengaruhi siklus menstruasi Anda."
     },
     "tests-and-exams": {
-      "title": null,
-      "summary": null
+      "title": "Tes & pemeriksaan",
+      "summary": "Pemeriksaan payudara sendiri, skrining leher rahim, tes ovulasi, dan lainnya."
     },
     "pregnancy": {
-      "title": null,
-      "summary": null
+      "title": "Kehamilan",
+      "summary": "Tanda-tanda awal, menjaga kesehatan, tanda-tanda peringatan, dan keguguran — dijelaskan, disertai sumber."
+    },
+    "for-partners": {
+      "title": "Untuk mitra",
+      "summary": "Memahami siklusnya, mendukungnya dengan baik, dan membangun hubungan berdasarkan rasa hormat."
+    },
+    "safety-and-support": {
+      "title": "Keamanan & dukungan",
+      "summary": "Mengenali kekerasan, tetap aman, dan cara mencari bantuan — beserta nomor darurat."
     }
   },
   "paths": {
     "understand-your-cycle": {
-      "title": null,
-      "summary": null
+      "title": "Pahami siklus Anda dalam 5 langkah",
+      "summary": "Penjelasan yang tenang mengenai keseluruhan siklus dan keempat fase di dalamnya."
     },
     "getting-to-know-ovulation": {
-      "title": null,
-      "summary": null
+      "title": "Mengenal Ovulasi",
+      "summary": "Apa itu ovulasi, jendela subur, dan tanda-tanda yang ditunjukkan tubuh Anda."
     },
     "the-hormones-behind-your-cycle": {
-      "title": null,
-      "summary": null
+      "title": "Hormon-hormon di balik siklus Anda",
+      "summary": "Kenali empat hormon yang mengatur siklus ini — dan fungsi masing-masing."
     }
   }
 }

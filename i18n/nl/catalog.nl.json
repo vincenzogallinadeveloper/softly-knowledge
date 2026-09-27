@@ -928,6 +928,234 @@
       "deep": null,
       "when_to_see_doctor": "Ga naar de huisarts of een seksuele gezondheidskliniek als je het volgende opmerkt:\n\n- een verandering in je afscheiding — de kleur, geur of consistentie ervan, of als er veel meer is dan normaal\n- jeuk, pijn of irritatie rond de vagina of vulva\n- bloedingen tussen menstruaties door of na seks\n- pijn bij het plassen, of pijn laag tussen je buik en dijen (bekkenpijn)\n\nDit zijn veelvoorkomende klachten die vaak gemakkelijk te behandelen zijn — een verandering in de afscheiding kan simpelweg duiden op een lichte infectie\nzoals schimmelinfectie. Laat je onderzoeken om zekerheid te krijgen, in plaats van te gissen.",
       "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Kindermishandeling en de veiligheid van kinderen",
+      "aliases": [
+        "kindermishandeling",
+        "kindermishandeling",
+        "veiligheid van kinderen",
+        "een kind beschermen",
+        "bezorgd over een kind",
+        "negeren"
+      ],
+      "glance": "Als je bang bent dat een kind mishandeld of verwaarloosd wordt, is het goed om advies in te winnen — je hoeft het niet zeker te weten.",
+      "overview": "Kindermishandeling — of kindermisbruik — is het toebrengen van schade aan iedereen jonger dan 18 jaar. Het omvat fysiek, seksueel en emotioneel misbruik, en verwaarlozing (het niet voorzien in de basisbehoeften van een kind). Het komt helaas vaak voor, kan levenslange schade veroorzaken en is nooit de schuld van het kind.\n\nMisschien maak je je zorgen over een kind in je omgeving, of over een kind dat je is opgevallen. Je hoeft het niet zeker te weten, of bewijs te hebben, om iets met die zorg te doen — erop vertrouwen en advies vragen is precies wat je moet doen, en het kan een kind beschermen.\n\nEn als je zelf als kind misbruik hebt meegemaakt, weet dan dat het nooit jouw schuld was en dat er ook voor jou hulp beschikbaar is, op elke leeftijd.",
+      "deep": null,
+      "when_to_see_doctor": "- Als je je zorgen maakt over een kind, kun je contact opnemen met **kinderbescherming / maatschappelijke dienst**, een speciale **hulplijn voor kinderbescherming**, of een **huisarts, wijkverpleegkundige of de school van het kind** voor advies — in vertrouwen.\n- Je ‘reageert niet overdreven’ door het te vragen. Het is beter om het te controleren dan af te wachten.",
+      "red_flags": "- Als een kind in **direct gevaar** verkeert of ernstig gewond is, neem dan onmiddellijk contact op met de hulpdiensten: **112** in de EU (inclusief Italië), **999** in het Verenigd Koninkrijk, **911** in de VS en Canada."
+    },
+    "coercive-control": {
+      "title": "Dwang en controle",
+      "aliases": [
+        "dwang en controle",
+        "controlerend gedrag",
+        "emotionele mishandeling",
+        "psychisch misbruik",
+        "isolatie",
+        "financieel misbruik",
+        "gaslighting"
+      ],
+      "glance": "Dwang en controle is een patroon van controlerend gedrag — isoleren, in de gaten houden, bedreigen — dat wordt erkend als een vorm van misbruik.",
+      "overview": "Dwang is een vorm van misbruik die plaatsvindt door middel van controle in plaats van, of naast, fysiek geweld. Het is een patroon — geen eenmalige ruzie — waarbij de ene persoon geleidelijk de vrijheid en het zelfbeeld van de ander beperkt.\n\nDit kan eruitzien als het worden afgesneden van vrienden en familie, het in de gaten houden of beperken van je telefoon, bewegingen of uitgaven, het voorgeschreven krijgen van wat je moet dragen of hoe je je moet gedragen, of het leven met voortdurende kritiek, bedreigingen of intimidatie. Omdat er misschien geen blauwe plekken zijn, kan het moeilijk zijn om het te benoemen, en zien anderen het misschien niet — maar het wordt erkend als misbruik en het kan net zo schadelijk zijn als fysiek geweld.\n\nAls je je hierin herkent, betekent dat niet dat je te gevoelig bent of dat je het aan jezelf te wijten hebt. Beheersend gedrag is een keuze die de ander maakt. Het begrijpen voor wat het is, kan de eerste stap zijn naar hulp.",
+      "deep": "Dwang en controle bouwen zich vaak langzaam op, wat mede de reden is waarom het van binnenuit moeilijk te herkennen is — kleine beperkingen worden normaal en de twijfel aan jezelf neemt toe. Na verloop van tijd tast dit je geestelijke gezondheid aan. Door erover te praten met iemand die is opgeleid om deze patronen te herkennen, kun je de situatie helderder zien en zonder druk nadenken over wat je vervolgens wilt doen.",
+      "when_to_see_doctor": "- Een centrum tegen geweld of een hulplijn (in Italië: **1522**) kan vertrouwelijk en gratis met je praten over wat je meemaakt en je helpen inzicht te krijgen in je mogelijkheden — je hoeft niet in fysiek gevaar te verkeren om contact op te nemen.\n- Een huisarts of hulpverlener kan je ook ondersteunen en je doorverwijzen naar gespecialiseerde hulpverlening.",
+      "red_flags": "- Als je in **direct gevaar** verkeert, neem dan onmiddellijk contact op met de hulpdiensten: **112** in de EU (inclusief Italië), **999** in het Verenigd Koninkrijk, **911** in de VS en Canada.\n- In Italië is **1522** gratis, 24 uur per dag bereikbaar, anoniem en meertalig — via telefoon of chat."
+    },
+    "economic-abuse": {
+      "title": "Economisch misbruik",
+      "aliases": [
+        "economisch misbruik",
+        "financiële uitbuiting",
+        "geldbeheer",
+        "financiën beheren",
+        "schulden op mijn naam"
+      ],
+      "glance": "Economisch misbruik is het beperken van iemands toegang tot geld, werk of middelen — een erkende vorm van misbruik.",
+      "overview": "Economisch misbruik is wanneer iemand de toegang van een ander tot geld en de dingen die met geld gekocht kunnen worden, controleert. Het is een vorm van controlerend gedrag en gaat vaak gepaard met andere vormen van misbruik.\n\nDit kan er bijvoorbeeld zo uitzien: alle uitgaven controleren of je voor elke cent verantwoording laten afleggen, je loon of uitkering afpakken, schulden op je naam maken, bankrekeningen of documenten voor je achterhouden, of je ervan weerhouden te werken of te studeren. Omdat het ertoe kan leiden dat iemand niet meer over de middelen beschikt om weg te gaan of het dagelijks leven te regelen, is dit een van de manieren waarop misbruik als een valstrik kan aanvoelen.\n\nAls sommige van deze situaties je bekend voorkomen, betekent dat niet dat je ‘slecht met geld omgaat’ of dat het jouw schuld is. Het beheersen van andermans financiële middelen is een keuze die de ander maakt — en dit wordt erkend als misbruik.",
+      "deep": null,
+      "when_to_see_doctor": "- Ook hulpdiensten tegen geweld kunnen hierbij helpen — niet alleen op het gebied van veiligheid, maar ook met praktische en financiële stappen, in vertrouwen en gratis (in Italië kan de hulplijn **1522** je doorverwijzen naar lokale hulp).\n- Een veiligheidsplan kan inhouden dat je stilletjes zorgt dat je toegang hebt tot wat geld, belangrijke documenten en belangrijke telefoonnummers.",
+      "red_flags": "- Als je in **direct gevaar** verkeert, neem dan onmiddellijk contact op met de hulpdiensten: **112** in de EU (inclusief Italië), **999** in het Verenigd Koninkrijk, **911** in de VS en Canada.\n- In Italië biedt **1522** — gratis, 24 uur per dag, anoniem, meertalig — hulp via telefoon of chat."
+    },
+    "getting-help": {
+      "title": "Waar kun je hulp krijgen?",
+      "aliases": [
+        "hulp zoeken",
+        "met wie contact opnemen",
+        "hulplijnen",
+        "nuttige nummers",
+        "centrum tegen geweld",
+        "1522",
+        "noodnummers"
+      ],
+      "glance": "Er is gratis, vertrouwelijke hulp beschikbaar — bel in geval van nood het lokale alarmnummer; in Italië kun je op elk moment 1522 bellen.",
+      "overview": "Als je te maken hebt met misbruik, hoef je dit niet alleen te doorstaan, en hulp zoeken verplicht je nergens toe. Er zijn mensen die er hun werk van hebben gemaakt om naar je te luisteren en je te helpen, in vertrouwen en gratis.\n\nEr bestaan verschillende soorten hulp naast elkaar:\n\n- **Hulpdiensten** — bel bij direct gevaar het lokale alarmnummer (zie hieronder).\n- **Een nationale hulplijn** — in Italië, **1522**, de gratis hulplijn tegen geweld en stalking: 24 uur per dag bereikbaar, anoniem, beschikbaar in verschillende talen, via de telefoon of online chat.\n- **Anti-geweldcentra** (in Italië *centri antiviolenza*) — lokale diensten die gratis, vertrouwelijke ondersteuning, veiligheidsplanning en juridische en psychologische hulp bieden.\n- **Gezondheidszorg** — een huisarts of de spoedeisende hulp van een ziekenhuis, waar het personeel steeds vaker is opgeleid om misbruik te herkennen en je door te verwijzen naar hulp.\n- **Mensen die je vertrouwt** — een vriend(in) of familielid bij wie je je veilig voelt.\n\nJe kunt beginnen met wat je het meest haalbaar lijkt, en je hoeft nog niets te hebben besloten.",
+      "deep": null,
+      "when_to_see_doctor": "- Je kunt in vertrouwen met een **huisarts of een ziekenhuis** praten over wat er aan de hand is; zij kunnen eventuele verwondingen behandelen en je in contact brengen met gespecialiseerde hulpdiensten.\n- Als je het makkelijker vindt om te schrijven dan te praten, is de **1522-chat** een andere mogelijkheid.",
+      "red_flags": "- Als je in **direct gevaar** verkeert, neem dan onmiddellijk contact op met de hulpdiensten: **112** in de EU (inclusief Italië), **999** in het Verenigd Koninkrijk, **911** in de VS en Canada.\n- **Italië:** **1522** (gratis, 24/7, anoniem, meertalig — bellen of chatten).\n- De nummers van hulplijnen verschillen per land. De app kan de nummers voor jouw land weergeven, en **findahelpline.com** geeft een overzicht van hulplijnen tegen geweld wereldwijd (de site detecteert je land en heeft een knop om snel weg te gaan). Als je in de EU bent, werkt **112** overal."
+    },
+    "recognising-abuse": {
+      "title": "Een gewelddadige relatie herkennen",
+      "aliases": [
+        "misbruik herkennen",
+        "mishandelende relatie",
+        "huiselijk geweld",
+        "huiselijk geweld",
+        "tekenen van misbruik",
+        "Word ik misbruikt?"
+      ],
+      "glance": "Misbruik kan fysiek, seksueel, emotioneel of in de vorm van controle zijn — en het is nooit de schuld van degene die het meemaakt.",
+      "overview": "Misbruik in een relatie is niet alleen fysiek. Het kan verschillende vormen aannemen, vaak in combinatie: fysiek letsel, seksuele dwang, emotionele of psychologische schade en controlerend gedrag — een partner die bepaalt waar je heen gaat, wie je ziet of wat je mag doen. Al deze vormen kunnen misbruik zijn, zelfs als er geen zichtbare verwondingen zijn.\n\nHet komt vaker voor dan veel mensen beseffen. Wereldwijd krijgt ongeveer 1 op de 3 vrouwen in haar leven te maken met fysiek of seksueel geweld, meestal door een partner; in Italië is het beeld vergelijkbaar. Dus als dit deel uitmaakt van je leven, ben je niet alleen, en is het niet iets wat je zelf hebt veroorzaakt.\n\nHet is soms moeilijk om er een naam aan te geven — misbruik gaat vaak gepaard met leuke momenten, excuses of beloften om te veranderen, en het kan zich zo langzaam opbouwen dat het normaal aanvoelt. Vertrouwen op je eigen gevoel dat er iets mis is, is een geldige reden om hulp te zoeken. Je hoeft niet zeker te zijn, of te wachten tot het „erg genoeg“ is, om met iemand te praten.",
+      "deep": "Onder de verschillende vormen volgt misbruik vaak een patroon waarbij de ene persoon macht en controle over de andere nastreeft, en dit kan in de loop van de tijd escaleren. Dit eist een zware tol op de gezondheid — het gaat gepaard met angst, depressie, slaapstoornissen en langdurige lichamelijke gevolgen. Dit betekent niet dat je zwak bent of dat het jouw schuld is; het betekent dat wat je meemaakt schadelijk is, en dat er hulp beschikbaar is om je te ondersteunen bij het veilig en in je eigen tempo verwerken van deze situatie.",
+      "when_to_see_doctor": "- Je kunt in vertrouwen met iemand praten wanneer je er klaar voor bent — een huisarts of verpleegkundige, een centrum tegen geweld of een hulplijn (in Italië: **1522**, gratis en altijd bereikbaar). Je hoeft niet eerst bewijs, een plan of een besluit te hebben; zij zijn er om te luisteren en je te helpen je opties te begrijpen.\n- Een gezondheidsprofessional kan eventuele verwondingen behandelen en je op een rustige manier doorverwijzen naar gespecialiseerde hulp.",
+      "red_flags": "- Als je in **direct gevaar** verkeert, neem dan onmiddellijk contact op met de hulpdiensten: **112** in de EU (inclusief Italië), **999** in het Verenigd Koninkrijk, **911** in de VS en Canada.\n- In Italië is **1522** — de gratis nationale hulplijn tegen geweld en stalking — 24 uur per dag bereikbaar, anoniem, via telefoon of chat, in verschillende talen."
+    },
+    "safety-plan": {
+      "title": "Een veiligheidsplan opstellen",
+      "aliases": [
+        "veiligheidsplan",
+        "veilig blijven",
+        "veilig blijven",
+        "veiligheidsplanning",
+        "veilig vertrekken"
+      ],
+      "glance": "Een veiligheidsplan bestaat uit een aantal praktische stappen om je te helpen veiliger te blijven — en gespecialiseerde hulpverleners kunnen je helpen er een op te stellen.",
+      "overview": "Een veiligheidsplan is simpelweg van tevoren nadenken over hoe je jezelf (en eventuele kinderen) beter kunt beschermen. Het is geen beslissing om weg te gaan of te blijven — het gaat erom dat je iets beter voorbereid bent, wat je ook kiest.\n\nVoor sommige mensen helpt het om een paar dingen stilletjes geregeld te hebben: een vertrouwenspersoon die weet wat er aan de hand is, belangrijke documenten en telefoonnummers die je bij de hand hebt, een tasje met essentiële spullen, een idee van de veiligste vluchtroutes uit huis, of een woord of signaal waarmee je iemand laat weten dat je hulp nodig hebt. Wat zinvol is, hangt volledig af van je eigen situatie.\n\nJe hoeft dit niet alleen uit te zoeken, en vaak is het veiliger om dat ook niet te doen. Hulpdiensten tegen geweld hebben veel ervaring met het opstellen van veiligheidsplannen samen met mensen, vertrouwelijk en gratis — ook voor de periode rond het vertrek, wat een moment met een hoger risico kan zijn en dat het de moeite waard is om met ondersteuning te plannen in plaats van in allerijl.",
+      "deep": null,
+      "when_to_see_doctor": "- Neem contact op met een centrum tegen geweld of een hulplijn (in Italië: **1522**) om een plan op te stellen dat bij jouw situatie past — zij doen dit dagelijks, in vertrouwen, en kunnen je helpen met praktische, juridische en emotionele stappen.\n- Als je iets bijhoudt van wat er gebeurt, bewaar dat dan op een privé en veilige plek.",
+      "red_flags": "- Als je in **direct gevaar** verkeert, neem dan onmiddellijk contact op met de hulpdiensten: **112** in de EU (inclusief Italië), **999** in het Verenigd Koninkrijk, **911** in de VS en Canada.\n- In Italië biedt **1522** — gratis, 24 uur per dag bereikbaar, anoniem, meertalig — hulp via de telefoon of chat, ook bij dringende veiligheidsmaatregelen."
+    },
+    "sexual-violence": {
+      "title": "Seksueel geweld en toestemming",
+      "aliases": [
+        "seksueel geweld",
+        "seksueel geweld",
+        "verkrachting",
+        "toestemming",
+        "seksueel misbruik",
+        "zonder wederzijdse instemming"
+      ],
+      "glance": "Seksueel geweld is elke seksuele handeling zonder toestemming — en het is nooit de schuld van degene die het heeft meegemaakt.",
+      "overview": "Seksueel geweld betekent elke seksuele handeling, of poging daartoe, zonder toestemming of onder dwang. Het omvat verkrachting en elk ongewenst seksueel contact, en het kan door iedereen worden gepleegd — een vreemde, een kennis, of een partner of echtgenoot.\n\nToestemming staat centraal. Toestemming betekent vrijwillig instemmen, en dat is niet mogelijk wanneer iemand slaapt, bewusteloos is, dronken of onder invloed van drugs is, een kind is, of onder druk staat, wordt bedreigd of bang is. Toestemming kan op elk moment worden ingetrokken. Daarom is seksueel geweld **nooit** de schuld van de persoon aan wie het is overkomen — niet vanwege wat ze droegen, of ze hadden gedronken, of ze verstijfden in plaats van zich te verzetten, of ze de dader kenden.\n\nAls dit jou is overkomen, is er hulp beschikbaar, of het nu recent is gebeurd of al lang geleden. Er wordt je geloofd, en wat je hierna doet, is jouw keuze.",
+      "deep": null,
+      "when_to_see_doctor": "- Je kunt terecht bij een **gezondheidsdienst, een ziekenhuis of een gespecialiseerde hulpdienst voor slachtoffers van seksueel geweld**, waar men voor je kan zorgen, eventuele verwondingen kan behandelen en — als je dat wilt — je kan helpen bij het doen van aangifte en het bewaren van bewijsmateriaal.\n- Sommige gezondheidsmaatregelen zijn **tijdgevoelig** — bijvoorbeeld noodanticonceptie of het voorkomen van infecties — dus **snel** hulp zoeken kan helpen. Maar er is geen tijdslimiet voor het zoeken van hulp, en het is altijd jouw keuze of je aangifte wilt doen.",
+      "red_flags": "- Als je in **direct gevaar** verkeert, neem dan onmiddellijk contact op met de hulpdiensten: **112** in de EU (inclusief Italië), **999** in het Verenigd Koninkrijk, **911** in de VS en Canada.\n- Na een recent geval van geweld kan een **ziekenhuis of gespecialiseerde hulpdienst je met spoed helpen**. In Italië kan **1522** (gratis, 24/7, anoniem, meertalig — telefoon of chat) je naar de juiste hulp leiden."
+    },
+    "stalking": {
+      "title": "Stalking",
+      "aliases": [
+        "stalking",
+        "gestalkt worden",
+        "intimidatie",
+        "ongewenste aandacht",
+        "iemand die mij volgt",
+        "cyberstalking"
+      ],
+      "glance": "Stalking is herhaalde, ongewenste aandacht waardoor je je bang of onveilig voelt — en het wordt serieus genomen.",
+      "overview": "Stalking is een patroon van ongewenst, herhaaldelijk gedrag door iemand waardoor je je bang, in de gaten gehouden of onveilig voelt. Het kan gaan om achtervolgd worden, iemand die plotseling opduikt waar je bent, voortdurende telefoontjes of berichten, ongewenste cadeaus, het volgen van je online of via je telefoon, of bedreigingen. Het wordt vaak gedaan door een ex-partner of iemand die je kent, maar dat is niet altijd het geval.\n\nDe angst die dit veroorzaakt is terecht, ook al lijkt elke afzonderlijke handeling voor anderen misschien ‘klein’ — het gaat om het patroon en hoe je je erdoor voelt. Stalking wordt erkend als een vorm van misbruik en is in veel landen een misdrijf. Het is allemaal niet jouw schuld, en je hoeft er niet zomaar mee te leren leven.\n\nAls het veilig is om dat te doen, kan het bijhouden van een overzicht later helpen: datums en tijden, screenshots van berichten en wat er is gebeurd. Je hoeft niet zelf uit te zoeken of het ‘telt’ — hulpdiensten kunnen je helpen om er wijs uit te worden en na te denken over je opties.",
+      "deep": null,
+      "when_to_see_doctor": "- Neem contact op met de **politie** om stalking te melden, en met een hulplijn tegen geweld of stalking voor ondersteuning en advies (in Italië is **1522** het nummer voor geweld **en** stalking).\n- Het bewaren van bewijsmateriaal en het opstellen van een veiligheidsplan, met hulp van een gespecialiseerde dienst, kunnen beide een groot verschil maken.",
+      "red_flags": "- Als je je in **direct gevaar** bevindt, neem dan onmiddellijk contact op met de hulpdiensten: **112** in de EU (inclusief Italië), **999** in het Verenigd Koninkrijk, **911** in de VS en Canada.\n- In Italië biedt **1522** — gratis, 24 uur per dag, anoniem, meertalig — hulp via telefoon of chat."
+    },
+    "supporting-someone": {
+      "title": "Iemand ondersteunen die te maken heeft met geweld",
+      "aliases": [
+        "iemand ondersteunen",
+        "een vriendin helpen",
+        "hoe te helpen",
+        "iemand die te maken heeft met misbruik",
+        "hoe je ondersteuning kunt bieden"
+      ],
+      "glance": "Als iemand die je kent mogelijk te maken heeft met misbruik, helpt het om zonder oordeel te luisteren — en te weten waar je die persoon naartoe kunt verwijzen.",
+      "overview": "Het is moeilijk om te beseffen dat iemand van wie je houdt mogelijk te maken heeft met misbruik, en het is een goed instinct om te willen helpen. De meest nuttige dingen die je kunt bieden, zijn vaak de eenvoudigste.\n\nLuister naar hen en geloof hen. Laat hen in hun eigen tempo praten, zonder te oordelen, de schuld te geven of te vragen wat ze hebben gedaan om dit te veroorzaken. Zeg duidelijk dat het niet hun schuld is en dat ze dit niet verdienen. Probeer hen niet te vertellen wat ze moeten doen of hen aan te sporen om weg te gaan: de beslissing om weg te gaan is aan hen, en als ze dat overhaast doen, kan dat het gevaar juist vergroten — het helpt meer als ze zich gesteund voelen en niet alleen staan.\n\nHoud wat ze je vertellen vertrouwelijk. Help ze op een zachtaardige manier bij het vinden van gespecialiseerde hulp wanneer ze daar klaar voor zijn — een hulplijn zoals **1522** in Italië, of een lokaal centrum tegen geweld — en bied praktische hulp aan, zoals samen nummers opzoeken of erbij zijn wanneer ze bellen. En zorg ook goed voor jezelf; iemand hierin ondersteunen kan zwaar zijn.",
+      "deep": null,
+      "when_to_see_doctor": "- Moedig haar (zonder druk uit te oefenen) aan om contact op te nemen met een hulplijn of een centrum tegen geweld, waar jullie beiden advies kunnen krijgen over wat je vervolgens kunt doen. Je kunt aanbieden om haar te helpen met bellen of het nummer op te zoeken.\n- Als ze gewond zijn, kan een huisarts of ziekenhuis helpen — en hen in contact brengen met hulpdiensten.",
+      "red_flags": "- Als er **direct gevaar** dreigt, bel dan de hulpdiensten: **112** in de EU (inclusief Italië), **999** in het Verenigd Koninkrijk, **911** in de VS en Canada.\n- In Italië kun je via **1522** (gratis, 24/7, anoniem, meertalig — telefoon of chat) ook advies krijgen over hoe je iemand kunt helpen."
+    },
+    "consent-and-respect": {
+      "title": "Toestemming en respect",
+      "aliases": [
+        "toestemming",
+        "respecteer haar grenzen",
+        "enthousiaste instemming",
+        "lichamelijke autonomie"
+      ],
+      "glance": "Toestemming is een duidelijk, vrij, enthousiast ja – elke keer weer, en kan op elk moment worden ingetrokken.",
+      "overview": "Respect begint met haar recht om over haar eigen lichaam te beslissen – altijd. Toestemming voor intimiteit betekent a\nvrijelijk gegeven, geïnformeerd, enthousiast **ja**. Stilte is geen toestemming. Een onwillige ‘boete’ is geen toestemming.\nIemand die slaapt, erg dronken is of onder druk staat, kan niet echt instemmen. En een ja op één ding, of verder\nop een dag is niet een ja tegen alles of tegen de volgende keer.\n\nToestemming kan op elk moment worden ingetrokken, en 'stop' of 'vanavond niet' is een volledig antwoord dat nee behoeft\nrechtvaardiging. Onder druk zetten, schuldgevoelens oproepen, mokken tot ze toegeeft, of seks als iets behandelen\nwaar je recht op hebt, het is niet oké - een relatie is geen schuld.",
+      "deep": "Hoe respect er in de praktijk uitziet:\n\n- **Vraag het en check in.** \"Is dit oké?\" en aandacht besteden aan hoe ze reageert – woorden en lichaam.\n- **Neem gracieus \"nee\" op.** Geen pruilen, druk of bestraffing. Haar antwoord is het einde.\n- **Enthousiasme is belangrijk.** Als ze onzeker, aarzelend lijkt of er gewoon in meegaat, stop dan en vraag het.\n- **Haar lichaam, haar roep** — over intimiteit, anticonceptie, zwangerschap, haar gezondheid, haar uiterlijk, haar\n  keuzes. Je krijgt een stem in je gedeelde leven, nooit een veto over haar lichaam.\n- **Respect is dagelijks.** Hoe je met haar praat, over haar en hoe je met haar grenzen omgaat in kleine dingen, is dat wel\n  de basis waar al het andere op rust.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Luisteren en emotionele steun",
+      "aliases": [
+        "hoe te luisteren",
+        "emotionele steun voor partners",
+        "communicatie",
+        "er voor haar zijn"
+      ],
+      "glance": "Meestal moet ze gehoord worden, en niet gefixt. Luister eerst en vraag voordat je advies geeft.",
+      "overview": "Als iemand van wie we houden het moeilijk heeft, is het instinct om erin te springen en het op te lossen. Maar wat vaak het meeste helpt\nvoelt zich oprecht gehoord: dat haar gevoelens kloppen en dat ze er niet alleen mee is. Ook repareren\nfast kan landen als \"je gevoelens zijn een probleem dat je moet afsluiten\".\n\nGoed luisteren is een vaardigheid die iedereen kan leren. Het is vooral aandacht: de telefoon neerleggen, met je gezicht naar haar toe,\nen haar laten uitpraten. Je hoeft het niet met elk punt eens te zijn om haar het gevoel te geven dat ze gerespecteerd wordt.",
+      "deep": "Praktische manieren om te verschijnen:\n\n- **Luister om te begrijpen, niet om te antwoorden.** Laat haar praten zonder uw verdediging te onderbreken of te plannen.\n- **Denk er nog eens over na.** \"Dat klinkt erg stressvol\" of \"Ik begrijp waarom dat pijn doet\" is beter dan \"maar niet\n  maak je er zorgen over\".\n- **Vraag voordat u advies geeft.** \"Wil je hulp bij het nadenken, of wil je gewoon dat ik luister?\"\n- **Vat het niet persoonlijk op** als een zware dag niet om jou draait. Standvastigheid is een geschenk.\n- **Eigen jouw rol.** Als je iets verkeerd hebt gedaan, herstelt een echte verontschuldiging – zonder 'maar' – het vertrouwen.\n- **Let op het grotere plaatje.** Als ze aanhoudend neerslachtig, angstig of niet zichzelf lijkt, zachtjes\n  moedig steun aan en bied aan om haar te helpen dit te bereiken. Je bent een teamgenoot, geen therapeut.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "respect-not-control": {
+      "title": "Respect, geen controle",
+      "aliases": [
+        "controlerend gedrag",
+        "dwangmatige controle",
+        "gezonde relatie",
+        "waarschuwingssignalen",
+        "waar u hulp kunt krijgen",
+        "misbruik"
+      ],
+      "glance": "Liefde is gebouwd op respect en vrijheid – controle, jaloezie en druk zijn geen liefde, en er bestaat hulp.",
+      "overview": "Een gezonde relatie steunt op respect, vertrouwen, gelijkheid en vrijheid: twee mensen die ieder hun respect behouden\neigen vriendschappen, keuzes en ruimte. Controle is het tegenovergestelde. Het verschuilt zich vaak achter woorden als liefde of\njaloezie – ‘Ik controleer je telefoon omdat ik erom geef’, ‘Ik wil niet dat je ze ziet omdat ik van je hou’ – maar\nhet effect ervan is dat haar wereld en haar vrijheid kleiner worden.\n\nControle begint zelden met geweld. Het begint meestal klein: kritiek, een overschreden grens, een\n‘grap’ die steekt – en groeit. Het is van belang om het vroeg te benoemen, omdat dwangcontrole zelf een vorm is van\nmisbruik en een waarschuwing voor erger. Dit gaat niet over schuld; het gaat over eerlijkheid en verandering.",
+      "deep": "**Als je een aantal hiervan in jezelf herkent, is dat bewustzijn een startpunt – geen levenslange gevangenisstraf.**\nMensen kunnen veranderen met echte inspanning en de juiste hulp. Contact opnemen met een speciaal programma voor mannen\ndie niet langer controlerend of gewelddadig willen zijn, is een teken van kracht, niet van zwakte. Praat met een\nprofessional, een arts of een gedragsveranderingsdienst voor mannen.\n\nAls **zij** degene is die gevaar loopt, of als u zich zorgen maakt om iemand, moedig haar dan aan en steun haar om te bereiken\nhelpen – op haar voorwaarden, nooit door het over te nemen.\n\n**Waar kunt u hulp krijgen**\n- In geval van nood, of als iemand in direct gevaar verkeert, belt u uw plaatselijke alarmnummer\n  (**112** in Italië en een groot deel van Europa; **911** in de VS).\n- **Italië — 1522**: de nationale hulplijn tegen geweld en stalking. Gratis, 24/7, anoniem en\n  meertalig, beheerd door het Departement voor Gelijke Kansen. Het begeleidt mensen ook naar lokaal\n  anti-geweldcentra (centri antiviolenza).\n- Anti-geweldcentra en programma's voor gedragsverandering van mannen (in Italië: \"centri per uomini autori di\n  violenza\") bieden vertrouwelijke steun aan verandering.",
+      "when_to_see_doctor": null,
+      "red_flags": "Waarschuwingssignalen van controlerend of beledigend gedrag – de moeite waard om serieus te nemen in uzelf of in een relatie:\n\n- **Monitoren of isoleren**: haar telefoon controleren, haar locatie volgen of haar afsluiten\n  vrienden en familie.\n- **Controle over keuzes**: geld, wat ze draagt, waar ze heen gaat, wie ze ziet.\n- **Jaloezie opgevat als liefde**, voortdurende beschuldigingen, of altijd willen weten waar ze is.\n- **Kwetsingen, verwijten, of haar bang maken**, schuldig, of \"op eierschalen lopen\".\n- **Druk of bedreigingen** over seks, uit elkaar gaan of zelfbeschadiging om naleving te verkrijgen.\n- **Elke fysieke kracht, intimidatie of angst.** Als dit aanwezig is, is er sprake van misbruik – neem contact op met de hulp\n  hierboven. Er is nooit een excuus en het is nooit haar schuld."
+    },
+    "supporting-her-period": {
+      "title": "Haar ondersteunen tijdens haar menstruatie",
+      "aliases": [
+        "helpen tijdens haar menstruatie",
+        "periodeondersteuning voor partners",
+        "periode zorg"
+      ],
+      "glance": "Menstruatie kan echte pijn en vermoeidheid met zich meebrengen; kleine, praktische zorg maakt een groot verschil.",
+      "overview": "Een menstruatie is niet zomaar een paar dagen bloeden; voor velen gaat het gepaard met krampen, rugpijn, hoofdpijn,\nvermoeidheid en weinig energie. Menstruatiepijn komt vaak voor en kan echt uitputtend zijn – dat is het niet\noverdrijving. Behandel het zoals je elke partner zou behandelen die zich niet lekker voelt: met praktische vriendelijkheid.\n\nNormaliseer het ook. Menstruatie is niet vies, gênant of taboe. Comfortabel zijn bij het kopen van maandverband of\ntampons, wat thuis bewaren, of haar zonder gedoe een warmwaterkruik overhandigen, vertelt haar dat ze veilig is\nondersteund.",
+      "deep": "Simpele dingen die helpen:\n\n- **Warmte en rust.** Een warmwaterkruik of warmtekussen op de onderbuik verlicht krampen; bieden een rustige\n  avond binnen.\n- **Neem dingen van haar bord.** Koken, opruimen, boodschappen doen, haar rijden – praktische hulp komt moeilijker binnen\n  dan woorden.\n- **Houd de voorraad binnen.** Weet wat ze gebruikt en houd een voorraad bij, zodat een zware dag nooit een crisis is.\n- **Pijnstillers en troostmaaltijd** als ze die wil; haar keuze.\n- **Oefen geen druk uit op seks of energie die ze niet heeft.** Nabijheid kan een knuffel op de bank zijn.",
+      "when_to_see_doctor": "Moedig haar aan om naar een dokter te gaan (en aan te bieden om met haar mee te gaan) als de menstruatiepijn **ernstig is, erger wordt,\nof haar stoppen met het dagelijkse leven**, als de menstruatie **erg hevig** is (elk uur door de bescherming heen weken,\ngrote stolsels), of als de pijn nieuw en ongewoon is, kunnen deze wijzen op aandoeningen zoals endometriose\nverdienen goede zorg.",
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "De premenstruele dagen",
+      "aliases": [
+        "PMS voor partners",
+        "haar ondersteunen vóór haar menstruatie",
+        "premenstruele ondersteuning",
+        "ondersteuning van de luteale fase"
+      ],
+      "glance": "In de dagen vóór haar menstruatie kan ze zich vermoeider, gevoeliger of neerslachtiger voelen; ga ermee om met geduld en zonder grappen.",
+      "overview": "In de week of zo vóór een menstruatie krijgen veel mensen premenstruele symptomen: stemmingswisselingen, prikkelbaarheid\nof zich neerslachtig voelen, vermoeidheid, pijnlijke borsten, een opgeblazen gevoel, hoofdpijn of slaapproblemen. Het is heel gebruikelijk\nen het is echt – aangedreven door de natuurlijke hormoonverschuiving van de luteale fase, niet door haar ‘overreactie’.\n\nVoor een kleiner aantal mensen is de sombere stemming ernstig (een aandoening die PMDD wordt genoemd) en verdient deze echt te zijn\nondersteuning en medische zorg. Hoe dan ook, het is niet jouw taak om haar te diagnosticeren of te repareren – het is om standvastig te zijn en haar te helpen\nsoort.\n\nHet meest schadelijke wat een partner hier kan doen, is hem bewapenen: \"Je bent alleen maar aan het PMSen\", oogrollen,\nof haar gevoelens als ongeldig behandelen vanwege de date. Dat ontslaat haar en doet pijn aan een harde\nweek. Haar gevoelens tellen nog steeds, zelfs als hormonen een rol spelen.",
+      "deep": "Wat echt helpt in deze dagen:\n\n- **Verlicht haar last.** Neem ongevraagd klusjes, koken of de mentale to-do-lijst op zich.\n- **Troost, geen correctie.** Bied warmte, rust, een warmwaterkruik, haar favoriete eten aan — en laat maar\n  haar voelt wat ze voelt.\n- **Luister eerst.** Als ze van streek is, is 'dat klinkt heel moeilijk' elke keer beter dan 'kalmeren'.\n- **Hou de score niet bij.** Een moeilijkere dag is geen schuld die ze je later schuldig is.\n- **Vraag wat ze nodig heeft** — sommigen willen nabijheid, anderen willen ruimte. Beide zijn oké; respecteer haar antwoord.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Haar cyclus begrijpen",
+      "aliases": [
+        "partnergids voor de cyclus",
+        "cyclus voor partners",
+        "hoe haar cyclus werkt",
+        "ter ondersteuning van haar cyclus"
+      ],
+      "glance": "Haar lichaam doorloopt een maandelijkse cyclus met vier fasen. Als je de basis kent, kun je haar ondersteunen zonder te raden.",
+      "overview": "De menstruatiecyclus is een grofweg maandelijks ritme, gemiddeld ongeveer 28 dagen, maar vaak ergens anders dan 21\ntot 35, en normaal voor haar is wat normaal is voor *haar*. Het verloopt in vier fasen: de **menstruatie**\nfase (haar menstruatie), de **folliculaire** fase, **ovulatie** rond het midden en de **luteale**\nfase vóór de volgende periode.\n\nEnergie, stemming, slaap en verlangen kunnen tijdens deze fasen verschuiven, omdat hormonen stijgen en dalen\nbiologie, geen karakterfout en niet iets om haar mee te plagen. Sommige mensen voelen een echte dip in de\ndagen vóór hun menstruatie; anderen merken het nauwelijks. Er is niet één ‘juiste’ manier om te voelen.\n\nJe hoeft geen expert te worden. Wat het meeste helpt is simpel: weet ongeveer waar ze zich in haar cyclus bevindt\n(deze app kan je, met haar toestemming, laten zien), verwacht dat sommige dagen moeilijker zijn dan andere, en vraag het\nhaar wat *zij* nuttig vindt in plaats van aan te nemen.",
+      "deep": "Een paar dingen die de moeite waard zijn om te weten, zodat mythen de leemte niet opvullen:\n\n- **'Over haar menstruatie' is geen belediging of verklaring voor het niet met haar eens zijn.** Haar cyclus gebruiken om\n  haar gevoelens negeren (\"je bent gewoon hormonaal\") is respectloos, en meestal verkeerd. Haar redenen\n  zijn nog steeds haar redenen.\n- **De cyclus heeft meer invloed dan menstruatie.** Krampen, hoofdpijn, gevoelige borsten, weinig energie of minder\n  stemming kan er allemaal deel van uitmaken. Praktische hulp gaat boven advies.\n- **Het bijhouden is van haar.** Als ze haar cyclus met je deelt, beschouw het dan als een venster op hoe ze zou kunnen zijn\n  gevoel – een uitnodiging om aardig te zijn, nooit een instrument om haar te controleren of te controleren.\n- **Bij twijfel, vraag het.** \"Hoe voel je je vandaag? Kan ik iets doen?\" is meer waard dan welke grafiek dan ook.",
+      "when_to_see_doctor": null,
+      "red_flags": null
     }
   },
   "categories": {
@@ -974,6 +1202,14 @@
     "pregnancy": {
       "title": "Zwangerschap",
       "summary": "Vroege symptomen, gezond blijven, waarschuwingssignalen en een miskraam — uitgelegd, met bronvermeldingen."
+    },
+    "safety-and-support": {
+      "title": "Veiligheid en hulp",
+      "summary": "Misbruik herkennen, veilig blijven en hulp zoeken — inclusief noodnummers."
+    },
+    "for-partners": {
+      "title": "Voor partners",
+      "summary": "Haar cyclus begrijpen, haar goed ondersteunen en een relatie opbouwen op basis van respect."
     }
   },
   "paths": {

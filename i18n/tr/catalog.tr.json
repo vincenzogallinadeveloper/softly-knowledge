@@ -928,6 +928,234 @@
       "deep": null,
       "when_to_see_doctor": "Aşağıdaki belirtileri fark ederseniz bir aile hekimine veya cinsel sağlık kliniğine başvurun:\n\n- akıntınızda bir değişiklik — rengi, kokusu veya kıvamında bir değişiklik ya da normalden çok daha fazla akıntı\n- vajina veya vulva çevresinde kaşıntı, ağrı veya tahriş\n- adet dönemleri arasında veya cinsel ilişki sonrası kanama\n- idrar yaparken ağrı veya karnınız ile uyluklarınızın arasındaki alt bölgede ağrı (pelvik ağrı)\n\nBunlar sık görülen ve genellikle kolayca tedavi edilebilen durumlardır — akıntıda bir değişiklik, sadece pamukçuk gibi hafif bir enfeksiyon\nanlamına gelebilir. Tahminde bulunmak yerine, muayene yaptırarak kesin bir sonuca ulaşabilirsiniz.",
       "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Rıza ve saygı",
+      "aliases": [
+        "rıza",
+        "onun sınırlarına saygı duy",
+        "coşkulu rıza",
+        "bedensel özerklik"
+      ],
+      "glance": "Rıza her zaman açık, özgür ve coşkulu bir evettir ve herhangi bir zamanda geri çekilebilir.",
+      "overview": "Saygı, her zaman kendi bedeni hakkında karar verme hakkıyla başlar. Yakınlaşmaya razı olmak şu anlama gelir:\nözgürce verilen, bilgilendirilmiş, hevesli **evet**. Sessizlik rıza değildir. Gönülsüz bir \"para cezası\", rıza anlamına gelmez.\nUyuyan, çok sarhoş olan veya baskı altında olan biri gerçekten rıza gösteremez. Ve bir şeye evet ya da\nBir gün her şeye ya da bir dahaki sefere evet demek değildir.\n\nRıza her an geri çekilebilir ve \"dur\" ya da \"bu gece olmaz\" hiçbir müdahale gerektirmeyen tam bir yanıttır.\ngerekçe. Baskı yapmak, suçluluk duygusu uyandırmak, teslim olana kadar somurtmak veya seksi bir şey olarak görmek\nborçlusun tamam değil - bir ilişki borç değildir.",
+      "deep": "Pratikte saygı nasıl görünür:\n\n- **Sorun ve kontrol edin.** \"Bu uygun mu?\" ve nasıl tepki verdiğine - kelimelere ve bedene - dikkat etmek.\n- **\"Hayır\"ı nezaketle karşılayın.** Somurtmak, baskı yapmak veya ceza vermek yok. Onun cevabı bu işin sonu.\n- **Coşku önemlidir.** Emin olamıyorsa, tereddüt ediyorsa ya da sadece buna katılıyor gibi görünüyorsa, durun ve sorun.\n- **Vücudu, çağrısı** — yakınlık, doğum kontrolü, hamilelik, sağlığı, görünümü ve davranışları hakkında\n  seçimler. Ortak yaşamınızda bir sese sahip olursunuz, asla onun bedeni üzerinde veto edemezsiniz.\n- **Saygı günlüktür.** Onunla, onun hakkında nasıl konuştuğunuz ve küçük şeylerde onun sınırlarına nasıl davrandığınız önemlidir.\n  diğer her şeyin dayandığı temel.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Dinleme ve duygusal destek",
+      "aliases": [
+        "nasıl dinlenir",
+        "ortaklara duygusal destek",
+        "iletişim",
+        "onun için orada olmak"
+      ],
+      "glance": "Çoğu zaman dinlenmeye değil, dinlenmeye ihtiyaç duyar; önce dinleyin ve tavsiyede bulunmadan önce sorun.",
+      "overview": "Sevdiğimiz biri mücadele ederken içgüdümüz devreye girip sorunu çözmektir. Ama çoğu zaman en çok yardımcı olan şey\ngerçekten duyulduğunu hissediyor: duygularının anlamlı olduğunu ve onlarla yalnız olmadığını. Sabitleme de\nhızlı bir şekilde \"duygularınız kapatılacak bir sorundur\" şeklinde inebilir.\n\nİyi dinleme herkesin öğrenebileceği bir beceridir. Çoğunlukla dikkat: telefonu bir kenara koymak, ona bakmak,\nve bitirmesine izin verdim. Ona saygı duyulduğunu hissettirmek için her noktaya katılmanıza gerek yok.",
+      "deep": "Gösterişin pratik yolları:\n\n- **Cevap vermek için değil, anlamak için dinleyin.** Sözünüzü kesmeden veya savunmanızı planlamadan konuşmasına izin verin.\n- **Bunu geri yansıtın.** \"Kulağa gerçekten stresli geliyor\" veya \"Bunun neden acıttığını anlıyorum\" ifadesi \"sadece yapma\"\n  bunun için endişelen.\"\n- **Tavsiye vermeden önce sorun.** \"Düşünme konusunda yardım mı istiyorsun, yoksa sadece dinlememi mi istiyorsun?\"\n- **Zor bir günün sizinle ilgili olmadığı durumlarda bunu kişisel algılamayın**. Kararlılık bir hediyedir.\n- **Kendi payınıza düşeni alın.** Eğer bir hatanız varsa, \"ama\" olmadan gerçek bir özür, güveni yeniden inşa eder.\n- **Büyük resme dikkat edin.** Sürekli olarak morali bozuk, kaygılı görünüyorsa ya da kendisi değil gibi görünüyorsa, nazikçe\n  Desteği teşvik edin ve ona ulaşmasına yardımcı olmayı teklif edin. Sen bir takım arkadaşısın, terapist değil.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "respect-not-control": {
+      "title": "Kontrol değil saygı gösterin",
+      "aliases": [
+        "davranışı kontrol etmek",
+        "zorlayıcı kontrol",
+        "sağlıklı ilişki",
+        "uyarı işaretleri",
+        "nereden yardım alınır",
+        "istismar"
+      ],
+      "glance": "Sevgi, saygı ve özgürlük üzerine kuruludur; kontrol, kıskançlık ve baskı sevgi değildir ve yardım vardır.",
+      "overview": "Sağlıklı bir ilişki saygıya, güvene, eşitliğe ve özgürlüğe dayanır: her biri birbirini koruyan iki kişi.\nkendi arkadaşlıkları, seçimleri ve alanı. Kontrol bunun tersidir. Genellikle aşk ya da gibi kelimelerin arkasına saklanır.\nkıskançlık - \"Telefonunu kontrol ediyorum çünkü umursuyorum\", \"Onları görmeni istemiyorum çünkü seni seviyorum\" - ama\netkisi onun dünyasını ve özgürlüğünü daraltmaktır.\n\nKontrol nadiren şiddet ile başlar. Genellikle küçük başlar; bir eleştiri, bir sınırın aşılması, bir\nacı veren ve büyüyen bir \"şaka\". Buna erken isim vermek önemlidir çünkü zorlayıcı kontrolün kendisi bir tür\nkötüye kullanım ve daha kötüsü için bir uyarı işareti. Bu suçluluk duygusuyla ilgili değil; dürüstlük ve değişimle ilgilidir.",
+      "deep": "**Eğer bunlardan bazılarını kendinizde fark ederseniz, bu farkındalık bir başlangıç noktasıdır, ömür boyu hapis cezası değil.**\nİnsanlar gerçek çaba ve doğru yardımla değişebilirler. Erkeklere özel bir programa ulaşmak\nKontrolcü olmayı veya şiddete başvurmayı bırakmak isteyen kişi zayıflığın değil, güçlülüğün işaretidir. Biriyle konuş\nbir profesyonel, bir doktor veya bir erkek davranış değişikliği servisi.\n\nEğer **o** tehlikedeyse veya birisi için endişeleniyorsanız, onu ulaşması için cesaretlendirin ve destekleyin.\nyardım - onun şartlarına göre, asla devralmadan.\n\n**Nereden yardım alınır**\n- Acil bir durumda veya birisi doğrudan tehlike altındaysa, yerel acil durum numaranızı arayın\n  (**İtalya'da ve Avrupa'nın büyük bölümünde **112**; ABD'de **911**).\n- **İtalya — 1522**: ulusal şiddet karşıtı ve ısrarlı takip yardım hattı. Ücretsiz, 7/24, anonim ve\n  Çok dilli, Fırsat Eşitliği Departmanı tarafından yönetiliyor. Aynı zamanda insanları yerele yönlendirir.\n  şiddet karşıtı merkezler (centri antiviolenza).\n- Şiddet karşıtı merkezler ve erkeklerin davranış değiştirme programları (İtalya'da \"centri per uomini autori di)\n  Violenza\") değişim için gizli destek sunuyor.",
+      "when_to_see_doctor": null,
+      "red_flags": "Kendinizde veya bir ilişkide ciddiye alınmaya değer, kontrol edici veya istismarcı davranışlara ilişkin uyarı işaretleri:\n\n- **İzleme veya tecrit etme**: telefonunu kontrol etmek, konumunu takip etmek veya iletişimini kesmek\n  arkadaşlar ve aile.\n- **Seçenekler üzerinde kontrol**: para, ne giydiği, nereye gittiği, kimi gördüğü.\n- **Aşk olarak çerçevelenen kıskançlık**, sürekli suçlamalar veya her zaman nerede olduğunu bilme ihtiyacı.\n- **Kötülemeler, suçlamalar ya da onu korkutmak**, suçluluk duymak ya da \"yumurta kabuğu üzerinde yürümek\".\n- Uyum sağlamak için seks, ayrılma veya kendine zarar verme konusunda **baskı veya tehditler**.\n- **Herhangi bir fiziksel güç, gözdağı veya korku.** Eğer bu mevcutsa, bu istismardır; yardıma ulaşın\n  yukarıda. Asla bir mazeret yoktur ve bu asla onun hatası değildir."
+    },
+    "supporting-her-period": {
+      "title": "Regl döneminde ona destek olmak",
+      "aliases": [
+        "regl döneminde yardım etmek",
+        "ortaklara dönem desteği",
+        "dönem bakımı"
+      ],
+      "glance": "Regl dönemleri gerçek acı ve yorgunluk getirebilir; küçük, pratik bakım büyük fark yaratır.",
+      "overview": "Adet dönemi sadece birkaç günlük kanama değildir; birçoğu için kramplar, sırt ağrısı, baş ağrıları,\nyorgunluk ve düşük enerji. Regl ağrısı yaygındır ve gerçekten yorucu olabilir.\nabartı. Hasta olan herhangi bir partnere nasıl davranıyorsanız, ona da öyle davranın: pratik bir nezaketle.\n\nOnu da normalleştirin. Regl dönemleri iğrenç, utanç verici veya tabu değildir. Ped satın alırken rahat olmak veya\nTampon takmak, birazını evde tutmak ya da sorun çıkarmadan ona sıcak su şişesi vermek ona güvende olduğunu ve\ndesteklendi.",
+      "deep": "Yardımcı olan basit şeyler:\n\n- **Sıcaklık ve dinlenme.** Karnın alt kısmına konulan sıcak su şişesi veya ısı yastığı krampları hafifletir; sessizlik teklif et\n  akşam.\n- **Tabağından her şeyi çıkarın.** Yemek yapın, etrafı toplayın, işleri halledin, onu gezdirin; pratik yardım daha da zorlaşıyor\n  kelimelerden daha fazla.\n- **Malzemeleri içeride tutun.** Ne kullandığını öğrenin ve stok bulundurun, böylece yoğun bir gün asla krize dönüşmez.\n- **Ağrı kesiciler ve rahatlatıcı yiyecekler** eğer isterse; onun seçimi.\n- **Sahip olmadığı seks ya da enerji için baskı yapmayın.** Yakınlık kanepede kucaklaşmak olabilir.",
+      "when_to_see_doctor": "Regl ağrısı şiddetliyse, kötüleşiyorsa onu bir doktora görünmesi konusunda cesaretlendirin (ve onunla gitmeyi teklif edin).\nveya regl dönemi **çok ağırsa** (saatlik koruma yoluyla ıslanma,\nbüyük pıhtılar) veya ağrı yeni ve olağandışı ise – bunlar endometriozis gibi durumlara işaret edebilir.\nuygun bakımı hak ediyor.",
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Adet öncesi günler",
+      "aliases": [
+        "Ortaklar için PMS",
+        "regl döneminden önce ona destek olmak",
+        "adet öncesi destek",
+        "luteal faz desteği"
+      ],
+      "glance": "Regl döneminden önceki günlerde kendini daha yorgun, hassas veya keyifsiz hissedebilir; bunu şakayla değil sabırla karşılayın.",
+      "overview": "Regl döneminden bir hafta kadar önce birçok kişi adet öncesi semptomlar yaşar: ruh hali değişiklikleri, sinirlilik\nveya moralinizin bozulması, yorgunluk, göğüs ağrısı, şişkinlik, baş ağrısı veya uyku sorunu. Bu çok yaygın\nve bu gerçektir - luteal fazdaki doğal hormon değişiminden kaynaklanmaktadır, onun \"aşırı tepki vermesinden\" değil.\n\nDaha az sayıda insan için kötü ruh hali şiddetlidir (PMDD adı verilen bir durum) ve gerçek anlamda tedaviyi hak eder.\ndestek ve tıbbi bakım. Her iki durumda da, işiniz onu teşhis etmek ya da düzeltmek değil; istikrarlı olmak ve\nnazik.\n\nBir partnerin burada yapabileceği en zarar verici şey onu silah haline getirmektir: \"sadece PMS yapıyorsunuz\", göz devirmeler,\nya da randevu nedeniyle duygularını geçersiz saymak. Bu onu işten çıkarır ve sert bir acıya neden olur\nhafta. Hormonlar resmin bir parçası olsa bile duyguları hala önemli.",
+      "deep": "Bu günlerde gerçekten yardımcı olan şey:\n\n- **Yükünü hafifletin.** Size sorulmadan ev işlerini, yemek pişirmeyi veya zihinsel yapılacaklar listesini üstlenin.\n- **Düzeltmek değil, rahatlatmak.** Ona sıcaklık, dinlenme, sıcak su şişesi ve en sevdiği yemeği sunun — ve izin verin\n  ne hissediyorsa onu hisseder.\n- **Önce dinleyin.** Eğer üzgünse, \"bu kulağa gerçekten zor geliyor\" demek her zaman \"sakin ol\"dan daha iyidir.\n- **Skor tutma.** Daha zor bir gün onun sana daha sonra borçlu olacağı bir borç değildir.\n- **Neye ihtiyacı olduğunu sorun** — Bazıları yakınlık ister, bazıları ise alan ister. İkisi de iyi; cevabına saygı duy.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Döngüsünü anlamak",
+      "aliases": [
+        "döngü için ortak kılavuzu",
+        "ortaklar için döngü",
+        "onun döngüsü nasıl çalışıyor",
+        "onun döngüsünü destekliyor"
+      ],
+      "glance": "Vücudu dört aşamadan oluşan aylık bir döngüden geçer; temelleri bilmek, onu tahmin etmeden desteklemenize yardımcı olur.",
+      "overview": "Adet döngüsü kabaca aylık bir ritimdir; ortalama olarak yaklaşık 28 gün sürer, ancak çoğu zaman 21 ila 21 gün arasında herhangi bir yerde bulunur.\n35'e kadar ve *onun* için normal olan her şey onun için normaldir. Dört aşamadan oluşur: **adet**\nevresi (adet dönemi), **foliküler** evresi, ortadaki **yumurtlama** ve **luteal**\nbir sonraki dönemden önceki aşama.\n\nEnerji, ruh hali, uyku ve arzu bu aşamalar arasında değişebilir çünkü hormonlar yükselip alçalır.\nbiyoloji, bir karakter kusuru ya da onunla dalga geçilecek bir şey değil. Bazı insanlar gerçek bir düşüş hissediyor\nregl döneminden önceki günler; diğerleri zar zor fark ediyor. Hissetmenin tek bir \"doğru\" yolu yoktur.\n\nUzman olmanıza gerek yok. En çok yardımcı olan şey basittir: Döngüsünün kabaca nerede olduğunu bilmek\n(bu uygulama onun izniyle size gösterebilir), bazı günlerin diğerlerinden daha zor olmasını bekleyin ve sorun\n*Onun* varsaymak yerine yararlı bulduğu şeyleri ona aktarın.",
+      "deep": "Efsanelerin boşluğu doldurmaması için bilmeye değer birkaç şey:\n\n- **\"Regl döneminde\" ifadesi bir hakaret ya da onunla aynı fikirde olmadığınızı gösteren bir açıklama değildir.** Bisikletini kullanarak\n  Onun duygularını göz ardı etmek (\"sadece hormonlusun\") saygısızlıktır ve genellikle yanlıştır. Onun nedenleri\n  hâlâ onun nedenleri.\n- **Döngü, adet dönemlerinden daha fazlasını etkiler.** Kramplar, baş ağrıları, hassas göğüsler, düşük enerji veya düşük enerji\n  ruh hali bunun bir parçası olabilir. Pratik yardım tavsiyelerden üstündür.\n- **Takip etme onun hakkıdır.** Eğer adet dönemini sizinle paylaşıyorsa, bunu nasıl olabileceğine dair bir pencere olarak değerlendirin\n  duygu - nazik olmaya bir davet, asla onu izleyecek veya kontrol edecek bir araç değil.\n- **Şüpheye düştüğünüzde sorun.** \"Bugün nasıl hissediyorsunuz? Yapabileceğim bir şey var mı?\" herhangi bir grafikten daha değerlidir.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Çocuk istismarı ve çocukların güvenliği",
+      "aliases": [
+        "çocuk istismarı",
+        "çocuk istismarı",
+        "çocuk güvenliği",
+        "çocuğu korumak",
+        "çocuğu için endişelenen",
+        "ihmal"
+      ],
+      "glance": "Bir çocuğun zarar gördüğünden veya ihmal edildiğinden endişeleniyorsanız, tavsiye almak doğru bir davranıştır — bundan emin olmanıza gerek yoktur.",
+      "overview": "Çocuk istismarı — veya çocuk kötü muamelesi — 18 yaşın altındaki herkese yönelik zarardır. Fiziksel, cinsel ve duygusal istismarı ve ihmali (çocuğun temel ihtiyaçlarının karşılanmaması) içerir. Ne yazık ki yaygın bir durumdur, ömür boyu sürecek zararlara yol açabilir ve asla çocuğun suçu değildir.\n\nHayatınızdaki bir çocuk ya da dikkatinizi çeken bir çocuk hakkında endişeleriniz olabilir. Bu endişeyle ilgili harekete geçmek için emin olmanıza ya da kanıtınız olmasına gerek yoktur — bu endişeye güvenip tavsiye istemek tam da yapılması gereken şeydir ve bu, bir çocuğu koruyabilir.\n\nVe eğer siz de çocukken istismara maruz kaldıysanız, bu zararın asla sizin suçunuz olmadığını ve her yaşta sizin için de destek mevcut olduğunu bilin.",
+      "deep": null,
+      "when_to_see_doctor": "- Bir çocuk hakkında endişeleriniz varsa, **çocuk koruma / sosyal hizmetler** birimlerine, özel bir **çocuk koruma yardım hattına** veya **aile hekimine, sağlık görevlisine ya da çocuğun okuluna** danışabilirsiniz — tüm bilgiler gizli tutulacaktır.\n- Sormakla “aşırı tepki” vermiyorsunuz. Beklemektense kontrol etmek daha iyidir.",
+      "red_flags": "- Bir çocuk **acil tehlike** altındaysa veya ciddi şekilde yaralanmışsa, derhal acil servisleri arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**."
+    },
+    "coercive-control": {
+      "title": "Zorlayıcı kontrol",
+      "aliases": [
+        "zorlayıcı kontrol",
+        "kontrolcü davranış",
+        "duygusal istismar",
+        "psikolojik istismar",
+        "izolasyon",
+        "finansal istismar",
+        "gaslighting"
+      ],
+      "glance": "Zorlayıcı kontrol, izole etme, izleme, tehdit etme gibi kontrol edici davranış kalıplarından oluşan ve tanınmış bir istismar biçimidir.",
+      "overview": "Zorlayıcı kontrol, fiziksel zarar yerine ya da buna ek olarak kontrol yoluyla uygulanan bir istismar türüdür. Bu, tek bir tartışma değil, bir kişinin diğerinin özgürlüğünü ve benlik algısını kademeli olarak kısıtladığı bir davranış kalıbıdır.\n\nBu durum, arkadaşlarınızdan ve ailenizden koparılmak, telefonunuzun, hareketlerinizin veya harcamalarınızın izlenmesi ya da kısıtlanması, ne giyeceğinizin veya nasıl davranmanızın size söylenmesi ya da sürekli eleştiri, tehdit veya sindirmeyle yaşamak gibi şekillerde ortaya çıkabilir. Morluklar olmayabileceği için bunu tanımlamak zor olabilir ve başkaları bunu fark etmeyebilir — ancak bu durum istismar olarak kabul edilir ve fiziksel şiddet kadar zararlı olabilir.\n\nBunlardan bazılarını kendinizde fark ediyorsanız, bu sizin aşırı duyarlı olduğunuzun ya da bunu kendinizin kışkırttığınızın bir işareti değildir. Kontrolcü davranış, karşı tarafın yaptığı bir seçimdir. Bunu olduğu gibi anlamak, destek almanın ilk adımı olabilir.",
+      "deep": "Zorlayıcı kontrol genellikle yavaş yavaş gelişir; bu da içeriden fark edilmesini zorlaştıran faktörlerden biridir — küçük kontrol biçimleri normal hale gelir ve kendinden şüphe duyma artar. Bu durum zamanla ruh sağlığını yıpratır. Bu kalıpları anlamak için eğitim almış biriyle konuyu konuşmak, durumu daha net görmenize ve baskı hissetmeden bundan sonra ne yapmak istediğinizi düşünmenize yardımcı olabilir.",
+      "when_to_see_doctor": "- Bir şiddet karşıtı merkez veya yardım hattı (İtalya'da **1522**), yaşadıklarınızı gizlilik içinde ve ücretsiz olarak dinleyebilir ve seçeneklerinizi anlamanıza yardımcı olabilir — yardım istemek için fiziksel tehlike altında olmanız gerekmez.\n- Bir aile hekimi veya danışman da size destek olabilir ve sizi uzman hizmetlere yönlendirebilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da **1522** numaralı hat ücretsizdir, günün 24 saati hizmet verir, anonimdir ve çok dilli destek sunar — telefon veya sohbet yoluyla."
+    },
+    "economic-abuse": {
+      "title": "Ekonomik istismar",
+      "aliases": [
+        "ekonomik istismar",
+        "finansal istismar",
+        "para yönetimi",
+        "mali durumun kontrolü",
+        "adımı taşıyan borç"
+      ],
+      "glance": "Ekonomik istismar, bir kişinin paraya, işe veya kaynaklara erişimini kontrol etmektir — bu, tanınmış bir istismar türüdür.",
+      "overview": "Ekonomik istismar, bir kişinin başka bir kişinin paraya ve parayla satın alınabilecek şeylere erişimini kontrol etmesidir. Bu, kontrolcü davranışın bir biçimidir ve genellikle diğer istismar türleriyle birlikte görülür.\n\nBu, tüm harcamaları kontrol etmek veya her kuruşun hesabını sormak, maaşınızı veya sosyal yardımlarınızı almak, sizin adınıza borç biriktirmek, banka hesaplarını veya belgeleri sizden saklamak ya da çalışmanızı veya okumanızı engellemek şeklinde olabilir. Bu durum, bir kişinin ayrılma imkânını veya günlük hayatını idare etme imkânını elinden alabileceğinden, istismarın bir tuzak gibi hissedilmesine neden olan yollardan biridir.\n\nBunlardan bazıları size tanıdık geliyorsa, bu “parayı iyi idare edemediğiniz” veya suçlu olduğunuz anlamına gelmez. Başka bir kişinin kaynaklarını kontrol etmek, o kişinin kendi yaptığı bir seçimdir — ve bu, istismar olarak kabul edilir.",
+      "deep": null,
+      "when_to_see_doctor": "- Şiddetle mücadele hizmetleri de bu konuda yardımcı olabilir — sadece güvenlik değil, pratik ve maddi adımlar konusunda da, gizlilik içinde ve ücretsiz olarak (İtalya'da **1522** numaralı yardım hattı sizi yerel destek hizmetlerine yönlendirebilir).\n- Bir güvenlik planı, biraz para, önemli belgelere ve önemli numaralara sessizce erişim sağlamayı içerebilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da **1522** numaralı hat — ücretsiz, 24 saat hizmet veren, anonim ve çok dilli — telefon veya sohbet yoluyla yardım sunabilir."
+    },
+    "getting-help": {
+      "title": "Nereden yardım alabilirsiniz?",
+      "aliases": [
+        "yardım alma",
+        "kime başvurulmalı",
+        "yardım hatları",
+        "faydalı numaralar",
+        "şiddetle mücadele merkezi",
+        "1522",
+        "acil durum numaraları"
+      ],
+      "glance": "Ücretsiz ve gizli yardım mevcuttur — acil durumlarda yerel acil durum numarasını arayın; İtalya’da 1522 numarasını her zaman arayabilirsiniz.",
+      "overview": "Eğer istismara maruz kalıyorsanız, bununla tek başınıza yüzleşmek zorunda değilsiniz ve yardım istemek sizi hiçbir şeye mecbur kılmaz. Görevleri sadece sizi dinlemek ve yardım etmek olan, gizlilik içinde ve ücretsiz olarak hizmet veren insanlar var.\n\nBirkaç tür yardım birbiriyle iç içe geçmiştir:\n\n- **Acil servisler** — acil tehlike durumunda, bölgenizdeki acil durum numarasını (aşağıda) arayın.\n- **Ulusal bir yardım hattı** — İtalya'da, **1522** numaralı ücretsiz şiddet ve tacizle mücadele yardım hattı: 24 saat hizmet verir, anonimdir, çeşitli dillerde hizmet sunar; telefon veya çevrimiçi sohbet yoluyla ulaşılabilir.\n- **Şiddetle mücadele merkezleri** (İtalya'da *centri antiviolenza*) — ücretsiz, gizli destek, güvenlik planlaması ile hukuki ve psikolojik yardım sunan yerel hizmetler.\n- **Sağlık hizmetleri** — bir aile hekimi veya hastane acil servisi; buradaki personel, istismarı fark etme ve sizi destek hizmetlerine yönlendirme konusunda giderek daha fazla eğitim almaktadır.\n- **Güvendiğiniz kişiler** — kendinizi güvende hissettiğiniz bir arkadaş veya aile üyesi.\n\nEn uygun gördüğünüz konuyla başlayabilirsiniz; henüz bir karar vermiş olmanız gerekmez.",
+      "deep": null,
+      "when_to_see_doctor": "- Yaşadıklarınızı **aile hekiminize veya bir hastaneye** güvenle anlatabilirsiniz; onlar yaralarınızı tedavi edebilir ve sizi uzman hizmetlere yönlendirebilir.\n- Konuşmaktan ziyade yazmak daha kolaysa, **1522 sohbet** de başka bir seçenek olabilir.",
+      "red_flags": "- Eğer **acil tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- **İtalya:** **1522** (ücretsiz, 7/24, anonim, çok dilli — telefon veya sohbet).\n- Yardım hattı numaraları ülkeden ülkeye farklılık gösterir. Uygulama, bulunduğunuz ülkeye ait numaraları gösterebilir; **findahelpline.com** ise dünya çapındaki şiddetle mücadele yardım hatlarını listeler (bulunduğunuz ülkeyi algılar ve hızlı çıkış düğmesi içerir). AB'deyseniz, **112** numarası her yerde geçerlidir."
+    },
+    "recognising-abuse": {
+      "title": "İstismar içeren bir ilişkiyi fark etmek",
+      "aliases": [
+        "istismarı fark etme",
+        "istismar içeren ilişki",
+        "aile içi istismar",
+        "eş şiddeti",
+        "istismarın belirtileri",
+        "istismara uğruyor muyum"
+      ],
+      "glance": "İstismar fiziksel, cinsel, duygusal veya kontrolcü olabilir — ve bunu yaşayan kişinin suçu asla değildir.",
+      "overview": "İlişkide yaşanan istismar sadece fiziksel değildir. Çoğu zaman bir arada görülen çeşitli biçimler alabilir: fiziksel zarar, cinsel zorlama, duygusal veya psikolojik zarar ve kontrolcü davranışlar — partnerinizin nereye gideceğinize, kiminle görüşeceğinize veya ne yapabileceğinize karar vermesi gibi. Görünür bir yaralanma olmasa bile bunların her biri istismar sayılabilir.\n\nBu durum, çoğu kişinin farkında olduğundan daha yaygındır. Dünya genelinde yaklaşık her 3 kadından 1’i yaşamı boyunca fiziksel veya cinsel şiddete maruz kalmaktadır; bu şiddetin kaynağı çoğunlukla partneridir; İtalya’daki durum da benzerdir. Dolayısıyla, eğer bu durum hayatınızın bir parçasıysa, yalnız değilsiniz ve bu, sizin neden olduğunuz bir şey değildir.\n\nBuna isim vermek zor olabilir — istismar genellikle güzel anlarla, özürlerle veya değişme sözleriyle iç içe geçer ve o kadar yavaş bir şekilde gelişir ki normalmiş gibi hissedilebilir. Bir şeylerin yolunda gitmediğine dair kendi iç sesinize güvenmek, yardım istemek için geçerli bir nedendir. Biriyle konuşmak için kesin olarak emin olmanıza veya durumun “yeterince kötü” hale gelmesini beklemenize gerek yoktur.",
+      "deep": "Farklı biçimlerinin altında yatan istismar, genellikle bir kişinin bir başkası üzerinde güç ve kontrol elde etme eğiliminden kaynaklanır ve zamanla şiddetlenebilir. Bu durum sağlığı ciddi şekilde etkiler — anksiyete, depresyon, uyku sorunları ve uzun vadeli fiziksel etkilerle bağlantılıdır. Bunların hiçbiri sizin zayıf olduğunuzu veya suçlu olduğunuzu göstermez; sadece yaşadığınız durumun zararlı olduğunu ve bunu güvenli bir şekilde ve kendi hızınızda düşünmenize yardımcı olacak desteklerin mevcut olduğunu gösterir.",
+      "when_to_see_doctor": "- Hazır olduğunuzda, bir aile hekimiyle, hemşireyle, şiddetle mücadele merkeziyle veya bir yardım hattıyla (İtalya'da **1522**, ücretsiz ve her zaman ulaşılabilir) gizlilik içinde konuşabilirsiniz. Önceden bir kanıt, plan veya karar gerekmez; bu kurumlar sizi dinlemek ve seçeneklerinizi anlamanıza yardımcı olmak için oradadır.\n- Bir sağlık uzmanı ayrıca yaralanmalarınızı tedavi edebilir ve sizi sessizce uzman destek hizmetleriyle irtibata geçirebilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, derhal acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da, **1522** numaralı ücretsiz ulusal şiddet ve taciz yardım hattı, günün 24 saati, isimsiz olarak, telefon veya sohbet yoluyla ve çeşitli dillerde hizmet vermektedir."
+    },
+    "safety-plan": {
+      "title": "Bir güvenlik planı hazırlama",
+      "aliases": [
+        "güvenlik planı",
+        "güvenli kalmak",
+        "güvenli kalmak",
+        "güvenlik planlaması",
+        "güvenli bir şekilde ayrılma"
+      ],
+      "glance": "Güvenlik planı, daha güvende kalmanıza yardımcı olacak birkaç pratik adımdan oluşur — ve bu konuda eğitimli hizmetler, bir plan hazırlamanıza yardımcı olabilir.",
+      "overview": "Güvenlik planı, kendinizi (ve varsa çocuklarınızı) nasıl daha güvende tutabileceğinizi önceden düşünmektir. Bu, ayrılma ya da kalma kararı değildir — neyi seçerseniz seçin, biraz daha hazırlıklı olmakla ilgilidir.\n\nBazı kişiler için, birkaç şeyi sessizce hazır bulundurmak yardımcı olabilir: neler olup bittiğini bilen güvenilir bir kişi, önemli belgeler ve bu belgelere ulaşabileceğiniz numaralar, temel ihtiyaçların bulunduğu küçük bir çanta, evden en güvenli çıkış yollarına dair bir fikir ya da yardıma ihtiyacınız olduğunu birine bildiren bir kelime veya işaret. Nelerin mantıklı olduğu tamamen kendi durumunuza bağlıdır.\n\nBunu tek başınıza halletmek zorunda değilsiniz ve genellikle bunu yapmamak daha güvenlidir. Şiddetle mücadele hizmetleri, kişilerle gizlilik içinde ve ücretsiz olarak güvenlik planları hazırlama konusunda deneyimlidir — bu, ayrılma sürecini de içerir; bu dönem daha yüksek riskli olabilir ve aceleyle değil, destek alarak planlamaya değer bir andır.",
+      "deep": null,
+      "when_to_see_doctor": "- Durumunuza uygun bir plan yapmak için bir şiddet karşıtı merkeze veya yardım hattına (İtalya'da **1522**) başvurun — bu kurumlar her gün bu tür yardımları gizlilik içinde sunuyor ve pratik, hukuki ve duygusal adımlar konusunda size yardımcı olabilir.\n- Yaşadıklarınızı kayda alıyorsanız, bu kayıtları özel ve güvenli bir yerde saklayın.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da **1522** numaralı hat — ücretsiz, 24 saat hizmet veren, anonim ve çok dilli — acil güvenlik planlaması da dahil olmak üzere telefon veya sohbet yoluyla yardım sunabilir."
+    },
+    "sexual-violence": {
+      "title": "Cinsel şiddet ve rıza",
+      "aliases": [
+        "cinsel şiddet",
+        "cinsel saldırı",
+        "tecavüz",
+        "onay",
+        "cinsel istismar",
+        "rıza dışı"
+      ],
+      "glance": "Cinsel şiddet, rıza olmaksızın gerçekleştirilen her türlü cinsel eylemdir — ve bu durumun suçu asla bunu yaşayan kişiye ait değildir.",
+      "overview": "Cinsel şiddet, rıza olmaksızın veya zorlama yoluyla gerçekleştirilen herhangi bir cinsel eylem veya böyle bir eylemi gerçekleştirmeye yönelik girişimi ifade eder. Tecavüz ve istenmeyen her türlü cinsel teması içerir ve bir yabancı, bir tanıdık, bir partner veya eş gibi herhangi bir kişi tarafından işlenebilir.\n\nRıza, tüm bunların merkezinde yer alır. Rıza, özgür iradeyle kabul etmek anlamına gelir ve bir kişi uyurken, bilinci kapalıyken, sarhoşken veya uyuşturulmuşken, çocukken ya da baskı altında, tehdit altında veya korkmuşken rıza göstermesi mümkün değildir. Rıza her an geri çekilebilir. Bu nedenle, cinsel şiddet **asla** mağdurun suçu değildir — ne giydiği, içki içip içmediği, direnmek yerine donup kalmış olması ya da o kişiyi tanıyıp tanımaması fark etmez.\n\nEğer başınıza böyle bir şey geldiyse, ister yakın zamanda ister uzun zaman önce olsun, destek her zaman yanınızda. Size inanıyoruz ve bundan sonra ne yapacağınız tamamen sizin seçiminizdir.",
+      "deep": null,
+      "when_to_see_doctor": "- Size bakım sağlayabilecek, yaralarınızı tedavi edebilecek ve — isterseniz — ihbar etme ve kanıtları koruma konusunda yardımcı olabilecek bir **sağlık hizmetine, hastaneye veya cinsel saldırı mağdurlarına yönelik özel bir servise** başvurabilirsiniz.\n- Bazı sağlık önlemleri **zamana duyarlıdır** — örneğin acil kontrasepsiyon veya enfeksiyonun önlenmesi — bu nedenle **en kısa sürede** yardım istemek faydalı olabilir. Ancak destek almak için bir zaman sınırı yoktur ve bildirimde bulunup bulunmamak her zaman sizin tercihinizdir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- Yakın zamanda bir saldırıya uğradıysanız, **bir hastane veya uzman bir hizmet acil yardım sağlayabilir**. İtalya’da **1522** (ücretsiz, 7/24, anonim, çok dilli — telefon veya sohbet) numarası sizi doğru bakım hizmetine yönlendirebilir."
+    },
+    "stalking": {
+      "title": "Takipçilik",
+      "aliases": [
+        "takip",
+        "takip ediliyor",
+        "taciz",
+        "istenmeyen ilgi",
+        "beni takip eden biri",
+        "siber taciz"
+      ],
+      "glance": "Takipçilik, sizi korkutacak veya güvensiz hissettirecek şekilde tekrarlanan, istenmeyen ilgidir — ve bu durum ciddiye alınır.",
+      "overview": "Takipçilik, bir kişinin sergilediği, sizi korkutan, izlendiğinizi hissettiren veya güvensiz hissettiren istenmeyen ve tekrarlanan davranış biçimidir. Takip edilme, bulunduğunuz yere birinin gelmesi, sürekli aramalar veya mesajlar, istenmeyen hediyeler, çevrimiçi olarak veya telefonunuz aracılığıyla izlenme ya da tehditler bu davranış biçimine örnek olarak verilebilir. Genellikle eski bir partner veya tanıdığınız biri tarafından yapılır, ancak her zaman böyle değildir.\n\nBunun yarattığı korku haklıdır; her bir eylem başkalarına \"küçük\" görünse bile — önemli olan, bu davranışların oluşturduğu kalıptır ve bunun size nasıl hissettirdiğidir. Takipçilik, bir istismar biçimi olarak kabul edilir ve birçok ülkede suç sayılır. Bunların hiçbiri sizin suçunuz değildir ve bunlara katlanmak zorunda değilsiniz.\n\nEğer güvenliyse, bir kayıt tutmak ileride yardımcı olabilir: tarihler ve saatler, mesajların ekran görüntüleri ve neler olduğu. Bunun “sayılıp sayılmayacağını” kendi başınıza çözmenize gerek yok — destek hizmetleri, durumu anlamanıza ve seçeneklerinizi değerlendirmenize yardımcı olabilir.",
+      "deep": null,
+      "when_to_see_doctor": "- Takipçilik vakalarını bildirmek için **polis** ile iletişime geçin; destek ve tavsiye almak için ise şiddet veya takipçilikle mücadele yardım hattını arayın (İtalya'da **1522** numarası hem şiddet hem de takipçilik vakaları için geçerlidir).\n- Bir uzman hizmetin yardımıyla kanıtları saklamak ve bir güvenlik planı hazırlamak, her ikisi de gerçek bir fark yaratabilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altında olduğunuzu hissediyorsanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya’da **1522** numaralı hat — ücretsiz, 24 saat hizmet veren, anonim ve çok dilli — telefon veya sohbet yoluyla yardım sunabilir."
+    },
+    "supporting-someone": {
+      "title": "Şiddet gören birine destek olmak",
+      "aliases": [
+        "birine destek olmak",
+        "bir arkadaşa yardım etmek",
+        "nasıl yardım edilebilir",
+        "istismara maruz kalan biri",
+        "nasıl destek olunur"
+      ],
+      "glance": "Tanıdığınız birinin istismara maruz kalıyor olabileceğini düşünüyorsanız, yargılamadan dinlemek ve bu kişiyi nereye yönlendirebileceğinizi bilmek yardımcı olur.",
+      "overview": "Değer verdiğiniz birinin istismara maruz kalıyor olabileceğini fark etmek zordur ve yardım etmek istemek doğal bir içgüdüdür. Sunabileceğiniz en yararlı şeyler genellikle en basit olanlardır.\n\nDinleyin ve onlara inanın. Yargılamadan, suçlamadan veya buna neden olmak için ne yaptıklarını sormadan, kendi hızlarında konuşmalarına izin verin. Bunun onların suçu olmadığını ve bunu hak etmediklerini açıkça söyleyin. Onlara ne yapmaları gerektiğini söylememeye veya ayrılmaya zorlamamaya çalışın: Ayrılmak onların kararıdır ve bunu aceleye getirmek aslında tehlikeyi artırabilir — daha çok yardımcı olan şey, kendilerini desteklenmiş ve yalnız hissetmemeleridir.\n\nSize anlattıklarını gizli tutun. Hazır olduklarında uzman desteğe ulaşmalarına nazikçe yardımcı olun — İtalya’daki **1522** gibi bir yardım hattı veya yerel bir şiddet karşıtı merkez — ve numaraları birlikte aramak ya da aradıklarında yanlarında olmak gibi pratik yardımlar sunun. Kendinize de iyi bakın; birine bu süreçte destek olmak zor olabilir.",
+      "deep": null,
+      "when_to_see_doctor": "- Onları (baskı yapmadan) bir yardım hattına veya şiddetle mücadele merkezine başvurmaya teşvik edin; bu kurumlar, bundan sonra ne yapmanız gerektiği konusunda ikinize de rehberlik edebilir. Aramayı yapmalarına veya numarayı bulmalarına yardımcı olmayı teklif edebilirsiniz.\n- Yaralanmışlarsa, bir aile hekimi veya hastane yardım edebilir — ve onları destek hizmetlerine yönlendirebilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysa, acil servisleri arayın: AB’de (İtalya dahil) **112**, Birleşik Krallık’ta **999**, ABD ve Kanada’da **911**.\n- İtalya'da **1522** (ücretsiz, 7/24, anonim, çok dilli — telefon veya sohbet) numarası da birine nasıl yardım edebileceğiniz konusunda size bilgi verebilir."
     }
   },
   "categories": {
@@ -974,6 +1202,14 @@
     "pregnancy": {
       "title": "Hamilelik",
       "summary": "Erken belirtiler, sağlıklı kalmak, uyarı işaretleri ve gebelik kaybı — kaynaklarla birlikte açıklanmıştır."
+    },
+    "for-partners": {
+      "title": "Ortaklar için",
+      "summary": "Döngüsünü anlamak, onu iyi desteklemek ve saygı üzerine ilişki kurmak."
+    },
+    "safety-and-support": {
+      "title": "Güvenlik ve destek",
+      "summary": "İstismarı fark etme, güvende kalma ve yardım alma yolları — acil durum numaralarıyla birlikte."
     }
   },
   "paths": {
