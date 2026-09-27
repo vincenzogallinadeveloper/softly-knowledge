@@ -234,9 +234,14 @@ helplines:
     emergency: "110"
     emergency_notes: 110 is police; fire and ambulance are 119.
     dv_helpline:
-      name: DV Consultation Navi
-      number: "#8008"
-      url: https://www.gender.go.jp/
+      # DV相談＋ (Cabinet Office): toll-free, 24/7, chat, 10 languages. Preferred over DV Consultation
+      # Navi "#8008", which routes to the prefectural centre in its office hours only — and iOS never
+      # dials a number containing "#" from an app.
+      name: DV Soudan Plus (DV相談＋)
+      number: "0120-279-889"
+      hours: "24/7"
+      url: https://www.gender.go.jp/policy/no_violence/dv_navi/index.html
+      chat: true
 
   - code: KR
     country: South Korea
