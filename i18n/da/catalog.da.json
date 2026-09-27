@@ -126,11 +126,28 @@
       "when_to_see_doctor": "- Bed din **jordemoder eller sundhedsplejerske** om hjælp i god tid, hvis amningen er smertefuld eller vanskelig, eller\n  hvis du er bekymret for, at dit barn ikke får nok – støtte kan gøre en stor forskel.\n- Hvordan du ammer dit barn, er et personligt valg, og der er støtte at hente, uanset hvad du vælger; det\n  vigtigste er, at du og dit barn har det godt.",
       "red_flags": null
     },
+    "brown-discharge": {
+      "title": "Brunt udflåd",
+      "aliases": [
+        "brunt udflåd",
+        "brun pletblødning",
+        "brunt blod",
+        "gammelt blod",
+        "mørkt udflåd",
+        "brun menstruation",
+        "brunligt udflåd"
+      ],
+      "glance": "Brunt udflåd er som regel lidt blod, ofte på de lette dage af menstruationen. Brun pletblødning på andre tidspunkter er værd at få undersøgt.",
+      "overview": "Brunt udflåd er en lille mængde brunligt blod eller væske, som du lægger mærke til i trusserne eller på toiletpapiret. Mange oplever det på et tidspunkt, og meget ofte er det bare en del af menstruationen.\n\nMenstruationsblod er ikke altid klart rødt. På de dage, hvor du bløder mest, er det som regel rødt, men på de lette dage kan det se lyserødt eller brunt ud. En brunlig farve på de lette dage af menstruationen er altså almindeligt og helt normalt.\n\nBrunt kan også vise sig på andre tidspunkter. Pletblødning er små pletter af lyserødt, rødt eller brunt blod, og pletblødning mellem menstruationerne har flere almindelige årsager. Hormonel prævention, som p-piller, er en hyppig årsag. Andre er små udvækster i eller omkring livmoderen (som polypper eller fibromer) og infektioner som klamydia. Helt tidligt i en graviditet oplever nogle en smule pletblødning omkring det tidspunkt, hvor menstruationen skulle være kommet. Det kaldes implantationsblødning.\n\nFordi brun pletblødning uden for menstruationen kan have forskellige årsager, som oftest ufarlige, hjælper det ikke at gætte. Det, der hjælper, er at få det undersøgt, så du ved, hvad der ligger bag hos dig.",
+      "deep": null,
+      "when_to_see_doctor": "- Gå til din læge eller en klinik for seksuel sundhed, hvis du har **brun pletblødning eller blødning mellem menstruationerne eller efter sex**, også selvom den er let. Som regel er det ikke alvorligt, men det er altid en god idé at få det undersøgt.\n- Hvis du er **gravid eller måske kan være det**, så kontakt din fødeafdeling, en afdeling for tidlig graviditet eller **NHS 111** ved enhver pletblødning, også brun, så årsagen kan blive undersøgt.\n- Gå til din læge, hvis du bemærker **brunt eller lyserødt udflåd eller blødning efter menopausen**, også selvom det kun er en lille smule eller kun er sket én gang.\n- Få råd hos din læge, en klinik for seksuel sundhed eller **NHS 111**, hvis dit udflåd **skifter farve, lugt eller konsistens**, eller hvis du samtidig har kløe, ømhed, bækkensmerter eller smerter, når du tisser.",
+      "red_flags": "- Bed om en **akut** tid hos din læge, eller ring til **NHS 111**, hvis **din menstruation for nylig er udeblevet, og du har usædvanlig blødning sammen med mave- eller bækkensmerter**. Det skal undersøges hurtigt, da det kan være tegn på graviditet uden for livmoderen.\n- Hvis du er gravid, så ring **999**, hvis du bløder og har **stærke mavesmerter, smerter i skulderen, føler dig ved at besvime, er svimmel eller har kvalme, eller hvis blødningen er kraftig** (et bind bliver gennemblødt kort efter, at du har taget det på)."
+    },
     "cervical-mucus": {
       "title": "Livmoderhalsslim",
       "aliases": [
         "cervikal slim",
-        "udledning",
+        "udflåd",
         "vaginal udflåd",
         "sekret fra livmoderhalsen",
         "æggehvide-slim"
@@ -155,6 +172,39 @@
       "deep": null,
       "when_to_see_doctor": "- Screening er til, når du **ikke** har symptomer. Hvis du bemærker noget, der bekymrer dig\n  mellem screeningerne — såsom usædvanlig blødning (mellem menstruationerne, efter samleje eller efter overgangsalderen) —\n  skal du opsøge din praktiserende læge i stedet for at vente på din næste indkaldelse.\n- Hvis du har modtaget en indkaldelse og er usikker eller nervøs for at tage af sted, er det en god idé at tale med din praktiserende læge eller\n  sygeplejersken på klinikken, som kan forklare, hvad der sker, og besvare dine spørgsmål.",
       "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Børnemishandling og børns sikkerhed",
+      "aliases": [
+        "børnemishandling",
+        "børnemishandling",
+        "børns sikkerhed",
+        "beskyttelse af et barn",
+        "bekymret for et barn",
+        "forsømmelse"
+      ],
+      "glance": "Hvis du er bekymret for, at et barn bliver udsat for overgreb eller omsorgssvigt, er det rigtigt at søge råd – du behøver ikke at være helt sikker.",
+      "overview": "Børnemishandling — eller vold mod børn — er skade på enhver under 18 år. Det omfatter fysisk, seksuel og følelsesmæssig mishandling samt omsorgssvigt (manglende opfyldelse af et barns grundlæggende behov). Det er desværre udbredt, det kan forårsage livslang skade, og det er aldrig barnets skyld.\n\nMåske er du bekymret for et barn i dit liv eller for et barn, du har lagt mærke til. Du behøver ikke at være sikker eller have beviser for at handle på den bekymring — at stole på din fornemmelse og søge råd er præcis det rigtige at gøre, og det kan beskytte et barn.\n\nOg hvis du selv har været udsat for misbrug som barn, skal du vide, at det aldrig var din skyld, og at der også er hjælp at hente til dig, uanset hvilken alder du har.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvis du er bekymret for et barn, kan du kontakte **børneværn/socialforvaltningen**, en særlig **hjælpelinje for børneværn** eller en **praktiserende læge, sundhedsplejerske eller barnets skole** for at få rådgivning — i fuld fortrolighed.\n- Du \"overreagerer\" ikke ved at spørge. Det er bedre at tjekke end at vente.",
+      "red_flags": "- Hvis et barn er i **umiddelbar fare** eller alvorligt såret, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada."
+    },
+    "coercive-control": {
+      "title": "Tvangskontrol",
+      "aliases": [
+        "tvangskontrol",
+        "kontrollerende adfærd",
+        "følelsesmæssigt misbrug",
+        "psykisk vold",
+        "isolation",
+        "økonomisk misbrug",
+        "gaslighting"
+      ],
+      "glance": "Tvangskontrol er et mønster af kontrollerende adfærd – isolering, overvågning, trusler – som er en anerkendt form for misbrug.",
+      "overview": "Tvangskontrol er en form for misbrug, der udøves gennem kontrol snarere end – eller i tillæg til – fysisk vold. Det er et mønster – ikke en enkelt krangel – hvor den ene person gradvist begrænser den andens frihed og selvfølelse.\n\nDet kan f.eks. være at blive afskåret fra venner og familie, at få overvåget eller begrænset sin telefon, sine bevægelser eller sine udgifter, at blive dikteret, hvad man skal have på eller hvordan man skal opføre sig, eller at leve med konstant kritik, trusler eller intimidering. Da der måske ikke er blå mærker, kan det være svært at sætte ord på, og andre ser det måske ikke – men det anerkendes som misbrug, og det kan være lige så skadeligt som fysisk vold.\n\nHvis du genkender noget af dette, er det ikke et tegn på, at du er for følsom, eller at du selv har været skyld i det. Kontrollerende adfærd er et valg, som den anden person træffer. At forstå det for det, det er, kan være det første skridt mod at få hjælp.",
+      "deep": "Tvangskontrol opbygges ofte gradvist, hvilket er en del af grunden til, at det er svært at gennemskue indefra — små former for kontrol bliver normen, og selvtilliden svinder. Det tærer på den mentale sundhed over tid. At tale det igennem med en person, der er uddannet til at forstå disse mønstre, kan hjælpe dig med at se situationen mere klart og overveje, hvad du vil gøre herefter, uden at føle dig presset.",
+      "when_to_see_doctor": "- Et center mod vold eller en hjælpelinje (i Italien **1522**) kan tale med dig om det, du oplever, fortroligt og gratis, og hjælpe dig med at forstå dine muligheder — du behøver ikke at være i fysisk fare for at kontakte dem.\n- En praktiserende læge eller en rådgiver kan også støtte dig og henvise dig til specialiserede tilbud.",
+      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien er **1522** et gratis nummer, der er tilgængeligt 24 timer i døgnet, anonymt og flersproget – via telefon eller chat."
     },
     "combined-pill": {
       "title": "Kombinationspillen",
@@ -202,6 +252,20 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "consent-and-respect": {
+      "title": "Samtykke og respekt",
+      "aliases": [
+        "samtykke",
+        "respektere hendes grænser",
+        "entusiastisk samtykke",
+        "kropslig autonomi"
+      ],
+      "glance": "Samtykke er et klart, gratis, entusiastisk ja - hver gang, og det kan trækkes tilbage når som helst.",
+      "overview": "Respekt starter med hendes ret til at bestemme over sin egen krop - altid. Samtykke til intimitet betyder en\nfrit givet, informeret, entusiastisk **ja**. Stilhed er ikke samtykke. En modvillig \"bøde\" er ikke samtykke.\nEn person, der sover, meget fuld eller er under pres, kan ikke rigtig give samtykke. Og et ja til én ting, eller videre\nen dag, er ikke et ja til alt eller til næste gang.\n\nSamtykke kan trækkes tilbage når som helst, og \"stop\" eller \"ikke i aften\" er et komplet svar, der behøver nej\nbegrundelse. Presser, snubler i skyldfølelse, surmuler, indtil hun giver efter, eller behandler sex som noget\ndu skylder er ikke okay - et forhold er ikke en gæld.",
+      "deep": "Hvordan ser respekt ud i praksis:\n\n- **Spørg og tjek ind.** \"Er det i orden?\" og være opmærksom på, hvordan hun reagerer - ord og krop.\n- **Tag \"nej\" med ynde.** Ingen bulder, pres eller straf. Hendes svar er enden på det.\n- **Entusiasme betyder noget.** Hvis hun virker usikker, tøvende eller bare følger med, så stop op og spørg.\n- **Hendes krop, hendes opkald** — om intimitet, prævention, graviditet, hendes helbred, hendes udseende, hendes\n  valg. Du får en stemme i dit fælles liv, aldrig et veto over hendes krop.\n- **Respekt er dagligt.** Hvordan du taler til hende, om hende og behandler hendes grænser i små ting er\n  fundamentet alt andet hviler på.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
     "contraception": {
       "title": "Prævention",
       "aliases": [
@@ -213,6 +277,23 @@
       "overview": "Prævention — også kaldet svangerskabsforebyggelse — er de forskellige metoder, der bruges til at forhindre graviditet.\nDer findes mange forskellige metoder, og de virker på forskellige måder: Nogle bruger hormoner, andre er barriereprævention, nogle\nplaceres inde i livmoderen, og andre er baseret på overvågning af menstruationscyklussen.\n\nHvor godt en metode virker, afhænger i høj grad af, hvordan den bruges. Nogle metoder — som implantatet og\nspiralen — er af typen »sæt det ind og glem det« og har en effektivitet på over 99 %. Andre, som p-piller eller kondomer, er\nmeget effektive, når de bruges korrekt, men lidt mindre effektive ved almindelig, daglig brug, fordi det er\nnemmere at glemme en pille eller bruge et kondom forkert.\n\nEn ting, der er værd at vide: **kun kondomer beskytter også mod seksuelt overførte infektioner\n(SOI’er)**. De andre metoder forhindrer graviditet, men ikke infektion, og derfor bruges kondomer nogle gange\nsammen med en anden metode.\n\nDer findes ikke én enkelt »bedste« metode – den rigtige afhænger af dit helbred, din krop og hvad der passer\ntil din livsstil. En praktiserende læge eller en seksualklinik kan gennemgå mulighederne med dig og hjælpe dig med at vælge.",
       "deep": "Da metoderne er så forskellige, kan det være en hjælp at overveje, hvad der er vigtigt for dig: hvor effektiv metoden er,\nom den kræver, at du husker noget hver dag, hvor længe den virker, om du ønsker hormoner eller\nikke, og om beskyttelse mod STI er vigtig i din situation. Mange skifter metode i løbet af deres\nliv, efterhånden som deres behov ændrer sig. Denne videnbase beskriver, hvordan de almindelige metoder virker, så\nvalgene fremstår tydeligere — men beslutningen, samt eventuel receptudskrivning eller tilpasning, skal træffes i samarbejde med en\nlæge.",
       "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Prævention og vægt",
+      "aliases": [
+        "prævention og vægt",
+        "tager man på af p-piller",
+        "p-piller og vægtøgning",
+        "vægtøgning af prævention",
+        "tage på af p-piller",
+        "p-sprøjte og vægtøgning",
+        "p-stav og vægtøgning"
+      ],
+      "glance": "Der er ingen beviser for, at kombinations-p-piller giver vægtøgning, men p-sprøjten kan. Det afhænger af metoden.",
+      "overview": "Om prævention får dig til at tage på, er et meget almindeligt spørgsmål. Det ærlige svar er, at det afhænger af metoden.\n\nFor kombinations-p-piller er forskningen beroligende: Der er ingen beviser for, at man tager på af at tage dem. Det samme gælder p-plasteret og p-ringen.\n\nP-sprøjten er anderledes. Vægtøgning er angivet som en af dens almindelige bivirkninger, sammen med ændringer i menstruationen.\n\nMed gestagen-p-piller (sommetider kaldet minipiller) og p-staven fortæller nogle, at de har taget på. Men der er ikke nok evidens til at sige, om det er selve metoden, der er årsagen.\n\nVægten er kun en del af billedet. Hver metode har sin egen liste over mulige bivirkninger og risici, og at vælge prævention handler om at finde det, der passer til din krop, dit helbred og dit liv. Apoteket, din læge, en sygeplejerske eller en klinik for seksuel sundhed kan gennemgå mulighederne med dig.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvis bivirkninger, også ændringer i din vægt, er et problem for dig, så tal med apoteket, din læge, en sygeplejerske eller en klinik for seksuel sundhed. Med kombinations-p-piller, p-plasteret eller p-ringen kan nogle bivirkninger opstå, når du lige er begyndt. Hvis de stadig generer dig efter omkring 3 måneder, kan en læge tale med dig om en anden p-pille eller en anden type prævention.",
       "red_flags": null
     },
     "contraceptive-implant": {
@@ -243,6 +324,21 @@
       "when_to_see_doctor": "- Søg læge, hvis din menstruation bliver uregelmæssig, udbliver eller ændrer sig på en måde, der ikke er normal for dig —\n  vedvarende ændringer kan nogle gange være tegn på noget, der er værd at undersøge nærmere.\n- Det er også en god idé at tale med en læge, hvis menstruationsproblemer påvirker din dagligdag, så du kan få\n  hjælp i stedet for blot at finde dig i dem.",
       "red_flags": null
     },
+    "economic-abuse": {
+      "title": "Økonomisk vold",
+      "aliases": [
+        "økonomisk vold",
+        "økonomisk misbrug",
+        "pengeforvaltning",
+        "styring af økonomien",
+        "gæld i mit navn"
+      ],
+      "glance": "Økonomisk misbrug er at kontrollere en persons adgang til penge, arbejde eller ressourcer — en anerkendt form for misbrug.",
+      "overview": "Økonomisk misbrug er, når en person kontrollerer en andens adgang til penge og de ting, man kan købe for penge. Det er en form for kontrollerende adfærd, og det forekommer ofte sammen med andre former for misbrug.\n\nDet kan f.eks. være at kontrollere alle udgifterne eller tvinge dig til at redegøre for hver en øre, at tage din løn eller dine ydelser, at stifte gæld i dit navn, at holde bankkonti eller dokumenter skjult for dig eller at forhindre dig i at arbejde eller studere. Da det kan efterlade en person uden midler til at forlade forholdet eller klare sig i hverdagen, er det en af de måder, hvorpå misbrug kan føles som en fælde.\n\nHvis noget af dette lyder bekendt, er det ikke et tegn på, at du er »dårlig til at håndtere penge« eller at det er din skyld. At kontrollere en anden persons ressourcer er et valg, som den anden person træffer — og det betragtes som misbrug.",
+      "deep": null,
+      "when_to_see_doctor": "- Voldshjælpetjenester kan også hjælpe med dette — ikke kun med sikkerhed, men også med praktiske og økonomiske tiltag, fortroligt og gratis (i Italien kan hjælpelinjen **1522** henvise dig til lokal støtte).\n- En sikkerhedsplan kan omfatte at sikre sig adgang til penge, vigtige dokumenter og vigtige telefonnumre på en diskret måde.",
+      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien kan **1522** — gratis, døgnet rundt, anonymt, flersproget — yde hjælp via telefon eller chat."
+    },
     "ectopic-pregnancy": {
       "title": "Ektopisk graviditet",
       "aliases": [
@@ -269,7 +365,7 @@
       "glance": "Nødprævention kan forhindre graviditet efter ubeskyttet samleje — og jo hurtigere, jo bedre.",
       "overview": "Nødprævention er en måde at forhindre graviditet på efter samleje uden prævention, eller når din\nsædvanlige præventionsmetode muligvis har svigtet (en glemt pille, et sprunget kondom). Der findes to typer, og tidspunktet\ner afgørende for begge.\n\nDen første er **nødpillen**. Der findes to typer: den ene (levonorgestrel) kan tages op til\n3 dage – 72 timer – efter samleje, og den anden (ulipristalacetat, mærkenavn ellaOne) op til 5 dage –\n120 timer. Den anden mulighed er **kobberspiralen (IUD)**, som en læge kan indsætte op til 5 dage\nefter samleje; det er den mest effektive form for nødprævention, og den kan derefter blive siddende som\nløbende prævention, hvis du ønsker det.\n\nFor alle disse gælder det, at **jo hurtigere du bruger dem, jo bedre virker de som regel** — så det er værd at handle\nhurtigt i stedet for at vente. Du kan få nødprævention på et apotek, hos en praktiserende læge, på en\nseksuel sundhedsklinik eller på et walk-in-center, ofte gratis.",
       "deep": null,
-      "when_to_see_doctor": "- Da det haster, skal du ikke vente — en apoteker kan hurtigt udlevere nødpillen, og\n  en seksualklinik eller en praktiserende læge kan udføre en »IUD«.\n- Nødprævention handler om at forhindre graviditet, ikke infektioner. Hvis der er den mindste risiko for en\n  seksuelt overført infektion, kan en seksualklinik rådgive dig om testning.\n- Hvis din menstruation derefter er mere end et par dage forsinket eller meget anderledes end normalt, er det en god idé at tage\n  en graviditetstest og tale med en læge.",
+      "when_to_see_doctor": "- Da det haster, skal du ikke vente — en apoteker kan hurtigt udlevere nødpillen, og\n  en seksualklinik eller en praktiserende læge kan lægge en kobberspiral op.\n- Nødprævention handler om at forhindre graviditet, ikke infektioner. Hvis der er den mindste risiko for en\n  seksuelt overført infektion, kan en seksualklinik rådgive dig om testning.\n- Hvis din menstruation derefter er mere end et par dage forsinket eller meget anderledes end normalt, er det en god idé at tage\n  en graviditetstest og tale med en læge.",
       "red_flags": null
     },
     "endometriosis": {
@@ -333,16 +429,16 @@
       ],
       "glance": "Det frugtbare vindue er de få dage i hver cyklus, hvor samleje kan føre til graviditet.",
       "overview": "Det frugtbare vindue er den korte periode i cyklusen, hvor det er muligt at blive gravid. Det skyldes, at\nto tidsforløb ikke helt stemmer overens: et æg kan kun befrugtes i cirka 12 til 24 timer\nefter, at det er blevet frigivet, men sædceller kan overleve inde i kroppen i flere dage – op til cirka en uge –\nmens de venter på et æg.\n\nSamlet set betyder det, at vinduet åbner et par dage før ægløsning og lukker cirka en dag\nefter. I praksis er du mest frugtbar i de 2 til 3 dage op til ægløsning og på selve\ndagen, fordi sædcellerne allerede kan være der, når ægget ankommer.\n\nDa ægløsningen kan variere fra cyklus til cyklus, flytter det frugtbare vindue sig også. Derfor betragtes det\nnormalt som et tidsrum på flere dage snarere end en enkelt dato, og derfor er det mere pålideligt at følge tegnene over\nflere cykler end at stole på en enkelt kalenderberegning.",
-      "deep": "De nøjagtige dage varierer fra person til person og fra måned til måned, så dette tidsvindue vurderes bedst\nud fra kroppens egne signaler frem for en fast formel. Ændringer i livmoderhalsslimet tyder på, at\nvinduet åbner, når ægløsningen nærmer sig, og en stigning i hviletemperaturen bekræfter — efter\nfølgende — at ægløsningen er overstået, og at vinduet er lukket. Ægløsningstests virker et\ntrin tidligere ved at registrere stigningen i LH (), der opstår kort før ægget\nfrigives.",
+      "deep": "De nøjagtige dage varierer fra person til person og fra måned til måned, så dette tidsvindue vurderes bedst\nud fra kroppens egne signaler frem for en fast formel. Ændringer i livmoderhalsslimet tyder på, at\nvinduet åbner, når ægløsningen nærmer sig, og en stigning i hviletemperaturen bekræfter — efter\nfølgende — at ægløsningen er overstået, og at vinduet er lukket. Ægløsningstests virker et\ntrin tidligere ved at registrere stigningen i luteiniserende hormon (LH), der opstår kort før ægget\nfrigives.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "first-period": {
-      "title": "Startperioder (første periode)",
+      "title": "Første menstruation",
       "aliases": [
-        "første periode",
         "første menstruation",
-        "startperioder",
+        "menarke",
+        "at begynde at få menstruation",
         "at få menstruation"
       ],
       "glance": "Din første menstruation kommer normalt, når du er omkring 12 år — det er normalt, at den kommer mellem 8 og 17 år.",
@@ -419,6 +515,23 @@
       "when_to_see_doctor": "- Benyt dig af **screeningstesten**, hvis den tilbydes — da graviditetsdiabetes normalt ikke giver nogen\n  symptomer, er det kun gennem test, at den opdages.\n- Vent ikke på testen, hvis du bemærker mulige tegn på forhøjet blodsukker — stærk tørst,\n  hyppig vandladning, mundtørhed eller træthed — fortæl din jordemoder eller læge om dem.",
       "red_flags": null
     },
+    "getting-help": {
+      "title": "Hvor kan man få hjælp",
+      "aliases": [
+        "få hjælp",
+        "hvem man skal kontakte",
+        "hjælpelinjer",
+        "nyttige numre",
+        "center mod vold",
+        "1522",
+        "nødnumre"
+      ],
+      "glance": "Der er gratis, fortrolig hjælp til rådighed — i en nødsituation skal du ringe til dit lokale alarmnummer; i Italien kan du ringe til 1522 når som helst.",
+      "overview": "Hvis du er udsat for misbrug, behøver du ikke stå alene med det, og det forpligter dig ikke til noget at række ud. Der er mennesker, hvis eneste opgave er at lytte og hjælpe – fortroligt og gratis.\n\nDer findes flere former for hjælp side om side:\n\n- **Akut hjælp** — ved umiddelbar fare skal du ringe til det lokale alarmnummer (se nedenfor).\n- **En national hjælpelinje** — i Italien, **1522**, den gratis hjælpelinje mod vold og stalking: åben 24 timer i døgnet, anonym, tilgængelig på flere sprog, via telefon eller onlinechat.\n- **Voldsforebyggende centre** (i Italien *centri antiviolenza*) — lokale tilbud, der yder gratis, fortrolig støtte, sikkerhedsplanlægning samt juridisk og psykologisk hjælp.\n- **Sundhedstjenester** — en praktiserende læge eller en akutmodtagelse på et hospital, hvor personalet i stigende grad er uddannet til at genkende misbrug og henvise dig til støtte.\n- **Personer, du stoler på** — en ven eller et familiemedlem, som du føler dig tryg sammen med.\n\nDu kan starte med det, der føles mest muligt, og du behøver ikke at have besluttet noget endnu.",
+      "deep": null,
+      "when_to_see_doctor": "- Du kan i fuld fortrolighed tale med en **praktiserende læge eller et hospital** om, hvad der foregår; de kan behandle eventuelle skader og sætte dig i kontakt med specialiserede tjenester.\n- Hvis det er nemmere at skrive end at tale, er **1522-chatten** en anden mulighed.",
+      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- **Italien:** **1522** (gratis, døgnet rundt, anonymt, flersproget — ring eller chat).\n- Hjælpelinjenumre varierer fra land til land. Appen kan vise numrene for dit land, og **findahelpline.com** viser en liste over hjælpelinjer mod vold over hele verden (siden registrerer dit land og har en hurtigudgangsknap). Hvis du befinder dig i EU, fungerer **112** overalt."
+    },
     "group-b-strep": {
       "title": "Gruppe B-streptokokker (GBS)",
       "aliases": [
@@ -471,8 +584,22 @@
         "luteiniserende hormon"
       ],
       "glance": "LH er det hjernehormon, hvis stigning midt i cyklusen får æggestokken til at frigive en ægcelle.",
-      "overview": "LH — luteiniserende hormon — er det signal, der udløser ægløsningen. Ligesom detFSH produceres det af en\nlille kirtel i hjernen (hypofysen), og det fortæller æggestokken, hvornår den skal frigive et æg.\n\nI det meste af cyklusens første halvdel forbliver LH-niveauet lavt. Derefter, omkring midtvejs i cyklusen,\nstiger det kraftigt i det, der kaldes den LH-stigning. Denne stigning er det signal, der får æggestokken til at\nfrigive sin ægcelle — ægløsning — som regel en dag eller deromkring senere.\n\nStigningen er et kortvarigt, præcist signal og ikke noget, man bemærker i sin kropsfornemmelse. Da\nden indtræffer så tæt på ægløsningen, er tidspunktet for stigningen i LHn en pålidelig markør for\nden mest frugtbare del af cyklusen.",
+      "overview": "LH — luteiniserende hormon — er det signal, der udløser ægløsningen. Ligesom FSH produceres det af en\nlille kirtel i hjernen (hypofysen), og det fortæller æggestokken, hvornår den skal frigive et æg.\n\nI det meste af cyklusens første halvdel forbliver LH-niveauet lavt. Derefter, omkring midtvejs i cyklusen,\nstiger det kraftigt i det, der kaldes den LH-stigning. Denne stigning er det signal, der får æggestokken til at\nfrigive sin ægcelle — ægløsning — som regel en dag eller deromkring senere.\n\nStigningen er et kortvarigt, præcist signal og ikke noget, man bemærker i sin kropsfornemmelse. Da\nden indtræffer så tæt på ægløsningen, er tidspunktet for LH-stigningen en pålidelig markør for\nden mest frugtbare del af cyklusen.",
       "deep": "LH virker sammen med FSH, det hormon, der får folliklerne til at vokse tidligere i cyklusen. Mens FSH\nstyrer opbygningen, udgør stigningen i LH vendepunktet: niveauerne begynder at stige cirka en dag og en\nhalv, før ægget frigives, og når sit højdepunkt omkring en halv dag før. Efter stigningen går cyklusen\nind i sin anden halvdel. Denne præcise tidsramme er grunden til, at LH er en så nyttig markør for alle, der følger med i\nægløsningen, og hvorfor den er afgørende for planlægningen af fertilitetsbehandlinger.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Lytte og følelsesmæssig støtte",
+      "aliases": [
+        "hvordan man lytter",
+        "følelsesmæssig støtte til partnere",
+        "kommunikation",
+        "være der for hende"
+      ],
+      "glance": "Det meste af tiden har hun brug for at blive hørt, ikke fikset - lyt først, og spørg, før du rådgiver.",
+      "overview": "Når en, vi elsker, kæmper, er instinktet at hoppe ind og løse det. Men ofte det, der hjælper mest\nføler sig oprigtigt hørt: at hendes følelser giver mening, og hun ikke er alene med dem. Fixer også\nhurtigt kan lande som \"dine følelser er et problem at lukke ned\".\n\nGod lytning er en færdighed, som alle kan lære. Det er mest opmærksomhed: At lægge telefonen fra sig, vende sig mod hende,\nog lader hende afslutte. Du behøver ikke være enig i hvert punkt for at få hende til at føle sig respekteret.",
+      "deep": "Praktiske måder at dukke op på:\n\n- **Lyt for at forstå, ikke for at svare.** Lad hende tale uden at afbryde eller planlægge dit forsvar.\n- **Reflekter det tilbage.** \"Det lyder virkelig stressende\" eller \"Jeg forstår, hvorfor det gjorde ondt\" slår \"bare ikke\n  bekymre dig om det\".\n- **Spørg før du rådgiver.** \"Vil du have hjælp til at tænke det igennem, eller vil du bare have, at jeg lytter?\"\n- **Tag det ikke personligt**, når en hård dag ikke handler om dig. Stabilitet er en gave.\n- **Eje din del.** Hvis du har taget noget galt, genopbygger en ægte undskyldning - uden \"men\" - tilliden.\n- **Lær mærke til det større billede.** Hvis hun virker vedvarende lav, angst eller ikke selv, så forsigtigt\n  opmuntre til støtte og tilbyde at hjælpe hende med at nå det. Du er en holdkammerat, ikke en terapeut.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -515,7 +642,7 @@
     "menstrual-phase": {
       "title": "Menstruationsfase (din menstruation)",
       "aliases": [
-        "periode",
+        "mens",
         "menstruation",
         "menstruationsfase",
         "blødning"
@@ -611,7 +738,7 @@
       ],
       "glance": "PCOS er en almindelig hormonforstyrrelse, der kan påvirke menstruationen, ægløsningen, huden og håret.",
       "overview": "PCOS — polycystisk ovariesyndrom — er en almindelig tilstand, der hænger sammen med balancen mellem de reproduktive\nhormoner. Skøn tyder på, at det rammer omkring 1 ud af 10 kvinder i den reproduktive alder, og mange\naf dem, der har tilstanden, bliver aldrig diagnosticeret.\n\nDet kan give sig udslag på forskellige måder, og ingen to personer er helt ens. Typiske symptomer omfatter\nuregelmæssige, sjældne eller udblevne menstruationer; forhøjede niveauer af hormoner kaldet androgener,\nhvilket kan føre til øget hårvækst i ansigtet eller på kroppen, akne eller tyndere hår på hovedbunden; samt\næggestokke, der ikke frigiver æg så regelmæssigt som normalt, hvilket kan gøre det sværere at blive gravid.\nVægtudsving og mørkere hudpletter er også almindelige.\n\nDen nøjagtige årsag er ikke fuldt ud forstået, og der findes ingen kur — men symptomerne kan behandles, og\nat forstå, hvad der sker, er det første skridt. PCOS er almindeligt og kan håndteres; det er ikke noget at\nskamme sig over.",
-      "deep": "Da PCOS har at gøre med kroppens hormoner og dens måde at håndtere insulin på, er det på\nlang sigt også forbundet med insulinresistens og en øget risiko for type 2-diabetes, forhøjet blodtryk\nog ændringer i kolesterolniveauet — og det er derfor, lægerne som regel holder øje med disse faktorer over tid.\nOmkring halvdelen af personer med PCOS kan udvikle diabetes eller prædiabetes, inden de når 40-årsalderen, så regelmæssige\nkontrolbesøg er vigtige. PCOSen er ikke noget, man selv kan stille: En læge ser på det samlede\nbillede – din sygehistorie og menstruationscyklus, undertiden blodprøver for hormoner og undertiden en ultralydsscanning\naf æggestokkene – og udelukker andre årsager, før der stilles en .",
+      "deep": "Da PCOS har at gøre med kroppens hormoner og dens måde at håndtere insulin på, er det på\nlang sigt også forbundet med insulinresistens og en øget risiko for type 2-diabetes, forhøjet blodtryk\nog ændringer i kolesterolniveauet — og det er derfor, lægerne som regel holder øje med disse faktorer over tid.\nOmkring halvdelen af personer med PCOS kan udvikle diabetes eller prædiabetes, inden de når 40-årsalderen, så regelmæssige\nkontrolbesøg er vigtige. PCOS er ikke en diagnose, man selv kan stille: En læge ser på det samlede\nbillede – din sygehistorie og menstruationscyklus, undertiden blodprøver for hormoner og undertiden en ultralydsscanning\naf æggestokkene – og udelukker andre årsager, før der stilles en .",
       "when_to_see_doctor": "Det er en god idé at opsøge en praktiserende læge, hvis du bemærker symptomer, der passer til ovenstående beskrivelse, især hvis de\npåvirker, hvordan du har det i hverdagen:\n\n- uregelmæssige, meget sjældne eller udeblevne menstruationer\n- mærkbart øget hårvækst i ansigtet eller på kroppen, vedvarende akne eller tyndere hår på hovedbunden\n- svært ved at blive gravid efter at have forsøgt i et stykke tid\n- vægtøgning, der er svær at tabe, sammen med andre symptomer\n\nEn læge kan undersøge, hvad der foregår, bekræfte, om der er tale om en PCOS eller noget andet, og drøfte en\nplan, der passer til dig. PCOS er også forbundet med nedtrykthed og angst — hvis du kæmper med, hvordan\ndu har det, skal du også fortælle det til din læge; det er en del af billedet, og der er hjælp at hente.",
       "red_flags": null
     },
@@ -775,6 +902,86 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "recognising-abuse": {
+      "title": "Sådan genkender du et voldeligt forhold",
+      "aliases": [
+        "genkendelse af misbrug",
+        "voldeligt forhold",
+        "vold i hjemmet",
+        "vold i parforhold",
+        "tegn på misbrug",
+        "bliver jeg udsat for misbrug"
+      ],
+      "glance": "Misbrug kan være fysisk, seksuelt, følelsesmæssigt eller kontrollerende — og det er aldrig den person, der udsættes for det, der har skylden.",
+      "overview": "Vold i et parforhold er ikke kun fysisk. Den kan antage flere former, ofte i kombination: fysisk vold, seksuel tvang, følelsesmæssig eller psykologisk vold samt kontrollerende adfærd – en partner, der bestemmer, hvor du skal hen, hvem du må se, eller hvad du må gøre. Alle disse former kan udgøre vold, selv når der ikke er synlige skader.\n\nDet er mere udbredt, end mange er klar over. På verdensplan oplever omkring 1 ud af 3 kvinder fysisk eller seksuel vold i løbet af deres liv, oftest fra en partner; situationen i Italien er den samme. Så hvis dette er en del af dit liv, er du ikke alene, og det er ikke noget, du selv har forårsaget.\n\nDet kan være svært at sætte ord på det – misbrug er ofte blandet med gode stunder, undskyldninger eller løfter om forandring, og det kan udvikle sig så langsomt, at det føles normalt. At stole på din egen fornemmelse af, at noget er galt, er en gyldig grund til at søge hjælp. Du behøver ikke at være helt sikker eller vente på, at det bliver »dårligt nok«, for at tale med nogen.",
+      "deep": "Uanset hvilken form det antager, følger misbrug ofte et mønster, hvor én person søger magt og kontrol over en anden, og det kan eskalere over tid. Det har store konsekvenser for helbredet — det er forbundet med angst, depression, søvnproblemer og langvarige fysiske følgevirkninger. Intet af dette betyder, at du er svag eller har skylden; det betyder, at det, du lever med, er skadeligt, og at der findes støtte, der kan hjælpe dig med at tænke det igennem på en sikker måde og i dit eget tempo.",
+      "when_to_see_doctor": "- Du kan tale fortroligt med nogen, når du er klar – en læge eller sygeplejerske, et center mod vold eller en hjælpelinje (i Italien: **1522**, gratis og døgnet rundt). Du behøver ikke først at have beviser, en plan eller have truffet en beslutning; de er der for at lytte og hjælpe dig med at forstå dine muligheder.\n- En sundhedsfaglig medarbejder kan også behandle eventuelle skader og diskret sætte dig i kontakt med specialiseret hjælp.",
+      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien er **1522** — den gratis nationale hjælpelinje mod vold og stalking — tilgængelig 24 timer i døgnet, anonymt, via telefon eller chat, på flere sprog."
+    },
+    "respect-not-control": {
+      "title": "Respekt, ikke kontrol",
+      "aliases": [
+        "kontrollerende adfærd",
+        "tvangskontrol",
+        "sundt forhold",
+        "advarselsskilte",
+        "hvor man kan få hjælp",
+        "misbrug"
+      ],
+      "glance": "Kærlighed er bygget på respekt og frihed - kontrol, jalousi og pres er ikke kærlighed, og hjælp findes.",
+      "overview": "Et sundt forhold hviler på respekt, tillid, lighed og frihed: to mennesker, der hver beholder deres\negne venskaber, valg og rum. Kontrol er det modsatte. Det gemmer sig ofte bag ord som kærlighed eller\njalousi - \"Jeg tjekker din telefon, fordi jeg er ligeglad\", \"Jeg vil ikke have, at du ser dem, fordi jeg elsker dig\" - men\ndens effekt er at skrumpe hendes verden og hendes frihed.\n\nKontrol starter sjældent med vold. Det begynder normalt i det små - en kritik, en grænse overskredet, en\n\"joke\", der svier — og vokser. At navngive det tidligt betyder noget, for tvangskontrol er i sig selv en form for\nmisbrug og et advarselsskilt for værre. Dette handler ikke om skyld; det handler om ærlighed og forandring.",
+      "deep": "**Hvis du genkender nogle af disse i dig selv, er denne bevidsthed et udgangspunkt – ikke en livstidsdom.**\nFolk kan ændre sig med virkelig indsats og den rette hjælp. At nå ud til et dedikeret program for mænd\nder ønsker at stoppe med at være kontrollerende eller voldelige er et tegn på styrke, ikke svaghed. Tal med en\nprofessionel, en læge eller en mænds adfærdsændringstjeneste.\n\nHvis **hun** er den, der er i fare, eller du er bekymret for nogen, så opmuntre og støtte hende til at nå\nhjælp — på hendes præmisser, aldrig ved at tage over.\n\n**Hvor kan man få hjælp**\n- I en nødsituation, eller hvis nogen er i umiddelbar fare, skal du ringe til dit lokale alarmnummer\n  (**112** i Italien og store dele af Europa; **911** i USA).\n- **Italien — 1522**: den nationale anti-volds- og stalking-hjælpelinje. Gratis, 24/7, anonym og\n  flersproget, drevet af afdelingen for lige muligheder. Det guider også folk til lokale\n  antivoldscentre (centri antiviolenza).\n- Antivoldscentre og mænds adfærdsændringsprogrammer (i Italien, \"centri per uomini autori di\n  violenza\") tilbyde fortrolig støtte til forandring.",
+      "when_to_see_doctor": null,
+      "red_flags": "Advarselstegn på kontrollerende eller krænkende adfærd - værd at tage alvorligt i dig selv eller et forhold:\n\n- **Overvågning eller isolering**: tjekker hendes telefon, sporer hendes placering eller afskærer hende fra\n  venner og familie.\n- **Kontrol over valg**: penge, hvad hun har på, hvor hun går, hvem hun ser.\n- **Jalousi indrammet som kærlighed**, konstante anklager eller behov for at vide, hvor hun er til enhver tid.\n- **Afskrækker, bebrejder eller får hende til at føle sig bange**, skyldig eller \"at gå på æggeskaller\".\n- **Pres eller trusler** om sex, brud eller selvskade for at få overholdelse.\n- **Enhver fysisk kraft, intimidering eller frygt.** Hvis dette er til stede, er det misbrug - tag fat i hjælpen\n  ovenfor. Der er aldrig en undskyldning, og det er aldrig hendes skyld."
+    },
+    "safety-plan": {
+      "title": "Udarbejdelse af en sikkerhedsplan",
+      "aliases": [
+        "sikkerhedsplan",
+        "sikkerhed",
+        "sikkerhed",
+        "sikkerhedsplanlægning",
+        "at komme sikkert væk"
+      ],
+      "glance": "En sikkerhedsplan består af nogle få praktiske trin, der kan hjælpe dig med at øge din sikkerhed — og faglige hjælpetjenester kan hjælpe dig med at udarbejde en.",
+      "overview": "En sikkerhedsplan handler ganske enkelt om at tænke fremad om, hvordan du kan beskytte dig selv (og eventuelle børn) bedre. Det er ikke en beslutning om at forlade eller blive – det handler om at være lidt bedre forberedt, uanset hvad du vælger.\n\nFor nogle mennesker hjælper det at have et par ting diskret på plads: en betroet person, der ved, hvad der foregår, vigtige dokumenter og telefonnumre, hvor man kan få fat i dem, en lille taske med det nødvendigste, en fornemmelse af de sikreste veje ud af hjemmet eller et ord eller signal, der fortæller nogen, at man har brug for hjælp. Hvad der giver mening, afhænger helt af din egen situation.\n\nDu behøver ikke at klare det her alene, og det er ofte mere sikkert ikke at gøre det. Voldshjælpetjenester har stor erfaring med at udarbejde sikkerhedsplaner sammen med mennesker, fortroligt og gratis — også for tiden omkring det at forlade forholdet, hvilket kan være et øjeblik med højere risiko og derfor bør planlægges med støtte frem for i hast.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakt et center mod vold eller en hjælpelinje (i Italien **1522**) for at udarbejde en plan, der passer til din situation — de gør dette hver dag, fortroligt, og kan hjælpe med praktiske, juridiske og følelsesmæssige skridt.\n- Hvis du fører nogen form for optegnelser over, hvad der sker, skal du opbevare dem et privat og sikkert sted.",
+      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien kan **1522** — gratis, døgnet rundt, anonymt, flersproget — yde hjælp via telefon eller chat, herunder med akut sikkerhedsplanlægning."
+    },
+    "sex-during-your-period": {
+      "title": "Sex under menstruationen",
+      "aliases": [
+        "sex under menstruationen",
+        "sex under menstruation",
+        "sex når man har mens",
+        "menstruationssex",
+        "kan man blive gravid under menstruationen",
+        "gravid under menstruation",
+        "blive gravid når man har mens"
+      ],
+      "glance": "Sex under menstruationen er helt i orden, hvis I begge har lyst, men du kan stadig blive gravid eller overføre en kønssygdom.",
+      "overview": "At have sex under menstruationen er et personligt valg. Hvis I begge har lyst og har det godt med det, er det helt i orden, og der er intet forkert eller usædvanligt ved det. Nogle føler sig mere følsomme på det tidspunkt eller har simpelthen ikke lyst, mens andre nyder det. Det vigtigste er at lytte til din krop og tale åbent med din partner.\n\nDet, menstruationen ikke gør, er at virke som prævention. Risikoen for at blive gravid er mindre end omkring ægløsningen, men den er ikke nul. Sædceller kan overleve inde i kroppen i op til 7 dage efter sex, så hvis du har tidlig ægløsning, hvilket er mere sandsynligt med en kortere cyklus, kan sædceller fra sex under eller lige efter menstruationen stadig møde et æg. Hvis du ikke vil være gravid, er din sædvanlige prævention stadig vigtig på disse dage.\n\nMenstruationen beskytter heller ikke mod seksuelt overførte infektioner (kønssygdomme). Infektioner kan overføres mellem partnere ved sex uden kondom, og de mikroorganismer, der forårsager dem, kan findes i blod såvel som i andre kropsvæsker. Kondomer er den metode, der også mindsker risikoen for kønssygdomme, herunder hiv, så de er værd at bruge uanset tidspunktet på måneden.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvis du har haft sex **uden prævention**, eller din prævention måske har svigtet, og du ikke vil være gravid, så tal med apoteket, din læge eller en klinik for seksuel sundhed om nødprævention **så hurtigt som muligt**. Den skal bruges inden for få dage og virker som regel bedre, jo før den bruges.\n- Få hjælp på apoteket, hos en klinik for seksuel sundhed, hos din læge eller via **NHS 111**, hvis **et kondom går i stykker eller glider af** under sex. Du kan have brug for nødprævention eller en test for kønssygdomme.\n- Gå til din læge eller en klinik for seksuel sundhed, hvis du får **blødning efter sex, når du ikke har menstruation**. Som regel er det ikke alvorligt, men det er altid en god idé at få det undersøgt.",
+      "red_flags": null
+    },
+    "sexual-violence": {
+      "title": "Seksuel vold og samtykke",
+      "aliases": [
+        "seksuel vold",
+        "seksuelle overgreb",
+        "voldtægt",
+        "samtykke",
+        "seksuelt misbrug",
+        "uden samtykke"
+      ],
+      "glance": "Seksuel vold er enhver seksuel handling uden samtykke — og det er aldrig den person, der har været udsat for det, der bærer skylden.",
+      "overview": "Seksuel vold betyder enhver seksuel handling eller ethvert forsøg på at udføre en sådan handling uden samtykke eller ved tvang. Det omfatter voldtægt og enhver uønsket seksuel kontakt, og det kan begås af hvem som helst – en fremmed, en bekendt, en partner eller en ægtefælle.\n\nSamtykke er kernen i det hele. Samtykke betyder at give sit frie samtykke, og det er ikke muligt, når en person sover, er bevidstløs, beruset eller påvirket af stoffer, er et barn, eller bliver presset, truet eller er bange. Det kan tilbagekaldes når som helst. Derfor er seksuel vold **aldrig** den person skyld, der blev udsat for den — hverken på grund af, hvad vedkommende havde på, om vedkommende havde drukket, om vedkommende frøs fast i stedet for at kæmpe imod, eller om vedkommende kendte personen.\n\nHvis du har oplevet dette, er der hjælp at hente, uanset om det er sket for nylig eller for længe siden. Vi tror på dig, og hvad du vælger at gøre nu, er helt op til dig.",
+      "deep": null,
+      "when_to_see_doctor": "- Du kan henvende dig til en **sundhedstjeneste, et hospital eller en specialiseret rådgivningstjeneste for ofre for seksuelle overgreb**, som kan tage sig af dig, behandle eventuelle skader og – hvis du ønsker det – hjælpe med at anmelde overgrebet og sikre bevismateriale.\n- Nogle sundhedsforanstaltninger er **tidsfølsomme** — for eksempel nødprævention eller forebyggelse af infektion — så det kan hjælpe at søge hjælp **hurtigt**. Men der er ingen tidsfrist for at få hjælp, og det er altid dit valg, om du vil anmelde det.",
+      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- Efter et nyligt overgreb kan et **hospital eller en specialiseret tjeneste yde akut hjælp**. I Italien kan **1522** (gratis, døgnet rundt, anonymt, flersproget – via telefon eller chat) vejlede dig til den rette hjælp."
+    },
     "signs-of-labour": {
       "title": "Tegn på fødsel",
       "aliases": [
@@ -835,6 +1042,22 @@
       "when_to_see_doctor": "- Søg læge eller henvend dig til en klinik for seksuel sundhed **hver gang du oplever blødning mellem menstruationerne eller efter samleje**,\n  selv om blødningen er let. Det er som regel ikke noget alvorligt, men ved at få det undersøgt kan man\n  finde årsagen — og det er den bedste måde at udelukke mindre almindelige årsager på et tidligt tidspunkt.",
       "red_flags": "- Bed om en **haster** tid hos din praktiserende læge, eller ring til **NHS 111**, hvis du **ikke har fået din menstruation og har\n  usædvanlig blødning samt mave- eller bækkensmerter** — dette kræver øjeblikkelig undersøgelse, da det kan være et\n  tegn på en graviditet uden for livmoderen."
     },
+    "stalking": {
+      "title": "Stalking",
+      "aliases": [
+        "stalking",
+        "at blive forfulgt",
+        "chikane",
+        "uønsket opmærksomhed",
+        "nogen, der følger efter mig",
+        "cyberstalking"
+      ],
+      "glance": "Stalking er gentagen, uønsket opmærksomhed, der får dig til at føle dig bange eller utryg — og det tages alvorligt.",
+      "overview": "Stalking er et mønster af uønsket, gentagen adfærd fra en person, der får dig til at føle dig bange, overvåget eller utryg. Det kan omfatte at blive forfulgt, at nogen dukker op der, hvor du er, konstante opkald eller beskeder, uønskede gaver, overvågning af dig online eller via din telefon eller trusler. Det udøves ofte af en tidligere partner eller en, du kender, men ikke altid.\n\nDen frygt, det skaber, er berettiget, selvom hver enkelt handling måske virker »lille« for andre — det er mønsteret og den følelse, det giver dig, der betyder noget. Stalking anerkendes som en form for misbrug, og i mange lande er det en forbrydelse. Intet af det er din skyld, og du behøver ikke bare at leve med det.\n\nHvis det er sikkert at gøre det, kan det være en hjælp senere at føre en oversigt over datoer og klokkeslæt, skærmbilleder af beskeder og hvad der skete. Du behøver ikke selv at finde ud af, om det »tæller« — støttetjenester kan hjælpe dig med at forstå det og overveje dine muligheder.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakt **politiet** for at anmelde stalking, og en hjælpelinje mod vold eller stalking for at få støtte og rådgivning (i Italien er **1522** nummeret for både vold **og** stalking).\n- At gemme beviser og udarbejde en sikkerhedsplan med hjælp fra en specialiseret tjeneste kan begge dele gøre en reel forskel.",
+      "red_flags": "- Hvis du føler dig i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien kan **1522** — gratis, døgnet rundt, anonymt, flersproget — yde hjælp via telefon eller chat."
+    },
     "stillbirth": {
       "title": "Dødfødsel",
       "aliases": [
@@ -865,22 +1088,64 @@
       "when_to_see_doctor": "Kontakt din praktiserende læge, hvis:\n\n- du har sprunget **tre menstruationer i træk** over, eller hvis dine menstruationer er blevet **uregelmæssige**\n- din menstruation **ophører**, og du ikke er sikker på årsagen (og da graviditet er en mulighed, er det en god idé at tage en graviditetstest først)\n- de udeblivne menstruationer ledsages af andre forandringer — som uventede vægtudsving, træthed, øget hårvækst\n  eller nedtrykthed\n\nDisse undersøgelser har blot til formål at finde ud af, hvad der ligger bag forandringen — hvilket som regel er noget,\nder kan håndteres.",
       "red_flags": null
     },
-    "the-coil": {
-      "title": "Spolen (IUD og IUS)",
+    "supporting-her-period": {
+      "title": "Støtte hende i hendes menstruation",
       "aliases": [
-        "spole",
-        "spolen",
+        "hjælper i hendes menstruation",
+        "periodestøtte til partnere",
+        "periodepleje"
+      ],
+      "glance": "Menstruation kan give ægte smerte og træthed - lille, praktisk pleje gør en stor forskel.",
+      "overview": "En menstruation er ikke bare et par dage med blødning; for mange kommer det med kramper, rygsmerter, hovedpine,\ntræthed og lav energi. Menstruationssmerter er almindelige og kan være virkelig drænende - det er ikke en\noverdrivelse. Behandl det, som du ville behandle enhver partner, der er syg: med praktisk venlighed.\n\nNormaliser det også. Menstruationer er ikke grove, pinlige eller et tabu. At være behagelig at købe puder eller\ntamponer, at holde nogle derhjemme eller give hende en varmedunk uden besvær fortæller hende, at hun er i sikkerhed og\nunderstøttes.",
+      "deep": "Simple ting, der hjælper:\n\n- **Varme og hvile.** En varmedunk eller varmepude på den nederste del af maven letter kramper; tilbyde en stille\n  aften i.\n- **Tag tingene fra hendes tallerken.** Lav mad, rydde op, løb ærinde, kør hende - praktisk hjælp lander hårdere\n  end ord.\n- **Behold forsyninger.** Ved, hvad hun bruger, og hold et lager, så en tung dag er aldrig en krise.\n- **Smertestillende medicin og trøstemad** hvis hun vil have dem; hendes valg.\n- **Lad være med at presse for sex eller energi, hun ikke har.** Nærhed kan være en kram på sofaen.",
+      "when_to_see_doctor": "Tilskynd hende til at se en læge (og tilbud at tage med hende), hvis menstruationssmerter er **svære, bliver værre,\neller stoppe hende fra dagligdagen**, hvis menstruationen er **meget tung** (gennembløder beskyttelse hver time,\nstore blodpropper), eller hvis smerter er nye og usædvanlige - disse kan pege på tilstande som endometriose\nfortjener ordentlig pleje.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Støtte til en person, der udsættes for vold",
+      "aliases": [
+        "at støtte nogen",
+        "hjælp til en veninde",
+        "hvordan man kan hjælpe",
+        "en person, der udsættes for misbrug",
+        "hvordan man yder støtte"
+      ],
+      "glance": "Hvis en person, du kender, muligvis er udsat for misbrug, hjælper det at lytte uden at dømme – og at vide, hvor man kan henvise vedkommende hen.",
+      "overview": "Det er svært at indse, at en person, du holder af, måske er udsat for misbrug, og det er en god instinkt at ønske at hjælpe. De mest nyttige ting, du kan tilbyde, er ofte de enkleste.\n\nLyt til dem, og tro på dem. Lad dem tale i deres eget tempo, uden at dømme, bebrejde eller spørge, hvad de har gjort for at forårsage det. Sig klart og tydeligt, at det ikke er deres skyld, og at de ikke fortjener det. Prøv ikke at fortælle dem, hvad de skal gøre, eller presse dem til at forlade stedet: Det er deres beslutning, om de vil gå, og at gøre det i hast kan faktisk øge faren — det, der hjælper mest, er, at de føler sig støttet og ikke alene.\n\nBehandl det, de fortæller dig, fortroligt. Hjælp dem forsigtigt med at finde specialiseret støtte, når de er klar – en hjælpelinje som **1522** i Italien eller et lokalt center mod vold – og tilbyd praktisk hjælp, f.eks. ved at slå numrene op sammen med dem eller være der, når de ringer. Og pas også på dig selv; det kan være en stor belastning at støtte nogen gennem dette.",
+      "deep": null,
+      "when_to_see_doctor": "- Opfordr hende (uden at lægge pres på hende) til at kontakte en hjælpelinje eller et center mod vold, som kan vejlede jer begge om, hvad I skal gøre nu. Du kan tilbyde at hjælpe hende med at ringe eller finde nummeret.\n- Hvis de er kommet til skade, kan en praktiserende læge eller et hospital hjælpe — og sætte dem i kontakt med støttetjenester.",
+      "red_flags": "- Hvis de er i **umiddelbar fare**, skal de ringe til alarmtjenesten: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien kan **1522** (gratis, døgnet rundt, anonymt, flersproget – telefon eller chat) også rådgive dig om, hvordan du kan hjælpe en anden."
+    },
+    "the-coil": {
+      "title": "Spiralen (kobberspiral og hormonspiral)",
+      "aliases": [
+        "spiral",
+        "spiralen",
         "IUD",
         "IUS",
         "kobberspiral",
+        "hormonspiral",
         "hormonel spiral",
-        "spiral",
         "intrauterint system",
         "Mirena"
       ],
       "glance": "Spiralen er en lille anordning, der indsættes i livmoderen — enten en kobberspiral (IUD) eller en hormonspiral (IUS) — og som holder i flere år.",
       "overview": "Spiralen er en lille anordning, som en læge indsætter i livmoderen. Der findes to typer, og det er en fordel at\nkunne skelne mellem dem:\n\n- **IUD**, også kaldet kobberspiralen, indeholder ingen hormoner. Kobberet ændrer forholdene i livmoderen, så\n  sperm og æg ikke kan overleve særlig godt, og det påvirker også livmoderhalsslimet. Afhængigt af typen\n  virker den i cirka 5 til 10 år.\n- **IUS**, også kaldet hormonspiralen, frigiver et progestogen i stedet for at bruge kobber. Det tykner\n  slimet i livmoderhalsen og tynder livmoderslimhinden; for nogle kan det også gøre menstruationen\n  meget lettere.\n\nBegge er \"sæt den ind og glem den\"-metoder, og begge er over 99 % effektive, med kun lille forskel mellem\nperfekt og typisk brug. Ingen af dem beskytter mod seksuelt overførte infektioner.",
-      "deep": "Spiralerne er langtidsvirkende, reversible præventionsmetoder: Når de først er sat ind, virker de i årevis, og frugtbarheden\nvender tilbage, når de fjernes. Indsættelse og fjernelse udføres af en uddannet sundhedsperson og tager kun et\npar minutter, selvom nogle oplever indsættelsen som ubehagelig. En almindelig grund til, at folk vælger mellem\nde to, er deres indvirkning på menstruationen — kobberIUDen kan i starten gøre menstruationen kraftigere, mens\nhormonIUSen ofte gør den lettere. Hvilken der passer bedst til dig, skal du drøfte med en læge; denne artikel\nforklarer blot, hvordan de hver især virker.",
+      "deep": "Spiralerne er langtidsvirkende, reversible præventionsmetoder: Når de først er sat ind, virker de i årevis, og frugtbarheden\nvender tilbage, når de fjernes. Indsættelse og fjernelse udføres af en uddannet sundhedsperson og tager kun et\npar minutter, selvom nogle oplever indsættelsen som ubehagelig. En almindelig grund til, at folk vælger mellem\nde to, er deres indvirkning på menstruationen — kobberspiralen kan i starten gøre menstruationen kraftigere, mens\nhormonspiralen ofte gør den lettere. Hvilken der passer bedst til dig, skal du drøfte med en læge; denne artikel\nforklarer blot, hvordan de hver især virker.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "De præmenstruelle dage",
+      "aliases": [
+        "PMS til partnere",
+        "støtte hende før hendes menstruation",
+        "præmenstruel støtte",
+        "luteal fase støtte"
+      ],
+      "glance": "I dagene før hendes menstruation kan hun føle sig mere træt, øm eller lav - mød det med tålmodighed, ikke vittigheder.",
+      "overview": "I en uge eller deromkring før en menstruation får mange mennesker præmenstruelle symptomer: humørsvingninger, irritabilitet\neller lav følelse, træthed, ømme bryster, oppustethed, hovedpine eller søvnbesvær. Det er meget almindeligt\nog det er ægte - drevet af det naturlige hormonskift i lutealfasen, ikke af hendes \"overreagere\".\n\nFor et mindre antal mennesker er det lave humør alvorlig (en tilstand kaldet PMDD) og fortjener reel\nstøtte og lægehjælp. Uanset hvad er dit job ikke at diagnosticere eller reparere hende - det er at være stabil og\nvenlig.\n\nDen mest skadelige ting, en partner kan gøre her, er at bevæbne den: \"du har bare PMS\", eye-rolls,\neller behandle hendes følelser som ugyldige på grund af datoen. Det afviser hende og føjer smerte til et hårdt\nuge. Hendes følelser tæller stadig, selv når hormoner er en del af billedet.",
+      "deep": "Hvad der rent faktisk hjælper i disse dage:\n\n- **Læt hendes byrde.** Påtag pligter, madlavning eller den mentale huskeliste uden at blive spurgt.\n- **Trøst, ikke korrektion.** Tilbyd varme, hvile, en varmedunk, hendes yndlingsmad - og lad\n  hun føler, hvad hun føler.\n- **Hør først.** Hvis hun er ked af det, slår \"det lyder rigtig hårdt\" \"rolig\" hver gang.\n- **Hold ikke score.** En hårdere dag er ikke en gæld, hun skylder dig senere.\n- **Spørg hvad hun har brug for** — nogle vil have nærhed, nogle vil have plads. Begge er okay; respekter hendes svar.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -899,6 +1164,20 @@
       "overview": "At man venter mere end ét barn, opdages som regel først ved **graviditetsscanningen** (omkring 12. uge),\nhvor det også kan ses, om børnene deler en moderkage.\n\nDer er to hovedtyper. **Enæggede** tvillinger stammer fra et enkelt befrugtet æg, der deler sig, så de\ndeler de samme gener og er altid af samme køn. **Ikke-identiske** tvillinger stammer fra to separate\næg og ligner hinanden ikke mere end andre søskende; de er den mest almindelige af de to typer og forekommer\nlidt oftere hos ældre kvinder, hvis der er en familiehistorie på moderens side, eller efter fertilitetsbehandling.\n\nAt være gravid med tvillinger eller flere er en helt særlig oplevelse, og det betyder som regel **lidt mere graviditetsopfølgning** —\nekstra konsultationer og ultralydsscanninger for at holde nøje øje med dig og dine babyer. Dit jordemoderteam vil\nforklare, hvad du kan forvente.",
       "deep": null,
       "when_to_see_doctor": "- Hvis en ultralydsscanning viser, at du venter tvillinger (eller flere), vil din **jordemoder** forklare dig, hvilke ekstra kontrolbesøg og\n  ultralydsscanninger der følger med en flerfoldsgraviditet — at deltage i dem alle er den bedste måde at sikre, at du bliver\n  passet godt på.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Forstå hendes cyklus",
+      "aliases": [
+        "partnerguide til cyklussen",
+        "cyklus for partnere",
+        "hvordan hendes cyklus fungerer",
+        "støtte hendes cyklus"
+      ],
+      "glance": "Hendes krop bevæger sig gennem en månedlig cyklus med fire faser - at kende det grundlæggende hjælper dig med at støtte hende uden at gætte.",
+      "overview": "Menstruationscyklussen er en omtrent månedlig rytme, i gennemsnit omkring 28 dage, men ofte alt fra 21\ntil 35, og normalt for hende er hvad der er almindeligt for *hende*. Den kører i fire faser: **menstruationen**\nfase (hendes menstruation), den **follikulære** fase, **ægløsning** omkring midten og **luteal**\nfase før næste periode.\n\nEnergi, humør, søvn og lyst kan skifte på tværs af disse faser, fordi hormoner stiger og falder - det er\nbiologi, ikke en karakterfejl og ikke noget at drille hende med. Nogle mennesker føler en reel dukkert i\ndage før deres menstruation; andre mærker det knap. Der er ikke en enkelt \"rigtig\" måde at føle på.\n\nDu behøver ikke at blive ekspert. Det, der hjælper mest, er enkelt: ved nogenlunde, hvor hun er i sin cyklus\n(denne app kan vise dig, med hendes tilladelse), forventer, at nogle dage er sværere end andre, og spørg\nhende, hvad *hun* finder nyttigt i stedet for at antage.",
+      "deep": "Et par ting, der er værd at vide, så myter ikke udfylder hullet:\n\n- **\"På hendes menstruation\" er ikke en fornærmelse eller en forklaring på at være uenig med hende.** At bruge sin cyklus til at\n  afvise hendes følelser (\"du er bare hormonel\") er respektløst, og det er normalt forkert. Hendes grunde\n  er stadig hendes grunde.\n- **Cyklusen påvirker mere end menstruation.** Kramper, hovedpine, ømme bryster, lav energi eller lavere\n  humør kan alt sammen være en del af det. Praktisk hjælp slår råd.\n- **Sporing er hendes.** Hvis hun deler sin cyklus med dig, skal du behandle det som et vindue til, hvordan hun kan være\n  følelse - en invitation til at være venlig, aldrig et værktøj til at overvåge eller kontrollere hende.\n- **Når du er i tvivl, så spørg.** \"Hvordan har du det i dag? Noget jeg kan gøre?\" er mere værd end noget diagram.",
+      "when_to_see_doctor": null,
       "red_flags": null
     },
     "vaginal-dryness": {
@@ -922,241 +1201,13 @@
         "intimhygiejne",
         "at holde rent",
         "skylning",
-        "udledning"
+        "udflåd"
       ],
       "glance": "Skeden renser sig selv — den har kun brug for skånsom pleje udefra, og udflåd er helt normalt.",
-      "overview": "En af de mest betryggende ting at vide er, at skeden passer på sig selv. Den er naturligt\nselvrensende, og det udflåd, du bemærker, er en del af det — en væske, der holder den ren og fugtig\nog hjælper med at beskytte den mod infektioner. Mængden og konsistensen ændrer sig gennem menstruationscyklussen, hvilket er\nhelt normalt.\n\nDerfor behøver skeden ikke at blive vasket indvendigt. Faktisk kan indvendig vask —\n”skylning” — forstyrre dens naturlige balance. Ydersiden (vulvaen) har blot brug for skånsom pleje: varmt\nvand og, hvis du vil, en mild, uparfumeret sæbe. Parfumerede sæber, geler, deodoranter og duftende\nvådservietter bør helst undgås, da de kan forårsage irritation.\n\nNår du lærer at kende, hvad der er normalt for dig – din sædvanlige udflåd, udseende og fornemmelse – bliver det lettere at\nlægge mærke til, hvis noget ændrer sig og muligvis bør undersøges.",
+      "overview": "En af de mest betryggende ting at vide er, at skeden passer på sig selv. Den er naturligt\nselvrensende, og det udflåd, du bemærker, er en del af det — en væske, der holder den ren og fugtig\nog hjælper med at beskytte den mod infektioner. Mængden og konsistensen ændrer sig gennem menstruationscyklussen, hvilket er\nhelt normalt.\n\nDerfor behøver skeden ikke at blive vasket indvendigt. Faktisk kan indvendig vask —\n”skylning” — forstyrre dens naturlige balance. Ydersiden (vulvaen) har blot brug for skånsom pleje: varmt\nvand og, hvis du vil, en mild, uparfumeret sæbe. Parfumerede sæber, geler, deodoranter og duftende\nvådservietter bør helst undgås, da de kan forårsage irritation.\n\nNår du lærer at kende, hvad der er normalt for dig – dit sædvanlige udflåd, udseende og fornemmelse – bliver det lettere at\nlægge mærke til, hvis noget ændrer sig og muligvis bør undersøges.",
       "deep": null,
       "when_to_see_doctor": "Søg læge eller henvend dig til en klinik for seksuel sundhed, hvis du bemærker:\n\n- en ændring i dit udflåd — farve, lugt eller konsistens, eller hvis der er meget mere udflåd end normalt\n- kløe, ømhed eller irritation omkring skeden eller vulvaen\n- blødning mellem menstruationerne eller efter samleje\n- smerter, når du tisser, eller smerter nederst mellem maven og lårene (bækken smerter)\n\nDette er almindelige symptomer, der ofte let kan behandles — en ændring i udflåd kan blot betyde en mild infektion\nsom f.eks. trøske. Det er bedst at få det undersøgt, frem for at gætte.",
       "red_flags": null
-    },
-    "consent-and-respect": {
-      "title": "Samtykke og respekt",
-      "aliases": [
-        "samtykke",
-        "respektere hendes grænser",
-        "entusiastisk samtykke",
-        "kropslig autonomi"
-      ],
-      "glance": "Samtykke er et klart, gratis, entusiastisk ja - hver gang, og det kan trækkes tilbage når som helst.",
-      "overview": "Respekt starter med hendes ret til at bestemme over sin egen krop - altid. Samtykke til intimitet betyder en\nfrit givet, informeret, entusiastisk **ja**. Stilhed er ikke samtykke. En modvillig \"bøde\" er ikke samtykke.\nEn person, der sover, meget fuld eller er under pres, kan ikke rigtig give samtykke. Og et ja til én ting, eller videre\nen dag, er ikke et ja til alt eller til næste gang.\n\nSamtykke kan trækkes tilbage når som helst, og \"stop\" eller \"ikke i aften\" er et komplet svar, der behøver nej\nbegrundelse. Presser, snubler i skyldfølelse, surmuler, indtil hun giver efter, eller behandler sex som noget\ndu skylder er ikke okay - et forhold er ikke en gæld.",
-      "deep": "Hvordan ser respekt ud i praksis:\n\n- **Spørg og tjek ind.** \"Er det i orden?\" og være opmærksom på, hvordan hun reagerer - ord og krop.\n- **Tag \"nej\" med ynde.** Ingen bulder, pres eller straf. Hendes svar er enden på det.\n- **Entusiasme betyder noget.** Hvis hun virker usikker, tøvende eller bare følger med, så stop op og spørg.\n- **Hendes krop, hendes opkald** — om intimitet, prævention, graviditet, hendes helbred, hendes udseende, hendes\n  valg. Du får en stemme i dit fælles liv, aldrig et veto over hendes krop.\n- **Respekt er dagligt.** Hvordan du taler til hende, om hende og behandler hendes grænser i små ting er\n  fundamentet alt andet hviler på.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "listening-and-support": {
-      "title": "Lytte og følelsesmæssig støtte",
-      "aliases": [
-        "hvordan man lytter",
-        "følelsesmæssig støtte til partnere",
-        "kommunikation",
-        "være der for hende"
-      ],
-      "glance": "Det meste af tiden har hun brug for at blive hørt, ikke fikset - lyt først, og spørg, før du rådgiver.",
-      "overview": "Når en, vi elsker, kæmper, er instinktet at hoppe ind og løse det. Men ofte det, der hjælper mest\nføler sig oprigtigt hørt: at hendes følelser giver mening, og hun ikke er alene med dem. Fixer også\nhurtigt kan lande som \"dine følelser er et problem at lukke ned\".\n\nGod lytning er en færdighed, som alle kan lære. Det er mest opmærksomhed: At lægge telefonen fra sig, vende sig mod hende,\nog lader hende afslutte. Du behøver ikke være enig i hvert punkt for at få hende til at føle sig respekteret.",
-      "deep": "Praktiske måder at dukke op på:\n\n- **Lyt for at forstå, ikke for at svare.** Lad hende tale uden at afbryde eller planlægge dit forsvar.\n- **Reflekter det tilbage.** \"Det lyder virkelig stressende\" eller \"Jeg forstår, hvorfor det gjorde ondt\" slår \"bare ikke\n  bekymre dig om det\".\n- **Spørg før du rådgiver.** \"Vil du have hjælp til at tænke det igennem, eller vil du bare have, at jeg lytter?\"\n- **Tag det ikke personligt**, når en hård dag ikke handler om dig. Stabilitet er en gave.\n- **Eje din del.** Hvis du har taget noget galt, genopbygger en ægte undskyldning - uden \"men\" - tilliden.\n- **Lær mærke til det større billede.** Hvis hun virker vedvarende lav, angst eller ikke selv, så forsigtigt\n  opmuntre til støtte og tilbyde at hjælpe hende med at nå det. Du er en holdkammerat, ikke en terapeut.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "respect-not-control": {
-      "title": "Respekt, ikke kontrol",
-      "aliases": [
-        "kontrollerende adfærd",
-        "tvangskontrol",
-        "sundt forhold",
-        "advarselsskilte",
-        "hvor man kan få hjælp",
-        "misbrug"
-      ],
-      "glance": "Kærlighed er bygget på respekt og frihed - kontrol, jalousi og pres er ikke kærlighed, og hjælp findes.",
-      "overview": "Et sundt forhold hviler på respekt, tillid, lighed og frihed: to mennesker, der hver beholder deres\negne venskaber, valg og rum. Kontrol er det modsatte. Det gemmer sig ofte bag ord som kærlighed eller\njalousi - \"Jeg tjekker din telefon, fordi jeg er ligeglad\", \"Jeg vil ikke have, at du ser dem, fordi jeg elsker dig\" - men\ndens effekt er at skrumpe hendes verden og hendes frihed.\n\nKontrol starter sjældent med vold. Det begynder normalt i det små - en kritik, en grænse overskredet, en\n\"joke\", der svier — og vokser. At navngive det tidligt betyder noget, for tvangskontrol er i sig selv en form for\nmisbrug og et advarselsskilt for værre. Dette handler ikke om skyld; det handler om ærlighed og forandring.",
-      "deep": "**Hvis du genkender nogle af disse i dig selv, er denne bevidsthed et udgangspunkt – ikke en livstidsdom.**\nFolk kan ændre sig med virkelig indsats og den rette hjælp. At nå ud til et dedikeret program for mænd\nder ønsker at stoppe med at være kontrollerende eller voldelige er et tegn på styrke, ikke svaghed. Tal med en\nprofessionel, en læge eller en mænds adfærdsændringstjeneste.\n\nHvis **hun** er den, der er i fare, eller du er bekymret for nogen, så opmuntre og støtte hende til at nå\nhjælp — på hendes præmisser, aldrig ved at tage over.\n\n**Hvor kan man få hjælp**\n- I en nødsituation, eller hvis nogen er i umiddelbar fare, skal du ringe til dit lokale alarmnummer\n  (**112** i Italien og store dele af Europa; **911** i USA).\n- **Italien — 1522**: den nationale anti-volds- og stalking-hjælpelinje. Gratis, 24/7, anonym og\n  flersproget, drevet af afdelingen for lige muligheder. Det guider også folk til lokale\n  antivoldscentre (centri antiviolenza).\n- Antivoldscentre og mænds adfærdsændringsprogrammer (i Italien, \"centri per uomini autori di\n  violenza\") tilbyde fortrolig støtte til forandring.",
-      "when_to_see_doctor": null,
-      "red_flags": "Advarselstegn på kontrollerende eller krænkende adfærd - værd at tage alvorligt i dig selv eller et forhold:\n\n- **Overvågning eller isolering**: tjekker hendes telefon, sporer hendes placering eller afskærer hende fra\n  venner og familie.\n- **Kontrol over valg**: penge, hvad hun har på, hvor hun går, hvem hun ser.\n- **Jalousi indrammet som kærlighed**, konstante anklager eller behov for at vide, hvor hun er til enhver tid.\n- **Afskrækker, bebrejder eller får hende til at føle sig bange**, skyldig eller \"at gå på æggeskaller\".\n- **Pres eller trusler** om sex, brud eller selvskade for at få overholdelse.\n- **Enhver fysisk kraft, intimidering eller frygt.** Hvis dette er til stede, er det misbrug - tag fat i hjælpen\n  ovenfor. Der er aldrig en undskyldning, og det er aldrig hendes skyld."
-    },
-    "supporting-her-period": {
-      "title": "Støtte hende i hendes menstruation",
-      "aliases": [
-        "hjælper i hendes menstruation",
-        "periodestøtte til partnere",
-        "periodepleje"
-      ],
-      "glance": "Menstruation kan give ægte smerte og træthed - lille, praktisk pleje gør en stor forskel.",
-      "overview": "En menstruation er ikke bare et par dage med blødning; for mange kommer det med kramper, rygsmerter, hovedpine,\ntræthed og lav energi. Menstruationssmerter er almindelige og kan være virkelig drænende - det er ikke en\noverdrivelse. Behandl det, som du ville behandle enhver partner, der er syg: med praktisk venlighed.\n\nNormaliser det også. Menstruationer er ikke grove, pinlige eller et tabu. At være behagelig at købe puder eller\ntamponer, at holde nogle derhjemme eller give hende en varmedunk uden besvær fortæller hende, at hun er i sikkerhed og\nunderstøttes.",
-      "deep": "Simple ting, der hjælper:\n\n- **Varme og hvile.** En varmedunk eller varmepude på den nederste del af maven letter kramper; tilbyde en stille\n  aften i.\n- **Tag tingene fra hendes tallerken.** Lav mad, rydde op, løb ærinde, kør hende - praktisk hjælp lander hårdere\n  end ord.\n- **Behold forsyninger.** Ved, hvad hun bruger, og hold et lager, så en tung dag er aldrig en krise.\n- **Smertestillende medicin og trøstemad** hvis hun vil have dem; hendes valg.\n- **Lad være med at presse for sex eller energi, hun ikke har.** Nærhed kan være en kram på sofaen.",
-      "when_to_see_doctor": "Tilskynd hende til at se en læge (og tilbud at tage med hende), hvis menstruationssmerter er **svære, bliver værre,\neller stoppe hende fra dagligdagen**, hvis menstruationen er **meget tung** (gennembløder beskyttelse hver time,\nstore blodpropper), eller hvis smerter er nye og usædvanlige - disse kan pege på tilstande som endometriose\nfortjener ordentlig pleje.",
-      "red_flags": null
-    },
-    "the-premenstrual-days": {
-      "title": "De præmenstruelle dage",
-      "aliases": [
-        "PMS til partnere",
-        "støtte hende før hendes menstruation",
-        "præmenstruel støtte",
-        "luteal fase støtte"
-      ],
-      "glance": "I dagene før hendes menstruation kan hun føle sig mere træt, øm eller lav - mød det med tålmodighed, ikke vittigheder.",
-      "overview": "I en uge eller deromkring før en menstruation får mange mennesker præmenstruelle symptomer: humørsvingninger, irritabilitet\neller lav følelse, træthed, ømme bryster, oppustethed, hovedpine eller søvnbesvær. Det er meget almindeligt\nog det er ægte - drevet af det naturlige hormonskift i lutealfasen, ikke af hendes \"overreagere\".\n\nFor et mindre antal mennesker er det lave humør alvorlig (en tilstand kaldet PMDD) og fortjener reel\nstøtte og lægehjælp. Uanset hvad er dit job ikke at diagnosticere eller reparere hende - det er at være stabil og\nvenlig.\n\nDen mest skadelige ting, en partner kan gøre her, er at bevæbne den: \"du er bare PMSing\", eye-rolls,\neller behandle hendes følelser som ugyldige på grund af datoen. Det afviser hende og føjer smerte til et hårdt\nuge. Hendes følelser tæller stadig, selv når hormoner er en del af billedet.",
-      "deep": "Hvad der rent faktisk hjælper i disse dage:\n\n- **Læt hendes byrde.** Påtag pligter, madlavning eller den mentale huskeliste uden at blive spurgt.\n- **Trøst, ikke korrektion.** Tilbyd varme, hvile, en varmedunk, hendes yndlingsmad - og lad\n  hun føler, hvad hun føler.\n- **Hør først.** Hvis hun er ked af det, slår \"det lyder rigtig hårdt\" \"rolig\" hver gang.\n- **Hold ikke score.** En hårdere dag er ikke en gæld, hun skylder dig senere.\n- **Spørg hvad hun har brug for** — nogle vil have nærhed, nogle vil have plads. Begge er okay; respekter hendes svar.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "understanding-her-cycle": {
-      "title": "Forstå hendes cyklus",
-      "aliases": [
-        "partnerguide til cyklussen",
-        "cyklus for partnere",
-        "hvordan hendes cyklus fungerer",
-        "støtte hendes cyklus"
-      ],
-      "glance": "Hendes krop bevæger sig gennem en månedlig cyklus med fire faser - at kende det grundlæggende hjælper dig med at støtte hende uden at gætte.",
-      "overview": "Menstruationscyklussen er en omtrent månedlig rytme, i gennemsnit omkring 28 dage, men ofte alt fra 21\ntil 35, og normalt for hende er hvad der er almindeligt for *hende*. Den kører i fire faser: **menstruationen**\nfase (hendes menstruation), den **follikulære** fase, **ægløsning** omkring midten og **luteal**\nfase før næste periode.\n\nEnergi, humør, søvn og lyst kan skifte på tværs af disse faser, fordi hormoner stiger og falder - det er\nbiologi, ikke en karakterfejl og ikke noget at drille hende med. Nogle mennesker føler en reel dukkert i\ndage før deres menstruation; andre mærker det knap. Der er ikke en enkelt \"rigtig\" måde at føle på.\n\nDu behøver ikke at blive ekspert. Det, der hjælper mest, er enkelt: ved nogenlunde, hvor hun er i sin cyklus\n(denne app kan vise dig, med hendes tilladelse), forventer, at nogle dage er sværere end andre, og spørg\nhende, hvad *hun* finder nyttigt i stedet for at antage.",
-      "deep": "Et par ting, der er værd at vide, så myter ikke udfylder hullet:\n\n- **\"På hendes menstruation\" er ikke en fornærmelse eller en forklaring på at være uenig med hende.** At bruge sin cyklus til at\n  afvise hendes følelser (\"du er bare hormonel\") er respektløst, og det er normalt forkert. Hendes grunde\n  er stadig hendes grunde.\n- **Cyklusen påvirker mere end menstruation.** Kramper, hovedpine, ømme bryster, lav energi eller lavere\n  humør kan alt sammen være en del af det. Praktisk hjælp slår råd.\n- **Sporing er hendes.** Hvis hun deler sin cyklus med dig, skal du behandle det som et vindue til, hvordan hun kan være\n  følelse - en invitation til at være venlig, aldrig et værktøj til at overvåge eller kontrollere hende.\n- **Når du er i tvivl, så spørg.** \"Hvordan har du det i dag? Noget jeg kan gøre?\" er mere værd end noget diagram.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "child-abuse": {
-      "title": "Børnemishandling og børns sikkerhed",
-      "aliases": [
-        "børnemishandling",
-        "børnemishandling",
-        "børns sikkerhed",
-        "beskyttelse af et barn",
-        "bekymret for et barn",
-        "forsømmelse"
-      ],
-      "glance": "Hvis du er bekymret for, at et barn bliver udsat for overgreb eller omsorgssvigt, er det rigtigt at søge råd – du behøver ikke at være helt sikker.",
-      "overview": "Børnemishandling — eller vold mod børn — er skade på enhver under 18 år. Det omfatter fysisk, seksuel og følelsesmæssig mishandling samt omsorgssvigt (manglende opfyldelse af et barns grundlæggende behov). Det er desværre udbredt, det kan forårsage livslang skade, og det er aldrig barnets skyld.\n\nMåske er du bekymret for et barn i dit liv eller for et barn, du har lagt mærke til. Du behøver ikke at være sikker eller have beviser for at handle på den bekymring — at stole på din fornemmelse og søge råd er præcis det rigtige at gøre, og det kan beskytte et barn.\n\nOg hvis du selv har været udsat for misbrug som barn, skal du vide, at det aldrig var din skyld, og at der også er hjælp at hente til dig, uanset hvilken alder du har.",
-      "deep": null,
-      "when_to_see_doctor": "- Hvis du er bekymret for et barn, kan du kontakte **børneværn/socialforvaltningen**, en særlig **hjælpelinje for børneværn** eller en **praktiserende læge, sundhedsplejerske eller barnets skole** for at få rådgivning — i fuld fortrolighed.\n- Du \"overreagerer\" ikke ved at spørge. Det er bedre at tjekke end at vente.",
-      "red_flags": "- Hvis et barn er i **umiddelbar fare** eller alvorligt såret, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada."
-    },
-    "coercive-control": {
-      "title": "Tvangskontrol",
-      "aliases": [
-        "tvangskontrol",
-        "kontrollerende adfærd",
-        "følelsesmæssigt misbrug",
-        "psykisk vold",
-        "isolation",
-        "økonomisk misbrug",
-        "gaslighting"
-      ],
-      "glance": "Tvangskontrol er et mønster af kontrollerende adfærd – isolering, overvågning, trusler – som er en anerkendt form for misbrug.",
-      "overview": "Tvangskontrol er en form for misbrug, der udøves gennem kontrol snarere end – eller i tillæg til – fysisk vold. Det er et mønster – ikke en enkelt krangel – hvor den ene person gradvist begrænser den andens frihed og selvfølelse.\n\nDet kan f.eks. være at blive afskåret fra venner og familie, at få overvåget eller begrænset sin telefon, sine bevægelser eller sine udgifter, at blive dikteret, hvad man skal have på eller hvordan man skal opføre sig, eller at leve med konstant kritik, trusler eller intimidering. Da der måske ikke er blå mærker, kan det være svært at sætte ord på, og andre ser det måske ikke – men det anerkendes som misbrug, og det kan være lige så skadeligt som fysisk vold.\n\nHvis du genkender noget af dette, er det ikke et tegn på, at du er for følsom, eller at du selv har været skyld i det. Kontrollerende adfærd er et valg, som den anden person træffer. At forstå det for det, det er, kan være det første skridt mod at få hjælp.",
-      "deep": "Tvangskontrol opbygges ofte gradvist, hvilket er en del af grunden til, at det er svært at gennemskue indefra — små former for kontrol bliver normen, og selvtilliden svinder. Det tærer på den mentale sundhed over tid. At tale det igennem med en person, der er uddannet til at forstå disse mønstre, kan hjælpe dig med at se situationen mere klart og overveje, hvad du vil gøre herefter, uden at føle dig presset.",
-      "when_to_see_doctor": "- Et center mod vold eller en hjælpelinje (i Italien **1522**) kan tale med dig om det, du oplever, fortroligt og gratis, og hjælpe dig med at forstå dine muligheder — du behøver ikke at være i fysisk fare for at kontakte dem.\n- En praktiserende læge eller en rådgiver kan også støtte dig og henvise dig til specialiserede tilbud.",
-      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien er **1522** et gratis nummer, der er tilgængeligt 24 timer i døgnet, anonymt og flersproget – via telefon eller chat."
-    },
-    "economic-abuse": {
-      "title": "Økonomisk misbrug",
-      "aliases": [
-        "økonomisk misbrug",
-        "økonomisk misbrug",
-        "pengeforvaltning",
-        "styring af økonomien",
-        "gæld i mit navn"
-      ],
-      "glance": "Økonomisk misbrug er at kontrollere en persons adgang til penge, arbejde eller ressourcer — en anerkendt form for misbrug.",
-      "overview": "Økonomisk misbrug er, når en person kontrollerer en andens adgang til penge og de ting, man kan købe for penge. Det er en form for kontrollerende adfærd, og det forekommer ofte sammen med andre former for misbrug.\n\nDet kan f.eks. være at kontrollere alle udgifterne eller tvinge dig til at redegøre for hver en øre, at tage din løn eller dine ydelser, at stifte gæld i dit navn, at holde bankkonti eller dokumenter skjult for dig eller at forhindre dig i at arbejde eller studere. Da det kan efterlade en person uden midler til at forlade forholdet eller klare sig i hverdagen, er det en af de måder, hvorpå misbrug kan føles som en fælde.\n\nHvis noget af dette lyder bekendt, er det ikke et tegn på, at du er »dårlig til at håndtere penge« eller at det er din skyld. At kontrollere en anden persons ressourcer er et valg, som den anden person træffer — og det betragtes som misbrug.",
-      "deep": null,
-      "when_to_see_doctor": "- Voldshjælpetjenester kan også hjælpe med dette — ikke kun med sikkerhed, men også med praktiske og økonomiske tiltag, fortroligt og gratis (i Italien kan hjælpelinjen **1522** henvise dig til lokal støtte).\n- En sikkerhedsplan kan omfatte at sikre sig adgang til penge, vigtige dokumenter og vigtige telefonnumre på en diskret måde.",
-      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien kan **1522** — gratis, døgnet rundt, anonymt, flersproget — yde hjælp via telefon eller chat."
-    },
-    "getting-help": {
-      "title": "Hvor kan man få hjælp",
-      "aliases": [
-        "få hjælp",
-        "hvem man skal kontakte",
-        "hjælpelinjer",
-        "nyttige numre",
-        "center mod vold",
-        "1522",
-        "nødnumre"
-      ],
-      "glance": "Der er gratis, fortrolig hjælp til rådighed — i en nødsituation skal du ringe til dit lokale alarmnummer; i Italien kan du ringe til 1522 når som helst.",
-      "overview": "Hvis du er udsat for misbrug, behøver du ikke stå alene med det, og det forpligter dig ikke til noget at række ud. Der er mennesker, hvis eneste opgave er at lytte og hjælpe – fortroligt og gratis.\n\nDer findes flere former for hjælp side om side:\n\n- **Akut hjælp** — ved umiddelbar fare skal du ringe til det lokale alarmnummer (se nedenfor).\n- **En national hjælpelinje** — i Italien, **1522**, den gratis hjælpelinje mod vold og stalking: åben 24 timer i døgnet, anonym, tilgængelig på flere sprog, via telefon eller onlinechat.\n- **Voldsforebyggende centre** (i Italien *centri antiviolenza*) — lokale tilbud, der yder gratis, fortrolig støtte, sikkerhedsplanlægning samt juridisk og psykologisk hjælp.\n- **Sundhedstjenester** — en praktiserende læge eller en akutmodtagelse på et hospital, hvor personalet i stigende grad er uddannet til at genkende misbrug og henvise dig til støtte.\n- **Personer, du stoler på** — en ven eller et familiemedlem, som du føler dig tryg sammen med.\n\nDu kan starte med det, der føles mest muligt, og du behøver ikke at have besluttet noget endnu.",
-      "deep": null,
-      "when_to_see_doctor": "- Du kan i fuld fortrolighed tale med en **praktiserende læge eller et hospital** om, hvad der foregår; de kan behandle eventuelle skader og sætte dig i kontakt med specialiserede tjenester.\n- Hvis det er nemmere at skrive end at tale, er **1522-chatten** en anden mulighed.",
-      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- **Italien:** **1522** (gratis, døgnet rundt, anonymt, flersproget — ring eller chat).\n- Hjælpelinjenumre varierer fra land til land. Appen kan vise numrene for dit land, og **findahelpline.com** viser en liste over hjælpelinjer mod vold over hele verden (siden registrerer dit land og har en hurtigudgangsknap). Hvis du befinder dig i EU, fungerer **112** overalt."
-    },
-    "recognising-abuse": {
-      "title": "Sådan genkender du et voldeligt forhold",
-      "aliases": [
-        "genkendelse af misbrug",
-        "voldeligt forhold",
-        "vold i hjemmet",
-        "vold i parforhold",
-        "tegn på misbrug",
-        "bliver jeg udsat for misbrug"
-      ],
-      "glance": "Misbrug kan være fysisk, seksuelt, følelsesmæssigt eller kontrollerende — og det er aldrig den person, der udsættes for det, der har skylden.",
-      "overview": "Vold i et parforhold er ikke kun fysisk. Den kan antage flere former, ofte i kombination: fysisk vold, seksuel tvang, følelsesmæssig eller psykologisk vold samt kontrollerende adfærd – en partner, der bestemmer, hvor du skal hen, hvem du må se, eller hvad du må gøre. Alle disse former kan udgøre vold, selv når der ikke er synlige skader.\n\nDet er mere udbredt, end mange er klar over. På verdensplan oplever omkring 1 ud af 3 kvinder fysisk eller seksuel vold i løbet af deres liv, oftest fra en partner; situationen i Italien er den samme. Så hvis dette er en del af dit liv, er du ikke alene, og det er ikke noget, du selv har forårsaget.\n\nDet kan være svært at sætte ord på det – misbrug er ofte blandet med gode stunder, undskyldninger eller løfter om forandring, og det kan udvikle sig så langsomt, at det føles normalt. At stole på din egen fornemmelse af, at noget er galt, er en gyldig grund til at søge hjælp. Du behøver ikke at være helt sikker eller vente på, at det bliver »dårligt nok«, for at tale med nogen.",
-      "deep": "Uanset hvilken form det antager, følger misbrug ofte et mønster, hvor én person søger magt og kontrol over en anden, og det kan eskalere over tid. Det har store konsekvenser for helbredet — det er forbundet med angst, depression, søvnproblemer og langvarige fysiske følgevirkninger. Intet af dette betyder, at du er svag eller har skylden; det betyder, at det, du lever med, er skadeligt, og at der findes støtte, der kan hjælpe dig med at tænke det igennem på en sikker måde og i dit eget tempo.",
-      "when_to_see_doctor": "- Du kan tale fortroligt med nogen, når du er klar – en læge eller sygeplejerske, et center mod vold eller en hjælpelinje (i Italien: **1522**, gratis og døgnet rundt). Du behøver ikke først at have beviser, en plan eller have truffet en beslutning; de er der for at lytte og hjælpe dig med at forstå dine muligheder.\n- En sundhedsfaglig medarbejder kan også behandle eventuelle skader og diskret sætte dig i kontakt med specialiseret hjælp.",
-      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien er **1522** — den gratis nationale hjælpelinje mod vold og stalking — tilgængelig 24 timer i døgnet, anonymt, via telefon eller chat, på flere sprog."
-    },
-    "safety-plan": {
-      "title": "Udarbejdelse af en sikkerhedsplan",
-      "aliases": [
-        "sikkerhedsplan",
-        "sikkerhed",
-        "sikkerhed",
-        "sikkerhedsplanlægning",
-        "at komme sikkert væk"
-      ],
-      "glance": "En sikkerhedsplan består af nogle få praktiske trin, der kan hjælpe dig med at øge din sikkerhed — og faglige hjælpetjenester kan hjælpe dig med at udarbejde en.",
-      "overview": "En sikkerhedsplan handler ganske enkelt om at tænke fremad om, hvordan du kan beskytte dig selv (og eventuelle børn) bedre. Det er ikke en beslutning om at forlade eller blive – det handler om at være lidt bedre forberedt, uanset hvad du vælger.\n\nFor nogle mennesker hjælper det at have et par ting diskret på plads: en betroet person, der ved, hvad der foregår, vigtige dokumenter og telefonnumre, hvor man kan få fat i dem, en lille taske med det nødvendigste, en fornemmelse af de sikreste veje ud af hjemmet eller et ord eller signal, der fortæller nogen, at man har brug for hjælp. Hvad der giver mening, afhænger helt af din egen situation.\n\nDu behøver ikke at klare det her alene, og det er ofte mere sikkert ikke at gøre det. Voldshjælpetjenester har stor erfaring med at udarbejde sikkerhedsplaner sammen med mennesker, fortroligt og gratis — også for tiden omkring det at forlade forholdet, hvilket kan være et øjeblik med højere risiko og derfor bør planlægges med støtte frem for i hast.",
-      "deep": null,
-      "when_to_see_doctor": "- Kontakt et center mod vold eller en hjælpelinje (i Italien **1522**) for at udarbejde en plan, der passer til din situation — de gør dette hver dag, fortroligt, og kan hjælpe med praktiske, juridiske og følelsesmæssige skridt.\n- Hvis du fører nogen form for optegnelser over, hvad der sker, skal du opbevare dem et privat og sikkert sted.",
-      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien kan **1522** — gratis, døgnet rundt, anonymt, flersproget — yde hjælp via telefon eller chat, herunder med akut sikkerhedsplanlægning."
-    },
-    "sexual-violence": {
-      "title": "Seksuel vold og samtykke",
-      "aliases": [
-        "seksuel vold",
-        "seksuelle overgreb",
-        "voldtægt",
-        "samtykke",
-        "seksuelt misbrug",
-        "uden samtykke"
-      ],
-      "glance": "Seksuel vold er enhver seksuel handling uden samtykke — og det er aldrig den person, der har været udsat for det, der bærer skylden.",
-      "overview": "Seksuel vold betyder enhver seksuel handling eller ethvert forsøg på at udføre en sådan handling uden samtykke eller ved tvang. Det omfatter voldtægt og enhver uønsket seksuel kontakt, og det kan begås af hvem som helst – en fremmed, en bekendt, en partner eller en ægtefælle.\n\nSamtykke er kernen i det hele. Samtykke betyder at give sit frie samtykke, og det er ikke muligt, når en person sover, er bevidstløs, beruset eller påvirket af stoffer, er et barn, eller bliver presset, truet eller er bange. Det kan tilbagekaldes når som helst. Derfor er seksuel vold **aldrig** den person skyld, der blev udsat for den — hverken på grund af, hvad vedkommende havde på, om vedkommende havde drukket, om vedkommende frøs fast i stedet for at kæmpe imod, eller om vedkommende kendte personen.\n\nHvis du har oplevet dette, er der hjælp at hente, uanset om det er sket for nylig eller for længe siden. Vi tror på dig, og hvad du vælger at gøre nu, er helt op til dig.",
-      "deep": null,
-      "when_to_see_doctor": "- Du kan henvende dig til en **sundhedstjeneste, et hospital eller en specialiseret rådgivningstjeneste for ofre for seksuelle overgreb**, som kan tage sig af dig, behandle eventuelle skader og – hvis du ønsker det – hjælpe med at anmelde overgrebet og sikre bevismateriale.\n- Nogle sundhedsforanstaltninger er **tidsfølsomme** — for eksempel nødprævention eller forebyggelse af infektion — så det kan hjælpe at søge hjælp **hurtigt**. Men der er ingen tidsfrist for at få hjælp, og det er altid dit valg, om du vil anmelde det.",
-      "red_flags": "- Hvis du er i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- Efter et nyligt overgreb kan et **hospital eller en specialiseret tjeneste yde akut hjælp**. I Italien kan **1522** (gratis, døgnet rundt, anonymt, flersproget – via telefon eller chat) vejlede dig til den rette hjælp."
-    },
-    "stalking": {
-      "title": "Stalking",
-      "aliases": [
-        "stalking",
-        "at blive forfulgt",
-        "chikane",
-        "uønsket opmærksomhed",
-        "nogen, der følger efter mig",
-        "cyberstalking"
-      ],
-      "glance": "Stalking er gentagen, uønsket opmærksomhed, der får dig til at føle dig bange eller utryg — og det tages alvorligt.",
-      "overview": "Stalking er et mønster af uønsket, gentagen adfærd fra en person, der får dig til at føle dig bange, overvåget eller utryg. Det kan omfatte at blive forfulgt, at nogen dukker op der, hvor du er, konstante opkald eller beskeder, uønskede gaver, overvågning af dig online eller via din telefon eller trusler. Det udøves ofte af en tidligere partner eller en, du kender, men ikke altid.\n\nDen frygt, det skaber, er berettiget, selvom hver enkelt handling måske virker »lille« for andre — det er mønsteret og den følelse, det giver dig, der betyder noget. Stalking anerkendes som en form for misbrug, og i mange lande er det en forbrydelse. Intet af det er din skyld, og du behøver ikke bare at leve med det.\n\nHvis det er sikkert at gøre det, kan det være en hjælp senere at føre en oversigt over datoer og klokkeslæt, skærmbilleder af beskeder og hvad der skete. Du behøver ikke selv at finde ud af, om det »tæller« — støttetjenester kan hjælpe dig med at forstå det og overveje dine muligheder.",
-      "deep": null,
-      "when_to_see_doctor": "- Kontakt **politiet** for at anmelde stalking, og en hjælpelinje mod vold eller stalking for at få støtte og rådgivning (i Italien er **1522** nummeret for både vold **og** stalking).\n- At gemme beviser og udarbejde en sikkerhedsplan med hjælp fra en specialiseret tjeneste kan begge dele gøre en reel forskel.",
-      "red_flags": "- Hvis du føler dig i **umiddelbar fare**, skal du straks kontakte alarmtjenesterne: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien kan **1522** — gratis, døgnet rundt, anonymt, flersproget — yde hjælp via telefon eller chat."
-    },
-    "supporting-someone": {
-      "title": "Støtte til en person, der udsættes for vold",
-      "aliases": [
-        "at støtte nogen",
-        "hjælp til en veninde",
-        "hvordan man kan hjælpe",
-        "en person, der udsættes for misbrug",
-        "hvordan man yder støtte"
-      ],
-      "glance": "Hvis en person, du kender, muligvis er udsat for misbrug, hjælper det at lytte uden at dømme – og at vide, hvor man kan henvise vedkommende hen.",
-      "overview": "Det er svært at indse, at en person, du holder af, måske er udsat for misbrug, og det er en god instinkt at ønske at hjælpe. De mest nyttige ting, du kan tilbyde, er ofte de enkleste.\n\nLyt til dem, og tro på dem. Lad dem tale i deres eget tempo, uden at dømme, bebrejde eller spørge, hvad de har gjort for at forårsage det. Sig klart og tydeligt, at det ikke er deres skyld, og at de ikke fortjener det. Prøv ikke at fortælle dem, hvad de skal gøre, eller presse dem til at forlade stedet: Det er deres beslutning, om de vil gå, og at gøre det i hast kan faktisk øge faren — det, der hjælper mest, er, at de føler sig støttet og ikke alene.\n\nBehandl det, de fortæller dig, fortroligt. Hjælp dem forsigtigt med at finde specialiseret støtte, når de er klar – en hjælpelinje som **1522** i Italien eller et lokalt center mod vold – og tilbyd praktisk hjælp, f.eks. ved at slå numrene op sammen med dem eller være der, når de ringer. Og pas også på dig selv; det kan være en stor belastning at støtte nogen gennem dette.",
-      "deep": null,
-      "when_to_see_doctor": "- Opfordr hende (uden at lægge pres på hende) til at kontakte en hjælpelinje eller et center mod vold, som kan vejlede jer begge om, hvad I skal gøre nu. Du kan tilbyde at hjælpe hende med at ringe eller finde nummeret.\n- Hvis de er kommet til skade, kan en praktiserende læge eller et hospital hjælpe — og sætte dem i kontakt med støttetjenester.",
-      "red_flags": "- Hvis de er i **umiddelbar fare**, skal de ringe til alarmtjenesten: **112** i EU (herunder Italien), **999** i Storbritannien, **911** i USA og Canada.\n- I Italien kan **1522** (gratis, døgnet rundt, anonymt, flersproget – telefon eller chat) også rådgive dig om, hvordan du kan hjælpe en anden."
     }
   },
   "categories": {
@@ -1181,8 +1232,8 @@
       "summary": "Smerter, let blødning, udflåd, humørsvingninger — hvad din krop måske forsøger at fortælle dig."
     },
     "conditions": {
-      "title": "Betingelser",
-      "summary": "PCOSe, endometriose, myomer og meget mere — forklaret med kildehenvisninger."
+      "title": "Sygdomme og lidelser",
+      "summary": "PCOS, endometriose, myomer og meget mere — forklaret med kildehenvisninger."
     },
     "sexual-and-intimate-health": {
       "title": "Seksuel og intim sundhed",
@@ -1197,7 +1248,7 @@
       "summary": "Hvordan søvn, stress og hverdagen påvirker din menstruationscyklus."
     },
     "tests-and-exams": {
-      "title": "Prøver og eksamener",
+      "title": "Test og undersøgelser",
       "summary": "Selvundersøgelse af brysterne, livmoderhalskræftscreening, ægløsningstests og meget mere."
     },
     "pregnancy": {

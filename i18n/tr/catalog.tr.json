@@ -92,7 +92,7 @@
       "glance": "Hamilelikte kanama her zaman ciddi bir durum değildir — hamileliğin ilk dönemlerinde hafif lekelenme sık görülür — ancak mutlaka bir doktora danışın.",
       "overview": "Hamilelik sırasında vajinadan kanama olması her zaman bir sorunun işareti değildir. Hafif\nkanama veya lekelenme özellikle hamileliğin erken dönemlerinde oldukça yaygındır ve birçok hamilelik bu durumdan sonra da\nsorunsuz bir şekilde devam eder.\n\nBununla birlikte, kanama bazen bir sorunun belirtisi olabilir — örneğin düşük veya dış gebelik\ngibi — bu nedenle miktarı ne olursa olsun **her zaman kontrol ettirilmesi** gereken bir durumdur. Bir\nuzmana muayene olmak, sorunun nedenini bulmanın ve gerekirse hızlı bir şekilde doğru tedaviye ulaşmanın yoludur.\n\nAynı belirti çok farklı anlamlara gelebileceğinden, yapılacak en doğru şey tahminde bulunmak değil,\nbir uzmana başvurup muayene olmaktır.",
       "deep": null,
-      "when_to_see_doctor": "- Hamilelik sırasında **herhangi bir** vajinal kanama,\n  hatta hafif lekelenme olsa bile — böylece nedeni kontrol edilebilir.",
+      "when_to_see_doctor": "- Hamilelik sırasında **herhangi bir** vajinal kanama olursa, hafif lekelenme bile olsa, **mutlaka doğum ünitenizle iletişime geçin** (20 haftadan az hamileyseniz ya da numaraları sizde yoksa bir erken gebelik birimiyle veya **NHS 111** ile) — böylece nedeni kontrol edilebilir.",
       "red_flags": "- **Ağır kanama** varsa — örneğin, pedi taktıktan kısa bir süre sonra pedin ıslanması gibi — özellikle de **şiddetli karın ağrısı, omuz ucunda ağrı ya da mide bulantısı, bayılma hissi,\n  baş dönmesi veya bilinç kaybı** varsa, **999'u arayın veya acil servise gidin.** Bu durum acil tıbbi müdahale gerektirir."
     },
     "breast-awareness": {
@@ -125,11 +125,28 @@
       "when_to_see_doctor": "- Emzirme ağrılı veya zor geliyorsa ya da\n  bebeğinizin yeterince beslenmediğinden endişe duyuyorsanız, **ebinize veya sağlık görevlisine** erkenden yardım isteyin — alacağınız destek gerçekten büyük bir fark yaratabilir.\n- Bebeğinizi nasıl besleyeceğiniz kişisel bir karardır ve ne seçerseniz seçin destek her zaman yanınızdadır;\n  önemli olan, sizin ve bebeğinizin iyi olmasıdır.",
       "red_flags": null
     },
+    "brown-discharge": {
+      "title": "Kahverengi akıntı",
+      "aliases": [
+        "kahverengi akıntı",
+        "kahverengi lekelenme",
+        "kahverengi kan",
+        "eski kan",
+        "koyu renkli akıntı",
+        "kahverengi adet kanı",
+        "kahverengi leke"
+      ],
+      "glance": "Kahverengi akıntı genellikle biraz kandır ve çoğunlukla adetin daha hafif günlerinde görülür. Başka zamanlarda olan kahverengi lekelenmeyi kontrol ettirmekte fayda vardır.",
+      "overview": "Kahverengi akıntı, iç çamaşırınızda ya da tuvalet kâğıdında fark ettiğiniz az miktarda kahverengimsi kan veya sıvı demektir. Pek çok kişi bunu bir noktada görür ve çoğu zaman bu yalnızca adetin bir parçasıdır.\n\nAdet kanı her zaman parlak kırmızı değildir. En yoğun günlerinizde genellikle kırmızıdır, ancak daha hafif günlerde pembe ya da kahverengi görünebilir. Bu yüzden adetinizin hafif günlerinde kahverengimsi bir renk görmek yaygın ve normaldir.\n\nKahverengi renk başka zamanlarda da ortaya çıkabilir. Lekelenme, pembe, kırmızı veya kahverengi küçük kan lekeleri demektir ve adetler arasındaki lekelenmenin birkaç yaygın nedeni vardır. Doğum kontrol hapı gibi hormonal kontrasepsiyon sık görülen nedenlerden biridir. Diğerleri arasında rahim içinde veya çevresinde küçük oluşumlar (polip veya miyom gibi) ve klamidya gibi enfeksiyonlar bulunur. Gebeliğin çok erken döneminde bazı kişiler, adetin gelmesi gereken zamana yakın hafif bir lekelenme fark eder. Buna implantasyon kanaması (yerleşme kanaması) denir.\n\nAdet dışındaki kahverengi lekelenmenin, çoğu önemsiz olan farklı nedenleri olabileceğinden, yapılacak en doğru şey tahmin yürütmek değil, muayene olmaktır; böylece sizin durumunuzda bunun ardında ne olduğunu öğrenebilirsiniz.",
+      "deep": null,
+      "when_to_see_doctor": "- **Adetler arasında veya cinsel ilişkiden sonra kahverengi lekelenme ya da kanama** olursa, hafif bile olsa bir aile hekimine veya cinsel sağlık kliniğine başvurun. Genellikle ciddi değildir, ancak kontrol ettirmek her zaman iyi olur.\n- **Hamileyseniz ya da hamile olabileceğinizi düşünüyorsanız**, kahverengi lekelenme dahil her türlü lekelenmede nedeninin kontrol edilebilmesi için takip edildiğiniz doğum ünitesine, bir erken gebelik ünitesine veya **NHS 111** hattına başvurun.\n- **Menopozdan sonra herhangi bir kahverengi ya da pembe akıntı veya kanama** fark ederseniz, az miktarda olsa ya da yalnızca bir kez olmuş olsa bile bir aile hekimine başvurun.\n- Akıntınızın **rengi, kokusu veya kıvamı değişirse** ya da buna kaşıntı, hassasiyet, pelvik ağrı veya idrar yaparken ağrı eşlik ederse bir aile hekiminden, cinsel sağlık kliniğinden veya **NHS 111** hattından tavsiye alın.",
+      "red_flags": "- **Yakın zamanda adetiniz gecikmişse ve karın ya da pelvik ağrıyla birlikte olağandışı bir kanamanız varsa**, aile hekiminizden **acil** randevu isteyin veya **NHS 111** hattını arayın. Bu durum dış gebelik belirtisi olabileceğinden hızla kontrol edilmelidir.\n- Hamileyseniz ve kanamanızla birlikte **şiddetli karın ağrısı, omuz ağrısı, bayılacak gibi olma, baş dönmesi veya bulantı varsa ya da kanama yoğunsa** (ped taktıktan kısa süre sonra tamamen ıslanıyorsa) **999**'u arayın."
+    },
     "cervical-mucus": {
       "title": "Servikal mukus",
       "aliases": [
         "servikal mukus",
-        "boşaltma",
+        "akıntı",
         "vajinal akıntı",
         "rahim ağzı salgıları",
         "yumurta akı mukusu"
@@ -154,6 +171,39 @@
       "deep": null,
       "when_to_see_doctor": "- Tarama, **belirtileriniz olmadığında** yapılır. Taramalar arasında sizi endişelendiren bir durum fark ederseniz\n  — örneğin olağandışı kanama (adet aralarında, cinsel ilişki sonrası veya menopoz sonrası) —\n  bir sonraki davetinizi beklemek yerine bir aile hekimine başvurun.\n- Davet aldıysanız ve gitme konusunda kararsız veya endişeliyseniz, aile hekiminizle veya\n  muayenehane hemşiresiyle konuşmanızda fayda vardır; onlar size süreç hakkında bilgi verebilir ve sorularınızı yanıtlayabilir.",
       "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Çocuk istismarı ve çocukların güvenliği",
+      "aliases": [
+        "çocuk istismarı",
+        "çocuk istismarı",
+        "çocuk güvenliği",
+        "çocuğu korumak",
+        "çocuğu için endişelenen",
+        "ihmal"
+      ],
+      "glance": "Bir çocuğun zarar gördüğünden veya ihmal edildiğinden endişeleniyorsanız, tavsiye almak doğru bir davranıştır — bundan emin olmanıza gerek yoktur.",
+      "overview": "Çocuk istismarı — veya çocuk kötü muamelesi — 18 yaşın altındaki herkese yönelik zarardır. Fiziksel, cinsel ve duygusal istismarı ve ihmali (çocuğun temel ihtiyaçlarının karşılanmaması) içerir. Ne yazık ki yaygın bir durumdur, ömür boyu sürecek zararlara yol açabilir ve asla çocuğun suçu değildir.\n\nHayatınızdaki bir çocuk ya da dikkatinizi çeken bir çocuk hakkında endişeleriniz olabilir. Bu endişeyle ilgili harekete geçmek için emin olmanıza ya da kanıtınız olmasına gerek yoktur — bu endişeye güvenip tavsiye istemek tam da yapılması gereken şeydir ve bu, bir çocuğu koruyabilir.\n\nVe eğer siz de çocukken istismara maruz kaldıysanız, bu zararın asla sizin suçunuz olmadığını ve her yaşta sizin için de destek mevcut olduğunu bilin.",
+      "deep": null,
+      "when_to_see_doctor": "- Bir çocuk hakkında endişeleriniz varsa, **çocuk koruma / sosyal hizmetler** birimlerine, özel bir **çocuk koruma yardım hattına** veya **aile hekimine, sağlık görevlisine ya da çocuğun okuluna** danışabilirsiniz — tüm bilgiler gizli tutulacaktır.\n- Sormakla “aşırı tepki” vermiyorsunuz. Beklemektense kontrol etmek daha iyidir.",
+      "red_flags": "- Bir çocuk **acil tehlike** altındaysa veya ciddi şekilde yaralanmışsa, derhal acil servisleri arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**."
+    },
+    "coercive-control": {
+      "title": "Zorlayıcı kontrol",
+      "aliases": [
+        "zorlayıcı kontrol",
+        "kontrolcü davranış",
+        "duygusal istismar",
+        "psikolojik istismar",
+        "izolasyon",
+        "finansal istismar",
+        "gaslighting"
+      ],
+      "glance": "Zorlayıcı kontrol, izole etme, izleme, tehdit etme gibi kontrol edici davranış kalıplarından oluşan ve tanınmış bir istismar biçimidir.",
+      "overview": "Zorlayıcı kontrol, fiziksel zarar yerine ya da buna ek olarak kontrol yoluyla uygulanan bir istismar türüdür. Bu, tek bir tartışma değil, bir kişinin diğerinin özgürlüğünü ve benlik algısını kademeli olarak kısıtladığı bir davranış kalıbıdır.\n\nBu durum, arkadaşlarınızdan ve ailenizden koparılmak, telefonunuzun, hareketlerinizin veya harcamalarınızın izlenmesi ya da kısıtlanması, ne giyeceğinizin veya nasıl davranmanızın size söylenmesi ya da sürekli eleştiri, tehdit veya sindirmeyle yaşamak gibi şekillerde ortaya çıkabilir. Morluklar olmayabileceği için bunu tanımlamak zor olabilir ve başkaları bunu fark etmeyebilir — ancak bu durum istismar olarak kabul edilir ve fiziksel şiddet kadar zararlı olabilir.\n\nBunlardan bazılarını kendinizde fark ediyorsanız, bu sizin aşırı duyarlı olduğunuzun ya da bunu kendinizin kışkırttığınızın bir işareti değildir. Kontrolcü davranış, karşı tarafın yaptığı bir seçimdir. Bunu olduğu gibi anlamak, destek almanın ilk adımı olabilir.",
+      "deep": "Zorlayıcı kontrol genellikle yavaş yavaş gelişir; bu da içeriden fark edilmesini zorlaştıran faktörlerden biridir — küçük kontrol biçimleri normal hale gelir ve kendinden şüphe duyma artar. Bu durum zamanla ruh sağlığını yıpratır. Bu kalıpları anlamak için eğitim almış biriyle konuyu konuşmak, durumu daha net görmenize ve baskı hissetmeden bundan sonra ne yapmak istediğinizi düşünmenize yardımcı olabilir.",
+      "when_to_see_doctor": "- Bir şiddet karşıtı merkez veya yardım hattı (İtalya'da **1522**), yaşadıklarınızı gizlilik içinde ve ücretsiz olarak dinleyebilir ve seçeneklerinizi anlamanıza yardımcı olabilir — yardım istemek için fiziksel tehlike altında olmanız gerekmez.\n- Bir aile hekimi veya danışman da size destek olabilir ve sizi uzman hizmetlere yönlendirebilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da **1522** numaralı hat ücretsizdir, günün 24 saati hizmet verir, anonimdir ve çok dilli destek sunar — telefon veya sohbet yoluyla."
     },
     "combined-pill": {
       "title": "Kombine doğum kontrol hapı",
@@ -201,6 +251,20 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "consent-and-respect": {
+      "title": "Rıza ve saygı",
+      "aliases": [
+        "rıza",
+        "onun sınırlarına saygı duy",
+        "coşkulu rıza",
+        "bedensel özerklik"
+      ],
+      "glance": "Rıza her zaman açık, özgür ve coşkulu bir evettir ve herhangi bir zamanda geri çekilebilir.",
+      "overview": "Saygı, her zaman kendi bedeni hakkında karar verme hakkıyla başlar. Yakınlaşmaya razı olmak şu anlama gelir:\nözgürce verilen, bilgilendirilmiş, hevesli **evet**. Sessizlik rıza değildir. Gönülsüz bir \"para cezası\", rıza anlamına gelmez.\nUyuyan, çok sarhoş olan veya baskı altında olan biri gerçekten rıza gösteremez. Ve bir şeye evet ya da\nBir gün her şeye ya da bir dahaki sefere evet demek değildir.\n\nRıza her an geri çekilebilir ve \"dur\" ya da \"bu gece olmaz\" hiçbir müdahale gerektirmeyen tam bir yanıttır.\ngerekçe. Baskı yapmak, suçluluk duygusu uyandırmak, teslim olana kadar somurtmak veya seksi bir şey olarak görmek\nborçlusun tamam değil - bir ilişki borç değildir.",
+      "deep": "Pratikte saygı nasıl görünür:\n\n- **Sorun ve kontrol edin.** \"Bu uygun mu?\" ve nasıl tepki verdiğine - kelimelere ve bedene - dikkat etmek.\n- **\"Hayır\"ı nezaketle karşılayın.** Somurtmak, baskı yapmak veya ceza vermek yok. Onun cevabı bu işin sonu.\n- **Coşku önemlidir.** Emin olamıyorsa, tereddüt ediyorsa ya da sadece buna katılıyor gibi görünüyorsa, durun ve sorun.\n- **Vücudu, çağrısı** — yakınlık, doğum kontrolü, hamilelik, sağlığı, görünümü ve davranışları hakkında\n  seçimler. Ortak yaşamınızda bir sese sahip olursunuz, asla onun bedeni üzerinde veto edemezsiniz.\n- **Saygı günlüktür.** Onunla, onun hakkında nasıl konuştuğunuz ve küçük şeylerde onun sınırlarına nasıl davrandığınız önemlidir.\n  diğer her şeyin dayandığı temel.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
     "contraception": {
       "title": "Doğum kontrolü",
       "aliases": [
@@ -212,6 +276,23 @@
       "overview": "Doğum kontrolü — bazen “gebeliği önleme” olarak da adlandırılır — hamileliği önlemek için kullanılan yöntemler bütünüdür.\nBu yöntemlerin sayısı oldukça fazladır ve her biri farklı şekillerde işler: Bazıları hormonlara dayanır, bazıları bariyer yöntemleridir, bazıları\nrahim içine yerleştirilir ve bazıları ise adet döngüsünü takip etmeye dayanır.\n\nBir yöntemin ne kadar etkili olduğu, büyük ölçüde nasıl kullanıldığına bağlıdır. İmplant ve\nspiral gibi bazı yöntemler “tak ve unut” türündedir ve %99’un üzerinde etkilidir. Hap veya prezervatif gibi diğer yöntemler ise\nmükemmel bir şekilde kullanıldığında çok etkilidir, ancak günlük, tipik kullanımda etkinliği biraz daha düşüktür; çünkü\nhapı almayı unutmak veya prezervatifi yanlış kullanmak daha kolaydır.\n\nBilmeniz gereken bir şey: **sadece prezervatifler cinsel yolla bulaşan enfeksiyonlara\n(CYBE) karşı da koruma sağlar**. Diğer yöntemler gebeliği önler ancak enfeksiyonu önlemez; bu nedenle prezervatifler bazen\nbaşka bir yöntemle birlikte kullanılır.\n\nTek bir “en iyi” yöntem yoktur — doğru yöntem sağlığınıza, vücudunuza ve yaşam tarzınıza\nuygun olana bağlıdır. Bir aile hekimi veya cinsel sağlık kliniği, seçenekleri sizinle görüşebilir ve seçim yapmanıza yardımcı olabilir.",
       "deep": "Yöntemler birbirinden çok farklı olduğu için, sizin için neyin önemli olduğunu düşünmek faydalı olabilir: ne kadar etkili olduğu,\nher gün bir şeyi hatırlamayı gerektirip gerektirmediği, ne kadar süre etkili olduğu, hormon kullanmak isteyip\nistemediğiniz ve STI korunmanın sizin durumunuz için önemli olup olmadığı. Birçok kişi, ihtiyaçları değiştikçe hayatı boyunca\nyöntem değiştirir. Bu bilgi bankası, yaygın yöntemlerin nasıl işlediğini açıklamakta olup, böylece\nseçimler daha net hale gelir — ancak karar, reçete veya uygulama gibi konular, bir\nsağlık uzmanıyla birlikte alınmalıdır.",
       "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Doğum kontrolü ve kilo",
+      "aliases": [
+        "doğum kontrolü ve kilo",
+        "doğum kontrol hapı kilo aldırır mı",
+        "doğum kontrol hapı ve kilo alma",
+        "doğum kontrol yöntemleri kilo yapar mı",
+        "hap kullanırken kilo almak",
+        "doğum kontrol iğnesi kilo aldırır mı",
+        "implant kilo yapar mı"
+      ],
+      "glance": "Kombine doğum kontrol hapının kilo aldırdığına dair bir kanıt yoktur, ancak doğum kontrol iğnesi kilo aldırabilir. Bu, yönteme bağlıdır.",
+      "overview": "Doğum kontrolünün kilo aldırıp aldırmayacağını merak etmek çok yaygındır. Dürüst cevap şu: Yönteme bağlıdır.\n\nKombine doğum kontrol hapı için kanıtlar güven vericidir: Hapı kullanmanın kilo aldırdığına dair bir kanıt yoktur. Aynı durum doğum kontrol bandı ve vajinal halka için de geçerlidir.\n\nDoğum kontrol iğnesi ise farklıdır. Kilo alma, adet düzenindeki değişikliklerle birlikte iğnenin yaygın yan etkileri arasında sayılır.\n\nSadece progestojen içeren hap (bazen mini hap olarak da adlandırılır) ve doğum kontrol implantı için bazı kişiler kilo aldığını bildirmektedir. Ancak bunun nedeninin yöntemin kendisi olup olmadığını söylemek için yeterli kanıt yoktur.\n\nKilo, resmin yalnızca bir parçasıdır. Her yöntemin kendine özgü olası yan etkileri ve riskleri vardır; doğum kontrol yöntemi seçmek, bedeninize, sağlığınıza ve yaşamınıza uygun olanı bulmakla ilgilidir. Bir eczacı, aile hekimi, hemşire veya cinsel sağlık kliniği seçenekleri sizinle birlikte gözden geçirebilir.",
+      "deep": null,
+      "when_to_see_doctor": "- Kilonuzdaki değişiklikler de dahil olmak üzere yan etkiler sizin için sorun oluyorsa bir eczacı, aile hekimi, hemşire veya cinsel sağlık kliniğiyle görüşün. Kombine hap, bant veya halkayla bazı yan etkiler ilk başladığınızda ortaya çıkabilir. Yaklaşık 3 ay sonra hâlâ sizi rahatsız ediyorsa, bir sağlık uzmanı sizinle farklı bir hap veya başka bir doğum kontrol yöntemi hakkında konuşabilir.",
       "red_flags": null
     },
     "contraceptive-implant": {
@@ -231,7 +312,7 @@
     "cycle-and-your-wellbeing": {
       "title": "Adet döngünüz ve sağlığınız",
       "aliases": [
-        "refah",
+        "iyi oluş",
         "bisiklet ve sağlık",
         "adet döngüsü ve sağlık",
         "yaşam belirtisi"
@@ -241,6 +322,21 @@
       "deep": null,
       "when_to_see_doctor": "- Adetleriniz düzensizleşirse, kesilirse veya sizin için alışılmadık bir şekilde değişirse bir aile hekimine danışın —\n  sürekli devam eden değişiklikler bazen araştırılması gereken bir duruma işaret edebilir.\n- Adet sorunlarınız günlük yaşamınızı etkiliyorsa da bir hekimle görüşmeniz faydalı olabilir; böylece\n  bu sorunlara sadece katlanmak yerine destek alabilirsiniz.",
       "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Ekonomik istismar",
+      "aliases": [
+        "ekonomik istismar",
+        "finansal istismar",
+        "para yönetimi",
+        "mali durumun kontrolü",
+        "adımı taşıyan borç"
+      ],
+      "glance": "Ekonomik istismar, bir kişinin paraya, işe veya kaynaklara erişimini kontrol etmektir — bu, tanınmış bir istismar türüdür.",
+      "overview": "Ekonomik istismar, bir kişinin başka bir kişinin paraya ve parayla satın alınabilecek şeylere erişimini kontrol etmesidir. Bu, kontrolcü davranışın bir biçimidir ve genellikle diğer istismar türleriyle birlikte görülür.\n\nBu, tüm harcamaları kontrol etmek veya her kuruşun hesabını sormak, maaşınızı veya sosyal yardımlarınızı almak, sizin adınıza borç biriktirmek, banka hesaplarını veya belgeleri sizden saklamak ya da çalışmanızı veya okumanızı engellemek şeklinde olabilir. Bu durum, bir kişinin ayrılma imkânını veya günlük hayatını idare etme imkânını elinden alabileceğinden, istismarın bir tuzak gibi hissedilmesine neden olan yollardan biridir.\n\nBunlardan bazıları size tanıdık geliyorsa, bu “parayı iyi idare edemediğiniz” veya suçlu olduğunuz anlamına gelmez. Başka bir kişinin kaynaklarını kontrol etmek, o kişinin kendi yaptığı bir seçimdir — ve bu, istismar olarak kabul edilir.",
+      "deep": null,
+      "when_to_see_doctor": "- Şiddetle mücadele hizmetleri de bu konuda yardımcı olabilir — sadece güvenlik değil, pratik ve maddi adımlar konusunda da, gizlilik içinde ve ücretsiz olarak (İtalya'da **1522** numaralı yardım hattı sizi yerel destek hizmetlerine yönlendirebilir).\n- Bir güvenlik planı, biraz para, önemli belgelere ve önemli numaralara sessizce erişim sağlamayı içerebilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da **1522** numaralı hat — ücretsiz, 24 saat hizmet veren, anonim ve çok dilli — telefon veya sohbet yoluyla yardım sunabilir."
     },
     "ectopic-pregnancy": {
       "title": "Dış gebelik",
@@ -268,7 +364,7 @@
       "glance": "Acil kontrasepsiyon, korunmasız cinsel ilişkiden sonra gebeliği önleyebilir — ne kadar erken kullanılırsa o kadar iyidir.",
       "overview": "Acil kontrasepsiyon, korunmasız cinsel ilişkiden sonra veya\nher zamanki yönteminizin başarısız olmuş olabileceği durumlarda (hapın atlanması, prezervatifin yırtılması) gebeliği önlemenin bir yoludur. İki türü vardır ve her ikisi için de\nzamanlama önemlidir.\n\nİlki **acil durum hapı**dır. Bunun iki türü vardır: biri (levonorgestrel) cinsel ilişkiden sonra\n3 güne kadar — 72 saat — alınabilir, diğeri (ulipristal asetat, marka adı ellaOne) ise 5 güne kadar —\n120 saat — alınabilir. İkinci seçenek ise **bakır spiral (IUD)**’dir; bu, bir sağlık uzmanı tarafından cinsel ilişkiden sonraki 5 güne\nkadar takılabilir; acil kontrasepsiyonun en etkili şeklidir ve isterseniz daha sonra\nsürekli kontrasepsiyon yöntemi olarak kalabilir.\n\nTüm bu yöntemler için **ne kadar erken kullanırsanız, o kadar etkili olurlar** — bu nedenle beklemek yerine\nhızlı hareket etmekte fayda var. Acil kontrasepsiyon yöntemlerini eczaneden, aile hekiminden, cinsel\nsağlık kliniğinden veya randevusuz muayene merkezlerinden, genellikle ücretsiz olarak temin edebilirsiniz.",
       "deep": null,
-      "when_to_see_doctor": "- Zamanla ilgili bir konu olduğu için beklemeyin — bir eczacı acil durum hapını hızlı bir şekilde temin edebilir ve\n  bir cinsel sağlık kliniği veya aile hekimi “IUD”i takabilir.\n- Acil kontrasepsiyon, enfeksiyonu değil hamileliği önlemeye yöneliktir. Cinsel yolla bulaşan bir enfeksiyon\n  olasılığı varsa, bir cinsel sağlık kliniği test yaptırma konusunda tavsiyede bulunabilir.\n- Adetiniz birkaç günden fazla gecikirse veya normalden çok farklıysa,\n  gebelik testi yaptırıp bir sağlık uzmanıyla görüşmeniz faydalı olacaktır.",
+      "when_to_see_doctor": "- Zamanla ilgili bir konu olduğu için beklemeyin — bir eczacı acil durum hapını hızlı bir şekilde temin edebilir ve\n  bir cinsel sağlık kliniği veya aile hekimi bakırlı spirali takabilir.\n- Acil kontrasepsiyon, enfeksiyonu değil hamileliği önlemeye yöneliktir. Cinsel yolla bulaşan bir enfeksiyon\n  olasılığı varsa, bir cinsel sağlık kliniği test yaptırma konusunda tavsiyede bulunabilir.\n- Adetiniz birkaç günden fazla gecikirse veya normalden çok farklıysa,\n  gebelik testi yaptırıp bir sağlık uzmanıyla görüşmeniz faydalı olacaktır.",
       "red_flags": null
     },
     "endometriosis": {
@@ -295,7 +391,7 @@
       "red_flags": null
     },
     "exercise-and-your-cycle": {
-      "title": "Hareket ve adet döngünüz",
+      "title": "Fiziksel aktivite ve adet döngünüz",
       "aliases": [
         "egzersiz",
         "fiziksel aktivite",
@@ -337,11 +433,11 @@
       "red_flags": null
     },
     "first-period": {
-      "title": "Adet dönemlerinin başlangıcı (ilk adet)",
+      "title": "İlk adet",
       "aliases": [
-        "ilk dönem",
         "ilk adet",
-        "başlangıç dönemleri",
+        "menarş",
+        "regl olmaya başlamak",
         "adet görmeye başlamak"
       ],
       "glance": "İlk adet kanamanız genellikle 12 yaş civarında başlar — yaklaşık 8 ile 17 yaş arası herhangi bir yaşta başlaması normaldir.",
@@ -401,7 +497,7 @@
       ],
       "glance": "FSH her döngünün başlangıcında yumurtalıktaki foliküllerin büyümesini tetikleyen bir beyin hormonudur.",
       "overview": "FSH — folikül uyarıcı hormon — adet döngüsünü başlatmaya yardımcı olan haberci hormonlardan biridir.\nBu hormon, beyindeki küçük bir bez (hipofiz bezi) tarafından üretilir ve adından da anlaşılacağı gibi,\nfolikülleri uyarır: yumurtalıkta bulunan, her biri bir yumurta barındıran, sıvı dolu minik kesecikler.\n\nDöngünün erken aşamalarında, FSH bu foliküllerden bir grubun büyümeye başlamasını teşvik eder. Bir folikül\ngelişirken daha fazla östrojen salgılar; bu da rahim zarını kalınlaştırarak\nolası bir hamileliğe hazırlar. Genellikle bir folikül baskın hale gelir ve\nyumurtlamaya doğru ilerler.\n\nFSH döngünün normal iniş çıkışlarının bir parçası olarak yükselir ve alçalır.FSH'i doğrudan hissetmezsiniz\n— arka planda sessizce çalışır ve foliküler fazın daha gözle görülür değişikliklerini hazırlar.",
-      "deep": "FSH luteinize edici hormon (LH) ile birlikte çalışır; her ikisi de beyindeki hipofiz bezi tarafından salgılanır ve\nbirlikte yumurtalıkları döngü boyunca yönlendirir. FSH, ilk yarıyı yöneterek\nfolikülleri büyütürken, daha sonra meydana gelen LH dalgalanması, döngünün ortasında bir yumurtanın salınmasını işaret eder. Bu etkileşim aynı zamanda\ndoğurganlık tedavilerinde FSHbazlı ilaçların kullanılmasının nedenidir: ekstra FSH verilmesi, doğal bir döngüde genellikle tek bir folikülün olgunlaşmasına karşılık, birden fazla folikülün\naynı anda olgunlaşmasını teşvik eder.",
+      "deep": "FSH luteinize edici hormon (LH) ile birlikte çalışır; her ikisi de beyindeki hipofiz bezi tarafından salgılanır ve\nbirlikte yumurtalıkları döngü boyunca yönlendirir. FSH, ilk yarıyı yöneterek\nfolikülleri büyütürken, daha sonra meydana gelen LH dalgalanması, döngünün ortasında bir yumurtanın salınmasını işaret eder. Bu etkileşim aynı zamanda\ndoğurganlık tedavilerinde FSH bazlı ilaçların kullanılmasının nedenidir: ekstra FSH verilmesi, doğal bir döngüde genellikle tek bir folikülün olgunlaşmasına karşılık, birden fazla folikülün\naynı anda olgunlaşmasını teşvik eder.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -417,6 +513,23 @@
       "deep": null,
       "when_to_see_doctor": "- Size **tarama testi** önerilirse bu testi yaptırın — gebelik diyabeti genellikle herhangi bir\n  belirti göstermediğinden, bu hastalık ancak testlerle tespit edilebilir.\n- Yüksek kan şekeri belirtileri fark ederseniz — aşırı susama,\n  sık idrara çıkma, ağız kuruluğu veya yorgunluk — testi beklemeyin, bunları ebe veya doktorunuza bildirin.",
       "red_flags": null
+    },
+    "getting-help": {
+      "title": "Nereden yardım alabilirsiniz?",
+      "aliases": [
+        "yardım alma",
+        "kime başvurulmalı",
+        "yardım hatları",
+        "faydalı numaralar",
+        "şiddetle mücadele merkezi",
+        "1522",
+        "acil durum numaraları"
+      ],
+      "glance": "Ücretsiz ve gizli yardım mevcuttur — acil durumlarda yerel acil durum numarasını arayın; İtalya’da 1522 numarasını her zaman arayabilirsiniz.",
+      "overview": "Eğer istismara maruz kalıyorsanız, bununla tek başınıza yüzleşmek zorunda değilsiniz ve yardım istemek sizi hiçbir şeye mecbur kılmaz. Görevleri sadece sizi dinlemek ve yardım etmek olan, gizlilik içinde ve ücretsiz olarak hizmet veren insanlar var.\n\nBirkaç tür yardım birbiriyle iç içe geçmiştir:\n\n- **Acil servisler** — acil tehlike durumunda, bölgenizdeki acil durum numarasını (aşağıda) arayın.\n- **Ulusal bir yardım hattı** — İtalya'da, **1522** numaralı ücretsiz şiddet ve tacizle mücadele yardım hattı: 24 saat hizmet verir, anonimdir, çeşitli dillerde hizmet sunar; telefon veya çevrimiçi sohbet yoluyla ulaşılabilir.\n- **Şiddetle mücadele merkezleri** (İtalya'da *centri antiviolenza*) — ücretsiz, gizli destek, güvenlik planlaması ile hukuki ve psikolojik yardım sunan yerel hizmetler.\n- **Sağlık hizmetleri** — bir aile hekimi veya hastane acil servisi; buradaki personel, istismarı fark etme ve sizi destek hizmetlerine yönlendirme konusunda giderek daha fazla eğitim almaktadır.\n- **Güvendiğiniz kişiler** — kendinizi güvende hissettiğiniz bir arkadaş veya aile üyesi.\n\nEn uygun gördüğünüz konuyla başlayabilirsiniz; henüz bir karar vermiş olmanız gerekmez.",
+      "deep": null,
+      "when_to_see_doctor": "- Yaşadıklarınızı **aile hekiminize veya bir hastaneye** güvenle anlatabilirsiniz; onlar yaralarınızı tedavi edebilir ve sizi uzman hizmetlere yönlendirebilir.\n- Konuşmaktan ziyade yazmak daha kolaysa, **1522 sohbet** de başka bir seçenek olabilir.",
+      "red_flags": "- Eğer **acil tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- **İtalya:** **1522** (ücretsiz, 7/24, anonim, çok dilli — telefon veya sohbet).\n- Yardım hattı numaraları ülkeden ülkeye farklılık gösterir. Uygulama, bulunduğunuz ülkeye ait numaraları gösterebilir; **findahelpline.com** ise dünya çapındaki şiddetle mücadele yardım hatlarını listeler (bulunduğunuz ülkeyi algılar ve hızlı çıkış düğmesi içerir). AB'deyseniz, **112** numarası her yerde geçerlidir."
     },
     "group-b-strep": {
       "title": "B grubu streptokok (GBS)",
@@ -447,9 +560,9 @@
       "red_flags": null
     },
     "heavy-periods": {
-      "title": "Ağır adet kanamaları",
+      "title": "Aşırı adet kanaması",
       "aliases": [
-        "ağır adet kanamaları",
+        "aşırı adet kanaması",
         "menoraji",
         "aşırı adet kanaması",
         "sel",
@@ -472,6 +585,20 @@
       "glance": "LH döngünün ortasında meydana gelen artışının yumurtalıkların bir yumurta salmasını tetikleyen beyin hormonudur.",
       "overview": "LH — luteinize edici hormon — yumurtlamayı tetikleyen habercidir. FSH gibi, bu hormon da beyindeki\nküçük bir bez (hipofiz) tarafından üretilir ve yumurtalığa ne zaman bir yumurta salması gerektiğini bildirir.\n\nDöngünün ilk yarısının büyük bir kısmında LH seviyesi düşük kalır. Ardından, döngünün ortalarında,\n“LH” dalgalanması olarak adlandırılan bir süreçte keskin bir şekilde yükselir. Bu dalgalanma, yumurtalığın\ngenellikle bir gün kadar sonra yumurtasını salmasına — yani yumurtlamaya — neden olan sinyaldir.\n\nBu artış, kendinizi nasıl hissettiğinizden fark edebileceğiniz bir şeyden ziyade, kısa süreli ve zamanlaması iyi ayarlanmış bir sinyaldir. Yumurtanın salınmasından\nçok kısa bir süre önce gerçekleştiği için, LH seviyesindeki bu artışın zamanlaması, döngünün\nen doğurgan dönemini gösteren güvenilir bir göstergedir.",
       "deep": "LH döngünün erken aşamalarında foliküllerin büyümesini sağlayan FSH hormonu ile birlikte etki eder. FSH\nbu birikimi tetiklerken, LH'daki artış dönüm noktasıdır: seviyeler, yumurtanın salınmasından yaklaşık bir buçuk gün\nönce yükselmeye başlar ve salınmadan yaklaşık yarım gün önce zirveye ulaşır. Bu artıştan sonra, döngü\nikinci yarısına geçer. Bu sıkı zamanlama, LH'in yumurtlamayı takip eden herkes için neden bu kadar yararlı bir gösterge olduğunu\nve doğurganlık tedavilerinin planlanmasında neden merkezi bir rol oynadığını açıklar.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Dinleme ve duygusal destek",
+      "aliases": [
+        "nasıl dinlemeli",
+        "ortaklara duygusal destek",
+        "iletişim",
+        "onun için orada olmak"
+      ],
+      "glance": "Çoğu zaman dinlenmeye değil, dinlenmeye ihtiyaç duyar; önce dinleyin ve tavsiyede bulunmadan önce sorun.",
+      "overview": "Sevdiğimiz biri mücadele ederken içgüdümüz devreye girip sorunu çözmektir. Ama çoğu zaman en çok yardımcı olan şey\ngerçekten duyulduğunu hissediyor: duygularının anlamlı olduğunu ve onlarla yalnız olmadığını. Sabitleme de\nhızlı bir şekilde \"duygularınız kapatılacak bir sorundur\" şeklinde inebilir.\n\nİyi dinleme herkesin öğrenebileceği bir beceridir. Çoğunlukla dikkat: telefonu bir kenara koymak, ona bakmak,\nve bitirmesine izin verdim. Ona saygı duyulduğunu hissettirmek için her noktaya katılmanıza gerek yok.",
+      "deep": "Gösterişin pratik yolları:\n\n- **Cevap vermek için değil, anlamak için dinleyin.** Sözünüzü kesmeden veya savunmanızı planlamadan konuşmasına izin verin.\n- **Bunu geri yansıtın.** \"Kulağa gerçekten stresli geliyor\" veya \"Bunun neden acıttığını anlıyorum\" ifadesi \"sadece yapma\"\n  bunun için endişelen.\"\n- **Tavsiye vermeden önce sorun.** \"Düşünme konusunda yardım mı istiyorsun, yoksa sadece dinlememi mi istiyorsun?\"\n- **Zor bir günün sizinle ilgili olmadığı durumlarda bunu kişisel algılamayın**. Kararlılık bir hediyedir.\n- **Kendi payınıza düşeni alın.** Eğer bir hatanız varsa, \"ama\" olmadan gerçek bir özür, güveni yeniden inşa eder.\n- **Büyük resme dikkat edin.** Sürekli olarak morali bozuk, kaygılı görünüyorsa ya da kendisi değil gibi görünüyorsa, nazikçe\n  Desteği teşvik edin ve ona ulaşmasına yardımcı olmayı teklif edin. Sen bir takım arkadaşısın, terapist değil.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -514,7 +641,7 @@
     "menstrual-phase": {
       "title": "Adet dönemi (adetiniz)",
       "aliases": [
-        "dönem",
+        "adet",
         "adet kanaması",
         "adet dönemi",
         "kanama"
@@ -601,7 +728,7 @@
       "red_flags": null
     },
     "pcos": {
-      "title": "PCOS (polikistik over sendromu)",
+      "title": "PKOS (polikistik over sendromu)",
       "aliases": [
         "PKOS",
         "polikistik over sendromu",
@@ -610,8 +737,8 @@
       ],
       "glance": "PCOS adet döngüsünü, yumurtlamayı, cildi ve saçı etkileyebilen yaygın bir hormonal rahatsızlıktır.",
       "overview": "PCOS — polikistik over sendromu — üreme\nhormonlarının dengesi ile bağlantılı yaygın bir durumdur. Tahminlere göre, üreme çağındaki her 10 kadından yaklaşık 1’ini etkilemektedir ve bu\ndurumdan muzdarip birçok kişiye hiçbir zaman teşhis konulmamaktadır.\n\nFarklı şekillerde ortaya çıkabilir ve hiçbir iki kişinin durumu tam olarak aynı değildir. Yaygın belirtiler arasında\ndüzensiz, seyrek veya hiç olmayan adet kanamaları; androjen adı verilen hormonların yüksek seviyeleri,\nbu da yüz veya vücutta aşırı tüy büyümesine, akneye veya kafa derisinde saçların seyrelmesine yol açabilir; ve\nyumurtalıkların normalde olduğu kadar düzenli olarak yumurta salmaması, bu da gebe kalmayı zorlaştırabilir.\nKilo değişiklikleri ve ciltte koyulaşmış lekeler de sık görülür.\n\nKesin nedeni tam olarak anlaşılamamıştır ve kesin bir tedavisi yoktur — ancak belirtiler kontrol altına alınabilir ve\nneler olduğunu anlamak ilk adımdır. PCOS yaygın ve kontrol altına alınabilir bir durumdur,\nutanılacak bir şey değildir.",
-      "deep": "PCOS, vücudun hormonlarını ve insülinle başa çıkma şeklini etkilediği için, uzun vadede\ninsülin direnci, tip 2 diyabet riski artışı, yüksek tansiyon\nve kolesterol düzeylerinde değişikliklerle de bağlantılıdır — bu nedenle hekimler zaman içinde bu unsurları yakından takip etme eğilimindedir.\nPCOSu olan kişilerin yaklaşık yarısı kırklı yaşlarına gelindiğinde diyabet veya prediyabet geliştirebilir, bu nedenle düzenli\nkontroller önemlidir. Teşhis, kendi kendinize koyabileceğiniz bir şey değildir: Bir klinisyen genel\ndurumu değerlendirir — tıbbi geçmişinizi ve adet döngülerinizi, bazen hormonlar için kan testlerini ve bazen de\nyumurtalık ultrasonunu inceler — ve \"PCOS\" (polikistik yumurtalık sendromu) teşhisine varmadan önce diğer nedenleri eler.",
-      "when_to_see_doctor": "Yukarıdaki tabloya uyan belirtiler fark ederseniz, özellikle de bunlar\ngünlük yaşamınızı etkiliyorsa bir aile hekimine başvurmanızda fayda vardır:\n\n- düzensiz, çok seyrek veya kesilmiş adet dönemleri\n- yüz veya vücutta gözle görülür derecede fazla tüy büyümesi, inatçı akne veya kafa derisinde saç seyrelmesi\n- bir süre denedikten sonra hamile kalmakta zorluk çekme\n- diğer belirtilerle birlikte, vermesi zor kilo alımı\n\nBir aile hekimi durumunuzu inceleyebilir, bunun birPCOSi mi yoksa başka bir şey mi olduğunu teyit edebilir ve size uygun bir\ntedavi planı üzerinde görüşebilir. PCOS ayrıca moral bozukluğu ve kaygı ile de bağlantılıdır — kendinizi nasıl hissettiğiniz konusunda\nzorluk yaşıyorsanız, bunu da aile hekiminize söyleyin; bu durumun bir parçasıdır ve destek alabilirsiniz.",
+      "deep": "PCOS, vücudun hormonlarını ve insülinle başa çıkma şeklini etkilediği için, uzun vadede\ninsülin direnci, tip 2 diyabet riski artışı, yüksek tansiyon\nve kolesterol düzeylerinde değişikliklerle de bağlantılıdır — bu nedenle hekimler zaman içinde bu unsurları yakından takip etme eğilimindedir.\nPCOS'u olan kişilerin yaklaşık yarısı kırklı yaşlarına gelindiğinde diyabet veya prediyabet geliştirebilir, bu nedenle düzenli\nkontroller önemlidir. Teşhis, kendi kendinize koyabileceğiniz bir şey değildir: Bir klinisyen genel\ndurumu değerlendirir — tıbbi geçmişinizi ve adet döngülerinizi, bazen hormonlar için kan testlerini ve bazen de\nyumurtalık ultrasonunu inceler — ve \"PCOS\" (polikistik yumurtalık sendromu) teşhisine varmadan önce diğer nedenleri eler.",
+      "when_to_see_doctor": "Yukarıdaki tabloya uyan belirtiler fark ederseniz, özellikle de bunlar\ngünlük yaşamınızı etkiliyorsa bir aile hekimine başvurmanızda fayda vardır:\n\n- düzensiz, çok seyrek veya kesilmiş adet dönemleri\n- yüz veya vücutta gözle görülür derecede fazla tüy büyümesi, inatçı akne veya kafa derisinde saç seyrelmesi\n- bir süre denedikten sonra hamile kalmakta zorluk çekme\n- diğer belirtilerle birlikte, vermesi zor kilo alımı\n\nBir aile hekimi durumunuzu inceleyebilir, bunun PCOS mu yoksa başka bir şey mi olduğunu teyit edebilir ve size uygun bir\ntedavi planı üzerinde görüşebilir. PCOS ayrıca moral bozukluğu ve kaygı ile de bağlantılıdır — kendinizi nasıl hissettiğiniz konusunda\nzorluk yaşıyorsanız, bunu da aile hekiminize söyleyin; bu durumun bir parçasıdır ve destek alabilirsiniz.",
       "red_flags": null
     },
     "perimenopause": {
@@ -774,6 +901,86 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "recognising-abuse": {
+      "title": "İstismar içeren bir ilişkiyi fark etmek",
+      "aliases": [
+        "istismarı fark etme",
+        "istismar içeren ilişki",
+        "aile içi istismar",
+        "eş şiddeti",
+        "istismarın belirtileri",
+        "istismara uğruyor muyum"
+      ],
+      "glance": "İstismar fiziksel, cinsel, duygusal veya kontrolcü olabilir — ve bunu yaşayan kişinin suçu asla değildir.",
+      "overview": "İlişkide yaşanan istismar sadece fiziksel değildir. Çoğu zaman bir arada görülen çeşitli biçimler alabilir: fiziksel zarar, cinsel zorlama, duygusal veya psikolojik zarar ve kontrolcü davranışlar — partnerinizin nereye gideceğinize, kiminle görüşeceğinize veya ne yapabileceğinize karar vermesi gibi. Görünür bir yaralanma olmasa bile bunların her biri istismar sayılabilir.\n\nBu durum, çoğu kişinin farkında olduğundan daha yaygındır. Dünya genelinde yaklaşık her 3 kadından 1’i yaşamı boyunca fiziksel veya cinsel şiddete maruz kalmaktadır; bu şiddetin kaynağı çoğunlukla partneridir; İtalya’daki durum da benzerdir. Dolayısıyla, eğer bu durum hayatınızın bir parçasıysa, yalnız değilsiniz ve bu, sizin neden olduğunuz bir şey değildir.\n\nBuna isim vermek zor olabilir — istismar genellikle güzel anlarla, özürlerle veya değişme sözleriyle iç içe geçer ve o kadar yavaş bir şekilde gelişir ki normalmiş gibi hissedilebilir. Bir şeylerin yolunda gitmediğine dair kendi iç sesinize güvenmek, yardım istemek için geçerli bir nedendir. Biriyle konuşmak için kesin olarak emin olmanıza veya durumun “yeterince kötü” hale gelmesini beklemenize gerek yoktur.",
+      "deep": "Farklı biçimlerinin altında yatan istismar, genellikle bir kişinin bir başkası üzerinde güç ve kontrol elde etme eğiliminden kaynaklanır ve zamanla şiddetlenebilir. Bu durum sağlığı ciddi şekilde etkiler — anksiyete, depresyon, uyku sorunları ve uzun vadeli fiziksel etkilerle bağlantılıdır. Bunların hiçbiri sizin zayıf olduğunuzu veya suçlu olduğunuzu göstermez; sadece yaşadığınız durumun zararlı olduğunu ve bunu güvenli bir şekilde ve kendi hızınızda düşünmenize yardımcı olacak desteklerin mevcut olduğunu gösterir.",
+      "when_to_see_doctor": "- Hazır olduğunuzda, bir aile hekimiyle, hemşireyle, şiddetle mücadele merkeziyle veya bir yardım hattıyla (İtalya'da **1522**, ücretsiz ve her zaman ulaşılabilir) gizlilik içinde konuşabilirsiniz. Önceden bir kanıt, plan veya karar gerekmez; bu kurumlar sizi dinlemek ve seçeneklerinizi anlamanıza yardımcı olmak için oradadır.\n- Bir sağlık uzmanı ayrıca yaralanmalarınızı tedavi edebilir ve sizi sessizce uzman destek hizmetleriyle irtibata geçirebilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, derhal acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da, **1522** numaralı ücretsiz ulusal şiddet ve taciz yardım hattı, günün 24 saati, isimsiz olarak, telefon veya sohbet yoluyla ve çeşitli dillerde hizmet vermektedir."
+    },
+    "respect-not-control": {
+      "title": "Kontrol değil, saygı",
+      "aliases": [
+        "kontrolcü davranış",
+        "zorlayıcı kontrol",
+        "sağlıklı ilişki",
+        "uyarı işaretleri",
+        "nereden yardım alınır",
+        "istismar"
+      ],
+      "glance": "Sevgi, saygı ve özgürlük üzerine kuruludur; kontrol, kıskançlık ve baskı sevgi değildir ve yardım vardır.",
+      "overview": "Sağlıklı bir ilişki saygıya, güvene, eşitliğe ve özgürlüğe dayanır: her biri birbirini koruyan iki kişi.\nkendi arkadaşlıkları, seçimleri ve alanı. Kontrol bunun tersidir. Genellikle aşk ya da gibi kelimelerin arkasına saklanır.\nkıskançlık - \"Telefonunu kontrol ediyorum çünkü umursuyorum\", \"Onları görmeni istemiyorum çünkü seni seviyorum\" - ama\netkisi onun dünyasını ve özgürlüğünü daraltmaktır.\n\nKontrol nadiren şiddet ile başlar. Genellikle küçük başlar; bir eleştiri, bir sınırın aşılması, bir\nacı veren ve büyüyen bir \"şaka\". Buna erken isim vermek önemlidir çünkü zorlayıcı kontrolün kendisi bir tür\nkötüye kullanım ve daha kötüsü için bir uyarı işareti. Bu suçluluk duygusuyla ilgili değil; dürüstlük ve değişimle ilgilidir.",
+      "deep": "**Eğer bunlardan bazılarını kendinizde fark ederseniz, bu farkındalık bir başlangıç noktasıdır, ömür boyu hapis cezası değil.**\nİnsanlar gerçek çaba ve doğru yardımla değişebilirler. Erkeklere özel bir programa ulaşmak\nKontrolcü olmayı veya şiddete başvurmayı bırakmak isteyen kişi zayıflığın değil, güçlülüğün işaretidir. Biriyle konuş\nbir profesyonel, bir doktor veya bir erkek davranış değişikliği servisi.\n\nEğer **o** tehlikedeyse veya birisi için endişeleniyorsanız, onu ulaşması için cesaretlendirin ve destekleyin.\nyardım - onun şartlarına göre, asla devralmadan.\n\n**Nereden yardım alınır**\n- Acil bir durumda veya birisi doğrudan tehlike altındaysa, yerel acil durum numaranızı arayın\n  (**İtalya'da ve Avrupa'nın büyük bölümünde **112**; ABD'de **911**).\n- **İtalya — 1522**: ulusal şiddet karşıtı ve ısrarlı takip yardım hattı. Ücretsiz, 7/24, anonim ve\n  Çok dilli, Fırsat Eşitliği Departmanı tarafından yönetiliyor. Aynı zamanda insanları yerele yönlendirir.\n  şiddet karşıtı merkezler (centri antiviolenza).\n- Şiddet karşıtı merkezler ve erkeklerin davranış değiştirme programları (İtalya'da \"centri per uomini autori di)\n  Violenza\") değişim için gizli destek sunuyor.",
+      "when_to_see_doctor": null,
+      "red_flags": "Kendinizde veya bir ilişkide ciddiye alınmaya değer, kontrol edici veya istismarcı davranışlara ilişkin uyarı işaretleri:\n\n- **İzleme veya tecrit etme**: telefonunu kontrol etmek, konumunu takip etmek veya iletişimini kesmek\n  arkadaşlar ve aile.\n- **Seçenekler üzerinde kontrol**: para, ne giydiği, nereye gittiği, kimi gördüğü.\n- **Aşk olarak çerçevelenen kıskançlık**, sürekli suçlamalar veya her zaman nerede olduğunu bilme ihtiyacı.\n- **Kötülemeler, suçlamalar ya da onu korkutmak**, suçluluk duymak ya da \"yumurta kabuğu üzerinde yürümek\".\n- Uyum sağlamak için seks, ayrılma veya kendine zarar verme konusunda **baskı veya tehditler**.\n- **Herhangi bir fiziksel güç, gözdağı veya korku.** Eğer bu mevcutsa, bu istismardır; yardıma ulaşın\n  yukarıda. Asla bir mazeret yoktur ve bu asla onun hatası değildir."
+    },
+    "safety-plan": {
+      "title": "Bir güvenlik planı hazırlama",
+      "aliases": [
+        "güvenlik planı",
+        "güvenli kalmak",
+        "güvenli kalmak",
+        "güvenlik planlaması",
+        "güvenli bir şekilde ayrılma"
+      ],
+      "glance": "Güvenlik planı, daha güvende kalmanıza yardımcı olacak birkaç pratik adımdan oluşur — ve bu konuda eğitimli hizmetler, bir plan hazırlamanıza yardımcı olabilir.",
+      "overview": "Güvenlik planı, kendinizi (ve varsa çocuklarınızı) nasıl daha güvende tutabileceğinizi önceden düşünmektir. Bu, ayrılma ya da kalma kararı değildir — neyi seçerseniz seçin, biraz daha hazırlıklı olmakla ilgilidir.\n\nBazı kişiler için, birkaç şeyi sessizce hazır bulundurmak yardımcı olabilir: neler olup bittiğini bilen güvenilir bir kişi, önemli belgeler ve bu belgelere ulaşabileceğiniz numaralar, temel ihtiyaçların bulunduğu küçük bir çanta, evden en güvenli çıkış yollarına dair bir fikir ya da yardıma ihtiyacınız olduğunu birine bildiren bir kelime veya işaret. Nelerin mantıklı olduğu tamamen kendi durumunuza bağlıdır.\n\nBunu tek başınıza halletmek zorunda değilsiniz ve genellikle bunu yapmamak daha güvenlidir. Şiddetle mücadele hizmetleri, kişilerle gizlilik içinde ve ücretsiz olarak güvenlik planları hazırlama konusunda deneyimlidir — bu, ayrılma sürecini de içerir; bu dönem daha yüksek riskli olabilir ve aceleyle değil, destek alarak planlamaya değer bir andır.",
+      "deep": null,
+      "when_to_see_doctor": "- Durumunuza uygun bir plan yapmak için bir şiddet karşıtı merkeze veya yardım hattına (İtalya'da **1522**) başvurun — bu kurumlar her gün bu tür yardımları gizlilik içinde sunuyor ve pratik, hukuki ve duygusal adımlar konusunda size yardımcı olabilir.\n- Yaşadıklarınızı kayda alıyorsanız, bu kayıtları özel ve güvenli bir yerde saklayın.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da **1522** numaralı hat — ücretsiz, 24 saat hizmet veren, anonim ve çok dilli — acil güvenlik planlaması da dahil olmak üzere telefon veya sohbet yoluyla yardım sunabilir."
+    },
+    "sex-during-your-period": {
+      "title": "Adet döneminde cinsel ilişki",
+      "aliases": [
+        "adet döneminde cinsel ilişki",
+        "adetliyken seks",
+        "regl döneminde ilişki",
+        "adet sırasında seks",
+        "adetliyken hamile kalınır mı",
+        "adet döneminde hamile kalmak",
+        "regldeyken hamile kalır mıyım"
+      ],
+      "glance": "İkiniz de istiyorsanız adet döneminde cinsel ilişki sorun değildir, ancak yine de gebelik oluşabilir ve CYBE bulaşabilir.",
+      "overview": "Adet döneminde cinsel ilişkiye girmek kişisel bir tercihtir. İkiniz de istiyorsanız ve ikiniz de kendinizi rahat hissediyorsanız sorun yoktur; bunda yanlış ya da olağandışı hiçbir şey yoktur. Bazı kişiler bu dönemde daha hassas hisseder ya da sadece istekli olmaz, bazıları ise bundan keyif alır. En önemlisi bedeninizi dinlemek ve partnerinizle açıkça konuşmaktır.\n\nAncak adet, bir doğum kontrol yöntemi gibi işlemez. Hamile kalma olasılığı yumurtlama dönemine göre daha düşüktür, ama sıfır değildir. Sperm, cinsel ilişkiden sonra vücutta 7 güne kadar canlı kalabilir; bu nedenle yumurtlamanız erken olursa (ki bu, daha kısa bir döngüde daha olasıdır), adet sırasında ya da hemen sonrasında girilen ilişkiden gelen spermler yine de bir yumurtayla karşılaşabilir. Hamile kalmak istemiyorsanız, bu günlerde de her zamanki doğum kontrol yönteminizi kullanmanız önemlidir.\n\nAdet, cinsel yolla bulaşan enfeksiyonlara (CYBE) karşı da koruma sağlamaz. Enfeksiyonlar prezervatifsiz cinsel ilişki sırasında partnerler arasında bulaşabilir ve bunlara neden olan mikroplar diğer vücut sıvılarının yanı sıra kanda da bulunabilir. Prezervatif, HIV dahil CYBE riskini de azaltan yöntemdir; bu yüzden ayın hangi zamanı olursa olsun kullanmaya değer.",
+      "deep": null,
+      "when_to_see_doctor": "- **Doğum kontrolü olmadan** ilişkiye girdiyseniz ya da kullandığınız yöntemin işe yaramamış olma ihtimali varsa ve hamile kalmak istemiyorsanız, acil kontrasepsiyon hakkında **mümkün olan en kısa sürede** bir eczacı, aile hekimi veya cinsel sağlık kliniğiyle görüşün. Birkaç gün içinde kullanılması gerekir ve genellikle ne kadar erken kullanılırsa o kadar etkili olur.\n- İlişki sırasında **prezervatif yırtılırsa veya çıkarsa** bir eczacıdan, cinsel sağlık kliniğinden, aile hekiminden veya **NHS 111** hattından yardım alın. Acil kontrasepsiyona ya da CYBE testine ihtiyacınız olabilir.\n- **Adet döneminizde değilken cinsel ilişkiden sonra kanama** fark ederseniz bir aile hekimine veya cinsel sağlık kliniğine başvurun. Genellikle ciddi değildir, ancak kontrol ettirmek her zaman iyi olur.",
+      "red_flags": null
+    },
+    "sexual-violence": {
+      "title": "Cinsel şiddet ve rıza",
+      "aliases": [
+        "cinsel şiddet",
+        "cinsel saldırı",
+        "tecavüz",
+        "onay",
+        "cinsel istismar",
+        "rıza dışı"
+      ],
+      "glance": "Cinsel şiddet, rıza olmaksızın gerçekleştirilen her türlü cinsel eylemdir — ve bu durumun suçu asla bunu yaşayan kişiye ait değildir.",
+      "overview": "Cinsel şiddet, rıza olmaksızın veya zorlama yoluyla gerçekleştirilen herhangi bir cinsel eylem veya böyle bir eylemi gerçekleştirmeye yönelik girişimi ifade eder. Tecavüz ve istenmeyen her türlü cinsel teması içerir ve bir yabancı, bir tanıdık, bir partner veya eş gibi herhangi bir kişi tarafından işlenebilir.\n\nRıza, tüm bunların merkezinde yer alır. Rıza, özgür iradeyle kabul etmek anlamına gelir ve bir kişi uyurken, bilinci kapalıyken, sarhoşken veya uyuşturulmuşken, çocukken ya da baskı altında, tehdit altında veya korkmuşken rıza göstermesi mümkün değildir. Rıza her an geri çekilebilir. Bu nedenle, cinsel şiddet **asla** mağdurun suçu değildir — ne giydiği, içki içip içmediği, direnmek yerine donup kalmış olması ya da o kişiyi tanıyıp tanımaması fark etmez.\n\nEğer başınıza böyle bir şey geldiyse, ister yakın zamanda ister uzun zaman önce olsun, destek her zaman yanınızda. Size inanıyoruz ve bundan sonra ne yapacağınız tamamen sizin seçiminizdir.",
+      "deep": null,
+      "when_to_see_doctor": "- Size bakım sağlayabilecek, yaralarınızı tedavi edebilecek ve — isterseniz — ihbar etme ve kanıtları koruma konusunda yardımcı olabilecek bir **sağlık hizmetine, hastaneye veya cinsel saldırı mağdurlarına yönelik özel bir servise** başvurabilirsiniz.\n- Bazı sağlık önlemleri **zamana duyarlıdır** — örneğin acil kontrasepsiyon veya enfeksiyonun önlenmesi — bu nedenle **en kısa sürede** yardım istemek faydalı olabilir. Ancak destek almak için bir zaman sınırı yoktur ve bildirimde bulunup bulunmamak her zaman sizin tercihinizdir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- Yakın zamanda bir saldırıya uğradıysanız, **bir hastane veya uzman bir hizmet acil yardım sağlayabilir**. İtalya’da **1522** (ücretsiz, 7/24, anonim, çok dilli — telefon veya sohbet) numarası sizi doğru bakım hizmetine yönlendirebilir."
+    },
     "signs-of-labour": {
       "title": "Doğum belirtileri",
       "aliases": [
@@ -834,6 +1041,22 @@
       "when_to_see_doctor": "- **Adet dönemleri arasında veya cinsel ilişki sonrasında kanama yaşadığınız her durumda**,\n  kanama az olsa bile bir aile hekimine veya cinsel sağlık kliniğine başvurun. Genellikle ciddi bir durum değildir, ancak muayene yaptırmak, nedenin\n  tespit edilmesini sağlar — ve daha nadir görülen nedenleri erken aşamada ekarte etmenin yolu budur.",
       "red_flags": "- **Adet görmediyseniz ve\n  karın veya pelvik ağrıyla birlikte olağandışı kanama yaşıyorsanız**, **acil** bir aile hekimi randevusu alın veya **NHS 111** numaralı telefonu arayın — bu durum, dış gebeliğin bir\n  belirtisi olabileceğinden derhal değerlendirilmesi gerekir."
     },
+    "stalking": {
+      "title": "Israrlı takip",
+      "aliases": [
+        "ısrarlı takip",
+        "takip ediliyor",
+        "taciz",
+        "istenmeyen ilgi",
+        "beni takip eden biri",
+        "siber taciz"
+      ],
+      "glance": "Takipçilik, sizi korkutacak veya güvensiz hissettirecek şekilde tekrarlanan, istenmeyen ilgidir — ve bu durum ciddiye alınır.",
+      "overview": "Takipçilik, bir kişinin sergilediği, sizi korkutan, izlendiğinizi hissettiren veya güvensiz hissettiren istenmeyen ve tekrarlanan davranış biçimidir. Takip edilme, bulunduğunuz yere birinin gelmesi, sürekli aramalar veya mesajlar, istenmeyen hediyeler, çevrimiçi olarak veya telefonunuz aracılığıyla izlenme ya da tehditler bu davranış biçimine örnek olarak verilebilir. Genellikle eski bir partner veya tanıdığınız biri tarafından yapılır, ancak her zaman böyle değildir.\n\nBunun yarattığı korku haklıdır; her bir eylem başkalarına \"küçük\" görünse bile — önemli olan, bu davranışların oluşturduğu kalıptır ve bunun size nasıl hissettirdiğidir. Takipçilik, bir istismar biçimi olarak kabul edilir ve birçok ülkede suç sayılır. Bunların hiçbiri sizin suçunuz değildir ve bunlara katlanmak zorunda değilsiniz.\n\nEğer güvenliyse, bir kayıt tutmak ileride yardımcı olabilir: tarihler ve saatler, mesajların ekran görüntüleri ve neler olduğu. Bunun “sayılıp sayılmayacağını” kendi başınıza çözmenize gerek yok — destek hizmetleri, durumu anlamanıza ve seçeneklerinizi değerlendirmenize yardımcı olabilir.",
+      "deep": null,
+      "when_to_see_doctor": "- Takipçilik vakalarını bildirmek için **polis** ile iletişime geçin; destek ve tavsiye almak için ise şiddet veya takipçilikle mücadele yardım hattını arayın (İtalya'da **1522** numarası hem şiddet hem de takipçilik vakaları için geçerlidir).\n- Bir uzman hizmetin yardımıyla kanıtları saklamak ve bir güvenlik planı hazırlamak, her ikisi de gerçek bir fark yaratabilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altında olduğunuzu hissediyorsanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya’da **1522** numaralı hat — ücretsiz, 24 saat hizmet veren, anonim ve çok dilli — telefon veya sohbet yoluyla yardım sunabilir."
+    },
     "stillbirth": {
       "title": "Ölü doğum",
       "aliases": [
@@ -864,22 +1087,64 @@
       "when_to_see_doctor": "Aşağıdaki durumlarda bir aile hekimine başvurun:\n\n- **üç adet dönemi üst üste** atladıysanız veya adetleriniz **düzensiz** hale geldiyse\n- adetleriniz **durduysa** ve bunun nedeninden emin değilseniz (hamilelik ihtimali de olabilir; önce bir test yaptırmanızda fayda var)\n- adet görmeme durumuna başka değişiklikler de eşlik ediyorsa — örneğin beklenmedik kilo değişiklikleri, yorgunluk, aşırı tüy\n  büyümesi veya moral bozukluğu\n\nBu muayeneler, değişikliğin arkasındaki nedeni anlamak içindir — ki bu genellikle\nyönetilebilir bir durumdur.",
       "red_flags": null
     },
-    "the-coil": {
-      "title": "Bobin (IUD ve IUS)",
+    "supporting-her-period": {
+      "title": "Regl döneminde ona destek olmak",
       "aliases": [
-        "bobin",
-        "bobin",
+        "regl döneminde yardım etmek",
+        "ortaklara dönem desteği",
+        "dönem bakımı"
+      ],
+      "glance": "Regl dönemleri gerçek acı ve yorgunluk getirebilir; küçük, pratik bakım büyük fark yaratır.",
+      "overview": "Adet dönemi sadece birkaç günlük kanama değildir; birçoğu için kramplar, sırt ağrısı, baş ağrıları,\nyorgunluk ve düşük enerji. Regl ağrısı yaygındır ve gerçekten yorucu olabilir.\nabartı. Hasta olan herhangi bir partnere nasıl davranıyorsanız, ona da öyle davranın: pratik bir nezaketle.\n\nOnu da normalleştirin. Regl dönemleri iğrenç, utanç verici veya tabu değildir. Ped satın alırken rahat olmak veya\nTampon takmak, birazını evde tutmak ya da sorun çıkarmadan ona sıcak su şişesi vermek ona güvende olduğunu ve\ndesteklendi.",
+      "deep": "Yardımcı olan basit şeyler:\n\n- **Sıcaklık ve dinlenme.** Karnın alt kısmına konulan sıcak su şişesi veya ısı yastığı krampları hafifletir; sessizlik teklif et\n  akşam.\n- **Tabağından her şeyi çıkarın.** Yemek yapın, etrafı toplayın, işleri halledin, onu gezdirin; pratik yardım daha da zorlaşıyor\n  kelimelerden daha fazla.\n- **Malzemeleri içeride tutun.** Ne kullandığını öğrenin ve stok bulundurun, böylece yoğun bir gün asla krize dönüşmez.\n- **Ağrı kesiciler ve rahatlatıcı yiyecekler** eğer isterse; onun seçimi.\n- **Sahip olmadığı seks ya da enerji için baskı yapmayın.** Yakınlık kanepede kucaklaşmak olabilir.",
+      "when_to_see_doctor": "Regl ağrısı şiddetliyse, kötüleşiyorsa onu bir doktora görünmesi konusunda cesaretlendirin (ve onunla gitmeyi teklif edin).\nveya regl dönemi **çok ağırsa** (saatlik koruma yoluyla ıslanma,\nbüyük pıhtılar) veya ağrı yeni ve olağandışı ise – bunlar endometriozis gibi durumlara işaret edebilir.\nuygun bakımı hak ediyor.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Şiddet gören birine destek olmak",
+      "aliases": [
+        "birine destek olmak",
+        "bir arkadaşa yardım etmek",
+        "nasıl yardım edilebilir",
+        "istismara maruz kalan biri",
+        "nasıl destek olunur"
+      ],
+      "glance": "Tanıdığınız birinin istismara maruz kalıyor olabileceğini düşünüyorsanız, yargılamadan dinlemek ve bu kişiyi nereye yönlendirebileceğinizi bilmek yardımcı olur.",
+      "overview": "Değer verdiğiniz birinin istismara maruz kalıyor olabileceğini fark etmek zordur ve yardım etmek istemek doğal bir içgüdüdür. Sunabileceğiniz en yararlı şeyler genellikle en basit olanlardır.\n\nDinleyin ve onlara inanın. Yargılamadan, suçlamadan veya buna neden olmak için ne yaptıklarını sormadan, kendi hızlarında konuşmalarına izin verin. Bunun onların suçu olmadığını ve bunu hak etmediklerini açıkça söyleyin. Onlara ne yapmaları gerektiğini söylememeye veya ayrılmaya zorlamamaya çalışın: Ayrılmak onların kararıdır ve bunu aceleye getirmek aslında tehlikeyi artırabilir — daha çok yardımcı olan şey, kendilerini desteklenmiş ve yalnız hissetmemeleridir.\n\nSize anlattıklarını gizli tutun. Hazır olduklarında uzman desteğe ulaşmalarına nazikçe yardımcı olun — İtalya’daki **1522** gibi bir yardım hattı veya yerel bir şiddet karşıtı merkez — ve numaraları birlikte aramak ya da aradıklarında yanlarında olmak gibi pratik yardımlar sunun. Kendinize de iyi bakın; birine bu süreçte destek olmak zor olabilir.",
+      "deep": null,
+      "when_to_see_doctor": "- Onları (baskı yapmadan) bir yardım hattına veya şiddetle mücadele merkezine başvurmaya teşvik edin; bu kurumlar, bundan sonra ne yapmanız gerektiği konusunda ikinize de rehberlik edebilir. Aramayı yapmalarına veya numarayı bulmalarına yardımcı olmayı teklif edebilirsiniz.\n- Yaralanmışlarsa, bir aile hekimi veya hastane yardım edebilir — ve onları destek hizmetlerine yönlendirebilir.",
+      "red_flags": "- Eğer **acil bir tehlike** altındaysa, acil servisleri arayın: AB’de (İtalya dahil) **112**, Birleşik Krallık’ta **999**, ABD ve Kanada’da **911**.\n- İtalya'da **1522** (ücretsiz, 7/24, anonim, çok dilli — telefon veya sohbet) numarası da birine nasıl yardım edebileceğiniz konusunda size bilgi verebilir."
+    },
+    "the-coil": {
+      "title": "Spiral (bakırlı ve hormonlu)",
+      "aliases": [
+        "spiral",
+        "rahim içi araç",
         "IUD",
         "IUS",
-        "bakır bobin",
-        "hormonal spiral",
-        "rahim içi araç",
+        "bakırlı spiral",
+        "hormonlu spiral",
+        "RİA",
         "rahim içi sistem",
         "Mirena"
       ],
       "glance": "Spiral, rahim içine yerleştirilen ve yıllarca etkili olan küçük bir cihazdır — bakırlı (IUD) veya hormonal (IUS).",
       "overview": "Spiral, bir hekimin rahim içine yerleştirdiği küçük bir cihazdır. İki türü vardır ve bunları\nayırt etmek faydalıdır:\n\n- **IUD**, yani bakır spiral, hormon içermez. Bakır, rahimdeki koşulları değiştirerek\n  sperm ve yumurtaların hayatta kalmasını zorlaştırır ve ayrıca rahim ağzı salgısını da etkiler. Türüne bağlı olarak,\n  etkisi yaklaşık 5 ila 10 yıl sürer.\n- **IUS**, yani hormonal spiral, bakır kullanmak yerine bir progestojen salgılar. Bu,\n  rahim ağzındaki mukusu kalınlaştırır ve rahim zarını inceltir; bazı kişilerde adet kanamasını\n  çok daha hafif hale getirebilir.\n\nHer ikisi de \"tak ve unut\" yöntemleridir ve her ikisi de %99'un üzerinde etkilidir;\nmükemmel kullanım ile tipik kullanım arasında çok az fark vardır. Hiçbiri cinsel yolla bulaşan enfeksiyonlara karşı koruma sağlamaz.",
       "deep": "Spiraller uzun süreli etki gösteren geri dönüşümlü yöntemlerdir: bir kez takıldıklarında yıllarca etkisini sürdürürler ve\nçıkarıldıktan sonra doğurganlık geri döner. Takma ve çıkarma işlemleri eğitimli bir sağlık uzmanı tarafından yapılır ve sadece\nbirkaç dakika sürer; ancak bazı kişiler takılma işlemini rahatsız edici bulabilir. Kişilerin bu ikisi arasında seçim yapmalarının\nyaygın bir nedeni, adet dönemleri üzerindeki etkileridir — bakırlı IUD ilk başta adet kanamasını daha yoğun hale getirebilirken,\nhormonal IUS genellikle adet kanamasını daha hafif hale getirir. Hangisinin size uygun olduğu, bir klinisyenle görüşülerek belirlenir; bu yazı\nsadece her birinin nasıl çalıştığını açıklamaktadır.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Adet öncesi günler",
+      "aliases": [
+        "Partnerler için PMS",
+        "regl döneminden önce ona destek olmak",
+        "adet öncesi destek",
+        "luteal faz desteği"
+      ],
+      "glance": "Regl döneminden önceki günlerde kendini daha yorgun, hassas veya keyifsiz hissedebilir; bunu şakayla değil sabırla karşılayın.",
+      "overview": "Regl döneminden bir hafta kadar önce birçok kişi adet öncesi semptomlar yaşar: ruh hali değişiklikleri, sinirlilik\nveya moralinizin bozulması, yorgunluk, göğüs ağrısı, şişkinlik, baş ağrısı veya uyku sorunu. Bu çok yaygın\nve bu gerçektir - luteal fazdaki doğal hormon değişiminden kaynaklanmaktadır, onun \"aşırı tepki vermesinden\" değil.\n\nDaha az sayıda insan için kötü ruh hali şiddetlidir (PMDD adı verilen bir durum) ve gerçek anlamda tedaviyi hak eder.\ndestek ve tıbbi bakım. Her iki durumda da, işiniz onu teşhis etmek ya da düzeltmek değil; istikrarlı olmak ve\nnazik.\n\nBir partnerin burada yapabileceği en zarar verici şey onu silah haline getirmektir: \"sadece PMS yapıyorsunuz\", göz devirmeler,\nya da randevu nedeniyle duygularını geçersiz saymak. Bu onu işten çıkarır ve sert bir acıya neden olur\nhafta. Hormonlar resmin bir parçası olsa bile duyguları hala önemli.",
+      "deep": "Bu günlerde gerçekten yardımcı olan şey:\n\n- **Yükünü hafifletin.** Size sorulmadan ev işlerini, yemek pişirmeyi veya zihinsel yapılacaklar listesini üstlenin.\n- **Düzeltmek değil, rahatlatmak.** Ona sıcaklık, dinlenme, sıcak su şişesi ve en sevdiği yemeği sunun — ve izin verin\n  ne hissediyorsa onu hisseder.\n- **Önce dinleyin.** Eğer üzgünse, \"bu kulağa gerçekten zor geliyor\" demek her zaman \"sakin ol\"dan daha iyidir.\n- **Skor tutma.** Daha zor bir gün onun sana daha sonra borçlu olacağı bir borç değildir.\n- **Neye ihtiyacı olduğunu sorun** — Bazıları yakınlık ister, bazıları ise alan ister. İkisi de iyi; cevabına saygı duy.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -898,6 +1163,20 @@
       "overview": "Birden fazla bebek beklediğiniz genellikle ilk olarak **gebelik yaşı belirleme ultrasonu** sırasında (yaklaşık 12. haftada) anlaşılır;\nbu muayene, bebeklerin aynı plasentayı paylaşıp paylaşmadığını da ortaya çıkarabilir.\n\nİki ana tür vardır. **Tek yumurta** ikizleri, bölünen tek bir döllenmiş yumurtadan oluşur; bu nedenle\naynı genleri paylaşırlar ve her zaman aynı cinsiyettedirler. **Farklı** ikizler ise iki ayrı\nyumurtadan oluşur ve diğer kardeşlerden daha fazla birbirlerine benzemezler; bu tür ikizler, ikiz türleri arasında daha yaygındır ve\nyaş ilerledikçe, anne tarafında aile öyküsü varsa veya tüp bebek tedavisi sonrasında ortaya çıkma olasılığı\nbiraz daha yüksektir.\n\nİkiz veya daha fazla bebek taşımak başlı başına bir deneyimdir ve genellikle **biraz daha fazla doğum öncesi bakım** gerektirir —\nsizi ve bebeklerinizi yakından takip etmek için ek muayene ve ultrason randevuları. Ebe ekibiniz\nsize ne beklemeniz gerektiğini açıklayacaktır.",
       "deep": null,
       "when_to_see_doctor": "- Ultrason sonucunda ikiz (veya daha fazla) olduğu ortaya çıkarsa, **ebiniz** size çoğul gebelikte yapılması gereken ek kontroller ve\n  ultrasonlar hakkında bilgi verecektir — bu kontrollerin hepsine katılmak, en iyi şekilde\n  bakılmanın en iyi yoludur.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Döngüsünü anlamak",
+      "aliases": [
+        "partnerler için döngü rehberi",
+        "ortaklar için döngü",
+        "onun döngüsü nasıl çalışıyor",
+        "onun döngüsünü destekliyor"
+      ],
+      "glance": "Vücudu dört aşamadan oluşan aylık bir döngüden geçer; temelleri bilmek, onu tahmin etmeden desteklemenize yardımcı olur.",
+      "overview": "Adet döngüsü kabaca aylık bir ritimdir; ortalama olarak yaklaşık 28 gün sürer, ancak çoğu zaman 21 ila 21 gün arasında herhangi bir yerde bulunur.\n35'e kadar ve *onun* için normal olan her şey onun için normaldir. Dört aşamadan oluşur: **adet**\nevresi (adet dönemi), **foliküler** evresi, ortadaki **yumurtlama** ve **luteal**\nbir sonraki dönemden önceki aşama.\n\nEnerji, ruh hali, uyku ve arzu bu aşamalar arasında değişebilir çünkü hormonlar yükselip alçalır.\nbiyoloji, bir karakter kusuru ya da onunla dalga geçilecek bir şey değil. Bazı insanlar gerçek bir düşüş hissediyor\nregl döneminden önceki günler; diğerleri zar zor fark ediyor. Hissetmenin tek bir \"doğru\" yolu yoktur.\n\nUzman olmanıza gerek yok. En çok yardımcı olan şey basittir: Döngüsünün kabaca nerede olduğunu bilmek\n(bu uygulama onun izniyle size gösterebilir), bazı günlerin diğerlerinden daha zor olmasını bekleyin ve sorun\n*Onun* varsaymak yerine yararlı bulduğu şeyleri ona aktarın.",
+      "deep": "Efsanelerin boşluğu doldurmaması için bilmeye değer birkaç şey:\n\n- **\"Regl döneminde\" ifadesi bir hakaret ya da onunla aynı fikirde olmadığınızı gösteren bir açıklama değildir.** Bisikletini kullanarak\n  Onun duygularını göz ardı etmek (\"sadece hormonlusun\") saygısızlıktır ve genellikle yanlıştır. Onun nedenleri\n  hâlâ onun nedenleri.\n- **Döngü, adet dönemlerinden daha fazlasını etkiler.** Kramplar, baş ağrıları, hassas göğüsler, düşük enerji veya düşük enerji\n  ruh hali bunun bir parçası olabilir. Pratik yardım tavsiyelerden üstündür.\n- **Takip etme onun hakkıdır.** Eğer adet dönemini sizinle paylaşıyorsa, bunu nasıl olabileceğine dair bir pencere olarak değerlendirin\n  duygu - nazik olmaya bir davet, asla onu izleyecek veya kontrol edecek bir araç değil.\n- **Şüpheye düştüğünüzde sorun.** \"Bugün nasıl hissediyorsunuz? Yapabileceğim bir şey var mı?\" herhangi bir grafikten daha değerlidir.",
+      "when_to_see_doctor": null,
       "red_flags": null
     },
     "vaginal-dryness": {
@@ -921,241 +1200,13 @@
         "kişisel hijyen",
         "temiz tutmak",
         "vajinal duş",
-        "boşaltma"
+        "vajinal akıntı"
       ],
       "glance": "Vajina kendi kendini temizler — dış kısmına nazikçe bakmak yeterlidir ve akıntı normaldir.",
       "overview": "Bilmeniz gereken en güven verici şeylerden biri, vajinanın kendi kendini koruduğudur. Vajina doğal olarak\nkendini temizler ve fark ettiğiniz akıntı da bunun bir parçasıdır — vajinayı temiz ve nemli tutan\nve enfeksiyondan korumaya yardımcı olan bir sıvıdır. Akıntının miktarı ve kıvamı adet döngüsü boyunca değişir; bu\ntamamen normaldir.\n\nBu nedenle vajinanın iç kısmının yıkanmasına gerek yoktur. Aslında, iç kısmını yıkamak —\n“vajinal duş” — vajinanın doğal dengesini bozabilir. Dış kısım (vulva) ise sadece nazik bir bakıma ihtiyaç duyar: ılık\nsu ve isterseniz hafif, parfümsüz bir sabun. Parfümlü sabunlar, jeller, deodorantlar ve kokulu\nmendiller tahrişe neden olabileceğinden en iyisi bunlardan kaçınmaktır.\n\nSizin için neyin normal olduğunu — olağan akıntınız, görünüşü ve hissi — bilmek, bir değişiklik olup olmadığını\nve muayeneye ihtiyaç duyulup duyulmadığını fark etmenizi kolaylaştırır.",
       "deep": null,
-      "when_to_see_doctor": "Aşağıdaki belirtileri fark ederseniz bir aile hekimine veya cinsel sağlık kliniğine başvurun:\n\n- akıntınızda bir değişiklik — rengi, kokusu veya kıvamında bir değişiklik ya da normalden çok daha fazla akıntı\n- vajina veya vulva çevresinde kaşıntı, ağrı veya tahriş\n- adet dönemleri arasında veya cinsel ilişki sonrası kanama\n- idrar yaparken ağrı veya karnınız ile uyluklarınızın arasındaki alt bölgede ağrı (pelvik ağrı)\n\nBunlar sık görülen ve genellikle kolayca tedavi edilebilen durumlardır — akıntıda bir değişiklik, sadece pamukçuk gibi hafif bir enfeksiyon\nanlamına gelebilir. Tahminde bulunmak yerine, muayene yaptırarak kesin bir sonuca ulaşabilirsiniz.",
+      "when_to_see_doctor": "Aşağıdaki belirtileri fark ederseniz bir aile hekimine veya cinsel sağlık kliniğine başvurun:\n\n- akıntınızda bir değişiklik — rengi, kokusu veya kıvamında bir değişiklik ya da normalden çok daha fazla akıntı\n- vajina veya vulva çevresinde kaşıntı, ağrı veya tahriş\n- adet dönemleri arasında veya cinsel ilişki sonrası kanama\n- idrar yaparken ağrı veya karnınız ile uyluklarınızın arasındaki alt bölgede ağrı (pelvik ağrı)\n\nBunlar sık görülen ve genellikle kolayca tedavi edilebilen durumlardır — akıntıda bir değişiklik, sadece vajinal mantar enfeksiyonu gibi hafif bir enfeksiyon\nanlamına gelebilir. Tahminde bulunmak yerine, muayene yaptırarak kesin bir sonuca ulaşabilirsiniz.",
       "red_flags": null
-    },
-    "consent-and-respect": {
-      "title": "Rıza ve saygı",
-      "aliases": [
-        "rıza",
-        "onun sınırlarına saygı duy",
-        "coşkulu rıza",
-        "bedensel özerklik"
-      ],
-      "glance": "Rıza her zaman açık, özgür ve coşkulu bir evettir ve herhangi bir zamanda geri çekilebilir.",
-      "overview": "Saygı, her zaman kendi bedeni hakkında karar verme hakkıyla başlar. Yakınlaşmaya razı olmak şu anlama gelir:\nözgürce verilen, bilgilendirilmiş, hevesli **evet**. Sessizlik rıza değildir. Gönülsüz bir \"para cezası\", rıza anlamına gelmez.\nUyuyan, çok sarhoş olan veya baskı altında olan biri gerçekten rıza gösteremez. Ve bir şeye evet ya da\nBir gün her şeye ya da bir dahaki sefere evet demek değildir.\n\nRıza her an geri çekilebilir ve \"dur\" ya da \"bu gece olmaz\" hiçbir müdahale gerektirmeyen tam bir yanıttır.\ngerekçe. Baskı yapmak, suçluluk duygusu uyandırmak, teslim olana kadar somurtmak veya seksi bir şey olarak görmek\nborçlusun tamam değil - bir ilişki borç değildir.",
-      "deep": "Pratikte saygı nasıl görünür:\n\n- **Sorun ve kontrol edin.** \"Bu uygun mu?\" ve nasıl tepki verdiğine - kelimelere ve bedene - dikkat etmek.\n- **\"Hayır\"ı nezaketle karşılayın.** Somurtmak, baskı yapmak veya ceza vermek yok. Onun cevabı bu işin sonu.\n- **Coşku önemlidir.** Emin olamıyorsa, tereddüt ediyorsa ya da sadece buna katılıyor gibi görünüyorsa, durun ve sorun.\n- **Vücudu, çağrısı** — yakınlık, doğum kontrolü, hamilelik, sağlığı, görünümü ve davranışları hakkında\n  seçimler. Ortak yaşamınızda bir sese sahip olursunuz, asla onun bedeni üzerinde veto edemezsiniz.\n- **Saygı günlüktür.** Onunla, onun hakkında nasıl konuştuğunuz ve küçük şeylerde onun sınırlarına nasıl davrandığınız önemlidir.\n  diğer her şeyin dayandığı temel.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "listening-and-support": {
-      "title": "Dinleme ve duygusal destek",
-      "aliases": [
-        "nasıl dinlenir",
-        "ortaklara duygusal destek",
-        "iletişim",
-        "onun için orada olmak"
-      ],
-      "glance": "Çoğu zaman dinlenmeye değil, dinlenmeye ihtiyaç duyar; önce dinleyin ve tavsiyede bulunmadan önce sorun.",
-      "overview": "Sevdiğimiz biri mücadele ederken içgüdümüz devreye girip sorunu çözmektir. Ama çoğu zaman en çok yardımcı olan şey\ngerçekten duyulduğunu hissediyor: duygularının anlamlı olduğunu ve onlarla yalnız olmadığını. Sabitleme de\nhızlı bir şekilde \"duygularınız kapatılacak bir sorundur\" şeklinde inebilir.\n\nİyi dinleme herkesin öğrenebileceği bir beceridir. Çoğunlukla dikkat: telefonu bir kenara koymak, ona bakmak,\nve bitirmesine izin verdim. Ona saygı duyulduğunu hissettirmek için her noktaya katılmanıza gerek yok.",
-      "deep": "Gösterişin pratik yolları:\n\n- **Cevap vermek için değil, anlamak için dinleyin.** Sözünüzü kesmeden veya savunmanızı planlamadan konuşmasına izin verin.\n- **Bunu geri yansıtın.** \"Kulağa gerçekten stresli geliyor\" veya \"Bunun neden acıttığını anlıyorum\" ifadesi \"sadece yapma\"\n  bunun için endişelen.\"\n- **Tavsiye vermeden önce sorun.** \"Düşünme konusunda yardım mı istiyorsun, yoksa sadece dinlememi mi istiyorsun?\"\n- **Zor bir günün sizinle ilgili olmadığı durumlarda bunu kişisel algılamayın**. Kararlılık bir hediyedir.\n- **Kendi payınıza düşeni alın.** Eğer bir hatanız varsa, \"ama\" olmadan gerçek bir özür, güveni yeniden inşa eder.\n- **Büyük resme dikkat edin.** Sürekli olarak morali bozuk, kaygılı görünüyorsa ya da kendisi değil gibi görünüyorsa, nazikçe\n  Desteği teşvik edin ve ona ulaşmasına yardımcı olmayı teklif edin. Sen bir takım arkadaşısın, terapist değil.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "respect-not-control": {
-      "title": "Kontrol değil saygı gösterin",
-      "aliases": [
-        "davranışı kontrol etmek",
-        "zorlayıcı kontrol",
-        "sağlıklı ilişki",
-        "uyarı işaretleri",
-        "nereden yardım alınır",
-        "istismar"
-      ],
-      "glance": "Sevgi, saygı ve özgürlük üzerine kuruludur; kontrol, kıskançlık ve baskı sevgi değildir ve yardım vardır.",
-      "overview": "Sağlıklı bir ilişki saygıya, güvene, eşitliğe ve özgürlüğe dayanır: her biri birbirini koruyan iki kişi.\nkendi arkadaşlıkları, seçimleri ve alanı. Kontrol bunun tersidir. Genellikle aşk ya da gibi kelimelerin arkasına saklanır.\nkıskançlık - \"Telefonunu kontrol ediyorum çünkü umursuyorum\", \"Onları görmeni istemiyorum çünkü seni seviyorum\" - ama\netkisi onun dünyasını ve özgürlüğünü daraltmaktır.\n\nKontrol nadiren şiddet ile başlar. Genellikle küçük başlar; bir eleştiri, bir sınırın aşılması, bir\nacı veren ve büyüyen bir \"şaka\". Buna erken isim vermek önemlidir çünkü zorlayıcı kontrolün kendisi bir tür\nkötüye kullanım ve daha kötüsü için bir uyarı işareti. Bu suçluluk duygusuyla ilgili değil; dürüstlük ve değişimle ilgilidir.",
-      "deep": "**Eğer bunlardan bazılarını kendinizde fark ederseniz, bu farkındalık bir başlangıç noktasıdır, ömür boyu hapis cezası değil.**\nİnsanlar gerçek çaba ve doğru yardımla değişebilirler. Erkeklere özel bir programa ulaşmak\nKontrolcü olmayı veya şiddete başvurmayı bırakmak isteyen kişi zayıflığın değil, güçlülüğün işaretidir. Biriyle konuş\nbir profesyonel, bir doktor veya bir erkek davranış değişikliği servisi.\n\nEğer **o** tehlikedeyse veya birisi için endişeleniyorsanız, onu ulaşması için cesaretlendirin ve destekleyin.\nyardım - onun şartlarına göre, asla devralmadan.\n\n**Nereden yardım alınır**\n- Acil bir durumda veya birisi doğrudan tehlike altındaysa, yerel acil durum numaranızı arayın\n  (**İtalya'da ve Avrupa'nın büyük bölümünde **112**; ABD'de **911**).\n- **İtalya — 1522**: ulusal şiddet karşıtı ve ısrarlı takip yardım hattı. Ücretsiz, 7/24, anonim ve\n  Çok dilli, Fırsat Eşitliği Departmanı tarafından yönetiliyor. Aynı zamanda insanları yerele yönlendirir.\n  şiddet karşıtı merkezler (centri antiviolenza).\n- Şiddet karşıtı merkezler ve erkeklerin davranış değiştirme programları (İtalya'da \"centri per uomini autori di)\n  Violenza\") değişim için gizli destek sunuyor.",
-      "when_to_see_doctor": null,
-      "red_flags": "Kendinizde veya bir ilişkide ciddiye alınmaya değer, kontrol edici veya istismarcı davranışlara ilişkin uyarı işaretleri:\n\n- **İzleme veya tecrit etme**: telefonunu kontrol etmek, konumunu takip etmek veya iletişimini kesmek\n  arkadaşlar ve aile.\n- **Seçenekler üzerinde kontrol**: para, ne giydiği, nereye gittiği, kimi gördüğü.\n- **Aşk olarak çerçevelenen kıskançlık**, sürekli suçlamalar veya her zaman nerede olduğunu bilme ihtiyacı.\n- **Kötülemeler, suçlamalar ya da onu korkutmak**, suçluluk duymak ya da \"yumurta kabuğu üzerinde yürümek\".\n- Uyum sağlamak için seks, ayrılma veya kendine zarar verme konusunda **baskı veya tehditler**.\n- **Herhangi bir fiziksel güç, gözdağı veya korku.** Eğer bu mevcutsa, bu istismardır; yardıma ulaşın\n  yukarıda. Asla bir mazeret yoktur ve bu asla onun hatası değildir."
-    },
-    "supporting-her-period": {
-      "title": "Regl döneminde ona destek olmak",
-      "aliases": [
-        "regl döneminde yardım etmek",
-        "ortaklara dönem desteği",
-        "dönem bakımı"
-      ],
-      "glance": "Regl dönemleri gerçek acı ve yorgunluk getirebilir; küçük, pratik bakım büyük fark yaratır.",
-      "overview": "Adet dönemi sadece birkaç günlük kanama değildir; birçoğu için kramplar, sırt ağrısı, baş ağrıları,\nyorgunluk ve düşük enerji. Regl ağrısı yaygındır ve gerçekten yorucu olabilir.\nabartı. Hasta olan herhangi bir partnere nasıl davranıyorsanız, ona da öyle davranın: pratik bir nezaketle.\n\nOnu da normalleştirin. Regl dönemleri iğrenç, utanç verici veya tabu değildir. Ped satın alırken rahat olmak veya\nTampon takmak, birazını evde tutmak ya da sorun çıkarmadan ona sıcak su şişesi vermek ona güvende olduğunu ve\ndesteklendi.",
-      "deep": "Yardımcı olan basit şeyler:\n\n- **Sıcaklık ve dinlenme.** Karnın alt kısmına konulan sıcak su şişesi veya ısı yastığı krampları hafifletir; sessizlik teklif et\n  akşam.\n- **Tabağından her şeyi çıkarın.** Yemek yapın, etrafı toplayın, işleri halledin, onu gezdirin; pratik yardım daha da zorlaşıyor\n  kelimelerden daha fazla.\n- **Malzemeleri içeride tutun.** Ne kullandığını öğrenin ve stok bulundurun, böylece yoğun bir gün asla krize dönüşmez.\n- **Ağrı kesiciler ve rahatlatıcı yiyecekler** eğer isterse; onun seçimi.\n- **Sahip olmadığı seks ya da enerji için baskı yapmayın.** Yakınlık kanepede kucaklaşmak olabilir.",
-      "when_to_see_doctor": "Regl ağrısı şiddetliyse, kötüleşiyorsa onu bir doktora görünmesi konusunda cesaretlendirin (ve onunla gitmeyi teklif edin).\nveya regl dönemi **çok ağırsa** (saatlik koruma yoluyla ıslanma,\nbüyük pıhtılar) veya ağrı yeni ve olağandışı ise – bunlar endometriozis gibi durumlara işaret edebilir.\nuygun bakımı hak ediyor.",
-      "red_flags": null
-    },
-    "the-premenstrual-days": {
-      "title": "Adet öncesi günler",
-      "aliases": [
-        "Ortaklar için PMS",
-        "regl döneminden önce ona destek olmak",
-        "adet öncesi destek",
-        "luteal faz desteği"
-      ],
-      "glance": "Regl döneminden önceki günlerde kendini daha yorgun, hassas veya keyifsiz hissedebilir; bunu şakayla değil sabırla karşılayın.",
-      "overview": "Regl döneminden bir hafta kadar önce birçok kişi adet öncesi semptomlar yaşar: ruh hali değişiklikleri, sinirlilik\nveya moralinizin bozulması, yorgunluk, göğüs ağrısı, şişkinlik, baş ağrısı veya uyku sorunu. Bu çok yaygın\nve bu gerçektir - luteal fazdaki doğal hormon değişiminden kaynaklanmaktadır, onun \"aşırı tepki vermesinden\" değil.\n\nDaha az sayıda insan için kötü ruh hali şiddetlidir (PMDD adı verilen bir durum) ve gerçek anlamda tedaviyi hak eder.\ndestek ve tıbbi bakım. Her iki durumda da, işiniz onu teşhis etmek ya da düzeltmek değil; istikrarlı olmak ve\nnazik.\n\nBir partnerin burada yapabileceği en zarar verici şey onu silah haline getirmektir: \"sadece PMS yapıyorsunuz\", göz devirmeler,\nya da randevu nedeniyle duygularını geçersiz saymak. Bu onu işten çıkarır ve sert bir acıya neden olur\nhafta. Hormonlar resmin bir parçası olsa bile duyguları hala önemli.",
-      "deep": "Bu günlerde gerçekten yardımcı olan şey:\n\n- **Yükünü hafifletin.** Size sorulmadan ev işlerini, yemek pişirmeyi veya zihinsel yapılacaklar listesini üstlenin.\n- **Düzeltmek değil, rahatlatmak.** Ona sıcaklık, dinlenme, sıcak su şişesi ve en sevdiği yemeği sunun — ve izin verin\n  ne hissediyorsa onu hisseder.\n- **Önce dinleyin.** Eğer üzgünse, \"bu kulağa gerçekten zor geliyor\" demek her zaman \"sakin ol\"dan daha iyidir.\n- **Skor tutma.** Daha zor bir gün onun sana daha sonra borçlu olacağı bir borç değildir.\n- **Neye ihtiyacı olduğunu sorun** — Bazıları yakınlık ister, bazıları ise alan ister. İkisi de iyi; cevabına saygı duy.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "understanding-her-cycle": {
-      "title": "Döngüsünü anlamak",
-      "aliases": [
-        "döngü için ortak kılavuzu",
-        "ortaklar için döngü",
-        "onun döngüsü nasıl çalışıyor",
-        "onun döngüsünü destekliyor"
-      ],
-      "glance": "Vücudu dört aşamadan oluşan aylık bir döngüden geçer; temelleri bilmek, onu tahmin etmeden desteklemenize yardımcı olur.",
-      "overview": "Adet döngüsü kabaca aylık bir ritimdir; ortalama olarak yaklaşık 28 gün sürer, ancak çoğu zaman 21 ila 21 gün arasında herhangi bir yerde bulunur.\n35'e kadar ve *onun* için normal olan her şey onun için normaldir. Dört aşamadan oluşur: **adet**\nevresi (adet dönemi), **foliküler** evresi, ortadaki **yumurtlama** ve **luteal**\nbir sonraki dönemden önceki aşama.\n\nEnerji, ruh hali, uyku ve arzu bu aşamalar arasında değişebilir çünkü hormonlar yükselip alçalır.\nbiyoloji, bir karakter kusuru ya da onunla dalga geçilecek bir şey değil. Bazı insanlar gerçek bir düşüş hissediyor\nregl döneminden önceki günler; diğerleri zar zor fark ediyor. Hissetmenin tek bir \"doğru\" yolu yoktur.\n\nUzman olmanıza gerek yok. En çok yardımcı olan şey basittir: Döngüsünün kabaca nerede olduğunu bilmek\n(bu uygulama onun izniyle size gösterebilir), bazı günlerin diğerlerinden daha zor olmasını bekleyin ve sorun\n*Onun* varsaymak yerine yararlı bulduğu şeyleri ona aktarın.",
-      "deep": "Efsanelerin boşluğu doldurmaması için bilmeye değer birkaç şey:\n\n- **\"Regl döneminde\" ifadesi bir hakaret ya da onunla aynı fikirde olmadığınızı gösteren bir açıklama değildir.** Bisikletini kullanarak\n  Onun duygularını göz ardı etmek (\"sadece hormonlusun\") saygısızlıktır ve genellikle yanlıştır. Onun nedenleri\n  hâlâ onun nedenleri.\n- **Döngü, adet dönemlerinden daha fazlasını etkiler.** Kramplar, baş ağrıları, hassas göğüsler, düşük enerji veya düşük enerji\n  ruh hali bunun bir parçası olabilir. Pratik yardım tavsiyelerden üstündür.\n- **Takip etme onun hakkıdır.** Eğer adet dönemini sizinle paylaşıyorsa, bunu nasıl olabileceğine dair bir pencere olarak değerlendirin\n  duygu - nazik olmaya bir davet, asla onu izleyecek veya kontrol edecek bir araç değil.\n- **Şüpheye düştüğünüzde sorun.** \"Bugün nasıl hissediyorsunuz? Yapabileceğim bir şey var mı?\" herhangi bir grafikten daha değerlidir.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "child-abuse": {
-      "title": "Çocuk istismarı ve çocukların güvenliği",
-      "aliases": [
-        "çocuk istismarı",
-        "çocuk istismarı",
-        "çocuk güvenliği",
-        "çocuğu korumak",
-        "çocuğu için endişelenen",
-        "ihmal"
-      ],
-      "glance": "Bir çocuğun zarar gördüğünden veya ihmal edildiğinden endişeleniyorsanız, tavsiye almak doğru bir davranıştır — bundan emin olmanıza gerek yoktur.",
-      "overview": "Çocuk istismarı — veya çocuk kötü muamelesi — 18 yaşın altındaki herkese yönelik zarardır. Fiziksel, cinsel ve duygusal istismarı ve ihmali (çocuğun temel ihtiyaçlarının karşılanmaması) içerir. Ne yazık ki yaygın bir durumdur, ömür boyu sürecek zararlara yol açabilir ve asla çocuğun suçu değildir.\n\nHayatınızdaki bir çocuk ya da dikkatinizi çeken bir çocuk hakkında endişeleriniz olabilir. Bu endişeyle ilgili harekete geçmek için emin olmanıza ya da kanıtınız olmasına gerek yoktur — bu endişeye güvenip tavsiye istemek tam da yapılması gereken şeydir ve bu, bir çocuğu koruyabilir.\n\nVe eğer siz de çocukken istismara maruz kaldıysanız, bu zararın asla sizin suçunuz olmadığını ve her yaşta sizin için de destek mevcut olduğunu bilin.",
-      "deep": null,
-      "when_to_see_doctor": "- Bir çocuk hakkında endişeleriniz varsa, **çocuk koruma / sosyal hizmetler** birimlerine, özel bir **çocuk koruma yardım hattına** veya **aile hekimine, sağlık görevlisine ya da çocuğun okuluna** danışabilirsiniz — tüm bilgiler gizli tutulacaktır.\n- Sormakla “aşırı tepki” vermiyorsunuz. Beklemektense kontrol etmek daha iyidir.",
-      "red_flags": "- Bir çocuk **acil tehlike** altındaysa veya ciddi şekilde yaralanmışsa, derhal acil servisleri arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**."
-    },
-    "coercive-control": {
-      "title": "Zorlayıcı kontrol",
-      "aliases": [
-        "zorlayıcı kontrol",
-        "kontrolcü davranış",
-        "duygusal istismar",
-        "psikolojik istismar",
-        "izolasyon",
-        "finansal istismar",
-        "gaslighting"
-      ],
-      "glance": "Zorlayıcı kontrol, izole etme, izleme, tehdit etme gibi kontrol edici davranış kalıplarından oluşan ve tanınmış bir istismar biçimidir.",
-      "overview": "Zorlayıcı kontrol, fiziksel zarar yerine ya da buna ek olarak kontrol yoluyla uygulanan bir istismar türüdür. Bu, tek bir tartışma değil, bir kişinin diğerinin özgürlüğünü ve benlik algısını kademeli olarak kısıtladığı bir davranış kalıbıdır.\n\nBu durum, arkadaşlarınızdan ve ailenizden koparılmak, telefonunuzun, hareketlerinizin veya harcamalarınızın izlenmesi ya da kısıtlanması, ne giyeceğinizin veya nasıl davranmanızın size söylenmesi ya da sürekli eleştiri, tehdit veya sindirmeyle yaşamak gibi şekillerde ortaya çıkabilir. Morluklar olmayabileceği için bunu tanımlamak zor olabilir ve başkaları bunu fark etmeyebilir — ancak bu durum istismar olarak kabul edilir ve fiziksel şiddet kadar zararlı olabilir.\n\nBunlardan bazılarını kendinizde fark ediyorsanız, bu sizin aşırı duyarlı olduğunuzun ya da bunu kendinizin kışkırttığınızın bir işareti değildir. Kontrolcü davranış, karşı tarafın yaptığı bir seçimdir. Bunu olduğu gibi anlamak, destek almanın ilk adımı olabilir.",
-      "deep": "Zorlayıcı kontrol genellikle yavaş yavaş gelişir; bu da içeriden fark edilmesini zorlaştıran faktörlerden biridir — küçük kontrol biçimleri normal hale gelir ve kendinden şüphe duyma artar. Bu durum zamanla ruh sağlığını yıpratır. Bu kalıpları anlamak için eğitim almış biriyle konuyu konuşmak, durumu daha net görmenize ve baskı hissetmeden bundan sonra ne yapmak istediğinizi düşünmenize yardımcı olabilir.",
-      "when_to_see_doctor": "- Bir şiddet karşıtı merkez veya yardım hattı (İtalya'da **1522**), yaşadıklarınızı gizlilik içinde ve ücretsiz olarak dinleyebilir ve seçeneklerinizi anlamanıza yardımcı olabilir — yardım istemek için fiziksel tehlike altında olmanız gerekmez.\n- Bir aile hekimi veya danışman da size destek olabilir ve sizi uzman hizmetlere yönlendirebilir.",
-      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da **1522** numaralı hat ücretsizdir, günün 24 saati hizmet verir, anonimdir ve çok dilli destek sunar — telefon veya sohbet yoluyla."
-    },
-    "economic-abuse": {
-      "title": "Ekonomik istismar",
-      "aliases": [
-        "ekonomik istismar",
-        "finansal istismar",
-        "para yönetimi",
-        "mali durumun kontrolü",
-        "adımı taşıyan borç"
-      ],
-      "glance": "Ekonomik istismar, bir kişinin paraya, işe veya kaynaklara erişimini kontrol etmektir — bu, tanınmış bir istismar türüdür.",
-      "overview": "Ekonomik istismar, bir kişinin başka bir kişinin paraya ve parayla satın alınabilecek şeylere erişimini kontrol etmesidir. Bu, kontrolcü davranışın bir biçimidir ve genellikle diğer istismar türleriyle birlikte görülür.\n\nBu, tüm harcamaları kontrol etmek veya her kuruşun hesabını sormak, maaşınızı veya sosyal yardımlarınızı almak, sizin adınıza borç biriktirmek, banka hesaplarını veya belgeleri sizden saklamak ya da çalışmanızı veya okumanızı engellemek şeklinde olabilir. Bu durum, bir kişinin ayrılma imkânını veya günlük hayatını idare etme imkânını elinden alabileceğinden, istismarın bir tuzak gibi hissedilmesine neden olan yollardan biridir.\n\nBunlardan bazıları size tanıdık geliyorsa, bu “parayı iyi idare edemediğiniz” veya suçlu olduğunuz anlamına gelmez. Başka bir kişinin kaynaklarını kontrol etmek, o kişinin kendi yaptığı bir seçimdir — ve bu, istismar olarak kabul edilir.",
-      "deep": null,
-      "when_to_see_doctor": "- Şiddetle mücadele hizmetleri de bu konuda yardımcı olabilir — sadece güvenlik değil, pratik ve maddi adımlar konusunda da, gizlilik içinde ve ücretsiz olarak (İtalya'da **1522** numaralı yardım hattı sizi yerel destek hizmetlerine yönlendirebilir).\n- Bir güvenlik planı, biraz para, önemli belgelere ve önemli numaralara sessizce erişim sağlamayı içerebilir.",
-      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da **1522** numaralı hat — ücretsiz, 24 saat hizmet veren, anonim ve çok dilli — telefon veya sohbet yoluyla yardım sunabilir."
-    },
-    "getting-help": {
-      "title": "Nereden yardım alabilirsiniz?",
-      "aliases": [
-        "yardım alma",
-        "kime başvurulmalı",
-        "yardım hatları",
-        "faydalı numaralar",
-        "şiddetle mücadele merkezi",
-        "1522",
-        "acil durum numaraları"
-      ],
-      "glance": "Ücretsiz ve gizli yardım mevcuttur — acil durumlarda yerel acil durum numarasını arayın; İtalya’da 1522 numarasını her zaman arayabilirsiniz.",
-      "overview": "Eğer istismara maruz kalıyorsanız, bununla tek başınıza yüzleşmek zorunda değilsiniz ve yardım istemek sizi hiçbir şeye mecbur kılmaz. Görevleri sadece sizi dinlemek ve yardım etmek olan, gizlilik içinde ve ücretsiz olarak hizmet veren insanlar var.\n\nBirkaç tür yardım birbiriyle iç içe geçmiştir:\n\n- **Acil servisler** — acil tehlike durumunda, bölgenizdeki acil durum numarasını (aşağıda) arayın.\n- **Ulusal bir yardım hattı** — İtalya'da, **1522** numaralı ücretsiz şiddet ve tacizle mücadele yardım hattı: 24 saat hizmet verir, anonimdir, çeşitli dillerde hizmet sunar; telefon veya çevrimiçi sohbet yoluyla ulaşılabilir.\n- **Şiddetle mücadele merkezleri** (İtalya'da *centri antiviolenza*) — ücretsiz, gizli destek, güvenlik planlaması ile hukuki ve psikolojik yardım sunan yerel hizmetler.\n- **Sağlık hizmetleri** — bir aile hekimi veya hastane acil servisi; buradaki personel, istismarı fark etme ve sizi destek hizmetlerine yönlendirme konusunda giderek daha fazla eğitim almaktadır.\n- **Güvendiğiniz kişiler** — kendinizi güvende hissettiğiniz bir arkadaş veya aile üyesi.\n\nEn uygun gördüğünüz konuyla başlayabilirsiniz; henüz bir karar vermiş olmanız gerekmez.",
-      "deep": null,
-      "when_to_see_doctor": "- Yaşadıklarınızı **aile hekiminize veya bir hastaneye** güvenle anlatabilirsiniz; onlar yaralarınızı tedavi edebilir ve sizi uzman hizmetlere yönlendirebilir.\n- Konuşmaktan ziyade yazmak daha kolaysa, **1522 sohbet** de başka bir seçenek olabilir.",
-      "red_flags": "- Eğer **acil tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- **İtalya:** **1522** (ücretsiz, 7/24, anonim, çok dilli — telefon veya sohbet).\n- Yardım hattı numaraları ülkeden ülkeye farklılık gösterir. Uygulama, bulunduğunuz ülkeye ait numaraları gösterebilir; **findahelpline.com** ise dünya çapındaki şiddetle mücadele yardım hatlarını listeler (bulunduğunuz ülkeyi algılar ve hızlı çıkış düğmesi içerir). AB'deyseniz, **112** numarası her yerde geçerlidir."
-    },
-    "recognising-abuse": {
-      "title": "İstismar içeren bir ilişkiyi fark etmek",
-      "aliases": [
-        "istismarı fark etme",
-        "istismar içeren ilişki",
-        "aile içi istismar",
-        "eş şiddeti",
-        "istismarın belirtileri",
-        "istismara uğruyor muyum"
-      ],
-      "glance": "İstismar fiziksel, cinsel, duygusal veya kontrolcü olabilir — ve bunu yaşayan kişinin suçu asla değildir.",
-      "overview": "İlişkide yaşanan istismar sadece fiziksel değildir. Çoğu zaman bir arada görülen çeşitli biçimler alabilir: fiziksel zarar, cinsel zorlama, duygusal veya psikolojik zarar ve kontrolcü davranışlar — partnerinizin nereye gideceğinize, kiminle görüşeceğinize veya ne yapabileceğinize karar vermesi gibi. Görünür bir yaralanma olmasa bile bunların her biri istismar sayılabilir.\n\nBu durum, çoğu kişinin farkında olduğundan daha yaygındır. Dünya genelinde yaklaşık her 3 kadından 1’i yaşamı boyunca fiziksel veya cinsel şiddete maruz kalmaktadır; bu şiddetin kaynağı çoğunlukla partneridir; İtalya’daki durum da benzerdir. Dolayısıyla, eğer bu durum hayatınızın bir parçasıysa, yalnız değilsiniz ve bu, sizin neden olduğunuz bir şey değildir.\n\nBuna isim vermek zor olabilir — istismar genellikle güzel anlarla, özürlerle veya değişme sözleriyle iç içe geçer ve o kadar yavaş bir şekilde gelişir ki normalmiş gibi hissedilebilir. Bir şeylerin yolunda gitmediğine dair kendi iç sesinize güvenmek, yardım istemek için geçerli bir nedendir. Biriyle konuşmak için kesin olarak emin olmanıza veya durumun “yeterince kötü” hale gelmesini beklemenize gerek yoktur.",
-      "deep": "Farklı biçimlerinin altında yatan istismar, genellikle bir kişinin bir başkası üzerinde güç ve kontrol elde etme eğiliminden kaynaklanır ve zamanla şiddetlenebilir. Bu durum sağlığı ciddi şekilde etkiler — anksiyete, depresyon, uyku sorunları ve uzun vadeli fiziksel etkilerle bağlantılıdır. Bunların hiçbiri sizin zayıf olduğunuzu veya suçlu olduğunuzu göstermez; sadece yaşadığınız durumun zararlı olduğunu ve bunu güvenli bir şekilde ve kendi hızınızda düşünmenize yardımcı olacak desteklerin mevcut olduğunu gösterir.",
-      "when_to_see_doctor": "- Hazır olduğunuzda, bir aile hekimiyle, hemşireyle, şiddetle mücadele merkeziyle veya bir yardım hattıyla (İtalya'da **1522**, ücretsiz ve her zaman ulaşılabilir) gizlilik içinde konuşabilirsiniz. Önceden bir kanıt, plan veya karar gerekmez; bu kurumlar sizi dinlemek ve seçeneklerinizi anlamanıza yardımcı olmak için oradadır.\n- Bir sağlık uzmanı ayrıca yaralanmalarınızı tedavi edebilir ve sizi sessizce uzman destek hizmetleriyle irtibata geçirebilir.",
-      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, derhal acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da, **1522** numaralı ücretsiz ulusal şiddet ve taciz yardım hattı, günün 24 saati, isimsiz olarak, telefon veya sohbet yoluyla ve çeşitli dillerde hizmet vermektedir."
-    },
-    "safety-plan": {
-      "title": "Bir güvenlik planı hazırlama",
-      "aliases": [
-        "güvenlik planı",
-        "güvenli kalmak",
-        "güvenli kalmak",
-        "güvenlik planlaması",
-        "güvenli bir şekilde ayrılma"
-      ],
-      "glance": "Güvenlik planı, daha güvende kalmanıza yardımcı olacak birkaç pratik adımdan oluşur — ve bu konuda eğitimli hizmetler, bir plan hazırlamanıza yardımcı olabilir.",
-      "overview": "Güvenlik planı, kendinizi (ve varsa çocuklarınızı) nasıl daha güvende tutabileceğinizi önceden düşünmektir. Bu, ayrılma ya da kalma kararı değildir — neyi seçerseniz seçin, biraz daha hazırlıklı olmakla ilgilidir.\n\nBazı kişiler için, birkaç şeyi sessizce hazır bulundurmak yardımcı olabilir: neler olup bittiğini bilen güvenilir bir kişi, önemli belgeler ve bu belgelere ulaşabileceğiniz numaralar, temel ihtiyaçların bulunduğu küçük bir çanta, evden en güvenli çıkış yollarına dair bir fikir ya da yardıma ihtiyacınız olduğunu birine bildiren bir kelime veya işaret. Nelerin mantıklı olduğu tamamen kendi durumunuza bağlıdır.\n\nBunu tek başınıza halletmek zorunda değilsiniz ve genellikle bunu yapmamak daha güvenlidir. Şiddetle mücadele hizmetleri, kişilerle gizlilik içinde ve ücretsiz olarak güvenlik planları hazırlama konusunda deneyimlidir — bu, ayrılma sürecini de içerir; bu dönem daha yüksek riskli olabilir ve aceleyle değil, destek alarak planlamaya değer bir andır.",
-      "deep": null,
-      "when_to_see_doctor": "- Durumunuza uygun bir plan yapmak için bir şiddet karşıtı merkeze veya yardım hattına (İtalya'da **1522**) başvurun — bu kurumlar her gün bu tür yardımları gizlilik içinde sunuyor ve pratik, hukuki ve duygusal adımlar konusunda size yardımcı olabilir.\n- Yaşadıklarınızı kayda alıyorsanız, bu kayıtları özel ve güvenli bir yerde saklayın.",
-      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya'da **1522** numaralı hat — ücretsiz, 24 saat hizmet veren, anonim ve çok dilli — acil güvenlik planlaması da dahil olmak üzere telefon veya sohbet yoluyla yardım sunabilir."
-    },
-    "sexual-violence": {
-      "title": "Cinsel şiddet ve rıza",
-      "aliases": [
-        "cinsel şiddet",
-        "cinsel saldırı",
-        "tecavüz",
-        "onay",
-        "cinsel istismar",
-        "rıza dışı"
-      ],
-      "glance": "Cinsel şiddet, rıza olmaksızın gerçekleştirilen her türlü cinsel eylemdir — ve bu durumun suçu asla bunu yaşayan kişiye ait değildir.",
-      "overview": "Cinsel şiddet, rıza olmaksızın veya zorlama yoluyla gerçekleştirilen herhangi bir cinsel eylem veya böyle bir eylemi gerçekleştirmeye yönelik girişimi ifade eder. Tecavüz ve istenmeyen her türlü cinsel teması içerir ve bir yabancı, bir tanıdık, bir partner veya eş gibi herhangi bir kişi tarafından işlenebilir.\n\nRıza, tüm bunların merkezinde yer alır. Rıza, özgür iradeyle kabul etmek anlamına gelir ve bir kişi uyurken, bilinci kapalıyken, sarhoşken veya uyuşturulmuşken, çocukken ya da baskı altında, tehdit altında veya korkmuşken rıza göstermesi mümkün değildir. Rıza her an geri çekilebilir. Bu nedenle, cinsel şiddet **asla** mağdurun suçu değildir — ne giydiği, içki içip içmediği, direnmek yerine donup kalmış olması ya da o kişiyi tanıyıp tanımaması fark etmez.\n\nEğer başınıza böyle bir şey geldiyse, ister yakın zamanda ister uzun zaman önce olsun, destek her zaman yanınızda. Size inanıyoruz ve bundan sonra ne yapacağınız tamamen sizin seçiminizdir.",
-      "deep": null,
-      "when_to_see_doctor": "- Size bakım sağlayabilecek, yaralarınızı tedavi edebilecek ve — isterseniz — ihbar etme ve kanıtları koruma konusunda yardımcı olabilecek bir **sağlık hizmetine, hastaneye veya cinsel saldırı mağdurlarına yönelik özel bir servise** başvurabilirsiniz.\n- Bazı sağlık önlemleri **zamana duyarlıdır** — örneğin acil kontrasepsiyon veya enfeksiyonun önlenmesi — bu nedenle **en kısa sürede** yardım istemek faydalı olabilir. Ancak destek almak için bir zaman sınırı yoktur ve bildirimde bulunup bulunmamak her zaman sizin tercihinizdir.",
-      "red_flags": "- Eğer **acil bir tehlike** altındaysanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- Yakın zamanda bir saldırıya uğradıysanız, **bir hastane veya uzman bir hizmet acil yardım sağlayabilir**. İtalya’da **1522** (ücretsiz, 7/24, anonim, çok dilli — telefon veya sohbet) numarası sizi doğru bakım hizmetine yönlendirebilir."
-    },
-    "stalking": {
-      "title": "Takipçilik",
-      "aliases": [
-        "takip",
-        "takip ediliyor",
-        "taciz",
-        "istenmeyen ilgi",
-        "beni takip eden biri",
-        "siber taciz"
-      ],
-      "glance": "Takipçilik, sizi korkutacak veya güvensiz hissettirecek şekilde tekrarlanan, istenmeyen ilgidir — ve bu durum ciddiye alınır.",
-      "overview": "Takipçilik, bir kişinin sergilediği, sizi korkutan, izlendiğinizi hissettiren veya güvensiz hissettiren istenmeyen ve tekrarlanan davranış biçimidir. Takip edilme, bulunduğunuz yere birinin gelmesi, sürekli aramalar veya mesajlar, istenmeyen hediyeler, çevrimiçi olarak veya telefonunuz aracılığıyla izlenme ya da tehditler bu davranış biçimine örnek olarak verilebilir. Genellikle eski bir partner veya tanıdığınız biri tarafından yapılır, ancak her zaman böyle değildir.\n\nBunun yarattığı korku haklıdır; her bir eylem başkalarına \"küçük\" görünse bile — önemli olan, bu davranışların oluşturduğu kalıptır ve bunun size nasıl hissettirdiğidir. Takipçilik, bir istismar biçimi olarak kabul edilir ve birçok ülkede suç sayılır. Bunların hiçbiri sizin suçunuz değildir ve bunlara katlanmak zorunda değilsiniz.\n\nEğer güvenliyse, bir kayıt tutmak ileride yardımcı olabilir: tarihler ve saatler, mesajların ekran görüntüleri ve neler olduğu. Bunun “sayılıp sayılmayacağını” kendi başınıza çözmenize gerek yok — destek hizmetleri, durumu anlamanıza ve seçeneklerinizi değerlendirmenize yardımcı olabilir.",
-      "deep": null,
-      "when_to_see_doctor": "- Takipçilik vakalarını bildirmek için **polis** ile iletişime geçin; destek ve tavsiye almak için ise şiddet veya takipçilikle mücadele yardım hattını arayın (İtalya'da **1522** numarası hem şiddet hem de takipçilik vakaları için geçerlidir).\n- Bir uzman hizmetin yardımıyla kanıtları saklamak ve bir güvenlik planı hazırlamak, her ikisi de gerçek bir fark yaratabilir.",
-      "red_flags": "- Eğer **acil bir tehlike** altında olduğunuzu hissediyorsanız, hemen acil yardım hizmetlerini arayın: AB'de (İtalya dahil) **112**, Birleşik Krallık'ta **999**, ABD ve Kanada'da **911**.\n- İtalya’da **1522** numaralı hat — ücretsiz, 24 saat hizmet veren, anonim ve çok dilli — telefon veya sohbet yoluyla yardım sunabilir."
-    },
-    "supporting-someone": {
-      "title": "Şiddet gören birine destek olmak",
-      "aliases": [
-        "birine destek olmak",
-        "bir arkadaşa yardım etmek",
-        "nasıl yardım edilebilir",
-        "istismara maruz kalan biri",
-        "nasıl destek olunur"
-      ],
-      "glance": "Tanıdığınız birinin istismara maruz kalıyor olabileceğini düşünüyorsanız, yargılamadan dinlemek ve bu kişiyi nereye yönlendirebileceğinizi bilmek yardımcı olur.",
-      "overview": "Değer verdiğiniz birinin istismara maruz kalıyor olabileceğini fark etmek zordur ve yardım etmek istemek doğal bir içgüdüdür. Sunabileceğiniz en yararlı şeyler genellikle en basit olanlardır.\n\nDinleyin ve onlara inanın. Yargılamadan, suçlamadan veya buna neden olmak için ne yaptıklarını sormadan, kendi hızlarında konuşmalarına izin verin. Bunun onların suçu olmadığını ve bunu hak etmediklerini açıkça söyleyin. Onlara ne yapmaları gerektiğini söylememeye veya ayrılmaya zorlamamaya çalışın: Ayrılmak onların kararıdır ve bunu aceleye getirmek aslında tehlikeyi artırabilir — daha çok yardımcı olan şey, kendilerini desteklenmiş ve yalnız hissetmemeleridir.\n\nSize anlattıklarını gizli tutun. Hazır olduklarında uzman desteğe ulaşmalarına nazikçe yardımcı olun — İtalya’daki **1522** gibi bir yardım hattı veya yerel bir şiddet karşıtı merkez — ve numaraları birlikte aramak ya da aradıklarında yanlarında olmak gibi pratik yardımlar sunun. Kendinize de iyi bakın; birine bu süreçte destek olmak zor olabilir.",
-      "deep": null,
-      "when_to_see_doctor": "- Onları (baskı yapmadan) bir yardım hattına veya şiddetle mücadele merkezine başvurmaya teşvik edin; bu kurumlar, bundan sonra ne yapmanız gerektiği konusunda ikinize de rehberlik edebilir. Aramayı yapmalarına veya numarayı bulmalarına yardımcı olmayı teklif edebilirsiniz.\n- Yaralanmışlarsa, bir aile hekimi veya hastane yardım edebilir — ve onları destek hizmetlerine yönlendirebilir.",
-      "red_flags": "- Eğer **acil bir tehlike** altındaysa, acil servisleri arayın: AB’de (İtalya dahil) **112**, Birleşik Krallık’ta **999**, ABD ve Kanada’da **911**.\n- İtalya'da **1522** (ücretsiz, 7/24, anonim, çok dilli — telefon veya sohbet) numarası da birine nasıl yardım edebileceğiniz konusunda size bilgi verebilir."
     }
   },
   "categories": {
@@ -1180,11 +1231,11 @@
       "summary": "Ağrı, lekelenme, akıntı, ruh hali — vücudunuz size ne anlatıyor olabilir?"
     },
     "conditions": {
-      "title": "Koşullar",
-      "summary": "PCOSi, endometriozis, miyomlar ve daha fazlası — kaynaklarla birlikte açıklanıyor."
+      "title": "Hastalıklar",
+      "summary": "PCOS, endometriozis, miyomlar ve daha fazlası — kaynaklarla birlikte açıklanıyor."
     },
     "sexual-and-intimate-health": {
-      "title": "Cinsel ve özel sağlık",
+      "title": "Cinsel ve genital sağlık",
       "summary": "Kişisel sağlık, rahatlık ve sık sorulan sorular."
     },
     "life-stages": {
@@ -1192,11 +1243,11 @@
       "summary": "İlk adet döneminden perimenopoz ve menopoz dönemine kadar."
     },
     "wellbeing": {
-      "title": "Refah ve döngü",
+      "title": "Sağlıklı yaşam ve döngü",
       "summary": "Uyku, stres ve günlük yaşamın adet döngünüzle nasıl bir ilişkisi var?"
     },
     "tests-and-exams": {
-      "title": "Testler ve sınavlar",
+      "title": "Testler ve muayeneler",
       "summary": "Göğüs kendi kendine muayenesi, rahim ağzı taraması, yumurtlama testleri ve daha fazlası."
     },
     "pregnancy": {
@@ -1204,7 +1255,7 @@
       "summary": "Erken belirtiler, sağlıklı kalmak, uyarı işaretleri ve gebelik kaybı — kaynaklarla birlikte açıklanmıştır."
     },
     "for-partners": {
-      "title": "Ortaklar için",
+      "title": "Partnerler için",
       "summary": "Döngüsünü anlamak, onu iyi desteklemek ve saygı üzerine ilişki kurmak."
     },
     "safety-and-support": {

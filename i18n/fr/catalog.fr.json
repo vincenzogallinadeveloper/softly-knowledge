@@ -76,7 +76,7 @@
         "méthode de la température"
       ],
       "glance": "La température basale correspond à votre température matinale au repos, qui augmente légèrement après l'ovulation.",
-      "overview": "La température basale (BBT) correspond à la température de votre corps au repos complet. Mesurée de la même manière chaque\njour, elle présente une variation légère mais révélatrice tout au long du cycle : après l’ovulation, elle augmente légèrement et\nreste élevée jusqu’à vos prochaines règles.\n\nCette hausse est faible — environ 0,4 à 0,8 °F (soit environ 0,2 à 0,4 °C) — ; il faut donc l'interpréter à partir d'une tendance observée sur\nplusieurs jours, et non à partir d'une seule mesure. Pour la détecter, vous devez prendre votre température chaque matin avant de\nvous lever, de manger ou de boire, idéalement à la même heure. Presque toutes les femmes ovulent dans les\ntrois jours suivant la hausse de la température.\n\nComme cette hausse survient *après* la libération de l'ovule, la méthode de l'BBTe permet de confirmer que l'ovulation a bien eu lieu plutôt que\nde la prédire à l'avance. Sur plusieurs cycles, elle peut vous aider à cerner le profil de votre propre cycle,\nmême si, à elle seule, elle ne constitue pas un moyen précis de déterminer vos jours fertiles.",
+      "overview": "La température basale (BBT) correspond à la température de votre corps au repos complet. Mesurée de la même manière chaque\njour, elle présente une variation légère mais révélatrice tout au long du cycle : après l’ovulation, elle augmente légèrement et\nreste élevée jusqu’à vos prochaines règles.\n\nCette hausse est faible — environ 0,4 à 0,8 °F (soit environ 0,2 à 0,4 °C) — ; il faut donc l'interpréter à partir d'une tendance observée sur\nplusieurs jours, et non à partir d'une seule mesure. Pour la détecter, vous devez prendre votre température chaque matin avant de\nvous lever, de manger ou de boire, idéalement à la même heure. Presque toutes les femmes ovulent dans les\ntrois jours suivant la hausse de la température.\n\nComme cette hausse survient *après* la libération de l'ovule, la méthode de la température basale permet de confirmer que l'ovulation a bien eu lieu plutôt que\nde la prédire à l'avance. Sur plusieurs cycles, elle peut vous aider à cerner le profil de votre propre cycle,\nmême si, à elle seule, elle ne constitue pas un moyen précis de déterminer vos jours fertiles.",
       "deep": "BBT C'est l'un des indicateurs de la connaissance de la fertilité relevés quotidiennement, au même titre que la glaire cervicale et la\ndurée du cycle. Il s'associe naturellement au suivi de la glaire : le passage à une glaire claire et glissante suggère que la\nfenêtre de fertilité s'ouvre, tandis que la hausse de température quelques jours plus tard confirme que l'ovulation est\ndéjà passée. De nombreux facteurs peuvent influencer la température au repos — un sommeil de mauvaise qualité, une maladie, la consommation d’alcool ou une grasse matinée —\nc’est pourquoi les mesures isolées atypiques ont moins d’importance que la tendance générale.",
       "when_to_see_doctor": null,
       "red_flags": null
@@ -125,11 +125,28 @@
       "when_to_see_doctor": "- Demandez rapidement de l'aide à votre **sage-femme ou à votre infirmière de santé publique** si l'allaitement est douloureux ou difficile, ou\n  si vous craignez que votre bébé ne soit pas suffisamment nourri — un accompagnement peut vraiment faire la différence.\n- La manière dont vous nourrissez votre bébé relève d'un choix personnel, et vous pouvez compter sur un soutien quel que soit votre choix ; l'important,\n  c'est que vous et votre bébé alliez bien.",
       "red_flags": null
     },
+    "brown-discharge": {
+      "title": "Pertes marron",
+      "aliases": [
+        "pertes marron",
+        "pertes brunes",
+        "spotting marron",
+        "sang marron",
+        "sang foncé",
+        "pertes foncées",
+        "règles marron"
+      ],
+      "glance": "Les pertes marron sont généralement un peu de sang, souvent pendant les jours plus légers des règles. En dehors des règles, mieux vaut les faire vérifier.",
+      "overview": "On parle de pertes marron quand vous remarquez une petite quantité de sang ou de liquide brunâtre sur votre culotte ou sur le papier toilette. Beaucoup de personnes en ont un jour ou l'autre, et très souvent, cela fait simplement partie des règles.\n\nLe sang des règles n'est pas toujours rouge vif. Les jours où le flux est le plus abondant, il est plutôt rouge, mais les jours plus légers, il peut paraître rosé ou marron. Une teinte brunâtre pendant les jours plus légers des règles est donc courante et normale.\n\nLe marron peut aussi apparaître à d'autres moments. Le spotting désigne de petites taches de sang rose, rouge ou marron, et le spotting entre les règles a plusieurs causes fréquentes. La contraception hormonale, comme la pilule, en est une courante. Parmi les autres, il y a de petites excroissances dans ou autour de l'utérus (comme des polypes ou des fibromes) et des infections comme la chlamydia. Tout au début d'une grossesse, certaines personnes remarquent un léger spotting vers la date où leurs règles auraient dû arriver. C'est ce qu'on appelle le saignement d'implantation.\n\nComme un spotting marron en dehors des règles peut avoir différentes causes, pour la plupart bénignes, le plus utile n'est pas de deviner, mais de le faire examiner, pour savoir ce qui se cache derrière dans votre cas.",
+      "deep": null,
+      "when_to_see_doctor": "- Consultez un médecin généraliste ou un centre de santé sexuelle si vous avez **du spotting ou des saignements marron entre les règles ou après un rapport sexuel**, même légers. Ce n'est généralement pas grave, mais cela vaut toujours la peine de faire vérifier.\n- Si vous êtes **enceinte, ou si vous pourriez l'être**, contactez votre maternité, un service de début de grossesse ou le **NHS 111** pour tout spotting, y compris marron, afin que la cause puisse être vérifiée.\n- Consultez un médecin généraliste si vous remarquez **la moindre perte ou le moindre saignement marron ou rosé après votre ménopause**, même en petite quantité ou si c'est arrivé une seule fois.\n- Demandez conseil à un médecin généraliste, à un centre de santé sexuelle ou au **NHS 111** si vos pertes **changent de couleur, d'odeur ou de consistance**, ou si elles s'accompagnent de démangeaisons, d'irritation, de douleurs pelviennes ou de douleurs quand vous urinez.",
+      "red_flags": "- Demandez un rendez-vous **en urgence** chez un médecin généraliste ou appelez le **NHS 111** si **vous avez eu récemment un retard de règles et que vous avez des saignements inhabituels avec des douleurs au ventre ou pelviennes**. Cela doit être vérifié rapidement, car cela peut être le signe d'une grossesse extra-utérine.\n- Si vous êtes enceinte, appelez le **999** si vous saignez et que vous avez **une forte douleur au ventre, une douleur à l'épaule, l'impression que vous allez vous évanouir, des vertiges ou des nausées, ou si le saignement est abondant** (une serviette hygiénique trempée peu après l'avoir mise)."
+    },
     "cervical-mucus": {
       "title": "Glaire cervicale",
       "aliases": [
         "glaire cervicale",
-        "décharge",
+        "pertes",
         "pertes vaginales",
         "sécrétions cervicales",
         "mucus blanc comme un blanc d'œuf"
@@ -154,6 +171,39 @@
       "deep": null,
       "when_to_see_doctor": "- Le dépistage s'adresse aux femmes qui **ne présentent pas** de symptômes. Si vous remarquez quelque chose qui vous inquiète\n  entre deux dépistages — comme des saignements inhabituels (entre deux règles, après un rapport sexuel ou après la ménopause) —\n  consultez votre médecin généraliste plutôt que d'attendre votre prochaine convocation.\n- Si vous avez reçu une invitation et que vous hésitez ou que vous êtes anxieuse à l’idée de vous y rendre, n’hésitez pas à en parler à votre médecin généraliste ou à\n  l’infirmière de votre cabinet, qui pourra vous expliquer le déroulement de l’examen et répondre à vos questions.",
       "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Maltraitance des enfants et protection des enfants",
+      "aliases": [
+        "maltraitance des enfants",
+        "maltraitance des enfants",
+        "sécurité des enfants",
+        "Protéger un enfant",
+        "Inquiète pour un enfant",
+        "négligence"
+      ],
+      "glance": "Si vous craignez qu’un enfant soit victime de maltraitance ou de négligence, il est légitime de demander conseil — vous n’avez pas besoin d’en être certaine.",
+      "overview": "La maltraitance des enfants — ou violence envers les enfants — désigne tout préjudice causé à une personne de moins de 18 ans. Elle englobe les violences physiques, sexuelles et psychologiques, ainsi que la négligence (le fait de ne pas répondre aux besoins fondamentaux d’un enfant). Ce phénomène est malheureusement courant, il peut causer des séquelles à vie, et l’enfant n’en est jamais responsable.\n\nVous vous faites peut-être du souci pour un enfant de votre entourage, ou pour un enfant que vous avez remarqué. Vous n’avez pas besoin d’être sûre de vous, ni d’avoir de preuves, pour agir face à cette inquiétude : faire confiance à votre intuition et demander conseil est exactement ce qu’il faut faire, et cela peut protéger un enfant.\n\nEt si vous avez vous-même été victime de maltraitance pendant votre enfance, sachez que ce qui vous est arrivé n’était en aucun cas de votre faute, et qu’une aide est également à votre disposition, quel que soit votre âge.",
+      "deep": null,
+      "when_to_see_doctor": "- Si vous vous inquiétez pour un enfant, vous pouvez contacter **les services de protection de l'enfance / les services sociaux**, une **ligne d'assistance dédiée à la protection de l'enfance**, ou **un médecin généraliste, une infirmière visiteuse ou l'école de l'enfant** pour obtenir des conseils — en toute confidentialité.\n- Vous ne « réagissez pas de manière excessive » en posant cette question. Mieux vaut vérifier que d’attendre.",
+      "red_flags": "- Si un enfant est en **danger immédiat** ou gravement blessé, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada."
+    },
+    "coercive-control": {
+      "title": "Contrôle coercitif",
+      "aliases": [
+        "contrôle coercitif",
+        "comportement contrôlant",
+        "violence psychologique",
+        "violence psychologique",
+        "isolement",
+        "violence financière",
+        "manipulation psychologique"
+      ],
+      "glance": "Le contrôle coercitif est un ensemble de comportements dominateurs — isolement, surveillance, menaces — qui constitue une forme reconnue de maltraitance.",
+      "overview": "Le contrôle coercitif est une forme de maltraitance qui s'exerce par le contrôle plutôt que, ou en plus, par des violences physiques. Il s'agit d'un schéma — et non d'une simple dispute — dans lequel une personne limite progressivement la liberté et l'estime de soi d'une autre.\n\nCela peut se traduire par une coupure des liens avec les amis et la famille, une surveillance ou une restriction de l’utilisation du téléphone, des déplacements ou des dépenses, des impositions sur la façon de s’habiller ou de se comporter, ou encore le fait de vivre sous le poids de critiques, de menaces ou d’intimidations constantes. Comme il n’y a parfois pas de traces de coups, cela peut être difficile à identifier, et les autres peuvent ne pas s’en rendre compte — mais cela est reconnu comme de la maltraitance, et cela peut être tout aussi néfaste que la violence physique.\n\nSi vous vous reconnaissez dans certaines de ces situations, cela ne signifie pas que vous êtes trop sensible ou que vous en êtes responsable. Un comportement contrôlant est un choix que fait l’autre personne. Le comprendre pour ce qu’il est peut être la première étape vers l’obtention d’un soutien.",
+      "deep": "Le contrôle coercitif s’installe souvent progressivement, ce qui explique en partie pourquoi il est difficile à détecter de l’intérieur : les petites formes de contrôle deviennent la norme, et le doute de soi s’installe. Au fil du temps, cela mine la santé mentale. En discuter avec une personne formée à reconnaître ces schémas peut vous aider à y voir plus clair et à réfléchir à la suite que vous souhaitez donner à la situation, sans pression.",
+      "when_to_see_doctor": "- Un centre de lutte contre la violence ou une ligne d'assistance (en Italie, le **1522**) peut vous permettre de parler de ce que vous vivez, en toute confidentialité et gratuitement, et vous aider à comprendre les solutions qui s'offrent à vous — vous n'avez pas besoin d'être en danger physique pour demander de l'aide.\n- Un médecin généraliste ou un conseiller peut également vous apporter son soutien et vous orienter vers des services spécialisés.",
+      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** est un service gratuit, disponible 24 heures sur 24, anonyme et multilingue — par téléphone ou par chat."
     },
     "combined-pill": {
       "title": "La pilule combinée",
@@ -201,6 +251,20 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "consent-and-respect": {
+      "title": "Consentement et respect",
+      "aliases": [
+        "consentement",
+        "respecter ses limites",
+        "consentement enthousiaste",
+        "autonomie corporelle"
+      ],
+      "glance": "Le consentement est un oui clair, libre et enthousiaste – à chaque fois, et il peut être retiré à tout moment.",
+      "overview": "Le respect commence par son droit de décider de son propre corps – toujours. Le consentement à l'intimité signifie un\nlibrement donné, informé, enthousiaste **oui**. Le silence n'est pas un consentement. Une « amende » réticente n’est pas un consentement.\nUne personne endormie, très ivre ou sous pression ne peut pas vraiment consentir. Et un oui à une chose, ou sur\nun jour, ce n'est pas un oui à tout ni à la prochaine fois.\n\nLe consentement peut être retiré à tout moment, et « arrêter » ou « pas ce soir » est une réponse complète qui n'a pas besoin d'être\njustification. Faire pression, culpabiliser, bouder jusqu'à ce qu'elle cède ou traiter le sexe comme quelque chose\nce qui vous est dû n'est pas bien – une relation n'est pas une dette.",
+      "deep": "À quoi ressemble le respect en pratique :\n\n- **Demandez et enregistrez-vous.** \"Est-ce que ça va ?\" et faire attention à la façon dont elle réagit – les mots et le corps.\n- **Prenez « non » avec grâce.** Pas de moue, de pression ou de punition. Sa réponse est la fin.\n- **L'enthousiasme compte.** Si elle semble incertaine, hésitante ou si elle accepte simplement, arrêtez-vous et demandez.\n- **Son corps, son appel** — sur l'intimité, la contraception, la grossesse, sa santé, son apparence, son\n  choix. Vous avez une voix dans votre vie commune, jamais de veto sur son corps.\n- **Le respect est quotidien.** La façon dont vous lui parlez, d'elle et traitez ses limites dans les petites choses est\n  la fondation sur laquelle repose tout le reste.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
     "contraception": {
       "title": "Contraception",
       "aliases": [
@@ -212,6 +276,23 @@
       "overview": "La contraception — parfois appelée « contrôle des naissances » — désigne l'ensemble des méthodes utilisées pour éviter une grossesse.\nIl en existe de nombreuses, qui fonctionnent de différentes manières : certaines font appel aux hormones, d'autres sont des barrières, d'autres encore\nse placent à l'intérieur de l'utérus, et d'autres reposent sur le suivi du cycle menstruel.\n\nL'efficacité d'une méthode dépend en grande partie de la façon dont elle est utilisée. Certaines méthodes — comme l'implant et le\nstérilet — sont du type « on le met et on n'y pense plus », et leur efficacité dépasse 99 %. D’autres, comme la pilule ou les préservatifs, sont\ntrès efficaces lorsqu’elles sont utilisées à la perfection, mais un peu moins dans le cadre d’une utilisation quotidienne normale, car il est\nplus facile d’oublier une pilule ou de mal utiliser un préservatif.\n\nUne chose à savoir : **seuls les préservatifs protègent également contre les infections sexuellement transmissibles\n(IST)**. Les autres méthodes empêchent la grossesse mais pas les infections, c’est pourquoi les préservatifs sont parfois\nutilisés en complément d’une autre méthode.\n\nIl n’y a pas de « meilleure » méthode en soi : celle qui vous convient dépend de votre état de santé, de votre corps et de ce qui correspond le mieux à\nvotre mode de vie. Un médecin généraliste ou un centre de santé sexuelle peut vous présenter les différentes options et vous aider à faire votre choix.",
       "deep": "Comme les méthodes varient considérablement, il est utile de réfléchir à ce qui compte pour vous : son efficacité,\nle fait qu’elle implique ou non de se souvenir de quelque chose chaque jour, sa durée d’action, si vous souhaitez ou\nnon prendre des hormones, et si la protection contre l’STI est importante dans votre situation. Beaucoup de personnes changent de méthode au cours de leur\nvie, à mesure que leurs besoins évoluent. Cette base de connaissances décrit le fonctionnement des méthodes courantes afin que les\nchoix vous paraissent plus clairs — mais la décision, ainsi que toute prescription ou mise en place, doit être prise en concertation avec un\nprofessionnel de santé.",
       "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Contraception et poids",
+      "aliases": [
+        "contraception et poids",
+        "la pilule fait-elle grossir",
+        "pilule et prise de poids",
+        "prise de poids contraception",
+        "grossir avec la pilule",
+        "injection contraceptive prise de poids",
+        "implant contraceptif prise de poids"
+      ],
+      "glance": "Rien ne prouve que la pilule combinée fasse prendre du poids, mais l'injection contraceptive le peut. Tout dépend de la méthode.",
+      "overview": "Se demander si une contraception va faire prendre du poids est une question très fréquente. La réponse honnête, c'est que cela dépend de la méthode.\n\nPour la pilule combinée, les données sont rassurantes : rien ne prouve que la prendre fasse grossir. C'est aussi le cas du patch contraceptif et de l'anneau vaginal.\n\nL'injection contraceptive est différente. La prise de poids fait partie de ses effets secondaires fréquents, tout comme les changements dans les règles.\n\nAvec la pilule progestative (parfois appelée micropilule) et l'implant contraceptif, certaines personnes disent avoir pris du poids. Mais les données ne suffisent pas pour dire si c'est la méthode elle-même qui en est la cause.\n\nLe poids n'est qu'un aspect parmi d'autres. Chaque méthode a sa propre liste d'effets secondaires et de risques possibles, et choisir sa contraception, c'est trouver ce qui convient à votre corps, à votre santé et à votre vie. Un pharmacien, un médecin généraliste, une infirmière ou un centre de santé sexuelle peut passer en revue les options avec vous.",
+      "deep": null,
+      "when_to_see_doctor": "- Si des effets secondaires, y compris des changements de poids, vous posent problème, parlez-en à un pharmacien, à un médecin généraliste, à une infirmière ou à un centre de santé sexuelle. Avec la pilule combinée, le patch ou l'anneau, certains effets secondaires peuvent apparaître au début. S'ils vous gênent encore après environ 3 mois, un professionnel de santé pourra envisager avec vous une autre pilule ou un autre type de contraception.",
       "red_flags": null
     },
     "contraceptive-implant": {
@@ -242,6 +323,21 @@
       "when_to_see_doctor": "- Consultez un médecin généraliste si vos règles deviennent irrégulières, cessent ou changent d'une manière inhabituelle pour vous —\n  des changements persistants peuvent parfois indiquer un problème qu'il convient d'examiner.\n- Il est également utile d'en parler si vos problèmes de règles affectent votre vie quotidienne, afin que vous puissiez bénéficier\n  d'un accompagnement plutôt que de simplement les supporter.",
       "red_flags": null
     },
+    "economic-abuse": {
+      "title": "Violence économique",
+      "aliases": [
+        "violence économique",
+        "violence financière",
+        "gestion de l'argent",
+        "Gérer ses finances",
+        "une dette à mon nom"
+      ],
+      "glance": "La violence économique consiste à contrôler l’accès d’une personne à l’argent, au travail ou aux ressources — il s’agit d’une forme de violence reconnue.",
+      "overview": "La violence économique se manifeste lorsqu’une personne contrôle l’accès d’une autre à l’argent et aux biens que celui-ci permet d’acquérir. Il s’agit d’une forme de comportement contrôlant, qui va souvent de pair avec d’autres types de violence.\n\nCela peut se traduire par le contrôle de toutes les dépenses ou le fait de vous obliger à rendre compte de chaque centime, la confiscation de votre salaire ou de vos allocations, le fait de contracter des dettes à votre nom, le fait de vous priver de l’accès à vos comptes bancaires ou à vos documents, ou encore le fait de vous empêcher de travailler ou d’étudier. Comme cela peut priver une personne des moyens de partir ou de gérer son quotidien, c’est l’une des raisons pour lesquelles la violence peut donner l’impression d’être un piège.\n\nSi certaines de ces situations vous semblent familières, cela ne signifie pas que vous êtes « nulle en gestion financière » ni que vous êtes à blâmer. Contrôler les ressources d’une autre personne est un choix que fait cette dernière — et cela est reconnu comme une forme de maltraitance.",
+      "deep": null,
+      "when_to_see_doctor": "- Les services de lutte contre la violence peuvent également vous aider dans ce domaine — non seulement en matière de sécurité, mais aussi pour les démarches pratiques et financières, en toute confidentialité et gratuitement (en Italie, la ligne d’assistance **1522** peut vous orienter vers des structures d’aide locales).\n- Un plan de sécurité peut consister à mettre discrètement de côté un peu d’argent, à conserver certains documents essentiels et à noter les numéros importants.",
+      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** — un service gratuit, accessible 24 heures sur 24, anonyme et multilingue — peut vous aider par téléphone ou par chat."
+    },
     "ectopic-pregnancy": {
       "title": "Grossesse extra-utérine",
       "aliases": [
@@ -266,9 +362,9 @@
         "ellaOne"
       ],
       "glance": "La contraception d'urgence permet d'éviter une grossesse après un rapport sexuel non protégé — et plus on agit tôt, mieux c'est.",
-      "overview": "La contraception d'urgence est un moyen de prévenir une grossesse après un rapport sexuel non protégé, ou lorsque votre\nméthode habituelle a pu échouer (oubli d'une pilule, préservatif déchiré). Il en existe deux types, et le délai\nest important pour les deux.\n\nLa première est la **pilule du lendemain**. Il en existe deux types : l’un (le lévonorgestrel) peut être pris jusqu’à\n3 jours — 72 heures — après le rapport sexuel, et l’autre (l’acétate d’ulipristal, commercialisé sous le nom d’ellaOne) jusqu’à 5 jours —\n120 heures. La deuxième option est le **stérilet au cuivre (IUD)**, qu’un professionnel de santé peut poser jusqu’à 5 jours\naprès un rapport sexuel ; c’est la forme la plus efficace de contraception d’urgence, et il peut ensuite rester en place comme\nmoyen de contraception permanent si vous le souhaitez.\n\nPour toutes ces méthodes, **plus vous les utilisez tôt, plus elles ont tendance à être efficaces** — il vaut donc mieux agir\nrapidement plutôt que d’attendre. Vous pouvez vous procurer une contraception d’urgence en pharmacie, chez un médecin généraliste, dans un\ncentre de santé sexuelle ou dans un centre de consultation sans rendez-vous, souvent gratuitement.",
+      "overview": "La contraception d'urgence est un moyen de prévenir une grossesse après un rapport sexuel non protégé, ou lorsque votre\nméthode habituelle a pu échouer (oubli d'une pilule, préservatif déchiré). Il en existe deux types, et le délai\nest important pour les deux.\n\nLa première est la **pilule du lendemain**. Il en existe deux types : l’un (le lévonorgestrel) peut être pris jusqu’à\n3 jours — 72 heures — après le rapport sexuel, et l’autre (l’acétate d’ulipristal, commercialisé sous le nom d’ellaOne) jusqu’à 5 jours —\n120 heures. La deuxième option est le **stérilet au cuivre (DIU)**, qu’un professionnel de santé peut poser jusqu’à 5 jours\naprès un rapport sexuel ; c’est la forme la plus efficace de contraception d’urgence, et il peut ensuite rester en place comme\nmoyen de contraception permanent si vous le souhaitez.\n\nPour toutes ces méthodes, **plus vous les utilisez tôt, plus elles ont tendance à être efficaces** — il vaut donc mieux agir\nrapidement plutôt que d’attendre. Vous pouvez vous procurer une contraception d’urgence en pharmacie, chez un médecin généraliste, dans un\ncentre de santé sexuelle ou dans un centre de consultation sans rendez-vous, souvent gratuitement.",
       "deep": null,
-      "when_to_see_doctor": "- Comme le temps est un facteur crucial, n’attendez pas : un pharmacien peut vous remettre rapidement la pilule du lendemain, et\n  un centre de santé sexuelle ou un médecin généraliste peut vous presIUD.\n- La contraception d’urgence vise à prévenir une grossesse, pas une infection. S’il existe un risque d’\n  infection sexuellement transmissible, un centre de santé sexuelle pourra vous conseiller sur les tests à effectuer.\n- Si vos règles ont ensuite plus de quelques jours de retard, ou si elles sont très différentes de d’habitude, il est recommandé de faire\n  un test de grossesse et d’en parler à un professionnel de santé.",
+      "when_to_see_doctor": "- Comme le temps est un facteur crucial, n’attendez pas : un pharmacien peut vous remettre rapidement la pilule du lendemain, et\n  un centre de santé sexuelle ou un médecin généraliste peut vous poser un stérilet au cuivre.\n- La contraception d’urgence vise à prévenir une grossesse, pas une infection. S’il existe un risque d’\n  infection sexuellement transmissible, un centre de santé sexuelle pourra vous conseiller sur les tests à effectuer.\n- Si vos règles ont ensuite plus de quelques jours de retard, ou si elles sont très différentes de d’habitude, il est recommandé de faire\n  un test de grossesse et d’en parler à un professionnel de santé.",
       "red_flags": null
     },
     "endometriosis": {
@@ -290,7 +386,7 @@
       ],
       "glance": "L'œstrogène est une hormone essentielle qui aide votre corps à se préparer à une éventuelle grossesse à chaque cycle.",
       "overview": "L'œstrogène est l'une des principales hormones à l'origine du cycle menstruel. Au cours de la première moitié du cycle\n(la phase folliculaire), son taux augmente à mesure qu'un follicule mûrit dans l'ovaire. Cette augmentation provoque un épaississement de la\nmuqueuse utérine et conduit à l'ovulation.\n\nL'œstrogène influence également certains aspects que vous pouvez remarquer au quotidien : votre énergie, votre humeur et les changements de\nla glaire cervicale autour de vos jours fertiles. Après l'ovulation, son taux baisse puis évolue à nouveau,\nen synergie avec une autre hormone, la progestérone, tout au long de la seconde moitié du cycle.\n\nLes taux augmentent et diminuent naturellement au cours de chaque cycle, et ils varient également selon les étapes de la vie. C'est\nnormal : c'est le rythme qui régit votre corps, ce n'est pas quelque chose qu'il faut « corriger ».",
-      "deep": "L'œstrogène n'est pas une substance unique, mais un groupe d'hormones apparentées (la plus active au cours du cycle\nest l'estradiol). Il est principalement produit par les ovaires, dans le follicule en croissance. Ses variations cycliques\n— associées à la progestérone et aux hormones de signalisation du cerveau, l’LHe et l’FSHe — sont ce qui\ndétermine les phases du cycle. Comme l’œstrogène agit sur de nombreux systèmes, ses variations naturelles peuvent\nse manifester par de petits changements tout au long du mois ; le suivi vous aide à connaître votre propre rythme plutôt que de\nle comparer à une « moyenne ».",
+      "deep": "L'œstrogène n'est pas une substance unique, mais un groupe d'hormones apparentées (la plus active au cours du cycle\nest l'estradiol). Il est principalement produit par les ovaires, dans le follicule en croissance. Ses variations cycliques\n— associées à la progestérone et aux hormones de signalisation du cerveau, la LH et la FSH — sont ce qui\ndétermine les phases du cycle. Comme l’œstrogène agit sur de nombreux systèmes, ses variations naturelles peuvent\nse manifester par de petits changements tout au long du mois ; le suivi vous aide à connaître votre propre rythme plutôt que de\nle comparer à une « moyenne ».",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -303,7 +399,7 @@
         "mouvement",
         "exercice et cycles"
       ],
-      "glance": "Vous pouvez rester active tout au long de votre cycle — et une activité physique régulière peut aider à soulager les crampes et l'PMSs.",
+      "glance": "Vous pouvez rester active tout au long de votre cycle — et une activité physique régulière peut aider à soulager les crampes et le SPM.",
       "overview": "Vous pouvez pratiquer une activité physique à n’importe quel moment de votre cycle. Certaines personnes constatent qu’elles ont plus d’énergie et\npeuvent se donner un peu plus à fond à certaines périodes du mois, et moins à d’autres — ces deux situations sont normales, et\naucune ne justifie d’arrêter de bouger.\n\nUne activité physique régulière peut en effet aider à soulager certains symptômes liés aux règles. Les personnes qui font régulièrement de l'exercice\nont souvent moins de crampes douloureuses, et rester active peut également atténuer les symptômes prémenstruels (PMS). Les\njours où vous manquez d'énergie, une activité plus douce compte tout autant : elle n'a pas besoin d'être intense pour être bénéfique.\n\nIl n’est pas nécessaire d’organiser votre vie en fonction de votre cycle, et il n’y a pas une seule « bonne » façon de faire de l’exercice. Observer\nvos propres variations d’énergie au fil du mois peut simplement vous aider à vous organiser de manière à vous sentir bien.",
       "deep": null,
       "when_to_see_doctor": "- Un entraînement très intense, ou une activité physique si intense que votre corps vient à manquer d'énergie, peut entraîner des règles\n  irrégulières, voire leur arrêt complet. Un cycle régulier est généralement le signe que tout se passe\n  bien ; il est donc conseillé de consulter un médecin généraliste si vos règles deviennent irrégulières ou cessent — cela peut avoir\n  des répercussions sur la santé osseuse et hormonale à long terme.",
@@ -337,11 +433,11 @@
       "red_flags": null
     },
     "first-period": {
-      "title": "Périodes de début (première période)",
+      "title": "Les premières règles",
       "aliases": [
-        "première période",
+        "premières règles",
         "menarche",
-        "périodes de début",
+        "début des règles",
         "avoir ses règles"
       ],
       "glance": "Les premières règles surviennent généralement vers l'âge de 12 ans — mais il est tout à fait normal qu'elles apparaissent entre 8 et 17 ans environ.",
@@ -400,8 +496,8 @@
         "hormone folliculo-stimulante"
       ],
       "glance": "FSH est une hormone cérébrale qui stimule la croissance des follicules dans l'ovaire au début de chaque cycle.",
-      "overview": "FSH — l’hormone folliculo-stimulante — est l’une des hormones messagères qui déclenchent le cycle.\nElle est produite par une petite glande située dans le cerveau (l’hypophyse) et, comme son nom l’indique, elle stimule\nles follicules : ces minuscules sacs remplis de liquide situés dans l’ovaire et contenant chacun un ovule.\n\nAu début du cycle, l’FSHe favorise la croissance d’un groupe de ces follicules. À mesure qu’un follicule\nse développe, il libère davantage d’œstrogènes, ce qui provoque l’épaississement de la muqueuse utérine (matrice) en vue\nd’une éventuelle grossesse. Généralement, un follicule devient dominant et mène à l’\novulation.\n\nFSH augmente et diminue dans le cadre des fluctuations normales du cycle. Vous ne ressentez pas directement l’FSH\n— il agit discrètement en arrière-plan, préparant les changements plus visibles de la phase folliculaire.",
-      "deep": "FSH agit en synergie avec l'hormone LHe () ; toutes deux sont sécrétées par l'hypophyse, située dans le\ncerveau, et, ensemble, elles régulent le cycle ovarien. L'FSHe pilote la première moitié du cycle en favorisant la croissance des\nfollicules, tandis que le pic de LHe qui survient plus tard marque la libération d'un ovule en milieu de cycle. C’est également grâce à cette interaction\nque les traitements de fertilité utilisent des médicaments à base d’FSHe : l’apport supplémentaire d’FSHe favorise la maturation simultanée de plusieurs follicules,\nau lieu d’un seul comme c’est généralement le cas lors d’un cycle naturel.",
+      "overview": "FSH — l’hormone folliculo-stimulante — est l’une des hormones messagères qui déclenchent le cycle.\nElle est produite par une petite glande située dans le cerveau (l’hypophyse) et, comme son nom l’indique, elle stimule\nles follicules : ces minuscules sacs remplis de liquide situés dans l’ovaire et contenant chacun un ovule.\n\nAu début du cycle, la FSH favorise la croissance d’un groupe de ces follicules. À mesure qu’un follicule\nse développe, il libère davantage d’œstrogènes, ce qui provoque l’épaississement de la muqueuse utérine (matrice) en vue\nd’une éventuelle grossesse. Généralement, un follicule devient dominant et mène à l’\novulation.\n\nFSH augmente et diminue dans le cadre des fluctuations normales du cycle. Vous ne ressentez pas directement l’FSH\n— il agit discrètement en arrière-plan, préparant les changements plus visibles de la phase folliculaire.",
+      "deep": "FSH agit en synergie avec l'hormone lutéinisante (LH) ; toutes deux sont sécrétées par l'hypophyse, située dans le\ncerveau, et, ensemble, elles régulent le cycle ovarien. La FSH pilote la première moitié du cycle en favorisant la croissance des\nfollicules, tandis que le pic de LH qui survient plus tard marque la libération d'un ovule en milieu de cycle. C’est également grâce à cette interaction\nque les traitements de fertilité utilisent des médicaments à base de FSH : l’apport supplémentaire de FSH favorise la maturation simultanée de plusieurs follicules,\nau lieu d’un seul comme c’est généralement le cas lors d’un cycle naturel.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -417,6 +513,23 @@
       "deep": null,
       "when_to_see_doctor": "- Faites le **test de dépistage** s’il vous est proposé — comme le diabète gestationnel ne présente généralement aucun\n  symptôme, c’est grâce à ce test qu’on le détecte.\n- N'attendez pas le test si vous remarquez des signes pouvant indiquer une glycémie élevée — soif intense,\n  besoin fréquent d'uriner, bouche sèche ou fatigue — : signalez-les à votre sage-femme ou à votre médecin.",
       "red_flags": null
+    },
+    "getting-help": {
+      "title": "Où trouver de l'aide",
+      "aliases": [
+        "obtenir de l’aide",
+        "Qui contacter",
+        "lignes d'assistance",
+        "numéros utiles",
+        "centre de lutte contre la violence",
+        "1522",
+        "numéros d'urgence"
+      ],
+      "glance": "Une aide gratuite et confidentielle est disponible — en cas d’urgence, appelez le numéro d’urgence local ; en Italie, composez le 1522 à tout moment.",
+      "overview": "Si vous êtes victime de maltraitance, vous n’avez pas à y faire face seule, et le fait de demander de l’aide ne vous engage à rien. Il existe des personnes dont le métier consiste justement à vous écouter et à vous aider, en toute confidentialité et gratuitement.\n\nPlusieurs types d'aide coexistent :\n\n- **Services d'urgence** — en cas de danger immédiat, appelez le numéro d'urgence local (ci-dessous).\n- **Une ligne d'assistance nationale** — en Italie, le **1522**, ligne d'assistance gratuite contre la violence et le harcèlement : ouverte 24 heures sur 24, anonyme, disponible en plusieurs langues, par téléphone ou par chat en ligne.\n- **Centres anti-violence** (en Italie, *centri antiviolenza*) — services locaux proposant un accompagnement gratuit et confidentiel, une aide à la mise en place de mesures de sécurité, ainsi qu’une assistance juridique et psychologique.\n- **Services de santé** — un médecin généraliste ou le service des urgences d’un hôpital, où le personnel est de plus en plus formé pour reconnaître les cas de maltraitance et vous orienter vers des structures d’aide.\n- **Des personnes en qui vous avez confiance** — un(e) ami(e) ou un membre de votre famille avec qui vous vous sentez en sécurité.\n\nVous pouvez commencer par ce qui vous semble le plus faisable, et vous n'avez pas besoin d'avoir déjà pris de décision.",
+      "deep": null,
+      "when_to_see_doctor": "- Vous pouvez vous confier en toute confiance à un **médecin généraliste ou à un hôpital** au sujet de ce qui vous arrive ; ils pourront soigner vos blessures et vous orienter vers des services spécialisés.\n- Si vous avez plus de facilité à écrire qu’à parler, le **chat 1522** est une autre option.",
+      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- **Italie :** **1522** (appel gratuit, 24 h/24, 7 j/7, anonyme, multilingue — par téléphone ou par chat).\n- Les numéros d'aide varient d'un pays à l'autre. L'application peut afficher les numéros correspondant à votre pays, et **findahelpline.com** répertorie les numéros d'aide contre la violence dans le monde entier (le site détecte votre pays et dispose d'un bouton de sortie rapide). Si vous êtes dans l'Union européenne, le **112** fonctionne partout."
     },
     "group-b-strep": {
       "title": "Streptocoque du groupe B (SGB)",
@@ -470,8 +583,22 @@
         "hormone lutéinisante"
       ],
       "glance": "LH est l'hormone cérébrale dont le pic au milieu du cycle déclenche la libération d'un ovule par l'ovaire.",
-      "overview": "LH — l'hormone lutéinisante — est le messager qui déclenche l’ovulation. Tout comme l’FSHe, elle est produite par une\npetite glande située dans le cerveau (l’hypophyse) et indique à l’ovaire quand libérer un ovule.\n\nPendant la majeure partie de la première moitié du cycle, le taux d’LHe reste faible. Puis, vers le milieu du cycle, il\naugmente brusquement lors de ce qu’on appelle le pic d’LHe. Ce pic est le signal qui déclenche la\nlibération de l’ovule par l’ovaire — l’ovulation —, généralement un jour ou deux plus tard.\n\nCe pic est un signal bref et bien synchronisé, plutôt qu’un phénomène que l’on pourrait percevoir au niveau de son état physique. Comme\nil survient très peu de temps avant la libération de l’ovule, le moment de la hausse de l’LHe constitue un indicateur fiable de\nla période la plus fertile du cycle.",
-      "deep": "LH agit en synergie avec l'FSH, l'hormone qui stimule la croissance des follicules au début du cycle. Alors que l'FSH\ninitie la phase de préparation, le pic d'LHe marque un tournant décisif : les taux commencent à grimper environ un jour et demi\navant la libération de l'ovule et atteignent leur pic environ une demi-journée avant celle-ci. Après ce pic, le cycle\nentre dans sa seconde moitié. Ce timing très précis explique pourquoi la LH est un indicateur si utile pour toute personne souhaitant suivre\nson ovulation, et pourquoi elle joue un rôle central dans la planification des traitements de fertilité.",
+      "overview": "LH — l'hormone lutéinisante — est le messager qui déclenche l’ovulation. Tout comme la FSH, elle est produite par une\npetite glande située dans le cerveau (l’hypophyse) et indique à l’ovaire quand libérer un ovule.\n\nPendant la majeure partie de la première moitié du cycle, le taux de LH reste faible. Puis, vers le milieu du cycle, il\naugmente brusquement lors de ce qu’on appelle le pic de LH. Ce pic est le signal qui déclenche la\nlibération de l’ovule par l’ovaire — l’ovulation —, généralement un jour ou deux plus tard.\n\nCe pic est un signal bref et bien synchronisé, plutôt qu’un phénomène que l’on pourrait percevoir au niveau de son état physique. Comme\nil survient très peu de temps avant la libération de l’ovule, le moment de la hausse de la LH constitue un indicateur fiable de\nla période la plus fertile du cycle.",
+      "deep": "LH agit en synergie avec l'FSH, l'hormone qui stimule la croissance des follicules au début du cycle. Alors que l'FSH\ninitie la phase de préparation, le pic de LH marque un tournant décisif : les taux commencent à grimper environ un jour et demi\navant la libération de l'ovule et atteignent leur pic environ une demi-journée avant celle-ci. Après ce pic, le cycle\nentre dans sa seconde moitié. Ce timing très précis explique pourquoi la LH est un indicateur si utile pour toute personne souhaitant suivre\nson ovulation, et pourquoi elle joue un rôle central dans la planification des traitements de fertilité.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Écoute et soutien émotionnel",
+      "aliases": [
+        "comment écouter",
+        "soutien émotionnel aux partenaires",
+        "communications",
+        "être là pour elle"
+      ],
+      "glance": "La plupart du temps, elle a besoin d'être entendue et non réparée : écoutez d'abord et demandez avant de lui donner des conseils.",
+      "overview": "Quand quelqu’un que nous aimons est en difficulté, notre instinct est d’intervenir et de résoudre le problème. Mais souvent, ce qui aide le plus\nc'est se sentir véritablement entendue : que ses sentiments ont un sens et qu'elle n'est pas seule avec eux. Réparer aussi\nvite peut atterrir car \"vos sentiments sont un problème à fermer\".\n\nUne bonne écoute est une compétence que tout le monde peut acquérir. C'est surtout de l'attention : poser le téléphone, lui faire face,\net la laisser finir. Vous n'êtes pas obligé d'être d'accord sur tous les points pour qu'elle se sente respectée.",
+      "deep": "Moyens pratiques de se présenter :\n\n- **Écoutez pour comprendre, pas pour répondre.** Laissez-la parler sans interrompre ni planifier votre défense.\n- **Réfléchissez-y.** \"Ça a l'air vraiment stressant\" ou \"Je comprends pourquoi ça fait mal\" bat \"mais ne le faites pas\n  t'en inquiéter\".\n- **Demandez avant de conseiller.** \"Voulez-vous de l'aide pour y réfléchir, ou voulez-vous simplement que je vous écoute ?\"\n- **Ne le prends pas personnellement** lorsqu'une dure journée ne te concerne pas. La stabilité est un cadeau.\n- **Prenez votre part.** Si vous avez quelque chose de mal, de vraies excuses — sans « mais » — rétablissent la confiance.\n- **Remarquez la situation dans son ensemble.** Si elle semble constamment déprimée, anxieuse ou pas elle-même, doucement\n  encouragez-la à le soutenir et proposez-lui de l’aider à y parvenir. Vous êtes un coéquipier, pas un thérapeute.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -514,7 +641,7 @@
     "menstrual-phase": {
       "title": "Phase menstruelle (vos règles)",
       "aliases": [
-        "période",
+        "règles",
         "menstruation",
         "phase menstruelle",
         "saignement"
@@ -601,7 +728,7 @@
       "red_flags": null
     },
     "pcos": {
-      "title": "PCOS (syndrome des ovaires polykystiques)",
+      "title": "SOPK (syndrome des ovaires polykystiques)",
       "aliases": [
         "SOPK",
         "syndrome des ovaires polykystiques",
@@ -609,9 +736,9 @@
         "syndrome des ovaires polykystiques"
       ],
       "glance": "PCOS Il s'agit d'un trouble hormonal courant qui peut avoir des répercussions sur les règles, l'ovulation, la peau et les cheveux.",
-      "overview": "PCOS — le syndrome des ovaires polykystiques — est une affection courante liée à l’équilibre des\nhormones reproductives. Selon les estimations, elle toucherait environ une femme sur dix en âge de procréer, et de nombreuses\npersonnes qui en sont atteintes ne sont jamais diagnostiquées.\n\nElle peut se manifester de différentes manières, et chaque cas est unique. Parmi les caractéristiques courantes, on peut citer\ndes règles irrégulières, peu fréquentes ou absentes ; des taux élevés d’hormones appelées androgènes,\nqui peuvent entraîner une pilosité excessive sur le visage ou le corps, de l’acné ou un amincissement des cheveux ; et\ndes ovaires qui ne libèrent pas d’ovule aussi régulièrement que d’habitude, ce qui peut rendre la conception plus difficile.\nDes variations de poids et des taches cutanées plus foncées sont également fréquentes.\n\nLa cause exacte n’est pas entièrement comprise, et il n’existe pas de remède — mais les symptômes peuvent être pris en charge, et\ncomprendre ce qui se passe est la première étape. Le syndrome d’PCOSe est courant et gérable, ce n’est pas quelque chose dont\nil faut avoir honte.",
-      "deep": "Comme l’PCOSe implique les hormones de l’organisme et la façon dont celui-ci gère l’insuline, elle est également associée, à\nlong terme, à une résistance à l’insuline et à un risque accru de diabète de type 2, d’hypertension artérielle\net de modifications du taux de cholestérol — c’est pourquoi les cliniciens ont tendance à surveiller ces paramètres au fil du temps.\nEnviron la moitié des personnes atteintes d’PCOSe peuvent développer un diabète ou un prédiabète dès la quarantaine ; c’est pourquoi des\nsuivis réguliers sont essentiels. Le diagnostic ne doit pas être posé par soi-même : un médecin examine la situation dans son ensemble\n— vos antécédents et vos cycles menstruels, parfois des analyses sanguines pour doser les hormones, et parfois une échographie\ndes ovaires — et exclut d’autres causes avant de poser lPCOSe.",
-      "when_to_see_doctor": "Il est conseillé de consulter un médecin généraliste si vous remarquez des symptômes correspondant à la description ci-dessus, surtout s’ils\nont un impact sur votre bien-être au quotidien :\n\n- des règles irrégulières, très espacées ou qui ont cessé\n- une pilosité nettement plus importante sur le visage ou le corps, une acné persistante ou un amincissement des cheveux\n- des difficultés à tomber enceinte après avoir essayé pendant un certain temps\n- une prise de poids difficile à perdre, associée à d'autres symptômes\n\nUn médecin généraliste pourra examiner votre situation, confirmer s'il s'agit d'PCOSe ou d'une autre affection, et discuter avec vous d'un\nplan de prise en charge adapté à vos besoins. L'e est également associée à une baisse de moral et à de l'anxiété — si vous avez du mal à gérer votre\nhumeur, parlez-en également à votre médecin généraliste ; cela fait partie du tableau clinique et une aide est disponible.",
+      "overview": "PCOS — le syndrome des ovaires polykystiques — est une affection courante liée à l’équilibre des\nhormones reproductives. Selon les estimations, elle toucherait environ une femme sur dix en âge de procréer, et de nombreuses\npersonnes qui en sont atteintes ne sont jamais diagnostiquées.\n\nElle peut se manifester de différentes manières, et chaque cas est unique. Parmi les caractéristiques courantes, on peut citer\ndes règles irrégulières, peu fréquentes ou absentes ; des taux élevés d’hormones appelées androgènes,\nqui peuvent entraîner une pilosité excessive sur le visage ou le corps, de l’acné ou un amincissement des cheveux ; et\ndes ovaires qui ne libèrent pas d’ovule aussi régulièrement que d’habitude, ce qui peut rendre la conception plus difficile.\nDes variations de poids et des taches cutanées plus foncées sont également fréquentes.\n\nLa cause exacte n’est pas entièrement comprise, et il n’existe pas de remède — mais les symptômes peuvent être pris en charge, et\ncomprendre ce qui se passe est la première étape. Le SOPK est courant et gérable, ce n’est pas quelque chose dont\nil faut avoir honte.",
+      "deep": "Comme le SOPK implique les hormones de l’organisme et la façon dont celui-ci gère l’insuline, elle est également associée, à\nlong terme, à une résistance à l’insuline et à un risque accru de diabète de type 2, d’hypertension artérielle\net de modifications du taux de cholestérol — c’est pourquoi les cliniciens ont tendance à surveiller ces paramètres au fil du temps.\nEnviron la moitié des personnes atteintes du SOPK peuvent développer un diabète ou un prédiabète dès la quarantaine ; c’est pourquoi des\nsuivis réguliers sont essentiels. Le diagnostic ne doit pas être posé par soi-même : un médecin examine la situation dans son ensemble\n— vos antécédents et vos cycles menstruels, parfois des analyses sanguines pour doser les hormones, et parfois une échographie\ndes ovaires — et exclut d’autres causes avant de poser le diagnostic de SOPK.",
+      "when_to_see_doctor": "Il est conseillé de consulter un médecin généraliste si vous remarquez des symptômes correspondant à la description ci-dessus, surtout s’ils\nont un impact sur votre bien-être au quotidien :\n\n- des règles irrégulières, très espacées ou qui ont cessé\n- une pilosité nettement plus importante sur le visage ou le corps, une acné persistante ou un amincissement des cheveux\n- des difficultés à tomber enceinte après avoir essayé pendant un certain temps\n- une prise de poids difficile à perdre, associée à d'autres symptômes\n\nUn médecin généraliste pourra examiner votre situation, confirmer s'il s'agit d'un SOPK ou d'une autre affection, et discuter avec vous d'un\nplan de prise en charge adapté à vos besoins. L'e est également associée à une baisse de moral et à de l'anxiété — si vous avez du mal à gérer votre\nhumeur, parlez-en également à votre médecin généraliste ; cela fait partie du tableau clinique et une aide est disponible.",
       "red_flags": null
     },
     "perimenopause": {
@@ -735,7 +862,7 @@
       "red_flags": "Contactez **immédiatement votre sage-femme ou votre service de maternité** — de jour comme de nuit — si, **avant la 37e semaine**, vous\nprésentez l’un des symptômes suivants :\n\n- des **contractions ou des resserrements** réguliers, ou des douleurs semblables à celles des règles\n- un **écoulement abondant ou un suintement de liquide** par le vagin (perte des eaux)\n- **un mal de dos** inhabituel chez vous, ou une sensation de pression dans le bas-ventre"
     },
     "premenstrual-syndrome": {
-      "title": "PMS (syndrome prémenstruel)",
+      "title": "SPM (syndrome prémenstruel)",
       "aliases": [
         "pms",
         "syndrome prémenstruel",
@@ -743,7 +870,7 @@
         "pmt"
       ],
       "glance": "PMS Il s'agit de l'ensemble des changements physiques et émotionnels que de nombreuses personnes ressentent une semaine ou deux avant leurs règles.",
-      "overview": "PMS — le syndrome prémenstruel — désigne les changements que de nombreuses personnes ressentent dans les jours ou les deux\nsemaines précédant leurs règles. Il peut toucher toute personne ayant des règles, et s’atténue généralement en quelques\njours après le début des règles.\n\nCes changements peuvent prendre différentes formes. Sur le plan physique, vous pouvez ressentir des ballonnements, une sensibilité ou une douleur au niveau des seins,\ndes crampes, des maux de tête ou une fatigue accrue. Sur le plan émotionnel, vous pouvez être sujette à des sautes d’humeur, à de l’irritabilité,\nà de l’anxiété ou à un sentiment de déprime. Les fringales et les troubles du sommeil sont également fréquents. Tout le monde ne souffre pas d’PMSe,\net celles qui en souffrent ne présentent pas nécessairement tous les symptômes — c’est votre propre schéma qui importe. L’\n\nPMSe est une partie normale et reconnue du cycle de nombreuses personnes, liée aux variations hormonales naturelles de\nla seconde moitié du cycle. Observer comment cela se manifeste chez vous, cycle après cycle, peut vous aider à mieux vous organiser\net à repérer tout changement éventuel.",
+      "overview": "PMS — le syndrome prémenstruel — désigne les changements que de nombreuses personnes ressentent dans les jours ou les deux\nsemaines précédant leurs règles. Il peut toucher toute personne ayant des règles, et s’atténue généralement en quelques\njours après le début des règles.\n\nCes changements peuvent prendre différentes formes. Sur le plan physique, vous pouvez ressentir des ballonnements, une sensibilité ou une douleur au niveau des seins,\ndes crampes, des maux de tête ou une fatigue accrue. Sur le plan émotionnel, vous pouvez être sujette à des sautes d’humeur, à de l’irritabilité,\nà de l’anxiété ou à un sentiment de déprime. Les fringales et les troubles du sommeil sont également fréquents. Tout le monde ne souffre pas de SPM,\net celles qui en souffrent ne présentent pas nécessairement tous les symptômes — c’est votre propre schéma qui importe.\n\nLe SPM est une partie normale et reconnue du cycle de nombreuses personnes, liée aux variations hormonales naturelles de\nla seconde moitié du cycle. Observer comment cela se manifeste chez vous, cycle après cycle, peut vous aider à mieux vous organiser\net à repérer tout changement éventuel.",
       "deep": null,
       "when_to_see_doctor": "Il est conseillé de consulter un médecin généraliste si :\n\n- vos symptômes affectent votre vie quotidienne (travail, études, relations)\n- les changements apportés à votre routine quotidienne n'ont pas été efficaces\n- votre baisse de moral, votre anxiété ou votre irritabilité vous semblent très intenses\n\nUn professionnel de santé pourra vous expliquer ce qui pourrait vous aider. Une forme plus grave, appelée trouble dysphorique prémenstruel\n(PMDD), peut entraîner des symptômes émotionnels bien plus intenses ; un accompagnement est disponible pour y faire face.",
       "red_flags": "- Si vous présentez des symptômes d'PMDDe et que vous **avez des pensées suicidaires ou que vous ne vous sentez pas en sécurité**,\n  demandez immédiatement de l'aide : **appelez le 999 ou rendez-vous aux urgences.** Ne conduisez pas vous-même : demandez à quelqu'un de vous\n  accompagner ou demandez qu'on vous envoie une ambulance. Vous méritez d’être soutenu(e), et de l’aide est à votre disposition."
@@ -773,6 +900,86 @@
       "deep": "La mini-pilule se distingue de la pilule combinée par l'absence d'œstrogènes, ce qui modifie le profil des femmes à qui elle peut convenir —\nun aspect que le professionnel de santé prend en compte lors de la prescription. Certains types doivent être pris dans un\nintervalle quotidien assez restreint pour rester efficaces. Cet article explique ce qu’est la mini-pilule et comment elle fonctionne ; quant à la manière de la prendre\net à savoir si elle vous convient, ces questions relèvent de la compétence d’un médecin généraliste, d’une infirmière ou d’un pharmacien.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Reconnaître une relation abusive",
+      "aliases": [
+        "Reconnaître les violences",
+        "relation abusive",
+        "violence conjugale",
+        "violence conjugale",
+        "Signes de maltraitance",
+        "Suis-je victime de maltraitance ?"
+      ],
+      "glance": "La violence peut être physique, sexuelle, psychologique ou de contrôle — et ce n’est jamais la faute de la personne qui en est victime.",
+      "overview": "La violence dans un couple n’est pas uniquement physique. Elle peut prendre plusieurs formes, souvent combinées : violence physique, contrainte sexuelle, violence émotionnelle ou psychologique, et comportements de contrôle — un partenaire qui décide où vous allez, qui vous voyez ou ce que vous pouvez faire. Chacune de ces situations peut constituer un acte de violence, même en l’absence de blessures visibles.\n\nCe phénomène est plus courant que beaucoup ne le pensent. Dans le monde, environ une femme sur trois subit des violences physiques ou sexuelles au cours de sa vie, le plus souvent de la part d’un partenaire ; la situation est similaire en Italie. Si vous êtes confrontée à cette réalité, sachez que vous n’êtes pas seule et que vous n’en êtes en aucun cas responsable.\n\nIl peut être difficile de mettre des mots sur ce que l’on vit : les violences s’entremêlent souvent à des moments agréables, à des excuses ou à des promesses de changement, et elles peuvent s’installer si progressivement qu’elles finissent par paraître normales. Faire confiance à votre intuition qui vous dit que quelque chose ne va pas est une raison valable pour demander de l’aide. Vous n’avez pas besoin d’être certaine de votre cas, ni d’attendre que la situation devienne « suffisamment grave » pour en parler à quelqu’un.",
+      "deep": "Au-delà de ses différentes formes, la violence suit généralement un schéma dans lequel une personne cherche à exercer un pouvoir et un contrôle sur une autre, et elle peut s’aggraver avec le temps. Cela a de graves répercussions sur la santé : cela est lié à l'anxiété, à la dépression, aux troubles du sommeil et à des séquelles physiques à long terme. Rien de tout cela ne signifie que tu es faible ou que tu es responsable ; cela signifie simplement que ce que tu vis est néfaste, et qu’il existe des ressources pour t’aider à y réfléchir en toute sécurité et à ton rythme.",
+      "when_to_see_doctor": "- Vous pouvez parler à quelqu’un en toute confiance dès que vous vous sentirez prête : un médecin généraliste ou une infirmière, un centre de lutte contre la violence ou une ligne d’écoute (en Italie, le **1522**, gratuit et accessible à tout moment). Vous n’avez pas besoin d’apporter de preuve, d’avoir un plan ou d’avoir pris une décision au préalable ; ces personnes sont là pour vous écouter et vous aider à comprendre les options qui s’offrent à vous.\n- Un professionnel de santé peut également soigner d’éventuelles blessures et vous orienter en toute discrétion vers une aide spécialisée.",
+      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** — la ligne d'assistance nationale gratuite contre la violence et le harcèlement — est accessible 24 heures sur 24, de manière anonyme, par téléphone ou par chat, dans plusieurs langues."
+    },
+    "respect-not-control": {
+      "title": "Respecter, pas contrôler",
+      "aliases": [
+        "comportement de contrôle",
+        "contrôle coercitif",
+        "relation saine",
+        "panneaux d'avertissement",
+        "où obtenir de l'aide",
+        "abus"
+      ],
+      "glance": "L’amour se construit sur le respect et la liberté – le contrôle, la jalousie et la pression ne sont pas de l’amour et l’aide existe.",
+      "overview": "Une relation saine repose sur le respect, la confiance, l'égalité et la liberté : deux personnes qui gardent chacune leur\npropres amitiés, choix et espace. Le contrôle est le contraire. Il se cache souvent derrière des mots comme amour ou\njalousie - \"Je vérifie ton téléphone parce que je m'en soucie\", \"Je ne veux pas que tu les voies parce que je t'aime\" - mais\nson effet est de rétrécir son monde et sa liberté.\n\nLe contrôle commence rarement par la violence. Cela commence généralement modestement : une critique, une frontière franchie, une\n\"blague\" qui pique - et grandit. Il est important de le nommer dès le début, car le contrôle coercitif est en soi une forme de\nabus et un signe avant-coureur du pire. Il ne s’agit pas ici de culpabilité ; c'est une question d'honnêteté et de changement.",
+      "deep": "**Si vous en reconnaissez certains en vous-même, cette prise de conscience est un point de départ et non une condamnation à perpétuité.**\nLes gens peuvent changer avec de réels efforts et une aide appropriée. Contacter un programme dédié aux hommes\nQui veut cesser d'être dominateur ou violent est un signe de force et non de faiblesse. Parlez à un\nprofessionnel, un médecin ou un service de changement de comportement pour hommes.\n\nSi **c'est** celle qui est en danger, ou si vous vous inquiétez pour quelqu'un, encouragez-la et soutenez-la à atteindre\naider - selon ses conditions, jamais en prenant le relais.\n\n**Où obtenir de l'aide**\n- En cas d'urgence ou si quelqu'un est en danger immédiat, appelez votre numéro d'urgence local\n  (**112** en Italie et dans une grande partie de l'Europe ; **911** aux États-Unis).\n- **Italie — 1522** : la ligne d'assistance nationale contre la violence et le harcèlement. Gratuit, 24h/24 et 7j/7, anonyme et\n  multilingue, géré par le Département pour l'Égalité des Chances. Il guide également les gens vers les locaux\n  centres anti-violence (centri antiviolenza).\n- Centres anti-violence et programmes de changement de comportement des hommes (en Italie, \"centri per uomini autori di\n  violenza\") offrent un accompagnement confidentiel au changement.",
+      "when_to_see_doctor": null,
+      "red_flags": "Signes avant-coureurs d’un comportement contrôlant ou abusif – à prendre au sérieux chez vous-même ou dans une relation :\n\n- **Surveillance ou isolement** : vérifier son téléphone, suivre sa position ou la couper de\n  amis et famille.\n- **Contrôle des choix** : l'argent, ce qu'elle porte, où elle va, qui elle voit.\n- **Jalousie présentée comme de l'amour**, accusations constantes ou besoin de savoir où elle se trouve à tout moment.\n- **Les dénigrements, les reproches ou le fait de lui faire se sentir effrayé**, coupable ou \"marcher sur des œufs\".\n- **Pression ou menaces** concernant le sexe, la rupture ou l'automutilation pour obtenir la conformité.\n- **Toute force physique, intimidation ou peur.** Si cela est présent, il s'agit d'un abus - contactez l'aide\n  ci-dessus. Il n'y a jamais d'excuse et ce n'est jamais de sa faute."
+    },
+    "safety-plan": {
+      "title": "Élaborer un plan de sécurité",
+      "aliases": [
+        "plan de sécurité",
+        "Rester en sécurité",
+        "Rester en sécurité",
+        "plan de sécurité",
+        "partir en toute sécurité"
+      ],
+      "glance": "Un plan de sécurité consiste en quelques mesures pratiques pour vous aider à rester en sécurité — et des services spécialisés peuvent vous aider à en élaborer un.",
+      "overview": "Un plan de sécurité consiste simplement à anticiper les moyens de vous protéger (ainsi que vos enfants, le cas échéant). Il ne s’agit pas de décider de partir ou de rester, mais d’être un peu mieux préparée, quel que soit votre choix.\n\nPour certaines personnes, il est utile de prévoir discrètement quelques éléments : une personne de confiance au courant de la situation, les documents importants et les numéros à joindre, un petit sac contenant l'essentiel, une idée des itinéraires les plus sûrs pour quitter le domicile, ou encore un mot ou un signal permettant d'indiquer à quelqu'un que vous avez besoin d'aide. Ce qui est pertinent dépend entièrement de votre situation personnelle.\n\nVous n’avez pas à gérer cela toute seule, et il est souvent plus sûr de ne pas le faire. Les services de lutte contre la violence ont l’habitude d’élaborer des plans de sécurité avec les personnes concernées, en toute confidentialité et gratuitement — y compris pour la période précédant et suivant le départ, qui peut être un moment à haut risque et qu’il vaut mieux planifier avec de l’aide plutôt que dans la précipitation.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactez un centre de lutte contre la violence ou une ligne d’écoute (en Italie, le **1522**) pour établir un plan adapté à votre situation : ces structures s’en occupent tous les jours, en toute confidentialité, et peuvent vous aider à prendre des mesures pratiques, juridiques et émotionnelles.\n- Si vous consignez ce qui se passe, conservez ces informations dans un endroit privé et sûr.",
+      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** — un service gratuit, disponible 24h/24, anonyme et multilingue — peut apporter de l’aide par téléphone ou par chat, notamment pour mettre en place des mesures d’urgence en matière de sécurité."
+    },
+    "sex-during-your-period": {
+      "title": "Le sexe pendant les règles",
+      "aliases": [
+        "sexe pendant les règles",
+        "rapports pendant les règles",
+        "faire l'amour pendant les règles",
+        "rapport sexuel pendant les menstruations",
+        "peut-on tomber enceinte pendant les règles",
+        "enceinte pendant les règles",
+        "tomber enceinte pendant ses règles"
+      ],
+      "glance": "Faire l'amour pendant les règles, c'est tout à fait possible si vous en avez envie tous les deux, mais vous pouvez quand même tomber enceinte ou transmettre une IST.",
+      "overview": "Avoir des rapports sexuels pendant les règles est un choix personnel. Si vous en avez envie tous les deux et que vous êtes à l'aise, c'est tout à fait possible, et il n'y a rien de mal ni d'inhabituel à cela. Certaines personnes se sentent plus sensibles à ce moment-là, ou n'en ont simplement pas envie, tandis que d'autres apprécient. Ce qui compte le plus, c'est d'écouter votre corps et d'en parler ouvertement avec votre partenaire.\n\nEn revanche, les règles ne servent pas de contraception. Le risque de grossesse est plus faible qu'autour de l'ovulation, mais il n'est pas nul. Les spermatozoïdes peuvent survivre jusqu'à 7 jours dans le corps après un rapport : si vous ovulez tôt, ce qui est plus probable avec un cycle plus court, des spermatozoïdes issus d'un rapport pendant vos règles ou juste après pourraient encore rencontrer un ovule. Si vous ne voulez pas tomber enceinte, votre contraception habituelle reste importante ces jours-là aussi.\n\nLes règles ne protègent pas non plus des infections sexuellement transmissibles (IST). Les infections peuvent se transmettre entre partenaires lors de rapports sans préservatif, et les germes qui les causent peuvent se trouver dans le sang comme dans d'autres liquides du corps. Le préservatif est la méthode qui réduit aussi le risque d'IST, y compris le VIH : il vaut donc la peine de l'utiliser à n'importe quel moment du mois.",
+      "deep": null,
+      "when_to_see_doctor": "- Si vous avez eu un rapport **sans contraception**, ou si votre contraception a pu échouer, et que vous ne voulez pas tomber enceinte, parlez de la contraception d'urgence **dès que possible** à un pharmacien, à un médecin généraliste ou à un centre de santé sexuelle. Elle doit être utilisée dans les quelques jours qui suivent, et elle est généralement d'autant plus efficace qu'elle est prise tôt.\n- Demandez de l'aide à un pharmacien, à un centre de santé sexuelle, à un médecin généraliste ou au **NHS 111** si **un préservatif se déchire ou glisse** pendant un rapport. Vous pourriez avoir besoin d'une contraception d'urgence ou d'un dépistage des IST.\n- Consultez un médecin généraliste ou un centre de santé sexuelle si vous remarquez **des saignements après un rapport en dehors de vos règles**. Ce n'est généralement pas grave, mais cela vaut toujours la peine de faire vérifier.",
+      "red_flags": null
+    },
+    "sexual-violence": {
+      "title": "Violences sexuelles et consentement",
+      "aliases": [
+        "violences sexuelles",
+        "agression sexuelle",
+        "viol",
+        "consentement",
+        "abus sexuels",
+        "non consensuel"
+      ],
+      "glance": "La violence sexuelle désigne tout acte sexuel commis sans consentement — et la responsabilité n’incombe en aucun cas à la personne qui en a été victime.",
+      "overview": "La violence sexuelle désigne tout acte sexuel, ou toute tentative d’en commettre un, sans consentement ou par la contrainte. Elle inclut le viol et tout contact sexuel non désiré, et peut être commise par n’importe qui : un inconnu, une connaissance, un partenaire ou un conjoint.\n\nLe consentement est au cœur de tout cela. Le consentement signifie accepter librement, et cela n’est pas possible lorsqu’une personne est endormie, inconsciente, ivre ou sous l’emprise de drogues, qu’il s’agit d’un enfant, ou qu’elle subit des pressions, des menaces ou qu’elle a peur. Il peut être retiré à tout moment. C’est pourquoi la violence sexuelle n’est **jamais** la faute de la personne qui en a été victime — que ce soit à cause de ce qu’elle portait, du fait qu’elle ait bu, qu’elle soit restée figée au lieu de se défendre, ou qu’elle connaisse ou non l’agresseur.\n\nSi cela vous est arrivé, vous pouvez compter sur un soutien, que ce soit récent ou datant de longtemps. On vous croit, et c'est à vous de décider de la suite.",
+      "deep": null,
+      "when_to_see_doctor": "- Vous pouvez vous rendre dans un **centre de santé, un hôpital ou un centre spécialisé dans les agressions sexuelles**, où l'on pourra prendre soin de vous, soigner vos blessures et, si vous le souhaitez, vous aider à porter plainte et à conserver les preuves.\n- Certaines mesures de santé sont **soumises à des délais** — par exemple la contraception d'urgence ou la prévention des infections — ; il peut donc être utile de demander de l'aide **rapidement**. Mais il n'y a pas de délai pour obtenir de l'aide, et c'est toujours à vous de décider si vous souhaitez signaler un cas.",
+      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- Après une agression récente, un **hôpital ou un service spécialisé peut vous venir en aide de toute urgence**. En Italie, le **1522** (gratuit, accessible 24 h/24 et 7 j/7, anonyme, multilingue — par téléphone ou chat) peut vous orienter vers les soins adaptés."
     },
     "signs-of-labour": {
       "title": "Signes annonciateurs de l'accouchement",
@@ -834,8 +1041,24 @@
       "when_to_see_doctor": "- Consultez un médecin généraliste ou rendez-vous dans un centre de santé sexuelle **dès que vous constatez des saignements entre deux règles ou après un rapport sexuel**,\n  même s'ils sont légers. Il ne s'agit généralement pas de rien de grave, mais c'est en faisant examiner cela que l'on peut\n  en déterminer la cause — et c'est le moyen d'écarter rapidement les causes moins courantes.",
       "red_flags": "- Demandez un rendez-vous **urgent** chez votre médecin généraliste ou appelez le **NHS 111** si vous avez **un retard de règles et présentez\n  des saignements inhabituels accompagnés de douleurs abdominales ou pelviennes** — cela nécessite une consultation rapide, car cela peut être le\n  signe d’une grossesse extra-utérine."
     },
+    "stalking": {
+      "title": "Harcèlement",
+      "aliases": [
+        "harcèlement",
+        "être victime de harcèlement",
+        "harcèlement",
+        "attention indésirable",
+        "quelqu'un qui me suit",
+        "cyberharcèlement"
+      ],
+      "glance": "Le harcèlement consiste en une attention répétée et non désirée qui vous fait ressentir de la peur ou un sentiment d’insécurité — et il est pris très au sérieux.",
+      "overview": "Le harcèlement obsessionnel est un comportement indésirable et répété de la part d’une personne qui vous fait vous sentir effrayée, surveillée ou en danger. Il peut s’agir d’être suivie, de voir quelqu’un se présenter là où vous vous trouvez, de recevoir des appels ou des messages incessants, de recevoir des cadeaux non sollicités, d’être surveillée en ligne ou via votre téléphone, ou encore de subir des menaces. Ce comportement est souvent le fait d’un ex-partenaire ou d’une personne que vous connaissez, mais ce n’est pas toujours le cas.\n\nLa peur que cela provoque est légitime, même si chaque acte pris isolément peut sembler « insignifiant » aux yeux des autres : c’est le schéma qui se répète, et ce que cela vous fait ressentir, qui comptent. Le harcèlement est reconnu comme une forme de maltraitance et, dans de nombreux pays, il s’agit d’un délit. Vous n’y êtes pour rien, et vous n’êtes pas obligée de vous en accommoder.\n\nSi cela ne présente aucun danger, il peut être utile de conserver des traces pour plus tard : dates et heures, captures d’écran des messages et description des faits. Vous n’avez pas à déterminer seule si cela « compte » : les services d’aide peuvent vous aider à y voir plus clair et à réfléchir aux options qui s’offrent à vous.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactez la **police** pour signaler un cas de harcèlement, ainsi qu’une ligne d’assistance contre la violence ou le harcèlement pour obtenir de l’aide et des conseils (en Italie, le **1522** est le numéro à composer en cas de violence **et** de harcèlement).\n- Conserver des preuves et établir un plan de sécurité, avec l’aide d’un service spécialisé, peuvent tous deux faire une réelle différence.",
+      "red_flags": "- Si vous vous sentez en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** — un service gratuit, disponible 24 heures sur 24, anonyme et multilingue — peut vous aider par téléphone ou par chat."
+    },
     "stillbirth": {
-      "title": "Mort-né",
+      "title": "Mortinaissance",
       "aliases": [
         "mort-né",
         "mort-né",
@@ -859,27 +1082,69 @@
         "Pourquoi mes règles sont-elles en retard ?"
       ],
       "glance": "Le stress, les variations importantes de poids ou une activité physique intense peuvent retarder ou interrompre les règles — souvent seulement pendant un certain temps.",
-      "overview": "Il est fréquent que les règles soient en retard ou qu’un mois soit sauté, et la raison tient souvent davantage\naux aléas de la vie qu’à un problème de santé. Le stress en est une cause fréquente : le même système qui réagit\nà la pression peut influencer les hormones qui régissent votre cycle.\n\nD’autres facteurs du quotidien peuvent également perturber vos règles : une variation importante de poids (à la hausse ou à la baisse), une pratique intensive\nd’exercice physique ou un état de fatigue. Des changements hormonaux — tels que l’approche de la périménopause ou\ndes troubles comme l’PCOSe — peuvent également en être à l’origine, tout comme la grossesse et certaines méthodes contraceptives. Souvent, l’intervalle\nentre les règles varie simplement un peu de temps à autre, et c’est tout à fait normal.\n\nCe qui est rassurant, c’est qu’un retard ponctuel ou une absence de règles n’est généralement pas une source d’inquiétude, et que\nles choses se stabilisent souvent au fil de la vie. Ce qu’il convient de surveiller, c’est une tendance à long terme plutôt qu’un seul\nmois.",
+      "overview": "Il est fréquent que les règles soient en retard ou qu’un mois soit sauté, et la raison tient souvent davantage\naux aléas de la vie qu’à un problème de santé. Le stress en est une cause fréquente : le même système qui réagit\nà la pression peut influencer les hormones qui régissent votre cycle.\n\nD’autres facteurs du quotidien peuvent également perturber vos règles : une variation importante de poids (à la hausse ou à la baisse), une pratique intensive\nd’exercice physique ou un état de fatigue. Des changements hormonaux — tels que l’approche de la périménopause ou\ndes troubles comme le SOPK — peuvent également en être à l’origine, tout comme la grossesse et certaines méthodes contraceptives. Souvent, l’intervalle\nentre les règles varie simplement un peu de temps à autre, et c’est tout à fait normal.\n\nCe qui est rassurant, c’est qu’un retard ponctuel ou une absence de règles n’est généralement pas une source d’inquiétude, et que\nles choses se stabilisent souvent au fil de la vie. Ce qu’il convient de surveiller, c’est une tendance à long terme plutôt qu’un seul\nmois.",
       "deep": null,
       "when_to_see_doctor": "Consultez un médecin généraliste si :\n\n- vous n'avez pas eu vos règles pendant **trois cycles consécutifs**, ou si vos règles sont devenues **irrégulières**\n- vos règles **s'arrêtent** et que vous ne savez pas pourquoi (une grossesse étant possible, il est préférable de faire d'abord un test)\n- l'absence de règles s'accompagne d'autres changements — comme des variations de poids inattendues, de la fatigue, une pilosité accrue\n  ou une baisse de moral\n\nCes examens visent simplement à comprendre ce qui est à l'origine de ce changement — qui est généralement quelque chose\nde gérable.",
       "red_flags": null
     },
-    "the-coil": {
-      "title": "La bobine (IUD et IUS)",
+    "supporting-her-period": {
+      "title": "La soutenir pendant ses règles",
       "aliases": [
-        "bobine",
-        "la bobine",
+        "aider pendant ses règles",
+        "accompagnement périodique des partenaires",
+        "soins menstruels"
+      ],
+      "glance": "Les règles peuvent entraîner de réelles douleurs et fatigues : de petits soins pratiques font une grande différence.",
+      "overview": "Une période ne se limite pas à quelques jours de saignement ; pour beaucoup, cela s'accompagne de crampes, de maux de dos, de maux de tête,\nfatigue et manque d'énergie. Les douleurs menstruelles sont courantes et peuvent être véritablement épuisantes - ce n'est pas un problème.\nexagération. Traitez-le comme vous traiteriez n'importe quel partenaire malade : avec une gentillesse pratique.\n\nNormalisez-le aussi. Les règles ne sont pas dégoûtantes, embarrassantes ou taboues. Être à l'aise pour acheter des serviettes ou\ndes tampons, en garder à la maison ou lui donner une bouillotte sans chichi lui dit qu'elle est en sécurité et\npris en charge.",
+      "deep": "Des choses simples qui aident :\n\n- **Chaleur et repos.** Une bouillotte ou un coussin chauffant sur le bas du ventre soulage les crampes ; offrir un calme\n  le soir.\n- **Enlevez les choses de son assiette.** Cuisinez, rangez, faites les courses, conduisez-la – l'aide pratique est plus difficile à résoudre\n  que des mots.\n- **Gardez les fournitures.** Sachez ce qu'elle utilise et gardez un stock pour qu'une journée chargée ne soit jamais une crise.\n- **Antalgiques et nourriture réconfortante** si elle en veut ; son choix.\n- **Ne faites pas pression pour avoir du sexe ou de l'énergie qu'elle n'a pas.** La proximité peut être un câlin sur le canapé.",
+      "when_to_see_doctor": "Encouragez-la à consulter un médecin (et proposez-lui de l'accompagner) si les douleurs menstruelles sont **sévères, s'aggravent,\nou l'arrêter de la vie quotidienne**, si les règles sont **très abondantes** (tremper une protection toutes les heures,\nlarge clots), or if pain is new and unusual — these can point to conditions like endometriosis that\nméritent des soins appropriés.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Accompagner une personne victime de violences",
+      "aliases": [
+        "soutenir quelqu'un",
+        "Aider une amie",
+        "Comment aider",
+        "une personne victime de maltraitance",
+        "comment apporter son soutien"
+      ],
+      "glance": "Si une personne de votre entourage est victime de violences, l'écouter sans la juger — et savoir vers qui l'orienter — peut l'aider.",
+      "overview": "Il est difficile de se rendre compte qu’un de vos proches est peut-être victime de maltraitance, et vouloir l’aider est un réflexe naturel. Ce que vous pouvez offrir de plus utile est souvent ce qu’il y a de plus simple.\n\nÉcoutez-les et croyez-les. Laissez-les parler à leur rythme, sans les juger, sans les blâmer ni leur demander ce qu'elles ont fait pour provoquer cette situation. Dites-leur clairement que ce n'est pas de leur faute et qu'elles ne méritent pas cela. Essayez de ne pas leur dire quoi faire ni de les pousser à partir : c’est à elles de décider de partir, et le faire précipitamment peut en réalité accroître le danger — ce qui les aide le plus, c’est de se sentir soutenues et de ne pas se sentir seules.\n\nGardez confidentielles les informations qu’elle vous confie. Aidez-la en douceur à trouver un soutien spécialisé lorsqu’elle sera prête — une ligne d’écoute comme le **1522** en Italie, ou un centre local de lutte contre la violence — et proposez-lui une aide pratique, comme rechercher ensemble les numéros ou être à ses côtés lorsqu’elle passe son appel. Et prenez également soin de vous ; accompagner quelqu’un dans cette épreuve peut être très éprouvant.",
+      "deep": null,
+      "when_to_see_doctor": "- Encouragez-la (sans lui mettre la pression) à contacter une ligne d’aide ou un centre de lutte contre la violence, qui pourra vous guider toutes les deux sur la marche à suivre. Vous pouvez lui proposer de l’aider à passer l’appel ou à trouver le numéro.\n- En cas de blessure, un médecin généraliste ou un hôpital peut aider la personne et la mettre en relation avec des services d’aide.",
+      "red_flags": "- En cas de **danger immédiat**, appeler les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** (gratuite, accessible 24h/24 et 7j/7, anonyme et multilingue — par téléphone ou par chat) peut également vous conseiller sur la manière d’aider quelqu’un."
+    },
+    "the-coil": {
+      "title": "Le stérilet (au cuivre et hormonal)",
+      "aliases": [
+        "stérilet",
+        "DIU",
         "IUD",
         "IUS",
-        "serpentin en cuivre",
+        "stérilet au cuivre",
         "stérilet hormonal",
         "dispositif intra-utérin",
         "système intra-utérin",
         "Mirena"
       ],
-      "glance": "Le stérilet est un petit dispositif placé dans l'utérus — en cuivre (IUD) ou hormonal (IUS) — qui reste en place pendant plusieurs années.",
-      "overview": "Le stérilet est un petit dispositif qu’un professionnel de santé place à l’intérieur de l’utérus. Il en existe deux types, et il est utile de\nsavoir les distinguer :\n\n- Le **IUD**, ou stérilet en cuivre, ne contient pas d’hormones. Le cuivre modifie les conditions à l’intérieur de l’utérus de telle sorte\n  que les spermatozoïdes et les ovules ne puissent pas y survivre correctement, et il agit également sur la glaire cervicale. Selon le type,\n  elle est efficace pendant environ 5 à 10 ans.\n- Le **IUS**, ou stérilet hormonal, libère un progestatif au lieu d’utiliser du cuivre. Elle épaissit la\n  glaire cervicale et amincit la muqueuse utérine ; chez certaines personnes, elle peut également rendre les règles\n  beaucoup plus légères.\n\nCes deux méthodes sont de type « poser et oublier » et présentent toutes deux une efficacité supérieure à 99 %, avec peu de différence entre\nl’utilisation parfaite et l’utilisation typique. Aucune des deux ne protège contre les IST.",
-      "deep": "Les stérilets constituent des méthodes réversibles à action prolongée : une fois posés, ils restent efficaces pendant des années, et la fertilité\nrevient après leur retrait. La pose et le retrait sont effectués par un professionnel de santé qualifié et ne prennent que\nquelques minutes, même si certaines personnes trouvent la pose désagréable. L’une des raisons courantes pour lesquelles les femmes choisissent entre\nces deux options est leur effet sur les règles : l’IUD au cuivre peut rendre les règles plus abondantes au début, tandis que le\nIUS hormonal les rend souvent plus légères. Pour savoir lequel vous convient le mieux, il faut en discuter avec un professionnel de santé ; cet article\nse contente d’expliquer le fonctionnement de chacun.",
+      "glance": "Le stérilet est un petit dispositif placé dans l'utérus — au cuivre (DIU) ou hormonal (SIU) — qui reste en place pendant plusieurs années.",
+      "overview": "Le stérilet est un petit dispositif qu’un professionnel de santé place à l’intérieur de l’utérus. Il en existe deux types, et il est utile de\nsavoir les distinguer :\n\n- Le **stérilet au cuivre** (DIU) ne contient pas d’hormones. Le cuivre modifie les conditions à l’intérieur de l’utérus de telle sorte\n  que les spermatozoïdes et les ovules ne puissent pas y survivre correctement, et il agit également sur la glaire cervicale. Selon le modèle,\n  il est efficace pendant environ 5 à 10 ans.\n- Le **stérilet hormonal** (SIU, système intra-utérin) libère un progestatif au lieu d’utiliser du cuivre. Il épaissit la\n  glaire cervicale et amincit la muqueuse utérine ; chez certaines personnes, il peut également rendre les règles\n  beaucoup plus légères.\n\nCes deux méthodes sont de type « poser et oublier » et présentent toutes deux une efficacité supérieure à 99 %, avec peu de différence entre\nl’utilisation parfaite et l’utilisation typique. Aucune des deux ne protège contre les IST.",
+      "deep": "Les stérilets sont des méthodes réversibles à action prolongée : une fois posés, ils restent efficaces pendant des années, et la fertilité\nrevient après leur retrait. La pose et le retrait sont effectués par un professionnel de santé qualifié et ne prennent que\nquelques minutes, même si certaines personnes trouvent la pose désagréable. L’une des raisons courantes pour lesquelles les femmes choisissent entre\nles deux est leur effet sur les règles : le stérilet au cuivre peut rendre les règles plus abondantes au début, tandis que le\nstérilet hormonal les rend souvent plus légères. Pour savoir lequel vous convient le mieux, il faut en discuter avec un professionnel de santé ; cet article\nse contente d’expliquer le fonctionnement de chacun.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Les jours prémenstruels",
+      "aliases": [
+        "PMS pour les partenaires",
+        "la soutenir avant ses règles",
+        "soutien prémenstruel",
+        "soutien à la phase lutéale"
+      ],
+      "glance": "Dans les jours qui précèdent ses règles, elle peut se sentir plus fatiguée, plus tendre ou plus déprimée : affrontez-le avec patience et sans plaisanter.",
+      "overview": "Environ une semaine avant les règles, de nombreuses personnes présentent des symptômes prémenstruels : changements d'humeur, irritabilité.\nou sensation de déprime, fatigue, seins douloureux, ballonnements, maux de tête ou troubles du sommeil. C'est très courant\net c'est réel – motivé par le changement hormonal naturel de la phase lutéale, et non par sa « réaction excessive ».\n\nPour un plus petit nombre de personnes, la mauvaise humeur est grave (une condition appelée PMDD) et mérite une réelle attention.\nsoutien et soins médicaux. Quoi qu'il en soit, votre travail ne consiste pas à la diagnostiquer ou à la soigner, mais à être stable et\ngentil.\n\nLa chose la plus dommageable qu'un partenaire puisse faire ici est de l'utiliser comme une arme : \"vous êtes juste en train de faire du PMS\", lever les yeux au ciel,\nou traiter ses sentiments comme invalides à cause du rendez-vous. Cela la renvoie et ajoute de la souffrance à un problème difficile.\nsemaine. Ses sentiments comptent toujours, même lorsque les hormones font partie du tableau.",
+      "deep": "Ce qui aide réellement de nos jours :\n\n- **Allégez sa charge.** Effectuez les tâches ménagères, la cuisine ou la liste mentale de choses à faire sans qu'on vous le demande.\n- **Réconfort, pas correction.** Offrez-lui de la chaleur, du repos, une bouillotte, son plat préféré — et laissez-le\n  elle ressent ce qu'elle ressent.\n- **Écoutez d'abord.** Si elle est bouleversée, \"ça a l'air vraiment dur\" vaut \"calme-toi\" à chaque fois.\n- **Ne comptez pas les scores.** Une journée plus difficile n'est pas une dette qu'elle vous doit plus tard.\n- **Demandez ce dont elle a besoin** : certains veulent de la proximité, d'autres veulent de l'espace. Les deux vont bien ; respecte sa réponse.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -898,6 +1163,20 @@
       "overview": "On découvre généralement qu'on attend plus d'un bébé lors de l'**échographie de datation** (vers la 12e semaine),\nqui permet également de déterminer si les bébés partagent un même placenta.\n\nIl en existe deux types principaux. Les jumeaux **identiques** proviennent d’un seul ovule fécondé qui se divise ; ils\npartagent donc les mêmes gènes et sont toujours du même sexe. Les jumeaux **non identiques** proviennent de deux\novules distincts et ne se ressemblent pas plus que n’importe quels autres frères et sœurs ; ils sont les plus courants des deux et leur\nprobabilité d’apparition est légèrement plus élevée avec l’âge, en cas d’antécédents familiaux du côté maternel ou après un traitement de fertilité.\n\nPorter des jumeaux ou plus est une expérience à part entière, et cela implique généralement un **suivi prénatal un peu plus intensif** —\ndes consultations et des échographies supplémentaires pour vous surveiller de près, vous et vos bébés. Votre équipe de sages-femmes vous\nexpliquera à quoi vous attendre.",
       "deep": null,
       "when_to_see_doctor": "- Si une échographie révèle une grossesse gémellaire (ou multiple), votre **sage-femme** vous expliquera en détail les examens de suivi supplémentaires et\n  les échographies prévus dans le cadre d'une grossesse multiple — y assister à chaque fois est le meilleur moyen de bénéficier d'un\n  suivi optimal.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Comprendre son cycle",
+      "aliases": [
+        "guide partenaire du cycle",
+        "cycle pour les partenaires",
+        "comment fonctionne son cycle",
+        "soutenir son cycle"
+      ],
+      "glance": "Son corps traverse un cycle mensuel composé de quatre phases : connaître les bases vous aide à la soutenir sans deviner.",
+      "overview": "Le cycle menstruel a un rythme à peu près mensuel, en moyenne environ 28 jours mais souvent entre 21 et 21 jours.\nà 35 ans, et normal pour elle est tout ce qui est régulier pour *elle*. Il se déroule en quatre phases : la **menstruelle**\nphase (ses règles), la phase **folliculaire**, l'**ovulation** vers le milieu et la **phase lutéale**\nphase avant la période suivante.\n\nL'énergie, l'humeur, le sommeil et le désir peuvent changer au cours de ces phases parce que les hormones montent et descendent.\nla biologie, pas un défaut de caractère et pas quelque chose pour la taquiner. Certaines personnes ressentent une véritable baisse\njours avant leurs règles ; d’autres le remarquent à peine. Il n’existe pas une seule « bonne » façon de ressentir.\n\nVous n'avez pas besoin de devenir un expert. Ce qui aide le plus est simple : savoir à peu près où elle en est dans son cycle\n(cette application peut vous le montrer, avec sa permission), attendez-vous à ce que certains jours soient plus difficiles que d'autres et demandez\nlui ce que *elle* trouve utile plutôt que de supposer.",
+      "deep": "Quelques choses à savoir pour que les mythes ne comblent pas les lacunes :\n\n- **« Sur ses règles » n'est pas une insulte ni une explication pour être en désaccord avec elle.** Utiliser son cycle pour\n  rejeter ses sentiments (« tu es juste hormonal ») est irrespectueux et c'est généralement une erreur. Ses raisons\n  sont toujours ses raisons.\n- **Le cycle affecte plus que les règles.** Crampes, maux de tête, seins sensibles, manque d'énergie ou moins\n  l'humeur peut en faire partie. L’aide pratique vaut les conseils.\n- **Le suivi lui appartient.** Si elle partage son cycle avec vous, traitez-le comme une fenêtre sur ce qu'elle pourrait être.\n  sentiment - une invitation à être gentille, jamais un outil pour la surveiller ou la contrôler.\n- **En cas de doute, demandez.** \"Comment vous sentez-vous aujourd'hui ? Que puis-je faire ?\" vaut plus que n’importe quel graphique.",
+      "when_to_see_doctor": null,
       "red_flags": null
     },
     "vaginal-dryness": {
@@ -921,241 +1200,13 @@
         "hygiène intime",
         "rester propre",
         "douche vaginale",
-        "décharge"
+        "pertes vaginales"
       ],
       "glance": "Le vagin se nettoie tout seul : il suffit de l'entretenir délicatement à l'extérieur, et les pertes sont normales.",
       "overview": "L’une des choses les plus rassurantes à savoir, c’est que le vagin s’entretient tout seul. Il est naturellement\nautonettoyant, et les pertes que vous remarquez font partie de ce processus : il s’agit d’un liquide qui le maintient propre et hydraté\net qui aide à le protéger contre les infections. Leur quantité et leur texture varient au fil du cycle, ce qui est\ntout à fait normal.\n\nC’est pourquoi il n’est pas nécessaire de laver l’intérieur du vagin. En effet, le laver à l’intérieur —\nc’est-à-dire pratiquer des « douches vaginales » — peut perturber son équilibre naturel. L’extérieur (la vulve) a simplement besoin de soins doux : de l’eau tiède\net, si vous le souhaitez, un savon doux et non parfumé. Il vaut mieux éviter les savons, gels, déodorants et lingettes parfumés,\ncar ils peuvent provoquer des irritations.\n\nEn apprenant à reconnaître ce qui est normal pour vous — vos pertes habituelles, leur aspect et leur texture —, vous pourrez plus facilement\nremarquer si quelque chose change et nécessite une consultation.",
       "deep": null,
       "when_to_see_doctor": "Consultez un médecin généraliste ou un centre de santé sexuelle si vous remarquez :\n\n- un changement au niveau de vos pertes — leur couleur, leur odeur ou leur texture, ou un volume nettement supérieur à la normale\n- des démangeaisons, des douleurs ou une irritation au niveau du vagin ou de la vulve\n- des saignements entre deux règles ou après un rapport sexuel\n- des douleurs lorsque vous urinez, ou une douleur dans la partie basse, entre le ventre et les cuisses (douleur pelvienne)\n\nCes symptômes sont courants et souvent faciles à traiter — un changement au niveau des pertes peut simplement indiquer une infection bénigne\ncomme une mycose. Il vaut mieux consulter pour en avoir le cœur net, plutôt que de se livrer à des conjectures.",
       "red_flags": null
-    },
-    "consent-and-respect": {
-      "title": "Consentement et respect",
-      "aliases": [
-        "consentement",
-        "respecter ses limites",
-        "consentement enthousiaste",
-        "autonomie corporelle"
-      ],
-      "glance": "Le consentement est un oui clair, libre et enthousiaste – à chaque fois, et il peut être retiré à tout moment.",
-      "overview": "Le respect commence par son droit de décider de son propre corps – toujours. Le consentement à l'intimité signifie un\nlibrement donné, informé, enthousiaste **oui**. Le silence n'est pas un consentement. Une « amende » réticente n’est pas un consentement.\nUne personne endormie, très ivre ou sous pression ne peut pas vraiment consentir. Et un oui à une chose, ou sur\nun jour, ce n'est pas un oui à tout ni à la prochaine fois.\n\nLe consentement peut être retiré à tout moment, et « arrêter » ou « pas ce soir » est une réponse complète qui n'a pas besoin d'être\njustification. Faire pression, culpabiliser, bouder jusqu'à ce qu'elle cède ou traiter le sexe comme quelque chose\nce qui vous est dû n'est pas bien – une relation n'est pas une dette.",
-      "deep": "À quoi ressemble le respect en pratique :\n\n- **Demandez et enregistrez-vous.** \"Est-ce que ça va ?\" et faire attention à la façon dont elle réagit – les mots et le corps.\n- **Prenez « non » avec grâce.** Pas de moue, de pression ou de punition. Sa réponse est la fin.\n- **L'enthousiasme compte.** Si elle semble incertaine, hésitante ou si elle accepte simplement, arrêtez-vous et demandez.\n- **Son corps, son appel** — sur l'intimité, la contraception, la grossesse, sa santé, son apparence, son\n  choix. Vous avez une voix dans votre vie commune, jamais de veto sur son corps.\n- **Le respect est quotidien.** La façon dont vous lui parlez, d'elle et traitez ses limites dans les petites choses est\n  la fondation sur laquelle repose tout le reste.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "listening-and-support": {
-      "title": "Ecoute et soutien émotionnel",
-      "aliases": [
-        "comment écouter",
-        "soutien émotionnel aux partenaires",
-        "communications",
-        "être là pour elle"
-      ],
-      "glance": "La plupart du temps, elle a besoin d'être entendue et non réparée : écoutez d'abord et demandez avant de lui donner des conseils.",
-      "overview": "Quand quelqu’un que nous aimons est en difficulté, notre instinct est d’intervenir et de résoudre le problème. Mais souvent, ce qui aide le plus\nc'est se sentir véritablement entendue : que ses sentiments ont un sens et qu'elle n'est pas seule avec eux. Réparer aussi\nvite peut atterrir car \"vos sentiments sont un problème à fermer\".\n\nUne bonne écoute est une compétence que tout le monde peut acquérir. C'est surtout de l'attention : poser le téléphone, lui faire face,\net la laisser finir. Vous n'êtes pas obligé d'être d'accord sur tous les points pour qu'elle se sente respectée.",
-      "deep": "Moyens pratiques de se présenter :\n\n- **Écoutez pour comprendre, pas pour répondre.** Laissez-la parler sans interrompre ni planifier votre défense.\n- **Réfléchissez-y.** \"Ça a l'air vraiment stressant\" ou \"Je comprends pourquoi ça fait mal\" bat \"mais ne le faites pas\n  t'en inquiéter\".\n- **Demandez avant de conseiller.** \"Voulez-vous de l'aide pour y réfléchir, ou voulez-vous simplement que je vous écoute ?\"\n- **Ne le prends pas personnellement** lorsqu'une dure journée ne te concerne pas. La stabilité est un cadeau.\n- **Prenez votre part.** Si vous avez quelque chose de mal, de vraies excuses — sans « mais » — rétablissent la confiance.\n- **Remarquez la situation dans son ensemble.** Si elle semble constamment déprimée, anxieuse ou pas elle-même, doucement\n  encouragez-la à le soutenir et proposez-lui de l’aider à y parvenir. Vous êtes un coéquipier, pas un thérapeute.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "respect-not-control": {
-      "title": "Respecter, pas contrôler",
-      "aliases": [
-        "comportement de contrôle",
-        "contrôle coercitif",
-        "relation saine",
-        "panneaux d'avertissement",
-        "où obtenir de l'aide",
-        "abus"
-      ],
-      "glance": "L’amour se construit sur le respect et la liberté – le contrôle, la jalousie et la pression ne sont pas de l’amour et l’aide existe.",
-      "overview": "Une relation saine repose sur le respect, la confiance, l'égalité et la liberté : deux personnes qui gardent chacune leur\npropres amitiés, choix et espace. Le contrôle est le contraire. Il se cache souvent derrière des mots comme amour ou\njalousie - \"Je vérifie ton téléphone parce que je m'en soucie\", \"Je ne veux pas que tu les voies parce que je t'aime\" - mais\nson effet est de rétrécir son monde et sa liberté.\n\nLe contrôle commence rarement par la violence. Cela commence généralement modestement : une critique, une frontière franchie, une\n\"blague\" qui pique - et grandit. Il est important de le nommer dès le début, car le contrôle coercitif est en soi une forme de\nabus et un signe avant-coureur du pire. Il ne s’agit pas ici de culpabilité ; c'est une question d'honnêteté et de changement.",
-      "deep": "**Si vous en reconnaissez certains en vous-même, cette prise de conscience est un point de départ et non une condamnation à perpétuité.**\nLes gens peuvent changer avec de réels efforts et une aide appropriée. Contacter un programme dédié aux hommes\nQui veut cesser d'être dominateur ou violent est un signe de force et non de faiblesse. Parlez à un\nprofessionnel, un médecin ou un service de changement de comportement pour hommes.\n\nSi **c'est** celle qui est en danger, ou si vous vous inquiétez pour quelqu'un, encouragez-la et soutenez-la à atteindre\naider - selon ses conditions, jamais en prenant le relais.\n\n**Où obtenir de l'aide**\n- En cas d'urgence ou si quelqu'un est en danger immédiat, appelez votre numéro d'urgence local\n  (**112** en Italie et dans une grande partie de l'Europe ; **911** aux États-Unis).\n- **Italie — 1522** : la ligne d'assistance nationale contre la violence et le harcèlement. Gratuit, 24h/24 et 7j/7, anonyme et\n  multilingue, géré par le Département pour l'Égalité des Chances. Il guide également les gens vers les locaux\n  centres anti-violence (centri antiviolenza).\n- Centres anti-violence et programmes de changement de comportement des hommes (en Italie, \"centri per uomini autori di\n  violenza\") offrent un accompagnement confidentiel au changement.",
-      "when_to_see_doctor": null,
-      "red_flags": "Signes avant-coureurs d’un comportement contrôlant ou abusif – à prendre au sérieux chez vous-même ou dans une relation :\n\n- **Surveillance ou isolement** : vérifier son téléphone, suivre sa position ou la couper de\n  amis et famille.\n- **Contrôle des choix** : l'argent, ce qu'elle porte, où elle va, qui elle voit.\n- **Jalousie présentée comme de l'amour**, accusations constantes ou besoin de savoir où elle se trouve à tout moment.\n- **Les dénigrements, les reproches ou le fait de lui faire se sentir effrayé**, coupable ou \"marcher sur des œufs\".\n- **Pression ou menaces** concernant le sexe, la rupture ou l'automutilation pour obtenir la conformité.\n- **Toute force physique, intimidation ou peur.** Si cela est présent, il s'agit d'un abus - contactez l'aide\n  ci-dessus. Il n'y a jamais d'excuse et ce n'est jamais de sa faute."
-    },
-    "supporting-her-period": {
-      "title": "La soutenir pendant ses règles",
-      "aliases": [
-        "aider pendant ses règles",
-        "accompagnement périodique des partenaires",
-        "soins menstruels"
-      ],
-      "glance": "Les règles peuvent entraîner de réelles douleurs et fatigues : de petits soins pratiques font une grande différence.",
-      "overview": "Une période ne se limite pas à quelques jours de saignement ; pour beaucoup, cela s'accompagne de crampes, de maux de dos, de maux de tête,\nfatigue et manque d'énergie. Les douleurs menstruelles sont courantes et peuvent être véritablement épuisantes - ce n'est pas un problème.\nexagération. Traitez-le comme vous traiteriez n'importe quel partenaire malade : avec une gentillesse pratique.\n\nNormalisez-le aussi. Les règles ne sont pas dégoûtantes, embarrassantes ou taboues. Être à l'aise pour acheter des serviettes ou\ndes tampons, en garder à la maison ou lui donner une bouillotte sans chichi lui dit qu'elle est en sécurité et\npris en charge.",
-      "deep": "Des choses simples qui aident :\n\n- **Chaleur et repos.** Une bouillotte ou un coussin chauffant sur le bas du ventre soulage les crampes ; offrir un calme\n  le soir.\n- **Enlevez les choses de son assiette.** Cuisinez, rangez, faites les courses, conduisez-la – l'aide pratique est plus difficile à résoudre\n  que des mots.\n- **Gardez les fournitures.** Sachez ce qu'elle utilise et gardez un stock pour qu'une journée chargée ne soit jamais une crise.\n- **Antalgiques et nourriture réconfortante** si elle en veut ; son choix.\n- **Ne faites pas pression pour avoir du sexe ou de l'énergie qu'elle n'a pas.** La proximité peut être un câlin sur le canapé.",
-      "when_to_see_doctor": "Encouragez-la à consulter un médecin (et proposez-lui de l'accompagner) si les douleurs menstruelles sont **sévères, s'aggravent,\nou l'arrêter de la vie quotidienne**, si les règles sont **très abondantes** (tremper une protection toutes les heures,\nlarge clots), or if pain is new and unusual — these can point to conditions like endometriosis that\nméritent des soins appropriés.",
-      "red_flags": null
-    },
-    "the-premenstrual-days": {
-      "title": "Les jours prémenstruels",
-      "aliases": [
-        "PMS pour les partenaires",
-        "la soutenir avant ses règles",
-        "soutien prémenstruel",
-        "soutien à la phase lutéale"
-      ],
-      "glance": "Dans les jours qui précèdent ses règles, elle peut se sentir plus fatiguée, plus tendre ou plus déprimée : affrontez-le avec patience et sans plaisanter.",
-      "overview": "Environ une semaine avant les règles, de nombreuses personnes présentent des symptômes prémenstruels : changements d'humeur, irritabilité.\nou sensation de déprime, fatigue, seins douloureux, ballonnements, maux de tête ou troubles du sommeil. C'est très courant\net c'est réel – motivé par le changement hormonal naturel de la phase lutéale, et non par sa « réaction excessive ».\n\nPour un plus petit nombre de personnes, la mauvaise humeur est grave (une condition appelée PMDD) et mérite une réelle attention.\nsoutien et soins médicaux. Quoi qu'il en soit, votre travail ne consiste pas à la diagnostiquer ou à la soigner, mais à être stable et\ngentil.\n\nLa chose la plus dommageable qu'un partenaire puisse faire ici est de l'utiliser comme une arme : \"vous êtes juste en train de faire du PMS\", lever les yeux au ciel,\nou traiter ses sentiments comme invalides à cause du rendez-vous. Cela la renvoie et ajoute de la souffrance à un problème difficile.\nsemaine. Ses sentiments comptent toujours, même lorsque les hormones font partie du tableau.",
-      "deep": "Ce qui aide réellement de nos jours :\n\n- **Allégez sa charge.** Effectuez les tâches ménagères, la cuisine ou la liste mentale de choses à faire sans qu'on vous le demande.\n- **Réconfort, pas correction.** Offrez-lui de la chaleur, du repos, une bouillotte, son plat préféré — et laissez-le\n  elle ressent ce qu'elle ressent.\n- **Écoutez d'abord.** Si elle est bouleversée, \"ça a l'air vraiment dur\" vaut \"calme-toi\" à chaque fois.\n- **Ne comptez pas les scores.** Une journée plus difficile n'est pas une dette qu'elle vous doit plus tard.\n- **Demandez ce dont elle a besoin** : certains veulent de la proximité, d'autres veulent de l'espace. Les deux vont bien ; respecte sa réponse.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "understanding-her-cycle": {
-      "title": "Comprendre son cycle",
-      "aliases": [
-        "guide partenaire du cycle",
-        "cycle pour les partenaires",
-        "comment fonctionne son cycle",
-        "soutenir son cycle"
-      ],
-      "glance": "Son corps traverse un cycle mensuel composé de quatre phases : connaître les bases vous aide à la soutenir sans deviner.",
-      "overview": "Le cycle menstruel a un rythme à peu près mensuel, en moyenne environ 28 jours mais souvent entre 21 et 21 jours.\nà 35 ans, et normal pour elle est tout ce qui est régulier pour *elle*. Il se déroule en quatre phases : la **menstruelle**\nphase (ses règles), la phase **folliculaire**, l'**ovulation** vers le milieu et la **phase lutéale**\nphase avant la période suivante.\n\nL'énergie, l'humeur, le sommeil et le désir peuvent changer au cours de ces phases parce que les hormones montent et descendent.\nla biologie, pas un défaut de caractère et pas quelque chose pour la taquiner. Certaines personnes ressentent une véritable baisse\njours avant leurs règles ; d’autres le remarquent à peine. Il n’existe pas une seule « bonne » façon de ressentir.\n\nVous n'avez pas besoin de devenir un expert. Ce qui aide le plus est simple : savoir à peu près où elle en est dans son cycle\n(cette application peut vous le montrer, avec sa permission), attendez-vous à ce que certains jours soient plus difficiles que d'autres et demandez\nlui ce que *elle* trouve utile plutôt que de supposer.",
-      "deep": "Quelques choses à savoir pour que les mythes ne comblent pas les lacunes :\n\n- **« Sur ses règles » n'est pas une insulte ni une explication pour être en désaccord avec elle.** Utiliser son cycle pour\n  rejeter ses sentiments (« tu es juste hormonal ») est irrespectueux et c'est généralement une erreur. Ses raisons\n  sont toujours ses raisons.\n- **Le cycle affecte plus que les règles.** Crampes, maux de tête, seins sensibles, manque d'énergie ou moins\n  l'humeur peut en faire partie. L’aide pratique vaut les conseils.\n- **Le suivi lui appartient.** Si elle partage son cycle avec vous, traitez-le comme une fenêtre sur ce qu'elle pourrait être.\n  sentiment - une invitation à être gentille, jamais un outil pour la surveiller ou la contrôler.\n- **En cas de doute, demandez.** \"Comment vous sentez-vous aujourd'hui ? Que puis-je faire ?\" vaut plus que n’importe quel graphique.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "child-abuse": {
-      "title": "Maltraitance des enfants et protection des enfants",
-      "aliases": [
-        "maltraitance des enfants",
-        "maltraitance des enfants",
-        "sécurité des enfants",
-        "Protéger un enfant",
-        "Inquiète pour un enfant",
-        "négligence"
-      ],
-      "glance": "Si vous craignez qu’un enfant soit victime de maltraitance ou de négligence, il est légitime de demander conseil — vous n’avez pas besoin d’en être certaine.",
-      "overview": "La maltraitance des enfants — ou violence envers les enfants — désigne tout préjudice causé à une personne de moins de 18 ans. Elle englobe les violences physiques, sexuelles et psychologiques, ainsi que la négligence (le fait de ne pas répondre aux besoins fondamentaux d’un enfant). Ce phénomène est malheureusement courant, il peut causer des séquelles à vie, et l’enfant n’en est jamais responsable.\n\nVous vous faites peut-être du souci pour un enfant de votre entourage, ou pour un enfant que vous avez remarqué. Vous n’avez pas besoin d’être sûre de vous, ni d’avoir de preuves, pour agir face à cette inquiétude : faire confiance à votre intuition et demander conseil est exactement ce qu’il faut faire, et cela peut protéger un enfant.\n\nEt si vous avez vous-même été victime de maltraitance pendant votre enfance, sachez que ce qui vous est arrivé n’était en aucun cas de votre faute, et qu’une aide est également à votre disposition, quel que soit votre âge.",
-      "deep": null,
-      "when_to_see_doctor": "- Si vous vous inquiétez pour un enfant, vous pouvez contacter **les services de protection de l'enfance / les services sociaux**, une **ligne d'assistance dédiée à la protection de l'enfance**, ou **un médecin généraliste, une infirmière visiteuse ou l'école de l'enfant** pour obtenir des conseils — en toute confidentialité.\n- Vous ne « réagissez pas de manière excessive » en posant cette question. Mieux vaut vérifier que d’attendre.",
-      "red_flags": "- Si un enfant est en **danger immédiat** ou gravement blessé, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada."
-    },
-    "coercive-control": {
-      "title": "Contrôle coercitif",
-      "aliases": [
-        "contrôle coercitif",
-        "comportement contrôlant",
-        "violence psychologique",
-        "violence psychologique",
-        "isolement",
-        "violence financière",
-        "manipulation psychologique"
-      ],
-      "glance": "Le contrôle coercitif est un ensemble de comportements dominateurs — isolement, surveillance, menaces — qui constitue une forme reconnue de maltraitance.",
-      "overview": "Le contrôle coercitif est une forme de maltraitance qui s'exerce par le contrôle plutôt que, ou en plus, par des violences physiques. Il s'agit d'un schéma — et non d'une simple dispute — dans lequel une personne limite progressivement la liberté et l'estime de soi d'une autre.\n\nCela peut se traduire par une coupure des liens avec les amis et la famille, une surveillance ou une restriction de l’utilisation du téléphone, des déplacements ou des dépenses, des impositions sur la façon de s’habiller ou de se comporter, ou encore le fait de vivre sous le poids de critiques, de menaces ou d’intimidations constantes. Comme il n’y a parfois pas de traces de coups, cela peut être difficile à identifier, et les autres peuvent ne pas s’en rendre compte — mais cela est reconnu comme de la maltraitance, et cela peut être tout aussi néfaste que la violence physique.\n\nSi vous vous reconnaissez dans certaines de ces situations, cela ne signifie pas que vous êtes trop sensible ou que vous en êtes responsable. Un comportement contrôlant est un choix que fait l’autre personne. Le comprendre pour ce qu’il est peut être la première étape vers l’obtention d’un soutien.",
-      "deep": "Le contrôle coercitif s’installe souvent progressivement, ce qui explique en partie pourquoi il est difficile à détecter de l’intérieur : les petites formes de contrôle deviennent la norme, et le doute de soi s’installe. Au fil du temps, cela mine la santé mentale. En discuter avec une personne formée à reconnaître ces schémas peut vous aider à y voir plus clair et à réfléchir à la suite que vous souhaitez donner à la situation, sans pression.",
-      "when_to_see_doctor": "- Un centre de lutte contre la violence ou une ligne d'assistance (en Italie, le **1522**) peut vous permettre de parler de ce que vous vivez, en toute confidentialité et gratuitement, et vous aider à comprendre les solutions qui s'offrent à vous — vous n'avez pas besoin d'être en danger physique pour demander de l'aide.\n- Un médecin généraliste ou un conseiller peut également vous apporter son soutien et vous orienter vers des services spécialisés.",
-      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** est un service gratuit, disponible 24 heures sur 24, anonyme et multilingue — par téléphone ou par chat."
-    },
-    "economic-abuse": {
-      "title": "Violence économique",
-      "aliases": [
-        "violence économique",
-        "violence financière",
-        "gestion de l'argent",
-        "Gérer ses finances",
-        "une dette à mon nom"
-      ],
-      "glance": "La violence économique consiste à contrôler l’accès d’une personne à l’argent, au travail ou aux ressources — il s’agit d’une forme de violence reconnue.",
-      "overview": "La violence économique se manifeste lorsqu’une personne contrôle l’accès d’une autre à l’argent et aux biens que celui-ci permet d’acquérir. Il s’agit d’une forme de comportement contrôlant, qui va souvent de pair avec d’autres types de violence.\n\nCela peut se traduire par le contrôle de toutes les dépenses ou le fait de vous obliger à rendre compte de chaque centime, la confiscation de votre salaire ou de vos allocations, le fait de contracter des dettes à votre nom, le fait de vous priver de l’accès à vos comptes bancaires ou à vos documents, ou encore le fait de vous empêcher de travailler ou d’étudier. Comme cela peut priver une personne des moyens de partir ou de gérer son quotidien, c’est l’une des raisons pour lesquelles la violence peut donner l’impression d’être un piège.\n\nSi certaines de ces situations vous semblent familières, cela ne signifie pas que vous êtes « nulle en gestion financière » ni que vous êtes à blâmer. Contrôler les ressources d’une autre personne est un choix que fait cette dernière — et cela est reconnu comme une forme de maltraitance.",
-      "deep": null,
-      "when_to_see_doctor": "- Les services de lutte contre la violence peuvent également vous aider dans ce domaine — non seulement en matière de sécurité, mais aussi pour les démarches pratiques et financières, en toute confidentialité et gratuitement (en Italie, la ligne d’assistance **1522** peut vous orienter vers des structures d’aide locales).\n- Un plan de sécurité peut consister à mettre discrètement de côté un peu d’argent, à conserver certains documents essentiels et à noter les numéros importants.",
-      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** — un service gratuit, accessible 24 heures sur 24, anonyme et multilingue — peut vous aider par téléphone ou par chat."
-    },
-    "getting-help": {
-      "title": "Où trouver de l'aide",
-      "aliases": [
-        "obtenir de l’aide",
-        "Qui contacter",
-        "lignes d'assistance",
-        "numéros utiles",
-        "centre de lutte contre la violence",
-        "1522",
-        "numéros d'urgence"
-      ],
-      "glance": "Une aide gratuite et confidentielle est disponible — en cas d’urgence, appelez le numéro d’urgence local ; en Italie, composez le 1522 à tout moment.",
-      "overview": "Si vous êtes victime de maltraitance, vous n’avez pas à y faire face seule, et le fait de demander de l’aide ne vous engage à rien. Il existe des personnes dont le métier consiste justement à vous écouter et à vous aider, en toute confidentialité et gratuitement.\n\nPlusieurs types d'aide coexistent :\n\n- **Services d'urgence** — en cas de danger immédiat, appelez le numéro d'urgence local (ci-dessous).\n- **Une ligne d'assistance nationale** — en Italie, le **1522**, ligne d'assistance gratuite contre la violence et le harcèlement : ouverte 24 heures sur 24, anonyme, disponible en plusieurs langues, par téléphone ou par chat en ligne.\n- **Centres anti-violence** (en Italie, *centri antiviolenza*) — services locaux proposant un accompagnement gratuit et confidentiel, une aide à la mise en place de mesures de sécurité, ainsi qu’une assistance juridique et psychologique.\n- **Services de santé** — un médecin généraliste ou le service des urgences d’un hôpital, où le personnel est de plus en plus formé pour reconnaître les cas de maltraitance et vous orienter vers des structures d’aide.\n- **Des personnes en qui vous avez confiance** — un(e) ami(e) ou un membre de votre famille avec qui vous vous sentez en sécurité.\n\nVous pouvez commencer par ce qui vous semble le plus faisable, et vous n'avez pas besoin d'avoir déjà pris de décision.",
-      "deep": null,
-      "when_to_see_doctor": "- Vous pouvez vous confier en toute confiance à un **médecin généraliste ou à un hôpital** au sujet de ce qui vous arrive ; ils pourront soigner vos blessures et vous orienter vers des services spécialisés.\n- Si vous avez plus de facilité à écrire qu’à parler, le **chat 1522** est une autre option.",
-      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- **Italie :** **1522** (appel gratuit, 24 h/24, 7 j/7, anonyme, multilingue — par téléphone ou par chat).\n- Les numéros d'aide varient d'un pays à l'autre. L'application peut afficher les numéros correspondant à votre pays, et **findahelpline.com** répertorie les numéros d'aide contre la violence dans le monde entier (le site détecte votre pays et dispose d'un bouton de sortie rapide). Si vous êtes dans l'Union européenne, le **112** fonctionne partout."
-    },
-    "recognising-abuse": {
-      "title": "Reconnaître une relation abusive",
-      "aliases": [
-        "Reconnaître les violences",
-        "relation abusive",
-        "violence conjugale",
-        "violence conjugale",
-        "Signes de maltraitance",
-        "Suis-je victime de maltraitance ?"
-      ],
-      "glance": "La violence peut être physique, sexuelle, psychologique ou de contrôle — et ce n’est jamais la faute de la personne qui en est victime.",
-      "overview": "La violence dans un couple n’est pas uniquement physique. Elle peut prendre plusieurs formes, souvent combinées : violence physique, contrainte sexuelle, violence émotionnelle ou psychologique, et comportements de contrôle — un partenaire qui décide où vous allez, qui vous voyez ou ce que vous pouvez faire. Chacune de ces situations peut constituer un acte de violence, même en l’absence de blessures visibles.\n\nCe phénomène est plus courant que beaucoup ne le pensent. Dans le monde, environ une femme sur trois subit des violences physiques ou sexuelles au cours de sa vie, le plus souvent de la part d’un partenaire ; la situation est similaire en Italie. Si vous êtes confrontée à cette réalité, sachez que vous n’êtes pas seule et que vous n’en êtes en aucun cas responsable.\n\nIl peut être difficile de mettre des mots sur ce que l’on vit : les violences s’entremêlent souvent à des moments agréables, à des excuses ou à des promesses de changement, et elles peuvent s’installer si progressivement qu’elles finissent par paraître normales. Faire confiance à votre intuition qui vous dit que quelque chose ne va pas est une raison valable pour demander de l’aide. Vous n’avez pas besoin d’être certaine de votre cas, ni d’attendre que la situation devienne « suffisamment grave » pour en parler à quelqu’un.",
-      "deep": "Au-delà de ses différentes formes, la violence suit généralement un schéma dans lequel une personne cherche à exercer un pouvoir et un contrôle sur une autre, et elle peut s’aggraver avec le temps. Cela a de graves répercussions sur la santé : cela est lié à l'anxiété, à la dépression, aux troubles du sommeil et à des séquelles physiques à long terme. Rien de tout cela ne signifie que tu es faible ou que tu es responsable ; cela signifie simplement que ce que tu vis est néfaste, et qu’il existe des ressources pour t’aider à y réfléchir en toute sécurité et à ton rythme.",
-      "when_to_see_doctor": "- Vous pouvez parler à quelqu’un en toute confiance dès que vous vous sentirez prête : un médecin généraliste ou une infirmière, un centre de lutte contre la violence ou une ligne d’écoute (en Italie, le **1522**, gratuit et accessible à tout moment). Vous n’avez pas besoin d’apporter de preuve, d’avoir un plan ou d’avoir pris une décision au préalable ; ces personnes sont là pour vous écouter et vous aider à comprendre les options qui s’offrent à vous.\n- Un professionnel de santé peut également soigner d’éventuelles blessures et vous orienter en toute discrétion vers une aide spécialisée.",
-      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** — la ligne d'assistance nationale gratuite contre la violence et le harcèlement — est accessible 24 heures sur 24, de manière anonyme, par téléphone ou par chat, dans plusieurs langues."
-    },
-    "safety-plan": {
-      "title": "Élaborer un plan de sécurité",
-      "aliases": [
-        "plan de sécurité",
-        "Rester en sécurité",
-        "Rester en sécurité",
-        "plan de sécurité",
-        "partir en toute sécurité"
-      ],
-      "glance": "Un plan de sécurité consiste en quelques mesures pratiques pour vous aider à rester en sécurité — et des services spécialisés peuvent vous aider à en élaborer un.",
-      "overview": "Un plan de sécurité consiste simplement à anticiper les moyens de vous protéger (ainsi que vos enfants, le cas échéant). Il ne s’agit pas de décider de partir ou de rester, mais d’être un peu mieux préparée, quel que soit votre choix.\n\nPour certaines personnes, il est utile de prévoir discrètement quelques éléments : une personne de confiance au courant de la situation, les documents importants et les numéros à joindre, un petit sac contenant l'essentiel, une idée des itinéraires les plus sûrs pour quitter le domicile, ou encore un mot ou un signal permettant d'indiquer à quelqu'un que vous avez besoin d'aide. Ce qui est pertinent dépend entièrement de votre situation personnelle.\n\nVous n’avez pas à gérer cela toute seule, et il est souvent plus sûr de ne pas le faire. Les services de lutte contre la violence ont l’habitude d’élaborer des plans de sécurité avec les personnes concernées, en toute confidentialité et gratuitement — y compris pour la période précédant et suivant le départ, qui peut être un moment à haut risque et qu’il vaut mieux planifier avec de l’aide plutôt que dans la précipitation.",
-      "deep": null,
-      "when_to_see_doctor": "- Contactez un centre de lutte contre la violence ou une ligne d’écoute (en Italie, le **1522**) pour établir un plan adapté à votre situation : ces structures s’en occupent tous les jours, en toute confidentialité, et peuvent vous aider à prendre des mesures pratiques, juridiques et émotionnelles.\n- Si vous consignez ce qui se passe, conservez ces informations dans un endroit privé et sûr.",
-      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** — un service gratuit, disponible 24h/24, anonyme et multilingue — peut apporter de l’aide par téléphone ou par chat, notamment pour mettre en place des mesures d’urgence en matière de sécurité."
-    },
-    "sexual-violence": {
-      "title": "Violences sexuelles et consentement",
-      "aliases": [
-        "violences sexuelles",
-        "agression sexuelle",
-        "viol",
-        "consentement",
-        "abus sexuels",
-        "non consensuel"
-      ],
-      "glance": "La violence sexuelle désigne tout acte sexuel commis sans consentement — et la responsabilité n’incombe en aucun cas à la personne qui en a été victime.",
-      "overview": "La violence sexuelle désigne tout acte sexuel, ou toute tentative d’en commettre un, sans consentement ou par la contrainte. Elle inclut le viol et tout contact sexuel non désiré, et peut être commise par n’importe qui : un inconnu, une connaissance, un partenaire ou un conjoint.\n\nLe consentement est au cœur de tout cela. Le consentement signifie accepter librement, et cela n’est pas possible lorsqu’une personne est endormie, inconsciente, ivre ou sous l’emprise de drogues, qu’il s’agit d’un enfant, ou qu’elle subit des pressions, des menaces ou qu’elle a peur. Il peut être retiré à tout moment. C’est pourquoi la violence sexuelle n’est **jamais** la faute de la personne qui en a été victime — que ce soit à cause de ce qu’elle portait, du fait qu’elle ait bu, qu’elle soit restée figée au lieu de se défendre, ou qu’elle connaisse ou non l’agresseur.\n\nSi cela vous est arrivé, vous pouvez compter sur un soutien, que ce soit récent ou datant de longtemps. On vous croit, et c'est à vous de décider de la suite.",
-      "deep": null,
-      "when_to_see_doctor": "- Vous pouvez vous rendre dans un **centre de santé, un hôpital ou un centre spécialisé dans les agressions sexuelles**, où l'on pourra prendre soin de vous, soigner vos blessures et, si vous le souhaitez, vous aider à porter plainte et à conserver les preuves.\n- Certaines mesures de santé sont **soumises à des délais** — par exemple la contraception d'urgence ou la prévention des infections — ; il peut donc être utile de demander de l'aide **rapidement**. Mais il n'y a pas de délai pour obtenir de l'aide, et c'est toujours à vous de décider si vous souhaitez signaler un cas.",
-      "red_flags": "- Si vous êtes en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- Après une agression récente, un **hôpital ou un service spécialisé peut vous venir en aide de toute urgence**. En Italie, le **1522** (gratuit, accessible 24 h/24 et 7 j/7, anonyme, multilingue — par téléphone ou chat) peut vous orienter vers les soins adaptés."
-    },
-    "stalking": {
-      "title": "Harcèlement",
-      "aliases": [
-        "harcèlement",
-        "être victime de harcèlement",
-        "harcèlement",
-        "attention indésirable",
-        "quelqu'un qui me suit",
-        "cyberharcèlement"
-      ],
-      "glance": "Le harcèlement consiste en une attention répétée et non désirée qui vous fait ressentir de la peur ou un sentiment d’insécurité — et il est pris très au sérieux.",
-      "overview": "Le harcèlement obsessionnel est un comportement indésirable et répété de la part d’une personne qui vous fait vous sentir effrayée, surveillée ou en danger. Il peut s’agir d’être suivie, de voir quelqu’un se présenter là où vous vous trouvez, de recevoir des appels ou des messages incessants, de recevoir des cadeaux non sollicités, d’être surveillée en ligne ou via votre téléphone, ou encore de subir des menaces. Ce comportement est souvent le fait d’un ex-partenaire ou d’une personne que vous connaissez, mais ce n’est pas toujours le cas.\n\nLa peur que cela provoque est légitime, même si chaque acte pris isolément peut sembler « insignifiant » aux yeux des autres : c’est le schéma qui se répète, et ce que cela vous fait ressentir, qui comptent. Le harcèlement est reconnu comme une forme de maltraitance et, dans de nombreux pays, il s’agit d’un délit. Vous n’y êtes pour rien, et vous n’êtes pas obligée de vous en accommoder.\n\nSi cela ne présente aucun danger, il peut être utile de conserver des traces pour plus tard : dates et heures, captures d’écran des messages et description des faits. Vous n’avez pas à déterminer seule si cela « compte » : les services d’aide peuvent vous aider à y voir plus clair et à réfléchir aux options qui s’offrent à vous.",
-      "deep": null,
-      "when_to_see_doctor": "- Contactez la **police** pour signaler un cas de harcèlement, ainsi qu’une ligne d’assistance contre la violence ou le harcèlement pour obtenir de l’aide et des conseils (en Italie, le **1522** est le numéro à composer en cas de violence **et** de harcèlement).\n- Conserver des preuves et établir un plan de sécurité, avec l’aide d’un service spécialisé, peuvent tous deux faire une réelle différence.",
-      "red_flags": "- Si vous vous sentez en **danger immédiat**, contactez immédiatement les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** — un service gratuit, disponible 24 heures sur 24, anonyme et multilingue — peut vous aider par téléphone ou par chat."
-    },
-    "supporting-someone": {
-      "title": "Accompagner une personne victime de violences",
-      "aliases": [
-        "soutenir quelqu'un",
-        "Aider une amie",
-        "Comment aider",
-        "une personne victime de maltraitance",
-        "comment apporter son soutien"
-      ],
-      "glance": "Si une personne de votre entourage est victime de violences, l'écouter sans la juger — et savoir vers qui l'orienter — peut l'aider.",
-      "overview": "Il est difficile de se rendre compte qu’un de vos proches est peut-être victime de maltraitance, et vouloir l’aider est un réflexe naturel. Ce que vous pouvez offrir de plus utile est souvent ce qu’il y a de plus simple.\n\nÉcoutez-les et croyez-les. Laissez-les parler à leur rythme, sans les juger, sans les blâmer ni leur demander ce qu'elles ont fait pour provoquer cette situation. Dites-leur clairement que ce n'est pas de leur faute et qu'elles ne méritent pas cela. Essayez de ne pas leur dire quoi faire ni de les pousser à partir : c’est à elles de décider de partir, et le faire précipitamment peut en réalité accroître le danger — ce qui les aide le plus, c’est de se sentir soutenues et de ne pas se sentir seules.\n\nGardez confidentielles les informations qu’elle vous confie. Aidez-la en douceur à trouver un soutien spécialisé lorsqu’elle sera prête — une ligne d’écoute comme le **1522** en Italie, ou un centre local de lutte contre la violence — et proposez-lui une aide pratique, comme rechercher ensemble les numéros ou être à ses côtés lorsqu’elle passe son appel. Et prenez également soin de vous ; accompagner quelqu’un dans cette épreuve peut être très éprouvant.",
-      "deep": null,
-      "when_to_see_doctor": "- Encouragez-la (sans lui mettre la pression) à contacter une ligne d’aide ou un centre de lutte contre la violence, qui pourra vous guider toutes les deux sur la marche à suivre. Vous pouvez lui proposer de l’aider à passer l’appel ou à trouver le numéro.\n- En cas de blessure, un médecin généraliste ou un hôpital peut aider la personne et la mettre en relation avec des services d’aide.",
-      "red_flags": "- En cas de **danger immédiat**, appeler les services d'urgence : **112** dans l'UE (y compris en Italie), **999** au Royaume-Uni, **911** aux États-Unis et au Canada.\n- En Italie, le **1522** (gratuite, accessible 24h/24 et 7j/7, anonyme et multilingue — par téléphone ou par chat) peut également vous conseiller sur la manière d’aider quelqu’un."
     }
   },
   "categories": {
@@ -1180,8 +1231,8 @@
       "summary": "Douleurs, saignements légers, pertes, humeur… Ce que votre corps essaie peut-être de vous dire."
     },
     "conditions": {
-      "title": "Conditions",
-      "summary": "PCOSe, endométriose, fibromes et bien d’autres maladies — expliquées, avec des sources."
+      "title": "Pathologies",
+      "summary": "SOPK, endométriose, fibromes et bien d’autres maladies — expliquées, avec des sources."
     },
     "sexual-and-intimate-health": {
       "title": "Santé sexuelle et intime",

@@ -120,16 +120,33 @@
         "alimentar o seu bebé"
       ],
       "glance": "O leite materno protege o bebé contra infeções e adapta-se à medida que este cresce — e qualquer quantidade traz benefícios.",
-      "overview": "O leite materno é um alimento natural e completo para o bebé: fornece os nutrientes, as vitaminas e os minerais\nde que necessita e vai-se adaptando ao longo do tempo à fase de desenvolvimento do bebé. Além disso, ajuda a proteger contra infeções\ne doenças e proporciona alguns benefícios para a saúde a longo prazo.\n\nExistem também benefícios para a mãe — a amamentação está associada a um risco mais baixo de cancro da mama\ne do ovário, entre outros — e, em geral, quanto mais e durante mais tempo\namamentar, maiores são os benefícios. É importante referir que **qualquer** quantidade de leite materno vale a pena; não é\numa questão de «tudo ou nada».\n\nAmamentar um bebé também pode ser mais difícil do que o esperado no início, e isso é comum. Há ajuda disponível — da\nsua parteira, do profissional de saúde que a acompanha e do apoio à amamentação dNHS — por isso, procurar ajuda logo no início, se as coisas não estiverem a correr\nbem, é uma boa ideia.",
+      "overview": "O leite materno é um alimento natural e completo para o bebé: fornece os nutrientes, as vitaminas e os minerais\nde que necessita e vai-se adaptando ao longo do tempo à fase de desenvolvimento do bebé. Além disso, ajuda a proteger contra infeções\ne doenças e proporciona alguns benefícios para a saúde a longo prazo.\n\nExistem também benefícios para a mãe — a amamentação está associada a um risco mais baixo de cancro da mama\ne do ovário, entre outros — e, em geral, quanto mais e durante mais tempo\namamentar, maiores são os benefícios. É importante referir que **qualquer** quantidade de leite materno vale a pena; não é\numa questão de «tudo ou nada».\n\nAmamentar um bebé também pode ser mais difícil do que o esperado no início, e isso é comum. Há ajuda disponível — da\nsua parteira, do profissional de saúde que a acompanha e do apoio à amamentação do NHS — por isso, procurar ajuda logo no início, se as coisas não estiverem a correr\nbem, é uma boa ideia.",
       "deep": null,
       "when_to_see_doctor": "- Peça ajuda à sua **parteira ou assistente de saúde** logo no início, se a amamentação for dolorosa ou difícil, ou\n  se estiver preocupada por o seu bebé não estar a receber alimento suficiente — o apoio pode fazer toda a diferença.\n- A forma como amamenta o seu bebé é uma decisão pessoal, e terá apoio independentemente da sua escolha; o que\n  importa é que você e o seu bebé estejam bem.",
       "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Corrimento castanho",
+      "aliases": [
+        "corrimento castanho",
+        "perdas castanhas",
+        "sangue castanho",
+        "sangue escuro",
+        "corrimento escuro",
+        "menstruação castanha",
+        "spotting castanho"
+      ],
+      "glance": "O corrimento castanho costuma ser um pouco de sangue, muitas vezes nos dias mais leves da menstruação. Perdas castanhas noutras alturas devem ser vistas por um médico.",
+      "overview": "O corrimento castanho é uma pequena quantidade de sangue ou de líquido acastanhado que se nota na roupa interior ou no papel higiénico. Muitas pessoas têm-no em algum momento e, muitas vezes, faz simplesmente parte da menstruação.\n\nO sangue menstrual nem sempre é vermelho vivo. Nos dias de fluxo mais abundante costuma ser vermelho, mas nos dias mais leves pode parecer rosado ou castanho. Por isso, um tom acastanhado nos dias mais leves da menstruação é algo comum e normal.\n\nO castanho também pode aparecer noutras alturas. Chama-se spotting a pequenas manchas de sangue rosado, vermelho ou castanho, e o spotting entre menstruações tem várias causas comuns. A contraceção hormonal, como a pílula, é uma das mais frequentes. Outras incluem pequenas formações dentro ou à volta do útero (como pólipos ou miomas) e infeções como a clamídia. Muito no início da gravidez, algumas pessoas notam umas pequenas perdas de sangue por volta da altura em que a menstruação deveria vir. É o que se chama hemorragia de implantação.\n\nComo as perdas castanhas fora da menstruação podem ter causas diferentes, na maioria pouco graves, o passo mais útil não é tentar adivinhar. É consultar um médico, para saber o que está por trás disso no seu caso.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulte um médico de família ou uma clínica de saúde sexual se tiver **spotting ou sangramento castanho entre menstruações ou depois de relações sexuais**, mesmo que seja ligeiro. Normalmente não é grave, mas vale sempre a pena consultar um médico.\n- Se estiver **grávida, ou se puder estar**, contacte a sua maternidade, um serviço de acompanhamento do início da gravidez ou o **NHS 111** perante qualquer spotting, incluindo castanho, para que a causa possa ser verificada.\n- Consulte um médico de família se notar **qualquer corrimento ou sangramento castanho ou rosado depois da menopausa**, mesmo que seja pouca quantidade ou só tenha acontecido uma vez.\n- Peça aconselhamento a um médico de família, a uma clínica de saúde sexual ou ao **NHS 111** se o seu corrimento **mudar de cor, cheiro ou textura**, ou vier acompanhado de comichão, irritação, dor pélvica ou dor ao urinar.",
+      "red_flags": "- Peça uma consulta **urgente** ao médico de família ou ligue para o **NHS 111** se **tiver falhado recentemente uma menstruação e tiver um sangramento invulgar acompanhado de dor na barriga ou pélvica**. Isto tem de ser visto rapidamente, porque pode ser sinal de uma gravidez ectópica.\n- Se estiver grávida, ligue para o **999** se estiver a sangrar e tiver **dor forte na barriga, dor no ombro, sensação de desmaio, tonturas ou náuseas, ou se o sangramento for abundante** (encharcar um penso higiénico pouco depois de o colocar)."
     },
     "cervical-mucus": {
       "title": "Muco cervical",
       "aliases": [
         "muco cervical",
-        "descarga",
+        "corrimento",
         "corrimento vaginal",
         "secreções cervicais",
         "muco com consistência de clara de ovo"
@@ -141,7 +158,7 @@
       "red_flags": null
     },
     "cervical-screening": {
-      "title": "Rastreio do colo do útero (citrologia)",
+      "title": "Rastreio do colo do útero (citologia)",
       "aliases": [
         "rastreio do colo do útero",
         "esfregaço",
@@ -154,6 +171,39 @@
       "deep": null,
       "when_to_see_doctor": "- O rastreio destina-se a quem **não** apresenta sintomas. Se notar algo que o preocupe\n  entre os rastreios — como, por exemplo, sangramento invulgar (entre menstruações, após relações sexuais ou após a menopausa) —\n  consulte o seu médico de família em vez de esperar pelo próximo convite.\n- Se recebeu um convite e está indecisa ou ansiosa em relação à consulta, vale a pena falar com o seu médico de família ou\n  com a enfermeira do consultório, que lhe podem explicar o que vai acontecer e responder às suas perguntas.",
       "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Abuso infantil e segurança das crianças",
+      "aliases": [
+        "abuso infantil",
+        "maus-tratos infantis",
+        "segurança infantil",
+        "proteger uma criança",
+        "preocupada com uma criança",
+        "negligenciar"
+      ],
+      "glance": "Se estiver preocupada com a possibilidade de uma criança estar a ser maltratada ou negligenciada, é correto procurar aconselhamento — não é necessário ter a certeza.",
+      "overview": "O abuso infantil — ou maus-tratos infantis — consiste em causar danos a qualquer pessoa com menos de 18 anos. Inclui abuso físico, sexual e emocional, bem como negligência (não satisfazer as necessidades básicas da criança). Infelizmente, é comum, pode causar danos para toda a vida e a culpa nunca é da criança.\n\nPode estar preocupada com uma criança que faz parte da sua vida ou com uma criança que chamou a sua atenção. Não precisa de ter a certeza, nem de ter provas, para agir com base nessa preocupação — confiar nela e pedir conselho é exatamente o que se deve fazer, e isso pode proteger uma criança.\n\nE se você própria sofreu abusos na infância, saiba que o dano nunca foi culpa sua e que também há apoio disponível para si, em qualquer idade.",
+      "deep": null,
+      "when_to_see_doctor": "- Se estiver preocupada com uma criança, pode contactar **os serviços de proteção à infância / serviços sociais**, uma **linha de apoio dedicada à proteção à infância** ou um **médico de família, um profissional de saúde comunitário ou a escola da criança** para obter aconselhamento — de forma confidencial.\n- Não estás a «exagerar» ao perguntar. É melhor verificar do que esperar.",
+      "red_flags": "- Se uma criança estiver em **perigo imediato** ou gravemente ferida, contacte imediatamente os serviços de emergência: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá."
+    },
+    "coercive-control": {
+      "title": "Controlo coercivo",
+      "aliases": [
+        "controlo coercivo",
+        "comportamento controlador",
+        "abuso emocional",
+        "abuso psicológico",
+        "isolamento",
+        "abuso financeiro",
+        "manipulação psicológica"
+      ],
+      "glance": "O controlo coercivo é um padrão de comportamento controlador — isolamento, vigilância, ameaças — que constitui uma forma reconhecida de abuso.",
+      "overview": "O controlo coercivo é uma forma de abuso que se manifesta através do controlo, em vez de, ou além de, danos físicos. Trata-se de um padrão — e não de uma discussão isolada — em que uma pessoa limita gradualmente a liberdade e a identidade da outra.\n\nPode manifestar-se como o isolamento dos amigos e da família, o controlo ou a restrição do telemóvel, dos movimentos ou das despesas, o facto de lhe dizerem o que vestir ou como se comportar, ou de viver sob críticas, ameaças ou intimidação constantes. Como pode não haver hematomas, pode ser difícil identificá-lo, e os outros podem não o perceber — mas é reconhecido como abuso e pode ser tão prejudicial quanto a violência física.\n\nSe reconheceres alguma destas situações, isso não significa que sejas demasiado sensível ou que tenhas sido tu a provocar a situação. O comportamento controlador é uma escolha que a outra pessoa faz. Compreendê-lo pelo que realmente é pode ser o primeiro passo para obter apoio.",
+      "deep": "O controlo coercivo desenvolve-se frequentemente de forma gradual, o que contribui para que seja difícil de identificar a partir de dentro — pequenos controlos tornam-se normais e a insegurança cresce. Com o tempo, isso vai afetando a saúde mental. Conversar sobre o assunto com alguém com formação para compreender estes padrões pode ajudá-la a ver a situação com mais clareza e a pensar no que quer fazer a seguir, sem pressão.",
+      "when_to_see_doctor": "- Um centro de apoio contra a violência ou uma linha de apoio (em Itália, **1522**) pode ouvir o que estás a passar, de forma confidencial e gratuita, e ajudar-te a compreender as tuas opções — não precisas de estar em perigo físico para procurares ajuda.\n- Um médico de clínica geral ou um conselheiro também pode apoiar-te e indicar-te serviços especializados.",
+      "red_flags": "- Se estiver em **perigo imediato**, contacte imediatamente os serviços de emergência: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o **1522** é gratuito, está disponível 24 horas por dia, é anónimo e multilingue — por telefone ou chat."
     },
     "combined-pill": {
       "title": "A pílula combinada",
@@ -181,7 +231,7 @@
         "dores da gravidez"
       ],
       "glance": "A gravidez traz consigo muitas pequenas dores e alterações — na sua maioria normais, embora algumas mereçam uma consulta médica.",
-      "overview": "A gravidez traz muitas mudanças ao seu corpo e vem acompanhada de uma longa lista de pequenos incómodos do dia a dia. A maioria\né comum e não é sinal de que algo esteja errado — fazem simplesmente parte do processo de gestação de um bebé.\n\nEntre as mais comuns contam-se dores nas costas, azia e indigestão, obstipação, hemorróidas, tornozelos, pés\ne dedos inchados, cansaço e sono interrompido, cãibras nas pernas, dores de cabeça, sensação de desmaio e mais corrimento do que\no habitual. Muitos aliviem-se com pequenos cuidados de conforto, e a sua parteira pode sugerir o que é seguro se algo a\nestiver a incomodar.\n\nO importante é saber quais as mudanças que são normais e quais as que merecem atenção —\nporque alguns sintomas, embora menos comuns, precisam de ser avaliados em vez de se esperar que desapareçam por si próprios.",
+      "overview": "A gravidez traz muitas mudanças ao seu corpo e vem acompanhada de uma longa lista de pequenos incómodos do dia a dia. A maioria\né comum e não é sinal de que algo esteja errado — fazem simplesmente parte do processo de gestação de um bebé.\n\nEntre as mais comuns contam-se dores nas costas, azia e indigestão, obstipação, hemorróidas, tornozelos, pés\ne dedos inchados, cansaço e sono interrompido, cãibras nas pernas, dores de cabeça, sensação de desmaio e mais corrimento do que\no habitual. Muitos aliviam-se com pequenos cuidados de conforto, e a sua parteira pode sugerir o que é seguro se algo a\nestiver a incomodar.\n\nO importante é saber quais as mudanças que são normais e quais as que merecem atenção —\nporque alguns sintomas, embora menos comuns, precisam de ser avaliados em vez de se esperar que desapareçam por si próprios.",
       "deep": null,
       "when_to_see_doctor": "A maioria destes sintomas é normal, mas contacte imediatamente a sua **parteira ou a maternidade** se tiver:\n\n- **sangramento vaginal** ou uma fuga repentina ou gotejamento de líquido\n- o seu **bebé a mexer-se menos** do que o habitual\n- uma **dor de cabeça intensa, problemas de visão ou inchaço repentino** do rosto, das mãos ou dos pés (possíveis\n  sinais de pré-eclâmpsia)\n- **dor abdominal intensa ou unilateral**, ou **febre elevada**\n- **comichão**, especialmente nas mãos e nos pés ou que se agrava à noite (pode ser um sinal de uma\n  doença hepática na gravidez que requer avaliação)",
       "red_flags": null
@@ -201,6 +251,20 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "consent-and-respect": {
+      "title": "Consentimento e respeito",
+      "aliases": [
+        "consentimento",
+        "respeite seus limites",
+        "consentimento entusiástico",
+        "autonomia corporal"
+      ],
+      "glance": "O consentimento é um sim claro, livre e entusiástico – sempre e pode ser retirado a qualquer momento.",
+      "overview": "O respeito começa com o direito dela de decidir sobre seu próprio corpo – sempre. Consentimento para a intimidade significa\ndado livremente, informado, entusiasmado **sim**. Silêncio não é consentimento. Uma \"multa\" relutante não é consentimento.\nAlguém que está dormindo, muito bêbado ou sob pressão não pode consentir verdadeiramente. E um sim para uma coisa, ou em\num dia, não é um sim para tudo ou para a próxima.\n\nO consentimento pode ser retirado a qualquer momento, e “pare” ou “não esta noite” é uma resposta completa que não precisa de\njustificativa. Pressionar, sentir-se culpado, ficar de mau humor até ela ceder ou tratar o sexo como algo\nvocê está em dívida não está bem - um relacionamento não é uma dívida.",
+      "deep": "Como é o respeito na prática:\n\n- **Pergunte e faça o check-in.** \"Está tudo bem?\" e prestando atenção em como ela responde – palavras e corpo.\n- **Aceite \"não\" graciosamente.** Sem fazer beicinho, pressão ou punição. A resposta dela é o fim de tudo.\n- **O entusiasmo é importante.** Se ela parecer insegura, hesitante ou apenas concordar, pare e pergunte.\n- **Seu corpo, seu chamado** — sobre intimidade, contracepção, gravidez, sua saúde, sua aparência, sua\n  escolhas. Você tem voz em sua vida compartilhada, nunca veto sobre o corpo dela.\n- **O respeito é diário.** Como você fala com ela, sobre ela e trata seus limites nas pequenas coisas é\n  a base sobre a qual todo o resto se apoia.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
     "contraception": {
       "title": "Contracepção",
       "aliases": [
@@ -210,8 +274,25 @@
       ],
       "glance": "A contraceção consiste nas diferentes formas de prevenir a gravidez — e há muitas por onde escolher.",
       "overview": "A contraceção — por vezes denominada «controlo de natalidade» — é o conjunto de métodos utilizados para prevenir a gravidez.\nExistem muitos métodos, e funcionam de formas diferentes: alguns utilizam hormonas, outros são de barreira, outros\nsão colocados no interior do útero e outros baseiam-se no acompanhamento do ciclo.\n\nA eficácia de um método depende muito da forma como é utilizado. Alguns métodos — como o implante e os\ndispositivos intrauterinos — são do tipo «colocar e esquecer» e têm uma eficácia superior a 99%. Outros, como a pílula ou os preservativos, são\nmuito eficazes quando utilizados na perfeição, mas um pouco menos no uso diário e habitual, porque é\nmais fácil esquecer-se de tomar uma pílula ou utilizar um preservativo de forma incorreta.\n\nUma coisa que vale a pena saber: **apenas os preservativos protegem também contra infeções sexualmente transmissíveis\n(IST)**. Os outros métodos previnem a gravidez, mas não as infeções, razão pela qual os preservativos são, por vezes,\nutilizados em conjunto com outro método.\n\nNão existe um único método «melhor» — o método certo depende da sua saúde, do seu corpo e do que se adequa\nà sua vida. Um médico de família ou uma clínica de saúde sexual pode explicar-lhe as opções e ajudá-la a escolher.",
-      "deep": "Como os métodos variam tanto, é útil refletir sobre o que é importante para si: qual a eficácia do método,\nse implica ter de se lembrar de algo diariamente, quanto tempo dura, se pretende ou\nnão utilizar hormonas e se a proteção cSTIa é importante na sua situação. Muitas pessoas mudam de método ao longo da\nvida, à medida que as suas necessidades mudam. Esta base de conhecimento descreve como funcionam os métodos mais comuns, para que as\nescolhas pareçam mais claras — mas a decisão, bem como qualquer prescrição ou adaptação, deve ser tomada em conjunto com um\nprofissional de saúde.",
+      "deep": "Como os métodos variam tanto, é útil refletir sobre o que é importante para si: qual a eficácia do método,\nse implica ter de se lembrar de algo diariamente, quanto tempo dura, se pretende ou\nnão utilizar hormonas e se a proteção contra as IST é importante na sua situação. Muitas pessoas mudam de método ao longo da\nvida, à medida que as suas necessidades mudam. Esta base de conhecimento descreve como funcionam os métodos mais comuns, para que as\nescolhas pareçam mais claras — mas a decisão, bem como qualquer prescrição ou adaptação, deve ser tomada em conjunto com um\nprofissional de saúde.",
       "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Contraceção e peso",
+      "aliases": [
+        "contraceção e peso",
+        "a pílula engorda",
+        "pílula e aumento de peso",
+        "os contraceptivos engordam",
+        "engordar com a pílula",
+        "injeção contraceptiva e peso",
+        "implante contraceptivo e peso"
+      ],
+      "glance": "Não há provas de que a pílula combinada faça engordar, mas a injeção contraceptiva pode fazer. Depende do método.",
+      "overview": "Perguntar se a contraceção vai fazer engordar é uma dúvida muito comum. A resposta honesta é que depende do método.\n\nQuanto à pílula combinada, os dados são tranquilizadores: não há provas de que tomá-la faça engordar. O mesmo se aplica ao adesivo contraceptivo e ao anel vaginal.\n\nA injeção contraceptiva é diferente. O aumento de peso está entre os seus efeitos secundários comuns, a par de alterações na menstruação.\n\nCom a pílula só com progestagénio (às vezes chamada minipílula) e com o implante contraceptivo, algumas pessoas dizem ter aumentado de peso. Mas não há provas suficientes para dizer se a causa é o próprio método.\n\nO peso é só uma parte da questão. Cada método tem a sua lista de possíveis efeitos secundários e riscos, e escolher a contraceção passa por encontrar o que se adequa ao seu corpo, à sua saúde e à sua vida. Um farmacêutico, um médico de família, um enfermeiro ou uma clínica de saúde sexual podem analisar as opções consigo.",
+      "deep": null,
+      "when_to_see_doctor": "- Se os efeitos secundários, incluindo alterações no peso, forem um problema para si, fale com um farmacêutico, um médico de família, um enfermeiro ou uma clínica de saúde sexual. Com a pílula combinada, o adesivo ou o anel, alguns efeitos secundários podem surgir no início. Se continuarem a incomodar ao fim de cerca de 3 meses, um profissional de saúde pode falar consigo sobre outra pílula ou outro tipo de contraceção.",
       "red_flags": null
     },
     "contraceptive-implant": {
@@ -242,6 +323,21 @@
       "when_to_see_doctor": "- Consulte um médico de família se os seus períodos se tornarem irregulares, deixarem de ocorrer ou sofrerem alterações que não sejam habituais para si —\n  alterações persistentes podem, por vezes, indicar algo que vale a pena investigar.\n- Também vale a pena falar com um médico se os problemas menstruais estiverem a afetar a sua vida quotidiana, para que possa obter\n  apoio em vez de simplesmente ter de os suportar.",
       "red_flags": null
     },
+    "economic-abuse": {
+      "title": "Abuso económico",
+      "aliases": [
+        "abuso económico",
+        "abuso financeiro",
+        "gestão financeira",
+        "gestão das finanças",
+        "dívida em meu nome"
+      ],
+      "glance": "O abuso económico consiste em controlar o acesso de alguém ao dinheiro, ao trabalho ou aos recursos — uma forma reconhecida de abuso.",
+      "overview": "O abuso económico ocorre quando alguém controla o acesso de outra pessoa ao dinheiro e às coisas que o dinheiro permite comprar. É uma forma de comportamento controlador e, muitas vezes, acompanha outros tipos de abuso.\n\nPode traduzir-se em controlar todas as despesas ou obrigá-la a prestar contas de cada cêntimo, ficar com o seu salário ou subsídios, contrair dívidas em seu nome, ocultar-lhe contas bancárias ou documentos, ou impedir-lhe de trabalhar ou estudar. Como pode deixar uma pessoa sem meios para sair da situação ou para gerir o dia a dia, esta é uma das formas através das quais o abuso pode parecer uma armadilha.\n\nSe alguma destas situações lhe parecer familiar, isso não significa que seja «má a gerir o dinheiro» nem que tenha culpa. Controlar os recursos de outra pessoa é uma escolha que essa pessoa faz — e é reconhecido como abuso.",
+      "deep": null,
+      "when_to_see_doctor": "- Os serviços de combate à violência também podem ajudar neste aspeto — não só em matéria de segurança, mas também com medidas práticas e financeiras, de forma confidencial e gratuita (em Itália, a linha de apoio **1522** pode indicar-lhe os serviços de apoio locais).\n- Um plano de segurança pode incluir garantir, discretamente, o acesso a algum dinheiro, documentos essenciais e números importantes.",
+      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o número **1522** — gratuito, disponível 24 horas por dia, anónimo e multilingue — pode prestar apoio por telefone ou chat."
+    },
     "ectopic-pregnancy": {
       "title": "Gravidez ectópica",
       "aliases": [
@@ -266,9 +362,9 @@
         "ellaOne"
       ],
       "glance": "A contraceção de emergência pode prevenir a gravidez após relações sexuais desprotegidas — e quanto mais cedo, melhor.",
-      "overview": "A contraceção de emergência é uma forma de prevenir a gravidez após relações sexuais sem contraceção, ou quando o\nteu método habitual pode ter falhado (uma pílula esquecida, um preservativo rasgado). Existem dois tipos, e o momento em que\né tomada é importante para ambos.\n\nA primeira é a **pílula de emergência**. Existem dois tipos: um (levonorgestrel) pode ser tomado até\n3 dias — 72 horas — após a relação sexual, e outro (acetato de ulipristal, com a marca comercial ellaOne) até 5 dias —\n120 horas. A segunda opção é o **dispositivo intrauterino de cobre (IUD)**, que um profissional de saúde pode colocar até 5 dias\napós a relação sexual; é a forma mais eficaz de contraceção de emergência e pode, posteriormente, permanecer como\ncontraceção contínua, se assim o desejar.\n\nEm todos estes casos, **quanto mais cedo os utilizar, melhor tendem a funcionar** — por isso, vale a pena agir\nrápidamente em vez de esperar. Pode obter a contraceção de emergência numa farmácia, junto de um médico de família, numa\nclínica de saúde sexual ou num centro de atendimento sem marcação, muitas vezes gratuitamente.",
+      "overview": "A contraceção de emergência é uma forma de prevenir a gravidez após relações sexuais sem contraceção, ou quando o\nteu método habitual pode ter falhado (uma pílula esquecida, um preservativo rasgado). Existem dois tipos, e o momento em que\né tomada é importante para ambos.\n\nA primeira é a **pílula de emergência**. Existem dois tipos: um (levonorgestrel) pode ser tomado até\n3 dias — 72 horas — após a relação sexual, e outro (acetato de ulipristal, com a marca comercial ellaOne) até 5 dias —\n120 horas. A segunda opção é o **DIU de cobre** (dispositivo intrauterino), que um profissional de saúde pode colocar até 5 dias\napós a relação sexual; é a forma mais eficaz de contraceção de emergência e pode, posteriormente, permanecer como\ncontraceção contínua, se assim o desejar.\n\nEm todos estes casos, **quanto mais cedo os utilizar, melhor tendem a funcionar** — por isso, vale a pena agir\nrápidamente em vez de esperar. Pode obter a contraceção de emergência numa farmácia, junto de um médico de família, numa\nclínica de saúde sexual ou num centro de atendimento sem marcação, muitas vezes gratuitamente.",
       "deep": null,
-      "when_to_see_doctor": "- Como se trata de uma situação urgente, não espere — um farmacêutico pode fornecer a pílula de emergência rapidamente e\n  uma clínica de saúde sexual ou um médico de família pode prescrever a pílula de emergência «IUD».\n- A contraceção de emergência destina-se a prevenir a gravidez, não a infeções. Se houver alguma possibilidade de uma\n  infeção sexualmente transmissível, uma clínica de saúde sexual pode aconselhá-la sobre a realização de exames.\n- Se a sua menstruação se atrasar mais do que alguns dias, ou se for muito diferente do habitual, vale a pena fazer\n  um teste de gravidez e falar com um profissional de saúde.",
+      "when_to_see_doctor": "- Como se trata de uma situação urgente, não espere — um farmacêutico pode fornecer a pílula de emergência rapidamente e\n  uma clínica de saúde sexual ou um médico de família pode colocar o DIU de cobre.\n- A contraceção de emergência destina-se a prevenir a gravidez, não a infeções. Se houver alguma possibilidade de uma\n  infeção sexualmente transmissível, uma clínica de saúde sexual pode aconselhá-la sobre a realização de exames.\n- Se a sua menstruação se atrasar mais do que alguns dias, ou se for muito diferente do habitual, vale a pena fazer\n  um teste de gravidez e falar com um profissional de saúde.",
       "red_flags": null
     },
     "endometriosis": {
@@ -290,7 +386,7 @@
       ],
       "glance": "O estrogénio é uma hormona fundamental que ajuda a preparar o corpo para uma eventual gravidez em cada ciclo.",
       "overview": "O estrogénio é uma das principais hormonas responsáveis pelo ciclo menstrual. Na primeira metade do ciclo\n(a fase folicular), o seu nível aumenta à medida que um folículo no ovário amadurece. Este aumento torna mais espesso o\nrevestimento do útero e conduz à ovulação.\n\nO estrogénio também influencia aspetos que poderá notar no dia a dia — energia, humor e alterações no\nmuco cervical em torno dos seus dias férteis. Após a ovulação, o seu nível desce e, em seguida, muda novamente,\natuando em conjunto com outra hormona, a progesterona, durante a segunda metade do ciclo.\n\nOs níveis aumentam e diminuem naturalmente ao longo de cada ciclo e também variam ao longo das diferentes fases da vida. Isto é\nnormal — é o ritmo a que o seu corpo funciona, não algo que seja preciso «corrigir».",
-      "deep": "O estrogénio não é uma única substância, mas sim um grupo de hormonas relacionadas (a mais ativa no ciclo\né o estradiol). A maior parte é produzida pelos ovários, no folículo em crescimento. O seu aumento e\ndiminuição cíclicos — em conjunto com a progesterona e as hormonas de sinalização do cérebro, a LHa e a FSHa — são o que\ndetermina as fases do ciclo. Como o estrogénio afeta muitos sistemas, as suas oscilações naturais podem\nmanifestar-se de forma subtil ao longo do mês; o acompanhamento ajuda-a a conhecer o seu próprio padrão, em vez de\no comparar com uma «média».",
+      "deep": "O estrogénio não é uma única substância, mas sim um grupo de hormonas relacionadas (a mais ativa no ciclo\né o estradiol). A maior parte é produzida pelos ovários, no folículo em crescimento. O seu aumento e\ndiminuição cíclicos — em conjunto com a progesterona e as hormonas de sinalização do cérebro, a LH e a FSH — são o que\ndetermina as fases do ciclo. Como o estrogénio afeta muitos sistemas, as suas oscilações naturais podem\nmanifestar-se de forma subtil ao longo do mês; o acompanhamento ajuda-a a conhecer o seu próprio padrão, em vez de\no comparar com uma «média».",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -337,11 +433,11 @@
       "red_flags": null
     },
     "first-period": {
-      "title": "Períodos iniciais (primeiro período)",
+      "title": "A primeira menstruação (menarca)",
       "aliases": [
-        "primeiro período",
+        "primeira menstruação",
         "menarca",
-        "períodos iniciais",
+        "início da menstruação",
         "ter o período"
       ],
       "glance": "A primeira menstruação surge normalmente por volta dos 12 anos — é normal que ocorra entre os 8 e os 17 anos, aproximadamente.",
@@ -418,6 +514,23 @@
       "when_to_see_doctor": "- Faça o **teste de rastreio**, caso lhe seja proposto — uma vez que a diabetes gestacional normalmente não apresenta\n  sintomas, o teste é a forma de a detetar.\n- Não espere pelo teste se notar possíveis sinais de níveis elevados de açúcar no sangue — sensação de muita sede,\n  necessidade frequente de urinar, boca seca ou cansaço — fale sobre eles com a sua parteira ou médico.",
       "red_flags": null
     },
+    "getting-help": {
+      "title": "Onde obter ajuda",
+      "aliases": [
+        "obter ajuda",
+        "quem contactar",
+        "linhas de apoio",
+        "números úteis",
+        "centro de combate à violência",
+        "1522",
+        "números de emergência"
+      ],
+      "glance": "Está disponível ajuda gratuita e confidencial — em caso de emergência, ligue para o número de emergência local; em Itália, ligue para o 1522 a qualquer hora.",
+      "overview": "Se estiver a sofrer abusos, não tem de enfrentar esta situação sozinha, e procurar ajuda não a compromete a nada. Há pessoas cujo trabalho consiste precisamente em ouvir e ajudar, em total confidencialidade e de forma gratuita.\n\nExistem vários tipos de ajuda a coexistir:\n\n- **Serviços de emergência** — em caso de perigo imediato, ligue para o número de emergência local (abaixo).\n- **Uma linha de apoio nacional** — em Itália, o **1522**, a linha de apoio gratuita contra a violência e o assédio: aberta 24 horas por dia, anónima, disponível em várias línguas, por telefone ou chat online.\n- **Centros antiviolência** (em Itália, *centri antiviolenza*) — serviços locais que oferecem apoio gratuito e confidencial, planeamento de segurança e assistência jurídica e psicológica.\n- **Serviços de saúde** — um médico de família ou o serviço de urgências de um hospital, onde o pessoal está cada vez mais formado para reconhecer situações de abuso e encaminhá-la para serviços de apoio.\n- **Pessoas em quem confias** — um amigo ou familiar com quem te sentes segura.\n\nPodes começar pelo que te parecer mais viável e não precisas de ter decidido nada.",
+      "deep": null,
+      "when_to_see_doctor": "- Podes falar com um **médico de família ou num hospital**, em total confidencialidade, sobre o que está a acontecer; eles podem tratar quaisquer lesões e encaminhar-te para serviços especializados.\n- Se for mais fácil escrever do que falar, o **chat 1522** é outra forma de contacto.",
+      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- **Itália:** **1522** (gratuito, 24 horas por dia, 7 dias por semana, anónimo, multilingue — chamada ou chat).\n- Os números das linhas de apoio variam de país para país. A aplicação pode mostrar os números do seu país, e o site **findahelpline.com** lista linhas de apoio contra a violência em todo o mundo (deteta o seu país e tem um botão de saída rápida). Se estiver na UE, o **112** funciona em qualquer lugar."
+    },
     "group-b-strep": {
       "title": "Estreptococo do grupo B (GBS)",
       "aliases": [
@@ -457,7 +570,7 @@
         "coágulos"
       ],
       "glance": "Menstruações intensas significam uma grande perda de sangue em cada ciclo — é comum, mas vale a pena verificar se isso te afeta.",
-      "overview": "Menstruações intensas — cujo nome médico é menorragia — significam perder muito sangue durante a menstruação.\nPara algumas pessoas, o sangramento abundante é simplesmente normal, mas se estiver a perturbar a sua vida ou a deixá-la\nesgotada, vale a pena investigar.\n\nAlguns sinais de que a menstruação está a ser mais abundante: precisar de trocar um penso higiénico ou tampão a cada 1 a 2 horas,\nusar dois tipos de produtos higiénicos em simultâneo (como um tampão e um penso), sangramento que penetra na\nroupa ou na roupa de cama, expulsão de coágulos de sangue com mais de cerca de 2,5 cm (aproximadamente uma moeda de 10 pence) ou menstruações\nque duram mais de 7 dias.\n\nPerder muita sangue mês após mês pode deixá-la cansada ou com falta de ar, porque pode levar\nà falta de ferro (anemia). Existem muitas causas possíveis — desde miomas ou condições como\na endometriose, a adenomiose ou a síndrome dePCOS, até alguns medicamentos — e, muitas vezes, não se identifica nenhuma causa grave. Seja\ncomo for, é normalmente possível tratar as menstruações intensas, pelo que não são algo com que tenhas simplesmente de conviver.",
+      "overview": "Menstruações intensas — cujo nome médico é menorragia — significam perder muito sangue durante a menstruação.\nPara algumas pessoas, o sangramento abundante é simplesmente normal, mas se estiver a perturbar a sua vida ou a deixá-la\nesgotada, vale a pena investigar.\n\nAlguns sinais de que a menstruação está a ser mais abundante: precisar de trocar um penso higiénico ou tampão a cada 1 a 2 horas,\nusar dois tipos de produtos higiénicos em simultâneo (como um tampão e um penso), sangramento que penetra na\nroupa ou na roupa de cama, expulsão de coágulos de sangue com mais de cerca de 2,5 cm (aproximadamente uma moeda de 10 pence) ou menstruações\nque duram mais de 7 dias.\n\nPerder muita sangue mês após mês pode deixá-la cansada ou com falta de ar, porque pode levar\nà falta de ferro (anemia). Existem muitas causas possíveis — desde miomas ou condições como\na endometriose, a adenomiose ou a síndrome dos ovários policísticos, até alguns medicamentos — e, muitas vezes, não se identifica nenhuma causa grave. Seja\ncomo for, é normalmente possível tratar as menstruações intensas, pelo que não são algo com que tenhas simplesmente de conviver.",
       "deep": null,
       "when_to_see_doctor": "Consulte um médico de família se:\n\n- as menstruações intensas estiverem a afetar a sua vida quotidiana\n- tiver um sangramento intenso durante muitas horas, ou se as suas menstruações durarem muito tempo\n- também tiver dores menstruais intensas, ou dor durante as relações sexuais, ao urinar ou ao evacuar\n- tiver sangramento entre menstruações ou após as relações sexuais\n- se sentir frequentemente cansada ou com falta de ar (isto pode ser um sinal de falta de ferro)\n\nUm médico de família pode procurar a causa e explicar-lhe o que poderá ajudar.",
       "red_flags": "- Procure ajuda médica **urgente** — ligue para o **NHS111**, ou para o **999 / dirija-se ao serviço de urgências** se for grave — se estiver\n  **sangrar tanto que encharca um penso ou mais a cada hora, durante várias horas seguidas**, ou se\n  se sentir **fraco, tonto ou com falta de ar**. Estes podem ser sinais de perda excessiva de sangue."
@@ -470,8 +583,22 @@
         "hormona luteinizante"
       ],
       "glance": "LH é a hormona cerebral cujo pico a meio do ciclo induz o ovário a libertar um óvulo.",
-      "overview": "LH — a hormona luteinizante — é o mensageiro que desencadeia a ovulação. Tal como aFSHa, é produzida por uma\npequena glândula no cérebro (a hipófise) e indica ao ovário quando deve libertar um óvulo.\n\nDurante a maior parte da primeira metade do ciclo, LH mantém-se em níveis baixos. Depois, por volta do meio do ciclo,\naumenta acentuadamente no que se denomina pico de LH. Este pico é o sinal que faz com que o ovário\nlibere o óvulo — a ovulação —, normalmente um dia ou dois depois.\n\nEste pico é um sinal breve e oportuno, e não algo que se note na forma como se sente. Como\nocorre muito pouco antes da libertação do óvulo, o momento em que o LH sobe é um indicador fiável da\nfase mais fértil do ciclo.",
+      "overview": "LH — a hormona luteinizante — é o mensageiro que desencadeia a ovulação. Tal como a FSH, é produzida por uma\npequena glândula no cérebro (a hipófise) e indica ao ovário quando deve libertar um óvulo.\n\nDurante a maior parte da primeira metade do ciclo, LH mantém-se em níveis baixos. Depois, por volta do meio do ciclo,\naumenta acentuadamente no que se denomina pico de LH. Este pico é o sinal que faz com que o ovário\nlibere o óvulo — a ovulação —, normalmente um dia ou dois depois.\n\nEste pico é um sinal breve e oportuno, e não algo que se note na forma como se sente. Como\nocorre muito pouco antes da libertação do óvulo, o momento em que o LH sobe é um indicador fiável da\nfase mais fértil do ciclo.",
       "deep": "LH atua em conjunto com o FSH, a hormona responsável pelo crescimento dos folículos nas fases iniciais do ciclo. Enquanto o FSH\nconduz a fase de acumulação, o pico de LH marca o ponto de viragem: os níveis começam a subir cerca de um dia e meio\nantes da libertação do óvulo e atingem o pico cerca de meio dia antes. Após o pico, o ciclo\nentra na sua segunda metade. Este calendário rigoroso é a razão pela qual LH é um marcador tão útil para quem acompanha\na ovulação e porque é fundamental para o planeamento dos tratamentos de fertilidade.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Escuta e apoio emocional",
+      "aliases": [
+        "como ouvir",
+        "apoio emocional para parceiros",
+        "comunicação",
+        "estar lá para ela"
+      ],
+      "glance": "Na maioria das vezes ela precisa ser ouvida, não corrigida – ouça primeiro e pergunte antes de aconselhar.",
+      "overview": "Quando alguém que amamos está passando por dificuldades, o instinto é intervir e resolver o problema. Mas muitas vezes o que mais ajuda\nestá se sentindo genuinamente ouvida: que seus sentimentos fazem sentido e ela não está sozinha com eles. Consertando também\nrápido pode cair como \"seus sentimentos são um problema para encerrar\".\n\nOuvir bem é uma habilidade que qualquer um pode aprender. É principalmente atenção: desligar o telefone, ficar de frente para ela,\ne deixá-la terminar. Você não precisa concordar com todos os pontos para fazê-la se sentir respeitada.",
+      "deep": "Maneiras práticas de aparecer:\n\n- **Ouça para entender, não para responder.** Deixe-a falar sem interromper ou planejar sua defesa.\n- ** Reflita de volta. ** \"Isso parece muito estressante\" ou \"Eu entendo por que isso dói\" é melhor do que \"simplesmente não\n  se preocupe com isso\".\n- **Pergunte antes de aconselhar.** \"Você quer ajuda para pensar sobre isso ou apenas quer que eu ouça?\"\n- **Não leve para o lado pessoal** quando um dia difícil não é sobre você. A estabilidade é um presente.\n- **Assuma sua parte.** Se você entendeu algo errado, um verdadeiro pedido de desculpas - sem \"mas\" - reconstrói a confiança.\n- **Observe o quadro geral.** Se ela parecer persistentemente deprimida, ansiosa ou não ela mesma, gentilmente\n  incentive o apoio e ofereça-se para ajudá-la a alcançá-lo. Você é um companheiro de equipe, não um terapeuta.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -601,7 +728,7 @@
       "red_flags": null
     },
     "pcos": {
-      "title": "PCOS (síndrome dos ovários policísticos)",
+      "title": "SOP (síndrome dos ovários policísticos)",
       "aliases": [
         "SOP",
         "síndrome dos ovários policísticos",
@@ -610,8 +737,8 @@
       ],
       "glance": "PCOS é uma perturbação hormonal comum que pode afetar o ciclo menstrual, a ovulação, a pele e o cabelo.",
       "overview": "PCOS — a síndrome dos ovários policísticos — é uma condição comum associada ao equilíbrio das hormonas\nreprodutivas. As estimativas sugerem que afeta cerca de 1 em cada 10 mulheres em idade reprodutiva, e muitas\npessoas que a têm nunca são diagnosticadas.\n\nPode manifestar-se de diferentes formas, e não há duas pessoas com sintomas exatamente iguais. As características comuns incluem\nciclos menstruais irregulares, pouco frequentes ou ausentes; níveis mais elevados de hormonas chamadas androgénios,\nque podem levar a um crescimento excessivo de pêlos no rosto ou no corpo, acne ou queda de cabelo no couro cabeludo; e\novários que não libertam um óvulo com a regularidade habitual, o que pode tornar mais difícil engravidar.\nAlterações de peso e manchas de pele mais escura também são comuns.\n\nA causa exata ainda não é totalmente compreendida e não existe cura — mas os sintomas podem ser controlados, e\ncompreender o que está a acontecer é o primeiro passo. A síndrome de PCOS é comum e controlável, não é algo de que\nse deva envergonhar.",
-      "deep": "Uma vez que a «PCOS» envolve as hormonas do corpo e a forma como este processa a insulina, está também associada, a\nlongo prazo, à resistência à insulina e a um risco mais elevado de diabetes tipo 2, hipertensão arterial\ne alterações nos níveis de colesterol — razão pela qual os médicos tendem a acompanhar estes aspetos ao longo do tempo.\nCerca de metade das pessoas com síndrome de PCOSo pode desenvolver diabetes ou pré-diabetes por volta dos quarenta anos, pelo que os\nexames regulares são importantes. O diagnóstico não é algo que se deva autoavaliar: um médico analisa o quadro global\n— o seu historial e ciclos menstruais, por vezes análises ao sangue para avaliar as hormonas e, por vezes, uma ecografia\ndos ovários — e exclui outras causas antes de chegar a umPCOSe.",
-      "when_to_see_doctor": "Vale a pena consultar um médico de família se notar sintomas que correspondam ao quadro acima, especialmente se estiverem\na afetar a forma como se sente no dia a dia:\n\n- menstruações irregulares, muito pouco frequentes ou que tenham cessado\n- aumento visível do crescimento de pêlos no rosto ou no corpo, acne persistente ou queda de cabelo\n- dificuldade em engravidar após tentar durante algum tempo\n- aumento de peso difícil de perder, acompanhado de outros sintomas\n\nUm médico de família pode investigar o que se passa, confirmar se se trata de umPCOSo ou de outra condição e discutir um\nplano adequado para si. O o também está associado a baixo de ânimo e ansiedade — se estiver a sentir dificuldades com a forma como\nse sente, fale também com o seu médico de família; isso faz parte do quadro clínico e há apoio disponível.",
+      "deep": "Uma vez que a «PCOS» envolve as hormonas do corpo e a forma como este processa a insulina, está também associada, a\nlongo prazo, à resistência à insulina e a um risco mais elevado de diabetes tipo 2, hipertensão arterial\ne alterações nos níveis de colesterol — razão pela qual os médicos tendem a acompanhar estes aspetos ao longo do tempo.\nCerca de metade das pessoas com SOP pode desenvolver diabetes ou pré-diabetes por volta dos quarenta anos, pelo que os\nexames regulares são importantes. O diagnóstico não é algo que se deva autoavaliar: um médico analisa o quadro global\n— o seu historial e ciclos menstruais, por vezes análises ao sangue para avaliar as hormonas e, por vezes, uma ecografia\ndos ovários — e exclui outras causas antes de chegar a um diagnóstico de SOP.",
+      "when_to_see_doctor": "Vale a pena consultar um médico de família se notar sintomas que correspondam ao quadro acima, especialmente se estiverem\na afetar a forma como se sente no dia a dia:\n\n- menstruações irregulares, muito pouco frequentes ou que tenham cessado\n- aumento visível do crescimento de pêlos no rosto ou no corpo, acne persistente ou queda de cabelo\n- dificuldade em engravidar após tentar durante algum tempo\n- aumento de peso difícil de perder, acompanhado de outros sintomas\n\nUm médico de família pode investigar o que se passa, confirmar se se trata de SOP ou de outra condição e discutir um\nplano adequado para si. O o também está associado a baixo de ânimo e ansiedade — se estiver a sentir dificuldades com a forma como\nse sente, fale também com o seu médico de família; isso faz parte do quadro clínico e há apoio disponível.",
       "red_flags": null
     },
     "perimenopause": {
@@ -674,7 +801,7 @@
       "red_flags": "- Se tiver **pensamentos de se magoar a si próprio ou ao seu bebé**, ou de que a sua família ficaria melhor\n  sem si, procure ajuda **imediatamente**: ligue para o **999** ou dirija-se ao serviço de urgências, ou ligue para o **NHS 111** ou para os\n  Samaritans através do **116 123**. Estes pensamentos podem fazer parte da doença, não definem quem tu és e\n  há ajuda urgente disponível."
     },
     "pre-eclampsia": {
-      "title": "Pre-eclâmpsia",
+      "title": "Pré-eclâmpsia",
       "aliases": [
         "pré-eclâmpsia",
         "pré-eclâmpsia",
@@ -735,7 +862,7 @@
       "red_flags": "Contacte a sua **parteira ou a maternidade imediatamente** — seja de dia ou de noite — se, **antes das 37 semanas**, tiver\nalgum destes sintomas:\n\n- **contrações ou espasmos** regulares, ou dores semelhantes às da menstruação\n- um **jato ou gotejamento de líquido** pela vagina (rompimento das águas)\n- **dor nas costas** que não seja habitual para si, ou uma sensação de pressão na parte inferior do abdómen"
     },
     "premenstrual-syndrome": {
-      "title": "PMS (síndrome pré-menstrual)",
+      "title": "SPM (síndrome pré-menstrual)",
       "aliases": [
         "TPM",
         "síndrome pré-menstrual",
@@ -773,6 +900,86 @@
       "deep": "A minipílula difere da pílula combinada por não conter estrogénio, o que altera o perfil das pessoas a quem se adequa —\nalgo que o médico avalia no momento da prescrição. Alguns tipos têm de ser tomados dentro de um intervalo diário bastante\nrestrito para manterem a eficácia. Este artigo explica o que é e como funciona; como tomá-la\ne se é adequada para si são questões que devem ser avaliadas por um médico de família, enfermeiro ou farmacêutico.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Como reconhecer uma relação abusiva",
+      "aliases": [
+        "reconhecer a violência",
+        "relação abusiva",
+        "violência doméstica",
+        "violência por parte do parceiro íntimo",
+        "sinais de abuso",
+        "Estarei a ser vítima de abuso?"
+      ],
+      "glance": "O abuso pode ser físico, sexual, emocional ou de controlo — e a culpa nunca é da pessoa que o sofre.",
+      "overview": "A violência numa relação não é apenas física. Pode assumir várias formas, muitas vezes em simultâneo: agressão física, coação sexual, danos emocionais ou psicológicos e comportamentos controladores — um parceiro que decide onde vais, com quem te encontras ou o que podes fazer. Qualquer uma destas situações pode constituir violência, mesmo quando não há lesões visíveis.\n\nÉ mais comum do que muitas pessoas imaginam. A nível mundial, cerca de 1 em cada 3 mulheres sofre violência física ou sexual ao longo da vida, na maioria das vezes por parte de um parceiro; o panorama em Itália é semelhante. Portanto, se isto faz parte da sua vida, não está sozinha e não é algo que tenha provocado.\n\nPode ser difícil identificar a situação — o abuso surge frequentemente misturado com momentos bons, desculpas ou promessas de mudança, e pode ir-se acumulando tão lentamente que acaba por parecer normal. Confiar na tua própria sensação de que algo está errado é uma razão válida para procurar ajuda. Não precisa de ter a certeza, nem de esperar que a situação se torne «suficientemente grave», para falar com alguém.",
+      "deep": "Por detrás das diferentes formas que assume, o abuso tende a seguir um padrão em que uma pessoa procura exercer poder e controlo sobre outra, e pode agravar-se com o tempo. Isso tem um impacto significativo na saúde — está associado à ansiedade, à depressão, a dificuldades em dormir e a efeitos físicos a longo prazo. Nada disso significa que sejas fraca ou que a culpa seja tua; significa apenas que o que estás a viver é prejudicial e que existe apoio para te ajudar a refletir sobre a situação com segurança e ao teu próprio ritmo.",
+      "when_to_see_doctor": "- Podes falar com alguém em confidência sempre que estiveres pronta — um médico de família ou enfermeiro, um centro de combate à violência ou uma linha de apoio (em Itália, **1522**, gratuita e disponível a qualquer hora). Não precisas de provas, de um plano ou de uma decisão prévia; eles estão lá para te ouvir e para te ajudar a compreender as tuas opções.\n- Um profissional de saúde também pode tratar quaisquer lesões e encaminhá-la discretamente para apoio especializado.",
+      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o **1522** — a linha de apoio nacional gratuita contra a violência e o assédio — está disponível 24 horas por dia, de forma anónima, por telefone ou chat, em várias línguas."
+    },
+    "respect-not-control": {
+      "title": "Respeito, não controle",
+      "aliases": [
+        "comportamento controlador",
+        "controle coercitivo",
+        "relacionamento saudável",
+        "sinais de alerta",
+        "onde obter ajuda",
+        "abuso"
+      ],
+      "glance": "O amor se baseia no respeito e na liberdade – controle, ciúme e pressão não são amor, e a ajuda existe.",
+      "overview": "Um relacionamento saudável baseia-se no respeito, na confiança, na igualdade e na liberdade: duas pessoas que mantêm cada uma a sua\npróprias amizades, escolhas e espaço. O controle é o oposto. Muitas vezes se esconde atrás de palavras como amor ou\nciúme - \"Eu verifico seu telefone porque me importo\", \"Não quero que você os veja porque te amo\" - mas\nseu efeito é encolher seu mundo e sua liberdade.\n\nO controle raramente começa com violência. Geralmente começa pequeno – uma crítica, um limite ultrapassado, uma\n\"piada\" que dói - e cresce. Nomeá-lo antecipadamente é importante, porque o controle coercitivo é em si uma forma de\nabuso e um sinal de alerta para o pior. Não se trata de culpa; trata-se de honestidade e mudança.",
+      "deep": "**Se você reconhece alguns deles em si mesmo, essa consciência é um ponto de partida – não uma sentença de prisão perpétua.**\nAs pessoas podem mudar com esforço real e a ajuda certa. Alcançando um programa dedicado para homens\nque querem deixar de ser controladores ou violentos é sinal de força, não de fraqueza. Fale com um\nprofissional, um médico ou um serviço de mudança de comportamento masculino.\n\nSe **ela** é quem está em perigo, ou você está preocupado com alguém, incentive-a e apoie-a a alcançar\najuda - nos termos dela, nunca assumindo o controle.\n\n**Onde obter ajuda**\n- Em caso de emergência, ou se alguém estiver em perigo imediato, ligue para o número de emergência local\n  (**112** na Itália e grande parte da Europa; **911** nos EUA).\n- **Itália — 1522**: linha de apoio nacional contra violência e perseguição. Gratuito, 24 horas por dia, 7 dias por semana, anônimo e\n  multilingue, gerido pelo Departamento para a Igualdade de Oportunidades. Também orienta as pessoas para locais\n  centros anti-violência (centri antiviolenza).\n- Centros anti-violência e programas de mudança de comportamento masculino (em Itália, \"centri per uomini autori di\n  violência\") oferecem apoio confidencial à mudança.",
+      "when_to_see_doctor": null,
+      "red_flags": "Sinais de alerta de comportamento controlador ou abusivo – que vale a pena levar a sério em você mesmo ou em um relacionamento:\n\n- **Monitoramento ou isolamento**: verificar o telefone dela, rastrear sua localização ou interrompê-la\n  amigos e familiares.\n- **Controle sobre escolhas**: dinheiro, o que veste, aonde vai, quem vê.\n- **Ciúme enquadrado como amor**, acusações constantes ou necessidade de saber onde ela está o tempo todo.\n- **Reprimendas, culpas ou fazê-la sentir medo**, culpa ou \"pisar em ovos\".\n- **Pressão ou ameaças** sobre sexo, rompimento ou automutilação para obter conformidade.\n- **Qualquer força física, intimidação ou medo.** Se isso estiver presente, é abuso - procure ajuda\n  acima. Nunca há uma desculpa e nunca é culpa dela."
+    },
+    "safety-plan": {
+      "title": "Elaborar um plano de segurança",
+      "aliases": [
+        "plano de segurança",
+        "manter-se segura",
+        "manter-se segura",
+        "planeamento de segurança",
+        "partir em segurança"
+      ],
+      "glance": "Um plano de segurança consiste em alguns passos práticos para a ajudar a manter-se mais segura — e os serviços especializados podem ajudá-la a elaborar um.",
+      "overview": "Um plano de segurança consiste simplesmente em pensar antecipadamente em como se manter (e manter as crianças) mais segura. Não se trata de uma decisão de partir ou de ficar — trata-se de estar um pouco mais preparada, seja qual for a sua escolha.\n\nPara algumas pessoas, ajuda ter algumas coisas discretamente preparadas: uma pessoa de confiança que saiba o que se está a passar, documentos importantes e números de contacto acessíveis, um pequeno saco com o essencial, uma noção das formas mais seguras de sair de casa ou uma palavra ou sinal que indique a alguém que precisa de ajuda. O que faz sentido depende inteiramente da sua própria situação.\n\nNão tens de resolver isto sozinha, e muitas vezes é mais seguro não o fazeres. Os serviços de combate à violência têm experiência em elaborar planos de segurança com as pessoas, de forma confidencial e gratuita — incluindo para o período em que se prepara a saída, que pode ser um momento de maior risco e que vale a pena planear com apoio, em vez de o fazer à pressa.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacte um centro de combate à violência ou uma linha de apoio (em Itália, **1522**) para elaborar um plano adequado à sua situação — eles fazem isto todos os dias, de forma confidencial, e podem ajudar com medidas práticas, legais e emocionais.\n- Se estiveres a manter algum registo do que está a acontecer, guarda-o num local privado e seguro.",
+      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o número **1522** — gratuito, disponível 24 horas por dia, anónimo e multilingue — pode prestar apoio por telefone ou chat, incluindo no planeamento de medidas de segurança urgentes."
+    },
+    "sex-during-your-period": {
+      "title": "Sexo durante a menstruação",
+      "aliases": [
+        "sexo durante a menstruação",
+        "sexo com o período",
+        "relações durante a menstruação",
+        "sexo estando menstruada",
+        "posso engravidar durante a menstruação",
+        "engravidar com o período",
+        "engravidar menstruada"
+      ],
+      "glance": "Ter sexo durante a menstruação não tem mal nenhum se ambos quiserem, mas continua a ser possível engravidar ou transmitir uma IST.",
+      "overview": "Ter relações sexuais durante a menstruação é uma escolha pessoal. Se ambos quiserem e se sentirem à vontade, não há problema, e não há nada de errado ou de invulgar nisso. Algumas pessoas sentem-se mais sensíveis nesta altura ou simplesmente não têm vontade, enquanto outras gostam. O que mais importa é ouvir o seu corpo e falar abertamente com o seu parceiro ou a sua parceira.\n\nO que a menstruação não faz é funcionar como contraceção. A probabilidade de engravidar é menor do que perto da ovulação, mas não é zero. Os espermatozoides podem sobreviver dentro do corpo até 7 dias depois do sexo, por isso, se a ovulação acontecer cedo, o que é mais provável com um ciclo mais curto, os espermatozoides de uma relação durante ou logo depois da menstruação ainda podem encontrar um óvulo. Se não quer engravidar, o seu método contraceptivo habitual continua a ser importante nestes dias.\n\nA menstruação também não protege contra as infeções sexualmente transmissíveis (IST). As infeções podem passar entre parceiros durante relações sem preservativo, e os micróbios que as causam podem estar no sangue, tal como noutros fluidos corporais. O preservativo é o método que também reduz o risco de IST, incluindo o VIH, por isso vale a pena usá-lo em qualquer altura do mês.",
+      "deep": null,
+      "when_to_see_doctor": "- Se teve relações **sem contraceção**, ou se o seu método pode ter falhado, e não quer engravidar, fale **o mais depressa possível** com um farmacêutico, um médico de família ou uma clínica de saúde sexual sobre a contraceção de emergência. Tem de ser usada no prazo de poucos dias e costuma funcionar melhor quanto mais cedo for usada.\n- Peça ajuda a um farmacêutico, a uma clínica de saúde sexual, a um médico de família ou ao **NHS 111** se **o preservativo se romper ou sair** durante o sexo. Pode precisar de contraceção de emergência ou de um teste de IST.\n- Consulte um médico de família ou uma clínica de saúde sexual se notar **sangramento depois do sexo quando não está com a menstruação**. Normalmente não é grave, mas vale sempre a pena consultar um médico.",
+      "red_flags": null
+    },
+    "sexual-violence": {
+      "title": "Violência sexual e consentimento",
+      "aliases": [
+        "violência sexual",
+        "agressão sexual",
+        "violação",
+        "consentimento",
+        "abuso sexual",
+        "não consensual"
+      ],
+      "glance": "A violência sexual é qualquer ato sexual sem consentimento — e a culpa nunca é da pessoa que a sofreu.",
+      "overview": "Violência sexual significa qualquer ato sexual, ou tentativa de o praticar, sem consentimento ou através de coação. Inclui a violação e qualquer contacto sexual indesejado, e pode ser cometida por qualquer pessoa — um estranho, um conhecido, um parceiro ou um cônjuge.\n\nO consentimento está no cerne da questão. Consentimento significa concordar livremente, e isso não é possível quando alguém está a dormir, inconsciente, embriagado ou sob o efeito de drogas, é uma criança, ou está sob pressão, a ser ameaçado ou com medo. Pode ser retirado a qualquer momento. Por isso, a violência sexual **nunca** é culpa da pessoa a quem aconteceu — não por causa do que vestia, se tinha bebido, se ficou paralisada em vez de lutar, ou se conhecia a pessoa.\n\nSe isto já te aconteceu, há apoio disponível, quer tenha sido recentemente ou há muito tempo. Acreditamos em ti, e o que fizeres a seguir é uma escolha tua.",
+      "deep": null,
+      "when_to_see_doctor": "- Pode dirigir-se a um **serviço de saúde, a um hospital ou a um serviço especializado em agressões sexuais**, que poderá prestar-lhe cuidados, tratar quaisquer lesões e — se assim o desejar — ajudá-la a apresentar queixa e a preservar as provas.\n- Algumas medidas de saúde são **urgentes** — por exemplo, a contraceção de emergência ou a prevenção de infeções — pelo que procurar ajuda **o mais cedo possível** pode ser útil. No entanto, não há prazo para procurar apoio, e a decisão de denunciar ou não é sempre sua.",
+      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Após uma agressão recente, um **hospital ou serviço especializado pode ajudar com urgência**. Em Itália, o número **1522** (gratuito, disponível 24 horas por dia, 7 dias por semana, anónimo e multilingue — por telefone ou chat) pode orientá-la para os cuidados adequados."
     },
     "signs-of-labour": {
       "title": "Sinais de trabalho de parto",
@@ -834,8 +1041,24 @@
       "when_to_see_doctor": "- Consulte um médico de família ou uma clínica de saúde sexual **sempre que tiver sangramento entre períodos ou após relações sexuais**,\n  mesmo que seja leve. Normalmente não é nada de grave, mas fazer um exame é a forma de\n  descobrir a causa — e é a maneira de excluir precocemente causas menos comuns.",
       "red_flags": "- Marque uma consulta **urgente** com o médico de família ou ligue para o **NHS 111** se **não tiver tido o período e tiver\n  sangramento invulgar acompanhado de dores abdominais ou pélvicas** — isto requer uma avaliação imediata, pois pode ser um\n  sinal de gravidez ectópica."
     },
+    "stalking": {
+      "title": "Perseguição",
+      "aliases": [
+        "perseguição",
+        "ser perseguida",
+        "assédio",
+        "atenção indesejada",
+        "alguém que me segue",
+        "ciberperseguição"
+      ],
+      "glance": "O assédio é uma atenção repetida e indesejada que faz com que se sinta com medo ou insegura — e é levado a sério.",
+      "overview": "O assédio é um padrão de comportamento indesejado e repetido por parte de alguém que faz com que se sinta com medo, vigiada ou insegura. Pode incluir ser seguida, alguém aparecer onde está, chamadas ou mensagens constantes, presentes indesejados, vigilância online ou através do telemóvel, ou ameaças. É frequentemente praticado por um ex-parceiro ou por alguém que conhece, embora nem sempre seja esse o caso.\n\nO medo que isso provoca é válido, mesmo que cada ato individual possa parecer «pequeno» para os outros — o que importa é o padrão e a forma como isso te faz sentir. O assédio é reconhecido como uma forma de abuso e, em muitos países, constitui um crime. Nada disto é culpa tua e não tens de simplesmente conviver com isso.\n\nSe for seguro fazê-lo, manter um registo pode ajudar mais tarde: datas e horas, capturas de ecrã de mensagens e o que aconteceu. Não tens de decidir sozinha se isso «conta» — os serviços de apoio podem ajudar-te a compreender a situação e a ponderar as tuas opções.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacte a **polícia** para denunciar o assédio, e uma linha de apoio contra a violência ou o assédio para obter apoio e aconselhamento (em Itália, o **1522** destina-se à violência **e** ao assédio).\n- Guardar provas e elaborar um plano de segurança, com a ajuda de um serviço especializado, podem, ambos, fazer uma diferença significativa.",
+      "red_flags": "- Se se sentir em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o número **1522** — gratuito, disponível 24 horas por dia, anónimo e multilingue — pode prestar apoio por telefone ou chat."
+    },
     "stillbirth": {
-      "title": "Nascimento de feto morto",
+      "title": "Morte fetal (nado-morto)",
       "aliases": [
         "natimorto",
         "nascido morto",
@@ -859,27 +1082,69 @@
         "Por que é que a minha menstruação está atrasada?"
       ],
       "glance": "O stress, grandes variações de peso ou a prática intensiva de exercício físico podem atrasar ou interromper a menstruação — muitas vezes apenas por algum tempo.",
-      "overview": "É comum que a menstruação se atrase ou que falte um mês, e muitas vezes a razão tem mais a ver\ncom o estilo de vida do que com algum problema de saúde. O stress é uma causa frequente — o mesmo sistema que responde\nà pressão pode influenciar as hormonas que regulam o ciclo menstrual.\n\nOutros fatores do dia a dia também podem alterar a menstruação: uma grande variação de peso (para cima ou para baixo), praticar muito\nexercício físico ou estar exausta. Alterações hormonais — como a aproximação da perimenopausa ou\ncondições como a síndrome dePCOSo — também podem estar na origem disso, assim como a gravidez e alguns métodos contraceptivos. Muitas vezes, o intervalo\nentre os períodos menstruais varia apenas um pouco de vez em quando, e isso é normal.\n\nO que é tranquilizador é que um atraso pontual ou a ausência de um período não costuma ser motivo de preocupação, e\nas coisas costumam normalizar-se à medida que a vida segue o seu curso. O que vale a pena observar é um padrão de alteração, em vez de um único\nmês.",
+      "overview": "É comum que a menstruação se atrase ou que falte um mês, e muitas vezes a razão tem mais a ver\ncom o estilo de vida do que com algum problema de saúde. O stress é uma causa frequente — o mesmo sistema que responde\nà pressão pode influenciar as hormonas que regulam o ciclo menstrual.\n\nOutros fatores do dia a dia também podem alterar a menstruação: uma grande variação de peso (para cima ou para baixo), praticar muito\nexercício físico ou estar exausta. Alterações hormonais — como a aproximação da perimenopausa ou\ncondições como a síndrome dos ovários policísticos — também podem estar na origem disso, assim como a gravidez e alguns métodos contraceptivos. Muitas vezes, o intervalo\nentre os períodos menstruais varia apenas um pouco de vez em quando, e isso é normal.\n\nO que é tranquilizador é que um atraso pontual ou a ausência de um período não costuma ser motivo de preocupação, e\nas coisas costumam normalizar-se à medida que a vida segue o seu curso. O que vale a pena observar é um padrão de alteração, em vez de um único\nmês.",
       "deep": null,
       "when_to_see_doctor": "Consulte um médico de família se:\n\n- não tiver tido **três menstruações consecutivas**, ou se as suas menstruações se tornarem **irregulares**\n- as suas menstruações **pararem** e não souber bem porquê (e, como existe a possibilidade de gravidez, vale a pena fazer primeiro um teste)\n- a ausência de menstruação vier acompanhada de outras alterações — como variações de peso inesperadas, cansaço, crescimento excessivo de pêlos\n  ou sensação de desânimo\n\nEstes exames servem apenas para compreender o que está por trás da alteração — o que, normalmente, é algo\nque se pode controlar.",
       "red_flags": null
     },
-    "the-coil": {
-      "title": "A bobina (IUD e IUS)",
+    "supporting-her-period": {
+      "title": "Apoiá-la durante a menstruação",
       "aliases": [
-        "bobina",
-        "a bobina",
+        "ajudando durante a menstruação",
+        "suporte de período para parceiros",
+        "cuidados menstruais"
+      ],
+      "glance": "A menstruação pode trazer dor e cansaço reais – pequenos cuidados práticos fazem uma grande diferença.",
+      "overview": "A menstruação não consiste apenas em alguns dias de sangramento; para muitos, vem com cólicas, dores nas costas, dores de cabeça,\ncansaço e baixa energia. A dor menstrual é comum e pode ser realmente desgastante – não é um\nexagero. Trate-o da mesma forma que trataria qualquer parceiro que não esteja bem: com gentileza prática.\n\nNormalize isso também. A menstruação não é nojenta, constrangedora ou tabu. Estar confortável comprando absorventes ou\ntampões, manter alguns em casa ou entregar-lhe uma bolsa de água quente sem complicações indica que ela está segura e\nsuportado.",
+      "deep": "Coisas simples que ajudam:\n\n- **Calor e descanso.** Uma bolsa de água quente ou almofada térmica na parte inferior da barriga alivia cólicas; oferecer um silêncio\n  noite em.\n- **Tire as coisas do prato dela.** Cozinhe, arrume, faça as tarefas, leve-a - a ajuda prática é mais difícil\n  do que palavras.\n- **Mantenha os suprimentos.** Saiba o que ela usa e mantenha um estoque, para que um dia pesado nunca seja uma crise.\n- **Análgicos e comida reconfortante** se ela quiser; a escolha dela.\n- **Não pressione por sexo ou energia que ela não tem.** A proximidade pode ser um abraço no sofá.",
+      "when_to_see_doctor": "Incentive-a a consultar um médico (e ofereça-se para acompanhá-la) se a dor menstrual for **forte, piorar,\nou interrompê-la da vida diária**, se a menstruação for **muito intensa** (imersão em proteção de hora em hora,\ncoágulos grandes) ou se a dor for nova e incomum – isso pode indicar condições como endometriose que\nmerecem os devidos cuidados.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Apoiar alguém que está a sofrer violência",
+      "aliases": [
+        "apoiar alguém",
+        "ajudar uma amiga",
+        "como ajudar",
+        "alguém que esteja a sofrer abuso",
+        "como prestar apoio"
+      ],
+      "glance": "Se alguém que conhece estiver a sofrer abuso, ouvir sem julgar — e saber para onde encaminhá-la — ajuda.",
+      "overview": "Perceber que alguém de quem se gosta pode estar a sofrer abuso é difícil, e querer ajudar é um bom instinto. As coisas mais úteis que se podem oferecer são, muitas vezes, as mais simples.\n\nOuve-as e acredita nelas. Deixa-as falar ao seu próprio ritmo, sem julgar, culpar ou perguntar o que fizeram para que isso acontecesse. Diz claramente que a culpa não é delas e que não merecem isso. Tente não lhes dizer o que fazer nem pressioná-las a sair: a decisão de sair é delas, e fazê-lo à pressa pode, na verdade, aumentar o perigo — o que mais ajuda é que se sintam apoiadas e não sozinhas.\n\nMantenha em sigilo o que ela lhe contar. Ajude-a gentilmente a encontrar apoio especializado quando ela estiver pronta — uma linha de apoio como o **1522** em Itália, ou um centro local de combate à violência — e ofereça ajuda prática, como procurar os números em conjunto ou estar presente quando ela ligar. E cuide também de si; apoiar alguém nesta situação pode ser desgastante.",
+      "deep": null,
+      "when_to_see_doctor": "- Incentive-a (sem pressão) a contactar uma linha de apoio ou um centro de combate à violência, que poderá orientar ambas sobre o que fazer a seguir. Pode oferecer-se para ajudá-la a fazer a chamada ou a encontrar o número.\n- Se estiverem feridas, um médico de clínica geral ou um hospital podem ajudá-las — e encaminhá-las para serviços de apoio.",
+      "red_flags": "- Se estiverem em **perigo imediato**, liguem para os serviços de emergência: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o número **1522** (gratuito, disponível 24 horas por dia, 7 dias por semana, anónimo e multilingue — por telefone ou chat) também pode aconselhá-la sobre como ajudar alguém."
+    },
+    "the-coil": {
+      "title": "O DIU (de cobre e hormonal)",
+      "aliases": [
+        "DIU",
+        "SIU",
         "IUD",
         "IUS",
-        "bobina de cobre",
-        "espiral hormonal",
+        "DIU de cobre",
+        "DIU hormonal",
         "dispositivo intrauterino",
         "sistema intrauterino",
         "Mirena"
       ],
-      "glance": "O dispositivo intrauterino é um pequeno dispositivo colocado no útero — de cobre (IUD) ou hormonal (IUS) — que tem uma duração de vários anos.",
-      "overview": "O DIU é um pequeno dispositivo que um profissional de saúde coloca no interior do útero. Existem dois tipos, e é útil\nsaber distingui-los:\n\n- O **IUD**, ou DIU de cobre, não contém hormonas. O cobre altera as condições no útero de forma a\n  que os espermatozoides e os óvulos não consigam sobreviver bem, e também afeta o muco cervical. Dependendo do tipo,\n  a sua eficácia dura cerca de 5 a 10 anos.\n- O **IUS**, ou espiral hormonal, liberta um progestogénio em vez de utilizar cobre. Este espessa o\n  muco no colo do útero e torna o revestimento uterino mais fino; em algumas pessoas, também pode tornar as menstruações\n  muito mais leves.\n\nAmbos são métodos do tipo «colocar e esquecer» e ambos têm uma eficácia superior a 99%, com pouca diferença entre\na utilização perfeita e a utilização típica. Nenhum deles protege contra as IST.",
-      "deep": "Os dispositivos intrauterinos são métodos reversíveis de ação prolongada: uma vez colocados, continuam a funcionar durante anos, e a fertilidade\nretorna após a sua remoção. A colocação e a remoção são realizadas por um profissional de saúde qualificado e demoram apenas\nalguns minutos, embora algumas pessoas considerem a colocação desconfortável. Uma razão comum pela qual as pessoas escolhem entre\nos dois é o seu efeito na menstruação — oIUDe de cobre pode tornar a menstruação mais intensa no início, enquanto o\nIUSe hormonal costuma torná-la mais leve. Qual o mais adequado para si deve ser discutido com um profissional de saúde; este artigo\napenas explica como cada um funciona.",
+      "glance": "O DIU é um pequeno dispositivo colocado no útero — de cobre ou hormonal (SIU) — que tem uma duração de vários anos.",
+      "overview": "O DIU é um pequeno dispositivo que um profissional de saúde coloca no interior do útero. Existem dois tipos, e é útil\nsaber distingui-los:\n\n- O **DIU de cobre** não contém hormonas. O cobre altera as condições no útero de forma a\n  que os espermatozoides e os óvulos não consigam sobreviver bem, e também afeta o muco cervical. Dependendo do tipo,\n  a sua eficácia dura cerca de 5 a 10 anos.\n- O **DIU hormonal** (SIU, sistema intrauterino) liberta um progestogénio em vez de utilizar cobre. Este espessa o\n  muco no colo do útero e torna o revestimento uterino mais fino; em algumas pessoas, também pode tornar as menstruações\n  muito mais leves.\n\nAmbos são métodos do tipo «colocar e esquecer» e ambos têm uma eficácia superior a 99%, com pouca diferença entre\na utilização perfeita e a utilização típica. Nenhum deles protege contra as IST.",
+      "deep": "Os DIU são métodos reversíveis de ação prolongada: uma vez colocados, continuam a funcionar durante anos, e a fertilidade\nretorna após a sua remoção. A colocação e a remoção são realizadas por um profissional de saúde qualificado e demoram apenas\nalguns minutos, embora algumas pessoas considerem a colocação desconfortável. Uma razão comum pela qual as pessoas escolhem entre\nos dois é o seu efeito na menstruação — o DIU de cobre pode tornar a menstruação mais intensa no início, enquanto o\nDIU hormonal costuma torná-la mais leve. Qual o mais adequado para si deve ser discutido com um profissional de saúde; este artigo\napenas explica como cada um funciona.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Os dias pré-menstruais",
+      "aliases": [
+        "PMS para parceiros",
+        "apoiando-a antes da menstruação",
+        "suporte pré-menstrual",
+        "suporte à fase lútea"
+      ],
+      "glance": "Nos dias anteriores à menstruação, ela pode se sentir mais cansada, sensível ou deprimida – enfrente isso com paciência, não com piadas.",
+      "overview": "Cerca de uma semana antes da menstruação, muitas pessoas apresentam sintomas pré-menstruais: alterações de humor, irritabilidade\nou sensação de desânimo, cansaço, seios doloridos, inchaço, dores de cabeça ou dificuldade para dormir. É muito comum\ne é real – impulsionado pela mudança hormonal natural da fase lútea, não pela sua “reação exagerada”.\n\nPara um número menor de pessoas, o mau humor é grave (uma condição chamada TDPM) e merece atenção real.\napoio e cuidados médicos. De qualquer forma, seu trabalho não é diagnosticá-la ou consertá-la — é ser firme e\ngentil.\n\nA coisa mais prejudicial que um parceiro pode fazer aqui é transformá-lo em uma arma: \"você está apenas com TPM\", revirar os olhos,\nou tratar seus sentimentos como inválidos por causa do encontro. Isso a descarta e acrescenta dor a uma situação difícil.\nsemana. Seus sentimentos ainda contam, mesmo quando os hormônios fazem parte do cenário.",
+      "deep": "O que realmente ajuda nesses dias:\n\n- ** Alivie a carga dela. ** Faça tarefas domésticas, cozinhe ou faça a lista mental de tarefas sem ser solicitado.\n- **Conforto, não correção.** Ofereça calor, descanso, uma bolsa de água quente, sua comida favorita - e deixe\n  ela sente o que ela sente.\n- **Ouça primeiro.** Se ela estiver chateada, \"isso parece muito difícil\" é sempre melhor do que \"acalme-se\".\n- **Não marque pontos.** Um dia mais difícil não é uma dívida que ela tenha com você mais tarde.\n- **Pergunte o que ela precisa** — alguns querem proximidade, outros querem espaço. Ambos estão bem; respeite a resposta dela.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -898,6 +1163,20 @@
       "overview": "A gravidez de mais de um bebé é normalmente diagnosticada pela primeira vez na **ecografia de datagem** (por volta das 12 semanas),\nque também pode revelar se os bebés partilham a mesma placenta.\n\nExistem dois tipos principais. Os gémeos **idênticos** provêm de um único óvulo fertilizado que se divide, pelo que\npartilham os mesmos genes e são sempre do mesmo sexo. Os gémeos **não idênticos** provêm de dois\nóvulos distintos e não são mais parecidos do que quaisquer outros irmãos; são os mais comuns dos dois e a sua\nprobabilidade de ocorrência é ligeiramente maior com a idade avançada, em caso de antecedentes familiares do lado materno ou após tratamentos de fertilidade.\n\nA gravidez de gémeos ou mais é uma experiência única e, normalmente, implica **um pouco mais de cuidados pré-natais** —\nconsultas e ecografias adicionais para acompanhar de perto a sua saúde e a dos seus bebés. A sua equipa de parteiras irá\nexplicar-lhe o que pode esperar.",
       "deep": null,
       "when_to_see_doctor": "- Se uma ecografia revelar a existência de gémeos (ou mais), a sua **parteira** irá explicar-lhe quais são os exames e\n  ecografias adicionais associados a uma gravidez múltipla — comparecer a todos eles é a melhor forma de garantir que\n  recebe os cuidados adequados.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Compreender o ciclo dela",
+      "aliases": [
+        "guia do parceiro para o ciclo",
+        "ciclo para parceiros",
+        "como funciona o ciclo dela",
+        "apoiando seu ciclo"
+      ],
+      "glance": "O corpo dela passa por um ciclo mensal com quatro fases – conhecer o básico ajuda você a apoiá-la sem adivinhar.",
+      "overview": "O ciclo menstrual é um ritmo aproximadamente mensal, em média cerca de 28 dias, mas geralmente em qualquer lugar entre 21\na 35, e normal para ela é o que é normal para *ela*. Funciona em quatro fases: a **menstrual**\nfase (menstruação), a fase **folicular**, a **ovulação** no meio e a fase **lútea**\nfase antes do próximo período.\n\nEnergia, humor, sono e desejo podem mudar nessas fases porque os hormônios sobem e descem – isso é\nbiologia, não uma falha de caráter e não algo para provocá-la. Algumas pessoas sentem uma verdadeira queda no\ndias antes da menstruação; outros mal percebem. Não existe uma única maneira “certa” de sentir.\n\nVocê não precisa se tornar um especialista. O que mais ajuda é simples: saber aproximadamente onde ela está no ciclo\n(este aplicativo pode mostrar a você, com a permissão dela), espere que alguns dias sejam mais difíceis que outros e pergunte\nela o que *ela* acha útil, em vez de presumir.",
+      "deep": "Algumas coisas que vale a pena saber, para que os mitos não preencham a lacuna:\n\n- **\"Na menstruação\" não é um insulto ou uma explicação para discordar dela.** Usar seu ciclo para\n  descartar os sentimentos dela (\"você é apenas hormonal\") é desrespeitoso e geralmente errado. Suas razões\n  ainda são seus motivos.\n- **O ciclo afeta mais do que a menstruação.** Cólicas, dores de cabeça, seios sensíveis, baixa energia ou diminuição\n  o humor pode fazer parte disso. A ajuda prática supera o conselho.\n- **O rastreamento é dela.** Se ela compartilhar seu ciclo com você, trate isso como uma janela de como ela pode ser\n  sentimento - um convite para ser gentil, nunca uma ferramenta para monitorá-la ou controlá-la.\n- **Em caso de dúvida, pergunte.** \"Como você está se sentindo hoje? Posso fazer alguma coisa?\" vale mais do que qualquer gráfico.",
+      "when_to_see_doctor": null,
       "red_flags": null
     },
     "vaginal-dryness": {
@@ -921,241 +1200,13 @@
         "higiene íntima",
         "manter a limpeza",
         "ducha vaginal",
-        "descarga"
+        "corrimento vaginal"
       ],
       "glance": "A vagina limpa-se sozinha — basta cuidar suavemente da parte externa, e o corrimento é normal.",
       "overview": "Uma das coisas mais tranquilizadoras que se pode saber é que a vagina cuida de si própria. É naturalmente\nautolimpante, e o corrimento que se observa faz parte desse processo — um fluido que a mantém limpa e húmida\ne ajuda a protegê-la de infeções. A quantidade e a textura variam ao longo do ciclo, o que é\ncompletamente normal.\n\nPor isso, não é necessário lavar o interior da vagina. Na verdade, a lavagem interna —\n«ducha vaginal» — pode perturbar o seu equilíbrio natural. A parte exterior (a vulva) requer apenas cuidados suaves: água morna\ne, se preferir, um sabonete suave e sem perfume. É melhor evitar sabonetes perfumados, géis, desodorizantes e toalhitas perfumadas,\numa vez que podem causar irritação.\n\nSaber o que é normal para si — o seu corrimento habitual, o aspeto e a sensação — torna mais fácil\nperceber se algo muda e se pode ser necessário consultar um médico.",
       "deep": null,
       "when_to_see_doctor": "Consulte um médico de família ou uma clínica de saúde sexual se notar:\n\n- uma alteração no corrimento — na cor, no cheiro ou na textura, ou se for muito mais abundante do que o habitual\n- comichão, dor ou irritação à volta da vagina ou da vulva\n- sangramento entre menstruações ou após relações sexuais\n- dor ao urinar, ou dor na parte inferior, entre a barriga e as coxas (dor pélvica)\n\nEstes sintomas são comuns e, muitas vezes, fáceis de tratar — uma alteração no corrimento pode significar simplesmente uma infeção ligeira,\ncomo uma candidíase. É melhor fazer um exame para ter a certeza, em vez de ficar a adivinhar.",
       "red_flags": null
-    },
-    "consent-and-respect": {
-      "title": "Consentimento e respeito",
-      "aliases": [
-        "consentimento",
-        "respeite seus limites",
-        "consentimento entusiástico",
-        "autonomia corporal"
-      ],
-      "glance": "O consentimento é um sim claro, livre e entusiástico – sempre e pode ser retirado a qualquer momento.",
-      "overview": "O respeito começa com o direito dela de decidir sobre seu próprio corpo – sempre. Consentimento para a intimidade significa\ndado livremente, informado, entusiasmado **sim**. Silêncio não é consentimento. Uma \"multa\" relutante não é consentimento.\nAlguém que está dormindo, muito bêbado ou sob pressão não pode consentir verdadeiramente. E um sim para uma coisa, ou em\num dia, não é um sim para tudo ou para a próxima.\n\nO consentimento pode ser retirado a qualquer momento, e “pare” ou “não esta noite” é uma resposta completa que não precisa de\njustificativa. Pressionar, sentir-se culpado, ficar de mau humor até ela ceder ou tratar o sexo como algo\nvocê está em dívida não está bem - um relacionamento não é uma dívida.",
-      "deep": "Como é o respeito na prática:\n\n- **Pergunte e faça o check-in.** \"Está tudo bem?\" e prestando atenção em como ela responde – palavras e corpo.\n- **Aceite \"não\" graciosamente.** Sem fazer beicinho, pressão ou punição. A resposta dela é o fim de tudo.\n- **O entusiasmo é importante.** Se ela parecer insegura, hesitante ou apenas concordar, pare e pergunte.\n- **Seu corpo, seu chamado** — sobre intimidade, contracepção, gravidez, sua saúde, sua aparência, sua\n  escolhas. Você tem voz em sua vida compartilhada, nunca veto sobre o corpo dela.\n- **O respeito é diário.** Como você fala com ela, sobre ela e trata seus limites nas pequenas coisas é\n  a base sobre a qual todo o resto se apoia.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "listening-and-support": {
-      "title": "Escuta e apoio emocional",
-      "aliases": [
-        "como ouvir",
-        "apoio emocional para parceiros",
-        "comunicação",
-        "estar lá para ela"
-      ],
-      "glance": "Na maioria das vezes ela precisa ser ouvida, não corrigida – ouça primeiro e pergunte antes de aconselhar.",
-      "overview": "Quando alguém que amamos está passando por dificuldades, o instinto é intervir e resolver o problema. Mas muitas vezes o que mais ajuda\nestá se sentindo genuinamente ouvida: que seus sentimentos fazem sentido e ela não está sozinha com eles. Consertando também\nrápido pode cair como \"seus sentimentos são um problema para encerrar\".\n\nOuvir bem é uma habilidade que qualquer um pode aprender. É principalmente atenção: desligar o telefone, ficar de frente para ela,\ne deixá-la terminar. Você não precisa concordar com todos os pontos para fazê-la se sentir respeitada.",
-      "deep": "Maneiras práticas de aparecer:\n\n- **Ouça para entender, não para responder.** Deixe-a falar sem interromper ou planejar sua defesa.\n- ** Reflita de volta. ** \"Isso parece muito estressante\" ou \"Eu entendo por que isso dói\" é melhor do que \"simplesmente não\n  se preocupe com isso\".\n- **Pergunte antes de aconselhar.** \"Você quer ajuda para pensar sobre isso ou apenas quer que eu ouça?\"\n- **Não leve para o lado pessoal** quando um dia difícil não é sobre você. A estabilidade é um presente.\n- **Assuma sua parte.** Se você entendeu algo errado, um verdadeiro pedido de desculpas - sem \"mas\" - reconstrói a confiança.\n- **Observe o quadro geral.** Se ela parecer persistentemente deprimida, ansiosa ou não ela mesma, gentilmente\n  incentive o apoio e ofereça-se para ajudá-la a alcançá-lo. Você é um companheiro de equipe, não um terapeuta.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "respect-not-control": {
-      "title": "Respeito, não controle",
-      "aliases": [
-        "comportamento controlador",
-        "controle coercitivo",
-        "relacionamento saudável",
-        "sinais de alerta",
-        "onde obter ajuda",
-        "abuso"
-      ],
-      "glance": "O amor se baseia no respeito e na liberdade – controle, ciúme e pressão não são amor, e a ajuda existe.",
-      "overview": "Um relacionamento saudável baseia-se no respeito, na confiança, na igualdade e na liberdade: duas pessoas que mantêm cada uma a sua\npróprias amizades, escolhas e espaço. O controle é o oposto. Muitas vezes se esconde atrás de palavras como amor ou\nciúme - \"Eu verifico seu telefone porque me importo\", \"Não quero que você os veja porque te amo\" - mas\nseu efeito é encolher seu mundo e sua liberdade.\n\nO controle raramente começa com violência. Geralmente começa pequeno – uma crítica, um limite ultrapassado, uma\n\"piada\" que dói - e cresce. Nomeá-lo antecipadamente é importante, porque o controle coercitivo é em si uma forma de\nabuso e um sinal de alerta para o pior. Não se trata de culpa; trata-se de honestidade e mudança.",
-      "deep": "**Se você reconhece alguns deles em si mesmo, essa consciência é um ponto de partida – não uma sentença de prisão perpétua.**\nAs pessoas podem mudar com esforço real e a ajuda certa. Alcançando um programa dedicado para homens\nque querem deixar de ser controladores ou violentos é sinal de força, não de fraqueza. Fale com um\nprofissional, um médico ou um serviço de mudança de comportamento masculino.\n\nSe **ela** é quem está em perigo, ou você está preocupado com alguém, incentive-a e apoie-a a alcançar\najuda - nos termos dela, nunca assumindo o controle.\n\n**Onde obter ajuda**\n- Em caso de emergência, ou se alguém estiver em perigo imediato, ligue para o número de emergência local\n  (**112** na Itália e grande parte da Europa; **911** nos EUA).\n- **Itália — 1522**: linha de apoio nacional contra violência e perseguição. Gratuito, 24 horas por dia, 7 dias por semana, anônimo e\n  multilingue, gerido pelo Departamento para a Igualdade de Oportunidades. Também orienta as pessoas para locais\n  centros anti-violência (centri antiviolenza).\n- Centros anti-violência e programas de mudança de comportamento masculino (em Itália, \"centri per uomini autori di\n  violência\") oferecem apoio confidencial à mudança.",
-      "when_to_see_doctor": null,
-      "red_flags": "Sinais de alerta de comportamento controlador ou abusivo – que vale a pena levar a sério em você mesmo ou em um relacionamento:\n\n- **Monitoramento ou isolamento**: verificar o telefone dela, rastrear sua localização ou interrompê-la\n  amigos e familiares.\n- **Controle sobre escolhas**: dinheiro, o que veste, aonde vai, quem vê.\n- **Ciúme enquadrado como amor**, acusações constantes ou necessidade de saber onde ela está o tempo todo.\n- **Reprimendas, culpas ou fazê-la sentir medo**, culpa ou \"pisar em ovos\".\n- **Pressão ou ameaças** sobre sexo, rompimento ou automutilação para obter conformidade.\n- **Qualquer força física, intimidação ou medo.** Se isso estiver presente, é abuso - procure ajuda\n  acima. Nunca há uma desculpa e nunca é culpa dela."
-    },
-    "supporting-her-period": {
-      "title": "Apoiando-a durante a menstruação",
-      "aliases": [
-        "ajudando durante a menstruação",
-        "suporte de período para parceiros",
-        "cuidados menstruais"
-      ],
-      "glance": "A menstruação pode trazer dor e cansaço reais – pequenos cuidados práticos fazem uma grande diferença.",
-      "overview": "A menstruação não consiste apenas em alguns dias de sangramento; para muitos, vem com cólicas, dores nas costas, dores de cabeça,\ncansaço e baixa energia. A dor menstrual é comum e pode ser realmente desgastante – não é um\nexagero. Trate-o da mesma forma que trataria qualquer parceiro que não esteja bem: com gentileza prática.\n\nNormalize isso também. A menstruação não é nojenta, constrangedora ou tabu. Estar confortável comprando absorventes ou\ntampões, manter alguns em casa ou entregar-lhe uma bolsa de água quente sem complicações indica que ela está segura e\nsuportado.",
-      "deep": "Coisas simples que ajudam:\n\n- **Calor e descanso.** Uma bolsa de água quente ou almofada térmica na parte inferior da barriga alivia cólicas; oferecer um silêncio\n  noite em.\n- **Tire as coisas do prato dela.** Cozinhe, arrume, faça as tarefas, leve-a - a ajuda prática é mais difícil\n  do que palavras.\n- **Mantenha os suprimentos.** Saiba o que ela usa e mantenha um estoque, para que um dia pesado nunca seja uma crise.\n- **Análgicos e comida reconfortante** se ela quiser; a escolha dela.\n- **Não pressione por sexo ou energia que ela não tem.** A proximidade pode ser um abraço no sofá.",
-      "when_to_see_doctor": "Incentive-a a consultar um médico (e ofereça-se para acompanhá-la) se a dor menstrual for **forte, piorar,\nou interrompê-la da vida diária**, se a menstruação for **muito intensa** (imersão em proteção de hora em hora,\ncoágulos grandes) ou se a dor for nova e incomum – isso pode indicar condições como endometriose que\nmerecem os devidos cuidados.",
-      "red_flags": null
-    },
-    "the-premenstrual-days": {
-      "title": "Os dias pré-menstruais",
-      "aliases": [
-        "PMS para parceiros",
-        "apoiando-a antes da menstruação",
-        "suporte pré-menstrual",
-        "suporte à fase lútea"
-      ],
-      "glance": "Nos dias anteriores à menstruação, ela pode se sentir mais cansada, sensível ou deprimida – enfrente isso com paciência, não com piadas.",
-      "overview": "Cerca de uma semana antes da menstruação, muitas pessoas apresentam sintomas pré-menstruais: alterações de humor, irritabilidade\nou sensação de desânimo, cansaço, seios doloridos, inchaço, dores de cabeça ou dificuldade para dormir. É muito comum\ne é real – impulsionado pela mudança hormonal natural da fase lútea, não pela sua “reação exagerada”.\n\nPara um número menor de pessoas, o mau humor é grave (uma condição chamada TDPM) e merece atenção real.\napoio e cuidados médicos. De qualquer forma, seu trabalho não é diagnosticá-la ou consertá-la — é ser firme e\ngentil.\n\nA coisa mais prejudicial que um parceiro pode fazer aqui é transformá-lo em uma arma: \"você está apenas com TPM\", revirar os olhos,\nou tratar seus sentimentos como inválidos por causa do encontro. Isso a descarta e acrescenta dor a uma situação difícil.\nsemana. Seus sentimentos ainda contam, mesmo quando os hormônios fazem parte do cenário.",
-      "deep": "O que realmente ajuda nesses dias:\n\n- ** Alivie a carga dela. ** Faça tarefas domésticas, cozinhe ou faça a lista mental de tarefas sem ser solicitado.\n- **Conforto, não correção.** Ofereça calor, descanso, uma bolsa de água quente, sua comida favorita - e deixe\n  ela sente o que ela sente.\n- **Ouça primeiro.** Se ela estiver chateada, \"isso parece muito difícil\" é sempre melhor do que \"acalme-se\".\n- **Não marque pontos.** Um dia mais difícil não é uma dívida que ela tenha com você mais tarde.\n- **Pergunte o que ela precisa** — alguns querem proximidade, outros querem espaço. Ambos estão bem; respeite a resposta dela.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "understanding-her-cycle": {
-      "title": "Entendendo seu ciclo",
-      "aliases": [
-        "guia do parceiro para o ciclo",
-        "ciclo para parceiros",
-        "como funciona o ciclo dela",
-        "apoiando seu ciclo"
-      ],
-      "glance": "O corpo dela passa por um ciclo mensal com quatro fases – conhecer o básico ajuda você a apoiá-la sem adivinhar.",
-      "overview": "O ciclo menstrual é um ritmo aproximadamente mensal, em média cerca de 28 dias, mas geralmente em qualquer lugar entre 21\na 35, e normal para ela é o que é normal para *ela*. Funciona em quatro fases: a **menstrual**\nfase (menstruação), a fase **folicular**, a **ovulação** no meio e a fase **lútea**\nfase antes do próximo período.\n\nEnergia, humor, sono e desejo podem mudar nessas fases porque os hormônios sobem e descem – isso é\nbiologia, não uma falha de caráter e não algo para provocá-la. Algumas pessoas sentem uma verdadeira queda no\ndias antes da menstruação; outros mal percebem. Não existe uma única maneira “certa” de sentir.\n\nVocê não precisa se tornar um especialista. O que mais ajuda é simples: saber aproximadamente onde ela está no ciclo\n(este aplicativo pode mostrar a você, com a permissão dela), espere que alguns dias sejam mais difíceis que outros e pergunte\nela o que *ela* acha útil, em vez de presumir.",
-      "deep": "Algumas coisas que vale a pena saber, para que os mitos não preencham a lacuna:\n\n- **\"Na menstruação\" não é um insulto ou uma explicação para discordar dela.** Usar seu ciclo para\n  descartar os sentimentos dela (\"você é apenas hormonal\") é desrespeitoso e geralmente errado. Suas razões\n  ainda são seus motivos.\n- **O ciclo afeta mais do que a menstruação.** Cólicas, dores de cabeça, seios sensíveis, baixa energia ou diminuição\n  o humor pode fazer parte disso. A ajuda prática supera o conselho.\n- **O rastreamento é dela.** Se ela compartilhar seu ciclo com você, trate isso como uma janela de como ela pode ser\n  sentimento - um convite para ser gentil, nunca uma ferramenta para monitorá-la ou controlá-la.\n- **Em caso de dúvida, pergunte.** \"Como você está se sentindo hoje? Posso fazer alguma coisa?\" vale mais do que qualquer gráfico.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "child-abuse": {
-      "title": "Abuso infantil e segurança das crianças",
-      "aliases": [
-        "abuso infantil",
-        "maus-tratos infantis",
-        "segurança infantil",
-        "proteger uma criança",
-        "preocupada com uma criança",
-        "negligenciar"
-      ],
-      "glance": "Se estiver preocupada com a possibilidade de uma criança estar a ser maltratada ou negligenciada, é correto procurar aconselhamento — não é necessário ter a certeza.",
-      "overview": "O abuso infantil — ou maus-tratos infantis — consiste em causar danos a qualquer pessoa com menos de 18 anos. Inclui abuso físico, sexual e emocional, bem como negligência (não satisfazer as necessidades básicas da criança). Infelizmente, é comum, pode causar danos para toda a vida e a culpa nunca é da criança.\n\nPode estar preocupada com uma criança que faz parte da sua vida ou com uma criança que chamou a sua atenção. Não precisa de ter a certeza, nem de ter provas, para agir com base nessa preocupação — confiar nela e pedir conselho é exatamente o que se deve fazer, e isso pode proteger uma criança.\n\nE se você própria sofreu abusos na infância, saiba que o dano nunca foi culpa sua e que também há apoio disponível para si, em qualquer idade.",
-      "deep": null,
-      "when_to_see_doctor": "- Se estiver preocupada com uma criança, pode contactar **os serviços de proteção à infância / serviços sociais**, uma **linha de apoio dedicada à proteção à infância** ou um **médico de família, um profissional de saúde comunitário ou a escola da criança** para obter aconselhamento — de forma confidencial.\n- Não estás a «exagerar» ao perguntar. É melhor verificar do que esperar.",
-      "red_flags": "- Se uma criança estiver em **perigo imediato** ou gravemente ferida, contacte imediatamente os serviços de emergência: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá."
-    },
-    "coercive-control": {
-      "title": "Controlo coercivo",
-      "aliases": [
-        "controlo coercivo",
-        "comportamento controlador",
-        "abuso emocional",
-        "abuso psicológico",
-        "isolamento",
-        "abuso financeiro",
-        "manipulação psicológica"
-      ],
-      "glance": "O controlo coercivo é um padrão de comportamento controlador — isolamento, vigilância, ameaças — que constitui uma forma reconhecida de abuso.",
-      "overview": "O controlo coercivo é uma forma de abuso que se manifesta através do controlo, em vez de, ou além de, danos físicos. Trata-se de um padrão — e não de uma discussão isolada — em que uma pessoa limita gradualmente a liberdade e a identidade da outra.\n\nPode manifestar-se como o isolamento dos amigos e da família, o controlo ou a restrição do telemóvel, dos movimentos ou das despesas, o facto de lhe dizerem o que vestir ou como se comportar, ou de viver sob críticas, ameaças ou intimidação constantes. Como pode não haver hematomas, pode ser difícil identificá-lo, e os outros podem não o perceber — mas é reconhecido como abuso e pode ser tão prejudicial quanto a violência física.\n\nSe reconheceres alguma destas situações, isso não significa que sejas demasiado sensível ou que tenhas sido tu a provocar a situação. O comportamento controlador é uma escolha que a outra pessoa faz. Compreendê-lo pelo que realmente é pode ser o primeiro passo para obter apoio.",
-      "deep": "O controlo coercivo desenvolve-se frequentemente de forma gradual, o que contribui para que seja difícil de identificar a partir de dentro — pequenos controlos tornam-se normais e a insegurança cresce. Com o tempo, isso vai afetando a saúde mental. Conversar sobre o assunto com alguém com formação para compreender estes padrões pode ajudá-la a ver a situação com mais clareza e a pensar no que quer fazer a seguir, sem pressão.",
-      "when_to_see_doctor": "- Um centro de apoio contra a violência ou uma linha de apoio (em Itália, **1522**) pode ouvir o que estás a passar, de forma confidencial e gratuita, e ajudar-te a compreender as tuas opções — não precisas de estar em perigo físico para procurares ajuda.\n- Um médico de clínica geral ou um conselheiro também pode apoiar-te e indicar-te serviços especializados.",
-      "red_flags": "- Se estiver em **perigo imediato**, contacte imediatamente os serviços de emergência: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o **1522** é gratuito, está disponível 24 horas por dia, é anónimo e multilingue — por telefone ou chat."
-    },
-    "economic-abuse": {
-      "title": "Abuso económico",
-      "aliases": [
-        "abuso económico",
-        "abuso financeiro",
-        "gestão financeira",
-        "gestão das finanças",
-        "dívida em meu nome"
-      ],
-      "glance": "O abuso económico consiste em controlar o acesso de alguém ao dinheiro, ao trabalho ou aos recursos — uma forma reconhecida de abuso.",
-      "overview": "O abuso económico ocorre quando alguém controla o acesso de outra pessoa ao dinheiro e às coisas que o dinheiro permite comprar. É uma forma de comportamento controlador e, muitas vezes, acompanha outros tipos de abuso.\n\nPode traduzir-se em controlar todas as despesas ou obrigá-la a prestar contas de cada cêntimo, ficar com o seu salário ou subsídios, contrair dívidas em seu nome, ocultar-lhe contas bancárias ou documentos, ou impedir-lhe de trabalhar ou estudar. Como pode deixar uma pessoa sem meios para sair da situação ou para gerir o dia a dia, esta é uma das formas através das quais o abuso pode parecer uma armadilha.\n\nSe alguma destas situações lhe parecer familiar, isso não significa que seja «má a gerir o dinheiro» nem que tenha culpa. Controlar os recursos de outra pessoa é uma escolha que essa pessoa faz — e é reconhecido como abuso.",
-      "deep": null,
-      "when_to_see_doctor": "- Os serviços de combate à violência também podem ajudar neste aspeto — não só em matéria de segurança, mas também com medidas práticas e financeiras, de forma confidencial e gratuita (em Itália, a linha de apoio **1522** pode indicar-lhe os serviços de apoio locais).\n- Um plano de segurança pode incluir garantir, discretamente, o acesso a algum dinheiro, documentos essenciais e números importantes.",
-      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o número **1522** — gratuito, disponível 24 horas por dia, anónimo e multilingue — pode prestar apoio por telefone ou chat."
-    },
-    "getting-help": {
-      "title": "Onde obter ajuda",
-      "aliases": [
-        "obter ajuda",
-        "quem contactar",
-        "linhas de apoio",
-        "números úteis",
-        "centro de combate à violência",
-        "1522",
-        "números de emergência"
-      ],
-      "glance": "Está disponível ajuda gratuita e confidencial — em caso de emergência, ligue para o número de emergência local; em Itália, ligue para o 1522 a qualquer hora.",
-      "overview": "Se estiver a sofrer abusos, não tem de enfrentar esta situação sozinha, e procurar ajuda não a compromete a nada. Há pessoas cujo trabalho consiste precisamente em ouvir e ajudar, em total confidencialidade e de forma gratuita.\n\nExistem vários tipos de ajuda a coexistir:\n\n- **Serviços de emergência** — em caso de perigo imediato, ligue para o número de emergência local (abaixo).\n- **Uma linha de apoio nacional** — em Itália, o **1522**, a linha de apoio gratuita contra a violência e o assédio: aberta 24 horas por dia, anónima, disponível em várias línguas, por telefone ou chat online.\n- **Centros antiviolência** (em Itália, *centri antiviolenza*) — serviços locais que oferecem apoio gratuito e confidencial, planeamento de segurança e assistência jurídica e psicológica.\n- **Serviços de saúde** — um médico de família ou o serviço de urgências de um hospital, onde o pessoal está cada vez mais formado para reconhecer situações de abuso e encaminhá-la para serviços de apoio.\n- **Pessoas em quem confias** — um amigo ou familiar com quem te sentes segura.\n\nPodes começar pelo que te parecer mais viável e não precisas de ter decidido nada.",
-      "deep": null,
-      "when_to_see_doctor": "- Podes falar com um **médico de família ou num hospital**, em total confidencialidade, sobre o que está a acontecer; eles podem tratar quaisquer lesões e encaminhar-te para serviços especializados.\n- Se for mais fácil escrever do que falar, o **chat 1522** é outra forma de contacto.",
-      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- **Itália:** **1522** (gratuito, 24 horas por dia, 7 dias por semana, anónimo, multilingue — chamada ou chat).\n- Os números das linhas de apoio variam de país para país. A aplicação pode mostrar os números do seu país, e o site **findahelpline.com** lista linhas de apoio contra a violência em todo o mundo (deteta o seu país e tem um botão de saída rápida). Se estiver na UE, o **112** funciona em qualquer lugar."
-    },
-    "recognising-abuse": {
-      "title": "Como reconhecer uma relação abusiva",
-      "aliases": [
-        "reconhecer a violência",
-        "relação abusiva",
-        "violência doméstica",
-        "violência por parte do parceiro íntimo",
-        "sinais de abuso",
-        "Estarei a ser vítima de abuso?"
-      ],
-      "glance": "O abuso pode ser físico, sexual, emocional ou de controlo — e a culpa nunca é da pessoa que o sofre.",
-      "overview": "A violência numa relação não é apenas física. Pode assumir várias formas, muitas vezes em simultâneo: agressão física, coação sexual, danos emocionais ou psicológicos e comportamentos controladores — um parceiro que decide onde vais, com quem te encontras ou o que podes fazer. Qualquer uma destas situações pode constituir violência, mesmo quando não há lesões visíveis.\n\nÉ mais comum do que muitas pessoas imaginam. A nível mundial, cerca de 1 em cada 3 mulheres sofre violência física ou sexual ao longo da vida, na maioria das vezes por parte de um parceiro; o panorama em Itália é semelhante. Portanto, se isto faz parte da sua vida, não está sozinha e não é algo que tenha provocado.\n\nPode ser difícil identificar a situação — o abuso surge frequentemente misturado com momentos bons, desculpas ou promessas de mudança, e pode ir-se acumulando tão lentamente que acaba por parecer normal. Confiar na tua própria sensação de que algo está errado é uma razão válida para procurar ajuda. Não precisa de ter a certeza, nem de esperar que a situação se torne «suficientemente grave», para falar com alguém.",
-      "deep": "Por detrás das diferentes formas que assume, o abuso tende a seguir um padrão em que uma pessoa procura exercer poder e controlo sobre outra, e pode agravar-se com o tempo. Isso tem um impacto significativo na saúde — está associado à ansiedade, à depressão, a dificuldades em dormir e a efeitos físicos a longo prazo. Nada disso significa que sejas fraca ou que a culpa seja tua; significa apenas que o que estás a viver é prejudicial e que existe apoio para te ajudar a refletir sobre a situação com segurança e ao teu próprio ritmo.",
-      "when_to_see_doctor": "- Podes falar com alguém em confidência sempre que estiveres pronta — um médico de família ou enfermeiro, um centro de combate à violência ou uma linha de apoio (em Itália, **1522**, gratuita e disponível a qualquer hora). Não precisas de provas, de um plano ou de uma decisão prévia; eles estão lá para te ouvir e para te ajudar a compreender as tuas opções.\n- Um profissional de saúde também pode tratar quaisquer lesões e encaminhá-la discretamente para apoio especializado.",
-      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o **1522** — a linha de apoio nacional gratuita contra a violência e o assédio — está disponível 24 horas por dia, de forma anónima, por telefone ou chat, em várias línguas."
-    },
-    "safety-plan": {
-      "title": "Elaborar um plano de segurança",
-      "aliases": [
-        "plano de segurança",
-        "manter-se segura",
-        "manter-se segura",
-        "planeamento de segurança",
-        "partir em segurança"
-      ],
-      "glance": "Um plano de segurança consiste em alguns passos práticos para a ajudar a manter-se mais segura — e os serviços especializados podem ajudá-la a elaborar um.",
-      "overview": "Um plano de segurança consiste simplesmente em pensar antecipadamente em como se manter (e manter as crianças) mais segura. Não se trata de uma decisão de partir ou de ficar — trata-se de estar um pouco mais preparada, seja qual for a sua escolha.\n\nPara algumas pessoas, ajuda ter algumas coisas discretamente preparadas: uma pessoa de confiança que saiba o que se está a passar, documentos importantes e números de contacto acessíveis, um pequeno saco com o essencial, uma noção das formas mais seguras de sair de casa ou uma palavra ou sinal que indique a alguém que precisa de ajuda. O que faz sentido depende inteiramente da sua própria situação.\n\nNão tens de resolver isto sozinha, e muitas vezes é mais seguro não o fazeres. Os serviços de combate à violência têm experiência em elaborar planos de segurança com as pessoas, de forma confidencial e gratuita — incluindo para o período em que se prepara a saída, que pode ser um momento de maior risco e que vale a pena planear com apoio, em vez de o fazer à pressa.",
-      "deep": null,
-      "when_to_see_doctor": "- Contacte um centro de combate à violência ou uma linha de apoio (em Itália, **1522**) para elaborar um plano adequado à sua situação — eles fazem isto todos os dias, de forma confidencial, e podem ajudar com medidas práticas, legais e emocionais.\n- Se estiveres a manter algum registo do que está a acontecer, guarda-o num local privado e seguro.",
-      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o número **1522** — gratuito, disponível 24 horas por dia, anónimo e multilingue — pode prestar apoio por telefone ou chat, incluindo no planeamento de medidas de segurança urgentes."
-    },
-    "sexual-violence": {
-      "title": "Violência sexual e consentimento",
-      "aliases": [
-        "violência sexual",
-        "agressão sexual",
-        "violação",
-        "consentimento",
-        "abuso sexual",
-        "não consensual"
-      ],
-      "glance": "A violência sexual é qualquer ato sexual sem consentimento — e a culpa nunca é da pessoa que a sofreu.",
-      "overview": "Violência sexual significa qualquer ato sexual, ou tentativa de o praticar, sem consentimento ou através de coação. Inclui a violação e qualquer contacto sexual indesejado, e pode ser cometida por qualquer pessoa — um estranho, um conhecido, um parceiro ou um cônjuge.\n\nO consentimento está no cerne da questão. Consentimento significa concordar livremente, e isso não é possível quando alguém está a dormir, inconsciente, embriagado ou sob o efeito de drogas, é uma criança, ou está sob pressão, a ser ameaçado ou com medo. Pode ser retirado a qualquer momento. Por isso, a violência sexual **nunca** é culpa da pessoa a quem aconteceu — não por causa do que vestia, se tinha bebido, se ficou paralisada em vez de lutar, ou se conhecia a pessoa.\n\nSe isto já te aconteceu, há apoio disponível, quer tenha sido recentemente ou há muito tempo. Acreditamos em ti, e o que fizeres a seguir é uma escolha tua.",
-      "deep": null,
-      "when_to_see_doctor": "- Pode dirigir-se a um **serviço de saúde, a um hospital ou a um serviço especializado em agressões sexuais**, que poderá prestar-lhe cuidados, tratar quaisquer lesões e — se assim o desejar — ajudá-la a apresentar queixa e a preservar as provas.\n- Algumas medidas de saúde são **urgentes** — por exemplo, a contraceção de emergência ou a prevenção de infeções — pelo que procurar ajuda **o mais cedo possível** pode ser útil. No entanto, não há prazo para procurar apoio, e a decisão de denunciar ou não é sempre sua.",
-      "red_flags": "- Se estiver em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Após uma agressão recente, um **hospital ou serviço especializado pode ajudar com urgência**. Em Itália, o número **1522** (gratuito, disponível 24 horas por dia, 7 dias por semana, anónimo e multilingue — por telefone ou chat) pode orientá-la para os cuidados adequados."
-    },
-    "stalking": {
-      "title": "Perseguição",
-      "aliases": [
-        "perseguição",
-        "ser perseguida",
-        "assédio",
-        "atenção indesejada",
-        "alguém que me segue",
-        "ciberperseguição"
-      ],
-      "glance": "O assédio é uma atenção repetida e indesejada que faz com que se sinta com medo ou insegura — e é levado a sério.",
-      "overview": "O assédio é um padrão de comportamento indesejado e repetido por parte de alguém que faz com que se sinta com medo, vigiada ou insegura. Pode incluir ser seguida, alguém aparecer onde está, chamadas ou mensagens constantes, presentes indesejados, vigilância online ou através do telemóvel, ou ameaças. É frequentemente praticado por um ex-parceiro ou por alguém que conhece, embora nem sempre seja esse o caso.\n\nO medo que isso provoca é válido, mesmo que cada ato individual possa parecer «pequeno» para os outros — o que importa é o padrão e a forma como isso te faz sentir. O assédio é reconhecido como uma forma de abuso e, em muitos países, constitui um crime. Nada disto é culpa tua e não tens de simplesmente conviver com isso.\n\nSe for seguro fazê-lo, manter um registo pode ajudar mais tarde: datas e horas, capturas de ecrã de mensagens e o que aconteceu. Não tens de decidir sozinha se isso «conta» — os serviços de apoio podem ajudar-te a compreender a situação e a ponderar as tuas opções.",
-      "deep": null,
-      "when_to_see_doctor": "- Contacte a **polícia** para denunciar o assédio, e uma linha de apoio contra a violência ou o assédio para obter apoio e aconselhamento (em Itália, o **1522** destina-se à violência **e** ao assédio).\n- Guardar provas e elaborar um plano de segurança, com a ajuda de um serviço especializado, podem, ambos, fazer uma diferença significativa.",
-      "red_flags": "- Se se sentir em **perigo imediato**, contacte os serviços de emergência agora: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o número **1522** — gratuito, disponível 24 horas por dia, anónimo e multilingue — pode prestar apoio por telefone ou chat."
-    },
-    "supporting-someone": {
-      "title": "Apoiar alguém que está a sofrer violência",
-      "aliases": [
-        "apoiar alguém",
-        "ajudar uma amiga",
-        "como ajudar",
-        "alguém que esteja a sofrer abuso",
-        "como prestar apoio"
-      ],
-      "glance": "Se alguém que conhece estiver a sofrer abuso, ouvir sem julgar — e saber para onde encaminhá-la — ajuda.",
-      "overview": "Perceber que alguém de quem se gosta pode estar a sofrer abuso é difícil, e querer ajudar é um bom instinto. As coisas mais úteis que se podem oferecer são, muitas vezes, as mais simples.\n\nOuve-as e acredita nelas. Deixa-as falar ao seu próprio ritmo, sem julgar, culpar ou perguntar o que fizeram para que isso acontecesse. Diz claramente que a culpa não é delas e que não merecem isso. Tente não lhes dizer o que fazer nem pressioná-las a sair: a decisão de sair é delas, e fazê-lo à pressa pode, na verdade, aumentar o perigo — o que mais ajuda é que se sintam apoiadas e não sozinhas.\n\nMantenha em sigilo o que ela lhe contar. Ajude-a gentilmente a encontrar apoio especializado quando ela estiver pronta — uma linha de apoio como o **1522** em Itália, ou um centro local de combate à violência — e ofereça ajuda prática, como procurar os números em conjunto ou estar presente quando ela ligar. E cuide também de si; apoiar alguém nesta situação pode ser desgastante.",
-      "deep": null,
-      "when_to_see_doctor": "- Incentive-a (sem pressão) a contactar uma linha de apoio ou um centro de combate à violência, que poderá orientar ambas sobre o que fazer a seguir. Pode oferecer-se para ajudá-la a fazer a chamada ou a encontrar o número.\n- Se estiverem feridas, um médico de clínica geral ou um hospital podem ajudá-las — e encaminhá-las para serviços de apoio.",
-      "red_flags": "- Se estiverem em **perigo imediato**, liguem para os serviços de emergência: **112** na UE (incluindo Itália), **999** no Reino Unido, **911** nos EUA e no Canadá.\n- Em Itália, o número **1522** (gratuito, disponível 24 horas por dia, 7 dias por semana, anónimo e multilingue — por telefone ou chat) também pode aconselhá-la sobre como ajudar alguém."
     }
   },
   "categories": {
@@ -1180,8 +1231,8 @@
       "summary": "Dor, sangramento ligeiro, corrimento, alterações de humor — o que o seu corpo lhe pode estar a dizer."
     },
     "conditions": {
-      "title": "Condições",
-      "summary": "PCOSa, endometriose, miomas e muito mais — explicados, com referências."
+      "title": "Patologias",
+      "summary": "SOP, endometriose, miomas e muito mais — explicados, com referências."
     },
     "sexual-and-intimate-health": {
       "title": "Saúde sexual e íntima",

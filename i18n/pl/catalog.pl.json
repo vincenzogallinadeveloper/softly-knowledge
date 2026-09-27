@@ -96,9 +96,9 @@
       "red_flags": "- Zadzwoń pod numer **999 lub udaj się na pogotowie**, jeśli wystąpi **silne krwawienie** — na przykład gdy podpaska przemoczy się wkrótce po\n  jej założeniu — zwłaszcza w połączeniu z **silnym bólem brzucha, bólem w okolicy łopatek lub mdłościami, omdleniem,\n  zawrotami głowy lub utratą przytomności.** Wymaga to natychmiastowej pomocy medycznej."
     },
     "breast-awareness": {
-      "title": "Świadomość dotycząca piersi",
+      "title": "Znajomość własnych piersi",
       "aliases": [
-        "świadomość dotycząca piersi",
+        "znajomość własnych piersi",
         "badanie piersi",
         "samobadanie piersi",
         "samobadanie piersi",
@@ -125,11 +125,28 @@
       "when_to_see_doctor": "- Jeśli karmienie jest bolesne lub trudne albo\n  martwisz się, że Twoje dziecko nie otrzymuje wystarczającej ilości pokarmu, poproś o pomoc **położną lub pielęgniarkę środowiskową** już na wczesnym etapie — wsparcie może naprawdę wiele zmienić.\n- Sposób karmienia dziecka to osobista decyzja, a wsparcie jest dostępne niezależnie od tego, co wybierzesz; liczy się\n  tylko to, abyście ty i twoje dziecko czuli się dobrze.",
       "red_flags": null
     },
+    "brown-discharge": {
+      "title": "Brązowe upławy",
+      "aliases": [
+        "brązowe upławy",
+        "brązowa wydzielina",
+        "brązowe plamienie",
+        "brązowa krew",
+        "stara krew",
+        "ciemna wydzielina z pochwy",
+        "brązowa miesiączka"
+      ],
+      "glance": "Brązowa wydzielina to zwykle niewielka ilość krwi, często w lżejsze dni miesiączki. Brązowe plamienie w innym czasie warto sprawdzić.",
+      "overview": "Brązowa wydzielina to niewielka ilość brązowawej krwi lub płynu, którą zauważasz na bieliźnie lub na papierze toaletowym. Wiele osób spotyka się z nią w którymś momencie i bardzo często jest to po prostu część miesiączki.\n\nKrew miesiączkowa nie zawsze jest jaskrawoczerwona. W najobfitsze dni jest zwykle czerwona, ale w lżejsze dni może wyglądać na różową lub brązową. Brązowawy odcień w lżejsze dni miesiączki jest więc czymś częstym i normalnym.\n\nBrązowa wydzielina może pojawić się także w innym czasie. Plamienie to niewielkie ślady różowej, czerwonej lub brązowej krwi, a plamienie między miesiączkami ma kilka częstych przyczyn. Jedną z częstszych jest antykoncepcja hormonalna, na przykład pigułka. Inne to niewielkie narośla w macicy lub wokół niej (takie jak polipy lub mięśniaki) oraz infekcje, takie jak chlamydia. W bardzo wczesnej ciąży niektóre osoby zauważają niewielkie plamienie mniej więcej wtedy, gdy powinna pojawić się miesiączka. Nazywa się to krwawieniem implantacyjnym.\n\nPonieważ brązowe plamienie poza miesiączką może mieć różne przyczyny, w większości niegroźne, lepiej nie zgadywać. Warto to sprawdzić, aby wiedzieć, co za tym stoi w Twoim przypadku.",
+      "deep": null,
+      "when_to_see_doctor": "- Zgłoś się do lekarza pierwszego kontaktu lub poradni zdrowia seksualnego, jeśli masz **brązowe plamienie lub krwawienie między miesiączkami albo po stosunku**, nawet niewielkie. Zwykle nie jest to nic poważnego, ale zawsze warto to sprawdzić.\n- Jeśli jesteś **w ciąży lub możesz w niej być**, skontaktuj się ze swoim oddziałem położniczym, poradnią wczesnej ciąży lub **NHS 111** w razie każdego plamienia, także brązowego, aby można było ustalić jego przyczynę.\n- Zgłoś się do lekarza pierwszego kontaktu, jeśli zauważysz **jakąkolwiek brązową lub różową wydzielinę albo krwawienie po menopauzie**, nawet jeśli jest ich niewiele lub zdarzyło się to tylko raz.\n- Zasięgnij porady lekarza pierwszego kontaktu, poradni zdrowia seksualnego lub **NHS 111**, jeśli Twoja wydzielina **zmieni kolor, zapach lub konsystencję** albo towarzyszy jej swędzenie, bolesność, ból miednicy lub ból przy oddawaniu moczu.",
+      "red_flags": "- Poproś o **pilną** wizytę u lekarza pierwszego kontaktu lub zadzwoń pod **NHS 111**, jeśli **niedawno nie pojawiła się u Ciebie miesiączka, a występuje nietypowe krwawienie wraz z bólem brzucha lub miednicy**. Trzeba to szybko sprawdzić, ponieważ może to być objaw ciąży pozamacicznej.\n- W ciąży zadzwoń pod **999**, jeśli krwawisz i masz **silny ból brzucha, ból barku, czujesz, że możesz zemdleć, masz zawroty głowy lub mdłości albo krwawienie jest obfite** (podpaska przesiąka wkrótce po założeniu)."
+    },
     "cervical-mucus": {
       "title": "Śluz szyjki macicy",
       "aliases": [
         "śluz szyjki macicy",
-        "wyładowanie",
+        "upławy",
         "wydzielina z pochwy",
         "wydzieliny z szyjki macicy",
         "śluz z białka jaja"
@@ -154,6 +171,39 @@
       "deep": null,
       "when_to_see_doctor": "- Badania przesiewowe są przeznaczone dla osób, które **nie** mają objawów. Jeśli w okresie między badaniami zauważysz coś niepokojącego\n  — na przykład nietypowe krwawienie (między miesiączkami, po stosunku lub po menopauzie) —\n  udaj się do lekarza pierwszego kontaktu, zamiast czekać na kolejne zaproszenie.\n- Jeśli otrzymałaś zaproszenie, ale masz wątpliwości lub obawy związane z wizytą, warto porozmawiać z lekarzem pierwszego kontaktu lub\n  pielęgniarką przychodni, którzy wyjaśnią Ci, na czym polega badanie, i odpowiedzą na Twoje pytania.",
       "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Przemoc wobec dzieci i zapewnienie im bezpieczeństwa",
+      "aliases": [
+        "przemoc wobec dzieci",
+        "przemoc wobec dzieci",
+        "bezpieczeństwo dzieci",
+        "ochrona dziecka",
+        "martwię się o dziecko",
+        "zaniedbanie"
+      ],
+      "glance": "Jeśli obawiasz się, że dziecko może być krzywdzone lub zaniedbywane, słuszne jest zasięgnięcie porady — nie musisz mieć co do tego pewności.",
+      "overview": "Przemoc wobec dzieci – lub złe traktowanie dzieci – to krzywda wyrządzona osobie poniżej 18 roku życia. Obejmuje przemoc fizyczną, seksualną i emocjonalną oraz zaniedbanie (niezaspokajanie podstawowych potrzeb dziecka). Niestety jest to zjawisko powszechne, może powodować trwałe szkody i nigdy nie jest winą dziecka.\n\nByć może martwisz się o dziecko z Twojego otoczenia lub o dziecko, które zwróciło Twoją uwagę. Nie musisz mieć pewności ani dowodów, aby podjąć działania w związku z tymi obawami — zaufanie własnej intuicji i poproszenie o radę to dokładnie to, co należy zrobić, a może to uratować dziecko.\n\nA jeśli sama doświadczyłaś przemocy w dzieciństwie, pamiętaj, że to, co ci się przydarzyło, nigdy nie było twoją winą i że pomoc jest dostępna również dla ciebie, niezależnie od wieku.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli martwisz się o dziecko, możesz skontaktować się z **służbami ochrony dzieci / opieki społecznej**, specjalną **infolinią ds. ochrony dzieci** lub **lekarzem rodzinnym, pielęgniarką środowiskową lub szkołą dziecka** w celu uzyskania porady — w pełnej poufności.\n- Zadając to pytanie, nie „przesadzasz”. Lepiej sprawdzić, niż czekać.",
+      "red_flags": "- Jeśli dziecko znajduje się w **bezpośrednim niebezpieczeństwie** lub jest poważnie ranne, należy natychmiast skontaktować się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie."
+    },
+    "coercive-control": {
+      "title": "Kontrola oparta na przymusie",
+      "aliases": [
+        "kontrola oparta na przymusie",
+        "zachowania kontrolujące",
+        "przemoc emocjonalna",
+        "przemoc psychiczna",
+        "izolacja",
+        "przemoc finansowa",
+        "manipulacja psychiczna"
+      ],
+      "glance": "Kontrola oparta na przymusie to wzorzec zachowań kontrolujących — izolowanie, monitorowanie, grożenie — który stanowi uznaną formę przemocy.",
+      "overview": "Kontrola oparta na przymusie to forma przemocy, która polega raczej na kontroli niż na przemocy fizycznej (lub obejmuje ją dodatkowo). Jest to wzorzec zachowań — a nie pojedyncza kłótnia — w ramach którego jedna osoba stopniowo ogranicza wolność i poczucie własnej tożsamości drugiej osoby.\n\nMoże to wyglądać na odcięcie od przyjaciół i rodziny, kontrolę lub ograniczenie dostępu do telefonu, przemieszczania się czy wydatków, narzucanie, w co się ubierać lub jak się zachowywać, albo życie w atmosferze ciągłej krytyki, gróźb lub zastraszania. Ponieważ mogą nie być widoczne żadne siniaki, trudno to nazwać, a inni mogą tego nie dostrzegać — jednak jest to uznawane za przemoc i może być równie szkodliwe jak przemoc fizyczna.\n\nJeśli rozpoznajesz w tym coś znajomego, nie oznacza to, że jesteś zbyt wrażliwa ani że sama się o to prosiłaś. Zachowania kontrolujące to wybór, którego dokonuje druga osoba. Zrozumienie tego, czym one naprawdę są, może być pierwszym krokiem w kierunku uzyskania wsparcia.",
+      "deep": "Kontrola oparta na przymusie często narasta powoli, co sprawia, że trudno ją dostrzec z perspektywy osoby, która jej doświadcza — drobne ograniczenia stają się normą, a narastają wątpliwości co do samej siebie. Z czasem ma to negatywny wpływ na zdrowie psychiczne. Rozmowa z osobą przeszkoloną w rozpoznawaniu takich schematów może pomóc ci spojrzeć na sytuację z większym dystansem i bez presji zastanowić się, co chcesz zrobić dalej.",
+      "when_to_see_doctor": "- W centrum pomocy ofiarom przemocy lub na infolinii (we Włoszech **1522**) możesz porozmawiać o tym, co przeżywasz – poufnie i bezpłatnie – oraz uzyskać pomoc w zrozumieniu dostępnych opcji – nie musisz znajdować się w fizycznym niebezpieczeństwie, aby się skontaktować.\n- Wsparcie może również zapewnić lekarz rodzinny lub doradca, którzy skierują Cię do odpowiednich specjalistów.",
+      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech numer **1522** jest bezpłatny, dostępny 24 godziny na dobę, zapewnia anonimowość i obsługę w wielu językach — przez telefon lub czat."
     },
     "combined-pill": {
       "title": "Pigułka złożona",
@@ -201,6 +251,20 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "consent-and-respect": {
+      "title": "Zgoda i szacunek",
+      "aliases": [
+        "zgoda",
+        "szanować jej granice",
+        "entuzjastyczną zgodę",
+        "autonomia cielesna"
+      ],
+      "glance": "Zgoda to wyraźne, dobrowolne i entuzjastyczne „tak” – za każdym razem, które można wycofać w dowolnym momencie.",
+      "overview": "Szacunek zaczyna się od jej prawa do decydowania o własnym ciele – zawsze. Zgoda na intymność oznacza: a\ndobrowolnie, świadomie, entuzjastycznie **tak**. Milczenie nie jest zgodą. Niechętna „grzywna” nie oznacza zgody.\nKtoś, kto śpi, jest bardzo pijany lub znajduje się pod presją, nie może tak naprawdę wyrazić zgody. I zgadzam się na jedną rzecz lub dalej\npewnego dnia nie oznacza zgody na wszystko ani na następny raz.\n\nZgodę można wycofać w dowolnym momencie, a „przestań” lub „nie dzisiaj” to pełna odpowiedź, która nie wymaga\nuzasadnienie. Naciskanie, wzbudzanie poczucia winy, dąsanie się, dopóki się nie podda, lub traktowanie seksu jako czegoś\njesteś coś winien, nie jest w porządku – związek nie jest długiem.",
+      "deep": "Jak szacunek wygląda w praktyce:\n\n- **Zapytaj i sprawdź.** „Czy wszystko w porządku?” i zwracanie uwagi na to, jak reaguje – słowa i ciało.\n- **Przyjmij „nie” z wdziękiem.** Żadnych wydęć, nacisków i kar. Jej odpowiedź oznacza koniec.\n- **Zapał ma znaczenie.** Jeśli wydaje się niepewna, waha się lub po prostu się zgadza, zatrzymaj się i zapytaj.\n- **Jej ciało, jej wołanie** — o intymności, antykoncepcji, ciąży, jej zdrowiu, jej wyglądzie, jej\n  wybory. Masz głos w swoim wspólnym życiu, a nie prawo weta wobec jej ciała.\n- **Szacunek jest codziennością.** Sposób, w jaki z nią rozmawiasz, o niej i traktujesz jej granice w małych rzeczach, taki jest\n  fundament, na którym opiera się wszystko inne.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
     "contraception": {
       "title": "Antykoncepcja",
       "aliases": [
@@ -210,8 +274,25 @@
       ],
       "glance": "Antykoncepcja to różne metody zapobiegania ciąży — a do wyboru jest ich wiele.",
       "overview": "Antykoncepcja — zwana czasem kontrolą urodzeń — to szereg metod stosowanych w celu zapobiegania ciąży.\nIstnieje wiele takich metod, a działają one na różne sposoby: niektóre wykorzystują hormony, inne stanowią barierę, jeszcze inne\numieszcza się w macicy, a niektóre opierają się na śledzeniu cyklu.\n\nSkuteczność danej metody w dużej mierze zależy od tego, jak jest stosowana. Niektóre metody — takie jak implant i\nwkładka domaciczna — działają na zasadzie „załóż i zapomnij” i są skuteczne w ponad 99%. Inne, takie jak pigułki antykoncepcyjne czy prezerwatywy, są\nbardzo skuteczne przy idealnym stosowaniu, ale nieco mniej skuteczne w codziennym, typowym użytkowaniu, ponieważ\nłatwiej jest zapomnieć o zażyciu pigułki lub nieprawidłowo założyć prezerwatywę.\n\nWarto wiedzieć, że **tylko prezerwatywy chronią również przed infekcjami przenoszonymi drogą płciową\n(STI)**. Pozostałe metody zapobiegają ciąży, ale nie chronią przed infekcjami, dlatego prezerwatywy są czasami\nstosowane w połączeniu z inną metodą.\n\nNie ma jednej „najlepszej” metody — wybór odpowiedniej zależy od Twojego stanu zdrowia, budowy ciała oraz tego, co najlepiej pasuje\ndo Twojego stylu życia. Lekarz rodzinny lub poradnia zdrowia seksualnego może omówić z Tobą dostępne opcje i pomóc w wyborze.",
-      "deep": "Ponieważ metody tak bardzo się od siebie różnią, warto zastanowić się, co jest dla Ciebie ważne: jak skuteczna jest dana metoda,\nczy wymaga codziennego pamiętania o czymś, jak długo działa, czy chcesz stosować hormony, czy\nnie, oraz czy w Twojej sytuacji istotna jest ochrona przedSTIacją. Wiele osób zmienia metody w ciągu swojego\nżycia, w miarę jak zmieniają się ich potrzeby. Niniejsza baza wiedzy opisuje, jak działają popularne metody, dzięki czemu\nwybór staje się bardziej przejrzysty — jednak decyzję, a także wszelkie kwestie związane z receptą lub dopasowaniem, należy podjąć wspólnie z\nlekarzem.",
+      "deep": "Ponieważ metody tak bardzo się od siebie różnią, warto zastanowić się, co jest dla Ciebie ważne: jak skuteczna jest dana metoda,\nczy wymaga codziennego pamiętania o czymś, jak długo działa, czy chcesz stosować hormony, czy\nnie, oraz czy w Twojej sytuacji istotna jest ochrona przed infekcjami przenoszonymi drogą płciową. Wiele osób zmienia metody w ciągu swojego\nżycia, w miarę jak zmieniają się ich potrzeby. Niniejsza baza wiedzy opisuje, jak działają popularne metody, dzięki czemu\nwybór staje się bardziej przejrzysty — jednak decyzję, a także wszelkie kwestie związane z receptą lub dopasowaniem, należy podjąć wspólnie z\nlekarzem.",
       "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Antykoncepcja a waga",
+      "aliases": [
+        "antykoncepcja a waga",
+        "czy od tabletek antykoncepcyjnych się tyje",
+        "tabletki antykoncepcyjne a tycie",
+        "tycie od antykoncepcji",
+        "przybieranie na wadze od pigułki",
+        "zastrzyk antykoncepcyjny a tycie",
+        "implant antykoncepcyjny a waga"
+      ],
+      "glance": "Nie ma dowodów, że pigułka złożona powoduje przybieranie na wadze, ale zastrzyk antykoncepcyjny może. Zależy to od metody.",
+      "overview": "Pytanie, czy antykoncepcja sprawi, że przytyjesz, pojawia się bardzo często. Szczera odpowiedź brzmi: zależy to od metody.\n\nW przypadku pigułki złożonej dane są uspokajające: nie ma dowodów na to, że jej przyjmowanie powoduje przybieranie na wadze. To samo dotyczy plastra antykoncepcyjnego i krążka dopochwowego.\n\nZastrzyk antykoncepcyjny to inna sprawa. Przybieranie na wadze figuruje wśród jego częstych działań niepożądanych, obok zmian w miesiączkach.\n\nW przypadku pigułki zawierającej wyłącznie progestagen (czasem nazywanej mini-pigułką) i implantu antykoncepcyjnego niektóre osoby zgłaszają przybranie na wadze. Nie ma jednak wystarczających dowodów, by stwierdzić, czy przyczyną jest sama metoda.\n\nWaga to tylko jeden element całości. Każda metoda ma własną listę możliwych działań niepożądanych i ryzyk, a wybór antykoncepcji polega na znalezieniu tego, co pasuje do Twojego ciała, zdrowia i stylu życia. Farmaceuta, lekarz pierwszego kontaktu, pielęgniarka lub poradnia zdrowia seksualnego mogą omówić z Tobą dostępne opcje.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli działania niepożądane, w tym zmiany masy ciała, są dla Ciebie problemem, skontaktuj się z farmaceutą, lekarzem pierwszego kontaktu, pielęgniarką lub poradnią zdrowia seksualnego. W przypadku pigułki złożonej, plastra lub krążka niektóre działania niepożądane mogą pojawić się na początku stosowania. Jeśli po około 3 miesiącach nadal Ci przeszkadzają, lekarz lub pielęgniarka mogą omówić z Tobą zmianę pigułki lub inny rodzaj antykoncepcji.",
       "red_flags": null
     },
     "contraceptive-implant": {
@@ -242,6 +323,21 @@
       "when_to_see_doctor": "- Udaj się do lekarza pierwszego kontaktu, jeśli Twoje miesiączki staną się nieregularne, ustaną lub zmienią się w sposób nietypowy dla Ciebie —\n  trwające zmiany mogą czasem wskazywać na coś, co warto zbadać.\n- Warto również porozmawiać z lekarzem, jeśli problemy z miesiączką wpływają na Twoje codzienne życie, abyś mogła uzyskać\n  wsparcie, zamiast po prostu się z nimi godzić.",
       "red_flags": null
     },
+    "economic-abuse": {
+      "title": "Przemoc ekonomiczna",
+      "aliases": [
+        "przemoc ekonomiczna",
+        "przemoc finansowa",
+        "zarządzanie finansami",
+        "zarządzanie finansami",
+        "zadłużenie na moje nazwisko"
+      ],
+      "glance": "Przemoc ekonomiczna polega na kontrolowaniu dostępu danej osoby do pieniędzy, pracy lub zasobów — jest to uznana forma przemocy.",
+      "overview": "Przemoc ekonomiczna ma miejsce, gdy ktoś kontroluje dostęp innej osoby do pieniędzy i rzeczy, które można za nie kupić. Jest to forma zachowań kontrolujących i często towarzyszy innym rodzajom przemocy.\n\nMoże to wyglądać na kontrolowanie wszystkich wydatków lub zmuszanie cię do rozliczania się z każdego grosza, zabieranie twojej pensji lub zasiłków, zaciąganie długów w twoim imieniu, ukrywanie przed tobą kont bankowych lub dokumentów albo uniemożliwianie ci pracy lub nauki. Ponieważ może to pozbawić osobę środków na opuszczenie związku lub radzenie sobie na co dzień, jest to jeden ze sposobów, w jaki przemoc może sprawiać wrażenie pułapki.\n\nJeśli niektóre z tych sytuacji wydają Ci się znajome, nie oznacza to, że „nie umiesz zarządzać pieniędzmi” ani że ponosisz za to winę. Kontrolowanie zasobów finansowych innej osoby jest wyborem tej osoby — i jest uznawane za przemoc.",
+      "deep": null,
+      "when_to_see_doctor": "- Pomoc w tym zakresie mogą również zapewnić organizacje zajmujące się przeciwdziałaniem przemocy — nie tylko w zakresie bezpieczeństwa, ale także praktycznych i finansowych kroków, w sposób poufny i bezpłatny (we Włoszech infolinia **1522** może skierować Cię do lokalnych ośrodków wsparcia).\n- Plan bezpieczeństwa może obejmować dyskretne zabezpieczenie dostępu do pewnej kwoty pieniędzy, kluczowych dokumentów i ważnych numerów.",
+      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech pod numerem **1522** — bezpłatnym, dostępnym 24 godziny na dobę, zapewniającym anonimowość i obsługiwanym w wielu językach — można uzyskać pomoc przez telefon lub czat."
+    },
     "ectopic-pregnancy": {
       "title": "Ciąża pozamaciczna",
       "aliases": [
@@ -250,7 +346,7 @@
         "ciąża jajowodowa"
       ],
       "glance": "Ciąża pozamaciczna rozwija się poza macicą — nie może się dalej rozwijać i wymaga natychmiastowej pomocy medycznej.",
-      "overview": "Ciąża pozamaciczna ma miejsce, gdy zapłodniona komórka jajowa zagnieżdża się poza macicą, najczęściej w jednym z\njajowodów. Niestety, ciąża w tej lokalizacji nie może rozwinąć się w dziecko i nie można jej\nprzenieść do macicy — dlatego zawsze wymaga leczenia.\n\nObjawy pojawiają się zazwyczaj między 4. a 12. tygodniem ciąży i mogą obejmować ból brzucha w dolnej części po jednej stronie,\nkrwawienie z pochwy lub brązową, wodnistą wydzielinę, ból w okolicy łopatki lub dyskomfort podczas\noddawania moczu lub wypróżniania. Zestaw objawów jest zróżnicowany, a niektóre z nich można łatwo pomylić z czymś niegroźnym,\ndlatego tak ważne jest, aby je zbadać.\n\nJest to rzadka, ale potencjalnie poważna sytuacja, więc nie należy zwlekać. Wczesne\nzasięgnięcie porady oznacza, że problem można bezpiecznie rozwiązać.",
+      "overview": "Ciąża pozamaciczna ma miejsce, gdy zapłodniona komórka jajowa zagnieżdża się poza macicą, najczęściej w jednym z\njajowodów. Niestety, ciąża w tej lokalizacji nie może rozwinąć się w dziecko i nie można jej\nprzenieść do macicy — dlatego zawsze wymaga leczenia.\n\nObjawy pojawiają się zazwyczaj między 4. a 12. tygodniem ciąży i mogą obejmować ból brzucha w dolnej części po jednej stronie,\nkrwawienie z pochwy lub brązową, wodnistą wydzielinę, ból w okolicy barku lub dyskomfort podczas\noddawania moczu lub wypróżniania. Zestaw objawów jest zróżnicowany, a niektóre z nich można łatwo pomylić z czymś niegroźnym,\ndlatego tak ważne jest, aby je zbadać.\n\nJest to rzadka, ale potencjalnie poważna sytuacja, więc nie należy zwlekać. Wczesne\nzasięgnięcie porady oznacza, że problem można bezpiecznie rozwiązać.",
       "deep": null,
       "when_to_see_doctor": "- Skontaktuj się ze swoim lekarzem rodzinnym lub zadzwoń pod numer **NHS 111**, jeśli występuje u Ciebie kombinacja tych objawów **i istnieje możliwość, że jesteś\n  w ciąży** — nawet jeśli wynik testu ciążowego nie był pozytywny. Ważne jest, aby natychmiast\n  uzyskać poradę.",
       "red_flags": "- Zadzwoń pod numer **999 lub udaj się na pogotowie**, jeśli odczuwasz **nagły, ostry i intensywny ból brzucha**, masz **silne\n  zawroty głowy lub uczucie omdlenia**, jesteś **bardzo blady** lub towarzyszą ci te objawy. Może to oznaczać pęknięcie jajowodu\n  — stan zagrożenia życia wymagający natychmiastowego leczenia."
@@ -268,7 +364,7 @@
       "glance": "Antykoncepcja awaryjna może zapobiec ciąży po stosunku bez zabezpieczenia — im szybciej, tym lepiej.",
       "overview": "Antykoncepcja awaryjna to sposób na zapobieganie ciąży po stosunku bez zabezpieczenia lub w sytuacji, gdy\nzwykła metoda mogła zawieść (pominięcie tabletki, pęknięcie prezerwatywy). Istnieją dwa rodzaje tej metody, a w obu przypadkach\nważny jest czas zastosowania.\n\nPierwsza to **pigułka awaryjna**. Wyróżnia się dwa rodzaje: jeden (lewonorgestrel) można przyjąć do\n3 dni — 72 godzin — po stosunku, a drugi (octan ulipristalu, nazwa handlowa ellaOne) do 5 dni —\n120 godzin. Drugą opcją jest **wkładka miedziana (IUD)**, którą lekarz może założyć do 5 dni\npo stosunku; jest to najskuteczniejsza forma antykoncepcji awaryjnej, a następnie może pozostać w ciele jako\nstała metoda antykoncepcyjna, jeśli chcesz.\n\nW przypadku wszystkich tych metod **im szybciej je zastosujesz, tym skuteczniejsze zazwyczaj są** — dlatego warto działać\nszybko, zamiast czekać. Środki antykoncepcji awaryjnej można otrzymać w aptece, u lekarza pierwszego kontaktu, w\nklinice zdrowia seksualnego lub w przychodni bez rejestracji, często bezpłatnie.",
       "deep": null,
-      "when_to_see_doctor": "- Ponieważ czas ma tu kluczowe znaczenie, nie zwlekaj — farmaceuta może szybko wydać pigułkę „po”, a\n  klinika zdrowia seksualnego lub lekarz rodzinny może założyć wkładkę „IUD”.\n- Antykoncepcja awaryjna ma na celu zapobieganie ciąży, a nie infekcjom. Jeśli istnieje jakakolwiek możliwość\n  zakażenia przenoszonego drogą płciową, klinika zdrowia seksualnego może udzielić porady dotyczącej badań.\n- Jeśli miesiączka spóźni się o więcej niż kilka dni lub będzie przebiegać zupełnie inaczej niż zwykle, warto wykonać\n  test ciążowy i skonsultować się z lekarzem.",
+      "when_to_see_doctor": "- Ponieważ czas ma tu kluczowe znaczenie, nie zwlekaj — farmaceuta może szybko wydać pigułkę „po”, a\n  klinika zdrowia seksualnego lub lekarz rodzinny może założyć wkładkę miedzianą.\n- Antykoncepcja awaryjna ma na celu zapobieganie ciąży, a nie infekcjom. Jeśli istnieje jakakolwiek możliwość\n  zakażenia przenoszonego drogą płciową, klinika zdrowia seksualnego może udzielić porady dotyczącej badań.\n- Jeśli miesiączka spóźni się o więcej niż kilka dni lub będzie przebiegać zupełnie inaczej niż zwykle, warto wykonać\n  test ciążowy i skonsultować się z lekarzem.",
       "red_flags": null
     },
     "endometriosis": {
@@ -290,7 +386,7 @@
       ],
       "glance": "Estrogen jest kluczowym hormonem, który w każdym cyklu pomaga przygotować organizm na ewentualną ciążę.",
       "overview": "Estrogen jest jednym z głównych hormonów regulujących cykl menstruacyjny. W pierwszej połowie cyklu\n(faza folikularna) jego poziom wzrasta wraz z dojrzewaniem pęcherzyka jajnikowego. Wzrost ten powoduje pogrubienie\nbłony śluzowej macicy i prowadzi do owulacji.\n\nEstrogen wpływa również na rzeczy, które możesz zauważać na co dzień — poziom energii, nastrój oraz zmiany w\nśluzie szyjki macicy w okresie dni płodnych. Po owulacji jego poziom spada, a następnie ponownie się zmienia,\nwspółdziałając z innym hormonem, progesteronem, w drugiej połowie cyklu.\n\nPoziomy naturalnie rosną i opadają w trakcie każdego cyklu, a także zmieniają się w różnych etapach życia. Jest to\nnormalne — to rytm, według którego funkcjonuje Twoje ciało, a nie coś, co należy „naprawiać”.",
-      "deep": "Estrogen nie jest pojedynczą substancją, lecz grupą powiązanych hormonów (najbardziej aktywnym w cyklu\njest estradiol). Większość estrogenu jest wytwarzana przez jajniki, w rosnącym pęcherzyku. Jego cykliczny wzrost i\nspadek — wraz z progesteronem oraz hormonami sygnałowymi mózgu, takimi jakLHa i FSH — są tym, co\nnapędza fazy cyklu. Ponieważ estrogen oddziałuje na wiele układów organizmu, jego naturalne wahania mogą\nprzejawiać się w drobnych zmianach w ciągu miesiąca; śledzenie tych zmian pomaga poznać własny wzorzec, zamiast\nporównywać go do „średniej”.",
+      "deep": "Estrogen nie jest pojedynczą substancją, lecz grupą powiązanych hormonów (najbardziej aktywnym w cyklu\njest estradiol). Większość estrogenu jest wytwarzana przez jajniki, w rosnącym pęcherzyku. Jego cykliczny wzrost i\nspadek — wraz z progesteronem oraz hormonami sygnałowymi mózgu, takimi jak LH i FSH — są tym, co\nnapędza fazy cyklu. Ponieważ estrogen oddziałuje na wiele układów organizmu, jego naturalne wahania mogą\nprzejawiać się w drobnych zmianach w ciągu miesiąca; śledzenie tych zmian pomaga poznać własny wzorzec, zamiast\nporównywać go do „średniej”.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -337,11 +433,11 @@
       "red_flags": null
     },
     "first-period": {
-      "title": "Okresy początkowe (pierwszy okres)",
+      "title": "Pierwsza miesiączka",
       "aliases": [
-        "pierwsza lekcja",
+        "pierwszy okres",
         "pierwsza miesiączka",
-        "okresy początkowe",
+        "początek miesiączkowania",
         "pojawienie się miesiączki"
       ],
       "glance": "Pierwsza miesiączka pojawia się zazwyczaj w wieku około 12 lat — za normalny uważa się przedział wiekowy od około 8 do 17 lat.",
@@ -400,7 +496,7 @@
         "hormon folikulotropowy"
       ],
       "glance": "FSH jest hormonem mózgowym, który na początku każdego cyklu stymuluje wzrost pęcherzyków w jajniku.",
-      "overview": "FSH — hormon folikulotropowy — jest jednym z hormonów przekaźnikowych, które uruchamiają cykl.\nJest wytwarzany przez niewielki gruczoł w mózgu (przysadkę mózgową) i, jak sama nazwa wskazuje, stymuluje\npęcherzyki: maleńkie, wypełnione płynem woreczki w jajniku, z których każdy zawiera komórkę jajową.\n\nNa początku cyklu hormon FSH pobudza grupę tych pęcherzyków do wzrostu. W miarę rozwoju pęcherzyka\nuwalnia on coraz więcej estrogenu, który z kolei powoduje pogrubienie błony śluzowej macicy, przygotowując ją\nna ewentualną ciążę. Zazwyczaj jeden pęcherzyk staje się pęcherzykiem dominującym, który rozwija się aż do\nowulacji.\n\nFSH wzrasta i opada w ramach normalnych wahań cyklu. Nie odczuwasz bezpośrednio działania hormonu FSHu\n— działa on cicho w tle, przygotowując bardziej widoczne zmiany fazy folikularnej.",
+      "overview": "FSH — hormon folikulotropowy — jest jednym z hormonów przekaźnikowych, które uruchamiają cykl.\nJest wytwarzany przez niewielki gruczoł w mózgu (przysadkę mózgową) i, jak sama nazwa wskazuje, stymuluje\npęcherzyki: maleńkie, wypełnione płynem woreczki w jajniku, z których każdy zawiera komórkę jajową.\n\nNa początku cyklu hormon FSH pobudza grupę tych pęcherzyków do wzrostu. W miarę rozwoju pęcherzyka\nuwalnia on coraz więcej estrogenu, który z kolei powoduje pogrubienie błony śluzowej macicy, przygotowując ją\nna ewentualną ciążę. Zazwyczaj jeden pęcherzyk staje się pęcherzykiem dominującym, który rozwija się aż do\nowulacji.\n\nFSH wzrasta i opada w ramach normalnych wahań cyklu. Nie odczuwasz bezpośrednio działania hormonu FSH\n— działa on cicho w tle, przygotowując bardziej widoczne zmiany fazy folikularnej.",
       "deep": "FSH działa w parze z hormonem luteinizującym (LH); oba są uwalniane przez przysadkę mózgową w\nmózgu i wspólnie regulują cykl jajników. Hormon FSH kieruje pierwszą połową cyklu, powodując wzrost\npęcherzyków, podczas gdy późniejszy wzrost stężenia hormonu LH oznacza uwolnienie komórki jajowej w połowie cyklu. Ta współdziałająca relacja jest również\npowodem, dla którego w terapiach wspomagających płodność stosuje się leki oparte na FSH: podanie dodatkowego FSH stymuluje dojrzewanie kilku pęcherzyków\njednocześnie, zamiast jednego, jaki zwykle powstaje w naturalnym cyklu.",
       "when_to_see_doctor": null,
       "red_flags": null
@@ -417,6 +513,23 @@
       "deep": null,
       "when_to_see_doctor": "- Skorzystaj z **badania przesiewowego**, jeśli zostanie Ci ono zaproponowane — ponieważ cukrzyca ciążowa zazwyczaj nie daje żadnych\n  objawów, wykrywa się ją właśnie dzięki badaniom.\n- Nie czekaj na badanie, jeśli zauważysz możliwe objawy wysokiego poziomu cukru we krwi — silne pragnienie,\n  częste oddawanie moczu, suchość w ustach lub zmęczenie — poinformuj o nich swoją położną lub lekarza.",
       "red_flags": null
+    },
+    "getting-help": {
+      "title": "Gdzie szukać pomocy",
+      "aliases": [
+        "jak uzyskać pomoc",
+        "z kim się skontaktować",
+        "numery telefonów zaufania",
+        "przydatne numery",
+        "ośrodek przeciwdziałania przemocy",
+        "1522",
+        "numery alarmowe"
+      ],
+      "glance": "Dostępna jest bezpłatna, poufna pomoc — w nagłych przypadkach zadzwoń pod lokalny numer alarmowy; we Włoszech pod numer 1522 o każdej porze.",
+      "overview": "Jeśli doświadczasz przemocy, nie musisz radzić sobie z tym sama, a zwrócenie się o pomoc nie zobowiązuje cię do niczego. Są ludzie, których praca polega wyłącznie na słuchaniu i pomaganiu – w tajemnicy i za darmo.\n\nW tekście występuje kilka rodzajów pomocy:\n\n- **Służby ratunkowe** — w przypadku bezpośredniego zagrożenia zadzwoń pod lokalny numer alarmowy (poniżej).\n- **Krajowa infolinia** — we Włoszech **1522**, bezpłatna infolinia ds. przemocy i stalkingu: czynna 24 godziny na dobę, anonimowa, dostępna w kilku językach, przez telefon lub czat online.\n- **Ośrodki przeciwdziałania przemocy** (we Włoszech *centri antiviolenza*) — lokalne placówki oferujące bezpłatne, poufne wsparcie, pomoc w planowaniu bezpieczeństwa oraz wsparcie prawne i psychologiczne.\n- **Służba zdrowia** — lekarz rodzinny lub szpitalny oddział ratunkowy, gdzie personel jest coraz lepiej przeszkolony w zakresie rozpoznawania przemocy i kierowania ofiar do odpowiednich służb wsparcia.\n- **Osoby, którym ufasz** — przyjaciel lub członek rodziny, przy którym czujesz się bezpiecznie.\n\nMożesz zacząć od tego, co wydaje Ci się najbardziej realne, i nie musisz jeszcze podejmować żadnych decyzji.",
+      "deep": null,
+      "when_to_see_doctor": "- Możesz w pełnej poufności porozmawiać o tym, co się dzieje, z **lekarzem rodzinnym lub w szpitalu**; mogą oni opatrzyć wszelkie obrażenia i skontaktować cię ze specjalistycznymi służbami.\n- Jeśli łatwiej jest napisać niż porozmawiać, **czat 1522** to kolejna opcja.",
+      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- **Włochy:** **1522** (bezpłatna, całodobowa, anonimowa, wielojęzyczna — rozmowa telefoniczna lub czat).\n- Numery infolinii różnią się w zależności od kraju. Aplikacja może wyświetlić numery dla Twojego kraju, a strona **findahelpline.com** zawiera listę infolinii przeciwdziałających przemocy na całym świecie (wykrywa ona Twój kraj i posiada przycisk szybkiego wyjścia). Jeśli przebywasz w UE, numer **112** działa wszędzie."
     },
     "group-b-strep": {
       "title": "Paciorkowce grupy B (GBS)",
@@ -470,8 +583,22 @@
         "hormon luteinizujący"
       ],
       "glance": "LH jest to hormon mózgowy, którego wzrost w połowie cyklu powoduje, że jajnik uwalnia komórkę jajową.",
-      "overview": "LH — hormon luteinizujący — jest czynnikiem wyzwalającym owulację. Podobnie jak hormon FSH, jest wytwarzany przez\nmały gruczoł w mózgu (przysadkę mózgową) i sygnalizuje jajnikowi, kiedy ma uwolnić komórkę jajową.\n\nPrzez większość pierwszej połowy cyklu poziom LH pozostaje niski. Następnie, mniej więcej w połowie cyklu,\ngwałtownie wzrasta, co nazywa się skokiem LH. Ten skok jest sygnałem, który powoduje, że jajnik\nuwalnia komórkę jajową — czyli dochodzi do owulacji — zazwyczaj dzień lub dwa później.\n\nSkok ten jest krótkim, pojawiającym się w odpowiednim momencie sygnałem, a nie czymś, co można by odczuć fizycznie. Ponieważ\nwystępuje on tuż przed uwolnieniem komórki jajowej, moment wzrostu poziomu LHu jest wiarygodnym wskaźnikiem\nnajbardziej płodnej fazy cyklu.",
+      "overview": "LH — hormon luteinizujący — jest czynnikiem wyzwalającym owulację. Podobnie jak hormon FSH, jest wytwarzany przez\nmały gruczoł w mózgu (przysadkę mózgową) i sygnalizuje jajnikowi, kiedy ma uwolnić komórkę jajową.\n\nPrzez większość pierwszej połowy cyklu poziom LH pozostaje niski. Następnie, mniej więcej w połowie cyklu,\ngwałtownie wzrasta, co nazywa się skokiem LH. Ten skok jest sygnałem, który powoduje, że jajnik\nuwalnia komórkę jajową — czyli dochodzi do owulacji — zazwyczaj dzień lub dwa później.\n\nSkok ten jest krótkim, pojawiającym się w odpowiednim momencie sygnałem, a nie czymś, co można by odczuć fizycznie. Ponieważ\nwystępuje on tuż przed uwolnieniem komórki jajowej, moment wzrostu poziomu LH jest wiarygodnym wskaźnikiem\nnajbardziej płodnej fazy cyklu.",
       "deep": "LH działa wspólnie z FSH, hormonem odpowiedzialnym za wzrost pęcherzyków we wczesnej fazie cyklu. Podczas gdy FSH\nodpowiada za narastanie stężenia, skok LH stanowi punkt zwrotny: stężenie zaczyna rosnąć mniej więcej półtora dnia\nprzed uwolnieniem komórki jajowej i osiąga szczyt około pół dnia przed tym wydarzeniem. Po tym wzroście cykl\nprzechodzi w drugą połowę. To ścisłe zsynchronizowanie czasowe sprawia, że LH jest tak przydatnym wskaźnikiem dla każdej osoby śledzącej\nowulację oraz ma kluczowe znaczenie dla planowania zabiegów wspomagających płodność.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Słuchanie i wsparcie emocjonalne",
+      "aliases": [
+        "jak słuchać",
+        "wsparcie emocjonalne dla partnerów",
+        "komunikacja",
+        "bycie tam dla niej"
+      ],
+      "glance": "W większości przypadków należy ją wysłuchać, a nie naprawić — najpierw wysłuchaj i zapytaj, zanim doradzisz.",
+      "overview": "Kiedy ktoś, kogo kochamy, zmaga się z trudnościami, instynktownie podpowiadamy, aby wkroczyć i rozwiązać problem. Ale często to, co pomaga najbardziej\nczuje się naprawdę wysłuchana: że jej uczucia mają sens i że nie jest z nimi sama. Naprawianie też\nszybko może wylądować, ponieważ „twoje uczucia są problemem do zamknięcia”.\n\nDobre słuchanie to umiejętność, której każdy może się nauczyć. To głównie uwaga: odłożenie telefonu, zwrócenie się twarzą do niej,\ni pozwolić jej dokończyć. Nie musisz zgadzać się ze wszystkimi kwestiami, żeby czuła się szanowana.",
+      "deep": "Praktyczne sposoby na zaprezentowanie się:\n\n- **Słuchaj, żeby zrozumieć, a nie odpowiadać.** Pozwól jej mówić, nie przerywając ani nie planując Twojej obrony.\n- **Przemyśl to jeszcze raz.** „To brzmi naprawdę stresująco” lub „Rozumiem, dlaczego to boli” zamiast „po prostu nie rób tego”\n  martw się o to”.\n- **Zapytaj, zanim doradzisz.** „Chcesz, żebym pomógł ci to przemyśleć, czy po prostu chcesz, żebym cię wysłuchał?”\n- **Nie bierz tego do siebie**, gdy nie chodzi o Ciebie w ciężkim dniu. Stabilność jest darem.\n- **Przyznaj swoją rolę.** Jeśli coś jest nie tak, prawdziwe przeprosiny – bez „ale” – odbudowują zaufanie.\n- **Zauważ szerszą perspektywę.** Jeśli wydaje się stale przygnębiona, niespokojna lub nie, delikatnie\n  zachęć ją do wsparcia i zaoferuj pomoc w osiągnięciu tego celu. Jesteś członkiem drużyny, a nie terapeutą.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -610,7 +737,7 @@
       ],
       "glance": "PCOS jest powszechną zaburzeniem hormonalnym, które może wpływać na miesiączki, owulację, skórę i włosy.",
       "overview": "PCOS — zespół policystycznych jajników — to powszechna dolegliwość związana z równowagą\nhormonów rozrodczych. Szacuje się, że dotyka ona około 1 na 10 kobiet w wieku rozrodczym, a u wielu\nosób cierpiących na tę dolegliwość nigdy nie zostaje ona zdiagnozowana.\n\nMoże ona objawiać się na różne sposoby i u każdej osoby przebieg jest nieco inny. Do typowych objawów należą:\nnieregularne, rzadkie lub brak miesiączki; podwyższony poziom hormonów zwanych androgenami,\nco może prowadzić do nadmiernego owłosienia na twarzy lub ciele, trądziku lub przerzedzania się włosów na głowie; oraz\njajniki, które nie uwalniają komórki jajowej tak regularnie jak zwykle, co może utrudniać poczęcie.\nCzęsto występują również wahania wagi i ciemniejsze plamy na skórze.\n\nDokładna przyczyna nie jest w pełni poznana i nie ma lekarstwa — jednak objawy można łagodzić, a\nzrozumienie tego, co się dzieje, jest pierwszym krokiem. Zespół policystycznych jajników (PCOS) jest powszechny i można sobie z nim radzić; nie jest to coś, czego\nnależy się wstydzić.",
-      "deep": "Ponieważ zespół nadwagi (PCOS) wiąże się z hormonami organizmu i sposobem, w jaki organizm radzi sobie z insuliną, w\ndłuższej perspektywie wiąże się on również z insulinoopornością oraz większym ryzykiem cukrzycy typu 2, podwyższonym ciśnieniem krwi\ni zmianami poziomu cholesterolu — dlatego lekarze zazwyczaj monitorują te parametry na przestrzeni czasu.\nMniej więcej u połowy osób z zespołem PCOSa może rozwinąć się cukrzyca lub stan przedcukrzycowy przed czterdziestką, dlatego regularne\nkontrole mają duże znaczenie. Diagnozy nie należy stawiać samodzielnie: lekarz analizuje całościowy\nobraz sytuacji — historię choroby i cykle miesiączkowe, czasami wyniki badań krwi na poziom hormonów, a czasami wyniki badania USG\njajników — i wyklucza inne przyczyny przed postawieniPCOSu.",
+      "deep": "Ponieważ zespół nadwagi (PCOS) wiąże się z hormonami organizmu i sposobem, w jaki organizm radzi sobie z insuliną, w\ndłuższej perspektywie wiąże się on również z insulinoopornością oraz większym ryzykiem cukrzycy typu 2, podwyższonym ciśnieniem krwi\ni zmianami poziomu cholesterolu — dlatego lekarze zazwyczaj monitorują te parametry na przestrzeni czasu.\nMniej więcej u połowy osób z PCOS może rozwinąć się cukrzyca lub stan przedcukrzycowy przed czterdziestką, dlatego regularne\nkontrole mają duże znaczenie. Diagnozy nie należy stawiać samodzielnie: lekarz analizuje całościowy\nobraz sytuacji — historię choroby i cykle miesiączkowe, czasami wyniki badań krwi na poziom hormonów, a czasami wyniki badania USG\njajników — i wyklucza inne przyczyny przed postawieniem diagnozy PCOS.",
       "when_to_see_doctor": "Warto zgłosić się do lekarza pierwszego kontaktu, jeśli zauważysz objawy pasujące do powyższego opisu, zwłaszcza jeśli\nwpływają one na Twoje samopoczucie w codziennym życiu:\n\n- nieregularne miesiączki, bardzo rzadkie miesiączki lub ich brak\n- zauważalnie zwiększone owłosienie na twarzy lub ciele, uporczywy trądzik lub przerzedzenie włosów na głowie\n- trudności z zajściem w ciążę po dłuższych próbach\n- przyrost masy ciała, którego trudno się pozbyć, w połączeniu z innymi objawami\n\nLekarz rodzinny może zbadać, co się dzieje, potwierdzić, czy jest to zespół nadmiernego owłosienia (PCOS) czy coś innego, oraz omówić z Tobą\nplan leczenia dostosowany do Twoich potrzeb. Zespół nadmiernego owłosienia (PCOS) wiąże się również z obniżonym nastrojem i lękiem — jeśli zmagasz się z tym, jak\nsię czujesz, poinformuj o tym również swojego lekarza rodzinnego; to część całościowego obrazu, a pomoc jest dostępna.",
       "red_flags": null
     },
@@ -774,6 +901,86 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "recognising-abuse": {
+      "title": "Jak rozpoznać związek, w którym dochodzi do przemocy",
+      "aliases": [
+        "rozpoznawanie przemocy",
+        "związek, w którym dochodzi do przemocy",
+        "przemoc domowa",
+        "przemoc ze strony partnera",
+        "oznaki przemocy",
+        "Czy jestem ofiarą przemocy?"
+      ],
+      "glance": "Przemoc może mieć charakter fizyczny, seksualny, emocjonalny lub polegać na kontrolowaniu — i nigdy nie jest winą osoby, która jej doświadcza.",
+      "overview": "Przemoc w związku nie ogranicza się wyłącznie do przemocy fizycznej. Może przybierać różne formy, często występujące jednocześnie: przemoc fizyczna, przymus seksualny, przemoc emocjonalna lub psychiczna oraz zachowania kontrolujące — partner decyduje, gdzie możesz się udać, z kim się spotykasz lub co możesz robić. Każda z tych sytuacji może stanowić przemoc, nawet jeśli nie widać żadnych widocznych obrażeń.\n\nProblem ten jest powszechniejszy, niż wielu ludziom się wydaje. Na całym świecie około 1 na 3 kobiety doświadcza w ciągu życia przemocy fizycznej lub seksualnej, najczęściej ze strony partnera; sytuacja we Włoszech wygląda podobnie. Jeśli więc jest to część Twojego życia, nie jesteś sama i nie jesteś tego przyczyną.\n\nTrudno jest to nazwać — przemoc często przeplata się z dobrymi chwilami, przeprosinami lub obietnicami zmiany i może narastać tak powoli, że wydaje się czymś normalnym. Zaufanie własnemu przeczuciu, że coś jest nie tak, jest wystarczającym powodem, by zwrócić się o pomoc. Nie musisz mieć pewności ani czekać, aż sytuacja stanie się „wystarczająco zła”, aby z kimś porozmawiać.",
+      "deep": "Niezależnie od różnych form, przemoc zazwyczaj przebiega według schematu, w którym jedna osoba dąży do zdobycia władzy i kontroli nad drugą, a z czasem może eskalować. Ma to naprawdę negatywny wpływ na zdrowie — wiąże się z lękiem, depresją, problemami ze snem oraz długotrwałymi skutkami fizycznymi. Nic z tego nie oznacza, że jesteś słaba lub że ponosisz winę; oznacza to jedynie, że to, z czym się zmagasz, jest szkodliwe, a dostępne jest wsparcie, które pomoże Ci to przemyśleć w bezpieczny sposób i we własnym tempie.",
+      "when_to_see_doctor": "- Kiedy tylko będziesz gotowa, możesz porozmawiać z kimś w zaufaniu — z lekarzem rodzinnym lub pielęgniarką, w ośrodku przeciwdziałania przemocy lub na infolinii (we Włoszech **1522**, bezpłatna i dostępna o każdej porze). Nie musisz najpierw mieć dowodów, planu ani podjętej decyzji; osoby te są po to, by cię wysłuchać i pomóc ci zrozumieć dostępne opcje.\n- Pracownik służby zdrowia może również opatrzyć wszelkie urazy i dyskretnie skierować cię do specjalisty.",
+      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, skontaktuj się natychmiast ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech numer **1522** — bezpłatna krajowa infolinia ds. przemocy i stalkingu — jest dostępna 24 godziny na dobę, anonimowo, przez telefon lub czat, w kilku językach."
+    },
+    "respect-not-control": {
+      "title": "Szacunek, a nie kontrola",
+      "aliases": [
+        "zachowania kontrolujące",
+        "kontrola przymusowa",
+        "zdrowy związek",
+        "znaki ostrzegawcze",
+        "gdzie uzyskać pomoc",
+        "nadużycie"
+      ],
+      "glance": "Miłość opiera się na szacunku i wolności — kontrola, zazdrość i presja nie są miłością, a pomoc istnieje.",
+      "overview": "Zdrowy związek opiera się na szacunku, zaufaniu, równości i wolności: dwojgu ludzi, z których każdy zachowuje swoje\nwłasne przyjaźnie, wybory i przestrzeń. Kontrola jest odwrotna. Często kryje się za słowami takimi jak miłość lub\nzazdrość – „Sprawdzam twój telefon, bo mi zależy”, „Nie chcę, żebyś ich widział, bo cię kocham” – ale\njego skutkiem jest zmniejszenie jej świata i wolności.\n\nKontrola rzadko zaczyna się od przemocy. Zwykle zaczyna się od czegoś małego — krytyki, przekroczenia granicy, a\n„żart”, który kłuje — i rośnie. Nazwanie tego na wczesnym etapie ma znaczenie, ponieważ kontrola przymusowa sama w sobie jest formą\nnadużyciem i sygnałem ostrzegawczym na gorsze. Tu nie chodzi o poczucie winy; chodzi o szczerość i zmianę.",
+      "deep": "**Jeśli rozpoznasz w sobie niektóre z nich, ta świadomość będzie punktem wyjścia, a nie wyrokiem dożywocia.**\nLudzie mogą się zmienić przy prawdziwym wysiłku i odpowiedniej pomocy. Sięgnięcie po dedykowany program dla mężczyzn\nktórzy chcą przestać być kontrolowani lub agresywni, jest oznaką siły, a nie słabości. Porozmawiaj z A\nspecjalistą, lekarzem lub organizacją zajmującą się zmianą zachowań mężczyzn.\n\nJeśli **ona** jest w niebezpieczeństwie lub martwisz się o kogoś, zachęć ją i wspieraj, aby do niego dotarła\npomóc – na jej warunkach, nigdy poprzez przejęcie.\n\n**Gdzie uzyskać pomoc**\n- W sytuacji awaryjnej lub jeśli ktoś znajduje się w bezpośrednim niebezpieczeństwie, zadzwoń pod lokalny numer alarmowy\n  (**112** we Włoszech i dużej części Europy; **911** w USA).\n- **Włochy — 1522**: krajowa infolinia przeciwdziałająca przemocy i prześladowaniu. Bezpłatnie, 24 godziny na dobę, 7 dni w tygodniu, anonimowo i\n  wielojęzyczny, prowadzony przez Departament ds. Równych Szans. Prowadzi także ludzi do miejsc lokalnych\n  ośrodki antyprzemocowe (centri antiviolenza).\n- Ośrodki przeciwdziałające przemocy i programy zmiany zachowań mężczyzn (we Włoszech „centri per uomini autori di\n  violenza”) oferują poufne wsparcie w zmianie.",
+      "when_to_see_doctor": null,
+      "red_flags": "Znaki ostrzegawcze kontrolującego lub agresywnego zachowania – które warto potraktować poważnie w odniesieniu do siebie lub związku:\n\n- **Monitorowanie lub izolowanie**: sprawdzanie jej telefonu, śledzenie jej lokalizacji lub odcinanie jej\n  przyjaciele i rodzina.\n- **Kontrola nad wyborami**: pieniędzmi, tym, co nosi, dokąd idzie, z kim się spotyka.\n- **Zazdrość sformułowana jako miłość**, ciągłe oskarżenia lub potrzeba ciągłego sprawdzania, gdzie ona jest.\n- **Poniżanie, obwinianie lub wywoływanie strachu**, poczucia winy lub „chodzenia po skorupkach jaj”.\n- **Naciski lub groźby** dotyczące seksu, zerwania lub samookaleczenia w celu uzyskania zgodności.\n- **Jakakolwiek siła fizyczna, zastraszanie lub strach.** Jeśli to występuje, jest to znęcanie się — skontaktuj się z pomocą\n  powyżej. Nigdy nie ma wymówki i nigdy nie jest to jej wina."
+    },
+    "safety-plan": {
+      "title": "Opracowanie planu bezpieczeństwa",
+      "aliases": [
+        "plan bezpieczeństwa",
+        "dbaj o bezpieczeństwo",
+        "dbaj o bezpieczeństwo",
+        "planowanie bezpieczeństwa",
+        "bezpieczne opuszczenie"
+      ],
+      "glance": "Plan bezpieczeństwa to kilka praktycznych kroków, które pomogą Ci zapewnić sobie większe bezpieczeństwo — a wykwalifikowani specjaliści mogą pomóc Ci go opracować.",
+      "overview": "Plan bezpieczeństwa to po prostu przemyślenie z wyprzedzeniem, jak zapewnić sobie (i ewentualnym dzieciom) większe bezpieczeństwo. Nie chodzi tu o decyzję, czy odejść, czy zostać — chodzi o to, by być nieco lepiej przygotowaną, niezależnie od tego, co wybierzesz.\n\nNiektórym osobom pomaga dyskretne przygotowanie kilku rzeczy: zaufana osoba, która wie, co się dzieje, ważne dokumenty i numery kontaktowe, mała torba z niezbędnymi rzeczami, wiedza o najbezpieczniejszych drogach ucieczki z domu lub słowo lub sygnał, które poinformują kogoś, że potrzebujesz pomocy. To, co ma sens, zależy całkowicie od Twojej własnej sytuacji.\n\nNie musisz radzić sobie z tym sama, a często bezpieczniej jest tego nie robić. Organizacje zajmujące się przeciwdziałaniem przemocy mają doświadczenie w opracowywaniu planów bezpieczeństwa wraz z osobami dotkniętymi przemocą – w sposób poufny i bezpłatny – w tym planów dotyczących okresu poprzedzającego odejście, który może wiązać się z większym ryzykiem i warto go zaplanować z pomocą, a nie w pośpiechu.",
+      "deep": null,
+      "when_to_see_doctor": "- Skontaktuj się z ośrodkiem przeciwdziałania przemocy lub infolinią (we Włoszech **1522**), aby opracować plan dostosowany do Twojej sytuacji — zajmują się tym na co dzień, zachowując poufność, i mogą pomóc w podjęciu kroków praktycznych, prawnych i emocjonalnych.\n- Jeśli prowadzisz jakikolwiek dziennik dotyczący tego, co się dzieje, przechowuj go w prywatnym i bezpiecznym miejscu.",
+      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech pod numerem **1522** — bezpłatnym, dostępnym 24 godziny na dobę, anonimowym i wielojęzycznym — można uzyskać pomoc przez telefon lub czat, w tym w zakresie pilnego planowania bezpieczeństwa."
+    },
+    "sex-during-your-period": {
+      "title": "Seks podczas miesiączki",
+      "aliases": [
+        "seks podczas miesiączki",
+        "seks w czasie okresu",
+        "współżycie podczas miesiączki",
+        "stosunek w trakcie okresu",
+        "czy można zajść w ciążę podczas okresu",
+        "ciąża podczas miesiączki",
+        "czy można zajść w ciążę w czasie miesiączki"
+      ],
+      "glance": "Seks podczas miesiączki jest w porządku, jeśli oboje tego chcecie, ale nadal możliwa jest ciąża i zakażenie przenoszone drogą płciową.",
+      "overview": "Seks podczas miesiączki to osobisty wybór. Jeśli oboje tego chcecie i oboje czujecie się komfortowo, wszystko jest w porządku i nie ma w tym nic złego ani nietypowego. Niektóre osoby są w tym czasie bardziej wrażliwe lub po prostu nie mają ochoty, a inne to lubią. Najważniejsze jest słuchanie swojego ciała i szczera rozmowa z partnerem.\n\nMiesiączka nie działa jednak jak antykoncepcja. Szansa na zajście w ciążę jest mniejsza niż w okolicach owulacji, ale nie jest zerowa. Plemniki mogą przeżyć w organizmie do 7 dni po stosunku, więc jeśli owulacja nastąpi wcześnie, co jest bardziej prawdopodobne przy krótszym cyklu, plemniki z seksu w trakcie miesiączki lub tuż po niej mogą jeszcze spotkać się z komórką jajową. Jeśli nie chcesz zajść w ciążę, Twoja zwykła antykoncepcja ma znaczenie także w te dni.\n\nMiesiączka nie chroni też przed infekcjami przenoszonymi drogą płciową (STI). Infekcje mogą przenosić się między partnerami podczas seksu bez prezerwatywy, a drobnoustroje, które je wywołują, mogą znajdować się zarówno we krwi, jak i w innych płynach ustrojowych. Prezerwatywy to metoda, która dodatkowo zmniejsza ryzyko STI, w tym HIV, dlatego warto ich używać niezależnie od dnia cyklu.",
+      "deep": null,
+      "when_to_see_doctor": "- Jeśli doszło do seksu **bez antykoncepcji** lub antykoncepcja mogła zawieść, a nie chcesz zajść w ciążę, **jak najszybciej** skontaktuj się z farmaceutą, lekarzem pierwszego kontaktu lub poradnią zdrowia seksualnego w sprawie antykoncepcji awaryjnej. Trzeba ją zastosować w ciągu kilku dni, a zwykle działa tym lepiej, im wcześniej zostanie zastosowana.\n- Zwróć się o pomoc do farmaceuty, poradni zdrowia seksualnego, lekarza pierwszego kontaktu lub **NHS 111**, jeśli podczas seksu **prezerwatywa pęknie lub się zsunie**. Może być potrzebna antykoncepcja awaryjna lub test w kierunku STI.\n- Zgłoś się do lekarza pierwszego kontaktu lub poradni zdrowia seksualnego, jeśli zauważysz **krwawienie po stosunku poza miesiączką**. Zwykle nie jest to nic poważnego, ale zawsze warto to sprawdzić.",
+      "red_flags": null
+    },
+    "sexual-violence": {
+      "title": "Przemoc seksualna i zgoda",
+      "aliases": [
+        "przemoc seksualna",
+        "napaść seksualna",
+        "gwałt",
+        "zgoda",
+        "wykorzystywanie seksualne",
+        "bez zgody"
+      ],
+      "glance": "Przemoc seksualna to każdy akt seksualny bez zgody — i nigdy nie jest to wina osoby, która go doświadczyła.",
+      "overview": "Przemoc seksualna oznacza każdy akt seksualny lub próbę jego popełnienia bez zgody lub pod przymusem. Obejmuje ona gwałt oraz każdy niechciany kontakt seksualny i może zostać popełniona przez dowolną osobę — nieznajomego, znajomego, partnera lub małżonka.\n\nZgoda jest tu kluczowa. Zgoda oznacza dobrowolną zgodę i nie jest możliwa, gdy ktoś śpi, jest nieprzytomny, pijany lub pod wpływem narkotyków, jest dzieckiem, albo znajduje się pod presją, groźbą lub odczuwa strach. Zgodę można wycofać w dowolnym momencie. Z tego powodu przemoc seksualna **nigdy** nie jest winą osoby, której to spotkało — nie z powodu tego, co miała na sobie, czy piła alkohol, czy zamarła zamiast walczyć, ani czy znała sprawcę.\n\nJeśli spotkało cię coś takiego, możesz liczyć na wsparcie – niezależnie od tego, czy miało to miejsce niedawno, czy dawno temu. Wierzymy ci, a to, co zrobisz dalej, zależy wyłącznie od ciebie.",
+      "deep": null,
+      "when_to_see_doctor": "- Możesz udać się do **placówki służby zdrowia, szpitala lub specjalistycznej placówki zajmującej się ofiarami przemocy seksualnej**, gdzie zapewnią Ci opiekę, opatrzą ewentualne obrażenia oraz — jeśli zechcesz — pomogą w zgłoszeniu sprawy i zabezpieczeniu dowodów.\n- Niektóre działania związane ze zdrowiem mają **charakter pilny** — na przykład antykoncepcja awaryjna lub zapobieganie infekcjom — więc **szybkie** zgłoszenie się może pomóc. Nie ma jednak terminu na uzyskanie wsparcia, a decyzja o zgłoszeniu sprawy zawsze należy do Ciebie.",
+      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- Po niedawnym napadzie **szpital lub wyspecjalizowana placówka mogą udzielić pilnej pomocy**. We Włoszech pod numerem **1522** (bezpłatny, dostępny 24 godziny na dobę, 7 dni w tygodniu, anonimowy, wielojęzyczny — przez telefon lub czat) można uzyskać wskazówki dotyczące odpowiedniej opieki."
+    },
     "signs-of-labour": {
       "title": "Objawy porodu",
       "aliases": [
@@ -822,7 +1029,7 @@
     "spotting": {
       "title": "Plamienie i krwawienie między miesiączkami",
       "aliases": [
-        "wykrywanie",
+        "plamienie",
         "krwawienie między miesiączkami",
         "krwawienie międzymiesiączkowe",
         "krwawienie międzymiesiączkowe",
@@ -833,6 +1040,22 @@
       "deep": null,
       "when_to_see_doctor": "- Udaj się do lekarza pierwszego kontaktu lub poradni zdrowia seksualnego **za każdym razem, gdy wystąpi krwawienie między miesiączkami lub po stosunku**,\n  nawet jeśli jest ono niewielkie. Zazwyczaj nie jest to nic poważnego, ale badanie pozwala ustalić przyczynę\n  — i jest sposobem na wczesne wykluczenie rzadszych przyczyn.",
       "red_flags": "- Poproś o **pilną** wizytę u lekarza pierwszego kontaktu lub zadzwoń pod numer **NHS111**, jeśli **nie pojawiła się miesiączka i występuje\n  nietypowe krwawienie wraz z bólem brzucha lub miednicy** — wymaga to natychmiastowej oceny, ponieważ może to być\n  objawem ciąży pozamacicznej."
+    },
+    "stalking": {
+      "title": "Prześladowanie",
+      "aliases": [
+        "prześladowanie",
+        "bycie prześladowaną",
+        "molestowanie",
+        "niechciana uwaga",
+        "ktoś mnie śledzi",
+        "cyberstalking"
+      ],
+      "glance": "Stalking to powtarzające się, niechciane zainteresowanie, które wywołuje strach lub poczucie zagrożenia — i jest traktowany poważnie.",
+      "overview": "Prześladowanie to powtarzające się, niechciane zachowania ze strony innej osoby, które wywołują u Ciebie strach, poczucie bycia obserwowaną lub zagrożenia. Może to obejmować śledzenie, pojawianie się w miejscach, w których przebywasz, ciągłe telefony lub wiadomości, niechciane prezenty, monitorowanie Ciebie w sieci lub za pośrednictwem telefonu, a także groźby. Często sprawcą jest były partner lub ktoś, kogo znasz, choć nie zawsze.\n\nStrach, jaki to wywołuje, jest uzasadniony, nawet jeśli poszczególne zachowania mogą wydawać się innym „drobne” — liczy się wzorzec zachowań i to, jak się przez to czujesz. Prześladowanie jest uznawane za formę przemocy, a w wielu krajach stanowi przestępstwo. To nie jest twoja wina i nie musisz się z tym po prostu godzić.\n\nJeśli jest to bezpieczne, prowadzenie zapisu może pomóc w przyszłości: daty i godziny, zrzuty ekranu z wiadomości oraz opis tego, co się wydarzyło. Nie musisz sama zastanawiać się, czy to „się liczy” — służby wsparcia pomogą Ci to zrozumieć i przemyśleć dostępne opcje.",
+      "deep": null,
+      "when_to_see_doctor": "- Należy skontaktować się z **policją**, aby zgłosić przypadek stalkingu, oraz z infolinią ds. przeciwdziałania przemocy lub stalkingowi w celu uzyskania wsparcia i porady (we Włoszech numer **1522** służy do zgłaszania przypadków przemocy **i** stalkingu).\n- Zebranie dowodów i opracowanie planu bezpieczeństwa przy pomocy specjalistycznej placówki mogą naprawdę wiele zmienić.",
+      "red_flags": "- Jeśli czujesz się w **bezpośrednim niebezpieczeństwie**, skontaktuj się natychmiast ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech pod numerem **1522** — bezpłatnym, dostępnym 24 godziny na dobę, anonimowym i wielojęzycznym — można uzyskać pomoc przez telefon lub czat."
     },
     "stillbirth": {
       "title": "Poród martwego dziecka",
@@ -864,22 +1087,64 @@
       "when_to_see_doctor": "Zgłoś się do lekarza pierwszego kontaktu, jeśli:\n\n- nie miałeś **trzech miesiączek z rzędu** lub Twoje miesiączki stały się **nieregularne**\n- Twoje miesiączki **ustały** i nie wiesz, dlaczego (możliwa jest ciąża, warto najpierw wykonać test)\n- brak miesiączki towarzyszą inne zmiany — takie jak nieoczekiwane wahania wagi, zmęczenie, nadmierny\n  wzrost owłosienia lub obniżony nastrój\n\nBadania te mają na celu jedynie ustalenie przyczyny tych zmian — zazwyczaj jest to coś,\nz czym można sobie poradzić.",
       "red_flags": null
     },
-    "the-coil": {
-      "title": "Cewka (IUD oraz IUS)",
+    "supporting-her-period": {
+      "title": "Wspieranie jej podczas okresu",
       "aliases": [
-        "cewka",
-        "cewka",
+        "pomaga podczas okresu",
+        "wsparcie okresowe dla partnerów",
+        "opieka okresowa"
+      ],
+      "glance": "Miesiączka może wiązać się z prawdziwym bólem i zmęczeniem – niewielka, praktyczna pielęgnacja robi dużą różnicę.",
+      "overview": "Okres to nie tylko kilka dni krwawienia; dla wielu wiąże się to ze skurczami, bólami pleców, bólami głowy,\nzmęczenie i niski poziom energii. Ból miesiączkowy jest zjawiskiem powszechnym i może być naprawdę wyczerpujący – tak nie jest\nprzesada. Traktuj to tak, jak traktowałbyś każdego chorego partnera: z praktyczną życzliwością.\n\nNormalizuj to też. Okresy nie są obrzydliwe, zawstydzające ani tabu. Możliwość wygodnego zakupu podpasek lub\ntampony, trzymanie ich w domu lub bezproblemowe podawanie jej termoforu mówi jej, że jest bezpieczna i\nobsługiwane.",
+      "deep": "Proste rzeczy, które pomagają:\n\n- **Ciepło i odpoczynek.** Butelka z gorącą wodą lub podkładka rozgrzewająca na dolnej części brzucha łagodzi skurcze; zaoferować ciszę\n  wieczór w.\n- **Zdejmij jej rzeczy z talerza.** Gotuj, sprzątaj, załatwiaj sprawy, zawoź ją – praktyczna pomoc jest trudniejsza\n  niż słowa.\n- **Trzymaj zapasy.** Wiedz, czego używa i przechowuj zapasy, aby ciężki dzień nigdy nie był kryzysem.\n- **Środki przeciwbólowe i jedzenie na pocieszenie**, jeśli ich chce; jej wybór.\n- **Nie wywieraj presji na seks ani energię, której ona nie ma.** Bliskość może być przytulaniem na sofie.",
+      "when_to_see_doctor": "Zachęć ją, aby poszła do lekarza (i zaproponuj, że pójdzie z nią), jeśli ból miesiączkowy jest **silny, nasila się,\nlub powstrzymując ją od codziennego życia**, jeśli miesiączki są **bardzo obfite** (co godzinne moczenie przez środki ochronne,\nduże skrzepy) lub jeśli ból jest nowy i nietypowy – może to wskazywać na choroby takie jak endometrioza\nzasługują na odpowiednią opiekę.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Wsparcie dla osoby doświadczającej przemocy",
+      "aliases": [
+        "wspieranie kogoś",
+        "pomoc przyjaciółce",
+        "jak pomóc",
+        "osoba doświadczająca przemocy",
+        "jak udzielać wsparcia"
+      ],
+      "glance": "Jeśli ktoś z Twojego otoczenia może doświadczać przemocy, pomocne będzie wysłuchanie tej osoby bez osądzania — oraz wskazanie jej odpowiednich miejsc, do których może się zwrócić.",
+      "overview": "Uświadomienie sobie, że osoba, na której Ci zależy, może być ofiarą przemocy, jest trudne, a chęć pomocy to naturalna reakcja. Najbardziej przydatne rzeczy, jakie możesz zaoferować, są często te najprostsze.\n\nSłuchaj i wierz im. Pozwól im mówić we własnym tempie, bez osądzania, obwiniania czy pytania, co zrobiły, by to spowodować. Powiedz wprost, że to nie ich wina i że nie zasługują na to. Staraj się nie mówić im, co mają robić, ani nie naciskać, by odeszły: decyzja o odejściu należy do nich, a pośpiech w tej sprawie może w rzeczywistości zwiększyć zagrożenie — bardziej pomocne jest zapewnienie im wsparcia i poczucia, że nie są same.\n\nZachowaj w tajemnicy to, co ci powie. Delikatnie pomóż jej znaleźć specjalistyczne wsparcie, gdy będzie gotowa — na przykład infolinię **1522** we Włoszech lub lokalne centrum przeciwdziałania przemocy — i zaoferuj praktyczną pomoc, np. wspólne wyszukanie numerów lub towarzyszenie jej podczas rozmowy telefonicznej. Dbaj też o siebie; wspieranie kogoś w takiej sytuacji może być trudne.",
+      "deep": null,
+      "when_to_see_doctor": "- Zachęć ją (bez wywierania presji) do skontaktowania się z infolinią lub ośrodkiem przeciwdziałania przemocy, które pomogą wam obu zdecydować, co dalej robić. Możesz zaoferować pomoc w nawiązaniu połączenia lub znalezieniu numeru.\n- Jeśli doznają urazu, lekarz rodzinny lub szpital mogą im pomóc — i skierować je do odpowiednich służb wsparcia.",
+      "red_flags": "- Jeśli czytelniczka znajduje się w **bezpośrednim niebezpieczeństwie**, należy wezwać służby ratunkowe: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech pod numerem **1522** (bezpłatny, dostępny 24 godziny na dobę, 7 dni w tygodniu, anonimowy, wielojęzyczny — przez telefon lub czat) można również uzyskać poradę, jak pomóc innej osobie."
+    },
+    "the-coil": {
+      "title": "Wkładka domaciczna, czyli spirala (IUD i IUS)",
+      "aliases": [
+        "wkładka domaciczna",
+        "spirala",
         "IUD",
         "IUS",
-        "cewka miedziana",
+        "wkładka miedziana",
         "wkładka hormonalna",
-        "wkładka domaciczna",
+        "wkładka wewnątrzmaciczna",
         "system wewnątrzmaciczny",
         "Mirena"
       ],
-      "glance": "Spirala to niewielkie urządzenie umieszczane w macicy — miedziana (IUD) lub hormonalna (IUS) — które działa przez wiele lat.",
-      "overview": "Wkładka jest niewielkim urządzeniem, które lekarz umieszcza w macicy. Istnieją dwa rodzaje wkładek i warto\nje rozróżnić:\n\n- **Wkładka miedziana (IUD)**, zwana również wkładką miedzianą, nie zawiera hormonów. Miedź zmienia warunki panujące w macicy, przez co\n  plemniki i komórki jajowe nie są w stanie dobrze przetrwać, a ponadto wpływa na śluz szyjki macicy. W zależności od rodzaju\n  działa przez około 5 do 10 lat.\n- **Wkładka hormonalna (IUS)**, zwana również wkładką hormonalną, zamiast miedzi uwalnia progestagen. Powoduje to zagęszczenie\n  śluzu w szyjce macicy i ścieńczenie błony śluzowej macicy; u niektórych osób może to również spowodować, że miesiączki będą\n  znacznie skromniejsze.\n\nObie są metodami typu „załóż i zapomnij” i obie charakteryzują się skutecznością powyżej 99%, przy niewielkiej różnicy między\nstosowaniem idealnym a typowym. Żadna z nich nie chroni przed chorobami przenoszonymi drogą płciową.",
+      "glance": "Wkładka domaciczna (spirala) to niewielkie urządzenie umieszczane w macicy — miedziane (IUD) lub hormonalne (IUS) — które działa przez wiele lat.",
+      "overview": "Wkładka jest niewielkim urządzeniem, które lekarz umieszcza w macicy. Istnieją dwa rodzaje wkładek i warto\nje rozróżnić:\n\n- **Wkładka miedziana (IUD)**, potocznie zwana spiralą miedzianą, nie zawiera hormonów. Miedź zmienia warunki panujące w macicy, przez co\n  plemniki i komórki jajowe nie są w stanie dobrze przetrwać, a ponadto wpływa na śluz szyjki macicy. W zależności od rodzaju\n  działa przez około 5 do 10 lat.\n- **Wkładka hormonalna (IUS)**, czyli system wewnątrzmaciczny, zamiast miedzi uwalnia progestagen. Powoduje to zagęszczenie\n  śluzu w szyjce macicy i ścieńczenie błony śluzowej macicy; u niektórych osób może to również spowodować, że miesiączki będą\n  znacznie skromniejsze.\n\nObie są metodami typu „załóż i zapomnij” i obie charakteryzują się skutecznością powyżej 99%, przy niewielkiej różnicy między\nstosowaniem idealnym a typowym. Żadna z nich nie chroni przed chorobami przenoszonymi drogą płciową.",
       "deep": "Wkładki są metodami odwracalnymi o długotrwałym działaniu: po założeniu działają przez lata, a płodność\npowraca po ich usunięciu. Zakładanie i usuwanie przeprowadza wykwalifikowany lekarz i zajmuje to zaledwie\nkilka minut, choć niektóre osoby odczuwają dyskomfort podczas zakładania. Częstym powodem, dla którego kobiety wybierają jedną z\ntych metod, jest ich wpływ na miesiączki — miedziana spirala IUD może początkowo powodować obfitsze miesiączki, podczas gdy\nhormonalna spirala IUS często sprawia, że są one skromniejsze. Która z nich jest dla Ciebie odpowiednia, ustalisz podczas rozmowy z lekarzem; ten artykuł\nwyjaśnia jedynie, jak działa każda z nich.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Dni przedmiesiączkowe",
+      "aliases": [
+        "PMS dla partnerów",
+        "wspierając ją przed okresem",
+        "wsparcie przedmiesiączkowe",
+        "wsparcie fazy lutealnej"
+      ],
+      "glance": "W dniach poprzedzających okres może czuć się bardziej zmęczona, rozdrażniona lub przygnębiona – traktuj to cierpliwie, a nie żartując.",
+      "overview": "Mniej więcej na tydzień przed miesiączką wiele osób odczuwa objawy napięcia przedmiesiączkowego: zmiany nastroju, drażliwość\nlub uczucie przygnębienia, zmęczenie, ból piersi, wzdęcia, bóle głowy lub problemy ze snem. To bardzo częste\ni to jest prawdziwe — napędzane naturalnym przesunięciem hormonalnym fazy lutealnej, a nie jej „nadmierną reakcją”.\n\nU mniejszej liczby osób obniżony nastrój jest poważny (stan zwany PMDD) i zasługuje na realne znaczenie\nwsparcie i opiekę medyczną. Tak czy inaczej, twoim zadaniem nie jest diagnozowanie ani naprawianie jej – musisz być stabilny i\nmiły.\n\nNajbardziej szkodliwą rzeczą, jaką może zrobić partner, jest użycie tej broni: „po prostu przeżywasz PMS”, przewraca oczami,\nlub traktowanie jej uczuć jako nieważnych ze względu na datę. To ją odrzuca i dodaje bólu do twardego\ntydzień. Jej uczucia wciąż się liczą, nawet jeśli hormony są częścią obrazu.",
+      "deep": "Co faktycznie pomaga w dzisiejszych czasach:\n\n- **Zmniejsz jej obciążenie.** Zajmuj się obowiązkami domowymi, gotowaniem lub listą rzeczy do zrobienia w myślach bez pytania.\n- **Pocieszanie, nie korygowanie.** Zaoferuj ciepło, odpoczynek, termofor, ulubione jedzenie — i pozwól\n  czuje to co czuje.\n- **Najpierw posłuchaj.** Jeśli jest zdenerwowana, za każdym razem „to brzmi naprawdę ciężko” zamiast „uspokój się”.\n- **Nie zapisuj wyników.** Trudniejszy dzień nie jest długiem, które ma wobec ciebie później.\n- **Zapytaj, czego potrzebuje** — niektóre chcą bliskości, inne przestrzeni. Obydwa są w porządku; szanuj jej odpowiedź.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -898,6 +1163,20 @@
       "overview": "Ciąża bliźniacza jest zazwyczaj stwierdzana po raz pierwszy podczas **badania ultrasonograficznego w celu ustalenia wieku ciążowego** (około 12 tygodnia),\nktóre pozwala również ustalić, czy dzieci mają wspólne łożysko.\n\nWyróżnia się dwa główne rodzaje. Bliźnięta **jednojajowe** powstają z jednego zapłodnionego jajeczka, które ulega podziałowi, dlatego\nmają identyczny zestaw genów i zawsze są tej samej płci. **Bliźnięta nieidentyczne** powstają z dwóch oddzielnych\nkomórek jajowych i nie są do siebie bardziej podobne niż inne rodzeństwo; są one częstsze z tych dwóch rodzajów i występują\nnieco częściej w przypadku starszego wieku matki, występowania takich przypadków w rodzinie ze strony matki lub po zabiegach wspomagających płodność.\n\nCiąża bliźniacza lub wielokrotna to wyjątkowe doświadczenie i zazwyczaj wiąże się z **nieco większą opieką prenatalną** —\ndodatkowymi wizytami i badaniami USG, aby dokładnie monitorować stan matki i dzieci. Zespół położniczy\nwyjaśni, czego można się spodziewać.",
       "deep": null,
       "when_to_see_doctor": "- Jeśli badanie USG wykaże, że spodziewasz się bliźniąt (lub większej liczby dzieci), Twoja **położna** omówi z Tobą dodatkowe wizyty kontrolne i\n  badania USG związane z ciążą mnogą — regularne uczestnictwo we wszystkich tych wizytach to najlepszy sposób, aby zapewnić sobie\n  odpowiednią opiekę.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Zrozumienie jej cyklu",
+      "aliases": [
+        "przewodnik partnerski po cyklu",
+        "cykl dla partnerów",
+        "jak przebiega jej cykl",
+        "wspierając jej cykl"
+      ],
+      "glance": "Jej ciało przechodzi przez miesięczny cykl składający się z czterech faz — znajomość podstaw pomoże Ci wspierać ją bez zgadywania.",
+      "overview": "Cykl menstruacyjny to mniej więcej miesięczny rytm, trwający średnio około 28 dni, ale często od 21\ndo 35 lat, a dla niej normalne jest to, co dla *niej* jest normalne. Działa w czterech fazach: **miesiączkowa**\nfaza (jej okres), faza **folikularna**, **owulacja** w okolicach środka i **faza lutealna**\nfaza przed następnym okresem.\n\nEnergia, nastrój, sen i pożądanie mogą zmieniać się w tych fazach, ponieważ hormony rosną i spadają – to prawda\nbiologii, a nie wada charakteru i nie jest to powód, z którego można by jej dokuczać. Niektórzy ludzie odczuwają prawdziwy spadek\ndni przed okresem; inni ledwo zauważają. Nie ma jednego „właściwego” sposobu odczuwania.\n\nNie musisz zostać ekspertem. To, co najbardziej pomaga, jest proste: wiedzieć mniej więcej, na którym etapie cyklu się znajduje\n(ta aplikacja może Ci to pokazać, za jej zgodą), spodziewaj się, że niektóre dni będą trudniejsze od innych, i zapytaj\njej to, co *ona* uważa za pomocne, a nie zakłada.",
+      "deep": "Kilka rzeczy, które warto wiedzieć, aby mity nie wypełniły luki:\n\n- **„O jej okresie” nie jest obrazą ani wytłumaczeniem, jeśli się z nią nie zgadzasz.** Wykorzystywanie jej cyklu do\n  lekceważenie jej uczuć („masz po prostu hormony”) jest oznaką braku szacunku i zwykle jest błędne. Jej powody\n  to nadal jej powody.\n- **Cykl wpływa nie tylko na miesiączki.** Skurcze, bóle głowy, tkliwość piersi, niski lub niższy poziom energii\n  nastrój może być tego częścią. Praktyczna pomoc przewyższa poradę.\n- **Śledzenie należy do niej.** Jeśli udostępni Ci swój cykl, potraktuj to jako okno na to, jaka może być\n  uczucia — zaproszenie do bycia życzliwym, a nie narzędzie do monitorowania lub kontrolowania jej.\n- **W razie wątpliwości zapytaj.** „Jak się dzisiaj czujesz? Czy mogę coś zrobić?” jest wart więcej niż jakikolwiek wykres.",
+      "when_to_see_doctor": null,
       "red_flags": null
     },
     "vaginal-dryness": {
@@ -921,241 +1200,13 @@
         "higiena intymna",
         "utrzymywanie czystości",
         "płukanie pochwy",
-        "wyładowanie"
+        "upławy"
       ],
       "glance": "Pochwa sama się oczyszcza — wystarczy delikatna pielęgnacja zewnętrzna, a wydzielina jest zjawiskiem normalnym.",
       "overview": "Jedną z najbardziej uspokajających rzeczy jest świadomość, że pochwa sama dba o siebie. Posiada naturalną\nzdolność do samooczyszczania się, a zauważana wydzielina jest tego częścią — jest to płyn, który utrzymuje ją w czystości i nawilżeniu\noraz pomaga chronić ją przed infekcjami. Jej ilość i konsystencja zmieniają się w trakcie cyklu, co jest\ncałkowicie normalne.\n\nZ tego powodu pochwa nie wymaga mycia od wewnątrz. W rzeczywistości mycie jej wnętrza —\n„płukanie” — może zaburzyć jej naturalną równowagę. Część zewnętrzna (srom) wymaga jedynie delikatnej pielęgnacji: ciepłej\nwody i, jeśli chcesz, łagodnego, bezzapachowego mydła. Najlepiej unikać perfumowanych mydeł, żeli, dezodorantów i pachnących\nchusteczek, ponieważ mogą one powodować podrażnienia.\n\nPoznanie tego, co jest dla Ciebie normą — Twoja typowa wydzielina, wygląd i odczucia — ułatwia\nzauważenie, czy coś się zmieniło i czy może być konieczna konsultacja lekarska.",
       "deep": null,
-      "when_to_see_doctor": "Zgłoś się do lekarza pierwszego kontaktu lub poradni zdrowia seksualnego, jeśli zauważysz:\n\n- zmianę w wydzielinie — jej kolor, zapach lub konsystencję, albo znacznie większą ilość niż zwykle\n- swędzenie, ból lub podrażnienie w okolicy pochwy lub sromu\n- krwawienie między miesiączkami lub po stosunku\n- ból podczas oddawania moczu lub ból w dolnej części brzucha, między brzuchem a udami (ból miednicy)\n\nSą to częste objawy, które zazwyczaj łatwo wyleczyć — zmiana charakteru wydzieliny może oznaczać po prostu łagodną infekcję,\ntaką jak pleśniawka. Aby się upewnić, lepiej poddać się badaniu, zamiast zgadywać.",
+      "when_to_see_doctor": "Zgłoś się do lekarza pierwszego kontaktu lub poradni zdrowia seksualnego, jeśli zauważysz:\n\n- zmianę w wydzielinie — jej kolor, zapach lub konsystencję, albo znacznie większą ilość niż zwykle\n- swędzenie, ból lub podrażnienie w okolicy pochwy lub sromu\n- krwawienie między miesiączkami lub po stosunku\n- ból podczas oddawania moczu lub ból w dolnej części brzucha, między brzuchem a udami (ból miednicy)\n\nSą to częste objawy, które zazwyczaj łatwo wyleczyć — zmiana charakteru wydzieliny może oznaczać po prostu łagodną infekcję,\ntaką jak grzybica pochwy. Aby się upewnić, lepiej poddać się badaniu, zamiast zgadywać.",
       "red_flags": null
-    },
-    "consent-and-respect": {
-      "title": "Zgoda i szacunek",
-      "aliases": [
-        "zgoda",
-        "szanować jej granice",
-        "entuzjastyczną zgodę",
-        "autonomia cielesna"
-      ],
-      "glance": "Zgoda to wyraźne, dobrowolne i entuzjastyczne „tak” – za każdym razem, które można wycofać w dowolnym momencie.",
-      "overview": "Szacunek zaczyna się od jej prawa do decydowania o własnym ciele – zawsze. Zgoda na intymność oznacza: a\ndobrowolnie, świadomie, entuzjastycznie **tak**. Milczenie nie jest zgodą. Niechętna „grzywna” nie oznacza zgody.\nKtoś, kto śpi, jest bardzo pijany lub znajduje się pod presją, nie może tak naprawdę wyrazić zgody. I zgadzam się na jedną rzecz lub dalej\npewnego dnia nie oznacza zgody na wszystko ani na następny raz.\n\nZgodę można wycofać w dowolnym momencie, a „przestań” lub „nie dzisiaj” to pełna odpowiedź, która nie wymaga\nuzasadnienie. Naciskanie, wzbudzanie poczucia winy, dąsanie się, dopóki się nie podda, lub traktowanie seksu jako czegoś\njesteś coś winien, nie jest w porządku – związek nie jest długiem.",
-      "deep": "Jak szacunek wygląda w praktyce:\n\n- **Zapytaj i sprawdź.** „Czy wszystko w porządku?” i zwracanie uwagi na to, jak reaguje – słowa i ciało.\n- **Przyjmij „nie” z wdziękiem.** Żadnych wydęć, nacisków i kar. Jej odpowiedź oznacza koniec.\n- **Zapał ma znaczenie.** Jeśli wydaje się niepewna, waha się lub po prostu się zgadza, zatrzymaj się i zapytaj.\n- **Jej ciało, jej wołanie** — o intymności, antykoncepcji, ciąży, jej zdrowiu, jej wyglądzie, jej\n  wybory. Masz głos w swoim wspólnym życiu, a nie prawo weta wobec jej ciała.\n- **Szacunek jest codziennością.** Sposób, w jaki z nią rozmawiasz, o niej i traktujesz jej granice w małych rzeczach, taki jest\n  fundament, na którym opiera się wszystko inne.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "listening-and-support": {
-      "title": "Słuchanie i wsparcie emocjonalne",
-      "aliases": [
-        "jak słuchać",
-        "wsparcie emocjonalne dla partnerów",
-        "komunikacja",
-        "bycie tam dla niej"
-      ],
-      "glance": "W większości przypadków należy ją wysłuchać, a nie naprawić — najpierw wysłuchaj i zapytaj, zanim doradzisz.",
-      "overview": "Kiedy ktoś, kogo kochamy, zmaga się z trudnościami, instynktownie podpowiadamy, aby wkroczyć i rozwiązać problem. Ale często to, co pomaga najbardziej\nczuje się naprawdę wysłuchana: że jej uczucia mają sens i że nie jest z nimi sama. Naprawianie też\nszybko może wylądować, ponieważ „twoje uczucia są problemem do zamknięcia”.\n\nDobre słuchanie to umiejętność, której każdy może się nauczyć. To głównie uwaga: odłożenie telefonu, zwrócenie się twarzą do niej,\ni pozwolić jej dokończyć. Nie musisz zgadzać się ze wszystkimi kwestiami, żeby czuła się szanowana.",
-      "deep": "Praktyczne sposoby na zaprezentowanie się:\n\n- **Słuchaj, żeby zrozumieć, a nie odpowiadać.** Pozwól jej mówić, nie przerywając ani nie planując Twojej obrony.\n- **Przemyśl to jeszcze raz.** „To brzmi naprawdę stresująco” lub „Rozumiem, dlaczego to boli” zamiast „po prostu nie rób tego”\n  martw się o to”.\n- **Zapytaj, zanim doradzisz.** „Chcesz, żebym pomógł ci to przemyśleć, czy po prostu chcesz, żebym cię wysłuchał?”\n- **Nie bierz tego do siebie**, gdy nie chodzi o Ciebie w ciężkim dniu. Stabilność jest darem.\n- **Przyznaj swoją rolę.** Jeśli coś jest nie tak, prawdziwe przeprosiny – bez „ale” – odbudowują zaufanie.\n- **Zauważ szerszą perspektywę.** Jeśli wydaje się stale przygnębiona, niespokojna lub nie, delikatnie\n  zachęć ją do wsparcia i zaoferuj pomoc w osiągnięciu tego celu. Jesteś członkiem drużyny, a nie terapeutą.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "respect-not-control": {
-      "title": "Szacunek, a nie kontrola",
-      "aliases": [
-        "kontrolowanie zachowania",
-        "kontrola przymusowa",
-        "zdrowy związek",
-        "znaki ostrzegawcze",
-        "gdzie uzyskać pomoc",
-        "nadużycie"
-      ],
-      "glance": "Miłość opiera się na szacunku i wolności — kontrola, zazdrość i presja nie są miłością, a pomoc istnieje.",
-      "overview": "Zdrowy związek opiera się na szacunku, zaufaniu, równości i wolności: dwojgu ludzi, z których każdy zachowuje swoje\nwłasne przyjaźnie, wybory i przestrzeń. Kontrola jest odwrotna. Często kryje się za słowami takimi jak miłość lub\nzazdrość – „Sprawdzam twój telefon, bo mi zależy”, „Nie chcę, żebyś ich widział, bo cię kocham” – ale\njego skutkiem jest zmniejszenie jej świata i wolności.\n\nKontrola rzadko zaczyna się od przemocy. Zwykle zaczyna się od czegoś małego — krytyki, przekroczenia granicy, a\n„żart”, który kłuje — i rośnie. Nazwanie tego na wczesnym etapie ma znaczenie, ponieważ kontrola przymusowa sama w sobie jest formą\nnadużyciem i sygnałem ostrzegawczym na gorsze. Tu nie chodzi o poczucie winy; chodzi o szczerość i zmianę.",
-      "deep": "**Jeśli rozpoznasz w sobie niektóre z nich, ta świadomość będzie punktem wyjścia, a nie wyrokiem dożywocia.**\nLudzie mogą się zmienić przy prawdziwym wysiłku i odpowiedniej pomocy. Sięgnięcie po dedykowany program dla mężczyzn\nktórzy chcą przestać być kontrolowani lub agresywni, jest oznaką siły, a nie słabości. Porozmawiaj z A\nspecjalistą, lekarzem lub organizacją zajmującą się zmianą zachowań mężczyzn.\n\nJeśli **ona** jest w niebezpieczeństwie lub martwisz się o kogoś, zachęć ją i wspieraj, aby do niego dotarła\npomóc – na jej warunkach, nigdy poprzez przejęcie.\n\n**Gdzie uzyskać pomoc**\n- W sytuacji awaryjnej lub jeśli ktoś znajduje się w bezpośrednim niebezpieczeństwie, zadzwoń pod lokalny numer alarmowy\n  (**112** we Włoszech i dużej części Europy; **911** w USA).\n- **Włochy — 1522**: krajowa infolinia przeciwdziałająca przemocy i prześladowaniu. Bezpłatnie, 24 godziny na dobę, 7 dni w tygodniu, anonimowo i\n  wielojęzyczny, prowadzony przez Departament ds. Równych Szans. Prowadzi także ludzi do miejsc lokalnych\n  ośrodki antyprzemocowe (centri antiviolenza).\n- Ośrodki przeciwdziałające przemocy i programy zmiany zachowań mężczyzn (we Włoszech „centri per uomini autori di\n  violenza”) oferują poufne wsparcie w zmianie.",
-      "when_to_see_doctor": null,
-      "red_flags": "Znaki ostrzegawcze kontrolującego lub agresywnego zachowania – które warto potraktować poważnie w odniesieniu do siebie lub związku:\n\n- **Monitorowanie lub izolowanie**: sprawdzanie jej telefonu, śledzenie jej lokalizacji lub odcinanie jej\n  przyjaciele i rodzina.\n- **Kontrola nad wyborami**: pieniędzmi, tym, co nosi, dokąd idzie, z kim się spotyka.\n- **Zazdrość sformułowana jako miłość**, ciągłe oskarżenia lub potrzeba ciągłego sprawdzania, gdzie ona jest.\n- **Poniżanie, obwinianie lub wywoływanie strachu**, poczucia winy lub „chodzenia po skorupkach jaj”.\n- **Naciski lub groźby** dotyczące seksu, zerwania lub samookaleczenia w celu uzyskania zgodności.\n- **Jakakolwiek siła fizyczna, zastraszanie lub strach.** Jeśli to występuje, jest to znęcanie się — skontaktuj się z pomocą\n  powyżej. Nigdy nie ma wymówki i nigdy nie jest to jej wina."
-    },
-    "supporting-her-period": {
-      "title": "Wspieranie jej podczas okresu",
-      "aliases": [
-        "pomaga podczas okresu",
-        "wsparcie okresowe dla partnerów",
-        "opieka okresowa"
-      ],
-      "glance": "Miesiączka może wiązać się z prawdziwym bólem i zmęczeniem – niewielka, praktyczna pielęgnacja robi dużą różnicę.",
-      "overview": "Okres to nie tylko kilka dni krwawienia; dla wielu wiąże się to ze skurczami, bólami pleców, bólami głowy,\nzmęczenie i niski poziom energii. Ból miesiączkowy jest zjawiskiem powszechnym i może być naprawdę wyczerpujący – tak nie jest\nprzesada. Traktuj to tak, jak traktowałbyś każdego chorego partnera: z praktyczną życzliwością.\n\nNormalizuj to też. Okresy nie są obrzydliwe, zawstydzające ani tabu. Możliwość wygodnego zakupu podpasek lub\ntampony, trzymanie ich w domu lub bezproblemowe podawanie jej termoforu mówi jej, że jest bezpieczna i\nobsługiwane.",
-      "deep": "Proste rzeczy, które pomagają:\n\n- **Ciepło i odpoczynek.** Butelka z gorącą wodą lub podkładka rozgrzewająca na dolnej części brzucha łagodzi skurcze; zaoferować ciszę\n  wieczór w.\n- **Zdejmij jej rzeczy z talerza.** Gotuj, sprzątaj, załatwiaj sprawy, zawoź ją – praktyczna pomoc jest trudniejsza\n  niż słowa.\n- **Trzymaj zapasy.** Wiedz, czego używa i przechowuj zapasy, aby ciężki dzień nigdy nie był kryzysem.\n- **Środki przeciwbólowe i jedzenie na pocieszenie**, jeśli ich chce; jej wybór.\n- **Nie wywieraj presji na seks ani energię, której ona nie ma.** Bliskość może być przytulaniem na sofie.",
-      "when_to_see_doctor": "Zachęć ją, aby poszła do lekarza (i zaproponuj, że pójdzie z nią), jeśli ból miesiączkowy jest **silny, nasila się,\nlub powstrzymując ją od codziennego życia**, jeśli miesiączki są **bardzo obfite** (co godzinne moczenie przez środki ochronne,\nduże skrzepy) lub jeśli ból jest nowy i nietypowy – może to wskazywać na choroby takie jak endometrioza\nzasługują na odpowiednią opiekę.",
-      "red_flags": null
-    },
-    "the-premenstrual-days": {
-      "title": "Dni przedmiesiączkowe",
-      "aliases": [
-        "PMS dla partnerów",
-        "wspierając ją przed okresem",
-        "wsparcie przedmiesiączkowe",
-        "wsparcie fazy lutealnej"
-      ],
-      "glance": "W dniach poprzedzających okres może czuć się bardziej zmęczona, rozdrażniona lub przygnębiona – traktuj to cierpliwie, a nie żartując.",
-      "overview": "Mniej więcej na tydzień przed miesiączką wiele osób odczuwa objawy napięcia przedmiesiączkowego: zmiany nastroju, drażliwość\nlub uczucie przygnębienia, zmęczenie, ból piersi, wzdęcia, bóle głowy lub problemy ze snem. To bardzo częste\ni to jest prawdziwe — napędzane naturalnym przesunięciem hormonalnym fazy lutealnej, a nie jej „nadmierną reakcją”.\n\nU mniejszej liczby osób obniżony nastrój jest poważny (stan zwany PMDD) i zasługuje na realne znaczenie\nwsparcie i opiekę medyczną. Tak czy inaczej, twoim zadaniem nie jest diagnozowanie ani naprawianie jej – musisz być stabilny i\nmiły.\n\nNajbardziej szkodliwą rzeczą, jaką może zrobić partner, jest użycie tej broni: „po prostu przeżywasz PMS”, przewraca oczami,\nlub traktowanie jej uczuć jako nieważnych ze względu na datę. To ją odrzuca i dodaje bólu do twardego\ntydzień. Jej uczucia wciąż się liczą, nawet jeśli hormony są częścią obrazu.",
-      "deep": "Co faktycznie pomaga w dzisiejszych czasach:\n\n- **Zmniejsz jej obciążenie.** Zajmuj się obowiązkami domowymi, gotowaniem lub listą rzeczy do zrobienia w myślach bez pytania.\n- **Pocieszanie, nie korygowanie.** Zaoferuj ciepło, odpoczynek, termofor, ulubione jedzenie — i pozwól\n  czuje to co czuje.\n- **Najpierw posłuchaj.** Jeśli jest zdenerwowana, za każdym razem „to brzmi naprawdę ciężko” zamiast „uspokój się”.\n- **Nie zapisuj wyników.** Trudniejszy dzień nie jest długiem, które ma wobec ciebie później.\n- **Zapytaj, czego potrzebuje** — niektóre chcą bliskości, inne przestrzeni. Obydwa są w porządku; szanuj jej odpowiedź.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "understanding-her-cycle": {
-      "title": "Zrozumienie jej cyklu",
-      "aliases": [
-        "przewodnik partnerski po cyklu",
-        "cykl dla partnerów",
-        "jak przebiega jej cykl",
-        "wspierając jej cykl"
-      ],
-      "glance": "Jej ciało przechodzi przez miesięczny cykl składający się z czterech faz — znajomość podstaw pomoże Ci wspierać ją bez zgadywania.",
-      "overview": "Cykl menstruacyjny to mniej więcej miesięczny rytm, trwający średnio około 28 dni, ale często od 21\ndo 35 lat, a dla niej normalne jest to, co dla *niej* jest normalne. Działa w czterech fazach: **miesiączkowa**\nfaza (jej okres), faza **folikularna**, **owulacja** w okolicach środka i **faza lutealna**\nfaza przed następnym okresem.\n\nEnergia, nastrój, sen i pożądanie mogą zmieniać się w tych fazach, ponieważ hormony rosną i spadają – to prawda\nbiologii, a nie wada charakteru i nie jest to powód, z którego można by jej dokuczać. Niektórzy ludzie odczuwają prawdziwy spadek\ndni przed okresem; inni ledwo zauważają. Nie ma jednego „właściwego” sposobu odczuwania.\n\nNie musisz zostać ekspertem. To, co najbardziej pomaga, jest proste: wiedzieć mniej więcej, na którym etapie cyklu się znajduje\n(ta aplikacja może Ci to pokazać, za jej zgodą), spodziewaj się, że niektóre dni będą trudniejsze od innych, i zapytaj\njej to, co *ona* uważa za pomocne, a nie zakłada.",
-      "deep": "Kilka rzeczy, które warto wiedzieć, aby mity nie wypełniły luki:\n\n- **„O jej okresie” nie jest obrazą ani wytłumaczeniem, jeśli się z nią nie zgadzasz.** Wykorzystywanie jej cyklu do\n  lekceważenie jej uczuć („masz po prostu hormony”) jest oznaką braku szacunku i zwykle jest błędne. Jej powody\n  to nadal jej powody.\n- **Cykl wpływa nie tylko na miesiączki.** Skurcze, bóle głowy, tkliwość piersi, niski lub niższy poziom energii\n  nastrój może być tego częścią. Praktyczna pomoc przewyższa poradę.\n- **Śledzenie należy do niej.** Jeśli udostępni Ci swój cykl, potraktuj to jako okno na to, jaka może być\n  uczucia — zaproszenie do bycia życzliwym, a nie narzędzie do monitorowania lub kontrolowania jej.\n- **W razie wątpliwości zapytaj.** „Jak się dzisiaj czujesz? Czy mogę coś zrobić?” jest wart więcej niż jakikolwiek wykres.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "child-abuse": {
-      "title": "Przemoc wobec dzieci i zapewnienie im bezpieczeństwa",
-      "aliases": [
-        "przemoc wobec dzieci",
-        "przemoc wobec dzieci",
-        "bezpieczeństwo dzieci",
-        "ochrona dziecka",
-        "martwię się o dziecko",
-        "zaniedbanie"
-      ],
-      "glance": "Jeśli obawiasz się, że dziecko może być krzywdzone lub zaniedbywane, słuszne jest zasięgnięcie porady — nie musisz mieć co do tego pewności.",
-      "overview": "Przemoc wobec dzieci – lub złe traktowanie dzieci – to krzywda wyrządzona osobie poniżej 18 roku życia. Obejmuje przemoc fizyczną, seksualną i emocjonalną oraz zaniedbanie (niezaspokajanie podstawowych potrzeb dziecka). Niestety jest to zjawisko powszechne, może powodować trwałe szkody i nigdy nie jest winą dziecka.\n\nByć może martwisz się o dziecko z Twojego otoczenia lub o dziecko, które zwróciło Twoją uwagę. Nie musisz mieć pewności ani dowodów, aby podjąć działania w związku z tymi obawami — zaufanie własnej intuicji i poproszenie o radę to dokładnie to, co należy zrobić, a może to uratować dziecko.\n\nA jeśli sama doświadczyłaś przemocy w dzieciństwie, pamiętaj, że to, co ci się przydarzyło, nigdy nie było twoją winą i że pomoc jest dostępna również dla ciebie, niezależnie od wieku.",
-      "deep": null,
-      "when_to_see_doctor": "- Jeśli martwisz się o dziecko, możesz skontaktować się z **służbami ochrony dzieci / opieki społecznej**, specjalną **infolinią ds. ochrony dzieci** lub **lekarzem rodzinnym, pielęgniarką środowiskową lub szkołą dziecka** w celu uzyskania porady — w pełnej poufności.\n- Zadając to pytanie, nie „przesadzasz”. Lepiej sprawdzić, niż czekać.",
-      "red_flags": "- Jeśli dziecko znajduje się w **bezpośrednim niebezpieczeństwie** lub jest poważnie ranne, należy natychmiast skontaktować się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie."
-    },
-    "coercive-control": {
-      "title": "Kontrola oparta na przymusie",
-      "aliases": [
-        "kontrola oparta na przymusie",
-        "zachowania kontrolujące",
-        "przemoc emocjonalna",
-        "przemoc psychiczna",
-        "izolacja",
-        "przemoc finansowa",
-        "manipulacja psychiczna"
-      ],
-      "glance": "Kontrola oparta na przymusie to wzorzec zachowań kontrolujących — izolowanie, monitorowanie, grożenie — który stanowi uznaną formę przemocy.",
-      "overview": "Kontrola oparta na przymusie to forma przemocy, która polega raczej na kontroli niż na przemocy fizycznej (lub obejmuje ją dodatkowo). Jest to wzorzec zachowań — a nie pojedyncza kłótnia — w ramach którego jedna osoba stopniowo ogranicza wolność i poczucie własnej tożsamości drugiej osoby.\n\nMoże to wyglądać na odcięcie od przyjaciół i rodziny, kontrolę lub ograniczenie dostępu do telefonu, przemieszczania się czy wydatków, narzucanie, w co się ubierać lub jak się zachowywać, albo życie w atmosferze ciągłej krytyki, gróźb lub zastraszania. Ponieważ mogą nie być widoczne żadne siniaki, trudno to nazwać, a inni mogą tego nie dostrzegać — jednak jest to uznawane za przemoc i może być równie szkodliwe jak przemoc fizyczna.\n\nJeśli rozpoznajesz w tym coś znajomego, nie oznacza to, że jesteś zbyt wrażliwa ani że sama się o to prosiłaś. Zachowania kontrolujące to wybór, którego dokonuje druga osoba. Zrozumienie tego, czym one naprawdę są, może być pierwszym krokiem w kierunku uzyskania wsparcia.",
-      "deep": "Kontrola oparta na przymusie często narasta powoli, co sprawia, że trudno ją dostrzec z perspektywy osoby, która jej doświadcza — drobne ograniczenia stają się normą, a narastają wątpliwości co do samej siebie. Z czasem ma to negatywny wpływ na zdrowie psychiczne. Rozmowa z osobą przeszkoloną w rozpoznawaniu takich schematów może pomóc ci spojrzeć na sytuację z większym dystansem i bez presji zastanowić się, co chcesz zrobić dalej.",
-      "when_to_see_doctor": "- W centrum pomocy ofiarom przemocy lub na infolinii (we Włoszech **1522**) możesz porozmawiać o tym, co przeżywasz – poufnie i bezpłatnie – oraz uzyskać pomoc w zrozumieniu dostępnych opcji – nie musisz znajdować się w fizycznym niebezpieczeństwie, aby się skontaktować.\n- Wsparcie może również zapewnić lekarz rodzinny lub doradca, którzy skierują Cię do odpowiednich specjalistów.",
-      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech numer **1522** jest bezpłatny, dostępny 24 godziny na dobę, zapewnia anonimowość i obsługę w wielu językach — przez telefon lub czat."
-    },
-    "economic-abuse": {
-      "title": "Przemoc ekonomiczna",
-      "aliases": [
-        "przemoc ekonomiczna",
-        "przemoc finansowa",
-        "zarządzanie finansami",
-        "zarządzanie finansami",
-        "zadłużenie na moje nazwisko"
-      ],
-      "glance": "Przemoc ekonomiczna polega na kontrolowaniu dostępu danej osoby do pieniędzy, pracy lub zasobów — jest to uznana forma przemocy.",
-      "overview": "Przemoc ekonomiczna ma miejsce, gdy ktoś kontroluje dostęp innej osoby do pieniędzy i rzeczy, które można za nie kupić. Jest to forma zachowań kontrolujących i często towarzyszy innym rodzajom przemocy.\n\nMoże to wyglądać na kontrolowanie wszystkich wydatków lub zmuszanie cię do rozliczania się z każdego grosza, zabieranie twojej pensji lub zasiłków, zaciąganie długów w twoim imieniu, ukrywanie przed tobą kont bankowych lub dokumentów albo uniemożliwianie ci pracy lub nauki. Ponieważ może to pozbawić osobę środków na opuszczenie związku lub radzenie sobie na co dzień, jest to jeden ze sposobów, w jaki przemoc może sprawiać wrażenie pułapki.\n\nJeśli niektóre z tych sytuacji wydają Ci się znajome, nie oznacza to, że „nie umiesz zarządzać pieniędzmi” ani że ponosisz za to winę. Kontrolowanie zasobów finansowych innej osoby jest wyborem tej osoby — i jest uznawane za przemoc.",
-      "deep": null,
-      "when_to_see_doctor": "- Pomoc w tym zakresie mogą również zapewnić organizacje zajmujące się przeciwdziałaniem przemocy — nie tylko w zakresie bezpieczeństwa, ale także praktycznych i finansowych kroków, w sposób poufny i bezpłatny (we Włoszech infolinia **1522** może skierować Cię do lokalnych ośrodków wsparcia).\n- Plan bezpieczeństwa może obejmować dyskretne zabezpieczenie dostępu do pewnej kwoty pieniędzy, kluczowych dokumentów i ważnych numerów.",
-      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech pod numerem **1522** — bezpłatnym, dostępnym 24 godziny na dobę, zapewniającym anonimowość i obsługiwanym w wielu językach — można uzyskać pomoc przez telefon lub czat."
-    },
-    "getting-help": {
-      "title": "Gdzie szukać pomocy",
-      "aliases": [
-        "jak uzyskać pomoc",
-        "z kim się skontaktować",
-        "numery telefonów zaufania",
-        "przydatne numery",
-        "ośrodek przeciwdziałania przemocy",
-        "1522",
-        "numery alarmowe"
-      ],
-      "glance": "Dostępna jest bezpłatna, poufna pomoc — w nagłych przypadkach zadzwoń pod lokalny numer alarmowy; we Włoszech pod numer 1522 o każdej porze.",
-      "overview": "Jeśli doświadczasz przemocy, nie musisz radzić sobie z tym sama, a zwrócenie się o pomoc nie zobowiązuje cię do niczego. Są ludzie, których praca polega wyłącznie na słuchaniu i pomaganiu – w tajemnicy i za darmo.\n\nW tekście występuje kilka rodzajów pomocy:\n\n- **Służby ratunkowe** — w przypadku bezpośredniego zagrożenia zadzwoń pod lokalny numer alarmowy (poniżej).\n- **Krajowa infolinia** — we Włoszech **1522**, bezpłatna infolinia ds. przemocy i stalkingu: czynna 24 godziny na dobę, anonimowa, dostępna w kilku językach, przez telefon lub czat online.\n- **Ośrodki przeciwdziałania przemocy** (we Włoszech *centri antiviolenza*) — lokalne placówki oferujące bezpłatne, poufne wsparcie, pomoc w planowaniu bezpieczeństwa oraz wsparcie prawne i psychologiczne.\n- **Służba zdrowia** — lekarz rodzinny lub szpitalny oddział ratunkowy, gdzie personel jest coraz lepiej przeszkolony w zakresie rozpoznawania przemocy i kierowania ofiar do odpowiednich służb wsparcia.\n- **Osoby, którym ufasz** — przyjaciel lub członek rodziny, przy którym czujesz się bezpiecznie.\n\nMożesz zacząć od tego, co wydaje Ci się najbardziej realne, i nie musisz jeszcze podejmować żadnych decyzji.",
-      "deep": null,
-      "when_to_see_doctor": "- Możesz w pełnej poufności porozmawiać o tym, co się dzieje, z **lekarzem rodzinnym lub w szpitalu**; mogą oni opatrzyć wszelkie obrażenia i skontaktować cię ze specjalistycznymi służbami.\n- Jeśli łatwiej jest napisać niż porozmawiać, **czat 1522** to kolejna opcja.",
-      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- **Włochy:** **1522** (bezpłatna, całodobowa, anonimowa, wielojęzyczna — rozmowa telefoniczna lub czat).\n- Numery infolinii różnią się w zależności od kraju. Aplikacja może wyświetlić numery dla Twojego kraju, a strona **findahelpline.com** zawiera listę infolinii przeciwdziałających przemocy na całym świecie (wykrywa ona Twój kraj i posiada przycisk szybkiego wyjścia). Jeśli przebywasz w UE, numer **112** działa wszędzie."
-    },
-    "recognising-abuse": {
-      "title": "Jak rozpoznać związek, w którym dochodzi do przemocy",
-      "aliases": [
-        "rozpoznawanie przemocy",
-        "związek, w którym dochodzi do przemocy",
-        "przemoc domowa",
-        "przemoc ze strony partnera",
-        "oznaki przemocy",
-        "Czy jestem ofiarą przemocy?"
-      ],
-      "glance": "Przemoc może mieć charakter fizyczny, seksualny, emocjonalny lub polegać na kontrolowaniu — i nigdy nie jest winą osoby, która jej doświadcza.",
-      "overview": "Przemoc w związku nie ogranicza się wyłącznie do przemocy fizycznej. Może przybierać różne formy, często występujące jednocześnie: przemoc fizyczna, przymus seksualny, przemoc emocjonalna lub psychiczna oraz zachowania kontrolujące — partner decyduje, gdzie możesz się udać, z kim się spotykasz lub co możesz robić. Każda z tych sytuacji może stanowić przemoc, nawet jeśli nie widać żadnych widocznych obrażeń.\n\nProblem ten jest powszechniejszy, niż wielu ludziom się wydaje. Na całym świecie około 1 na 3 kobiety doświadcza w ciągu życia przemocy fizycznej lub seksualnej, najczęściej ze strony partnera; sytuacja we Włoszech wygląda podobnie. Jeśli więc jest to część Twojego życia, nie jesteś sama i nie jesteś tego przyczyną.\n\nTrudno jest to nazwać — przemoc często przeplata się z dobrymi chwilami, przeprosinami lub obietnicami zmiany i może narastać tak powoli, że wydaje się czymś normalnym. Zaufanie własnemu przeczuciu, że coś jest nie tak, jest wystarczającym powodem, by zwrócić się o pomoc. Nie musisz mieć pewności ani czekać, aż sytuacja stanie się „wystarczająco zła”, aby z kimś porozmawiać.",
-      "deep": "Niezależnie od różnych form, przemoc zazwyczaj przebiega według schematu, w którym jedna osoba dąży do zdobycia władzy i kontroli nad drugą, a z czasem może eskalować. Ma to naprawdę negatywny wpływ na zdrowie — wiąże się z lękiem, depresją, problemami ze snem oraz długotrwałymi skutkami fizycznymi. Nic z tego nie oznacza, że jesteś słaba lub że ponosisz winę; oznacza to jedynie, że to, z czym się zmagasz, jest szkodliwe, a dostępne jest wsparcie, które pomoże Ci to przemyśleć w bezpieczny sposób i we własnym tempie.",
-      "when_to_see_doctor": "- Kiedy tylko będziesz gotowa, możesz porozmawiać z kimś w zaufaniu — z lekarzem rodzinnym lub pielęgniarką, w ośrodku przeciwdziałania przemocy lub na infolinii (we Włoszech **1522**, bezpłatna i dostępna o każdej porze). Nie musisz najpierw mieć dowodów, planu ani podjętej decyzji; osoby te są po to, by cię wysłuchać i pomóc ci zrozumieć dostępne opcje.\n- Pracownik służby zdrowia może również opatrzyć wszelkie urazy i dyskretnie skierować cię do specjalisty.",
-      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, skontaktuj się natychmiast ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech numer **1522** — bezpłatna krajowa infolinia ds. przemocy i stalkingu — jest dostępna 24 godziny na dobę, anonimowo, przez telefon lub czat, w kilku językach."
-    },
-    "safety-plan": {
-      "title": "Opracowanie planu bezpieczeństwa",
-      "aliases": [
-        "plan bezpieczeństwa",
-        "dbaj o bezpieczeństwo",
-        "dbaj o bezpieczeństwo",
-        "planowanie bezpieczeństwa",
-        "bezpieczne opuszczenie"
-      ],
-      "glance": "Plan bezpieczeństwa to kilka praktycznych kroków, które pomogą Ci zapewnić sobie większe bezpieczeństwo — a wykwalifikowani specjaliści mogą pomóc Ci go opracować.",
-      "overview": "Plan bezpieczeństwa to po prostu przemyślenie z wyprzedzeniem, jak zapewnić sobie (i ewentualnym dzieciom) większe bezpieczeństwo. Nie chodzi tu o decyzję, czy odejść, czy zostać — chodzi o to, by być nieco lepiej przygotowaną, niezależnie od tego, co wybierzesz.\n\nNiektórym osobom pomaga dyskretne przygotowanie kilku rzeczy: zaufana osoba, która wie, co się dzieje, ważne dokumenty i numery kontaktowe, mała torba z niezbędnymi rzeczami, wiedza o najbezpieczniejszych drogach ucieczki z domu lub słowo lub sygnał, które poinformują kogoś, że potrzebujesz pomocy. To, co ma sens, zależy całkowicie od Twojej własnej sytuacji.\n\nNie musisz radzić sobie z tym sama, a często bezpieczniej jest tego nie robić. Organizacje zajmujące się przeciwdziałaniem przemocy mają doświadczenie w opracowywaniu planów bezpieczeństwa wraz z osobami dotkniętymi przemocą – w sposób poufny i bezpłatny – w tym planów dotyczących okresu poprzedzającego odejście, który może wiązać się z większym ryzykiem i warto go zaplanować z pomocą, a nie w pośpiechu.",
-      "deep": null,
-      "when_to_see_doctor": "- Skontaktuj się z ośrodkiem przeciwdziałania przemocy lub infolinią (we Włoszech **1522**), aby opracować plan dostosowany do Twojej sytuacji — zajmują się tym na co dzień, zachowując poufność, i mogą pomóc w podjęciu kroków praktycznych, prawnych i emocjonalnych.\n- Jeśli prowadzisz jakikolwiek dziennik dotyczący tego, co się dzieje, przechowuj go w prywatnym i bezpiecznym miejscu.",
-      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech pod numerem **1522** — bezpłatnym, dostępnym 24 godziny na dobę, anonimowym i wielojęzycznym — można uzyskać pomoc przez telefon lub czat, w tym w zakresie pilnego planowania bezpieczeństwa."
-    },
-    "sexual-violence": {
-      "title": "Przemoc seksualna i zgoda",
-      "aliases": [
-        "przemoc seksualna",
-        "napaść seksualna",
-        "gwałt",
-        "zgoda",
-        "wykorzystywanie seksualne",
-        "bez zgody"
-      ],
-      "glance": "Przemoc seksualna to każdy akt seksualny bez zgody — i nigdy nie jest to wina osoby, która go doświadczyła.",
-      "overview": "Przemoc seksualna oznacza każdy akt seksualny lub próbę jego popełnienia bez zgody lub pod przymusem. Obejmuje ona gwałt oraz każdy niechciany kontakt seksualny i może zostać popełniona przez dowolną osobę — nieznajomego, znajomego, partnera lub małżonka.\n\nZgoda jest tu kluczowa. Zgoda oznacza dobrowolną zgodę i nie jest możliwa, gdy ktoś śpi, jest nieprzytomny, pijany lub pod wpływem narkotyków, jest dzieckiem, albo znajduje się pod presją, groźbą lub odczuwa strach. Zgodę można wycofać w dowolnym momencie. Z tego powodu przemoc seksualna **nigdy** nie jest winą osoby, której to spotkało — nie z powodu tego, co miała na sobie, czy piła alkohol, czy zamarła zamiast walczyć, ani czy znała sprawcę.\n\nJeśli spotkało cię coś takiego, możesz liczyć na wsparcie – niezależnie od tego, czy miało to miejsce niedawno, czy dawno temu. Wierzymy ci, a to, co zrobisz dalej, zależy wyłącznie od ciebie.",
-      "deep": null,
-      "when_to_see_doctor": "- Możesz udać się do **placówki służby zdrowia, szpitala lub specjalistycznej placówki zajmującej się ofiarami przemocy seksualnej**, gdzie zapewnią Ci opiekę, opatrzą ewentualne obrażenia oraz — jeśli zechcesz — pomogą w zgłoszeniu sprawy i zabezpieczeniu dowodów.\n- Niektóre działania związane ze zdrowiem mają **charakter pilny** — na przykład antykoncepcja awaryjna lub zapobieganie infekcjom — więc **szybkie** zgłoszenie się może pomóc. Nie ma jednak terminu na uzyskanie wsparcia, a decyzja o zgłoszeniu sprawy zawsze należy do Ciebie.",
-      "red_flags": "- Jeśli znajdujesz się w **bezpośrednim niebezpieczeństwie**, natychmiast skontaktuj się ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- Po niedawnym napadzie **szpital lub wyspecjalizowana placówka mogą udzielić pilnej pomocy**. We Włoszech pod numerem **1522** (bezpłatny, dostępny 24 godziny na dobę, 7 dni w tygodniu, anonimowy, wielojęzyczny — przez telefon lub czat) można uzyskać wskazówki dotyczące odpowiedniej opieki."
-    },
-    "stalking": {
-      "title": "Prześladowanie",
-      "aliases": [
-        "prześladowanie",
-        "bycie prześladowaną",
-        "molestowanie",
-        "niechciana uwaga",
-        "ktoś mnie śledzi",
-        "cyberstalking"
-      ],
-      "glance": "Stalking to powtarzające się, niechciane zainteresowanie, które wywołuje strach lub poczucie zagrożenia — i jest traktowany poważnie.",
-      "overview": "Prześladowanie to powtarzające się, niechciane zachowania ze strony innej osoby, które wywołują u Ciebie strach, poczucie bycia obserwowaną lub zagrożenia. Może to obejmować śledzenie, pojawianie się w miejscach, w których przebywasz, ciągłe telefony lub wiadomości, niechciane prezenty, monitorowanie Ciebie w sieci lub za pośrednictwem telefonu, a także groźby. Często sprawcą jest były partner lub ktoś, kogo znasz, choć nie zawsze.\n\nStrach, jaki to wywołuje, jest uzasadniony, nawet jeśli poszczególne zachowania mogą wydawać się innym „drobne” — liczy się wzorzec zachowań i to, jak się przez to czujesz. Prześladowanie jest uznawane za formę przemocy, a w wielu krajach stanowi przestępstwo. To nie jest twoja wina i nie musisz się z tym po prostu godzić.\n\nJeśli jest to bezpieczne, prowadzenie zapisu może pomóc w przyszłości: daty i godziny, zrzuty ekranu z wiadomości oraz opis tego, co się wydarzyło. Nie musisz sama zastanawiać się, czy to „się liczy” — służby wsparcia pomogą Ci to zrozumieć i przemyśleć dostępne opcje.",
-      "deep": null,
-      "when_to_see_doctor": "- Należy skontaktować się z **policją**, aby zgłosić przypadek stalkingu, oraz z infolinią ds. przeciwdziałania przemocy lub stalkingowi w celu uzyskania wsparcia i porady (we Włoszech numer **1522** służy do zgłaszania przypadków przemocy **i** stalkingu).\n- Zebranie dowodów i opracowanie planu bezpieczeństwa przy pomocy specjalistycznej placówki mogą naprawdę wiele zmienić.",
-      "red_flags": "- Jeśli czujesz się w **bezpośrednim niebezpieczeństwie**, skontaktuj się natychmiast ze służbami ratunkowymi: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech pod numerem **1522** — bezpłatnym, dostępnym 24 godziny na dobę, anonimowym i wielojęzycznym — można uzyskać pomoc przez telefon lub czat."
-    },
-    "supporting-someone": {
-      "title": "Wsparcie dla osoby doświadczającej przemocy",
-      "aliases": [
-        "wspieranie kogoś",
-        "pomoc przyjaciółce",
-        "jak pomóc",
-        "osoba doświadczająca przemocy",
-        "jak udzielać wsparcia"
-      ],
-      "glance": "Jeśli ktoś z Twojego otoczenia może doświadczać przemocy, pomocne będzie wysłuchanie tej osoby bez osądzania — oraz wskazanie jej odpowiednich miejsc, do których może się zwrócić.",
-      "overview": "Uświadomienie sobie, że osoba, na której Ci zależy, może być ofiarą przemocy, jest trudne, a chęć pomocy to naturalna reakcja. Najbardziej przydatne rzeczy, jakie możesz zaoferować, są często te najprostsze.\n\nSłuchaj i wierz im. Pozwól im mówić we własnym tempie, bez osądzania, obwiniania czy pytania, co zrobiły, by to spowodować. Powiedz wprost, że to nie ich wina i że nie zasługują na to. Staraj się nie mówić im, co mają robić, ani nie naciskać, by odeszły: decyzja o odejściu należy do nich, a pośpiech w tej sprawie może w rzeczywistości zwiększyć zagrożenie — bardziej pomocne jest zapewnienie im wsparcia i poczucia, że nie są same.\n\nZachowaj w tajemnicy to, co ci powie. Delikatnie pomóż jej znaleźć specjalistyczne wsparcie, gdy będzie gotowa — na przykład infolinię **1522** we Włoszech lub lokalne centrum przeciwdziałania przemocy — i zaoferuj praktyczną pomoc, np. wspólne wyszukanie numerów lub towarzyszenie jej podczas rozmowy telefonicznej. Dbaj też o siebie; wspieranie kogoś w takiej sytuacji może być trudne.",
-      "deep": null,
-      "when_to_see_doctor": "- Zachęć ją (bez wywierania presji) do skontaktowania się z infolinią lub ośrodkiem przeciwdziałania przemocy, które pomogą wam obu zdecydować, co dalej robić. Możesz zaoferować pomoc w nawiązaniu połączenia lub znalezieniu numeru.\n- Jeśli doznają urazu, lekarz rodzinny lub szpital mogą im pomóc — i skierować je do odpowiednich służb wsparcia.",
-      "red_flags": "- Jeśli czytelniczka znajduje się w **bezpośrednim niebezpieczeństwie**, należy wezwać służby ratunkowe: **112** w UE (w tym we Włoszech), **999** w Wielkiej Brytanii, **911** w Stanach Zjednoczonych i Kanadzie.\n- We Włoszech pod numerem **1522** (bezpłatny, dostępny 24 godziny na dobę, 7 dni w tygodniu, anonimowy, wielojęzyczny — przez telefon lub czat) można również uzyskać poradę, jak pomóc innej osobie."
     }
   },
   "categories": {
@@ -1180,8 +1231,8 @@
       "summary": "Ból, plamienie, wydzielina, zmiany nastroju — co może ci sugerować twoje ciało."
     },
     "conditions": {
-      "title": "Warunki",
-      "summary": "PCOSa, endometrioza, mięśniaki macicy i nie tylko — objaśnienia wraz z podanymi źródłami."
+      "title": "Schorzenia",
+      "summary": "PCOS, endometrioza, mięśniaki macicy i nie tylko — objaśnienia wraz z podanymi źródłami."
     },
     "sexual-and-intimate-health": {
       "title": "Zdrowie seksualne i intymne",
@@ -1196,7 +1247,7 @@
       "summary": "Jak sen, stres i codzienne życie wpływają na Twój cykl."
     },
     "tests-and-exams": {
-      "title": "Testy i egzaminy",
+      "title": "Testy i badania",
       "summary": "Samobadanie piersi, badania przesiewowe szyjki macicy, testy owulacyjne i nie tylko."
     },
     "pregnancy": {

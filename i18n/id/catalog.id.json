@@ -126,11 +126,28 @@
       "when_to_see_doctor": "- Segera mintalah bantuan kepada **bidan atau petugas kesehatan** jika menyusui terasa sakit atau sulit, atau\n  jika Anda khawatir bayi Anda tidak mendapatkan asupan yang cukup — dukungan dapat membuat perbedaan yang nyata.\n- Cara Anda memberi makan bayi adalah keputusan pribadi, dan dukungan akan selalu tersedia apa pun pilihan Anda; yang\n  penting adalah Anda dan bayi Anda dalam keadaan sehat.",
       "red_flags": null
     },
+    "brown-discharge": {
+      "title": "Keputihan cokelat",
+      "aliases": [
+        "keputihan cokelat",
+        "flek cokelat",
+        "bercak cokelat",
+        "darah cokelat",
+        "darah haid cokelat",
+        "keputihan gelap",
+        "darah lama"
+      ],
+      "glance": "Keputihan cokelat biasanya berupa sedikit darah, sering muncul pada hari-hari haid yang lebih ringan. Flek cokelat di waktu lain sebaiknya diperiksakan.",
+      "overview": "Keputihan cokelat adalah sedikit darah atau cairan berwarna kecokelatan yang Anda lihat di celana dalam atau di tisu toilet. Banyak orang mengalaminya pada suatu waktu, dan sering kali ini hanyalah bagian dari menstruasi.\n\nDarah haid tidak selalu berwarna merah terang. Pada hari-hari paling deras, darah biasanya berwarna merah, tetapi pada hari-hari yang lebih ringan warnanya bisa tampak merah muda atau cokelat. Jadi, warna kecokelatan pada hari-hari haid yang lebih ringan adalah hal yang umum dan normal.\n\nWarna cokelat juga bisa muncul di waktu lain. Bercak (flek) adalah titik-titik kecil darah berwarna merah muda, merah, atau cokelat, dan bercak di antara periode menstruasi memiliki beberapa penyebab umum. Kontrasepsi hormonal, seperti pil KB, adalah salah satu penyebab yang sering. Penyebab lainnya meliputi pertumbuhan kecil di dalam atau di sekitar rahim (seperti polip atau fibroid) dan infeksi seperti klamidia. Pada kehamilan yang masih sangat awal, sebagian orang melihat sedikit bercak sekitar waktu haid seharusnya datang. Ini dikenal sebagai perdarahan implantasi.\n\nKarena flek cokelat di luar haid bisa disebabkan oleh berbagai hal, yang sebagian besar ringan, langkah yang tepat bukanlah menebak-nebak, melainkan memeriksakannya agar Anda tahu apa penyebabnya pada diri Anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Temui dokter umum atau klinik kesehatan seksual jika Anda mengalami **flek cokelat atau perdarahan di antara periode menstruasi atau setelah berhubungan seks**, meskipun ringan. Biasanya hal ini tidak serius, tetapi selalu sebaiknya diperiksakan.\n- Jika Anda **hamil, atau mungkin hamil**, hubungi unit kebidanan Anda, unit kehamilan awal, atau **NHS 111** mengenai bercak apa pun, termasuk flek cokelat, agar penyebabnya dapat diperiksa.\n- Temui dokter umum jika Anda melihat **keputihan atau perdarahan apa pun yang berwarna cokelat atau merah muda setelah menopause**, meskipun jumlahnya sedikit atau baru terjadi sekali.\n- Mintalah saran dari dokter umum, klinik kesehatan seksual, atau **NHS 111** jika keputihan Anda **berubah warna, bau, atau teksturnya**, atau disertai gatal, perih, nyeri panggul, atau nyeri saat buang air kecil.",
+      "red_flags": "- Mintalah janji temu yang **mendesak** dengan dokter umum atau hubungi **NHS 111** jika Anda **baru-baru ini telat haid dan mengalami perdarahan yang tidak biasa disertai nyeri perut atau panggul**. Hal ini perlu segera diperiksa, karena bisa menjadi tanda kehamilan ektopik.\n- Saat hamil, hubungi **999** jika Anda mengalami perdarahan dan **nyeri perut hebat, nyeri di bahu, merasa hampir pingsan, pusing, atau mual, atau perdarahannya deras** (pembalut basah kuyup tak lama setelah dipakai)."
+    },
     "cervical-mucus": {
       "title": "Lendir serviks",
       "aliases": [
         "lendir serviks",
-        "pembuangan",
+        "keputihan",
         "keluarnya cairan dari vagina",
         "sekresi serviks",
         "lendir putih telur"
@@ -155,6 +172,39 @@
       "deep": null,
       "when_to_see_doctor": "- Pemeriksaan skrining ditujukan bagi mereka yang **tidak** mengalami gejala. Jika Anda memperhatikan sesuatu yang mengkhawatirkan\n  di antara jadwal skrining — seperti perdarahan yang tidak biasa (di antara siklus menstruasi, setelah berhubungan seks, atau setelah menopause) —\n  segera temui dokter umum daripada menunggu undangan berikutnya.\n- Jika Anda telah diundang tetapi ragu atau cemas untuk datang, sebaiknya bicarakan hal ini dengan dokter umum atau\n  perawat praktik Anda, yang dapat menjelaskan prosesnya dan menjawab pertanyaan Anda.",
       "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Kekerasan terhadap anak & menjaga keselamatan anak-anak",
+      "aliases": [
+        "kekerasan terhadap anak",
+        "kekerasan terhadap anak",
+        "keselamatan anak",
+        "melindungi anak",
+        "khawatir tentang seorang anak",
+        "mengabaikan"
+      ],
+      "glance": "Jika Anda khawatir ada anak yang mungkin mengalami kekerasan atau penelantaran, adalah hal yang tepat untuk mencari nasihat — Anda tidak perlu yakin terlebih dahulu.",
+      "overview": "Kekerasan terhadap anak — atau penganiayaan terhadap anak — adalah tindakan yang merugikan siapa pun yang berusia di bawah 18 tahun. Hal ini mencakup kekerasan fisik, seksual, dan emosional, serta pengabaian (tidak memenuhi kebutuhan dasar anak). Sayangnya, hal ini sering terjadi, dapat menyebabkan dampak seumur hidup, dan bukan merupakan kesalahan anak.\n\nMungkin Anda merasa khawatir tentang seorang anak dalam kehidupan Anda, atau tentang seorang anak yang Anda perhatikan. Anda tidak perlu yakin atau memiliki bukti untuk menindaklanjuti kekhawatiran tersebut — mempercayai insting Anda dan meminta saran adalah hal yang tepat untuk dilakukan, dan hal itu dapat melindungi seorang anak.\n\nDan jika Anda sendiri pernah mengalami kekerasan saat masih anak-anak, ketahuilah bahwa penderitaan tersebut bukanlah kesalahan Anda, dan bahwa dukungan juga tersedia untuk Anda, di usia berapa pun.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika Anda khawatir tentang seorang anak, Anda dapat menghubungi **layanan perlindungan anak / dinas sosial**, **saluran bantuan khusus perlindungan anak**, atau **dokter umum, petugas kesehatan masyarakat, atau sekolah anak tersebut** untuk mendapatkan saran — secara rahasia.\n- Anda tidak “bereaksi berlebihan” dengan bertanya. Lebih baik memeriksa daripada menunggu.",
+      "red_flags": "- Jika seorang anak berada dalam **bahaya langsung** atau terluka parah, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada."
+    },
+    "coercive-control": {
+      "title": "Kontrol koersif",
+      "aliases": [
+        "kontrol paksa",
+        "perilaku mengontrol",
+        "kekerasan emosional",
+        "kekerasan psikologis",
+        "isolasi",
+        "kekerasan finansial",
+        "gaslighting"
+      ],
+      "glance": "Kontrol koersif adalah pola perilaku mengendalikan — mengisolasi, memantau, mengancam — yang diakui sebagai bentuk kekerasan.",
+      "overview": "Kontrol koersif adalah bentuk kekerasan yang dilakukan melalui pengendalian, bukan melalui, atau selain, kekerasan fisik. Ini adalah pola — bukan sekadar pertengkaran tunggal — di mana seseorang secara bertahap membatasi kebebasan dan rasa identitas diri orang lain.\n\nHal ini bisa berupa terputusnya hubungan dengan teman dan keluarga, pemantauan atau pembatasan penggunaan ponsel, pergerakan, atau pengeluaran uang, diperintahkan apa yang harus dipakai atau bagaimana harus bersikap, atau hidup dengan kritik, ancaman, atau intimidasi yang terus-menerus. Karena mungkin tidak ada memar, hal ini bisa sulit untuk diidentifikasi, dan orang lain mungkin tidak menyadarinya — namun hal ini diakui sebagai kekerasan, dan dampaknya bisa sama berbahayanya dengan kekerasan fisik.\n\nJika Anda mengenali beberapa hal ini, itu bukan pertanda bahwa Anda terlalu sensitif atau bahwa Anda yang menyebabkannya sendiri. Perilaku mengontrol adalah pilihan yang dibuat oleh orang lain. Memahami hal tersebut apa adanya dapat menjadi langkah pertama menuju dukungan.",
+      "deep": "Kontrol koersif sering kali terbentuk secara perlahan, yang menjadi salah satu alasan mengapa sulit untuk dikenali dari dalam — kontrol-kontrol kecil menjadi hal yang biasa, dan keraguan diri pun semakin tumbuh. Hal ini secara bertahap merusak kesehatan mental. Membicarakan hal ini dengan seseorang yang terlatih untuk memahami pola-pola tersebut dapat membantu Anda melihat situasi dengan lebih jelas dan memikirkan langkah selanjutnya, tanpa tekanan.",
+      "when_to_see_doctor": "- Pusat anti-kekerasan atau saluran bantuan (di Italia, **1522**) dapat mendengarkan apa yang Anda alami, secara rahasia dan gratis, serta membantu Anda memahami pilihan-pilihan yang ada — Anda tidak harus berada dalam bahaya fisik untuk menghubungi mereka.\n- Seorang dokter umum atau konselor juga dapat mendukung Anda dan mengarahkan Anda ke layanan spesialis.",
+      "red_flags": "- Jika Anda berada dalam **bahaya langsung**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** adalah layanan gratis, tersedia 24 jam sehari, anonim, dan multibahasa — melalui telepon atau obrolan."
     },
     "combined-pill": {
       "title": "Pil kombinasi",
@@ -202,6 +252,20 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "consent-and-respect": {
+      "title": "Persetujuan dan rasa hormat",
+      "aliases": [
+        "persetujuan",
+        "hormati batasannya",
+        "persetujuan yang antusias",
+        "otonomi tubuh"
+      ],
+      "glance": "Persetujuan adalah jawaban ya yang jelas, bebas, dan antusias — setiap saat, dan dapat ditarik kapan saja.",
+      "overview": "Rasa hormat dimulai dari haknya untuk memutuskan tentang tubuhnya sendiri — selalu. Persetujuan terhadap keintiman berarti a\ndiberikan secara cuma-cuma, terinformasi, antusias **ya**. Diam bukanlah persetujuan. \"Denda\" yang enggan bukanlah persetujuan.\nSeseorang yang tertidur, mabuk berat, atau berada di bawah tekanan tidak bisa benar-benar menyetujuinya. Dan jawaban ya untuk satu hal, atau aktif\nsuatu hari nanti, bukanlah jawaban ya untuk segalanya atau untuk waktu berikutnya.\n\nPersetujuan dapat ditarik kapan saja, dan \"berhenti\" atau \"tidak malam ini\" adalah jawaban lengkap yang tidak memerlukannya\npembenaran. Menekan, menimbulkan rasa bersalah, merajuk hingga dia menyerah, atau memperlakukan seks sebagai sesuatu\nAnda berhutang tidak apa-apa - suatu hubungan bukanlah hutang.",
+      "deep": "Seperti apa rasa hormat dalam praktiknya:\n\n- **Tanya, dan check in.** \"Apakah ini oke?\" dan memperhatikan bagaimana dia merespons — kata-kata dan tubuh.\n- **Terima kata \"tidak\" dengan anggun.** Tidak ada cibiran, tekanan, atau hukuman. Jawabannya adalah akhir dari semuanya.\n- **Antusiasme itu penting.** Jika dia tampak tidak yakin, ragu-ragu, atau sekadar menyetujuinya, berhentilah dan tanyakan.\n- **Tubuhnya, panggilannya** — tentang keintiman, kontrasepsi, kehamilan, kesehatannya, penampilannya, dirinya\n  pilihan. Anda mendapatkan suara dalam kehidupan Anda bersama, tidak pernah ada hak veto atas tubuhnya.\n- **Rasa hormat terjadi setiap hari.** Cara Anda berbicara dengannya, tentang dia, dan memperlakukan batasannya dalam hal-hal kecil adalah hal yang penting\n  fondasi segala sesuatu yang lain bertumpu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
     "contraception": {
       "title": "Kontrasepsi",
       "aliases": [
@@ -213,6 +277,23 @@
       "overview": "Kontrasepsi — kadang-kadang disebut pengendalian kelahiran — adalah berbagai metode yang digunakan untuk mencegah kehamilan.\nAda banyak metode, dan masing-masing bekerja dengan cara yang berbeda: ada yang menggunakan hormon, ada yang berupa penghalang, ada yang\ndipasang di dalam rahim, dan ada yang didasarkan pada pemantauan siklus menstruasi.\n\nSeberapa efektif suatu metode sangat bergantung pada cara penggunaannya. Beberapa metode — seperti implan dan\nspiral — bersifat \"pasang dan lupakan,\" serta memiliki efektivitas lebih dari 99%. Metode lain, seperti pil KB atau kondom,\nsangat efektif jika digunakan dengan sempurna, tetapi efektivitasnya sedikit berkurang dalam penggunaan sehari-hari yang biasa, karena\nlebih mudah lupa minum pil atau menggunakan kondom secara tidak benar.\n\nSatu hal yang perlu diketahui: **hanya kondom yang juga melindungi dari infeksi menular seksual\n(IMS)**. Metode lainnya mencegah kehamilan tetapi tidak mencegah infeksi, itulah sebabnya kondom terkadang\ndigunakan bersamaan dengan metode lain.\n\nTidak ada satu pun metode yang “terbaik” — metode yang tepat bergantung pada kesehatan Anda, tubuh Anda, dan apa yang sesuai\ndengan gaya hidup Anda. Seorang dokter umum atau klinik kesehatan seksual dapat menjelaskan berbagai pilihan kepada Anda dan membantu Anda memilih.",
       "deep": "Karena metode-metode tersebut sangat bervariasi, ada baiknya Anda mempertimbangkan hal-hal yang penting bagi Anda: seberapa efektif metode tersebut,\napakah metode tersebut mengharuskan Anda mengingat sesuatu setiap hari, berapa lama masa berlakunya, apakah Anda ingin menggunakan hormon atau\ntidak, dan apakah perlindungan terhadap kehamilan yang tidak direncanakan (STI) menjadi pertimbangan dalam situasi Anda. Banyak orang mengganti metode kontrasepsi sepanjang\nhidup mereka seiring dengan perubahan kebutuhan mereka. Basis pengetahuan ini menjelaskan cara kerja metode-metode umum tersebut agar\npilihan terasa lebih jelas — namun keputusan, serta resep atau pemasangan alat kontrasepsi, harus dibuat bersama dengan\ntenaga medis.",
       "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Kontrasepsi dan berat badan",
+      "aliases": [
+        "kontrasepsi dan berat badan",
+        "apakah pil KB bikin gemuk",
+        "pil KB dan kenaikan berat badan",
+        "KB bikin gemuk",
+        "berat badan naik karena KB",
+        "suntik KB bikin gemuk",
+        "implan KB dan berat badan"
+      ],
+      "glance": "Tidak ada bukti bahwa pil kombinasi menyebabkan kenaikan berat badan, tetapi suntik KB bisa. Semuanya bergantung pada metodenya.",
+      "overview": "Banyak orang bertanya-tanya apakah kontrasepsi akan membuat berat badan naik, dan ini pertanyaan yang sangat umum. Jawaban jujurnya: tergantung metodenya.\n\nUntuk pil kombinasi, buktinya menenangkan: tidak ada bukti bahwa mengonsumsinya membuat berat badan naik. Hal yang sama berlaku untuk koyo kontrasepsi (patch) dan cincin vagina.\n\nSuntik KB berbeda. Kenaikan berat badan tercantum sebagai salah satu efek sampingnya yang umum, bersama dengan perubahan pola haid.\n\nUntuk pil progestogen saja (kadang disebut pil mini) dan implan KB, sebagian orang melaporkan berat badannya naik. Namun, belum ada cukup bukti untuk menyatakan apakah metode itu sendiri yang menjadi penyebabnya.\n\nBerat badan hanyalah satu bagian dari gambaran keseluruhan. Setiap metode memiliki daftar kemungkinan efek samping dan risikonya sendiri, dan memilih kontrasepsi berarti menemukan yang sesuai dengan tubuh, kesehatan, dan kehidupan Anda. Apoteker, dokter umum, perawat, atau klinik kesehatan seksual dapat membahas pilihan-pilihannya bersama Anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika efek samping, termasuk perubahan berat badan, menjadi masalah bagi Anda, bicarakan dengan apoteker, dokter umum, perawat, atau klinik kesehatan seksual. Dengan pil kombinasi, koyo, atau cincin, beberapa efek samping bisa muncul saat Anda baru mulai menggunakannya. Jika masih mengganggu setelah sekitar 3 bulan, tenaga medis mungkin akan membahas bersama Anda pilihan pil lain atau jenis kontrasepsi lain.",
       "red_flags": null
     },
     "contraceptive-implant": {
@@ -242,6 +323,21 @@
       "deep": null,
       "when_to_see_doctor": "- Kunjungi dokter umum jika siklus menstruasi Anda menjadi tidak teratur, berhenti, atau mengalami perubahan yang tidak biasa bagi Anda —\n  perubahan yang terus-menerus terkadang bisa menjadi pertanda adanya masalah yang perlu diperiksa lebih lanjut.\n- Sebaiknya Anda juga membicarakannya jika masalah menstruasi tersebut memengaruhi kehidupan sehari-hari Anda, sehingga Anda bisa mendapatkan\n  dukungan daripada hanya menanggungnya begitu saja.",
       "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Kekerasan ekonomi",
+      "aliases": [
+        "kekerasan ekonomi",
+        "kekerasan finansial",
+        "pengelolaan keuangan",
+        "mengelola keuangan",
+        "utang atas nama saya"
+      ],
+      "glance": "Kekerasan ekonomi adalah tindakan mengendalikan akses seseorang terhadap uang, pekerjaan, atau sumber daya — suatu bentuk kekerasan yang diakui.",
+      "overview": "Kekerasan ekonomi terjadi ketika seseorang mengendalikan akses orang lain terhadap uang dan hal-hal yang dapat dibeli dengan uang. Ini merupakan bentuk perilaku mengendalikan, dan sering kali terjadi bersamaan dengan jenis kekerasan lainnya.\n\nHal ini bisa berupa mengontrol semua pengeluaran atau memaksa Anda mempertanggungjawabkan setiap sen, mengambil gaji atau tunjangan Anda, menumpuk utang atas nama Anda, menyembunyikan rekening bank atau dokumen dari Anda, atau mencegah Anda bekerja atau belajar. Karena hal ini dapat membuat seseorang tidak memiliki sarana untuk pergi atau mengelola kehidupan sehari-hari, inilah salah satu cara di mana kekerasan dapat terasa seperti perangkap.\n\nJika beberapa hal ini terasa familiar, itu bukanlah tanda bahwa Anda \"buruk dalam mengelola uang\" atau harus disalahkan. Mengontrol sumber daya orang lain adalah pilihan yang dibuat oleh orang tersebut — dan hal ini diakui sebagai kekerasan.",
+      "deep": null,
+      "when_to_see_doctor": "- Layanan anti-kekerasan juga dapat membantu dalam hal ini — tidak hanya terkait keamanan, tetapi juga langkah-langkah praktis dan finansial, secara rahasia dan gratis (di Italia, saluran bantuan **1522** dapat mengarahkan Anda ke layanan dukungan lokal).\n- Rencana keselamatan dapat mencakup upaya diam-diam untuk mengamankan akses ke sejumlah uang, dokumen penting, dan nomor-nomor penting.",
+      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — gratis, 24 jam sehari, anonim, dan multibahasa — dapat memberikan bantuan melalui telepon atau obrolan."
     },
     "ectopic-pregnancy": {
       "title": "Kehamilan ektopik",
@@ -291,12 +387,12 @@
       ],
       "glance": "Estrogen adalah hormon penting yang membantu mempersiapkan tubuh Anda menghadapi kemungkinan kehamilan pada setiap siklus.",
       "overview": "Estrogen adalah salah satu hormon utama yang berperan dalam siklus menstruasi. Pada paruh pertama siklus\n(fase folikuler), kadarnya meningkat seiring dengan matangnya folikel di ovarium. Peningkatan ini menyebabkan\nlapisan rahim menebal dan mengarah pada terjadinya ovulasi.\n\nEstrogen juga memengaruhi hal-hal yang mungkin Anda rasakan sehari-hari — energi, suasana hati, dan perubahan pada\nlendir serviks di sekitar hari-hari subur Anda. Setelah ovulasi, kadarnya menurun dan kemudian berubah lagi,\nbekerja bersama hormon lain, yaitu progesteron, sepanjang paruh kedua siklus.\n\nKadar hormon ini secara alami naik dan turun sepanjang setiap siklus, dan juga berubah seiring tahapan kehidupan. Hal ini\nwajar — ini adalah ritme yang dijalankan tubuh Anda, bukan sesuatu yang perlu “diperbaiki.”",
-      "deep": "Estrogen bukanlah satu zat tunggal, melainkan sekelompok hormon yang saling terkait (yang paling aktif dalam siklus\nadalah estradiol). Sebagian besar diproduksi oleh ovarium, di dalam folikel yang sedang tumbuh. Kenaikan dan\npenurunannya yang siklik — bersama dengan progesteron, serta hormon-hormon sinyal otakLH, dan FSH — adalah yang\nmenggerakkan fase-fase siklus tersebut. Karena estrogen memengaruhi banyak sistem, fluktuasi alaminya dapat\nterlihat dalam hal-hal kecil sepanjang bulan; melacaknya membantu Anda memahami pola Anda sendiri daripada\nmembandingkannya dengan “rata-rata.”",
+      "deep": "Estrogen bukanlah satu zat tunggal, melainkan sekelompok hormon yang saling terkait (yang paling aktif dalam siklus\nadalah estradiol). Sebagian besar diproduksi oleh ovarium, di dalam folikel yang sedang tumbuh. Kenaikan dan\npenurunannya yang siklik — bersama dengan progesteron, serta hormon-hormon sinyal otak, LH dan FSH — adalah yang\nmenggerakkan fase-fase siklus tersebut. Karena estrogen memengaruhi banyak sistem, fluktuasi alaminya dapat\nterlihat dalam hal-hal kecil sepanjang bulan; melacaknya membantu Anda memahami pola Anda sendiri daripada\nmembandingkannya dengan “rata-rata.”",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "exercise-and-your-cycle": {
-      "title": "Gerakan & siklus menstruasi Anda",
+      "title": "Aktivitas fisik & siklus menstruasi Anda",
       "aliases": [
         "olahraga",
         "aktivitas fisik",
@@ -333,16 +429,16 @@
       ],
       "glance": "Jendela subur adalah beberapa hari dalam setiap siklus ketika hubungan seksual dapat menyebabkan kehamilan.",
       "overview": "Jendela subur adalah periode singkat dalam siklus menstruasi ketika kehamilan dapat terjadi. Jendela ini ada karena\ndua waktu yang tidak sepenuhnya sejalan: sel telur hanya dapat dibuahi selama sekitar 12 hingga 24 jam\nsetelah dilepaskan, tetapi sperma dapat bertahan hidup di dalam tubuh selama beberapa hari — hingga sekitar seminggu —\nmenunggu sel telur.\n\nSecara keseluruhan, itu berarti jendela kesuburan terbuka beberapa hari sebelum ovulasi dan tertutup sekitar satu hari\nsetelahnya. Dalam praktiknya, Anda paling subur dalam 2 hingga 3 hari menjelang ovulasi dan pada\nhari ovulasi itu sendiri, karena sperma mungkin sudah ada di sana saat sel telur tiba.\n\nKarena ovulasi dapat bergeser dari satu siklus ke siklus lainnya, jendela kesuburan pun ikut bergeser. Itulah sebabnya jendela ini\nbiasanya dianggap sebagai rentang hari, bukan tanggal tunggal, dan mengapa memantau tanda-tanda selama\nbeberapa siklus lebih dapat diandalkan daripada hanya mengandalkan perhitungan kalender.",
-      "deep": "Hari-hari pastinya berbeda-beda antara satu orang dengan orang lain dan dari bulan ke bulan, sehingga jendela kesuburan paling baik diperkirakan\nberdasarkan sinyal-sinyal tubuh sendiri, bukan berdasarkan rumus tetap. Perubahan pada lendir serviks menandakan\nterbukanya jendela kesuburan saat ovulasi mendekat, dan kenaikan suhu tubuh saat istirahat mengonfirmasi — setelah\nfakta terjadi — bahwa ovulasi telah berlalu dan jendela kesuburan telah tertutup. Alat pendeteksi ovulasi bekerja\nsatu langkah lebih awal, dengan mendeteksi lonjakan hormon LH () yang terjadi sesaat sebelum sel telur\ndilepaskan.",
+      "deep": "Hari-hari pastinya berbeda-beda antara satu orang dengan orang lain dan dari bulan ke bulan, sehingga jendela kesuburan paling baik diperkirakan\nberdasarkan sinyal-sinyal tubuh sendiri, bukan berdasarkan rumus tetap. Perubahan pada lendir serviks menandakan\nterbukanya jendela kesuburan saat ovulasi mendekat, dan kenaikan suhu tubuh saat istirahat mengonfirmasi — setelah\nfakta terjadi — bahwa ovulasi telah berlalu dan jendela kesuburan telah tertutup. Alat pendeteksi ovulasi bekerja\nsatu langkah lebih awal, dengan mendeteksi lonjakan hormon luteinizing (LH) yang terjadi sesaat sebelum sel telur\ndilepaskan.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
     "first-period": {
-      "title": "Masa menstruasi (haid pertama)",
+      "title": "Haid pertama (menarche)",
       "aliases": [
-        "periode pertama",
+        "haid pertama",
         "menarche",
-        "periode awal",
+        "mulai haid",
         "mendapat menstruasi"
       ],
       "glance": "Haid pertama biasanya datang sekitar usia 12 tahun — rentang usia antara 8 hingga 17 tahun tergolong normal.",
@@ -419,6 +515,23 @@
       "when_to_see_doctor": "- Ikuti **tes skrining** jika ditawarkan — karena diabetes gestasional biasanya tidak\n  menunjukkan gejala, tes inilah yang menjadi cara mendeteksinya.\n- Jangan menunda tes jika Anda merasakan tanda-tanda kemungkinan kadar gula darah tinggi — merasa sangat haus,\n  sering buang air kecil, mulut kering, atau kelelahan — sampaikan hal tersebut kepada bidan atau dokter Anda.",
       "red_flags": null
     },
+    "getting-help": {
+      "title": "Tempat mendapatkan bantuan",
+      "aliases": [
+        "mendapatkan bantuan",
+        "siapa yang harus dihubungi",
+        "saluran bantuan",
+        "nomor-nomor penting",
+        "pusat anti-kekerasan",
+        "1522",
+        "nomor darurat"
+      ],
+      "glance": "Bantuan gratis dan rahasia tersedia — dalam keadaan darurat, hubungi nomor darurat setempat; di Italia, hubungi 1522 kapan saja.",
+      "overview": "Jika Anda mengalami kekerasan, Anda tidak perlu menghadapinya sendirian, dan meminta bantuan tidak berarti Anda terikat pada apa pun. Ada orang-orang yang tugasnya sepenuhnya adalah mendengarkan dan membantu, secara rahasia dan gratis.\n\nBeberapa jenis bantuan tersedia secara bersamaan:\n\n- **Layanan darurat** — jika berada dalam bahaya mendesak, hubungi nomor darurat setempat (di bawah ini).\n- **Layanan bantuan nasional** — di Italia, **1522**, layanan bantuan gratis untuk kasus kekerasan dan penguntitan: buka 24 jam sehari, anonim, tersedia dalam beberapa bahasa, melalui telepon atau obrolan daring.\n- **Pusat anti-kekerasan** (di Italia, *centri antiviolenza*) — layanan lokal yang menawarkan dukungan gratis dan rahasia, perencanaan keamanan, serta bantuan hukum dan psikologis.\n- **Layanan kesehatan** — dokter umum, atau unit gawat darurat rumah sakit, di mana stafnya semakin terlatih untuk mengenali kekerasan dan menghubungkan Anda dengan layanan dukungan.\n- **Orang yang Anda percayai** — seorang teman atau anggota keluarga yang membuat Anda merasa aman.\n\nAnda bisa memulai dengan topik mana pun yang terasa paling memungkinkan, dan Anda tidak perlu memutuskan apa pun terlebih dahulu.",
+      "deep": null,
+      "when_to_see_doctor": "- Anda dapat berkonsultasi dengan **dokter umum atau rumah sakit** secara rahasia mengenai apa yang sedang Anda alami; mereka dapat menangani cedera apa pun dan menghubungkan Anda dengan layanan spesialis.\n- Jika lebih mudah menulis daripada berbicara, **layanan obrolan 1522** adalah alternatif lain yang bisa digunakan.",
+      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- **Italia:** **1522** (gratis, 24/7, anonim, multibahasa — telepon atau obrolan).\n- Nomor saluran bantuan berbeda-beda di setiap negara. Aplikasi ini dapat menampilkan nomor untuk negara Anda, dan **findahelpline.com** mencantumkan saluran bantuan anti-kekerasan di seluruh dunia (situs ini mendeteksi negara Anda dan memiliki tombol keluar cepat). Jika Anda berada di Uni Eropa, **112** dapat dihubungi di mana saja."
+    },
     "group-b-strep": {
       "title": "Streptokokus Grup B (GBS)",
       "aliases": [
@@ -448,9 +561,9 @@
       "red_flags": null
     },
     "heavy-periods": {
-      "title": "Haid yang berat",
+      "title": "Haid berlebihan",
       "aliases": [
-        "haid yang berat",
+        "haid berlebihan",
         "menoragia",
         "perdarahan menstruasi yang berat",
         "banjir",
@@ -473,6 +586,20 @@
       "glance": "LH adalah hormon otak yang lonjakannya pada pertengahan siklus memicu ovarium untuk melepaskan sel telur.",
       "overview": "LH — hormon luteinizing — adalah hormon yang memicu ovulasi. Seperti FSH, hormon ini diproduksi oleh kelenjar kecil di otak (hipofisis) dan memberi sinyal kepada ovarium kapan harus melepaskan sel telur.\n\nSelama sebagian besar paruh pertama siklus, kadar LH tetap rendah. Kemudian, sekitar pertengahan siklus, kadarnya meningkat tajam dalam apa yang disebut lonjakan LH. Lonjakan ini merupakan sinyal yang memicu ovarium untuk melepaskan sel telurnya — ovulasi — biasanya sekitar satu hari kemudian.\n\nLonjakan ini merupakan sinyal singkat yang muncul pada waktu yang tepat, bukan sesuatu yang dapat Anda rasakan. Karena terjadi sangat dekat sebelum sel telur dilepaskan, waktu terjadinya lonjakan LH merupakan penanda yang dapat diandalkan untuk mengetahui bagian siklus yang paling subur.",
       "deep": "LH bekerja sama dengan FSH, hormon yang menstimulasi pertumbuhan folikel pada awal siklus. Sementara FSH memimpin proses pembentukan, lonjakan LH menjadi titik balik: kadarnya mulai naik sekitar satu setengah hari sebelum sel telur dilepaskan dan mencapai puncaknya sekitar setengah hari sebelum pelepasan. Setelah lonjakan tersebut, siklus memasuki paruh kedua. Waktu yang sangat tepat inilah yang menjadikan LH sebagai penanda yang sangat berguna bagi siapa pun yang memantau ovulasi, dan mengapa LH menjadi inti dalam perencanaan perawatan kesuburan.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Mendengarkan dan dukungan emosional",
+      "aliases": [
+        "bagaimana cara mendengarkan",
+        "dukungan emosional untuk pasangan",
+        "komunikasi",
+        "berada di sana untuknya"
+      ],
+      "glance": "Seringkali dia perlu didengarkan, bukan diperbaiki — dengarkan dulu, dan tanyakan sebelum Anda memberi nasihat.",
+      "overview": "Ketika seseorang yang kita cintai sedang berjuang, naluri kita adalah untuk terjun dan menyelesaikannya. Namun seringkali yang paling membantu\nmerasa benar-benar didengarkan: bahwa perasaannya masuk akal dan dia tidak sendirian dengan perasaan itu. Memperbaiki juga\nfast bisa berakhir sebagai \"perasaanmu adalah masalah yang harus ditutup\".\n\nMendengarkan dengan baik adalah keterampilan yang dapat dipelajari siapa pun. Yang paling utama adalah perhatian: meletakkan telepon, menghadapnya,\ndan membiarkannya menyelesaikannya. Anda tidak harus menyetujui setiap hal untuk membuatnya merasa dihormati.",
+      "deep": "Cara praktis untuk tampil:\n\n- **Dengarkan untuk memahami, bukan untuk membalas.** Biarkan dia berbicara tanpa menyela atau merencanakan pembelaan Anda.\n- **Renungkan kembali.** \"Kedengarannya sangat menegangkan\" atau \"Aku mengerti kenapa itu menyakitkan\" mengalahkan \"tapi jangan\n  khawatir tentang hal itu\".\n- **Bertanya sebelum menasihati.** \"Apakah kamu butuh bantuan untuk memikirkannya matang-matang, atau kamu hanya ingin aku mendengarkan?\"\n- **Jangan tersinggung** ketika hari yang berat bukan tentang Anda. Kemantapan adalah anugerah.\n- **Akui bagianmu.** Jika kamu melakukan kesalahan, permintaan maaf yang tulus — tanpa kata \"tetapi\" — akan membangun kembali kepercayaan.\n- **Perhatikan gambaran yang lebih besar.** Jika dia terus-menerus terlihat murung, cemas atau tidak, dengan lembut\n  mendorong dukungan dan menawarkan untuk membantunya mencapainya. Anda adalah rekan satu tim, bukan terapis.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -515,7 +642,7 @@
     "menstrual-phase": {
       "title": "Fase menstruasi (haid)",
       "aliases": [
-        "periode",
+        "haid",
         "menstruasi",
         "fase menstruasi",
         "perdarahan"
@@ -775,6 +902,86 @@
       "when_to_see_doctor": null,
       "red_flags": null
     },
+    "recognising-abuse": {
+      "title": "Mengenali hubungan yang penuh kekerasan",
+      "aliases": [
+        "mengenali kekerasan",
+        "hubungan yang penuh kekerasan",
+        "kekerasan dalam rumah tangga",
+        "kekerasan dalam hubungan intim",
+        "tanda-tanda kekerasan",
+        "Apakah saya sedang mengalami kekerasan?"
+      ],
+      "glance": "Kekerasan dapat berupa kekerasan fisik, seksual, emosional, atau pengendalian — dan hal ini tidak pernah menjadi kesalahan orang yang mengalaminya.",
+      "overview": "Kekerasan dalam hubungan tidak hanya bersifat fisik. Kekerasan dapat terjadi dalam berbagai bentuk, yang sering kali terjadi secara bersamaan: kekerasan fisik, paksaan seksual, kekerasan emosional atau psikologis, serta perilaku mengontrol — misalnya, pasangan yang menentukan ke mana Anda pergi, dengan siapa Anda bertemu, atau apa yang boleh Anda lakukan. Semua hal tersebut dapat dikategorikan sebagai kekerasan, meskipun tidak ada luka fisik yang terlihat.\n\nHal ini lebih umum daripada yang disadari banyak orang. Di seluruh dunia, sekitar 1 dari 3 wanita mengalami kekerasan fisik atau seksual sepanjang hidupnya, paling sering dari pasangan; gambaran di Italia pun serupa. Jadi, jika hal ini menjadi bagian dari hidup Anda, Anda tidak sendirian, dan ini bukanlah sesuatu yang Anda sebabkan.\n\nMenyebutkannya bisa jadi sulit — kekerasan sering kali bercampur dengan momen-momen indah, permintaan maaf, atau janji untuk berubah, dan hal ini bisa berkembang secara perlahan sehingga terasa normal. Mempercayai insting Anda sendiri bahwa ada sesuatu yang salah adalah alasan yang sah untuk mencari bantuan. Anda tidak perlu merasa yakin sepenuhnya, atau menunggu sampai situasinya menjadi “cukup buruk,” untuk berbicara dengan seseorang.",
+      "deep": "Di balik berbagai bentuknya, kekerasan cenderung mengikuti pola di mana satu orang berusaha menguasai dan mengendalikan orang lain, dan hal ini dapat semakin memburuk seiring waktu. Hal ini berdampak sangat besar pada kesehatan — terkait dengan kecemasan, depresi, kesulitan tidur, dan dampak fisik jangka panjang. Semua itu tidak berarti Anda lemah atau bersalah; itu berarti apa yang Anda alami saat ini berbahaya, dan ada dukungan yang tersedia untuk membantu Anda memikirkannya dengan aman dan sesuai dengan kecepatan Anda sendiri.",
+      "when_to_see_doctor": "- Kamu bisa berbicara dengan seseorang secara rahasia kapan pun kamu siap — dokter umum atau perawat, pusat anti-kekerasan, atau saluran bantuan (di Italia, **1522**, gratis dan tersedia kapan saja). Anda tidak perlu bukti, rencana, atau keputusan terlebih dahulu; mereka ada di sana untuk mendengarkan dan membantu Anda memahami pilihan-pilihan yang ada.\n- Seorang tenaga kesehatan juga dapat menangani cedera apa pun dan secara diam-diam menghubungkan Anda dengan dukungan spesialis.",
+      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — saluran bantuan nasional gratis untuk kasus kekerasan dan penguntitan — tersedia 24 jam sehari, secara anonim, melalui telepon atau obrolan, dalam beberapa bahasa."
+    },
+    "respect-not-control": {
+      "title": "Menghormati, bukan mengontrol",
+      "aliases": [
+        "perilaku mengontrol",
+        "kontrol yang bersifat memaksa",
+        "hubungan yang sehat",
+        "tanda-tanda peringatan",
+        "di mana mendapatkan bantuan",
+        "penyalahgunaan"
+      ],
+      "glance": "Cinta dibangun atas dasar rasa hormat dan kebebasan — kendali, kecemburuan, dan tekanan bukanlah cinta, dan pertolongan itu ada.",
+      "overview": "Hubungan yang sehat bertumpu pada rasa hormat, kepercayaan, kesetaraan, dan kebebasan: dua orang yang masing-masing menjaga haknya\npersahabatan, pilihan, dan ruang sendiri. Kontrol justru sebaliknya. Seringkali bersembunyi di balik kata-kata seperti cinta atau\nkecemburuan — \"Aku memeriksa ponselmu karena aku peduli\", \"Aku tidak ingin kamu melihatnya karena aku mencintaimu\" — tapi\ndampaknya adalah menyusutkan dunia dan kebebasannya.\n\nPengendalian jarang dimulai dengan kekerasan. Biasanya dimulai dari hal yang kecil - sebuah kritik, melewati batas, a\n\"lelucon\" yang menyengat — dan berkembang. Menyebutnya sejak awal sangatlah penting, karena kontrol koersif itu sendiri merupakan salah satu bentuk kontrol koersif\npelecehan dan tanda peringatan yang lebih buruk. Ini bukan tentang rasa bersalah; ini tentang kejujuran dan perubahan.",
+      "deep": "**Jika Anda mengenali beberapa hal ini dalam diri Anda, kesadaran itu adalah titik awal — bukan hukuman seumur hidup.**\nOrang bisa berubah dengan usaha nyata dan bantuan yang tepat. Menjangkau program khusus untuk pria\nyang ingin berhenti bersikap mengontrol atau melakukan kekerasan adalah tanda kekuatan, bukan kelemahan. Bicaralah dengan a\nprofesional, dokter, atau layanan perubahan perilaku pria.\n\nJika **dia** adalah orang yang berada dalam bahaya, atau Anda mengkhawatirkan seseorang, dorong dan dukung dia untuk menghubunginya\nbantuan - dengan persyaratannya, tidak pernah dengan mengambil alih.\n\n**Di mana mendapatkan bantuan**\n- Dalam keadaan darurat, atau jika ada orang yang berada dalam bahaya, hubungi nomor darurat setempat\n  (**112** di Italia dan sebagian besar Eropa; **911** di AS).\n- **Italia — 1522**: saluran bantuan nasional anti-kekerasan dan penguntitan. Gratis, 24/7, anonim, dan\n  multibahasa, dijalankan oleh Department for Equal Opportunities. Ini juga memandu orang ke lokal\n  pusat anti kekerasan (centri antiviolenza).\n- Pusat anti-kekerasan dan program perubahan perilaku laki-laki (di Italia, \"centri per uomini autori di\n  violenza\") menawarkan dukungan rahasia untuk perubahan.",
+      "when_to_see_doctor": null,
+      "red_flags": "Tanda-tanda peringatan perilaku mengontrol atau kasar — ​​patut ditanggapi dengan serius dalam diri Anda atau suatu hubungan:\n\n- **Memantau atau mengisolasi**: memeriksa ponselnya, melacak lokasinya, atau memutuskan hubungan dengannya\n  teman dan keluarga.\n- **Kontrol atas pilihan**: uang, apa yang dia kenakan, ke mana dia pergi, siapa yang dia lihat.\n- **Kecemburuan dibingkai sebagai cinta**, tuduhan terus-menerus, atau kebutuhan untuk mengetahui di mana dia berada setiap saat.\n- **Meremehkan, menyalahkan, atau membuatnya merasa takut**, bersalah, atau \"berjalan di atas kulit telur\".\n- **Tekanan atau ancaman** tentang seks, putus cinta, atau menyakiti diri sendiri untuk mendapatkan kepatuhan.\n- **Kekuatan fisik, intimidasi, atau ketakutan apa pun.** Jika ada, itu adalah pelecehan — segera hubungi bantuan\n  di atas. Tidak pernah ada alasan, dan itu bukan salahnya."
+    },
+    "safety-plan": {
+      "title": "Membuat rencana keselamatan",
+      "aliases": [
+        "rencana keselamatan",
+        "tetap aman",
+        "menjaga keamanan",
+        "perencanaan keselamatan",
+        "pergi dengan aman"
+      ],
+      "glance": "Rencana keselamatan adalah beberapa langkah praktis untuk membantu Anda tetap aman — dan layanan yang terlatih dapat membantu Anda menyusunnya.",
+      "overview": "Rencana keamanan hanyalah cara untuk memikirkan terlebih dahulu bagaimana menjaga diri Anda (dan anak-anak Anda, jika ada) agar lebih aman. Ini bukanlah keputusan untuk pergi atau tetap tinggal — melainkan tentang bersiap sedikit lebih baik, apa pun pilihan Anda.\n\nBagi sebagian orang, ada baiknya menyiapkan beberapa hal secara diam-diam: seseorang yang dipercaya dan mengetahui apa yang sedang terjadi, dokumen-dokumen penting serta nomor-nomor yang dapat dihubungi, tas kecil berisi barang-barang penting, pengetahuan tentang rute teraman untuk keluar dari rumah, atau kata atau isyarat yang memberi tahu seseorang bahwa Anda membutuhkan bantuan. Apa yang masuk akal sepenuhnya bergantung pada situasi Anda sendiri.\n\nAnda tidak perlu menghadapi ini sendirian, dan seringkali lebih aman jika tidak melakukannya. Layanan anti-kekerasan berpengalaman dalam menyusun rencana keselamatan bersama orang-orang, secara rahasia dan gratis — termasuk untuk masa-masa menjelang kepergian, yang bisa menjadi momen berisiko tinggi dan sebaiknya direncanakan dengan dukungan daripada dilakukan terburu-buru.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi pusat anti-kekerasan atau saluran bantuan (di Italia, **1522**) untuk menyusun rencana yang sesuai dengan situasi Anda — mereka menangani hal ini setiap hari, secara rahasia, dan dapat membantu dengan langkah-langkah praktis, hukum, dan emosional.\n- Jika Anda mencatat apa yang terjadi, simpanlah di tempat yang pribadi dan aman.",
+      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — gratis, 24 jam sehari, anonim, dan multibahasa — dapat memberikan bantuan melalui telepon atau obrolan, termasuk untuk perencanaan keamanan darurat."
+    },
+    "sex-during-your-period": {
+      "title": "Berhubungan seks saat haid",
+      "aliases": [
+        "berhubungan seks saat haid",
+        "seks saat menstruasi",
+        "berhubungan intim saat haid",
+        "apakah bisa hamil saat haid",
+        "hamil saat haid",
+        "berhubungan saat menstruasi bisa hamil",
+        "seks saat datang bulan"
+      ],
+      "glance": "Berhubungan seks saat haid tidak masalah jika Anda berdua menginginkannya, tetapi kehamilan dan penularan IMS tetap bisa terjadi.",
+      "overview": "Berhubungan seks saat haid adalah pilihan pribadi. Jika Anda berdua menginginkannya dan sama-sama merasa nyaman, itu tidak apa-apa, dan tidak ada yang salah atau aneh dengan hal itu. Sebagian orang merasa lebih sensitif atau sekadar sedang tidak ingin pada masa ini, sementara yang lain menikmatinya. Yang terpenting adalah mendengarkan tubuh Anda dan berbicara terbuka dengan pasangan.\n\nNamun, haid tidak berfungsi sebagai kontrasepsi. Peluang hamil memang lebih rendah dibandingkan di sekitar ovulasi, tetapi tidak nol. Sperma dapat bertahan hidup di dalam tubuh hingga 7 hari setelah berhubungan seks, sehingga jika Anda berovulasi lebih awal, yang lebih mungkin terjadi pada siklus yang lebih pendek, sperma dari hubungan seks saat haid atau tepat setelahnya masih bisa bertemu dengan sel telur. Jika Anda tidak ingin hamil, kontrasepsi yang biasa Anda gunakan tetap penting pada hari-hari ini.\n\nHaid juga tidak melindungi dari infeksi menular seksual (IMS). Infeksi dapat menular antarpasangan saat berhubungan seks tanpa kondom, dan kuman penyebabnya dapat terbawa di dalam darah maupun cairan tubuh lainnya. Kondom adalah metode yang juga menurunkan risiko IMS, termasuk HIV, sehingga layak digunakan kapan pun dalam siklus Anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika Anda berhubungan seks **tanpa kontrasepsi**, atau kontrasepsi Anda mungkin gagal, dan Anda tidak ingin hamil, bicarakan kontrasepsi darurat dengan apoteker, dokter umum, atau klinik kesehatan seksual **sesegera mungkin**. Kontrasepsi darurat perlu digunakan dalam beberapa hari, dan biasanya semakin cepat digunakan, semakin baik hasilnya.\n- Mintalah bantuan apoteker, klinik kesehatan seksual, dokter umum, atau **NHS 111** jika **kondom robek atau terlepas** saat berhubungan seks. Anda mungkin memerlukan kontrasepsi darurat atau tes IMS.\n- Temui dokter umum atau klinik kesehatan seksual jika Anda mengalami **perdarahan setelah berhubungan seks saat Anda tidak sedang haid**. Biasanya hal ini tidak serius, tetapi selalu sebaiknya diperiksakan.",
+      "red_flags": null
+    },
+    "sexual-violence": {
+      "title": "Kekerasan seksual & persetujuan",
+      "aliases": [
+        "kekerasan seksual",
+        "kekerasan seksual",
+        "pemerkosaan",
+        "persetujuan",
+        "kekerasan seksual",
+        "tanpa persetujuan"
+      ],
+      "glance": "Kekerasan seksual adalah setiap tindakan seksual tanpa persetujuan — dan hal itu tidak pernah menjadi kesalahan orang yang mengalaminya.",
+      "overview": "Kekerasan seksual berarti setiap tindakan seksual, atau upaya untuk melakukannya, tanpa persetujuan atau melalui paksaan. Hal ini mencakup pemerkosaan dan setiap kontak seksual yang tidak diinginkan, dan dapat dilakukan oleh siapa saja — orang asing, kenalan, atau pasangan atau suami/istri.\n\nPersetujuan adalah inti dari semuanya. Persetujuan berarti menyetujui secara sukarela, dan hal ini tidak mungkin terjadi ketika seseorang sedang tidur, tidak sadarkan diri, mabuk atau di bawah pengaruh obat-obatan, masih anak-anak, atau dipaksa, diancam, atau merasa takut. Persetujuan dapat ditarik kembali kapan saja. Karena itu, kekerasan seksual **tidak pernah** menjadi kesalahan orang yang mengalaminya — bukan karena apa yang mereka kenakan, apakah mereka sedang minum alkohol, apakah mereka membeku alih-alih melawan, atau apakah mereka mengenal orang tersebut.\n\nJika hal ini pernah terjadi pada Anda, bantuan selalu tersedia, baik itu baru-baru ini maupun sudah lama berlalu. Anda dipercaya, dan apa yang akan Anda lakukan selanjutnya adalah pilihan Anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Anda dapat mengunjungi **layanan kesehatan, rumah sakit, atau layanan khusus kekerasan seksual**, yang dapat merawat Anda, mengobati luka apa pun, dan — jika Anda menginginkannya — membantu dalam melaporkan kejadian tersebut serta mengamankan bukti.\n- Beberapa langkah kesehatan bersifat **sensitif terhadap waktu** — misalnya kontrasepsi darurat, atau pencegahan infeksi — sehingga menghubungi pihak terkait **secepatnya** dapat membantu. Namun, tidak ada batas waktu untuk mendapatkan dukungan, dan Anda selalu memiliki pilihan apakah akan melapor atau tidak.",
+      "red_flags": "- Jika Anda berada dalam **bahaya langsung**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Setelah mengalami kekerasan baru-baru ini, **rumah sakit atau layanan khusus dapat memberikan bantuan segera**. Di Italia, **1522** (gratis, 24 jam sehari, 7 hari seminggu, anonim, multibahasa — melalui telepon atau obrolan) dapat mengarahkan Anda ke layanan perawatan yang tepat."
+    },
     "signs-of-labour": {
       "title": "Tanda-tanda persalinan",
       "aliases": [
@@ -835,6 +1042,22 @@
       "when_to_see_doctor": "- Kunjungi dokter umum atau klinik kesehatan seksual **setiap kali Anda mengalami perdarahan di antara periode menstruasi atau setelah berhubungan seks**, meskipun perdarahannya ringan. Biasanya hal ini tidak serius, tetapi dengan memeriksakannya, penyebabnya dapat diketahui — dan ini adalah cara untuk menyingkirkan penyebab yang kurang umum sejak dini.",
       "red_flags": "- Segera buat janji temu dengan dokter umum (GP) secara **mendesak** atau hubungi **NHS 111** jika Anda **tidak menstruasi dan mengalami perdarahan yang tidak biasa disertai nyeri perut atau panggul** — hal ini memerlukan penilaian segera, karena bisa menjadi tanda kehamilan ektopik."
     },
+    "stalking": {
+      "title": "Penguntitan",
+      "aliases": [
+        "stalking",
+        "dikejar-kejar",
+        "pelecehan",
+        "perhatian yang tidak diinginkan",
+        "seseorang yang mengikuti saya",
+        "cyberstalking"
+      ],
+      "glance": "Stalking adalah perhatian yang berulang dan tidak diinginkan yang membuat Anda merasa takut atau tidak aman — dan hal ini ditanggapi dengan serius.",
+      "overview": "Stalking adalah pola perilaku yang tidak diinginkan dan berulang dari seseorang yang membuat Anda merasa takut, diawasi, atau tidak aman. Hal ini dapat mencakup diikuti, seseorang tiba-tiba muncul di tempat Anda berada, panggilan atau pesan yang terus-menerus, hadiah yang tidak diinginkan, pemantauan terhadap Anda secara daring atau melalui ponsel Anda, atau ancaman. Tindakan ini sering dilakukan oleh mantan pasangan atau seseorang yang Anda kenal, meskipun tidak selalu demikian.\n\nRasa takut yang ditimbulkannya wajar, meskipun setiap tindakan tunggal mungkin tampak “kecil” bagi orang lain — yang penting adalah pola perilakunya, dan bagaimana hal itu membuat Anda merasa. Penguntitan diakui sebagai bentuk kekerasan, dan di banyak negara hal ini merupakan tindak pidana. Semua ini bukan kesalahan Anda, dan Anda tidak perlu hanya menerimanya begitu saja.\n\nJika aman untuk melakukannya, menyimpan catatan dapat membantu di kemudian hari: tanggal dan waktu, tangkapan layar pesan, serta apa yang terjadi. Anda tidak perlu memutuskan sendiri apakah hal tersebut \"termasuk\" — layanan dukungan dapat membantu Anda memahami situasinya dan mempertimbangkan pilihan yang ada.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi **polisi** untuk melaporkan tindakan menguntit, serta layanan bantuan anti-kekerasan atau anti-menguntit untuk mendapatkan dukungan dan saran (di Italia, **1522** diperuntukkan bagi kasus kekerasan **dan** tindakan menguntit).\n- Menyimpan bukti dan menyusun rencana keselamatan, dengan bantuan dari layanan spesialis, dapat memberikan dampak yang nyata.",
+      "red_flags": "- Jika Anda merasa berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — gratis, 24 jam sehari, anonim, dan multibahasa — dapat memberikan bantuan melalui telepon atau obrolan."
+    },
     "stillbirth": {
       "title": "Bayi lahir mati",
       "aliases": [
@@ -865,11 +1088,39 @@
       "when_to_see_doctor": "Kunjungi dokter umum jika:\n\n- Anda telah melewatkan **tiga kali menstruasi berturut-turut**, atau siklus menstruasi Anda menjadi **tidak teratur**\n- haid Anda **berhenti** dan Anda tidak tahu alasannya (dan kemungkinan kehamilan ada, sebaiknya lakukan tes terlebih dahulu)\n- Keterlambatan menstruasi sering disertai dengan perubahan lain — seperti perubahan berat badan yang tak terduga, kelelahan, pertumbuhan rambut berlebih, atau perasaan sedih\n\nPemeriksaan ini hanya untuk memahami apa yang mendasari perubahan tersebut — yang biasanya merupakan hal yang dapat ditangani.",
       "red_flags": null
     },
+    "supporting-her-period": {
+      "title": "Mendukungnya selama menstruasi",
+      "aliases": [
+        "membantu selama menstruasinya",
+        "dukungan periode untuk mitra",
+        "perawatan periode"
+      ],
+      "glance": "Menstruasi dapat menimbulkan rasa sakit dan kelelahan yang nyata — perawatan kecil dan praktis akan membawa perbedaan besar.",
+      "overview": "Suatu menstruasi bukan hanya pendarahan yang terjadi selama beberapa hari; bagi banyak orang, penyakit ini disertai dengan kram, sakit punggung, sakit kepala,\nkelelahan dan energi rendah. Nyeri haid adalah hal yang umum dan bisa sangat menguras tenaga - namun bukan itu masalahnya\nberlebihan. Perlakukan seperti Anda memperlakukan pasangan mana pun yang sedang tidak sehat: dengan kebaikan yang nyata.\n\nNormalisasikan juga. Menstruasi bukanlah hal yang menjijikkan, memalukan, atau tabu. Menjadi nyaman membeli pembalut atau\ntampon, menyimpannya di rumah, atau memberinya botol air panas tanpa ribut-ribut menunjukkan bahwa dia aman dan sehat\ndidukung.",
+      "deep": "Hal-hal sederhana yang membantu:\n\n- **Kehangatan dan istirahat.** Botol air panas atau bantalan pemanas di perut bagian bawah meredakan kram; menawarkan ketenangan\n  malam masuk.\n- **Singkirkan barang-barang dari piringnya.** Memasak, merapikan, menjalankan tugas, mengantarnya — bantuan praktis semakin sulit\n  daripada kata-kata.\n- **Simpan persediaan.** Ketahui apa yang dia gunakan dan simpan persediaan, sehingga hari yang berat tidak pernah menjadi krisis.\n- **Obat pereda nyeri dan makanan penenang** jika dia menginginkannya; pilihannya.\n- **Jangan menekan untuk seks atau energi yang tidak dia miliki.** Kedekatan bisa berupa pelukan di sofa.",
+      "when_to_see_doctor": "Dorong dia untuk menemui dokter (dan tawarkan untuk pergi bersamanya) jika nyeri haidnya **parah, semakin parah,\natau menghentikannya dari kehidupan sehari-hari**, jika menstruasinya **sangat deras** (merendam perlindungan setiap jam,\ngumpalan besar), atau jika nyeri masih baru dan tidak biasa – hal ini dapat menunjukkan kondisi seperti endometriosis\nberhak mendapatkan perawatan yang tepat.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Memberikan dukungan kepada seseorang yang mengalami kekerasan",
+      "aliases": [
+        "mendukung seseorang",
+        "membantu seorang teman",
+        "cara membantu",
+        "seseorang yang mengalami kekerasan",
+        "cara memberikan dukungan"
+      ],
+      "glance": "Jika ada orang yang Anda kenal mungkin sedang mengalami kekerasan, mendengarkan tanpa menghakimi — dan mengetahui ke mana harus mengarahkan mereka — dapat membantu.",
+      "overview": "Menyadari bahwa seseorang yang Anda sayangi mungkin sedang mengalami kekerasan adalah hal yang sulit, dan keinginan untuk membantu adalah insting yang baik. Hal paling berguna yang dapat Anda tawarkan seringkali adalah hal yang paling sederhana.\n\nDengarkan, dan percayai mereka. Biarkan mereka berbicara sesuai kecepatan mereka sendiri, tanpa menghakimi, menyalahkan, atau menanyakan apa yang mereka lakukan sehingga hal ini terjadi. Katakan dengan jelas bahwa ini bukan kesalahan mereka dan bahwa mereka tidak pantas mengalaminya. Usahakan untuk tidak memberi tahu mereka apa yang harus dilakukan atau mendesak mereka untuk pergi: keputusan untuk pergi ada di tangan mereka, dan melakukannya terburu-buru justru dapat meningkatkan bahaya — yang lebih membantu adalah membuat mereka merasa didukung dan tidak sendirian.\n\nJaga kerahasiaan apa yang mereka ceritakan kepada Anda. Bantu mereka dengan lembut untuk mencari dukungan spesialis saat mereka siap — seperti saluran bantuan **1522** di Italia, atau pusat anti-kekerasan setempat — dan tawarkan bantuan praktis, seperti mencari nomor telepon bersama-sama atau menemani mereka saat menelepon. Dan jaga diri Anda juga; mendukung seseorang melalui masa sulit ini bisa sangat melelahkan.",
+      "deep": null,
+      "when_to_see_doctor": "- Dorong mereka (tanpa tekanan) untuk menghubungi saluran bantuan atau pusat anti-kekerasan, yang dapat memandu Anda berdua mengenai langkah selanjutnya. Anda dapat menawarkan bantuan untuk menelepon atau mencari nomor tersebut.\n- Jika mereka mengalami cedera, dokter umum atau rumah sakit dapat membantu — dan menghubungkan mereka dengan layanan dukungan.",
+      "red_flags": "- Jika mereka berada dalam **bahaya langsung**, hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** (gratis, 24 jam sehari, 7 hari seminggu, anonim, multibahasa — melalui telepon atau obrolan) juga dapat memberi saran tentang cara membantu seseorang."
+    },
     "the-coil": {
       "title": "Alat kontrasepsi dalam rahim (IUD dan IUS)",
       "aliases": [
         "spiral",
-        "spiral",
+        "KB spiral",
         "IUD",
         "IUS",
         "spiral tembaga",
@@ -881,6 +1132,20 @@
       "glance": "Spiral adalah alat kecil yang ditempatkan di dalam rahim — terbuat dari tembaga (IUD) atau hormonal (IUS) — yang dapat bertahan selama bertahun-tahun.",
       "overview": "IUD adalah alat kecil yang dipasang oleh tenaga medis di dalam rahim. Ada dua jenis, dan sebaiknya dibedakan sebagai berikut:\n\n- **IUD**, atau spiral tembaga, tidak mengandung hormon. Tembaga mengubah kondisi di dalam rahim sehingga sperma dan sel telur tidak dapat bertahan hidup dengan baik, dan hal ini juga memengaruhi lendir serviks. Tergantung pada jenisnya, IUD ini efektif selama sekitar 5 hingga 10 tahun.\n- **IUS**, atau spiral hormonal, melepaskan progestogen alih-alih menggunakan tembaga. Alat ini menebalkan lendir di leher rahim dan menipiskan lapisan rahim; bagi sebagian orang, alat ini juga dapat membuat haid menjadi jauh lebih ringan.\n\nKeduanya merupakan metode \"pasang dan lupakan\" dan keduanya memiliki efektivitas lebih dari 99%, dengan sedikit perbedaan antara penggunaan yang sempurna dan penggunaan yang umum. Keduanya tidak melindungi dari IMS.",
       "deep": "IUD adalah metode kontrasepsi reversibel jangka panjang: setelah dipasang, IUD akan tetap berfungsi selama bertahun-tahun, dan kesuburan akan kembali setelah IUD dilepas. Pemasangan dan pelepasan dilakukan oleh tenaga medis terlatih dan hanya memakan waktu beberapa menit, meskipun beberapa orang merasa tidak nyaman saat pemasangan. Alasan umum orang memilih di antara keduanya adalah pengaruhnya terhadap menstruasi — IUD tembaga dapat membuat menstruasi lebih banyak pada awalnya, sedangkan IUS hormonal sering kali membuatnya lebih sedikit. Mana yang cocok untuk Anda perlu didiskusikan dengan tenaga medis; artikel ini hanya menjelaskan cara kerja masing-masing.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Hari-hari pramenstruasi",
+      "aliases": [
+        "PMS untuk pasangan",
+        "mendukungnya sebelum menstruasi",
+        "dukungan pramenstruasi",
+        "dukungan fase luteal"
+      ],
+      "glance": "Pada hari-hari sebelum menstruasi, dia mungkin merasa lebih lelah, lemah lembut, atau lesu – hadapilah dengan sabar, bukan bercanda.",
+      "overview": "Sekitar seminggu sebelum menstruasi, banyak orang mengalami gejala pramenstruasi: perubahan suasana hati, mudah tersinggung\natau perasaan lesu, kelelahan, nyeri payudara, kembung, sakit kepala, atau sulit tidur. Ini sangat umum\ndan ini nyata - didorong oleh perubahan hormon alami pada fase luteal, bukan karena \"reaksi berlebihan\" -nya.\n\nBagi sebagian kecil orang, suasana hati yang buruk ini sangat parah (suatu kondisi yang disebut PMDD) dan patut menjadi kenyataan\ndukungan dan perawatan medis. Apa pun yang terjadi, tugas Anda bukanlah mendiagnosis atau menyembuhkannya, melainkan menjaga kestabilan dan kesehatannya\nbaik hati.\n\nSatu-satunya hal paling merusak yang bisa dilakukan pasangan di sini adalah mempersenjatainya: \"kamu hanya sedang PMS\", memutar mata,\natau menganggap perasaannya tidak valid karena kencan tersebut. Itu mengabaikannya dan menambah rasa sakit hati\nminggu. Perasaannya tetap diperhitungkan, bahkan ketika hormon menjadi bagian dari gambarannya.",
+      "deep": "Apa yang sebenarnya membantu saat ini:\n\n- **Meringankan bebannya.** Lakukan tugas rumah, memasak, atau daftar tugas mental tanpa diminta.\n- **Kenyamanan, bukan koreksi.** Tawarkan kehangatan, istirahat, sebotol air panas, makanan favoritnya — dan biarkan\n  dia merasakan apa yang dia rasakan.\n- **Dengarkan dulu.** Jika dia kesal, \"kedengarannya sangat sulit\" mengalahkan \"tenang\" setiap saat.\n- **Jangan mencatat skor.** Hari yang berat bukanlah hutang yang harus dia bayar padamu nanti.\n- **Tanyakan apa yang dia butuhkan** — ada yang menginginkan kedekatan, ada yang menginginkan ruang. Keduanya baik-baik saja; hormati jawabannya.",
       "when_to_see_doctor": null,
       "red_flags": null
     },
@@ -899,6 +1164,20 @@
       "overview": "Kehamilan kembar biasanya pertama kali terdeteksi pada **pemeriksaan USG penentuan usia kehamilan** (sekitar 12 minggu), yang juga dapat menunjukkan apakah bayi-bayi tersebut berbagi plasenta.\n\nAda dua jenis utama. Kembar **identik** berasal dari satu sel telur yang telah dibuahi yang kemudian terbelah, sehingga mereka memiliki gen yang sama dan selalu berjenis kelamin sama. Kembar **tidak identik** berasal dari dua sel telur yang terpisah, dan kemiripannya tidak lebih dari saudara kandung lainnya; jenis ini lebih umum di antara keduanya, dan kemungkinannya sedikit lebih tinggi pada usia yang lebih tua, riwayat keluarga dari pihak ibu, atau setelah menjalani perawatan kesuburan.\n\nMengandung anak kembar atau lebih merupakan pengalaman tersendiri, dan biasanya berarti **perawatan antenatal yang sedikit lebih intensif** — janji temu dan pemeriksaan USG tambahan untuk memantau Anda dan bayi-bayi Anda dengan cermat. Tim bidan Anda akan menjelaskan apa yang akan Anda alami.",
       "deep": null,
       "when_to_see_doctor": "- Jika hasil USG menunjukkan adanya kembar (atau lebih), **bidan** Anda akan menjelaskan tentang pemeriksaan dan USG tambahan yang diperlukan dalam kehamilan kembar — menghadiri semua pemeriksaan tersebut adalah cara terbaik untuk memastikan Anda mendapatkan perawatan yang optimal.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Memahami siklusnya",
+      "aliases": [
+        "panduan siklus untuk pasangan",
+        "siklus untuk mitra",
+        "bagaimana siklusnya bekerja",
+        "mendukung siklusnya"
+      ],
+      "glance": "Tubuhnya bergerak melalui siklus bulanan dengan empat fase — mengetahui dasar-dasarnya membantu Anda mendukungnya tanpa menebak-nebak.",
+      "overview": "Siklus menstruasi kira-kira merupakan ritme bulanan, rata-rata sekitar 28 hari tetapi seringkali berkisar antara 21 hari\nhingga 35, dan normal baginya adalah apa pun yang biasa bagi *dia*. Ini berjalan dalam empat fase: **menstruasi**\nfase (menstruasinya), fase **folikel**, **ovulasi** di sekitar pertengahan, dan **luteal**\nfase sebelum periode berikutnya.\n\nEnergi, suasana hati, tidur, dan hasrat dapat berubah dalam fase-fase ini karena hormon naik dan turun – begitulah\nbiologi, bukan cacat karakter dan bukan sesuatu yang bisa menggodanya. Beberapa orang merasakan penurunan yang nyata\nhari sebelum haid; yang lain hampir tidak menyadarinya. Tidak ada satu pun cara yang \"benar\" untuk merasakan.\n\nAnda tidak perlu menjadi seorang ahli. Hal yang paling membantu adalah sederhana: mengetahui secara kasar di mana dia berada dalam siklusnya\n(aplikasi ini dapat menunjukkannya kepada Anda, dengan izinnya), memperkirakan bahwa hari-hari tertentu lebih sulit daripada hari-hari lainnya, dan bertanya\npadanya apa yang *dia* anggap berguna daripada berasumsi.",
+      "deep": "Beberapa hal yang perlu diketahui, agar mitos tidak mengisi kesenjangan:\n\n- **\"Sedang haid\" bukan merupakan penghinaan atau penjelasan atas ketidaksetujuannya.** Menggunakan siklusnya untuk\n  mengabaikan perasaannya (\"kamu hanya hormonal\") adalah tindakan yang tidak sopan, dan biasanya hal itu salah. Alasannya\n  masih menjadi alasannya.\n- **Siklus ini mempengaruhi lebih dari sekedar menstruasi.** Kram, sakit kepala, payudara nyeri, energi rendah, atau lebih rendah\n  suasana hati semua bisa menjadi bagian darinya. Bantuan praktis mengalahkan nasihat.\n- **Pelacakan adalah miliknya.** Jika dia berbagi siklusnya dengan Anda, perlakukan itu sebagai jendela untuk mengetahui bagaimana keadaannya\n  perasaan - ajakan untuk bersikap baik, bukan alat untuk memantau atau mengendalikannya.\n- **Jika ragu, tanyakan.** \"Bagaimana perasaanmu hari ini? Ada yang bisa saya lakukan?\" bernilai lebih dari grafik mana pun.",
+      "when_to_see_doctor": null,
       "red_flags": null
     },
     "vaginal-dryness": {
@@ -922,241 +1201,13 @@
         "kebersihan area intim",
         "menjaga kebersihan",
         "pembilasan vagina",
-        "keluar"
+        "keputihan"
       ],
       "glance": "Vagina membersihkan dirinya sendiri — perawatan yang lembut pada bagian luar sudah cukup, dan keputihan adalah hal yang normal.",
       "overview": "Salah satu hal yang paling menenangkan untuk diketahui adalah bahwa vagina dapat menjaga kesehatannya sendiri. Vagina secara alami membersihkan dirinya sendiri, dan keputihan yang Anda lihat merupakan bagian dari proses tersebut — cairan yang menjaganya tetap bersih dan lembap serta membantu melindunginya dari infeksi. Jumlah dan teksturnya berubah sepanjang siklus, yang merupakan hal yang sepenuhnya normal.\n\nOleh karena itu, bagian dalam vagina tidak perlu dicuci. Bahkan, mencuci bagian dalamnya — \"douching\" — dapat mengganggu keseimbangan alaminya. Bagian luar (vulva) hanya perlu perawatan yang lembut: air hangat dan, jika Anda mau, sabun yang lembut dan tanpa pewangi. Sebaiknya hindari sabun, gel, deodoran, dan tisu basah beraroma, karena dapat menyebabkan iritasi.\n\nDengan mengetahui apa yang normal bagi Anda — keputihan, penampilan, dan sensasi yang biasa Anda rasakan — akan lebih mudah bagi Anda untuk menyadari jika ada perubahan dan mungkin perlu diperiksa.",
       "deep": null,
-      "when_to_see_doctor": "Segera temui dokter umum atau klinik kesehatan seksual jika Anda mengalami:\n\n- perubahan pada cairan vagina Anda — warna, bau, atau teksturnya, atau jumlahnya jauh lebih banyak dari biasanya\n- gatal, nyeri, atau iritasi di sekitar vagina atau vulva\n- pendarahan di antara periode menstruasi atau setelah berhubungan seks\n- rasa sakit saat buang air kecil, atau rasa sakit di bagian bawah antara perut dan paha (nyeri panggul)\n\nHal-hal ini umum terjadi dan sering kali mudah diobati — perubahan pada cairan vagina bisa jadi hanya menandakan infeksi ringan seperti sariawan. Periksakan diri ke dokter adalah cara terbaik untuk mengetahuinya, daripada hanya menebak-nebak.",
+      "when_to_see_doctor": "Segera temui dokter umum atau klinik kesehatan seksual jika Anda mengalami:\n\n- perubahan pada cairan vagina Anda — warna, bau, atau teksturnya, atau jumlahnya jauh lebih banyak dari biasanya\n- gatal, nyeri, atau iritasi di sekitar vagina atau vulva\n- pendarahan di antara periode menstruasi atau setelah berhubungan seks\n- rasa sakit saat buang air kecil, atau rasa sakit di bagian bawah antara perut dan paha (nyeri panggul)\n\nHal-hal ini umum terjadi dan sering kali mudah diobati — perubahan pada cairan vagina bisa jadi hanya menandakan infeksi ringan seperti infeksi jamur vagina. Periksakan diri ke dokter adalah cara terbaik untuk mengetahuinya, daripada hanya menebak-nebak.",
       "red_flags": null
-    },
-    "consent-and-respect": {
-      "title": "Persetujuan dan rasa hormat",
-      "aliases": [
-        "persetujuan",
-        "hormati batasannya",
-        "persetujuan yang antusias",
-        "otonomi tubuh"
-      ],
-      "glance": "Persetujuan adalah jawaban ya yang jelas, bebas, dan antusias — setiap saat, dan dapat ditarik kapan saja.",
-      "overview": "Rasa hormat dimulai dari haknya untuk memutuskan tentang tubuhnya sendiri — selalu. Persetujuan terhadap keintiman berarti a\ndiberikan secara cuma-cuma, terinformasi, antusias **ya**. Diam bukanlah persetujuan. \"Denda\" yang enggan bukanlah persetujuan.\nSeseorang yang tertidur, mabuk berat, atau berada di bawah tekanan tidak bisa benar-benar menyetujuinya. Dan jawaban ya untuk satu hal, atau aktif\nsuatu hari nanti, bukanlah jawaban ya untuk segalanya atau untuk waktu berikutnya.\n\nPersetujuan dapat ditarik kapan saja, dan \"berhenti\" atau \"tidak malam ini\" adalah jawaban lengkap yang tidak memerlukannya\npembenaran. Menekan, menimbulkan rasa bersalah, merajuk hingga dia menyerah, atau memperlakukan seks sebagai sesuatu\nAnda berhutang tidak apa-apa - suatu hubungan bukanlah hutang.",
-      "deep": "Seperti apa rasa hormat dalam praktiknya:\n\n- **Tanya, dan check in.** \"Apakah ini oke?\" dan memperhatikan bagaimana dia merespons — kata-kata dan tubuh.\n- **Terima kata \"tidak\" dengan anggun.** Tidak ada cibiran, tekanan, atau hukuman. Jawabannya adalah akhir dari semuanya.\n- **Antusiasme itu penting.** Jika dia tampak tidak yakin, ragu-ragu, atau sekadar menyetujuinya, berhentilah dan tanyakan.\n- **Tubuhnya, panggilannya** — tentang keintiman, kontrasepsi, kehamilan, kesehatannya, penampilannya, dirinya\n  pilihan. Anda mendapatkan suara dalam kehidupan Anda bersama, tidak pernah ada hak veto atas tubuhnya.\n- **Rasa hormat terjadi setiap hari.** Cara Anda berbicara dengannya, tentang dia, dan memperlakukan batasannya dalam hal-hal kecil adalah hal yang penting\n  fondasi segala sesuatu yang lain bertumpu.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "listening-and-support": {
-      "title": "Mendengarkan dan dukungan emosional",
-      "aliases": [
-        "bagaimana cara mendengarkan",
-        "dukungan emosional untuk pasangan",
-        "komunikasi",
-        "berada di sana untuknya"
-      ],
-      "glance": "Seringkali dia perlu didengarkan, bukan diperbaiki — dengarkan dulu, dan tanyakan sebelum Anda memberi nasihat.",
-      "overview": "Ketika seseorang yang kita cintai sedang berjuang, naluri kita adalah untuk terjun dan menyelesaikannya. Namun seringkali yang paling membantu\nmerasa benar-benar didengarkan: bahwa perasaannya masuk akal dan dia tidak sendirian dengan perasaan itu. Memperbaiki juga\nfast bisa berakhir sebagai \"perasaanmu adalah masalah yang harus ditutup\".\n\nMendengarkan dengan baik adalah keterampilan yang dapat dipelajari siapa pun. Yang paling utama adalah perhatian: meletakkan telepon, menghadapnya,\ndan membiarkannya menyelesaikannya. Anda tidak harus menyetujui setiap hal untuk membuatnya merasa dihormati.",
-      "deep": "Cara praktis untuk tampil:\n\n- **Dengarkan untuk memahami, bukan untuk membalas.** Biarkan dia berbicara tanpa menyela atau merencanakan pembelaan Anda.\n- **Renungkan kembali.** \"Kedengarannya sangat menegangkan\" atau \"Aku mengerti kenapa itu menyakitkan\" mengalahkan \"tapi jangan\n  khawatir tentang hal itu\".\n- **Bertanya sebelum menasihati.** \"Apakah kamu butuh bantuan untuk memikirkannya matang-matang, atau kamu hanya ingin aku mendengarkan?\"\n- **Jangan tersinggung** ketika hari yang berat bukan tentang Anda. Kemantapan adalah anugerah.\n- **Akui bagianmu.** Jika kamu melakukan kesalahan, permintaan maaf yang tulus — tanpa kata \"tetapi\" — akan membangun kembali kepercayaan.\n- **Perhatikan gambaran yang lebih besar.** Jika dia terus-menerus terlihat murung, cemas atau tidak, dengan lembut\n  mendorong dukungan dan menawarkan untuk membantunya mencapainya. Anda adalah rekan satu tim, bukan terapis.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "respect-not-control": {
-      "title": "Hormati, bukan kontrol",
-      "aliases": [
-        "mengendalikan perilaku",
-        "kontrol yang bersifat memaksa",
-        "hubungan yang sehat",
-        "tanda-tanda peringatan",
-        "di mana mendapatkan bantuan",
-        "penyalahgunaan"
-      ],
-      "glance": "Cinta dibangun atas dasar rasa hormat dan kebebasan — kendali, kecemburuan, dan tekanan bukanlah cinta, dan pertolongan itu ada.",
-      "overview": "Hubungan yang sehat bertumpu pada rasa hormat, kepercayaan, kesetaraan, dan kebebasan: dua orang yang masing-masing menjaga haknya\npersahabatan, pilihan, dan ruang sendiri. Kontrol justru sebaliknya. Seringkali bersembunyi di balik kata-kata seperti cinta atau\nkecemburuan — \"Aku memeriksa ponselmu karena aku peduli\", \"Aku tidak ingin kamu melihatnya karena aku mencintaimu\" — tapi\ndampaknya adalah menyusutkan dunia dan kebebasannya.\n\nPengendalian jarang dimulai dengan kekerasan. Biasanya dimulai dari hal yang kecil - sebuah kritik, melewati batas, a\n\"lelucon\" yang menyengat — dan berkembang. Menyebutnya sejak awal sangatlah penting, karena kontrol koersif itu sendiri merupakan salah satu bentuk kontrol koersif\npelecehan dan tanda peringatan yang lebih buruk. Ini bukan tentang rasa bersalah; ini tentang kejujuran dan perubahan.",
-      "deep": "**Jika Anda mengenali beberapa hal ini dalam diri Anda, kesadaran itu adalah titik awal — bukan hukuman seumur hidup.**\nOrang bisa berubah dengan usaha nyata dan bantuan yang tepat. Menjangkau program khusus untuk pria\nyang ingin berhenti bersikap mengontrol atau melakukan kekerasan adalah tanda kekuatan, bukan kelemahan. Bicaralah dengan a\nprofesional, dokter, atau layanan perubahan perilaku pria.\n\nJika **dia** adalah orang yang berada dalam bahaya, atau Anda mengkhawatirkan seseorang, dorong dan dukung dia untuk menghubunginya\nbantuan - dengan persyaratannya, tidak pernah dengan mengambil alih.\n\n**Di mana mendapatkan bantuan**\n- Dalam keadaan darurat, atau jika ada orang yang berada dalam bahaya, hubungi nomor darurat setempat\n  (**112** di Italia dan sebagian besar Eropa; **911** di AS).\n- **Italia — 1522**: saluran bantuan nasional anti-kekerasan dan penguntitan. Gratis, 24/7, anonim, dan\n  multibahasa, dijalankan oleh Department for Equal Opportunities. Ini juga memandu orang ke lokal\n  pusat anti kekerasan (centri antiviolenza).\n- Pusat anti-kekerasan dan program perubahan perilaku laki-laki (di Italia, \"centri per uomini autori di\n  violenza\") menawarkan dukungan rahasia untuk perubahan.",
-      "when_to_see_doctor": null,
-      "red_flags": "Tanda-tanda peringatan perilaku mengontrol atau kasar — ​​patut ditanggapi dengan serius dalam diri Anda atau suatu hubungan:\n\n- **Memantau atau mengisolasi**: memeriksa ponselnya, melacak lokasinya, atau memutuskan hubungan dengannya\n  teman dan keluarga.\n- **Kontrol atas pilihan**: uang, apa yang dia kenakan, ke mana dia pergi, siapa yang dia lihat.\n- **Kecemburuan dibingkai sebagai cinta**, tuduhan terus-menerus, atau kebutuhan untuk mengetahui di mana dia berada setiap saat.\n- **Meremehkan, menyalahkan, atau membuatnya merasa takut**, bersalah, atau \"berjalan di atas kulit telur\".\n- **Tekanan atau ancaman** tentang seks, putus cinta, atau menyakiti diri sendiri untuk mendapatkan kepatuhan.\n- **Kekuatan fisik, intimidasi, atau ketakutan apa pun.** Jika ada, itu adalah pelecehan — segera hubungi bantuan\n  di atas. Tidak pernah ada alasan, dan itu bukan salahnya."
-    },
-    "supporting-her-period": {
-      "title": "Mendukungnya selama menstruasi",
-      "aliases": [
-        "membantu selama menstruasinya",
-        "dukungan periode untuk mitra",
-        "perawatan periode"
-      ],
-      "glance": "Menstruasi dapat menimbulkan rasa sakit dan kelelahan yang nyata — perawatan kecil dan praktis akan membawa perbedaan besar.",
-      "overview": "Suatu menstruasi bukan hanya pendarahan yang terjadi selama beberapa hari; bagi banyak orang, penyakit ini disertai dengan kram, sakit punggung, sakit kepala,\nkelelahan dan energi rendah. Nyeri haid adalah hal yang umum dan bisa sangat menguras tenaga - namun bukan itu masalahnya\nberlebihan. Perlakukan seperti Anda memperlakukan pasangan mana pun yang sedang tidak sehat: dengan kebaikan yang nyata.\n\nNormalisasikan juga. Menstruasi bukanlah hal yang menjijikkan, memalukan, atau tabu. Menjadi nyaman membeli pembalut atau\ntampon, menyimpannya di rumah, atau memberinya botol air panas tanpa ribut-ribut menunjukkan bahwa dia aman dan sehat\ndidukung.",
-      "deep": "Hal-hal sederhana yang membantu:\n\n- **Kehangatan dan istirahat.** Botol air panas atau bantalan pemanas di perut bagian bawah meredakan kram; menawarkan ketenangan\n  malam masuk.\n- **Singkirkan barang-barang dari piringnya.** Memasak, merapikan, menjalankan tugas, mengantarnya — bantuan praktis semakin sulit\n  daripada kata-kata.\n- **Simpan persediaan.** Ketahui apa yang dia gunakan dan simpan persediaan, sehingga hari yang berat tidak pernah menjadi krisis.\n- **Obat pereda nyeri dan makanan penenang** jika dia menginginkannya; pilihannya.\n- **Jangan menekan untuk seks atau energi yang tidak dia miliki.** Kedekatan bisa berupa pelukan di sofa.",
-      "when_to_see_doctor": "Dorong dia untuk menemui dokter (dan tawarkan untuk pergi bersamanya) jika nyeri haidnya **parah, semakin parah,\natau menghentikannya dari kehidupan sehari-hari**, jika menstruasinya **sangat deras** (merendam perlindungan setiap jam,\ngumpalan besar), atau jika nyeri masih baru dan tidak biasa – hal ini dapat menunjukkan kondisi seperti endometriosis\nberhak mendapatkan perawatan yang tepat.",
-      "red_flags": null
-    },
-    "the-premenstrual-days": {
-      "title": "Hari-hari pramenstruasi",
-      "aliases": [
-        "PMS untuk mitra",
-        "mendukungnya sebelum menstruasi",
-        "dukungan pramenstruasi",
-        "dukungan fase luteal"
-      ],
-      "glance": "Pada hari-hari sebelum menstruasi, dia mungkin merasa lebih lelah, lemah lembut, atau lesu – hadapilah dengan sabar, bukan bercanda.",
-      "overview": "Sekitar seminggu sebelum menstruasi, banyak orang mengalami gejala pramenstruasi: perubahan suasana hati, mudah tersinggung\natau perasaan lesu, kelelahan, nyeri payudara, kembung, sakit kepala, atau sulit tidur. Ini sangat umum\ndan ini nyata - didorong oleh perubahan hormon alami pada fase luteal, bukan karena \"reaksi berlebihan\" -nya.\n\nBagi sebagian kecil orang, suasana hati yang buruk ini sangat parah (suatu kondisi yang disebut PMDD) dan patut menjadi kenyataan\ndukungan dan perawatan medis. Apa pun yang terjadi, tugas Anda bukanlah mendiagnosis atau menyembuhkannya, melainkan menjaga kestabilan dan kesehatannya\nbaik hati.\n\nSatu-satunya hal paling merusak yang bisa dilakukan pasangan di sini adalah mempersenjatainya: \"kamu hanya sedang PMS\", memutar mata,\natau menganggap perasaannya tidak valid karena kencan tersebut. Itu mengabaikannya dan menambah rasa sakit hati\nminggu. Perasaannya tetap diperhitungkan, bahkan ketika hormon menjadi bagian dari gambarannya.",
-      "deep": "Apa yang sebenarnya membantu saat ini:\n\n- **Meringankan bebannya.** Lakukan tugas rumah, memasak, atau daftar tugas mental tanpa diminta.\n- **Kenyamanan, bukan koreksi.** Tawarkan kehangatan, istirahat, sebotol air panas, makanan favoritnya — dan biarkan\n  dia merasakan apa yang dia rasakan.\n- **Dengarkan dulu.** Jika dia kesal, \"kedengarannya sangat sulit\" mengalahkan \"tenang\" setiap saat.\n- **Jangan mencatat skor.** Hari yang berat bukanlah hutang yang harus dia bayar padamu nanti.\n- **Tanyakan apa yang dia butuhkan** — ada yang menginginkan kedekatan, ada yang menginginkan ruang. Keduanya baik-baik saja; hormati jawabannya.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "understanding-her-cycle": {
-      "title": "Memahami siklusnya",
-      "aliases": [
-        "panduan mitra untuk siklus tersebut",
-        "siklus untuk mitra",
-        "bagaimana siklusnya bekerja",
-        "mendukung siklusnya"
-      ],
-      "glance": "Tubuhnya bergerak melalui siklus bulanan dengan empat fase — mengetahui dasar-dasarnya membantu Anda mendukungnya tanpa menebak-nebak.",
-      "overview": "Siklus menstruasi kira-kira merupakan ritme bulanan, rata-rata sekitar 28 hari tetapi seringkali berkisar antara 21 hari\nhingga 35, dan normal baginya adalah apa pun yang biasa bagi *dia*. Ini berjalan dalam empat fase: **menstruasi**\nfase (menstruasinya), fase **folikel**, **ovulasi** di sekitar pertengahan, dan **luteal**\nfase sebelum periode berikutnya.\n\nEnergi, suasana hati, tidur, dan hasrat dapat berubah dalam fase-fase ini karena hormon naik dan turun – begitulah\nbiologi, bukan cacat karakter dan bukan sesuatu yang bisa menggodanya. Beberapa orang merasakan penurunan yang nyata\nhari sebelum haid; yang lain hampir tidak menyadarinya. Tidak ada satu pun cara yang \"benar\" untuk merasakan.\n\nAnda tidak perlu menjadi seorang ahli. Hal yang paling membantu adalah sederhana: mengetahui secara kasar di mana dia berada dalam siklusnya\n(aplikasi ini dapat menunjukkannya kepada Anda, dengan izinnya), memperkirakan bahwa hari-hari tertentu lebih sulit daripada hari-hari lainnya, dan bertanya\npadanya apa yang *dia* anggap berguna daripada berasumsi.",
-      "deep": "Beberapa hal yang perlu diketahui, agar mitos tidak mengisi kesenjangan:\n\n- **\"Sedang haid\" bukan merupakan penghinaan atau penjelasan atas ketidaksetujuannya.** Menggunakan siklusnya untuk\n  mengabaikan perasaannya (\"kamu hanya hormonal\") adalah tindakan yang tidak sopan, dan biasanya hal itu salah. Alasannya\n  masih menjadi alasannya.\n- **Siklus ini mempengaruhi lebih dari sekedar menstruasi.** Kram, sakit kepala, payudara nyeri, energi rendah, atau lebih rendah\n  suasana hati semua bisa menjadi bagian darinya. Bantuan praktis mengalahkan nasihat.\n- **Pelacakan adalah miliknya.** Jika dia berbagi siklusnya dengan Anda, perlakukan itu sebagai jendela untuk mengetahui bagaimana keadaannya\n  perasaan - ajakan untuk bersikap baik, bukan alat untuk memantau atau mengendalikannya.\n- **Jika ragu, tanyakan.** \"Bagaimana perasaanmu hari ini? Ada yang bisa saya lakukan?\" bernilai lebih dari grafik mana pun.",
-      "when_to_see_doctor": null,
-      "red_flags": null
-    },
-    "child-abuse": {
-      "title": "Kekerasan terhadap anak & menjaga keselamatan anak-anak",
-      "aliases": [
-        "kekerasan terhadap anak",
-        "kekerasan terhadap anak",
-        "keselamatan anak",
-        "melindungi anak",
-        "khawatir tentang seorang anak",
-        "mengabaikan"
-      ],
-      "glance": "Jika Anda khawatir ada anak yang mungkin mengalami kekerasan atau penelantaran, adalah hal yang tepat untuk mencari nasihat — Anda tidak perlu yakin terlebih dahulu.",
-      "overview": "Kekerasan terhadap anak — atau penganiayaan terhadap anak — adalah tindakan yang merugikan siapa pun yang berusia di bawah 18 tahun. Hal ini mencakup kekerasan fisik, seksual, dan emosional, serta pengabaian (tidak memenuhi kebutuhan dasar anak). Sayangnya, hal ini sering terjadi, dapat menyebabkan dampak seumur hidup, dan bukan merupakan kesalahan anak.\n\nMungkin Anda merasa khawatir tentang seorang anak dalam kehidupan Anda, atau tentang seorang anak yang Anda perhatikan. Anda tidak perlu yakin atau memiliki bukti untuk menindaklanjuti kekhawatiran tersebut — mempercayai insting Anda dan meminta saran adalah hal yang tepat untuk dilakukan, dan hal itu dapat melindungi seorang anak.\n\nDan jika Anda sendiri pernah mengalami kekerasan saat masih anak-anak, ketahuilah bahwa penderitaan tersebut bukanlah kesalahan Anda, dan bahwa dukungan juga tersedia untuk Anda, di usia berapa pun.",
-      "deep": null,
-      "when_to_see_doctor": "- Jika Anda khawatir tentang seorang anak, Anda dapat menghubungi **layanan perlindungan anak / dinas sosial**, **saluran bantuan khusus perlindungan anak**, atau **dokter umum, petugas kesehatan masyarakat, atau sekolah anak tersebut** untuk mendapatkan saran — secara rahasia.\n- Anda tidak “bereaksi berlebihan” dengan bertanya. Lebih baik memeriksa daripada menunggu.",
-      "red_flags": "- Jika seorang anak berada dalam **bahaya langsung** atau terluka parah, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada."
-    },
-    "coercive-control": {
-      "title": "Kontrol koersif",
-      "aliases": [
-        "kontrol paksa",
-        "perilaku mengontrol",
-        "kekerasan emosional",
-        "kekerasan psikologis",
-        "isolasi",
-        "kekerasan finansial",
-        "gaslighting"
-      ],
-      "glance": "Kontrol koersif adalah pola perilaku mengendalikan — mengisolasi, memantau, mengancam — yang diakui sebagai bentuk kekerasan.",
-      "overview": "Kontrol koersif adalah bentuk kekerasan yang dilakukan melalui pengendalian, bukan melalui, atau selain, kekerasan fisik. Ini adalah pola — bukan sekadar pertengkaran tunggal — di mana seseorang secara bertahap membatasi kebebasan dan rasa identitas diri orang lain.\n\nHal ini bisa berupa terputusnya hubungan dengan teman dan keluarga, pemantauan atau pembatasan penggunaan ponsel, pergerakan, atau pengeluaran uang, diperintahkan apa yang harus dipakai atau bagaimana harus bersikap, atau hidup dengan kritik, ancaman, atau intimidasi yang terus-menerus. Karena mungkin tidak ada memar, hal ini bisa sulit untuk diidentifikasi, dan orang lain mungkin tidak menyadarinya — namun hal ini diakui sebagai kekerasan, dan dampaknya bisa sama berbahayanya dengan kekerasan fisik.\n\nJika Anda mengenali beberapa hal ini, itu bukan pertanda bahwa Anda terlalu sensitif atau bahwa Anda yang menyebabkannya sendiri. Perilaku mengontrol adalah pilihan yang dibuat oleh orang lain. Memahami hal tersebut apa adanya dapat menjadi langkah pertama menuju dukungan.",
-      "deep": "Kontrol koersif sering kali terbentuk secara perlahan, yang menjadi salah satu alasan mengapa sulit untuk dikenali dari dalam — kontrol-kontrol kecil menjadi hal yang biasa, dan keraguan diri pun semakin tumbuh. Hal ini secara bertahap merusak kesehatan mental. Membicarakan hal ini dengan seseorang yang terlatih untuk memahami pola-pola tersebut dapat membantu Anda melihat situasi dengan lebih jelas dan memikirkan langkah selanjutnya, tanpa tekanan.",
-      "when_to_see_doctor": "- Pusat anti-kekerasan atau saluran bantuan (di Italia, **1522**) dapat mendengarkan apa yang Anda alami, secara rahasia dan gratis, serta membantu Anda memahami pilihan-pilihan yang ada — Anda tidak harus berada dalam bahaya fisik untuk menghubungi mereka.\n- Seorang dokter umum atau konselor juga dapat mendukung Anda dan mengarahkan Anda ke layanan spesialis.",
-      "red_flags": "- Jika Anda berada dalam **bahaya langsung**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** adalah layanan gratis, tersedia 24 jam sehari, anonim, dan multibahasa — melalui telepon atau obrolan."
-    },
-    "economic-abuse": {
-      "title": "Kekerasan ekonomi",
-      "aliases": [
-        "kekerasan ekonomi",
-        "kekerasan finansial",
-        "pengelolaan keuangan",
-        "mengelola keuangan",
-        "utang atas nama saya"
-      ],
-      "glance": "Kekerasan ekonomi adalah tindakan mengendalikan akses seseorang terhadap uang, pekerjaan, atau sumber daya — suatu bentuk kekerasan yang diakui.",
-      "overview": "Kekerasan ekonomi terjadi ketika seseorang mengendalikan akses orang lain terhadap uang dan hal-hal yang dapat dibeli dengan uang. Ini merupakan bentuk perilaku mengendalikan, dan sering kali terjadi bersamaan dengan jenis kekerasan lainnya.\n\nHal ini bisa berupa mengontrol semua pengeluaran atau memaksa Anda mempertanggungjawabkan setiap sen, mengambil gaji atau tunjangan Anda, menumpuk utang atas nama Anda, menyembunyikan rekening bank atau dokumen dari Anda, atau mencegah Anda bekerja atau belajar. Karena hal ini dapat membuat seseorang tidak memiliki sarana untuk pergi atau mengelola kehidupan sehari-hari, inilah salah satu cara di mana kekerasan dapat terasa seperti perangkap.\n\nJika beberapa hal ini terasa familiar, itu bukanlah tanda bahwa Anda \"buruk dalam mengelola uang\" atau harus disalahkan. Mengontrol sumber daya orang lain adalah pilihan yang dibuat oleh orang tersebut — dan hal ini diakui sebagai kekerasan.",
-      "deep": null,
-      "when_to_see_doctor": "- Layanan anti-kekerasan juga dapat membantu dalam hal ini — tidak hanya terkait keamanan, tetapi juga langkah-langkah praktis dan finansial, secara rahasia dan gratis (di Italia, saluran bantuan **1522** dapat mengarahkan Anda ke layanan dukungan lokal).\n- Rencana keselamatan dapat mencakup upaya diam-diam untuk mengamankan akses ke sejumlah uang, dokumen penting, dan nomor-nomor penting.",
-      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — gratis, 24 jam sehari, anonim, dan multibahasa — dapat memberikan bantuan melalui telepon atau obrolan."
-    },
-    "getting-help": {
-      "title": "Tempat mendapatkan bantuan",
-      "aliases": [
-        "mendapatkan bantuan",
-        "siapa yang harus dihubungi",
-        "saluran bantuan",
-        "nomor-nomor penting",
-        "pusat anti-kekerasan",
-        "1522",
-        "nomor darurat"
-      ],
-      "glance": "Bantuan gratis dan rahasia tersedia — dalam keadaan darurat, hubungi nomor darurat setempat; di Italia, hubungi 1522 kapan saja.",
-      "overview": "Jika Anda mengalami kekerasan, Anda tidak perlu menghadapinya sendirian, dan meminta bantuan tidak berarti Anda terikat pada apa pun. Ada orang-orang yang tugasnya sepenuhnya adalah mendengarkan dan membantu, secara rahasia dan gratis.\n\nBeberapa jenis bantuan tersedia secara bersamaan:\n\n- **Layanan darurat** — jika berada dalam bahaya mendesak, hubungi nomor darurat setempat (di bawah ini).\n- **Layanan bantuan nasional** — di Italia, **1522**, layanan bantuan gratis untuk kasus kekerasan dan penguntitan: buka 24 jam sehari, anonim, tersedia dalam beberapa bahasa, melalui telepon atau obrolan daring.\n- **Pusat anti-kekerasan** (di Italia, *centri antiviolenza*) — layanan lokal yang menawarkan dukungan gratis dan rahasia, perencanaan keamanan, serta bantuan hukum dan psikologis.\n- **Layanan kesehatan** — dokter umum, atau unit gawat darurat rumah sakit, di mana stafnya semakin terlatih untuk mengenali kekerasan dan menghubungkan Anda dengan layanan dukungan.\n- **Orang yang Anda percayai** — seorang teman atau anggota keluarga yang membuat Anda merasa aman.\n\nAnda bisa memulai dengan topik mana pun yang terasa paling memungkinkan, dan Anda tidak perlu memutuskan apa pun terlebih dahulu.",
-      "deep": null,
-      "when_to_see_doctor": "- Anda dapat berkonsultasi dengan **dokter umum atau rumah sakit** secara rahasia mengenai apa yang sedang Anda alami; mereka dapat menangani cedera apa pun dan menghubungkan Anda dengan layanan spesialis.\n- Jika lebih mudah menulis daripada berbicara, **layanan obrolan 1522** adalah alternatif lain yang bisa digunakan.",
-      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- **Italia:** **1522** (gratis, 24/7, anonim, multibahasa — telepon atau obrolan).\n- Nomor saluran bantuan berbeda-beda di setiap negara. Aplikasi ini dapat menampilkan nomor untuk negara Anda, dan **findahelpline.com** mencantumkan saluran bantuan anti-kekerasan di seluruh dunia (situs ini mendeteksi negara Anda dan memiliki tombol keluar cepat). Jika Anda berada di Uni Eropa, **112** dapat dihubungi di mana saja."
-    },
-    "recognising-abuse": {
-      "title": "Mengenali hubungan yang penuh kekerasan",
-      "aliases": [
-        "mengenali kekerasan",
-        "hubungan yang penuh kekerasan",
-        "kekerasan dalam rumah tangga",
-        "kekerasan dalam hubungan intim",
-        "tanda-tanda kekerasan",
-        "Apakah saya sedang mengalami kekerasan?"
-      ],
-      "glance": "Kekerasan dapat berupa kekerasan fisik, seksual, emosional, atau pengendalian — dan hal ini tidak pernah menjadi kesalahan orang yang mengalaminya.",
-      "overview": "Kekerasan dalam hubungan tidak hanya bersifat fisik. Kekerasan dapat terjadi dalam berbagai bentuk, yang sering kali terjadi secara bersamaan: kekerasan fisik, paksaan seksual, kekerasan emosional atau psikologis, serta perilaku mengontrol — misalnya, pasangan yang menentukan ke mana Anda pergi, dengan siapa Anda bertemu, atau apa yang boleh Anda lakukan. Semua hal tersebut dapat dikategorikan sebagai kekerasan, meskipun tidak ada luka fisik yang terlihat.\n\nHal ini lebih umum daripada yang disadari banyak orang. Di seluruh dunia, sekitar 1 dari 3 wanita mengalami kekerasan fisik atau seksual sepanjang hidupnya, paling sering dari pasangan; gambaran di Italia pun serupa. Jadi, jika hal ini menjadi bagian dari hidup Anda, Anda tidak sendirian, dan ini bukanlah sesuatu yang Anda sebabkan.\n\nMenyebutkannya bisa jadi sulit — kekerasan sering kali bercampur dengan momen-momen indah, permintaan maaf, atau janji untuk berubah, dan hal ini bisa berkembang secara perlahan sehingga terasa normal. Mempercayai insting Anda sendiri bahwa ada sesuatu yang salah adalah alasan yang sah untuk mencari bantuan. Anda tidak perlu merasa yakin sepenuhnya, atau menunggu sampai situasinya menjadi “cukup buruk,” untuk berbicara dengan seseorang.",
-      "deep": "Di balik berbagai bentuknya, kekerasan cenderung mengikuti pola di mana satu orang berusaha menguasai dan mengendalikan orang lain, dan hal ini dapat semakin memburuk seiring waktu. Hal ini berdampak sangat besar pada kesehatan — terkait dengan kecemasan, depresi, kesulitan tidur, dan dampak fisik jangka panjang. Semua itu tidak berarti Anda lemah atau bersalah; itu berarti apa yang Anda alami saat ini berbahaya, dan ada dukungan yang tersedia untuk membantu Anda memikirkannya dengan aman dan sesuai dengan kecepatan Anda sendiri.",
-      "when_to_see_doctor": "- Kamu bisa berbicara dengan seseorang secara rahasia kapan pun kamu siap — dokter umum atau perawat, pusat anti-kekerasan, atau saluran bantuan (di Italia, **1522**, gratis dan tersedia kapan saja). Anda tidak perlu bukti, rencana, atau keputusan terlebih dahulu; mereka ada di sana untuk mendengarkan dan membantu Anda memahami pilihan-pilihan yang ada.\n- Seorang tenaga kesehatan juga dapat menangani cedera apa pun dan secara diam-diam menghubungkan Anda dengan dukungan spesialis.",
-      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — saluran bantuan nasional gratis untuk kasus kekerasan dan penguntitan — tersedia 24 jam sehari, secara anonim, melalui telepon atau obrolan, dalam beberapa bahasa."
-    },
-    "safety-plan": {
-      "title": "Membuat rencana keselamatan",
-      "aliases": [
-        "rencana keselamatan",
-        "tetap aman",
-        "menjaga keamanan",
-        "perencanaan keselamatan",
-        "pergi dengan aman"
-      ],
-      "glance": "Rencana keselamatan adalah beberapa langkah praktis untuk membantu Anda tetap aman — dan layanan yang terlatih dapat membantu Anda menyusunnya.",
-      "overview": "Rencana keamanan hanyalah cara untuk memikirkan terlebih dahulu bagaimana menjaga diri Anda (dan anak-anak Anda, jika ada) agar lebih aman. Ini bukanlah keputusan untuk pergi atau tetap tinggal — melainkan tentang bersiap sedikit lebih baik, apa pun pilihan Anda.\n\nBagi sebagian orang, ada baiknya menyiapkan beberapa hal secara diam-diam: seseorang yang dipercaya dan mengetahui apa yang sedang terjadi, dokumen-dokumen penting serta nomor-nomor yang dapat dihubungi, tas kecil berisi barang-barang penting, pengetahuan tentang rute teraman untuk keluar dari rumah, atau kata atau isyarat yang memberi tahu seseorang bahwa Anda membutuhkan bantuan. Apa yang masuk akal sepenuhnya bergantung pada situasi Anda sendiri.\n\nAnda tidak perlu menghadapi ini sendirian, dan seringkali lebih aman jika tidak melakukannya. Layanan anti-kekerasan berpengalaman dalam menyusun rencana keselamatan bersama orang-orang, secara rahasia dan gratis — termasuk untuk masa-masa menjelang kepergian, yang bisa menjadi momen berisiko tinggi dan sebaiknya direncanakan dengan dukungan daripada dilakukan terburu-buru.",
-      "deep": null,
-      "when_to_see_doctor": "- Hubungi pusat anti-kekerasan atau saluran bantuan (di Italia, **1522**) untuk menyusun rencana yang sesuai dengan situasi Anda — mereka menangani hal ini setiap hari, secara rahasia, dan dapat membantu dengan langkah-langkah praktis, hukum, dan emosional.\n- Jika Anda mencatat apa yang terjadi, simpanlah di tempat yang pribadi dan aman.",
-      "red_flags": "- Jika Anda berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — gratis, 24 jam sehari, anonim, dan multibahasa — dapat memberikan bantuan melalui telepon atau obrolan, termasuk untuk perencanaan keamanan darurat."
-    },
-    "sexual-violence": {
-      "title": "Kekerasan seksual & persetujuan",
-      "aliases": [
-        "kekerasan seksual",
-        "kekerasan seksual",
-        "pemerkosaan",
-        "persetujuan",
-        "kekerasan seksual",
-        "tanpa persetujuan"
-      ],
-      "glance": "Kekerasan seksual adalah setiap tindakan seksual tanpa persetujuan — dan hal itu tidak pernah menjadi kesalahan orang yang mengalaminya.",
-      "overview": "Kekerasan seksual berarti setiap tindakan seksual, atau upaya untuk melakukannya, tanpa persetujuan atau melalui paksaan. Hal ini mencakup pemerkosaan dan setiap kontak seksual yang tidak diinginkan, dan dapat dilakukan oleh siapa saja — orang asing, kenalan, atau pasangan atau suami/istri.\n\nPersetujuan adalah inti dari semuanya. Persetujuan berarti menyetujui secara sukarela, dan hal ini tidak mungkin terjadi ketika seseorang sedang tidur, tidak sadarkan diri, mabuk atau di bawah pengaruh obat-obatan, masih anak-anak, atau dipaksa, diancam, atau merasa takut. Persetujuan dapat ditarik kembali kapan saja. Karena itu, kekerasan seksual **tidak pernah** menjadi kesalahan orang yang mengalaminya — bukan karena apa yang mereka kenakan, apakah mereka sedang minum alkohol, apakah mereka membeku alih-alih melawan, atau apakah mereka mengenal orang tersebut.\n\nJika hal ini pernah terjadi pada Anda, bantuan selalu tersedia, baik itu baru-baru ini maupun sudah lama berlalu. Anda dipercaya, dan apa yang akan Anda lakukan selanjutnya adalah pilihan Anda.",
-      "deep": null,
-      "when_to_see_doctor": "- Anda dapat mengunjungi **layanan kesehatan, rumah sakit, atau layanan khusus kekerasan seksual**, yang dapat merawat Anda, mengobati luka apa pun, dan — jika Anda menginginkannya — membantu dalam melaporkan kejadian tersebut serta mengamankan bukti.\n- Beberapa langkah kesehatan bersifat **sensitif terhadap waktu** — misalnya kontrasepsi darurat, atau pencegahan infeksi — sehingga menghubungi pihak terkait **secepatnya** dapat membantu. Namun, tidak ada batas waktu untuk mendapatkan dukungan, dan Anda selalu memiliki pilihan apakah akan melapor atau tidak.",
-      "red_flags": "- Jika Anda berada dalam **bahaya langsung**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Setelah mengalami kekerasan baru-baru ini, **rumah sakit atau layanan khusus dapat memberikan bantuan segera**. Di Italia, **1522** (gratis, 24 jam sehari, 7 hari seminggu, anonim, multibahasa — melalui telepon atau obrolan) dapat mengarahkan Anda ke layanan perawatan yang tepat."
-    },
-    "stalking": {
-      "title": "Penguntitan",
-      "aliases": [
-        "stalking",
-        "dikejar-kejar",
-        "pelecehan",
-        "perhatian yang tidak diinginkan",
-        "seseorang yang mengikuti saya",
-        "cyberstalking"
-      ],
-      "glance": "Stalking adalah perhatian yang berulang dan tidak diinginkan yang membuat Anda merasa takut atau tidak aman — dan hal ini ditanggapi dengan serius.",
-      "overview": "Stalking adalah pola perilaku yang tidak diinginkan dan berulang dari seseorang yang membuat Anda merasa takut, diawasi, atau tidak aman. Hal ini dapat mencakup diikuti, seseorang tiba-tiba muncul di tempat Anda berada, panggilan atau pesan yang terus-menerus, hadiah yang tidak diinginkan, pemantauan terhadap Anda secara daring atau melalui ponsel Anda, atau ancaman. Tindakan ini sering dilakukan oleh mantan pasangan atau seseorang yang Anda kenal, meskipun tidak selalu demikian.\n\nRasa takut yang ditimbulkannya wajar, meskipun setiap tindakan tunggal mungkin tampak “kecil” bagi orang lain — yang penting adalah pola perilakunya, dan bagaimana hal itu membuat Anda merasa. Penguntitan diakui sebagai bentuk kekerasan, dan di banyak negara hal ini merupakan tindak pidana. Semua ini bukan kesalahan Anda, dan Anda tidak perlu hanya menerimanya begitu saja.\n\nJika aman untuk melakukannya, menyimpan catatan dapat membantu di kemudian hari: tanggal dan waktu, tangkapan layar pesan, serta apa yang terjadi. Anda tidak perlu memutuskan sendiri apakah hal tersebut \"termasuk\" — layanan dukungan dapat membantu Anda memahami situasinya dan mempertimbangkan pilihan yang ada.",
-      "deep": null,
-      "when_to_see_doctor": "- Hubungi **polisi** untuk melaporkan tindakan menguntit, serta layanan bantuan anti-kekerasan atau anti-menguntit untuk mendapatkan dukungan dan saran (di Italia, **1522** diperuntukkan bagi kasus kekerasan **dan** tindakan menguntit).\n- Menyimpan bukti dan menyusun rencana keselamatan, dengan bantuan dari layanan spesialis, dapat memberikan dampak yang nyata.",
-      "red_flags": "- Jika Anda merasa berada dalam **bahaya mendesak**, segera hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** — gratis, 24 jam sehari, anonim, dan multibahasa — dapat memberikan bantuan melalui telepon atau obrolan."
-    },
-    "supporting-someone": {
-      "title": "Memberikan dukungan kepada seseorang yang mengalami kekerasan",
-      "aliases": [
-        "mendukung seseorang",
-        "membantu seorang teman",
-        "cara membantu",
-        "seseorang yang mengalami kekerasan",
-        "cara memberikan dukungan"
-      ],
-      "glance": "Jika ada orang yang Anda kenal mungkin sedang mengalami kekerasan, mendengarkan tanpa menghakimi — dan mengetahui ke mana harus mengarahkan mereka — dapat membantu.",
-      "overview": "Menyadari bahwa seseorang yang Anda sayangi mungkin sedang mengalami kekerasan adalah hal yang sulit, dan keinginan untuk membantu adalah insting yang baik. Hal paling berguna yang dapat Anda tawarkan seringkali adalah hal yang paling sederhana.\n\nDengarkan, dan percayai mereka. Biarkan mereka berbicara sesuai kecepatan mereka sendiri, tanpa menghakimi, menyalahkan, atau menanyakan apa yang mereka lakukan sehingga hal ini terjadi. Katakan dengan jelas bahwa ini bukan kesalahan mereka dan bahwa mereka tidak pantas mengalaminya. Usahakan untuk tidak memberi tahu mereka apa yang harus dilakukan atau mendesak mereka untuk pergi: keputusan untuk pergi ada di tangan mereka, dan melakukannya terburu-buru justru dapat meningkatkan bahaya — yang lebih membantu adalah membuat mereka merasa didukung dan tidak sendirian.\n\nJaga kerahasiaan apa yang mereka ceritakan kepada Anda. Bantu mereka dengan lembut untuk mencari dukungan spesialis saat mereka siap — seperti saluran bantuan **1522** di Italia, atau pusat anti-kekerasan setempat — dan tawarkan bantuan praktis, seperti mencari nomor telepon bersama-sama atau menemani mereka saat menelepon. Dan jaga diri Anda juga; mendukung seseorang melalui masa sulit ini bisa sangat melelahkan.",
-      "deep": null,
-      "when_to_see_doctor": "- Dorong mereka (tanpa tekanan) untuk menghubungi saluran bantuan atau pusat anti-kekerasan, yang dapat memandu Anda berdua mengenai langkah selanjutnya. Anda dapat menawarkan bantuan untuk menelepon atau mencari nomor tersebut.\n- Jika mereka mengalami cedera, dokter umum atau rumah sakit dapat membantu — dan menghubungkan mereka dengan layanan dukungan.",
-      "red_flags": "- Jika mereka berada dalam **bahaya langsung**, hubungi layanan darurat: **112** di Uni Eropa (termasuk Italia), **999** di Inggris, **911** di AS dan Kanada.\n- Di Italia, **1522** (gratis, 24 jam sehari, 7 hari seminggu, anonim, multibahasa — melalui telepon atau obrolan) juga dapat memberi saran tentang cara membantu seseorang."
     }
   },
   "categories": {
@@ -1181,8 +1232,8 @@
       "summary": "Rasa sakit, bercak darah, keputihan, perubahan suasana hati — apa yang mungkin ingin disampaikan tubuh Anda kepada Anda."
     },
     "conditions": {
-      "title": "Ketentuan",
-      "summary": "PCOSe, endometriosis, mioma, dan lainnya — dijelaskan lengkap beserta sumbernya."
+      "title": "Kondisi kesehatan",
+      "summary": "PCOS, endometriosis, mioma, dan lainnya — dijelaskan lengkap beserta sumbernya."
     },
     "sexual-and-intimate-health": {
       "title": "Kesehatan seksual dan intim",
@@ -1205,7 +1256,7 @@
       "summary": "Tanda-tanda awal, menjaga kesehatan, tanda-tanda peringatan, dan keguguran — dijelaskan, disertai sumber."
     },
     "for-partners": {
-      "title": "Untuk mitra",
+      "title": "Untuk pasangan",
       "summary": "Memahami siklusnya, mendukungnya dengan baik, dan membangun hubungan berdasarkan rasa hormat."
     },
     "safety-and-support": {
@@ -1219,7 +1270,7 @@
       "summary": "Penjelasan yang tenang mengenai keseluruhan siklus dan keempat fase di dalamnya."
     },
     "getting-to-know-ovulation": {
-      "title": "Mengenal Ovulasi",
+      "title": "Mengenal ovulasi",
       "summary": "Apa itu ovulasi, jendela subur, dan tanda-tanda yang ditunjukkan tubuh Anda."
     },
     "the-hormones-behind-your-cycle": {
