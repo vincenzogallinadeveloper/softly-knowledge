@@ -1,0 +1,1378 @@
+{
+  "_meta": {
+    "lang": "et",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohol raseduse ajal",
+      "aliases": [
+        "alkohol raseduse ajal",
+        "joomine raseduse ajal",
+        "alkohol ja rasedus",
+        "kas rasedana tohib juua",
+        "loote alkoholispektri häire",
+        "loote alkoholisündroom",
+        "FASD"
+      ],
+      "glance": "Kõige ohutum on raseduse ajal või lapse saamiseks püüdlemisel üldse mitte alkoholi tarbida.",
+      "overview": "NHS-i soovitus on selge ja lihtne: kui oled rase või püüad rasestuda, on kõige ohutum **alkoholi üldse mitte juua**. Kui sa ei joo, on risk sinu lapsele võimalikult väike.\n\nPõhjus on selles, et alkohol liigub sinu verest läbi platsenta lapseni, kelle maks ei ole veel piisavalt arenenud, et seda lagundada. Alkoholi joomine raseduse ajal võib põhjustada loote alkoholispektri häiret (FASD) – mitmesuguseid eluaegseid raskusi õppimise, käitumise ja arenguga.\n\nKui jõid alkoholi enne, kui said teada, et oled rase, püüa mitte muretseda: väikeste koguste risk lapsele raseduse alguses on tõenäoliselt väike. Kõige kasulikum on lihtsalt nüüdsest kuni raseduse lõpuni alkoholi vältida.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui sul on raske joomist lõpetada, pole selles midagi häbiväärset – räägi sellest oma ämmaemandale või perearstile. Nad saavad sind toetada ilma sind hukka mõistmata, ja abi saamine on kasulik nii sulle kui ka su lapsele.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Raseduse jälgimine",
+      "aliases": [
+        "raseduse jälgimine",
+        "rasedusaegne jälgimine",
+        "sünnituseelne jälgimine",
+        "ämmaemanda vastuvõtt",
+        "arvele võtmine",
+        "esimene rasedusvisiit",
+        "rasedusvisiidid"
+      ],
+      "glance": "Raseduse jälgimine tähendab regulaarseid kontrollvisiite kogu raseduse vältel – need aitavad hoida sind ja su last tervena.",
+      "overview": "Raseduse jälgimine on abi, mida saad raseduse ajal, et hoida nii sinu kui ka su lapse tervis võimalikult hea. Tavaliselt käid ämmaemanda juures ja vajaduse korral ka arsti juures. Tasub alustada varakult: võta ühendust ämmaemanda või perearstiga kohe, kui saad teada, et oled rase.\n\nEsimene põhjalik vastuvõtt – nn arvele võtmine – toimub tavaliselt 8. ja 12. rasedusnädala vahel. Pärast seda pakutakse sulle regulaarseid kontrollvisiite: esimese lapse puhul vähemalt 10 vastuvõttu ja 2 ultraheliuuringut, kui oled varem sünnitanud, siis umbes 7; raseduse lõpu poole käid sagedamini.\n\nNendel vastuvõttudel kontrollib ämmaemand sinu vererõhku ja uriini, mõõdab kõhtu, et jälgida lapse kasvu, pakub sõeluuringuid ning räägib sinuga lapse liigutustest ja sellest, kuidas sa end tunned. Paljud olulised asjad – näiteks preeklampsia või rasedusdiabeet – avastatakse just siin, enne kui sa ise midagi märkad, ja seepärast ongi need vastuvõtud nii olulised.",
+      "deep": null,
+      "when_to_see_doctor": "- Võta **ämmaemanda või perearstiga ühendust kohe, kui saad teada, et oled rase**, et sinu jälgimine saaks alata varakult – soovitavalt nii, et jõuad esimesele vastuvõtule enne umbes 10.–12. rasedusnädalat.\n- Püüa käia **kõigil** rasedusaegsetel vastuvõttudel, isegi kui tunned end täiesti hästi – mitu kontrolli on mõeldud selleks, et avastada varakult probleeme, mis endast ise märku ei anna.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Lapse liigutused",
+      "aliases": [
+        "lapse liigutused",
+        "loote liigutused",
+        "beebi liigutused",
+        "lapse müksud",
+        "laps liigub vähem",
+        "laps ei liigu",
+        "vähenenud liigutused"
+      ],
+      "glance": "Lapse liigutuste tundmine on märk, et temaga on kõik hästi – kui liigutused aeglustuvad või muutuvad, helista kohe oma ämmaemandale.",
+      "overview": "Lapse liigutuste tundmine on üks rahustavaid märke, et lapsega on kõik hästi. Enamik rasedaid hakkab liigutusi tundma kuskil 16. ja 24. rasedusnädala vahel – esimese raseduse ajal sageli hiljem, nii et esimesel korral on tavaline tunda neid alles pärast 20. nädalat.\n\nEi ole kindlat arvu liigutusi, mida „peaksid“ tundma, ega ole vaja mükse mingi eesmärgi järgi kokku lugeda. Iga laps on erinev ja oluline on õppida tundma **oma** lapse tavalist rütmi päeva jooksul – millal ta on aktiivne ja millal vaikne.\n\nKui oled selle rütmi ära õppinud, tulebki tähelepanu pöörata sellest kõrvalekaldumisele. Usalda seda, mida sa oma lapsest tead.",
+      "deep": null,
+      "when_to_see_doctor": "Just oma beebi tavapärase rütmi tundmine võimaldab sul muutusi märgata. Kui sul tekib kahtlus, kas liikumised on aeglustunud või muutunud, on alati õige helistada ja järele küsida – sa ei raiska sellega kunagi kellegi aega.",
+      "red_flags": "- Kui su laps **liigub tavalisest vähem, tema liigutused muutuvad või sa ei tunne tema liigutusi**, **helista kohe oma ämmaemandale või sünnitusosakonda** – ükskõik mis kellaajal, päeval või öösel. **Ära oota järgmise päevani**, isegi kui on keskööd.\n- Ära looda enda rahustamiseks kodusele südamelöökide monitorile (dopplerile) ega rakendusele – lase end kohapeal kontrollida."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Seljavalu raseduse ajal",
+      "aliases": [
+        "seljavalu raseduse ajal",
+        "rasedusaegne seljavalu",
+        "alaseljavalu rasedana",
+        "selg valutab raseduse ajal",
+        "ristluuvalu raseduse ajal"
+      ],
+      "glance": "Seljavalu on raseduse ajal väga levinud, kuna sidemed pehmenevad ja kõht kasvab — tavaliselt on see ohutu.",
+      "overview": "Seljavalu on üks raseduse kõige levinumaid sümptomeid. Kui keha valmistub sünnituseks, muutuvad sidemed loomulikult pehmemaks ja venivad, ning kasvav kõht muudab kehakaalu jaotumist – mõlemad tegurid koormavad alaselga ja vaagna piirkonda veelgi rohkem.\n\nSeda võivad leevendada igapäevased asjad: tähelepanu pööramine oma kehahoiakule seistes, istudes ja asju tõstes; madalate, jalga toetavate kingade kandmine; kindel madrats või toetav padi; ning kerge ja regulaarne liikumine, nagu kõndimine, rasedate jooga või kursusel õpitud harjutused. Kui see hakkab tõsiselt häirima, võib sünnitusfüsioterapeut anda individuaalseid nõuandeid.\n\nEnamik rasedusega seotud seljavalu ei ole põhjust muretsemiseks — kuid mõningaid sümptomeid tasub viivitamatult arsti juures kontrollida, milleks ongi mõeldud allpool esitatud juhised.",
+      "deep": null,
+      "when_to_see_doctor": "Võta kohe ühendust **perearsti või ämmaemandaga**, kui seljavalu:\n\n- on **tugev** või tekib **teisel või kolmandal trimestril** (see võib mõnikord olla sünnituse algamise märk)\n- kaasneb **palaviku, tupeverejooksu või valuga urineerimisel**\n- on **küljel (või mõlemal küljel) roiete all**",
+      "red_flags": "- Helista numbrile **{{emergency}} või mine erakorralise meditsiini osakonda**, kui **kaob tundlikkus jalgades, tuharates või suguelundite piirkonnas** või kaotad kontrolli põie või soole tegevuse üle. See on harv, kuid vajab erakorralist abi."
+    },
+    "basal-body-temperature": {
+      "title": "Baaskehatemperatuur",
+      "aliases": [
+        "BBT",
+        "baaskehatemperatuur",
+        "basaaltemperatuur",
+        "hommikune temperatuur",
+        "ärkamistemperatuur",
+        "temperatuurimeetod"
+      ],
+      "glance": "Baaskehatemperatuur on hommikune puhkeoleku temperatuur, mis tõuseb ovulatsiooni järel veidi.",
+      "overview": "Baaskehatemperatuur (BBT) on keha temperatuur täielikus puhkeolekus. Kui seda mõõta iga päev samal viisil, on tsükli jooksul näha väike, kuid märkimisväärne muutus: pärast ovulatsiooni tõuseb temperatuur veidi ja püsib kõrgemal kuni järgmise menstruatsioonini.\n\nTemperatuuri tõus on väike – umbes 0,4–0,8 °F (ligikaudu 0,2–0,4 °C) –, seega tuleb seda jälgida mitme päeva jooksul, mitte üheainsa mõõtmise põhjal. Selle märkamiseks mõõda oma kehatemperatuuri igal hommikul enne voodist tõusmist, söömist või joomist, soovitavalt alati samal kellaajal. Umbes kolm päeva pärast temperatuuri tõusu algust on peaaegu kõigil ovulatsioon juba toimunud.\n\nKuna temperatuuri tõus toimub *pärast* munaraku vabanemist, kinnitab BBT pigem ovulatsiooni toimumist, mitte ei ennusta seda ette. Mõne tsükli jooksul võib see aidata sul oma tsükli kulgu jälgida, kuigi see ei ole iseenesest täpne viis viljakate päevade kindlakstegemiseks.",
+      "deep": "BBT on üks viljakusjälgimise näitajatest, mida registreeritakse iga päev koos emakakaela lima ja tsükli pikkusega. See sobib loomulikult kokku lima jälgimisega: läbipaistvaks ja libedaks muutuv lima viitab viljakusperioodi algusele, samas kui mõni päev hiljem toimuv temperatuuri tõus kinnitab, et ovulatsioon on möödas. Puhketemperatuuri võivad mõjutada paljud tegurid – halb uni, haigus, alkohol või hiline ärkamine –, seega on üksikud ebatüüpilised näidud vähem olulised kui üldine suundumus.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Verejooks raseduse ajal",
+      "aliases": [
+        "verejooks raseduse ajal",
+        "tupeverejooks rasedana",
+        "määrimine raseduse ajal",
+        "veritsus raseduse ajal",
+        "rasedana tuleb verd"
+      ],
+      "glance": "Verejooks raseduse ajal ei ole alati tõsine – kerge määrimine on raseduse alguses sage –, kuid lase see alati üle vaadata.",
+      "overview": "Verejooks tupest raseduse ajal ei tähenda alati, et midagi on valesti. Kerge veritsus või määrimine on eriti raseduse alguses üsna sage ning paljud rasedused jätkuvad pärast seda täiesti normaalselt.\n\nSamas võib verejooks mõnikord olla mõne probleemi – näiteks raseduse katkemise või emakavälise raseduse – märk, seega tuleks seda **alati lasta kontrollida**, olenemata vere hulgast. Läbivaatus aitab põhjuse välja selgitada ja tagab, et saad vajaduse korral kiiresti õiget abi.\n\nKuna sama sümptom võib tähendada väga erinevaid asju, ei ole mõtet oletada – kasulik on võtta ühendust ja lasta end läbi vaadata.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui sul tekib raseduse ajal **ükskõik milline** verejooks tupest, isegi kerge määrimine, **võta alati ühendust oma sünnitusosakonnaga** (või kui rasedus on alla 20 nädala või sul pole nende numbrit, siis varase raseduse vastuvõtuga või **valvearstiga**), et põhjus saaks kindlaks tehtud.",
+      "red_flags": "- Kui sul on **tugev verejooks** – näiteks hügieenisidem on juba varsti pärast vahetamist täiesti läbimärg –, eriti koos **tugeva kõhuvalu, valuga õla tipus, iivelduse, minestamistunde, pearingluse või teadvuse kaotusega,** helista numbrile **{{emergency}} või mine erakorralise meditsiini osakonda.** See vajab erakorralist abi."
+    },
+    "breast-awareness": {
+      "title": "Rindade enesekontroll",
+      "aliases": [
+        "rindade enesekontroll",
+        "rindade kontrollimine",
+        "rinnakontroll",
+        "rindade läbikatsumine",
+        "tükk rinnas",
+        "rindade jälgimine"
+      ],
+      "glance": "Rindade enesekontroll tähendab lihtsalt seda, et tead, kuidas su rinnad tavaliselt välja näevad ja katsudes tunduvad – nii märkad muutusi.",
+      "overview": "Rindade enesekontroll ei ole mingi eriline tehnika – see tähendab lihtsalt seda, et õpid tundma, mis on sinu jaoks normaalne, nii et kõik uus kohe silma torkab. Kui vaatad ja katsud oma rindu või rindkeret regulaarselt, õpid tundma nende tavalist välimust ja tunnet; hea rütm on kord kuus.\n\nÜhtainsat „õiget“ viisi ei ole. Paljud vaatavad end peeglist, käed kõigepealt all ja siis üleval, ning katsuvad kumbagi rinda kuni kaenlaaluseni. Eesmärk on oma keha tundma õppida, mitte ise diagnoosi panna – et märkaksid muutust varakult, kui see peaks tekkima.\n\nRinnad muutuvad loomulikult ka tsükli jooksul ja elu eri etappidel, seega on osa muutusi täiesti normaalsed. Enesekontrolli mõte on tunda oma normaalset seisundit nii hästi, et märkaksid seda, mis sellest erineb.",
+      "deep": null,
+      "when_to_see_doctor": "Pöördu perearsti poole, kui märkad mõnda muutust, mis ei ole sinu jaoks tavaline, näiteks:\n\n- tükk või turse rinnas, rindkerel või kaenlaaluses\n- nahamuutus, näiteks lohukesed (võib meenutada apelsinikoort) või punetus\n- ühe või mõlema rinna suuruse või kuju muutus\n- eritis rinnanibust (kui sa ei ole rase ega imeta), milles võib olla verd\n- rinnanibu välimuse muutus, näiteks nibu tõmbub sissepoole\n- valu rinnas või kaenlaaluses, mis ei möödu\n\nEnamik rinnamuutusi ei ole vähk ja osutuvad ohutuks – kuid muutust tasub alati kiiresti arstil kontrollida lasta, sest kui midagi vajab tähelepanu, aitab varajane avastamine.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Imetamine",
+      "aliases": [
+        "imetamine",
+        "rinnaga toitmine",
+        "rinnapiim",
+        "lapse toitmine",
+        "imetamisnõustamine",
+        "imetamine on valus"
+      ],
+      "glance": "Rinnapiim kaitseb last nakkuste eest ja kohandub lapse kasvuga — ning igasugune kogus toob kasu.",
+      "overview": "Rinnapiim on imikule loomulik ja täisväärtuslik toit: see annab talle vajalikke toitaineid, vitamiine ja mineraalaineid ning muutub aja jooksul vastavalt lapse arenguetapile. Samuti aitab see kaitsta nakkuste ja haiguste eest ning annab ka pikemaajalist kasu tervisele.\n\nKasu on ka imetajale endale – imetamist seostatakse muu hulgas väiksema rinna- ja munasarjavähi riskiga – ning üldiselt kehtib, et mida rohkem ja kauem imetad, seda suurem on kasu. Oluline on see, et **igasugune** kogus rinnapiima on väärtuslik; see ei ole „kõik või mitte midagi“.\n\nLapse toitmine võib alguses osutuda oodatust raskemaks, ja see on sage. Abi on olemas – ämmaemandalt, pereõelt ja imetamisnõustajatelt –, seega on hea mõte varakult abi küsida, kui imetamine ei laabu.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui imetamine on valulik või raske või muretsed, et su laps ei saa piisavalt süüa, küsi varakult abi **ämmaemandalt või pereõelt** – toetus võib olukorda tõesti muuta.\n- See, kuidas sa oma last toidad, on isiklik otsus, ja toetust saad olenemata sellest, mille kasuks otsustad; oluline on, et sinul ja su lapsel oleks kõik hästi.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Pruun eritis",
+      "aliases": [
+        "pruun eritis",
+        "pruun määrimine",
+        "pruun veri",
+        "vana veri",
+        "tume eritis",
+        "pruun menstruatsiooniveri"
+      ],
+      "glance": "Pruun eritis on tavaliselt väike kogus verd, sageli menstruatsiooni nõrgematel päevadel. Pruuni määrimist muul ajal tasub lasta arstil kontrollida.",
+      "overview": "Pruun eritis tähendab väikest kogust pruunikat verd või vedelikku, mida märkad oma aluspesul või tualettpaberil. Paljud märkavad seda mingil hetkel ja väga sageli on see lihtsalt osa menstruatsioonist.\n\nMenstruatsiooniveri ei ole alati erepunane. Kõige tugevama veritsusega päevadel on see tavaliselt punane, kuid nõrgematel päevadel võib see olla hoopis roosa või pruun. Seega on pruunikas toon menstruatsiooni nõrgematel päevadel tavaline ja normaalne.\n\nPruuni võib esineda ka muul ajal. Määrimine tähendab väikesi roosasid, punaseid või pruune vereplekke, ning määrimisel menstruatsioonide vahel on mitu sagedast põhjust. Üks sagedasemaid on hormonaalne rasestumisvastane vahend, näiteks rasestumisvastased tabletid. Teised põhjused on näiteks väikesed healoomulised moodustised emakas või selle ümbruses (nagu polüübid või müoomid) ja nakkused, nagu klamüüdia. Päris raseduse alguses märkavad mõned kerget määrimist umbes sel ajal, kui menstruatsioon pidanuks algama. Seda nimetatakse pesastumisveritsuseks.\n\nKuna pruunil määrimisel väljaspool menstruatsiooni võib olla eri põhjusi, millest enamik on tühised, ei ole mõtet oletada. Kasulik on lasta see üle vaadata, et saaksid teada, mis sinu puhul selle taga on.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui sul esineb **pruuni määrimist või veritsust menstruatsioonide vahel või pärast seksi**, pöördu perearsti või seksuaaltervise kliiniku poole, isegi kui see on kerge. Tavaliselt ei ole see midagi tõsist, kuid alati tasub lasta see üle vaadata.\n- Kui oled **rase või võid olla rase**, võta igasuguse määrimise korral – ka pruuni määrimise korral – ühendust oma sünnitusosakonna, varase raseduse vastuvõtu või **valvearstiga**, et põhjus saaks kontrollitud.\n- Kui märkad **pärast menopausi ükskõik millist pruuni või roosat eritist või veritsust**, pöördu perearsti poole, isegi kui seda on vähe või see on juhtunud vaid ühe korra.\n- Kui su tupevoolus **muudab värvi, lõhna või konsistentsi** või sellega kaasneb sügelus, valulikkus, vaagnavalu või valu urineerimisel, küsi nõu perearstilt, seksuaaltervise kliinikust või valvearstilt.",
+      "red_flags": "- Kui su **menstruatsioon on hiljuti ära jäänud ja sul on ebatavaline veritsus koos kõhu- või vaagnavaluga**, palu **kiiret** vastuvõttu perearsti juurde või võta ühendust **valvearstiga**. Seda tuleb kiiresti kontrollida, sest see võib olla emakavälise raseduse märk.\n- Kui oled rase ja sul on veritsus ning **tugev kõhuvalu, valu õlas, minestamistunne, pearinglus või iiveldus või kui verejooks on tugev** (hügieenisidem on varsti pärast vahetamist täiesti läbimärg), helista numbrile **{{emergency}}**."
+    },
+    "cervical-mucus": {
+      "title": "Emakakaela lima",
+      "aliases": [
+        "emakakaela lima",
+        "tupevoolus",
+        "eritis",
+        "emakakaela eritis",
+        "munavalgetaoline lima",
+        "viljakuslima"
+      ],
+      "glance": "Emakakaelalima on loomulik eritis, mis muutub tsükli jooksul ja näitab, millal on viljakad päevad.",
+      "overview": "Emakakaela lima on emakakaela toodetav vedelik, mida võid märgata tupevooluse või eritisena. See on normaalne ning selle välimus ja konsistents muutuvad tsükli jooksul üsna ettearvatava mustri järgi – just seetõttu on see üks märke, mille abil saab viljakaid päevi ära tunda.\n\nVahetult pärast menstruatsiooni on sageli mõned „kuivad“ päevad, mil lima on vähe. Kui munarakk hakkab küpsema, lima hulk suureneb ning see on tavaliselt valge või kollakas, hägune ja kleepuv. Vahetult enne ovulatsiooni muutub see tavaliselt läbipaistvaks, märjaks ja libedaks ning venib sõrmede vahel nagu toores munavalge – see on kõige viljakam aeg. Pärast ovulatsiooni muutub see tavaliselt jälle kleepuvaks ja häguseks või kuivab ära.\n\nIgaühe muster on veidi erinev ja oma mustri tundmaõppimiseks võib kuluda mitu tsüklit tähelepanelikku jälgimist. Mõned asjad – näiteks hormonaalne rasestumisvastane vahend, imetamine või nakkus – võivad lima muuta, mistõttu see ei ole kõigi jaoks usaldusväärne viljakuse märk.",
+      "deep": "Emakakaela lima jälgimine on üks viljakusmärkidest, mida inimesed jälgivad, lisaks puhkekehatemperatuurile ja tsükli pikkusele; nende märkide äratundmine võtab tavaliselt aega kaks kuni kolm tsüklit. Erinevalt kehatemperatuuri tõusust, mis kinnitab ovulatsiooni alles pärast selle toimumist, ilmneb üleminek läbipaistvale, libedale, munavalge sarnasele limale tavaliselt *enne* ovulatsiooni, mistõttu kasutatakse seda viljakusperioodi alguse märkimiseks, mitte selle lõppemise järel.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Emakakaela sõeluuring (PAP-test)",
+      "aliases": [
+        "emakakaela sõeluuring",
+        "PAP-test",
+        "PAP-analüüs",
+        "emakakaelavähi sõeluuring",
+        "HPV-test",
+        "tsütoloogiline uuring"
+      ],
+      "glance": "Emakakaela sõeluuring on emakakaela tervise rutiinne kontroll, mis aitab ennetada emakakaelavähki.",
+      "overview": "Emakakaela sõeluuring on uuring, mille käigus kontrollitakse emakakaela – emaka ava, mis asub tupe ülaosas – tervislikku seisundit. See ei ole vähktõve uuring. Tegemist on pigem viisiga, kuidas avastada muutusi varakult ja aidata ennetada emakakaelavähi tekkimist.\n\nKutsutakse kõiki, kellel on emakakael, vanuses 25 kuni 64 aastat. Kui on aeg, saadetakse sulle regulaarsete ajavahemike järel kutse, nii et sul ei ole vaja ise meeles pidada, et tuleks aegsasti aeg broneerida – kuigi otsus, kas minna või mitte, jääb alati sinu enda teha.\n\nTest ise on kiire ja selle viib läbi õde. Paljud inimesed tunnevad selle pärast veidi närvilisust, mis on täiesti mõistetav; kui teada, milleks see on mõeldud – rutiinne ennetav kontroll –, võib see protsess tunduda kergemini talutav.",
+      "deep": null,
+      "when_to_see_doctor": "- Sõeluuring on mõeldud ajaks, mil sul **ei** ole sümptomeid. Kui märkad sõeluuringute vahel midagi murettekitavat – näiteks ebatavalist veritsust (menstruatsioonide vahel, pärast seksi või pärast menopausi) –, pöördu perearsti poole, selle asemel et oodata järgmist kutset.\n- Kui oled saanud kutse, kuid kõhkled või tunned minemise pärast ärevust, tasub rääkida oma perearsti või pereõega, kes oskab selgitada, mis uuringul toimub, ja vastata sinu küsimustele.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Laste väärkohtlemine ja laste turvalisuse tagamine",
+      "aliases": [
+        "laste väärkohtlemine",
+        "lapse väärkohtlemine",
+        "laste turvalisus",
+        "lapse kaitsmine",
+        "muretsen lapse pärast",
+        "lapse hooletusse jätmine",
+        "lastekaitse"
+      ],
+      "glance": "Kui muretsed, et last võidakse kahjustada või hooletusse jätta, on õige nõu küsida – sa ei pea selles kindel olema.",
+      "overview": "Laste väärkohtlemine on alla 18-aastasele tekitatud kahju. See hõlmab füüsilist, seksuaalset ja emotsionaalset väärkohtlemist ning hooletusse jätmist (lapse põhivajaduste rahuldamata jätmist). Kahjuks on see sage, see võib põhjustada eluaegset kahju ja see ei ole kunagi lapse süü.\n\nVõib-olla muretsed mõne oma elus oleva lapse pärast või lapse pärast, keda oled märganud. Selleks, et oma mure põhjal tegutseda, ei pea sa olema kindel ega omama tõendeid – oma tunde usaldamine ja nõu küsimine on täpselt õige tegu ning see võib last kaitsta.\n\nJa kui sind ennast lapsena väärkoheldi, siis tea, et see ei olnud kunagi sinu süü ning et ka sinule on abi olemas – ükskõik mis vanuses.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui muretsed mõne lapse pärast, võid nõu saamiseks konfidentsiaalselt pöörduda **lastekaitse või sotsiaaltöötaja** poole, helistada **lasteabi telefonile** või pöörduda **perearsti, pereõe või lapse kooli** poole.\n- Küsides ei reageeri sa „üle“. Parem on kontrollida kui oodata.",
+      "red_flags": "- Kui laps on **vahetus ohus** või tõsiselt vigastatud, võta kohe ühendust hädaabiga: **112** ELis (sh Itaalias), **999** Ühendkuningriigis, **911** USAs ja Kanadas."
+    },
+    "coercive-control": {
+      "title": "Sundkontroll",
+      "aliases": [
+        "sundkontroll",
+        "kontrolliv käitumine",
+        "emotsionaalne vägivald",
+        "psühholoogiline vägivald",
+        "isoleerimine",
+        "majanduslik vägivald",
+        "gaslighting",
+        "manipuleerimine"
+      ],
+      "glance": "Sundkontroll on kontrolliva käitumise muster – isoleerimine, jälgimine, ähvardamine –, mida käsitletakse vägivalla ühe vormina.",
+      "overview": "Sundkontroll on vägivalla vorm, mis toimib kontrolli kaudu – füüsilise kahju asemel või sellele lisaks. See on muster, mitte üks üksik tüli: üks inimene piirab järk-järgult teise vabadust ja minatunnet.\n\nSee võib tähendada, et sind lõigatakse ära sõpradest ja perest, su telefoni, liikumist või kulutusi jälgitakse või piiratakse, sulle öeldakse, mida kanda või kuidas käituda, või elad pideva kriitika, ähvarduste või hirmutamise all. Kuna sinikaid ei pruugi olla, võib seda olla raske nimetada ja teised ei pruugi seda märgata – kuid seda käsitletakse vägivallana ja see võib olla sama kahjulik kui füüsiline vägivald.\n\nKui tunned osa sellest ära, ei tähenda see, et oled liiga tundlik või oled selle ise põhjustanud. Kontrolliv käitumine on teise inimese valik. Selle äratundmine selleks, mis see on, võib olla esimene samm abi poole.",
+      "deep": "Sundkontroll tekib sageli aeglaselt, ja see on üks põhjus, miks seda on seestpoolt raske märgata – väikesed piirangud muutuvad tavaliseks ja kahtlus iseendas kasvab. Aja jooksul kurnab see vaimset tervist. Kui räägid olukorrast kellegagi, kes on õppinud neid mustreid mõistma, võib see aidata sul olukorda selgemalt näha ja ilma surveta läbi mõelda, mida sa edasi teha tahad.",
+      "when_to_see_doctor": "- Vägivallaohvrite abikeskus või abitelefon (Itaalias **1522**) aitab sul oma kogemust konfidentsiaalselt ja tasuta läbi rääkida ning mõista, millised on su võimalused – abi otsimiseks ei pea sa olema füüsilises ohus.\n- Ka perearst või nõustaja saab sind toetada ja suunata spetsialiseeritud abiteenuste juurde.",
+      "red_flags": "- Kui oled **vahetus ohus**, võta kohe ühendust hädaabiga: **112** ELis (sh Itaalias), **999** Ühendkuningriigis, **911** USAs ja Kanadas.\n- Itaalias on **1522** tasuta, avatud 24 tundi ööpäevas, anonüümne ja mitmekeelne – telefoni või vestluse (chat) kaudu."
+    },
+    "combined-pill": {
+      "title": "Kombineeritud rasestumisvastased tabletid",
+      "aliases": [
+        "kombineeritud pill",
+        "rasestumisvastased tabletid",
+        "antibeebipill",
+        "pill",
+        "kombineeritud suukaudne kontratseptiiv",
+        "COC"
+      ],
+      "glance": "Kombineeritud rasestumisvastane pill on igapäevane tablett, mis sisaldab kahte hormooni ja mille peamine toime seisneb ovulatsiooni peatamises.",
+      "overview": "Kombineeritud pill on igapäevane tablett, mis sisaldab kahte hormooni – östrogeeni ja progestogeeni vorme, mis sarnanevad munasarjades toodetavatele. See on üks tuntumaid rasestumisvastaseid vahendeid.\n\nSee hoiab rasedust ära mitmel viisil korraga. Peamiselt takistab see munasarjadel munaraku vabanemist (ovulatsiooni). Samuti muudab see emakakaela lima paksemaks, raskendades spermatosoidide läbipääsu, ning õhendab emaka limaskesta.\n\nSelle toimivus sõltub juhiste järgimisest: täiusliku kasutamise korral on selle tõhusus üle 99%, kuid tavapärase igapäevase kasutamise korral – kui tablette vahel vahele jäetakse või võetakse hilinemisega – on tõhusus umbes 91%. Nagu enamik meetodeid, ei kaitse see sugulisel teel levivate haiguste eest, mistõttu kasutavad mõned inimesed ka kondoome.",
+      "deep": "Kombineeritud rasestumisvastaseid tablette võetakse tavaliselt kindla skeemi järgi kogu kuu vältel, ning ravimi võtmise viis, kellele see sobib, samuti kõrvaltoimed ja riskid on asjad, mida arst retsepti väljakirjutamisel läbi arutab – see ei sobi kõigile. Kuna tegemist on igapäevase meetodiga, sõltub selle tegelik tõhusus suuresti rutiinist. Käesolev artikkel selgitab, mis see on ja kuidas see toimib; ravimi kasutamise alustamise, võtmise või lõpetamise üksikasjad tuleb arutada perearsti, õe või apteekriga.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Tavalised raseduse sümptomid",
+      "aliases": [
+        "raseduse sümptomid",
+        "raseduse vaevused",
+        "kõrvetised raseduse ajal",
+        "seljavalu raseduse ajal",
+        "paistes pahkluud",
+        "kõhukinnisus raseduse ajal",
+        "valud raseduse ajal"
+      ],
+      "glance": "Rasedusega kaasneb palju väikesi valusid ja muutusi – enamasti on need normaalsed, kuid mõnda tasub lasta üle vaadata.",
+      "overview": "Rasedus toob kehas kaasa palju muutusi ning sellega käib kaasas pikk nimekiri igapäevaseid väikesi vaevusi. Enamik neist on sagedased ega tähenda, et midagi oleks valesti – need on lihtsalt osa lapse kasvamisest.\n\nTuntumad on seljavalu, kõrvetised ja seedehäired, kõhukinnisus, hemorroidid, pahkluude, labajalgade ja sõrmede turse, väsimus ja katkendlik uni, krambid jalgades, peavalu, minestamistunne ning tavalisest rohkem tupevoolust. Paljud neist leevenduvad lihtsate võtetega, ja kui miski sind häirib, oskab ämmaemand soovitada, mis on ohutu.\n\nKasulik on teada, millised muutused on tavalised ja millistest tasub märku anda – sest mõned sümptomid, kuigi harvemad, vajavad kontrolli, mitte lihtsalt ära ootamist.",
+      "deep": null,
+      "when_to_see_doctor": "Enamik neist on normaalsed, kuid võta kohe ühendust **ämmaemanda või sünnitusosakonnaga**, kui sul on:\n\n- **verejooks tupest** või äkiline vedeliku purse või nõrgumine tupest\n- su **laps liigub** tavalisest **vähem**\n- **tugev peavalu, nägemishäired või äkiline turse** näos, kätes või jalgades (võimalikud preeklampsia märgid)\n- **tugev või ühepoolne kõhuvalu** või **palavik**\n- **sügelus**, eriti peopesadel ja jalataldadel või öösel tugevnev sügelus (see võib olla raseduse ajal tekkiva maksahaiguse märk, mida tuleb kontrollida)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Kondoomid",
+      "aliases": [
+        "kondoom",
+        "kondoomid",
+        "välimine kondoom",
+        "kummi",
+        "barjäärimeetod"
+      ],
+      "glance": "Kondoomid on barjäärimeetod – ja ainus rasestumisvastane vahend, mis kaitseb ka sugulisel teel levivate haiguste eest.",
+      "overview": "Kondoom on õhuke barjäär – tavaliselt lateksist või lateksiallergikutele mõeldud plastist –, mida kantakse seksi ajal peenisel. Selle toimimine on lihtne: see takistab sperma sattumist tuppe.\n\nKondoomid eristuvad teistest rasestumisvastastest vahenditest selle poolest, et need on **ainus meetod, mis kaitseb ka sugulisel teel levivate nakkuste (STI-de), sealhulgas HIV-i eest.** Seetõttu kasutatakse neid sageli koos mõne teise meetodiga – üks raseduse vältimiseks, mõlemad koos nakkuste eest kaitsmiseks.\n\nKui kondoome kasutatakse iga kord õigesti, on nende tõhusus raseduse vältimisel umbes 98%. Tavalise kasutamise korral – kui neid mõnikord kasutatakse valesti või mitte iga kord – langeb see umbes 82%-ni. Just õige ja järjepidev kasutamine teebki vahe.",
+      "deep": "Kuna kondoome kasutatakse pigem hetkel kui eelnevalt, sõltub nende tegelik tõhusus suuresti järjepidevast ja õigest kasutamisest. Sisemised kondoomid (mida kantakse tupe sees) on veel üks barjäärimeetod. Erinevalt enamikust meetoditest ei vaja kondoomid retsepti ja on laialdaselt kättesaadavad, ning just nende kahepoolne roll – kaitse raseduse ja sugulisel teel levivate haiguste eest – on põhjus, miks neid turvalisema seksi teemalistes vestlustes nii sageli mainitakse.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Nõusolek ja austus",
+      "aliases": [
+        "nõusolek",
+        "austa tema piire",
+        "entusiastlik nõusolek",
+        "kehaline autonoomia"
+      ],
+      "glance": "Nõusolek on selge, vabatahtlik ja innukas „jah“ – iga kord, ning seda võib igal hetkel tagasi võtta.",
+      "overview": "Austus algab tema õigusest otsustada oma keha üle – alati. Nõusolek intiimsuseks tähendab vabalt antud, teadlikku ja innukat **„jah“**. Vaikimine ei ole nõusolek. Vastumeelne „olgu pealegi“ ei ole nõusolek. Keegi, kes magab, on väga purjus või surve all, ei saa tegelikult nõusolekut anda. Ja „jah“ ühele asjale või ühel päeval ei ole „jah“ kõigele ega järgmisele korrale.\n\nNõusoleku võib igal hetkel tagasi võtta ning „lõpeta“ või „täna mitte“ on täielik vastus, mis ei vaja põhjendust. Survestamine, süütunde tekitamine, mossitamine, kuni ta järele annab, või seksi kohtlemine millenagi, mis sulle võlgnetakse, ei ole okei – suhe ei ole võlg.",
+      "deep": "Kuidas austus praktikas välja näeb:\n\n- **Küsi ja uuri üle.** „Kas see sobib?“ – ja pane tähele, kuidas ta reageerib, nii sõnade kui ka kehaga.\n- **Võta „ei“ vastu väärikalt.** Ei mingit mossitamist, survet ega karistamist. Tema vastusega on asi otsustatud.\n- **Innukus on oluline.** Kui ta tundub ebakindel, kõhklev või lihtsalt läheb kaasa, peatu ja küsi.\n- **Tema keha, tema otsus** – intiimsuse, rasestumisvastaste vahendite, raseduse, tema tervise, välimuse ja valikute osas. Sul on ühises elus sõnaõigus, kuid mitte kunagi vetoõigust tema keha üle.\n- **Austus on igapäevane.** See, kuidas sa temaga räägid, temast räägid ja kuidas suhtud tema piiridesse väikestes asjades, on alus, millel kõik muu põhineb.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Rasestumisvastased vahendid",
+      "aliases": [
+        "rasestumisvastased vahendid",
+        "rasestumisvastane kaitse",
+        "kontratseptsioon",
+        "pereplaneerimine",
+        "rasestumise vältimine",
+        "kaitsevahendid"
+      ],
+      "glance": "Rasestumisvastased vahendid on erinevad viisid raseduse vältimiseks – ja neid on palju, millest valida.",
+      "overview": "Rasestumisvastased vahendid – mida mõnikord nimetatakse ka rasestumisvastasteks meetoditeks – on raseduse vältimiseks kasutatavad meetodid. Neid on palju ja need toimivad erinevalt: mõned põhinevad hormoonidel, mõned on barjäärimeetodid, mõned paigaldatakse emakasse ja mõned põhinevad tsükli jälgimisel.\n\nMeetodi tõhusus sõltub suuresti sellest, kuidas seda kasutatakse. Mõned meetodid – nagu implantaat ja spiraalid – on „paigalda ja unusta“ tüüpi ning nende tõhusus on üle 99%. Teised, nagu näiteks pillid või kondoomid, on väga tõhusad, kui neid kasutatakse täiuslikult, kuid igapäevases, tavapärases kasutuses on nende tõhusus veidi väiksem, sest pilli on kergem unustada või kondoomi valesti kasutada.\n\nÜks asi, mida tasub teada: **ainult kondoomid kaitsevad ka sugulisel teel levivate nakkuste (STI) eest**. Muud meetodid aitavad vältida rasedust, kuid mitte nakatumist, mistõttu kasutatakse kondoome mõnikord koos mõne teise meetodiga.\n\nÜhtset „parimat” meetodit ei ole – õige valik sõltub sinu tervisest, kehaehitusest ja sellest, mis sobib sinu elustiiliga. Perearst või seksuaaltervise kliinik saab sinuga võimalusi läbi arutada ja valiku tegemisel aidata.",
+      "deep": "Kuna meetodid erinevad üksteisest nii palju, on kasulik mõelda, mis on sinu jaoks oluline: kui tõhus see on, kas see eeldab igapäevast meelespidamist, kui kaua see kestab, kas soovid hormoone kasutada või mitte ning kas su olukorras on oluline kaitse sugulisel teel levivate haiguste eest. Paljud inimesed vahetavad elu jooksul meetodeid vastavalt oma muutuvatele vajadustele. Käesolev teabebaas kirjeldab, kuidas levinumad meetodid toimivad, et valikute tegemine oleks selgem – kuid otsuse tegemine, retsepti väljakirjutamine või sobiva vahendi paigaldamine on midagi, mida tuleb teha koos arstiga.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Rasestumisvastased vahendid ja kehakaal",
+      "aliases": [
+        "kas pill paneb kaalus juurde võtma",
+        "pill ja kaalutõus",
+        "rasestumisvastased vahendid ja kaalutõus",
+        "kaalutõus rasestumisvastaste tablettide tõttu",
+        "antibeebipill kaalutõus",
+        "rasestumisvastane süst ja kaalutõus",
+        "implantaat ja kaalutõus"
+      ],
+      "glance": "Puuduvad tõendid, et kombineeritud rasestumisvastased tabletid põhjustaksid kaalutõusu, kuid rasestumisvastane süst võib seda teha. See sõltub meetodist.",
+      "overview": "Kas rasestumisvastane vahend paneb kaalus juurde võtma? See on väga sage küsimus. Aus vastus on, et see sõltub meetodist.\n\nKombineeritud rasestumisvastaste tablettide puhul on tõendid rahustavad: puuduvad tõendid, et nende võtmine põhjustaks kaalutõusu. Sama kehtib ka rasestumisvastase plaastri ja tuperõnga kohta.\n\nRasestumisvastane süst on teistsugune. Kaalutõus on märgitud selle üheks sagedaseks kõrvaltoimeks, samuti menstruatsiooni muutused.\n\nAinult progestogeeni sisaldava tableti (mida nimetatakse vahel minipilliks) ja rasestumisvastase implantaadi puhul on mõned teatanud kaalutõusust. Siiski ei ole piisavalt tõendeid, et öelda, kas põhjus on just selles meetodis.\n\nKaal on vaid üks osa tervikpildist. Igal meetodil on oma võimalike kõrvaltoimete ja riskide loetelu, ning rasestumisvastase vahendi valimine tähendab sellise leidmist, mis sobib sinu kehale, tervisele ja elule. Apteeker, perearst, õde või seksuaaltervise kliinik saab sinuga võimalused läbi arutada.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui kõrvaltoimed, sealhulgas kehakaalu muutused, on sulle probleemiks, räägi sellest apteekri, perearsti, õega või seksuaaltervise kliinikus. Kombineeritud tableti, plaastri või rõnga puhul võivad mõned kõrvaltoimed tekkida kasutamise alguses. Kui need häirivad sind ka umbes 3 kuu pärast, võib arst arutada sinuga teise tableti või mõne muu rasestumisvastase vahendi kasutamist.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Rasestumisvastane implantaat",
+      "aliases": [
+        "rasestumisvastane implantaat",
+        "implantaat",
+        "Nexplanon",
+        "hormoonkapsel",
+        "implantaat käsivarres",
+        "implant"
+      ],
+      "glance": "Implantaat on õlavarre piirkonda paigaldatud väike varras, mis vabastab hormooni mõne aasta jooksul.",
+      "overview": "Rasestumisvastane implantaat on väike, painduv varras – umbes tikutoosi tiku suurune –, mille paigaldab väljaõppinud meditsiinitöötaja õlavarre naha alla. Pärast paigaldamist vabastab see ühtlaselt hormooni progestogeeni ja toimib kuni umbes kolm aastat.\n\nSee hoiab rasedust ära peamiselt sellega, et takistab munasarjadel munaraku vabanemist (ovulatsiooni) ning muudab emakakaela lima paksemaks, nii et seemnerakud ei pääse läbi. Kuna iga päev ei pea midagi meeles pidama, on see üks nn „paigalda ja unusta“ meetoditest.\n\nJust seetõttu on see ka üks kõige usaldusväärsemaid valikuid: implantaadi tõhusus on üle 99% ning see ei muutu peaaegu üldse, olenemata sellest, kas kasutus on ideaalne või tavapärane. Nagu teisedki hormonaalsed meetodid, ei kaitse see sugulisel teel levivate nakkuste eest.",
+      "deep": "Implantaat on pikaajalise toimega pöörduv rasestumisvastane meetod – see toimib kuni eemaldamiseni ja viljakus taastub pärast eemaldamist. Implantaadi paigaldamine ja eemaldamine on kiired protseduurid, mida teostab arst, kes selgitab ka, kellele see sobib ja millised on selle kõrvaltoimed. Käesolev artikkel selgitab, mis see on ja kuidas see toimib; otsus implantaadi paigaldamise kohta tuleb teha pärast arutelu perearsti, õe või seksuaaltervise kliinikuga.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Sinu tsükkel ja heaolu",
+      "aliases": [
+        "heaolu",
+        "tsükkel ja tervis",
+        "menstruaaltsükkel ja tervis",
+        "menstruatsioon ja tervis",
+        "elutähtis näitaja"
+      ],
+      "glance": "Sinu tsükkel on natuke nagu igakuine tervisekontroll – selle muutusi tasub tähele panna.",
+      "overview": "Sinu menstruaaltsükkel ei ole ülejäänud tervisest eraldi – see on sellega seotud. Sinu jaoks regulaarne tsükkel on üldjuhul märk, et su keha toimib nii, nagu peab. Seetõttu peavad mõned menstruatsiooni omamoodi igakuiseks signaaliks üldise heaolu kohta.\n\nSelles mängib rolli igapäevaelu. Üks näide on kehakaal: märkimisväärne ala- või ülekaal võib mõjutada ovulatsiooni juhtivaid hormoone, mis võib muuta menstruatsiooni ebaregulaarseks. See toimib mõlemas suunas – põhiasjade eest hoolitsemine, näiteks tasakaalustatud toitumine ja liikumine, toetab tsüklit, ning ühtlane tsükkel on märk, et need asjad on mõistlikus tasakaalus.\n\nAsi ei ole „täiusliku“ tsükli tagaajamises ega enda süüdistamises muutuste pärast. Lihtsalt oma tsüklile õrnalt tähelepanu pöörates saad kasuliku pildi sellest, kuidas sul läheb – ja märguande pöörduda arsti poole, kui midagi muutub.",
+      "deep": null,
+      "when_to_see_doctor": "- Pöördu perearsti poole, kui su menstruatsioon muutub ebaregulaarseks, lakkab või muutub sinu jaoks ebatavalisel viisil – püsivad muutused võivad mõnikord viidata millelegi, mida tasub uurida.\n- Samuti tasub sellest rääkida, kui menstruatsiooniga seotud probleemid mõjutavad su igapäevaelu, et saaksid abi, selle asemel et nendega lihtsalt leppida.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Majanduslik vägivald",
+      "aliases": [
+        "majanduslik vägivald",
+        "rahaline vägivald",
+        "raha kontrollimine",
+        "rahaasjade kontrollimine",
+        "võlg minu nimel",
+        "majanduslik sõltuvus"
+      ],
+      "glance": "Majanduslik vägivald tähendab teise inimese ligipääsu kontrollimist rahale, tööle või ressurssidele – seda käsitletakse vägivalla ühe vormina.",
+      "overview": "Majanduslik vägivald tähendab, et keegi kontrollib teise inimese ligipääsu rahale ja asjadele, mida raha eest saab. See on kontrolliva käitumise vorm ja esineb sageli koos teiste vägivalla liikidega.\n\nSee võib tähendada, et kõiki kulutusi kontrollitakse või pead aru andma iga sendi kohta, su palk või toetused võetakse ära, sinu nimele tehakse võlgu, pangakontosid või dokumente hoitakse sinu eest peidus või sind takistatakse töötamast või õppimast. Kuna see võib jätta inimese ilma vahenditeta, et lahkuda või igapäevaga toime tulla, on see üks viise, kuidas vägivald võib tunduda lõksuna.\n\nKui osa sellest tundub tuttav, ei tähenda see, et sa „ei oska rahaga ümber käia“ või oled ise süüdi. Teise inimese ressursside kontrollimine on selle teise inimese valik – ja seda käsitletakse vägivallana.",
+      "deep": null,
+      "when_to_see_doctor": "- Ka vägivallaohvrite abiteenused saavad selles aidata – mitte ainult turvalisuse, vaid ka praktiliste ja rahaliste sammudega, konfidentsiaalselt ja tasuta (Itaalias saab abiliin **1522** suunata sind kohaliku abi juurde).\n- Turvaplaan võib hõlmata seda, et kindlustad vaikselt ligipääsu osale rahast, olulistele dokumentidele ja tähtsatele telefoninumbritele.",
+      "red_flags": "- Kui oled **vahetus ohus**, võta kohe ühendust hädaabiga: **112** ELis (sh Itaalias), **999** Ühendkuningriigis, **911** USAs ja Kanadas.\n- Itaalias saab numbril **1522** – tasuta, 24 tundi ööpäevas, anonüümselt ja mitmes keeles – abi telefoni või vestluse (chat) kaudu."
+    },
+    "ectopic-pregnancy": {
+      "title": "Emakaväline rasedus",
+      "aliases": [
+        "emakaväline rasedus",
+        "ektoopiline rasedus",
+        "munajuharasedus",
+        "emakaväline"
+      ],
+      "glance": "Emakaväline rasedus areneb väljaspool emakat – see ei saa jätkuda ja vajab kiiret arstiabi.",
+      "overview": "Emakaväline rasedus tähendab, et viljastatud munarakk kinnitub väljaspool emakat, enamasti ühes munajuhas. Kahjuks ei saa sellises kohas olev rasedus areneda lapseks ega saa seda emakasse üle viia – seetõttu vajab see alati ravi.\n\nSümptomid tekivad tavaliselt umbes 4. ja 12. nädala vahel ning võivad olla näiteks valu alakõhus ühel pool, verejooks tupest või pruun vesine eritis, valu õla tipus või ebamugavustunne urineerimisel või roojamisel. Sümptomite kombinatsioon on erinev ja mõnda neist võib kergesti pidada millekski tühiseks, mistõttu on oluline lasta need üle vaadata.\n\nSee on harv olukord, kuid võib olla tõsine, seega ei ole see midagi, mida ära oodata. Kui küsid nõu varakult, saab olukorra ohutult lahendada.",
+      "deep": null,
+      "when_to_see_doctor": "- Võta ühendust perearsti või **valvearstiga**, kui sul on mitu neist sümptomitest **ja sa võid olla rase** – isegi kui sa ei ole saanud positiivset rasedustesti tulemust. On oluline küsida nõu kohe.",
+      "red_flags": "- Helista numbrile **{{emergency}} või mine erakorralise meditsiini osakonda**, kui sul on **äkiline, terav ja tugev kõhuvalu**, sul on **tugev pearinglus või minestamistunne**, oled **väga kahvatu** või sul on koos nendega iiveldus. See võib tähendada, et munajuha on rebenenud – see on meditsiiniline hädaolukord, mis vajab kiiret ravi."
+    },
+    "emergency-contraception": {
+      "title": "Erakorraline rasestumisvastane kaitse",
+      "aliases": [
+        "erakorraline kontratseptsioon",
+        "erakorraline rasestumisvastane tablett",
+        "järgmise päeva pill",
+        "järgmise hommiku pill",
+        "Escapelle",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "Erakorraline rasestumisvastane kaitse võib ära hoida raseduse pärast kaitsmata seksi – ja mida varem, seda parem.",
+      "overview": "Erakorraline rasestumisvastane kaitse on viis raseduse ärahoidmiseks pärast kaitsmata seksi või siis, kui su tavaline meetod võis läbi kukkuda (unustatud tablett, katki läinud kondoom). Võimalusi on kaks ja mõlema puhul on aeg oluline.\n\nEsimene on **erakorraline rasestumisvastane tablett**. Neid on kahte tüüpi: ühte (levonorgestreel) võib võtta kuni 3 päeva – 72 tundi – pärast seksi, teist (ulipristaalatsetaat, kaubanimi ellaOne) kuni 5 päeva – 120 tundi. Teine võimalus on **vaske sisaldav emakasisene vahend (vaskspiraal)**, mille arst saab paigaldada kuni 5 päeva jooksul pärast seksi; see on kõige tõhusam erakorraline rasestumisvastane meetod ja soovi korral võib see jääda paigale ka edasiseks rasestumisvastaseks kaitseks.\n\nKõigi nende puhul **toimivad need tavaliselt seda paremini, mida varem neid kasutad** – seega tasub tegutseda kiiresti, mitte oodata. Erakorralist rasestumisvastast kaitset saab apteegist, perearstilt, seksuaaltervise kliinikust või ilma etteregistreerimiseta vastuvõtult, sageli tasuta.",
+      "deep": null,
+      "when_to_see_doctor": "- Kuna aeg on oluline, ära oota – apteeker saab sulle erakorralise rasestumisvastase tableti kiiresti anda ning seksuaaltervise kliinikus või perearsti juures saab paigaldada vaskspiraali.\n- Erakorraline rasestumisvastane kaitse hoiab ära rasedust, mitte nakkust. Kui on vähimgi võimalus sugulisel teel leviva nakkuse saamiseks, oskab seksuaaltervise kliinik anda nõu testimise kohta.\n- Kui su menstruatsioon hilineb seejärel rohkem kui paar päeva või on tavalisest väga erinev, tasub teha rasedustest ja rääkida arstiga.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometrioos",
+      "aliases": [
+        "endometrioos",
+        "endo",
+        "endometrioosi sümptomid",
+        "tugev menstruatsioonivalu"
+      ],
+      "glance": "Endometrioos on haigus, mille korral emaka limaskestaga sarnane kude kasvab väljaspool emakat, põhjustades sageli valu.",
+      "overview": "Endometrioos on pikaajaline haigus, mille korral emaka limaskestaga sarnased rakud kasvavad keha teistes osades, näiteks munasarjade ümbruses, vaagnas või soolel. See on sage – hinnanguliselt on see kogu maailmas umbes 1 naisel 10-st viljakas eas naisest.\n\nKuna see kude käitub natuke nagu emaka limaskest, võib see põhjustada põletikku ja aja jooksul armkoe teket. Kõige sagedasem sümptom on valu: sageli tugev menstruatsioonivalu, aga ka vaagna- või alaseljavalu muudel aegadel, valu seksi ajal või pärast seda ning valu urineerimisel või roojamisel. Sagedased on ka väga tugevad menstruatsioonid, sügav väsimus, madal meeleolu ja raskused rasestumisega. Sümptomid on väga erinevad – mõnel on tugev valu, teisel vähe.\n\nEndometrioosi mõistetakse sageli valesti ja selle äratundmiseni võib kuluda aastaid, osaliselt seetõttu, et menstruatsioonivalu peetakse nii sageli „normaalseks“. Tugevat valu, mis häirib su elu, ei pea sa lihtsalt taluma – seda tasub võtta tõsiselt.",
+      "deep": "Endometrioosi täpne põhjus ei ole teada ja praegu ei saa seda välja ravida – kuid ravi aitab sümptomeid kontrolli all hoida: võimalused ulatuvad ravimitest mõne inimese puhul operatsioonini, lisaks abi füüsilise ja emotsionaalse koormusega toimetulekuks. Üks suurimaid probleeme on viivitus: diagnoosini jõudmine võib võtta keskmiselt mitu aastat, mõnikord palju rohkemgi. Seepärast võib olla nii oluline pidada oma sümptomite kohta selget ülevaadet ja pöörduda uuesti arsti poole, kui sind ei kuulata.",
+      "when_to_see_doctor": "Tasub pöörduda perearsti poole, kui:\n\n- sul on tugev menstruatsioonivalu, mis takistab sul tavapäraseid tegevusi tegemast\n- su menstruatsioon on väga tugev – näiteks pead vahetama hügieenisidet või tampooni iga 1–2 tunni järel\n- sul on püsiv valu vaagnas või alaseljas, valu seksi ajal või pärast seda või valu urineerimisel või roojamisel\n- sul on raskusi rasestumisega\n- juba saadud ravi ei ole aidanud või su sümptomid on halvenenud\n\nKuna endometrioosi diagnoosimine võib aega võtta, on täiesti okei minna uuesti arsti juurde, kui su sümptomeid ei võeta tõsiselt – selge ülevaade su valust aja jooksul aitab. Kui valu või tugev veritsus mõjutab ka su meeleolu, räägi sellest perearstile; see on osa tervikpildist ja abi on olemas.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Östrogeen",
+      "aliases": [
+        "östrogeen",
+        "estrogeen",
+        "östradiool"
+      ],
+      "glance": "Östrogeen on oluline hormoon, mis aitab igal tsüklil keha võimalikuks raseduseks ette valmistada.",
+      "overview": "Östrogeen on üks peamisi hormoone, mis mõjutavad menstruaaltsüklit. Tsükli esimesel poolel (follikulaarfaasis) tõuseb selle tase, kui munasarjas asuv folliikul küpseb. See tõus muudab emaka limaskesta paksemaks ja viib ovulatsioonini.\n\nÖstrogeen mõjutab ka asju, mida võid igapäevaselt märgata – energiataset, meeleolu ja emakakaela lima muutusi viljakate päevade ajal. Pärast ovulatsiooni langeb östrogeeni tase ja muutub seejärel uuesti, toimides tsükli teisel poolel koos teise hormooniga, progesterooniga.\n\nHormoonitasemed kõiguvad loomulikult iga tsükli jooksul ning muutuvad ka eluetappide lõikes. See on normaalne – see on rütm, mille järgi su keha toimib, mitte midagi, mida tuleks „parandada”.",
+      "deep": "Östrogeen ei ole üksik aine, vaid seotud hormoonide rühm (tsükli jooksul on kõige aktiivsem östradiool). Suurem osa sellest toodetakse munasarjades, kasvavas folliikulis. Selle tsükliline tõus ja langus – koos progesterooni ning aju signaalhormoonidega LH ja FSH – ongi see, mis määrab tsükli faasid. Kuna östrogeen mõjutab paljusid süsteeme, võivad selle loomulikud muutused ilmneda väikeste märkide kaudu kogu kuu jooksul; nende jälgimine aitab sul õppida tundma omaenda rütmi, selle asemel et võrrelda seda „keskmisega“.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Liikumine ja sinu tsükkel",
+      "aliases": [
+        "trenn",
+        "sport",
+        "kehaline aktiivsus",
+        "treenimine",
+        "liikumine",
+        "trenn menstruatsiooni ajal",
+        "sport ja menstruatsioon"
+      ],
+      "glance": "Võid kogu oma tsükli vältel aktiivne olla – ja regulaarne liikumine võib leevendada krampe ja PMS-i sümptomeid.",
+      "overview": "Võid olla füüsiliselt aktiivne tsükli igas etapis. Mõned märkavad, et teatud aegadel kuus on neil rohkem energiat ja nad suudavad veidi rohkem pingutada, teistel aegadel vähem – mõlemad on normaalsed ja kumbki ei ole põhjus liikumine lõpetada.\n\nRegulaarne liikumine võib tegelikult aidata mõne menstruatsiooniga seotud sümptomi puhul. Neil, kes regulaarselt treenivad, on sageli vähem valulikke krampe, ning aktiivsus võib leevendada ka premenstruaalseid sümptomeid (PMS). Väiksema energiaga päevadel loeb ka rahulikum liikumine – see ei pea olema intensiivne, et sellest kasu oleks.\n\nPole vaja oma elu tsükli järgi sättida ja „õiget“ viisi liikumiseks ei ole. Kui paned tähele oma energiamustrit kuu jooksul, aitab see lihtsalt planeerida nii, et see tundub hea.",
+      "deep": null,
+      "when_to_see_doctor": "- Väga intensiivne treening või nii palju treenimist, et kehal jääb energiast puudu, võib muuta menstruatsiooni ebaregulaarseks või selle hoopis peatada. Regulaarne tsükkel on üldjuhul märk, et kõik toimib hästi, seega tasub pöörduda perearsti poole, kui menstruatsioon muutub ebaregulaarseks või lakkab – see võib aja jooksul olla seotud luude ja hormoonide tervisega.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Kehaline tegevus raseduse ajal",
+      "aliases": [
+        "trenn raseduse ajal",
+        "sport raseduse ajal",
+        "liikumine raseduse ajal",
+        "aktiivne rasedus",
+        "rasedate võimlemine",
+        "vormis püsimine raseduse ajal"
+      ],
+      "glance": "Enamiku raseduste puhul on aktiivne olemine ohutu ja kasulik – tegutse mõõdukalt, end ära kurnamata.",
+      "overview": "Raseduse ajal aktiivne olemine on sulle kasulik ega ole lapsele ohtlik – tegelikult aitab hea füüsiline vorm sul toime tulla eelseisvate muutustega ja sünnitusega. Sa ei pea hakkama tegema midagi intensiivset; oma tavapäraste igapäevaste tegevuste jätkamine on hea algus, kui see sulle mugav tundub.\n\nLihtne praktiline reegel: peaksid suutma liikudes **vestlust pidada**. Kui oled liiga hingetu, et rääkida, vähenda tempot. Enamikule inimestele sobivad kerged tegevused, nagu kõndimine, ujumine, rasedate vee-võimlemise tunnid ja rasedate jooga. Kui sa pole varem aktiivne olnud, pole praegu õige aeg alustada uut pingutavat treeningkava – alusta pigem järk-järgult.\n\nMõningaid tegevusi on parem vältida või nendega tuleb olla ettevaatlik – näiteks selili lamamine alates umbes 16. rasedusnädalast, kontaktspordialad, sukeldumine ja kõik tegevused, millega kaasneb tõeline kukkumise oht.",
+      "deep": null,
+      "when_to_see_doctor": "- Räägi oma **ämmaemandaga** enne, kui alustad uut aeroobset treeningkava, või kui sul on mõni terviseprobleem või rasedusega seotud mure.\n- **Lõpeta ja küsi nõu**, kui treeningu ajal tunned end halvasti, sul on pearinglus või tugev hingeldus või tekib mis tahes valu, veritsus või emakakokkutõmbed.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Viljakusperiood",
+      "aliases": [
+        "viljakusperiood",
+        "viljakad päevad",
+        "kõige viljakamad päevad"
+      ],
+      "glance": "Viljakusperiood on iga tsükli jooksul need mõned päevad, mil seks võib viia raseduseni.",
+      "overview": "Viljakusperiood on tsükli lühike ajavahemik, mil rasedus on võimalik. See tekib kahe ajaliselt mitte täielikult kokku langeva protsessi tõttu: munarakk on viljastatav vaid umbes 12–24 tundi pärast vabanemist, kuid sperma võib kehas ellu jääda mitu päeva – kuni umbes nädala –, oodates munarakku.\n\nKokkuvõttes tähendab see, et viljakusperiood algab paar päeva enne ovulatsiooni ja lõpeb umbes päev pärast seda. Praktikas oled kõige viljakam 2–3 päeva enne ovulatsiooni ja ovulatsiooni päeval, sest sperma võib seal juba olla, kui munarakk sinna jõuab.\n\nKuna ovulatsioon võib tsüklist tsüklisse nihkuda, muutub ka viljakusperiood. Seetõttu peetakse seda tavaliselt pigem päevade vahemikuks kui üheks kindlaks kuupäevaks ning seetõttu on märkide jälgimine mitme tsükli vältel usaldusväärsem kui ühe kalendrilise arvutuse peale lootmine.",
+      "deep": "Täpsed päevad erinevad inimeseti ja kuust kuusse, seega on viljakusperioodi kõige parem hinnata keha enda signaalide järgi, mitte kindla valemi abil. Emakakaela lima muutused näitavad viljakusperioodi algust ovulatsiooni lähenedes ning puhkeoleku kehatemperatuuri tõus kinnitab – tagantjärele –, et ovulatsioon on möödas ja viljakusperiood lõppenud. Ovulatsioonitestid toimivad sammu võrra varem, tuvastades luteiniseeriva hormooni (LH) järsu tõusu, mis toimub vahetult enne munaraku vabanemist.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Esimene menstruatsioon",
+      "aliases": [
+        "esimene menstruatsioon",
+        "menarhe",
+        "esimesed päevad",
+        "menstruatsiooni algus",
+        "päevad algasid",
+        "millal päevad algavad"
+      ],
+      "glance": "Esimene menstruatsioon algab tavaliselt umbes 12-aastaselt – normaalne on, kui see algab vahemikus 8–17 aastat.",
+      "overview": "Esimene menstruatsioon – mida nimetatakse ka menarheks – on hetk, mil menstruaaltsükkel algab esimest korda. Enamikul algab see umbes 12-aastaselt, kuid normaalne on ükskõik milline vanus umbes 8 ja 17 aasta vahel. Sageli algab see umbes kaks aastat pärast seda, kui rinnad hakkavad arenema.\n\nTavaliselt on enne seda märke: kaenla- ja häbemekarvad hakkavad kasvama ning mõni kuu varem võib tulla veidi läbipaistvat või valget tupevoolust. Kui tead, et need on tulemas, võib esimene menstruatsioon tunduda vähem ootamatu.\n\nAlguses on menstruatsioonid sageli ebaregulaarsed – vahed võivad olla pikad või lühikesed ning kehal võib kuluda mitu kuud, isegi paar aastat, enne kui rütm ühtlasemaks muutub. Kui see juhtub, tulevad menstruatsioonid tavaliselt umbes iga 23–35 päeva tagant ja kestavad umbes 2–7 päeva. Alguses on ebaregulaarsus normaalne ega ole põhjus muretsemiseks.",
+      "deep": null,
+      "when_to_see_doctor": "- Pöördu perearsti poole, kui menstruatsioon **ei ole alanud 15-aastaseks saamiseks** või **13-aastaseks saamiseks, kui puberteedi muid märke ei ole** (näiteks rindade areng või karvakasv kehal). See on lihtsalt selleks, et kontrollida, kas areng kulgeb ootuspäraselt – tavaliselt on kõik korras.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Foolhape ja vitamiinid raseduse ajal",
+      "aliases": [
+        "foolhape",
+        "folaat",
+        "D-vitamiin raseduse ajal",
+        "rasedusvitamiinid",
+        "toidulisandid raseduse ajal"
+      ],
+      "glance": "Foolhape enne rasedust ja raseduse alguses aitab kaitseda last — lisaks tuleks võtta iga päev D-vitamiini.",
+      "overview": "Raseduse ajal on kaks toidulisandit tõesti olulised ning NHS soovitab neid mõlemat.\n\n**Foolhape** on kõige tähtsam. Kui võtad iga päev 400 mikrogrammi foolhapet – soovitavalt juba enne rasestumist (umbes kolm kuud varem) ja kuni esimese trimestri lõpuni ehk 12. nädalani –, aitab see kaitsta last närvitoru defektide, näiteks lõhestunud selgroo (spina bifida) eest. Kuna see mõjub nii varakult, on see üks väheseid asju, mida tasub alustada juba *enne* rasedust, kui püüad rasestuda.\n\nTeine on **D-vitamiin**: kogu raseduse ja imetamise ajal soovitatakse võtta iga päev 10 mikrogrammi, et toetada lapse luid ja arengut.\n\nPeale nende kahe katab tervislik ja mitmekesine toitumine enamiku vajadustest – palju lisatoidulisandeid pole vaja. Üks, millest tuleks hoiduda, on **A-vitamiin** (retinool): ära võta seda sisaldavaid toidulisandeid ja väldi maksa, sest liiga palju A-vitamiini võib lapsele kahju teha.",
+      "deep": null,
+      "when_to_see_doctor": "- **Perearst, ämmaemand või apteeker** aitab sul valida sobivad toidulisandid, ning mõnel soovitatakse võtta **suuremat foolhappe annust** (näiteks diabeedi, kõrgema kehamassiindeksi, teatud ravimite või varasema närvitoru defektiga raseduse korral) – seega tasub küsida, eriti enne rasedust või raseduse alguses.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Follikulaarfaas",
+      "aliases": [
+        "follikulaarfaas",
+        "tsükli esimene pool"
+      ],
+      "glance": "Follikulaarfaas on tsükli esimene pool, mil munarakk küpseb ja emaka limaskest pakseneb.",
+      "overview": "Follikulaarfaas on tsükli esimene osa. See algab menstruatsiooni esimesel päeval ja kestab kuni ovulatsioonini. Nimi tuleneb sõnast folliikul – see on munasarjas asuv väike vedelikuga täidetud põiekene, milles munarakk sel ajal asub ja kasvab.\n\nSelle faasi jooksul östrogeeni tase tõuseb. Tõusval östrogeenil on kaks peamist mõju: see aitab munasarjas oleval folliikulil küpseda ning paksendab emaka limaskesta, valmistades keha ette juhuks, kui tsükli hilisemas osas peaks algama rasedus.\n\nKuna östrogeeni tase tõuseb, märkavad mõned viljakate päevade lähenedes rohkem energiat või muutusi emakakaela limas. Igaühe kogemus on erinev ja midagi sellest pole vaja „juhtida“ – see on lihtsalt sinu tsükli esimene pool, mis teeb oma tööd.",
+      "deep": "Follikulaarfaasi pikkus võib tsüklist tsüklisse erineda, ja see on üks põhjus, miks terved tsüklid erinevad inimeseti ja kuust kuusse. Faas lõpeb, kui tõusev östrogeen aitab käivitada munaraku vabanemise (ovulatsiooni). Kuna selle viimased päevad viivad ovulatsioonini, algab just siis viljakusperiood – seepärast on follikulaarfaasi lõpp oluline kõigile, kes oma viljakust jälgivad.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Toidud, mida raseduse ajal tuleks vältida",
+      "aliases": [
+        "keelatud toidud raseduse ajal",
+        "toitumine raseduse ajal",
+        "mida rasedana mitte süüa",
+        "kofeiin raseduse ajal",
+        "listeria",
+        "listerioos"
+      ],
+      "glance": "Enamik toiduaineid on raseduse ajal lubatud – mõningaid tasub siiski vältida ja kofeiini tarbimist on soovitatav piirata.",
+      "overview": "Hea uudis on see, et enamik toite on raseduse ajal täiesti sobivad – vaid väheseid tasub vältida või nendega ettevaatlik olla, peamiselt selleks, et hoiduda bakteritest nagu listeria või teatud vitamiinide liigsest kogusest. Kui tead seda lühikest nimekirja, võid ülejäänu pärast rahulik olla.\n\nNHS soovitab olla ettevaatlik järgmistega:\n\n- **Mõned juustud** – valgehallitusega pehmed juustud, nagu brie ja camembert, ning pehmed sinihallitusjuustud, välja arvatud juhul, kui neid on kuumutatud läbini tuliseks; ning kõik **pastöriseerimata** piimast valmistatud tooted.\n- **Toores või pooltoores liha**, kuivatatud või soolatud toorlihatooted (nt salaami), **pasteet** ja **maks** (mis sisaldab väga palju A-vitamiini).\n- **Toored või vedelad munad**, välja arvatud juhul, kui neil on British Lioni märk.\n- **Mõned kalad** – väldi haid, mõõkkala ja marliini, piira tuunikala ning söö rasvast kala mitte rohkem kui kaks portsjonit nädalas.\n- **Kofeiin** – hoia see alla umbes 200 mg päevas (ligikaudu kaks kruusi lahustuvat kohvi), arvestades ka teed, koolat, energiajooke ja šokolaadi.",
+      "deep": null,
+      "when_to_see_doctor": "- Tegemist on üldiste soovitustega, mitte rangete toitumisjuhistega – kui sul on küsimusi selle kohta, mis on sinu jaoks ohutu, või kui sul on konkreetseid toitumisvajadusi, võid seda oma **ämmaemandaga** arutada.\n- Kui oled söönud midagi, mis on „vältida“ nimekirjas, ära paanitse; räägi sellest oma ämmaemandale, kui oled mures või tunned end halvasti.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Folliikuleid stimuleeriv hormoon (FSH)",
+      "aliases": [
+        "FSH",
+        "folliikuleid stimuleeriv hormoon",
+        "follitropiin",
+        "FSH hormoon"
+      ],
+      "glance": "FSH on aju hormoon, mis paneb munasarjade folliikulid iga tsükli alguses kasvama.",
+      "overview": "FSH – folliikuleid stimuleeriv hormoon – on üks neist signaalhormoonidest, mis panevad tsükli käima. Seda toodab väike nääre ajus (hüpofüüs) ja, nagu nimigi ütleb, stimuleerib see folliikuleid: munasarjas asuvaid pisikesi vedelikuga täidetud põiekesi, millest igaühes on üks munarakk.\n\nTsükli alguses paneb FSH rühma neid folliikuleid kasvama. Arenedes eritab folliikul üha rohkem östrogeeni, mis omakorda paksendab emaka limaskesta, et see oleks valmis võimalikuks raseduseks. Tavaliselt muutub üks folliikul juhtivaks ja areneb edasi ovulatsioonini.\n\nFSH tase tõuseb ja langeb tsükli normaalse vaheldumise osana. FSH-d ei ole otseselt tunda – see töötab vaikselt taustal ja valmistab ette follikulaarfaasi nähtavamaid muutusi.",
+      "deep": "FSH toimib koos luteiniseeriva hormooniga (LH); mõlemad vabanevad aju hüpofüüsist ja koos juhivad nad munasarjade tsüklit. FSH juhib tsükli esimest poolt, soodustades folliikulite kasvu, samas kui hilisem LH-tõus märgib munaraku vabanemist tsükli keskel. See koostöö on ka põhjus, miks viljakusravis kasutatakse FSH-põhiseid ravimeid: täiendava FSH manustamine soodustab mitme folliikuli korraga küpsemist, mitte ühe, nagu loomuliku tsükli käigus tavaliselt toimub.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Rasedusdiabeet",
+      "aliases": [
+        "rasedusdiabeet",
+        "rasedusaegne diabeet",
+        "kõrge veresuhkru tase raseduse ajal"
+      ],
+      "glance": "Rasedusdiabeet on veresuhkru taseme tõus raseduse ajal – see avastatakse tavaliselt sõeluuringu käigus ja sageli normaliseerub pärast sünnitust.",
+      "overview": "Rasedusdiabeet on kõrge veresuhkru (glükoosi) tase, mis tekib raseduse ajal, kui keha ei suuda päris hästi toime tulla suurenenud insuliinivajadusega. Enamikul kaob see pärast lapse sündi.\n\nTavaliselt **ei põhjusta see mingeid sümptomeid**, mistõttu avastatakse see raseduse ajal pakutava sõeluuringuga (glükoositaluvuse test, sageli umbes 24.–28. rasedusnädalal), eriti kui sul on seda tõenäosust suurendavaid tegureid – näiteks suurem kehakaal, diabeet suguvõsas, varem sündinud suur laps või teatud etniline päritolu.\n\nSellega saab hästi toime tulla. Kui hoiad veresuhkru tervislikus vahemikus – toitumise, liikumise ja vahel ka ravimitega, kõike oma raviteam juhendamisel –, väheneb tüsistuste tõenäosus nii sinul kui ka su lapsel, ja seepärast tasub sellel silma peal hoida.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui sulle pakutakse **sõeluuringut**, mine sinna – kuna rasedusdiabeet ei anna tavaliselt sümptomeid, avastatakse see just testiga.\n- Ära oota testi, kui märkad võimalikke kõrge veresuhkru märke – tugev janu, sage urineerimisvajadus, suukuivus või väsimus –, vaid räägi neist oma ämmaemandale või arstile.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Kust saada abi",
+      "aliases": [
+        "abi saamine",
+        "kellega ühendust võtta",
+        "abiliinid",
+        "kasulikud numbrid",
+        "naiste tugikeskus",
+        "ohvriabi",
+        "1522",
+        "hädaabinumbrid"
+      ],
+      "glance": "Saadaval on tasuta ja konfidentsiaalne abi – hädaolukorras helista kohalikule hädaabinumbrile; Itaalias on number 1522 kättesaadav igal ajal.",
+      "overview": "Kui koged vägivalda, ei pea sa sellega üksi silmitsi seisma, ja abi otsimine ei kohusta sind millekski. On inimesi, kelle töö ongi kuulata ja aidata – konfidentsiaalselt ja tasuta.\n\nAbi on mitut liiki ja need täiendavad üksteist:\n\n- **Hädaabi** – vahetu ohu korral helista kohalikule hädaabinumbrile (vaata allpool).\n- **Riiklik abiliin** – Itaalias **1522**, tasuta abiliin vägivalla ja jälitamise korral: avatud 24 tundi ööpäevas, anonüümne, mitmes keeles, telefoni või veebivestluse kaudu.\n- **Vägivallaohvrite abikeskused** (Itaalias *centri antiviolenza*) – kohalikud teenused, mis pakuvad tasuta ja konfidentsiaalset tuge, turvaplaani koostamist ning õigus- ja psühholoogilist abi.\n- **Tervishoiuteenused** – perearst või haigla erakorralise meditsiini osakond, kus töötajaid koolitatakse üha enam vägivalda ära tundma ja sind abiga kokku viima.\n- **Inimesed, keda usaldad** – sõber või pereliige, kellega tunned end turvaliselt.\n\nVõid alustada sellest, mis tundub kõige jõukohasem, ja sa ei pea veel midagi otsustanud olema.",
+      "deep": null,
+      "when_to_see_doctor": "- Võid **perearsti või haiglaga** konfidentsiaalselt rääkida sellest, mis toimub; nad saavad ravida vigastusi ja viia sind kokku spetsialiseeritud abiteenustega.\n- Kui kirjutada on lihtsam kui rääkida, on **1522 vestlus (chat)** veel üks võimalus abi saada.",
+      "red_flags": "- Kui oled **vahetus ohus**, võta kohe ühendust hädaabiga: **112** ELis (sh Itaalias), **999** Ühendkuningriigis, **911** USAs ja Kanadas.\n- **Itaalia:** **1522** (tasuta, 24/7, anonüümne, mitmekeelne – helista või kirjuta vestluses).\n- Abiliinide numbrid on riigiti erinevad. Rakendus oskab näidata sinu riigi numbreid ning **findahelpline.com** loetleb vägivallaohvrite abiliine üle kogu maailma (see tuvastab sinu riigi ja sellel on kiirväljumise nupp). Kui oled ELis, töötab **112** kõikjal."
+    },
+    "group-b-strep": {
+      "title": "B-grupi streptokokid (GBS)",
+      "aliases": [
+        "B-grupi streptokokk",
+        "GBS",
+        "B-streptokokk",
+        "B-grupi streptokokk raseduse ajal",
+        "Streptococcus agalactiae"
+      ],
+      "glance": "B-grupi streptokokk on levinud, tavaliselt ohutu bakter – väike risk on seotud lapsega sünni ajal, kuid seda on võimalik kontrolli alla hoida.",
+      "overview": "B-grupi streptokokk (GBS) on väga levinud bakter, mida paljud kannavad endas, tavaliselt tupes või päraku piirkonnas, ilma et nad sellest teaksid ja ilma et see mingit kahju teeks. See ei ole sugulisel teel leviv nakkus ning selle kandmine on normaalne.\n\nRaseduse ajal on see oluline ainult seetõttu, et on **väike tõenäosus**, et see võib sünnituse ajal lapsele üle kanduda ja harva teha ta haigeks – seda juhtub umbes 1 juhul 1 750 rasedusest. Sageli avastatakse see juhuslikult, näiteks uriinianalüüsist või muul põhjusel võetud tupeproovist (NHS ei tee kõigile rutiinset sõeluuringut).\n\nRahustav on see, et sellega saab hästi toime tulla: kui GBS-ist on teada, vähendavad **sünnituse ajal veenisiseselt tilgutiga manustatud antibiootikumid** tunduvalt lapse haigestumise tõenäosust.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui sulle on öeldud, et sul on B-grupi streptokokk – kas praegu või mõnel varasemal rasedusel –, **teata sellest oma ämmaemandale või sünnitusmeeskonnale**, et sünnituse ajal saaks antibiootikumide manustamist ette planeerida. See on lihtne samm, mis teeb tõelise vahe.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Kõrvetised ja seedehäired raseduse ajal",
+      "aliases": [
+        "kõrvetised raseduse ajal",
+        "seedehäired raseduse ajal",
+        "refluks raseduse ajal",
+        "maohappe tagasivool",
+        "kõrvetised",
+        "refluks"
+      ],
+      "glance": "Kõrvetised on raseduse ajal väga sagedased – tavaliselt ohutud ja sageli leevenevad väikeste igapäevaste muudatustega.",
+      "overview": "Kõrvetised ja seedehäired – põletustunne või ebamugavus rinnus, sageli pärast söömist – on raseduse ajal väga sagedased. Põhjus on selles, et rasedushormoonid lõdvestavad mao ülaosa lihast ning hiljem surub kasvav laps ülespoole. See on ebamugav, kuid mitte kahjulik.\n\nSageli aitavad väikesed muudatused: söö suurte einete asemel sagedamini väiksemaid, istu söömise ajal ja veel mõnda aega pärast seda püsti, vähenda vürtsikaid, rasvaseid ja kofeiini sisaldavaid toite ning ära söö hilja enne magamaminekut. Mõnele on mugavam magada veidi kõrgema peatsiga.\n\nKui sellest ei piisa, oskab **apteeker** soovitada happesust vähendavaid ravimeid (antatsiide), mida on raseduse ajal ohutu kasutada – see on hea esimene samm, enne kui vaevus suuremaks muutub.",
+      "deep": null,
+      "when_to_see_doctor": "- Pöördu **perearsti või ämmaemanda** poole, kui lihtsad muudatused ja apteegi ravimid ei aita või kui sul on **neelamisraskused**, toit tuleb pidevalt tagasi üles, kaotad soovimatult kaalu või sul on kõhuvalu – neid tasub lasta kontrollida, mitte pidada neid tavalisteks kõrvetisteks.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Rohked menstruatsioonid",
+      "aliases": [
+        "rohked menstruatsioonid",
+        "tugev menstruatsioon",
+        "menorraagia",
+        "tugev menstruaalverejooks",
+        "tugev veritsus",
+        "verehüübed menstruatsioonil",
+        "päevad on väga tugevad"
+      ],
+      "glance": "Rohke menstruatsioon tähendab, et igas tsüklis kaob palju verd – see on sage, kuid kui see sind häirib, tasub lasta seda uurida.",
+      "overview": "Rohke menstruatsioon – meditsiiniline nimetus on menorraagia – tähendab, et menstruatsiooni ajal kaob palju verd. Mõne jaoks on tugev veritsus lihtsalt tema normaalne olukord, kuid kui see häirib su elu või jätab sind kurnatuks, tasub seda uurida.\n\nMõned märgid, et menstruatsioon on pigem tugev: pead vahetama hügieenisidet või tampooni iga 1–2 tunni järel, kasutad korraga kahte menstruatsioonitoodet (nt tampooni ja sidet), veri jookseb läbi riietele või voodipesule, eritub verehüübeid, mis on suuremad kui umbes 2,5 cm (umbes 10-pennise mündi suurused), või menstruatsioon kestab üle 7 päeva.\n\nKui kaotad kuust kuusse palju verd, võib see põhjustada väsimust või õhupuudust, sest see võib viia rauavaeguseni (aneemiani). Võimalikke põhjusi on palju – müoomidest või haigustest nagu endometrioos, adenomüoos või polütsüstiliste munasarjade sündroom (PCOS) kuni mõne ravimini – ja sageli ei leita mingit tõsist põhjust. Igal juhul saab rohket menstruatsiooni tavaliselt leevendada, seega ei pea sa sellega lihtsalt leppima.",
+      "deep": null,
+      "when_to_see_doctor": "Pöördu perearsti poole, kui:\n\n- rohked menstruatsioonid mõjutavad su igapäevaelu\n- sul on mitu tundi tugev veritsus või su menstruatsioon kestab kaua\n- sul on ka tugev menstruatsioonivalu või valu seksi ajal, urineerimisel või roojamisel\n- sul on veritsust menstruatsioonide vahel või pärast seksi\n- tunned end sageli väsinuna või sul on õhupuudus (see võib olla rauavaeguse märk)\n\nPerearst saab otsida põhjust ja arutada, mis võiks aidata.",
+      "red_flags": "- Otsi **kiiresti** arstiabi – võta ühendust arsti või **valvearstiga** või helista numbrile **{{emergency}}** / mine erakorralise meditsiini osakonda, kui olukord on tõsine –, kui **veritsus on nii tugev, et hügieenisidemeid (üks või rohkem) saab täiesti läbimärjaks iga tunni järel paar tundi järjest**, või kui sul on **minestamistunne, pearinglus või õhupuudus**. Need võivad olla liigse verekaotuse märgid."
+    },
+    "lh": {
+      "title": "Luteiniseeriv hormoon (LH)",
+      "aliases": [
+        "LH",
+        "luteiniseeriv hormoon",
+        "lutropiin",
+        "LH tõus"
+      ],
+      "glance": "LH on aju hormoon, mille tsükli keskel toimuv hüppeline tõus paneb munasarja vabastama munaraku.",
+      "overview": "LH – luteiniseeriv hormoon – on signaalaine, mis käivitab ovulatsiooni. Nagu FSH, toodetakse ka seda ajus asuvas väikeses näärmes (hüpofüüsis) ning see annab munasarjale märku, millal munarakk vabastada.\n\nTsükli esimese poole jooksul püsib LH-tase enamasti madalal. Seejärel, umbes tsükli keskel, tõuseb see järsult – seda nimetatakse LH-tõusuks. See tõus on signaal, mis paneb munasarja vabastama munaraku – ovulatsioon –, mis toimub tavaliselt umbes päev hiljem.\n\nSee tõus on pigem lühike ja õigel ajal esinev signaal kui midagi, mida sa oma enesetundes märkaksid. Kuna see toimub vahetult enne munaraku vabanemist, on LH-taseme tõusu ajastus usaldusväärne näitaja tsükli kõige viljakama perioodi kohta.",
+      "deep": "LH toimib koos FSH-ga, mis on hormoon, mis soodustab folliikulite kasvu tsükli varasemas faasis. Kui FSH juhib folliikulite arengut, siis LH-tõus on pöördepunkt: tase hakkab tõusma umbes poolteist päeva enne munaraku vabanemist ja saavutab haripunkti umbes pool päeva enne seda. Pärast tõusu liigub tsükkel teise poolde. Just see täpne ajastus teeb LH-st nii kasuliku näitaja kõigile, kes jälgivad ovulatsiooni, ning on kesksel kohal viljakusravi planeerimisel.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Kuulamine ja emotsionaalne toetus",
+      "aliases": [
+        "kuidas kuulata",
+        "emotsionaalne toetus",
+        "kuidas teda toetada",
+        "suhtlemine suhtes",
+        "tema jaoks olemas olla"
+      ],
+      "glance": "Enamasti vajab ta, et teda kuulataks, mitte et tema muresid kohe lahendataks – kuula kõigepealt ja küsi, enne kui nõu annad.",
+      "overview": "Kui keegi, keda me armastame, on raskustes, on meil instinktiivne soov sekkuda ja olukord lahendada. Kuid sageli aitab kõige rohkem tunne, et teda kuulatakse tõeliselt: et tema tunded on mõistetavad ja ta ei ole nendega üksi. Liiga kiire lahendamine võib jätta mulje, et „sinu tunded on probleem, mida tuleb maha suruda“.\n\nHea kuulamine on oskus, mida igaüks võib omandada. Peamiselt on see tähelepanelikkus: pane telefon käest, vaata teda silma ja lase tal lõpetada. Sa ei pea igas punktis nõustuma, et ta tunneks end austatuna.",
+      "deep": "Kuidas praktikas toeks olla:\n\n- **Kuula, et mõista, mitte et vastata.** Lase tal rääkida, ilma et teda katkestaksid või enda kaitsmist ette mõtleksid.\n- **Peegelda tagasi.** „See kõlab tõesti stressirohkena“ või „Ma saan aru, miks see haiget tegi“ on parem kui „Ära muretse selle pärast“.\n- **Küsi enne nõu andmist.** „Kas tahad, et aitaksin sul asja läbi mõelda, või tahad lihtsalt, et ma kuulaksin?“\n- **Ära võta seda isiklikult**, kui raske päev ei ole sinu pärast. Rahulikuks jääda on kingitus.\n- **Võta oma osa eest vastutus.** Kui tegid midagi valesti, taastab siiras vabandus – ilma „aga“-ta – usalduse.\n- **Vaata laiemat pilti.** Kui ta tundub pidevalt masendunud, ärev või pole iseendamoodi, julgusta teda õrnalt abi otsima ja paku, et aitad tal selleni jõuda. Sa oled tema meeskonnakaaslane, mitte terapeut.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Luteaalfaas",
+      "aliases": [
+        "luteaalfaas",
+        "tsükli teine pool"
+      ],
+      "glance": "Luteaalfaas on tsükli teine pool, mis algab pärast ovulatsiooni ja mil progesterooni tase tõuseb.",
+      "overview": "Luteaalfaas on tsükli osa, mis järgneb ovulatsioonile ja kestab kuni järgmise menstruatsiooni alguseni. Nimi tuleneb kollaskehast (corpus luteum) – väikesest moodustisest, mille munasari moodustab tühjast folliikulist pärast munaraku vabanemist.\n\nSelles faasis progesterooni tase tõuseb. Progesterooni ülesanne on hoida emaka limaskest paks ja stabiilne, et viljastatud munarakul oleks kuhu kinnituda, kui see kohale jõuab. Ka östrogeen on endiselt osa pildist ja toimib koos progesterooniga.\n\nKui rasedus ei alga, kollaskeha laguneb, progesterooni ja östrogeeni tase langeb ning limaskesta enam ei hoita – nii algab järgmine menstruatsioon ja uus tsükkel. Selles tsükli osas märkavad mõned ka menstruatsioonieelseid muutusi meeleolus, unes või kehas.",
+      "deep": "Luteaalfaasi pikkus on tavaliselt veidi ühtlasem kui tsükli esimesel poolel, sageli umbes kaks nädalat, kuigi inimeseti on normaalne, et see mõnevõrra erineb. Kuna faasi lõpp on seotud progesterooni langusega, on menstruatsiooni algus tegelikult nähtav märk sellest, et hormoonide tase on langenud. Kui jälgid oma enesetunnet luteaalfaasi jooksul, aitab see eristada, mis on sinu jaoks tuttav muster ja mis on uus või väärib arstiga arutamist.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopaus",
+      "aliases": [
+        "menopaus",
+        "üleminekuiga",
+        "kliimaks",
+        "klimakteerium",
+        "kuumahood"
+      ],
+      "glance": "Menopaus on aeg, mil menstruatsioon lõpeb lõplikult — see on loomulik eluetapp, mis saabub tavaliselt umbes 45–55-aastaselt.",
+      "overview": "Menopaus on hetk, mil menstruatsioon lõpeb lõplikult. Kuna menstruatsioon võib esialgu veel mõnda aega vahelduvalt esineda, loetakse menopausi saabunuks siis, kui menstruatsiooni pole olnud 12 kuud järjest. Tavaliselt toimub see umbes 45–55-aastaselt, kuigi see võib juhtuda ka varem või hiljem.\n\nSee on vananemise loomulik osa, mitte haigus. See juhtub, kui munasarjade tegevus väheneb ja östrogeeni – tsükli peamise hormooni – tase langeb. Just see hormonaalne muutus on põhjuseks muutustele, mida paljud inimesed märkavad: kuumahood ja öine higistamine, menstruatsiooni muutused selle eel, unehäired, meeleolumuutused või ärevus, aju udu, tupekuivus ja valud.\n\nKogemused on väga erinevad – mõned inimesed saavad sellega hõlpsasti hakkama, teistel on sellega raskusi ja sümptomid võivad kesta mitu aastat. See ei tähenda sugugi, et sinuga oleks midagi valesti. Abi ja võimalusi on olemas ning olukorra mõistmine on hea esimene samm.",
+      "deep": "Menopausile eelnevaid muutuste aastaid nimetatakse perimenopausiks; menopaus ise on üks ajahetk (see piir, kui menstruatsiooni pole olnud 12 kuud) ning sellele järgnevat aega nimetatakse vahel postmenopausiks. Kuna östrogeen mõjutab pikas plaanis ka luid ja südant, pööravad arstid igapäevaste sümptomite kõrval tähelepanu ka neile. Sümptomeid saab leevendada mitmel viisil – eluviisi muutustest kuni mittehormonaalse ja hormonaalse ravini –, ning see, mis sulle sobib, sõltub su tervisest, haigusloost ja eelistustest; seda tasub arutada arstiga.",
+      "when_to_see_doctor": "- Pöördu perearsti poole, kui menopausi sümptomid vaevavad sind või mõjutavad igapäevaelu ja tahaksid oma võimalusi arutada.\n- Pöördu **alati** perearsti poole, kui sul tekib **ükskõik milline verejooks tupest pärast 12 kuud ilma menstruatsioonita** (veritsus pärast menopausi). Sageli pole see midagi tõsist, kuid seda tuleb alati lasta kontrollida.\n- Samuti tasub arstiga rääkida, kui veritsus muutub varasemast pigem tugevamaks kui nõrgemaks või menstruatsioon muutub viisil, mis sind muretsema paneb.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Menstruaaltsükkel",
+      "aliases": [
+        "tsükkel",
+        "kuutsükkel",
+        "menstruaaltsükkel",
+        "menstruatsioonitsükkel",
+        "tsükli pikkus"
+      ],
+      "glance": "Menstruaaltsükkel on igakuine rütm, mille järgi keha toimib, et valmistuda võimalikuks raseduseks.",
+      "overview": "Menstruaaltsüklit arvestatakse menstruatsiooni esimesest päevast – see on 1. päev – kuni järgmise menstruatsiooni alguse eelse päevani. Tsüklit juhivad hormoonid, mille tase tõuseb ja langeb igal kuul korduva mustri järgi.\n\nTsükkel kestab sageli umbes 28 päeva, kuid see on vaid keskmine. Normaalne on ükskõik milline pikkus umbes 21 ja 35 päeva vahel, ning sinu enda tsükli pikkus võib kuust kuusse veidi erineda. Oma mustri tundmaõppimine on kasulikum kui selle võrdlemine mingi arvuga.\n\nTsükli jooksul läbib su keha mitu etappi: menstruatsioon, munaraku vabanemisele eelnev aeg, munaraku vabanemine (ovulatsioon) ja sellele järgnev aeg. Iga etappi kujundavad hormoonid, peamiselt östrogeen ja progesteroon.",
+      "deep": "Kogu tsükkel on aju ja munasarjade vaheline hormoonide vahendusel toimuv suhtlus. Esimesel poolel tõuseb östrogeeni tase, kui munarakku sisaldav folliikul munasarjas küpseb ja emaka limaskest pakseneb. Tsükli keskel vabaneb munarakk. Teises pooles aitab progesteroon hoida seda limaskesta valmis juhuks, kui viljastatud munarakk sinna jõuab.\n\nKui rasedust ei teki, langevad östrogeeni ja progesterooni tasemed madalale, emaka limaskest eraldub menstruatsiooni käigus ning tsükkel algab uuesti. Kuna need hormoonid mõjutavad paljusid organismi süsteeme, võid kuu jooksul märgata väikeseid igapäevaseid muutusi – see on tsükli normaalne rütm, mitte midagi, mida tuleks „parandada”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstruatsioonifaas (päevad)",
+      "aliases": [
+        "menstruatsioon",
+        "päevad",
+        "menstruatsioonifaas",
+        "kuupuhastus",
+        "veritsus",
+        "mens"
+      ],
+      "glance": "Menstruatsioon on mõnepäevane veritsus iga tsükli alguses, mil emaka limaskest eraldub.",
+      "overview": "Menstruatsioonifaas on sinu menstruatsioon – päevad, mil sul on veritsus. See algab tsükli 1. päeval, kui östrogeeni ja progesterooni tase on langenud nii madalale, et emaka sisse kasvanud limaskesta enam ei hoita: see irdub ja väljub kehast tupe kaudu.\n\nMenstruatsioon kestab tavaliselt umbes 2–7 päeva, kõige tüüpilisem on umbes 5 päeva. Veritsus on sageli kõige tugevam esimesel paaril päeval ja seejärel nõrgem. Menstruatsioon algab tavaliselt umbes 12-aastaselt, kuigi ka varasem või hilisem algus on normaalne.\n\nSee, mis on „normaalne“, on inimeseti väga erinev. Oma menstruatsiooni jälgimine aitab sul märgata, mis on sinu jaoks tavaline, ja see on palju tähendusrikkam kui ükskõik milline keskmine.",
+      "deep": "Menstruatsiooniveritsus on emaka limaskesta (endomeetriumi) irdumine pärast tsüklit, mille jooksul rasedus ei alanud. See tähistab nii ühe tsükli lõppu kui ka järgmise algust, mistõttu loetakse menstruatsiooni 1. päeva kogu tsükli 1. päevaks. Kui menstruatsioon lõpeb, hakkab östrogeeni tase taas tõusma ja keha hakkab limaskesta järgmiseks tsükliks uuesti üles ehitama.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Raseduse katkemine",
+      "aliases": [
+        "raseduse katkemine",
+        "nurisünnitus",
+        "raseduse kaotus",
+        "varajane raseduse katkemine",
+        "iseeneslik abort",
+        "kaotasin raseduse"
+      ],
+      "glance": "Raseduse katkemine on raseduse kaotus enne 24. rasedusnädalat – see on tavaline nähtus ja peaaegu kunagi ei ole see sinu süü.",
+      "overview": "Raseduse katkemine on raseduse kaotus esimese 24 nädala jooksul. See on levinum, kui paljud inimesed arvavad, ja üks olulisemaid asju, mida tuleb teada, on see, et peaaegu kunagi ei ole selle põhjuseks midagi, mida sa tegid või tegemata jätsid – tavaliselt juhtub see raseduse arenguga seotud probleemi tõttu, mis oli kõigi kontrolli alt väljas.\n\nKõige tavalisemad sümptomid on tupeverejooks ning krambid või valu kõhu alaosas. Verejooks raseduse alguses ei tähenda alati, et toimub raseduse katkemine – paljudel naistel esineb kerget verejooksu, kuid rasedus kulgeb edasi tervena –, kuid seda tuleks alati kontrollida.\n\nKuidas kaotus ka ei toimuks, sellega kaasnevad tunded on tõelised ja õigustatud ning lein on normaalne reaktsioon. Sa ei pea seda üksi läbi elama – abi on saadaval nii ämmaemandalt või perearstilt kui ka raseduse katkemisega tegelevatelt heategevusorganisatsioonidelt.",
+      "deep": null,
+      "when_to_see_doctor": "- Võta ühendust perearsti, ämmaemanda või varase raseduse vastuvõtuga (või valvearstiga), kui sul on **raseduse ajal verejooks tupest või määrimine**, isegi kui see on kerge ja valu on vähe või üldse mitte – et seda saaks kontrollida.\n- Küsi, kus on sulle lähim **varase raseduse vastuvõtt** – see on loodud just selleks.",
+      "red_flags": "- Helista numbrile **{{emergency}} või mine erakorralise meditsiini osakonda**, kui sul on raseduse ajal **tugev kõhuvalu, valu õla tipus, tugev verejooks või minestamistunne või väga halb olla**. Need võivad olla tõsise probleemi, näiteks emakavälise raseduse märgid, mis vajavad kiiret abi."
+    },
+    "morning-sickness": {
+      "title": "Rasedusega kaasnev iiveldus",
+      "aliases": [
+        "hommikune iiveldus",
+        "iiveldus raseduse ajal",
+        "oksendamine raseduse ajal",
+        "raseduse liigoksendamine",
+        "hyperemesis gravidarum",
+        "hüperemees"
+      ],
+      "glance": "Iiveldus ja oksendamine on raseduse alguses väga sagedased ning leevenevad tavaliselt umbes 16.–20. nädalaks.",
+      "overview": "Iiveldus või oksendamine on raseduse alguses väga sage. Hoolimata nimetusest „hommikune iiveldus“ võib see tekkida mis tahes kellaajal, päeval või öösel. Enamikul algab see esimestel nädalatel ja rahuneb umbes 16.–20. nädalaks.\n\nSee on ebameeldiv ja mõnel mõjutab see tõsiselt igapäevaelu – kuid tavaline hommikune iiveldus ei suurenda sinu lapse jaoks mingit riski. Sageli väikeste koguste söömine ja endale sobivate võtete leidmine võivad muuta selle talutavamaks; kui sul on raske, oskab ämmaemand, perearst või apteeker soovitada ohutuid võimalusi.\n\nVäikesel osal muutub iiveldus raskeks (seda nimetatakse raseduse liigoksendamiseks ehk hyperemesis gravidarum), millega kaasneb tõeline vedelikupuuduse oht. Sel juhul on vaja arstiabi – vaata allpool toodud märke.",
+      "deep": null,
+      "when_to_see_doctor": "Võta ühendust ämmaemanda, perearsti või valvearstiga, kui:\n\n- kõik, mida sööd ja jood, tuleb 24 tunni jooksul oksendades tagasi\n- su uriin on väga tume või sa ei ole urineerinud rohkem kui 8 tundi\n- tunned end püsti tõustes väga nõrgana, sul on pearinglus või minestamistunne\n- sul on kõhuvalu, palavik või sa oksendad verd\n- sa kaotad kaalu",
+      "red_flags": "- Kui kogu joodud vedelik tuleb oksendades tagasi ja su uriin on väga tume või seda ei tule üldse, võib see tähendada, et sul tekib vedelikupuudus (raske raseduse iiveldus) – **võta samal päeval ühendust ämmaemanda, perearsti või valvearstiga**, sest võid vajada ravi, et seisund ei halveneks."
+    },
+    "ovulation": {
+      "title": "Ovulatsioon",
+      "aliases": [
+        "ovulatsioon",
+        "munaraku vabanemine",
+        "viljakusperiood",
+        "ovulatsiooni aeg"
+      ],
+      "glance": "Ovulatsioon on hetk, mil munasarjast vabaneb munarakk – see on tsükli kõige viljakam aeg.",
+      "overview": "Ovulatsioon on hetk, mil munasarjast vabaneb küps munarakk. See on tsükli pöördepunkt: esimene pool kulgeb selle suunas ja teine pool järgneb sellele.\n\nUmbes 28-päevase tsükli jooksul toimub ovulatsioon sageli umbes 14. päeval – kuid ajastus võib varieeruda. Hea viis seda mõista on see, et ovulatsioon toimub tavaliselt 10–16 päeva enne järgmise menstruatsiooni algust. Täpset päeva võib olla raske kindlaks määrata.\n\nPärast vabanemist on munarakk viljastatav vaid umbes 12–24 tundi. Spermatosoidid suudavad aga kehas ellu jääda mitu päeva, mistõttu on „viljakusperiood” pikem kui üksainus päev – see hõlmab ligikaudu mõned päevad enne ovulatsiooni ja ovulatsiooni päeva ennast.",
+      "deep": "Munaraku vabanemise käivitab tsükli keskel lühike ja järsk hormoonide tõus, mis järgneb follikulaarfaasi östrogeeni kuhjumisele. Kuna seemnerakud võivad elada mitu päeva, munarakk aga vähem kui ühe päeva, on rasestumine kõige tõenäolisem seksist vahetult ovulatsioonile eelnevatel päevadel. Ovulatsioon võib tsüklist tsüklisse nihkuda näiteks stressi või haiguse tõttu, mistõttu on seda raske täpselt ennustada ja mitme tsükli jälgimine on usaldusväärsem kui ükskõik milline üksik arvutus.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Valu seksimise ajal",
+      "aliases": [
+        "valu seksi ajal",
+        "valulik seks",
+        "düspareuunia",
+        "valu vahekorra ajal",
+        "valu seksimisel",
+        "vaginism"
+      ],
+      "glance": "Seksuaalvahekorra ajal tekkiv valu on tavaline nähtus, millel on palju võimalikke põhjuseid, ja seda tasub alati arsti juures kontrollida – abi on olemas.",
+      "overview": "Valu seksi ajal – mida nimetatakse ka düspareuuniaks – on sagedasem, kui paljud arvavad, ja see ei ole kunagi midagi, millega peaks lihtsalt leppima. Sellel võib olla palju põhjusi ning õige põhjuse leidmine on valu leevendamise võti.\n\nMõned põhjused on füüsilised. Sage põhjus on tupekuivus, mis on sageli seotud menopausiaegsete hormonaalsete muutuste või ebapiisava erutusega ning võib muuta seksi valusaks või ebamugavaks. Valu võivad põhjustada ka nakkused, näiteks tupe seenpõletik (pärmseen). Teine põhjus on vaginism – tupeümbruse lihased tõmbuvad penetratsiooni katsel iseenesest kokku, mis võib muuta seksi valusaks või tunduda võimatu. See on tahtmatu, see ei ole „sinu peas“ ja seda saab ravida.\n\nKuna põhjus võib olla füüsiline, hormonaalne või seotud sellega, kui lõdvestunud või erutunud sa end tunned – ja sageli on see nende segu –, on mõistlik lasta see üle vaadata, selle asemel et oletada või lihtsalt edasi kannatada.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui seks on valus, pöördu perearsti või seksuaaltervise kliiniku poole – olenemata põhjusest tasub seda lasta kontrollida ning sagedasemate põhjuste puhul on olemas tõhus abi.\n- Sellest rääkimine võib tunduda ebamugav, kuid arstid puutuvad sellega sageli kokku ning on seal selleks, et aidata, mitte hukka mõista. Võid paluda naisarsti, võtta kellegi kaasa ja arutada, mis muudaks läbivaatuse sulle mugavamaks.\n- Lase kindlasti kontrollida igasugust veritsust pärast seksi ning pöördu arsti poole kiiremini, kui valu on tugev või tunned end ka muidu halvasti.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Valu leevendamine sünnituse ajal",
+      "aliases": [
+        "valu leevendamine sünnitusel",
+        "epiduraal",
+        "epiduraalanesteesia",
+        "naerugaas",
+        "Entonox",
+        "sünnitusvalu leevendamine",
+        "sünnitusbassein",
+        "TENS"
+      ],
+      "glance": "Sünnitusvalusid on võimalik leevendada mitmel viisil – õiget ega valet valikut ei ole ning võid jääda paindlikuks.",
+      "overview": "Sünnitus on igaühe jaoks erinev ning valuga toimetulekuks on mitu võimalust – lihtsatest mugavust pakkuvatest võtetest meditsiiniliste võimalusteni. Kui tead juba ette, mis on saadaval, aitab see sul end paremini ettevalmistatuna tunda.\n\nVõimalused ulatuvad **aktiivsena ja püstises asendis püsimisest**, hingamisest ja lõõgastumisest, massaažist ja **vees** olemisest (vann või sünnitusbassein) kuni **TENS-aparaadi**, **naerugaasi** (Entonox, mida hingad ise sisse), **süstide** (näiteks petidiin) ja **epiduraalanesteesiani** (mille teeb anestesioloog ja mis tuimestab sünnitusvalu täielikumalt).\n\n„Parimat“ valikut ei ole – see sõltub sinust, su sünnitusest ja sellest, kuidas sa end sel päeval tunned. Tasub oma eelistused **sünnitusplaani** kirja panna, kuid jääda samas avatuks: paljud avastavad, et tahavad valu leevendamist rohkem või vähem, kui nad arvasid, ja see on täiesti okei.",
+      "deep": null,
+      "when_to_see_doctor": "- Sinu **ämmaemand** (ja epiduraalanesteesia puhul anestesioloog) räägib sinuga võimalused läbi ja aitab otsustada, mis sulle sobib – nii raseduse ajal kui ka uuesti sünnituse ajal. Kõike ei ole vaja ette otsustada.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (polütsüstiliste munasarjade sündroom)",
+      "aliases": [
+        "PCOS",
+        "polütsüstiliste munasarjade sündroom",
+        "polütsüstilised munasarjad",
+        "polütsüstiline munasarjasündroom",
+        "PCOS sümptomid"
+      ],
+      "glance": "PCOS on levinud hormonaalne haigus, mis võib mõjutada menstruatsiooni, ovulatsiooni, nahka ja juukseid.",
+      "overview": "PCOS – polütsüstiliste munasarjade sündroom – on sage seisund, mis on seotud suguhormoonide tasakaaluga. Hinnangute järgi on see umbes 1 naisel 10-st viljakas eas naisest ning paljudel, kellel see on, ei ole seda kunagi diagnoositud.\n\nSee võib avalduda eri viisidel ja kaks inimest ei ole päris ühesugused. Sagedased tunnused on ebaregulaarsed, harvad või puuduvad menstruatsioonid; androgeenideks nimetatavate hormoonide kõrgem tase, mis võib põhjustada liigset karvakasvu näol või kehal, aknet või juuste hõrenemist peanahal; ning munasarjad, mis ei vabasta munarakku nii regulaarselt kui tavaliselt, mis võib raskendada rasestumist. Sagedased on ka kehakaalu muutused ja tumedamad nahalaigud.\n\nTäpne põhjus ei ole päris selge ja seda ei saa välja ravida – kuid sümptomeid saab kontrolli all hoida ning esimene samm on mõista, mis toimub. PCOS on sage ja sellega saab toime tulla – see ei ole midagi, mida häbeneda.",
+      "deep": "Kuna PCOS on seotud keha hormoonide ja insuliini käsitlemisega, seostub see pikemas plaanis ka insuliiniresistentsuse ning suurema 2. tüüpi diabeedi, kõrgenenud vererõhu ja kolesteroolimuutuste tõenäosusega – seepärast jälgivad arstid neid aja jooksul. Umbes pooltel PCOS-iga inimestel võib neljakümnendateks eluaastateks tekkida diabeet või prediabeet, seega on regulaarne kontroll oluline. Diagnoosi ei saa ise panna: arst vaatab tervikpilti – sinu haiguslugu ja menstruatsioone, vahel hormoonide vereanalüüse ja vahel munasarjade ultraheliuuringut – ning välistab enne PCOS-i diagnoosi muud põhjused.",
+      "when_to_see_doctor": "Tasub pöörduda perearsti poole, kui märkad asju, mis sobivad ülalkirjeldatuga, eriti kui need mõjutavad su igapäevast enesetunnet:\n\n- ebaregulaarsed, väga harvad või lakanud menstruatsioonid\n- märgatavalt rohkem karvakasvu näol või kehal, püsiv akne või juuste hõrenemine peanahal\n- raskused rasestumisega pärast mõnda aega proovimist\n- kaalutõus, millest on raske lahti saada, koos teiste sümptomitega\n\nPerearst saab välja selgitada, mis toimub, kinnitada, kas tegu on PCOS-i või millegi muuga, ning arutada sinuga sulle sobivat plaani. PCOS on seotud ka madala meeleolu ja ärevusega – kui sul on oma enesetundega raske, räägi sellest ka perearstile; see on osa tervikpildist ja abi on olemas.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopaus",
+      "aliases": [
+        "perimenopaus",
+        "üleminekuiga",
+        "menopausieelne aeg",
+        "üleminek menopausi",
+        "kliimaks"
+      ],
+      "glance": "Perimenopaus on menopausi eelnev üleminekuperiood, mil menstruatsioon ja hormoonid hakkavad muutuma.",
+      "overview": "Perimenopaus on menopausile eelnev aeg – nn „menopausi-ümbruse“ aastad. See algab siis, kui märkad esimesi muutusi, ja kestab kuni terve aasta möödumiseni viimasest menstruatsioonist – siis oled jõudnud menopausi. See võib kesta mitu aastat.\n\nSel ajal toodavad munasarjad järk-järgult vähem östrogeeni ning selle tase tõuseb ja langeb vähem ettearvatavalt kui varem. Kõige sagedasem varajane märk on menstruatsiooni muutumine – menstruatsioonid tulevad tihedamini või harvemini, on nõrgemad või tugevamad. Paljud menopausiga seotud sümptomid, näiteks kuumahood, unemuutused või meeleolumuutused, võivad alata juba siis, kui sul on veel menstruatsioonid.\n\nKuna perimenopaus kulgeb järk-järgult ja on väga erinev, võib see tekitada segadust – muutused ei tule kõigil korraga ega samas järjekorras. Teadmine, et sellel etapil on nimi ja et tegu on normaalse üleminekuga, võib aidata seda paremini mõista.",
+      "deep": null,
+      "when_to_see_doctor": "- Pöördu perearsti poole, kui perimenopausi sümptomid mõjutavad su igapäevaelu ja tahaksid arutada, mis võiks aidata.\n- Kui su menstruatsioon muutub väga tugevaks või sul on veritsust menstruatsioonide vahel või pärast seksi, tasub lasta end kontrollida, et põhjus välja selgitada.\n- Pea meeles, et perimenopausi ajal võib ikka veel rasestuda, seega tasub arstiga rasestumisvastasest kaitsest rääkida, kui see on sinu jaoks asjakohane.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Menstruatsioonivalud",
+      "aliases": [
+        "menstruatsioonivalu",
+        "menstruatsioonikrambid",
+        "krambid",
+        "düsmenorröa",
+        "valulikud menstruatsioonid",
+        "päevade valu",
+        "kõhuvalu päevade ajal"
+      ],
+      "glance": "Menstruatsioonivalud on krambid alakehas menstruatsiooni ajal – need on tavalised ja sageli tsükli normaalne osa.",
+      "overview": "Menstruatsioonivalu on krampjas, valutav tunne alakõhus, mida paljud tunnevad menstruatsiooni ajal või eel. See tekib, kui emaka lihaseline sein tõmbub kokku, ning on sageli menstruaaltsükli normaalne osa. Meditsiiniline nimetus on düsmenorröa.\n\nTavaliselt algab see menstruatsiooni alguses või vahetult enne seda ja kestab kuni umbes kolm päeva. Mõnel on see kerge raskustunne, teistel on krambid tugevamad. Valu võib muutuda ka elu jooksul ja tsüklist tsüklisse.\n\nSellist tuttavat mustrit järgiv menstruatsioonivalu on sage ja sellega saab tavaliselt toime tulla. Paljud kasutavad igapäevaseid leevendusvõtteid ja tavalisi valuvaigisteid ning apteeker või perearst oskab soovitada, mis sulle sobiks. Oluline on tunda oma tavalist mustrit – nii märkad, kui midagi muutub.",
+      "deep": null,
+      "when_to_see_doctor": "Tasub rääkida perearstiga, kui:\n\n- su menstruatsioonid muutuvad tavalisest valusamaks, tugevamaks või ebaregulaarsemaks\n- valu takistab sul igapäevaseid tegevusi, nagu töö või kool\n- tavalised valuvaigistid ei aita\n- sul on valu seksi ajal või urineerimisel või roojamisel\n- sul on veritsust menstruatsioonide vahel\n- valu tekib ka muul ajal kui vahetult enne menstruatsiooni või selle ajal\n- sul eritub verehüübeid, mis on suuremad kui münt (umbes veerandidollarise mündi suurused)\n- märkad ka kõhu paistetust, isu vähenemist või kaalukaotust, millele ei leia seletust\n\nNeed ei tähenda, et midagi oleks valesti, kuid neid tasub lasta kontrollida – uus, teistsugune või raskesti talutav menstruatsioonivalu võib olla tingitud põhjustest, millega arst saab aidata.",
+      "red_flags": "- Palu **kiiret** vastuvõttu perearsti juurde või võta ühendust **valvearstiga**, kui su menstruatsiooni- või vaagnavalu on **tugev või tavalisest hullem ja valuvaigistid ei ole aidanud.**"
+    },
+    "planning-pregnancy": {
+      "title": "Raseduse planeerimine",
+      "aliases": [
+        "raseduse planeerimine",
+        "lapse planeerimine",
+        "rasestuda püüdmine",
+        "enne rasedust",
+        "raseduseks valmistumine",
+        "rasedusele eelnev aeg"
+      ],
+      "glance": "Mõned lihtsad sammud enne rasestumiskatseid – foolhappe võtmine, suitsetamise ja alkoholi tarbimise lõpetamine – tagavad rasedusele parima alguse.",
+      "overview": "Kui mõtled lapse saamisele, võivad mõned eelnevad sammud anda rasedusele tervislikuma alguse – paljud neist mõjuvad juba enne rasestumist.\n\nPeamised: hakka võtma **foolhapet** (ja D-vitamiini), **loobu suitsetamisest** ja **väldi alkoholi**. Aitab ka püüdlemine tervisliku kehakaalu poole, sest märkimisväärne ala- või ülekaal võib rasestumist raskendada. Samuti tasub veenduda, et su **MMR-vaktsineerimine** (leetrid, mumps, punetised) oleks ajakohane, sest mõned nakkused võivad rasedust mõjutada.\n\nMidagi sellest ei pea olema täiuslik ega stressirohke. Oluline on teha aegsasti väikesi, endaga lahkeid muudatusi – ja pisut varem alustamine on üks toredamaid asju, mida saad tulevase raseduse heaks teha.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui sul on mõni **pikaajaline haigus** või võtad **regulaarselt ravimeid**, pöördu enne rasestuda püüdmist perearsti poole – mõned haigused ja ravimid vajavad eelnevat planeerimist. **Ära lõpeta ühegi väljakirjutatud ravimi võtmist**, enne kui oled arstiga rääkinud.\n- Perearst oskab anda nõu ka foolhappe kohta (sh kas vajad suuremat annust) ja tervisliku kehakaalu saavutamise kohta enne rasedust.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Sünnitusjärgne depressioon",
+      "aliases": [
+        "sünnitusjärgne depressioon",
+        "sünnijärgne depressioon",
+        "PND",
+        "baby blues",
+        "sünnitusjärgne masendus",
+        "depressioon pärast sünnitust"
+      ],
+      "glance": "Sünnitusjärgne depressioon on sage ja ravitav madal meeleolu pärast sünnitust – see ei ole sinu süü ning abi on olemas.",
+      "overview": "Masendus, ärevus või ärrituvus esimestel nädalatel pärast sünnitust on väga sage – seda nimetatakse sageli „baby blues’iks“ ja see möödub tavaliselt iseenesest umbes kahe nädala jooksul.\n\nSünnitusjärgne depressioon on midagi muud: sügavam või kauem kestev madal meeleolu. See on sage seisund, mis võib alata ükskõik millal esimese aasta jooksul, ning see võib tabada ka isasid ja partnereid. Märkideks on püsiv madal meeleolu, raskus millestki rõõmu tunda, halb uni isegi siis, kui laps magab, ning vahel keerulised tunded seoses lapsega sideme loomisega.\n\nSee **ei** tähenda, et oled halb lapsevanem või et sa ei armasta oma last – see on haigus, mitte sinu nõrkus, ning see allub hästi toetusele ja ravile. Varakult abi otsida on tugev ja hooliv tegu nii sinu kui ka su lapse jaoks.",
+      "deep": null,
+      "when_to_see_doctor": "- Räägi oma **perearsti, ämmaemanda või pereõega**, kui arvad, et sul võib olla sünnitusjärgne depressioon, või kui „baby blues“ ei ole kahe nädala pärast möödunud. Nad on seda palju kordi näinud ja aitavad sul leida sobivat tuge.",
+      "red_flags": "- Kui sul on **mõtteid endale või oma lapsele haiget tegemisest** või et su perekonnal oleks ilma sinuta parem, otsi **kohe** abi: helista numbrile **{{emergency}}**, mine erakorralise meditsiini osakonda või helista kriisiabiliinile. Need mõtted võivad olla haiguse osa, need ei määratle sind kui inimest ning kiiret abi on võimalik saada."
+    },
+    "pre-eclampsia": {
+      "title": "Preeklampsia",
+      "aliases": [
+        "preeklampsia",
+        "pre-eklampsia",
+        "kõrge vererõhk raseduse ajal",
+        "rasedusaegne kõrgvererõhk",
+        "gestoos",
+        "rasedustoksikoos"
+      ],
+      "glance": "Preeklampsia on raseduse ajal esinev kõrgenenud vererõhk – sageli ei avalda see esialgu mingeid sümptomeid, mistõttu on rasedusaegsed kontrollid väga olulised.",
+      "overview": "Preeklampsia on rasedusega seotud seisund, mis avaldub peamiselt kõrgenenud vererõhuna ja valgu esinemisena uriinis. See ilmneb tavaliselt umbes 20. rasedusnädalast alates, mõnikord ka pärast sünnitust.\n\nÜks olulisemaid asju, mida tuleb teada, on see, et haiguse varases staadiumis **ei** tekita see sageli **üldse mingeid sümptomeid** – võid end täiesti hästi tunda. Just seetõttu kontrollib ämmaemand igal rutiinsel raseduskontrollil sinu vererõhku ja võtab uriiniproovi: just nende kontrollide abil avastatakse haigus tavaliselt enne, kui sa ise midagi märkad.\n\nKui sümptomid ilmnevad, on oluline neid tunda, sest preeklampsia võib muutuda tõsiseks nii sinu kui ka su lapse jaoks. Õigeaegselt avastatuna on seda võimalik edukalt ravida, ja rasedusaegsete kontrollvisiitide järgimine on parim viis selle varajaseks avastamiseks.",
+      "deep": null,
+      "when_to_see_doctor": "- Käi kindlasti kõigil **rasedusaegsetel kontrollvisiitidel** – just vererõhu ja uriini kontrolliga avastatakse preeklampsia tavaliselt enne sümptomite tekkimist.",
+      "red_flags": "Otsi arstiabi **kohe** – võta ühendust oma sünnitusosakonna või **valvearstiga** –, kui sul on mõni järgmistest (helista numbrile **{{emergency}}**, kui oled väga halvas seisundis, näiteks tekivad krambid):\n\n- **tugev peavalu**, mis tavaliste valuvaigistitega ei leevene\n- **nägemishäired** – ähmane nägemine või valgussähvatused\n- **äkiline turse** näos, kätes või jalgades\n- **valu vahetult roiete all**\n- **oksendamine** või äkki väga halb enesetunne"
+    },
+    "pregnancy": {
+      "title": "Rasedus",
+      "aliases": [
+        "rasedus",
+        "olen rase",
+        "lapseootel",
+        "rasedusnädalad",
+        "trimestrid",
+        "sünnituse tähtaeg",
+        "mitmendal nädalal olen"
+      ],
+      "glance": "Rasedus kestab tavaliselt umbes 40 nädalat, arvestatuna viimase menstruatsiooni esimesest päevast.",
+      "overview": "Rasedus on aeg, mil su keha kasvatab ja kannab last. See kestab tavaliselt umbes 40 nädalat – täisaegseks ja normaalseks loetakse 37–42 nädalat – ning, ehk üllataval kombel, seda arvestatakse **viimase menstruatsiooni** esimesest päevast, mitte viljastumisest. Nii arvutatakse kuupäevi lihtsalt tavapäraselt.\n\n**Sünnituse tähtaeg** on hinnang, mitte lõpptähtaeg: lapsed sünnivad rahulikult veidi varem või hiljem. Raseduse alguses saab ultraheliuuringuga (tavaliselt umbes 12. nädalal) mõõta last ja määrata täpsema tähtaja, mis vahel muudab esialgset hinnangut.\n\nRasedust jagatakse sageli kolmeks etapiks ehk **trimestriks**, millest igaühel on omad muutused. Kogu raseduse vältel hoolitsevad sinu eest regulaarsete kontrollvisiitidega ämmaemand (ja vajaduse korral arst) – see jälgimine aitab hoida sind ja su last tervena.",
+      "deep": "Kuna aega arvestatakse viimasest menstruatsioonist, loetakse sind menstruatsiooni ärajäämise ajaks umbes neli nädalat rasedaks. Rasedusnädalate järgi korraldatakse ka jälgimine – ultraheliuuringuid, sõeluuringuid ja kontrollvisiite pakutakse kindlatel nädalatel. Kui su menstruatsioonid on ebaregulaarsed või sa pole kuupäevades kindel, paneb ajakava paika raseduse alguse ultraheliuuring. See artikkel on kogu teekonna kaart; konkreetsetel teemadel – raseduse tunnused, raseduse jälgimine, tervise hoidmine ja sünnitus – on igaühel oma artikkel.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Rasedustest",
+      "aliases": [
+        "rasedustest",
+        "kodune rasedustest",
+        "hCG test",
+        "rasedustesti tegemine",
+        "kas ma olen rase"
+      ],
+      "glance": "Kodus kasutatav rasedustest kontrollib uriinis rasedushormooni hCG olemasolu – tulemus on kõige usaldusväärsem alates esimesest vahele jäänud menstruatsioonist.",
+      "overview": "Kodus kasutatav rasedustest tuvastab uriinist hormooni nimega hCG (inimese koriongonadotropiin). Keha hakkab seda tootma mõni päev pärast viljastatud munaraku kinnitumist ning selle tase tõuseb raseduse alguses kiiresti.\n\nTest on kõige usaldusväärsem alates **menstruatsiooni väljajäämise esimesest päevast** – umbes kaks nädalat pärast viljastumist. Kui su tsükkel on ebaregulaarne või sa ei ole kindel, millal menstruatsioon peaks algama, annab usaldusväärsema tulemuse ootamine vähemalt 21 päeva pärast kaitsmata seksuaalvahekorda. Sa ei pea testi tegema kohe hommikul; sobib mis tahes kellaaeg päeva jooksul.\n\n**Positiivne** tulemus on peaaegu kindlasti õige – väga harva annab test positiivse tulemuse, kui sa ei ole rase. **Negatiivne** tulemus ei ole nii kindel: kui menstruatsioon ikka veel ei ole alanud ja sa arvad, et võid olla rase, oota paar päeva ja tee test uuesti.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui tulemus on positiivne, võta ühendust **ämmaemanda või perearstiga**, et alustada raseduse jälgimist.\n- Kui testid on negatiivsed, kuid menstruatsioon on ära jäänud ja tunned end rasedana (või halvasti), pöördu perearsti poole, et selgitada välja, mis toimub.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Enneaegne sünnitus",
+      "aliases": [
+        "enneaegne sünnitus",
+        "enneaegne sünd",
+        "enneaegsed tuhud",
+        "sünnitus enne tähtaega",
+        "looteveed tulid enneaegselt",
+        "enneaegne lootevee puhkemine"
+      ],
+      "glance": "Enneaegne sünnitus on sünnitus enne 37. rasedusnädalat – tegutse kiiresti, sest varajane ravi on väga oluline.",
+      "overview": "Enneaegne sünnitus on sünnitus, mis algab enne 37. rasedusnädalat. Seda juhtub umbes 8 sünnitusel 100-st.\n\nEnneaegselt sündinud lapsed on haavatavamad, kuid paljudel läheb hiljem hästi – eriti tänu vastsündinute osakondade spetsialiseeritud ravile. Kõige tähtsam on tegutseda kiiresti, kui arvad, et sünnitus võib alata, et sind saaks läbi vaadata ja vajaduse korral anda ravi, mis aitab last kaitsta.\n\nMärgid on samad mis sünnitusel mis tahes ajal, kuid enne 37. nädalat ei tohi neid kunagi ära oodata – need on alati põhjus kohe ühendust võtta.",
+      "deep": null,
+      "when_to_see_doctor": "- Helista oma **ämmaemandale või sünnitusosakonda** alati, kui oled **alla 37 nädala** rase ning kõhkled või muretsed – üle küsida on alati okei.",
+      "red_flags": "Võta **kohe** ühendust oma **ämmaemanda või sünnitusosakonnaga** – päeval või öösel –, kui sul on **enne 37. rasedusnädalat** mõni järgmistest:\n\n- regulaarsed **emaka kokkutõmbed või kõhu pingulminek** või menstruatsioonivalu sarnased valud\n- **äkiline vedeliku purse või nõrgumine** tupest (looteveed tulevad)\n- sinu jaoks ebatavaline **seljavalu** või survetunne all vaagnas"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (premenstruaalne sündroom)",
+      "aliases": [
+        "pms",
+        "premenstruaalne sündroom",
+        "menstruatsiooni-eelne pinge",
+        "pmt",
+        "PMDD",
+        "premenstruaalne düsfooriline häire"
+      ],
+      "glance": "PMS on füüsiliste ja emotsionaalsete muutuste kombinatsioon, mida paljud inimesed märkavad üks või kaks nädalat enne menstruatsiooni algust.",
+      "overview": "PMS – premenstruaalne sündroom – on nimetus muutustele, mida paljud tunnevad päevadel või paaril nädalal enne menstruatsiooni. See võib tabada igaüht, kellel on menstruatsioonid, ning tavaliselt leevendub see mõne päeva jooksul pärast menstruatsiooni algust.\n\nMuutused võivad olla väga erinevad. Füüsiliselt võid märgata puhitust, valulikke või tundlikke rindu, krampe, peavalu või suuremat väsimust. Emotsionaalselt võivad tekkida meeleolukõikumised, ärrituvus, ärevus või madal meeleolu. Sagedased on ka isud teatud toitude järele ja unemuutused. Kõigil PMS-i ei ole ja neil, kellel on, ei esine kõiki sümptomeid – oluline on sinu enda muster.\n\nPMS on paljude tsükli normaalne ja tuntud osa, mis on seotud tsükli teise poole loomulike hormonaalsete muutustega. Kui paned tähele, kuidas see sinul tsüklist tsüklisse avaldub, on lihtsam sellega arvestada – ja märgata, kui see kunagi muutub.",
+      "deep": null,
+      "when_to_see_doctor": "Tasub rääkida perearstiga, kui:\n\n- su sümptomid mõjutavad igapäevaelu – tööd, õpinguid, suhteid\n- igapäevased muudatused rutiinis pole aidanud\n- su madal meeleolu, ärevus või ärrituvus tundub tõsine\n\nArst saab arutada, mis võiks aidata. Raskem vorm, premenstruaalne düsfooriline häire (PMDD), võib põhjustada palju tugevamaid meeleolusümptomeid, ja ka selle puhul on abi olemas.",
+      "red_flags": "- Kui sul on PMDD sümptomid ja **sul on enesetapumõtted või tunned, et võid endale viga teha**, otsi kohe abi: **helista numbrile {{emergency}} või mine erakorralise meditsiini osakonda.** Ära sõida ise autoga – palu kellelgi end viia või kutsu kiirabi. Sa väärid toetust ja abi on olemas."
+    },
+    "progesterone": {
+      "title": "Progesteroon",
+      "aliases": [
+        "progesteroon",
+        "kollaskehahormoon"
+      ],
+      "glance": "Progesteroon on tsükli teise poole hormoon, mis valmistab pärast ovulatsiooni ette emaka limaskesta.",
+      "overview": "Progesteroon on üks peamisi menstruaaltsükli eest vastutavaid hormoone ning see hakkab domineerima tsükli teises pooles – pärast munaraku vabanemist ovulatsiooni ajal.\n\nSelle peamine ülesanne on aidata emaka limaskestal paksuks ja valmis jääda, nii et kui viljastatud munarakk sinna jõuab, saaks see kinnituda ja rasedus saaks alguse. Sel viisil toimib progesteroon östrogeeni partnerina, mis oli tsükli varasemas faasis teinud suurema osa ettevalmistustööst.\n\nKui rasedus ei alga, langeb progesterooni tase. Just see langus võimaldab emaka limaskestal eralduda järgmise menstruatsiooni käigus. Progesterooni taseme tõus ja langus tsükli teisel poolel on normaalne ja oodatav rütm.",
+      "deep": "Progesterooni toodab peamiselt kollaskeha (corpus luteum) – moodustis, mille munasari moodustab folliikulist pärast seda, kui see on munaraku vabastanud. Seepärast tõuseb progesteroon just luteaalfaasis (ovulatsioonijärgses faasis). Kui kollaskeha laguneb, langevad nii progesteroon kui ka östrogeen, mis annab märku uue tsükli algusest. Progesterooni loomulikud kõikumised on üks põhjus, miks mõned märkavad menstruatsioonile eelnevatel päevadel menstruatsioonieelseid muutusi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Ainult progestogeeni sisaldav tablett (minipill)",
+      "aliases": [
+        "minipill",
+        "ainult progestogeeni sisaldav tablett",
+        "progestiinitablett",
+        "POP",
+        "desogestreeli tablett",
+        "östrogeenivaba pill"
+      ],
+      "glance": "Minipill on igapäevane tablett, mis sisaldab ühte hormooni, mis muudab emakakaela lima paksemaks, et takistada spermat.",
+      "overview": "Ainult progestogeeni sisaldav tablett – mida nimetatakse sageli minipilliks – on igapäevane tablett, milles on vaid üks hormoon, progestogeen. See on võimalus neile, kes ei saa või ei soovi östrogeeni võtta.\n\nSelle peamine toime on emakakaela lima paksendamine, nii et seemnerakkudel on raskem munarakuni jõuda. Üks levinud tüüp, desogestreeli sisaldav tablett, takistab ka munasarjadel munarakku vabastamast (ovulatsiooni).\n\nÕigesti võetuna on selle tõhusus üle 99%; tavapärase igapäevase kasutuse korral umbes 91%. Nagu teiste tablettide puhul, on võtmise aeg oluline, ning see ei kaitse sugulisel teel levivate nakkuste eest.",
+      "deep": "Minipill erineb kombineeritud tabletist selle poolest, et selles ei ole östrogeeni, mis muudab seda, kellele see sobida võib – seda kaalub arst selle väljakirjutamisel. Mõnda tüüpi tuleb tõhususe säilitamiseks võtta iga päev üsna kitsas ajavahemikus. See artikkel selgitab, mis see on ja kuidas see toimib; kuidas seda võtta ja kas see sobib just sulle, on küsimused perearstile, õele või apteekrile.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Vägivaldse suhte äratundmine",
+      "aliases": [
+        "vägivalla äratundmine",
+        "vägivaldne suhe",
+        "lähisuhtevägivald",
+        "koduvägivald",
+        "paarisuhtevägivald",
+        "vägivalla märgid",
+        "kas ma olen vägivaldses suhtes"
+      ],
+      "glance": "Vägivald võib olla füüsiline, seksuaalne, emotsionaalne või kontrolliv – ja see ei ole kunagi selle ohvri süü.",
+      "overview": "Vägivald suhtes ei ole ainult füüsiline. Sellel võib olla mitu vormi, sageli korraga: füüsiline kahju, seksuaalne sundimine, emotsionaalne või psühholoogiline kahju ning kontrolliv käitumine – partner otsustab, kuhu sa lähed, keda näed või mida tohid teha. Kõik need võivad olla vägivald, isegi kui nähtavaid vigastusi ei ole.\n\nSee on sagedasem, kui paljud arvavad. Kogu maailmas kogeb umbes 1 naine 3-st elu jooksul füüsilist või seksuaalset vägivalda, enamasti partneri poolt; Itaalias on pilt sarnane. Seega, kui see on osa sinu elust, ei ole sa üksi ja see ei ole midagi, mille oled ise põhjustanud.\n\nSeda on raske nimetada – vägivald käib sageli segamini heade hetkede, vabanduste või muutumislubadustega ning see võib süveneda nii aeglaselt, et tundub normaalne. Oma tunde usaldamine, et midagi on valesti, on täiesti piisav põhjus abi otsida. Sa ei pea olema kindel ega ootama, kuni asi läheb „piisavalt halvaks“, et kellegagi rääkida.",
+      "deep": "Eri vormide taga on vägivallal tavaliselt sama muster: üks inimene püüab saavutada võimu ja kontrolli teise üle, ning see võib aja jooksul hullemaks minna. See mõjub tervisele tõsiselt – see on seotud ärevuse, depressiooni, unehäirete ja pikaajaliste füüsiliste tagajärgedega. Miski sellest ei tähenda, et oled nõrk või süüdi; see tähendab, et see, millega elad, on kahjulik, ning on olemas abi, mis aitab sul seda turvaliselt ja omas tempos läbi mõelda.",
+      "when_to_see_doctor": "- Võid konfidentsiaalselt kellegagi rääkida siis, kui oled valmis – perearsti või õega, vägivallaohvrite abikeskusega või abiliiniga (Itaalias **1522**, tasuta ja igal ajal). Sul ei pea enne olema tõendeid, plaani ega otsust; nad on olemas selleks, et sind kuulata ja aidata sul oma võimalusi mõista.\n- Tervishoiutöötaja saab ka vigastusi ravida ja viia sind diskreetselt kokku spetsialiseeritud abiga.",
+      "red_flags": "- Kui oled **vahetus ohus**, võta kohe ühendust hädaabiga: **112** ELis (sh Itaalias), **999** Ühendkuningriigis, **911** USAs ja Kanadas.\n- Itaalias on **1522** – tasuta riiklik vägivalla ja jälitamise abiliin – avatud 24 tundi ööpäevas, anonüümselt, telefoni või vestluse (chat) kaudu, mitmes keeles."
+    },
+    "respect-not-control": {
+      "title": "Austus, mitte kontroll",
+      "aliases": [
+        "kontrolliv käitumine",
+        "sundkontroll",
+        "tervislik suhe",
+        "hoiatusmärgid",
+        "kust abi saada",
+        "vägivald suhtes",
+        "armukadedus"
+      ],
+      "glance": "Armastus põhineb austusel ja vabadusel – kontroll, armukadedus ja surve ei ole armastus, ning abi on olemas.",
+      "overview": "Tervislik suhe põhineb austusel, usaldusel, võrdsusel ja vabadusel: kaks inimest, kellel kummalgi on alles oma sõprussuhted, valikud ja isiklik ruum. Kontroll on selle vastand. Sageli peitub see sõnade nagu armastus või armukadedus taga – „Ma vaatan su telefoni, sest hoolin sinust“, „Ma ei taha, et sa nendega kohtud, sest ma armastan sind“ –, kuid tegelikult teeb see tema maailma ja vabaduse väiksemaks.\n\nKontroll algab harva vägivallaga. Tavaliselt algab see väikestest asjadest – kriitikast, ületatud piirist, „naljast“, mis teeb haiget – ja kasvab. Seda on oluline varakult nimetada, sest sundkontroll on iseenesest vägivalla vorm ja hoiatusmärk millestki hullemast. Asi ei ole süütundes, vaid aususes ja muutumises.",
+      "deep": "**Kui tunned osa sellest enda juures ära, on see teadlikkus alguspunkt – mitte eluaegne karistus.** Inimesed suudavad tõelise pingutuse ja õige abiga muutuda. Pöördumine spetsiaalse programmi poole, mis on mõeldud meestele, kes tahavad lõpetada kontrolliva või vägivaldse käitumise, on tugevuse, mitte nõrkuse märk. Räägi spetsialisti, arsti või meestele mõeldud käitumise muutmise teenusega.\n\nKui ohus on **tema** või kui muretsed kellegi pärast, julgusta ja toeta teda abi otsimisel – tema tingimustel, mitte kunagi asju enda kätte võttes.\n\n**Kust abi saada**\n- Hädaolukorras või kui keegi on vahetus ohus, helista kohalikule hädaabinumbrile (Itaalias ja suuremas osas Euroopas **112**; USAs **911**).\n- **Itaalia – 1522**: riiklik vägivalla ja jälitamise abiliin. Tasuta, 24/7, anonüümne ja mitmekeelne; seda haldab võrdsete võimaluste osakond. See suunab inimesi ka kohalikesse vägivallaohvrite abikeskustesse (centri antiviolenza).\n- Vägivallaohvrite abikeskused ja meestele mõeldud käitumise muutmise programmid (Itaalias „centri per uomini autori di violenza“) pakuvad konfidentsiaalset tuge muutumiseks.",
+      "when_to_see_doctor": null,
+      "red_flags": "Kontrolliva või vägivaldse käitumise hoiatusmärgid – neid tasub võtta tõsiselt nii enda käitumises kui ka suhtes:\n\n- **Jälgimine või isoleerimine**: tema telefoni kontrollimine, tema asukoha jälgimine või tema sõpradest ja perest eemaldamine.\n- **Kontroll tema valikute üle**: raha, mida ta kannab, kuhu ta läheb, keda ta näeb.\n- **Armastuseks nimetatud armukadedus**, pidevad süüdistused või vajadus igal hetkel teada, kus ta on.\n- **Halvustamine, süüdistamine või talle hirmu tekitamine**, süütunde tekitamine või olukord, kus ta peab „kõndima nagu munakoortel“.\n- **Surve või ähvardused** seoses seksi, lahkuminekuga või endale viga tegemisega, et teda allutada.\n- **Igasugune füüsiline jõud, hirmutamine või hirm.** Kui see on olemas, on see vägivald – pöördu ülal nimetatud abi poole. Selleks ei ole kunagi vabandust ja see ei ole kunagi tema süü."
+    },
+    "safety-plan": {
+      "title": "Turvaplaani koostamine",
+      "aliases": [
+        "turvaplaan",
+        "ohutusplaan",
+        "turvaplaani koostamine",
+        "turvaliseks jäämine",
+        "ohutu lahkumine",
+        "kuidas turvaliselt lahkuda"
+      ],
+      "glance": "Turvaplaan on mõned praktilised sammud, mis aitavad sul olla turvalisemas olukorras – ja väljaõppinud abiteenused aitavad sul selle koostada.",
+      "overview": "Turvaplaan tähendab lihtsalt ette mõtlemist, kuidas hoida ennast (ja lapsi) turvalisemana. See ei ole otsus lahkuda või jääda – asi on selles, et olla veidi paremini valmis, ükskõik mida sa valid.\n\nMõnele on abiks, kui mõned asjad on vaikselt paigas: usaldusväärne inimene, kes teab, mis toimub; olulised dokumendid ja telefoninumbrid kohas, kust need kätte saad; väike kott hädavajalikuga; teadmine, millised on kõige turvalisemad teed kodust välja; või sõna või märguanne, millega annad kellelegi teada, et vajad abi. Mis on mõistlik, sõltub täielikult sinu olukorrast.\n\nSa ei pea seda üksi välja mõtlema, ja sageli on turvalisem mitte üksi teha. Vägivallaohvrite abiteenustel on kogemus turvaplaanide koostamisel koos inimestega, konfidentsiaalselt ja tasuta – ka lahkumise ajaks, mis võib olla suurema riskiga hetk ja mida tasub planeerida koos toetajatega, mitte kiirustades.",
+      "deep": null,
+      "when_to_see_doctor": "- Võta ühendust vägivallaohvrite abikeskuse või abiliiniga (Itaalias **1522**), et koostada sinu olukorrale sobiv plaan – nad teevad seda iga päev, konfidentsiaalselt, ning saavad aidata praktiliste, juriidiliste ja emotsionaalsete sammudega.\n- Kui paned toimuvat kirja, hoia neid märkmeid privaatses ja turvalises kohas.",
+      "red_flags": "- Kui oled **vahetus ohus**, võta kohe ühendust hädaabiga: **112** ELis (sh Itaalias), **999** Ühendkuningriigis, **911** USAs ja Kanadas.\n- Itaalias saab numbril **1522** – tasuta, 24 tundi ööpäevas, anonüümselt, mitmes keeles – abi telefoni või vestluse (chat) kaudu, sealhulgas kiire turvaplaani koostamisel."
+    },
+    "sex-during-your-period": {
+      "title": "Seks menstruatsiooni ajal",
+      "aliases": [
+        "seks menstruatsiooni ajal",
+        "seks päevade ajal",
+        "seksimine menstruatsiooni ajal",
+        "kas menstruatsiooni ajal saab rasestuda",
+        "rasestumine päevade ajal",
+        "kas päevade ajal võib rasedaks jääda"
+      ],
+      "glance": "Seks menstruatsiooni ajal on okei, kui te mõlemad seda tahate, kuid rasestuda või sugulisel teel levivat nakkust edasi anda saab ikkagi.",
+      "overview": "Seks menstruatsiooni ajal on isiklik valik. Kui te mõlemad seda tahate ja tunnete end mugavalt, on see okei ning selles pole midagi valet ega ebatavalist. Mõned on sel ajal tundlikumad või lihtsalt ei ole tujus, teised naudivad seda. Kõige olulisem on kuulata oma keha ja rääkida partneriga avatult.\n\nMenstruatsioon ei toimi aga rasestumisvastase vahendina. Rasestumise tõenäosus on väiksem kui ovulatsiooni ajal, kuid see ei ole null. Seemnerakud võivad kehas elada kuni 7 päeva pärast seksi, nii et kui ovulatsioon toimub varakult – mis on lühema tsükli korral tõenäolisem –, võivad menstruatsiooni ajal või vahetult pärast seda toimunud seksist pärit seemnerakud ikkagi munarakuga kohtuda. Kui sa ei taha rasestuda, on su tavaline rasestumisvastane vahend ka neil päevadel oluline.\n\nMenstruatsioon ei kaitse ka sugulisel teel levivate nakkuste (STI-de) eest. Nakkused võivad kondoomita seksi ajal partnerite vahel levida ning neid põhjustavad mikroobid võivad olla nii veres kui ka teistes kehavedelikes. Kondoom on meetod, mis vähendab ka sugulisel teel levivate nakkuste, sealhulgas HIV-i riski, seega tasub seda kasutada igal ajal kuus.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui sul oli seks **ilma rasestumisvastase kaitseta** või su rasestumisvastane vahend võis läbi kukkuda ja sa ei taha rasestuda, räägi **nii kiiresti kui võimalik** apteekri, perearsti või seksuaaltervise kliinikuga erakorralisest rasestumisvastasest kaitsest. Seda tuleb kasutada mõne päeva jooksul ja tavaliselt toimib see seda paremini, mida varem seda kasutatakse.\n- Küsi abi apteekrilt, seksuaaltervise kliinikust või perearstilt, kui **kondoom rebeneb või tuleb seksi ajal ära**. Sul võib olla vaja erakorralist rasestumisvastast kaitset või sugulisel teel levivate nakkuste testi.\n- Pöördu perearsti või seksuaaltervise kliiniku poole, kui märkad **veritsust pärast seksi ajal, mil sul ei ole menstruatsiooni**. Tavaliselt ei ole see midagi tõsist, kuid alati tasub lasta see üle vaadata.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Seks raseduse ajal",
+      "aliases": [
+        "seks raseduse ajal",
+        "seks rasedana",
+        "seksimine raseduse ajal",
+        "kas seks on raseduse ajal ohutu",
+        "intiimsus raseduse ajal",
+        "orgasm raseduse ajal"
+      ],
+      "glance": "Seks on enamiku raseduste puhul ohutu ega tee lapsele kahju, kui ämmaemand või arst ei ole soovitanud teisiti.",
+      "overview": "Enamiku jaoks on seks raseduse ajal ohutu, kui ämmaemand või arst ei ole öelnud teisiti. Laps on emakas hästi kaitstud ja seks ei tee talle kahju.\n\nMõnes olukorras võidakse sul soovitada penetratsiooniga seksi vältida: kui sul on **madalal asetsev platsenta (placenta praevia)**, verejooksu ohu tõttu; kui su **looteveed on tulnud**, nakkusohu tõttu; või kui sul on olnud **mitu raseduse katkemist**.\n\nSeksuaalsoov muutub raseduse ajal sageli – mõni tahab seksi rohkem, mõni vähem, mõni mõnda aega üldse mitte –, ja oma osa mängivad hormoonid, kehamuutused, väsimus, iiveldus ja mured. Kõik see on normaalne. Kui sul pole seksi tuju, on suudlemine, kaisutamine ja massaaž teised viisid lähedaseks jääda.\n\nKõhu kasvades muutuvad mõned asendid ebamugavaks; külg külje kõrval asendid tunduvad sageli kergemad. Hormoonid võivad muuta tupe kuivemaks ja abiks võib olla veepõhine libesti.\n\nRaseduse lõpus võivad seks või orgasm esile kutsuda Braxton-Hicksi kokkutõmbeid, mil emakas muutub mõneks ajaks kõvaks. See on normaalne ega tähenda sünnituse algust – ja puuduvad tõendid, et seks sünnitust esile kutsuks.\n\nKui kummalgi teist võib olla sugulisel teel leviv nakkus, kasutage kondoomi, ka suuseksi puhul: ravimata nakkus võib tõsiselt kahjustada sind ja last. Vältige suuseksi, kui kummalgi teist on huuleherpes, sest viirus võib kanduda lapsele.",
+      "deep": null,
+      "when_to_see_doctor": "- Räägi oma **ämmaemanda või arstiga**, kui sa pole kindel, kas seks on sinu jaoks ohutu, või kui mured seksi või suhte pärast sind rõhuvad.\n- Kui sul on raseduse ajal **ükskõik milline veritsus**, lase see üle vaadata, enne kui uuesti seksid – võta ühendust ämmaemanda, arsti või sünnitusosakonnaga.\n- Pöördu **seksuaaltervise kliinikusse**, kui sinul või su partneril võib olla sugulisel teel leviv nakkus.",
+      "red_flags": "- Võta kohe ühendust oma **sünnitusosakonnaga**, kui arvad, et su **looteveed on tulnud**, ja ära seksi enne, kui sind on läbi vaadatud.\n- Helista numbrile **{{emergency}} või mine erakorralise meditsiini osakonda**, kui sul on **tugev verejooks**, eriti koos **tugeva kõhuvaluga** või minestamistundega."
+    },
+    "sexual-violence": {
+      "title": "Seksuaalne vägivald ja nõusolek",
+      "aliases": [
+        "seksuaalvägivald",
+        "seksuaalne rünnak",
+        "vägistamine",
+        "nõusolek",
+        "seksuaalne väärkohtlemine",
+        "seks ilma nõusolekuta"
+      ],
+      "glance": "Seksuaalvägivald on igasugune seksuaalne tegu ilma nõusolekuta – ja see ei ole kunagi selle inimese süü, kellega see juhtus.",
+      "overview": "Seksuaalvägivald tähendab igasugust seksuaalset tegu või katset seda saavutada ilma nõusolekuta või sundimise teel. See hõlmab vägistamist ja igasugust soovimatut seksuaalset kontakti ning selle võib toime panna igaüks – võõras, tuttav, partner või abikaasa.\n\nKõige keskmes on nõusolek. Nõusolek tähendab vabatahtlikku nõustumist ja see ei ole võimalik, kui inimene magab, on teadvusetu, purjus või uimastatud, on laps või teda survestatakse, ähvardatakse või ta kardab. Nõusoleku võib igal hetkel tagasi võtta. Seetõttu ei ole seksuaalvägivald **kunagi** selle inimese süü, kellega see juhtus – ei selle pärast, mida ta kandis, kas ta oli joonud, kas ta tardus, selle asemel et vastu hakata, ega selle pärast, kas ta tundis seda inimest.\n\nKui see on sinuga juhtunud, on abi olemas, olgu see juhtunud hiljuti või ammu. Sind usutakse ja see, mida sa edasi teed, on sinu otsus.",
+      "deep": null,
+      "when_to_see_doctor": "- Võid pöörduda **tervishoiuasutusse, haiglasse või seksuaalvägivalla ohvritele mõeldud keskusesse**, kus sinu eest hoolitsetakse, ravitakse vigastusi ja – kui soovid – aidatakse juhtunust teatada ja tõendeid säilitada.\n- Mõned tervisega seotud sammud on **ajast sõltuvad** – näiteks erakorraline rasestumisvastane kaitse või nakkuse ennetamine –, seega võib **kiire** pöördumine aidata. Toe saamisel ei ole aga ajapiirangut ja see, kas juhtunust teatada, on alati sinu otsus.",
+      "red_flags": "- Kui oled **vahetus ohus**, võta kohe ühendust hädaabiga: **112** ELis (sh Itaalias), **999** Ühendkuningriigis, **911** USAs ja Kanadas.\n- Hiljutise rünnaku järel **saab haigla või spetsialiseeritud keskus kiiresti aidata**. Itaalias saab **1522** (tasuta, 24/7, anonüümne, mitmekeelne – telefoni või vestluse kaudu) suunata sind õige abi juurde."
+    },
+    "signs-of-labour": {
+      "title": "Sünnituse tunnused",
+      "aliases": [
+        "sünnituse tunnused",
+        "sünnitus",
+        "sünnitus algab",
+        "tuhud",
+        "looteveed tulevad",
+        "limakork",
+        "latentne faas"
+      ],
+      "glance": "Sünnituse alguse märgid on regulaarsed kokkutõmbed, limakorgi eraldumine, seljavalu või lootevete tulek.",
+      "overview": "Sünnituse algusele võivad viidata mõned märgid. Peamine neist on kokkutõmbed ehk tuhud – kõhu pingulminekud, mis korduvad regulaarselt ja muutuvad tugevamaks. Teised märgid on limakorgi eraldumine (emakakaela sulgenud lima tuleb välja), püsiv seljavalu, tung tualetti minna ja lootevete tulek.\n\nEnne aktiivset sünnitust on sageli varajane (latentne) faas, mil emakakael pehmeneb ja hakkab avanema. See võib kesta tunde või isegi päevi, ja paljude jaoks on sel ajal täiesti sobiv olla mugavalt kodus, puhata ja juua piisavalt.\n\nIgaühe sünnitus algab veidi erinevalt, seega ei pea kõiki märke olema. Kui arvad, et sünnitus on algamas, on su ämmaemand või sünnitusosakond olemas, et juhendada, mida teha ja millal kohale tulla.",
+      "deep": null,
+      "when_to_see_doctor": "- Helista juhiste saamiseks oma **ämmaemandale või sünnitusosakonda**, kui arvad, et sünnitus on alanud, või kui kokkutõmbed on **regulaarsed – umbes iga 5 minuti järel**. Kui ämmaemandat kätte ei saa, helista haiglasse, kus kavatsed sünnitada.",
+      "red_flags": "Helista **kohe** oma **ämmaemandale või sünnitusosakonda** – päeval või öösel, ära oota –, kui:\n\n- su **looteveed tulevad** (eriti kui vedelik on roheline, pruun või halva lõhnaga)\n- sul on **ükskõik milline verejooks tupest**\n- su **laps liigub tavalisest vähem**\n- sul on sünnituse märgid ja oled **alla 37 nädala rase**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Raseduse tunnused",
+      "aliases": [
+        "raseduse tunnused",
+        "raseduse esimesed märgid",
+        "varase raseduse sümptomid",
+        "kas ma olen rase",
+        "raseduse sümptomid"
+      ],
+      "glance": "Menstruatsiooni ärajäämine on sageli raseduse esimene märk, vahel koos iivelduse, väsimuse või rindade hellusega.",
+      "overview": "Paljude inimeste jaoks on raseduse esimene märk **menstruatsiooni ärajäämine**. Kuid igaühe keha on erinev ja mõned märkavad esmalt teisi varajasi märke – sageli umbes 4.–6. nädalal.\n\nTavalised varased sümptomid hõlmavad iiveldust või oksendamist (mis tahes kellaajal, mitte ainult hommikul), rindade suurenemise või valulikkuse tunnet, ebatavalist väsimust ja sagedamat urineerimisvajadust. Mõned inimesed märkavad ka metallilist maitset, uut tundlikkust teatud lõhnade suhtes või seda, et neile ei maitse enam toidud, mida nad tavaliselt armastavad.\n\nÜkski neist sümptomitest ei tähenda iseenesest, et oled kindlasti rase – paljud neist kattuvad tsükli tavaliste kõikumistega – ja mitte kõigil neid ei esine. Kindlaks teada saad seda rasedustesti abil.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui test on positiivne, võta ühendust **ämmaemanda või perearstiga**, et raseduse jälgimine saaks varakult alata.\n- Kui menstruatsioon hilineb ja testid on negatiivsed, kuid sümptomid jätkuvad, tasub pöörduda perearsti poole, et vaadata, mis muu võiks toimuda.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Suitsetamine raseduse ajal",
+      "aliases": [
+        "suitsetamine raseduse ajal",
+        "suitsetamisest loobumine raseduse ajal",
+        "suitsetamise mahajätmine rasedana",
+        "e-sigaret raseduse ajal",
+        "veipimine raseduse ajal"
+      ],
+      "glance": "Suitsetamisest loobumine on üks parimaid asju, mida sa oma lapsele teha saad – ja selleks pole kunagi liiga hilja.",
+      "overview": "Suitsetamisest loobumine on üks kõige mõjusamaid samme, mida saad astuda, et tagada oma lapsele tervislik algus. Iga sigaret piirab su lapsele jõudvat hapnikku, mis sunnib tema südant rohkem töötama ja võib pidurdada tema kasvu.\n\nRaseduse ajal suitsetamine suurendab tõsiste terviseprobleemide riski, sealhulgas raseduse katkemist, enneaegset sünnitust, madalat sünnikaalu, surnult sündi ja imiku äkksurma sündroomi (SIDS) pärast sündi. Ka passiivne suitsetamine on oluline, seega aitab suitsuvaba kodu kaasa.\n\nJulgustav on see, et **kunagi** pole **liiga hilja**. Suitsetamisest loobumine mis tahes rasedusetapis aitab, kuid varajane loobumine toob kõige suuremat kasu. See võib olla tõepoolest raske, kuid just sellepärast ongi olemas tasuta abi – ja selle kasutamine suurendab edu tõenäosust märkimisväärselt.",
+      "deep": null,
+      "when_to_see_doctor": "- Küsi oma **ämmaemandalt tasuta suitsetamisest loobumise abi** kohta – väljaõppinud nõustajad (mõned neist on spetsialiseerunud rasedatele) saavad sind toetada ning paljudes riikides on ka tasuta suitsetamisest loobumise nõuandetelefon. Abi otsimine näitab, et hoolitsed oma lapse eest – see ei ole läbikukkumine.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Määrimine ja veritsus menstruatsioonide vahel",
+      "aliases": [
+        "määrimine",
+        "veritsus menstruatsioonide vahel",
+        "vaheveritsus",
+        "läbimurdeveritsus",
+        "veritsus pärast seksi",
+        "pruun määrimine"
+      ],
+      "glance": "Määrimine on kerge veritsus menstruatsioonide vahel või pärast seksi – sageli pole see midagi tõsist, kuid alati tasub see lasta üle vaadata.",
+      "overview": "Määrimine tähendab kerget veritsust, mis tekib menstruatsioonide vahel või pärast seksi, väljaspool tavalist menstruatsiooni. See on sage ja tavaliselt ei ole see midagi tõsist – kuid kuna sellel võib olla mitu põhjust, tasub seda alati lasta arstil kontrollida.\n\nIgapäevaseid põhjusi on palju. Üks sagedasemaid on hormonaalse rasestumisvastase vahendi alustamine või kasutamine. Teised põhjused on näiteks väikesed ohutud moodustised emakas või selle ümbruses (polüübid või müoomid), ohutud muutused emakakaela pinnal, tupekuivus või nakkus, näiteks klamüüdia.\n\nKuna samal sümptomil võib olla eri põhjusi – millest enamik on tühised –, ei ole mõtet oletada, vaid kasulik on lasta see üle vaadata, et saaksid teada, mis sinu puhul selle taga on.",
+      "deep": null,
+      "when_to_see_doctor": "- Pöördu perearsti või seksuaaltervise kliiniku poole **alati, kui sul on veritsust menstruatsioonide vahel või pärast seksi**, isegi kui see on kerge. Tavaliselt ei ole see midagi tõsist, kuid kontrolli käigus selgub põhjus – ja nii saab harvemad põhjused varakult välistada.",
+      "red_flags": "- Kui su **menstruatsioon on ära jäänud ja sul on ebatavaline veritsus koos kõhu- või vaagnavaluga**, palu **kiiret** vastuvõttu perearsti juurde või võta ühendust **valvearstiga** – see vajab kiiret läbivaatust, sest see võib olla emakavälise raseduse märk."
+    },
+    "stalking": {
+      "title": "Jälitamine",
+      "aliases": [
+        "jälitamine",
+        "mind jälitatakse",
+        "ahistamine",
+        "soovimatu tähelepanu",
+        "keegi jälitab mind",
+        "küberjälitamine",
+        "stalkimine"
+      ],
+      "glance": "Jälitamine on korduv, soovimatu tähelepanu, mis paneb sind kartma või end ebaturvaliselt tundma – ja seda võetakse tõsiselt.",
+      "overview": "Jälitamine on kellegi korduv soovimatu käitumine, mis paneb sind kartma või tundma, et sind jälgitakse või et sa ei ole turvaliselt. See võib tähendada, et sind jälitatakse, keegi ilmub sinna, kus sa oled, helistab või kirjutab pidevalt, saadab soovimatuid kingitusi, jälgib sind internetis või telefoni kaudu või ähvardab. Sageli teeb seda endine partner või keegi tuttav, kuid mitte alati.\n\nHirm, mida see tekitab, on põhjendatud, isegi kui iga üksik tegu võib teistele „väikesena“ tunduda – oluline on muster ja see, kuidas see sind tundma paneb. Jälitamist käsitletakse vägivalla vormina ja paljudes riikides on see kuritegu. Miski sellest ei ole sinu süü ja sa ei pea sellega lihtsalt leppima.\n\nKui see on ohutu, võib hiljem aidata toimuva kirja panemine: kuupäevad ja kellaajad, sõnumite ekraanipildid ja see, mis juhtus. Sa ei pea üksi otsustama, kas see „loeb“ – tugiteenused aitavad sul olukorda mõista ja oma võimalusi kaaluda.",
+      "deep": null,
+      "when_to_see_doctor": "- Võta ühendust **politseiga**, et jälitamisest teatada, ning vägivalla või jälitamise korral abi pakkuva abiliiniga, et saada tuge ja nõu (Itaalias on **1522** mõeldud vägivalla **ja** jälitamise korral).\n- Tõendite säilitamine ja turvaplaani koostamine spetsialiseeritud abiteenuse toel võivad mõlemad tõeliselt aidata.",
+      "red_flags": "- Kui tunned, et oled **vahetus ohus**, võta kohe ühendust hädaabiga: **112** ELis (sh Itaalias), **999** Ühendkuningriigis, **911** USAs ja Kanadas.\n- Itaalias saab numbril **1522** – tasuta, 24 tundi ööpäevas, anonüümselt, mitmes keeles – abi telefoni või vestluse (chat) kaudu."
+    },
+    "stillbirth": {
+      "title": "Surnultsünd",
+      "aliases": [
+        "surnultsünd",
+        "surnult sündinud laps",
+        "lapse kaotus",
+        "hiline raseduse kaotus",
+        "laps sündis surnuna"
+      ],
+      "glance": "Surnultsünd on lapse kaotus pärast 24. rasedusnädalat – see on harv, ei ole kunagi sinu süü ja sind toetatakse selle juures alati.",
+      "overview": "Surnultsünd tähendab, et laps sünnib surnuna pärast 24. rasedusnädalat. (Kaotust enne 24. nädalat nimetatakse raseduse katkemiseks.) See on harv – umbes 1 juhul 250 sünnist –, kuid perede jaoks, keda see puudutab, on see sügav kaotus, ja kogu järgnev abi on mõeldud selleks, et sind sellest õrnalt läbi kanda.\n\nVahel leitakse põhjus – näiteks probleem platsentaga või lapse arenguga või mõni terviseseisund –, vahel aga hoolimata uuringutest **ei leita üldse põhjust**. Ükskõik mis on põhjus, surnultsünd ei ole midagi, mida lapsevanem oleks põhjustanud või osanud ära hoida.\n\nÜks asi aitab tõesti riski vähendada, ja see on lihtne: **anna kohe ämmaemandale teada, kui su lapse liigutused aeglustuvad või muutuvad.** Lisaks mängivad oma osa igapäevased asjad – rasedusaegsetel vastuvõttudel käimine, mitte suitsetamine, alkoholi vältimine ja alates 28. nädalast külili magamine.",
+      "deep": null,
+      "when_to_see_doctor": "- Võta **kohe ühendust ämmaemanda või sünnitusosakonnaga** – ükskõik mis ajal, päeval või öösel –, kui su **laps liigub tavalisest vähem või tema liigutused tunduvad teistsugused.** Ära kunagi oota, kas see möödub; kontrolli minek on täpselt õige tegu ja sa ei tüüta sellega kunagi kedagi.\n- Pärast kaotust on sinu jaoks olemas spetsialiseerunud ämmaemandad ja leinatoe meeskonnad – otsuste, praktiliste sammude ja leina jaoks. Sa ei pea millegagi sellest üksi silmitsi seisma ning lapse kaotuse tugirühmad on sinu jaoks olemas nii kaua, kui neid vajad.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stress, elu ja menstruatsioon",
+      "aliases": [
+        "stress ja menstruatsioon",
+        "stress",
+        "menstruatsioon jäi ära",
+        "menstruatsioon hilineb",
+        "päevad hilinevad",
+        "miks mu menstruatsioon hilineb"
+      ],
+      "glance": "Stress, suured kaalumuutused või intensiivne treening võivad menstruatsiooni edasi lükata või peatada – sageli vaid ajutiselt.",
+      "overview": "On tavaline, et menstruatsioon võib hilineda või ühe kuu vahele jääda, ning selle põhjus on sageli seotud pigem eluviisiga kui mingi terviseprobleemiga. Stress on üks sagedasemaid põhjuseid – sama süsteem, mis reageerib pingele, võib mõjutada ka tsüklit reguleerivaid hormoone.\n\nKa muud igapäevased asjad võivad menstruatsiooni rütmi mõjutada: suur kaalumuutus (kas suurenemine või vähenemine), intensiivne treening või väsimus. Selle põhjuseks võivad olla ka hormonaalsed muutused – näiteks perimenopausi lähenemine või sellised seisundid nagu polütsüstiline munasarjasündroom (PCOS) –, samuti rasedus ja mõned rasestumisvastased vahendid. Sageli varieerub menstruatsioonide vaheline aeg lihtsalt aeg-ajalt veidi, ja see on normaalne.\n\nRahustav on see, et ühekordne menstruatsiooni hilinemine või puudumine ei ole tavaliselt põhjust muretsemiseks ning olukord normaliseerub sageli koos elu kulgemisega. Tähelepanu tuleks pöörata pigem muutuste mustrile kui ühele konkreetsele kuule.",
+      "deep": null,
+      "when_to_see_doctor": "Pöördu perearsti poole, kui:\n\n- sul on jäänud ära **kolm menstruatsiooni järjest** või su menstruatsioonid on muutunud **ebaregulaarseks**\n- su menstruatsioonid **lakkavad** ja sa ei tea miks (kui rasedus on võimalik, tasub kõigepealt teha rasedustest)\n- ärajäänud menstruatsioonidega kaasnevad muud muutused – näiteks ootamatud kehakaalu muutused, väsimus, suurenenud karvakasv või madal meeleolu\n\nNeed kontrollid on lihtsalt selleks, et mõista, mis muutuse taga on – ja tavaliselt on see midagi, millega saab toime tulla.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Tema toetamine menstruatsiooni ajal",
+      "aliases": [
+        "abi tema menstruatsiooni ajal",
+        "kuidas toetada partnerit menstruatsiooni ajal",
+        "hoolitsemine menstruatsiooni ajal",
+        "tema päevad",
+        "menstruatsioonivalu leevendamine"
+      ],
+      "glance": "Menstruatsioon võib põhjustada tõelist valu ja väsimust — väikesed, praktilised hoolitsusviisid teevad suurt vahet.",
+      "overview": "Menstruatsioon ei ole ainult paar päeva veritsust; paljudel kaasnevad sellega krambid, seljavalu, peavalu, väsimus ja jõuetus. Menstruatsioonivalu on sage ja võib olla tõeliselt kurnav – see ei ole liialdamine. Suhtu sellesse nii, nagu suhtuksid partnerisse, kes on haige: praktilise lahkusega.\n\nTee see ka normaalseks. Menstruatsioon ei ole vastik, piinlik ega tabu. Kui ostad hügieenisidemeid või tampoone ilma piinlikkuseta, hoiad neid kodus varuks või ulatad talle soojaveepudeli ilma suurt numbrit tegemata, annad talle märku, et ta on turvalises kohas ja teda toetatakse.",
+      "deep": "Lihtsad asjad, mis aitavad:\n\n- **Soojus ja puhkus.** Soojaveepudel või soojenduspadi alakõhul leevendab krampe; paku vaikset õhtut kodus.\n- **Võta tal asju õlult.** Tee süüa, korista, käi poes, sõida teda kuhu vaja – praktiline abi mõjub rohkem kui sõnad.\n- **Hoia varud olemas.** Tea, mida ta kasutab, ja hoia varu, et tugev päev ei muutuks kunagi kriisiks.\n- **Valuvaigistid ja lohutav toit**, kui ta neid tahab; see on tema valik.\n- **Ära survesta teda seksiks ega nõua energiat, mida tal pole.** Lähedus võib olla lihtsalt kaisutamine diivanil.",
+      "when_to_see_doctor": "Julgusta teda pöörduma arsti poole (ja paku, et tuled kaasa), kui menstruatsioonivalu on **tugev, süveneb või takistab tema igapäevaelu**, kui menstruatsioon on **väga tugev** (hügieenivahendid saavad iga tunniga täiesti läbimärjaks, suured verehüübed) või kui valu on uus ja ebatavaline – need võivad viidata sellistele haigustele nagu endometrioos, mis väärivad korralikku ravi.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Vägivalla ohvri toetamine",
+      "aliases": [
+        "kellegi toetamine",
+        "sõbra aitamine",
+        "kuidas aidata",
+        "vägivalda kogev inimene",
+        "kuidas toetada",
+        "sõber on vägivaldses suhtes"
+      ],
+      "glance": "Kui keegi sinu tuttav võib kogeda vägivalda, aitab see, kui kuulad teda hukka mõistmata – ja tead, kuhu teda suunata.",
+      "overview": "Mõista, et keegi, kellest hoolid, võib kogeda vägivalda, on raske, ja soov aidata on hea instinkt. Kõige kasulikum, mida pakkuda saad, on sageli kõige lihtsam.\n\nKuula ja usu teda. Lase tal rääkida omas tempos, ilma hukka mõistmata, süüdistamata või küsimata, mida ta tegi, et see juhtus. Ütle selgelt, et see ei ole tema süü ja et ta ei vääri seda. Püüa mitte öelda talle, mida teha, ega käia peale, et ta lahkuks: lahkumine on tema otsus ja kiirustades lahkumine võib ohtu hoopis suurendada – rohkem aitab see, kui ta tunneb, et teda toetatakse ja ta ei ole üksi.\n\nHoia seda, mida ta sulle räägib, enda teada. Aita tal õrnalt leida spetsialiseeritud abi, kui ta on valmis – näiteks Itaalias abiliin **1522** või kohalik vägivallaohvrite abikeskus – ning paku praktilist abi, näiteks otsige koos numbrid üles või ole tema kõrval, kui ta helistab. Ja hoolitse ka enda eest; kellegi sellises olukorras toetamine võib olla raske.",
+      "deep": null,
+      "when_to_see_doctor": "- Julgusta teda (survet avaldamata) võtma ühendust abiliini või vägivallaohvrite abikeskusega, kus saate mõlemad juhiseid, mida edasi teha. Võid pakkuda, et aitad tal helistada või numbri üles leida.\n- Kui ta on vigastatud, saab perearst või haigla aidata – ja viia ta kokku tugiteenustega.",
+      "red_flags": "- Kui ta on **vahetus ohus**, helista hädaabisse: **112** ELis (sh Itaalias), **999** Ühendkuningriigis, **911** USAs ja Kanadas.\n- Itaalias saad ka numbrilt **1522** (tasuta, 24/7, anonüümne, mitmekeelne – telefoni või vestluse kaudu) nõu, kuidas kedagi aidata."
+    },
+    "the-coil": {
+      "title": "Spiraal (IUD ja IUS)",
+      "aliases": [
+        "spiraal",
+        "emakasisene vahend",
+        "IUD",
+        "IUS",
+        "vaskspiraal",
+        "hormoonspiraal",
+        "emakasisene süsteem",
+        "Mirena"
+      ],
+      "glance": "Spiraal on emakasse paigaldatav väike seade – vasest (IUD) või hormonaalne (IUS) –, mis püsib seal aastaid.",
+      "overview": "Spiraal on väike vahend, mille arst paigaldab emakasse. Neid on kahte liiki ja neid on kasulik eristada:\n\n- **IUD** ehk vaskspiraal ei sisalda hormoone. Vask muudab emaka keskkonda nii, et seemnerakud ja munarakud ei püsi seal hästi elus, ning mõjutab ka emakakaela lima. Olenevalt tüübist toimib see umbes 5–10 aastat.\n- **IUS** ehk hormoonspiraal vabastab vase asemel hormooni progestogeeni. See paksendab emakakaela lima ja õhendab emaka limaskesta; mõnel võib see muuta menstruatsiooni ka palju nõrgemaks.\n\nMõlemad on „paigalda ja unusta“ meetodid ja mõlema tõhusus on üle 99%, kusjuures ideaalse ja tavapärase kasutuse vahel on vähe vahet. Kumbki ei kaitse sugulisel teel levivate nakkuste eest.",
+      "deep": "Spiraalid on pikatoimelised pöörduvad meetodid: kui need on paigaldatud, toimivad need aastaid ning viljakus taastub pärast eemaldamist. Paigaldamise ja eemaldamise teeb väljaõppinud meditsiinitöötaja ning see võtab vaid mõne minuti, kuigi mõnele on paigaldamine ebamugav. Sage põhjus, miks nende kahe vahel valitakse, on nende mõju menstruatsioonile – vaskspiraal võib alguses menstruatsiooni tugevamaks muuta, hormoonspiraal aga muudab selle sageli nõrgemaks. Milline sulle sobib, tasub arutada arstiga; see artikkel selgitab vaid, kuidas kumbki toimib.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Menstruatsioonieelsed päevad",
+      "aliases": [
+        "PMS partnerile",
+        "tema toetamine enne menstruatsiooni",
+        "menstruatsioonieelne toetus",
+        "luteaalfaasi toetus",
+        "PMS ja suhe"
+      ],
+      "glance": "Menstruatsiooni eel võib ta tunda end väsinumana, tundlikumana või masendununa – suhtu sellesse kannatlikult, mitte naljadega.",
+      "overview": "Umbes nädal enne menstruatsiooni tekivad paljudel premenstruaalsed sümptomid: meeleolumuutused, ärrituvus või madal meeleolu, väsimus, valulikud rinnad, puhitus, peavalu või uneprobleemid. See on väga sage ja täiesti päris – selle taga on luteaalfaasi loomulikud hormonaalsed muutused, mitte see, et ta „reageerib üle“.\n\nVäiksemal osal on madal meeleolu raske (seda seisundit nimetatakse PMDD-ks) ning see väärib tõelist toetust ja arstiabi. Igal juhul ei ole sinu ülesanne talle diagnoosi panna ega teda „parandada“ – sinu ülesanne on olla rahulik ja lahke.\n\nKõige kahjulikum, mida partner siin teha saab, on kasutada seda relvana: „sul on lihtsalt PMS“, silmade pööritamine või tema tunnete pidamine kehtetuks kuupäeva pärast. See pisendab teda ja lisab niigi raskele nädalale haiget. Tema tunded loevad ikkagi, isegi kui hormoonid on osa pildist.",
+      "deep": "Mis neil päevadel tegelikult aitab:\n\n- **Kergenda tema koormat.** Võta enda peale kodutööd, söögitegemine või meeles peetavate asjade nimekiri, ilma et sind peaks paluma.\n- **Lohutus, mitte parandamine.** Paku soojust, puhkust, soojaveepudelit, tema lemmiktoitu – ja lase tal tunda seda, mida ta tunneb.\n- **Kuula kõigepealt.** Kui ta on endast väljas, on „see kõlab tõesti raskena“ alati parem kui „rahune maha“.\n- **Ära pea arvet.** Raskem päev ei ole võlg, mida ta peaks sulle hiljem tasuma.\n- **Küsi, mida ta vajab** – mõni tahab lähedust, mõni ruumi. Mõlemad on okei; austa tema vastust.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Kaksik- ja mitmikrasedus",
+      "aliases": [
+        "kaksikud",
+        "kaksikrasedus",
+        "mitmikrasedus",
+        "ootan kaksikuid",
+        "ühemunakaksikud",
+        "erimunakaksikud",
+        "kolmikud"
+      ],
+      "glance": "Kaksikrasedus avastatakse tavaliselt raseduse alguse ultraheliuuringul ja see tähendab veidi tihedamat raseduse jälgimist.",
+      "overview": "Seda, et ootad rohkem kui üht last, avastatakse tavaliselt **raseduse alguse ultraheliuuringul** (umbes 12. nädalal), mis näitab ka seda, kas lastel on ühine platsenta.\n\nPeamiselt on kaks liiki. **Ühemunakaksikud** tekivad ühest viljastatud munarakust, mis jaguneb, seega on neil samad geenid ja nad on alati samast soost. **Erimunakaksikud** tekivad kahest eraldi munarakust ega ole teineteisega sarnasemad kui teised õed-vennad; neid esineb sagedamini ning nende tõenäosus on veidi suurem vanemas eas, kui ema suguvõsas on kaksikuid olnud või pärast viljakusravi.\n\nKaksikute või enamate laste kandmine on omaette kogemus ja tähendab tavaliselt **veidi tihedamat raseduse jälgimist** – lisavastuvõtte ja ultraheliuuringuid, et sinul ja su lastel hoolikalt silma peal hoida. Ämmaemandate meeskond selgitab, mida oodata.",
+      "deep": null,
+      "when_to_see_doctor": "- Kui ultraheliuuring näitab, et ootad kaksikuid (või rohkem), selgitab su **ämmaemand** sulle mitmikrasedusega kaasnevaid täiendavaid kontrollvisiite ja ultraheliuuringuid – nende kõigile minemine on parim viis tagada, et sinu eest hoolitsetakse hästi.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Tema tsükli mõistmine",
+      "aliases": [
+        "tsükli juhend partnerile",
+        "tsükkel partnerile",
+        "kuidas tema tsükkel toimib",
+        "tema tsükli mõistmine",
+        "partneri menstruaaltsükkel"
+      ],
+      "glance": "Tema keha läbib igakuist tsüklit, millel on neli faasi – põhitõdede tundmine aitab sul teda toetada ilma oletusi tegemata.",
+      "overview": "Menstruaaltsükkel on ligikaudu igakuine rütm, keskmiselt umbes 28 päeva, kuid sageli ükskõik mis pikkusega 21 ja 35 päeva vahel, ning tema jaoks on normaalne see, mis on regulaarne *tema* jaoks. Tsüklil on neli faasi: **menstruatsioonifaas** (tema menstruatsioon), **follikulaarfaas**, **ovulatsioon** umbes keskel ja **luteaalfaas** enne järgmist menstruatsiooni.\n\nEnergia, meeleolu, uni ja seksuaalne iha võivad faaside lõikes muutuda, sest hormoonide tase tõuseb ja langeb – see on bioloogia, mitte iseloomuviga ega midagi, mille pärast teda narrida. Mõned tunnevad menstruatsioonile eelnevatel päevadel tõelist langust, teised ei märka peaaegu midagi. Ühtainsat „õiget“ viisi end tunda ei ole.\n\nSa ei pea eksperdiks hakkama. Kõige rohkem aitab lihtne asi: tea umbes, kus tsüklis ta parajasti on (see rakendus saab seda sulle tema loal näidata), arvesta, et mõned päevad on raskemad kui teised, ja küsi temalt, mis *tema* arvates aitab, selle asemel et oletada.",
+      "deep": "Mõned asjad, mida tasub teada, et tühimikku ei täidaks müüdid:\n\n- **„Tal on päevad“ ei ole solvang ega selgitus, miks ta sinuga ei nõustu.** Tema tsükli kasutamine tema tunnete kõrvale lükkamiseks („sul on lihtsalt hormoonid“) on lugupidamatu ja tavaliselt ka vale. Tema põhjused on ikkagi tema põhjused.\n- **Tsükkel mõjutab rohkemat kui menstruatsiooni.** Krambid, peavalu, hellad rinnad, vähene energia või madalam meeleolu võivad kõik olla selle osa. Praktiline abi on parem kui nõuanded.\n- **Tsükli jälgimine on tema oma.** Kui ta jagab oma tsüklit sinuga, pea seda aknaks sellesse, kuidas ta end tunda võib – kutseks olla lahke, mitte kunagi vahendiks teda jälgida või kontrollida.\n- **Kui kahtled, küsi.** „Kuidas sa end täna tunned? Kas ma saan midagi teha?“ on väärt rohkem kui ükski graafik.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Tupe kuivus",
+      "aliases": [
+        "tupe kuivus",
+        "tupekuivus",
+        "kuivus",
+        "tupe atroofia",
+        "vaginaalne atroofia"
+      ],
+      "glance": "Tupe kuivus on levinud nähtus, mis on sageli seotud hormoonidega ja võib põhjustada valulikkust või ebamugavust seksuaalvahekorra ajal.",
+      "overview": "Tupe kuivus on sage kogemus, mis paljudel mingil hetkel ette tuleb. See tekib, kui tavaline niiskus, mis hoiab tupe mugavana, väheneb, ning see võib tunduda valulikkuse, sügeluse või ebamugavusena – sealhulgas valu või ebamugavusena seksi ajal.\n\nSeda seostatakse sageli hormoonidega, eriti östrogeeni taseme langusega. Seepärast on see sage menopausi ja perimenopausi ajal, kuid see võib tekkida ka imetamise ajal, mõne ravimi (näiteks teatud rasestumisvastaste vahendite või antidepressantide) kasutamisel või kui enne seksi ei ole piisavalt erutust. Selles pole midagi piinlikku – see on füüsiline asi, mitte peegeldus sinust või su suhtest.\n\nHea alguspunkt on teada, et see on sage ja tavaliselt väga hästi ravitav. On lihtsaid võimalusi, mis võivad aidata, ning perearst või apteeker oskab soovitada, mis sulle sobib.",
+      "deep": null,
+      "when_to_see_doctor": "Pöördu perearsti poole, kui:\n\n- tupe kuivus häirib sind või ei möödu mõne nädala jooksul\n- see mõjutab su igapäevaelu või seksuaalelu\n- sul on ka ebatavaline tupevoolus või mis tahes veritsus pärast seksi, menstruatsioonide vahel või pärast menopausi\n\nSeda ei pea lihtsalt taluma – abi on olemas ja arst saab uurida, mis selle taga on ja mis võiks leevendada.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Tupe ja vulva tervis",
+      "aliases": [
+        "tupe tervis",
+        "vulva tervis",
+        "intiimhügieen",
+        "puhtana hoidmine",
+        "tupeloputus",
+        "tupevoolus"
+      ],
+      "glance": "Tupp puhastab end ise – piisab õrnast hooldusest väljastpoolt, ja tupevoolus on normaalne.",
+      "overview": "Üks kõige rahustavamaid teadmisi on see, et tupp hoolitseb enda eest ise. See puhastab end loomulikult ja tupevoolus, mida märkad, on osa sellest – vedelik, mis hoiab tupe puhta ja niiske ning aitab seda nakkuste eest kaitsta. Selle hulk ja konsistents muutuvad tsükli jooksul, mis on täiesti normaalne.\n\nSeepärast ei ole tuppe vaja seestpoolt pesta. Tegelikult võib tupe seestpoolt pesemine ehk tupeloputus selle loomulikku tasakaalu rikkuda. Välisosa (vulva) vajab vaid õrna hooldust: sooja vett ja soovi korral mahedat lõhnatut seepi. Lõhnastatud seepe, geele, deodorante ja lõhnastatud niiskeid salvrätikuid on parem vältida, sest need võivad ärritust põhjustada.\n\nKui tead, mis on sinu jaoks normaalne – su tavaline tupevoolus, välimus ja tunne –, on lihtsam märgata, kui miski muutub ja võib vajada kontrolli.",
+      "deep": null,
+      "when_to_see_doctor": "Pöördu perearsti või seksuaaltervise kliiniku poole, kui märkad:\n\n- muutust tupevooluses – selle värvis, lõhnas või konsistentsis või seda on palju rohkem kui tavaliselt\n- sügelust, valulikkust või ärritust tupe või vulva piirkonnas\n- veritsust menstruatsioonide vahel või pärast seksi\n- valu urineerimisel või valu all kõhu ja reite vahel (vaagnavalu)\n\nNeed on sagedased ja sageli kergesti ravitavad – tupevooluse muutus võib tähendada lihtsalt kerget nakkust, näiteks tupe seenpõletikku (kandidoosi). Kindlalt teada saad siis, kui lased selle üle vaadata, mitte oletades.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Tsükkel ja selle faasid",
+      "summary": "Kuidas su tsükkel kulgeb läbi menstruaal-, folliikulaar-, ovulatsiooni- ja luteaalfaasi."
+    },
+    "hormones": {
+      "title": "Hormoonid",
+      "summary": "Sinu tsükli taga seisvad signaalained – östrogeen, progesteroon, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Viljakus ja ovulatsioon",
+      "summary": "Viljakusperiood, ovulatsiooni tunnused ja viljakust mõjutavad tegurid."
+    },
+    "contraception": {
+      "title": "Rasestumisvastased vahendid",
+      "summary": "Kuidas erinevad meetodid toimivad – lihtsas keeles."
+    },
+    "symptoms-and-signals": {
+      "title": "Sümptomid ja keha signaalid",
+      "summary": "Valu, määrimine, eritis, meeleolu – mida su keha sulle öelda võib."
+    },
+    "conditions": {
+      "title": "Haigused ja seisundid",
+      "summary": "PCOS, endometrioos, emaka müoomid ja muud – selgitus koos allikaviidetega."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Seksuaal- ja intiimtervis",
+      "summary": "Intiimne heaolu, mugavus ja levinumad küsimused."
+    },
+    "life-stages": {
+      "title": "Eluetapid",
+      "summary": "Alates esimesest menstruatsioonist kuni perimenopausi ja menopausini."
+    },
+    "wellbeing": {
+      "title": "Heaolu ja tsükkel",
+      "summary": "Kuidas uni, stress ja igapäevaelu on seotud sinu tsükliga."
+    },
+    "tests-and-exams": {
+      "title": "Testid ja uuringud",
+      "summary": "Rindade enesekontroll, emakakaela sõeluuringud, ovulatsioonitestid ja muud."
+    },
+    "pregnancy": {
+      "title": "Rasedus",
+      "summary": "Varased sümptomid, hea tervise säilitamine, hoiatusmärgid ja raseduse kaotus – selgitus koos allikaviidetega."
+    },
+    "for-partners": {
+      "title": "Partneritele",
+      "summary": "Kuidas mõista tema tsüklit, teda hästi toetada ja luua austusel põhinev suhe."
+    },
+    "safety-and-support": {
+      "title": "Turvalisus ja tugi",
+      "summary": "Vägivalla äratundmine, enda turvalisuse tagamine ja abi saamine – koos hädaabinumbritega."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Mõista oma tsüklit 5 sammus",
+      "summary": "Rahulik ülevaade kogu tsüklist ja selle neljast faasist."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Ovulatsiooni tundmaõppimine",
+      "summary": "Mis on ovulatsioon, viljakusperiood ja millised on keha poolt antavad märgid."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Sinu tsükli taga olevad hormoonid",
+      "summary": "Tutvu nelja sõnumitoojaga, kes tsüklit juhivad – ja sellega, mida igaüks neist teeb."
+    }
+  }
+}

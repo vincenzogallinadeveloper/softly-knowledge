@@ -1,0 +1,1357 @@
+{
+  "_meta": {
+    "lang": "lv",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohols grūtniecības laikā",
+      "aliases": [
+        "alkohols grūtniecības laikā",
+        "alkohola lietošana grūtniecības laikā",
+        "alkohols un grūtniecība",
+        "alkohola ietekme uz augli",
+        "FASD"
+      ],
+      "glance": "Visdrošākā rīcība ir vispār nelietot alkoholu grūtniecības laikā vai tad, kad cenšaties ieņemt bērnu.",
+      "overview": "NHS ieteikums ir skaidrs un vienkāršs: visdrošāk ir **vispār nelietot alkoholu,** ja esat grūtniece vai cenšaties ieņemt bērnu. Atturēšanās no alkohola līdz minimumam samazina jebkādu risku jūsu bērnam.\n\nIemesls ir tas, ka alkohols no jūsu asinīm caur placentu nokļūst pie jūsu bērna, kura aknas vēl nav pietiekami attīstītas, lai to pārstrādātu. Alkohola lietošana grūtniecības laikā var izraisīt augļa alkohola spektra traucējumus (FASD) — virkni mūža garumā pastāvošu grūtību mācībās, uzvedībā un attīstībā.\n\nJa esat lietojusi alkoholu, pirms uzzinājāt, ka esat stāvoklī, mēģiniet neuztraukties: risks bērnam no nelieliem daudzumiem grūtniecības sākumā, visticamāk, ir neliels. Svarīgākais ir turpmāk, līdz grūtniecības beigām, vienkārši atturēties no alkohola lietošanas.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja jums ir grūti atmest alkoholu, par to nav jākaunas — pastāstiet par to savai vecmātei vai ģimenes ārstam. Viņi var sniegt atbalstu, neizsakot nosodījumu, un palīdzības saņemšana nāks par labu gan jums, gan jūsu mazulim.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Grūtniecības aprūpe",
+      "aliases": [
+        "pirmsdzemdību aprūpe",
+        "grūtniecības aprūpe",
+        "grūtniecības uzraudzība",
+        "vizītes pie vecmātes",
+        "stāšanās grūtnieču uzskaitē",
+        "pirmā vizīte grūtniecības laikā",
+        "grūtnieču vizītes"
+      ],
+      "glance": "Pirmsdzemdību aprūpe ir regulāras pārbaudes grūtniecības laikā, kas palīdz nodrošināt jūsu un jūsu bērna veselību.",
+      "overview": "Pirmsdzemdību aprūpe ir aprūpe, ko saņemat grūtniecības laikā, lai jūs un jūsu mazulis būtu pēc iespējas veselāki. Parasti jūs apmeklēsiet vecmāti, bet, ja nepieciešams, arī ārstu. Ir vērts sākt laikus: sazinieties ar savu vecmāti vai ģimenes ārstu, tiklīdz uzzināt, ka esat stāvoklī.\n\nJūsu pirmā pilnā vizīte — kurā stājaties grūtnieču uzskaitē — parasti notiek no 8. līdz 12. nedēļai. Pēc tam jums piedāvā regulāras pārbaudes: vismaz 10 vizītes un 2 ultraskaņas izmeklējumus, ja gaidāt pirmo bērnu, vai apmēram 7 vizītes, ja jau esat dzemdējusi; tuvāk grūtniecības beigām vizītes kļūst biežākas.\n\nŠo vizīšu laikā vecmāte pārbauda jūsu asinsspiedienu un urīnu, mēra vēderu, lai sekotu mazuļa augšanai, piedāvā skrīninga testus un pārrunā ar jums mazuļa kustības un to, kā jūtaties. Daudzas svarīgas lietas — piemēram, preeklampsiju vai gestācijas diabētu — atklāj tieši šajās vizītēs, pirms jūs pati kaut ko pamanītu, un tieši tāpēc tās ir tik svarīgas.",
+      "deep": null,
+      "when_to_see_doctor": "- Sazinieties ar **vecmāti vai ģimenes ārstu, tiklīdz uzzināt, ka esat stāvoklī**, lai aprūpe varētu sākties laikus — ideālā gadījumā tā, lai pirmā vizīte notiktu līdz apmēram 10.–12. nedēļai.\n- Centieties apmeklēt **visas** pirmsdzemdību vizītes, pat ja jūtaties pilnīgi vesela — vairākas pārbaudes ir paredzētas tam, lai laikus atklātu problēmas, kas vēl nerada nekādus simptomus.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Jūsu mazuļa kustības",
+      "aliases": [
+        "mazuļa kustības",
+        "augļa kustības",
+        "spērieni",
+        "mazulis sper",
+        "sajust mazuļa kustības",
+        "mazulis kustas mazāk",
+        "samazinātas augļa kustības"
+      ],
+      "glance": "Ja jūtat, ka mazulis kustas, tas liecina, ka viņam viss ir kārtībā — ja kustības kļūst lēnākas vai mainās, nekavējoties sazinieties ar savu vecmāti.",
+      "overview": "Sajust, kā kustas mazulis, ir viena no mierinošajām pazīmēm, kas liecina, ka ar viņu viss ir kārtībā. Lielākā daļa sieviešu sāk just kustības aptuveni no 16. līdz 24. grūtniecības nedēļai — pirmajā grūtniecībā bieži vēlāk, tāpēc pirmo reizi tās nereti sajūt tikai pēc 20. nedēļas.\n\nNav noteikta kustību skaita, kas jums „būtu” jāsajūt, un nav jāskaita spērieni, lai sasniegtu kādu mērķi. Katrs mazulis ir citāds, un svarīgi ir iepazīt tieši **jūsu** mazuļa ierasto dienas ritmu — laikus, kad viņš ir aktīvs, un laikus, kad viņš ir mierīgs.\n\nKad šo ritmu pazīstat, uzmanība jāpievērš jebkurām izmaiņām tajā. Uzticieties tam, ko zināt par savu mazuli.",
+      "deep": null,
+      "when_to_see_doctor": "Iepazīstoties ar sava mazuļa parasto ritmu, jūs varēsiet pamanīt izmaiņas. Ja jums rodas šaubas, vai kustības ir kļuvušas retākas vai mainījušās, vienmēr ir pareizi piezvanīt un noskaidrot — jūs nekad netērēsiet neviena laiku.",
+      "red_flags": "- Ja jūsu mazulis **kustas mazāk nekā parasti, viņa kustības ir mainījušās vai jūs nejūtat, ka viņš kustas**, **nekavējoties zvaniet savai vecmātei vai uz dzemdību nodaļu** — jebkurā diennakts laikā. **Negaidiet līdz nākamajai dienai**, pat ja ir dziļa nakts.\n- Nepaļaujieties uz mājas sirdstoņu monitoru (doplera ierīci) vai lietotni, lai sevi nomierinātu — dodieties uz pārbaudi klātienē."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Muguras sāpes grūtniecības laikā",
+      "aliases": [
+        "muguras sāpes grūtniecības laikā",
+        "sāp mugura grūtniecības laikā",
+        "sāpes muguras lejasdaļā grūtniecēm",
+        "krustu sāpes grūtniecības laikā",
+        "muguras sāpes grūtniecei"
+      ],
+      "glance": "Muguras sāpes grūtniecības laikā ir ļoti izplatītas, jo saites kļūst mīkstākas un vēders aug — parasti tās ir nekaitīgas.",
+      "overview": "Muguras sāpes ir viena no visbiežāk sastopamajām grūtniecības parādībām. Ķermenim gatavojoties dzemdībām, saites dabiski kļūst mīkstākas un izstiepjas, bet augošais vēders maina to, kā jūs nesat savu svaru — abi šie faktori rada papildu slodzi muguras lejasdaļai un iegurnim.\n\nAtvieglot var ikdienišķas lietas: pievērsiet uzmanību stājai, kad stāvat, sēžat un ceļat smagumus; valkājiet apavus bez papēžiem, kas labi atbalsta pēdu; izmantojiet cietu matraci vai atbalstošu spilvenu; kustieties saudzīgi un regulāri — pastaigas, joga grūtniecēm vai vingrojumi nodarbībās. Ja sāpes patiešām traucē, fizioterapeits, kas strādā ar grūtniecēm, var sniegt individuālus ieteikumus.\n\nLielākoties muguras sāpes grūtniecības laikā nav iemesls bažām — taču dažos gadījumos ir vērts bez kavēšanās parādīties ārstam, un tieši tam ir paredzēti turpmāk minētie ieteikumi.",
+      "deep": null,
+      "when_to_see_doctor": "Bez kavēšanās sazinieties ar savu **ģimenes ārstu vai vecmāti**, ja muguras sāpes:\n\n- ir **stipras** vai sākas **otrajā vai trešajā trimestrī** (dažkārt tās var liecināt par priekšlaicīgu dzemdību sākumu)\n- ir kopā ar **drudzi, asiņošanu no maksts vai sāpēm urinējot**\n- ir **sānos (vienā vai abos), zem ribām**",
+      "red_flags": "- Zvaniet uz numuru **{{emergency}} vai dodieties uz neatliekamās palīdzības nodaļu**, ja **zaudējat sajūtu kājās, sēžamvietā vai dzimumorgānos** vai zaudējat kontroli pār urīnpūsli vai zarnām. Šāds gadījums ir reti sastopams, taču prasa neatliekamu medicīnisko palīdzību."
+    },
+    "basal-body-temperature": {
+      "title": "Bazālā ķermeņa temperatūra",
+      "aliases": [
+        "BBT",
+        "bazālā temperatūra",
+        "bazālā ķermeņa temperatūra",
+        "rīta temperatūra",
+        "temperatūra pēc pamošanās",
+        "temperatūras metode"
+      ],
+      "glance": "Bazālā ķermeņa temperatūra ir jūsu rīta temperatūra miera stāvoklī, kas pēc ovulācijas nedaudz paaugstinās.",
+      "overview": "Bazālā ķermeņa temperatūra (BBT) ir ķermeņa temperatūra pilnīgā miera stāvoklī. To katru dienu mērot vienā un tajā pašā veidā, var novērot nelielas, bet izteiksmīgas izmaiņas cikla laikā: pēc ovulācijas tā nedaudz paaugstinās un saglabājas paaugstināta līdz nākamajām mēnešreizēm.\n\nPaaugstinājums ir neliels — apmēram no 0,4 līdz 0,8 °F (aptuveni no 0,2 līdz 0,4 °C) — tāpēc to nosaka, izvērtējot vairāku dienu tendenci, nevis atsevišķu mērījumu. Lai to pamanītu, katru rītu pirms celšanās, ēšanas vai dzeršanas mēra temperatūru, vēlams vienā un tajā pašā laikā. Apmēram trīs dienas pēc tam, kad temperatūra sāk paaugstināties, gandrīz visām sievietēm jau ir notikusi ovulācija.\n\nTā kā temperatūras paaugstināšanās notiek *pēc* olšūnas atbrīvošanās, bazālā ķermeņa temperatūra (BBT) drīzāk apstiprina, ka ovulācija ir notikusi, nevis to paredz iepriekš. Vairāku ciklu laikā tas var palīdzēt jums izprast sava cikla raksturu, lai gan pats par sevi tas nav precīzs veids, kā noteikt auglīgās dienas.",
+      "deep": "BBT ir viena no auglības pazīmēm, ko pieraksta katru dienu kopā ar dzemdes kakla gļotām un cikla garumu. Tā dabiski papildina gļotu novērošanu: pāreja uz dzidrām, slidenām gļotām liecina, ka auglīgais periods sākas, bet temperatūras paaugstināšanās dažas dienas vēlāk apstiprina, ka ovulācija jau ir notikusi. Miera stāvokļa temperatūru var ietekmēt daudz kas — slikts miegs, slimība, alkohols vai ilgāka gulēšana no rīta —, tāpēc atsevišķi neparasti rādījumi ir mazāk svarīgi nekā kopējā tendence.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Asiņošana grūtniecības laikā",
+      "aliases": [
+        "asiņošana grūtniecības laikā",
+        "asiņošana no maksts grūtniecības laikā",
+        "smērēšanās grūtniecības laikā",
+        "asiņaini izdalījumi grūtniecības laikā",
+        "asiņošana esot stāvoklī"
+      ],
+      "glance": "Asiņošana grūtniecības laikā ne vienmēr ir nopietna — neliela smērēšanās grūtniecības sākumā ir bieži sastopama —, taču vienmēr parādieties ārstam vai vecmātei.",
+      "overview": "Asiņošana no maksts grūtniecības laikā ne vienmēr liecina, ka kaut kas nav kārtībā. Neliela asiņošana vai smērēšanās (daži asins pilieni vai plankumi) ir diezgan bieža tieši grūtniecības sākumā, un daudzas grūtniecības pēc tam turpinās pilnīgi normāli.\n\nTomēr asiņošana dažkārt var liecināt par problēmu — piemēram, spontāno abortu vai ārpusdzemdes grūtniecību —, tāpēc tā **vienmēr ir jāparāda ārstam**, lai cik maz asiņu būtu. Tikai izmeklēšana ļauj noskaidrot cēloni un, ja nepieciešams, ātri saņemt pareizo aprūpi.\n\nTā kā viens un tas pats simptoms var nozīmēt ļoti dažādas lietas, noderīgi ir nevis minēt, bet sazināties ar speciālistu un doties uz apskati.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja grūtniecības laikā rodas **jebkāda** asiņošana no maksts, pat neliela smērēšanās, **vienmēr sazinieties ar savu dzemdību nodaļu** (vai, ja grūtniecības laiks ir mazāks par 20 nedēļām vai jums nav nodaļas tālruņa numura, ar agrīnās grūtniecības nodaļu vai **dežūrārstu**), lai noskaidrotu cēloni.",
+      "red_flags": "- Zvaniet uz numuru **{{emergency}} vai dodieties uz neatliekamās palīdzības nodaļu**, ja jums ir **stipra asiņošana** — piemēram, higiēniskā pakete pilnībā piesūcas ar asinīm drīz pēc ielikšanas —, it īpaši, ja ir arī **stipras sāpes vēderā, sāpes pleca galā, slikta dūša, sajūta, ka tūlīt noģībsiet, reibonis vai samaņas zudums.** Tam nepieciešama neatliekamā palīdzība."
+    },
+    "breast-awareness": {
+      "title": "Krūšu pašpārbaude",
+      "aliases": [
+        "krūšu pašpārbaude",
+        "krūšu pārbaude",
+        "krūts pašpārbaude",
+        "kā pārbaudīt krūtis",
+        "kunkulītis krūtī",
+        "krūšu veselība"
+      ],
+      "glance": "Pazīt savas krūtis nozīmē vienkārši zināt, kā tās parasti izskatās un kādas tās ir taustot, lai pamanītu izmaiņas.",
+      "overview": "Krūšu pašpārbaude nav kāda īpaša tehnika — tā ir vienkārši iepazīšanās ar to, kas jums ir normāli, lai viss jaunais uzreiz pievērstu uzmanību. Regulāri pārbaudot savas krūtis vai krūškurvi, jūs iemācāties to ierasto izskatu un sajūtu taustot; reizi mēnesī ir labs ritms.\n\nNav vienas „pareizās” metodes. Daudzi skatās spogulī ar nolaistām un pēc tam paceltām rokām un aptausta katru krūti līdz pat padusei. Jūs veidojat pazīšanos ar savu ķermeni, nevis nosakāt diagnozi — mērķis ir tikai laikus pamanīt izmaiņas, ja tādas rodas.\n\nKrūtis dabiski mainās gan cikla laikā, gan dzīves gaitā, tāpēc dažas izmaiņas ir pilnīgi normālas. Pašpārbaudes jēga ir pietiekami labi pazīt savu normu, lai pamanītu to, kas no tās atšķiras.",
+      "deep": null,
+      "when_to_see_doctor": "Vērsieties pie ģimenes ārsta, ja pamanāt kādas izmaiņas, kas jums nav raksturīgas, piemēram:\n\n- kunkulītis vai pietūkums krūtī, krūškurvī vai padusē\n- izmaiņas ādā, piemēram, ievilkumi jeb bedrītes (āda var izskatīties kā apelsīna miza) vai apsārtums\n- vienas vai abu krūšu izmēra vai formas izmaiņas\n- izdalījumi no krūtsgala (ja neesat grūtniece un nebarojat ar krūti), kuros var būt asinis\n- izmaiņas krūtsgala izskatā, piemēram, tas ievelkas uz iekšu\n- sāpes krūtī vai padusē, kas nepāriet\n\nVairums izmaiņu krūtīs nav vēzis un izrādās nekaitīgas — taču jebkuras izmaiņas vienmēr ir vērts bez kavēšanās parādīt ārstam, jo, ja kaut kas tomēr prasa uzmanību, agrīna atklāšana palīdz.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Zīdīšana",
+      "aliases": [
+        "zīdīšana",
+        "barošana ar krūti",
+        "krūts barošana",
+        "mātes piens",
+        "krūts piens",
+        "mazuļa barošana"
+      ],
+      "glance": "Mātes piens pasargā bērnu no infekcijām un pielāgojas viņa augšanai — un jebkurš tā daudzums sniedz labumu.",
+      "overview": "Mātes piens ir dabīga un pilnvērtīga barība zīdainim: tas nodrošina viņam nepieciešamās uzturvielas, vitamīnus un minerālvielas un laika gaitā mainās atbilstoši mazuļa attīstības posmam. Tas arī palīdz pasargāt no infekcijām un slimībām un sniedz zināmus ieguvumus veselībai ilgtermiņā.\n\nIeguvumi ir arī tai, kas baro — zīdīšana cita starpā ir saistīta ar mazāku krūts un olnīcu vēža risku —, un kopumā jo vairāk un ilgāk zīdāt, jo lielāki ieguvumi. Svarīgi, ka **jebkurš** mātes piena daudzums ir vērtīgs; tas nav princips „viss vai nekas”.\n\nSākumā barošana var izrādīties grūtāka, nekā gaidīts, un tas ir bieži. Palīdzība ir pieejama — no jūsu vecmātes, patronāžas māsas un vietējiem zīdīšanas atbalsta dienestiem —, tāpēc, ja kaut kas neiet gludi, ir vērts laikus vērsties pēc palīdzības.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja barošana ir sāpīga vai grūta vai jums ir bažas, ka mazulis nesaņem pietiekami daudz piena, laikus lūdziet palīdzību savai **vecmātei vai patronāžas māsai** — atbalsts var ļoti daudz mainīt.\n- Tas, kā barojat savu mazuli, ir jūsu personīgs lēmums, un atbalstu jūs saņemsiet neatkarīgi no izvēles; galvenais, lai jums un jūsu mazulim būtu labi.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Brūni izdalījumi",
+      "aliases": [
+        "brūni izdalījumi",
+        "brūna smērēšanās",
+        "brūnas asinis",
+        "vecas asinis",
+        "tumši izdalījumi",
+        "brūnas menstruāciju asinis"
+      ],
+      "glance": "Brūni izdalījumi parasti ir nedaudz asiņu, bieži menstruāciju mazāk intensīvajās dienās. Ja brūna smērēšanās parādās citā laikā, ir vērts parādīties ārstam.",
+      "overview": "Brūni izdalījumi ir neliels daudzums brūnganu asiņu vai šķidruma, ko pamanāt uz apakšveļas vai tualetes papīra. Daudzi to kādreiz novēro, un ļoti bieži tā vienkārši ir daļa no menstruācijām.\n\nMenstruāciju asinis ne vienmēr ir spilgti sarkanas. Visintensīvākajās dienās tās parasti ir sarkanas, bet mazāk intensīvajās dienās var izskatīties rozā vai brūnas. Tāpēc brūngans tonis menstruāciju mazāk intensīvajās dienās ir bieža un normāla parādība.\n\nBrūni izdalījumi var parādīties arī citā laikā. Smērēšanās nozīmē nelielus rozā, sarkanus vai brūnus asiņu plankumus, un smērēšanās starp menstruācijām ir vairāki bieži cēloņi. Viens no biežākajiem ir hormonālā kontracepcija, piemēram, tabletes. Citi cēloņi ir nelieli veidojumi dzemdē vai ap to (piemēram, polipi vai miomas) un infekcijas, piemēram, hlamīdijas. Pašā grūtniecības sākumā dažas sievietes pamana nelielu smērēšanos ap to laiku, kad būtu jāsākas menstruācijām. To sauc par implantācijas asiņošanu.\n\nTā kā brūnai smērēšanās ārpus menstruācijām var būt dažādi cēloņi, lielākoties nenozīmīgi, noderīgi ir nevis minēt, bet parādīties ārstam, lai uzzinātu, kas tieši to izraisa jūsu gadījumā.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja jums ir **brūna smērēšanās vai asiņošana starp menstruācijām vai pēc dzimumakta**, pat neliela, vērsieties pie ģimenes ārsta vai seksuālās veselības klīnikā. Parasti tas nav nopietni, taču vienmēr ir vērts to parādīt ārstam.\n- Ja esat **grūtniece vai varētu būt grūtniece**, jebkādas smērēšanās gadījumā, arī brūnas, sazinieties ar savu dzemdību nodaļu, agrīnās grūtniecības nodaļu vai **dežūrārstu**, lai noskaidrotu cēloni.\n- Vērsieties pie ģimenes ārsta, ja **pēc menopauzes** pamanāt **jebkādus brūnus vai rozā izdalījumus vai asiņošanu**, pat ja to ir ļoti maz vai tas noticis tikai vienu reizi.\n- Konsultējieties ar ģimenes ārstu, seksuālās veselības klīnikā vai ar dežūrārstu, ja izdalījumiem **mainās krāsa, smarža vai konsistence** vai ja tos pavada nieze, jēlums, sāpes iegurnī vai sāpes urinējot.",
+      "red_flags": "- Ja jums **nesen nav sākušās gaidītās menstruācijas un ir neparasta asiņošana kopā ar sāpēm vēderā vai iegurnī**, lūdziet **steidzamu** vizīti pie ģimenes ārsta vai sazinieties ar **dežūrārstu**. Tas jāpārbauda ātri, jo var liecināt par ārpusdzemdes grūtniecību.\n- Ja esat grūtniece, zvaniet uz numuru **{{emergency}}**, ja jums ir asiņošana un **stipras sāpes vēderā, sāpes plecā, sajūta, ka tūlīt noģībsiet, reibonis vai slikta dūša, vai arī asiņošana ir stipra** (higiēniskā pakete pilnībā piesūcas ar asinīm drīz pēc ielikšanas)."
+    },
+    "cervical-mucus": {
+      "title": "Dzemdes kakla gļotas",
+      "aliases": [
+        "dzemdes kakla gļotas",
+        "izdalījumi",
+        "maksts izdalījumi",
+        "dzemdes kakla izdalījumi",
+        "olbaltumam līdzīgas gļotas",
+        "auglīgās gļotas"
+      ],
+      "glance": "Dzemdes kakla gļotas ir dabiski izdalījumi, kas mainās cikla gaitā un norāda uz jūsu auglīgajām dienām.",
+      "overview": "Dzemdes kakla gļotas ir šķidrums, ko veido dzemdes kakls un ko jūs varat pamanīt kā izdalījumus. Tas ir normāli, un to izskats un konsistence cikla gaitā mainās diezgan paredzami — tieši tāpēc tās ir viena no pazīmēm, ko izmanto auglīgo dienu noteikšanai.\n\nTūlīt pēc menstruācijām bieži ir dažas „sausās” dienas, kad gļotu ir maz. Kad sāk nobriest olšūna, gļotu kļūst vairāk, un tās parasti ir baltas vai dzeltenīgas, duļķainas un lipīgas. Dienās tieši pirms ovulācijas tās parasti kļūst dzidras, mitras un slidenas un stiepjas starp pirkstiem kā jēls olas baltums — tas ir visauglīgākais laiks. Pēc ovulācijas tās parasti atkal kļūst lipīgas un duļķainas vai izzūd.\n\nKatrai sievietei šis ritms ir nedaudz citāds, un, lai iepazītu savējo, var būt vajadzīgi daži cikli, kuros tam pievēršat uzmanību. Dažas lietas — piemēram, hormonālā kontracepcija, zīdīšana vai infekcija — var mainīt gļotas, tāpēc tās nav uzticama auglības pazīme visām sievietēm.",
+      "deep": "Dzemdes kakla gļotu novērošana ir viena no auglības pazīmēm, kurām seko līdzi kopā ar ķermeņa temperatūru miera stāvoklī un cikla garumu; to apgūšanai parasti vajag divus līdz trīs ciklus. Atšķirībā no temperatūras paaugstināšanās, kas apstiprina ovulāciju tikai pēc tam, kad tā notikusi, pāreja uz dzidrām, slidenām, olbaltumam līdzīgām gļotām parasti notiek *pirms* ovulācijas, tāpēc tās izmanto, lai pamanītu auglīgā perioda sākumu, nevis konstatētu to pēc tā beigām.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Dzemdes kakla skrīnings (PAP tests)",
+      "aliases": [
+        "dzemdes kakla skrīnings",
+        "dzemdes kakla vēža skrīnings",
+        "PAP tests",
+        "uztriepe",
+        "citoloģiskā uztriepe",
+        "ginekoloģiskā uztriepe",
+        "pap smear"
+      ],
+      "glance": "Dzemdes kakla skrīnings ir regulāra dzemdes kakla veselības pārbaude, kas palīdz novērst dzemdes kakla vēzi.",
+      "overview": "Dzemdes kakla skrīnings ir izmeklējums, ar ko pārbauda dzemdes kakla — dzemdes atveres maksts augšdaļā — veselību. Tas nav vēža tests. Tas ir veids, kā laikus pamanīt izmaiņas un palīdzēt novērst, ka dzemdes kakla vēzis vispār attīstās.\n\nUz skrīningu aicina visas, kurām ir dzemdes kakls, vecumā no 25 līdz 64 gadiem. Uzaicinājumu jums nosūta regulāros intervālos, kad pienāk laiks, tāpēc jums pašai par to nav jāatceras — lai gan lēmums, vai doties uz pārbaudi, vienmēr ir jūsu.\n\nPats izmeklējums ir ātrs, un to veic medmāsa. Daudzas sievietes pirms tā mazliet uztraucas, un tas ir pilnīgi saprotami; zinot, kam tas paredzēts — regulārai profilaktiskai pārbaudei —, var būt vieglāk.",
+      "deep": null,
+      "when_to_see_doctor": "- Skrīnings ir paredzēts laikam, kad jums **nav** simptomu. Ja starp skrīningiem pamanāt kaut ko satraucošu — piemēram, neparastu asiņošanu (starp menstruācijām, pēc dzimumakta vai pēc menopauzes) —, vērsieties pie ģimenes ārsta, nevis gaidiet nākamo uzaicinājumu.\n- Ja esat saņēmusi uzaicinājumu, bet šaubāties vai uztraucaties par došanos uz izmeklējumu, ir vērts aprunāties ar savu ģimenes ārstu vai prakses māsu, kas var izskaidrot, kas notiks, un atbildēt uz jūsu jautājumiem.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Vardarbība pret bērniem un bērnu drošība",
+      "aliases": [
+        "vardarbība pret bērniem",
+        "bērna ļaunprātīga izmantošana",
+        "bērnu drošība",
+        "bērna aizsardzība",
+        "uztraucos par bērnu",
+        "bērna atstāšana novārtā",
+        "nolaidība pret bērnu"
+      ],
+      "glance": "Ja jums ir bažas, ka bērnam varētu tikt nodarīts pāri vai viņš tiek atstāts novārtā, ir pareizi lūgt padomu — jums nav vajadzīga pilnīga pārliecība.",
+      "overview": "Vardarbība pret bērniem — jeb bērnu ļaunprātīga izmantošana — ir kaitējums jebkuram, kas vēl nav sasniedzis 18 gadu vecumu. Tā ietver fizisku, seksuālu un emocionālu vardarbību, kā arī bērna atstāšanu novārtā (bērna pamatvajadzību nenodrošināšanu). Diemžēl tā ir bieža, var nodarīt kaitējumu uz visu mūžu, un tā nekad nav bērna vaina.\n\nIespējams, jums ir bažas par kādu bērnu jūsu dzīvē vai par bērnu, ko esat pamanījuši. Lai rīkotos, jums nav jābūt drošiem vai jāatrod pierādījumi — uzticēties savām bažām un lūgt padomu ir tieši tas, kas jādara, un tas var pasargāt bērnu.\n\nUn, ja jūs pati bērnībā piedzīvojāt vardarbību, ziniet, ka nodarītais pāri nekad nebija jūsu vaina un ka atbalsts ir pieejams arī jums — jebkurā vecumā.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja jums ir bažas par kādu bērnu, varat konfidenciāli lūgt padomu **bērnu tiesību aizsardzības vai sociālajā dienestā**, speciālā **bērnu aizsardzības uzticības tālrunī** vai **ģimenes ārstam, patronāžas māsai vai bērna skolā**.\n- Jautājot jūs „nepārspīlējat”. Labāk pārbaudīt, nekā gaidīt.",
+      "red_flags": "- Ja bērns ir **tūlītējās briesmās** vai smagi savainots, nekavējoties sazinieties ar neatliekamās palīdzības dienestiem: **112** ES (arī Itālijā), **999** Apvienotajā Karalistē, **911** ASV un Kanādā."
+    },
+    "coercive-control": {
+      "title": "Piespiedu kontrole",
+      "aliases": [
+        "piespiedu kontrole",
+        "kontrolējoša uzvedība",
+        "emocionālā vardarbība",
+        "psiholoģiskā vardarbība",
+        "izolēšana",
+        "ekonomiskā vardarbība",
+        "gaslaitings",
+        "partneris mani kontrolē"
+      ],
+      "glance": "Piespiedu kontrole ir kontrolējošas uzvedības modelis — izolēšana, uzraudzība, draudēšana —, kas tiek atzīts par vardarbības veidu.",
+      "overview": "Piespiedu kontrole ir vardarbības veids, kas darbojas ar kontroles palīdzību — fiziska kaitējuma vietā vai kopā ar to. Tas ir atkārtots uzvedības modelis — nevis viens atsevišķs strīds —, kurā viens cilvēks pakāpeniski ierobežo otra brīvību un sajūtu par to, kas viņš ir.\n\nTas var izpausties kā nošķiršana no draugiem un ģimenes, jūsu tālruņa, pārvietošanās vai tēriņu uzraudzīšana vai ierobežošana, norādījumi, ko vilkt mugurā vai kā uzvesties, vai dzīve pastāvīgas kritikas, draudu vai iebiedēšanas apstākļos. Tā kā zilumu var nebūt, to var būt grūti nosaukt vārdā, un citi to var neredzēt — taču tā ir atzīta vardarbība, un tā var būt tikpat kaitīga kā fiziska vardarbība.\n\nJa kaut ko no tā atpazīstat, tas nenozīmē, ka esat pārāk jūtīga vai ka pati to esat izraisījusi. Kontrolējoša uzvedība ir otra cilvēka izvēle. Saprast to tādu, kāda tā ir, var būt pirmais solis ceļā uz atbalstu.",
+      "deep": "Piespiedu kontrole bieži veidojas lēnām, un tieši tāpēc to ir grūti pamanīt, esot tās iekšienē — sīki ierobežojumi kļūst par normu, un pieaug šaubas par sevi. Laika gaitā tā nodara kaitējumu psihiskajai veselībai. Saruna ar kādu, kas ir apmācīts izprast šādus modeļus, var palīdzēt jums skaidrāk ieraudzīt situāciju un bez spiediena apsvērt, ko vēlaties darīt tālāk.",
+      "when_to_see_doctor": "- Vardarbības novēršanas centrā vai uzticības tālrunī (Itālijā — **1522**) jūs varat konfidenciāli un bez maksas pārrunāt to, ko piedzīvojat, un saņemt palīdzību, lai saprastu savas iespējas — jums nav jābūt fiziskās briesmās, lai vērstos pēc palīdzības.\n- Arī ģimenes ārsts vai psihologs var jūs atbalstīt un norādīt, kur saņemt speciālistu palīdzību.",
+      "red_flags": "- Ja jums draud **tūlītējas briesmas**, nekavējoties sazinieties ar neatliekamās palīdzības dienestiem: **112** ES (arī Itālijā), **999** Apvienotajā Karalistē, **911** ASV un Kanādā.\n- Itālijā tālrunis **1522** ir bezmaksas, pieejams 24 stundas diennaktī, anonīms un vairākās valodās — pa tālruni vai tērzēšanā."
+    },
+    "combined-pill": {
+      "title": "Kombinētās kontracepcijas tabletes",
+      "aliases": [
+        "kombinētās tabletes",
+        "kontracepcijas tabletes",
+        "pretapaugļošanās tabletes",
+        "antibeibī tabletes",
+        "kombinētie perorālie kontraceptīvi",
+        "COC"
+      ],
+      "glance": "Kombinētās kontracepcijas tabletes ir ikdienā lietojamas tabletes, kurās ir divi hormoni un kuru darbības princips galvenokārt balstās uz ovulācijas apturēšanu.",
+      "overview": "Kombinētās kontracepcijas tabletes ir katru dienu lietojamas tabletes, kas satur divus hormonus — estrogēna un progestagēna sintētiskās formas, kas līdzinās tiem, ko veido olnīcas. Tā ir viena no pazīstamākajām kontracepcijas metodēm.\n\nTās novērš grūtniecību vairākos veidos vienlaikus. Galvenokārt tās neļauj olnīcām atbrīvot olšūnu (ovulāciju). Tās arī sabiezina gļotas dzemdes kaklā, tā apgrūtinot spermatozoīdu iekļūšanu, un padara plānāku dzemdes gļotādu.\n\nTo efektivitāte ir atkarīga no tā, vai tās lieto atbilstoši norādījumiem: ideāli lietojot, to efektivitāte pārsniedz 99 %, taču tipiskā, ikdienas lietošanā — kad tabletes dažkārt tiek aizmirstas vai iedzertas novēloti — tā ir aptuveni 91 %. Tāpat kā lielākā daļa metožu, tās neaizsargā pret seksuāli transmisīvajām infekcijām (STI), tāpēc daži papildus lieto arī prezervatīvus.",
+      "deep": "Kombinētās kontracepcijas tabletes parasti lieto pēc noteiktas shēmas visa mēneša garumā, un to, kā tās lietot, kam tās ir piemērotas, kā arī to blakusparādības un riskus ārsts izskaidro, izrakstot recepti — tās nav piemērotas visiem. Tā kā šī ir ikdienas metode, tās efektivitāte praksē lielā mērā ir atkarīga no rutīnas. Šajā rakstā ir izskaidrots, kas tās ir un kā tās darbojas; konkrēti jautājumi par to lietošanas uzsākšanu, lietošanu vai pārtraukšanu ir jāapspriež ar ģimenes ārstu, medmāsu vai farmaceitu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Bieži sastopami grūtniecības simptomi",
+      "aliases": [
+        "bieži grūtniecības simptomi",
+        "grūtniecības nepatīkamās sajūtas",
+        "grēmas grūtniecības laikā",
+        "muguras sāpes grūtniecības laikā",
+        "pietūkušas potītes",
+        "aizcietējums grūtniecības laikā",
+        "sāpes grūtniecības laikā"
+      ],
+      "glance": "Grūtniecība atnes daudz nelielu sāpju un pārmaiņu — lielākoties normālas, taču dažas ir vērts parādīt vecmātei vai ārstam.",
+      "overview": "Grūtniecība jūsu ķermenim nozīmē daudz pārmaiņu, un tai līdzi nāk garš saraksts ar ikdienišķām nepatīkamām sajūtām. Lielākā daļa ir bieži sastopamas un neliecina, ka kaut kas nav kārtībā — tās vienkārši ir daļa no tā, ka jūsos aug mazulis.\n\nPazīstamākās ir muguras sāpes, grēmas un gremošanas traucējumi, aizcietējums, hemoroīdi, pietūkušas potītes, pēdas un pirksti, nogurums un saraustīts miegs, krampji kājās, galvassāpes, ģībšanas sajūta un vairāk izdalījumu nekā parasti. Daudzas no tām mazina nelieli atvieglojuma paņēmieni, un, ja kaut kas jūs traucē, vecmāte var ieteikt, kas ir droši.\n\nNoderīgi ir zināt, kuras pārmaiņas ir parastas un par kurām ir vērts pastāstīt — jo daži simptomi, kaut arī retāki, ir jāpārbauda, nevis jāgaida, kamēr pāries.",
+      "deep": null,
+      "when_to_see_doctor": "Lielākā daļa no tā ir normāli, taču bez kavēšanās sazinieties ar savu **vecmāti vai dzemdību nodaļu**, ja jums ir:\n\n- **asiņošana no maksts** vai pēkšņi izplūst vai sūcas šķidrums\n- jūsu **mazulis kustas mazāk** nekā parasti\n- **stipras galvassāpes, redzes traucējumi vai pēkšņs sejas, roku vai kāju pietūkums** (iespējamas preeklampsijas pazīmes)\n- **stipras vai vienpusējas sāpes vēderā** vai **paaugstināta temperatūra**\n- **nieze**, īpaši plaukstās un pēdās vai tāda, kas naktī pastiprinās (tā var liecināt par grūtniecības laika aknu slimību, kas jāpārbauda)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Prezervatīvi",
+      "aliases": [
+        "prezervatīvs",
+        "prezervatīvi",
+        "ārējais prezervatīvs",
+        "gumija",
+        "barjeras metode"
+      ],
+      "glance": "Prezervatīvi ir barjeras metode — un vienīgais kontracepcijas veids, kas vienlaikus aizsargā arī pret seksuāli transmisīvajām slimībām.",
+      "overview": "Prezervatīvs ir plāna barjera — parasti no lateksa vai, ja ir alerģija pret lateksu, no cita materiāla —, ko dzimumakta laikā uzvelk uz dzimumlocekļa. Tā darbības princips ir vienkāršs: tas neļauj spermatozoīdiem nokļūt makstī.\n\nStarp kontracepcijas līdzekļiem prezervatīvi izceļas ar to, ka tie ir **vienīgā metode, kas aizsargā arī pret seksuāli transmisīvajām infekcijām (STI), tostarp HIV.** Tāpēc tos bieži lieto kopā ar citu metodi — viena pasargā no grūtniecības, un abas kopā nodrošina arī aizsardzību pret infekcijām.\n\nJa prezervatīvu katru reizi lieto pareizi, tas novērš grūtniecību aptuveni 98 % gadījumu. Tipiskā lietošanā — kad to dažkārt lieto nepareizi vai ne katru reizi — efektivitāte samazinās līdz aptuveni 82 %. Izšķirīga ir pareiza un konsekventa lietošana.",
+      "deep": "Tā kā prezervatīvi tiek lietoti tieši brīdī, nevis iepriekš, to efektivitāte reālajā dzīvē lielā mērā ir atkarīga no to konsekventas un pareizas lietošanas. Vēl viena barjeras metode ir iekšējie prezervatīvi (ko ievieto makstī). Atšķirībā no lielākās daļas metožu prezervatīviem nav nepieciešama recepte, un tie ir plaši pieejami, un tieši to divkāršā loma — aizsardzība pret grūtniecību un seksuāli transmisīvajām infekcijām — ir iemesls, kāpēc tie tik bieži tiek pieminēti sarunās par drošāku seksu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Piekrišana un cieņa",
+      "aliases": [
+        "piekrišana",
+        "ievērot viņas robežas",
+        "entuziastiska piekrišana",
+        "ķermeņa autonomija"
+      ],
+      "glance": "Piekrišana ir skaidrs, brīvprātīgs un entuziastisks „jā” — katru reizi, un to var atsaukt jebkurā brīdī.",
+      "overview": "Cieņa sākas ar viņas tiesībām pašai lemt par savu ķermeni — vienmēr. Piekrišana tuvībai nozīmē brīvprātīgu, apzinātu un patiesi gribētu **„jā”**. Klusēšana nav piekrišana. Negribīgs „nu labi” nav piekrišana. Cilvēks, kurš guļ, ir stipri iereibis vai atrodas spiediena ietekmē, nevar patiesi dot piekrišanu. Un „jā” vienai lietai vai vienā dienā nav „jā” visam vai nākamajai reizei.\n\nPiekrišanu var atsaukt jebkurā brīdī, un „beidz” vai „šovakar nē” ir pilnīga atbilde, kurai nav vajadzīgs pamatojums. Spiediens, vainas apziņas uzspiešana, apvainošanās, līdz viņa piekāpjas, vai attieksme pret seksu kā pret kaut ko, kas jums pienākas, nav pieņemami — attiecības nav parāds.",
+      "deep": "Kā cieņa izskatās praksē:\n\n- **Jautājiet un pārliecinieties.** „Vai tā ir labi?” — un pievērsiet uzmanību tam, kā viņa reaģē, gan vārdos, gan ķermeņa valodā.\n- **Pieņemiet „nē” mierīgi.** Bez apvainošanās, spiediena vai sodīšanas. Ar viņas atbildi jautājums ir izlemts.\n- **Svarīga ir patiesa vēlēšanās.** Ja viņa šķiet nedroša, vilcinās vai vienkārši pakļaujas, apstājieties un pajautājiet.\n- **Viņas ķermenis — viņas lēmums** par tuvību, kontracepciju, grūtniecību, viņas veselību, izskatu un izvēlēm. Jums ir balss jūsu kopīgajā dzīvē, bet nekad ne veto tiesības pār viņas ķermeni.\n- **Cieņa ir ikdienas lieta.** Tas, kā jūs runājat ar viņu, kā runājat par viņu un kā sīkumos ievērojat viņas robežas, ir pamats, uz kura balstās viss pārējais.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Kontracepcija",
+      "aliases": [
+        "kontracepcija",
+        "pretapaugļošanās līdzekļi",
+        "grūtniecības novēršana",
+        "ģimenes plānošana",
+        "kontracepcijas metodes"
+      ],
+      "glance": "Kontracepcija ir dažādi veidi, kā novērst grūtniecību — un izvēle ir ļoti plaša.",
+      "overview": "Kontracepcija — ko dažkārt sauc arī par grūtniecības novēršanu — ir metožu kopums, ko izmanto, lai novērstu grūtniecību. Tās ir daudzveidīgas, un to darbības princips ir atšķirīgs: dažas izmanto hormonus, dažas ir barjeras, dažas tiek ievietotas dzemdē, bet citas balstās uz menstruālā cikla uzraudzību.\n\nMetodes efektivitāte lielā mērā ir atkarīga no tā, kā tā tiek lietota. Dažas metodes — piemēram, implants un spirāles — ir tādas, ko „ievieto un par tām vairs nedomā”, un to efektivitāte pārsniedz 99 %. Citas, piemēram, tabletes vai prezervatīvi, ir ļoti efektīvas, ja tiek lietotas pareizi, taču ikdienas, tipiskā lietošanā to efektivitāte ir nedaudz zemāka, jo ir vieglāk aizmirst lietot tableti vai nepareizi lietot prezervatīvu.\n\nViena lieta, ko ir vērts zināt: **tikai prezervatīvi aizsargā arī pret seksuāli transmisīvām infekcijām (STI)**. Pārējās metodes novērš grūtniecību, bet ne infekciju, tāpēc prezervatīvus dažkārt lieto kopā ar citu metodi.\n\nNav vienas „labākās” metodes — pareizā metode ir atkarīga no jūsu veselības, ķermeņa un tā, kas vislabāk iederas jūsu dzīvesveidā. Ģimenes ārsts vai seksuālās veselības klīnika var izskaidrot jums pieejamās iespējas un palīdzēt izvēlēties.",
+      "deep": "Tā kā metodes ļoti atšķiras, ir noderīgi padomāt, kas jums ir svarīgs: cik metode ir efektīva, vai par to jāatceras katru dienu, cik ilgi tā darbojas, vai vēlaties hormonus vai ne un vai jūsu situācijā ir svarīga aizsardzība pret seksuāli transmisīvajām infekcijām. Daudzi dzīves laikā maina metodes, jo mainās viņu vajadzības. Šajā zināšanu bāzē ir aprakstīts, kā darbojas biežākās metodes, lai izvēle būtu skaidrāka — taču lēmums, kā arī jebkura recepte vai ierīces ievietošana, ir jāapspriež ar ārstu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Kontracepcija un svars",
+      "aliases": [
+        "vai tabletes liek pieņemties svarā",
+        "tabletes un svara pieaugums",
+        "kontracepcija un svara pieaugums",
+        "pieņemšanās svarā no kontracepcijas tabletēm",
+        "kontracepcijas injekcija un svars",
+        "implants un svara pieaugums"
+      ],
+      "glance": "Nav pierādījumu, ka kombinētās kontracepcijas tabletes izraisa svara pieaugumu, taču kontracepcijas injekcijas to var izraisīt. Tas ir atkarīgs no izmantotās metodes.",
+      "overview": "Ļoti bieži tiek uzdots jautājums, vai kontracepcija var izraisīt svara pieaugumu. Godīga atbilde ir tāda, ka tas ir atkarīgs no izmantotās metodes.\n\nAttiecībā uz kombinētajām kontracepcijas tabletēm dati ir mierinoši: nav pierādījumu, ka to lietošana izraisītu svara pieaugumu. Tas pats attiecas arī uz kontracepcijas plāksteri un maksts gredzenu.\n\nKontracepcijas injekcija ir citāda. Svara pieaugums ir minēts kā viena no tās biežākajām blakusparādībām, līdzās izmaiņām menstruāciju ciklā.\n\nAttiecībā uz tabletēm, kas satur tikai progestogēnu (ko dažkārt sauc par „mini tabletēm”), un kontracepcijas implantu daži cilvēki ziņo par svara pieaugumu. Tomēr nav pietiekamu pierādījumu, lai apgalvotu, ka tieši šī metode ir cēlonis.\n\nSvars ir tikai viena no daudzajām sastāvdaļām. Katrai metodei ir savs iespējamo blakusparādību un risku saraksts, un kontracepcijas izvēle nozīmē atrast to, kas atbilst jūsu organismam, veselībai un dzīvesveidam. Farmaceits, ģimenes ārsts, medmāsa vai seksuālās veselības klīnika var kopā ar jums izskatīt pieejamās iespējas.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja blakusparādības, tostarp svara izmaiņas, rada jums problēmas, konsultējieties ar farmaceitu, ģimenes ārstu, medmāsu vai seksuālās veselības klīnikā. Lietojot kombinētās tabletes, plāksteri vai gredzenu, sākot lietošanu, var parādīties dažas blakusparādības. Ja tās jūs joprojām traucē pēc apmēram 3 mēnešiem, ārsts var apspriest ar jums iespēju pāriet uz citām tabletēm vai citu kontracepcijas veidu.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Kontracepcijas implants",
+      "aliases": [
+        "kontracepcijas implants",
+        "implants",
+        "implants rokā",
+        "kontracepcijas stienītis",
+        "Nexplanon"
+      ],
+      "glance": "Implants ir sīks stienītis, ko ievieto augšdelmā un kas vairākus gadus izdala hormonu.",
+      "overview": "Kontracepcijas implants ir neliels, elastīgs stienītis — aptuveni sērkociņa lielumā —, ko apmācīts mediķis ievieto tieši zem ādas augšdelmā. Pēc ievietošanas tas vienmērīgi izdala progestagēnu hormonu un darbojas līdz aptuveni trim gadiem.\n\nTas novērš grūtniecību galvenokārt, neļaujot olnīcām atbrīvot olšūnu (ovulāciju) un sabiezinot gļotas dzemdes kaklā, lai spermatozoīdi nevarētu iekļūt. Tā kā ikdienā nekas nav jāatceras, tā ir viena no metodēm pēc principa „ievieto un aizmirsti”.\n\nTieši tāpēc tā ir viena no uzticamākajām metodēm: implanta efektivitāte pārsniedz 99 %, un tā gandrīz neatšķiras ideālā un tipiskā lietošanā. Tāpat kā citas hormonālās metodes, implants neaizsargā pret seksuāli transmisīvajām infekcijām (STI).",
+      "deep": "Implants ir ilgstošas iedarbības atgriezeniska metode — tas darbojas līdz brīdim, kad tiek izņemts, un pēc izņemšanas auglība atjaunojas. Tā ievietošana un izņemšana ir ātras procedūras, ko veic ārsts, kurš arī izskaidro, kam tas ir piemērots un kādas ir blakusparādības. Šajā rakstā ir izskaidrots, kas tas ir un kā tas darbojas; lēmums par tā ievietošanu ir jāapspriež ar ģimenes ārstu, medmāsu vai seksuālās veselības klīnikas speciālistu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Jūsu cikls un labsajūta",
+      "aliases": [
+        "labsajūta",
+        "cikls un veselība",
+        "menstruālais cikls un veselība",
+        "cikls kā veselības rādītājs",
+        "dzīvības pazīme"
+      ],
+      "glance": "Jūsu cikls ir mazliet kā ikmēneša veselības pārbaude — izmaiņas tajā var būt vērts pamanīt.",
+      "overview": "Jūsu menstruālais cikls nav nošķirts no pārējās veselības — tas ir ar to saistīts. Cikls, kas jums ir regulārs, parasti liecina, ka organisms darbojas, kā nākas. Tāpēc daži uzskata menstruācijas par sava veida ikmēneša signālu par vispārējo labsajūtu.\n\nCiklu ietekmē ikdienas dzīve. Viens piemērs ir ķermeņa svars: ievērojami nepietiekams vai pārmērīgs svars var ietekmēt hormonus, kas vada ovulāciju, un tas var padarīt menstruācijas neregulāras. Tas darbojas abos virzienos — rūpes par pamatlietām, piemēram, sabalansēts uzturs un fiziskās aktivitātes, atbalsta ciklu, un stabils cikls liecina, ka šīs lietas ir saprātīgā līdzsvarā.\n\nRuna nav par „perfekta” cikla meklējumiem vai sevis vainošanu par izmaiņām. Vienkārši, saudzīgi vērojot savu ciklu, var gūt noderīgu ieskatu par to, kā jums klājas — un tas var mudināt parādīties ārstam, ja kaut kas mainās.",
+      "deep": null,
+      "when_to_see_doctor": "- Vērsieties pie ģimenes ārsta, ja jūsu menstruācijas kļūst neregulāras, izbeidzas vai mainās jums neierastā veidā — ilgstošas izmaiņas dažkārt var norādīt uz kaut ko, ko ir vērts izmeklēt.\n- Ir vērts to pārrunāt arī tad, ja menstruāciju problēmas ietekmē jūsu ikdienas dzīvi, lai jūs saņemtu atbalstu, nevis vienkārši ar tām samierinātos.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Ekonomiskā vardarbība",
+      "aliases": [
+        "ekonomiskā vardarbība",
+        "finansiālā vardarbība",
+        "naudas kontrolēšana",
+        "partneris kontrolē finanses",
+        "parāds uz mana vārda",
+        "kredīts uz mana vārda"
+      ],
+      "glance": "Ekonomiskā vardarbība ir kādas personas piekļuves naudai, darbam vai resursiem ierobežošana — tā ir atzīta vardarbības forma.",
+      "overview": "Ekonomiskā vardarbība ir tad, kad kāds kontrolē otra cilvēka piekļuvi naudai un tam, ko par naudu var iegādāties. Tā ir kontrolējošas uzvedības veids un bieži pastāv līdzās citiem vardarbības veidiem.\n\nTā var izpausties kā visu tēriņu kontrolēšana vai prasība atskaitīties par katru centu, jūsu algas vai pabalstu atņemšana, parādu taisīšana uz jūsu vārda, bankas kontu vai dokumentu slēpšana no jums vai aizliegums strādāt vai mācīties. Tā kā cilvēks var palikt bez līdzekļiem, lai aizietu vai tiktu galā ar ikdienu, tas ir viens no veidiem, kā vardarbība var likties kā slazds.\n\nJa kaut kas no tā jums šķiet pazīstams, tas nenozīmē, ka jūs „neprotat apieties ar naudu” vai esat vainīga. Otra cilvēka līdzekļu kontrolēšana ir tā cilvēka izvēle — un tā ir atzīta par vardarbību.",
+      "deep": null,
+      "when_to_see_doctor": "- Arī ar šo var palīdzēt vardarbības upuru atbalsta dienesti — ne tikai drošības jautājumos, bet arī ar praktiskiem un finansiāliem soļiem, konfidenciāli un bez maksas (Itālijā uzticības tālrunis **1522** var norādīt uz atbalstu jūsu apkaimē).\n- Drošības plānā var ietilpt klusībā nodrošināta piekļuve nelielai naudas summai, svarīgākajiem dokumentiem un svarīgiem tālruņa numuriem.",
+      "red_flags": "- Ja jums draud **tūlītējas briesmas**, nekavējoties sazinieties ar neatliekamās palīdzības dienestiem: **112** ES (arī Itālijā), **999** Apvienotajā Karalistē, **911** ASV un Kanādā.\n- Itālijā tālrunis **1522** — bezmaksas, pieejams 24 stundas diennaktī, anonīms, vairākās valodās — var palīdzēt pa tālruni vai tērzēšanā."
+    },
+    "ectopic-pregnancy": {
+      "title": "Ārpusdzemdes grūtniecība",
+      "aliases": [
+        "ārpusdzemdes grūtniecība",
+        "ektopiskā grūtniecība",
+        "olvada grūtniecība",
+        "grūtniecība olvadā"
+      ],
+      "glance": "Ārpusdzemdes grūtniecība attīstās ārpus dzemdes — tā nevar turpināties, un ir nepieciešama tūlītēja medicīniskā palīdzība.",
+      "overview": "Ārpusdzemdes grūtniecība ir tad, kad apaugļotā olšūna piestiprinās ārpus dzemdes, visbiežāk vienā no olvadiem. Diemžēl šādā vietā grūtniecība nevar attīstīties par mazuli, un to nevar pārvietot uz dzemdi — tāpēc tā vienmēr ir jāārstē.\n\nPazīmes parasti parādās aptuveni no 4. līdz 12. nedēļai, un tās var būt sāpes vēdera lejasdaļā vienā pusē, asiņošana no maksts vai brūni, ūdeņaini izdalījumi, sāpes pleca galā vai nepatīkamas sajūtas, urinējot vai izejot vēderam. Simptomu kopums ir dažāds, un dažus var viegli sajaukt ar kaut ko nenozīmīgu, tāpēc ir svarīgi parādīties ārstam.\n\nTā nav bieža situācija, taču tā var būt nopietna, tāpēc nevajag gaidīt, vai pāries. Ja padomu saņemat laikus, par jums var droši parūpēties.",
+      "deep": null,
+      "when_to_see_doctor": "- Sazinieties ar savu ģimenes ārstu vai **dežūrārstu**, ja jums ir vairāki no šiem simptomiem **un jūs varētu būt stāvoklī** — pat ja grūtniecības tests nav bijis pozitīvs. Ir svarīgi saņemt padomu nekavējoties.",
+      "red_flags": "- Zvaniet uz numuru **{{emergency}} vai dodieties uz neatliekamās palīdzības nodaļu**, ja jums ir **pēkšņas, asas, intensīvas sāpes vēderā**, **stiprs reibonis vai sajūta, ka tūlīt noģībsiet**, jūs izskatāties **ļoti bāla** vai tam visam pievienojas slikta dūša. Tas var nozīmēt, ka ir plīsis olvads — tas ir neatliekams medicīnisks stāvoklis, kam vajadzīga steidzama ārstēšana."
+    },
+    "emergency-contraception": {
+      "title": "Ārkārtas kontracepcija",
+      "aliases": [
+        "ārkārtas kontracepcija",
+        "tablete nākamajā rītā",
+        "avārijas kontracepcija",
+        "Postinor",
+        "Escapelle",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "Ārkārtas kontracepcija var novērst grūtniecību pēc neaizsargāta dzimumakta — un jo ātrāk, jo labāk.",
+      "overview": "Ārkārtas kontracepcija ir veids, kā novērst grūtniecību pēc dzimumakta bez kontracepcijas vai tad, ja jūsu ierastā metode varētu nebūt nostrādājusi (aizmirsta tablete, pārplīsis prezervatīvs). Ir divi veidi, un abiem ir svarīgs laiks.\n\nPirmais ir **ārkārtas kontracepcijas tablete**. Tās ir divu veidu: vienu (levonorgestrelu) var iedzert līdz 3 dienām — 72 stundām — pēc dzimumakta, bet otru (ulipristāla acetātu, tirdzniecības nosaukums ellaOne) — līdz 5 dienām jeb 120 stundām. Otrs veids ir **vara spirāle (intrauterīnā ierīce)**, ko ārsts var ievietot līdz 5 dienām pēc dzimumakta; tā ir visefektīvākā ārkārtas kontracepcija, un, ja vēlaties, to var atstāt kā pastāvīgu kontracepciju.\n\nVisos gadījumos **jo ātrāk tos izmantojat, jo labāk tie parasti darbojas** — tāpēc ir vērts rīkoties ātri, nevis gaidīt. Ārkārtas kontracepciju varat saņemt aptiekā, pie ģimenes ārsta, seksuālās veselības klīnikā vai ambulatorā centrā bez pieraksta, bieži bez maksas.",
+      "deep": null,
+      "when_to_see_doctor": "- Tā kā laiks ir izšķirīgs, nevilcinieties — farmaceits var ātri izsniegt ārkārtas kontracepcijas tableti, bet seksuālās veselības klīnikā vai pie ģimenes ārsta var ievietot spirāli.\n- Ārkārtas kontracepcija novērš grūtniecību, nevis infekciju. Ja ir kaut mazākā iespēja, ka esat inficējusies ar seksuāli transmisīvu infekciju, seksuālās veselības klīnikā jums ieteiks, kādas analīzes veikt.\n- Ja pēc tam menstruācijas kavējas vairāk nekā dažas dienas vai ir ļoti atšķirīgas no ierastajām, ir vērts veikt grūtniecības testu un konsultēties ar ārstu.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometrioze",
+      "aliases": [
+        "endometrioze",
+        "endo",
+        "endometriozes simptomi",
+        "endometriozes sāpes"
+      ],
+      "glance": "Endometrioze ir slimība, kad dzemdes gļotādai līdzīgi audi aug ārpus dzemdes un bieži rada sāpes.",
+      "overview": "Endometrioze ir ilgstoša slimība, kad dzemdes gļotādas šūnām līdzīgas šūnas aug citās ķermeņa vietās, piemēram, ap olnīcām, iegurnī vai uz zarnām. Tā ir bieža — tiek lēsts, ka visā pasaulē tā skar aptuveni 1 no 10 reproduktīvā vecuma sievietēm.\n\nTā kā šie audi uzvedas līdzīgi dzemdes gļotādai, tie var izraisīt iekaisumu un laika gaitā arī saaugumus. Biežākā pazīme ir sāpes: bieži stipras menstruāciju sāpes, bet arī sāpes iegurnī vai muguras lejasdaļā citā laikā, sāpes dzimumakta laikā vai pēc tā un sāpes urinējot vai izejot vēderam. Bieži ir arī ļoti bagātīgas menstruācijas, dziļš nogurums, nomākts garastāvoklis un grūtības iestāties grūtniecībai. Simptomi ļoti atšķiras — dažām sievietēm ir stipras sāpes, citām nelielas.\n\nEndometriozi bieži nesaprot, un tās atpazīšana var ilgt gadiem, daļēji tāpēc, ka menstruāciju sāpes tik bieži noraida kā „normālas”. Stipras sāpes, kas izjauc jūsu ikdienu, nav kaut kas, ar ko vienkārši jāsamierinās — tās ir vērts uztvert nopietni.",
+      "deep": "Precīzs endometriozes cēlonis nav zināms, un pašlaik to nevar izārstēt pilnībā — taču ārstēšana var palīdzēt kontrolēt simptomus, un atbalsts ietver gan zāles, gan dažām sievietēm operāciju, kā arī palīdzību, lai tiktu galā ar fizisko un emocionālo slogu. Viena no lielākajām problēmām ir diagnozes aizkavēšanās: vidēji līdz diagnozei var paiet vairāki gadi, dažkārt pat daudzi. Tāpēc tik svarīgi ir skaidri pierakstīt savus simptomus un atkal vērsties pie ārsta, ja jūs neuzklausa.",
+      "when_to_see_doctor": "Ir vērts vērsties pie ģimenes ārsta, ja:\n\n- jums ir stipras menstruāciju sāpes, kas neļauj veikt ierastās ikdienas darbības\n- jūsu menstruācijas ir ļoti bagātīgas — piemēram, higiēniskā pakete vai tampons jāmaina ik pēc 1–2 stundām\n- jums ir ilgstošas sāpes iegurnī vai muguras lejasdaļā, sāpes dzimumakta laikā vai pēc tā vai sāpes urinējot vai izejot vēderam\n- jums ir grūti iestāties grūtniecībai\n- jau saņemtā ārstēšana nav palīdzējusi vai simptomi ir pasliktinājušies\n\nTā kā endometriozes diagnosticēšana var prasīt laiku, ir pilnīgi normāli atgriezties pie ārsta, ja jūsu simptomus neuztver nopietni — palīdz skaidrs priekšstats par to, kā sāpes mainījušās laika gaitā. Ja sāpes vai bagātīgā asiņošana ietekmē arī jūsu garastāvokli, pastāstiet par to ģimenes ārstam; arī tā ir daļa no kopainas, un atbalsts ir pieejams.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogēns",
+      "aliases": [
+        "estrogēns",
+        "estrogēni",
+        "estrogēna līmenis",
+        "estradiols"
+      ],
+      "glance": "Estrogēns ir viens no svarīgākajiem hormoniem, kas katrā ciklā palīdz organismam sagatavoties iespējamai grūtniecībai.",
+      "overview": "Estrogēns ir viens no galvenajiem hormoniem, kas vada menstruālo ciklu. Cikla pirmajā pusē (folikulārajā fāzē) tā līmenis paaugstinās, olnīcā nobriestot folikulam. Šis kāpums sabiezina dzemdes gļotādu un ved uz ovulāciju.\n\nEstrogēns ietekmē arī to, ko varat pamanīt ikdienā — enerģiju, garastāvokli un dzemdes kakla gļotu izmaiņas ap auglīgajām dienām. Pēc ovulācijas tā līmenis pazeminās un pēc tam atkal mainās, cikla otrajā pusē darbojoties kopā ar citu hormonu — progesteronu.\n\nHormonu līmenis katrā ciklā dabiski ceļas un krītas, un tas mainās arī dažādos dzīves posmos. Tas ir normāli — tas ir ritms, pēc kura darbojas jūsu organisms, nevis kaut kas, kas būtu „jālabo”.",
+      "deep": "Estrogēns nav viena viela, bet gan saistītu hormonu grupa (cikla laikā visaktīvākais no tiem ir estradiols). Lielākā daļa estrogēna tiek sintezēta olnīcās, augošajā folikulā. Tā cikliskās svārstības — kopā ar progesteronu un smadzeņu signālu hormoniem LH un FSH — nosaka cikla fāzes. Tā kā estrogēns ietekmē daudzas ķermeņa sistēmas, tā dabiskās svārstības var izpausties kā nelielas izmaiņas visa mēneša garumā; to uzskaite palīdz iepazīt savu individuālo ritmu, nevis salīdzināt to ar „vidējo rādītāju”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Fiziskās aktivitātes un menstruācijas cikls",
+      "aliases": [
+        "fiziskās aktivitātes",
+        "sports",
+        "vingrošana",
+        "kustības",
+        "sports un menstruācijas",
+        "trenēšanās menstruāciju laikā"
+      ],
+      "glance": "Jūs varat būt aktīva visa cikla laikā — un regulāras kustības var mazināt krampjus un PMS simptomus.",
+      "overview": "Jūs varat būt fiziski aktīva jebkurā cikla posmā. Dažas sievietes pamana, ka noteiktos mēneša posmos viņām ir vairāk enerģijas un viņas var sevi noslogot mazliet vairāk, bet citos — mazāk; abi varianti ir normāli, un neviens no tiem nav iemesls pārstāt kustēties.\n\nRegulāras aktivitātes patiešām var palīdzēt pret dažiem ar menstruācijām saistītiem simptomiem. Tām, kas regulāri sporto, bieži ir mazāk sāpīgu krampju, un aktīvs dzīvesveids var mazināt arī premenstruālos simptomus (PMS). Dienās, kad enerģijas ir mazāk, arī saudzīgākas kustības skaitās — tām nav jābūt intensīvām, lai tās būtu vērtīgas.\n\nNav jāplāno sava dzīve pēc cikla, un nav viena „pareizā” veida, kā kustēties. Ja pamanāt savu enerģijas ritmu mēneša laikā, tas vienkārši var palīdzēt plānot tā, lai jūs justos labi.",
+      "deep": null,
+      "when_to_see_doctor": "- Ļoti intensīvi treniņi vai tik liela slodze, ka organismam pietrūkst enerģijas, var padarīt menstruācijas neregulāras vai tās var pavisam izbeigties. Regulārs cikls parasti liecina, ka viss rit labi, tāpēc ir vērts konsultēties ar ģimenes ārstu, ja menstruācijas kļūst neregulāras vai izbeidzas — ilgtermiņā tas var būt saistīts ar kaulu un hormonu veselību.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Fiziskās aktivitātes grūtniecības laikā",
+      "aliases": [
+        "vingrošana grūtniecības laikā",
+        "fiziskās aktivitātes grūtniecības laikā",
+        "sports grūtniecības laikā",
+        "būt aktīvai grūtniecības laikā",
+        "fiziskā forma grūtniecības laikā"
+      ],
+      "glance": "Lielākajā daļā grūtniecību ir droši un ieteicams uzturēt fizisko aktivitāti — tomēr to vajadzētu darīt saudzīgi, nepārpūloties.",
+      "overview": "Aktīvs dzīvesveids grūtniecības laikā nāk jums par labu un nav bīstams jūsu mazulim — laba fiziskā forma var pat palīdzēt tikt galā ar gaidāmajām pārmaiņām un dzemdībām. Nav jāsāk nekas intensīvs; laba sākuma vieta ir turpināt ierastās ikdienas aktivitātes, kamēr tās jūtas ērti.\n\nVienkāršs orientieris: kustoties jums vajadzētu spēt **sarunāties**. Ja elpa aizraujas tā, ka nevarat parunāt, samaziniet tempu. Vairumam piemērotas saudzīgas aktivitātes, piemēram, pastaigas, peldēšana, ūdens vingrošana grūtniecēm un joga grūtniecēm. Ja iepriekš nebijāt aktīva, tagad nav īstais laiks sākt jaunu, smagu treniņu režīmu — slodzi palieliniet pakāpeniski.\n\nNo dažām aktivitātēm labāk izvairīties vai veikt tās piesardzīgi — piemēram, gulēšana uz muguras pēc apmēram 16. nedēļas, kontaktsporta veidi, niršana ar akvalangu un jebkas, kur ir reāls kritiena risks.",
+      "deep": null,
+      "when_to_see_doctor": "- Konsultējieties ar savu **vecmāti**, pirms sākat jaunu aerobo vingrojumu programmu, vai ja jums ir kāda veselības problēma vai bažas par grūtniecību.\n- **Pārtrauciet un lūdziet padomu**, ja vingrojot jūtaties slikti, jums reibst galva vai ir stiprs elpas trūkums, vai ja rodas jebkādas sāpes, asiņošana vai kontrakcijas.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Auglības periods",
+      "aliases": [
+        "auglīgais periods",
+        "auglīgās dienas",
+        "auglīgākās dienas"
+      ],
+      "glance": "Auglības periods ir dažas dienas katrā ciklā, kad dzimumakts var izraisīt grūtniecību.",
+      "overview": "Auglīgais periods ir īss cikla posms, kad iespējama grūtniecība. Tas pastāv tāpēc, ka divi laiki gluži nesakrīt: olšūnu var apaugļot tikai apmēram 12 līdz 24 stundas pēc tās atbrīvošanās, bet spermatozoīdi organismā var izdzīvot vairākas dienas — līdz pat apmēram nedēļai —, gaidot olšūnu.\n\nKopā tas nozīmē, ka auglīgais periods sākas dažas dienas pirms ovulācijas un beidzas apmēram dienu pēc tās. Praksē visauglīgākās ir 2–3 dienas pirms ovulācijas un pati ovulācijas diena, jo spermatozoīdi jau var būt klāt, kad olšūna atbrīvojas.\n\nTā kā ovulācijas laiks var mainīties no cikla uz ciklu, mainās arī auglīgais periods. Tāpēc to parasti uztver kā vairāku dienu posmu, nevis vienu datumu, un tāpēc pazīmju vērošana vairāku ciklu garumā ir uzticamāka nekā paļaušanās uz vienu kalendāra aprēķinu.",
+      "deep": "Konkrētās dienas atšķiras gan starp sievietēm, gan no mēneša uz mēnesi, tāpēc auglīgo periodu vislabāk novērtēt pēc paša ķermeņa signāliem, nevis pēc fiksētas formulas. Dzemdes kakla gļotu izmaiņas norāda, ka periods sākas un ovulācija tuvojas, bet miera stāvokļa ķermeņa temperatūras paaugstināšanās apstiprina — jau pēc tam —, ka ovulācija ir notikusi un auglīgais periods ir beidzies. Ovulācijas testi darbojas soli agrāk, nosakot luteinizējošā hormona (LH) strauju kāpumu, kas notiek neilgi pirms olšūnas atbrīvošanās.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Menstruāciju sākums (pirmā menstruācija)",
+      "aliases": [
+        "pirmās menstruācijas",
+        "pirmās mēnešreizes",
+        "menarhe",
+        "menstruāciju sākšanās",
+        "kad sāksies mēnešreizes"
+      ],
+      "glance": "Pirmās mēnešreizes parasti sākas apmēram 12 gadu vecumā — normāli tas var notikt jebkurā vecumā no aptuveni 8 līdz 17 gadiem.",
+      "overview": "Jūsu pirmās mēnešreizes — dažkārt tās sauc par menarhi — ir brīdis, kad menstruālais cikls sākas pirmo reizi. Vairumam tās sākas apmēram 12 gadu vecumā, bet normāls ir jebkurš vecums no aptuveni 8 līdz 17 gadiem. Bieži tās sākas apmēram divus gadus pēc tam, kad sāk attīstīties krūtis.\n\nParasti pirms tam ir dažas pazīmes: sāk augt apmatojums padusēs un kaunuma apvidū, un dažus mēnešus iepriekš parādās nedaudz dzidru vai baltu izdalījumu. Ja zināt, ka tas tuvojas, pirmās mēnešreizes var šķist mazāk negaidītas.\n\nSākumā menstruācijas bieži ir neregulāras — starplaiki var būt gari vai īsi, un organismam var vajadzēt vairākus mēnešus vai pat pāris gadus, lai izveidotos stabilāks ritms. Kad tas notiek, menstruācijas parasti atkārtojas aptuveni ik pēc 23 līdz 35 dienām un ilgst apmēram 2 līdz 7 dienas. Neregularitāte sākumā ir normāla un nav iemesls uztraukumam.",
+      "deep": null,
+      "when_to_see_doctor": "- Vērsieties pie ģimenes ārsta, ja menstruācijas **nav sākušās līdz 15 gadu vecumam** vai līdz **13 gadu vecumam, ja nav citu pubertātes pazīmju** (piemēram, krūšu attīstības vai ķermeņa apmatojuma). Tas ir tikai tāpēc, lai pārliecinātos, ka attīstība noris, kā paredzēts — parasti viss ir kārtībā.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Folijskābe un vitamīni grūtniecības laikā",
+      "aliases": [
+        "folijskābe",
+        "folāts",
+        "D vitamīns grūtniecības laikā",
+        "vitamīni grūtniecības laikā",
+        "uztura bagātinātāji grūtniecības laikā"
+      ],
+      "glance": "Folijskābe pirms grūtniecības un grūtniecības sākumā palīdz aizsargāt bērnu — kā arī ikdienas D vitamīna deva.",
+      "overview": "Grūtniecības laikā patiešām svarīgi ir divi uztura bagātinātāji, un NHS iesaka abus.\n\n**Folijskābe** ir pats svarīgākais. Lietojot 400 mikrogramu devu katru dienu — ideālā gadījumā jau pirms ieņemšanas (apmēram trīs mēnešus iepriekš) un līdz pirmā trimestra beigām, t. i., 12. nedēļai —, tā palīdz pasargāt mazuli no nervu caurulītes defektiem, piemēram, mugurkaula šķeltnes (spina bifida). Tā kā tā darbojas tik agri, tā ir viena no retajām lietām, ko ir vērts sākt *pirms* grūtniecības, ja plānojat bērnu.\n\nOtrs ir **D vitamīns**: visu grūtniecības laiku un zīdīšanas periodā ieteicams katru dienu lietot 10 mikrogramu devu, lai atbalstītu mazuļa kaulus un attīstību.\n\nBez šiem diviem lielāko daļu vajadzību nodrošina veselīgs, daudzveidīgs uzturs — daudz papildu bagātinātāju nav vajadzīgs. No viena gan jāizvairās — **A vitamīna** (retinola): nelietojiet uztura bagātinātājus, kas to satur, un neēdiet aknas, jo pārāk daudz A vitamīna var kaitēt mazulim.",
+      "deep": null,
+      "when_to_see_doctor": "- **Ģimenes ārsts, vecmāte vai farmaceits** var palīdzēt izvēlēties piemērotus uztura bagātinātājus, un dažām sievietēm iesaka lietot **lielāku folijskābes devu** (piemēram, ja ir diabēts, augstāks ĶMI, tiek lietotas noteiktas zāles vai iepriekšējā grūtniecībā bija nervu caurulītes defekts) — tāpēc ir vērts pajautāt, it īpaši pirms grūtniecības vai tās sākumā.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Folikulārā fāze",
+      "aliases": [
+        "folikulārā fāze",
+        "cikla pirmā puse"
+      ],
+      "glance": "Folikulārā fāze ir cikla pirmā puse, kuras laikā olšūna nogatavojas un dzemdes gļotāda sabiezē.",
+      "overview": "Folikulārā fāze ir cikla pirmā daļa. Tā sākas menstruāciju pirmajā dienā un ilgst līdz ovulācijai. Nosaukums cēlies no vārda „folikuls” — mazs, ar šķidrumu pildīts pūslītis olnīcā, kurā šajā laikā atrodas un attīstās olšūna.\n\nŠajā fāzē paaugstinās hormona estrogēna līmenis. Pieaugošais estrogēns dara divas galvenās lietas: palīdz olnīcas folikulam nobriest un sabiezina dzemdes gļotādu, sagatavojot organismu gadījumam, ja vēlāk ciklā iestātos grūtniecība.\n\nTā kā estrogēna līmenis kāpj, dažas sievietes, tuvojoties auglīgajām dienām, pamana vairāk enerģijas vai dzemdes kakla gļotu izmaiņas. Katrai pieredze ir citāda, un nekas no tā nav „jāvada” — tā vienkārši ir jūsu cikla pirmā puse, kas dara savu darbu.",
+      "deep": "Folikulārās fāzes ilgums var atšķirties no cikla uz ciklu, un tas ir viens no iemesliem, kāpēc pilni cikli atšķiras no cilvēka uz cilvēku un no mēneša uz mēnesi. Tā beidzas, kad pieaugošais estrogēna līmenis palīdz izraisīt olšūnas atbrīvošanos (ovulāciju). Tā kā tās pēdējās dienas ievada ovulāciju, tieši šajā brīdī sākas auglības periods — tāpēc folikulārās fāzes beigas ir svarīgas ikvienam, kurš seko līdzi savai auglībai.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Pārtika, no kuras izvairīties grūtniecības laikā",
+      "aliases": [
+        "ko nedrīkst ēst grūtniecības laikā",
+        "uzturs grūtniecības laikā",
+        "aizliegtie produkti grūtniecības laikā",
+        "kofeīns grūtniecības laikā",
+        "listērija",
+        "listerioze"
+      ],
+      "glance": "Lielākā daļa pārtikas grūtniecības laikā ir droša — no dažiem produktiem gan labāk izvairīties, un kofeīnu ieteicams ierobežot.",
+      "overview": "Labā ziņa ir tā, ka lielākā daļa pārtikas grūtniecības laikā ir pilnīgi droša — tikai no neliela skaita produktu ir vērts izvairīties vai ēst tos piesardzīgi, galvenokārt lai nesaslimtu ar tādām baktērijām kā listērija vai neuzņemtu pārāk daudz noteiktu vitamīnu. Zinot šo īso sarakstu, par pārējo varat būt mierīga.\n\nNHS iesaka būt piesardzīgai ar:\n\n- **Dažiem sieriem** — mīkstajiem sieriem ar pelējuma garoziņu, piemēram, brī un kamambēru, un mīkstajiem zilā pelējuma sieriem, ja vien tie nav karsēti, līdz kūp; un jebko, kas gatavots no **nepasterizēta** piena.\n- **Jēlu vai nepietiekami termiski apstrādātu gaļu**, auksti žāvētiem gaļas izstrādājumiem, **pastēti** un **aknām** (kurās ir ļoti daudz A vitamīna).\n- **Jēlām vai mīksti vārītām olām**, ja vien tām nav „British Lion” marķējuma.\n- **Dažām zivīm** — izvairieties no haizivs, zobenzivs un marlīna, ierobežojiet tunci un ēdiet ne vairāk kā divas porcijas treknu zivju nedēļā.\n- **Kofeīnu** — nepārsniedziet aptuveni 200 mg dienā (apmēram divas krūzes šķīstošās kafijas), ieskaitot arī tēju, kolu, enerģijas dzērienus un šokolādi.",
+      "deep": null,
+      "when_to_see_doctor": "- Tie ir vispārīgi ieteikumi, nevis stingra diēta — ja jums ir jautājumi par to, kas jums ir droši, vai kādas īpašas uztura vajadzības, **vecmāte** var to ar jums pārrunāt.\n- Ja esat apēdusi kaut ko no saraksta „labāk izvairīties”, centieties nekrist panikā; ja uztraucaties vai jūtaties slikti, pastāstiet par to vecmātei.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Folikulu stimulējošais hormons (FSH)",
+      "aliases": [
+        "FSH",
+        "folikulu stimulējošais hormons",
+        "folikulstimulējošais hormons",
+        "FSH līmenis"
+      ],
+      "glance": "FSH ir smadzeņu hormons, kas katra cikla sākumā stimulē folikulu augšanu olnīcās.",
+      "overview": "FSH — folikulu stimulējošais hormons — ir viens no signālhormoniem, kas iedarbina ciklu. To veido neliels dziedzeris smadzenēs (hipofīze), un, kā liecina nosaukums, tas stimulē folikulus — sīkus, ar šķidrumu pildītus pūslīšus olnīcā, kuros katrā ir pa olšūnai.\n\nCikla sākumā FSH rosina grupu šo folikulu sākt augt. Folikulam attīstoties, tas izdala arvien vairāk estrogēna, kas savukārt sabiezina dzemdes gļotādu, sagatavojot to iespējamai grūtniecībai. Parasti viens folikuls kļūst par dominējošo un attīstās līdz ovulācijai.\n\nFSH līmenis ceļas un krītas cikla normālo svārstību ietvaros. FSH jūs tieši nejūtat — tas klusi darbojas fonā, sagatavojot folikulārās fāzes pamanāmākās pārmaiņas.",
+      "deep": "FSH darbojas kopā ar luteinizējošo hormonu (LH); abus izdala smadzeņu hipofīze, un tie kopā regulē olnīcu darbību cikla laikā. FSH vada cikla pirmo pusi, veicinot folikulu augšanu, savukārt vēlāk notiekošais LH līmeņa kāpums iezīmē olšūnas atbrīvošanos cikla vidū. Šī mijiedarbība ir arī iemesls, kāpēc neauglības ārstēšanā izmanto FSH saturošus medikamentus: papildu FSH devas stimulē vairāku folikulu vienlaicīgu nobriešanu, nevis tikai viena, kā tas parasti notiek dabiskajā ciklā.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Grūtniecības diabēts",
+      "aliases": [
+        "grūtniecības diabēts",
+        "gestācijas diabēts",
+        "diabēts grūtniecības laikā",
+        "augsts cukura līmenis grūtniecības laikā",
+        "glikozes tolerances tests"
+      ],
+      "glance": "Grūtniecības diabēts ir paaugstināts cukura līmenis asinīs grūtniecības laikā — to parasti atklāj skrīninga laikā, un bieži vien tas normalizējas pēc dzemdībām.",
+      "overview": "Grūtniecības diabēts ir paaugstināts cukura (glikozes) līmenis asinīs, kas attīstās grūtniecības laikā, kad organisms netiek līdzi palielinātajai vajadzībai pēc insulīna. Lielākajai daļai sieviešu pēc mazuļa piedzimšanas tas izzūd.\n\nParasti tas **nerada simptomus**, tāpēc to atklāj ar grūtniecības laikā piedāvātu skrīninga testu (glikozes tolerances testu, bieži aptuveni 24.–28. nedēļā), it īpaši, ja jums ir faktori, kas palielina tā iespējamību — piemēram, lielāks svars, diabēts ģimenē, iepriekš dzimis liels mazulis vai noteikta etniskā izcelsme.\n\nTo var labi kontrolēt. Uzturot cukura līmeni asinīs veselīgās robežās — ar uzturu, kustībām un dažkārt arī zālēm, kā iesaka jūsu aprūpes komanda —, samazinās komplikāciju iespējamība jums un mazulim, tāpēc ir vērts to rūpīgi uzraudzīt.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja jums piedāvā **skrīninga testu**, veiciet to — tā kā grūtniecības diabētam parasti nav simptomu, to atklāj tieši ar testu.\n- Negaidiet testu, ja pamanāt iespējamas paaugstināta cukura līmeņa pazīmes — stipras slāpes, biežu vajadzību urinēt, sausu muti vai nogurumu —, pastāstiet par tām vecmātei vai ārstam.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Kur vērsties pēc palīdzības",
+      "aliases": [
+        "kur meklēt palīdzību",
+        "ar ko sazināties",
+        "uzticības tālruņi",
+        "noderīgi tālruņa numuri",
+        "krīzes centrs",
+        "1522",
+        "ārkārtas numuri"
+      ],
+      "glance": "Ir pieejama bezmaksas un konfidenciāla palīdzība — ārkārtas gadījumā zvaniet uz vietējo ārkārtas palīdzības numuru; Itālijā jebkurā laikā uz numuru 1522.",
+      "overview": "Ja piedzīvojat vardarbību, jums nav ar to jātiek galā vienai, un, vēršoties pēc palīdzības, jūs neuzņematies nekādas saistības. Ir cilvēki, kuru darbs ir uzklausīt un palīdzēt — konfidenciāli un bez maksas.\n\nPastāv vairāki palīdzības veidi:\n\n- **Neatliekamās palīdzības dienesti** — ja draud tūlītējas briesmas, zvaniet uz vietējo ārkārtas numuru (skatīt zemāk).\n- **Valsts uzticības tālrunis** — Itālijā **1522**, bezmaksas tālrunis vardarbības un vajāšanas gadījumos: pieejams 24 stundas diennaktī, anonīms, vairākās valodās, pa tālruni vai tiešsaistes tērzēšanā.\n- **Vardarbības upuru atbalsta centri** (Itālijā — *centri antiviolenza*) — vietējie dienesti, kas piedāvā bezmaksas, konfidenciālu atbalstu, drošības plānošanu un juridisku un psiholoģisku palīdzību.\n- **Veselības aprūpe** — ģimenes ārsts vai slimnīcas neatliekamās palīdzības nodaļa, kur personālu arvien biežāk apmāca atpazīt vardarbību un palīdzēt jums saņemt atbalstu.\n- **Cilvēki, kuriem uzticaties** — draugs vai ģimenes loceklis, ar kuru jūtaties droši.\n\nVarat sākt ar to, kas šķiet visvieglāk izdarāms, un jums nekas nav jāizlemj iepriekš.",
+      "deep": null,
+      "when_to_see_doctor": "- Jūs varat konfidenciāli pastāstīt **ģimenes ārstam vai slimnīcā**, kas notiek; tur var ārstēt savainojumus un palīdzēt jums sazināties ar specializētiem dienestiem.\n- Ja jums ir vieglāk rakstīt nekā runāt, **1522 tērzēšana** ir vēl viens veids, kā sazināties.",
+      "red_flags": "- Ja jums draud **tūlītējas briesmas**, nekavējoties sazinieties ar neatliekamās palīdzības dienestiem: **112** ES (arī Itālijā), **999** Apvienotajā Karalistē, **911** ASV un Kanādā.\n- **Itālija:** **1522** (bezmaksas, 24/7, anonīmi, vairākās valodās — zvaniet vai rakstiet tērzēšanā).\n- Uzticības tālruņu numuri katrā valstī ir citi. Lietotne var parādīt jūsu valsts numurus, un vietnē **findahelpline.com** ir apkopoti vardarbības upuru uzticības tālruņi visā pasaulē (tā nosaka jūsu valsti, un tajā ir poga ātrai lapas aizvēršanai). Ja esat ES, **112** darbojas visur."
+    },
+    "group-b-strep": {
+      "title": "B grupas streptokoki (GBS)",
+      "aliases": [
+        "B grupas streptokoki",
+        "GBS",
+        "B grupas streptokoks",
+        "B grupas streptokoks grūtniecības laikā"
+      ],
+      "glance": "B grupas streptokoks ir izplatīta, parasti nekaitīga baktērija — neliels risks pastāv mazulim dzemdību laikā, taču to var kontrolēt.",
+      "overview": "B grupas streptokoks (GBS) ir ļoti izplatīta baktērija, ko daudzi nēsā, parasti makstī vai tūpļa apvidū, paši to nezinot un bez jebkāda kaitējuma. Tā nav seksuāli transmisīva infekcija, un tās nēsāšana ir normāla.\n\nGrūtniecības laikā tai ir nozīme tikai tāpēc, ka pastāv **neliela iespēja**, ka dzemdību laikā tā var nonākt pie mazuļa un retos gadījumos viņam izraisīt saslimšanu — tas notiek aptuveni 1 no 1 750 grūtniecībām. Bieži to atklāj nejauši, piemēram, urīna analīzē vai maksts uztriepē, kas ņemta cita iemesla dēļ (NHS visām grūtniecēm to rutīnā nepārbauda).\n\nMierinoši ir tas, ka situāciju var labi kontrolēt: ja par GBS ir zināms, **antibiotikas intravenozi (pa sistēmu) dzemdību laikā** ievērojami samazina iespēju, ka mazulis saslims.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja jums ir teikts, ka esat B grupas streptokoka nēsātāja — tagad vai kādā iepriekšējā grūtniecībā —, **pastāstiet to savai vecmātei vai dzemdību nodaļas komandai**, lai varētu ieplānot antibiotikas dzemdību laikā. Tas ir vienkāršs solis, kam ir liela nozīme.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Grēmas un gremošanas traucējumi grūtniecības laikā",
+      "aliases": [
+        "grēmas grūtniecības laikā",
+        "gremošanas traucējumi grūtniecības laikā",
+        "skābes atvilnis grūtniecības laikā",
+        "dedzināšana krūtīs",
+        "reflukss",
+        "grēmas"
+      ],
+      "glance": "Grēmas grūtniecības laikā ir ļoti biežas — parasti nekaitīgas, un bieži tās mazina nelielas ikdienas izmaiņas.",
+      "overview": "Grēmas un gremošanas traucējumi — dedzinoša sajūta vai nepatīkama sajūta krūtīs, bieži pēc ēšanas — grūtniecības laikā ir ļoti bieži. Tos izraisa grūtniecības hormoni, kas atslābina muskuli kuņģa augšdaļā, un vēlāk arī augošais mazulis, kas spiež uz augšu. Tas ir nepatīkami, bet nav kaitīgi.\n\nBieži palīdz nelielas izmaiņas: ēst mazākas porcijas biežāk, nevis lielas maltītes, ēšanas laikā un kādu brīdi pēc tās sēdēt taisni, mazāk lietot asu, treknu vai kofeīnu saturošu pārtiku un neēst vēlu pirms gulētiešanas. Dažām ir ērtāk gulēt nedaudz paceltā pozā.\n\nJa ar to nepietiek, **farmaceits** var ieteikt skābi neitralizējošus līdzekļus (antacīdus), kas ir droši grūtniecības laikā — tā ir laba pirmā vieta, kur vērsties, pirms grēmas kļūst par lielāku problēmu.",
+      "deep": null,
+      "when_to_see_doctor": "- Vērsieties pie **ģimenes ārsta vai vecmātes**, ja vienkāršas izmaiņas un aptiekas līdzekļi nepalīdz vai ja jums ir **grūti norīt**, ēdiens atkārtoti nāk atpakaļ, svars krītas bez jūsu nodoma vai ir sāpes vēderā — tās ir vērts pārbaudīt, nevis norakstīt uz parastām grēmām.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Bagātīgas menstruācijas",
+      "aliases": [
+        "bagātīgas menstruācijas",
+        "stipras menstruācijas",
+        "menorāģija",
+        "stipra menstruālā asiņošana",
+        "stipra asiņošana",
+        "asins recekļi menstruāciju laikā"
+      ],
+      "glance": "Bagātīgas menstruācijas nozīmē, ka katrā ciklā zaudējat daudz asiņu — tas ir bieži, taču, ja tas jūs ietekmē, ir vērts parādīties ārstam.",
+      "overview": "Bagātīgas menstruācijas — medicīniski menorāģija — nozīmē, ka menstruāciju laikā zaudējat daudz asiņu. Dažām sievietēm stipra asiņošana vienkārši ir viņu norma, taču, ja tā traucē jūsu ikdienu vai jūs izsmeļ, ir vērts to izmeklēt.\n\nDažas pazīmes, ka menstruācijas ir bagātīgas: higiēniskā pakete vai tampons jāmaina ik pēc 1–2 stundām, vienlaikus jālieto divu veidu higiēnas līdzekļi (piemēram, tampons un pakete), asinis izsūcas cauri apģērbam vai gultas veļai, izdalās asins recekļi, kas lielāki par apmēram 2,5 cm (aptuveni 10 pensu monētas lielumā), vai menstruācijas ilgst vairāk nekā 7 dienas.\n\nJa mēnesi pēc mēneša zaudējat daudz asiņu, varat justies nogurusi vai jums var trūkt elpas, jo tas var izraisīt dzelzs trūkumu (anēmiju). Iespējamo cēloņu ir daudz — no miomām vai tādām slimībām kā endometrioze, adenomioze vai policistisko olnīcu sindroms (PCOS) līdz dažām zālēm —, un bieži nopietns cēlonis netiek atrasts. Jebkurā gadījumā bagātīgas menstruācijas parasti var ārstēt, tāpēc tās nav kaut kas, ar ko vienkārši jāsadzīvo.",
+      "deep": null,
+      "when_to_see_doctor": "Vērsieties pie ģimenes ārsta, ja:\n\n- bagātīgas menstruācijas ietekmē jūsu ikdienas dzīvi\n- stipra asiņošana ilgst daudzas stundas vai menstruācijas ilgst ilgu laiku\n- jums ir arī stipras menstruāciju sāpes vai sāpes dzimumakta laikā, urinējot vai izejot vēderam\n- jums ir asiņošana starp menstruācijām vai pēc dzimumakta\n- jūs bieži jūtaties nogurusi vai jums trūkst elpas (tā var būt dzelzs trūkuma pazīme)\n\nĢimenes ārsts var meklēt cēloni un pārrunāt, kas varētu palīdzēt.",
+      "red_flags": "- **Steidzami** meklējiet medicīnisko palīdzību — sazinieties ar ārstu vai **dežūrārstu**, bet, ja stāvoklis ir smags, zvaniet uz numuru **{{emergency}}** vai dodieties uz neatliekamās palīdzības nodaļu —, ja **asiņošana ir tik stipra, ka dažas stundas pēc kārtas katru stundu pilnībā piesūcas viena higiēniskā pakete vai vairāk**, vai ja jūtat, ka **tūlīt noģībsiet, jums reibst galva vai trūkst elpas**. Tās var būt pazīmes, ka zaudējat pārāk daudz asiņu."
+    },
+    "lh": {
+      "title": "Luteinizējošais hormons (LH)",
+      "aliases": [
+        "LH",
+        "luteinizējošais hormons",
+        "LH kāpums",
+        "LH līmenis",
+        "ovulācijas tests"
+      ],
+      "glance": "LH ir smadzeņu hormons, kura straujais kāpums cikla vidū liek olnīcai atbrīvot olšūnu.",
+      "overview": "LH — luteinizējošais hormons — ir signālviela, kas iedarbina ovulāciju. Tāpat kā FSH, to veido neliels dziedzeris smadzenēs (hipofīze), un tas norāda olnīcai, kad atbrīvot olšūnu.\n\nLielāko daļu cikla pirmās puses LH līmenis ir zems. Tad, aptuveni cikla vidū, tas strauji paaugstinās — to sauc par LH kāpumu jeb pīķi. Šis kāpums ir signāls, kas liek olnīcai atbrīvot olšūnu — notiek ovulācija —, parasti apmēram dienu vēlāk.\n\nLH kāpums ir īss, precīzi laikā noteikts signāls, nevis kaut kas, ko pamanītu savā pašsajūtā. Tā kā tas notiek tik neilgi pirms olšūnas atbrīvošanās, LH kāpuma laiks ir uzticams cikla visauglīgākā posma rādītājs.",
+      "deep": "LH darbojas kopā ar FSH — hormonu, kas cikla sākumā liek augt folikuliem. Ja FSH vada sagatavošanās posmu, tad LH kāpums ir pagrieziena punkts: līmenis sāk celties apmēram pusotru dienu pirms olšūnas atbrīvošanās un sasniedz maksimumu aptuveni pusi dienas pirms tās. Pēc LH kāpuma cikls pāriet otrajā pusē. Šī precīzā laika dēļ LH ir tik noderīgs rādītājs ikvienai, kas seko līdzi ovulācijai, un tam ir centrāla nozīme neauglības ārstēšanas plānošanā.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Uzklausīšana un emocionāls atbalsts",
+      "aliases": [
+        "kā klausīties",
+        "emocionāls atbalsts partneriem",
+        "saziņa",
+        "būt viņai blakus"
+      ],
+      "glance": "Visbiežāk viņai vajag, lai viņu uzklausa, nevis „salabo” — vispirms klausieties un pajautājiet, pirms dodat padomu.",
+      "overview": "Kad kādam, ko mīlam, ir grūti, instinktīvi gribas iejaukties un visu atrisināt. Taču bieži visvairāk palīdz sajūta, ka viņu patiesi uzklausa: ka viņas jūtām ir pamats un viņa ar tām nav viena. Pārāk steidzīga problēmas „labošana” var izklausīties kā „tavas jūtas ir problēma, kas jānoslēdz”.\n\nPrasme labi klausīties ir iemācāma ikvienam. Galvenokārt tā ir uzmanība: nolikt telefonu malā, pagriezties pret viņu un ļaut viņai izrunāties līdz galam. Jums nav jāpiekrīt katram viņas teiktajam, lai viņa justos cienīta.",
+      "deep": "Praktiski veidi, kā būt klātesošam:\n\n- **Klausieties, lai saprastu, nevis lai atbildētu.** Ļaujiet viņai runāt, nepārtraucot un neplānojot savu aizstāvību.\n- **Atspoguļojiet dzirdēto.** „Tas izklausās patiešām saspringti” vai „Es saprotu, kāpēc tas sāpināja” ir labāk nekā „vienkārši neuztraucies”.\n- **Pajautājiet, pirms dodat padomu.** „Vai gribi, lai palīdzu to pārdomāt, vai vienkārši gribi, lai es uzklausu?”\n- **Neuztveriet to personīgi**, ja grūtā diena nav saistīta ar jums. Jūsu mierīgums ir dāvana.\n- **Uzņemieties atbildību par savu daļu.** Ja esat kļūdījies, patiesa atvainošanās — bez „bet” — atjauno uzticēšanos.\n- **Redziet plašāku ainu.** Ja viņa ilgstoši šķiet nomākta, trauksmaina vai nav pati savā ādā, saudzīgi mudiniet viņu meklēt atbalstu un piedāvājiet palīdzēt to saņemt. Jūs esat komandas biedrs, nevis terapeits.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Luteālā fāze",
+      "aliases": [
+        "luteālā fāze",
+        "dzeltenā ķermeņa fāze",
+        "cikla otrā puse"
+      ],
+      "glance": "Luteālā fāze ir cikla otrā puse pēc ovulācijas, kad paaugstinās progesterona līmenis.",
+      "overview": "Luteālā fāze ir cikla posms, kas seko ovulācijai un ilgst līdz nākamo menstruāciju sākumam. Tā nosaukta pēc „corpus luteum” jeb dzeltenā ķermeņa — nelielas struktūras, ko olnīca izveido no tukšā folikula pēc olšūnas atbrīvošanās.\n\nŠajā fāzē paaugstinās hormona progesterona līmenis. Tā uzdevums ir uzturēt dzemdes gļotādu biezu un stabilu, lai apaugļotajai olšūnai, ja tā nonāk dzemdē, būtu kur piestiprināties. Arī estrogēns joprojām piedalās, darbojoties kopā ar progesteronu.\n\nJa grūtniecība neiestājas, dzeltenais ķermenis sairst, progesterona un estrogēna līmenis pazeminās un gļotāda vairs netiek uzturēta — tā sākas nākamās menstruācijas un jauns cikls. Tas ir arī laiks, kad dažas sievietes pamana premenstruālas pārmaiņas garastāvoklī, miegā vai ķermenī.",
+      "deep": "Luteālās fāzes ilgums parasti ir nedaudz stabilāks nekā cikla pirmajai pusei, bieži vien tas ir aptuveni divas nedēļas, lai gan starp atsevišķām sievietēm pastāv normālas atšķirības. Tā kā šīs fāzes beigas ir saistītas ar progesterona līmeņa pazemināšanos, menstruāciju sākšanās patiesībā ir redzama pazīme tam, ka hormonu līmenis ir samazinājies. Sekojot līdzi tam, kā jūs jūtaties luteālās fāzes laikā, varat vieglāk atšķirt jums ierasto ritmu no tā, kas ir jauns vai par ko būtu vērts aprunāties ar ārstu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopauze",
+      "aliases": [
+        "menopauze",
+        "klimakss",
+        "klimaktērijs",
+        "pārejas vecums",
+        "karstuma viļņi"
+      ],
+      "glance": "Menopauze ir laiks, kad menstruācijas beidzas uz visiem laikiem — tas ir dabisks dzīves posms, kas parasti iestājas apmēram 45–55 gadu vecumā.",
+      "overview": "Menopauze ir brīdis, kad menstruācijas beidzas uz visiem laikiem. Tā kā pirms tam menstruācijas kādu laiku var nākt un pazust, uzskata, ka menopauze ir iestājusies, kad 12 mēnešus pēc kārtas nav bijis menstruāciju. Parasti tas notiek apmēram 45–55 gadu vecumā, lai gan var būt arī agrāk vai vēlāk.\n\nTā ir dabiska novecošanas daļa, nevis slimība. Tā notiek, kad olnīcu darbība pakāpeniski noslābst un pazeminās estrogēna — viena no galvenajiem cikla hormoniem — līmenis. Šīs hormonālās pārmaiņas izraisa daudzas izmaiņas, ko sievietes pamana: karstuma viļņus un svīšanu naktīs, menstruāciju izmaiņas pirms menopauzes, miega traucējumus, garastāvokļa svārstības vai trauksmi, „miglu galvā”, maksts sausumu un sāpes.\n\nPieredze ir ļoti dažāda — dažas šo laiku pārdzīvo viegli, citām tas ir grūti, un simptomi var ilgt vairākus gadus. Nekas no tā nenozīmē, ka ar jums kaut kas nav kārtībā. Ir pieejams atbalsts un dažādas iespējas, un saprast, kas notiek, ir labs pirmais solis.",
+      "deep": "Pārmaiņu gadus pirms menopauzes sauc par perimenopauzi; pati menopauze ir viens konkrēts brīdis (kad aprit 12 mēneši bez menstruācijām), un laiku pēc tās dažkārt sauc par postmenopauzi. Tā kā estrogēns ilgtermiņā ietekmē arī kaulus un sirdi, ārsti pievērš uzmanību arī tiem, ne tikai ikdienas simptomiem. Simptomus var mazināt dažādas pieejas — no dzīvesveida izmaiņām līdz nehormonālai un hormonālai ārstēšanai —, un tas, kas der tieši jums, ir atkarīgs no jūsu veselības, slimību vēstures un vēlmēm, tāpēc to ir vērts pārrunāt ar ārstu.",
+      "when_to_see_doctor": "- Vērsieties pie ģimenes ārsta, ja menopauzes simptomi jūs nomoka vai ietekmē ikdienas dzīvi un jūs vēlaties pārrunāt savas iespējas.\n- **Vienmēr** vērsieties pie ģimenes ārsta, ja jums ir **jebkāda asiņošana no maksts pēc 12 mēnešiem bez menstruācijām** (asiņošana pēc menopauzes). Bieži tā nav nekas nopietns, taču tā vienmēr jāparāda ārstam.\n- Ir vērts parādīties ārstam arī tad, ja asiņošana kļuvusi stiprāka, nevis vājāka nekā agrāk, vai ja menstruācijas mainās tā, ka tas jūs satrauc.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Menstruālais cikls",
+      "aliases": [
+        "menstruālais cikls",
+        "cikls",
+        "mēneša cikls",
+        "cikla garums"
+      ],
+      "glance": "Menstruālais cikls ir ikmēneša ritms, pēc kura jūsu organisms darbojas, lai sagatavotos iespējamai grūtniecībai.",
+      "overview": "Menstruālo ciklu skaita no menstruāciju pirmās dienas — tā ir 1. diena — līdz dienai pirms nākamo menstruāciju sākuma. To vada hormoni, kuru līmenis katru mēnesi ceļas un krītas atkārtotā ritmā.\n\nCikls bieži ilgst ap 28 dienām, taču tas ir tikai vidējais rādītājs. Normāls ir jebkurš ilgums no aptuveni 21 līdz 35 dienām, un jūsu cikla garums var no mēneša uz mēnesi nedaudz atšķirties. Iepazīt savu ritmu ir noderīgāk nekā salīdzināt to ar kādu skaitli.\n\nCikla laikā jūsu ķermenis iziet vairākus posmus: menstruācijas, gatavošanos olšūnas atbrīvošanai, pašu atbrīvošanos (ovulāciju) un laiku pēc tās. Katru posmu veido hormoni, galvenokārt estrogēns un progesterons.",
+      "deep": "Viss cikls ir smadzeņu un olnīcu saruna, ko nes hormoni. Pirmajā pusē estrogēna līmenis ceļas, olnīcā nobriestot folikulam ar olšūnu, un dzemdes gļotāda sabiezē. Aptuveni cikla vidū atbrīvojas olšūna. Otrajā pusē progesterons palīdz uzturēt gļotādu gatavu gadījumam, ja tajā nonāks apaugļota olšūna.\n\nJa grūtniecība neiestājas, estrogēna un progesterona līmenis nokrītas, gļotāda atdalās kā menstruācijas, un viss sākas no jauna. Tā kā šie hormoni ietekmē daudzas ķermeņa sistēmas, mēneša laikā varat pamanīt nelielas ikdienas pārmaiņas — tas ir cikla normālais ritms, nevis kaut kas, kas būtu „jālabo”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstruālā fāze (mēnešreizes)",
+      "aliases": [
+        "menstruācijas",
+        "mēnešreizes",
+        "menstruālā fāze",
+        "asiņošana",
+        "mēneša asiņošana"
+      ],
+      "glance": "Mēnešreizes ir dažas asiņošanas dienas katra cikla sākumā, kad atdalās dzemdes gļotāda.",
+      "overview": "Menstruālā fāze ir jūsu mēnešreizes — dienas, kad jums ir asiņošana. Tā sākas cikla 1. dienā, kad estrogēna un progesterona līmenis ir pazeminājies tik daudz, ka dzemdes iekšienē uzkrātā gļotāda vairs netiek uzturēta, atdalās un izdalās no ķermeņa caur maksti.\n\nMēnešreizes parasti ilgst apmēram 2 līdz 7 dienas, visbiežāk ap 5 dienām. Asiņošana bieži ir visstiprākā pirmajās pāris dienās un pēc tam kļūst mazāka. Mēnešreizes parasti sākas ap 12 gadu vecumu, lai gan arī agrāks vai vēlāks sākums ir normāls.\n\nTas, kas ir „normāli”, katrai ir ļoti atšķirīgs. Pierakstot savas mēnešreizes, jūs pamanāt, kas ir ierasts tieši jums, un tas ir daudz nozīmīgāk par jebkuru vidējo rādītāju.",
+      "deep": "Menstruāciju asiņošana ir dzemdes gļotādas (endometrija) atdalīšanās pēc cikla, kurā nav iestājusies grūtniecība. Tā iezīmē gan viena cikla beigas, gan nākamā sākumu, tāpēc menstruāciju 1. diena tiek skaitīta par visa cikla 1. dienu. Menstruācijām beidzoties, estrogēna līmenis atkal sāk celties, un organisms sāk atjaunot gļotādu nākamajam ciklam.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Spontānais aborts",
+      "aliases": [
+        "spontānais aborts",
+        "grūtniecības zaudējums",
+        "agrīns grūtniecības zaudējums",
+        "zaudēju grūtniecību",
+        "spontāns grūtniecības pārtraukums"
+      ],
+      "glance": "Spontānais aborts ir grūtniecības zaudējums pirms 24. nedēļas — tas notiek bieži, un gandrīz nekad to neizraisa kaut kas, ko jūs izdarījāt.",
+      "overview": "Spontānais aborts ir grūtniecības zaudējums pirmajās 24 nedēļās. Tas notiek biežāk, nekā daudzi domā, un viena no svarīgākajām lietām, kas jāzina: to gandrīz nekad neizraisa kaut kas, ko jūs darījāt vai nedarījāt — parasti tas notiek tāpēc, ka grūtniecība neattīstījās pareizi, un to neviens nevarēja ietekmēt.\n\nBiežākās pazīmes ir asiņošana no maksts un krampji vai sāpes vēdera lejasdaļā. Asiņošana grūtniecības sākumā ne vienmēr nozīmē, ka notiek spontānais aborts — daudzām sievietēm ir neliela asiņošana, un grūtniecība turpinās veselīgi —, taču tā vienmēr jāparāda ārstam.\n\nLai kā zaudējums notiktu, ar to saistītās jūtas ir īstas un pamatotas, un sēras ir normāla reakcija. Jums tas nav jāpārdzīvo vienai — atbalstu var sniegt vecmāte vai ģimenes ārsts, kā arī organizācijas, kas palīdz grūtniecības zaudējuma gadījumos.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja **grūtniecības laikā jums ir asiņošana no maksts vai smērēšanās**, sazinieties ar ģimenes ārstu, vecmāti vai agrīnās grūtniecības nodaļu (vai dežūrārstu), pat ja asiņošana ir neliela un sāpju ir maz vai nav vispār — lai to varētu pārbaudīt.\n- Uzziniet, kur ir jums tuvākā **agrīnās grūtniecības nodaļa**, kas ir izveidota tieši šādiem gadījumiem.",
+      "red_flags": "- Zvaniet uz numuru **{{emergency}} vai dodieties uz neatliekamās palīdzības nodaļu**, ja grūtniecības laikā jums ir **stipras sāpes vēderā, sāpes pleca galā, stipra asiņošana vai jūtat, ka tūlīt noģībsiet, vai jūtaties ļoti slikti**. Tās var būt nopietnas problēmas pazīmes, piemēram, ārpusdzemdes grūtniecības, kurai nepieciešama steidzama palīdzība."
+    },
+    "morning-sickness": {
+      "title": "Rīta nelabums",
+      "aliases": [
+        "rīta nelabums",
+        "slikta dūša grūtniecības laikā",
+        "toksikoze",
+        "vemšana grūtniecības laikā",
+        "hiperemēze",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "Slikta dūša vai vemšana grūtniecības sākumā ir ļoti bieža un parasti mazinās apmēram līdz 16.–20. nedēļai.",
+      "overview": "Slikta dūša vai vemšana grūtniecības sākumā ir ļoti bieža. Lai gan to sauc par „rīta nelabumu”, tas var būt jebkurā dienas vai nakts laikā. Vairumam sieviešu tas sākas pirmajās nedēļās un norimst apmēram līdz 16.–20. nedēļai.\n\nTas ir nepatīkami, un dažām tiešām ietekmē ikdienu — taču parasts rīta nelabums mazulim nerada nekādu papildu risku. Ēdot bieži un pa mazumam un atrodot to, kas palīdz tieši jums, to var padarīt vieglāk panesamu; ja jums ir grūti, vecmāte, ģimenes ārsts vai farmaceits var ieteikt drošus līdzekļus.\n\nNelielai daļai sieviešu nelabums kļūst ļoti smags (to sauc par hyperemesis gravidarum jeb grūtnieču pārmērīgu vemšanu), un pastāv reāls atūdeņošanās risks. Tad nepieciešama medicīniskā palīdzība — skatiet pazīmes zemāk.",
+      "deep": null,
+      "when_to_see_doctor": "Sazinieties ar savu vecmāti, ģimenes ārstu vai dežūrārstu, ja:\n\n- 24 stundas nespējat paturēt nekādu ēdienu vai dzērienu — viss tiek izvemts\n- urīns ir ļoti tumšs vai neesat urinējusi ilgāk par 8 stundām\n- jūtaties ļoti vāja, jums reibst galva vai, pieceļoties kājās, jūtat, ka tūlīt noģībsiet\n- jums ir sāpes vēderā, paaugstināta temperatūra vai vemjat ar asinīm\n- jūs zaudējat svaru",
+      "red_flags": "- Ja nespējat paturēt pat šķidrumu (viss tiek izvemts) un urīns ir ļoti tumšs vai tā nav vispār, tā var būt atūdeņošanās (smaga grūtnieču vemšana) — **sazinieties ar vecmāti, ģimenes ārstu vai dežūrārstu tajā pašā dienā**, jo var būt vajadzīga ārstēšana, lai stāvoklis nepasliktinātos."
+    },
+    "ovulation": {
+      "title": "Ovulācija",
+      "aliases": [
+        "ovulācija",
+        "olšūnas atbrīvošanās",
+        "ovulācijas diena",
+        "kad ir ovulācija",
+        "auglīgais periods"
+      ],
+      "glance": "Ovulācija ir brīdis, kad olnīca atbrīvo olšūnu — tas ir visauglīgākais brīdis jūsu ciklā.",
+      "overview": "Ovulācija ir brīdis, kad olnīca atbrīvo nobriedušu olšūnu. Tas ir cikla pagrieziena punkts: pirmā puse virzās uz to, bet otrā puse seko tam.\n\nAptuveni 28 dienu ciklā ovulācija bieži notiek apmēram 14. dienā — taču tās laiks var mainīties. Ērts veids, kā to izprast, ir atcerēties, ka ovulācija parasti notiek aptuveni 10 līdz 16 dienas pirms nākamās menstruācijas sākuma. Precīzu dienu var būt grūti noteikt.\n\nPēc izdalīšanās olšūna var tikt apaugļota tikai aptuveni 12–24 stundu laikā. Savukārt spermatozoīdi organismā var izdzīvot vairākas dienas, tāpēc „auglības periods” ir ilgāks par vienu dienu — aptuveni dažas dienas pirms ovulācijas un pati ovulācijas diena.",
+      "deep": "Olšūnas atbrīvošanos izraisa īss, straujš hormonu kāpums ap cikla vidu, kas seko folikulārās fāzes estrogēna pieaugumam. Tā kā spermatozoīdi var dzīvot vairākas dienas, bet olšūna — mazāk nekā dienu, grūtniecība visticamāk iestājas pēc dzimumakta dienās tieši pirms ovulācijas. Ovulācija no cikla uz ciklu var nobīdīties, piemēram, stresa vai slimības dēļ, tāpēc to precīzi paredzēt ir grūti un vairāku ciklu vērošana ir uzticamāka nekā jebkurš viens aprēķins.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Sāpes dzimumakta laikā",
+      "aliases": [
+        "sāpes dzimumakta laikā",
+        "sāpīgs sekss",
+        "sāpes seksa laikā",
+        "sāp dzimumakta laikā",
+        "dispareūnija",
+        "vaginisms"
+      ],
+      "glance": "Sāpes dzimumakta laikā ir biežas, tām var būt daudz cēloņu, un vienmēr ir vērts parādīties ārstam — palīdzība ir pieejama.",
+      "overview": "Sāpes dzimumakta laikā — dažkārt tās sauc par dispareūniju — ir daudz biežākas, nekā daudzi domā, un tās nekad nav kaut kas, ar ko vienkārši jāsamierinās. Tām var būt daudz cēloņu, un pareizā cēloņa atrašana ir atslēga to mazināšanai.\n\nDaži cēloņi ir fiziski. Bieži tas ir maksts sausums, kas nereti saistīts ar hormoniem menopauzes laikā vai ar nepietiekamu uzbudinājumu un var padarīt dzimumaktu sāpīgu vai nepatīkamu. Sāpes var izraisīt arī infekcijas, piemēram, maksts sēnīte (kandidoze). Vēl viens cēlonis ir vaginisms — kad muskuļi ap maksti paši no sevis saspringst, mēģinot ievadīt dzimumlocekli vai ko citu, un tas var padarīt dzimumaktu sāpīgu vai šķietami neiespējamu. Tas notiek neapzināti, tas nav „tikai jūsu galvā”, un to var ārstēt.\n\nTā kā cēlonis var būt fizisks, hormonāls vai saistīts ar to, cik atslābināta vai uzbudināta jūtaties — un bieži vairāku faktoru kopums —, noderīgi ir parādīties ārstam, nevis minēt vai sakost zobus un ciest.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja sekss ir sāpīgs, vēršieties pie ģimenes ārsta vai seksuālās veselības klīnikā — neatkarīgi no iemesla, ir vērts to pārbaudīt, un bieži sastopamajiem iemesliem ir pieejama efektīva palīdzība.\n- Par to runāt var šķist neērti, taču ārsti ar šādiem gadījumiem saskaras bieži un ir šeit, lai palīdzētu, nevis lai spriestu. Jūs varat lūgt, lai jūs apskata sieviete ārste, uzaicināt kādu līdzi un pārrunāt, kas palīdzētu jums justies ērti izmeklēšanas laikā.\n- Ja pēc dzimumakta parādās asiņošana, noteikti dodieties pie ārsta, un vēršieties pie speciālista ātrāk, ja sāpes ir stipras vai ja jūtaties slikti.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Sāpju mazināšana dzemdību laikā",
+      "aliases": [
+        "sāpju mazināšana dzemdībās",
+        "epidurālā anestēzija",
+        "epidurālā",
+        "smieklu gāze",
+        "Entonox",
+        "dzemdību baseins",
+        "TENS"
+      ],
+      "glance": "Ir vairāki veidi, kā mazināt dzemdību sāpes — nav ne pareizās, ne nepareizās izvēles, un jūs varat saglabāt elastību.",
+      "overview": "Dzemdības katrai norit citādi, un ir vairāki veidi, kā tikt galā ar sāpēm — no vienkāršiem atvieglojuma paņēmieniem līdz medicīniskām iespējām. Ja jau iepriekš zināt, kas ir pieejams, varat justies labāk sagatavota.\n\nIespējas ir no **aktīvas kustēšanās un vertikālām pozām**, elpošanas un atslābināšanās, masāžas un **ūdens** (vannas vai dzemdību baseina) līdz **TENS aparātam**, **smieklu gāzei** (Entonox — slāpekļa oksidula un skābekļa maisījums, ko ieelpojat pati), **injekcijām**, piemēram, petidīnam, un **epidurālajai anestēzijai** (to veic anesteziologs, un tā dzemdību sāpes nomāc pilnīgāk).\n\n„Labākās” izvēles nav — tas atkarīgs no jums, jūsu dzemdībām un pašsajūtas konkrētajā dienā. Savas vēlmes ir vērts pierakstīt **dzemdību plānā**, taču saglabājot atvērtu prātu: daudzas sievietes pamana, ka vēlas vairāk vai mazāk sāpju mazināšanas, nekā bija domājušas, un tas ir pilnīgi normāli.",
+      "deep": null,
+      "when_to_see_doctor": "- Jūsu **vecmāte** (un, ja izvēlaties epidurālo anestēziju, arī anesteziologs) izskaidros jums pieejamās iespējas un palīdzēs izlemt, kas jums ir piemērotākais — gan grūtniecības laikā, gan arī pašu dzemdību laikā. Nav nepieciešams par visu izlemt jau iepriekš.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (policistisko olnīcu sindroms)",
+      "aliases": [
+        "PCOS",
+        "policistisko olnīcu sindroms",
+        "policistiskas olnīcas",
+        "policistoze",
+        "PCOS sindroms"
+      ],
+      "glance": "PCOS ir izplatīts hormonāls traucējums, kas var ietekmēt menstruācijas, ovulāciju, ādu un matus.",
+      "overview": "PCOS — policistisko olnīcu sindroms — ir bieža slimība, kas saistīta ar reproduktīvo hormonu līdzsvaru. Tiek lēsts, ka tas skar aptuveni 1 no 10 reproduktīvā vecuma sievietēm, un daudzām, kurām tas ir, diagnoze tā arī netiek noteikta.\n\nTas var izpausties dažādi, un nav divu gluži vienādu gadījumu. Biežas pazīmes ir neregulāras, retas vai iztrūkstošas menstruācijas; paaugstināts hormonu, ko sauc par androgēniem, līmenis, kas var izraisīt pastiprinātu apmatojumu uz sejas vai ķermeņa, pūtītes vai matu retināšanos galvā; un olnīcas, kas olšūnu atbrīvo retāk nekā parasti, tāpēc var būt grūtāk ieņemt bērnu. Bieži ir arī svara izmaiņas un tumšākas ādas laukumi.\n\nPrecīzs cēlonis nav līdz galam skaidrs, un pilnībā izārstēt to nevar — taču simptomus var kontrolēt, un pirmais solis ir saprast, kas notiek. PCOS ir bieža un kontrolējama, un par to nav jākaunas.",
+      "deep": "Tā kā PCOS ietekmē organisma hormonus un to, kā tas izmanto insulīnu, ilgtermiņā tas ir saistīts arī ar insulīna rezistenci un lielāku 2. tipa diabēta iespējamību, paaugstinātu asinsspiedienu un holesterīna izmaiņām — tāpēc ārsti laika gaitā parasti tam seko līdzi. Apmēram pusei sieviešu ar PCOS līdz četrdesmit gadu vecumam var attīstīties diabēts vai prediabēts, tāpēc regulāras pārbaudes ir svarīgas. Diagnozi nevar noteikt pašai: ārsts izvērtē kopainu — jūsu anamnēzi un menstruācijas, dažkārt hormonu asins analīzes un dažkārt olnīcu ultrasonogrāfiju — un izslēdz citus cēloņus, pirms nosaka PCOS.",
+      "when_to_see_doctor": "Ir vērts vērsties pie ģimenes ārsta, ja pamanāt pazīmes, kas atbilst iepriekš aprakstītajam, it īpaši, ja tās ietekmē jūsu ikdienas pašsajūtu:\n\n- neregulāras, ļoti retas vai izbeigušās menstruācijas\n- manāmi pastiprināts apmatojums uz sejas vai ķermeņa, ilgstošas pūtītes vai matu retināšanās galvā\n- grūtības ieņemt bērnu pēc kāda laika mēģinājumiem\n- svara pieaugums, ko grūti samazināt, kopā ar citiem simptomiem\n\nĢimenes ārsts var noskaidrot, kas notiek, apstiprināt, vai tas ir PCOS vai kas cits, un pārrunāt jums piemērotu plānu. PCOS ir saistīts arī ar nomāktu garastāvokli un trauksmi — ja jums ir grūti ar savām sajūtām, pastāstiet arī to ģimenes ārstam; tā ir daļa no kopainas, un atbalsts ir pieejams.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopauze",
+      "aliases": [
+        "perimenopauze",
+        "premenopauze",
+        "pāreja uz menopauzi",
+        "klimakss",
+        "menopauzes pārejas periods"
+      ],
+      "glance": "Perimenopauze ir pārejas periods pirms menopauzes, kad sāk mainīties menstruācijas un hormonu līmenis.",
+      "overview": "Perimenopauze ir laika posms pirms menopauzes — gadi „ap menopauzi”. Tā sākas brīdī, kad pirmo reizi pamanāt izmaiņas, un turpinās līdz pat pilnam gadam pēc pēdējās menstruācijas, kad ir iestājusies menopauze. Tā var ilgt vairākus gadus.\n\nŠajā laikā olnīcas pakāpeniski ražo mazāk estrogēna, un tā līmenis svārstās mazāk paredzami nekā iepriekš. Visbiežāk sastopamā agrīnā pazīme ir menstruāciju izmaiņas — tās kļūst biežākas vai retākas, vājākas vai stiprākas. Daudzi ar menopauzi saistītie simptomi, piemēram, karstuma viļņi, miega izmaiņas vai garastāvokļa svārstības, var sākties jau šajā posmā, kamēr jums vēl ir menstruācijas.\n\nTā kā perimenopauze noris pakāpeniski un tās izpausmes ir ļoti atšķirīgas, tā var radīt neskaidrības — izmaiņas neparādās vienlaikus vai visiem vienādā secībā. Apzinoties, ka šim posmam ir nosaukums un ka tas ir normāls pārejas posms, to var vieglāk izprast.",
+      "deep": null,
+      "when_to_see_doctor": "- Vērsieties pie ģimenes ārsta, ja perimenopauzes simptomi ietekmē jūsu ikdienas dzīvi un vēlaties pārrunāt, kas varētu palīdzēt.\n- Ja menstruācijas kļūst ļoti bagātīgas vai ir asiņošana starp menstruācijām vai pēc dzimumakta, ir vērts parādīties ārstam, lai noskaidrotu cēloni.\n- Atcerieties, ka perimenopauzes laikā joprojām var iestāties grūtniecība, tāpēc, ja tas uz jums attiecas, ir vērts pārrunāt kontracepciju ar ārstu.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Menstruāciju sāpes",
+      "aliases": [
+        "menstruāciju sāpes",
+        "sāpīgas menstruācijas",
+        "menstruāciju krampji",
+        "krampji",
+        "dismenoreja",
+        "sāp vēders mēnešreižu laikā"
+      ],
+      "glance": "Menstruāciju sāpes ir krampji vēdera lejasdaļā ap menstruāciju laiku — tās ir biežas un nereti ir normāla cikla daļa.",
+      "overview": "Menstruāciju sāpes ir krampjveida, smeldzošas sāpes vēdera lejasdaļā, kas daudzām sievietēm ir ap menstruāciju laiku. Tās rodas, kad dzemdes muskuļainā siena saraujas, un bieži tās ir normāla menstruālā cikla daļa. Medicīnā tās sauc par dismenoreju.\n\nParasti sāpes sākas līdz ar menstruācijām vai tieši pirms tām un ilgst līdz aptuveni trim dienām. Dažām tā ir viegla smaguma sajūta, citām krampji ir stiprāki. Sāpes var mainīties arī dzīves gaitā un no cikla uz ciklu.\n\nMenstruāciju sāpes, kas atbilst šim pazīstamajam modelim, ir biežas, un parasti ar tām var tikt galā. Daudzas izmanto ikdienišķus atvieglojuma paņēmienus un vienkāršus pretsāpju līdzekļus, un farmaceits vai ģimenes ārsts var ieteikt, kas varētu derēt jums. Svarīgi ir pazīt savu ierasto modeli, lai pamanītu, ja kaut kas mainās.",
+      "deep": null,
+      "when_to_see_doctor": "Ir vērts aprunāties ar ģimenes ārstu, ja:\n\n- menstruācijas kļūst sāpīgākas, bagātīgākas vai neregulārākas nekā parasti\n- sāpes neļauj veikt ikdienas darbus, piemēram, strādāt vai iet uz skolu\n- parastie pretsāpju līdzekļi nepalīdz\n- jums ir sāpes dzimumakta laikā, urinējot vai izejot vēderam\n- jums ir asiņošana starp menstruācijām\n- sāpes ir arī citā laikā, ne tikai tieši pirms menstruācijām vai to laikā\n- izdalās asins recekļi, kas lielāki par monētu (apmēram lielas monētas lielumā)\n- pamanāt arī uzpūstu vēderu, mazāku ēstgribu vai neizskaidrojamu svara zudumu\n\nTas nenozīmē, ka kaut kas nav kārtībā, taču tās ir vērts pārbaudīt — jaunām, citādām vai grūti panesamām menstruāciju sāpēm var būt cēloņi, kuru novēršanā ārsts var palīdzēt.",
+      "red_flags": "- Lūdziet **steidzamu** vizīti pie ģimenes ārsta vai sazinieties ar **dežūrārstu**, ja jūsu menstruācijas sāpes vai sāpes iegurnī ir **stipras vai stiprākas nekā parasti, un pretsāpju līdzekļi nav palīdzējuši.**"
+    },
+    "planning-pregnancy": {
+      "title": "Grūtniecības plānošana",
+      "aliases": [
+        "grūtniecības plānošana",
+        "gatavošanās grūtniecībai",
+        "mēģinām ieņemt bērnu",
+        "pirms grūtniecības",
+        "kā palikt stāvoklī"
+      ],
+      "glance": "Daži vienkārši pasākumi pirms mēģinājuma — folijskābes lietošana, smēķēšanas un alkohola lietošanas pārtraukšana — nodrošina grūtniecībai vislabāko sākumu.",
+      "overview": "Ja domājat par mazuļa ieņemšanu, daži soļi jau iepriekš var dot grūtniecībai veselīgāku sākumu — daudzi no tiem darbojas vēl pirms ieņemšanas.\n\nGalvenie: sāciet lietot **folijskābi** (un D vitamīnu), **atmetiet smēķēšanu** un **izvairieties no alkohola**. Palīdz arī tiekšanās pēc veselīga svara, jo ievērojami nepietiekams vai pārmērīgs svars var apgrūtināt ieņemšanu. Tāpat ir vērts pārliecināties, ka jums ir veiktas visas **MMR vakcīnas** (pret masalām, epidēmisko parotītu un masaliņām), jo dažas infekcijas var ietekmēt grūtniecību.\n\nNekam no tā nav jābūt ideālam vai jārada stress. Svarīgas ir nelielas, saudzīgas pārmaiņas laikus — un šāds neliels priekšlaiks ir viena no jaukākajām lietām, ko varat darīt nākamās grūtniecības labā.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja jums ir **hroniska slimība** vai **regulāri lietojat zāles**, pirms sākat mēģināt ieņemt bērnu, konsultējieties ar ģimenes ārstu — dažu slimību un zāļu dēļ grūtniecība ir jāplāno īpaši. **Nepārtrauciet lietot nevienas izrakstītās zāles**, iepriekš nekonsultējoties ar ārstu.\n- Ģimenes ārsts var arī ieteikt, kā lietot folijskābi (arī to, vai jums vajag lielāku devu), un palīdzēt pirms grūtniecības sasniegt veselīgu svaru.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Pēcdzemdību depresija",
+      "aliases": [
+        "pēcdzemdību depresija",
+        "depresija pēc dzemdībām",
+        "pēcdzemdību skumjas",
+        "baby blues",
+        "PND",
+        "nomāktība pēc dzemdībām"
+      ],
+      "glance": "Pēcdzemdību depresija ir bieži sastopams, ārstējams nomākts garastāvoklis pēc dzemdībām — tā nav jūsu vaina, un palīdzība ir pieejama.",
+      "overview": "Nomāktība, trauksme vai aizkaitināmība pirmajās pāris nedēļās pēc dzemdībām ir ļoti bieža — to mēdz saukt par „pēcdzemdību skumjām” (baby blues), un parasti tās pāriet pašas apmēram divu nedēļu laikā.\n\nPēcdzemdību depresija ir kas cits: dziļāks vai ilgstošāks nomākts garastāvoklis. Tā ir bieža slimība, tā var sākties jebkurā brīdī pirmā gada laikā, un tā var skart arī tēvus un partnerus. Pazīmes ir ilgstoši nomākts garastāvoklis, grūtības par kaut ko priecāties, miega traucējumi pat tad, kad mazulis guļ, un dažkārt grūtas izjūtas saistībā ar tuvības veidošanos ar mazuli.\n\nTas, ka jums tā ir, **nenozīmē**, ka esat slikts vecāks vai nemīlat savu mazuli — tā ir slimība, nevis neveiksme, un tā labi padodas atbalstam un ārstēšanai. Laikus meklēt palīdzību ir stipras un gādīgas rīcības zīme — jūsu un jūsu mazuļa labā.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja domājat, ka jums varētu būt pēcdzemdību depresija, vai ja „pēcdzemdību skumjas” nav pārgājušas pēc divām nedēļām, runājiet ar savu **ģimenes ārstu, vecmāti vai patronāžas māsu**. Viņi ar to ir saskārušies daudzkārt un var palīdzēt atrast piemērotu atbalstu.",
+      "red_flags": "- Ja jums rodas **domas nodarīt pāri sev vai savam mazulim** vai domas, ka jūsu ģimenei bez jums būtu labāk, meklējiet palīdzību **nekavējoties**: zvaniet uz numuru **{{emergency}}**, dodieties uz neatliekamās palīdzības nodaļu vai zvaniet uz krīzes tālruni. Šīs domas var būt daļa no slimības, tās neatspoguļo to, kas jūs esat, un steidzama palīdzība ir pieejama."
+    },
+    "pre-eclampsia": {
+      "title": "Preeklampsija",
+      "aliases": [
+        "preeklampsija",
+        "gestoze",
+        "augsts asinsspiediens grūtniecības laikā",
+        "olbaltums urīnā grūtniecības laikā",
+        "toksēmija"
+      ],
+      "glance": "Preeklampsija ir paaugstināts asinsspiediens grūtniecības laikā — sākumā bieži bez simptomiem, tāpēc grūtniecības uzraudzības vizītes ir tik svarīgas.",
+      "overview": "Preeklampsija ir grūtniecības slimība, kas galvenokārt izpaužas kā paaugstināts asinsspiediens kopā ar olbaltumu urīnā. Parasti tā parādās apmēram no 20. nedēļas, dažkārt arī pēc dzemdībām.\n\nViena no svarīgākajām lietām, kas jāzina: sākumā tā bieži **nerada nekādus simptomus** — jūs varat justies pilnīgi labi. Tieši tāpēc vecmāte katrā kārtējā grūtniecības uzraudzības vizītē mēra jūsu asinsspiedienu un pārbauda urīnu: tieši ar šīm pārbaudēm to parasti atklāj, pirms jūs pati kaut ko pamanītu.\n\nJa simptomi tomēr parādās, tos ir vērts zināt, jo preeklampsija var kļūt nopietna gan jums, gan mazulim. Ja to atklāj laikus, to var labi ārstēt, un regulāra grūtniecības uzraudzības vizīšu apmeklēšana ir labākais veids, kā to pamanīt agri.",
+      "deep": null,
+      "when_to_see_doctor": "- Apmeklējiet visas **kārtējās grūtniecības uzraudzības vizītes** — tieši asinsspiediena un urīna pārbaudes parasti ļauj atklāt preeklampsiju, pirms parādās simptomi.",
+      "red_flags": "Meklējiet medicīnisko palīdzību **nekavējoties** — sazinieties ar dzemdību nodaļu vai **dežūrārstu** —, ja jums ir kaut kas no šī (zvaniet uz numuru **{{emergency}}**, ja jūtaties ļoti slikti, piemēram, ja ir krampju lēkme):\n\n- **stipras galvassāpes**, kas nepāriet no parastajiem pretsāpju līdzekļiem\n- **redzes traucējumi** — neskaidra redze vai gaismas zibšņi acu priekšā\n- **pēkšņs sejas, roku vai kāju pietūkums**\n- **sāpes tieši zem ribām**\n- **vemšana** vai pēkšņi ļoti slikta pašsajūta"
+    },
+    "pregnancy": {
+      "title": "Grūtniecība",
+      "aliases": [
+        "grūtniecība",
+        "esmu stāvoklī",
+        "gaidu bērniņu",
+        "grūtniecības nedēļas",
+        "trimestri",
+        "dzemdību termiņš",
+        "cik nedēļas esmu stāvoklī"
+      ],
+      "glance": "Grūtniecība parasti ilgst aptuveni 40 nedēļas, skaitot no pēdējās menstruācijas pirmās dienas.",
+      "overview": "Grūtniecība ir laiks, kad jūsu ķermenī aug un tiek iznēsāts mazulis. Parasti tā ilgst apmēram 40 nedēļas — par iznēsātu un normālu uzskata laiku no 37 līdz 42 nedēļām —, un, iespējams, pārsteidzoši, to skaita no **pēdējo menstruāciju** pirmās dienas, nevis no ieņemšanas. Tā vienkārši ir standarta metode, kā aprēķina datumus.\n\nJūsu **paredzamais dzemdību termiņš** ir aptuvens aprēķins, nevis galējais termiņš: mazuļi mierīgi piedzimst mazliet agrāk vai vēlāk. Grūtniecības sākumā termiņa noteikšanas ultrasonogrāfija (parasti ap 12. nedēļu) var izmērīt mazuli un dot precīzāku datumu, kas dažkārt maina sākotnējo aprēķinu.\n\nPar grūtniecību bieži runā kā par trim posmiem jeb **trimestriem**, katram ar savām pārmaiņām. Visu laiku par jums rūpējas ar regulārām grūtniecības uzraudzības vizītēm pie vecmātes (un, ja vajag, arī pie ārsta) — tā ir aprūpe, kas palīdz jums un mazulim būt veseliem.",
+      "deep": "Tā kā termiņu skaita no pēdējām menstruācijām, brīdī, kad menstruācijas nokavējas, jūs jau esat aptuveni četras nedēļas stāvoklī. Grūtniecības nedēļas nosaka, kā tiek organizēta aprūpe — ultrasonogrāfijas, skrīningi un pārbaudes tiek piedāvātas noteiktās nedēļās. Ja menstruācijas ir neregulāras vai neesat droša par datumiem, laika grafiku nosaka termiņa noteikšanas ultrasonogrāfija. Šis raksts ir kā visa ceļa karte; konkrētajām tēmām — grūtniecības pazīmēm, grūtniecības uzraudzībai, veselības saglabāšanai un dzemdībām — katrai ir savs raksts.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Grūtniecības tests",
+      "aliases": [
+        "grūtniecības tests",
+        "mājas grūtniecības tests",
+        "hCG tests",
+        "grūtniecības pārbaude"
+      ],
+      "glance": "Mājas grūtniecības tests nosaka grūtniecības hormonu hCG urīnā — visuzticamākais tas ir no pirmās dienas, kad kavējas menstruācijas.",
+      "overview": "Mājas grūtniecības tests darbojas, nosakot urīnā hormonu, ko sauc par hCG (cilvēka horiongonadotropīnu). Jūsu organisms to sāk veidot dažas dienas pēc tam, kad apaugļotā olšūna ir piestiprinājusies dzemdē, un grūtniecības sākumā tā daudzums strauji pieaug.\n\nTests ir visuzticamākais no **pirmās dienas, kad kavējas menstruācijas** — apmēram divas nedēļas pēc ieņemšanas. Ja jūsu cikls ir neregulārs vai nezināt, kad jāsākas menstruācijām, uzticamāku rezultātu iegūsiet, ja pagaidīsiet vismaz 21 dienu pēc neaizsargāta dzimumakta. Tests nav jāveic tieši no rīta; der jebkurš dienas laiks.\n\n**Pozitīvs** rezultāts gandrīz noteikti ir pareizs — ļoti reti tests ir pozitīvs, ja neesat stāvoklī. **Negatīvs** rezultāts ir mazliet mazāk drošs: ja menstruācijas joprojām nesākas un jums šķiet, ka varētu būt stāvoklī, pagaidiet dažas dienas un veiciet testu vēlreiz.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja rezultāts ir pozitīvs, sazinieties ar **vecmāti vai ģimenes ārstu**, lai sāktu grūtniecības uzraudzību.\n- Ja testi ir negatīvi, bet menstruāciju nav un jums šķiet, ka esat stāvoklī (vai jūtaties slikti), vērsieties pie ģimenes ārsta, lai noskaidrotu, kas notiek.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Priekšlaicīgas dzemdības",
+      "aliases": [
+        "priekšlaicīgas dzemdības",
+        "priekšlaicīgs dzemdību sākums",
+        "priekšlaikus dzimis mazulis",
+        "agras dzemdības",
+        "priekšlaicīga augļūdeņu noplūšana",
+        "ūdeņi aizgāja par agru"
+      ],
+      "glance": "Priekšlaicīgas dzemdības ir dzemdības pirms 37. nedēļas — rīkojieties ātri, jo savlaicīga aprūpe patiešām ir izšķiroša.",
+      "overview": "Priekšlaicīgas dzemdības ir dzemdības, kas sākas pirms 37. grūtniecības nedēļas. Tās notiek aptuveni 8 no 100 dzemdībām.\n\nPriekšlaikus dzimuši mazuļi ir trauslāki, taču daudziem vēlāk klājas labi — it īpaši ar specializēto aprūpi, ko sniedz jaundzimušo nodaļas. Galvenais ir rīkoties ātri, ja jums šķiet, ka dzemdības varētu sākties, lai jūs varētu izmeklēt un, ja vajag, sniegt ārstēšanu, kas palīdz pasargāt mazuli.\n\nPazīmes ir līdzīgas dzemdību sākumam jebkurā laikā, taču pirms 37. nedēļas nekad negaidiet, vai tās pāries — tās vienmēr ir iemesls sazināties nekavējoties.",
+      "deep": null,
+      "when_to_see_doctor": "- Zvaniet savai **vecmātei vai dzemdību nodaļai** jebkurā brīdī, ja grūtniecības termiņš ir **mazāks par 37 nedēļām** un jums rodas neskaidrības vai bažas — vienmēr ir labi pārliecināties.",
+      "red_flags": "Sazinieties ar savu **vecmāti vai dzemdību nodaļu nekavējoties** — dienā vai naktī —, ja **pirms 37. nedēļas** jums ir kaut kas no šī:\n\n- regulāras **kontrakcijas vai vēdera sacietēšana**, vai menstruācijām līdzīgas sāpes\n- **pēkšņi izplūst vai sūcas šķidrums** no maksts (noplūst augļūdeņi)\n- jums neierastas **muguras sāpes** vai spiediena sajūta dziļi iegurnī"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (premenstruālais sindroms)",
+      "aliases": [
+        "PMS",
+        "premenstruālais sindroms",
+        "premenstruālā spriedze",
+        "PMT",
+        "PMDD",
+        "premenstruālie disforiskie traucējumi"
+      ],
+      "glance": "PMS ir fizisko un emocionālo izmaiņu kopums, ko daudzi cilvēki novēro vienu vai divas nedēļas pirms menstruācijām.",
+      "overview": "PMS — premenstruālais sindroms — ir nosaukums pārmaiņām, ko daudzas sievietes izjūt dažas dienas vai pāris nedēļas pirms menstruācijām. Tas var skart ikvienu, kam ir menstruācijas, un parasti mazinās dažu dienu laikā pēc menstruāciju sākuma.\n\nPārmaiņas izpaužas dažādi. Fiziski jūs varat pamanīt vēdera uzpūšanos, sāpīgas vai jutīgas krūtis, krampjus, galvassāpes vai lielāku nogurumu. Emocionāli var būt garastāvokļa svārstības, aizkaitināmība, trauksme vai nomāktība. Bieža ir arī tieksme pēc noteikta ēdiena un miega izmaiņas. PMS nav visām, un tām, kurām tas ir, nav visu simptomu — svarīgs ir jūsu pašas ritms.\n\nPMS ir normāla, atzīta daudzu sieviešu cikla daļa, kas saistīta ar dabiskajām hormonālajām pārmaiņām cikla otrajā pusē. Vērojot, kā tas izpaužas tieši jums, ciklu pēc cikla, ir vieglāk plānot savu laiku — un pamanīt, ja kaut kas mainās.",
+      "deep": null,
+      "when_to_see_doctor": "Ir vērts aprunāties ar ģimenes ārstu, ja:\n\n- simptomi ietekmē jūsu ikdienas dzīvi — darbu, mācības, attiecības\n- ikdienas paradumu maiņa nav palīdzējusi\n- nomāktība, trauksme vai aizkaitināmība šķiet ļoti stipra\n\nĀrsts var pārrunāt, kas varētu palīdzēt. Smagāka forma — premenstruālie disforiskie traucējumi (PMDD) — var izraisīt daudz stiprākus garastāvokļa simptomus, un arī tiem ir pieejams atbalsts.",
+      "red_flags": "- Ja jums ir PMDD simptomi un **rodas domas par pašnāvību vai sajūta, ka varētu nodarīt sev pāri**, meklējiet palīdzību nekavējoties: **zvaniet uz numuru {{emergency}} vai dodieties uz neatliekamās palīdzības nodaļu.** Nebrauciet pie stūres pati — palūdziet, lai kāds jūs aizved, vai izsauciet ātro palīdzību. Jūs esat pelnījusi atbalstu, un palīdzība ir pieejama."
+    },
+    "progesterone": {
+      "title": "Progesterons",
+      "aliases": [
+        "progesterons",
+        "progesterona līmenis",
+        "dzeltenā ķermeņa hormons"
+      ],
+      "glance": "Progesterons ir cikla otrās puses hormons, kas pēc ovulācijas sagatavo dzemdes gļotādu.",
+      "overview": "Progesterons ir viens no galvenajiem hormoniem, kas vada menstruālo ciklu, un vadošā loma tam ir cikla otrajā pusē — pēc tam, kad ovulācijā ir atbrīvota olšūna.\n\nTā galvenais uzdevums ir palīdzēt dzemdes gļotādai palikt biezai un gatavai, lai apaugļotā olšūna, ja tā nonāk dzemdē, varētu piestiprināties un sāktos grūtniecība. Tādējādi progesterons darbojas kā partneris estrogēnam, kas lielāko daļu sagatavošanās darba paveica cikla sākumā.\n\nJa grūtniecība neiestājas, progesterona līmenis pazeminās. Tieši šis kritums ļauj gļotādai atdalīties — sākas nākamās menstruācijas. Progesterona līmeņa kāpums un kritums cikla otrajā pusē ir normāls, paredzams ritms.",
+      "deep": "Progesteronu galvenokārt veido dzeltenais ķermenis — struktūra, ko olnīca izveido no folikula pēc tam, kad tas ir atbrīvojis olšūnu. Tāpēc progesterona līmenis paaugstinās tieši luteālajā fāzē (pēc ovulācijas). Kad dzeltenais ķermenis sairst, pazeminās gan progesterona, gan estrogēna līmenis, un tas iezīmē jauna cikla sākumu. Šīs dabiskās svārstības ir viens no iemesliem, kāpēc dažas sievietes dienās pirms menstruācijām pamana premenstruālas pārmaiņas.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Tikai progestogēnu saturošās tabletes (minitabletes)",
+      "aliases": [
+        "minitabletes",
+        "mini tablete",
+        "tikai progestagēnu saturošas tabletes",
+        "tabletes bez estrogēna",
+        "desogestrela tabletes",
+        "POP"
+      ],
+      "glance": "Mini tablete ir ikdienas tablete, kuras sastāvā ir viens hormons, kas sabiezina dzemdes kakla gļotas, tādējādi bloķējot spermatozoīdus.",
+      "overview": "Tikai progestagēnu saturošās tabletes — bieži sauktas par „minitabletēm” — ir katru dienu lietojamas tabletes ar vienu hormonu, progestagēnu. Tās ir iespēja tām, kuras nevar vai nevēlas lietot estrogēnu.\n\nTo galvenā darbība ir sabiezināt gļotas dzemdes kaklā, lai spermatozoīdiem būtu grūtāk nokļūt līdz olšūnai. Viens izplatīts veids, desogestrela tabletes, turklāt neļauj olnīcām atbrīvot olšūnu (ovulāciju).\n\nPareizi lietojot, to efektivitāte pārsniedz 99 %; tipiskā ikdienas lietošanā tā ir apmēram 91 %. Tāpat kā citām tabletēm, svarīgs ir lietošanas laiks, un tās neaizsargā pret seksuāli transmisīvajām infekcijām (STI).",
+      "deep": "Mini tabletes atšķiras no kombinētajām tabletēm ar to, ka tās nesatur estrogēnu, kas ietekmē to, kam tās varētu būt piemērotas — šo apstākli ārsts izvērtē, izrakstot recepti. Daži tabletes veidi ir jālieto diezgan stingrā dienas laika posmā, lai saglabātu to efektivitāti. Šajā rakstā ir izskaidrots, kas tās ir un kā tās darbojas; jautājumi par to, kā tās lietot un vai tās ir piemērotas tieši jums, ir jāapspriež ar ģimenes ārstu, medmāsu vai farmaceitu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Kā atpazīt vardarbīgas attiecības",
+      "aliases": [
+        "vardarbības atpazīšana",
+        "vardarbīgas attiecības",
+        "vardarbība ģimenē",
+        "partnera vardarbība",
+        "vardarbības pazīmes",
+        "vai pret mani izturas vardarbīgi"
+      ],
+      "glance": "Vardarbība var būt fiziska, seksuāla, emocionāla vai kontrolējoša — un tas, kurš to piedzīvo, nekad nav vainīgs.",
+      "overview": "Vardarbība attiecībās nav tikai fiziska. Tai var būt vairākas formas, bieži vienlaikus: fizisks kaitējums, seksuāla piespiešana, emocionāls vai psiholoģisks kaitējums un kontrolējoša uzvedība — kad partneris nosaka, kur jūs ejat, ar ko tiekaties vai ko drīkstat darīt. Jebkas no tā var būt vardarbība, arī tad, ja nav redzamu savainojumu.\n\nTā ir biežāka, nekā daudzi domā. Pasaulē apmēram 1 no 3 sievietēm dzīves laikā piedzīvo fizisku vai seksuālu vardarbību, visbiežāk no partnera; Itālijā aina ir līdzīga. Tāpēc, ja tas ir daļa no jūsu dzīves, jūs neesat viena, un jūs to neesat izraisījusi.\n\nTo nosaukt vārdā var būt grūti — vardarbība bieži mijas ar labiem brīžiem, atvainošanos vai solījumiem mainīties, un tā var pieaugt tik lēnām, ka šķiet normāla. Jūsu pašas sajūta, ka kaut kas nav kārtībā, ir pietiekams iemesls meklēt palīdzību. Jums nav jābūt pilnīgi drošai vai jāgaida, kamēr kļūst „pietiekami slikti”, lai ar kādu parunātu.",
+      "deep": "Aiz dažādajām formām vardarbībai parasti ir kopīgs modelis — viens cilvēks cenšas iegūt varu un kontroli pār otru, un laika gaitā tā var saasināties. Tā nopietni ietekmē veselību — tā ir saistīta ar trauksmi, depresiju, miega traucējumiem un ilgstošām fiziskām sekām. Nekas no tā nenozīmē, ka esat vāja vai vainīga; tas nozīmē, ka tas, ar ko jūs dzīvojat, ir kaitīgs, un ir pieejams atbalsts, kas palīdzēs to droši un savā tempā pārdomāt.",
+      "when_to_see_doctor": "- Kad vien būsiet gatava, varat konfidenciāli aprunāties ar kādu — ģimenes ārstu vai medmāsu, vardarbības upuru atbalsta centru vai uzticības tālruni (Itālijā — **1522**, bezmaksas un jebkurā laikā). Jums iepriekš nav vajadzīgi pierādījumi, plāns vai lēmums; tur jūs uzklausīs un palīdzēs saprast jūsu iespējas.\n- Mediķis var arī ārstēt savainojumus un nemanāmi palīdzēt jums saņemt specializētu atbalstu.",
+      "red_flags": "- Ja jums draud **tūlītējas briesmas**, nekavējoties sazinieties ar neatliekamās palīdzības dienestiem: **112** ES (arī Itālijā), **999** Apvienotajā Karalistē, **911** ASV un Kanādā.\n- Itālijā bezmaksas valsts uzticības tālrunis vardarbības un vajāšanas gadījumos — **1522** — ir pieejams 24 stundas diennaktī, anonīmi, pa tālruni vai tērzēšanā, vairākās valodās."
+    },
+    "respect-not-control": {
+      "title": "Cieņa, nevis kontrole",
+      "aliases": [
+        "kontrolējoša uzvedība",
+        "piespiedu kontrole",
+        "veselīgas attiecības",
+        "brīdinājuma pazīmes",
+        "kur meklēt palīdzību",
+        "vardarbība attiecībās"
+      ],
+      "glance": "Mīlestība balstās uz cieņu un brīvību — kontrole, greizsirdība un spiediens nav mīlestība, un palīdzība ir pieejama.",
+      "overview": "Veselīgas attiecības balstās uz cieņu, uzticēšanos, līdztiesību un brīvību: divi cilvēki, no kuriem katrs saglabā savus draugus, izvēles un personīgo telpu. Kontrole ir pretstats. Tā bieži slēpjas aiz tādiem vārdiem kā mīlestība vai greizsirdība — „Es pārbaudu tavu telefonu, jo man rūp”, „Es negribu, lai tu ar viņiem tiecies, jo es tevi mīlu” —, bet tās iznākums ir viņas pasaules un brīvības sašaurināšana.\n\nKontrole reti sākas ar vardarbību. Parasti tā sākas ar sīkumiem — kritiku, pārkāptu robežu, „joku”, kas sāpina — un pieaug. Ir svarīgi to laikus nosaukt vārdā, jo piespiedu kontrole pati par sevi ir vardarbības veids un brīdinājums par vēl ļaunāko. Runa nav par vainu; runa ir par godīgumu un pārmaiņām.",
+      "deep": "**Ja kaut ko no tā atpazīstat sevī, šī apziņa ir sākumpunkts — nevis spriedums uz mūžu.** Cilvēki var mainīties ar patiesām pūlēm un pareizu palīdzību. Vērsties specializētā programmā vīriešiem, kuri vēlas pārstāt kontrolēt vai izturēties vardarbīgi, ir spēka, nevis vājuma pazīme. Runājiet ar speciālistu, ārstu vai vīriešu uzvedības maiņas dienestu.\n\nJa briesmās ir **viņa** vai jūs uztraucaties par kādu, iedrošiniet un atbalstiet viņu vērsties pēc palīdzības — tā, kā izvēlas viņa, nekad nepārņemot kontroli.\n\n**Kur meklēt palīdzību**\n- Ārkārtas gadījumā vai ja kādam draud tūlītējas briesmas, zvaniet uz vietējo ārkārtas numuru (**112** Itālijā un lielākajā daļā Eiropas; **911** ASV).\n- **Itālija — 1522**: valsts uzticības tālrunis vardarbības un vajāšanas gadījumos. Bezmaksas, 24/7, anonīms un vairākās valodās; to uztur Vienlīdzīgu iespēju departaments. Tas arī palīdz atrast vietējos vardarbības upuru atbalsta centrus (centri antiviolenza).\n- Atbalsta centri un vīriešu uzvedības maiņas programmas (Itālijā — „centri per uomini autori di violenza”) piedāvā konfidenciālu atbalstu pārmaiņām.",
+      "when_to_see_doctor": null,
+      "red_flags": "Kontrolējošas vai vardarbīgas uzvedības brīdinājuma pazīmes — tās ir vērts uztvert nopietni, vai tās pamanāt sevī vai attiecībās:\n\n- **Uzraudzīšana vai izolēšana**: viņas telefona pārbaudīšana, atrašanās vietas izsekošana vai viņas nošķiršana no draugiem un ģimenes.\n- **Kontrole pār izvēlēm**: nauda, ko viņa velk mugurā, kur viņa iet, ar ko viņa tiekas.\n- **Greizsirdība, ko pasniedz kā mīlestību**, pastāvīgi pārmetumi vai vajadzība visu laiku zināt, kur viņa ir.\n- **Pazemošana, vainošana vai tas, ka viņai liek baidīties**, justies vainīgai vai „staigāt kā pa olu čaumalām”.\n- **Spiediens vai draudi** saistībā ar seksu, šķiršanos vai paškaitējumu, lai panāktu paklausību.\n- **Jebkāds fizisks spēks, iebiedēšana vai bailes.** Ja tas notiek, tā ir vardarbība — meklējiet iepriekš minēto palīdzību. Tam nekad nav attaisnojuma, un tā nekad nav viņas vaina."
+    },
+    "safety-plan": {
+      "title": "Drošības plāna izstrāde",
+      "aliases": [
+        "drošības plāns",
+        "drošības plānošana",
+        "kā palikt drošībā",
+        "kā droši aiziet",
+        "aiziešana no vardarbīga partnera"
+      ],
+      "glance": "Drošības plāns ir daži praktiski soļi, kas palīdzēs jums justies drošāk — un apmācīti speciālisti var palīdzēt jums to izstrādāt.",
+      "overview": "Drošības plāns nozīmē vienkārši laikus pārdomāt, kā sevi (un bērnus, ja tādi ir) pasargāt labāk. Tas nav lēmums aiziet vai palikt — tas ir par to, lai būtu mazliet labāk sagatavota, lai ko jūs izvēlētos.\n\nDažām palīdz, ja klusībā ir sagatavotas dažas lietas: uzticams cilvēks, kurš zina, kas notiek, svarīgi dokumenti un tālruņa numuri vietā, kur tos varat viegli paņemt, neliela soma ar pašu nepieciešamāko, priekšstats par drošākajiem veidiem, kā izkļūt no mājas, vai vārds vai zīme, kas kādam pasaka, ka jums vajag palīdzību. Kas ir lietderīgi, pilnībā atkarīgs no jūsu situācijas.\n\nJums tas nav jāizdomā vienai, un bieži ir drošāk to nedarīt vienai. Vardarbības upuru atbalsta dienestiem ir pieredze drošības plānu veidošanā — konfidenciāli un bez maksas —, arī laikam ap aiziešanu, kas var būt īpaši riskants brīdis un ko ir vērts plānot ar atbalstu, nevis steigā.",
+      "deep": null,
+      "when_to_see_doctor": "- Sazinieties ar vardarbības upuru atbalsta centru vai uzticības tālruni (Itālijā — **1522**), lai izveidotu jūsu situācijai atbilstošu plānu — viņi to dara katru dienu, konfidenciāli, un var palīdzēt ar praktiskiem, juridiskiem un emocionāliem soļiem.\n- Ja pierakstāt vai kā citādi fiksējat notiekošo, glabājiet to privātā un drošā vietā.",
+      "red_flags": "- Ja jums draud **tūlītējas briesmas**, nekavējoties sazinieties ar neatliekamās palīdzības dienestiem: **112** ES (arī Itālijā), **999** Apvienotajā Karalistē, **911** ASV un Kanādā.\n- Itālijā tālrunis **1522** — bezmaksas, 24 stundas diennaktī, anonīms, vairākās valodās — var palīdzēt pa tālruni vai tērzēšanā, arī ar steidzamu drošības plānošanu."
+    },
+    "sex-during-your-period": {
+      "title": "Sekss menstruāciju laikā",
+      "aliases": [
+        "sekss menstruāciju laikā",
+        "sekss mēnešreižu laikā",
+        "dzimumakts menstruāciju laikā",
+        "vai var palikt stāvoklī menstruāciju laikā",
+        "grūtniecība menstruāciju laikā",
+        "vai var iestāties grūtniecība mēnešreižu laikā"
+      ],
+      "glance": "Sekss menstruāciju laikā ir pilnīgi normāls, ja abi to vēlaties, taču joprojām var iestāties grūtniecība vai var tikt pārnesta seksuāli transmisīva infekcija.",
+      "overview": "Sekss menstruāciju laikā ir personīga izvēle. Ja abi to vēlaties un jūtaties ērti, tas ir labi, un tajā nav nekā nepareiza vai neparasta. Dažas šajā laikā jūtas jutīgākas vai vienkārši nav noskaņotas, bet citām tas patīk. Svarīgākais ir ieklausīties savā ķermenī un atklāti runāt ar partneri.\n\nTaču menstruācijas nedarbojas kā kontracepcija. Iespēja palikt stāvoklī ir mazāka nekā ap ovulāciju, bet tā nav nulle. Spermatozoīdi organismā var izdzīvot līdz 7 dienām pēc dzimumakta, tāpēc, ja ovulācija notiek agri (tas ir ticamāk, ja cikls ir īsāks), spermatozoīdi no dzimumakta menstruāciju laikā vai tūlīt pēc tām joprojām var satikt olšūnu. Ja nevēlaties palikt stāvoklī, arī šajās dienās ierastā kontracepcija ir svarīga.\n\nMenstruācijas nepasargā arī no seksuāli transmisīvajām infekcijām (STI). Infekcijas var pāriet no viena partnera otram dzimumakta laikā bez prezervatīva, un to izraisītāji var būt gan asinīs, gan citos ķermeņa šķidrumos. Prezervatīvi ir metode, kas samazina arī STI, tostarp HIV, risku, tāpēc tos ir vērts lietot jebkurā mēneša laikā.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja jums ir bijis dzimumakts **bez kontracepcijas** vai kontracepcija varētu nebūt nostrādājusi un nevēlaties palikt stāvoklī, **pēc iespējas ātrāk** konsultējieties ar farmaceitu, ģimenes ārstu vai seksuālās veselības klīnikā par ārkārtas kontracepciju. Tā jāizmanto dažu dienu laikā, un parasti tā darbojas labāk, jo ātrāk to izmanto.\n- Ja dzimumakta laikā **prezervatīvs pārplīst vai noslīd**, vērsieties pēc palīdzības pie farmaceita, seksuālās veselības klīnikā vai pie ģimenes ārsta. Jums var būt vajadzīga ārkārtas kontracepcija vai STI pārbaude.\n- Vērsieties pie ģimenes ārsta vai seksuālās veselības klīnikā, ja pamanāt **asiņošanu pēc dzimumakta, kad jums nav menstruāciju**. Parasti tas nav nopietni, taču vienmēr ir vērts to parādīt ārstam.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Sekss grūtniecības laikā",
+      "aliases": [
+        "sekss grūtniecības laikā",
+        "vai sekss grūtniecības laikā ir drošs",
+        "dzimumakts grūtniecības laikā",
+        "tuvība grūtniecības laikā",
+        "orgasms grūtniecības laikā"
+      ],
+      "glance": "Lielākajā daļā grūtniecību sekss ir drošs un nekaitēs bērnam, ja vien jūsu vecmāte vai ārsts nav ieteikuši citādi.",
+      "overview": "Vairumam sieviešu sekss grūtniecības laikā ir drošs, ja vien vecmāte vai ārsts nav teikuši no tā atturēties. Mazulis dzemdē ir labi pasargāts, un sekss viņam nekaitēs.\n\nDažos gadījumos jums var ieteikt izvairīties no dzimumakta ar penetrāciju: ja jums ir **zemu novietota placenta (placenta praevia)**, jo pastāv asiņošanas risks; ja **ir noplūduši augļūdeņi**, jo pastāv infekcijas risks; vai ja jums ir bijuši **vairāki spontānie aborti**.\n\nGrūtniecības laikā vēlme bieži mainās — dažām gribas vairāk, dažām mazāk, dažām kādu laiku nemaz — un to ietekmē hormoni, ķermeņa pārmaiņas, nogurums, slikta dūša un raizes. Tas viss ir normāli. Ja jums negribas seksu, skūpsti, apskāvieni un masāža ir citi veidi, kā saglabāt tuvību.\n\nVēderam augot, dažas pozas kļūst neērtas; pozas, guļot blakus uz sāniem, bieži ir ērtākas. Hormoni var padarīt maksti sausāku, un var palīdzēt lubrikants uz ūdens bāzes.\n\nGrūtniecības beigās sekss vai orgasms var izraisīt Brekstona-Hiksa kontrakcijas, kad dzemde uz brīdi kļūst cieta. Tas ir normāli un nav dzemdību sākums — un nav pierādījumu, ka sekss izraisītu dzemdības.\n\nJa kādam no jums varētu būt seksuāli transmisīva infekcija, lietojiet prezervatīvu, arī orālā seksa laikā: neārstēta infekcija var nopietni kaitēt jums un mazulim. Izvairieties no orālā seksa, ja kādam no jums ir herpes uz lūpas, jo vīruss var tikt pārnests uz mazuli.",
+      "deep": null,
+      "when_to_see_doctor": "- Aprunājieties ar savu **vecmāti vai ārstu**, ja neesat pārliecināta, vai sekss jums ir drošs, vai ja jūs nomāc raizes par seksu vai jūsu attiecībām.\n- Ja grūtniecības laikā jums ir **jebkāda asiņošana**, parādieties ārstam, pirms atkal nodarbojaties ar seksu — sazinieties ar vecmāti, ārstu vai dzemdību nodaļu.\n- Vērsieties **seksuālās veselības klīnikā**, ja jums vai jūsu partnerim varētu būt seksuāli transmisīva infekcija.",
+      "red_flags": "- Ja jums šķiet, ka **noplūst augļūdeņi**, nekavējoties sazinieties ar **dzemdību nodaļu** un nenodarbojieties ar seksu, kamēr jūs nav apskatījuši.\n- Zvaniet uz numuru **{{emergency}} vai dodieties uz neatliekamās palīdzības nodaļu**, ja jums ir **stipra asiņošana**, it īpaši kopā ar **stiprām sāpēm vēderā** vai sajūtu, ka tūlīt noģībsiet."
+    },
+    "sexual-violence": {
+      "title": "Seksuālā vardarbība un piekrišana",
+      "aliases": [
+        "seksuālā vardarbība",
+        "seksuāls uzbrukums",
+        "izvarošana",
+        "piekrišana",
+        "seksuāla izmantošana",
+        "bez piekrišanas"
+      ],
+      "glance": "Seksuālā vardarbība ir jebkura seksuāla darbība bez piekrišanas — un vainīga nekad nav persona, kas to piedzīvojusi.",
+      "overview": "Seksuālā vardarbība ir jebkura seksuāla darbība vai mēģinājums to panākt bez piekrišanas vai ar piespiešanu. Tā ietver izvarošanu un jebkuru nevēlamu seksuālu kontaktu, un to var izdarīt jebkurš — svešinieks, paziņa, partneris vai laulātais.\n\nTās centrā ir piekrišana. Piekrišana nozīmē brīvprātīgu piekrišanu, un tā nav iespējama, ja cilvēks guļ, ir bezsamaņā, reibumā no alkohola vai narkotikām, ir bērns vai ir pakļauts spiedienam, draudiem vai bailēm. To var atsaukt jebkurā brīdī. Tāpēc seksuālā vardarbība **nekad** nav tā cilvēka vaina, ar kuru tā notika — ne apģērba dēļ, ne tāpēc, ka viņš vai viņa bija lietojis alkoholu, ne tāpēc, ka sastinga, nevis pretojās, ne tāpēc, ka pazina varmāku.\n\nJa ar jums tā ir noticis, atbalsts ir pieejams — neatkarīgi no tā, vai tas bija nesen vai sen. Jums tic, un tas, ko darīsiet tālāk, ir jūsu izvēle.",
+      "deep": null,
+      "when_to_see_doctor": "- Jūs varat vērsties **veselības aprūpes iestādē, slimnīcā vai specializētā seksuālās vardarbības upuru atbalsta dienestā**, kur par jums parūpēsies, ārstēs savainojumus un — ja vēlaties — palīdzēs ziņot par notikušo un saglabāt pierādījumus.\n- Daži veselības pasākumi ir **atkarīgi no laika** — piemēram, ārkārtas kontracepcija vai infekciju profilakse —, tāpēc var palīdzēt, ja vēršaties pēc palīdzības **drīz**. Taču atbalstu var saņemt bez laika ierobežojuma, un tas, vai ziņot, vienmēr ir jūsu izvēle.",
+      "red_flags": "- Ja jums draud **tūlītējas briesmas**, nekavējoties sazinieties ar neatliekamās palīdzības dienestiem: **112** ES (arī Itālijā), **999** Apvienotajā Karalistē, **911** ASV un Kanādā.\n- Pēc nesena uzbrukuma **slimnīca vai specializēts dienests var palīdzēt steidzami**. Itālijā tālrunis **1522** (bezmaksas, 24/7, anonīms, vairākās valodās — pa tālruni vai tērzēšanā) var palīdzēt atrast pareizo aprūpi."
+    },
+    "signs-of-labour": {
+      "title": "Dzemdību pazīmes",
+      "aliases": [
+        "dzemdību pazīmes",
+        "dzemdības",
+        "dzemdību sākums",
+        "kontrakcijas",
+        "noplūst augļūdeņi",
+        "gļotu korķis",
+        "latentā fāze"
+      ],
+      "glance": "Dzemdību sākuma pazīmes ir regulāras kontrakcijas, gļotu korķa atdalīšanās, muguras sāpes vai augļūdeņu noplūšana.",
+      "overview": "Ir dažas pazīmes, ka dzemdības varētu sākties. Galvenā ir kontrakcijas — vēdera sasprindzinājumi, kas atkārtojas regulāri un kļūst arvien stiprāki. Citas pazīmes ir gļotu korķa atdalīšanās (gļotas, kas noslēdza dzemdes kaklu, iziet ārā), ilgstošas muguras sāpes, vajadzība iet uz tualeti un augļūdeņu noplūšana.\n\nPirms aktīvajām dzemdībām bieži ir agrīnā („latentā”) fāze, kad dzemdes kakls kļūst mīkstāks un sāk atvērties. Šī fāze var ilgt stundas vai pat dienas, un daudzām šajā laikā var mierīgi palikt mājās, kur ir ērti, atpūsties un dzert pietiekami daudz šķidruma.\n\nKatrai dzemdības sākas mazliet citādi, tāpēc nav jāsagaida visas pazīmes. Kad jums šķiet, ka viss sākas, vecmāte vai dzemdību nodaļa jums pateiks, ko darīt un kad braukt uz slimnīcu.",
+      "deep": null,
+      "when_to_see_doctor": "- Zvaniet savai **vecmātei vai dzemdību nodaļai,** lai saņemtu padomu, ja domājat, ka ir sākušās dzemdības, vai ja kontrakcijas ir **regulāras — aptuveni ik pēc 5 minūtēm**. Ja nevarat sazināties ar savu vecmāti, zvaniet uz slimnīcu, kurā plānojat dzemdēt.",
+      "red_flags": "Zvaniet savai **vecmātei vai uz dzemdību nodaļu nekavējoties** — dienā vai naktī, negaidiet —, ja:\n\n- **noplūst augļūdeņi** (it īpaši, ja šķidrums ir zaļš, brūns vai ar nepatīkamu smaku)\n- jums ir **jebkāda asiņošana no maksts**\n- jūsu **mazulis kustas mazāk nekā parasti**\n- jums ir dzemdību pazīmes un esat **stāvoklī mazāk nekā 37 nedēļas**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Grūtniecības pazīmes",
+      "aliases": [
+        "grūtniecības pazīmes",
+        "agrīnas grūtniecības pazīmes",
+        "vai esmu stāvoklī",
+        "grūtniecības simptomi",
+        "kā saprast, ka esmu stāvoklī"
+      ],
+      "glance": "Nokavētas menstruācijas bieži ir pirmā grūtniecības pazīme, dažkārt kopā ar sliktu dūšu, nogurumu vai jutīgām krūtīm.",
+      "overview": "Daudzām pirmā norāde uz grūtniecību ir **nokavētas menstruācijas**. Taču katrs ķermenis ir citāds, un dažas vispirms pamana citas agrīnas pazīmes — bieži apmēram 4.–6. nedēļā.\n\nBiežas agrīnas pazīmes ir slikta dūša vai vemšana (jebkurā diennakts laikā, ne tikai no rīta), krūtis, kas šķiet lielākas vai jutīgas, neierasts nogurums un biežāka vajadzība urinēt. Dažas pamana arī metālisku garšu mutē, jaunu jutīgumu pret noteiktām smaržām vai nepatiku pret ēdieniem, kas parasti garšo.\n\nNeviena no šīm pazīmēm pati par sevi nenozīmē, ka jūs noteikti esat stāvoklī — daudzas pārklājas ar parastajām cikla svārstībām —, un ne visām tās ir. Droši to var uzzināt ar grūtniecības testu.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja tests ir pozitīvs, sazinieties ar **vecmāti vai ģimenes ārstu**, lai laikus sāktu grūtniecības (pirmsdzemdību) aprūpi.\n- Ja menstruācijas kavējas un testi ir negatīvi, bet simptomi turpinās, ir vērts vērsties pie ģimenes ārsta, lai noskaidrotu, kas vēl to varētu izraisīt.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Smēķēšana grūtniecības laikā",
+      "aliases": [
+        "smēķēšana grūtniecības laikā",
+        "smēķēšanas pārtraukšana grūtniecības laikā",
+        "smēķēšanas atmešana grūtniecības laikā",
+        "elektronisko cigarešu lietošana grūtniecības laikā"
+      ],
+      "glance": "Smēķēšanas atmešana ir viena no labākajām lietām, ko jūs varat darīt savam mazulim — un nekad nav par vēlu.",
+      "overview": "Smēķēšanas atmešana ir viena no iedarbīgākajām lietām, ko varat darīt, lai dotu mazulim veselīgu sākumu. Katra cigarete samazina skābekli, ko saņem jūsu mazulis, tāpēc viņa sirdij jāstrādā smagāk un var tikt kavēta viņa augšana.\n\nSmēķēšana grūtniecības laikā palielina nopietnu problēmu risku, tostarp spontānā aborta, priekšlaicīgu dzemdību, mazas dzimšanas masas, nedzīvi dzimuša mazuļa un pēc dzemdībām — zīdaiņu pēkšņās nāves sindroma (SIDS) risku. Nozīme ir arī pasīvajai smēķēšanai, tāpēc palīdz māja bez dūmiem.\n\nIedrošinoši ir tas, ka **nekad nav par vēlu**. Atmest smēķēšanu palīdz jebkurā grūtniecības brīdī, un vislielākais ieguvums ir, ja to izdarāt agri. Tas var būt patiešām grūti, un tieši tāpēc ir pieejama bezmaksas palīdzība — un, to izmantojot, izdoties ir daudz ticamāk.",
+      "deep": null,
+      "when_to_see_doctor": "- Jautājiet savai **vecmātei** par **bezmaksas atbalstu smēķēšanas atmešanai** — apmācīti konsultanti (daži no kuriem specializējas grūtniecības jautājumos) var sniegt jums atbalstu, un daudzās valstīs ir pieejama arī bezmaksas palīdzības līnija smēķēšanas atmešanai. Palīdzības lūgšana liecina par rūpēm par savu bērnu, nevis par neveiksmi.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Smērēšanās un asiņošana starp menstruācijām",
+      "aliases": [
+        "smērēšanās",
+        "asiņošana starp menstruācijām",
+        "starpmenstruālā asiņošana",
+        "starpcikla asiņošana",
+        "asiņošana pēc dzimumakta",
+        "smērējoši izdalījumi"
+      ],
+      "glance": "Smērēšanās ir neliela asiņošana starp menstruācijām vai pēc dzimumakta — bieži nav nopietna, taču to vienmēr ir vērts parādīt ārstam.",
+      "overview": "Smērēšanās ir neliela asiņošana starp menstruācijām vai pēc dzimumakta, ārpus parastajām menstruācijām. Tā ir bieža un parasti nav nekas nopietns — taču, tā kā tai var būt vairāki cēloņi, to vienmēr ir vērts parādīt ārstam.\n\nTai ir daudz ikdienišķu iemeslu. Viens no biežākajiem ir hormonālās kontracepcijas uzsākšana vai lietošana. Citi ir nelieli, nekaitīgi veidojumi dzemdē vai ap to (polipi vai miomas), nekaitīgas izmaiņas dzemdes kakla virsmā, maksts sausums vai infekcija, piemēram, hlamīdijas.\n\nTā kā vienam un tam pašam simptomam var būt dažādi cēloņi — lielākoties nenozīmīgi —, noderīgi ir nevis minēt, bet parādīties ārstam, lai uzzinātu, kas to izraisa tieši jums.",
+      "deep": null,
+      "when_to_see_doctor": "- Vērsieties pie ģimenes ārsta vai seksuālās veselības klīnikā **ikreiz, kad jums ir asiņošana starp menstruācijām vai pēc dzimumakta**, pat ja tā ir neliela. Parasti tas nav nekas nopietns, taču izmeklēšana ļauj atrast cēloni — un laikus izslēgt retākus cēloņus.",
+      "red_flags": "- Ja jums **nav sākušās gaidītās menstruācijas un ir neparasta asiņošana kopā ar sāpēm vēderā vai iegurnī**, lūdziet **steidzamu** vizīti pie ģimenes ārsta vai sazinieties ar **dežūrārstu** — tas ātri jāizmeklē, jo var liecināt par ārpusdzemdes grūtniecību."
+    },
+    "stalking": {
+      "title": "Vajāšana",
+      "aliases": [
+        "vajāšana",
+        "mani vajā",
+        "uzmākšanās",
+        "nevēlama uzmanība",
+        "kāds man seko",
+        "kibervajāšana"
+      ],
+      "glance": "Vajāšana ir atkārtota, nevēlama uzmanība, kas rada bailes vai nedrošības sajūtu — un to uztver nopietni.",
+      "overview": "Vajāšana ir kāda cilvēka atkārtota, nevēlama uzvedība, kuras dēļ jūs jūtaties nobiedēta, novērota vai nedroša. Tā var ietvert sekošanu, kāda parādīšanos tur, kur esat jūs, pastāvīgus zvanus vai ziņas, nevēlamas dāvanas, jūsu uzraudzīšanu internetā vai caur tālruni, vai draudus. Bieži to dara bijušais partneris vai kāds pazīstams, lai gan ne vienmēr.\n\nBailes, ko tā rada, ir pamatotas, pat ja katra atsevišķa darbība citiem var šķist „sīka” — svarīgs ir kopējais modelis un tas, kā jūs tā dēļ jūtaties. Vajāšana ir atzīta par vardarbības veidu, un daudzās valstīs tā ir noziegums. Nekas no tā nav jūsu vaina, un jums ar to nav vienkārši jāsadzīvo.\n\nJa tas ir droši, vēlāk var noderēt pieraksti: datumi un laiki, ziņu ekrānuzņēmumi un tas, kas notika. Jums nav pašai jāizlemj, vai tas „skaitās” — atbalsta dienesti var palīdzēt to izprast un apsvērt jūsu iespējas.",
+      "deep": null,
+      "when_to_see_doctor": "- Sazinieties ar **policiju**, lai ziņotu par vajāšanu, kā arī ar pretvardarbības vai pretvajāšanas palīdzības līniju, lai saņemtu atbalstu un padomu (Itālijā **numurs 1522** ir paredzēts vardarbības **un** vajāšanas gadījumiem).\n- Pierādījumu saglabāšana un drošības plāna izstrāde ar speciālistu palīdzību var būt ļoti nozīmīga.",
+      "red_flags": "- Ja jūtat, ka jums draud **tūlītējs apdraudējums**, nekavējoties sazinieties ar ārkārtas dienestiem: **112** ES (tostarp Itālijā), **999** Apvienotajā Karalistē, **911** ASV un Kanādā.\n- Itālijā numurs **1522** — bezmaksas, pieejams 24 stundas diennaktī, anonīms, daudzvalodu — sniedz palīdzību pa tālruni vai tērzēšanu."
+    },
+    "stillbirth": {
+      "title": "Nedzīvi dzimis mazulis",
+      "aliases": [
+        "nedzīvi dzimis bērns",
+        "nedzīvdzimšana",
+        "mazuļa zaudējums",
+        "vēlīns grūtniecības zaudējums",
+        "augļa nāve dzemdē",
+        "mazulis piedzima miris"
+      ],
+      "glance": "Nedzīvi dzimis mazulis nozīmē mazuļa zaudējumu pēc 24. nedēļas — tas notiek reti, tā nekad nav jūsu vaina, un jums vienmēr sniegs atbalstu.",
+      "overview": "Par nedzīvi dzimušu mazuli runā tad, kad mazulis piedzimst miris pēc 24 grūtniecības nedēļām. (Zaudējumu pirms 24 nedēļām sauc par spontāno abortu.) Tas notiek reti — aptuveni 1 no 250 dzemdībām —, taču ģimenēm, kuras tas skar, tas ir ārkārtīgi smags zaudējums, un visa turpmākā aprūpe ir domāta, lai jūs saudzīgi atbalstītu šajā laikā.\n\nDažkārt cēloni atrod — piemēram, problēmu ar placentu vai mazuļa attīstību vai kādu slimību —, bet dažkārt, neraugoties uz izmeklējumiem, **cēlonis netiek atrasts vispār**. Lai kāds būtu iemesls, vecāki to nav izraisījuši un nevarēja zināt, kā to novērst.\n\nViena lieta patiešām palīdz samazināt risku, un tā ir vienkārša: **nekavējoties pastāstīt vecmātei, ja mazuļa kustības kļūst retākas vai mainās.** Līdzās tam nozīme ir arī ikdienas lietām — grūtniecības uzraudzības vizīšu apmeklēšanai, nesmēķēšanai, izvairīšanās no alkohola un gulēšanai uz sāniem no 28. nedēļas.",
+      "deep": null,
+      "when_to_see_doctor": "- Sazinieties ar savu **vecmāti vai dzemdību nodaļu nekavējoties** — jebkurā laikā, dienā vai naktī —, ja jūsu **mazulis kustas mazāk nekā parasti vai viņa kustības šķiet citādas.** Nekad negaidiet, vai tas pāries; doties uz pārbaudi ir tieši pareizi, un jūs nekad nevienu neapgrūtināt.\n- Pēc zaudējuma jums blakus būs specializētas vecmātes un sēru atbalsta komandas — gan lēmumos, gan praktiskajos jautājumos, gan sērās. Jums nekas no tā nav jāpārdzīvo vienai, un atbalsta grupas pēc mazuļa zaudējuma ir pieejamas tik ilgi, cik jums tās vajadzīgas.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stress, dzīve un menstruācijas",
+      "aliases": [
+        "stress un menstruācijas",
+        "stress",
+        "nokavētas menstruācijas",
+        "menstruācijas kavējas",
+        "kāpēc kavējas menstruācijas",
+        "izpalikušas mēnešreizes"
+      ],
+      "glance": "Stress, krasas svara izmaiņas vai intensīva fiziskā slodze var aizkavēt vai pārtraukt menstruāciju — bieži vien tikai uz laiku.",
+      "overview": "Bieži gadās, ka menstruācijas kavējas vai kādu mēnesi izpaliek, un iemesls nereti ir vairāk saistīts ar dzīvi nekā ar kādu problēmu. Viens no biežākajiem ir stress — tā pati sistēma, kas reaģē uz spriedzi, var ietekmēt hormonus, kas vada jūsu ciklu.\n\nMenstruācijas var nobīdīt arī citas ikdienas lietas: liela svara maiņa (uz augšu vai uz leju), daudz fizisku slodžu vai izsīkums. Iemesls var būt arī hormonālas pārmaiņas — piemēram, tuvojoties perimenopauzei vai tādu slimību dēļ kā PCOS —, kā arī grūtniecība un daži kontracepcijas līdzekļi. Bieži starplaiks starp menstruācijām vienkārši laiku pa laikam nedaudz mainās, un tas ir normāli.\n\nMierinoši ir tas, ka vienreizēja menstruāciju kavēšanās vai izpalikšana parasti nav iemesls bažām, un bieži viss nostājas savās vietās, tiklīdz nomierinās dzīve. Vērts pievērst uzmanību ir atkārtotām izmaiņām, nevis vienam mēnesim.",
+      "deep": null,
+      "when_to_see_doctor": "Vērsieties pie ģimenes ārsta, ja:\n\n- jums ir izpalikušas **trīs menstruācijas pēc kārtas** vai menstruācijas ir kļuvušas **neregulāras**\n- menstruācijas ir **izbeigušās** un nezināt, kāpēc (ja grūtniecība ir iespējama, vispirms ir vērts veikt testu)\n- izpalikušās menstruācijas ir kopā ar citām pārmaiņām — piemēram, negaidītām svara izmaiņām, nogurumu, pastiprinātu apmatojumu vai nomāktību\n\nŠīs pārbaudes ir tikai tāpēc, lai saprastu, kas slēpjas aiz pārmaiņām — parasti tas ir kaut kas, ar ko var tikt galā.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Atbalsts viņai menstruāciju laikā",
+      "aliases": [
+        "palīdzība viņai menstruāciju laikā",
+        "kā atbalstīt partneri menstruāciju laikā",
+        "rūpes menstruāciju laikā"
+      ],
+      "glance": "Mēnešreizes var radīt patiesas sāpes un nogurumu — nelielas, praktiskas rūpes var daudz ko mainīt.",
+      "overview": "Menstruācijas nav tikai dažas asiņošanas dienas; daudzām tās nāk kopā ar krampjiem, muguras sāpēm, galvassāpēm, nogurumu un enerģijas trūkumu. Menstruāciju sāpes ir biežas un var patiešām izsūkt spēkus — tas nav pārspīlējums. Izturieties pret to tāpat, kā izturētos pret partneri, kurš ir slims: ar praktisku laipnību.\n\nUztveriet to arī kā normālu lietu. Menstruācijas nav ne pretīgas, ne apkaunojošas, ne tabu. Ja jūs bez neērtībām nopērkat higiēniskās paketes vai tamponus, turat tos mājās vai bez liekas kņadas pasniedzat viņai siltā ūdens pudeli, tas viņai parāda, ka viņa ir drošībā un jūs viņu atbalstāt.",
+      "deep": "Vienkāršas lietas, kas palīdz:\n\n- **Siltums un atpūta.** Siltā ūdens pudele vai sildspilvens uz vēdera lejasdaļas mazina krampjus; piedāvājiet mierīgu vakaru mājās.\n- **Noņemiet no viņas pienākumus.** Pagatavojiet ēst, sakārtojiet māju, nokārtojiet darīšanas, aizvediet viņu — praktiska palīdzība nozīmē vairāk nekā vārdi.\n- **Turiet krājumus mājās.** Uzziniet, ko viņa lieto, un turiet rezervi, lai pat visstiprākās asiņošanas diena nekļūtu par krīzi.\n- **Pretsāpju līdzekļi un mīļākais ēdiens**, ja viņa to vēlas; izvēle ir viņas.\n- **Neuzspiediet seksu vai enerģiju, kuras viņai nav.** Tuvība var būt arī apskāviens uz dīvāna.",
+      "when_to_see_doctor": "Iedrošiniet viņu vērsties pie ārsta (un piedāvājiet doties līdzi), ja menstruāciju sāpes ir **stipras, pastiprinās vai traucē ikdienas dzīvi**, ja menstruācijas ir **ļoti bagātīgas** (higiēnas līdzeklis ik stundu pilnībā piesūcas, ir lieli asins recekļi) vai ja sāpes ir jaunas un neparastas — tās var liecināt par tādām slimībām kā endometrioze, kam vajadzīga pienācīga aprūpe.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Atbalsts personai, kas cieš no vardarbības",
+      "aliases": [
+        "atbalstīt kādu",
+        "palīdzēt draugam",
+        "palīdzēt draudzenei",
+        "kā palīdzēt",
+        "cilvēks, kurš piedzīvo vardarbību",
+        "kā sniegt atbalstu"
+      ],
+      "glance": "Ja kāds no jūsu paziņām, iespējams, cieš no vardarbības, palīdzēs, ja viņu uzklausīsiet, neizsakot spriedumus, un zināsiet, kur viņu nosūtīt.",
+      "overview": "Saprast, ka kāds jums tuvs cilvēks, iespējams, piedzīvo vardarbību, ir grūti, un vēlme palīdzēt ir labs instinkts. Visnoderīgākais, ko varat piedāvāt, bieži ir pats vienkāršākais.\n\nKlausieties un ticiet. Ļaujiet runāt savā tempā, nenosodot, nevainojot un nejautājot, ar ko viņš vai viņa to izraisīja. Skaidri pasakiet, ka tā nav viņa vai viņas vaina un ka neviens to nav pelnījis. Centieties nenorādīt, kas jādara, un nespiest aiziet: lēmums aiziet ir paša cilvēka ziņā, un, ja to dara steigā, briesmas var pat palielināties — vairāk palīdz tas, ka cilvēks jūtas atbalstīts un nav viens.\n\nPaturiet dzirdēto pie sevis. Kad cilvēks būs gatavs, saudzīgi palīdziet atrast specializētu atbalstu — uzticības tālruni, piemēram, **1522** Itālijā, vai vietējo vardarbības upuru atbalsta centru — un piedāvājiet praktisku palīdzību, piemēram, kopā sameklēt numurus vai būt blakus zvana laikā. Un parūpējieties arī par sevi; atbalstīt kādu šādā situācijā var būt smagi.",
+      "deep": null,
+      "when_to_see_doctor": "- Iedrošiniet (bez spiediena) sazināties ar uzticības tālruni vai vardarbības upuru atbalsta centru, kur jums abiem var ieteikt, ko darīt tālāk. Varat piedāvāt palīdzēt piezvanīt vai atrast numuru.\n- Ja cilvēks ir savainots, ģimenes ārsts vai slimnīca var palīdzēt — un savest ar atbalsta dienestiem.",
+      "red_flags": "- Ja cilvēkam draud **tūlītējas briesmas**, zvaniet neatliekamās palīdzības dienestiem: **112** ES (arī Itālijā), **999** Apvienotajā Karalistē, **911** ASV un Kanādā.\n- Itālijā tālrunis **1522** (bezmaksas, 24/7, anonīms, vairākās valodās — pa tālruni vai tērzēšanā) var arī jums ieteikt, kā palīdzēt otram."
+    },
+    "the-coil": {
+      "title": "Spirāle (IUD un IUS)",
+      "aliases": [
+        "spirāle",
+        "vara spirāle",
+        "hormonālā spirāle",
+        "intrauterīnā ierīce",
+        "intrauterīnā sistēma",
+        "IUD",
+        "IUS",
+        "Mirena"
+      ],
+      "glance": "Spirāle ir neliela ierīce, ko ievieto dzemdē — vara (IUD) vai hormonāla (IUS) — un kas darbojas vairākus gadus.",
+      "overview": "Spirāle ir neliela ierīce, ko ārsts ievieto dzemdē. Ir divi veidi, un tos ir noderīgi atšķirt:\n\n- **IUD** jeb vara spirāle nesatur hormonus. Varš izmaina vidi dzemdē tā, ka spermatozoīdi un olšūnas tajā slikti izdzīvo, un ietekmē arī dzemdes kakla gļotas. Atkarībā no veida tā darbojas apmēram 5 līdz 10 gadus.\n- **IUS** jeb hormonālā spirāle vara vietā izdala progestagēnu. Tā sabiezina gļotas dzemdes kaklā un padara plānāku dzemdes gļotādu; dažām sievietēm tā var arī padarīt menstruācijas daudz mazāk bagātīgas.\n\nAbas ir metodes pēc principa „ievieto un aizmirsti”, un abu efektivitāte pārsniedz 99 %, ar nelielu atšķirību starp ideālu un tipisku lietošanu. Neviena no tām neaizsargā pret seksuāli transmisīvajām infekcijām (STI).",
+      "deep": "Spirāles ir ilgstošas darbības atgriezeniskas metodes: pēc ievietošanas tās darbojas gadiem ilgi, un auglība atgriežas pēc to izņemšanas. Ievietošanu un izņemšanu veic apmācīts ārsts, un tas aizņem tikai dažas minūtes, lai gan dažām sievietēm ievietošana šķiet nepatīkama. Bieži vien izvēles iemesls ir to ietekme uz menstruācijām — vara spirāle sākumā var padarīt menstruācijas stiprākas, savukārt hormonālā spirāle bieži vien tās padara vājākas. Lai noskaidrotu, kura no tām ir piemērotāka tieši jums, jākonsultējas ar ārstu; šajā rakstā tiek izskaidrots tikai to darbības princips.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Dienas pirms menstruācijām",
+      "aliases": [
+        "PMS partneriem",
+        "kā atbalstīt viņu pirms menstruācijām",
+        "atbalsts pirms menstruācijām",
+        "atbalsts luteālajā fāzē"
+      ],
+      "glance": "Dienās pirms menstruācijām viņa var justies nogurusi, jutīga vai nomākta — izturieties pret to ar pacietību, nevis jokiem.",
+      "overview": "Apmēram nedēļu pirms menstruācijām daudzām sievietēm ir premenstruāli simptomi: garastāvokļa svārstības, aizkaitināmība vai nomāktība, nogurums, sāpīgas krūtis, vēdera uzpūšanās, galvassāpes vai miega traucējumi. Tas ir ļoti bieži un ir īsts — to izraisa luteālās fāzes dabiskās hormonālās pārmaiņas, nevis tas, ka viņa „pārspīlē”.\n\nNelielai daļai sieviešu nomāktība ir smaga (to sauc par PMDD), un tai vajadzīgs īsts atbalsts un medicīniska aprūpe. Jebkurā gadījumā jūsu uzdevums nav viņu diagnosticēt vai „salabot” — jūsu uzdevums ir būt mierīgam un laipnam.\n\nVisvairāk kaitēt partneris šeit var, izmantojot to kā ieroci: „tev vienkārši ir PMS”, acu pārgriešana vai viņas jūtu noniecināšana datuma dēļ. Tā viņu noniecina un grūtai nedēļai pievieno vēl sāpes. Viņas jūtas ir svarīgas arī tad, ja savu lomu spēlē hormoni.",
+      "deep": "Kas šajās dienās patiešām palīdz:\n\n- **Atvieglojiet viņas slodzi.** Bez lūgšanas uzņemieties mājas darbus, ēst gatavošanu vai prātā turamo darāmo lietu sarakstu.\n- **Mierinājums, nevis labošana.** Piedāvājiet siltumu, atpūtu, siltā ūdens pudeli, viņas mīļāko ēdienu — un ļaujiet viņai just to, ko viņa jūt.\n- **Vispirms klausieties.** Ja viņa ir apbēdināta, „tas izklausās patiešām grūti” vienmēr ir labāk nekā „nomierinies”.\n- **Neskaitiet punktus.** Grūtāka diena nav parāds, kas viņai vēlāk jums jāatdod.\n- **Pajautājiet, kas viņai vajadzīgs** — dažas vēlas tuvību, citas vēlas telpu. Abi varianti ir normāli; cieniet viņas atbildi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Dvīņu un daudzaugļu grūtniecība",
+      "aliases": [
+        "dvīņi",
+        "dvīņu grūtniecība",
+        "daudzaugļu grūtniecība",
+        "gaidu dvīņus",
+        "vienolas dvīņi",
+        "divolu dvīņi",
+        "trīnīši"
+      ],
+      "glance": "Dvīņus parasti pirmo reizi pamana termiņa noteikšanas ultrasonogrāfijā, un tas nozīmē mazliet vairāk grūtniecības uzraudzības.",
+      "overview": "To, ka gaidāt vairāk nekā vienu mazuli, parasti pirmo reizi atklāj **termiņa noteikšanas ultrasonogrāfijā** (ap 12. nedēļu), kurā var arī redzēt, vai mazuļiem ir kopīga placenta.\n\nIr divi galvenie veidi. **Vienolas** dvīņi rodas no vienas apaugļotas olšūnas, kas sadalās, tāpēc viņiem ir vienādi gēni un viņi vienmēr ir viena dzimuma. **Divolu** (neidentiskie) dvīņi rodas no divām atsevišķām olšūnām, un viņi nav līdzīgāki kā jebkuri citi brāļi un māsas; tie ir biežāki, un to iespējamība nedaudz palielinās, ja māte ir vecāka, ja dvīņi ir bijuši mātes dzimtā vai pēc neauglības ārstēšanas.\n\nDvīņu vai vairāku mazuļu iznēsāšana ir īpaša pieredze, un parasti tā nozīmē **mazliet vairāk grūtniecības uzraudzības** — papildu vizītes un ultrasonogrāfijas, lai rūpīgi sekotu jums un mazuļiem. Jūsu vecmāšu komanda izskaidros, ko sagaidīt.",
+      "deep": null,
+      "when_to_see_doctor": "- Ja ultrasonogrāfijā redzami dvīņi (vai vairāk mazuļu), **vecmāte** izskaidros papildu pārbaudes un ultrasonogrāfijas, kas nepieciešamas daudzaugļu grūtniecībā — apmeklēt tās visas ir labākais veids, kā saņemt pienācīgu aprūpi.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Kā darbojas viņas cikls",
+      "aliases": [
+        "cikls partneriem",
+        "ceļvedis partneriem par ciklu",
+        "kā darbojas viņas cikls",
+        "atbalsts viņas ciklā"
+      ],
+      "glance": "Viņas ķermenis iziet ikmēneša ciklu ar četrām fāzēm — pamatzināšanas palīdzēs jums viņu atbalstīt, neminot.",
+      "overview": "Menstruālais cikls ir aptuveni ikmēneša ritms, vidēji apmēram 28 dienas, bet bieži no 21 līdz 35 dienām, un viņai normāls ir tas, kas ir regulārs tieši *viņai*. Tam ir četras fāzes: **menstruālā** fāze (mēnešreizes), **folikulārā** fāze, **ovulācija** aptuveni vidū un **luteālā** fāze pirms nākamajām mēnešreizēm.\n\nEnerģija, garastāvoklis, miegs un vēlme šo fāžu laikā var mainīties, jo hormonu līmenis ceļas un krītas — tā ir bioloģija, nevis rakstura trūkums, un par to nav jāķircina. Dažas dienās pirms menstruācijām izjūt patiesu kritumu, citas to gandrīz nemana. Nav viena „pareiza” veida, kā justies.\n\nJums nav jākļūst par ekspertu. Visvairāk palīdz vienkāršas lietas: aptuveni zināt, kurā cikla posmā viņa ir (šī lietotne to var parādīt, ja viņa atļauj), rēķināties, ka dažas dienas ir grūtākas par citām, un jautāt viņai, kas palīdz tieši *viņai*, nevis minēt.",
+      "deep": "Dažas lietas, ko ir vērts zināt, lai tukšumu neaizpildītu mīti:\n\n- **„Viņai ir mēnešreizes” nav ne apvainojums, ne izskaidrojums tam, ka viņa jums nepiekrīt.** Izmantot viņas ciklu, lai noniecinātu viņas jūtas („tie vienkārši ir hormoni”), ir necieņpilni un parasti arī nepareizi. Viņas iemesli joprojām ir viņas iemesli.\n- **Cikls ietekmē ne tikai menstruācijas.** Krampji, galvassāpes, jutīgas krūtis, enerģijas trūkums vai nomāktāks garastāvoklis — tas viss var būt daļa no tā. Praktiska palīdzība ir labāka par padomiem.\n- **Cikla uzskaite pieder viņai.** Ja viņa dalās ar jums savā ciklā, uztveriet to kā ieskatu tajā, kā viņa varētu justies — kā aicinājumu būt laipnam, nekad kā rīku, lai viņu uzraudzītu vai kontrolētu.\n- **Ja šaubāties, pajautājiet.** „Kā tu šodien jūties? Vai varu kaut ko tev palīdzēt?” ir vērtīgāk par jebkuru grafiku.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Maksts sausums",
+      "aliases": [
+        "maksts sausums",
+        "sausums makstī",
+        "sausa maksts",
+        "maksts atrofija",
+        "atrofisks vaginīts"
+      ],
+      "glance": "Maksts sausums ir izplatīta parādība, kas bieži saistīta ar hormoniem un var izraisīt sāpīgumu vai diskomfortu dzimumakta laikā.",
+      "overview": "Maksts sausums ir bieža parādība, ar ko daudzas kādā brīdī saskaras. Tas rodas, kad samazinās ierastais mitrums, kas makstij nodrošina komfortu, un var izpausties kā jēlums, nieze vai nepatīkama sajūta — arī sāpes vai nepatīkamas sajūtas dzimumakta laikā.\n\nTas bieži ir saistīts ar hormoniem, it īpaši ar estrogēna līmeņa kritumu. Tāpēc tas ir bieži menopauzes un perimenopauzes laikā, taču var rasties arī zīdīšanas laikā, lietojot dažas zāles (piemēram, noteiktus kontracepcijas līdzekļus vai antidepresantus) vai ja pirms dzimumakta nav pietiekama uzbudinājuma. Par to nav jākaunas — tā ir fiziska parādība, nevis kaut kas, kas liecina par jums vai jūsu attiecībām.\n\nLabs sākums ir zināt, ka tas ir bieži un parasti ļoti labi ārstējams. Ir vienkārši līdzekļi, kas var palīdzēt, un ģimenes ārsts vai farmaceits var ieteikt, kas der jums.",
+      "deep": null,
+      "when_to_see_doctor": "Vērsieties pie ģimenes ārsta, ja:\n\n- maksts sausums jūs traucē vai nepāriet dažu nedēļu laikā\n- tas ietekmē jūsu ikdienas vai seksuālo dzīvi\n- jums ir arī neparasti izdalījumi vai jebkāda asiņošana pēc dzimumakta, starp menstruācijām vai pēc menopauzes\n\nNav vienkārši jāpacieš — palīdzība ir pieejama, un ārsts var noskaidrot, kas to izraisa un kas varētu to atvieglot.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Maksts un vulvas veselība",
+      "aliases": [
+        "maksts veselība",
+        "vulvas veselība",
+        "intīmā higiēna",
+        "kā kopt intīmo zonu",
+        "maksts skalošana",
+        "izdalījumi"
+      ],
+      "glance": "Maksts attīrās pati — tai nepieciešama tikai maiga ārējā kopšana, un izdalījumi ir normāla parādība.",
+      "overview": "Viena no mierinošākajām lietām, ko zināt: maksts pati par sevi parūpējas. Tā dabiski attīrās, un izdalījumi, ko pamanāt, ir daļa no tā — šķidrums, kas uztur maksti tīru un mitru un palīdz to pasargāt no infekcijām. To daudzums un konsistence cikla gaitā mainās, un tas ir pilnīgi normāli.\n\nTāpēc maksts iekšpuse nav jāmazgā. Mazgāšana iekšpusē — „skalošana” — var pat izjaukt tās dabisko līdzsvaru. Ārējai daļai (vulvai) vajag tikai saudzīgu kopšanu: siltu ūdeni un, ja vēlaties, maigas ziepes bez smaržvielām. No smaržīgām ziepēm, gēliem, dezodorantiem un aromatizētām mitrajām salvetēm labāk izvairīties, jo tās var radīt kairinājumu.\n\nIepazīstot, kas jums ir normāli — kādi ir ierastie izdalījumi, izskats un sajūtas —, ir vieglāk pamanīt, ja kaut kas mainās un to varētu būt vērts pārbaudīt.",
+      "deep": null,
+      "when_to_see_doctor": "Vērsieties pie ģimenes ārsta vai seksuālās veselības klīnikā, ja pamanāt:\n\n- izdalījumu izmaiņas — krāsas, smakas vai konsistences maiņu vai daudz vairāk izdalījumu nekā parasti\n- niezi, jēlumu vai kairinājumu maksts vai vulvas apvidū\n- asiņošanu starp menstruācijām vai pēc dzimumakta\n- sāpes urinējot vai sāpes lejā starp vēderu un augšstilbiem (sāpes iegurnī)\n\nTās ir biežas un bieži viegli ārstējamas — izdalījumu izmaiņas var vienkārši nozīmēt vieglu infekciju, piemēram, maksts sēnīti (kandidozi). Lai to uzzinātu, labāk parādīties ārstam, nevis minēt.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Cikls un tā fāzes",
+      "summary": "Kā jūsu cikls noris cauri menstruālajai, folikulārajai, ovulācijas un luteālajai fāzei."
+    },
+    "hormones": {
+      "title": "Hormoni",
+      "summary": "Jūsu cikla vēstneši — estrogēns, progesterons, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Auglība un ovulācija",
+      "summary": "Auglības periods, ovulācijas pazīmes un faktori, kas ietekmē auglību."
+    },
+    "contraception": {
+      "title": "Kontracepcija",
+      "summary": "Kā darbojas dažādas metodes – vienkāršā valodā."
+    },
+    "symptoms-and-signals": {
+      "title": "Simptomi un ķermeņa signāli",
+      "summary": "Sāpes, smērēšanās, izdalījumi, garastāvoklis — ko jums, iespējams, vēsta jūsu ķermenis."
+    },
+    "conditions": {
+      "title": "Slimības un traucējumi",
+      "summary": "PCOS, endometrioze, dzemdes miomi un citas slimības — izskaidrojums ar atsaucēm."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Seksuālā un intīmā veselība",
+      "summary": "Intīmā labsajūta, komforts un bieži uzdotie jautājumi."
+    },
+    "life-stages": {
+      "title": "Dzīves posmi",
+      "summary": "Sākot no pirmajām mēnešreizēm līdz perimenopauzei un menopauzei."
+    },
+    "wellbeing": {
+      "title": "Labsajūta un cikls",
+      "summary": "Kā miegs, stress un ikdiena ir saistīti ar jūsu ciklu."
+    },
+    "tests-and-exams": {
+      "title": "Testi un izmeklējumi",
+      "summary": "Krūšu pašpārbaude, dzemdes kakla skrīnings, ovulācijas testi un citi."
+    },
+    "pregnancy": {
+      "title": "Grūtniecība",
+      "summary": "Agrīnās pazīmes, veselības saglabāšana, brīdinājuma pazīmes un grūtniecības zaudējums — izskaidrots, norādot avotus."
+    },
+    "for-partners": {
+      "title": "Partneriem",
+      "summary": "Izprast viņas ciklu, sniegt viņai pienācīgu atbalstu un veidot attiecības, kas balstās uz cieņu."
+    },
+    "safety-and-support": {
+      "title": "Drošība un atbalsts",
+      "summary": "Kā atpazīt vardarbību, kā nodrošināt savu drošību un kā meklēt palīdzību — ar ārkārtas izsaukuma numuriem."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Izprotiet savu ciklu 5 soļos",
+      "summary": "Mierīgs ceļvedis pa visu ciklu un katru no tā četrām fāzēm."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Iepazīstiet ovulāciju",
+      "summary": "Kas ir ovulācija, auglības periods un pazīmes, ko rāda jūsu ķermenis."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormoni, kas vada jūsu ciklu",
+      "summary": "Iepazīstiet četrus vēstnešus, kas virza ciklu, un uzziniet, ko dara katrs no tiem."
+    }
+  }
+}

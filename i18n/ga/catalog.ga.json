@@ -1,0 +1,1391 @@
+{
+  "_meta": {
+    "lang": "ga",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alcól le linn toirchis",
+      "aliases": [
+        "alcól le linn toirchis",
+        "ól agus toircheas",
+        "alcól agus toircheas",
+        "neamhord speictrim alcóil féatais",
+        "FASD",
+        "alcohol in pregnancy"
+      ],
+      "glance": "Is é an cur chuige is sábháilte gan aon alcól a ól le linn toirchis ná nuair atá tú ag iarraidh éirí torrach.",
+      "overview": "Tá comhairle an NHS soiléir simplí: is é an cur chuige is sábháilte **gan aon alcól a ól ar chor ar bith** má tá tú torrach nó ag iarraidh éirí torrach. Nuair nach n-ólann tú, coinnítear aon bhaol do do leanbh chomh híseal agus is féidir.\n\nIs é an chúis atá leis sin go dtéann an t-alcól ó d'fhuil, tríd an slánú (placenta), chuig do leanbh — agus níl ae an linbh forbartha go leor chun é a phróiseáil. Is féidir le hól le linn toirchis neamhord speictrim alcóil féatais (FASD) a chur faoi deara, sraith deacrachtaí ar feadh an tsaoil ar fad le foghlaim, le hiompar agus le forbairt.\n\nMá d'ól tú sula raibh a fhios agat go raibh tú torrach, déan iarracht gan a bheith buartha: is dócha gur íseal an baol don leanbh ó mhéideanna beaga go luath. Is é an rud is cabhraí ná alcól a sheachaint ón am seo amach don chuid eile den toircheas.",
+      "deep": null,
+      "when_to_see_doctor": "- Má tá sé deacair duit stop a chur leis an ól, níl aon náire ag baint leis sin — inis do do chnáimhseach nó do do dhochtúir teaghlaigh (GP). Is féidir leo tacaíocht a thabhairt gan breithiúnas, agus is maith duit féin agus do do leanbh cabhair a fháil.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Cúram réamhbhreithe",
+      "aliases": [
+        "cúram réamhbhreithe",
+        "cúram toirchis",
+        "coinní leis an gcnáimhseach",
+        "an chéad choinne",
+        "coinní réamhbhreithe",
+        "antenatal care"
+      ],
+      "glance": "Is éard is cúram réamhbhreithe ann na seiceálacha rialta le linn toirchis a chabhraíonn le tú féin agus do leanbh a choinneáil folláin.",
+      "overview": "Is é cúram réamhbhreithe an cúram a fhaigheann tú le linn toirchis chun tú féin agus do leanbh a choinneáil chomh sláintiúil agus is féidir. De ghnáth feicfidh tú cnáimhseach, agus dochtúir freisin má bhíonn gá leis. Is fiú tosú go luath: déan teagmháil le do chnáimhseach nó le do dhochtúir teaghlaigh (GP) a luaithe a bhíonn a fhios agat go bhfuil tú torrach.\n\nBíonn do chéad choinne cheart — an “choinne chláraithe” — idir 8 agus 12 seachtain de ghnáth. Ina dhiaidh sin tairgtear seiceálacha rialta duit: 10 gcoinne ar a laghad agus 2 scanadh ultrafhuaime más é do chéad leanbh é, nó thart ar 7 gcoinne má rug tú leanbh cheana, agus tuilleadh díobh i dtreo an deiridh.\n\nSna cuairteanna seo seiceálann do chnáimhseach do bhrú fola agus d'fhual, tomhaiseann sí do bholg chun fás do linbh a leanúint, tairgeann sí tástálacha scagthástála, agus labhraíonn sí leat faoi ghluaiseachtaí do linbh agus faoin gcaoi a mbraitheann tú. Aimsítear go leor rudaí tábhachtacha anseo — mar réamh-eclaimpse nó diaibéiteas toirchis — sula dtabharfá féin aon rud faoi deara, agus sin go díreach an fáth a bhfuil na coinní tábhachtach.",
+      "deep": null,
+      "when_to_see_doctor": "- Déan teagmháil le **cnáimhseach nó le dochtúir teaghlaigh (GP) a luaithe a gheobhaidh tú amach go bhfuil tú torrach** ionas gur féidir le do chúram tosú go luath — go hidéalach in am don chéad choinne sin roimh thart ar 10 go 12 seachtain.\n- Déan iarracht freastal ar **gach ceann** de do choinní réamhbhreithe, fiú má bhraitheann tú go breá ar fad — tá roinnt seiceálacha ceaptha chun fadhbanna nach dtugann aon siomptóim a aimsiú go luath.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Gluaiseachtaí do linbh",
+      "aliases": [
+        "gluaiseachtaí linbh",
+        "gluaiseachtaí an linbh",
+        "gluaiseachtaí féatais",
+        "ciceanna",
+        "an leanbh ag bogadh",
+        "gluaiseachtaí laghdaithe",
+        "baby movements"
+      ],
+      "glance": "Is comhartha é go bhfuil do leanbh go maith nuair a bhraitheann tú é ag bogadh — má laghdaíonn nó má athraíonn na gluaiseachtaí, cuir glao ar do chnáimhseach láithreach.",
+      "overview": "Is ceann de na comharthaí suaimhnis é gluaiseacht do linbh a bhrath go bhfuil ag éirí go maith leis. Tosaíonn formhór na ndaoine ag brath gluaiseachtaí áit éigin idir 16 agus 24 seachtain den toircheas — níos déanaí go minic sa chéad toircheas, mar sin is coitianta é tar éis 20 seachtain an chéad uair.\n\nNíl aon líon socraithe gluaiseachtaí ann ar “cheart” duit a bhrath, agus níl aon ghá ciceanna a chomhaireamh i gcoinne sprice. Bíonn gach leanbh difriúil, agus is é an rud atá tábhachtach ná aithne a chur ar ghnáthphatrún **do** linbh féin i rith an lae — na hamanna a mbíonn sé gníomhach agus na hamanna a mbíonn sé ciúin.\n\nNuair a bheidh an patrún sin ar eolas agat, is é athrú uaidh an rud ar cheart aird a thabhairt air. Bíodh muinín agat as an méid atá ar eolas agat faoi do leanbh féin.",
+      "deep": null,
+      "when_to_see_doctor": "Is trí aithne a chur ar ghnáthphatrún do linbh a thabharfaidh tú athrú faoi deara. Má bhíonn tú riamh in amhras ar laghdaigh nó ar athraigh na gluaiseachtaí, bíonn sé ceart i gcónaí glaoch agus seiceáil — ní bheidh tú riamh ag cur ama aon duine amú.",
+      "red_flags": "- Má tá do leanbh **ag bogadh níos lú ná mar is gnách, má athraíonn a ghluaiseachtaí, nó mura féidir leat é a bhrath ag bogadh**, **cuir glao ar do chnáimhseach nó ar an aonad máithreachais láithreach** — ag am ar bith den lá nó den oíche. **Ná fan go dtí an lá dár gcionn**, fiú más i lár na hoíche atá sé.\n- Ná bí ag brath ar mhonatóir croí baile (doppler) ná ar aip chun tú féin a shuaimhniú — téigh isteach chun go ndéanfar seiceáil ort go pearsanta."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Pian droma le linn toirchis",
+      "aliases": [
+        "pian droma le linn toirchis",
+        "tinneas droma agus mé torrach",
+        "pian in íochtar an droma",
+        "pian droma toirchis",
+        "back pain pregnancy"
+      ],
+      "glance": "Is an-choitianta pian droma le linn toirchis de réir mar a bhogann na ligimintí agus a fhásann do bholg — gan dochar de ghnáth.",
+      "overview": "Tá pian droma ar cheann de na rudaí is coitianta le linn toirchis. De réir mar a ullmhaíonn do chorp don bhreith, bogann na ligimintí agus síneann siad go nádúrtha, agus athraíonn do bholg atá ag fás an chaoi a n-iompraíonn tú do mheáchan — cuireann an dá rud sin brú breise ar íochtar do dhroma agus ar do pheilvis.\n\nIs féidir le rudaí laethúla faoiseamh a thabhairt: aird a thabhairt ar do staidiúir agus tú i do sheasamh, i do shuí agus ag ardú rudaí; bróga comhréidhe a thugann tacaíocht a chaitheamh; tocht daingean nó piliúr tacaíochta; agus gluaiseacht rialta shéimh cosúil le siúl, ióga toirchis, nó cleachtaí ó rang. Má tá sé ag cur isteach go mór ort, is féidir le fisiteiripeoir cnáimhseachais comhairle a thabhairt atá oiriúnaithe duit.\n\nNíl formhór na bpianta droma toirchis ina n-ábhar imní — ach is fiú roinnt patrún a bheith seiceáilte ag dochtúir go pras, agus sin an fáth a bhfuil an treoir thíos ann.",
+      "deep": null,
+      "when_to_see_doctor": "Déan teagmháil le do **dhochtúir teaghlaigh (GP) nó le do chnáimhseach** go pras má tá do phian droma:\n\n- **dian**, nó má thosaíonn sí sa **dara nó sa tríú ráithe** (uaireanta is comhartha í ar shaothar luath)\n- in éineacht le **fiabhras, fuiliú faighne, nó pian nuair a dhéanann tú mún**\n- **i do thaobh (nó i do dhá thaobh), faoi d'easnacha**",
+      "red_flags": "- Cuir glao ar **{{emergency}} nó téigh chuig roinn éigeandála an ospidéil** má **chailleann tú an mothú i do chosa, i do mhásaí, nó i do bhaill ghiniúna**, nó má chailleann tú smacht ar do lamhnán nó ar do phutóga. Is annamh a tharlaíonn sé seo, ach teastaíonn cúram éigeandála uaidh."
+    },
+    "basal-body-temperature": {
+      "title": "Teocht bhunúsach an choirp",
+      "aliases": [
+        "BBT",
+        "teocht bhunúsach an choirp",
+        "teocht na maidine",
+        "teocht dúisithe",
+        "modh na teochta",
+        "basal body temperature"
+      ],
+      "glance": "Is í teocht bhunúsach an choirp do theocht ar maidin agus tú ar do shuaimhneas, agus ardaíonn sí beagán tar éis an ubhsceite.",
+      "overview": "Is í teocht bhunúsach an choirp (BBT) teocht do choirp agus tú go hiomlán ar do shuaimhneas. Nuair a thomhaistear í ar an mbealach céanna gach lá, léiríonn sí athrú beag ach suntasach ar fud an timthrialla: tar éis an ubhsceite, ardaíonn sí beagán agus fanann sí ard go dtí do chéad mhíostrú eile.\n\nIs beag an t-ardú — thart ar 0.4 go 0.8°F (timpeall 0.2 go 0.4°C) — mar sin léitear é ó phatrún thar roinnt laethanta, ní ó léamh amháin. Chun é a aimsiú, tógann tú do theocht gach maidin sula n-éiríonn tú, sula n-itheann nó sula n-ólann tú aon rud, go hidéalach ag an am céanna. Faoi thart ar thrí lá tar éis don teocht tosú ag ardú, beidh an t-ubhsceitheadh tarlaithe cheana féin do bheagnach gach duine.\n\nToisc go dtagann an t-ardú *tar éis* don ubh a bheith scaoilte, dearbhaíonn BBT go bhfuil an t-ubhsceitheadh tarlaithe seachas é a thuar roimh ré. Thar roinnt timthriallta is féidir léi cabhrú leat cruth do thimthrialla féin a fheiceáil, cé nach bealach beacht í léi féin chun na laethanta torthúla a aimsiú.",
+      "deep": "Tá BBT ar cheann de na comharthaí feasachta torthúlachta a thaifeadtar gach lá, mar aon le múcas ceirbheacsach agus fad an timthrialla. Oireann sí go nádúrtha do rianú an mhúcais: tugann an t-athrú go múcas glé sleamhain le fios go bhfuil an tréimhse thorthúil ag oscailt, agus dearbhaíonn an t-ardú teochta cúpla lá ina dhiaidh sin go bhfuil an t-ubhsceitheadh thart. Is féidir le go leor rudaí tionchar a imirt ar theocht an choirp ar a suaimhneas — droch-chodladh, tinneas, alcól, nó codladh go déanach ar maidin — mar sin is lú an tábhacht atá le léamh aisteach amháin ná leis an treocht fhoriomlán.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Fuiliú le linn toirchis",
+      "aliases": [
+        "fuiliú le linn toirchis",
+        "fuiliú faighne agus mé torrach",
+        "spotáil le linn toirchis",
+        "fuil agus mé torrach",
+        "bleeding in pregnancy"
+      ],
+      "glance": "Ní bhíonn fuiliú le linn toirchis tromchúiseach i gcónaí — is coitianta spotáil éadrom go luath — ach bíodh sé seiceáilte ag dochtúir nó ag cnáimhseach i gcónaí.",
+      "overview": "Ní comhartha i gcónaí é fuiliú ón bhfaighin le linn toirchis go bhfuil rud éigin mícheart. Is sách coitianta fuiliú éadrom nó spotáil, go háirithe go luath sa toircheas, agus leanann go leor toirchis ar aghaidh go breá ina dhiaidh.\n\nMar sin féin, is féidir le fuiliú a bheith ina chomhartha ar fhadhb uaireanta — mar bhreith anabaí nó toircheas eachtópach — mar sin is rud é ar cheart **do dhochtúir nó do chnáimhseach é a sheiceáil i gcónaí**, is cuma cén méid atá ann. Is trí é a thaispeáint do dhochtúir nó do chnáimhseach a aimsítear an chúis agus a fhaigheann tú an cúram ceart go tapa má bhíonn sé de dhíth ort.\n\nToisc gur féidir leis an siomptóm céanna rudaí an-difriúla a chiallú, ní hé buille faoi thuairim an chéim úsáideach — ach teagmháil a dhéanamh agus dul chun go bhfeicfear thú.",
+      "deep": null,
+      "when_to_see_doctor": "- **Déan teagmháil le d'aonad máithreachais i gcónaí** (nó, má tá tú faoi 20 seachtain nó mura bhfuil a n-uimhir agat, le haonad luath-thoirchis nó le **dochtúir lasmuigh d'uaireanta**) má bhíonn **aon** fhuiliú faighne agat le linn toirchis, fiú spotáil éadrom — ionas gur féidir an chúis a sheiceáil.",
+      "red_flags": "- Cuir glao ar **{{emergency}} nó téigh chuig roinn éigeandála an ospidéil** má bhíonn **fuiliú trom** agat — mar shampla, ceap sláintíochta maothaithe go hiomlán go gairid tar éis duit é a chur ort — go háirithe má bhíonn **pian dhian sa bholg nó pian i mbarr na gualainne ort, masmas ort, má bhraitheann tú go bhfuil tú ar tí titim i laige, má bhíonn meadhrán ort, nó má théann tú gan aithne.** Teastaíonn cúram éigeandála uaidh seo."
+    },
+    "breast-awareness": {
+      "title": "Feasacht chíche",
+      "aliases": [
+        "feasacht chíche",
+        "do chíocha a sheiceáil",
+        "féinscrúdú cíche",
+        "cnapán sa chíoch",
+        "seiceáil chíche",
+        "breast check"
+      ],
+      "glance": "Níl i bhfeasacht chíche ach a bheith eolach ar an gcuma agus ar an mothú a bhíonn ar do chíocha de ghnáth, ionas go dtabharfaidh tú athruithe faoi deara.",
+      "overview": "Ní teicníc speisialta í feasacht chíche — níl ann ach aithne a chur ar an rud atá gnáth duitse, ionas go seasfaidh aon rud nua amach. Cabhraíonn seiceáil rialta ar do chíocha nó ar do chliabhrach leat a ngnáthchuma agus a ngnáthmhothú a fhoghlaim; is rithim mhaith é uair sa mhí.\n\nNíl aon bhealach “ceart” amháin ann. Féachann go leor daoine sa scáthán lena lámha síos agus ansin in airde, agus mothaíonn siad gach cíoch, suas go dtí an ascaill. Is é an rud atá á thógáil agat ná cur amach ar do chorp, ní diagnóis — níl sa sprioc ach athrú a thabhairt faoi deara go luath má tharlaíonn ceann.\n\nAthraíonn cíocha go nádúrtha freisin ar fud an timthrialla agus i rith an tsaoil, mar sin is gnáth go hiomlán roinnt athruithe. Is é pointe na feasachta ná do ghnáthstaid féin a bheith chomh maith sin ar eolas agat go n-aithneoidh tú rud éigin nach gnáth.",
+      "deep": null,
+      "when_to_see_doctor": "Téigh chuig dochtúir teaghlaigh (GP) má thugann tú faoi deara aon athrú nach gnáth duitse, mar shampla:\n\n- cnapán nó at i do chíoch, i do chliabhrach, nó i d'ascaill\n- athrú sa chraiceann, cosúil le logáin (is féidir go mbeidh cuma craiceann oráiste air) nó deargadh\n- athrú i méid nó i gcruth cíche amháin nó an dá chíoch\n- sileadh ón sine (mura bhfuil tú torrach nó ag beathú cíche), a bhféadfadh fuil a bheith ann\n- athrú ar chuma do shine, mar shampla í ag casadh isteach\n- pian i do chíoch nó i d'ascaill nach n-imíonn\n\nNí ailse iad formhór na n-athruithe cíche agus is gan dochar a bhíonn siad sa deireadh — ach is fiú i gcónaí athrú a bheith seiceáilte ag dochtúir go pras, mar má bhíonn aird de dhíth ar rud éigin, cabhraíonn sé é a aimsiú go luath.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Beathú cíche",
+      "aliases": [
+        "beathú cíche",
+        "cíoch a thabhairt",
+        "bainne cíche",
+        "diúl",
+        "do leanbh a bheathú",
+        "breastfeeding"
+      ],
+      "glance": "Cosnaíonn bainne cíche leanbh ar ionfhabhtuithe agus athraíonn sé de réir mar a fhásann an leanbh — agus tá buntáistí ag baint le haon mhéid de.",
+      "overview": "Is bia nádúrtha iomlán do leanbh é bainne cíche: tugann sé an cothú, na vitimíní agus na mianraí atá de dhíth air, agus athraíonn sé le himeacht ama chun freastal ar a chéim forbartha. Cabhraíonn sé freisin le cosaint a thabhairt ar ionfhabhtuithe agus ar thinnis, agus tugann sé roinnt buntáistí sláinte níos fadtéarmaí.\n\nTá buntáistí ann freisin don duine atá ag beathú — tá baint ag beathú cíche le baol níos ísle d'ailse chíche agus d'ailse ubhagáin, i measc rudaí eile — agus is é an patrún ginearálta gur mó na buntáistí dá mhéad agus dá fhaide a bheathaíonn tú cíoch. Rud tábhachtach: is fiú **aon** mhéid bainne cíche; ní ceist uile nó faic é.\n\nIs féidir le leanbh a bheathú a bheith níos deacra ná mar a bhíothas ag súil leis ar dtús, agus is coitianta é sin. Tá cabhair ar fáil — ó do chnáimhseach, ón altra sláinte poiblí, agus ó sheirbhísí tacaíochta beathaithe cíche áitiúla — mar sin is maith an rud teagmháil a dhéanamh go luath mura bhfuil sé ag dul go réidh.",
+      "deep": null,
+      "when_to_see_doctor": "- Iarr cabhair go luath ar do **chnáimhseach nó ar an altra sláinte poiblí** má bhíonn an beathú pianmhar nó deacair, nó má bhíonn imní ort nach bhfuil go leor á fháil ag do leanbh — is féidir le tacaíocht difríocht mhór a dhéanamh.\n- Is cinneadh pearsanta é an chaoi a mbeathaíonn tú do leanbh, agus tá tacaíocht ar fáil cibé rogha a dhéanann tú; is é an rud atá tábhachtach ná go bhfuil tú féin agus do leanbh go maith.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Sileadh donn",
+      "aliases": [
+        "sileadh donn",
+        "spotáil dhonn",
+        "fuil dhonn",
+        "seanfhuil",
+        "sileadh dorcha",
+        "fuil mhíosta dhonn",
+        "brown discharge"
+      ],
+      "glance": "Is éard is sileadh donn ann de ghnáth ná beagán fola, go minic ar laethanta níos éadroime an mhíostraithe. Is fiú spotáil dhonn ag amanna eile a bheith seiceáilte ag dochtúir.",
+      "overview": "Is éard is sileadh donn ann ná méid beag fola nó sreabháin dhonnrua a thugann tú faoi deara ar d'fho-éadaí nó ar pháipéar leithris. Feiceann go leor daoine é ag pointe éigin, agus go han-mhinic níl ann ach cuid den mhíostrú.\n\nNí bhíonn fuil mhíosta dearg geal i gcónaí. Ar na laethanta is troime bíonn sí dearg de ghnáth, ach ar laethanta níos éadroime is féidir go mbeidh cuma bhándearg nó dhonn uirthi ina ionad sin. Mar sin is rud coitianta, gnáth é imir dhonn ar laethanta níos éadroime do mhíostraithe.\n\nIs féidir le donn a bheith le feiceáil ag amanna eile freisin. Is éard is spotáil ann ná spotaí beaga fola bándearga, dearga nó donna, agus tá roinnt cúiseanna coitianta le spotáil idir míostruithe. Is cúis mhinic í frithghiniúint hormónach, mar an piolla. I measc na gcúiseanna eile tá fásanna beaga sa bhroinn nó timpeall uirthi (mar pholaipí nó fibroidí) agus ionfhabhtuithe mar chlaimidia. Go han-luath sa toircheas, tugann daoine áirithe beagán spotála faoi deara timpeall an ama a mbeadh a míostrú ag teacht. Tugtar fuiliú ionchlannaithe air seo.\n\nToisc gur féidir le spotáil dhonn lasmuigh de do mhíostrú teacht ó chúiseanna éagsúla, a bhformhór beag, ní hé buille faoi thuairim an chéim chabhrach. Is é an chéim chabhrach ná í a thaispeáint do dhochtúir, ionas go mbeidh a fhios agat cad atá taobh thiar di i do chás féin.",
+      "deep": null,
+      "when_to_see_doctor": "- Téigh chuig dochtúir teaghlaigh (GP) nó chuig clinic sláinte gnéis má bhíonn **spotáil dhonn nó fuiliú agat idir míostruithe nó tar éis gnéis**, fiú más éadrom atá sé. De ghnáth ní bhíonn sé tromchúiseach, ach is fiú i gcónaí é a bheith seiceáilte ag dochtúir.\n- Má tá tú **torrach, nó má d'fhéadfá a bheith**, déan teagmháil le d'aonad máithreachais, le haonad luath-thoirchis nó le **dochtúir lasmuigh d'uaireanta** faoi aon spotáil, spotáil dhonn san áireamh, ionas gur féidir an chúis a sheiceáil.\n- Téigh chuig dochtúir teaghlaigh (GP) má thugann tú faoi deara **aon sileadh donn nó bándearg nó aon fhuiliú tar éis do shos míostraithe**, fiú más méid beag amháin é nó mura tharla sé ach uair amháin.\n- Faigh comhairle ó dhochtúir teaghlaigh (GP), ó chlinic sláinte gnéis nó ó dhochtúir lasmuigh d'uaireanta má **athraíonn dath, boladh nó uigeacht** an tsilte, nó má bhíonn tochas, goirteamas, pian sa pheilvis nó pian nuair a dhéanann tú mún in éineacht leis.",
+      "red_flags": "- Iarr coinne **phráinneach** le dochtúir teaghlaigh (GP), nó déan teagmháil le **dochtúir lasmuigh d'uaireanta**, má **chaill tú míostrú le déanaí agus má bhíonn fuiliú neamhghnách agat mar aon le pian sa bholg nó sa pheilvis**. Ní mór é seo a sheiceáil go tapa, mar is féidir gur comhartha é ar thoircheas eachtópach.\n- Má tá tú torrach, cuir glao ar **{{emergency}}** má tá tú ag fuiliú agus **má tá pian dhian sa bholg ort, pian i do ghualainn, má bhraitheann tú go bhfuil tú ar tí titim i laige, má bhíonn meadhrán nó masmas ort, nó má tá an fuiliú trom** (ceap sláintíochta maothaithe go hiomlán go gairid tar éis duit é a chur ort)."
+    },
+    "cervical-mucus": {
+      "title": "Múcas ceirbheacsach",
+      "aliases": [
+        "múcas ceirbheacsach",
+        "sileadh",
+        "sileadh faighne",
+        "múcas mhuineál na broinne",
+        "múcas cosúil le gealacán uibhe",
+        "cervical mucus"
+      ],
+      "glance": "Is é múcas ceirbheacsach an sileadh nádúrtha a athraíonn ar fud an timthrialla agus a léiríonn do laethanta torthúla.",
+      "overview": "Is é múcas ceirbheacsach an sreabhán a dhéanann an ceirbheacs (muineál na broinne), agus b'fhéidir go dtabharfaidh tú faoi deara é mar shileadh. Is gnáth é, agus athraíonn a chuma agus a mhothú de réir patrúin atá sách intuartha ar fud an timthrialla — agus sin an fáth a bhfuil sé ar cheann de na comharthaí a úsáidtear chun na laethanta torthúla a aithint.\n\nDíreach tar éis míostraithe is minic a bhíonn cúpla lá “tirim” ann gan mórán múcais. De réir mar a thosaíonn ubh ag aibiú, méadaíonn an múcas agus is gnách go mbíonn sé bán nó buí, scamallach agus greamaitheach. Sna laethanta díreach roimh an ubhsceitheadh, is gnách go n-éiríonn sé glé, fliuch agus sleamhain, agus síneann sé idir na méara cosúil le gealacán uibhe amh — seo an tráth is torthúla. Tar éis an ubhsceite, is gnách go n-éiríonn sé greamaitheach agus scamallach arís, nó go dtriomaíonn sé.\n\nBíonn patrún gach duine beagán difriúil, agus d'fhéadfadh go dtógfadh sé cúpla timthriall d'aird chun do phatrún féin a fhoghlaim. Is féidir le rudaí áirithe — mar fhrithghiniúint hormónach, beathú cíche, nó ionfhabhtú — an múcas a athrú, mar sin ní comhartha iontaofa torthúlachta é do gach duine.",
+      "deep": "Tá léamh an mhúcais cheirbheacsaigh ar cheann de na comharthaí feasachta torthúlachta a rianaíonn daoine, mar aon le teocht an choirp ar a suaimhneas agus fad an timthrialla; tógann sé dhá nó trí thimthriall de ghnáth iad a fhoghlaim. Murab ionann agus ardú teochta, nach ndearbhaíonn an t-ubhsceitheadh ach amháin tar éis dó tarlú, is gnách go dtagann an t-athrú go múcas glé sleamhain cosúil le gealacán uibhe *roimh* an ubhsceitheadh, agus sin an fáth a n-úsáidtear é chun an tréimhse thorthúil a chur in iúl agus í ag oscailt seachas tar éis di dúnadh.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Scagthástáil cheirbheacsach (tástáil smearaidh)",
+      "aliases": [
+        "scagthástáil cheirbheacsach",
+        "tástáil smearaidh",
+        "smear",
+        "CervicalCheck",
+        "tástáil pap",
+        "smear test"
+      ],
+      "glance": "Is seiceáil rialta í scagthástáil cheirbheacsach ar shláinte do cheirbheacs a chabhraíonn le hailse cheirbheacsach a chosc.",
+      "overview": "Is tástáil í scagthástáil cheirbheacsach a sheiceálann sláinte an cheirbheacs — an oscailt go dtí an bhroinn ag barr na faighne. Ní tástáil ailse í. Ina ionad sin, is bealach í chun athruithe a aimsiú go luath agus cabhrú le hailse cheirbheacsach a chosc sula dtosaíonn sí ar chor ar bith.\n\nTugtar cuireadh do gach duine a bhfuil ceirbheacs acu ó aois 25 go 64. Seoltar cuireadh chugat nuair atá sé in am, go tráthrialta, mar sin ní gá duit cuimhneamh ar choinne a dhéanamh as do stuaim féin — cé gur fútsa i gcónaí atá sé an rachaidh tú.\n\nIs gasta an tástáil féin agus déanann altra í. Bíonn go leor daoine beagán neirbhíseach roimpi, rud atá intuigthe go hiomlán; má tá a fhios agat cad chuige í — seiceáil rialta choisctheach — is féidir go mbeidh sí níos éasca le láimhseáil.",
+      "deep": null,
+      "when_to_see_doctor": "- Is do dhaoine **gan** siomptóim atá an scagthástáil. Má thugann tú faoi deara rud éigin a chuireann imní ort idir scagthástálacha — mar fhuiliú neamhghnách (idir míostruithe, tar éis gnéis, nó tar éis an tsosa míostraithe) — téigh chuig dochtúir teaghlaigh (GP) seachas fanacht le do chéad chuireadh eile.\n- Má fuair tú cuireadh agus má tá tú in amhras nó imníoch faoi dhul, is fiú labhairt le do dhochtúir teaghlaigh (GP) nó le haltra an chleachtais, a mhíneoidh cad a tharlaíonn agus a fhreagróidh do cheisteanna.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Mí-úsáid leanaí agus leanaí a choinneáil slán",
+      "aliases": [
+        "mí-úsáid leanaí",
+        "drochíde ar leanaí",
+        "sábháilteacht leanaí",
+        "leanbh a chosaint",
+        "imní faoi leanbh",
+        "faillí",
+        "child abuse"
+      ],
+      "glance": "Má tá imní ort go bhféadfadh leanbh a bheith á ghortú nó go bhfuil faillí á déanamh ann, is ceart comhairle a lorg — ní gá duit a bheith cinnte.",
+      "overview": "Is éard is mí-úsáid leanaí — nó drochíde ar leanaí — ann ná dochar do dhuine ar bith faoi 18 mbliana d'aois. Áirítear léi mí-úsáid fhisiceach, ghnéasach agus mhothúchánach, agus faillí (gan freastal ar bhunriachtanais linbh). Is trua gur coitianta í, is féidir léi dochar a dhéanamh ar feadh an tsaoil, agus ní ar an leanbh a bhíonn an locht riamh.\n\nB'fhéidir go bhfuil imní ort faoi leanbh i do shaol, nó faoi leanbh a thug tú faoi deara. Ní gá duit a bheith cinnte, ná cruthúnas a bheith agat, chun gníomhú ar an imní sin — is é muinín a bheith agat aisti agus comhairle a iarraidh an rud ceart go díreach, agus is féidir leis sin leanbh a chosaint.\n\nAgus má d'fhulaing tú féin mí-úsáid agus tú i do leanbh, bíodh a fhios agat nach ortsa a bhí an locht riamh as an dochar sin, agus go bhfuil tacaíocht ar fáil duitse freisin, ag aois ar bith.",
+      "deep": null,
+      "when_to_see_doctor": "- Má tá imní ort faoi leanbh, is féidir leat teagmháil a dhéanamh le **seirbhísí cosanta leanaí / seirbhísí sóisialta**, le **líne chabhrach um chosaint leanaí**, nó le **dochtúir teaghlaigh (GP), altra sláinte poiblí, nó scoil an linbh** chun comhairle a fháil — faoi rún.\n- Ní “ag déanamh an iomarca de” atá tú nuair a iarrann tú comhairle. Is fearr seiceáil ná fanacht.",
+      "red_flags": "- Má tá leanbh i **mbaol láithreach** nó gortaithe go dona, déan teagmháil leis na seirbhísí éigeandála anois: **112** san AE (an Iodáil san áireamh), **999** sa Ríocht Aontaithe, **911** sna Stáit Aontaithe agus i gCeanada."
+    },
+    "coercive-control": {
+      "title": "Rialú comhéigneach",
+      "aliases": [
+        "rialú comhéigneach",
+        "iompar rialaithe",
+        "mí-úsáid mhothúchánach",
+        "mí-úsáid shíceolaíoch",
+        "aonrú",
+        "mí-úsáid airgeadais",
+        "gaslighting",
+        "coercive control"
+      ],
+      "glance": "Is patrún d'iompar rialaithe é rialú comhéigneach — aonrú, faire, bagairt — atá aitheanta mar chineál mí-úsáide.",
+      "overview": "Is cineál mí-úsáide é rialú comhéigneach a oibríonn trí rialú seachas trí dhochar fisiceach, nó chomh maith leis. Is patrún é — ní argóint aonair — ina gcuireann duine amháin srian de réir a chéile ar shaoirse agus ar fhéiniúlacht duine eile.\n\nD'fhéadfadh sé a bheith i gceist go bhfuil tú scoite amach ó chairde agus ó theaghlach, go bhfuil súil á coinneáil ar d'fhón, ar do ghluaiseachtaí nó ar do chaiteachas nó srian á chur leo, go n-insítear duit cad ba cheart duit a chaitheamh nó conas ba cheart duit iompar, nó go bhfuil tú ag maireachtáil le cáineadh, bagairtí nó imeaglú de shíor. Toisc go mb'fhéidir nach mbeidh aon bhrúnna ann, is féidir go mbeidh sé deacair ainm a chur air, agus b'fhéidir nach bhfeicfidh daoine eile é — ach tá sé aitheanta mar mhí-úsáid, agus is féidir leis a bheith chomh díobhálach céanna le foréigean fisiceach.\n\nMá aithníonn tú cuid de seo, ní comhartha é go bhfuil tú ró-íogair nó gur tharraing tú ort féin é. Is rogha é an t-iompar rialaithe a dhéanann an duine eile. Is féidir gurb é é a thuiscint mar atá sé an chéad chéim i dtreo tacaíochta.",
+      "deep": "Is minic a thagann rialú comhéigneach chun cinn go mall, agus is cuid den fháth é sin go bhfuil sé deacair é a aithint ón taobh istigh — éiríonn srianta beaga gnáth, agus fásann an féinamhras. Caitheann sé an tsláinte mheabhrach le himeacht ama. Má labhraíonn tú faoi le duine atá oilte chun na patrúin seo a thuiscint, is féidir leis sin cabhrú leat an scéal a fheiceáil níos soiléire agus smaoineamh ar cad ba mhaith leat a dhéanamh ina dhiaidh sin, gan brú.",
+      "when_to_see_doctor": "- Is féidir le hionad frithfhoréigin nó le líne chabhrach (san Iodáil, **1522**) labhairt leat faoina bhfuil tú ag dul tríd, faoi rún agus saor in aisce, agus cabhrú leat do roghanna a thuiscint — ní gá duit a bheith i mbaol fisiceach chun teagmháil a dhéanamh.\n- Is féidir le dochtúir teaghlaigh (GP) nó le comhairleoir tacú leat freisin agus tú a threorú chuig seirbhísí speisialtóra.",
+      "red_flags": "- Má tá tú i **mbaol láithreach**, déan teagmháil leis na seirbhísí éigeandála anois: **112** san AE (an Iodáil san áireamh), **999** sa Ríocht Aontaithe, **911** sna Stáit Aontaithe agus i gCeanada.\n- San Iodáil, tá **1522** saor in aisce, ar fáil 24 uair an chloig sa lá, gan ainm, agus ilteangach — ar an bhfón nó trí chomhrá ar líne."
+    },
+    "combined-pill": {
+      "title": "An piolla comhcheangailte",
+      "aliases": [
+        "piolla comhcheangailte",
+        "an piolla",
+        "frithghiniúnach béil comhcheangailte",
+        "COC",
+        "combined pill"
+      ],
+      "glance": "Is piolla laethúil é an piolla comhcheangailte ina bhfuil dhá hormón, agus oibríonn sé go príomha trí stop a chur leis an ubhsceitheadh.",
+      "overview": "Is táibléad laethúil é an piolla comhcheangailte ina bhfuil dhá hormón — leaganacha d'estrigin agus de phrogeistigin, cosúil leis na cinn a dhéanann na hubhagáin. Tá sé ar cheann de na cineálacha frithghiniúna is aithnidiúla.\n\nCoscann sé toircheas ar roinnt bealaí ag an am céanna. Go príomha, cuireann sé stop leis na hubhagáin ó ubh a scaoileadh (ubhsceitheadh). Déanann sé an múcas ag muineál na broinne níos tiubha freisin, rud a fhágann go bhfuil sé níos deacra don speirm dul tríd, agus déanann sé líneáil na broinne níos tanaí.\n\nBraitheann a éifeachtacht ar é a ghlacadh mar a ordaítear: tá sé níos mó ná 99% éifeachtach le húsáid fhoirfe, ach le gnáthúsáid laethúil — nuair a dhéantar dearmad ar phiollaí uaireanta nó nuair a ghlactar go déanach iad — tá sé thart ar 91% éifeachtach. Cosúil le formhór na modhanna, ní chosnaíonn sé ar ghalair ghnéas-tarchurtha (STIanna), mar sin úsáideann daoine áirithe coiscíní freisin.",
+      "deep": "De ghnáth glactar an piolla comhcheangailte de réir patrúin ar feadh na míosa, agus pléann cliniceoir conas é a ghlacadh, cé dó a n-oireann sé, agus a fho-iarmhairtí agus a bhaoil nuair a ordaítear é — níl sé oiriúnach do gach duine. Toisc gur modh laethúil é, braitheann a éifeachtacht sa saol réadúil go mór ar ghnáthamh. Míníonn an t-alt seo cad é agus conas a oibríonn sé; is ábhar comhrá le dochtúir teaghlaigh (GP), le haltra nó le cógaiseoir iad na sonraí faoi thosú air, é a ghlacadh, nó stopadh de.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Siomptóim choitianta toirchis",
+      "aliases": [
+        "siomptóim toirchis",
+        "míchompord toirchis",
+        "dó croí le linn toirchis",
+        "pian droma le linn toirchis",
+        "rúitíní ata",
+        "iatacht le linn toirchis",
+        "pianta toirchis",
+        "pregnancy symptoms"
+      ],
+      "glance": "Tugann toircheas go leor pianta beaga agus athruithe — gnáth den chuid is mó, cé gur fiú cuid acu a bheith seiceáilte ag dochtúir nó ag cnáimhseach.",
+      "overview": "Is mór an t-athrú é toircheas do do chorp, agus tagann liosta fada de mhíchompoird laethúla leis. Is coitianta a bhformhór agus ní comhartha iad go bhfuil aon rud mícheart — níl iontu ach cuid de leanbh a iompar.\n\nI measc na gcinn is aithnidiúla tá pian droma, dó croí agus mídhíleá, iatacht, fíocas (hemorrhoids), rúitíní, cosa agus méara ata, tuirse agus codladh briste, crampa cos, tinneas cinn, mothú go bhfuil tú ar tí titim i laige, agus níos mó silte ná mar is gnách. Maolaíonn go leor acu le bearta beaga compoird, agus is féidir le do chnáimhseach a mholadh cad atá sábháilte má tá rud éigin ag cur isteach ort.\n\nIs é an rud úsáideach ná a fhios a bheith agat cé na hathruithe atá den ghnáthchineál agus cé na cinn ar fiú iad a lua — mar go dteastaíonn seiceáil ó roinnt siomptóm, cé nach bhfuil siad chomh coitianta, seachas fanacht go n-imeoidh siad.",
+      "deep": null,
+      "when_to_see_doctor": "Is gnáth a bhformhór seo, ach déan teagmháil le do **chnáimhseach nó leis an aonad máithreachais** go pras má bhíonn:\n\n- **fuiliú faighne** agat, nó sreabhán ag teacht ón bhfaighin go tobann, ina rith nó ina shruthán beag\n- do **leanbh ag bogadh níos lú** ná mar is gnách\n- **tinneas cinn dian, fadhbanna radhairc, nó at tobann** san aghaidh, sna lámha nó sna cosa agat (comharthaí féideartha de réamh-eclaimpse)\n- **pian dhian sa bholg nó pian ar thaobh amháin** ort, nó **fiabhras**\n- **tochas** ort, go háirithe ar do lámha agus ar do chosa nó atá níos measa san oíche (is féidir gur comhartha é ar riocht ae le linn toirchis a chaithfidh dochtúir a sheiceáil)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Coiscíní",
+      "aliases": [
+        "coiscín",
+        "coiscíní",
+        "coiscín seachtrach",
+        "modh bacainne",
+        "condom"
+      ],
+      "glance": "Is modh bacainne iad coiscíní — agus an t-aon chineál frithghiniúna a chosnaíonn ar ghalair ghnéas-tarchurtha (STIanna) freisin.",
+      "overview": "Is bacainn tanaí é coiscín — laitéis de ghnáth, nó rogha phlaisteach dóibh siúd a bhfuil ailléirge laitéise orthu — a chaitear ar an bpéineas le linn gnéis. Oibríonn sé go simplí: cuireann sé stop le speirm ó dhul isteach san fhaighin.\n\nIs é an rud a fhágann coiscíní speisialta i measc na bhfrithghiniúnach ná gurb iad **an t-aon mhodh a chosnaíonn freisin ar ghalair ghnéas-tarchurtha (STIanna), VEID (HIV) san áireamh.** Sin an fáth a n-úsáidtear go minic iad in éineacht le modh eile — ceann amháin in aghaidh toirchis, an dá cheann le chéile chun cosaint ar ionfhabhtú.\n\nNuair a úsáidtear i gceart iad gach uair, bíonn coiscíní thart ar 98% éifeachtach chun toircheas a chosc. Le gnáthúsáid — nuair a úsáidtear go mícheart iad uaireanta nó nach n-úsáidtear gach uair iad — titeann sé sin go dtí thart ar 82%. Is é coiscín a úsáid i gceart agus go comhsheasmhach an rud a dhéanann an difríocht.",
+      "deep": "Toisc go n-úsáidtear coiscíní sa nóiméad seachas roimh ré, braitheann a n-éifeachtacht sa saol réadúil go mór ar úsáid chomhsheasmhach cheart. Is rogha bhacainne eile iad coiscíní inmheánacha (a chaitear taobh istigh den fhaighin). Murab ionann agus formhór na modhanna, ní theastaíonn oideas le haghaidh coiscíní agus tá siad ar fáil go forleathan, agus is é a ról dúbailte — cosaint ar thoircheas agus ar STIanna — an fáth a luaitear chomh minic iad i gcomhráite faoi ghnéas níos sábháilte.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Toiliú agus meas",
+      "aliases": [
+        "toiliú",
+        "meas ar a teorainneacha",
+        "toiliú díograiseach",
+        "neamhspleáchas coirp",
+        "consent"
+      ],
+      "glance": "Ciallaíonn toiliú “tá” soiléir, saor agus díograiseach — gach uair, agus féadtar é a tharraingt siar ag am ar bith.",
+      "overview": "Tosaíonn meas lena ceart cinneadh a dhéanamh faoina corp féin — i gcónaí. Ciallaíonn toiliú le dlúthchaidreamh **“tá”** a thugtar go saor, go heolach agus go díograiseach. Ní toiliú é ciúnas. Ní toiliú é “ceart go leor” drogallach. Ní féidir le duine atá ina codladh, an-ólta, nó faoi bhrú toiliú i ndáiríre. Agus ní “tá” le gach rud ná leis an gcéad uair eile é “tá” le rud amháin, nó ar lá amháin.\n\nIs féidir toiliú a tharraingt siar ag nóiméad ar bith, agus is freagra iomlán é “stop” nó “ní anocht” nach dteastaíonn aon údar leis. Níl sé ceart go leor brú a chur uirthi, ciontacht a chur uirthi, a bheith ag pusaireacht go dtí go ngéilleann sí, ná caitheamh le gnéas mar rud atá ag dul duit — ní fiach é caidreamh.",
+      "deep": "Seo an chuma atá ar mheas sa chleachtadh:\n\n- **Fiafraigh, agus seiceáil arís.** “An bhfuil sé seo ceart go leor?” agus aird a thabhairt ar an gcaoi a bhfreagraíonn sí — focail agus corp.\n- **Glac le “níl” go séimh.** Gan pus, brú ná pionós. Is é a freagra deireadh an scéil.\n- **Tá fonn tábhachtach.** Má bhíonn cuma éiginnte nó leisciúil uirthi, nó má dhealraíonn sé nach bhfuil sí ach ag dul leis, stop agus fiafraigh.\n- **A corp féin, a cinneadh féin** — faoi dhlúthchaidreamh, frithghiniúint, toircheas, a sláinte, a cuma, a roghanna. Tá guth agat sa saol a roinneann sibh, ach ní bhíonn cumhacht chrosta agat riamh ar a corp.\n- **Is rud laethúil é meas.** An chaoi a labhraíonn tú léi agus fúithi, agus an chaoi a bpléann tú lena teorainneacha i rudaí beaga — sin an bunús a bhfuil gach rud eile ag brath air.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Frithghiniúint",
+      "aliases": [
+        "frithghiniúint",
+        "cosc ar ghiniúint",
+        "pleanáil clainne",
+        "frithghiniúnach",
+        "birth control"
+      ],
+      "glance": "Is éard is frithghiniúint ann na bealaí éagsúla chun toircheas a chosc — agus tá go leor acu le roghnú astu.",
+      "overview": "Is éard is frithghiniúint ann — ar a dtugtar cosc ar ghiniúint uaireanta — an raon modhanna a úsáidtear chun toircheas a chosc. Tá go leor acu ann, agus oibríonn siad ar bhealaí éagsúla: úsáideann cuid acu hormóin, is bacainní cuid eile, suíonn cuid acu taobh istigh den bhroinn, agus tá cuid eile bunaithe ar an timthriall a rianú.\n\nBraitheann éifeachtacht modha go mór ar an gcaoi a n-úsáidtear é. Is modhanna “cuir isteach agus déan dearmad” cuid acu — mar an t-ionchlannán frithghiniúna sa lámh agus na feistí ionútaracha (IUD) — agus tá siad níos mó ná 99% éifeachtach. Tá cinn eile, mar an piolla nó coiscíní, an-éifeachtach nuair a úsáidtear go foirfe iad, ach beagán níos lú mar sin le gnáthúsáid laethúil, mar gur fusa dearmad a dhéanamh ar phiolla nó coiscín a úsáid go mícheart.\n\nRud amháin ar fiú a bheith ar eolas agat: **ní chosnaíonn ach coiscíní ar ghalair ghnéas-tarchurtha (STIanna) freisin**. Coscann na modhanna eile toircheas ach ní ionfhabhtú, agus sin an fáth a n-úsáidtear coiscíní uaireanta in éineacht le modh eile.\n\nNíl aon mhodh “is fearr” amháin ann — braitheann an ceann ceart ar do shláinte, ar do chorp, agus ar an méid a oireann do do shaol. Is féidir le dochtúir teaghlaigh (GP) nó le clinic sláinte gnéis na roghanna a phlé leat agus cabhrú leat rogha a dhéanamh.",
+      "deep": "Toisc go bhfuil na modhanna chomh difriúil sin, cabhraíonn sé smaoineamh ar an méid atá tábhachtach duitse: cé chomh héifeachtach is atá sé, an gá cuimhneamh ar rud éigin gach lá, cá fhad a mhaireann sé, an bhfuil hormóin uait nó nach bhfuil, agus an bhfuil cosaint ar STIanna tábhachtach i do chás. Athraíonn go leor daoine a modh le linn a saoil de réir mar a athraíonn a riachtanais. Déanann an bunachar eolais seo cur síos ar an gcaoi a n-oibríonn na modhanna coitianta ionas go mbeidh na roghanna níos soiléire — ach is cinneadh é, mar aon le haon oideas nó feistiú, le déanamh le cliniceoir.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Frithghiniúint agus meáchan",
+      "aliases": [
+        "an gcuireann an piolla meáchan ort",
+        "an piolla agus meáchan",
+        "meáchan a chur suas ar an bpiolla",
+        "frithghiniúint agus meáchan",
+        "instealladh frithghiniúna agus meáchan",
+        "ionchlannán agus meáchan",
+        "pill weight gain"
+      ],
+      "glance": "Níl aon fhianaise ann go gcuireann an piolla comhcheangailte meáchan ort, ach is féidir leis an instealladh frithghiniúna é a dhéanamh. Braitheann sé ar an modh.",
+      "overview": "Is ceist an-choitianta í an gcuirfidh frithghiniúint meáchan ort. Is é an freagra macánta go mbraitheann sé ar an modh.\n\nMaidir leis an bpiolla comhcheangailte, is ábhar suaimhnis í an fhianaise: níl aon fhianaise ann go gcuireann sé meáchan ort. Is amhlaidh an scéal don phaiste frithghiniúna agus don fháinne faighne.\n\nTá an t-instealladh frithghiniúna difriúil. Luaitear meáchan a chur suas mar cheann dá fho-iarmhairtí coitianta, mar aon le hathruithe ar do mhíostruithe.\n\nMaidir leis an bpiolla progeistigine amháin (ar a dtugtar an mionphiolla uaireanta) agus leis an ionchlannán frithghiniúna sa lámh, deir daoine áirithe gur chuir siad meáchan suas. Ach níl go leor fianaise ann lena rá an é an modh féin is cúis leis.\n\nNíl sa mheáchan ach cuid amháin den scéal. Tá a liosta féin d'fho-iarmhairtí agus de bhaoil fhéideartha ag gach modh, agus is éard atá i gceist le frithghiniúint a roghnú ná teacht ar an rud a oireann do do chorp, do do shláinte agus do do shaol. Is féidir le cógaiseoir, le dochtúir teaghlaigh (GP), le haltra nó le clinic sláinte gnéis dul trí na roghanna leat.",
+      "deep": null,
+      "when_to_see_doctor": "- Má tá fo-iarmhairtí, athruithe ar do mheáchan san áireamh, ina bhfadhb duit, labhair le cógaiseoir, le dochtúir teaghlaigh (GP), le haltra nó le clinic sláinte gnéis. Leis an bpiolla comhcheangailte, leis an bpaiste nó leis an bhfáinne, is féidir go dtarlóidh roinnt fo-iarmhairtí nuair a thosaíonn tú den chéad uair. Má bhíonn siad fós ag cur isteach ort tar éis thart ar 3 mhí, b'fhéidir go bpléifidh cliniceoir piolla eile nó cineál eile frithghiniúna leat.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "An t-ionchlannán frithghiniúna sa lámh",
+      "aliases": [
+        "ionchlannán frithghiniúna",
+        "an t-ionchlannán",
+        "Nexplanon",
+        "ionchlannán sa lámh",
+        "implant"
+      ],
+      "glance": "Is slat bheag bhídeach é an t-ionchlannán a chuirtear sa lámh uachtair agus a scaoileann hormón ar feadh cúpla bliain.",
+      "overview": "Is slat bheag sholúbtha é an t-ionchlannán frithghiniúna — thart ar mhéid lasáin — a chuireann cliniceoir oilte díreach faoi chraiceann na láimhe uachtair. Nuair a bhíonn sé istigh, scaoileann sé hormón progeistigine go seasta agus oibríonn sé ar feadh suas le thart ar thrí bliana.\n\nCoscann sé toircheas go príomha trí stop a chur leis na hubhagáin ó ubh a scaoileadh (ubhsceitheadh), agus tríd an múcas ag muineál na broinne a dhéanamh níos tiubha ionas nach féidir leis an speirm dul tríd. Toisc nach bhfuil aon rud le cuimhneamh air ó lá go lá, tá sé ar cheann de na modhanna “cuir isteach agus déan dearmad”.\n\nSin an fáth freisin go bhfuil sé ar cheann de na roghanna is iontaofa: tá an t-ionchlannán níos mó ná 99% éifeachtach, agus is ar éigean a athraíonn a éifeachtacht idir úsáid fhoirfe agus gnáthúsáid. Cosúil le modhanna hormónacha eile, ní chosnaíonn sé ar STIanna.",
+      "deep": "Is modh fadghníomhach inaisiompaithe é an t-ionchlannán — leanann sé ag obair go dtí go mbaintear amach é, agus filleann an torthúlacht tar éis é a bhaint amach. Is nósanna imeachta gasta iad é a chur isteach agus é a bhaint amach, agus is cliniceoir a dhéanann iad, a phléann freisin cé dó a n-oireann sé agus cad iad a fho-iarmhairtí. Míníonn an t-alt seo cad é agus conas a oibríonn sé; is ábhar comhrá le dochtúir teaghlaigh (GP), le haltra nó le clinic sláinte gnéis é an cinneadh ceann a fháil.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Do thimthriall agus d'fholláine",
+      "aliases": [
+        "folláine",
+        "an timthriall agus an tsláinte",
+        "timthriall míosta agus sláinte",
+        "comhartha beatha",
+        "wellbeing"
+      ],
+      "glance": "Is cosúil do thimthriall le seiceáil mhíosta ar do shláinte — is fiú aird a thabhairt ar athruithe ann.",
+      "overview": "Níl do thimthriall míosta scartha ón gcuid eile de do shláinte — tá baint aige léi. De ghnáth is comhartha é timthriall atá rialta duitse go bhfuil do chorp ag feidhmiú mar ba cheart. Sin an fáth a smaoiníonn daoine áirithe ar an míostrú mar chineál comhartha míosta faoin bhfolláine fhoriomlán.\n\nBíonn tionchar ag an saol laethúil air. Sampla amháin is ea meáchan coirp: má bhíonn tú i bhfad faoi do mheáchan ceart nó i bhfad os a chionn, is féidir leis sin dul i bhfeidhm ar na hormóin a stiúrann an t-ubhsceitheadh, rud a d'fhéadfadh míostruithe a dhéanamh neamhrialta. Oibríonn sé seo sa dá threo — tacaíonn aire a thabhairt do na bunrudaí, mar chur chuige cothrom i leith ithe agus fanacht gníomhach, leis an timthriall, agus is comhartha é timthriall seasta go bhfuil na rudaí sin i gcothromaíocht réasúnta.\n\nNí bhaineann sé seo le timthriall “foirfe” a lorg ná an milleán a chur ort féin as athruithe. Níl ann ach gur féidir le haird shéimh ar do thimthriall a bheith ina léargas úsáideach ar an gcaoi a bhfuil ag éirí leat — agus ina spreagadh chun dul i dteagmháil le cliniceoir má athraíonn rud éigin.",
+      "deep": null,
+      "when_to_see_doctor": "- Téigh chuig dochtúir teaghlaigh (GP) má éiríonn do mhíostruithe neamhrialta, má stopann siad, nó má athraíonn siad ar bhealach nach gnáth duit — uaireanta is féidir le hathruithe leanúnacha a bheith ina gcomhartha ar rud éigin ar fiú é a scrúdú.\n- Is fiú comhrá a bheith agat freisin má tá fadhbanna míostraithe ag cur isteach ar do shaol laethúil, ionas gur féidir leat tacaíocht a fháil seachas cur suas leo.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Mí-úsáid eacnamaíoch",
+      "aliases": [
+        "mí-úsáid eacnamaíoch",
+        "mí-úsáid airgeadais",
+        "smacht ar airgead",
+        "rialú airgeadais",
+        "fiacha i m'ainm",
+        "economic abuse"
+      ],
+      "glance": "Is éard is mí-úsáid eacnamaíoch ann ná smacht a choinneáil ar rochtain duine ar airgead, ar obair nó ar acmhainní — cineál aitheanta mí-úsáide.",
+      "overview": "Is mí-úsáid eacnamaíoch í nuair a rialaíonn duine rochtain duine eile ar airgead agus ar na rudaí a cheannaíonn airgead. Is cineál iompair rialaithe í, agus is minic a bhíonn sí ann in éineacht le cineálacha eile mí-úsáide.\n\nD'fhéadfadh sé a bheith i gceist go rialaítear an caiteachas ar fad nó go gcaithfidh tú cuntas a thabhairt ar gach pingin, go dtógtar do phá nó do liúntais, go gcuirtear fiacha ar bun i d'ainm, go gcoinnítear cuntais bhainc nó cáipéisí uait, nó go gcuirtear cosc ort obair a dhéanamh nó staidéar a dhéanamh. Toisc gur féidir léi duine a fhágáil gan an acmhainn imeacht nó dul i ngleic leis an saol ó lá go lá, tá sí ar cheann de na bealaí ina mbraitheann mí-úsáid cosúil le gaiste.\n\nMá aithníonn tú cuid de seo, ní comhartha é go bhfuil tú “go dona le hairgead” ná gur ort atá an locht. Is rogha é a dhéanann an duine eile smacht a choinneáil ar acmhainní duine eile — agus tá sé aitheanta mar mhí-úsáid.",
+      "deep": null,
+      "when_to_see_doctor": "- Is féidir le seirbhísí frithfhoréigin cabhrú leis seo freisin — ní hamháin le sábháilteacht, ach le céimeanna praiticiúla agus airgeadais, faoi rún agus saor in aisce (san Iodáil, is féidir leis an líne chabhrach **1522** tú a threorú chuig tacaíocht áitiúil).\n- Is féidir le plean sábháilteachta rochtain ar roinnt airgid, ar phríomhcháipéisí, agus ar uimhreacha tábhachtacha a chinntiú go ciúin.",
+      "red_flags": "- Má tá tú i **mbaol láithreach**, déan teagmháil leis na seirbhísí éigeandála anois: **112** san AE (an Iodáil san áireamh), **999** sa Ríocht Aontaithe, **911** sna Stáit Aontaithe agus i gCeanada.\n- San Iodáil, is féidir le **1522** — saor in aisce, 24 uair an chloig sa lá, gan ainm, ilteangach — cabhrú ar an bhfón nó trí chomhrá ar líne."
+    },
+    "ectopic-pregnancy": {
+      "title": "Toircheas eachtópach",
+      "aliases": [
+        "toircheas eachtópach",
+        "eachtópach",
+        "toircheas feadánach",
+        "toircheas lasmuigh den bhroinn",
+        "ectopic pregnancy"
+      ],
+      "glance": "Fásann toircheas eachtópach lasmuigh den bhroinn — ní féidir leis leanúint ar aghaidh agus teastaíonn cúram leighis pras uaidh.",
+      "overview": "Is éard is toircheas eachtópach ann ná nuair a ionchlannaíonn ubh thoirchithe lasmuigh den bhroinn, i gceann de na feadáin fhallópacha den chuid is mó. Faraor, ní féidir le toircheas san áit seo forbairt ina leanbh, agus ní féidir é a bhogadh isteach sa bhroinn — mar sin teastaíonn cóireáil uaidh i gcónaí.\n\nIs gnách go dtagann comharthaí chun solais idir thart ar sheachtain 4 agus 12, agus d'fhéadfadh pian íseal sa bholg ar thaobh amháin, fuiliú faighne nó sileadh donn uisciúil, pian i mbarr na gualainne, nó míchompord nuair a dhéanann tú mún nó cac a bheith i measc na gcomharthaí. Bíonn meascán na siomptóm éagsúil, agus is furasta cuid acu a mheas mar rud beag, agus sin an fáth go bhfuil sé tábhachtach go seiceálfadh dochtúir iad.\n\nNí tharlaíonn sé go minic, ach d'fhéadfadh sé a bheith tromchúiseach, mar sin ní rud é le fanacht go n-imeoidh sé. Má fhaigheann tú comhairle go luath, is féidir aire a thabhairt dó go sábháilte.",
+      "deep": null,
+      "when_to_see_doctor": "- Déan teagmháil le do dhochtúir teaghlaigh (GP) nó le **dochtúir lasmuigh d'uaireanta** má tá meascán de na siomptóim seo agat **agus go bhféadfá a bheith torrach** — fiú mura bhfuair tú toradh dearfach ar thástáil toirchis. Tá sé tábhachtach comhairle a fháil láithreach.",
+      "red_flags": "- Cuir glao ar **{{emergency}} nó téigh chuig roinn éigeandála an ospidéil** má bhíonn **pian thobann, ghéar, dhian i do bholg** ort, má bhraitheann tú **an-mheadhránach nó go bhfuil tú ar tí titim i laige**, má bhíonn tú **an-bhán** i do dhreach, nó má bhíonn masmas ort in éineacht leo seo. D'fhéadfadh sé seo a chiallú go bhfuil an feadán fallópach réabtha — éigeandáil leighis a dteastaíonn cóireáil phráinneach uaithi."
+    },
+    "emergency-contraception": {
+      "title": "Frithghiniúint éigeandála",
+      "aliases": [
+        "frithghiniúint éigeandála",
+        "piolla na maidine dár gcionn",
+        "piolla éigeandála",
+        "piolla iarghnéis",
+        "Levonelle",
+        "ellaOne",
+        "morning after pill"
+      ],
+      "glance": "Féadann frithghiniúint éigeandála toircheas a chosc tar éis gnéis gan chosaint — agus dá luaithe a úsáidtear í, is ea is fearr a oibríonn sí.",
+      "overview": "Bealach í frithghiniúint éigeandála chun toircheas a chosc tar éis gnéis gan frithghiniúint, nó nuair a d'fhéadfadh do ghnáthmhodh a bheith tar éis teip (piolla a ndearnadh dearmad air, coiscín a réab). Tá dhá chineál ann, agus tá an t-am tábhachtach don dá cheann.\n\nIs é an chéad cheann an **piolla éigeandála**. Tá dhá chineál de ann: féadtar ceann amháin (levonorgestrel) a ghlacadh suas le 3 lá — 72 uair an chloig — tar éis gnéis, agus ceann eile (aicéatáit ulipristal, ainm branda ellaOne) suas le 5 lá — 120 uair an chloig. Is í an dara rogha an **fheiste ionútarach chopair (IUD)**, ar féidir le cliniceoir í a chur isteach suas le 5 lá tar éis gnéis; is í an cineál is éifeachtaí frithghiniúna éigeandála í, agus féadtar í a fhágáil istigh ina dhiaidh sin mar fhrithghiniúint leanúnach más mian leat.\n\nI gcás gach ceann acu seo, **dá luaithe a úsáideann tú iad, is ea is fearr a oibríonn siad de ghnáth** — mar sin is fiú gníomhú go tapa seachas fanacht. Féadann tú frithghiniúint éigeandála a fháil ó chógaslann, ó dhochtúir teaghlaigh (GP), ó chlinic sláinte gnéis, nó ó ionad siúil isteach, saor in aisce go minic.",
+      "deep": null,
+      "when_to_see_doctor": "- Toisc go bhfuil an t-am ríthábhachtach, ná fan — féadann cógaiseoir an piolla éigeandála a thabhairt duit go tapa, agus féadann clinic sláinte gnéis nó dochtúir teaghlaigh (GP) an fheiste ionútarach chopair (IUD) a chur isteach.\n- Baineann frithghiniúint éigeandála le toircheas a chosc, ní le hionfhabhtú. Má tá seans ar bith ann go bhfuil galar gnéas-tarchurtha i gceist, féadann clinic sláinte gnéis comhairle a thabhairt faoi thástáil.\n- Má bhíonn do mhíostrú níos mó ná cúpla lá déanach ina dhiaidh sin, nó an-difriúil ón ngnáth, is fiú tástáil toirchis a dhéanamh agus labhairt le cliniceoir.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endiméadrióis",
+      "aliases": [
+        "endiméadrióis",
+        "endo",
+        "endometriosis",
+        "pian mhíosta dhian"
+      ],
+      "glance": "Riocht é endiméadrióis ina bhfásann fíochán cosúil le líneáil na broinne lasmuigh den bhroinn, agus bíonn pian mar thoradh air go minic.",
+      "overview": "Riocht fadtéarmach é endiméadrióis ina bhfásann cealla cosúil le líneáil na broinne (an t-útaras) i gcodanna eile den chorp, mar shampla timpeall na n-ubhagán, sa pheilvis, nó ar an bputóg. Tá sé coitianta — meastar go dtéann sé i bhfeidhm ar thart ar 1 as 10 mban in aois atáirgthe ar fud an domhain.\n\nToisc go n-iompraíonn an fíochán seo é féin beagán cosúil le líneáil na broinne, féadann sé athlasadh a chur faoi deara agus, le himeacht ama, fíochán coilme. Is í pian an comhartha is coitianta: pian mhíosta dhian go minic, ach freisin pian sa pheilvis nó in íochtar an droma ag amanna eile, pian le linn gnéis nó ina dhiaidh, agus pian nuair a dhéanann tú mún nó cac. Bíonn míostruithe an-trom, tuirse mhór, giúmar íseal, agus deacracht éirí torrach coitianta freisin. Athraíonn na siomptóim go mór — bíonn pian dhian ar dhaoine áirithe, agus gan ach beagán pian ar dhaoine eile.\n\nIs minic nach dtuigtear endiméadrióis i gceart agus féadann sé blianta a thógáil í a aithint, go páirteach toisc go ndéantar neamhshuim chomh minic sin de phian mhíosta mar rud “gnáth”. Ní rud é pian dhian a chuireann isteach ar do shaol a chaithfidh tú cur suas leis — is fiú é a ghlacadh dáiríre.",
+      "deep": "Níl cúis bheacht na hendiméadrióise ar eolas, agus níl aon leigheas uirthi faoi láthair — ach féadann cóireálacha cabhrú leis na siomptóim a bhainistiú, agus téann an tacaíocht ó chógais go máinliacht do dhaoine áirithe, mar aon le cabhair don ualach fisiceach agus mothúchánach. Ceann de na dúshláin is mó ná moill: ar an meán féadann sé roinnt blianta a thógáil, go leor blianta uaireanta, diagnóis a fháil. Sin cuid den fháth go bhféadfadh sé a bheith chomh tábhachtach sin taifead soiléir a choinneáil ar do shiomptóim, agus filleadh ar chliniceoir mura bhfuiltear ag éisteacht leat.",
+      "when_to_see_doctor": "Is fiú dul chuig dochtúir teaghlaigh (GP) sna cásanna seo:\n\n- tá pian mhíosta dhian ort a chuireann stop leat do ghnáthghníomhaíochtaí a dhéanamh\n- tá do mhíostruithe an-trom — mar shampla, bíonn ort ceap sláintíochta nó súitín a athrú gach 1–2 uair an chloig\n- tá pian leanúnach sa pheilvis nó in íochtar an droma ort, pian le linn gnéis nó ina dhiaidh, nó pian nuair a dhéanann tú mún nó cac\n- tá sé deacair duit éirí torrach\n- níor chabhraigh cóireáil a fuair tú cheana, nó tá do shiomptóim imithe in olcas\n\nToisc go dtógann sé tamall endiméadrióis a dhiagnóisiú, tá sé ceart go leor filleadh mura nglactar le do shiomptóim dáiríre — cabhraíonn pictiúr soiléir de do phian le himeacht ama. Má tá an phian nó an fuiliú trom ag cur isteach ar do ghiúmar freisin, inis do do dhochtúir teaghlaigh (GP); is cuid den phictiúr é sin, agus tá tacaíocht ar fáil.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrigin",
+      "aliases": [
+        "estrigin",
+        "oestrogen",
+        "estrogen",
+        "hormón estrigine"
+      ],
+      "glance": "Hormón tábhachtach í estrigin a chabhraíonn le do chorp a ullmhú do thoircheas féideartha i ngach timthriall.",
+      "overview": "Tá estrigin ar cheann de na príomhhormóin atá taobh thiar den timthriall míosta. Sa chéad leath den timthriall (an chéim fhalacaileach) ardaíonn a leibhéal de réir mar a aibíonn falacal san ubhagán. Déanann an t-ardú seo líneáil an útarais níos tiubha agus treoraíonn sé chuig an ubhsceitheadh.\n\nBíonn tionchar ag estrigin freisin ar rudaí a d'fhéadfá a thabhairt faoi deara ó lá go lá — fuinneamh, giúmar, agus athruithe sa mhúcas ceirbheacsach timpeall ar do laethanta torthúla. Tar éis an ubhsceite titeann a leibhéal beagán agus ansin athraíonn sé arís, ag obair in éineacht le hormón eile, progeistéarón, tríd an dara leath den timthriall.\n\nArdaíonn agus titeann na leibhéil go nádúrtha i ngach timthriall, agus athraíonn siad ó chéim go céim den saol freisin. Is gnáth é seo — is é an rithim a leanann do chorp é, ní rud le “deisiú”.",
+      "deep": "Ní substaint aonair í estrigin ach grúpa hormón gaolmhar (is é estraidéal an ceann is gníomhaí sa timthriall). Is iad na hubhagáin a dhéanann an chuid is mó di, san fhalacal atá ag fás. Is é a hardú agus a titim thimthriallach — in éineacht le progeistéarón, agus le hormóin chomharthaíochta na hinchinne, LH agus FSH — a stiúrann céimeanna an timthrialla. Toisc go dtéann estrigin i bhfeidhm ar go leor córas, féadann a hathruithe nádúrtha a bheith le feiceáil ar bhealaí beaga i rith na míosa; cabhraíonn rianú leat do phatrún féin a fhoghlaim seachas é a chur i gcomparáid le “meán”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Gluaiseacht agus do thimthriall",
+      "aliases": [
+        "aclaíocht",
+        "gníomhaíocht choirp",
+        "traenáil",
+        "gluaiseacht",
+        "aclaíocht agus míostruithe",
+        "exercise"
+      ],
+      "glance": "Féadann tú fanacht gníomhach ar feadh do thimthrialla ar fad — agus b'fhéidir go maolóidh gluaiseacht rialta crampaí agus PMS.",
+      "overview": "Féadann tú a bheith gníomhach go fisiceach ag am ar bith i do thimthriall. Faigheann daoine áirithe go mbíonn níos mó fuinnimh acu agus gur féidir leo brú beagán níos crua ag amanna áirithe den mhí, agus níos lú ag amanna eile — is gnáth an dá rud, agus ní cúis ceachtar acu chun stop a chur le gluaiseacht.\n\nFéadann gníomhaíocht rialta cabhrú i ndáiríre le roinnt siomptóm a bhaineann leis an míostrú. Is minic a bhíonn níos lú crampaí pianmhara ag daoine a dhéanann aclaíocht go rialta, agus d'fhéadfadh fanacht gníomhach siomptóim réamh-mhíostraithe (PMS) a mhaolú freisin. Ar laethanta ísealfhuinnimh, áirítear gluaiseacht níos séimhe freisin — ní gá di a bheith dian le bheith fiúntach.\n\nNí gá do shaol a leagan amach timpeall ar do thimthriall, agus níl aon bhealach “ceart” amháin chun gluaiseacht. Féadann aird a thabhairt ar do phatrún fuinnimh féin i rith na míosa cabhrú leat pleanáil ar bhealach a mhothaíonn go maith.",
+      "deep": null,
+      "when_to_see_doctor": "- Féadann traenáil an-dian, nó aclaíocht a dhéanamh an oiread sin go n-éiríonn do chorp gann ar fhuinneamh, míostruithe a dhéanamh neamhrialta nó stop a chur leo ar fad. De ghnáth is comhartha é timthriall rialta go bhfuil cúrsaí ag dul go maith, mar sin is fiú labhairt le dochtúir teaghlaigh (GP) má éiríonn do mhíostruithe neamhrialta nó má stopann siad — féadann baint a bheith aige seo le sláinte na gcnámh agus le sláinte hormónach le himeacht ama.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Aclaíocht le linn toirchis",
+      "aliases": [
+        "aclaíocht le linn toirchis",
+        "fanacht gníomhach agus mé torrach",
+        "aclaíocht toirchis",
+        "fanacht aclaí le linn toirchis",
+        "exercise in pregnancy"
+      ],
+      "glance": "Tá sé sábháilte agus go maith duit fanacht gníomhach i bhformhór na dtoircheas — go réidh, gan tú féin a chloí.",
+      "overview": "Is maith duit fanacht gníomhach le linn toirchis agus níl sé contúirteach do do leanbh — go deimhin, féadann fanacht aclaí cabhrú leat déileáil leis na hathruithe atá romhat agus leis an saothar. Ní gá duit tabhairt faoi aon rud dian; is pointe tosaigh maith é leanúint ar aghaidh le do ghnáthghníomhaíocht laethúil, fad is a mhothaíonn sí compordach.\n\nRiail shimplí: ba cheart go mbeifeá in ann **comhrá a choinneáil** agus tú ag gluaiseacht. Má tá tú róghearr san anáil le labhairt, maolaigh. Oireann roghanna séimhe cosúil le siúl, snámh, ranganna aclaíochta uisce don toircheas, agus ióga toirchis d'fhormhór na ndaoine. Mura raibh tú gníomhach roimhe seo, ní hé seo an t-am chun gnáthamh nua dian a thosú — tóg suas go réidh ina ionad sin.\n\nIs fearr roinnt gníomhaíochtaí a sheachaint nó tabhairt fúthu go cúramach — mar shampla luí cothrom ar do dhroim tar éis thart ar 16 seachtain, spóirt teagmhála, tumadóireacht scúba, agus aon rud a bhfuil baol dáiríre titim ag baint leis.",
+      "deep": null,
+      "when_to_see_doctor": "- Seiceáil le do **chnáimhseach** sula dtosaíonn tú ar chlár nua aclaíochta aeróbaí, nó má tá riocht sláinte ort nó imní ort faoin toircheas.\n- **Stop agus faigh comhairle** má bhraitheann tú tinn, meadhránach nó an-ghearr san anáil, nó má bhíonn aon phian, fuiliú, nó crapthaí agat agus tú ag aclaíocht.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "An tréimhse thorthúil",
+      "aliases": [
+        "tréimhse thorthúil",
+        "laethanta torthúla",
+        "na laethanta is torthúla",
+        "fuinneog thorthúil",
+        "fertile window"
+      ],
+      "glance": "Is í an tréimhse thorthúil an dornán laethanta i ngach timthriall inar féidir toircheas a bheith mar thoradh ar ghnéas.",
+      "overview": "Is í an tréimhse thorthúil an tréimhse ghearr den timthriall inar féidir éirí torrach. Tá sí ann mar gheall ar dhá uainiú nach dtagann go hiomlán le chéile: ní féidir ubh a thoirchiú ach ar feadh thart ar 12 go 24 uair an chloig tar éis í a scaoileadh, ach féadann speirm maireachtáil taobh istigh den chorp ar feadh roinnt laethanta — suas le thart ar sheachtain — ag fanacht le hubh.\n\nMá chuirtear é sin le chéile, osclaíonn an tréimhse cúpla lá roimh an ubhsceitheadh agus dúnann sí thart ar lá ina dhiaidh. Go praiticiúil is torthúla thú sna 2 go 3 lá roimh an ubhsceitheadh agus ar an lá féin, mar gur féidir leis an speirm a bheith ann cheana féin nuair a thagann an ubh.\n\nÓs rud é gur féidir leis an ubhsceitheadh bogadh ó thimthriall go timthriall, bogann an tréimhse thorthúil freisin. Sin an fáth a smaoinítear uirthi de ghnáth mar raon laethanta seachas dáta amháin, agus an fáth go bhfuil rianú comharthaí thar roinnt timthriallta níos iontaofa ná brath ar áireamh féilire amháin.",
+      "deep": "Bíonn na laethanta beachta difriúil ó dhuine go duine agus ó mhí go mí, mar sin is fearr an tréimhse a mheas ó chomharthaí an choirp féin seachas ó fhoirmle sheasta. Léiríonn athruithe sa mhúcas ceirbheacsach go bhfuil an tréimhse ag oscailt de réir mar a thagann an t-ubhsceitheadh níos gaire, agus dearbhaíonn ardú i dteocht an choirp ar a suaimhneas — i ndiaidh an ama — go bhfuil an t-ubhsceitheadh thart agus go bhfuil an tréimhse dúnta. Oibríonn trealaimh tuartha ubhsceite céim níos luaithe, ag brath an bhorrtha sa hormón lúitéinitheach (LH) a thagann go gairid sula scaoiltear an ubh.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Tús na míostraithe (an chéad mhíostrú)",
+      "aliases": [
+        "an chéad mhíostrú",
+        "an chéad fhuil mhíosta",
+        "menarche",
+        "míostruithe ag tosú",
+        "do mhíostrú a fháil",
+        "first period"
+      ],
+      "glance": "Tagann do chéad mhíostrú de ghnáth timpeall aois 12 — is gnáth aon aois ó thart ar 8 go 17.",
+      "overview": "Is é do chéad mhíostrú — ar a dtugtar menarche uaireanta — an uair a thosaíonn an timthriall míosta den chéad uair. Tosaíonn formhór na ndaoine timpeall aois 12, ach is gnáth aon aois ó thart ar 8 go 17. Is minic a thagann sé thart ar dhá bhliain tar éis do chíocha tosú ag forbairt.\n\nBíonn comharthaí ann de ghnáth roimhe: gruaig ag fás faoi na hascaillí agus sa limistéar púbach, agus sileadh beag glé nó bán sna míonna roimhe. Má tá a fhios agat go bhfuil siad seo ag teacht, féadann an chéad mhíostrú a bheith níos lú tobann.\n\nAg an tús, is minic a bhíonn míostruithe neamhrialta — féadann na bearnaí a bheith fada nó gearr, agus féadann sé roinnt míonna a thógáil ar do chorp, fiú cúpla bliain, socrú isteach i rithim níos seasta. Nuair a dhéanann sé sin, is gnách go dtagann míostruithe timpeall gach 23 go 35 lá agus go maireann siad thart ar 2 go 7 lá. Is gnáth an neamhrialtacht luath agus ní ábhar imní í.",
+      "deep": null,
+      "when_to_see_doctor": "- Téigh chuig dochtúir teaghlaigh (GP) **mura bhfuil na míostruithe tosaithe faoi aois 15**, nó faoi **13 mura bhfuil aon chomharthaí eile caithreachais ann** (cosúil le forbairt na gcíoch nó gruaig choirp). Níl anseo ach seiceáil go bhfuil rudaí ag forbairt mar a bhíothas ag súil — de ghnáth bíonn gach rud i gceart.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Aigéad fólach agus vitimíní le linn toirchis",
+      "aliases": [
+        "aigéad fólach",
+        "fóláit",
+        "vitimín D le linn toirchis",
+        "vitimíní toirchis",
+        "forlíontaí le linn toirchis",
+        "folic acid"
+      ],
+      "glance": "Cabhraíonn aigéad fólach roimh thoircheas agus go luath ann leis an leanbh a chosaint — mar aon le vitimín D gach lá.",
+      "overview": "Tá dhá fhorlíonadh an-tábhachtach le linn toirchis, agus molann an NHS an dá cheann.\n\nIs é **aigéad fólach** an ceann mór. Má ghlacann tú forlíonadh 400 micreagram gach lá — go hidéalach ó sula n-éiríonn tú torrach (thart ar thrí mhí roimh ré) agus go deireadh an chéad ráithe, ag 12 seachtain — cabhraíonn sé leis an leanbh a chosaint ar lochtanna ar an bhfeadán néarach mar spina bifida. Toisc go n-oibríonn sé chomh luath sin, tá sé ar cheann den bheagán rudaí ar fiú tosú orthu *roimh* thoircheas má tá tú ag iarraidh éirí torrach.\n\nIs é **vitimín D** an ceann eile: moltar forlíonadh 10 micreagram gach lá ar feadh an toirchis ar fad agus le linn beathú cíche, chun tacú le cnámha agus le forbairt an linbh.\n\nSeachas an dá cheann sin, freastalaíonn aiste bia shláintiúil éagsúil ar fhormhór na riachtanas — ní gá duit a lán forlíontaí breise. Ceann le seachaint is ea **vitimín A** (reitineol): ná glac forlíontaí ina bhfuil sé, agus seachain ae, mar féadann barraíocht vitimín A dochar a dhéanamh don leanbh.",
+      "deep": null,
+      "when_to_see_doctor": "- Féadann **dochtúir teaghlaigh (GP), cnáimhseach, nó cógaiseoir** cabhrú leat na forlíontaí cearta a roghnú, agus moltar do dhaoine áirithe **dáileog níos airde d'aigéad fólach** a ghlacadh (mar shampla le diaibéiteas, BMI níos airde, cógais áirithe, nó toircheas roimhe seo a raibh locht ar an bhfeadán néarach ann) — mar sin is fiú fiafraí, go háirithe roimh thoircheas nó go luath ann.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "An chéim fhalacaileach",
+      "aliases": [
+        "céim fhalacaileach",
+        "an chéad leath den timthriall",
+        "céim na bhfalacal",
+        "follicular phase"
+      ],
+      "glance": "Is í an chéim fhalacaileach an chéad leath den timthriall, nuair a aibíonn ubh agus a éiríonn líneáil na broinne níos tiubha.",
+      "overview": "Is í an chéim fhalacaileach an chéad chuid den timthriall. Tosaíonn sí ar an gcéad lá de do mhíostrú agus leanann sí go dtí an t-ubhsceitheadh. Tagann a hainm ón bhfalacal — an mála beag lán le sreabhán san ubhagán a choinníonn ubh agus a chothaíonn í le linn na tréimhse seo.\n\nLe linn na céime seo ardaíonn an hormón estrigin. Déanann an estrigin mhéadaitheach sin dhá phríomhrud: cabhraíonn sí le falacal san ubhagán aibiú, agus déanann sí líneáil an útarais (na broinne) níos tiubha, ag ullmhú an choirp ar eagla go dtosódh toircheas níos déanaí sa timthriall.\n\nToisc go bhfuil an estrigin ag ardú, tugann daoine áirithe faoi deara níos mó fuinnimh nó athruithe sa mhúcas ceirbheacsach de réir mar a thagann na laethanta torthúla níos gaire. Bíonn taithí gach duine difriúil, agus ní gá aon chuid de a “bhainistiú” — níl ann ach an chéad leath de do thimthriall ag déanamh a chuid oibre.",
+      "deep": "Féadann fad na céime falacailí athrú ó thimthriall go timthriall, agus sin cuid den fháth go mbíonn timthriallta iomlána difriúil ó dhuine go duine agus ó mhí go mí. Críochnaíonn sí nuair a chabhraíonn an estrigin mhéadaitheach le scaoileadh uibhe a spreagadh (ubhsceitheadh). Toisc go dtreoraíonn a laethanta deiridh isteach san ubhsceitheadh, seo an uair a osclaíonn an tréimhse thorthúil — agus sin an fáth go bhfuil deireadh na céime falacailí tábhachtach d'aon duine atá ag rianú torthúlachta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Bianna le seachaint le linn toirchis",
+      "aliases": [
+        "bianna le seachaint le linn toirchis",
+        "aiste bia toirchis",
+        "cad nach n-íosfainn agus mé torrach",
+        "caiféin le linn toirchis",
+        "listeria",
+        "foods to avoid pregnancy"
+      ],
+      "glance": "Tá formhór na mbianna ceart go leor le linn toirchis — is fiú roinnt acu a sheachaint, agus cabhraíonn sé caiféin a choinneáil íseal.",
+      "overview": "Is é an dea-scéal go bhfuil formhór na mbianna ceart go leor le linn toirchis — níl ach líon beag acu ar fiú iad a sheachaint nó a bheith cúramach leo, den chuid is mó chun baictéir cosúil le listeria nó barraíocht vitimíní áirithe a sheachaint. Má tá an liosta gearr ar eolas agat, féadann tú a bheith ar do shuaimhneas faoin gcuid eile.\n\nMolann an NHS a bheith cúramach le:\n\n- **Cáiseanna áirithe** — cáiseanna boga aibithe le múnla cosúil le brie agus camembert, agus cáiseanna gorma boga, mura gcócaráiltear iad go mbíonn siad te bruite ag cur gaile; agus aon rud a dhéantar le bainne **neamhphaistéartha**.\n- **Feoil amh nó nár cócaráladh go leor**, feoil fhuar leasaithe, **pâté**, agus **ae** (a bhfuil an-chuid vitimín A ann).\n- **Uibheacha amha nó bogbhruite**, mura bhfuil marc British Lion orthu.\n- **Iasc áirithe** — seachain siorc, colgán agus marlin, cuir teorainn le tuinnín, agus ná bíodh níos mó ná dhá chuid d'iasc olach agat in aghaidh na seachtaine.\n- **Caiféin** — coinnigh faoi thart ar 200mg sa lá í (thart ar dhá mhuga caife ar an toirt), ag áireamh tae, cola, deochanna fuinnimh agus seacláide freisin.",
+      "deep": null,
+      "when_to_see_doctor": "- Treoir ghinearálta í seo, ní aiste bia dhian — má tá ceisteanna agat faoina bhfuil sábháilte duitse, nó riachtanas aiste bia ar leith, féadann do **chnáimhseach** é a phlé leat.\n- Má d'ith tú rud éigin atá ar an liosta “le seachaint”, déan iarracht gan scaoll a bheith ort; luaigh é le do chnáimhseach má tá imní ort nó má bhraitheann tú tinn.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Hormón spreagtha falacail (FSH)",
+      "aliases": [
+        "FSH",
+        "hormón spreagtha falacail",
+        "hormón a spreagann falacail",
+        "follicle stimulating hormone"
+      ],
+      "glance": "Hormón inchinne é FSH a spreagann falacail san ubhagán chun fás ag tús gach timthrialla.",
+      "overview": "Tá FSH — an hormón spreagtha falacail — ar cheann de na hormóin teachtaireachta a chuireann tús leis an timthriall. Déanann faireog bheag san inchinn (an fhaireog phiotútach) é agus, mar a deir a ainm, spreagann sé falacail: na málaí beaga bídeacha lán le sreabhán san ubhagán a choinníonn ubh an ceann.\n\nGo luath sa timthriall, spreagann FSH grúpa de na falacail seo chun tosú ag fás. De réir mar a fhorbraíonn falacal scaoileann sé níos mó estrigine, rud a dhéanann líneáil an útarais (na broinne) níos tiubha réidh le haghaidh toircheas féideartha. De ghnáth éiríonn falacal amháin ina fhalacal ceannasach a leanann ar aghaidh i dtreo an ubhsceite.\n\nArdaíonn agus titeann FSH mar chuid de ghnáthluascadh an timthrialla. Ní mhothaíonn tú FSH go díreach — oibríonn sé go ciúin sa chúlra, ag ullmhú na n-athruithe níos infheicthe den chéim fhalacaileach.",
+      "deep": "Oibríonn FSH i bpéire leis an hormón lúitéinitheach (LH); scaoileann an fhaireog phiotútach san inchinn an dá cheann agus le chéile stiúrann siad na hubhagáin tríd an timthriall. Bíonn FSH i gceannas ar an gcéad leath, ag fás na bhfalacal, agus léiríonn borradh LH níos déanaí scaoileadh uibhe i lár an timthrialla. Is í an chomhpháirtíocht seo freisin an chúis a n-úsáideann cóireálacha torthúlachta cógais bunaithe ar FSH: spreagann FSH breise roinnt falacal chun aibiú ag an am céanna, seachas an t-aon cheann amháin a tháirgeann timthriall nádúrtha de ghnáth.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Diaibéiteas toirchis",
+      "aliases": [
+        "diaibéiteas toirchis",
+        "diaibéiteas le linn toirchis",
+        "siúcra fola ard le linn toirchis",
+        "tástáil glúcóis",
+        "gestational diabetes"
+      ],
+      "glance": "Siúcra fola ardaithe le linn toirchis atá i gceist le diaibéiteas toirchis — aimsítear le scagthástáil é de ghnáth, agus socraíonn sé go minic tar éis na breithe.",
+      "overview": "Is éard is diaibéiteas toirchis ann ná siúcra fola (glúcós) ard a fhorbraíonn le linn toirchis, nuair nach féidir leis an gcorp coinneáil suas go hiomlán leis an éileamh breise ar inslin. I gcás fhormhór na ndaoine imíonn sé arís tar éis don leanbh a bheith beirthe.\n\nDe ghnáth ní bhíonn **aon siomptóim** leis, mar sin aimsítear é trí thástáil scagthástála a thairgtear le linn toirchis (tástáil caoinfhulaingthe glúcóis, go minic timpeall 24 go 28 seachtain), go háirithe má tá rudaí agat a mhéadaíonn an seans go dtarlóidh sé — mar mheáchan níos airde, stair diaibéitis sa teaghlach, leanbh mór roimhe seo, nó cúlraí eitneacha áirithe.\n\nTá sé an-soláimhsithe. Má choinnítear siúcra fola i raon sláintiúil — trí bhia, gníomhaíocht, agus cógais uaireanta, faoi threoir d'fhoireann cúraim — laghdaítear an seans go mbeidh deacrachtaí agat féin nó ag do leanbh, agus sin an fáth gur fiú smacht a choinneáil air.",
+      "deep": null,
+      "when_to_see_doctor": "- Glac leis an **tástáil scagthástála** má thairgtear í — ós rud é nach mbíonn aon siomptóim le diaibéiteas toirchis de ghnáth, is le tástáil a aimsítear é.\n- Ná fan leis an tástáil má thugann tú faoi deara comharthaí féideartha de shiúcra fola ard — tart mór, gá le mún go minic, béal tirim, nó tuirse — luaigh iad le do chnáimhseach nó le do dhochtúir.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Cá bhfaighfear cabhair",
+      "aliases": [
+        "cabhair a fháil",
+        "cé leis a ndéanfaidh mé teagmháil",
+        "línte cabhrach",
+        "uimhreacha úsáideacha",
+        "ionad frithfhoréigin",
+        "1522",
+        "uimhreacha éigeandála",
+        "helpline"
+      ],
+      "glance": "Tá cabhair saor in aisce faoi rún ar fáil — i gcás éigeandála glaoigh ar d'uimhir éigeandála áitiúil; san Iodáil, 1522 ag am ar bith.",
+      "overview": "Má tá mí-úsáid á fulaingt agat, ní gá duit aghaidh a thabhairt uirthi i d'aonar, agus ní cheanglaíonn teagmháil a dhéanamh tú le haon rud. Tá daoine ann arb é a gcuid oibre ar fad éisteacht agus cabhrú, faoi rún agus saor in aisce.\n\nTá cúpla cineál cabhrach ann taobh le taobh:\n\n- **Seirbhísí éigeandála** — i gcás baoil láithrigh, glaoigh ar d'uimhir éigeandála áitiúil (thíos).\n- **Líne chabhrach náisiúnta** — san Iodáil, **1522**, an líne chabhrach saor in aisce in aghaidh foréigin agus stalcaireachta: ar oscailt 24 uair an chloig sa lá, gan ainm, ar fáil i roinnt teangacha, ar an bhfón nó trí chomhrá ar líne.\n- **Ionaid frithfhoréigin** (san Iodáil, *centri antiviolenza*) — seirbhísí áitiúla a thairgeann tacaíocht saor in aisce faoi rún, pleanáil sábháilteachta, agus cabhair dhlíthiúil agus shíceolaíoch.\n- **Seirbhísí sláinte** — dochtúir teaghlaigh (GP), nó roinn éigeandála an ospidéil, áit a bhfuil an fhoireann oilte níos mó agus níos mó chun mí-úsáid a aithint agus tú a chur i dteagmháil le tacaíocht.\n- **Daoine a bhfuil muinín agat astu** — cara nó ball teaghlaigh a mbraitheann tú slán leo.\n\nFéadann tú tosú le cibé ceann is mó a mhothaíonn indéanta duit, agus ní gá duit aon rud a bheith socraithe agat.",
+      "deep": null,
+      "when_to_see_doctor": "- Féadann tú labhairt le **dochtúir teaghlaigh (GP) nó le hospidéal** faoi rún faoina bhfuil ag tarlú; féadann siad aon ghortuithe a chóireáil agus tú a chur i dteagmháil le seirbhísí speisialtóra.\n- Más fusa duit scríobh ná labhairt, bealach eile isteach é **comhrá 1522**.",
+      "red_flags": "- Má tá tú i **mbaol láithreach**, déan teagmháil leis na seirbhísí éigeandála anois: **112** san AE (an Iodáil san áireamh), **999** sa Ríocht Aontaithe, **911** sna Stáit Aontaithe agus i gCeanada.\n- **An Iodáil:** **1522** (saor in aisce, 24/7, gan ainm, ilteangach — glao nó comhrá).\n- Bíonn uimhreacha na línte cabhrach difriúil ó thír go tír. Féadann an aip na huimhreacha do do thír a thaispeáint, agus liostaíonn **findahelpline.com** línte cabhrach frithfhoréigin ar fud an domhain (aithníonn sé do thír agus tá cnaipe scoir thapa air). Má tá tú san AE, oibríonn **112** i ngach áit."
+    },
+    "group-b-strep": {
+      "title": "Streipteacocas grúpa B (GBS)",
+      "aliases": [
+        "streipteacocas grúpa B",
+        "GBS",
+        "strep B",
+        "strep B le linn toirchis",
+        "group B strep"
+      ],
+      "glance": "Baictéar coitianta, gan dochar de ghnáth, é streipteacocas grúpa B — don leanbh le linn na breithe atá an baol beag, agus féadtar é a láimhseáil.",
+      "overview": "Baictéar an-choitianta é streipteacocas grúpa B (GBS) a iompraíonn go leor daoine, san fhaighin nó sa tóin de ghnáth, gan fios acu agus gan aon dochar a dhéanamh. Ní galar gnéas-tarchurtha é, agus is gnáth é a iompar.\n\nLe linn toirchis, níl sé tábhachtach ach amháin toisc go bhfuil **seans beag** ann go bhféadfadh sé dul chuig an leanbh timpeall am na breithe agus, go hannamh, é a dhéanamh tinn — tarlaíonn sé seo i dtimpeall 1 as 1,750 toircheas. Is minic a aimsítear é de sheans, mar shampla ar thástáil fuail nó ar swab faighne a rinneadh ar chúis eile (ní dhéanann an NHS scagthástáil ar gach duine dó go rútíneach).\n\nIs é an chuid shuaimhneach gur féidir é a láimhseáil go han-mhaith: má tá eolas faoi GBS, laghdaíonn **antaibheathaigh go hinfhéitheach (trí dhrip) le linn an tsaothair** go mór an seans go n-éireoidh an leanbh tinn.",
+      "deep": null,
+      "when_to_see_doctor": "- Má deirtear leat go n-iompraíonn tú streipteacocas grúpa B — anois nó i dtoircheas roimhe seo — **cuir in iúl do do chnáimhseach nó don fhoireann mháithreachais**, ionas gur féidir antaibheathaigh le linn an tsaothair a phleanáil. Céim shimplí í a dhéanann fíordhifríocht.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Dó croí agus mídhíleá le linn toirchis",
+      "aliases": [
+        "dó croí le linn toirchis",
+        "mídhíleá le linn toirchis",
+        "aife aigéid le linn toirchis",
+        "aife",
+        "heartburn pregnancy"
+      ],
+      "glance": "Tá dó croí an-choitianta le linn toirchis — gan dochar de ghnáth, agus maolaíonn athruithe beaga laethúla go minic é.",
+      "overview": "Tá dó croí agus mídhíleá — mothú dó nó míchompord sa chliabhrach, go minic tar éis ithe — an-choitianta le linn toirchis. Is iad hormóin an toirchis is cúis leis, a bhogann an matán ag barr an ghoile, agus, níos déanaí, an leanbh atá ag fás ag brú aníos. Tá sé míchompordach, ach níl sé díobhálach.\n\nIs minic a chabhraíonn athruithe beaga: béilí níos lú a ithe níos minice seachas béilí móra, suí suas agus tú ag ithe agus ar feadh tamaill ina dhiaidh, níos lú bia spíosraigh, bia sailleach nó rudaí le caiféin, agus gan ithe go déanach roimh dhul a chodladh. Faigheann daoine áirithe níos compordaí é codladh agus iad ardaithe beagán ar philiúir.\n\nMura leor é sin, féadann **cógaiseoir** leigheasanna frithaigéid a mholadh atá sábháilte le húsáid le linn toirchis — áit mhaith le tosú sula n-éiríonn sé ina chrá níos mó.",
+      "deep": null,
+      "when_to_see_doctor": "- Téigh chuig do **dhochtúir teaghlaigh (GP) nó chuig do chnáimhseach** mura bhfuil athruithe simplí agus leigheasanna ón gcógaslann ag cabhrú, nó má bhíonn **deacracht agat slogadh**, má bhíonn bia ag teacht aníos arís agus arís eile, má chailleann tú meáchan gan iarracht, nó má bhíonn pian bhoilg ort — is fiú na rudaí seo a bheith seiceáilte ag dochtúir seachas iad a chur síos do ghnáthdhó croí.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Míostruithe troma",
+      "aliases": [
+        "míostruithe troma",
+        "menorrhagia",
+        "fuiliú míosta trom",
+        "tuile",
+        "fuiliú trom",
+        "téachtáin",
+        "heavy periods"
+      ],
+      "glance": "Ciallaíonn míostruithe troma go gcailltear go leor fola gach timthriall — coitianta, ach is fiú iad a bheith seiceáilte ag dochtúir má chuireann siad isteach ort.",
+      "overview": "Ciallaíonn míostruithe troma — menorrhagia an t-ainm leighis — go gcailleann tú go leor fola le linn do mhíostraithe. I gcás daoine áirithe níl i bhfuiliú trom ach an gnáthrud dóibh, ach má tá sé ag cur isteach ar do shaol nó do d'fhágáil traochta, is fiú é a fhiosrú.\n\nRoinnt comharthaí go bhfuil míostruithe ar an taobh trom: gá le ceap sláintíochta nó súitín a athrú gach 1 go 2 uair an chloig, dhá chineál táirge míostraithe a úsáid le chéile (mar shúitín agus ceap), fuil ag dul tríd go dtí d'éadaí nó do chuid éadaí leapa, téachtáin fola a chur amach atá níos mó ná thart ar 2.5cm (thart ar mhéid bonn 10p), nó míostruithe a mhaireann níos faide ná 7 lá.\n\nMá chailleann tú go leor fola mí i ndiaidh míosa, féadann tú a bheith tuirseach nó gearr san anáil, mar féadann sé leibhéal íseal iarainn (anaemia) a chur faoi deara. Tá go leor cúiseanna féideartha ann — ó fhibroidí nó riochtaí mar endiméadrióis, adanmhióis nó PCOS, go cógais áirithe — agus go minic ní aimsítear aon chúis thromchúiseach. Cibé scéal é, féadtar cabhrú le míostruithe troma de ghnáth, mar sin ní rud iad a chaithfidh tú cur suas leo.",
+      "deep": null,
+      "when_to_see_doctor": "Téigh chuig dochtúir teaghlaigh (GP) sna cásanna seo:\n\n- tá míostruithe troma ag cur isteach ar do shaol laethúil\n- tá tú ag fuiliú go trom ar feadh go leor uaireanta, nó maireann do mhíostruithe tamall fada\n- tá pian mhíosta dhian ort freisin, nó pian le linn gnéis, nuair a dhéanann tú mún, nó nuair a dhéanann tú cac\n- bíonn fuiliú agat idir míostruithe nó tar éis gnéis\n- is minic a bhraitheann tú tuirseach nó gearr san anáil (féadann sé seo a bheith ina chomhartha ar iarann íseal)\n\nFéadann dochtúir teaghlaigh (GP) cúis a lorg agus labhairt leat faoina bhféadfadh cabhrú.",
+      "red_flags": "- Faigh cabhair leighis **phráinneach** — déan teagmháil le dochtúir nó le **seirbhís lasmuigh d'uaireanta**, nó cuir glao ar **{{emergency}}** / téigh chuig roinn éigeandála an ospidéil má tá sé dian — má tá tú **ag fuiliú chomh trom sin go maothaíonn tú ceap sláintíochta amháin nó níos mó go hiomlán gach uair an chloig, ar feadh cúpla uair an chloig as a chéile**, nó má bhraitheann tú **go bhfuil tú ar tí titim i laige, meadhránach, nó gearr san anáil**. Féadann siad seo a bheith ina gcomharthaí go bhfuil barraíocht fola á cailleadh agat."
+    },
+    "lh": {
+      "title": "Hormón lúitéinitheach (LH)",
+      "aliases": [
+        "LH",
+        "hormón lúitéinitheach",
+        "borradh LH",
+        "tástáil LH",
+        "luteinizing hormone"
+      ],
+      "glance": "Hormón inchinne é LH a spreagann, lena bhorradh i lár an timthrialla, an t-ubhagán chun ubh a scaoileadh.",
+      "overview": "Is é LH — an hormón lúitéinitheach — an teachtaire a chuireann tús leis an ubhsceitheadh. Cosúil le FSH, déanann faireog bheag san inchinn (an fhaireog phiotútach) é agus insíonn sé don ubhagán cathain ubh a scaoileadh.\n\nAr feadh fhormhór na chéad leithe den timthriall fanann LH íseal. Ansin, timpeall lár an timthrialla, ardaíonn sé go géar sa rud ar a dtugtar borradh LH. Is é an borradh seo an comhartha a spreagann an t-ubhagán chun a ubh a scaoileadh — an t-ubhsceitheadh — lá nó mar sin ina dhiaidh sin de ghnáth.\n\nComhartha gearr tráthúil é an borradh seachas rud a thabharfá faoi deara sa chaoi a mbraitheann tú. Toisc go dtagann sé chomh gar sin roimh scaoileadh na huibhe, marcóir iontaofa é uainiú an ardaithe LH ar an gcuid is torthúla den timthriall.",
+      "deep": "Oibríonn LH in éineacht le FSH, an hormón a fhásann na falacail níos luaithe sa timthriall. Cé go mbíonn FSH i gceannas ar an ullmhú, is é borradh LH an casadh: tosaíonn na leibhéil ag ardú thart ar lá go leith sula scaoiltear an ubh agus sroicheann siad a mbuaic thart ar leath lae roimhe. Tar éis an bhorrtha, bogann an timthriall isteach ina dara leath. Is é an t-uainiú beacht seo an fáth go bhfuil LH chomh húsáideach sin mar mharcóir d'aon duine atá ag rianú an ubhsceite, agus an fáth go bhfuil sé lárnach sa chaoi a bpleanáiltear cóireálacha torthúlachta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Éisteacht agus tacaíocht mhothúchánach",
+      "aliases": [
+        "conas éisteacht",
+        "tacaíocht mhothúchánach do pháirtithe",
+        "cumarsáid",
+        "a bheith ann di",
+        "listening"
+      ],
+      "glance": "Formhór an ama, teastaíonn uaithi go n-éistfí léi, ní go ndéanfaí í a “dheisiú” — éist ar dtús, agus fiafraigh sula dtugann tú comhairle.",
+      "overview": "Nuair a bhíonn duine a bhfuil grá againn di ag streachailt, is é an chéad instinn léim isteach agus an fhadhb a réiteach. Ach is minic gurb é an rud is mó a chabhraíonn ná go mbraitheann sí go bhfuiltear ag éisteacht léi i ndáiríre: go bhfuil ciall lena mothúcháin agus nach bhfuil sí ina haonar leo. Má dhéantar réiteach róthapa, féadann sé teacht trasna mar “is fadhb iad do mhothúcháin atá le dúnadh”.\n\nScil í an dea-éisteacht is féidir le duine ar bith a fhoghlaim. Aird atá ann den chuid is mó: an fón a chur síos, d'aghaidh a thabhairt uirthi, agus ligean di críochnú. Ní gá duit aontú le gach pointe chun go mbraithfidh sí go bhfuil meas agat uirthi.",
+      "deep": "Bealaí praiticiúla le bheith ann di:\n\n- **Éist chun tuiscint, ní chun freagra a thabhairt.** Lig di labhairt gan cur isteach uirthi ná do chosaint a phleanáil.\n- **Athluaigh é.** Is fearr “Is cosúil go bhfuil sé sin an-strusmhar” nó “Tuigim cén fáth ar ghortaigh sé sin thú” ná “ná bí buartha faoi”.\n- **Fiafraigh sula dtugann tú comhairle.** “Ar mhaith leat cabhair chun smaoineamh air, nó an bhfuil tú ag iarraidh orm éisteacht amháin?”\n- **Ná glac go pearsanta é** nuair nach bhfuil baint ar bith agat le drochlá. Bronntanas í an stuaim.\n- **Glac freagracht as do chuid féin.** Má rinne tú botún, atógann leithscéal fíor — gan “ach” — muinín.\n- **Tabhair an pictiúr níos leithne faoi deara.** Má bhíonn cuma uirthi go bhfuil sí in ísle brí go leanúnach, imníoch nó nach í féin atá ann, spreag go séimh í chun tacaíocht a lorg agus tairg cabhrú léi é a fháil. Comhghleacaí foirne thú, ní teiripeoir.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "An chéim lúitéach",
+      "aliases": [
+        "céim lúitéach",
+        "an dara leath den timthriall",
+        "tar éis an ubhsceite",
+        "luteal phase"
+      ],
+      "glance": "Is í an chéim lúitéach an dara leath den timthriall, tar éis an ubhsceite, nuair a ardaíonn progeistéarón.",
+      "overview": "Is í an chéim lúitéach an chuid den timthriall a leanann an t-ubhsceitheadh agus a mhaireann go dtí go dtosaíonn do chéad mhíostrú eile. Tá sí ainmnithe as an corpus luteum — an struchtúr beag a dhéanann an t-ubhagán ón bhfalacal folamh nuair a bhíonn an ubh scaoilte.\n\nSa chéim seo ardaíonn an hormón progeistéarón. Is é a jab líneáil an útarais (na broinne) a choinneáil tiubh agus socair, ionas go mbeidh áit aici chun ionchlannú má thagann ubh thoirchithe. Fanann estrigin mar chuid den phictiúr freisin, ag obair in éineacht le progeistéarón.\n\nMura dtosaíonn toircheas, briseann an corpus luteum síos, titeann progeistéarón agus estrigin, agus ní choinnítear an líneáil a thuilleadh — rud a thugann do chéad mhíostrú eile agus a chuireann tús le timthriall nua. Seo freisin an tréimhse ina dtugann daoine áirithe faoi deara athruithe réamh-mhíostraithe sa ghiúmar, sa chodladh nó sa chorp.",
+      "deep": "Is gnách go mbíonn fad na céime seo beagán níos seasta ná an chéad leath den timthriall, agus is minic a mhaireann sí thart ar dhá sheachtain, cé go mbíonn gnátheagsúlacht ann ó dhuine go duine. Toisc go bhfuil a deireadh ceangailte leis an titim i bprogeistéarón, is é teacht an mhíostraithe an comhartha infheicthe i ndáiríre go bhfuil leibhéil na hormón tite. Féadann rianú na slí a mbraitheann tú le linn na céime seo cabhrú leat idirdhealú a dhéanamh idir patrún atá aithnidiúil duit agus rud atá nua nó ar fiú é a phlé le cliniceoir.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Sos míostraithe",
+      "aliases": [
+        "sos míostraithe",
+        "an t-athrú saoil",
+        "deireadh míostraithe",
+        "tonnta teasa",
+        "menopause"
+      ],
+      "glance": "Is é an sos míostraithe an uair a stopann míostruithe go buan — céim nádúrtha, a shroichtear de ghnáth idir thart ar 45 agus 55.",
+      "overview": "Is é an sos míostraithe an pointe nuair a stopann do mhíostruithe go buan. Toisc gur féidir le míostruithe teacht agus imeacht ar feadh tamaill ar dtús, meastar é a bheith sroichte nuair a bhíonn 12 mhí as a chéile caite agat gan míostrú. Tarlaíonn sé de ghnáth idir thart ar 45 agus 55, cé go bhféadfadh sé a bheith níos luaithe nó níos déanaí.\n\nCuid nádúrtha den dul in aois é, ní tinneas. Tarlaíonn sé de réir mar a mhaolaíonn na hubhagáin a gcuid oibre agus a thiteann leibhéal na hestrigine — príomhhormón den timthriall. Is é an t-athrú hormónach sin atá taobh thiar de na hathruithe a thugann go leor daoine faoi deara: tonnta teasa agus allas oíche, athruithe ar mhíostruithe roimhe, deacracht codlata, athruithe giúmair nó imní, ceo inchinne, triomacht faighne, agus pianta.\n\nBíonn eispéiris an-éagsúil — téann daoine áirithe tríd gan stró, bíonn sé deacair ag daoine eile, agus féadann na siomptóim maireachtáil roinnt blianta. Ní chiallaíonn aon chuid de go bhfuil rud éigin cearr leat. Tá tacaíocht agus roghanna ann, agus is maith an chéad chéim é tuiscint a fháil ar a bhfuil ag tarlú.",
+      "deep": "Tugtar an réamhshos míostraithe (perimenopause) ar na blianta athraithe roimh an sos míostraithe; pointe ama amháin é an sos míostraithe féin (an marc sin de 12 mhí gan míostrú), agus tugtar an iarshos míostraithe (postmenopause) ar an tréimhse ina dhiaidh uaireanta. Toisc go dtéann estrigin i bhfeidhm freisin ar na cnámha agus ar an gcroí san fhadtéarma, tugann cliniceoirí aird orthu sin in éineacht leis na siomptóim laethúla. Féadann raon cur chuige — ó stíl mhaireachtála go cóireálacha neamhhormónacha agus hormónacha — siomptóim a mhaolú, agus braitheann an rud atá ceart ar do shláinte, do stair agus do roghanna, rud ba cheart a phlé le cliniceoir.",
+      "when_to_see_doctor": "- Téigh chuig dochtúir teaghlaigh (GP) má tá siomptóim an tsosa míostraithe ag cur isteach ort nó ar do shaol laethúil, agus más mian leat do roghanna a phlé.\n- Téigh chuig dochtúir teaghlaigh (GP) **i gcónaí** má bhíonn **aon fhuiliú faighne agat tar éis 12 mhí gan míostrú** (fuiliú tar éis an tsosa míostraithe). Is minic nach mbíonn aon rud tromchúiseach i gceist, ach ba cheart i gcónaí é a bheith seiceáilte ag dochtúir.\n- Is fiú dul i gcomhairle le dochtúir freisin má tá tú ag fuiliú níos mó seachas níos lú ná roimhe, nó má athraíonn do mhíostruithe ar bhealach a chuireann imní ort.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "An timthriall míosta",
+      "aliases": [
+        "timthriall",
+        "timthriall míosta",
+        "an timthriall míostraithe",
+        "menstrual cycle"
+      ],
+      "glance": "Is é an timthriall míosta an rithim mhíosta a leanann do chorp chun ullmhú do thoircheas féideartha.",
+      "overview": "Comhairtear an timthriall míosta ón gcéad lá de do mhíostrú — sin lá 1 — go dtí an lá roimh thús do chéad mhíostraithe eile. Is iad hormóin a stiúrann é, a ardaíonn agus a thiteann de réir patrúin athfhillteach gach mí.\n\nIs minic a bhíonn timthriall thart ar 28 lá, ach níl ansin ach meán. Is gnáth aon fhad ó thart ar 21 go 35 lá, agus féadann d'fhad féin athrú beagán ó mhí go mí. Is úsáidí do phatrún féin a fhoghlaim ná é a chur i gcomparáid le huimhir.\n\nAr fud an timthrialla bogann do chorp trí roinnt céimeanna: do mhíostrú, an t-ullmhú chun ubh a scaoileadh, an scaoileadh féin (ubhsceitheadh), agus an tréimhse ina dhiaidh. Múnlaíonn hormóin gach céim, estrigin agus progeistéarón go príomha.",
+      "deep": "Comhrá idir an inchinn agus na hubhagáin é an timthriall ar fad, á iompar ag hormóin. Sa chéad leath, ardaíonn estrigin de réir mar a aibíonn falacal ina bhfuil ubh san ubhagán agus a éiríonn líneáil an útarais (na broinne) níos tiubha. Timpeall lár an timthrialla scaoiltear ubh. Sa dara leath, cabhraíonn progeistéarón an líneáil sin a choinneáil réidh ar eagla go dtiocfadh ubh thoirchithe.\n\nMura bhfuil toircheas ann, titeann estrigin agus progeistéarón go leibhéil ísle, caitear an líneáil mar do mhíostrú, agus tosaíonn an patrún arís. Toisc go dtéann na hormóin seo i bhfeidhm ar go leor córas, b'fhéidir go dtabharfaidh tú faoi deara athruithe beaga ó lá go lá i rith na míosa — is é seo gnáthrithim an timthrialla, ní rud le “deisiú”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "An chéim mhíostrach (do mhíostrú)",
+      "aliases": [
+        "míostrú",
+        "fuil mhíosta",
+        "tréimhse mhíosta",
+        "an chéim mhíostrach",
+        "fuiliú",
+        "period"
+      ],
+      "glance": "Is é do mhíostrú an cúpla lá fuilithe a thosaíonn gach timthriall, nuair a chaitear líneáil na broinne.",
+      "overview": "Is í an chéim mhíostrach do mhíostrú — na laethanta a mbíonn tú ag fuiliú. Tosaíonn sí ar lá 1 den timthriall, nuair a bhíonn leibhéil estrigine agus progeistéaróin tite go leor nach gcoinnítear a thuilleadh an líneáil a tógadh taobh istigh den útaras (den bhroinn), agus scarann sí, ag fágáil an choirp tríd an bhfaighin.\n\nMaireann míostrú thart ar 2 go 7 lá de ghnáth, agus thart ar 5 lá mar an gnáthfhad. Is minic a bhíonn an sreabhadh is troime sa chéad chúpla lá agus níos éadroime ina dhiaidh sin. Is gnách go dtosaíonn míostruithe timpeall aois 12, cé gur gnáth freisin tosú níos luaithe nó níos déanaí.\n\nAthraíonn an rud atá “gnáth” go mór ó dhuine go duine. Cabhraíonn rianú do mhíostruithe féin leat an rud atá gnáth duitse a thabhairt faoi deara, rud a bhfuil i bhfad níos mó brí leis ná meán ar bith.",
+      "deep": "Is é fuiliú an mhíostraithe líneáil an útarais (an endiméadriam) á caitheamh tar éis timthrialla nár thosaigh toircheas ann. Léiríonn sé deireadh timthrialla amháin agus tús an chéad cheann eile, agus sin an fáth a gcomhairtear lá 1 de do mhíostrú mar lá 1 den timthriall ar fad. De réir mar a chríochnaíonn do mhíostrú, tosaíonn estrigin ag ardú arís agus tosaíonn an corp ag atógáil na líneála don timthriall atá romhat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Breith anabaí",
+      "aliases": [
+        "breith anabaí",
+        "cailliúint toirchis",
+        "cailliúint luath toirchis",
+        "toircheas a chailleadh",
+        "miscarriage"
+      ],
+      "glance": "Cailliúint toirchis roimh 24 seachtain atá i mbreith anabaí — tá sí coitianta, agus beagnach riamh ní tusa ba chúis léi.",
+      "overview": "Is éard is breith anabaí ann ná toircheas a chailleadh sa chéad 24 seachtain. Tá sí níos coitianta ná mar a thuigeann go leor daoine, agus ceann de na rudaí is tábhachtaí le fios a bheith agat ná gur beag nach riamh a tharlaíonn sí de bharr aon rud a rinne tú nó nach ndearna tú — de ghnáth tarlaíonn sí mar gheall ar fhadhb sa chaoi a raibh an toircheas ag forbairt, rud nach raibh smacht ag aon duine air.\n\nIs iad na comharthaí is coitianta fuiliú faighne, agus crampaí nó pian íseal i do bholg. Ní chiallaíonn fuiliú go luath sa toircheas i gcónaí go bhfuil breith anabaí ag tarlú — fuilíonn go leor daoine beagán agus bíonn toircheas sláintiúil acu ina dhiaidh sin — ach ba cheart i gcónaí go seiceálfadh dochtúir nó cnáimhseach é.\n\nCibé conas a tharlaíonn cailliúint, tá na mothúcháin a thagann léi fíor agus bailí, agus is gnáthfhreagairt é an brón. Ní gá duit dul tríd i d'aonar — tá tacaíocht ar fáil, ó do chnáimhseach nó ó do dhochtúir teaghlaigh (GP) agus ó charthanais atá dírithe ar chailliúint toirchis.",
+      "deep": null,
+      "when_to_see_doctor": "- Déan teagmháil le do dhochtúir teaghlaigh (GP), le do chnáimhseach, nó leis an aonad luath-thoirchis (nó le dochtúir lasmuigh d'uaireanta) má bhíonn **fuiliú faighne nó spotáil agat le linn toirchis**, fiú más éadrom atá sé agus gan mórán pian nó gan aon phian — ionas gur féidir é a sheiceáil.\n- Fiafraigh cá bhfuil an **t-aonad luath-thoirchis** is gaire duit, atá curtha ar bun go díreach chuige seo.",
+      "red_flags": "- Cuir glao ar **{{emergency}} nó téigh chuig roinn éigeandála an ospidéil** más rud é, le linn toirchis, go bhfuil **pian dhian sa bholg ort, pian i mbarr na gualainne, fuiliú trom, nó go mbraitheann tú go bhfuil tú ar tí titim i laige nó an-tinn**. Féadann siad seo a bheith ina gcomharthaí ar fhadhb thromchúiseach, mar thoircheas eachtópach, a dteastaíonn cúram práinneach uaithi."
+    },
+    "morning-sickness": {
+      "title": "Tinneas maidine",
+      "aliases": [
+        "tinneas maidine",
+        "masmas le linn toirchis",
+        "tinneas toirchis",
+        "urlacan le linn toirchis",
+        "hyperemesis gravidarum",
+        "morning sickness"
+      ],
+      "glance": "Tá masmas nó urlacan an-choitianta go luath sa toircheas, agus maolaíonn sé de ghnáth faoi thart ar sheachtain 16 go 20.",
+      "overview": "Tá masmas, nó urlacan, an-choitianta go luath sa toircheas. In ainneoin an ainm “tinneas maidine”, féadann sé tarlú ag am ar bith den lá nó den oíche. I gcás fhormhór na ndaoine tosaíonn sé sna chéad seachtainí agus socraíonn sé faoi thart ar 16 go 20 seachtain.\n\nTá sé míthaitneamhach, agus do dhaoine áirithe cuireann sé isteach go mór ar an saol laethúil — ach ní chuireann gnáth-thinneas maidine do leanbh i mbaol méadaithe ar bith. Féadann méideanna beaga a ithe go minic, agus teacht ar an rud a chabhraíonn leatsa, é a dhéanamh níos fulangaí; féadann cnáimhseach, dochtúir teaghlaigh (GP) nó cógaiseoir roghanna sábháilte a mholadh má tá tú ag streachailt.\n\nI gcás líon beag daoine éiríonn an tinneas dian (tugtar hyperemesis gravidarum air seo), agus bíonn baol dáiríre díhiodráitithe ann. Teastaíonn cabhair leighis don leagan sin — féach na comharthaí thíos.",
+      "deep": null,
+      "when_to_see_doctor": "Déan teagmháil le do chnáimhseach, le do dhochtúir teaghlaigh (GP), nó le dochtúir lasmuigh d'uaireanta sna cásanna seo:\n\n- ní féidir leat aon bhia ná deoch a choinneáil síos ar feadh 24 uair an chloig — cuireann tú gach rud aníos arís\n- tá d'fhual an-dorcha, nó ní dhearna tú mún le níos mó ná 8 n-uaire an chloig\n- braitheann tú an-lag, meadhránach, nó ar tí titim i laige nuair a sheasann tú suas\n- tá pian bhoilg ort, fiabhras, nó tá tú ag caitheamh aníos fola\n- tá tú ag cailleadh meáchain",
+      "red_flags": "- Mura féidir leat aon deoch a choinneáil síos — má chuireann tú gach rud aníos arís — agus fual an-dorcha agat nó gan aon fhual, féadann sé a chiallú go bhfuil tú ag éirí díhiodráitithe (tinneas toirchis dian) — **déan teagmháil le do chnáimhseach, le do dhochtúir teaghlaigh (GP) nó le dochtúir lasmuigh d'uaireanta an lá céanna**, mar b'fhéidir go mbeidh cóireáil de dhíth ort chun é a stopadh ó dhul in olcas."
+    },
+    "ovulation": {
+      "title": "Ubhsceitheadh",
+      "aliases": [
+        "ubhsceitheadh",
+        "ubh a scaoileadh",
+        "lá ubhsceite",
+        "tréimhse thorthúil",
+        "ovulation"
+      ],
+      "glance": "Ubhsceitheadh: an uair a scaoileann ubhagán ubh — an pointe is torthúla de do thimthriall.",
+      "overview": "Is é an t-ubhsceitheadh an nóiméad a scaoileann ubhagán ubh aibí. Casadh an timthrialla atá ann: tógann an chéad leath suas chuige, agus leanann an dara leath é.\n\nI dtimthriall de thart ar 28 lá, is minic a tharlaíonn an t-ubhsceitheadh timpeall lá 14 — ach athraíonn an t-uainiú. Bealach cabhrach chun smaoineamh air ná go dtarlaíonn an t-ubhsceitheadh de ghnáth áit éigin idir 10 agus 16 lá sula dtosaíonn do chéad mhíostrú eile. Féadann sé a bheith deacair an lá beacht a aimsiú.\n\nNuair a bhíonn sí scaoilte, ní féidir ubh a thoirchiú ach ar feadh thart ar 12 go 24 uair an chloig. Féadann speirm, áfach, maireachtáil sa chorp ar feadh roinnt laethanta, mar sin bíonn an “tréimhse thorthúil” níos leithne ná lá amháin — thart ar na laethanta roimh an ubhsceitheadh agus an lá féin.",
+      "deep": "Spreagann ardú gearr géar hormón timpeall lár an timthrialla scaoileadh na huibhe, tar éis don estrigin carnadh le linn na céime falacailí. Toisc gur féidir le speirm maireachtáil ar feadh roinnt laethanta agus nach maireann an ubh ach níos lú ná lá, is dóichí toircheas ó ghnéas sna laethanta díreach roimh an ubhsceitheadh. Féadann an t-ubhsceitheadh bogadh ó thimthriall go timthriall le rudaí cosúil le strus nó tinneas, agus sin an fáth go bhfuil sé deacair é a thuar go beacht agus go bhfuil rianú roinnt timthriallta níos iontaofa ná aon áireamh amháin.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Pian le linn gnéis",
+      "aliases": [
+        "pian le linn gnéis",
+        "gnéas pianmhar",
+        "dyspareunia",
+        "pian agus gnéas",
+        "vaginismus",
+        "painful sex"
+      ],
+      "glance": "Tá pian le linn gnéis coitianta, tá go leor cúiseanna féideartha léi, agus is fiú i gcónaí í a bheith seiceáilte ag dochtúir — tá cabhair ann.",
+      "overview": "Tá pian le linn gnéis — ar a dtugtar dyspareunia uaireanta — níos coitianta ná mar a thuigeann go leor daoine, agus ní rud é riamh a chaithfidh tú glacadh leis. Féadann go leor cúiseanna a bheith léi, agus is é an ceann ceart a aimsiú an eochair chun í a mhaolú.\n\nCúiseanna fisiceacha atá le cuid acu. Cúis mhinic í triomacht faighne, a bhaineann go minic le hormóin timpeall an tsosa míostraithe nó le heaspa spreagtha gnéasaí, agus féadann sí gnéas a dhéanamh tinn nó míchompordach. Féadann ionfhabhtuithe, mar chandaidiasis faighne (ionfhabhtú giosta), pian a chur faoi deara freisin. Cúis eile is ea vaginismus — nuair a theannann na matáin timpeall na faighne uathu féin nuair a dhéantar iarracht dul isteach, rud a d'fhéadfadh gnéas a dhéanamh pianmhar nó a chur ina luí ort go bhfuil sé dodhéanta. Tarlaíonn sé seo gan toil, ní “i do cheann” atá sé, agus féadtar é a chóireáil.\n\nToisc gur féidir leis an gcúis a bheith fisiceach, hormónach, nó bainteach leis an méid a bhíonn tú ar do shuaimhneas nó spreagtha — agus meascán go minic — is é an chéim úsáideach ná í a thaispeáint do dhochtúir seachas buille faoi thuairim a thabhairt nó leanúint ar aghaidh ag fulaingt.",
+      "deep": null,
+      "when_to_see_doctor": "- Téigh chuig dochtúir teaghlaigh (GP) nó chuig clinic sláinte gnéis má bhíonn gnéas pianmhar — cibé cúis atá leis, is fiú é a bheith seiceáilte ag dochtúir, agus tá cabhair éifeachtach ann do na cúiseanna coitianta.\n- Féadann sé a bheith amscaí é a lua, ach bíonn cliniceoirí ag plé leis seo go minic agus bíonn siad ann chun cabhrú, ní chun breithiúnas a thabhairt. Féadann tú dochtúir mná a iarraidh, duine a thabhairt leat, agus labhairt faoina ndéanfadh scrúdú compordach duit.\n- Bíodh aon fhuiliú tar éis gnéis seiceáilte ag dochtúir, agus téigh chuig dochtúir gan mhoill má tá an phian dian nó má bhraitheann tú tinn freisin.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Faoiseamh ó phian le linn saothair",
+      "aliases": [
+        "faoiseamh ó phian le linn saothair",
+        "eipidiúrach",
+        "gás agus aer",
+        "Entonox",
+        "pian saothair",
+        "linn breithe",
+        "TENS",
+        "epidural"
+      ],
+      "glance": "Tá roinnt bealaí ann chun pian an tsaothair a mhaolú — níl rogha cheart ná mhícheart ann, agus féadann tú fanacht solúbtha.",
+      "overview": "Bíonn an saothar difriúil do gach duine, agus tá roinnt bealaí ann chun déileáil leis an bpian — ó bhearta simplí compoird go roghanna leighis. Má tá a fhios agat roimh ré cad atá ar fáil, féadann sé cabhrú leat mothú níos ullmhaithe.\n\nTéann na roghanna ó **fhanacht gníomhach agus gan luí síos**, análú agus scíth, suathaireacht, agus a bheith san **uisce** (folcadán nó linn breithe), go dtí **meaisín TENS**, **gás agus aer** (Entonox, a análaíonn tú féin), **instealltaí** mar pheitidín, agus **eipidiúrach** (a thugann ainéistéisí, agus a mhaolaíonn pian an tsaothair níos iomláine).\n\nNíl aon rogha “is fearr” ann — braitheann sé ortsa, ar do shaothar, agus ar an gcaoi a mbraitheann tú ar an lá. Is fiú do roghanna a scríobh síos i **bplean breithe**, agus intinn oscailte a choinneáil: faigheann go leor daoine amach go dteastaíonn níos mó, nó níos lú, faoisimh ó phian uathu ná mar a bhí súil acu, agus tá sé sin go breá ar fad.",
+      "deep": null,
+      "when_to_see_doctor": "- Pléifidh do **chnáimhseach** (agus, i gcás eipidiúraigh, ainéistéisí) na roghanna leat agus cabhróidh sí leat socrú cad a oireann duit — le linn toirchis agus arís le linn an tsaothair féin. Ní gá gach rud a shocrú roimh ré.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (siondróm ubhagán polaiciostach)",
+      "aliases": [
+        "PCOS",
+        "siondróm ubhagán polaiciostach",
+        "ubhagáin pholaiciostacha",
+        "cisteanna ar na hubhagáin",
+        "polycystic ovary syndrome"
+      ],
+      "glance": "Riocht hormónach coitianta é PCOS a fhéadann dul i bhfeidhm ar mhíostruithe, ar ubhsceitheadh, ar chraiceann agus ar ghruaig.",
+      "overview": "Riocht coitianta é PCOS — siondróm ubhagán polaiciostach — a bhaineann le cothromaíocht na hormón atáirgthe. Tugann meastacháin le fios go dtéann sé i bhfeidhm ar thart ar 1 as 10 mban in aois atáirgthe, agus ní dhéantar diagnóis riamh ar go leor daoine a bhfuil sé orthu.\n\nFéadann sé a bheith le feiceáil ar bhealaí éagsúla, agus ní bhíonn beirt díreach mar an gcéanna. I measc na ngnéithe coitianta tá míostruithe atá neamhrialta, annamh, nó nach dtagann ar chor ar bith; leibhéil níos airde de hormóin ar a dtugtar aindrigin, rud a d'fhéadfadh fás breise gruaige ar an aghaidh nó ar an gcorp, aicne, nó gruaig ag tanú ar an gceann a chur faoi deara; agus ubhagáin nach scaoileann ubh chomh rialta agus is gnách, rud a d'fhéadfadh sé a dhéanamh níos deacra éirí torrach. Tá athruithe meáchain agus paistí craicinn níos dorcha coitianta freisin.\n\nNíl an chúis bheacht tuigthe go hiomlán, agus níl aon leigheas ann — ach féadtar na siomptóim a bhainistiú, agus is é tuiscint ar a bhfuil ag tarlú an chéad chéim. Tá PCOS coitianta agus soláimhsithe, ní rud é ar chóir náire a bheith ort faoi.",
+      "deep": "Toisc go mbaineann PCOS le hormóin an choirp agus leis an gcaoi a láimhseálann sé inslin, tá baint aige freisin san fhadtéarma le frithsheasmhacht inslin agus le seans níos airde de dhiaibéiteas cineál 2, brú fola ardaithe, agus athruithe sa cholaistéarol — agus sin an fáth go gcoinníonn cliniceoirí súil ar na rudaí seo le himeacht ama. D'fhéadfadh thart ar leath na ndaoine a bhfuil PCOS orthu diaibéiteas nó réamhdhiaibéiteas a fhorbairt faoina ndaichidí, mar sin tá seiceálacha rialta tábhachtach. Ní rud é an diagnóis le measúnú a dhéanamh air tú féin: breathnaíonn cliniceoir ar an bpictiúr iomlán — do stair agus do mhíostruithe, tástálacha fola le haghaidh hormón uaireanta, agus scanadh ultrafhuaime ar na hubhagáin uaireanta — agus cuireann sé cúiseanna eile as an áireamh sula dtagann sé ar PCOS.",
+      "when_to_see_doctor": "Is fiú dul chuig dochtúir teaghlaigh (GP) má thugann tú faoi deara rudaí a oireann don phictiúr thuas, go háirithe má tá siad ag dul i bhfeidhm ar an gcaoi a mbraitheann tú ó lá go lá:\n\n- míostruithe atá neamhrialta, an-annamh, nó atá stoptha\n- i bhfad níos mó fáis gruaige ar an aghaidh nó ar an gcorp, aicne leanúnach, nó gruaig ag tanú ar an gceann\n- deacracht éirí torrach tar éis a bheith ag iarraidh ar feadh tamaill\n- meáchan a chuaigh suas agus atá deacair a chailleadh, in éineacht le siomptóim eile\n\nFéadann dochtúir teaghlaigh (GP) fiosrú a dhéanamh ar a bhfuil ag tarlú, a dhearbhú an PCOS nó rud éigin eile atá ann, agus plean a oireann duit a phlé leat. Tá baint ag PCOS freisin le giúmar íseal agus imní — má tá tú ag streachailt leis an gcaoi a mbraitheann tú, inis do do dhochtúir teaghlaigh (GP) freisin; is cuid den phictiúr é sin agus tá tacaíocht ar fáil.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Réamhshos míostraithe (perimenopause)",
+      "aliases": [
+        "réamhshos míostraithe",
+        "perimenopause",
+        "an t-aistriú go sos míostraithe",
+        "an t-athrú saoil",
+        "timpeall an tsosa míostraithe"
+      ],
+      "glance": "Is é an réamhshos míostraithe an t-aistriú roimh an sos míostraithe, nuair a thosaíonn míostruithe agus hormóin ag athrú.",
+      "overview": "Is é an réamhshos míostraithe an tréimhse ama roimh an sos míostraithe — na blianta “timpeall an tsosa míostraithe”. Tosaíonn sé nuair a thugann tú na hathruithe faoi deara den chéad uair agus maireann sé go dtí bliain iomlán tar éis do mhíostraithe deiridh, agus ag an bpointe sin tá an sos míostraithe sroichte agat. Féadann sé maireachtáil roinnt blianta.\n\nLe linn na tréimhse seo déanann na hubhagáin níos lú estrigine de réir a chéile, agus ardaíonn agus titeann na leibhéil ar bhealach nach bhfuil chomh hintuartha agus a bhí. Is é an comhartha luath is coitianta go n-athraíonn míostruithe — ag teacht níos gaire dá chéile nó níos faide óna chéile, níos éadroime nó níos troime. Féadann go leor de na siomptóim a bhaineann leis an sos míostraithe, mar thonnta teasa, athruithe codlata, nó athruithe giúmair, tosú anseo agus tú fós ag fáil míostruithe.\n\nToisc go dtagann sé de réir a chéile agus go mbíonn sé chomh héagsúil sin, féadann an réamhshos míostraithe a bheith mearbhlach — ní thagann na hathruithe go léir ag an am céanna ná san ord céanna do gach duine. Má tá a fhios agat go bhfuil ainm ar an gcéim seo, agus gur aistriú gnáth é, féadann sé a bheith níos éasca ciall a bhaint as.",
+      "deep": null,
+      "when_to_see_doctor": "- Téigh chuig dochtúir teaghlaigh (GP) má tá siomptóim an réamhshosa míostraithe ag cur isteach ar do shaol laethúil agus más mian leat labhairt faoina bhféadfadh cabhrú.\n- Is fiú dul chuig dochtúir chun seiceáil a fháil má éiríonn do mhíostruithe an-trom, nó má bhíonn fuiliú agat idir míostruithe nó tar éis gnéis, ionas gur féidir an chúis a aimsiú.\n- Cuimhnigh gur féidir éirí torrach fós le linn an réamhshosa míostraithe, mar sin is fiú frithghiniúint a phlé le cliniceoir má bhaineann sé sin leatsa.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Pian mhíosta",
+      "aliases": [
+        "pian mhíosta",
+        "crampaí míosta",
+        "crampaí",
+        "dysmenorrhoea",
+        "míostruithe pianmhara",
+        "period pain"
+      ],
+      "glance": "Crampaí in íochtar do bhoilg timpeall do mhíostraithe atá i bpian mhíosta — coitianta, agus gnáthchuid den timthriall go minic.",
+      "overview": "Is í pian mhíosta an mothú crampála, pianmhar in íochtar an bhoilg a bhíonn ar go leor daoine timpeall a míostraithe. Tarlaíonn sé nuair a theannann balla matánach na broinne, agus is minic gur gnáthchuid den timthriall míosta é. Is é dysmenorrhoea an t-ainm leighis air.\n\nTagann sí de ghnáth ag tús do mhíostraithe, nó díreach roimhe, agus is gnách go maireann sí suas le thart ar thrí lá. Do dhaoine áirithe níl ann ach mothú beag troime; do dhaoine eile bíonn na crampaí níos láidre. Féadann an phian athrú freisin i rith do shaoil agus ó thimthriall go timthriall.\n\nTá pian mhíosta a leanann an patrún aithnidiúil seo coitianta agus soláimhsithe de ghnáth. Úsáideann go leor daoine bearta compoird laethúla agus pianmhúcháin shimplí, agus féadann cógaiseoir nó dochtúir teaghlaigh (GP) comhairle a thabhairt faoin rud a d'oirfeadh duit. Is é an rud atá tábhachtach ná do ghnáthphatrún féin a bheith ar eolas agat — ionas go dtabharfaidh tú faoi deara má athraíonn rud éigin.",
+      "deep": null,
+      "when_to_see_doctor": "Is fiú labhairt le dochtúir teaghlaigh (GP) sna cásanna seo:\n\n- éiríonn do mhíostruithe níos pianmhaire, níos troime, nó níos neamhrialta ná mar is gnách\n- cuireann an phian stop leat rudaí laethúla a dhéanamh, cosúil le hobair nó scoil\n- ní chabhraíonn gnáthphianmhúcháin\n- bíonn pian ort le linn gnéis, nó nuair a dhéanann tú mún nó cac\n- fuilíonn tú idir míostruithe\n- tagann do phian ag amanna eile seachas díreach roimh do mhíostrú nó lena linn\n- cuireann tú amach téachtáin fola atá níos mó ná bonn airgid (thart ar mhéid boinn mhóir)\n- tugann tú faoi deara freisin bolg ata, níos lú goile, nó meáchan á chailleadh agat nach féidir leat a mhíniú\n\nNí chiallaíonn siad seo go bhfuil rud éigin cearr, ach is fiú iad a bheith seiceáilte ag dochtúir — féadann cúiseanna a bheith le pian mhíosta atá nua, difriúil, nó deacair a bhainistiú ar féidir le cliniceoir cabhrú leo.",
+      "red_flags": "- Iarr coinne **phráinneach** le dochtúir teaghlaigh (GP), nó déan teagmháil le **dochtúir lasmuigh d'uaireanta**, má tá do phian mhíosta nó do phian pheilvise **dian, nó níos measa ná mar is gnách, agus nár chabhraigh pianmhúcháin.**"
+    },
+    "planning-pregnancy": {
+      "title": "Toircheas a phleanáil",
+      "aliases": [
+        "toircheas a phleanáil",
+        "réamhghiniúint",
+        "ag iarraidh éirí torrach",
+        "roimh thoircheas",
+        "ullmhú do thoircheas",
+        "planning pregnancy"
+      ],
+      "glance": "Tugann cúpla céim shimplí roimh ré — aigéad fólach, éirí as tobac agus as alcól — an tús is fearr do thoircheas.",
+      "overview": "Má tá tú ag smaoineamh ar iarracht a dhéanamh leanbh a bheith agat, féadann dornán céimeanna roimh ré tús níos sláintiúla a thabhairt do thoircheas — go leor acu ag obair ó sula n-éiríonn tú torrach fiú.\n\nNa príomhchinn: tosú ag glacadh **aigéad fólach** (agus vitimín D), **éirí as tobac**, agus **alcól a sheachaint**. Cabhraíonn sé freisin díriú ar mheáchan sláintiúil, mar féadann sé a bheith níos deacra éirí torrach má tá tú i bhfad faoi do mheáchan ceart nó i bhfad os a chionn. Is fiú freisin a chinntiú go bhfuil do **vacsaíniú MMR** cothrom le dáta, mar féadann ionfhabhtuithe áirithe dul i bhfeidhm ar thoircheas.\n\nNí gá d'aon chuid de seo a bheith foirfe ná strusmhar. Is iad athruithe beaga cineálta roimh ré atá tábhachtach — agus tá tús beag a fháil ar cheann de na rudaí is deise is féidir leat a dhéanamh do thoircheas amach anseo.",
+      "deep": null,
+      "when_to_see_doctor": "- Má tá **riocht sláinte fadtéarmach** ort nó má ghlacann tú **cógais go rialta**, téigh chuig do dhochtúir teaghlaigh (GP) sula dtosaíonn tú ag iarraidh — teastaíonn pleanáil i gcás riochtaí agus cógas áirithe. **Ná stop aon chógas ar oideas** gan labhairt le do dhochtúir ar dtús.\n- Féadann dochtúir teaghlaigh (GP) comhairle a thabhairt freisin faoi aigéad fólach (lena n-áirítear an bhfuil dáileog níos airde de dhíth ort) agus faoi mheáchan sláintiúil a bhaint amach roimh thoircheas.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Dúlagar iarbhreithe",
+      "aliases": [
+        "dúlagar iarbhreithe",
+        "dúlagar tar éis breithe",
+        "PND",
+        "baby blues",
+        "ísle brí tar éis breithe",
+        "postnatal depression"
+      ],
+      "glance": "Giúmar íseal coitianta, in-chóireáilte tar éis breithe atá i ndúlagar iarbhreithe — ní ortsa atá an locht, agus tá cabhair ar fáil.",
+      "overview": "Tá sé an-choitianta mothú in ísle brí, imníoch nó cantalach sa chéad chúpla seachtain tar éis breithe — tugtar an “baby blues” air seo go minic, agus imíonn sé uaidh féin de ghnáth laistigh de thart ar dhá sheachtain.\n\nTá dúlagar iarbhreithe difriúil: giúmar íseal atá níos doimhne nó a mhaireann níos faide. Riocht coitianta é, féadann sé tosú ag am ar bith sa chéad bhliain, agus féadann sé dul i bhfeidhm ar aithreacha agus ar pháirtithe freisin. I measc na gcomharthaí tá giúmar íseal leanúnach, deacracht taitneamh a bhaint as rud ar bith, deacracht codlata fiú nuair a bhíonn do leanbh ina chodladh, agus uaireanta mothúcháin dheacra faoi cheangal a chothú le do leanbh.\n\n**Ní** chiallaíonn sé gur tuismitheoir dona thú ná nach bhfuil grá agat do do leanbh má tá sé ort — tinneas atá ann, ní teip, agus freagraíonn sé go maith do thacaíocht agus do chóireáil. Rud láidir, cúramach é teagmháil a dhéanamh go luath, duit féin agus do do leanbh.",
+      "deep": null,
+      "when_to_see_doctor": "- Labhair le do **dhochtúir teaghlaigh (GP), le do chnáimhseach, nó leis an altra sláinte poiblí** má cheapann tú go bhféadfadh dúlagar iarbhreithe a bheith ort, nó mura bhfuil an “baby blues” imithe tar éis dhá sheachtain. Beidh sé feicthe go minic acu agus féadann siad cabhrú leat an tacaíocht cheart a fháil.",
+      "red_flags": "- Má bhíonn **smaointe agat tú féin nó do leanbh a ghortú**, nó go mbeadh do theaghlach níos fearr as gan tú, faigh cabhair **láithreach**: cuir glao ar **{{emergency}}** nó téigh chuig roinn éigeandála an ospidéil, nó cuir glao ar líne chabhrach géarchéime. Féadann na smaointe seo a bheith mar chuid den tinneas, ní hiad an duine atá ionat, agus tá cabhair phráinneach ar fáil."
+    },
+    "pre-eclampsia": {
+      "title": "Réamh-eclaimpse",
+      "aliases": [
+        "réamh-eclaimpse",
+        "réamheclaimpse",
+        "brú fola ard le linn toirchis",
+        "tocsaemia",
+        "pre-eclampsia"
+      ],
+      "glance": "Brú fola ardaithe le linn toirchis atá i réamh-eclaimpse — gan siomptóim go minic ar dtús, agus sin an fáth go bhfuil na seiceálacha réamhbhreithe tábhachtach.",
+      "overview": "Riocht toirchis é réamh-eclaimpse a léiríonn é féin go príomha mar bhrú fola ard, mar aon le próitéin san fhual. Is gnách go dtagann sé chun cinn ó thart ar 20 seachtain, agus uaireanta tar éis na breithe.\n\nCeann de na rudaí is tábhachtaí le fios a bheith agat ná nach mbíonn **aon siomptóim ar chor ar bith** leis go minic go luath — féadann tú mothú go breá ar fad. Sin go díreach an fáth a seiceálann do chnáimhseach do bhrú fola agus a ndéanann sí tástáil ar d'fhual ag gach coinne réamhbhreithe rialta: is trí na seiceálacha sin a aimsítear é de ghnáth sula dtabharfá aon rud faoi deara.\n\nNuair a thagann siomptóim, is fiú iad a bheith ar eolas agat, mar féadann réamh-eclaimpse éirí tromchúiseach duit féin agus do do leanbh. Féadtar é a chóireáil go maith nuair a aimsítear in am é, agus is é freastal ar do choinní réamhbhreithe an bealach is fearr ar fad chun é a aimsiú go luath.",
+      "deep": null,
+      "when_to_see_doctor": "- Freastail ar gach ceann de do **choinní réamhbhreithe rialta** — is trí sheiceálacha brú fola agus fuail a aimsítear réamh-eclaimpse de ghnáth sula dtosaíonn siomptóim.",
+      "red_flags": "Faigh cabhair leighis **láithreach** — déan teagmháil le d'aonad máithreachais nó le **dochtúir lasmuigh d'uaireanta** — má bhíonn aon cheann díobh seo agat (cuir glao ar **{{emergency}}** má tá tú an-tinn go dona, mar shampla taom/tritheamh):\n\n- **tinneas cinn dian** nach maolaíonn le gnáthphianmhúcháin\n- **fadhbanna radhairc** — radharc doiléir nó soilse ag splancadh\n- **at tobann** i d'aghaidh, i do lámha, nó i do chosa\n- **pian díreach faoi d'easnacha**\n- **urlacan**, nó mothú go tobann go bhfuil tú an-tinn"
+    },
+    "pregnancy": {
+      "title": "Toircheas",
+      "aliases": [
+        "toircheas",
+        "a bheith torrach",
+        "ag iompar clainne",
+        "ráithí",
+        "dáta breithe",
+        "cé mhéad seachtain atá mé",
+        "pregnancy"
+      ],
+      "glance": "Maireann toircheas thart ar 40 seachtain de ghnáth, á chomhaireamh ón gcéad lá de do mhíostrú deiridh.",
+      "overview": "Is é an toircheas an tréimhse a fhásann agus a iompraíonn do chorp leanbh. Maireann sé thart ar 40 seachtain de ghnáth — meastar gur toircheas iomlán gnáth é aon fhad ó 37 go 42 seachtain — agus, rud a chuireann iontas ar dhaoine b'fhéidir, comhairtear é ón gcéad lá de do **mhíostrú deiridh**, ní ón nginiúint. Níl ansin ach an gnáthbhealach a n-oibrítear amach na dátaí.\n\nMeastachán é do **dháta breithe**, ní spriocdháta: tagann leanaí go sona beagán níos luaithe nó níos déanaí. Go luath sa toircheas féadann “scanadh dátaithe” (timpeall 12 seachtain de ghnáth) do leanbh a thomhas agus dáta níos cruinne a thabhairt, rud a athraíonn an meastachán bunaidh uaireanta.\n\nIs minic a labhraítear faoin toircheas i dtrí chéim, nó **ráithí**, agus a hathruithe féin ag gach ceann acu. An bealach ar fad tríd, tugtar aire duit le seiceálacha réamhbhreithe rialta ó chnáimhseach (agus ó dhochtúir más gá) — an cúram a chabhraíonn le tú féin agus do leanbh a choinneáil go maith.",
+      "deep": "Toisc go gcomhairtear na dátaí ón míostrú deiridh, meastar go bhfuil tú thart ar cheithre seachtain torrach faoin am a chailltear míostrú. Is de réir líon seachtainí an toirchis a eagraítear an cúram — tairgtear scananna, scagthástáil agus seiceálacha ag seachtainí áirithe. Má bhíonn do mhíostruithe neamhrialta nó mura bhfuil tú cinnte faoi na dátaí, is é an scanadh dátaithe a shocraíonn an amlíne. Is é an t-alt seo léarscáil an turais ar fad; tá a n-alt féin ag na hábhair shonracha — comharthaí toirchis, cúram réamhbhreithe, fanacht folláin, agus saothar.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Tástáil toirchis",
+      "aliases": [
+        "tástáil toirchis",
+        "tástáil toirchis bhaile",
+        "tástáil hCG",
+        "tástáil le haghaidh toirchis",
+        "pregnancy test"
+      ],
+      "glance": "Seiceálann tástáil toirchis bhaile d'fhual don hormón toirchis hCG — tá sí is iontaofa ón gcéad mhíostrú a chailltear.",
+      "overview": "Oibríonn tástáil toirchis bhaile trí hormón ar a dtugtar hCG (gonadatróipin chóiriónach dhaonna) a bhrath i d'fhual. Tosaíonn do chorp á dhéanamh cúpla lá tar éis d'ubh thoirchithe ionchlannú, agus ardaíonn an méid go tapa go luath sa toircheas.\n\nTá an tástáil is iontaofa ón **gcéad lá de mhíostrú a chailltear** — thart ar dhá sheachtain tar éis na giniúna. Má tá do thimthriall neamhrialta nó mura bhfuil tú cinnte cathain atá do mhíostrú le teacht, tugann fanacht go dtí 21 lá ar a laghad tar éis gnéis gan chosaint toradh níos iontaofa. Ní gá duit tástáil a dhéanamh an chéad rud ar maidin; tá am ar bith den lá ceart go leor.\n\nIs beagnach cinnte go bhfuil toradh **dearfach** ceart — is fíorbheag tástálacha a thaispeánann toradh dearfach nuair nach bhfuil tú torrach. Tá toradh **diúltach** beagán níos lú cinnte: mura dtagann do mhíostrú fós agus má cheapann tú go bhféadfá a bheith torrach, fan cúpla lá agus déan tástáil arís.",
+      "deep": null,
+      "when_to_see_doctor": "- Má fhaigheann tú toradh dearfach, déan teagmháil le **cnáimhseach nó le dochtúir teaghlaigh (GP)** chun tús a chur le cúram réamhbhreithe.\n- Má bhíonn tástálacha diúltach ach nach bhfuil do mhíostrú tagtha agus go mbraitheann tú torrach (nó tinn), téigh chuig dochtúir teaghlaigh (GP) chun a fháil amach cad atá ag tarlú.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Saothar roimh am",
+      "aliases": [
+        "saothar roimh am",
+        "saothar réamhaibí",
+        "breith roimh am",
+        "breith réamhaibí",
+        "saothar luath",
+        "na huiscí ag briseadh go luath",
+        "premature labour"
+      ],
+      "glance": "Saothar roimh 37 seachtain atá i saothar roimh am — gníomhaigh go tapa, mar déanann cúram luath fíordhifríocht.",
+      "overview": "Is éard is saothar roimh am (nó réamhaibí) ann ná saothar a thosaíonn roimh an 37ú seachtain den toircheas. Tarlaíonn sé i dtimpeall 8 as 100 breith.\n\nBíonn leanaí a bheirtear go luath níos leochailí, ach éiríonn go maith le go leor acu — go háirithe leis an gcúram speisialtóra a chuireann aonaid nua-naíoch ar fáil. Is é an eochair gníomhú go tapa má cheapann tú go bhféadfadh sé a bheith ag tosú, ionas gur féidir measúnú a dhéanamh ort agus, más gá, cóireálacha a thabhairt duit a chabhraíonn leis an leanbh a chosaint.\n\nTá na comharthaí cosúil le saothar ag céim ar bith, ach roimh 37 seachtain níor cheart fanacht riamh go n-imeoidh siad — is cúis iad i gcónaí chun teagmháil a dhéanamh láithreach.",
+      "deep": null,
+      "when_to_see_doctor": "- Cuir glao ar do **chnáimhseach nó ar an aonad máithreachais** ag am ar bith agus tú **faoi 37 seachtain** agus in amhras nó buartha — bíonn sé ceart go leor i gcónaí seiceáil.",
+      "red_flags": "Déan teagmháil le do **chnáimhseach nó leis an aonad máithreachais láithreach** — de lá nó d'oíche — má bhíonn aon cheann díobh seo agat **roimh 37 seachtain**:\n\n- **crapthaí nó teannadh** rialta sa bholg, nó pianta cosúil le pianta míosta\n- **rith tobann nó sruthlín sreabháin** ón bhfaighin (na huiscí ag briseadh)\n- **pian droma** nach gnáth duit, nó mothú brú in íochtar na peilvise"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (siondróm réamh-mhíostraithe)",
+      "aliases": [
+        "PMS",
+        "siondróm réamh-mhíostraithe",
+        "teannas réamh-mhíostraithe",
+        "PMT",
+        "PMDD",
+        "neamhord dísfhoiriach réamh-mhíostraithe",
+        "premenstrual syndrome"
+      ],
+      "glance": "Meascán d'athruithe fisiceacha agus mothúchánacha atá i PMS, a thugann go leor daoine faoi deara sa tseachtain nó sa dá sheachtain roimh mhíostrú.",
+      "overview": "Is é PMS — siondróm réamh-mhíostraithe — an t-ainm ar na hathruithe a mhothaíonn go leor daoine sna laethanta nó sa chúpla seachtain roimh a míostrú. Féadann sé dul i bhfeidhm ar aon duine a bhfuil míostruithe acu, agus maolaíonn sé de ghnáth laistigh de chúpla lá tar éis don mhíostrú tosú.\n\nTagann na hathruithe i go leor foirmeacha. Go fisiceach, b'fhéidir go dtabharfá faoi deara bolg ata, cíocha tinne nó goirte, crampaí, tinneas cinn, nó mothú níos tuirsí. Go mothúchánach, d'fhéadfadh luascáin ghiúmair, cantal, imní, nó mothú in ísle brí a bheith ann. Tá dúil i mbianna áirithe agus athruithe codlata coitianta freisin. Ní bhíonn PMS ar gach duine, agus ní bhíonn gach siomptóm orthu siúd a mbíonn sé orthu — do phatrún féin atá tábhachtach.\n\nGnáthchuid aitheanta de thimthriallta go leor daoine é PMS, ceangailte le hathruithe nádúrtha hormónacha an dara leath. Má thugann tú faoi deara an chaoi a léiríonn sé é féin duitse, ó thimthriall go timthriall, féadann sé a bheith níos éasca pleanáil timpeall air — agus a thabhairt faoi deara má athraíonn sé riamh.",
+      "deep": null,
+      "when_to_see_doctor": "Is fiú labhairt le dochtúir teaghlaigh (GP) sna cásanna seo:\n\n- tá do shiomptóim ag cur isteach ar do shaol laethúil — obair, staidéar, caidrimh\n- níor chabhraigh athruithe laethúla ar do ghnáthamh\n- braitheann do ghiúmar íseal, d'imní, nó do chantal dian\n\nFéadann cliniceoir labhairt leat faoina bhféadfadh cabhrú. Féadann foirm níos déine, ar a dtugtar neamhord dísfhoiriach réamh-mhíostraithe (PMDD), siomptóim giúmair i bhfad níos láidre a chur faoi deara, agus tá tacaíocht ar fáil dó.",
+      "red_flags": "- Má tá siomptóim PMDD ort agus **má bhíonn smaointe féinmharaithe agat nó má bhraitheann tú go bhfuil baol ann go ndéanfá dochar duit féin**, faigh cabhair láithreach: **cuir glao ar {{emergency}} nó téigh chuig roinn éigeandála an ospidéil.** Ná tiomáin tú féin — iarr ar dhuine tú a thabhairt ann, nó iarr otharcharr. Tá tacaíocht tuillte agat, agus tá cabhair ar fáil."
+    },
+    "progesterone": {
+      "title": "Progeistéarón",
+      "aliases": [
+        "progeistéarón",
+        "progesterone",
+        "hormón progeistéaróin",
+        "hormón an dara leath"
+      ],
+      "glance": "Hormón an dara leath den timthriall é progeistéarón, a ullmhaíonn líneáil na broinne tar éis an ubhsceite.",
+      "overview": "Tá progeistéarón ar cheann de na príomhhormóin atá taobh thiar den timthriall míosta, agus bíonn sé i gceannas sa dara leath — tar éis d'ubh a bheith scaoilte ag an ubhsceitheadh.\n\nIs é a phríomhról cabhrú le líneáil an útarais (na broinne) fanacht tiubh agus réidh, ionas gur féidir le hubh thoirchithe, má thagann sí, ionchlannú agus gur féidir le toircheas tosú. Ar an mbealach seo oibríonn progeistéarón mar pháirtí le hestrigin, a rinne cuid mhór den tógáil níos luaithe sa timthriall.\n\nMura dtosaíonn toircheas, titeann leibhéil progeistéaróin. Is é an titim sin a ligeann don líneáil a bheith caite mar do chéad mhíostrú eile. Rithim ghnáth, intuartha é ardú agus titim progeistéaróin ar fud an dara leath den timthriall.",
+      "deep": "Is é an corpus luteum a tháirgeann progeistéarón den chuid is mó — an struchtúr a dhéanann an t-ubhagán ón bhfalacal tar éis dó a ubh a scaoileadh. Sin an fáth a n-ardaíonn progeistéarón go sonrach sa chéim lúitéach (tar éis an ubhsceite). Nuair a bhriseann an corpus luteum síos, titeann progeistéarón agus estrigin araon, rud a thugann comhartha go bhfuil timthriall nua ag tosú. Tá a athruithe nádúrtha ar chuid den fháth a dtugann daoine áirithe athruithe réamh-mhíostraithe faoi deara sna laethanta roimh mhíostrú.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "An piolla progeistigine amháin (an mionphiolla)",
+      "aliases": [
+        "piolla progeistigine amháin",
+        "mionphiolla",
+        "POP",
+        "piolla progeistéaróin amháin",
+        "piolla desogestrel",
+        "mini pill"
+      ],
+      "glance": "Piolla laethúil é an mionphiolla le hormón amháin a dhéanann an múcas ceirbheacsach níos tiubha chun bac a chur ar speirm.",
+      "overview": "Táibléad laethúil é an piolla progeistigine amháin — ar a dtugtar an mionphiolla go minic — nach bhfuil ann ach hormón amháin, progeistigin. Rogha é do dhaoine nach féidir leo estrigin a ghlacadh nó arbh fhearr leo gan í a ghlacadh.\n\nIs é a phríomhghníomh an múcas ag muineál na broinne a dhéanamh níos tiubha, ionas go mbíonn sé níos deacra don speirm ubh a bhaint amach. Cuireann cineál coitianta amháin, an piolla desogestrel, stop freisin leis na hubhagáin ó ubh a scaoileadh (ubhsceitheadh).\n\nNuair a ghlactar i gceart é, tá sé níos mó ná 99% éifeachtach; le gnáthúsáid laethúil tá sé thart ar 91%. Mar is amhlaidh le piollaí eile, tá an t-am tábhachtach, agus ní chosnaíonn sé ar STIanna.",
+      "deep": "Tá an mionphiolla difriúil ón bpiolla comhcheangailte sa mhéid nach bhfuil aon estrigin ann, rud a athraíonn cé dó a bhféadfadh sé oiriúint — rud a mheánn cliniceoir nuair a ordaítear é. Caithfear cineálacha áirithe a ghlacadh laistigh de thréimhse laethúil sách cúng chun fanacht éifeachtach. Clúdaíonn an t-alt seo cad é agus conas a oibríonn sé; is ábhair iad do dhochtúir teaghlaigh (GP), d'altra nó do chógaiseoir conas é a ghlacadh agus an bhfuil sé ceart duitse.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Caidreamh maslach a aithint",
+      "aliases": [
+        "mí-úsáid a aithint",
+        "caidreamh maslach",
+        "mí-úsáid bhaile",
+        "foréigean ó pháirtí",
+        "comharthaí mí-úsáide",
+        "an bhfuil mí-úsáid á déanamh orm",
+        "domestic abuse"
+      ],
+      "glance": "Féadann mí-úsáid a bheith fisiceach, gnéasach, mothúchánach nó rialaitheach — agus ní ar an duine a fhulaingíonn í a bhíonn an locht riamh.",
+      "overview": "Ní bhíonn mí-úsáid i gcaidreamh fisiceach amháin. Féadann sí roinnt foirmeacha a ghlacadh, le chéile go minic: dochar fisiceach, comhéigean gnéasach, dochar mothúchánach nó síceolaíoch, agus iompar rialaithe — páirtí a shocraíonn cá dtéann tú, cé a fheiceann tú, nó cad is féidir leat a dhéanamh. Féadann aon cheann díobh seo a bheith ina mhí-úsáid, fiú nuair nach bhfuil aon ghortú le feiceáil.\n\nTá sí níos coitianta ná mar a thuigeann go leor daoine. Ar fud an domhain, fulaingíonn thart ar 1 bhean as gach 3 foréigean fisiceach nó gnéasach le linn a saoil, ó pháirtí den chuid is mó; is cosúil an scéal san Iodáil. Mar sin má tá sé seo mar chuid de do shaol, níl tú i d'aonar, agus ní tusa ba chúis leis.\n\nFéadann sé a bheith deacair ainm a chur air — is minic a bhíonn mí-úsáid measctha le hamanna maithe, le leithscéalta, nó le geallúintí athrú, agus féadann sí fás chomh mall sin go mbraitheann sí gnáth. Cúis bhailí é muinín a bheith agat as do mhothú féin go bhfuil rud éigin mícheart chun teagmháil a dhéanamh. Ní gá duit a bheith cinnte, ná fanacht go n-éireoidh sé “dona go leor”, chun labhairt le duine éigin.",
+      "deep": "Faoi bhun na bhfoirmeacha éagsúla, is gnách go leanann mí-úsáid patrún ina bhfuil duine amháin ag lorg cumhachta agus smachta ar dhuine eile, agus féadann sí dul in olcas le himeacht ama. Imríonn sí dochar mór ar an tsláinte — tá baint aici le himní, dúlagar, deacracht codlata, agus éifeachtaí fisiceacha fadtéarmacha. Ní chiallaíonn aon chuid de sin go bhfuil tú lag nó gur ort atá an locht; ciallaíonn sé go bhfuil an rud a bhfuil tú ag maireachtáil leis díobhálach, agus go bhfuil tacaíocht ann chun cabhrú leat smaoineamh air go sábháilte agus ar do luas féin.",
+      "when_to_see_doctor": "- Féadann tú labhairt le duine éigin faoi rún aon uair a bheidh tú réidh — dochtúir teaghlaigh (GP) nó altra, ionad frithfhoréigin, nó líne chabhrach (san Iodáil, **1522**, saor in aisce agus ag am ar bith). Ní gá duit cruthúnas, plean ná cinneadh a bheith agat ar dtús; bíonn siad ann chun éisteacht agus chun cabhrú leat do roghanna a thuiscint.\n- Féadann gairmí sláinte aon ghortuithe a chóireáil freisin agus tú a chur i dteagmháil go ciúin le tacaíocht speisialtóra.",
+      "red_flags": "- Má tá tú i **mbaol láithreach**, déan teagmháil leis na seirbhísí éigeandála anois: **112** san AE (an Iodáil san áireamh), **999** sa Ríocht Aontaithe, **911** sna Stáit Aontaithe agus i gCeanada.\n- San Iodáil, tá **1522** — an líne chabhrach náisiúnta saor in aisce in aghaidh foréigin agus stalcaireachta — ar fáil 24 uair an chloig sa lá, gan ainm, ar an bhfón nó trí chomhrá ar líne, i roinnt teangacha."
+    },
+    "respect-not-control": {
+      "title": "Meas, ní smacht",
+      "aliases": [
+        "iompar rialaithe",
+        "rialú comhéigneach",
+        "caidreamh sláintiúil",
+        "comharthaí rabhaidh",
+        "cá bhfaighfear cabhair",
+        "mí-úsáid",
+        "controlling behaviour"
+      ],
+      "glance": "Tógtar grá ar mheas agus ar shaoirse — ní grá é smacht, éad ná brú, agus tá cabhair ann.",
+      "overview": "Tá caidreamh sláintiúil bunaithe ar mheas, ar mhuinín, ar chomhionannas agus ar shaoirse: beirt a choinníonn a gcairdeas, a roghanna agus a spás féin. Is é an smacht a mhalairt. Is minic a cheiltear é taobh thiar d'fhocail cosúil le grá nó éad — “Seiceálaim d'fhón mar go bhfuil cúram agam díot”, “Níl mé ag iarraidh go bhfeicfeá iad mar go bhfuil grá agam duit” — ach is é a thionchar a saol agus a saoirse a chúngú.\n\nIs annamh a thosaíonn smacht le foréigean. Tosaíonn sé beag de ghnáth — cáineadh, teorainn a sáraítear, “magadh” a ghortaíonn — agus fásann sé. Tá sé tábhachtach ainm a chur air go luath, mar is cineál mí-úsáide ann féin é an rialú comhéigneach agus comhartha rabhaidh ar rud níos measa. Ní bhaineann sé seo le ciontacht; baineann sé le macántacht agus le hathrú.",
+      "deep": "**Má aithníonn tú cuid de na rudaí seo ionat féin, pointe tosaigh í an fheasacht sin — ní príosúnacht saoil.** Féadann daoine athrú le fíoriarracht agus leis an gcabhair cheart. Comhartha nirt, ní laige, é teagmháil a dhéanamh le clár tiomnaithe d'fhir atá ag iarraidh stop a chur le hiompar rialaithe nó foréigneach. Labhair le gairmí, le dochtúir, nó le seirbhís athraithe iompair d'fhir.\n\nMás **ise** atá i mbaol, nó má tá imní ort faoi dhuine éigin, spreag í agus tacaigh léi cabhair a fháil — ar a téarmaí féin, gan riamh smacht a ghlacadh ar an scéal.\n\n**Cá bhfaighfear cabhair**\n- I gcás éigeandála, nó má tá duine ar bith i mbaol láithreach, glaoigh ar d'uimhir éigeandála áitiúil (**112** san Iodáil agus i gcuid mhór den Eoraip; **911** sna Stáit Aontaithe).\n- **An Iodáil — 1522**: an líne chabhrach náisiúnta in aghaidh foréigin agus stalcaireachta. Saor in aisce, 24/7, gan ainm, agus ilteangach, á reáchtáil ag an Roinn Comhdheiseanna. Treoraíonn sí daoine freisin chuig ionaid frithfhoréigin áitiúla (centri antiviolenza).\n- Tairgeann ionaid frithfhoréigin agus cláir athraithe iompair d'fhir (san Iodáil, “centri per uomini autori di violenza”) tacaíocht faoi rún chun athrú.",
+      "when_to_see_doctor": null,
+      "red_flags": "Comharthaí rabhaidh d'iompar rialaithe nó maslach — is fiú iad a ghlacadh dáiríre ionat féin nó i gcaidreamh:\n\n- **Faire nó aonrú**: a fón a sheiceáil, a suíomh a rianú, nó í a scoitheadh ó chairde agus ó theaghlach.\n- **Smacht ar roghanna**: airgead, a gcaitheann sí, cá dtéann sí, cé a fheiceann sí.\n- **Éad á chur i láthair mar ghrá**, líomhaintí de shíor, nó gá le fios a bheith agat cá bhfuil sí i gcónaí.\n- **Maslaí, milleán, nó í a chur ag mothú eaglach**, ciontach, nó amhail is go bhfuil sí “ag siúl ar bhlaoscanna uibhe”.\n- **Brú nó bagairtí** faoi ghnéas, faoi scaradh, nó faoi fhéindochar chun go ngéillfidh sí.\n- **Aon fhórsa fisiceach, imeaglú, nó eagla.** Má tá sé seo i láthair, mí-úsáid atá ann — téigh i dteagmháil leis an gcabhair thuas. Níl leithscéal ann riamh, agus ní uirthi atá an locht riamh."
+    },
+    "safety-plan": {
+      "title": "Plean sábháilteachta a dhéanamh",
+      "aliases": [
+        "plean sábháilteachta",
+        "fanacht slán",
+        "coinneáil slán",
+        "pleanáil sábháilteachta",
+        "imeacht go sábháilte",
+        "safety plan"
+      ],
+      "glance": "Cúpla céim phraiticiúil atá i bplean sábháilteachta chun cabhrú leat fanacht níos sábháilte — agus féadann seirbhísí oilte cabhrú leat ceann a dhéanamh.",
+      "overview": "Níl i bplean sábháilteachta ach smaoineamh roimh ré ar conas tú féin (agus aon leanaí) a choinneáil níos sábháilte. Ní cinneadh é imeacht nó fanacht — baineann sé le bheith beagán níos ullmhaithe, cibé rogha a dhéanann tú.\n\nDo dhaoine áirithe cabhraíonn sé cúpla rud a bheith réidh go ciúin: duine iontaofa a bhfuil a fhios aige nó aici cad atá ag tarlú, cáipéisí agus uimhreacha tábhachtacha áit ar féidir leat teacht orthu, mála beag riachtanas, tuiscint ar na bealaí is sábháilte amach as an teach, nó focal nó comhartha a insíonn do dhuine go dteastaíonn cabhair uait. Braitheann an méid a bhfuil ciall leis go hiomlán ar do chás féin.\n\nNí gá duit é seo a oibriú amach i d'aonar, agus is minic gur sábháilte gan é a dhéanamh i d'aonar. Tá taithí ag seirbhísí frithfhoréigin ar phleananna sábháilteachta a dhéanamh le daoine, faoi rún agus saor in aisce — lena n-áirítear don tréimhse timpeall imeachta, ar féidir léi a bheith ina tráth níos contúirtí agus ar fiú í a phleanáil le tacaíocht seachas faoi dheifir.",
+      "deep": null,
+      "when_to_see_doctor": "- Déan teagmháil le hionad frithfhoréigin nó le líne chabhrach (san Iodáil, **1522**) chun plean a dhéanamh a oireann do do chás — déanann siad é seo gach lá, faoi rún, agus féadann siad cabhrú le céimeanna praiticiúla, dlíthiúla agus mothúchánacha.\n- Má tá taifead de chineál ar bith á choinneáil agat ar a bhfuil ag tarlú, coinnigh é in áit phríobháideach shábháilte.",
+      "red_flags": "- Má tá tú i **mbaol láithreach**, déan teagmháil leis na seirbhísí éigeandála anois: **112** san AE (an Iodáil san áireamh), **999** sa Ríocht Aontaithe, **911** sna Stáit Aontaithe agus i gCeanada.\n- San Iodáil, féadann **1522** — saor in aisce, 24 uair an chloig sa lá, gan ainm, ilteangach — cabhrú ar an bhfón nó trí chomhrá ar líne, lena n-áirítear le pleanáil sábháilteachta phráinneach."
+    },
+    "sex-during-your-period": {
+      "title": "Gnéas le linn do mhíostraithe",
+      "aliases": [
+        "gnéas le linn míostraithe",
+        "gnéas agus mé ar mo mhíostrú",
+        "gnéas le linn na fola míosta",
+        "an féidir liom éirí torrach le linn mo mhíostraithe",
+        "torrach le linn míostraithe",
+        "period sex"
+      ],
+      "glance": "Tá gnéas le linn do mhíostraithe ceart go leor má tá sibh beirt ag iarraidh é, ach féadann tú éirí torrach fós nó galar gnéas-tarchurtha a tholgadh nó a scaipeadh.",
+      "overview": "Rogha phearsanta é gnéas a bheith agat le linn do mhíostraithe. Má tá sibh beirt ag iarraidh é agus compordach leis, tá sé ceart go leor, agus níl aon rud mícheart nó neamhghnách faoi. Braitheann daoine áirithe níos íogaire nó níl fonn orthu ag an am seo, agus baineann daoine eile taitneamh as. Is é éisteacht le do chorp agus labhairt go hoscailte le do pháirtí an rud is tábhachtaí.\n\nAch ní oibríonn míostrú mar fhrithghiniúint. Tá an seans go n-éireoidh tú torrach níos ísle ná timpeall an ubhsceite, ach níl sé nialasach. Féadann speirm maireachtáil taobh istigh den chorp ar feadh suas le 7 lá tar éis gnéis, mar sin má tharlaíonn ubhsceitheadh go luath, rud is dóichí le timthriall níos giorra, d'fhéadfadh speirm ó ghnéas le linn do mhíostraithe nó díreach ina dhiaidh teacht ar ubh fós. Mura bhfuil tú ag iarraidh éirí torrach, tá do ghnáthfhrithghiniúint fós tábhachtach ar na laethanta seo.\n\nNí chosnaíonn míostrú ar ghalair ghnéas-tarchurtha (STIanna) ach oiread. Féadann ionfhabhtuithe dul ó pháirtí go páirtí le linn gnéis gan choiscín, agus féadann na frídíní is cúis leo a bheith san fhuil chomh maith le sreabháin eile an choirp. Is iad coiscíní an modh a laghdaíonn baol STIanna freisin, VEID (HIV) san áireamh, mar sin is fiú iad a úsáid cibé am den mhí atá ann.",
+      "deep": null,
+      "when_to_see_doctor": "- Má bhí gnéas agat **gan frithghiniúint**, nó má d'fhéadfadh d'fhrithghiniúint a bheith tar éis teip, agus mura bhfuil tú ag iarraidh éirí torrach, labhair le cógaiseoir, le dochtúir teaghlaigh (GP) nó le clinic sláinte gnéis **a luaithe is féidir** faoi fhrithghiniúint éigeandála. Caithfear í a úsáid laistigh de chúpla lá, agus is gnách gur fearr a oibríonn sí dá luaithe a úsáidtear í.\n- Faigh cabhair ó chógaiseoir, ó chlinic sláinte gnéis nó ó dhochtúir teaghlaigh (GP) má **réabann coiscín nó má thagann sé de** le linn gnéis. B'fhéidir go mbeidh frithghiniúint éigeandála nó tástáil STI de dhíth ort.\n- Téigh chuig dochtúir teaghlaigh (GP) nó chuig clinic sláinte gnéis má thugann tú faoi deara **fuiliú tar éis gnéis nuair nach bhfuil tú ar do mhíostrú**. De ghnáth ní bhíonn sé tromchúiseach, ach is fiú i gcónaí é a bheith seiceáilte ag dochtúir.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Gnéas le linn toirchis",
+      "aliases": [
+        "gnéas le linn toirchis",
+        "gnéas agus mé torrach",
+        "an bhfuil gnéas sábháilte le linn toirchis",
+        "dlúthchaidreamh le linn toirchis",
+        "orgasam le linn toirchis",
+        "sex in pregnancy"
+      ],
+      "glance": "Tá gnéas sábháilte i bhformhór na dtoircheas agus ní ghortóidh sé an leanbh, ach amháin má thug do chnáimhseach nó do dhochtúir comhairle a mhalairt duit.",
+      "overview": "Do fhormhór na ndaoine, tá gnéas le linn toirchis sábháilte, ach amháin má dúirt do chnáimhseach nó do dhochtúir leat gan é a dhéanamh. Tá an leanbh cosanta go maith taobh istigh den bhroinn, agus ní dhéanfaidh gnéas dochar dó.\n\nB'fhéidir go gcomhairleofaí duit gnéas le treá a sheachaint i gcúpla cás: má tá **slánú íseal agat (placenta praevia)**, mar gheall ar an mbaol fuilithe; má tá **na huiscí briste**, mar gheall ar an mbaol ionfhabhtaithe; nó má bhí **roinnt breitheanna anabaí** agat.\n\nIs minic a athraíonn an dúil le linn toirchis — bíonn fonn níos mó gnéis ar dhaoine áirithe, níos lú ar dhaoine eile, agus gan fonn ar bith ar feadh tamaill ar dhaoine eile fós — agus bíonn baint ag hormóin, athruithe coirp, tuirse, tinneas agus imní leis. Is gnáth é seo ar fad. Mura bhfuil fonn gnéis ort, bealaí eile iad pógadh, barróga agus suathaireacht chun fanacht gar dá chéile.\n\nDe réir mar a fhásann do bholg, éiríonn roinnt suíomhanna míchompordach; is minic gur fusa suíomhanna taobh le taobh. Féadann hormóin an fhaighin a dhéanamh níos tirime, agus féadann bealaitheoir uisce-bhunaithe cabhrú.\n\nGo déanach sa toircheas, féadann gnéas nó orgasam crapthaí Braxton Hicks a spreagadh, nuair a éiríonn an bhroinn crua ar feadh tamaill. Is gnáth é sin agus ní tús an tsaothair é — agus níl aon fhianaise ann go spreagann gnéas an saothar.\n\nMá d'fhéadfadh galar gnéas-tarchurtha a bheith ar dhuine agaibh, úsáid coiscín, gnéas béil san áireamh: féadann ionfhabhtú gan chóireáil dochar mór a dhéanamh duit féin agus don leanbh. Seachain gnéas béil má tá cneá fuachta ar bhéal duine agaibh, mar féadann an víreas dul chuig an leanbh.",
+      "deep": null,
+      "when_to_see_doctor": "- Labhair le do **chnáimhseach nó le do dhochtúir** mura bhfuil tú cinnte go bhfuil gnéas sábháilte duit, nó má tá imní faoi ghnéas nó faoi do chaidreamh ag cur isteach ort.\n- Má bhíonn **aon fhuiliú** agat le linn toirchis, bíodh sé seiceáilte ag dochtúir sula mbíonn gnéas agat arís — déan teagmháil le do chnáimhseach, le do dhochtúir nó leis an aonad máithreachais.\n- Téigh chuig **clinic sláinte gnéis** má d'fhéadfadh STI a bheith ort féin nó ar do pháirtí.",
+      "red_flags": "- Déan teagmháil le d'**aonad máithreachais** láithreach má cheapann tú go bhfuil **na huiscí briste**, agus ná bíodh gnéas agat go dtí go bhfeicfear thú.\n- Cuir glao ar **{{emergency}} nó téigh chuig roinn éigeandála an ospidéil** má bhíonn **fuiliú trom** agat, go háirithe le **pian dhian sa bholg** nó má bhraitheann tú go bhfuil tú ar tí titim i laige."
+    },
+    "sexual-violence": {
+      "title": "Foréigean gnéasach agus toiliú",
+      "aliases": [
+        "foréigean gnéasach",
+        "ionsaí gnéasach",
+        "éigniú",
+        "toiliú",
+        "mí-úsáid ghnéasach",
+        "gan toiliú",
+        "sexual assault"
+      ],
+      "glance": "Aon ghníomh gnéasach gan toiliú atá i bhforéigean gnéasach — agus ní ar an duine a d'fhulaing é a bhíonn an locht riamh.",
+      "overview": "Ciallaíonn foréigean gnéasach aon ghníomh gnéasach, nó iarracht ceann a fháil, gan toiliú nó trí chomhéigean. Áirítear leis éigniú agus aon teagmháil ghnéasach nach bhfuil ag teastáil, agus féadann duine ar bith é a dhéanamh — strainséir, duine aitheantais, nó páirtí nó céile.\n\nTá an toiliú i gcroílár an scéil. Ciallaíonn toiliú aontú go saor, agus ní féidir é nuair a bhíonn duine ina chodladh, gan aithne, ólta nó faoi thionchar drugaí, ina leanbh, nó faoi bhrú, faoi bhagairt, nó faoi eagla. Féadtar é a tharraingt siar ag pointe ar bith. Dá bhrí sin, ní ar an duine ar tharla sé dó a bhíonn an locht **riamh** i gcás foréigin ghnéasaigh — ní mar gheall ar a raibh á chaitheamh aige nó aici, cé acu an raibh sé nó sí ag ól, cé acu ar reoigh sé nó sí seachas troid, ná cé acu an raibh aithne aige nó aici ar an duine.\n\nMá tharla sé seo duitse, tá tacaíocht ann, cibé acu le déanaí nó i bhfad ó shin a tharla sé. Creidtear thú, agus is fútsa atá an rud a dhéanfaidh tú ina dhiaidh seo.",
+      "deep": null,
+      "when_to_see_doctor": "- Féadann tú dul chuig **seirbhís sláinte, ospidéal, nó seirbhís speisialaithe um ionsaí gnéasach**, ar féidir leo aire a thabhairt duit, aon ghortuithe a chóireáil, agus — más mian leat — cabhrú le tuairisciú agus le fianaise a choinneáil.\n- Tá **teorainn ama** le roinnt céimeanna sláinte — mar shampla frithghiniúint éigeandála, nó ionfhabhtú a chosc — mar sin féadann sé cabhrú teagmháil a dhéanamh **go luath**. Ach níl aon teorainn ama le tacaíocht a fháil, agus is fútsa i gcónaí atá sé an dtuairisceoidh tú é.",
+      "red_flags": "- Má tá tú i **mbaol láithreach**, déan teagmháil leis na seirbhísí éigeandála anois: **112** san AE (an Iodáil san áireamh), **999** sa Ríocht Aontaithe, **911** sna Stáit Aontaithe agus i gCeanada.\n- Tar éis ionsaí le déanaí, **féadann ospidéal nó seirbhís speisialaithe cabhrú go práinneach**. San Iodáil, féadann **1522** (saor in aisce, 24/7, gan ainm, ilteangach — fón nó comhrá) tú a threorú chuig an gcúram ceart."
+    },
+    "signs-of-labour": {
+      "title": "Comharthaí saothair",
+      "aliases": [
+        "comharthaí saothair",
+        "saothar",
+        "dul i saothar",
+        "crapthaí",
+        "na huiscí ag briseadh",
+        "an show",
+        "céim fholaigh",
+        "signs of labour"
+      ],
+      "glance": "I measc na gcomharthaí go bhfuil an saothar ag tosú tá crapthaí rialta, an “show”, pian droma, nó na huiscí ag briseadh.",
+      "overview": "Tá cúpla comhartha ann go bhféadfadh an saothar a bheith ag tosú. Is é an príomhcheann crapthaí — teannadh trasna do bhoilg a thagann go rialta agus a éiríonn níos láidre. I measc na gcinn eile tá an “show” (an stopallán múcais ó do cheirbheacs ag teacht amach), pian droma leanúnach, gá le dul go dtí an leithreas, agus na huiscí ag briseadh.\n\nRoimh an saothar gníomhach is minic a bhíonn céim luath (“fholaigh”), nuair a bhogann an ceirbheacs agus a thosaíonn sé ag oscailt. Féadann an chuid seo uaireanta nó fiú laethanta a thógáil, agus do go leor daoine tá sé ceart go leor fanacht compordach sa bhaile lena linn, ag scíth agus ag ól go leor.\n\nTosaíonn saothar gach duine beagán difriúil, mar sin ní gá duit tic a chur le gach comhartha. Nuair a cheapann tú go bhfuil rudaí ag tosú, tá do chnáimhseach nó an t-aonad máithreachais ann chun treoir a thabhairt duit faoina bhfuil le déanamh agus cathain ba cheart duit teacht isteach.",
+      "deep": null,
+      "when_to_see_doctor": "- Cuir glao ar do **chnáimhseach nó ar an aonad máithreachais** chun treoir a fháil nuair a cheapann tú go bhfuil an saothar tosaithe, nó nuair a bhíonn na crapthaí **rialta — thart ar gach 5 nóiméad**. Mura féidir leat teacht ar do chnáimhseach, cuir glao ar an ospidéal ina bhfuil sé beartaithe agat do leanbh a bheith agat.",
+      "red_flags": "Cuir glao ar do **chnáimhseach nó ar an aonad máithreachais láithreach** — de lá nó d'oíche, ná fan — sna cásanna seo:\n\n- **briseann na huiscí** (go háirithe má tá an sreabhán glas, donn, nó bréan)\n- bíonn **aon fhuiliú faighne** agat\n- tá **do leanbh ag bogadh níos lú ná mar is gnách**\n- tá comharthaí saothair agat agus tá tú **faoi 37 seachtain torrach**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Comharthaí toirchis",
+      "aliases": [
+        "comharthaí toirchis",
+        "siomptóim luatha toirchis",
+        "an bhfuil mé torrach",
+        "siomptóim toirchis",
+        "signs of pregnancy"
+      ],
+      "glance": "Is minic gurb é míostrú a chailltear an chéad chomhartha toirchis, uaireanta in éineacht le masmas, tuirse nó cíocha tinne.",
+      "overview": "Do go leor daoine is é **míostrú a chailltear** an chéad leid ar thoircheas. Ach bíonn coirp éagsúil, agus tugann daoine áirithe comharthaí luatha eile faoi deara ar dtús — go minic timpeall seachtain 4 go 6.\n\nI measc na gcomharthaí luatha coitianta tá masmas nó urlacan (ag am ar bith den lá, ní ar maidin amháin), cíocha a bhraitheann níos mó nó tinn, mothú an-tuirseach, agus gá le mún níos minice. Tugann daoine áirithe faoi deara freisin blas miotalach, íogaireacht nua do bholaithe áirithe, nó déistin le bianna a thaitníonn leo de ghnáth.\n\nNí chiallaíonn aon cheann díobh seo leis féin go bhfuil tú torrach cinnte — forluíonn go leor acu le gnáth-athruithe an timthrialla — agus ní fhaigheann gach duine iad. Is é tástáil toirchis an bealach le fios a bheith agat go cinnte.",
+      "deep": null,
+      "when_to_see_doctor": "- Má bhíonn tástáil dearfach, déan teagmháil le **cnáimhseach nó le dochtúir teaghlaigh (GP)** chun tús a chur le do chúram toirchis (réamhbhreithe) go luath.\n- Má tá do mhíostrú déanach agus má bhíonn tástálacha diúltach ach go leanann siomptóim ar aghaidh, is fiú dul i gcomhairle le dochtúir teaghlaigh (GP) chun féachaint cad eile a d'fhéadfadh a bheith ag tarlú.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Tobac le linn toirchis",
+      "aliases": [
+        "tobac le linn toirchis",
+        "éirí as tobac le linn toirchis",
+        "éirí as caitheamh tobac agus mé torrach",
+        "galú le linn toirchis",
+        "smoking in pregnancy"
+      ],
+      "glance": "Ceann de na rudaí is fearr is féidir leat a dhéanamh do do leanbh é éirí as tobac — agus ní bhíonn sé ródhéanach riamh.",
+      "overview": "Ceann de na rudaí is cumhachtaí is féidir leat a dhéanamh chun tús sláintiúil a thabhairt do do leanbh é éirí as tobac. Cuireann gach toitín srian leis an ocsaigin a fhaigheann do leanbh, rud a chuireann ar a chroí oibriú níos crua agus a d'fhéadfadh a fhás a mhoilliú.\n\nMéadaíonn caitheamh tobac le linn toirchis an baol fadhbanna tromchúiseacha, lena n-áirítear breith anabaí, breith roimh am, meáchan íseal breithe, marbhbhreith, agus bás tobann naíonáin (SIDS) tar éis na breithe. Tá deatach athláimhe tábhachtach freisin, mar sin cabhraíonn teach gan deatach.\n\nAn chuid spreagúil: **ní bhíonn sé ródhéanach riamh**. Cabhraíonn éirí as ag pointe ar bith sa toircheas, agus is mó an tairbhe má éiríonn tú as go luath. Féadann sé a bheith fíordheacair, agus sin go díreach an fáth go bhfuil cabhair saor in aisce ar fáil — agus má úsáideann tú í, is i bhfad níos dóichí go n-éireoidh leat.",
+      "deep": null,
+      "when_to_see_doctor": "- Fiafraigh de do **chnáimhseach** faoi **thacaíocht saor in aisce chun éirí as tobac** — féadann comhairleoirí oilte (cuid acu a dhíríonn go speisialta ar thoircheas) tacú leat, agus tá líne chabhrach saor in aisce chun éirí as tobac ag go leor tíortha freisin. Comhartha é cabhair a fháil go bhfuil tú ag tabhairt aire do do leanbh, ní teip.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Spotáil agus fuiliú idir míostruithe",
+      "aliases": [
+        "spotáil",
+        "fuiliú idir míostruithe",
+        "fuiliú idirmhíosta",
+        "fuiliú briseadh tríd",
+        "fuiliú tar éis gnéis",
+        "spotting"
+      ],
+      "glance": "Fuiliú éadrom idir míostruithe nó tar éis gnéis atá i spotáil — is minic nach mbíonn sí tromchúiseach, ach is fiú i gcónaí í a bheith seiceáilte ag dochtúir.",
+      "overview": "Ciallaíonn spotáil fuiliú éadrom a tharlaíonn idir do mhíostruithe nó tar éis gnéis, lasmuigh de do ghnáthshreabhadh. Tá sí coitianta, agus de ghnáth ní rud tromchúiseach í — ach toisc gur féidir roinnt cúiseanna a bheith léi, is fiú i gcónaí í a bheith seiceáilte ag cliniceoir.\n\nTá go leor cúiseanna laethúla léi. Cúis mhinic í frithghiniúint hormónach a thosú nó a úsáid. I measc na gcúiseanna eile tá fásanna beaga gan dochar sa bhroinn nó timpeall uirthi (polaipí nó fibroidí), athruithe gan dochar ar dhromchla an cheirbheacs, triomacht faighne, nó ionfhabhtú mar chlaimidia.\n\nToisc gur féidir leis an siomptóm céanna teacht ó chúiseanna éagsúla — a bhformhór beag — ní hé buille faoi thuairim an chéim úsáideach; is é an chéim úsáideach í a thaispeáint do dhochtúir ionas go mbeidh a fhios agat cad atá taobh thiar di i do chás féin.",
+      "deep": null,
+      "when_to_see_doctor": "- Téigh chuig dochtúir teaghlaigh (GP) nó chuig clinic sláinte gnéis **aon uair a bhíonn fuiliú agat idir míostruithe nó tar éis gnéis**, fiú más éadrom atá sé. De ghnáth ní bhíonn aon rud tromchúiseach i gceist, ach is trína sheiceáil a aimsítear an chúis — agus is é an bealach é chun cúiseanna nach bhfuil chomh coitianta a chur as an áireamh go luath.",
+      "red_flags": "- Iarr coinne **phráinneach** le dochtúir teaghlaigh (GP), nó déan teagmháil le **dochtúir lasmuigh d'uaireanta**, má **chaill tú míostrú agus má bhíonn fuiliú neamhghnách agat mar aon le pian sa bholg nó sa pheilvis** — teastaíonn measúnú pras air seo, mar is féidir gur comhartha é ar thoircheas eachtópach."
+    },
+    "stalking": {
+      "title": "Stalcaireacht",
+      "aliases": [
+        "stalcaireacht",
+        "stalcaireacht orm",
+        "ciapadh",
+        "aird nach bhfuil uaim",
+        "duine do mo leanúint",
+        "cibearstalcaireacht",
+        "stalking"
+      ],
+      "glance": "Aird athráite nach bhfuil uait atá i stalcaireacht, a chuireann eagla ort nó a fhágann nach mbraitheann tú slán — agus glactar léi dáiríre.",
+      "overview": "Is éard is stalcaireacht ann ná patrún d'iompar athráite nach bhfuil uait ag duine a fhágann go mbraitheann tú eaglach, faoi fhaire, nó neamhshábháilte. Féadann sé a bheith i gceist go leantar thú, go dtagann duine i láthair san áit a bhfuil tú, glaonna nó teachtaireachtaí de shíor, bronntanais nach bhfuil uait, faire ort ar líne nó trí d'fhón, nó bagairtí. Is minic gur iarpháirtí nó duine a bhfuil aithne agat air a dhéanann é, cé nach i gcónaí.\n\nTá an eagla a chothaíonn sé bailí, fiú nuair a d'fhéadfadh gach gníomh aonair a bheith “beag” i súile daoine eile — is é an patrún, agus an chaoi a mbraitheann tú dá bharr, atá tábhachtach. Tá stalcaireacht aitheanta mar chineál mí-úsáide, agus i go leor tíortha is coir í. Ní ortsa atá an locht in aon chuid de, agus ní gá duit cur suas leis.\n\nMás sábháilte é sin a dhéanamh, féadann taifead a choinneáil cabhrú níos déanaí: dátaí agus amanna, gabhálacha scáileáin de theachtaireachtaí, agus cad a tharla. Ní gá duit a oibriú amach i d'aonar an “áirítear” é — féadann seirbhísí tacaíochta cabhrú leat ciall a bhaint as agus smaoineamh ar do roghanna.",
+      "deep": null,
+      "when_to_see_doctor": "- Déan teagmháil leis na **póilíní** chun stalcaireacht a thuairisciú, agus le líne chabhrach in aghaidh foréigin nó stalcaireachta chun tacaíocht agus comhairle a fháil (san Iodáil, tá **1522** ann d'fhoréigean **agus** do stalcaireacht).\n- Féadann fianaise a choinneáil agus plean sábháilteachta a dhéanamh, le cabhair ó sheirbhís speisialtóra, fíordhifríocht a dhéanamh.",
+      "red_flags": "- Má bhraitheann tú i **mbaol láithreach**, déan teagmháil leis na seirbhísí éigeandála anois: **112** san AE (an Iodáil san áireamh), **999** sa Ríocht Aontaithe, **911** sna Stáit Aontaithe agus i gCeanada.\n- San Iodáil, féadann **1522** — saor in aisce, 24 uair an chloig sa lá, gan ainm, ilteangach — cabhrú ar an bhfón nó trí chomhrá ar líne."
+    },
+    "stillbirth": {
+      "title": "Marbhbhreith",
+      "aliases": [
+        "marbhbhreith",
+        "leanbh marbhbheirthe",
+        "leanbh a chailleadh",
+        "cailliúint déanach toirchis",
+        "leanbh a rugadh ina chodladh",
+        "stillbirth"
+      ],
+      "glance": "Leanbh a chailleadh tar éis 24 seachtain atá i marbhbhreith — neamhchoitianta, ní ortsa atá an locht riamh, agus bíonn tacaíocht ann i gcónaí.",
+      "overview": "Marbhbhreith atá ann nuair a bheirtear leanbh atá tar éis bás a fháil tar éis 24 seachtain den toircheas. (Tugtar breith anabaí ar chailliúint roimh 24 seachtain.) Ní tharlaíonn sí go minic — thart ar 1 as gach 250 breith — ach do na teaghlaigh a mbuaileann sí leo, is cailliúint dhomhain í, agus tá gach rud faoin gcúram a leanann ceaptha chun tú a iompar go séimh tríd.\n\nUaireanta aimsítear cúis — mar shampla fadhb leis an slánú nó le forbairt an linbh, nó riocht sláinte — agus uaireanta, in ainneoin tástálacha, **ní aimsítear aon chúis ar chor ar bith**. Cibé an chúis, ní rud é marbhbhreith ba chúis le tuismitheoir ná a bhféadfadh sé nó sí a bheith ar an eolas faoi chun í a chosc.\n\nTá rud amháin a chabhraíonn i ndáiríre leis an mbaol a laghdú, agus tá sé simplí: **insint do do chnáimhseach láithreach má laghdaíonn nó má athraíonn gluaiseachtaí do linbh.** In éineacht leis sin, bíonn ról ag na rudaí laethúla — freastal ar choinní réamhbhreithe, gan tobac a chaitheamh, alcól a sheachaint, agus codladh ar do thaobh ó 28 seachtain.",
+      "deep": null,
+      "when_to_see_doctor": "- Déan teagmháil le do **chnáimhseach nó leis an aonad máithreachais láithreach** — ag am ar bith, de lá nó d'oíche — má tá **do leanbh ag bogadh níos lú ná mar is gnách nó má bhraitheann a ghluaiseachtaí difriúil.** Ná fan riamh le feiceáil an n-imeoidh sé; is é seiceáil a fháil an rud ceart go díreach, agus ní bhíonn sé ina chrá riamh.\n- Tar éis cailliúna, bíonn cnáimhseacha speisialtóra agus foirne méala ann duit — do na cinntí, na céimeanna praiticiúla, agus an brón. Ní gá duit aghaidh a thabhairt ar aon chuid de i d'aonar, agus tá grúpaí tacaíochta do chailliúint linbh ar fáil chomh fada agus a bhíonn siad de dhíth ort.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Strus, an saol agus do mhíostruithe",
+      "aliases": [
+        "strus agus míostruithe",
+        "strus",
+        "míostrú a chailleadh",
+        "míostrú déanach",
+        "cén fáth a bhfuil mo mhíostrú déanach",
+        "late period"
+      ],
+      "glance": "Féadann strus, athruithe móra meáchain, nó a lán aclaíochta moill a chur ar mhíostrú nó é a stopadh — go minic ar feadh tamaill amháin.",
+      "overview": "Is coitianta go dtagann míostrú déanach, nó go gcailltear mí, agus is minic go mbaineann an chúis níos mó leis an saol ná le haon rud a bheith mícheart. Cúis mhinic is ea strus — féadann an córas céanna a fhreagraíonn do bhrú tionchar a imirt ar na hormóin a stiúrann do thimthriall.\n\nFéadann rudaí laethúla eile do mhíostruithe a athrú freisin: athrú mór meáchain (suas nó síos), a lán aclaíochta a dhéanamh, nó a bheith traochta. Féadann athruithe hormónacha — mar theacht an réamhshosa míostraithe, nó riochtaí mar PCOS — a bheith taobh thiar de freisin, chomh maith le toircheas agus roinnt cineálacha frithghiniúna. Is minic nach n-athraíonn an bhearna idir míostruithe ach beagán ó am go ham, agus is gnáth é sin.\n\nIs é an chuid shuaimhneach nach ábhar imní é de ghnáth míostrú déanach nó caillte uair amháin, agus is minic a shocraíonn rudaí de réir mar a shocraíonn an saol. Is é an rud ar fiú súil a choinneáil air ná patrún athraithe seachas mí amháin.",
+      "deep": null,
+      "when_to_see_doctor": "Téigh chuig dochtúir teaghlaigh (GP) sna cásanna seo:\n\n- chaill tú **trí mhíostrú as a chéile**, nó tá do mhíostruithe éirithe **neamhrialta**\n- **stopann** do mhíostruithe agus níl tú cinnte cén fáth (agus más féidir go bhfuil tú torrach, is fiú tástáil a dhéanamh ar dtús)\n- tagann athruithe eile le míostruithe caillte — cosúil le hathruithe meáchain gan choinne, tuirse, fás breise gruaige, nó mothú in ísle brí\n\nNíl sna seiceálacha seo ach tuiscint a fháil ar a bhfuil taobh thiar den athrú — rud atá soláimhsithe de ghnáth.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Tacú léi le linn a míostraithe",
+      "aliases": [
+        "cabhrú léi le linn a míostraithe",
+        "tacaíocht míostraithe do pháirtithe",
+        "cúram míostraithe",
+        "an míostrú agus do pháirtí",
+        "period support"
+      ],
+      "glance": "Féadann míostrú fíorphian agus tuirse a thabhairt — déanann cúram beag praiticiúil difríocht mhór.",
+      "overview": "Ní cúpla lá fuilithe amháin é míostrú; do go leor tagann crampaí, pian droma, tinneas cinn, tuirse agus fuinneamh íseal leis. Tá pian mhíosta coitianta agus féadann sí duine a thraochadh i ndáiríre — ní áibhéil í. Caith léi mar a chaithfeá le páirtí ar bith atá tinn: le cineáltas praiticiúil.\n\nDéan rud gnáth de freisin. Níl míostruithe gránna, náireach ná toirmiscthe. Nuair a bhíonn tú compordach ag ceannach ceap sláintíochta nó súitíní, ag coinneáil cuid acu sa bhaile, nó ag tabhairt buidéal uisce te di gan aon ruaille buaille, insíonn sé di go bhfuil sí slán agus go bhfuil tacaíocht aici.",
+      "deep": "Rudaí simplí a chabhraíonn:\n\n- **Teas agus scíth.** Maolaíonn buidéal uisce te nó ceap teasa ar íochtar an bhoilg crampaí; tairg oíche chiúin sa bhaile.\n- **Bain rudaí dá hualach.** Déan an cócaráil, an slachtú, an turas siopadóireachta, tiomáin í — is mó a théann cabhair phraiticiúil i bhfeidhm ná focail.\n- **Coinnigh soláthairtí sa teach.** Bíodh a fhios agat cad a úsáideann sí agus coinnigh stoc, ionas nach mbeidh lá trom ina ghéarchéim riamh.\n- **Pianmhúcháin agus bia compordach** más mian léi; is fúithi atá an rogha.\n- **Ná cuir brú uirthi faoi ghnéas ná faoi fhuinneamh nach bhfuil aici.** Féadann barróg ar an tolg a bheith ina ngaireacht.",
+      "when_to_see_doctor": "Spreag í chun dul chuig dochtúir (agus tairg dul léi) má tá an phian mhíosta **dian, ag dul in olcas, nó ag cur stop léi a saol laethúil a chaitheamh**, má tá na míostruithe **an-trom** (cosaint maothaithe go hiomlán gach uair an chloig, téachtáin mhóra), nó má tá an phian nua agus neamhghnách — féadann siad seo a bheith ina gcomharthaí ar riochtaí mar endiméadrióis ar fiú cúram ceart a fháil ina leith.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Tacú le duine atá ag fulaingt foréigin",
+      "aliases": [
+        "tacú le duine",
+        "cabhrú le cara",
+        "conas cabhrú",
+        "duine atá ag fulaingt mí-úsáide",
+        "conas tacú",
+        "supporting someone"
+      ],
+      "glance": "Má d'fhéadfadh duine a bhfuil aithne agat air nó uirthi a bheith ag fulaingt mí-úsáide, cabhraíonn sé éisteacht gan breithiúnas — agus a fhios a bheith agat cá háit lena threorú.",
+      "overview": "Is deacair a thuiscint go bhféadfadh duine a bhfuil cion agat air nó uirthi a bheith ag fulaingt mí-úsáide, agus is maith an instinn é a bheith ag iarraidh cabhrú. Is minic gurb iad na rudaí is simplí na rudaí is úsáidí is féidir leat a thairiscint.\n\nÉist, agus creid iad. Lig dóibh labhairt ar a luas féin, gan breithiúnas, gan milleán, agus gan fiafraí cad a rinne siad chun é a tharraingt orthu. Abair go soiléir nach orthu atá an locht agus nach bhfuil sé tuillte acu. Déan iarracht gan a rá leo cad ba cheart dóibh a dhéanamh ná brú a chur orthu imeacht: is fúthu féin atá sé imeacht, agus féadann imeacht faoi dheifir an baol a mhéadú i ndáiríre — is mó a chabhraíonn sé go mbraitheann siad go bhfuil tacaíocht acu agus nach bhfuil siad ina n-aonar.\n\nCoinnigh príobháideach a n-insíonn siad duit. Cabhraigh leo go séimh teacht ar thacaíocht speisialtóra nuair a bhíonn siad réidh — líne chabhrach cosúil le **1522** san Iodáil, nó ionad frithfhoréigin áitiúil — agus tairg cabhair phraiticiúil, cosúil le huimhreacha a chuardach le chéile nó a bheith ann nuair a ghlaonn siad. Agus tabhair aire duit féin freisin; féadann sé a bheith trom tacú le duine tríd seo.",
+      "deep": null,
+      "when_to_see_doctor": "- Spreag iad (gan brú) chun teagmháil a dhéanamh le líne chabhrach nó le hionad frithfhoréigin, ar féidir leo treoir a thabhairt don bheirt agaibh faoina bhfuil le déanamh ina dhiaidh sin. Féadann tú cabhrú leo an glao a dhéanamh nó an uimhir a aimsiú.\n- Má tá siad gortaithe, féadann dochtúir teaghlaigh (GP) nó ospidéal cabhrú — agus iad a chur i dteagmháil le seirbhísí tacaíochta.",
+      "red_flags": "- Má tá siad i **mbaol láithreach**, cuir glao ar na seirbhísí éigeandála: **112** san AE (an Iodáil san áireamh), **999** sa Ríocht Aontaithe, **911** sna Stáit Aontaithe agus i gCeanada.\n- San Iodáil, féadann **1522** (saor in aisce, 24/7, gan ainm, ilteangach — fón nó comhrá) comhairle a thabhairt duitse freisin faoi conas cabhrú le duine."
+    },
+    "the-coil": {
+      "title": "An fheiste ionútarach (IUD agus IUS)",
+      "aliases": [
+        "feiste ionútarach",
+        "IUD",
+        "IUS",
+        "IUD copair",
+        "IUS hormónach",
+        "córas ionútarach",
+        "Mirena",
+        "the coil"
+      ],
+      "glance": "Feiste bheag a chuirtear sa bhroinn í an fheiste ionútarach — copar (IUD) nó hormónach (IUS) — a mhaireann blianta.",
+      "overview": "Feiste bheag í an fheiste ionútarach a chuireann cliniceoir taobh istigh den bhroinn. Tá dhá chineál ann, agus cabhraíonn sé idirdhealú a dhéanamh eatarthu:\n\n- Níl aon hormóin san **IUD**, nó an fheiste chopair. Athraíonn an copar na coinníollacha sa bhroinn ionas nach féidir le speirm ná le huibheacha maireachtáil go maith, agus téann sé i bhfeidhm ar an múcas ceirbheacsach freisin. Ag brath ar an gcineál, oibríonn sí ar feadh thart ar 5 go 10 mbliana.\n- Scaoileann an **IUS**, nó an fheiste hormónach, progeistigin in ionad copar a úsáid. Déanann sí an múcas ag muineál na broinne níos tiubha agus líneáil na broinne níos tanaí; do dhaoine áirithe féadann sí míostruithe a dhéanamh i bhfad níos éadroime freisin.\n\nModhanna “cuir isteach agus déan dearmad” iad an dá cheann agus tá an dá cheann níos mó ná 99% éifeachtach, gan mórán difríochta idir úsáid fhoirfe agus gnáthúsáid. Ní chosnaíonn ceachtar acu ar STIanna.",
+      "deep": "Modhanna fadghníomhacha inaisiompaithe iad na feistí ionútaracha: nuair a chuirtear isteach iad leanann siad ag obair ar feadh blianta, agus filleann an torthúlacht tar éis iad a bhaint amach. Déanann cliniceoir oilte iad a chur isteach agus a bhaint amach agus ní thógann sé ach cúpla nóiméad, cé go mbíonn an cur isteach míchompordach do dhaoine áirithe. Cúis choitianta a roghnaíonn daoine idir an dá cheann ná a dtionchar ar mhíostruithe — féadann an IUD copair míostruithe a dhéanamh níos troime ar dtús, agus is minic a dhéanann an IUS hormónach níos éadroime iad. Ábhar comhrá le cliniceoir é cé acu a oireann duit; ní mhíníonn an t-alt seo ach conas a oibríonn gach ceann acu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Na laethanta roimh an míostrú",
+      "aliases": [
+        "PMS do pháirtithe",
+        "tacú léi roimh a míostrú",
+        "tacaíocht réamh-mhíostraithe",
+        "tacaíocht sa chéim lúitéach",
+        "PMS partner"
+      ],
+      "glance": "Sna laethanta roimh a míostrú b'fhéidir go mbraithfidh sí níos tuirsí, níos goirte nó in ísle brí — freagair le foighne, ní le magadh.",
+      "overview": "Sa tseachtain nó mar sin roimh mhíostrú, faigheann go leor daoine siomptóim réamh-mhíostraithe: athruithe giúmair, cantal nó ísle brí, tuirse, cíocha tinne, bolg ata, tinneas cinn, nó deacracht codlata. Tá sé an-choitianta agus tá sé fíor — is é an t-athrú nádúrtha hormónach sa chéim lúitéach is cúis leis, ní í a bheith “ag déanamh an iomarca de”.\n\nI gcás líon níos lú daoine bíonn an ísle brí dian (riocht ar a dtugtar PMDD) agus tá fíorthacaíocht agus cúram leighis tuillte aige. Cibé acu, ní hé do jab í a dhiagnóisiú ná í a “dheisiú” — is é do jab a bheith seasmhach agus cineálta.\n\nIs é an rud is díobhálaí ar fad is féidir le páirtí a dhéanamh anseo ná é a úsáid mar arm: “níl ann ach PMS”, súile á gcasadh, nó caitheamh lena mothúcháin mar rudaí gan bhrí mar gheall ar an dáta. Déanann sé sin neamhshuim di agus cuireann sé gortú le seachtain dheacair. Tá tábhacht fós lena mothúcháin, fiú nuair is cuid den phictiúr iad na hormóin.",
+      "deep": "Na rudaí a chabhraíonn i ndáiríre sna laethanta seo:\n\n- **Laghdaigh a hualach.** Glac cúraimí tí, cócaráil, nó an liosta meabhrach rudaí le déanamh ort féin gan iarraidh ort.\n- **Sólás, ní ceartú.** Tairg teas, scíth, buidéal uisce te, an bia is fearr léi — agus lig di a mothaíonn sí a mhothú.\n- **Éist ar dtús.** Má tá sí trína chéile, is fearr i gcónaí “is cosúil go bhfuil sé sin an-deacair” ná “socraigh síos”.\n- **Ná coinnigh cuntas.** Ní fiach é lá níos deacra atá le híoc leat níos déanaí.\n- **Fiafraigh cad a theastaíonn uaithi** — bíonn gaireacht ag teastáil ó chuid, spás ó chuid eile. Tá an dá rud ceart go leor; bíodh meas agat ar a freagra.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Toircheas cúpla agus iolrach",
+      "aliases": [
+        "cúpla",
+        "toircheas cúpla",
+        "toircheas iolrach",
+        "ag súil le cúpla",
+        "cúpla comhionann",
+        "cúpla neamhionann",
+        "triúr",
+        "twins"
+      ],
+      "glance": "Aimsítear toircheas cúpla den chéad uair ag an scanadh dátaithe de ghnáth, agus ciallaíonn sé beagán níos mó cúraim réamhbhreithe.",
+      "overview": "Aimsítear de ghnáth ag an **scanadh dátaithe** (timpeall 12 seachtain) go bhfuil tú ag súil le níos mó ná leanbh amháin, agus féadann an scanadh a thaispeáint freisin an bhfuil slánú á roinnt ag na leanaí.\n\nTá dhá phríomhchineál ann. Tagann cúpla **comhionann** ó ubh thoirchithe amháin a scoilteann, mar sin bíonn na géinte céanna acu agus bíonn siad den ghnéas céanna i gcónaí. Tagann cúpla **neamhionann** ó dhá ubh ar leith, agus níl siad níos cosúla lena chéile ná aon deartháireacha nó deirfiúracha eile; is iad an cineál is coitianta den dá cheann, agus is beagán níos dóichí iad le haois níos sine, le stair teaghlaigh ar thaobh na máthar, nó tar éis cóireála torthúlachta.\n\nEispéireas ann féin é cúpla nó níos mó a iompar, agus is gnách go gciallaíonn sé **beagán níos mó cúraim réamhbhreithe** — coinní agus scananna breise chun súil ghéar a choinneáil ort féin agus ar do leanaí. Míneoidh d'fhoireann cnáimhseachais cad is féidir a bheith ag súil leis.",
+      "deep": null,
+      "when_to_see_doctor": "- Má léiríonn scanadh cúpla (nó níos mó), pléifidh do **chnáimhseach** leat na seiceálacha agus na scananna breise a bhaineann le toircheas iolrach — is é freastal orthu go léir an bealach is fearr chun go dtabharfar aire mhaith duit.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "A timthriall a thuiscint",
+      "aliases": [
+        "treoir don pháirtí faoin timthriall",
+        "an timthriall do pháirtithe",
+        "conas a oibríonn a timthriall",
+        "tacú lena timthriall",
+        "cycle for partners"
+      ],
+      "glance": "Gluaiseann a corp trí thimthriall míosta a bhfuil ceithre chéim ann — cabhraíonn na bunrudaí a bheith ar eolas agat leat tacú léi gan buille faoi thuairim.",
+      "overview": "Rithim thart ar mhíosúil é an timthriall míosta, thart ar 28 lá ar an meán ach go minic aon fhad ó 21 go 35, agus is gnáth di cibé rud atá rialta *di féin*. Tá ceithre chéim ann: an chéim **mhíostrach** (a míostrú), an chéim **fhalacaileach**, an t-**ubhsceitheadh** timpeall an lár, agus an chéim **lúitéach** roimh an gcéad mhíostrú eile.\n\nFéadann fuinneamh, giúmar, codladh agus fonn athrú ar fud na gcéimeanna seo mar go n-ardaíonn agus go dtiteann hormóin — bitheolaíocht é sin, ní laige charachtair agus ní rud é le magadh a dhéanamh fúithi. Mothaíonn daoine áirithe fíorthitim sna laethanta roimh a míostrú; is ar éigean a thugann daoine eile faoi deara é. Níl aon bhealach “ceart” amháin le mothú.\n\nNí gá duit a bheith i do shaineolaí. Is simplí an rud is mó a chabhraíonn: bíodh a fhios agat go garbh cá bhfuil sí ina timthriall (féadann an aip seo é a thaispeáint duit, le cead uaithi), bí ag súil go mbeidh roinnt laethanta níos deacra ná a chéile, agus fiafraigh di cad a chabhraíonn léi *féin* seachas glacadh leis.",
+      "deep": "Cúpla rud ar fiú a bheith ar eolas agat, ionas nach líonfaidh miotais an bhearna:\n\n- **Ní masla é “tá sí ar a míostrú” ná míniú ar easaontú léi.** Easpa measa é a timthriall a úsáid chun neamhshuim a dhéanamh dá mothúcháin (“níl ann ach na hormóin”), agus de ghnáth bíonn sé mícheart. A cúiseanna féin atá ina cúiseanna fós.\n- **Téann an timthriall i bhfeidhm ar níos mó ná míostruithe.** Féadann crampaí, tinneas cinn, cíocha tinne, fuinneamh íseal, nó giúmar níos ísle a bheith mar chuid de. Is fearr cabhair phraiticiúil ná comhairle.\n- **Léi féin an rianú.** Má roinneann sí a timthriall leat, caith leis mar léargas ar an gcaoi a bhféadfadh sí a bheith ag mothú — cuireadh le bheith cineálta, ní uirlis riamh chun faire a dhéanamh uirthi ná smacht a choinneáil uirthi.\n- **Nuair a bhíonn amhras ort, fiafraigh.** Is mó is fiú “Conas atá tú inniu? An bhfuil aon rud is féidir liom a dhéanamh?” ná cairt ar bith.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Triomacht faighne",
+      "aliases": [
+        "triomacht faighne",
+        "triomacht",
+        "atrófacht faighne",
+        "faighin thirim",
+        "vaginal dryness"
+      ],
+      "glance": "Tá triomacht faighne coitianta, baineann sí go minic le hormóin, agus féadann sí goirteamas nó míchompord a chur faoi deara le linn gnéis.",
+      "overview": "Eispéireas coitianta é triomacht faighne a bhíonn ag go leor daoine ag pointe éigin. Tarlaíonn sé nuair a laghdaítear an gnáththaise a choinníonn an fhaighin compordach, agus féadann sé mothú mar ghoirteamas, tochas, nó míchompord — pian nó míchompord le linn gnéis san áireamh.\n\nIs minic a bhaineann sí le hormóin, go háirithe titim san estrigin. Sin an fáth go bhfuil sí coitianta timpeall an tsosa míostraithe agus an réamhshosa míostraithe, ach féadann sí tarlú freisin le linn beathú cíche, le cógais áirithe (mar roinnt frithghiniúnach nó frithdhúlagráin), nó nuair nach mbíonn go leor spreagtha gnéasaí ann roimh ghnéas. Níl aon chúis náire léi — rud fisiceach atá ann, ní léiriú ortsa ná ar do chaidreamh.\n\nIs maith an pointe tosaigh é a fhios a bheith agat go bhfuil sí coitianta, agus gur féidir í a chóireáil go han-mhaith de ghnáth. Tá roghanna simplí ann a d'fhéadfadh cabhrú, agus féadann dochtúir teaghlaigh (GP) nó cógaiseoir tú a threorú chuig an rud a oireann duit.",
+      "deep": null,
+      "when_to_see_doctor": "Téigh chuig dochtúir teaghlaigh (GP) sna cásanna seo:\n\n- tá triomacht faighne ag cur isteach ort nó ní shocraíonn sí tar éis cúpla seachtain\n- tá sí ag dul i bhfeidhm ar do shaol laethúil nó ar do shaol gnéis\n- tá sileadh neamhghnách agat freisin, nó aon fhuiliú tar éis gnéis, idir míostruithe, nó tar éis an tsosa míostraithe\n\nNí gá duit cur suas leis — tá cabhair ar fáil, agus féadann cliniceoir féachaint cad atá taobh thiar de agus cad a d'fhéadfadh é a mhaolú.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Sláinte na faighne agus an vulva",
+      "aliases": [
+        "sláinte na faighne",
+        "sláinte an vulva",
+        "sláinteachas pearsanta",
+        "fanacht glan",
+        "douching",
+        "sileadh faighne",
+        "vaginal health"
+      ],
+      "glance": "Glanann an fhaighin í féin — níl de dhíth uirthi ach cúram séimh ar an taobh amuigh, agus is gnáth an sileadh.",
+      "overview": "Ceann de na rudaí is suaimhní le fios a bheith agat ná go dtugann an fhaighin aire di féin. Glanann sí í féin go nádúrtha, agus is cuid de sin an sileadh a thugann tú faoi deara — sreabhán a choinníonn glan agus tais í agus a chabhraíonn lena cosaint ar ionfhabhtú. Athraíonn an méid agus an uigeacht ar fud an timthrialla, rud atá go hiomlán gnáth.\n\nDá bhrí sin, ní gá an fhaighin a ní ar an taobh istigh. Go deimhin, féadann í a ní ar an taobh istigh — “douching” — a cothromaíocht nádúrtha a chur as riocht. Níl de dhíth ar an taobh amuigh (an vulva) ach cúram séimh: uisce te agus, más mian leat, gallúnach éadrom gan chumhrán. Is fearr gallúnacha cumhraithe, glóthacha, díbholaígh agus ciarsúir chumhraithe a sheachaint, mar féadann siad greannú a chur faoi deara.\n\nMá chuireann tú aithne ar a bhfuil gnáth duitse — do ghnáthshileadh, an chuma agus an mothú — beidh sé níos éasca a thabhairt faoi deara má athraíonn rud éigin agus go mb'fhéidir go mbeadh seiceáil de dhíth air.",
+      "deep": null,
+      "when_to_see_doctor": "Téigh chuig dochtúir teaghlaigh (GP) nó chuig clinic sláinte gnéis má thugann tú faoi deara:\n\n- athrú ar do shileadh — a dhath, a bholadh, nó a uigeacht, nó i bhfad níos mó ná mar is gnách\n- tochas, goirteamas, nó greannú timpeall na faighne nó an vulva\n- fuiliú idir míostruithe nó tar éis gnéis\n- pian nuair a dhéanann tú mún, nó pian íseal idir do bholg agus do cheathrúna (pian sa pheilvis)\n\nTá siad seo coitianta agus is minic gur furasta iad a chóireáil — féadann athrú ar shileadh a chiallú nach bhfuil ann ach ionfhabhtú éadrom cosúil le candaidiasis faighne (ionfhabhtú giosta). Is é seiceáil ag dochtúir an bealach le fios a bheith agat, seachas buille faoi thuairim.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "An timthriall agus a chéimeanna",
+      "summary": "Conas a ghluaiseann do thimthriall tríd an gcéim mhíostrach, an chéim fhalacaileach, an t-ubhsceitheadh agus an chéim lúitéach."
+    },
+    "hormones": {
+      "title": "Hormóin",
+      "summary": "Na teachtairí atá taobh thiar de do thimthriall — estrigin, progeistéarón, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Torthúlacht agus ubhsceitheadh",
+      "summary": "An tréimhse thorthúil, comharthaí an ubhsceite, agus na rudaí a imríonn tionchar ar an torthúlacht."
+    },
+    "contraception": {
+      "title": "Frithghiniúint",
+      "summary": "Conas a oibríonn modhanna éagsúla, i dteanga shimplí."
+    },
+    "symptoms-and-signals": {
+      "title": "Siomptóim agus comharthaí an choirp",
+      "summary": "Pian, spotáil, sileadh, giúmar — an méid a d'fhéadfadh do chorp a bheith á insint duit."
+    },
+    "conditions": {
+      "title": "Riochtaí",
+      "summary": "PCOS, endiméadrióis, fibroidí agus tuilleadh — mínithe, le foinsí."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Sláinte ghnéasach agus phearsanta",
+      "summary": "Folláine phearsanta, compord, agus ceisteanna coitianta."
+    },
+    "life-stages": {
+      "title": "Céimeanna an tsaoil",
+      "summary": "Ón gcéad mhíostrú go dtí an réamhshos míostraithe agus an sos míostraithe."
+    },
+    "wellbeing": {
+      "title": "Folláine agus an timthriall",
+      "summary": "An bhaint atá ag codladh, strus agus an saol laethúil le do thimthriall."
+    },
+    "tests-and-exams": {
+      "title": "Tástálacha agus scrúduithe",
+      "summary": "Féinscrúdú cíche, scagthástáil cheirbheacsach, tástálacha ubhsceite agus tuilleadh."
+    },
+    "pregnancy": {
+      "title": "Toircheas",
+      "summary": "Comharthaí luatha, fanacht folláin, comharthaí rabhaidh, agus cailliúint toirchis — mínithe, le foinsí."
+    },
+    "for-partners": {
+      "title": "Do pháirtithe",
+      "summary": "A timthriall a thuiscint, tacú go maith léi, agus caidreamh a thógáil ar bhonn measa."
+    },
+    "safety-and-support": {
+      "title": "Sábháilteacht agus tacaíocht",
+      "summary": "Mí-úsáid a aithint, fanacht slán, agus conas cabhair a fháil — le huimhreacha éigeandála."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Tuig do thimthriall in 5 chéim",
+      "summary": "Siúlóid shocair tríd an timthriall ar fad agus trí gach ceann dá cheithre chéim."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Aithne a chur ar an ubhsceitheadh",
+      "summary": "Cad is ubhsceitheadh ann, an tréimhse thorthúil, agus na comharthaí a thugann do chorp."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Na hormóin taobh thiar de do thimthriall",
+      "summary": "Cuir aithne ar na ceithre theachtaire a stiúrann an timthriall — agus an ról atá ag gach ceann acu."
+    }
+  }
+}
