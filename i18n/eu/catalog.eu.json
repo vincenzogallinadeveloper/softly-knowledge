@@ -1,0 +1,1405 @@
+{
+  "_meta": {
+    "lang": "eu",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohola haurdunaldian",
+      "aliases": [
+        "alkohola haurdunaldian",
+        "edatea haurdunaldian",
+        "alkohola eta haurdunaldia",
+        "fetu-alkohol sindromea",
+        "FASD",
+        "alcohol embarazo"
+      ],
+      "glance": "Aukerarik seguruena alkoholik batere ez edatea da, bai haurdunaldian, bai haurdun geratu nahian zabiltzanean.",
+      "overview": "NHSren aholkua argia eta sinplea da: haurdun bazaude edo haurdun geratu nahian bazabiltza, aukerarik seguruena **alkoholik batere ez edatea** da. Ez edateak zure haurrarentzako edozein arrisku ahalik eta txikiena izatea lortzen du.\n\nArrazoia da alkohola zure odoletik plazentaren bidez haurrarengana igarotzen dela, eta haurraren gibela ez dagoela behar bezain garatuta hura prozesatzeko. Haurdunaldian edateak fetu-alkoholaren espektroko nahasmendua (FASD) eragin dezake: ikaskuntzan, portaeran eta garapenean bizi osorako zailtasunak dakartzan nahasmendu multzoa.\n\nHaurdun zeundela jakin aurretik edan bazenuen, saiatu ez kezkatzen: hasieran kantitate txikiek haurrarentzat duten arriskua txikia izango da seguruenik. Lagungarria dena, besterik gabe, hemendik aurrera haurdunaldi osoan alkohola saihestea da.",
+      "deep": null,
+      "when_to_see_doctor": "- Edateari uztea zaila egiten bazaizu, ez da lotsatzeko ezer: esan zure emaginari edo familia-medikuari. Laguntza eskain diezazukete inor epaitu gabe, eta laguntza jasotzea ona da zuretzat eta zure haurrarentzat.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Haurdunaldiaren jarraipena",
+      "aliases": [
+        "haurdunaldiaren jarraipena",
+        "haurdunaldiko kontrolak",
+        "jaio aurreko zaintza",
+        "emaginaren hitzorduak",
+        "haurdunaldiko lehen hitzordua",
+        "control del embarazo"
+      ],
+      "glance": "Haurdunaldiaren jarraipena haurdunaldian zehar egiten diren ohiko kontrolak dira, zu eta zure haurra ondo egoten laguntzen dutenak.",
+      "overview": "Haurdunaldiaren jarraipena haurdunaldian jasotzen duzun zaintza da, zu eta zure haurra ahalik eta osasuntsuen egon zaitezten. Normalean emagina ikusiko duzu, eta medikua ere bai, behar izanez gero. Merezi du goiz hastea: jarri harremanetan zure emaginarekin edo familia-medikuarekin haurdun zaudela jakin bezain laster.\n\nZure lehen hitzordu osoa (haurdunaldia irekitzeko hitzordua) 8. eta 12. asteen artean izan ohi da. Horren ondoren, ohiko kontrolak eskainiko zaizkizu: gutxienez 10 hitzordu eta 2 ekografia zure lehen haurra bada, edo 7 inguru lehenago erditu bazara, eta amaiera aldera hitzorduak maizago izaten dira.\n\nKontsulta horietan, emaginak zure tentsioa eta gernua aztertzen ditu, sabela neurtzen du haurraren hazkundea jarraitzeko, baheketa-probak eskaintzen dizkizu eta zurekin hitz egiten du haurraren mugimenduei buruz eta zu nola sentitzen zaren. Gauza garrantzitsu asko (preeklanpsia edo haurdunaldiko diabetesa, adibidez) hemen antzematen dira zuk ezer nabaritu aurretik, eta horregatik dira hain garrantzitsuak hitzorduak.",
+      "deep": null,
+      "when_to_see_doctor": "- Jarri harremanetan **emaginarekin edo familia-medikuarekin haurdun zaudela jakin bezain laster**, zure zaintza goiz has dadin, ahal dela 10-12 aste inguru bete aurretik lehen hitzordu hori izateko garaiz.\n- Saiatu haurdunaldiko hitzordu **guztietara** joaten, guztiz ondo sentitzen bazara ere: kontrol batzuk sintomarik ematen ez duten arazoak goiz antzemateko pentsatuta daude.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Zure haurraren mugimenduak",
+      "aliases": [
+        "haurraren mugimenduak",
+        "fetuaren mugimenduak",
+        "ostikoak",
+        "haurra mugitzen sentitu",
+        "mugimendu gutxiago",
+        "movimientos del bebé"
+      ],
+      "glance": "Zure haurra mugitzen sentitzea ondo dagoen seinale da; mugimenduak moteltzen edo aldatzen badira, deitu zure emaginari berehala.",
+      "overview": "Zure haurra mugitzen sentitzea ondo dagoela erakusten duten seinale lasaigarrietako bat da. Gehienak haurdunaldiaren 16. eta 24. asteen artean hasten dira mugimenduak sentitzen; lehen haurdunaldian, askotan, beranduago, beraz, lehen aldian ohikoa da 20. astetik aurrera sentitzea.\n\nEz dago sentitu \"beharko\" zenukeen mugimendu-kopuru finkorik, ezta ostikoak helburu baten arabera zenbatu beharrik ere. Haur bakoitza desberdina da, eta garrantzitsua **zure** haurrak egunean zehar duen ohiko eredua ezagutzea da: noiz dagoen aktibo eta noiz lasai.\n\nEredu hori ezagutzen duzunean, horrekiko aldaketa da kontuan hartu beharrekoa. Fidatu zure haurraz dakizunaz.",
+      "deep": null,
+      "when_to_see_doctor": "Zure haurraren eredu normala ezagutzeak aldaketa bat nabaritzeko aukera ematen dizu. Mugimenduak moteldu edo aldatu diren ziur ez bazaude, beti da zuzena deitzea eta aztertzeko eskatzea: ez diozu inoiz inori denbora galaraziko.",
+      "red_flags": "- Zure haurra **ohi baino gutxiago mugitzen bada, haren mugimenduak aldatzen badira edo mugitzen sentitzen ez baduzu**, **deitu berehala zure emaginari edo amatasun-unitateari**, eguneko edo gaueko edozein ordutan. **Ez itxaron hurrengo egunera arte**, gauerdia izan arren.\n- Ez fidatu etxeko bihotz-taupaden monitore (doppler) batez edo aplikazio batez lasaitzeko: joan aurrez aurre azter zaitzaten."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Bizkarreko mina haurdunaldian",
+      "aliases": [
+        "bizkarreko mina haurdunaldian",
+        "gerrialdeko mina haurdun",
+        "lunbalgia haurdunaldian",
+        "bizkarreko mina haurdun",
+        "dolor de espalda embarazo"
+      ],
+      "glance": "Bizkarreko mina oso ohikoa da haurdunaldian, lotailuak biguntzen direlako eta sabela hazten delako; normalean ez da kaltegarria.",
+      "overview": "Bizkarreko mina haurdunaldiko gauzarik ohikoenetako bat da. Zure gorputza erditzeko prestatzen den heinean, lotailuak berez biguntzen eta luzatzen dira, eta hazten ari den sabelak pisua eramateko modua aldatzen du; bi gauza horiek esfortzu gehigarria eragiten diete gerrialdeari eta pelbisari.\n\nEguneroko gauzek arin dezakete: jarrerari erreparatzea zutik, eserita eta zerbait altxatzean; oinetako lau eta ondo eusten dutenak janztea; koltxoi irmoa edo euskarri-burko bat; eta mugimendu leun eta erregularra, hala nola ibiltzea, haurdunentzako yoga edo eskola bateko ariketak. Benetan traba egiten badizu, fisioterapeuta obstetriko batek zuretzat egokitutako aholkuak eman diezazkizuke.\n\nHaurdunaldiko bizkarreko min gehienak ez dira kezkatzeko modukoak, baina kasu batzuetan merezi du laster medikuak aztertzea, eta horretarako dira beheko jarraibideak.",
+      "deep": null,
+      "when_to_see_doctor": "Jarri harremanetan berehala zure **familia-medikuarekin edo emaginarekin** bizkarreko mina:\n\n- **bizia** bada, edo **bigarren edo hirugarren hiruhilekoan** hasten bada (batzuetan erditze goiztiarraren seinale izan daiteke)\n- **sukarrarekin, baginako odoljarioarekin edo pixa egitean minarekin** batera badator\n- **alboan (edo bi alboetan), saihetsen azpian** badago",
+      "red_flags": "- Deitu **{{emergency}} zenbakira edo joan ospitaleko larrialdi-zerbitzura** **hanketan, ipurmasailetan edo genitaletan sentsibilitatea galtzen baduzu**, edo maskuriaren edo hesteen kontrola galtzen baduzu. Arraroa da, baina larrialdiko arreta behar du."
+    },
+    "basal-body-temperature": {
+      "title": "Oinarrizko gorputz-tenperatura",
+      "aliases": [
+        "bbt",
+        "oinarrizko tenperatura",
+        "oinarrizko gorputz-tenperatura",
+        "esnatzean tenperatura",
+        "tenperaturaren metodoa",
+        "temperatura basal"
+      ],
+      "glance": "Oinarrizko gorputz-tenperatura goizean atsedenean duzun tenperatura da, eta pixka bat igotzen da obulazioaren ondoren.",
+      "overview": "Oinarrizko gorputz-tenperatura (BBT) zure gorputzak erabateko atsedenean duen tenperatura da. Egunero modu berean neurtuta, aldaketa txiki baina esanguratsu bat erakusten du zikloan zehar: obulazioaren ondoren pixka bat igotzen da eta hurrengo hilekora arte igota mantentzen da.\n\nIgoera txikia da (0,4 eta 0,8 °F artean, gutxi gorabehera 0,2 eta 0,4 °C artean), beraz, hainbat egunetako eredutik irakurtzen da, ez neurketa bakar batetik. Hori antzemateko, goizero hartu tenperatura jaiki, jan edo edan aurretik, ahal dela ordu berean. Tenperatura igotzen hasi eta hiru egun ingurura, ia guztiek obulatu dute dagoeneko.\n\nIgoera obulua askatu *ondoren* gertatzen denez, BBTk obulazioa gertatu dela berresten du, aldez aurretik iragarri beharrean. Ziklo batzuetan zehar zure zikloaren forma ikusten lagun zaitzake, nahiz eta, bera bakarrik, egun emankorrak harrapatzeko modu zehatza ez izan.",
+      "deep": "BBT ugalkortasuna ezagutzeko egunero erregistratzen diren seinaleetako bat da, umetoki-lepoko mukiarekin eta zikloaren luzerarekin batera. Modu naturalean osatzen da mukiaren jarraipenarekin: muki garbi eta labainkorrerako aldaketak leiho emankorra irekitzen ari dela iradokitzen du, eta egun batzuk geroagoko tenperatura-igoerak obulazioa igaro dela berresten du. Gauza askok alda dezakete atsedeneko tenperatura (gaizki lo egiteak, gaixotasunak, alkoholak edo ohi baino beranduago jaikitzeak), beraz, neurketa bitxi bakanek joera orokorrak baino garrantzi txikiagoa dute.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Odoljarioa haurdunaldian",
+      "aliases": [
+        "odoljarioa haurdunaldian",
+        "baginako odoljarioa haurdun",
+        "odol-orbanak haurdunaldian",
+        "odola galtzea haurdun",
+        "sangrado embarazo"
+      ],
+      "glance": "Haurdunaldiko odoljarioa ez da beti larria (hasieran odol-orban arinak ohikoak dira), baina beti eskatu behar duzu medikuak edo emaginak azter dezan.",
+      "overview": "Haurdunaldian baginatik odola galtzea ez da beti zerbait gaizki doanaren seinale. Odoljario arinak edo odol-orbanak nahiko ohikoak dira, batez ere haurdunaldiaren hasieran, eta haurdunaldi askok ezin hobeto jarraitzen dute horren ondoren.\n\nHala ere, odoljarioa batzuetan arazo baten seinale izan daiteke (abortu espontaneoa edo haurdunaldi ektopikoa, adibidez); beraz, **osasun-profesional batek beti aztertu behar duen** gauza da, kantitatea edozein dela ere. Aztertzera joatea da kausa aurkitzeko eta, behar izanez gero, arreta egokia azkar jasotzeko modua.\n\nSintoma berak gauza oso desberdinak esan ditzakeenez, urrats erabilgarria ez da asmatzen saiatzea, baizik eta harremanetan jartzea eta kontsultara joatea.",
+      "deep": null,
+      "when_to_see_doctor": "- **Jarri beti harremanetan zure amatasun-unitatearekin** (edo, 20 aste baino gutxiago badituzu edo haien telefono-zenbakia ez baduzu, haurdunaldiaren hasierako unitate batekin edo **guardiako mediku batekin**) haurdunaldian baginako odoljario **edozein** baduzu, odol-orban arinak badira ere, kausa azter dezaten.",
+      "red_flags": "- Deitu **{{emergency}} zenbakira edo joan ospitaleko larrialdi-zerbitzura** **odoljario handia** baduzu (adibidez, konpresa bat jarri eta gutxira guztiz blaituta geratzen bada), batez ere **sabeleko min biziarekin, sorbalda-puntako minarekin, edo goragalea, konortea galtzeko sentsazioa edo zorabioa baduzu, edo konortea galtzen baduzu.** Horrek larrialdiko arreta behar du."
+    },
+    "breast-awareness": {
+      "title": "Zure bularrak ezagutzea",
+      "aliases": [
+        "bularrak ezagutzea",
+        "bularrak aztertzea",
+        "bularraren autoazterketa",
+        "bularreko koskorra",
+        "bularren azterketa",
+        "autoexploración mama"
+      ],
+      "glance": "Zure bularrak ezagutzea, besterik gabe, haien itxura eta ukimen normala ezagutzea da, aldaketak nabaritzeko.",
+      "overview": "Bularrak ezagutzea ez da teknika berezi bat: zuretzat normala dena ezagutzea besterik ez da, berria den edozer nabarmen dadin. Zure bularrak edo bularraldea aldizka aztertzeak haien ohiko itxura eta ukimena ikasten laguntzen dizu; hilean behin erritmo ona da.\n\nEz dago modu \"zuzen\" bakar bat. Askok ispiluan begiratzen dute, lehenik besoak behera eta gero gora dituztela, eta bular bakoitza ukitzen dute, galtzarbera arte. Eraikitzen ari zarena ezagutza da, ez diagnostikoa: helburua, besterik gabe, aldaketaren bat gertatzen bada goiz nabaritzea da.\n\nBularrak berez aldatzen dira zikloan zehar eta bizitzan zehar, beraz, aldaketa batzuk guztiz normalak dira. Kontua da zure normala behar bezain ondo ezagutzea, normala ez den zerbait antzemateko.",
+      "deep": null,
+      "when_to_see_doctor": "Joan familia-medikuarengana zuretzat normala ez den aldaketaren bat nabaritzen baduzu, adibidez:\n\n- koskor edo hantura bat bularrean, bularraldean edo galtzarbean\n- azalean aldaketa bat, hala nola zulotxoak (laranja-azalaren itxura izan dezake) edo gorritasuna\n- bular baten edo bien tamainan edo forman aldaketa bat\n- titiburutik jarioa (haurdun ez bazaude edo bularra ematen ari ez bazara), odola izan dezakeena\n- titiburuaren itxuran aldaketa bat, adibidez barrurantz sartzea\n- bularrean edo galtzarbean desagertzen ez den mina\n\nBularreko aldaketa gehienak ez dira minbizia, eta kaltegabeak izaten dira; hala ere, beti merezi du aldaketa bat medikuak laster aztertzea, zerbaitek arreta behar badu, goiz aurkitzeak laguntzen baitu.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Edoskitzea",
+      "aliases": [
+        "edoskitzea",
+        "bularra ematea",
+        "amaren esnea",
+        "bularreko esnea",
+        "haurrari jaten ematea",
+        "lactancia materna"
+      ],
+      "glance": "Amaren esneak haurra infekzioetatik babesten du eta haurra hazi ahala egokitzen da; edozein kantitatek ditu onurak.",
+      "overview": "Amaren esnea haurrarentzako elikagai natural eta osoa da: behar dituen mantenugaiak, bitaminak eta mineralak ematen dizkio, eta denborarekin aldatzen da haren garapen-etapara egokitzeko. Infekzioen eta gaixotasunen aurka babesten ere laguntzen du, eta epe luzeagoko osasun-onura batzuk ere eskaintzen ditu.\n\nBularra ematen duen pertsonarentzat ere badira onurak (edoskitzea bularreko eta obulutegiko minbizia izateko arrisku txikiagoarekin lotzen da, besteak beste), eta, oro har, zenbat eta gehiago eta luzaroago eman bularra, orduan eta onura handiagoak. Garrantzitsua da hau: amaren esnearen **edozein** kantitatek merezi du; ez da dena ala ezer ez.\n\nHaurrari jaten ematea hasieran espero baino zailagoa izan daiteke, eta hori ohikoa da. Badago laguntza (emaginarena, pediatriako erizainarena eta tokiko edoskitze-laguntzako zerbitzuena); beraz, gauzak ondo ez badoaz, goiz laguntza eskatzea erabaki ona da.",
+      "deep": null,
+      "when_to_see_doctor": "- Eskatu laguntza goiz zure **emaginari edo pediatriako erizainari** bularra ematea mingarria edo zaila bada, edo zure haurrak nahikoa hartzen ez duela kezkatzen bazaitu: laguntzak benetako aldea egin dezake.\n- Haurrari nola eman jaten erabaki pertsonala da, eta laguntza hor dago aukeratzen duzuna aukeratzen duzula; garrantzitsua da zu eta zure haurra ondo egotea.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Jario marroia",
+      "aliases": [
+        "jario marroia",
+        "odol-orban marroiak",
+        "odol marroia",
+        "odol zaharra",
+        "jario iluna",
+        "flujo marrón"
+      ],
+      "glance": "Jario marroia odol pixka bat izan ohi da, askotan hilekoaren egun arinenetan. Beste une batzuetako odol-orban marroiak medikuak aztertzea merezi du.",
+      "overview": "Jario marroia kulotetan edo komuneko paperean ikusten den odol edo likido marroixka kantitate txikia da. Jende askok ikusten du noizbait, eta askotan hilekoaren parte besterik ez da.\n\nHilekoaren odola ez da beti gorri bizia. Egun ugarienetan gorria izan ohi da, baina egun arinagoetan arrosa edo marroia izan daiteke. Beraz, hilekoaren egun arinagoetan kolore marroixka izatea ohikoa eta normala da.\n\nMarroia beste une batzuetan ere ager daiteke. Odol-orbanak odol arrosa, gorri edo marroizko orban txikiak dira, eta hilekoen arteko odol-orbanek hainbat kausa ohiko dituzte. Antisorgailu hormonalak (pilula, adibidez) kausa ohikoa dira. Beste batzuk dira umetoki barruan edo inguruan dauden hazkin txikiak (polipoak edo miomak, esaterako) eta klamidia bezalako infekzioak. Haurdunaldiaren hasiera-hasieran, batzuek odol-orban txiki batzuk nabaritzen dituzte hilekoa etorri beharko litzatekeen garaian. Horri inplantazio-odoljarioa deitzen zaio.\n\nHilekotik kanpoko odol-orban marroiek hainbat kausa izan ditzaketenez, gehienak arinak, urrats lagungarria ez da asmatzen saiatzea, baizik eta medikuak aztertzea, zure kasuan zerk eragiten duen jakiteko.",
+      "deep": null,
+      "when_to_see_doctor": "- Joan familia-medikuarengana edo sexu-osasuneko klinika batera **hilekoen artean edo sexu-harremanen ondoren odol-orban marroiak edo odoljarioa** badituzu, arinak badira ere. Normalean ez da larria, baina beti merezi du medikuak aztertzea.\n- **Haurdun bazaude edo egon zaitezkeela uste baduzu**, jarri harremanetan zure amatasun-unitatearekin, haurdunaldiaren hasierako unitate batekin edo **guardiako mediku batekin** edozein odol-orbanengatik, marroiak barne, kausa azter dezaten.\n- Joan familia-medikuarengana **menopausiaren ondoren jario edo odoljario marroi edo arrosaren bat** nabaritzen baduzu, kantitate txikia izan edo behin bakarrik gertatu bada ere.\n- Eskatu aholkua familia-medikuari, sexu-osasuneko klinika bati edo guardiako mediku bati zure jarioak **kolorea, usaina edo testura aldatzen baditu**, edo azkura, ernamina, pelbiseko mina edo pixa egitean mina badakar.",
+      "red_flags": "- Eskatu **premiazko** hitzordua familia-medikuari, edo jarri harremanetan **guardiako mediku batekin**, **duela gutxi hilekoa falta izan bazaizu eta ezohiko odoljarioa baduzu sabeleko edo pelbiseko minarekin batera**. Hori azkar aztertu behar da, haurdunaldi ektopikoaren seinale izan baitaiteke.\n- Haurdun bazaude, deitu **{{emergency}}** zenbakira odoljarioa baduzu eta **sabeleko min bizia, sorbaldako mina, konortea galtzeko sentsazioa, zorabioa edo goragalea baduzu, edo odoljarioa handia bada** (konpresa bat jarri eta gutxira guztiz blaituta geratzen bada)."
+    },
+    "cervical-mucus": {
+      "title": "Umetoki-lepoko mukia",
+      "aliases": [
+        "umetoki-lepoko mukia",
+        "zerbix-mukia",
+        "jarioa",
+        "baginako jarioa",
+        "arrautza-zuringo mukia",
+        "moco cervical"
+      ],
+      "glance": "Umetoki-lepoko mukia zikloan zehar aldatzen den jario naturala da, eta zure egun emankorrak adierazten ditu.",
+      "overview": "Umetoki-lepoko mukia umetoki-lepoak (zerbixak) sortzen duen likidoa da, eta jario gisa nabari dezakezu. Normala da, eta haren itxura eta ukimena nahiko modu aurreikusgarrian aldatzen dira zikloan zehar; horregatik da egun emankorrak antzemateko erabiltzen den seinaleetako bat.\n\nHilekoaren ondoren, askotan, muki gutxiko egun \"lehor\" batzuk izaten dira. Obulu bat heltzen hasten den heinean, mukia ugaritu egiten da eta zuria edo horia, lainotsua eta itsaskorra izan ohi da. Obulazioaren aurreko egunetan, normalean, garbi, heze eta labainkor bihurtzen da, eta hatzen artean luzatzen da arrautza gordinaren zuringoa bezala: hori da garairik emankorrena. Obulazioaren ondoren, normalean berriro itsaskor eta lainotsu bihurtzen da, edo lehortu egiten da.\n\nBakoitzaren eredua pixka bat desberdina da, eta baliteke ziklo batzuk behar izatea, arreta jarriz, zurea ikasteko. Gauza batzuek (antisorgailu hormonalek, edoskitzeak edo infekzio batek, adibidez) mukia alda dezakete; beraz, ez da ugalkortasun-seinale fidagarria guztientzat.",
+      "deep": "Umetoki-lepoko mukia irakurtzea jendeak jarraitzen dituen ugalkortasuna ezagutzeko seinaleetako bat da, atsedeneko gorputz-tenperaturarekin eta zikloaren luzerarekin batera; horiek ikasteko, normalean, bizpahiru ziklo behar izaten dira. Tenperatura-igoerak obulazioa gertatu ondoren baino ez du berresten; aldiz, muki garbi, labainkor eta arrautza-zuringo itxurakorako aldaketa obulazioaren *aurretik* agertu ohi da, eta horregatik erabiltzen da leiho emankorra irekitzen denean adierazteko, ez itxi ondoren.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Umetoki-lepoko baheketa (zitologia)",
+      "aliases": [
+        "umetoki-lepoko baheketa",
+        "zitologia",
+        "Papanicolau proba",
+        "pap testa",
+        "citología",
+        "umetoki-lepoko minbiziaren baheketa"
+      ],
+      "glance": "Umetoki-lepoko baheketa zure umetoki-lepoaren osasunaren ohiko kontrola da, umetoki-lepoko minbizia prebenitzen laguntzen duena.",
+      "overview": "Umetoki-lepoko baheketa umetoki-lepoaren osasuna aztertzen duen proba da (umetoki-lepoa baginaren goiko aldean dagoen umetokiaren irekiera da). Ez da minbizia detektatzeko proba bat, baizik eta aldaketak goiz antzemateko eta umetoki-lepoko minbizia garatu ere ez dadin prebenitzen laguntzeko modu bat.\n\nUmetoki-lepoa duten pertsona guztiei gonbidapena egiten zaie 25 urtetik 64 urtera arte. Tokatzen zaizunean gonbidapena bidaltzen zaizu, aldian-aldian, beraz, ez duzu zeuk gogoratu beharrik hitzordua eskatzeko; hala ere, joan ala ez erabakitzea beti da zure aukera.\n\nProba bera azkarra da, eta erizain batek egiten du. Jende askok urduritasun pixka bat sentitzen du, eta hori guztiz ulergarria da; zertarako den jakiteak (ohiko kontrol prebentiboa) errazago eramaten lagun dezake.",
+      "deep": null,
+      "when_to_see_doctor": "- Baheketa sintomarik **ez** duzunerako da. Baheketa batetik bestera kezkatzen zaituen zerbait nabaritzen baduzu (ezohiko odoljarioa, adibidez: hilekoen artean, sexu-harremanen ondoren edo menopausiaren ondoren), joan familia-medikuarengana, hurrengo gonbidapenaren zain egon gabe.\n- Gonbidapena jaso baduzu eta joateari buruz zalantzak edo antsietatea badituzu, merezi du zure familia-medikuarekin edo osasun-zentroko erizainarekin hitz egitea; zer egiten den azaldu eta zure galderei erantzun diezaiekete.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Haurren aurkako tratu txarrak eta haurren babesa",
+      "aliases": [
+        "haurren aurkako tratu txarrak",
+        "haurren tratu txarrak",
+        "haurren babesa",
+        "haur bat babestu",
+        "haur batengatik kezkatuta",
+        "utzikeria",
+        "maltrato infantil"
+      ],
+      "glance": "Haur bati kalte egiten ari zaizkiola edo haren zaintza alde batera uzten dutela kezkatzen bazaitu, zuzena da aholkua eskatzea; ez duzu ziur egon beharrik.",
+      "overview": "Haurren aurkako tratu txarrak 18 urtetik beherako edonori egindako kaltea dira. Tratu txar fisikoak, sexualak eta emozionalak barne hartzen ditu, baita utzikeria ere (haurraren oinarrizko beharrak ez betetzea). Zoritxarrez ohikoa da, bizi osorako kaltea eragin dezake, eta ez da inoiz haurraren errua.\n\nBaliteke zure inguruko haur batengatik kezkatuta egotea, edo ikusi duzun haur batengatik. Ez duzu ziur egon beharrik, ezta frogarik izan beharrik ere, kezka horren arabera jarduteko: kezka horretaz fidatzea eta aholkua eskatzea da, hain zuzen, egin beharrekoa, eta haur bat babes dezake.\n\nEta zuk zeuk haurtzaroan tratu txarrak jasan bazenituen, jakin ezazu kaltea ez zela inoiz zure errua, eta zuretzat ere badagoela laguntza, edozein adinetan.",
+      "deep": null,
+      "when_to_see_doctor": "- Haur batengatik kezkatuta bazaude, **haurren babeserako zerbitzuekin / gizarte-zerbitzuekin**, **haurrak babesteko laguntza-telefono** batekin edo **familia-medikuarekin, pediatriako erizainarekin edo haurraren ikastetxearekin** jar zaitezke harremanetan aholku eske, konfidentzialtasunez.\n- Galdetzeagatik ez zara \"gehiegi erreakzionatzen\" ari. Hobe da egiaztatzea itxarotea baino.",
+      "red_flags": "- Haur bat **berehalako arriskuan** badago edo larri zaurituta badago, jarri harremanetan larrialdi-zerbitzuekin orain: **112** Europar Batasunean (Italia barne), **999** Erresuma Batuan, **911** AEBetan eta Kanadan."
+    },
+    "coercive-control": {
+      "title": "Kontrol hertsatzailea",
+      "aliases": [
+        "kontrol hertsatzailea",
+        "portaera kontrolatzailea",
+        "tratu txar emozionala",
+        "tratu txar psikologikoa",
+        "isolamendua",
+        "tratu txar ekonomikoa",
+        "gaslighting",
+        "control coercitivo"
+      ],
+      "glance": "Kontrol hertsatzailea portaera kontrolatzaileen eredu bat da (isolatzea, zelatatzea, mehatxatzea), eta tratu txarren forma aitortua da.",
+      "overview": "Kontrol hertsatzailea tratu txarren forma bat da, kontrolaren bidez funtzionatzen duena, kalte fisikoaren ordez edo harekin batera. Eredu bat da, ez eztabaida bakar bat: pertsona batek, pixkanaka, bestearen askatasuna eta nortasuna mugatzen ditu.\n\nItxura hauek izan ditzake: lagunengandik eta familiarengandik aldentzea, zure telefonoa, mugimenduak edo gastuak zelatatzea edo mugatzea, zer jantzi edo nola jokatu esatea, edo etengabeko kritika, mehatxu edo larderiarekin bizitzea. Ubeldurarik egon ez daitekeenez, izena jartzea zaila izan daiteke, eta besteek agian ez dute ikusiko; baina tratu txartzat aitortzen da, eta indarkeria fisikoa bezain kaltegarria izan daiteke.\n\nHorretako zerbait ezagutzen baduzu, ez da zu sentiberegia zarenaren seinale, ezta zuk eragin duzunarena ere. Portaera kontrolatzailea beste pertsonak hartzen duen erabakia da. Gertatzen ari dena den bezala ulertzea laguntzarako lehen urratsa izan daiteke.",
+      "deep": "Kontrol hertsatzailea askotan poliki-poliki eraikitzen da, eta horrexegatik da zaila barrutik antzematea: kontrol txikiak normal bihurtzen dira, eta norberarekiko zalantzak hazi egiten dira. Denborarekin osasun mentala higatzen du. Eredu horiek ulertzeko prestatuta dagoen norbaitekin hitz egiteak egoera argiago ikusten eta aurrera zer egin nahi duzun pentsatzen lagun zaitzake, presiorik gabe.",
+      "when_to_see_doctor": "- Indarkeriaren aurkako zentro edo laguntza-telefono batek (Italian, **1522**) bizi duzuna zurekin aztertu dezake, konfidentzialki eta doan, eta zure aukerak ulertzen lagundu: ez duzu arrisku fisikoan egon beharrik laguntza eskatzeko.\n- Familia-medikuak edo aholkulari batek ere lagun zaitzakete eta zerbitzu espezializatuetara bideratu.",
+      "red_flags": "- **Berehalako arriskuan** bazaude, jarri harremanetan larrialdi-zerbitzuekin orain: **112** Europar Batasunean (Italia barne), **999** Erresuma Batuan, **911** AEBetan eta Kanadan.\n- Italian, **1522** doakoa da, eguneko 24 orduetan dago eskuragarri, anonimoa eta eleaniztuna da, telefonoz edo txat bidez."
+    },
+    "combined-pill": {
+      "title": "Pilula konbinatua",
+      "aliases": [
+        "pilula konbinatua",
+        "pilula",
+        "ahozko antisorgailu konbinatua",
+        "antisorgailu pilula",
+        "COC",
+        "píldora anticonceptiva"
+      ],
+      "glance": "Pilula konbinatua bi hormona dituen eguneroko pilula da, batez ere obulazioa eragotziz funtzionatzen duena.",
+      "overview": "Pilula konbinatua bi hormona dituen eguneroko pilula da: estrogenoaren eta progestagenoaren bertsioak, obulutegiek sortzen dituztenen antzekoak. Antisorgailu ezagunenetako bat da.\n\nHaurdunaldia hainbat modutan eragozten du aldi berean. Batez ere, obulutegiek obulurik askatzea (obulazioa) eragozten du. Gainera, umetoki-lepoko mukia loditzen du, espermatozoideei igarotzea zailduz, eta umetokiaren barne-geruza mehetzen du.\n\nZenbateraino funtzionatzen duen jarraibideen arabera hartzearen araberakoa da: erabilera perfektuarekin % 99 baino eraginkorragoa da, baina ohiko eguneroko erabilerarekin (pilulak batzuetan ahaztu edo berandu hartzen direnean) % 91 inguru eraginkorra da. Metodo gehienak bezala, ez du sexu-transmisiozko infekzioetatik (STI) babesten; horregatik, batzuek preserbatiboa ere erabiltzen dute.",
+      "deep": "Pilula konbinatua hilabetean zehar eredu jakin baten arabera hartu ohi da, eta nola hartu, norentzat den egokia eta zer bigarren mailako ondorio eta arrisku dituen osasun-profesional batek azaltzen du errezetatzen duenean: ez da guztientzat egokia. Eguneroko metodoa denez, benetako eraginkortasuna ohituraren menpe dago neurri handi batean. Artikulu honek zer den eta nola funtzionatzen duen azaltzen du; hasteko, hartzeko edo uzteko xehetasunak familia-medikuarekin, erizainarekin edo farmazialariarekin hitz egin beharrekoak dira.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Haurdunaldiko sintoma ohikoak",
+      "aliases": [
+        "haurdunaldiko sintomak",
+        "haurdunaldiko ondoezak",
+        "bihotzerrea haurdunaldian",
+        "bizkarreko mina haurdunaldian",
+        "orkatila puztuak",
+        "idorreria haurdunaldian",
+        "haurdunaldiko minak",
+        "síntomas embarazo"
+      ],
+      "glance": "Haurdunaldiak min eta aldaketa txiki asko dakartza; gehienak normalak dira, baina batzuk medikuak aztertzea merezi du.",
+      "overview": "Haurdunaldia aldaketa handia da zure gorputzarentzat, eta eguneroko ondoez txikien zerrenda luzea dakar. Gehienak ohikoak dira eta ez dira zerbait gaizki dagoenaren seinale: haur bat haztearen parte besterik ez dira.\n\nEzagunenetako batzuk: bizkarreko mina, bihotzerrea eta indigestioa, idorreria, hemorroideak, orkatila, oin eta hatz puztuak, nekea eta lo etena, hanketako karranpak, buruko minak, konortea galtzeko sentsazioa eta ohi baino jario gehiago. Askok hobera egiten dute erosotasun-neurri txikiekin, eta zure emaginak zer den segurua iradoki diezazuke zerbaitek traba egiten badizu.\n\nLagungarria da jakitea zein aldaketa diren ohikoak eta zein merezi duten jakinaraztea, sintoma batzuk, ohikoak ez izan arren, medikuak aztertu behar baititu, ez pasatzeko zain egon.",
+      "deep": null,
+      "when_to_see_doctor": "Horietako gehienak normalak dira, baina jarri harremanetan berehala zure **emaginarekin edo amatasun-unitatearekin** hauetakoren bat baduzu:\n\n- **baginako odoljarioa**, edo bat-batean baginatik likido-zurrusta bat edo likidoa tantaka irtetea\n- zure **haurra ohi baino gutxiago mugitzea**\n- **buruko min bizia, ikusmen-arazoak edo aurpegiaren, eskuen edo oinen bat-bateko hantura** (preeklanpsiaren seinale izan daitezke)\n- **sabeleko min bizia edo alde bakarrekoa**, edo **sukarra**\n- **azkura**, batez ere eskuetan eta oinetan, edo gauez okerragoa bada (haurdunaldiko gibeleko arazo baten seinale izan daiteke, eta medikuak aztertu behar du)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Preserbatiboak",
+      "aliases": [
+        "preserbatiboa",
+        "preserbatiboak",
+        "kondoia",
+        "kanpoko preserbatiboa",
+        "hesi-metodoa",
+        "condón"
+      ],
+      "glance": "Preserbatiboak hesi-metodo bat dira, eta sexu-transmisiozko infekzioetatik (STI) ere babesten duen antisorgailu mota bakarra.",
+      "overview": "Preserbatiboa hesi mehe bat da (normalean latexezkoa, edo latexarekiko alergia dutenentzat plastikozko alternatiba bat), sexu-harremanetan zakilean jartzen dena. Modu sinplean funtzionatzen du: espermatozoideak baginan sartzea eragozten du.\n\nPreserbatiboak antisorgailuen artean bereziak egiten dituena da **sexu-transmisiozko infekzioetatik (STI), GIBa barne, ere babesten duen metodo bakarra direla.** Horregatik erabiltzen dira askotan beste metodo batekin batera: bata haurdunaldia saihesteko, eta biak batera infekzioetatik babesteko.\n\nBehar bezala eta aldi oro erabilita, preserbatiboak % 98 inguru eraginkorrak dira haurdunaldia saihesteko. Ohiko erabilerarekin (batzuetan gaizki erabiltzen direnean edo ez aldi oro), % 82 ingurura jaisten da. Behar bezala eta beti erabiltzeak egiten du aldea.",
+      "deep": "Preserbatiboak unean bertan erabiltzen direnez, eta ez aldez aurretik, benetako eraginkortasuna erabilera koherente eta zuzenaren menpe dago neurri handi batean. Barneko preserbatiboak (baginaren barruan jartzen direnak) beste hesi-aukera bat dira. Metodo gehienak ez bezala, preserbatiboek ez dute errezetarik behar eta erraz eskura daitezke, eta haien funtzio bikoitzagatik (haurdunalditik eta STIetatik babestea) agertzen dira hain maiz sexu seguruagoari buruzko elkarrizketetan.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Adostasuna eta errespetua",
+      "aliases": [
+        "adostasuna",
+        "baimena",
+        "haren mugak errespetatu",
+        "adostasun gogotsua",
+        "gorputz-autonomia",
+        "consentimiento"
+      ],
+      "glance": "Adostasuna baiezko argi, aske eta gogotsu bat da, aldi bakoitzean, eta edozein unetan atzera bota daiteke.",
+      "overview": "Errespetua bere gorputzari buruz erabakitzeko duen eskubidetik hasten da, beti. Intimitaterako adostasunak askatasunez emandako, informatutako eta gogotsua den **bai** bat esan nahi du. Isiltasuna ez da adostasuna. Gogo txarrez esandako \"bale\" bat ez da adostasuna. Lo dagoen, oso mozkortuta dagoen edo presiopean dagoen norbaitek ezin du benetan adostasunik eman. Eta gauza bati edo egun batean emandako baiezkoa ez da dena egiteko edo hurrengo aldirako baiezkoa.\n\nAdostasuna edozein unetan atzera bota daiteke, eta \"gelditu\" edo \"gaur ez\" erantzun osoa da, justifikaziorik behar ez duena. Presioa egitea, errudun sentiarazten saiatzea, amore eman arte muturra jartzea edo sexua zor zaizun zerbait bezala tratatzea ez dago ondo: harremana ez da zor bat.",
+      "deep": "Hau da errespetua praktikan:\n\n- **Galdetu, eta egiaztatu.** \"Ondo al dago hau?\" galdetu, eta erreparatu nola erantzuten duen, hitzekin eta gorputzarekin.\n- **Onartu ezetza begirunez.** Muturrik, presiorik eta zigorrik gabe. Haren erantzunarekin amaitzen da kontua.\n- **Gogoak garrantzia du.** Ziur ez dagoela, zalantzan dagoela edo besterik gabe onartzen ari dela badirudi, gelditu eta galdetu.\n- **Haren gorputza, haren erabakia**: intimitateari, antisorgailuei, haurdunaldiari, haren osasunari, itxurari eta aukerei buruz. Zuk ahotsa duzu elkarrekin duzuen bizitzan, baina inoiz ez betorik haren gorputzaren gainean.\n- **Errespetua egunerokoa da.** Harekin nola hitz egiten duzun, hari buruz nola hitz egiten duzun eta gauza txikietan haren mugak nola tratatzen dituzun dira gainerako guztiaren oinarria.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Antisorgailuak",
+      "aliases": [
+        "antisorgailuak",
+        "kontrazepzioa",
+        "metodo antisorgailuak",
+        "familia-plangintza",
+        "haurdunaldia saihestu",
+        "anticonceptivos"
+      ],
+      "glance": "Antisorgailuak haurdunaldia saihesteko modu desberdinak dira, eta asko daude aukeratzeko.",
+      "overview": "Antisorgailuak (kontrazepzioa ere esaten zaio) haurdunaldia saihesteko erabiltzen diren metodoen multzoa dira. Asko daude, eta modu desberdinetan funtzionatzen dute: batzuek hormonak erabiltzen dituzte, beste batzuk hesiak dira, beste batzuk umetoki barruan jartzen dira, eta beste batzuk zikloaren jarraipenean oinarritzen dira.\n\nMetodo batek zenbateraino funtzionatzen duen, neurri handi batean, nola erabiltzen den araberakoa da. Metodo batzuk (besoko inplantea eta DIUak, umetoki barneko gailuak, adibidez) \"jarri eta ahaztu\" motakoak dira, eta % 99 baino eraginkorragoak. Beste batzuk, pilula edo preserbatiboak esaterako, oso eraginkorrak dira ezin hobeto erabiltzen direnean, baina pixka bat gutxiago eguneroko ohiko erabilerarekin, errazagoa baita pilula bat ahaztea edo preserbatiboa gaizki erabiltzea.\n\nJakitea merezi duen gauza bat: **preserbatiboek bakarrik babesten dute sexu-transmisiozko infekzioetatik (STI) ere**. Beste metodoek haurdunaldia saihesten dute, baina ez infekzioak; horregatik erabiltzen dira batzuetan preserbatiboak beste metodo batekin batera.\n\nEz dago metodo \"onena\" bakar bat: egokiena zure osasunaren, zure gorputzaren eta zure bizitzari zer egokitzen zaion araberakoa da. Familia-medikuak edo sexu-osasuneko klinika batek aukerak azal diezazkizukete eta aukeratzen lagundu.",
+      "deep": "Metodoak hain desberdinak direnez, lagungarria da zuretzat zer den garrantzitsua pentsatzea: zenbateko eraginkortasuna duen, egunero zerbait gogoratu behar den ala ez, zenbat irauten duen, hormonak nahi dituzun ala ez, eta zure egoeran STIetatik babestea garrantzitsua den ala ez. Jende askok metodoz aldatzen du bizitzan zehar, beharrak aldatu ahala. Ezagutza-base honek metodo ohikoenek nola funtzionatzen duten azaltzen du, aukerak argiago ikus ditzazun; baina erabakia, eta edozein errezeta edo gailu-jartze, osasun-profesional batekin hartu beharrekoa da.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Antisorgailuak eta pisua",
+      "aliases": [
+        "pilulak loditzen al du",
+        "pilula eta pisua",
+        "antisorgailuak eta pisua",
+        "pisua hartzea pilularekin",
+        "injekzio antisorgailua pisua",
+        "inplantea eta pisua",
+        "anticonceptivos engordar"
+      ],
+      "glance": "Ez dago ebidentziarik pilula konbinatuak pisua irabazarazten duenik, baina injekzio antisorgailuak bai eragin dezake. Metodoaren araberakoa da.",
+      "overview": "Antisorgailuek pisua hartzea eragingo ote duten galdetzea oso ohikoa da. Erantzun zintzoa da metodoaren araberakoa dela.\n\nPilula konbinatuari dagokionez, ebidentzia lasaigarria da: ez dago ebidentziarik hura hartzeak pisua irabazarazten duenik. Gauza bera gertatzen da adabaki antisorgailuarekin eta baginako eraztunarekin.\n\nInjekzio antisorgailua desberdina da. Pisua hartzea haren bigarren mailako ondorio ohikoetako bat bezala ageri da, hilekoaren aldaketekin batera.\n\nProgestageno hutsezko pilularekin (batzuetan minipilula deitua) eta besoko inplante antisorgailuarekin, batzuek pisua hartu dutela diote. Baina ez dago nahikoa ebidentziarik metodoa bera kausa den ala ez esateko.\n\nPisua irudiaren zati bat besterik ez da. Metodo bakoitzak bere bigarren mailako ondorio eta arrisku posibleen zerrenda du, eta antisorgailua aukeratzea zure gorputzari, osasunari eta bizitzari egokitzen zaiona aurkitzea da. Farmazialari batek, familia-medikuak, erizain batek edo sexu-osasuneko klinika batek aukerak zurekin azter ditzake.",
+      "deep": null,
+      "when_to_see_doctor": "- Bigarren mailako ondorioak (pisuaren aldaketak barne) arazo badira zuretzat, hitz egin farmazialari batekin, familia-medikuarekin, erizain batekin edo sexu-osasuneko klinika batekin. Pilula konbinatuarekin, adabakiarekin edo eraztunarekin, bigarren mailako ondorio batzuk hasi berritan ager daitezke. 3 hilabete inguru igaro ondoren oraindik traba egiten badizute, osasun-profesional batek beste pilula bati edo beste antisorgailu mota bati buruz hitz egin dezake zurekin.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Besoko inplante antisorgailua",
+      "aliases": [
+        "inplante antisorgailua",
+        "besoko inplantea",
+        "inplantea",
+        "Nexplanon",
+        "implante anticonceptivo"
+      ],
+      "glance": "Inplantea besoaren goiko aldean jartzen den hagatxo txiki bat da, urte batzuetan zehar hormona bat askatzen duena.",
+      "overview": "Besoko inplante antisorgailua hagatxo txiki eta malgu bat da (pospolo baten tamainakoa, gutxi gorabehera), prestatutako osasun-profesional batek besoaren goiko aldean, azalaren azpian, jartzen duena. Jarrita dagoenean, progestageno hormona bat askatzen du etengabe, eta hiru urte ingurura arte funtzionatzen du.\n\nHaurdunaldia eragozten du batez ere obulutegiek obulurik askatzea (obulazioa) eragotziz, eta umetoki-lepoko mukia loditzen du, espermatozoideak igaro ez daitezen. Egunez egun gogoratu beharreko ezer ez dagoenez, \"jarri eta ahaztu\" metodoetako bat da.\n\nHorregatik da, halaber, aukerarik fidagarrienetako bat: inplantea % 99 baino eraginkorragoa da, eta haren eraginkortasuna ia ez da aldatzen erabilera perfektuaren eta ohikoaren artean. Beste metodo hormonal batzuk bezala, ez du STIetatik babesten.",
+      "deep": "Inplantea iraupen luzeko metodo itzulgarria da: kendu arte funtzionatzen jarraitzen du, eta ugalkortasuna kendu ondoren itzultzen da. Jartzea eta kentzea osasun-profesional batek egiten dituen prozedura azkarrak dira; profesional horrek berak azaltzen du norentzat den egokia eta zer bigarren mailako ondorio dituen. Artikulu honek zer den eta nola funtzionatzen duen azaltzen du; bat jartzeko erabakia familia-medikuarekin, erizainarekin edo sexu-osasuneko klinika batekin hitz egin beharrekoa da.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Zure zikloa eta zure ongizatea",
+      "aliases": [
+        "ongizatea",
+        "zikloa eta osasuna",
+        "hilekoaren zikloa eta osasuna",
+        "bizi-zeinua",
+        "bienestar ciclo"
+      ],
+      "glance": "Zure zikloa zure osasunaren hileroko kontrol moduko bat da; haren aldaketei erreparatzea merezi izan dezake.",
+      "overview": "Zure hilekoaren zikloa ez dago gainerako osasunetik bereizita: harekin lotuta dago. Zuretzat erregularra den ziklo bat, oro har, zure gorputza behar bezala dabilenaren seinale da. Horregatik, batzuek hilekoa ongizate orokorrari buruzko hileroko seinale moduko bat bezala ikusten dute.\n\nEguneroko bizitzak eragina du horretan. Gorputzaren pisua da adibide bat: pisu nabarmen baxua edo altua izateak obulazioa eragiten duten hormonei eragin diezaieke, eta horrek hilekoak irregular bihur ditzake. Bi norabideetan funtzionatzen du: oinarrizkoak zaintzeak (elikadura orekatua eta aktibo mantentzea, adibidez) zikloari laguntzen dio, eta ziklo egonkorra gauza horiek oreka egokian daudenaren seinale da.\n\nKontua ez da ziklo \"perfektu\" baten atzetik ibiltzea edo aldaketengatik zeure burua errudun sentitzea. Besterik gabe, zure zikloari arreta leuna jartzeak zu nola zauden ikusteko leiho erabilgarria izan daiteke, eta, zerbait aldatzen bada, osasun-profesional batekin kontsultatzeko abisua.",
+      "deep": null,
+      "when_to_see_doctor": "- Joan familia-medikuarengana zure hilekoak irregular bihurtzen badira, desagertzen badira edo zuretzat ohikoa ez den moduan aldatzen badira: aldaketa iraunkorrek batzuetan aztertzea merezi duen zerbait adieraz dezakete.\n- Hilekoaren arazoek zure eguneroko bizitzari eragiten badiote ere merezi du hitz egitea, laguntza jaso dezazun, besterik gabe jasan beharrean.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Indarkeria ekonomikoa",
+      "aliases": [
+        "indarkeria ekonomikoa",
+        "tratu txar ekonomikoa",
+        "diruaren kontrola",
+        "finantzak kontrolatzea",
+        "zorrak nire izenean",
+        "violencia económica"
+      ],
+      "glance": "Indarkeria ekonomikoa norbaiten dirurako, lanerako edo baliabideetarako sarbidea kontrolatzea da, tratu txarren forma aitortua.",
+      "overview": "Indarkeria ekonomikoa da norbaitek beste pertsona baten dirurako eta diruarekin erosten diren gauzetarako sarbidea kontrolatzen duenean. Portaera kontrolatzailearen forma bat da, eta askotan beste tratu txar mota batzuekin batera agertzen da.\n\nItxura hauek izan ditzake: gastu guztiak kontrolatzea edo zentimo bakoitzaren kontuak ematera behartzea, zure soldata edo laguntzak hartzea, zure izenean zorrak pilatzea, banku-kontuak edo agiriak zuri ezkutatzea, edo lan egitea edo ikastea eragoztea. Pertsona bat alde egiteko edo egunerokoa kudeatzeko baliabiderik gabe utz dezakeenez, tratu txarrak tranpa bat bezala senti daitezkeen moduetako bat da.\n\nHorietako zerbait ezaguna egiten bazaizu, ez da \"diruarekin trakets\" zarenaren seinale, ezta zu errudun zarenarena ere. Beste pertsona baten baliabideak kontrolatzea beste pertsonak hartzen duen erabakia da, eta tratu txartzat aitortzen da.",
+      "deep": null,
+      "when_to_see_doctor": "- Indarkeriaren aurkako zerbitzuek honetan ere lagun dezakete: ez bakarrik segurtasunean, baita urrats praktiko eta ekonomikoetan ere, konfidentzialki eta doan (Italian, **1522** laguntza-telefonoak tokiko laguntzara bidera zaitzake).\n- Segurtasun-plan batek barne har dezake, isilpean, diru pixka bat, agiri garrantzitsuak eta telefono-zenbaki garrantzitsuak eskura izatea bermatzea.",
+      "red_flags": "- **Berehalako arriskuan** bazaude, jarri harremanetan larrialdi-zerbitzuekin orain: **112** Europar Batasunean (Italia barne), **999** Erresuma Batuan, **911** AEBetan eta Kanadan.\n- Italian, **1522** telefonoak (doakoa, eguneko 24 orduetan, anonimoa, eleaniztuna) lagun zaitzake telefonoz edo txat bidez."
+    },
+    "ectopic-pregnancy": {
+      "title": "Haurdunaldi ektopikoa",
+      "aliases": [
+        "haurdunaldi ektopikoa",
+        "ektopikoa",
+        "tronpako haurdunaldia",
+        "umetokitik kanpoko haurdunaldia",
+        "embarazo ectópico"
+      ],
+      "glance": "Haurdunaldi ektopikoa umetokitik kanpo garatzen da; ezin du aurrera egin, eta berehalako arreta medikoa behar du.",
+      "overview": "Haurdunaldi ektopikoa da obulu ernaldua umetokitik kanpo ezartzen denean, gehienetan Falopioren tronpetako batean. Zoritxarrez, leku horretan dagoen haurdunaldi bat ezin da haur bihurtu, eta ezin da umetokira eraman; beraz, beti tratatu behar da.\n\nSeinaleak 4. eta 12. asteen artean agertu ohi dira, gutxi gorabehera, eta hauek izan daitezke: sabelaren beheko aldean, alde batean, mina; baginako odoljarioa edo jario marroi eta urtsua; sorbaldaren puntan mina; edo pixa edo kaka egitean ondoeza. Sintomen konbinazioa aldatu egiten da, eta batzuk erraz nahas daitezke zerbait arinarekin; horregatik da garrantzitsua medikuak aztertzea.\n\nEgoera ez-ohikoa da, baina larria izan daitekeena; beraz, ez da pasatzeko zain egoteko zerbait. Goiz aholkua eskatzeak arreta modu seguruan ematea ahalbidetzen du.",
+      "deep": null,
+      "when_to_see_doctor": "- Jarri harremanetan familia-medikuarekin edo **guardiako mediku batekin** sintoma horietako batzuk batera badituzu **eta haurdun egon zaitezkeela uste baduzu**, haurdunaldi-test positiborik izan ez baduzu ere. Garrantzitsua da berehala aholkua jasotzea.",
+      "red_flags": "- Deitu **{{emergency}} zenbakira edo joan ospitaleko larrialdi-zerbitzura** **sabelean bat-bateko min zorrotz eta bizia** baduzu, **zorabio handia edo konortea galtzeko sentsazioa** baduzu, **oso zurbil** bazaude, edo horiekin batera goragalea baduzu. Horrek Falopioren tronpa hautsi dela esan dezake: larrialdi medikoa da, eta premiazko tratamendua behar du."
+    },
+    "emergency-contraception": {
+      "title": "Larrialdiko antisorgailua",
+      "aliases": [
+        "larrialdiko antisorgailua",
+        "biharamuneko pilula",
+        "hurrengo eguneko pilula",
+        "larrialdiko pilula",
+        "Levonelle",
+        "ellaOne",
+        "píldora del día después"
+      ],
+      "glance": "Larrialdiko antisorgailuak babesik gabeko sexu-harremanen ondoren haurdunaldia saihets dezake, eta zenbat eta lehenago, hobe.",
+      "overview": "Larrialdiko antisorgailua haurdunaldia saihesteko modu bat da antisorgailurik gabeko sexu-harremanen ondoren, edo zure ohiko metodoak huts egin duenean (ahaztutako pilula bat, preserbatibo apurtu bat). Bi mota daude, eta bietan denbora garrantzitsua da.\n\nLehena **larrialdiko pilula** (biharamuneko pilula) da. Bi mota daude: bata (lebonorgestrela) sexu-harremanetik 3 egunera arte (72 ordu) har daiteke, eta bestea (ulipristal azetatoa, ellaOne marka) 5 egunera arte (120 ordu). Bigarren aukera **kobrezko DIUa (umetoki barneko gailua)** da, osasun-profesional batek jar dezakeena sexu-harremanetik 5 egunera arte; larrialdiko antisorgailurik eraginkorrena da, eta, nahi baduzu, jarrita utz daiteke ondoren ohiko antisorgailu gisa.\n\nHorietan guztietan, **zenbat eta lehenago erabili, orduan eta hobeto funtzionatu ohi dute**; beraz, merezi du azkar jardutea, itxaron beharrean. Larrialdiko antisorgailua farmazian, familia-medikuarengan, sexu-osasuneko klinikan edo hitzordurik gabeko arreta-zentro batean lor dezakezu, askotan doan.",
+      "deep": null,
+      "when_to_see_doctor": "- Denbora garrantzitsua denez, ez itxaron: farmazialari batek larrialdiko pilula azkar eman diezazuke, eta sexu-osasuneko klinika batek edo familia-medikuak DIUa jar dezake.\n- Larrialdiko antisorgailuak haurdunaldia saihesten du, ez infekzioak. Sexu-transmisiozko infekzioren bat izateko aukerarik badago, sexu-osasuneko klinika batek probei buruzko aholkua eman diezazuke.\n- Ondoren hilekoa egun batzuk baino gehiago atzeratzen bada, edo ohikoaren oso desberdina bada, merezi du haurdunaldi-test bat egitea eta osasun-profesional batekin hitz egitea.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriosia",
+      "aliases": [
+        "endometriosia",
+        "endo",
+        "endometriosis",
+        "hileko min bizia",
+        "pelbiseko mina"
+      ],
+      "glance": "Endometriosia umetokiaren barne-geruzaren antzeko ehuna umetokitik kanpo hazten den gaixotasuna da, eta askotan mina eragiten du.",
+      "overview": "Endometriosia epe luzeko gaixotasun bat da: umetokiaren barne-geruzaren antzeko zelulak gorputzaren beste leku batzuetan hazten dira, hala nola obulutegien inguruan, pelbisean edo hesteetan. Ohikoa da: kalkuluen arabera, mundu osoan ugalketa-adinean dauden 10 emakumetik 1i eragiten dio, gutxi gorabehera.\n\nEhun horrek umetokiaren barne-geruzaren antzera jokatzen duenez, hantura eta, denborarekin, orbain-ehuna eragin ditzake. Seinalerik ohikoena mina da: askotan hileko min bizia, baina baita pelbiseko edo gerrialdeko mina beste une batzuetan, sexu-harremanetan edo haien ondoren mina, eta pixa edo kaka egitean mina ere. Hileko oso ugariak, neke sakona, aldarte apala eta haurdun geratzeko zailtasuna ere ohikoak dira. Sintomak asko aldatzen dira: batzuek min handia dute, beste batzuek gutxi.\n\nEndometriosia askotan gaizki ulertzen da, eta urteak igaro daitezke antzeman arte, neurri batean hileko mina askotan \"normaltzat\" jotzen delako. Zure bizitza oztopatzen duen min bizia ez da besterik gabe jasan behar duzun zerbait: merezi du serio hartzea.",
+      "deep": "Endometriosiaren kausa zehatza ez da ezagutzen, eta gaur egun ez dago sendabiderik, baina tratamenduek sintomak kudeatzen lagun dezakete; laguntza botiketatik hasi eta, zenbaitentzat, kirurgiaraino doa, eragin fisiko eta emozionalerako laguntzarekin batera. Erronkarik handienetako bat atzerapena da: batez beste hainbat urte, batzuetan asko, behar izan daitezke diagnostikoa lortzeko. Horregatik izan daiteke hain garrantzitsua zure sintomen erregistro argia gordetzea, eta, entzuten ez bazaituzte, osasun-profesionalarengana itzultzea.",
+      "when_to_see_doctor": "Merezi du familia-medikuarengana joatea:\n\n- ohiko jarduerak egitea eragozten dizun hileko min bizia baduzu\n- hilekoak oso ugariak badira; adibidez, konpresa edo tanpoia 1-2 orduro aldatu behar baduzu\n- pelbiseko edo gerrialdeko min iraunkorra, sexu-harremanetan edo haien ondoren mina, edo pixa edo kaka egitean mina baduzu\n- haurdun geratzea kostatzen ari bazaizu\n- jaso duzun tratamenduak ez badu lagundu, edo sintomek okerrera egin badute\n\nEndometriosia diagnostikatzeak denbora eska dezakeenez, ondo dago berriro joatea zure sintomak serio hartzen ez badituzte: denboran zehar zure minaren irudi argia izateak laguntzen du. Minak edo odoljario ugariak zure aldarteari ere eragiten badiote, esan familia-medikuari; hori ere irudiaren parte da, eta badago laguntza.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogenoa",
+      "aliases": [
+        "estrogenoa",
+        "estrogenoak",
+        "estradiola",
+        "oestrogen",
+        "estrógeno"
+      ],
+      "glance": "Estrogenoa funtsezko hormona bat da, ziklo bakoitzean zure gorputza haurdunaldi posible baterako prestatzen laguntzen duena.",
+      "overview": "Estrogenoa hilekoaren zikloaren atzean dauden hormona nagusietako bat da. Zikloaren lehen erdian (fase folikularrean), haren maila igo egiten da obulutegiko folikulu bat heltzen den heinean. Igoera horrek umetokiaren barne-geruza loditzen du eta obulaziora darama.\n\nEstrogenoak egunez egun nabari ditzakezun gauzetan ere eragiten du: energian, aldartean eta zure egun emankorren inguruko umetoki-lepoko mukiaren aldaketetan. Obulazioaren ondoren, haren maila jaitsi egiten da eta gero berriro aldatzen da, beste hormona batekin, progesteronarekin, batera jardunez zikloaren bigarren erdian.\n\nMailak berez igotzen eta jaisten dira ziklo bakoitzean, eta bizitzaren etapetan zehar ere aldatzen dira. Hori normala da: zure gorputzaren erritmoa da, ez \"konpondu\" beharreko zerbait.",
+      "deep": "Estrogenoa ez da substantzia bakar bat, elkarren artean lotutako hormona talde bat baizik (zikloan aktiboena estradiola da). Gehiena obulutegiek sortzen dute, hazten ari den folikuluan. Haren igoera eta jaitsiera ziklikoak (progesteronarekin eta garuneko seinale-hormonekin, LH eta FSHrekin, batera) eragiten ditu zikloaren faseak. Estrogenoak sistema askotan eragiten duenez, haren aldaketa naturalak modu txikietan ager daitezke hilabete osoan; jarraipena egiteak zure eredua ezagutzen laguntzen dizu, \"batez besteko\" batekin alderatu beharrean.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Mugimendua eta zure zikloa",
+      "aliases": [
+        "ariketa fisikoa",
+        "jarduera fisikoa",
+        "kirola",
+        "mugimendua",
+        "ariketa eta hilekoa",
+        "deporte regla"
+      ],
+      "glance": "Aktibo egon zaitezke ziklo osoan zehar, eta mugimendu erregularrak karranpak eta hilaurreko sindromea arin ditzake.",
+      "overview": "Fisikoki aktibo egon zaitezke zikloaren edozein unetan. Batzuek hilabeteko une jakin batzuetan energia gehiago dutela eta pixka bat gehiago estutu dezaketela sentitzen dute, eta beste batzuetan gutxiago; biak dira normalak, eta bietako bat ere ez da mugitzeari uzteko arrazoia.\n\nJarduera erregularrak hilekoarekin lotutako sintoma batzuekin lagun dezake. Ariketa erregularki egiten dutenek, askotan, karranpa mingarri gutxiago izaten dituzte, eta aktibo egoteak hilaurreko sindromearen sintomak ere arin ditzake. Energia gutxiko egunetan, mugimendu leunagoak ere balio du: ez du bizia izan behar merezi izateko.\n\nEz dago zure bizitza zikloaren arabera antolatu beharrik, ezta mugitzeko modu \"zuzen\" bakar bat ere. Hilabetean zehar zure energiaren eredua nabaritzeak, besterik gabe, ondo sentiarazten zaituen moduan planifikatzen lagun zaitzake.",
+      "deep": null,
+      "when_to_see_doctor": "- Entrenamendu oso gogorrak, edo zure gorputza energiarik gabe geratzeraino ariketa egiteak, hilekoak irregular bihur ditzake edo guztiz eten. Ziklo erregularra, oro har, gauzak ondo doazenaren seinale da; beraz, merezi du familia-medikuarekin hitz egitea zure hilekoak irregular bihurtzen badira edo eteten badira: denborarekin, hezurren eta hormonen osasunarekin lotuta egon daiteke.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Ariketa fisikoa haurdunaldian",
+      "aliases": [
+        "ariketa haurdunaldian",
+        "aktibo egon haurdun",
+        "haurdunaldiko ariketak",
+        "kirola haurdunaldian",
+        "forma fisikoa haurdunaldian",
+        "ejercicio embarazo"
+      ],
+      "glance": "Aktibo egotea segurua eta ona da haurdunaldi gehienetan: leunki, zeure burua akitu gabe.",
+      "overview": "Haurdunaldian aktibo egotea ona da zuretzat eta ez da arriskutsua zure haurrarentzat; izan ere, forma onean egoteak datozen aldaketei eta erditzeari aurre egiten lagun zaitzake. Ez duzu ezer bizirik hasi beharrik; zure eguneroko jarduera normalarekin jarraitzea, eroso sentitzen zaren bitartean, abiapuntu ona da.\n\nArau erraz bat: mugitzen ari zarela **elkarrizketa bat izateko gai** izan beharko zenuke. Hitz egiteko arnasestuegi bazaude, moteldu. Aukera leunak, hala nola ibiltzea, igeri egitea, haurdunentzako uretako eskolak eta haurdunentzako yoga, egokiak dira gehienentzat. Lehen aktiboa ez bazinen, ez da une egokia ohitura berri eta gogor bati ekiteko: hobe da pixkanaka hastea.\n\nJarduera batzuk hobe da saihestea edo kontuz egitea: adibidez, 16. aste inguratik aurrera bizkarrez etzanda egotea, kontaktuko kirolak, urpekaritza eta erortzeko benetako arriskua duen edozer.",
+      "deep": null,
+      "when_to_see_doctor": "- Galdetu zure **emaginari** ariketa aerobikoko programa berri bati ekin aurretik, edo osasun-arazoren bat edo haurdunaldiari buruzko kezkaren bat baduzu.\n- **Gelditu eta eskatu aholkua** ariketa egiten ari zarela gaizki sentitzen bazara, zorabioa edo arnasestu handia baduzu, edo minik, odoljariorik edo uzkurdurarik baduzu.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Leiho emankorra",
+      "aliases": [
+        "leiho emankorra",
+        "egun emankorrak",
+        "egunik emankorrenak",
+        "ugalkortasun-leihoa",
+        "días fértiles"
+      ],
+      "glance": "Leiho emankorra ziklo bakoitzeko egun gutxi batzuk dira: sexu-harremanek haurdunaldia ekar dezaketen egunak.",
+      "overview": "Leiho emankorra zikloaren tarte laburra da, haurdunaldia posible den tartea. Guztiz bat ez datozen bi denboragatik existitzen da: obulua askatu ondoren 12-24 ordu inguruz bakarrik ernal daiteke, baina espermatozoideek hainbat egunez biziraun dezakete gorputzaren barruan (astebete ingurura arte), obulu baten zain.\n\nBiak batera hartuta, horrek esan nahi du leihoa obulazioa baino egun batzuk lehenago irekitzen dela eta obulazioa gertatu eta egun batera, gutxi gorabehera, ixten dela. Praktikan, obulazioaren aurreko 2-3 egunetan eta obulazio-egunean bertan zaude emankorren, obulua iristen denean espermatozoideak bertan egon daitezkeelako.\n\nObulazioa ziklo batetik bestera alda daitekeenez, leiho emankorra ere mugitzen da. Horregatik hartzen da normalean egun-tarte bat bezala, eta ez data bakar bat bezala, eta horregatik da fidagarriagoa hainbat ziklotan seinaleen jarraipena egitea egutegiko kalkulu bakar batean konfiantza izatea baino.",
+      "deep": "Egun zehatzak pertsonaren eta hilabetearen arabera aldatzen dira; beraz, leihoa gorputzaren beraren seinaleetatik kalkulatzen da hobekien, eta ez formula finko batetik. Umetoki-lepoko mukiaren aldaketek leihoa irekitzen ari dela adierazten dute obulazioa hurbiltzen denean, eta atsedeneko gorputz-tenperaturaren igoerak berresten du, gertatu ondoren, obulazioa igaro dela eta leihoa itxi dela. Obulazio-testek urrats bat lehenago funtzionatzen dute: obulua askatu baino pixka bat lehenago gertatzen den hormona luteinizatzailearen (LH) igoera detektatzen dute.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Lehen hilekoa (menarkia)",
+      "aliases": [
+        "lehen hilekoa",
+        "menarkia",
+        "hilekoa hastea",
+        "lehen aldiz hilekoa",
+        "primera regla"
+      ],
+      "glance": "Lehen hilekoa normalean 12 urte inguruan etortzen da; 8 eta 17 urte bitartean edozein adin da normala.",
+      "overview": "Lehen hilekoa (batzuetan menarkia deitua) hilekoaren zikloa lehen aldiz hasten den unea da. Gehienak 12 urte inguruan hasten dira, baina 8 eta 17 urte bitartean edozein adin da normala. Askotan bularrak garatzen hasi eta bi urte ingurura etortzen da.\n\nNormalean aurretik seinale batzuk izaten dira: galtzarbeko eta pubiseko ilea haztea, eta aurreko hilabeteetan jario garbi edo zuri pixka bat. Seinale horiek datozela jakiteak lehen hilekoa hain bat-batekoa ez izaten lagun dezake.\n\nHasieran, hilekoak irregularrak izan ohi dira askotan: tarteak luzeak edo laburrak izan daitezke, eta zure gorputzak hainbat hilabete, baita urte pare bat ere, behar izan ditzake erritmo egonkorrago batean finkatzeko. Hori gertatzen denean, hilekoak 23 eta 35 egun bitartean behin etortzen dira gutxi gorabehera, eta 2 eta 7 egun artean irauten dute. Hasierako irregulartasuna normala da, eta ez da kezkatzeko modukoa.",
+      "deep": null,
+      "when_to_see_doctor": "- Joan familia-medikuarengana hilekoa **15 urterekin hasi ez bada**, edo **13 urterekin, pubertaroaren beste seinalerik ez badago** (bularren garapena edo gorputz-ilea, adibidez). Gauzak espero bezala garatzen ari direla egiaztatzeko besterik ez da: normalean dena ondo dago.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Azido folikoa eta bitaminak haurdunaldian",
+      "aliases": [
+        "azido folikoa",
+        "folatoa",
+        "D bitamina haurdunaldian",
+        "haurdunaldiko bitaminak",
+        "osagarriak haurdunaldian",
+        "ácido fólico"
+      ],
+      "glance": "Haurdunaldiaren aurretik eta hasieran hartutako azido folikoak haurra babesten laguntzen du; horrez gain, D bitamina egunero.",
+      "overview": "Bi osagarri benetan garrantzitsuak dira haurdunaldian, eta NHSk biak gomendatzen ditu.\n\n**Azido folikoa** da nagusia. Egunero 400 mikrogramoko osagarri bat hartzeak (ahal dela haurdun geratu aurretik, hiru hilabete lehenago gutxi gorabehera, eta lehen hiruhilekoaren amaierara arte, 12. astera arte) haurra hodi neuralaren akatsetatik babesten laguntzen du, espina bifidatik, adibidez. Hain goiz eragiten duenez, haurdun geratu nahian bazabiltza haurdunaldiaren *aurretik* hastea merezi duten gauza gutxietako bat da.\n\n**D bitamina** da bestea: egunero 10 mikrogramoko osagarri bat gomendatzen da haurdunaldi osoan eta edoskitzean, haurraren hezurrei eta garapenari laguntzeko.\n\nBi horietaz gain, dieta osasuntsu eta askotarikoak behar gehienak betetzen ditu: ez duzu osagarri gehigarri askorik behar. Saihestu beharrekoa **A bitamina** (retinola) da: ez hartu hura duten osagarririk, eta saihestu gibela, A bitamina gehiegik haurrari kalte egin diezaiokeelako.",
+      "deep": null,
+      "when_to_see_doctor": "- **Familia-medikuak, emaginak edo farmazialari batek** osagarri egokiak aukeratzen lagun zaitzakete, eta batzuei **azido folikoaren dosi handiagoa** hartzeko gomendatzen zaie (adibidez, diabetesa, gorputz-masaren indize altuagoa edo botika jakin batzuk badituzte, edo aurreko haurdunaldi batean hodi neuralaren akatsa izan bazen); beraz, merezi du galdetzea, batez ere haurdunaldiaren aurretik edo hasieran.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Fase folikularra",
+      "aliases": [
+        "fase folikularra",
+        "zikloaren lehen erdia",
+        "folikulu-fasea",
+        "fase folicular"
+      ],
+      "glance": "Fase folikularra zikloaren lehen erdia da: obulu bat heltzen da eta umetokiaren barne-geruza loditzen da.",
+      "overview": "Fase folikularra zikloaren lehen zatia da. Hilekoaren lehen egunean hasten da eta obulazioa arte iristen da. Izena folikulutik dator: obulutegiko likidoz betetako zaku txikia, garai horretan obulu bat gordetzen eta hazten duena.\n\nFase honetan zehar estrogeno hormona igotzen da. Igotzen ari den estrogenoak bi gauza nagusi egiten ditu: obulutegiko folikulu bat heltzen laguntzen du, eta umetokiaren barne-geruza loditzen du, gorputza prestatzeko, zikloan geroago haurdunaldiren bat hasiko balitz ere.\n\nEstrogenoa igotzen ari denez, batzuek energia gehiago edo umetoki-lepoko mukiaren aldaketak nabaritzen dituzte egun emankorrak hurbildu ahala. Bakoitzaren esperientzia desberdina da, eta horietako ezerk ez du \"kudeatu\" beharrik: zure zikloaren lehen erdia bere lana egiten ari da, besterik ez.",
+      "deep": "Fase folikularraren iraupena ziklo batetik bestera alda daiteke, eta horregatik, neurri batean, ziklo osoak desberdinak dira pertsona batetik bestera eta hilabete batetik bestera. Igotzen ari den estrogenoak obulu bat askatzea (obulazioa) eragiten laguntzen duenean amaitzen da. Azken egunak obulaziora daramatzanez, orduan irekitzen da leiho emankorra; horregatik da garrantzitsua fase folikularraren amaiera ugalkortasunaren jarraipena egiten duen edonorentzat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Haurdunaldian saihestu beharreko elikagaiak",
+      "aliases": [
+        "haurdunaldian saihestu beharreko elikagaiak",
+        "haurdunaldiko dieta",
+        "zer ez jan haurdun",
+        "kafeina haurdunaldian",
+        "listeria",
+        "alimentos prohibidos embarazo"
+      ],
+      "glance": "Elikagai gehienak ondo daude haurdunaldian; batzuk saihestea merezi du, eta lagungarria da kafeina gutxi hartzea.",
+      "overview": "Albiste ona da elikagai gehienak guztiz egokiak direla haurdunaldian: gutxi batzuk bakarrik merezi dute saihestea edo kontuz jatea, batez ere listeria bezalako mikrobioak edo bitamina jakin batzuen gehiegizko kantitatea saihesteko. Zerrenda laburra ezagutzeak gainerakoaz lasai egoteko aukera ematen dizu.\n\nNHSk kontuz ibiltzeko gomendatzen du honako hauekin:\n\n- **Gazta batzuk**: kanpoko lizunarekin ontzen diren gazta bigunak, brie eta camembert kasu, eta gazta urdin bigunak, lurruna darien arte berotzen ez badira; eta esne **pasteurizatu gabearekin** egindako edozer.\n- **Haragi gordina edo gutxi egina**, haragi ondu hotzak, **patea** eta **gibela** (A bitamina asko duena).\n- **Arrautza gordinak edo erdi eginak**, Erresuma Batuko British Lion zigilua ez badute.\n- **Arrain batzuk**: saihestu marrazoa, ezpata-arraina eta marlina, mugatu atuna, eta ez jan astean arrain urdinaren bi errazio baino gehiago.\n- **Kafeina**: mantendu egunean 200 mg inguruaren azpitik (kafe disolbagarriko bi katilu handi inguru), tea, kola, edari energetikoak eta txokolatea ere kontuan hartuta.",
+      "deep": null,
+      "when_to_see_doctor": "- Jarraibide orokorrak dira, ez dieta zorrotza: zuretzat zer den segurua galdetu nahi baduzu, edo elikadura-behar berezirik baduzu, zure **emaginak** zurekin azter dezake.\n- \"Saihestu\" zerrendako zerbait jan baduzu, saiatu larritu gabe; esan zure emaginari kezkatuta bazaude edo gaizki sentitzen bazara.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Folikulu-hormona estimulatzailea (FSH)",
+      "aliases": [
+        "fsh",
+        "folikulu-hormona estimulatzailea",
+        "folikuluak estimulatzen dituen hormona",
+        "hormona folikulu-estimulatzailea",
+        "hormona foliculoestimulante"
+      ],
+      "glance": "FSH garuneko hormona bat da, ziklo bakoitzaren hasieran obulutegiko folikuluak hazteko bultzada ematen duena.",
+      "overview": "FSH (folikulu-hormona estimulatzailea) zikloa martxan jartzen duten hormona mezularietako bat da. Garuneko guruin txiki batek (hipofisiak) sortzen du, eta, izenak dioen bezala, folikuluak estimulatzen ditu: obulutegiko likidoz betetako zaku txikiak, bakoitzak obulu bat duena.\n\nZikloaren hasieran, FSHk folikulu horietako talde bati hazten hasteko bultzada ematen dio. Folikulu bat garatu ahala, estrogeno gehiago askatzen du, eta horrek, aldi berean, umetokiaren barne-geruza loditzen du, haurdunaldi posible baterako prest egon dadin. Normalean folikulu bat bihurtzen da nagusi, eta hori da obulaziora iristen dena.\n\nFSH zikloaren joan-etorri normalaren parte gisa igotzen eta jaisten da. Ez duzu FSH zuzenean sentitzen: isilean lan egiten du atzealdean, fase folikularreko aldaketa ikusgarriagoak prestatuz.",
+      "deep": "FSHk hormona luteinizatzailearekin (LH) batera lan egiten du; biak garuneko hipofisiak askatzen ditu, eta elkarrekin eramaten dituzte obulutegiak zikloan zehar. FSHk gidatzen du lehen erdia, folikuluak haziz, eta geroago LHren igoerak zikloaren erdiko obulu-askapena markatzen du. Lankidetza horregatik erabiltzen dituzte ugalkortasun-tratamenduek FSHn oinarritutako botikak ere: FSH gehigarria emateak hainbat folikulu aldi berean heltzera bultzatzen ditu, ziklo natural batek normalean sortzen duen bakarraren ordez.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Haurdunaldiko diabetesa",
+      "aliases": [
+        "haurdunaldiko diabetesa",
+        "diabetes gestazionala",
+        "odoleko azukre altua haurdunaldian",
+        "O'Sullivan testa",
+        "glukosa-proba haurdunaldian",
+        "diabetes gestacional"
+      ],
+      "glance": "Haurdunaldiko diabetesa haurdunaldian odoleko azukrea igotzea da; normalean baheketaren bidez aurkitzen da, eta askotan erditu ondoren desagertzen da.",
+      "overview": "Haurdunaldiko diabetesa haurdunaldian garatzen den odoleko azukre (glukosa) altua da, gorputzak ezin dionean intsulina-eskari gehigarriari behar bezala erantzun. Gehienentzat, haurra jaio ondoren desagertzen da.\n\nNormalean **ez du sintomarik** ematen; beraz, haurdunaldian eskaintzen den baheketa-proba baten bidez antzematen da (glukosarekiko tolerantzia-proba, askotan 24. eta 28. asteen artean), batez ere izateko aukera handitzen duten faktoreak badituzu: pisu altuagoa, diabetesaren familia-aurrekariak, aurretik haur handi bat izana, edo jatorri etniko jakin batzuk.\n\nOso kudeagarria da. Odoleko azukrea maila osasuntsuan mantentzeak (elikaduraren, jarduera fisikoaren eta, batzuetan, botiken bidez, beti zure osasun-taldearen gidaritzapean) zuretzat eta zure haurrarentzat konplikazioak izateko aukera murrizten du; horregatik merezi du kontrolpean izatea.",
+      "deep": null,
+      "when_to_see_doctor": "- Egin **baheketa-proba** eskaintzen badizute: haurdunaldiko diabetesak normalean sintomarik ematen ez duenez, proba da hura aurkitzeko modua.\n- Ez itxaron probaren zain odoleko azukre altuaren seinale posibleak nabaritzen badituzu (egarri handia, pixa asko egin beharra, aho lehorra edo nekea): esan zure emaginari edo medikuari.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Non lortu laguntza",
+      "aliases": [
+        "laguntza lortu",
+        "norekin harremanetan jarri",
+        "laguntza-telefonoak",
+        "telefono erabilgarriak",
+        "indarkeriaren aurkako zentroa",
+        "1522",
+        "larrialdi-zenbakiak"
+      ],
+      "glance": "Laguntza doakoa eta konfidentziala dago eskura: larrialdietan, deitu zure tokiko larrialdi-zenbakira; Italian, 1522ra edozein unetan.",
+      "overview": "Tratu txarrak jasaten ari bazara, ez duzu bakarrik aurre egin beharrik, eta laguntza eskatzeak ez zaitu ezertara behartzen. Badira entzutea eta laguntzea lanbide duten pertsonak, konfidentzialki eta doan.\n\nHainbat laguntza mota daude, bata bestearen ondoan:\n\n- **Larrialdi-zerbitzuak**: berehalako arriskuan, deitu zure tokiko larrialdi-zenbakira (behean).\n- **Laguntza-telefono nazionala**: Italian, **1522**, indarkeriaren eta jazarpenaren aurkako doako telefonoa: eguneko 24 orduetan irekita, anonimoa, hainbat hizkuntzatan, telefonoz edo lineako txat bidez.\n- **Indarkeriaren aurkako zentroak** (Italian, *centri antiviolenza*): laguntza doakoa eta konfidentziala, segurtasun-plangintza, eta laguntza juridikoa eta psikologikoa eskaintzen dituzten tokiko zerbitzuak.\n- **Osasun-zerbitzuak**: familia-medikua edo ospitaleko larrialdi-zerbitzua, non langileak gero eta prestatuago dauden tratu txarrak antzemateko eta laguntzarekin harremanetan jartzeko.\n- **Konfiantzako pertsonak**: seguru sentiarazten zaituen lagun edo senide bat.\n\nErrazen iruditzen zaizunarekin has zaitezke, eta ez duzu ezer erabakita izan beharrik.",
+      "deep": null,
+      "when_to_see_doctor": "- **Familia-medikuarekin edo ospitale batean** konfidentzialki hitz egin dezakezu gertatzen ari denari buruz; zauriak senda ditzakete eta zerbitzu espezializatuekin harremanetan jar zaitzakete.\n- Idaztea hitz egitea baino errazagoa bada, **1522ko txata** beste bide bat da.",
+      "red_flags": "- **Berehalako arriskuan** bazaude, jarri harremanetan larrialdi-zerbitzuekin orain: **112** Europar Batasunean (Italia barne), **999** Erresuma Batuan, **911** AEBetan eta Kanadan.\n- **Italia:** **1522** (doakoa, 24/7, anonimoa, eleaniztuna; deitu edo txateatu).\n- Laguntza-telefonoak herrialdez herrialde aldatzen dira. Aplikazioak zure herrialdeko zenbakiak erakuts ditzake, eta **findahelpline.com** webguneak mundu osoko indarkeriaren aurkako laguntza-telefonoak zerrendatzen ditu (zure herrialdea detektatzen du eta irteera azkarreko botoia du). Europar Batasunean bazaude, **112** zenbakiak leku guztietan funtzionatzen du."
+    },
+    "group-b-strep": {
+      "title": "B motako estreptokokoa (GBS)",
+      "aliases": [
+        "B motako estreptokokoa",
+        "GBS",
+        "Streptococcus agalactiae",
+        "B estreptokokoa haurdunaldian",
+        "estreptococo B",
+        "EGB"
+      ],
+      "glance": "B motako estreptokokoa bakterio ohikoa eta normalean kaltegabea da; arrisku txikia haurrarentzat da erditzean, eta kudeagarria da.",
+      "overview": "B motako estreptokokoa (GBS) oso bakterio ohikoa da; jende askok darama, normalean baginan edo ipurdian, jakin gabe eta inolako kalterik eragin gabe. Ez da sexu-transmisiozko infekzioa, eta eramatea normala da.\n\nHaurdunaldian garrantzia du, soilik, erditze inguruan haurrari kutsatzeko **aukera txiki bat** dagoelako eta, gutxitan, haurra gaixotu dezakeelako; 1.750 haurdunalditik 1ean gertatzen da gutxi gorabehera. Askotan kasualitatez aurkitzen da, adibidez beste arrazoi batengatik egindako gernu-analisi batean edo baginako lagin batean (NHSk ez die denei modu sistematikoan baheketarik egiten).\n\nAlderdi lasaigarria da oso kudeagarria dela: GBSa dagoela jakinez gero, **erditzean antibiotikoak zainetik (tanta-tantaka) hartzeak** asko murrizten du haurra gaixotzeko aukera.",
+      "deep": null,
+      "when_to_see_doctor": "- B motako estreptokokoa daramazula esaten badizute (orain edo aurreko haurdunaldi batean), **jakinarazi zure emaginari edo amatasun-taldeari**, erditzean antibiotikoak planifika ditzaten. Urrats sinplea da, eta benetako aldea egiten du.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Bihotzerrea eta indigestioa haurdunaldian",
+      "aliases": [
+        "bihotzerrea haurdunaldian",
+        "indigestioa haurdunaldian",
+        "errefluxua haurdunaldian",
+        "errefluxua",
+        "azidotasuna",
+        "acidez embarazo"
+      ],
+      "glance": "Bihotzerrea oso ohikoa da haurdunaldian; normalean kaltegabea da, eta askotan eguneroko aldaketa txikiekin arintzen da.",
+      "overview": "Bihotzerrea eta indigestioa (bularrean erresuminezko sentsazioa edo ondoeza, askotan jan ondoren) oso ohikoak dira haurdunaldian. Haurdunaldiko hormonek urdailaren goiko aldeko muskulua biguntzen dutelako gertatzen da, eta, geroago, hazten ari den haurrak gorantz sakatzen duelako. Deserosoa da, baina ez kaltegarria.\n\nAldaketa txikiek askotan laguntzen dute: otordu handien ordez otordu txikiagoak maizago egitea, jaten ari zarela eta handik denbora batera zuzen eserita egotea, gauza pikanteak, koipetsuak edo kafeinadunak gutxitzea, eta oheratu aurretik berandu ez jatea. Batzuei erosoagoa egiten zaie pixka bat altxatuta lo egitea.\n\nHori nahikoa ez bada, **farmazialari batek** haurdunaldian erabiltzeko seguruak diren antiazido-erremedioak iradoki ditzake: lehen urrats ona, arazo handiagoa bihurtu aurretik.",
+      "deep": null,
+      "when_to_see_doctor": "- Joan zure **familia-medikuarengana edo emaginarengana** aldaketa sinpleek eta farmaziako erremedioek laguntzen ez badute, edo **irensteko zailtasunak** badituzu, janaria behin eta berriz gora botatzen baduzu, nahi gabe pisua galtzen baduzu edo sabeleko mina baduzu: horiek medikuak aztertzea merezi du, bihotzerre arruntari egotzi beharrean.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Hileko ugariak",
+      "aliases": [
+        "hileko ugariak",
+        "menorragia",
+        "hileko odoljario handia",
+        "odol asko hilekoan",
+        "odol-koaguluak",
+        "reglas abundantes"
+      ],
+      "glance": "Hileko ugariak ziklo bakoitzean odol asko galtzea dira; ohikoak dira, baina merezi du aztertzea zure bizitzari eragiten badiote.",
+      "overview": "Hileko ugariek (izen medikoa menorragia da) esan nahi dute hilekoan odol asko galtzen duzula. Batzuentzat odoljario handia beren normala da, besterik gabe, baina zure bizitza oztopatzen badu edo akituta uzten bazaitu, merezi du aztertzea.\n\nHilekoak ugariak direnaren seinale batzuk: konpresa edo tanpoia 1-2 orduro aldatu behar izatea, bi hileko-produktu mota batera erabiltzea (tanpoia eta konpresa, adibidez), odola arropara edo ohe-arropara igarotzea, 2,5 cm inguru baino handiagoak diren odol-koaguluak botatzea (Erresuma Batuko 10 peniko txanpon baten edo euro bateko txanpon baten tamainakoak, gutxi gorabehera), edo 7 egun baino gehiago irauten duten hilekoak.\n\nHilabetez hilabete odol asko galtzeak nekatuta edo arnasestuka utz zaitzake, burdin gabezia (anemia) eragin dezakeelako. Kausa posible asko daude (miomak edo endometriosia, adenomiosia edo obulutegi polikistikoen sindromea bezalako gaixotasunak, zenbait botika...), eta askotan ez da kausa larririk aurkitzen. Nolanahi ere, hileko ugariek normalean badute konponbidea; beraz, ez dira besterik gabe jasan behar dituzun zerbait.",
+      "deep": null,
+      "when_to_see_doctor": "Joan familia-medikuarengana:\n\n- hileko ugariek zure eguneroko bizitzari eragiten badiote\n- ordu askotan odol asko galtzen baduzu, edo hilekoek asko irauten badute\n- hileko min bizia ere baduzu, edo mina sexu-harremanetan, pixa egitean edo kaka egitean\n- hilekoen artean edo sexu-harremanen ondoren odoljarioa baduzu\n- askotan nekatuta edo arnasestuka sentitzen bazara (burdin gutxiren seinale izan daiteke)\n\nFamilia-medikuak kausa bila dezake eta zerk lagun dezakeen zurekin hitz egin.",
+      "red_flags": "- Eskatu **premiazko** laguntza medikoa (jarri harremanetan mediku batekin edo **guardiako zerbitzu batekin**, edo, larria bada, deitu **{{emergency}}** zenbakira / joan ospitaleko larrialdi-zerbitzura) **hainbesteko odoljarioa baduzu non konpresa bat edo gehiago guztiz blaitzen baituzu orduro, segidan ordu gutxi batzuetan**, edo **konortea galtzeko sentsazioa, zorabioa edo arnasestua** baduzu. Odol gehiegi galtzearen seinale izan daitezke."
+    },
+    "lh": {
+      "title": "Hormona luteinizatzailea (LH)",
+      "aliases": [
+        "lh",
+        "hormona luteinizatzailea",
+        "LH igoera",
+        "LH gailurra",
+        "hormona luteinizante"
+      ],
+      "glance": "LH garuneko hormona bat da; zikloaren erdialdeko haren igoerak obulutegiari obulu bat askatzeko seinalea ematen dio.",
+      "overview": "LH (hormona luteinizatzailea) obulazioa abiarazten duen mezularia da. FSH bezala, garuneko guruin txiki batek (hipofisiak) sortzen du, eta obulutegiari noiz askatu behar duen obulu bat esaten dio.\n\nZikloaren lehen erdiaren zatirik handienean, LH baxu mantentzen da. Gero, zikloaren erdialdean, nabarmen igotzen da, LH igoera edo gailurra deritzonean. Igoera hori da obulutegiak bere obulua askatzeko (obulazioa) seinalea, normalean egun bat inguru geroago.\n\nIgoera seinale labur eta ondo sinkronizatua da, ez zuk nola sentitzen zaren nabarituko zenukeen zerbait. Obulua askatu baino hain lehentxeago gertatzen denez, LHren igoeraren unea zikloaren zatirik emankorrenaren adierazle fidagarria da.",
+      "deep": "LHk FSHrekin batera lan egiten du, zikloan lehenago folikuluak hazten dituen hormonarekin. FSHk prestaketa gidatzen duen bitartean, LHren igoera da inflexio-puntua: mailak obulua askatu baino egun eta erdi inguru lehenago hasten dira igotzen, eta egun erdi inguru lehenago iristen dira gailurrera. Igoeraren ondoren, zikloa bigarren erdira igarotzen da. Denbora-tarte estu horregatik da LH hain adierazle erabilgarria obulazioaren jarraipena egiten duen edonorentzat, eta horregatik da funtsezkoa ugalkortasun-tratamenduak planifikatzeko.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Entzutea eta laguntza emozionala",
+      "aliases": [
+        "nola entzun",
+        "laguntza emozionala bikotekideentzat",
+        "komunikazioa",
+        "harentzat hor egotea",
+        "entzute aktiboa",
+        "escuchar a mi pareja"
+      ],
+      "glance": "Gehienetan entzun egin behar zaio, ez konpondu: lehenik entzun, eta galdetu aholkurik eman aurretik.",
+      "overview": "Maite dugun norbait gaizki pasatzen ari denean, berehala sartu eta konpontzeko joera izaten dugu. Baina askotan gehien laguntzen duena benetan entzuna sentitzea da: bere sentimenduek zentzua dutela eta ez dagoela bakarrik haiekin. Azkarregi konpontzen saiatzea \"zure sentimenduak itxi beharreko arazo bat dira\" bezala irits dakioke.\n\nOndo entzutea edonork ikas dezakeen trebetasuna da. Batez ere arreta da: telefonoa uztea, haren aurrez aurre jartzea eta amaitzen uztea. Ez duzu puntu guztietan ados egon beharrik hura errespetatua senti dadin.",
+      "deep": "Hor egoteko modu praktikoak:\n\n- **Entzun ulertzeko, ez erantzuteko.** Utzi hitz egiten, eten gabe eta zure defentsa prestatzen ibili gabe.\n- **Itzuli entzundakoa.** \"Oso estresagarria dirudi\" edo \"Ulertzen dut zergatik egin dizun min\" hobea da \"ez kezkatu horregatik\" baino.\n- **Galdetu aholkurik eman aurretik.** \"Pentsatzen laguntzea nahi duzu, ala entzutea bakarrik?\"\n- **Ez hartu pertsonalki** egun txar bat zuri buruzkoa ez denean. Lasai egotea opari bat da.\n- **Onartu zure zatia.** Zerbait gaizki egin baduzu, benetako barkamen-eskaerak (\"baina\"-rik gabe) konfiantza berreraikitzen du.\n- **Erreparatu irudi osoari.** Etengabe triste, antsietatez edo bera ez bezala badirudi, animatu leunki laguntza bilatzera eta eskaini hara iristen laguntzea. Taldekidea zara, ez terapeuta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Fase luteoa",
+      "aliases": [
+        "fase luteoa",
+        "zikloaren bigarren erdia",
+        "luteo-fasea",
+        "fase lútea"
+      ],
+      "glance": "Fase luteoa zikloaren bigarren erdia da, obulazioaren ondorengoa, progesterona igotzen denean.",
+      "overview": "Fase luteoa obulazioaren ondoren datorren zikloaren zatia da, eta hurrengo hilekoa hasi arte irauten du. Gorputz horiaren (corpus luteum) izena darama: obulua askatu ondoren obulutegiak folikulu hutsetik eratzen duen egitura txikia.\n\nFase honetan progesterona hormona igotzen da. Haren lana umetokiaren barne-geruza lodi eta egonkor mantentzea da, obulu ernaldu bat iristen bada, ezartzeko lekua izan dezan. Estrogenoak ere parte hartzen jarraitzen du, progesteronarekin batera.\n\nHaurdunaldirik hasten ez bada, gorputz horia desegin egiten da, progesterona eta estrogenoa jaitsi egiten dira, eta barne-geruza ez da gehiago mantentzen; horrek hurrengo hilekoa ekartzen du eta ziklo berri bat hasten da. Tarte honetan nabaritzen dituzte batzuek hilaurreko aldaketak aldartean, loan edo gorputzean.",
+      "deep": "Fase luteoaren iraupena zikloaren lehen erdiarena baino egonkorragoa izan ohi da, askotan bi aste ingurukoa, nahiz eta pertsona batetik bestera aldakortasun normala egon. Haren amaiera progesteronaren jaitsierari lotuta dagoenez, hilekoa etortzea, egiatan, hormona-mailak jaitsi direnaren seinale ikusgarria da. Fase luteoan zehar nola sentitzen zaren jarraitzeak lagun zaitzake zuretzat eredu ezaguna dena eta berria dena edo osasun-profesional batekin hitz egitea merezi duena bereizten.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopausia",
+      "aliases": [
+        "menopausia",
+        "klimaterioa",
+        "bizitzaren aldaketa",
+        "bero-boladak",
+        "menopausiaren sintomak"
+      ],
+      "glance": "Menopausia hilekoak betiko desagertzen diren unea da: etapa naturala, normalean 45 eta 55 urte bitartean iristen dena.",
+      "overview": "Menopausia zure hilekoak betiko eteten diren unea da. Hilekoak lehenago denbora batez etorri eta joan daitezkeenez, iritsitzat jotzen da 12 hilabetez jarraian hilekorik gabe egon ondoren. Normalean 45 eta 55 urte bitartean gertatzen da, nahiz eta lehenago edo beranduago izan daitekeen.\n\nZahartzearen zati naturala da, ez gaixotasun bat. Obulutegiak jarduera gutxitzen doazenean gertatzen da, eta estrogenoaren maila (zikloaren funtsezko hormona bat) jaitsi egiten da. Aldaketa hormonal hori dago jende askok nabaritzen dituen aldaketen atzean: bero-boladak eta gaueko izerdiak, aurreko urteetan hilekoaren aldaketak, lo egiteko zailtasunak, aldartearen edo antsietatearen aldaketak, buru-lainoa (kontzentratzeko zailtasuna), baginako lehortasuna eta minak.\n\nEsperientziak izugarri aldatzen dira: batzuek erraz igarotzen dute, beste batzuei zaila egiten zaie, eta sintomek hainbat urte iraun dezakete. Horrek ez du esan nahi zuri zerbait gaizki gertatzen zaizunik. Badago laguntza eta aukerak, eta zer gertatzen ari den ulertzea lehen urrats ona da.",
+      "deep": "Menopausiaren aurreko aldaketa-urteei perimenopausia deitzen zaie; menopausia bera une bakar bat da denboran (hilekorik gabeko 12 hilabeteen marka hori), eta ondorengo aldiari batzuetan postmenopausia deitzen zaio. Estrogenoak epe luzera hezurretan eta bihotzean ere eragiten duenez, osasun-profesionalek horiei ere erreparatzen diete eguneroko sintomekin batera. Hainbat ikuspegik (bizimodutik hasi eta tratamendu ez-hormonal eta hormonaletaraino) sintomak arin ditzakete, eta zer den egokia zure osasunaren, aurrekarien eta lehentasunen araberakoa da; hori osasun-profesional batekin hitz egin beharrekoa da.",
+      "when_to_see_doctor": "- Joan familia-medikuarengana menopausiaren sintomek kezkatzen bazaituzte edo eguneroko bizitzari eragiten badiote, eta zure aukerei buruz hitz egin nahi baduzu.\n- **Beti** joan familia-medikuarengana **hilekorik gabeko 12 hilabeteren ondoren baginako odoljario edozein** baduzu (menopausia ondoko odoljarioa). Askotan ez da ezer larria, baina medikuak beti aztertu behar du.\n- Merezi du kontsultatzea ere lehen baino odol gehiago galtzen baduzu, gutxiago beharrean, edo hilekoak kezkatzen zaituen moduan aldatzen badira.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Hilekoaren zikloa",
+      "aliases": [
+        "zikloa",
+        "hileroko zikloa",
+        "hilekoaren zikloa",
+        "ziklo menstruala",
+        "ciclo menstrual"
+      ],
+      "glance": "Hilekoaren zikloa zure gorputzak haurdunaldi posible baterako prestatzeko duen hileroko erritmoa da.",
+      "overview": "Hilekoaren zikloa hilekoaren lehen egunetik (1. eguna) hurrengo hilekoa hasi aurreko egunera arte zenbatzen da. Hilero errepikatzen den eredu batean igo eta jaisten diren hormonek gidatzen dute.\n\nZikloak askotan 28 egun inguru izaten ditu, baina hori batez bestekoa besterik ez da. 21 eta 35 egun bitartekoa normala da, eta zure zikloaren luzera pixka bat alda daiteke hilabete batetik bestera. Zure eredua ezagutzea erabilgarriagoa da zenbaki batekin alderatzea baino.\n\nZikloan zehar zure gorputzak etapa batzuk igarotzen ditu: hilekoa, obulu bat askatzeko prestaketa, askapena bera (obulazioa) eta ondorengo tartea. Etapa bakoitza hormonek moldatzen dute, batez ere estrogenoak eta progesteronak.",
+      "deep": "Ziklo osoa garunaren eta obulutegien arteko elkarrizketa bat da, hormonek eramana. Lehen erdian, estrogenoa igotzen da obulua duen folikulu bat obulutegian heltzen den bitartean, eta umetokiaren barne-geruza loditzen da. Zikloaren erdialdean, obulu bat askatzen da. Bigarren erdian, progesteronak barne-geruza hori prest mantentzen laguntzen du, obulu ernaldu bat iritsiko balitz ere.\n\nHaurdunaldirik ez badago, estrogenoa eta progesterona maila baxuetara jaisten dira, barne-geruza hilekoaren bidez kanporatzen da, eta eredua berriro hasten da. Hormona horiek sistema askotan eragiten dutenez, baliteke hilabetean zehar eguneroko aldaketa txikiak nabaritzea: hori zikloaren erritmo normala da, ez \"konpondu\" beharreko zerbait.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Fase menstruala (hilekoa)",
+      "aliases": [
+        "hilekoa",
+        "menstruazioa",
+        "fase menstruala",
+        "odoljarioa",
+        "erregla",
+        "regla"
+      ],
+      "glance": "Hilekoa ziklo bakoitzaren hasierako odoljario-egun gutxi batzuk dira, umetokiaren barne-geruza kanporatzen denean.",
+      "overview": "Fase menstruala zure hilekoa da: odola galtzen duzun egunak. Zikloaren 1. egunean hasten da, estrogeno- eta progesterona-mailak hainbeste jaitsi direnean ezen umetoki barruan eratutako barne-geruza ez baita gehiago mantentzen; orduan askatu egiten da eta gorputzetik irteten da baginaren bidez.\n\nHilekoak normalean 2 eta 7 egun artean irauten du, eta 5 egun inguru da ohikoena. Odol-jarioa askotan ugariagoa izaten da lehen egun parean, eta arinagoa ondoren. Hilekoak 12 urte inguruan hasten dira normalean, nahiz eta lehenago edo beranduago hastea ere normala den.\n\n\"Normala\" dena asko aldatzen da pertsona batetik bestera. Zure hilekoen jarraipena egiteak zuretzat ohikoa dena nabaritzen laguntzen dizu, eta hori edozein batez beste baino askoz esanguratsuagoa da.",
+      "deep": "Hilekoaren odoljarioa umetokiaren barne-geruza (endometrioa) kanporatzea da, haurdunaldirik hasi ez den ziklo baten ondoren. Ziklo baten amaiera eta hurrengoaren hasiera markatzen ditu, eta horregatik zenbatzen da hilekoaren 1. eguna ziklo osoaren 1. egun bezala. Hilekoa amaitzen den heinean, estrogenoa berriro igotzen hasten da eta gorputza barne-geruza berreraikitzen hasten da hurrengo ziklorako.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Abortu espontaneoa",
+      "aliases": [
+        "abortu espontaneoa",
+        "haurdunaldiaren galera",
+        "haurdunaldi hasierako galera",
+        "haurdunaldia galtzea",
+        "abortu naturala",
+        "aborto espontáneo"
+      ],
+      "glance": "Abortu espontaneoa 24. astea baino lehen haurdunaldia galtzea da; ohikoa da, eta ia inoiz ez da zuk eragindako zerbait.",
+      "overview": "Abortu espontaneoa haurdunaldiaren lehen 24 asteetan haurdunaldia galtzea da. Jende askok uste baino ohikoagoa da, eta jakin beharreko gauzarik garrantzitsuenetako bat da ia inoiz ez dela zuk egin edo egin ez duzun zerbaitek eragina: normalean haurdunaldia garatzeko moduan arazo bat egon delako gertatzen da, inoren kontroletik kanpo.\n\nSeinalerik ohikoenak baginako odoljarioa eta sabelaren beheko aldeko karranpak edo mina dira. Haurdunaldiaren hasierako odoljarioak ez du beti esan nahi abortu espontaneo bat gertatzen ari denik (askok odol pixka bat galtzen dute eta gero haurdunaldi osasuntsua izaten dute), baina medikuak edo emaginak beti aztertu behar du.\n\nGalera nola gertatzen den ere, harekin datozen sentimenduak benetakoak eta zilegiak dira, eta dolua erantzun normala da. Ez duzu bakarrik igaro beharrik: badago laguntza, zure emaginarengandik edo familia-medikuarengandik eta haurdunaldi-galerari buruzko elkarte espezializatuengandik.",
+      "deep": null,
+      "when_to_see_doctor": "- Jarri harremanetan familia-medikuarekin, emaginarekin edo haurdunaldiaren hasierako unitatearekin (edo guardiako mediku batekin) **haurdunaldian baginako odoljarioa edo odol-orbanak** badituzu, arinak badira eta minik ez edo gutxi baduzu ere, azter dezaten.\n- Galdetu zure inguruko **haurdunaldiaren hasierako unitateaz**: horretarako bertarako dago prestatuta.",
+      "red_flags": "- Deitu **{{emergency}} zenbakira edo joan ospitaleko larrialdi-zerbitzura** haurdunaldian **sabeleko min bizia, sorbalda-puntako mina, odoljario handia, edo konortea galtzeko sentsazioa baduzu edo oso gaizki sentitzen bazara**. Arazo larri baten seinale izan daitezke, hala nola premiazko arreta behar duen haurdunaldi ektopikoarena."
+    },
+    "morning-sickness": {
+      "title": "Haurdunaldiko goragaleak",
+      "aliases": [
+        "goizeko goragaleak",
+        "goragalea haurdunaldian",
+        "haurdunaldiko goragaleak",
+        "okadak haurdunaldian",
+        "hiperemesia",
+        "hyperemesis gravidarum",
+        "náuseas embarazo"
+      ],
+      "glance": "Goragalea izatea edo okada egitea oso ohikoa da haurdunaldiaren hasieran, eta normalean 16-20 aste inguruan arintzen da.",
+      "overview": "Goragalea izatea edo okada egitea oso ohikoa da haurdunaldiaren hasieran. \"Goizeko goragalea\" izena izan arren, eguneko edo gaueko edozein ordutan gerta daiteke. Gehienentzat lehen asteetan hasten da eta 16-20 aste inguruan baretzen da.\n\nDesatsegina da, eta batzuei benetan eragiten die eguneroko bizitzan, baina ohiko goragaleek ez dute zure haurrarentzako arriskua handitzen. Maiz kantitate txikiak jateak eta zuri laguntzen dizuna aurkitzeak jasangarriago egin dezake; emagin batek, familia-medikuak edo farmazialari batek aukera seguruak iradoki ditzakete gaizki pasatzen ari bazara.\n\nPertsona gutxi batzuentzat goragaleak larri bihurtzen dira (hiperemesi gravidikoa deitzen zaio), deshidratatzeko benetako arriskuarekin. Bertsio horrek laguntza medikoa behar du: ikus beheko seinaleak.",
+      "deep": null,
+      "when_to_see_doctor": "Jarri harremanetan zure emaginarekin, familia-medikuarekin edo guardiako mediku batekin:\n\n- 24 orduz ezin baduzu janaririk edo edaririk barruan eutsi, dena gora botatzen baduzulako\n- gernu oso iluna baduzu, edo 8 ordu baino gehiagoan pixarik egin ez baduzu\n- oso ahul sentitzen bazara, edo zutitzean zorabioa edo konortea galtzeko sentsazioa baduzu\n- sabeleko mina edo sukarra baduzu, edo odola gora botatzen baduzu\n- pisua galtzen ari bazara",
+      "red_flags": "- Likidoak barruan ezin eusteak (edan eta dena gora botatzeak), gernu oso ilunarekin edo gernurik gabe, deshidratatzen ari zarela esan dezake (haurdunaldiko goragale larriak): **jarri harremanetan zure emaginarekin, familia-medikuarekin edo guardiako mediku batekin egun berean**, baliteke tratamendua behar izatea okerrera egin ez dezan."
+    },
+    "ovulation": {
+      "title": "Obulazioa",
+      "aliases": [
+        "obulazioa",
+        "obulua askatzea",
+        "leiho emankorra",
+        "noiz obulatzen dut",
+        "ovulación"
+      ],
+      "glance": "Obulazioa obulutegi batek obulu bat askatzen duen unea da: zure zikloko puntu emankorrena.",
+      "overview": "Obulazioa obulutegi batek obulu heldu bat askatzen duen unea da. Zikloaren inflexio-puntua da: lehen erdiak hara darama, eta bigarren erdia haren ondoren dator.\n\n28 egun inguruko ziklo batean, obulazioa askotan 14. egunaren inguruan gertatzen da, baina unea aldatu egiten da. Pentsatzeko modu lagungarri bat: obulazioa normalean hurrengo hilekoa hasi baino 10 eta 16 egun lehenago gertatzen da. Zaila izan daiteke egun zehatza zehaztea.\n\nAskatu ondoren, obulua 12-24 ordu inguruz bakarrik ernal daiteke. Espermatozoideek, ordea, hainbat egunez biziraun dezakete gorputzean; beraz, \"leiho emankorra\" egun bakar bat baino zabalagoa da: gutxi gorabehera obulazioaren aurreko egun batzuk eta obulazio-eguna bera.",
+      "deep": "Obulua askatzea zikloaren erdialdean hormonen igoera labur eta bizi batek eragiten du, fase folikularreko estrogeno-metaketaren ondoren. Espermatozoideak egun batzuez bizi daitezkeenez eta obuluak egun bat baino gutxiago irauten duenez, haurdunaldia litekeena da batez ere obulazioaren aurreko egunetako sexu-harremanen ondorioz. Obulazioa ziklo batetik bestera alda daiteke estresa edo gaixotasuna bezalako gauzengatik; horregatik da zaila zehazki iragartzea, eta horregatik da fidagarriagoa hainbat zikloren jarraipena egitea edozein kalkulu bakar baino.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Mina sexu-harremanetan",
+      "aliases": [
+        "mina sexu-harremanetan",
+        "sexu-harreman mingarriak",
+        "dispareunia",
+        "mina penetrazioan",
+        "baginismoa",
+        "dolor en las relaciones"
+      ],
+      "glance": "Sexu-harremanetako mina ohikoa da, kausa posible asko ditu, eta beti merezi du medikuak aztertzea: badago laguntza.",
+      "overview": "Sexu-harremanetako mina (batzuetan dispareunia deitua) jende askok uste baino ohikoagoa da, eta ez da inoiz besterik gabe onartu behar duzun zerbait. Kausa asko izan ditzake, eta egokia aurkitzea da hura arintzeko gakoa.\n\nKausa batzuk fisikoak dira. Baginako lehortasuna ohikoa da, askotan menopausia inguruko hormonekin edo kitzikapen nahikorik ez izatearekin lotuta, eta sexua mingarri edo deseroso egin dezake. Infekzioek ere, baginako kandidiasiak adibidez, mina eragin dezakete. Beste kausa bat baginismoa da: penetrazioa saiatzen denean baginaren inguruko muskuluak berez estutzen dira, eta horrek sexua mingarri egin dezake edo ezinezkoa dela sentiarazi. Nahi gabekoa da, ez da \"zure buruan\" dagoen zerbait, eta tratatu daiteke.\n\nKausa fisikoa, hormonala edo zu zein lasai edo kitzikatuta sentitzen zarenarekin lotutakoa izan daitekeenez (eta askotan horien nahasketa), urrats erabilgarria medikuak aztertzea da, asmatzen saiatu edo jasaten jarraitu beharrean.",
+      "deep": null,
+      "when_to_see_doctor": "- Joan familia-medikuarengana edo sexu-osasuneko klinika batera sexu-harremanak mingarriak badira: kausa edozein dela ere, merezi du aztertzea, eta kausa ohikoenetarako laguntza eraginkorra dago.\n- Gaia ateratzea deserosoa izan daiteke, baina osasun-profesionalek askotan tratatzen dute hau, eta laguntzeko daude, ez epaitzeko. Emakumezko mediku bat eska dezakezu, norbait eraman dezakezu zurekin, eta azterketa eroso egiteko zer behar duzun hitz egin dezakezu.\n- Eskatu medikuari sexu-harremanen ondorengo edozein odoljario aztertzeko, eta ez itxaron: joan lehenbailehen kontsultara mina bizia bada edo, gainera, gaizki sentitzen bazara.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Minaren kontrola erditzean",
+      "aliases": [
+        "minaren kontrola erditzean",
+        "epidurala",
+        "gas eta airea",
+        "Entonox",
+        "oxido nitrosoa",
+        "erditze-bainuontzia",
+        "TENS",
+        "epidural parto"
+      ],
+      "glance": "Erditzeko mina arintzeko hainbat modu daude: ez dago aukera zuzen edo okerrik, eta malgu jarrai dezakezu.",
+      "overview": "Erditzea desberdina da bakoitzarentzat, eta minari aurre egiteko hainbat modu daude: erosotasun-neurri sinpleetatik hasi eta aukera medikoetaraino. Aldez aurretik zer dagoen eskuragarri jakiteak prestatuago sentitzen lagun zaitzake.\n\nAukerak hauek dira: **aktibo eta zutik egotea**, arnasketa eta erlaxazioa, masajeak eta **uretan** egotea (bainuontzian edo erditze-igerilekuan), eta baita **TENS gailua**, **gas eta airea** (Entonox, zuk zeuk arnasten duzuna), petidina bezalako **injekzioak** eta **epidurala** ere (anestesiologo batek jartzen du, eta erditzeko mina erabatekoago kentzen du).\n\nEz dago aukera \"onenik\": zure, zure erditzearen eta egun horretan nola sentitzen zaren araberakoa da. Merezi du zure lehentasunak **erditze-plan** batean idaztea, baina buru irekiarekin: jende askok espero baino min-arintze gehiago edo gutxiago nahi duela ikusten du, eta hori guztiz ondo dago.",
+      "deep": null,
+      "when_to_see_doctor": "- Zure **emaginak** (eta, epiduralaren kasuan, anestesiologo batek) aukerak azalduko dizkizu eta zuri zer egokitzen zaizun erabakitzen lagunduko dizu, haurdunaldian eta erditzean bertan berriro. Ez dago dena aldez aurretik erabaki beharrik.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "Obulutegi polikistikoen sindromea",
+      "aliases": [
+        "obulutegi polikistikoen sindromea",
+        "obulutegi polikistikoak",
+        "PCOS",
+        "SOP",
+        "OPS",
+        "ovario poliquístico"
+      ],
+      "glance": "Obulutegi polikistikoen sindromea ohiko egoera hormonala da, eta hilekoei, obulazioari, azalari eta ileari eragin diezaieke.",
+      "overview": "Obulutegi polikistikoen sindromea (PCOS ingelesez, SOP gaztelaniaz) ugalketa-hormonen orekarekin lotutako egoera ohikoa da. Kalkuluen arabera, ugalketa-adinean dauden 10 emakumetik 1 inguruk du, eta hura duten askori ez zaie inoiz diagnostikatzen.\n\nModu desberdinetan ager daiteke, eta ez dago bi pertsona berdin. Ezaugarri ohikoak: hileko irregularrak, bakanak edo faltan daudenak; androgeno izeneko hormonen maila altuagoak, aurpegian edo gorputzean ile gehiago haztea, aknea edo buruko ilea meheagotzea eragin dezaketenak; eta ohi bezain erregularki obulurik askatzen ez duten obulutegiak, haurdun geratzea zaildu dezaketenak. Pisuaren aldaketak eta azal ilunagoko orbanak ere ohikoak dira.\n\nKausa zehatza ez da guztiz ezagutzen, eta ez dago sendabiderik, baina sintomak kudea daitezke, eta zer gertatzen ari den ulertzea da lehen urratsa. Obulutegi polikistikoen sindromea ohikoa eta kudeagarria da, ez lotsatzeko zerbait.",
+      "deep": "Obulutegi polikistikoen sindromeak gorputzaren hormonekin eta intsulina kudeatzeko moduarekin zerikusia duenez, epe luzera intsulinarekiko erresistentziarekin eta 2 motako diabetesa, tentsio altua eta kolesterolaren aldaketak izateko aukera handiagoarekin ere lotzen da; horregatik jarraitzen diete osasun-profesionalek gauza horiei denboran zehar. Sindromea dutenen erdiek, gutxi gorabehera, diabetesa edo aurrediabetesa gara dezakete berrogei urte ingurura iristerako; beraz, ohiko kontrolak garrantzitsuak dira. Diagnostikoa ez da norberak ebaluatzeko zerbait: osasun-profesional batek irudi osoa aztertzen du (zure aurrekariak eta hilekoak, batzuetan hormonen odol-analisiak eta batzuetan obulutegien ekografia) eta beste kausa batzuk baztertzen ditu sindromea diagnostikatu aurretik.",
+      "when_to_see_doctor": "Merezi du familia-medikuarengana joatea goiko irudiarekin bat datozen gauzak nabaritzen badituzu, batez ere egunez egun nola sentitzen zaren eragiten badute:\n\n- hileko irregularrak, oso bakanak edo eten direnak\n- aurpegian edo gorputzean ile gehiago haztea nabarmen, akne iraunkorra, edo buruko ilea meheagotzea\n- haurdun geratzeko zailtasuna denbora batez saiatu ondoren\n- kentzen zaila den pisu-irabazia, beste sintoma batzuekin batera\n\nFamilia-medikuak zer gertatzen den azter dezake, obulutegi polikistikoen sindromea edo beste zerbait den baieztatu eta zuri egokitzen zaizun plan bat zurekin hitz egin. Sindromea aldarte apalarekin eta antsietatearekin ere lotzen da: nola sentitzen zaren kostatzen ari bazaizu, esan hori ere familia-medikuari; irudiaren parte da, eta badago laguntza.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopausia",
+      "aliases": [
+        "perimenopausia",
+        "menopausiarako trantsizioa",
+        "klimaterioa",
+        "bizitzaren aldaketa",
+        "premenopausia"
+      ],
+      "glance": "Perimenopausia menopausiaren aurreko trantsizioa da, hilekoak eta hormonak aldatzen hasten diren garaia.",
+      "overview": "Perimenopausia menopausiaren aurreko denbora-tartea da: \"menopausia inguruko\" urteak. Aldaketak lehen aldiz nabaritzen dituzunean hasten da eta azken hilekotik urte oso bat igaro arte irauten du; une horretan menopausiara iritsi zara. Hainbat urte iraun dezake.\n\nGarai honetan, obulutegiek pixkanaka estrogeno gutxiago sortzen dute, eta mailak lehen baino modu ez hain aurreikusgarrian igo eta jaisten dira. Hasierako seinalerik ohikoena hilekoak aldatzea da: maizago edo bakanago etortzen dira, arinago edo ugariago. Menopausiarekin lotutako sintoma asko, hala nola bero-boladak, loaren aldaketak edo aldarte-aldaketak, hemen has daitezke, oraindik hilekoa duzun bitartean.\n\nPixkanakakoa denez eta hainbeste aldatzen denez, perimenopausia nahasgarria izan daiteke: aldaketak ez dira denak batera iristen, ezta ordena berean ere guztientzat. Fase honek izena duela eta trantsizio normala dela jakiteak errazago ulertzen lagun zaitzake.",
+      "deep": null,
+      "when_to_see_doctor": "- Joan familia-medikuarengana perimenopausiaren sintomek zure eguneroko bizitzari eragiten badiote eta zerk lagun dezakeen hitz egin nahi baduzu.\n- Merezi du medikuak aztertzea hilekoak oso ugariak bihurtzen badira, edo hilekoen artean edo sexu-harremanen ondoren odoljarioa baduzu, kausa aurki dezaten.\n- Gogoratu perimenopausian oraindik haurdun gera zaitezkeela; beraz, merezi du antisorgailuen gaia osasun-profesional batekin ateratzea, zure kasuan garrantzitsua bada.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Hileko mina",
+      "aliases": [
+        "hileko mina",
+        "hilekoaren karranpak",
+        "karranpak",
+        "dismenorrea",
+        "hileko mingarriak",
+        "dolor de regla"
+      ],
+      "glance": "Hileko mina sabelaren beheko aldeko karranpak dira hilekoaren inguruan: ohikoa, eta askotan zikloaren parte normala.",
+      "overview": "Hileko mina jende askok hilekoaren inguruan sabelaren beheko aldean sentitzen dituen karranpak eta mina dira. Umetokiaren horma muskularra estutzen denean gertatzen da, eta askotan hilekoaren zikloaren parte normala da. Izen medikoa dismenorrea da.\n\nNormalean hilekoaren hasieran edo pixka bat lehenago agertzen da, eta hiru egun ingurura arte iraun ohi du. Batzuentzat astuntasun arina da; beste batzuentzat karranpak indartsuagoak dira. Mina bizitzan zehar eta ziklo batetik bestera ere alda daiteke.\n\nEredu ezagun hori jarraitzen duen hileko mina ohikoa eta normalean kudeagarria da. Eguneroko erosotasun-neurriak eta analgesiko sinpleak dira askok erabiltzen dituztenak, eta farmazialari batek edo familia-medikuak zuri zer egoki dakizukeen aholka dezake. Garrantzitsua da zure ohiko eredua ezagutzea, zerbait aldatzen bada nabaritzeko.",
+      "deep": null,
+      "when_to_see_doctor": "Merezi du familia-medikuarekin hitz egitea:\n\n- hilekoak ohi baino mingarriagoak, ugariagoak edo irregularragoak bihurtzen badira\n- minak lana edo ikastetxea bezalako eguneroko gauzak egitea eragozten badizu\n- ohiko analgesikoek laguntzen ez badute\n- mina baduzu sexu-harremanetan, edo pixa edo kaka egitean\n- hilekoen artean odola galtzen baduzu\n- mina hilekoaren aurretik edo bitartean ez beste une batzuetan agertzen bada\n- txanpon bat baino handiagoak diren odol-koaguluak botatzen badituzu (euro bateko txanpon baten tamaina, gutxi gorabehera)\n- sabel puztua, gose gutxiago edo azaldu ezin duzun pisu-galera ere nabaritzen badituzu\n\nHoriek ez dute esan nahi zerbait gaizki dagoenik, baina merezi du medikuak aztertzea: berria, desberdina edo kudeatzen zaila den hileko minak osasun-profesional batek tratatu ditzakeen kausak izan ditzake.",
+      "red_flags": "- Eskatu **premiazko** hitzordua familia-medikuari, edo jarri harremanetan **guardiako mediku batekin**, hileko mina edo pelbiseko mina **bizia bada, edo ohi baino okerragoa, eta analgesikoek lagundu ez badute.**"
+    },
+    "planning-pregnancy": {
+      "title": "Haurdunaldia planifikatzea",
+      "aliases": [
+        "haurdunaldia planifikatzea",
+        "sorkuntza aurreko kontsulta",
+        "haurdun geratu nahian",
+        "haurdunaldiaren aurretik",
+        "haurdunaldirako prestatzea",
+        "buscar embarazo"
+      ],
+      "glance": "Saiatu aurreko urrats sinple batzuek (azido folikoa, erretzeari eta alkoholari uztea) haurdunaldiari hasiera onena ematen diote.",
+      "overview": "Haur bat izaten saiatzea pentsatzen ari bazara, aurretik urrats gutxi batzuek hasiera osasuntsuagoa eman diezaiokete haurdunaldiari; horietako askok haurdun geratu aurretik ere eragiten dute.\n\nNagusiak: hasi **azido folikoa** (eta D bitamina) hartzen, **utzi erretzeari** eta **saihestu alkohola**. Pisu osasuntsu bat izatea helburu hartzeak ere laguntzen du, pisu nabarmen baxua edo altua izateak haurdun geratzea zaildu dezakeelako. Merezi du, halaber, **hirukoitz birikoaren txertoa (MMR: elgorria, errubeola eta hazizapiak)** egunean duzula ziurtatzea, infekzio batzuek haurdunaldiari eragin diezaioketelako.\n\nHorrek ez du perfektua edo estresagarria izan behar. Aldez aurretiko aldaketa txiki eta atseginak dira garrantzitsuak, eta abantaila txiki bat hartzea etorkizuneko haurdunaldi baterako egin dezakezun gauzarik politenetako bat da.",
+      "deep": null,
+      "when_to_see_doctor": "- **Epe luzeko osasun-arazoren bat** baduzu edo **botikaren bat aldizka** hartzen baduzu, joan familia-medikuarengana saiatzen hasi aurretik: gaixotasun eta botika batzuek plangintza behar dute. **Ez utzi errezetatutako botikarik hartzeari** zure medikuarekin lehenik hitz egin gabe.\n- Familia-medikuak azido folikoari buruzko aholkua ere eman diezazuke (dosi handiagoa behar duzun ala ez barne), baita haurdunaldiaren aurretik pisu osasuntsu batera iristeari buruzkoa ere.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Erditze osteko depresioa",
+      "aliases": [
+        "erditze osteko depresioa",
+        "depresio postpartuma",
+        "baby blues",
+        "erditu ondorengo tristura",
+        "depresioa erditu ondoren",
+        "depresión posparto"
+      ],
+      "glance": "Erditze osteko depresioa jaiotzaren ondorengo aldarte apal ohiko eta tratagarria da: ez da zure errua, eta badago laguntza.",
+      "overview": "Erditu osteko lehen astebete edo bietan triste, urduri edo haserrekor sentitzea oso ohikoa da; askotan \"baby blues\" deitzen zaio, eta normalean berez pasatzen da bi aste inguruan.\n\nErditze osteko depresioa desberdina da: aldarte apal sakonagoa edo luzeago irauten duena. Ohiko egoera da, lehen urteko edozein unetan has daiteke, eta aitei eta bikotekideei ere eragin diezaieke. Seinaleen artean daude aldarte apal iraunkorra, ezerekin gozatzeko zailtasuna, lo egiteko arazoak haurra lo dagoenean ere, eta, batzuetan, haurrarekiko loturari buruzko sentimendu zailak.\n\nHura izateak **ez** du esan nahi guraso txarra zarenik edo zure haurra maite ez duzunik: gaixotasun bat da, ez hutsegite bat, eta ondo erantzuten die laguntzari eta tratamenduari. Goiz laguntza eskatzea gauza ausarta eta maitekorra da, zuretzat eta zure haurrarentzat.",
+      "deep": null,
+      "when_to_see_doctor": "- Hitz egin zure **familia-medikuarekin, emaginarekin edo pediatriako erizainarekin** erditze osteko depresioa izan dezakezula uste baduzu, edo \"baby blues\"-a bi asteren buruan joan ez bada. Askotan ikusi dute, eta laguntza egokia aurkitzen lagun zaitzakete.",
+      "red_flags": "- **Zeure buruari edo zure haurrari min egiteko pentsamenduak** badituzu, edo zure familia zu gabe hobeto egongo litzatekeela pentsatzen baduzu, eskatu laguntza **berehala**: deitu **{{emergency}}** zenbakira edo joan ospitaleko larrialdi-zerbitzura, edo deitu krisialdietarako laguntza-telefono batera. Pentsamendu horiek gaixotasunaren parte izan daitezke, ez dira zu nor zaren, eta premiazko laguntza badago."
+    },
+    "pre-eclampsia": {
+      "title": "Preeklanpsia",
+      "aliases": [
+        "preeklanpsia",
+        "pre-eklanpsia",
+        "tentsio altua haurdunaldian",
+        "hipertentsioa haurdunaldian",
+        "toxemia",
+        "preeclampsia"
+      ],
+      "glance": "Preeklanpsia haurdunaldiko tentsio altua da; askotan hasieran ez du sintomarik ematen, eta horregatik dira garrantzitsuak haurdunaldiko kontrolak.",
+      "overview": "Preeklanpsia haurdunaldiko gaitz bat da, batez ere tentsio altu gisa agertzen dena, gernuan proteinarekin batera. Normalean 20. aste ingurutik aurrera agertzen da, eta batzuetan erditu ondoren.\n\nJakin beharreko gauzarik garrantzitsuenetako bat da hasieran askotan **ez duela inolako sintomarik** ematen: guztiz ondo senti zaitezke. Horregatik, hain zuzen, neurtzen dizkizu emaginak tentsioa eta gernua haurdunaldiko ohiko kontrol guztietan: kontrol horiek dira, normalean, hura antzemateko modua zuk ezer nabaritu aurretik.\n\nSintomak agertzen direnean, merezi du ezagutzea, preeklanpsia larria izan baitaiteke zuretzat eta zure haurrarentzat. Garaiz aurkitzen denean ondo trata daiteke, eta haurdunaldiko hitzorduetara joatea da goiz antzemateko modurik onena.",
+      "deep": null,
+      "when_to_see_doctor": "- Joan haurdunaldiko **ohiko hitzordu guztietara**: tentsioaren eta gernuaren kontrolak dira preeklanpsia normalean sintomak hasi aurretik aurkitzeko modua.",
+      "red_flags": "Eskatu laguntza medikoa **berehala** (jarri harremanetan zure amatasun-unitatearekin edo **guardiako mediku batekin**) hauetakoren bat baduzu (deitu **{{emergency}}** zenbakira oso gaizki bazaude, adibidez konbultsio edo krisi bat baduzu):\n\n- ohiko analgesikoekin arintzen ez den **buruko min bizia**\n- **ikusmen-arazoak**: ikusmen lausoa edo argi-distirak\n- aurpegiaren, eskuen edo oinen **bat-bateko hantura**\n- **mina saihetsen azpian**\n- **okada** egitea, edo bat-batean oso gaizki sentitzea"
+    },
+    "pregnancy": {
+      "title": "Haurdunaldia",
+      "aliases": [
+        "haurdunaldia",
+        "haurdun egotea",
+        "gestazioa",
+        "hiruhilekoak",
+        "erditze-data",
+        "zenbat asteko haurdun",
+        "embarazo"
+      ],
+      "glance": "Haurdunaldiak normalean 40 aste inguru irauten du, azken hilekoaren lehen egunetik zenbatuta.",
+      "overview": "Haurdunaldia zure gorputzak haur bat hazi eta eramaten duen aldia da. Normalean 40 aste inguru irauten du (37 eta 42 aste bitartekoa hartzen da osotzat eta normaltzat), eta, harrigarria bada ere, zure **azken hilekoaren** lehen egunetik zenbatzen da, ez ernalketatik. Hori da datak kalkulatzeko modu estandarra, besterik ez.\n\n**Erditze-data** kalkulu bat da, ez epemuga bat: haurrak lasai asko iristen dira pixka bat lehenago edo beranduago. Haurdunaldiaren hasieran, \"datazio-ekografia\" batek (normalean 12. aste inguruan) haurra neur dezake eta data zehatzagoa eman, batzuetan hasierako kalkulua aldatuz.\n\nHaurdunaldia askotan hiru etapatan edo **hiruhilekotan** banatzen da, bakoitza bere aldaketekin. Bide osoan zehar, emagin batek (eta, behar izanez gero, mediku batek) egiten dizkizun haurdunaldiko ohiko kontrolen bidez zaintzen zaituzte: zu eta zure haurra ondo egoten laguntzen duen arreta.",
+      "deep": "Datak azken hilekotik zenbatzen direnez, hilekoa falta den unerako lau aste inguruko haurdun zaudela jotzen da. Haurdunaldi-asteen kontaketa da arreta antolatzeko modua: ekografiak, baheketak eta kontrolak aste jakinetan eskaintzen dira. Hilekoak irregularrak badituzu edo datez ziur ez bazaude, datazio-ekografiak ezartzen du egutegia. Artikulu hau bidaia osoaren mapa da; gai zehatzek (haurdunaldiaren seinaleak, haurdunaldiaren jarraipena, ondo egotea eta erditzea) bakoitzak bere artikulua du.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Haurdunaldi-testa",
+      "aliases": [
+        "haurdunaldi-testa",
+        "etxeko haurdunaldi-testa",
+        "hCG testa",
+        "haurdun nagoen jakiteko",
+        "haurdunaldi-proba",
+        "test de embarazo"
+      ],
+      "glance": "Etxeko haurdunaldi-testak gernuan haurdunaldiko hCG hormona bilatzen du; fidagarriena hilekoa falta den lehen egunetik aurrera da.",
+      "overview": "Etxeko haurdunaldi-testak gernuko hCG (giza gonadotropina korionikoa) izeneko hormona detektatuz funtzionatzen du. Obulu ernaldu bat ezarri eta egun batzuetara hasten da zure gorputza hura sortzen, eta kantitatea azkar igotzen da haurdunaldiaren hasieran.\n\nTesta fidagarriena **hilekoa falta den lehen egunetik** aurrera da, ernalketatik bi aste ingurura. Zure zikloa irregularra bada edo hilekoa noiz dagokizun ziur ez bazaude, babesik gabeko sexu-harremanetik gutxienez 21 egun itxaroteak emaitza fidagarriagoa ematen du. Ez duzu goizean lehenengo gauza egin beharrik; eguneko edozein ordu ondo dago.\n\nEmaitza **positiboa** ia ziur zuzena da: oso test gutxik ematen dute positiboa haurdun ez zaudenean. Emaitza **negatiboa** pixka bat ez hain ziurra da: hilekoa oraindik ez bazaizu etortzen eta haurdun egon zaitezkeela uste baduzu, itxaron egun batzuk eta egin berriro testa.",
+      "deep": null,
+      "when_to_see_doctor": "- Emaitza positiboa baduzu, jarri harremanetan **emagin batekin edo familia-medikuarekin** haurdunaldiaren jarraipena hasteko.\n- Testak negatiboak badira baina hilekoa falta bazaizu eta haurdun sentitzen bazara (edo gaizki sentitzen bazara), joan familia-medikuarengana zer gertatzen den jakiteko.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Erditze goiztiarra",
+      "aliases": [
+        "erditze goiztiarra",
+        "erditze aurreratua",
+        "jaiotza goiztiarra",
+        "haur goiztiarra",
+        "poltsa goiz haustea",
+        "parto prematuro"
+      ],
+      "glance": "Erditze goiztiarra 37. astea baino lehenagoko erditzea da; jardun azkar, arreta goiztiarrak benetako aldea egiten baitu.",
+      "overview": "Erditze goiztiarra haurdunaldiaren 37. astea baino lehen hasten den erditzea da. 100 jaiotzatik 8 inguru dira horrela.\n\nGoiz jaiotako haurrak ahulagoak dira, baina askok aurrera egiten dute ondo, batez ere unitate neonatalek ematen duten arreta espezializatuarekin. Gakoa azkar jardutea da hasten ari dela uste baduzu, aztertu zaitzaten eta, behar izanez gero, haurra babesten laguntzen duten tratamenduak eman diezazkizuten.\n\nSeinaleak edozein unetako erditzearen antzekoak dira, baina 37. astea baino lehen ez zaie inoiz itxaron behar pasatzeko: beti dira berehala harremanetan jartzeko arrazoia.",
+      "deep": null,
+      "when_to_see_doctor": "- Deitu zure **emaginari edo amatasun-unitateari** edozein unetan, **37 aste baino gutxiago** badituzu eta zalantzan edo kezkatuta bazaude: egiaztatzea beti dago ondo.",
+      "red_flags": "Jarri harremanetan **berehala zure emaginarekin edo amatasun-unitatearekin** (egunez edo gauez), **37. astea baino lehen** hauetakoren bat baduzu:\n\n- **uzkurdura edo estutze** erregularrak, edo hileko-minaren antzeko minak\n- baginatik **likido-zurrusta bat edo likidoa tantaka irtetea** (poltsa haustea)\n- zuretzat ohikoa ez den **bizkarreko mina**, edo pelbisean behera sakatzen duen presio-sentsazioa"
+    },
+    "premenstrual-syndrome": {
+      "title": "Hilaurreko sindromea",
+      "aliases": [
+        "hilaurreko sindromea",
+        "PMS",
+        "hilekoaren aurreko tentsioa",
+        "hilaurreko nahasmendu disforikoa",
+        "PMDD",
+        "síndrome premenstrual",
+        "SPM"
+      ],
+      "glance": "Hilaurreko sindromea jende askok hilekoaren aurreko astebete edo bi asteetan nabaritzen dituen aldaketa fisiko eta emozionalen nahasketa da.",
+      "overview": "Hilaurreko sindromea (PMS ingelesez) jende askok hilekoaren aurreko egunetan edo aste parean sentitzen dituen aldaketen izena da. Hilekoa duen edonori eragin diezaioke, eta normalean hilekoa hasi eta egun gutxira arintzen da.\n\nAldaketak modu askotara agertzen dira. Fisikoki, puztura, bular minberak edo sentikorrak, karranpak, buruko minak edo nekea nabari ditzakezu. Emozionalki, aldarte-aldaketak, haserrekortasuna, antsietatea edo tristura egon daitezke. Janari-gogo biziak eta loaren aldaketak ere ohikoak dira. Denek ez dute hilaurreko sindromea, eta dutenek ez dituzte sintoma guztiak: zure eredua da garrantzitsua.\n\nHilaurreko sindromea jende askoren zikloaren parte normal eta aitortua da, bigarren erdiko aldaketa hormonal naturalei lotua. Zure kasuan ziklo batetik bestera nola agertzen den nabaritzeak errazago planifikatzen lagun dezake, baita noizbait aldatzen bada antzematen ere.",
+      "deep": null,
+      "when_to_see_doctor": "Merezi du familia-medikuarekin hitz egitea:\n\n- sintomek zure eguneroko bizitzari eragiten badiote (lana, ikasketak, harremanak)\n- zure errutinan egindako eguneroko aldaketek ez badute lagundu\n- aldarte apala, antsietatea edo haserrekortasuna larriak iruditzen bazaizkizu\n\nOsasun-profesional batek zerk lagun dezakeen hitz egin dezake zurekin. Forma biziago batek, hilaurreko nahasmendu disforikoa (PMDD) deitzen denak, aldarte-sintoma askoz indartsuagoak eragin ditzake, eta harentzat ere badago laguntza.",
+      "red_flags": "- Hilaurreko nahasmendu disforikoaren sintomak badituzu eta **zeure buruaz beste egiteko gogoa baduzu edo zeure buruari min egiteko arriskuan zaudela sentitzen baduzu**, eskatu laguntza berehala: **deitu {{emergency}} zenbakira edo joan ospitaleko larrialdi-zerbitzura.** Ez gidatu zeuk: eskatu norbaiti eramateko, edo eskatu anbulantzia bat. Laguntza merezi duzu, eta badago laguntza."
+    },
+    "progesterone": {
+      "title": "Progesterona",
+      "aliases": [
+        "progesterona",
+        "progesterona hormona",
+        "progesterona maila",
+        "progesterone"
+      ],
+      "glance": "Progesterona zikloaren bigarren erdiko hormona da, obulazioaren ondoren umetokiaren barne-geruza prestatzen duena.",
+      "overview": "Progesterona hilekoaren zikloaren atzean dauden hormona nagusietako bat da, eta bigarren erdian hartzen du protagonismoa, obulazioan obulua askatu ondoren.\n\nHaren eginkizun nagusia umetokiaren barne-geruza lodi eta prest mantentzen laguntzea da, obulu ernaldu bat iristen bada ezar dadin eta haurdunaldi bat has dadin. Horrela, progesterona estrogenoaren bikotekide gisa aritzen da; estrogenoak egin zuen prestaketaren zati handi bat zikloan lehenago.\n\nHaurdunaldirik hasten ez bada, progesterona-mailak jaitsi egiten dira. Jaitsiera horrek ahalbidetzen du barne-geruza hurrengo hilekoaren bidez kanporatzea. Progesteronaren igoera eta jaitsiera zikloaren bigarren erdian zehar erritmo normal eta espero izatekoa da.",
+      "deep": "Progesterona batez ere gorputz horiak (corpus luteum) sortzen du: obulua askatu ondoren obulutegiak folikulutik eratzen duen egiturak. Horregatik igotzen da progesterona, hain zuzen, fase luteoan (obulazio ondokoan). Gorputz horia desegiten denean, progesterona eta estrogenoa jaitsi egiten dira biak, ziklo berri baten hasiera adieraziz. Haren aldaketa naturalak dira batzuek hilekoaren aurreko egunetan hilaurreko aldaketak nabaritzearen arrazoietako bat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Progestageno hutsezko pilula (minipilula)",
+      "aliases": [
+        "progestageno hutsezko pilula",
+        "minipilula",
+        "POP",
+        "progesterona hutsezko pilula",
+        "desogestrel pilula",
+        "minipíldora"
+      ],
+      "glance": "Minipilula hormona bakarreko eguneroko pilula da, umetoki-lepoko mukia loditzen duena espermatozoideak geldiarazteko.",
+      "overview": "Progestageno hutsezko pilula (askotan minipilula deitua) hormona bakarra, progestageno bat, duen eguneroko pilula da. Estrogenoa hartu ezin dutenentzat edo nahiago ez dutenentzat aukera bat da.\n\nHaren eragin nagusia umetoki-lepoko mukia loditzea da, espermatozoideei obulura iristea zailagoa egin dakien. Mota ohiko batek, desogestrel pilulak, obulutegiek obulurik askatzea (obulazioa) ere eragozten du.\n\nBehar bezala hartuta, % 99 baino eraginkorragoa da; eguneroko ohiko erabilerarekin, % 91 ingurukoa. Beste pilulekin bezala, ordua garrantzitsua da, eta ez du STIetatik babesten.",
+      "deep": "Minipilula pilula konbinatutik desberdina da estrogenorik ez duelako, eta horrek aldatzen du norentzat izan daitekeen egokia; osasun-profesional batek hori aztertzen du errezetatzen duenean. Mota batzuk eguneko ordu-tarte nahiko estu baten barruan hartu behar dira eraginkorrak izaten jarraitzeko. Artikulu honek zer den eta nola funtzionatzen duen azaltzen du; nola hartu eta zuretzat egokia den ala ez familia-medikuarekin, erizainarekin edo farmazialariarekin hitz egin beharrekoak dira.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Tratu txarreko harreman bat ezagutzea",
+      "aliases": [
+        "tratu txarrak ezagutzea",
+        "tratu txarreko harremana",
+        "etxeko indarkeria",
+        "bikotekidearen indarkeria",
+        "tratu txarren seinaleak",
+        "tratu txarrak jasaten ari naiz",
+        "genero-indarkeria",
+        "violencia de género"
+      ],
+      "glance": "Tratu txarrak fisikoak, sexualak, emozionalak edo kontrolekoak izan daitezke, eta ez dira inoiz jasaten dituen pertsonaren errua.",
+      "overview": "Harreman bateko tratu txarrak ez dira fisikoak bakarrik. Hainbat forma har ditzakete, askotan batera: kalte fisikoa, sexu-hertsapena, kalte emozional edo psikologikoa, eta portaera kontrolatzaileak (bikotekideak erabakitzea nora joaten zaren, norekin egoten zaren edo zer egin dezakezun). Horietako edozein tratu txarra izan daiteke, zauri ikusgarririk ez dagoenean ere.\n\nJende askok uste baino ohikoagoa da. Mundu osoan, 3 emakumetik 1 inguruk indarkeria fisikoa edo sexuala jasaten du bere bizitzan, gehienetan bikotekide batengandik; Italiako egoera antzekoa da. Beraz, hori zure bizitzaren parte bada, ez zaude bakarrik, eta ez da zuk eragin duzun zerbait.\n\nIzena jartzea zaila izan daiteke: tratu txarrak askotan une onekin, barkamen-eskaerekin edo aldatzeko promesekin nahasita etortzen dira, eta hain poliki pila daitezke non normala dirudien. Zerbait gaizki dagoela dioen zure sentipenaz fidatzea laguntza eskatzeko arrazoi zilegia da. Ez duzu ziur egon beharrik, ezta gauzak \"nahikoa txarrak\" izan arte itxaron beharrik ere, norbaitekin hitz egiteko.",
+      "deep": "Forma desberdinen azpian, tratu txarrek eredu bat jarraitu ohi dute: pertsona batek beste baten gaineko boterea eta kontrola bilatzen ditu, eta denborarekin areagotu egin daiteke. Osasunean benetako kaltea eragiten du: antsietatearekin, depresioarekin, lo egiteko arazoekin eta epe luzeko ondorio fisikoekin lotzen da. Horrek ez du esan nahi ahula edo errudun zarenik; esan nahi du bizi duzuna kaltegarria dela, eta badagoela laguntza modu seguruan eta zure erritmoan pentsatzen laguntzeko.",
+      "when_to_see_doctor": "- Prest zaudenean, norbaitekin hitz egin dezakezu konfidentzialki: familia-medikua edo erizaina, indarkeriaren aurkako zentro bat edo laguntza-telefono bat (Italian, **1522**, doakoa eta edozein unetan). Ez duzu frogarik, planik edo erabakirik behar aurretik; entzuteko eta zure aukerak ulertzen laguntzeko daude.\n- Osasun-profesional batek zauriak ere senda ditzake eta, isilean, laguntza espezializatuarekin harremanetan jar zaitzake.",
+      "red_flags": "- **Berehalako arriskuan** bazaude, jarri harremanetan larrialdi-zerbitzuekin orain: **112** Europar Batasunean (Italia barne), **999** Erresuma Batuan, **911** AEBetan eta Kanadan.\n- Italian, **1522** (indarkeriaren eta jazarpenaren aurkako doako telefono nazionala) eguneko 24 orduetan dago eskuragarri, anonimoki, telefonoz edo txat bidez, hainbat hizkuntzatan."
+    },
+    "respect-not-control": {
+      "title": "Errespetua, ez kontrola",
+      "aliases": [
+        "portaera kontrolatzailea",
+        "kontrol hertsatzailea",
+        "harreman osasuntsua",
+        "alarma-seinaleak",
+        "non eskatu laguntza",
+        "tratu txarrak",
+        "jeloskortasuna"
+      ],
+      "glance": "Maitasuna errespetuan eta askatasunean eraikitzen da: kontrola, jeloskortasuna eta presioa ez dira maitasuna, eta badago laguntza.",
+      "overview": "Harreman osasuntsu bat errespetuan, konfiantzan, berdintasunean eta askatasunean oinarritzen da: bi pertsona, bakoitzak bere adiskidetasunak, erabakiak eta espazioa gordetzen dituztenak. Kontrola kontrakoa da. Askotan maitasuna edo jeloskortasuna bezalako hitzen atzean ezkutatzen da (\"zure telefonoa begiratzen dut axola zaidalako\", \"ez dut nahi haiekin egotea maite zaitudalako\"), baina haren ondorioa da haren mundua eta askatasuna txikitzea.\n\nKontrola oso gutxitan hasten da indarkeriarekin. Normalean txiki hasten da (kritika bat, gainditutako muga bat, min ematen duen \"txantxa\" bat) eta hazi egiten da. Goiz izena jartzea garrantzitsua da, kontrol hertsatzailea bera tratu txarren forma bat delako eta okerragoaren alarma-seinalea. Kontua ez da errua; zintzotasuna eta aldaketa baizik.",
+      "deep": "**Horietako batzuk zeure baitan ezagutzen badituzu, kontzientzia hori abiapuntu bat da, ez bizi osorako zigor bat.** Pertsonak alda daitezke benetako ahaleginarekin eta laguntza egokiarekin. Kontrolatzaile edo bortitz izateari utzi nahi dioten gizonentzako programa espezifiko batera jotzea indarraren seinale da, ez ahuleziarena. Hitz egin profesional batekin, mediku batekin edo gizonen portaera aldatzeko zerbitzu batekin.\n\nArriskuan dagoena **bera** bada, edo norbaitengatik kezkatuta bazaude, animatu eta lagundu laguntza bilatzen, berak nahi duen moduan, inoiz ez haren ordez erabakiz.\n\n**Non eskatu laguntza**\n- Larrialdietan, edo norbait berehalako arriskuan badago, deitu zure tokiko larrialdi-zenbakira (**112** Italian eta Europako leku gehienetan; **911** AEBetan).\n- **Italia, 1522**: indarkeriaren eta jazarpenaren aurkako telefono nazionala. Doakoa, 24/7, anonimoa eta eleaniztuna, Aukera Berdintasunerako Sailak kudeatua. Tokiko indarkeriaren aurkako zentroetara ere bideratzen ditu pertsonak (centri antiviolenza).\n- Indarkeriaren aurkako zentroek eta gizonen portaera aldatzeko programek (Italian, \"centri per uomini autori di violenza\") laguntza konfidentziala eskaintzen dute aldatzeko.",
+      "when_to_see_doctor": null,
+      "red_flags": "Portaera kontrolatzaile edo bortitzen alarma-seinaleak, serio hartzea merezi dutenak zeure baitan edo harreman batean:\n\n- **Zelatatzea edo isolatzea**: haren telefonoa begiratzea, haren kokapena jarraitzea, edo hura lagunengandik eta familiarengandik aldentzea.\n- **Haren erabakiak kontrolatzea**: dirua, zer janzten duen, nora joaten den, norekin egoten den.\n- **Maitasun gisa aurkeztutako jeloskortasuna**, etengabeko salaketak, edo uneoro non dagoen jakin beharra.\n- **Gutxiestea, errua botatzea edo beldurra ematea**, errudun sentiaraztea edo \"arrautza-azal gainean ibiltzen\" dela sentiaraztea.\n- **Presioa edo mehatxuak** sexuari, harremana hausteari edo norberari min egiteari buruz, amore eman dezan.\n- **Edozein indar fisiko, larderia edo beldur.** Hori badago, tratu txarra da: jo goiko laguntzara. Ez dago inoiz aitzakiarik, eta ez da inoiz haren errua."
+    },
+    "safety-plan": {
+      "title": "Segurtasun-plan bat egitea",
+      "aliases": [
+        "segurtasun-plana",
+        "seguru egotea",
+        "babestuta egotea",
+        "segurtasun-plangintza",
+        "modu seguruan alde egitea",
+        "plan de seguridad"
+      ],
+      "glance": "Segurtasun-plana seguruago egoten laguntzen dizuten urrats praktiko batzuk dira, eta zerbitzu prestatuek bat egiten lagun zaitzakete.",
+      "overview": "Segurtasun-plana, besterik gabe, zeure burua (eta seme-alabak, baldin badituzu) seguruago mantentzeko aldez aurretik pentsatzea da. Ez da alde egiteko edo geratzeko erabakia: pixka bat prestatuago egotea da, aukeratzen duzuna aukeratzen duzula.\n\nBatzuei lagungarria zaie gauza batzuk isilean prest izatea: gertatzen ari dena dakien konfiantzazko pertsona bat, agiri eta telefono-zenbaki garrantzitsuak eskura, oinarrizko gauzekin poltsa txiki bat, etxetik irteteko biderik seguruenen ideia bat, edo laguntza behar duzula norbaiti adierazteko hitz edo keinu bat. Zerk duen zentzua zure egoeraren araberakoa da erabat.\n\nEz duzu hau bakarrik asmatu beharrik, eta askotan seguruagoa da bakarrik ez egitea. Indarkeriaren aurkako zerbitzuek esperientzia handia dute pertsonekin segurtasun-planak egiten, konfidentzialki eta doan, baita alde egiteko garairako ere; une hori arrisku handiagokoa izan daiteke, eta merezi du laguntzarekin planifikatzea, presaka egin beharrean.",
+      "deep": null,
+      "when_to_see_doctor": "- Jarri harremanetan indarkeriaren aurkako zentro batekin edo laguntza-telefono batekin (Italian, **1522**) zure egoerara egokitzen den plan bat egiteko: egunero egiten dute hau, konfidentzialki, eta urrats praktiko, juridiko eta emozionaletan lagun zaitzakete.\n- Gertatzen ari denaren erregistroren bat gordetzen ari bazara, gorde leku pribatu eta seguru batean.",
+      "red_flags": "- **Berehalako arriskuan** bazaude, jarri harremanetan larrialdi-zerbitzuekin orain: **112** Europar Batasunean (Italia barne), **999** Erresuma Batuan, **911** AEBetan eta Kanadan.\n- Italian, **1522** telefonoak (doakoa, eguneko 24 orduetan, anonimoa, eleaniztuna) lagun zaitzake telefonoz edo txat bidez, baita premiazko segurtasun-plangintzan ere."
+    },
+    "sex-during-your-period": {
+      "title": "Sexu-harremanak hilekoan",
+      "aliases": [
+        "sexua hilekoan",
+        "sexu-harremanak hilekoarekin",
+        "hilekoan harremanak",
+        "haurdun gera naiteke hilekoan",
+        "haurdun hilekoan",
+        "relaciones con la regla"
+      ],
+      "glance": "Hilekoan sexu-harremanak izatea ondo dago biek nahi baduzue, baina haurdun gera zaitezke edo STI bat kutsa daiteke hala ere.",
+      "overview": "Hilekoan sexu-harremanak izatea aukera pertsonala da. Biek nahi baduzue eta biak eroso sentitzen bazarete, ondo dago, eta ez dago ezer txarrik edo arrarorik horretan. Batzuk sentikorrago sentitzen dira garai honetan edo, besterik gabe, ez dute gogorik, eta beste batzuek gozatu egiten dute. Zure gorputzari entzutea eta bikotekidearekin irekiki hitz egitea da garrantzitsuena.\n\nHilekoak, ordea, ez du antisorgailu gisa funtzionatzen. Haurdun geratzeko aukera obulazio inguruan baino txikiagoa da, baina ez da zero. Espermatozoideek sexu-harremanen ondoren 7 egunera arte biziraun dezakete gorputzaren barruan; beraz, goiz obulatzen baduzu (ziklo laburragoarekin litekeenagoa da), hilekoan edo haren ondoren berehala izandako sexu-harremanetako espermatozoideak obulu batekin elkartu litezke. Haurdun geratu nahi ez baduzu, zure ohiko antisorgailua garrantzitsua da egun hauetan ere.\n\nHilekoak ez du sexu-transmisiozko infekzioetatik (STI) ere babesten. Infekzioak bikotekideen artean kutsa daitezke preserbatiborik gabeko sexu-harremanetan, eta haiek eragiten dituzten mikrobioak odolean eta gorputzeko beste jariakin batzuetan egon daitezke. Preserbatiboak dira STIak izateko arriskua ere murrizten duen metodoa, GIBa barne; beraz, merezi du erabiltzea hilabeteko edozein unetan.",
+      "deep": null,
+      "when_to_see_doctor": "- Sexu-harremanak **antisorgailurik gabe** izan badituzu, edo zure antisorgailuak huts egin badu, eta ez baduzu haurdun geratu nahi, hitz egin farmazialari batekin, familia-medikuarekin edo sexu-osasuneko klinika batekin **ahalik eta lehen** larrialdiko antisorgailuari buruz. Egun gutxiren barruan erabili behar da, eta normalean zenbat eta lehenago erabili, orduan eta hobeto funtzionatzen du.\n- Eskatu laguntza farmazialari bati, sexu-osasuneko klinika bati edo familia-medikuari sexu-harremanetan **preserbatiboa apurtzen bada edo ateratzen bada**. Baliteke larrialdiko antisorgailua edo STI proba bat behar izatea.\n- Joan familia-medikuarengana edo sexu-osasuneko klinika batera **hilekoa ez duzunean sexu-harremanen ondoren odoljarioa** nabaritzen baduzu. Normalean ez da larria, baina beti merezi du medikuak aztertzea.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Sexu-harremanak haurdunaldian",
+      "aliases": [
+        "sexua haurdunaldian",
+        "sexu-harremanak haurdun",
+        "segurua al da sexua haurdunaldian",
+        "intimitatea haurdunaldian",
+        "orgasmoa haurdunaldian",
+        "sexo en el embarazo"
+      ],
+      "glance": "Sexu-harremanak seguruak dira haurdunaldi gehienetan eta ez diote haurrari kalterik egingo, zure emaginak edo medikuak kontrakoa esan ez badizu behintzat.",
+      "overview": "Gehienentzat, haurdunaldian sexu-harremanak izatea segurua da, zure emaginak edo medikuak ez egiteko esan ez badizu behintzat. Haurra ondo babestuta dago umetoki barruan, eta sexuak ez dio kalterik egingo.\n\nEgoera batzuetan penetrazioko sexua saihesteko gomendatu diezazukete: **plazenta baxua (plazenta aurrea)** baduzu, odoljario-arriskuagatik; **poltsa hautsi bazaizu**, infekzio-arriskuagatik; edo **hainbat abortu espontaneo** izan badituzu.\n\nDesira askotan aldatzen da haurdunaldian (batzuek sexu gehiago nahi dute, beste batzuek gutxiago, eta beste batzuek batere ez denbora batez), eta hormonek, gorputzaren aldaketek, nekeak, goragaleek eta kezkek eragiten dute. Hori guztia normala da. Sexurako gogorik ez baduzu, musuak, besarkadak eta masajeak gertu egoteko beste modu batzuk dira.\n\nSabela hazi ahala, jarrera batzuk deserosoak bihurtzen dira; alboz alboko jarrerak errazagoak izan ohi dira. Hormonek bagina lehorragoa egin dezakete, eta urean oinarritutako lubrifikatzaile batek lagun dezake.\n\nHaurdunaldiaren amaieran, sexuak edo orgasmo batek Braxton Hicks uzkurdurak eragin ditzakete, umetokia denbora batez gogortzen denean. Normala da, eta ez da erditzea hastea; eta ez dago ebidentziarik sexuak erditzea eragiten duenik.\n\nBietako batek sexu-transmisiozko infekzioren bat izan badezake, erabili preserbatiboa, ahozko sexuan ere bai: tratatu gabeko infekzio bat oso kaltegarria izan daiteke zuretzat eta haurrarentzat. Saihestu ahozko sexua bietako batek ezpaineko herpesa badu, birusa haurrari kutsa dakiokeelako.",
+      "deep": null,
+      "when_to_see_doctor": "- Hitz egin zure **emaginarekin edo medikuarekin** sexua zuretzat segurua den ziur ez bazaude, edo sexuari edo zure harremanari buruzko kezkek zama egiten badizute.\n- Haurdunaldian **edozein odoljario** baduzu, eskatu aztertzeko berriro sexu-harremanak izan aurretik: jarri harremanetan zure emaginarekin, medikuarekin edo amatasun-unitatearekin.\n- Joan **sexu-osasuneko klinika** batera zuk edo zure bikotekideak STIren bat izan badezakezue.",
+      "red_flags": "- Jarri harremanetan berehala zure **amatasun-unitatearekin** **poltsa hautsi zaizula** uste baduzu, eta ez izan sexu-harremanik aztertu zaituzten arte.\n- Deitu **{{emergency}} zenbakira edo joan ospitaleko larrialdi-zerbitzura** **odoljario handia** baduzu, batez ere **sabeleko min biziarekin** edo konortea galtzeko sentsazioarekin."
+    },
+    "sexual-violence": {
+      "title": "Sexu-indarkeria eta adostasuna",
+      "aliases": [
+        "sexu-indarkeria",
+        "sexu-erasoa",
+        "bortxaketa",
+        "adostasuna",
+        "sexu-abusua",
+        "adostasunik gabe",
+        "agresión sexual"
+      ],
+      "glance": "Sexu-indarkeria adostasunik gabeko edozein sexu-ekintza da, eta ez da inoiz hura jasan duen pertsonaren errua.",
+      "overview": "Sexu-indarkeria da adostasunik gabe edo hertsapenez egindako edozein sexu-ekintza, edo hura lortzeko saiakera. Bortxaketa eta nahi ez den edozein sexu-kontaktu barne hartzen ditu, eta edonork egin dezake: ezezagun batek, ezagun batek, edo bikotekide edo ezkontide batek.\n\nAdostasuna da gakoa. Adostasunak askatasunez onartzea esan nahi du, eta ez da posible norbait lo, konorterik gabe, mozkortuta edo drogatuta dagoenean, haur bat denean, edo presiopean, mehatxatuta edo beldurtuta dagoenean. Edozein unetan atzera bota daiteke. Horregatik, sexu-indarkeria ez da **inoiz** jasan duen pertsonaren errua: ez zer jantzi zuen, ez edaten aritu zen ala ez, ez borrokatu beharrean izoztu zen ala ez, ez pertsona ezagutzen zuen ala ez.\n\nHau gertatu bazaizu, badago laguntza, duela gutxi edo aspaldi gertatu dela ere. Sinesten dizugu, eta hurrengo urratsa zuk aukeratzen duzu.",
+      "deep": null,
+      "when_to_see_doctor": "- **Osasun-zerbitzu batera, ospitale batera edo sexu-erasoetarako zerbitzu espezializatu batera** jo dezakezu; zaindu egingo zaituzte, zauriak sendatu, eta, nahi baduzu, salaketa jartzen eta frogak gordetzen lagunduko dizute.\n- Osasun-urrats batzuek **denbora-muga** dute (larrialdiko antisorgailuak edo infekzioen prebentzioak, adibidez); beraz, **laster** laguntza eskatzeak lagun dezake. Baina laguntza jasotzeko ez dago denbora-mugarik, eta salaketa jartzea edo ez beti da zure aukera.",
+      "red_flags": "- **Berehalako arriskuan** bazaude, jarri harremanetan larrialdi-zerbitzuekin orain: **112** Europar Batasunean (Italia barne), **999** Erresuma Batuan, **911** AEBetan eta Kanadan.\n- Eraso berri baten ondoren, **ospitale batek edo zerbitzu espezializatu batek premiaz lagun zaitzake**. Italian, **1522** telefonoak (doakoa, 24/7, anonimoa, eleaniztuna; telefonoz edo txat bidez) arreta egokira bidera zaitzake."
+    },
+    "signs-of-labour": {
+      "title": "Erditzearen seinaleak",
+      "aliases": [
+        "erditzearen seinaleak",
+        "erditzea",
+        "erditzen hastea",
+        "uzkurdurak",
+        "poltsa haustea",
+        "muki-tapoia",
+        "fase latentea",
+        "signos de parto"
+      ],
+      "glance": "Erditzea hasten ari denaren seinaleak dira uzkurdura erregularrak, muki-tapoia askatzea, bizkarreko mina edo poltsa haustea.",
+      "overview": "Seinale batzuek adieraz dezakete erditzea hasten ari dela. Nagusia uzkurdurak dira: sabelean zehar erregularki datozen eta indartuz doazen estutzeak. Beste batzuk: muki-tapoia askatzea (umetoki-lepoa ixten duen muki-tapoia ateratzea), bizkarreko min iraunkorra, komunera joateko beharra eta poltsa haustea.\n\nErditze aktiboaren aurretik, askotan hasierako fase bat (fase \"latentea\") izaten da, umetoki-lepoa biguntzen eta irekitzen hasten denean. Zati honek orduak edo egunak ere iraun ditzake, eta askorentzat ondo dago bitartean etxean eroso egotea, atseden hartzen eta ura edaten.\n\nBakoitzaren erditzea pixka bat desberdin hasten da; beraz, ez duzu seinale guztiak bete beharrik. Gauzak hasten ari direla uste duzunean, zure emagina edo amatasun-unitatea hor daude zer egin eta noiz joan behar duzun esateko.",
+      "deep": null,
+      "when_to_see_doctor": "- Deitu zure **emaginari edo amatasun-unitateari** jarraibideak eskatzeko erditzea hasi dela uste duzunean, edo uzkurdurak **erregularrak direnean, 5 minuturo gutxi gorabehera**. Zure emaginarekin harremanetan jartzerik ez baduzu, deitu erditzeko asmoa duzun ospitalera.",
+      "red_flags": "Deitu **berehala zure emaginari edo amatasun-unitateari** (egunez edo gauez, itxaron gabe):\n\n- **poltsa hausten** bazaizu (batez ere likidoa berdea, marroia edo usain txarrekoa bada)\n- **baginako odoljarioren bat** baduzu\n- zure **haurra ohi baino gutxiago mugitzen** bada\n- erditzearen seinaleak badituzu eta **37 aste baino gutxiagoko haurdun** bazaude"
+    },
+    "signs-of-pregnancy": {
+      "title": "Haurdunaldiaren seinaleak",
+      "aliases": [
+        "haurdunaldiaren seinaleak",
+        "haurdunaldiaren lehen sintomak",
+        "haurdun al nago",
+        "haurdunaldiko sintomak",
+        "síntomas de embarazo"
+      ],
+      "glance": "Hilekoa ez etortzea da askotan haurdunaldiaren lehen seinalea, batzuetan goragalearekin, nekearekin edo bular minberekin batera.",
+      "overview": "Askorentzat, haurdunaldiaren lehen zantzua **hilekoa ez etortzea** da. Baina gorputzak desberdinak dira, eta batzuek hasierako beste seinale batzuk nabaritzen dituzte lehenago, askotan 4-6 aste inguruan.\n\nHasierako seinale ohikoak: goragalea edo okada (eguneko edozein ordutan, ez goizean bakarrik), bularrak handiago edo minberago sentitzea, ohi baino nekatuago egotea eta pixa maizago egin beharra. Batzuek ahoan metal-zaporea, usain jakin batzuekiko sentikortasun berria edo normalean gustuko dituzten janariei higuina ere nabaritzen dituzte.\n\nHorietako batek ere ez du esan nahi, berez, ziur haurdun zaudenik (asko zikloaren ohiko gorabeherekin nahasten dira), eta denek ez dituzte izaten. Ziur jakiteko modua haurdunaldi-test bat da.",
+      "deep": null,
+      "when_to_see_doctor": "- Testa positiboa bada, jarri harremanetan **emagin batekin edo familia-medikuarekin** zure haurdunaldiaren jarraipena goiz hasteko.\n- Hilekoa atzeratuta badago eta testak negatiboak badira baina sintomek jarraitzen badute, merezi du familia-medikuarengana joatea zer beste gauza gerta daitekeen aztertzeko.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Tabakoa haurdunaldian",
+      "aliases": [
+        "erretzea haurdunaldian",
+        "tabakoa haurdunaldian",
+        "erretzeari utzi haurdun",
+        "zigarro elektronikoa haurdunaldian",
+        "vapeatzea haurdunaldian",
+        "fumar embarazo"
+      ],
+      "glance": "Erretzeari uztea zure haurrarentzat egin dezakezun gauzarik onenetako bat da, eta ez da inoiz berandu.",
+      "overview": "Erretzeari uztea zure haurrari hasiera osasuntsua emateko egin dezakezun gauzarik indartsuenetako bat da. Zigarro bakoitzak haurrari iristen zaion oxigenoa murrizten du; horrek haren bihotzari lan gehiago eragiten dio eta haren hazkundea atzera dezake.\n\nHaurdunaldian erretzeak arazo larrien arriskua handitzen du, besteak beste: abortu espontaneoa, erditze goiztiarra, jaiotzean pisu txikia, haurra hilda jaiotzea eta, jaio ondoren, bat-bateko haur-heriotzaren sindromea. Besteen keak ere eragina du; beraz, kerik gabeko etxe batek laguntzen du.\n\nAlderdi itxaropentsua: **ez da inoiz berandu**. Haurdunaldiaren edozein unetan uzteak laguntzen du, eta goiz uzteak ematen ditu onura gehien. Benetan zaila izan daiteke, eta horregatik, hain zuzen, badago doako laguntza; hura erabiltzeak lortzeko aukerak asko handitzen ditu.",
+      "deep": null,
+      "when_to_see_doctor": "- Galdetu zure **emaginari** **erretzeari uzteko doako laguntzari** buruz: aholkulari prestatuek (batzuk haurdunaldian espezializatuak) lagun zaitzakete, eta herrialde askotan erretzeari uzteko doako laguntza-telefonoa ere badago. Laguntza eskatzea zure haurra zaintzearen seinale da, ez porrot bat.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Odol-orbanak eta hilekoen arteko odoljarioa",
+      "aliases": [
+        "odol-orbanak",
+        "hilekoen arteko odoljarioa",
+        "odoljario intermenstruala",
+        "ihes-odoljarioa",
+        "odoljarioa sexu-harremanen ondoren",
+        "manchado entre reglas"
+      ],
+      "glance": "Odol-orbanak hilekoen artean edo sexu-harremanen ondoren izaten den odoljario arina dira; askotan ez da larria, baina beti merezi du medikuak aztertzea.",
+      "overview": "Odol-orbanak hilekoen artean edo sexu-harremanen ondoren, zure ohiko hilekotik kanpo, gertatzen den odoljario arina dira. Ohikoak dira, eta normalean ez dira zerbait larria; baina hainbat kausa izan ditzaketenez, osasun-profesional batek aztertzea beti merezi duen gauza da.\n\nEguneroko arrazoi asko daude. Antisorgailu hormonalak hastea edo erabiltzea kausa ohikoa da. Beste batzuk: umetoki barruan edo inguruan hazkin txiki kaltegabeak (polipoak edo miomak), umetoki-lepoaren gainazaleko aldaketa kaltegabeak, baginako lehortasuna, edo klamidia bezalako infekzio bat.\n\nSintoma bera kausa desberdinetatik etor daitekeenez (gehienak arinak), urrats erabilgarria ez da asmatzen saiatzea, baizik eta medikuak aztertzea, zure kasuan zerk eragiten duen jakiteko.",
+      "deep": null,
+      "when_to_see_doctor": "- Joan familia-medikuarengana edo sexu-osasuneko klinika batera **hilekoen artean edo sexu-harremanen ondoren odoljarioa duzun bakoitzean**, arina bada ere. Normalean ez da ezer larria, baina medikuak aztertzea da kausa aurkitzeko modua, eta kausa ez hain ohikoak goiz baztertzeko bidea.",
+      "red_flags": "- Eskatu **premiazko** hitzordua familia-medikuari, edo jarri harremanetan **guardiako mediku batekin**, **hilekoa falta bazaizu eta ezohiko odoljarioa baduzu sabeleko edo pelbiseko minarekin batera**: horrek berehalako azterketa behar du, haurdunaldi ektopikoaren seinale izan baitaiteke."
+    },
+    "stalking": {
+      "title": "Jazarpena (stalking)",
+      "aliases": [
+        "jazarpena",
+        "stalking",
+        "jazarria sentitzea",
+        "nahi ez den arreta",
+        "norbait atzetik dut",
+        "ziberjazarpena",
+        "acoso"
+      ],
+      "glance": "Jazarpena beldurra edo segurtasun eza sentiarazten dizun arreta errepikatu eta nahi gabea da, eta serio hartzen da.",
+      "overview": "Jazarpena norbaiten portaera nahi gabe eta errepikatuen eredu bat da, zu beldurtuta, zelatatuta edo seguru ez sentiarazten zaituena. Barne har ditzake: zure atzetik ibiltzea, zu zauden lekuan agertzea, etengabeko deiak edo mezuak, nahi ez dituzun opariak, zu sarean edo telefonoaren bidez zelatatzea, edo mehatxuak. Askotan bikotekide ohi batek edo ezagutzen duzun norbaitek egiten du, baina ez beti.\n\nEragiten duen beldurra zilegia da, ekintza bakoitza besteei \"txikia\" iruditu arren: eredua eta nola sentiarazten zaituen dira garrantzitsuak. Jazarpena tratu txarren forma gisa aitortzen da, eta herrialde askotan delitua da. Ezer ez da zure errua, eta ez duzu besterik gabe jasan beharrik.\n\nSegurua bada, erregistro bat gordetzeak lagun dezake gerora: datak eta orduak, mezuen pantaila-argazkiak eta gertatutakoa. Ez duzu zeuk bakarrik erabaki beharrik \"kontatzen\" duen ala ez: laguntza-zerbitzuek ulertzen eta zure aukerak pentsatzen lagun zaitzakete.",
+      "deep": null,
+      "when_to_see_doctor": "- Jarri harremanetan **poliziarekin** jazarpena salatzeko, eta indarkeriaren edo jazarpenaren aurkako laguntza-telefono batekin laguntza eta aholkua jasotzeko (Italian, **1522** indarkeriarako **eta** jazarpenerako da).\n- Frogak gordetzeak eta segurtasun-plan bat egiteak, zerbitzu espezializatu baten laguntzarekin, benetako aldea egin dezakete biek.",
+      "red_flags": "- **Berehalako arriskuan** sentitzen bazara, jarri harremanetan larrialdi-zerbitzuekin orain: **112** Europar Batasunean (Italia barne), **999** Erresuma Batuan, **911** AEBetan eta Kanadan.\n- Italian, **1522** telefonoak (doakoa, eguneko 24 orduetan, anonimoa, eleaniztuna) lagun zaitzake telefonoz edo txat bidez."
+    },
+    "stillbirth": {
+      "title": "Haurra hilda jaiotzea",
+      "aliases": [
+        "haurra hilda jaiotzea",
+        "jaiotza hila",
+        "haurraren galera",
+        "haurdunaldi berantiarreko galera",
+        "sabelean hildako haurra",
+        "muerte fetal"
+      ],
+      "glance": "Haurra hilda jaiotzea 24. astetik aurrera haurra galtzea da: ez da ohikoa, ez da inoiz zure errua, eta beti izango duzu laguntza.",
+      "overview": "Haurra hilda jaiotzea da haurdunaldiaren 24. astearen ondoren hildako haur bat jaiotzen denean. (24. astea baino lehenagoko galerari abortu espontaneoa deitzen zaio.) Ez da ohikoa (250 jaiotzatik 1 inguru), baina ukitzen dituen familientzat galera sakona da, eta ondorengo arreta guztiaren helburua zu samurtasunez laguntzea da hori igarotzen.\n\nBatzuetan kausa bat aurkitzen da (adibidez, plazentaren edo haurraren garapenaren arazo bat, edo osasun-arazo bat), eta beste batzuetan, probak eginda ere, **ez da inolako kausarik aurkitzen**. Arrazoia edozein dela ere, haurra hilda jaiotzea ez da guraso batek eragin duen zerbait, ezta saihesten jakin zezakeen zerbait ere.\n\nGauza batek benetan laguntzen du arriskua murrizten, eta sinplea da: **zure haurraren mugimenduak moteltzen edo aldatzen badira, berehala esatea zure emaginari.** Horrekin batera, eguneroko gauzek (haurdunaldiko hitzorduetara joatea, ez erretzea, alkohola saihestea eta 28. astetik aurrera alboz lo egitea) guztiek dute zeresana.",
+      "deep": null,
+      "when_to_see_doctor": "- Jarri harremanetan **berehala zure emaginarekin edo amatasun-unitatearekin** (edozein unetan, egunez edo gauez) zure **haurra ohi baino gutxiago mugitzen bada edo haren mugimenduak desberdinak iruditzen bazaizkizu.** Ez itxaron inoiz pasatzen den ikusteko; aztertzera joatea da, hain zuzen, egin beharrekoa, eta ez da inoiz enbarazu bat.\n- Galera baten ondoren, emagin espezializatuak eta dolu-taldeak zuretzat daude: erabakietarako, urrats praktikoetarako eta dolurako. Ez duzu ezeri bakarrik aurre egin beharrik, eta haurraren galerarako laguntza-taldeak behar duzun bitartean daude eskuragarri.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Estresa, bizitza eta zure hilekoak",
+      "aliases": [
+        "estresa eta hilekoa",
+        "estresa",
+        "hilekoa ez etortzea",
+        "hilekoa atzeratuta",
+        "zergatik ez zait hilekoa etortzen",
+        "retraso regla"
+      ],
+      "glance": "Estresak, pisuaren aldaketa handiek edo ariketa askok hilekoa atzeratu edo eten dezakete, askotan denbora batez bakarrik.",
+      "overview": "Ohikoa da hilekoa berandu etortzea edo hilabete batean ez etortzea, eta arrazoiak askotan zerikusi handiagoa du bizitzarekin zerbait gaizki egotearekin baino. Estresa arrazoi ohikoa da: presioari erantzuten dion sistema berak zure zikloa gidatzen duten hormonei eragin diezaieke.\n\nEguneroko beste gauza batzuek ere alda ditzakete zure hilekoak: pisuaren aldaketa handi batek (gora edo behera), ariketa asko egiteak edo akituta egoteak. Aldaketa hormonalak ere egon daitezke atzean (perimenopausia hurbiltzea, edo obulutegi polikistikoen sindromea bezalako egoerak), baita haurdunaldia eta antisorgailu batzuk ere. Askotan hilekoen arteko tartea pixka bat aldatzen da noizean behin, besterik gabe, eta hori normala da.\n\nAlderdi lasaigarria da behin bakarrik atzeratutako edo falta izandako hilekoa normalean ez dela kezkatzeko arrazoia, eta gauzak askotan bizitzarekin batera baretzen direla. Erreparatzea merezi duena aldaketa-eredu bat da, ez hilabete bakar bat.",
+      "deep": null,
+      "when_to_see_doctor": "Joan familia-medikuarengana:\n\n- **hiru hileko jarraian** falta izan bazaizkizu, edo zure hilekoak **irregular** bihurtu badira\n- zure hilekoak **eten** badira eta zergatik ez dakizu (eta haurdun egon bazintezke, merezi du lehenik test bat egitea)\n- falta diren hilekoekin batera beste aldaketa batzuk badaude, hala nola ustekabeko pisu-aldaketak, nekea, ile gehiago haztea edo aldarte apala\n\nKontrol horiek aldaketaren atzean zer dagoen ulertzeko besterik ez dira, eta normalean kudeagarria den zerbait izaten da.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Hilekoan hari laguntzea",
+      "aliases": [
+        "hilekoan laguntzea",
+        "hilekoa bikotekideentzat",
+        "hilekoko zaintza",
+        "bikotekideari laguntzea hilekoan",
+        "apoyar a mi pareja regla"
+      ],
+      "glance": "Hilekoak benetako mina eta nekea ekar ditzake: zaintza txiki eta praktikoek alde handia egiten dute.",
+      "overview": "Hilekoa ez da odol-jarioko egun gutxi batzuk bakarrik; askorentzat karranpak, bizkarreko mina, buruko mina, nekea eta energia gutxi dakartza. Hileko mina ohikoa da eta benetan nekagarria izan daiteke: ez da gehiegikeria. Trata ezazu gaixorik dagoen edozein bikotekide tratatuko zenukeen bezala: adeitasun praktikoz.\n\nNormaldu ere egin ezazu. Hilekoa ez da nazkagarria, lotsagarria edo tabua. Konpresak edo tanpoiak erosteko eroso egoteak, etxean batzuk izateak edo ur beroko poltsa bat inolako zalapartarik gabe emateak hari seguru eta babestuta dagoela adierazten dio.",
+      "deep": "Laguntzen duten gauza sinpleak:\n\n- **Beroa eta atsedena.** Sabelaren beheko aldean jarritako ur beroko poltsak edo berogailu-kuxinak karranpak arintzen ditu; eskaini arratsalde lasai bat etxean.\n- **Kendu zereginak gainetik.** Egin janaria, jaso etxea, egin enkargua, eraman autoz: laguntza praktikoak hitzek baino gehiago esaten du.\n- **Izan hornidura etxean.** Jakin zer erabiltzen duen eta izan beti etxean, egun ugari bat inoiz krisi bat izan ez dadin.\n- **Analgesikoak eta gustuko janaria**, nahi baditu; bera da erabakitzen duena.\n- **Ez egin presiorik ez duen sexurako edo energiarako.** Gertutasuna sofan besarkada bat izan daiteke.",
+      "when_to_see_doctor": "Animatu medikuarengana joatera (eta eskaini harekin joatea) hileko mina **bizia bada, okerrera badoa edo eguneroko bizitza egitea eragozten badio**, hilekoak **oso ugariak** badira (babesa orduro guztiz blaitzea, koagulu handiak), edo mina berria eta ezohikoa bada: endometriosia bezalako gaixotasunak adieraz ditzakete, arreta egokia merezi dutenak.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Indarkeria jasaten ari den norbaiti laguntzea",
+      "aliases": [
+        "norbaiti laguntzea",
+        "lagun bati laguntzea",
+        "nola lagundu",
+        "tratu txarrak jasaten ari den norbait",
+        "nola eman babesa",
+        "ayudar a una amiga"
+      ],
+      "glance": "Ezagutzen duzun norbaitek tratu txarrak jasan baditzake, epaitu gabe entzuteak eta nora bideratu jakiteak laguntzen du.",
+      "overview": "Maite duzun norbaitek tratu txarrak jasan ditzakeela konturatzea gogorra da, eta laguntzeko gogoa izatea bultzada ona da. Eskain dezakezun gauzarik erabilgarriena, askotan, sinpleena da.\n\nEntzun, eta sinetsi. Utzi bere erritmoan hitz egiten, epaitu gabe, errua bota gabe eta hori eragiteko zer egin zuen galdetu gabe. Esan argi ez dela bere errua eta ez duela hori merezi. Saiatu zer egin behar duen ez esaten eta alde egitera ez bultzatzen: alde egitea berak erabaki behar du, eta presaka egiteak arriskua handitu dezake benetan; gehiago laguntzen du babestuta eta ez bakarrik sentitzeak.\n\nKontatzen dizuna gorde zeuretzat. Lagundu leunki laguntza espezializatua aurkitzen prest dagoenean (Italiako **1522** bezalako laguntza-telefono bat, edo tokiko indarkeriaren aurkako zentro bat), eta eskaini laguntza praktikoa, hala nola zenbakiak elkarrekin bilatzea edo deitzen duenean ondoan egotea. Eta zaindu zeure burua ere; horrelako egoera batean norbaiti laguntzea astuna izan daiteke.",
+      "deep": null,
+      "when_to_see_doctor": "- Animatu (presiorik gabe) laguntza-telefono batekin edo indarkeriaren aurkako zentro batekin harremanetan jartzera; bioi orientatu zaitzakete hurrengo urratsetan. Deia egiten edo zenbakia aurkitzen laguntzea eskain diezaiokezu.\n- Zaurituta badago, familia-medikuak edo ospitale batek lagun dezake, eta laguntza-zerbitzuekin harremanetan jarri.",
+      "red_flags": "- **Berehalako arriskuan** badago, deitu larrialdi-zerbitzuei: **112** Europar Batasunean (Italia barne), **999** Erresuma Batuan, **911** AEBetan eta Kanadan.\n- Italian, **1522** telefonoak (doakoa, 24/7, anonimoa, eleaniztuna; telefonoz edo txat bidez) norbaiti nola lagundu ere aholka zaitzake."
+    },
+    "the-coil": {
+      "title": "DIUa (kobrezkoa eta hormonala)",
+      "aliases": [
+        "DIU",
+        "DIUa",
+        "umetoki barneko gailua",
+        "kobrezko DIUa",
+        "DIU hormonala",
+        "umetoki barneko sistema",
+        "Mirena",
+        "dispositivo intrauterino"
+      ],
+      "glance": "DIUa (umetoki barneko gailua) umetokian jartzen den gailu txiki bat da, kobrezkoa edo hormonala, eta urteak irauten ditu.",
+      "overview": "DIUa (umetoki barneko gailua) osasun-profesional batek umetoki barruan jartzen duen gailu txiki bat da. Bi mota daude, eta lagungarria da bereiztea:\n\n- **Kobrezko DIUak** (ingelesez IUD) ez du hormonarik. Kobreak umetokiko baldintzak aldatzen ditu, espermatozoideek eta obuluek ondo biziraun ez dezaten, eta umetoki-lepoko mukian ere eragiten du. Motaren arabera, 5 eta 10 urte artean funtzionatzen du, gutxi gorabehera.\n- **DIU hormonalak** (ingelesez IUS) progestageno bat askatzen du, kobrea erabili beharrean. Umetoki-lepoko mukia loditzen du eta umetokiaren barne-geruza mehetzen du; batzuei hilekoak askoz arinago egin diezazkieke.\n\nBiak dira \"jarri eta ahaztu\" metodoak, eta biak % 99 baino eraginkorragoak, erabilera perfektuaren eta ohikoaren artean alde txikiarekin. Bietako batek ere ez du STIetatik babesten.",
+      "deep": "DIUak iraupen luzeko metodo itzulgarriak dira: jarri ondoren urteetan funtzionatzen jarraitzen dute, eta ugalkortasuna kendu ondoren itzultzen da. Jartzea eta kentzea prestatutako osasun-profesional batek egiten ditu, eta minutu gutxi batzuk besterik ez dituzte behar, nahiz eta batzuei jartzea deserosoa egiten zaien. Bien artean aukeratzeko arrazoi ohiko bat hilekoan duten eragina da: kobrezko DIUak hasieran hilekoak ugariagoak egin ditzake; DIU hormonalak, berriz, askotan arinagoak egiten ditu. Zuri zein egokitzen zaizun osasun-profesional batekin hitz egin beharrekoa da; artikulu honek bakoitzak nola funtzionatzen duen azaltzen du, besterik ez.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Hilaurreko egunak",
+      "aliases": [
+        "hilaurreko sindromea bikotekideentzat",
+        "hilekoaren aurretik hari laguntzea",
+        "hilaurreko laguntza",
+        "fase luteoko laguntza",
+        "síndrome premenstrual pareja"
+      ],
+      "glance": "Hilekoaren aurreko egunetan nekatuago, minberago edo apalago senti daiteke: erantzun pazientziaz, ez txantxekin.",
+      "overview": "Hilekoaren aurreko astean edo, jende askok hilaurreko sintomak izaten ditu: aldarte-aldaketak, haserrekortasuna edo tristura, nekea, bular minberak, puztura, buruko mina edo lo egiteko zailtasunak. Oso ohikoa da eta benetakoa: fase luteoko aldaketa hormonal naturalek eragiten dute, ez hark \"gehiegi erreakzionatzeak\".\n\nPertsona gutxiago batzuentzat aldarte apala larria da (hilaurreko nahasmendu disforikoa, PMDD, deritzon egoera), eta benetako laguntza eta arreta medikoa merezi du. Nolanahi ere, zure lana ez da hura diagnostikatzea edo konpontzea: egonkor eta atsegin egotea baizik.\n\nBikotekide batek hemen egin dezakeen gauzarik kaltegarriena hori arma bihurtzea da: \"hilekoaren aurrekoa besterik ez da\", begiak biratzea, edo haren sentimenduak data dela eta baliogabetzat hartzea. Horrek gutxietsi egiten du eta min gehiago eransten dio aste gogor bati. Haren sentimenduek garrantzia dute oraindik, hormonek zeresana izan arren.",
+      "deep": "Egun hauetan benetan laguntzen duena:\n\n- **Arindu haren zama.** Hartu zeure gain etxeko lanak, sukaldaritza edo egin beharrekoen zerrenda mentala, inork eskatu gabe.\n- **Erosotasuna, ez zuzenketa.** Eskaini beroa, atsedena, ur beroko poltsa bat, bere janari gogokoena, eta utzi sentitzen duena sentitzen.\n- **Lehenik entzun.** Haserre badago, \"oso gogorra dirudi\" beti da hobea \"lasai zaitez\" baino.\n- **Ez eraman konturik.** Egun gogorrago bat ez da gero zuri ordaindu behar dizun zor bat.\n- **Galdetu zer behar duen**: batzuek gertutasuna nahi dute, beste batzuek espazioa. Biak daude ondo; errespetatu haren erantzuna.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Biki-haurdunaldia eta haurdunaldi anizkoitza",
+      "aliases": [
+        "bikiak",
+        "biki-haurdunaldia",
+        "haurdunaldi anizkoitza",
+        "bikiak espero",
+        "biki berdinak",
+        "biki ez-berdinak",
+        "hirukiak",
+        "embarazo gemelar"
+      ],
+      "glance": "Bikiak izatea normalean datazio-ekografian antzematen da lehen aldiz, eta haurdunaldiaren jarraipen pixka bat gehiago eskatzen du.",
+      "overview": "Haur bat baino gehiago espero izatea normalean **datazio-ekografian** (12. aste inguruan) antzematen da lehen aldiz, eta ekografia horrek haurrek plazenta partekatzen duten ala ez ere erakuts dezake.\n\nBi mota nagusi daude. **Biki berdinak** banatzen den obulu ernaldu bakar batetik datoz; beraz, gene berberak dituzte eta beti sexu berekoak dira. **Biki ez-berdinak** bi obulu bereizitatik datoz, eta ez dira beste edozein anai-arreba baino antzekoagoak; bietan ohikoenak dira, eta pixka bat litekeenagoak dira adin handiagoarekin, amaren aldeko familia-aurrekariekin edo ugalkortasun-tratamenduaren ondoren.\n\nBikiak edo gehiago eramatea esperientzia berezia da, eta normalean **haurdunaldiaren jarraipen pixka bat gehiago** eskatzen du: hitzordu eta ekografia gehigarriak, zu eta zure haurrak gertutik zaintzeko. Zure emaginen taldeak azalduko dizu zer espero.",
+      "deep": null,
+      "when_to_see_doctor": "- Ekografia batek bikiak (edo gehiago) erakusten baditu, zure **emaginak** haurdunaldi anizkoitz batek dakartzan kontrol eta ekografia gehigarriak azalduko dizkizu; guztietara joatea da ondo zainduta egoteko modurik onena.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Haren zikloa ulertzea",
+      "aliases": [
+        "zikloa bikotekideentzat",
+        "bikotekidearentzako gida zikloari buruz",
+        "nola funtzionatzen duen haren zikloak",
+        "haren zikloan laguntzea",
+        "entender el ciclo de mi pareja"
+      ],
+      "glance": "Haren gorputzak lau faseko hileroko ziklo bat igarotzen du: oinarriak ezagutzeak asmatzen ibili gabe laguntzen dizu.",
+      "overview": "Hilekoaren zikloa hileroko erritmo bat da, gutxi gorabehera: batez beste 28 egun ingurukoa, baina askotan 21 eta 35 egun bitartekoa, eta harentzat normala *harentzat* erregularra dena da. Lau fasetan banatzen da: fase **menstruala** (hilekoa), fase **folikularra**, **obulazioa** erdialdean, eta fase **luteoa** hurrengo hilekoaren aurretik.\n\nEnergia, aldartea, loa eta desira alda daitezke fase horietan zehar, hormonak igo eta jaisten direlako: biologia da, ez izaera-akats bat, ezta harekin txantxetan ibiltzeko zerbait ere. Batzuek benetako beherakada sentitzen dute hilekoaren aurreko egunetan; beste batzuek ia ez dute nabaritzen. Ez dago sentitzeko modu \"zuzen\" bakar bat.\n\nEz duzu aditu bihurtu beharrik. Gehien laguntzen duena sinplea da: jakin gutxi gorabehera zikloaren zein unetan dagoen (aplikazio honek erakuts diezazuke, berak baimena ematen badu), espero ezazu egun batzuk besteak baino gogorragoak izatea, eta galdetu hari zer iruditzen zaion *berari* lagungarria, suposatu beharrean.",
+      "deep": "Jakitea merezi duten gauza batzuk, mitoek hutsunea bete ez dezaten:\n\n- **\"Hilekoarekin dago\" ez da iraina, ezta harekin ados ez egoteko azalpena ere.** Haren zikloa haren sentimenduak gutxiesteko erabiltzea (\"hormonak besterik ez dira\") errespetu falta da, eta normalean okerra. Haren arrazoiak haren arrazoiak dira oraindik.\n- **Zikloak hilekoari baino gehiagori eragiten dio.** Karranpak, buruko mina, bular minberak, energia gutxi edo aldarte apalagoa haren parte izan daitezke. Laguntza praktikoa aholkuak baino hobea da.\n- **Jarraipena berea da.** Bere zikloa zurekin partekatzen badu, har ezazu nola senti daitekeen ikusteko leiho gisa: atsegina izateko gonbidapena, inoiz ez hura zelatatzeko edo kontrolatzeko tresna.\n- **Zalantzarik baduzu, galdetu.** \"Nola sentitzen zara gaur? Zerbait egin dezaket?\" edozein grafiko baino gehiago da.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Baginako lehortasuna",
+      "aliases": [
+        "baginako lehortasuna",
+        "lehortasuna",
+        "baginako atrofia",
+        "lehortasun intimoa",
+        "sequedad vaginal"
+      ],
+      "glance": "Baginako lehortasuna ohikoa da, askotan hormonekin lotua, eta minberatasuna edo ondoeza eragin dezake sexu-harremanetan.",
+      "overview": "Baginako lehortasuna jende askok noizbait bizi duen esperientzia ohikoa da. Bagina eroso mantentzen duen ohiko hezetasuna murrizten denean gertatzen da, eta minberatasun, azkura edo ondoeza bezala senti daiteke, baita sexu-harremanetan mina edo ondoeza bezala ere.\n\nAskotan hormonekin lotuta dago, batez ere estrogenoaren jaitsierarekin. Horregatik da ohikoa menopausia eta perimenopausia inguruan, baina edoskitzean ere gerta daiteke, botika batzuekin (antisorgailu edo antidepresibo jakin batzuekin, adibidez), edo sexu-harremanen aurretik kitzikapen nahikorik ez dagoenean. Ez da lotsatzeko ezer: gauza fisiko bat da, ez zure edo zure harremanaren isla.\n\nOhikoa dela eta normalean oso erraz trata daitekeela jakitea abiapuntu ona da. Badira lagun dezaketen aukera sinpleak, eta familia-medikuak edo farmazialari batek zuri egokitzen zaizuna adieraz diezazukete.",
+      "deep": null,
+      "when_to_see_doctor": "Joan familia-medikuarengana:\n\n- baginako lehortasunak traba egiten badizu edo aste batzuen buruan hobera egiten ez badu\n- zure eguneroko bizitzari edo sexu-bizitzari eragiten badio\n- ezohiko jarioa ere baduzu, edo odoljarioren bat sexu-harremanen ondoren, hilekoen artean edo menopausiaren ondoren\n\nEz dago besterik gabe jasan beharrik: badago laguntza, eta osasun-profesional batek atzean zer dagoen eta zerk arin dezakeen azter dezake.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Baginaren eta bulbaren osasuna",
+      "aliases": [
+        "baginaren osasuna",
+        "bulbaren osasuna",
+        "higiene intimoa",
+        "garbitasun intimoa",
+        "garbiketa baginala",
+        "jarioa",
+        "higiene íntima"
+      ],
+      "glance": "Baginak bere burua garbitzen du: kanpoaldean zaintza leuna besterik ez du behar, eta jarioa normala da.",
+      "overview": "Jakin beharreko gauzarik lasaigarrienetako bat da baginak bere burua zaintzen duela. Berez garbitzen da, eta nabaritzen duzun jarioa horren parte da: garbi eta heze mantentzen duen eta infekzioetatik babesten laguntzen duen likidoa. Kantitatea eta testura zikloan zehar aldatzen dira, eta hori guztiz normala da.\n\nHorregatik, baginak ez du barrutik garbitu beharrik. Izan ere, barrutik garbitzeak (\"dutxa baginalak\") haren oreka naturala hauts dezake. Kanpoaldeak (bulbak) zaintza leuna besterik ez du behar: ur epela eta, nahi baduzu, xaboi leun eta usainik gabea. Hobe da usaindun xaboiak, gelak, desodoranteak eta toallita usaindunak saihestea, narritadura eragin baitezakete.\n\nZuretzat normala dena ezagutzeak (zure ohiko jarioa, itxura eta sentsazioa) errazago egiten du zerbait aldatzen bada eta medikuak aztertu behar badu nabaritzea.",
+      "deep": null,
+      "when_to_see_doctor": "Joan familia-medikuarengana edo sexu-osasuneko klinika batera hau nabaritzen baduzu:\n\n- zure jarioan aldaketa bat: kolorea, usaina edo testura, edo ohi baino askoz gehiago\n- azkura, minberatasuna edo narritadura baginaren edo bulbaren inguruan\n- odoljarioa hilekoen artean edo sexu-harremanen ondoren\n- mina pixa egitean, edo sabelaren eta izterren arteko beheko aldean mina (pelbiseko mina)\n\nOhikoak dira eta askotan erraz tratatzen dira: jarioaren aldaketa batek, besterik gabe, baginako kandidiasia bezalako infekzio arin bat adieraz dezake. Medikuak aztertzea da jakiteko modua, asmatzen saiatu beharrean.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Zikloa eta haren faseak",
+      "summary": "Zure zikloak nola igarotzen dituen fase menstruala, folikularra, obulazioa eta fase luteoa."
+    },
+    "hormones": {
+      "title": "Hormonak",
+      "summary": "Zure zikloaren atzean dauden mezulariak: estrogenoa, progesterona, LH eta FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Ugalkortasuna eta obulazioa",
+      "summary": "Leiho emankorra, obulazioaren seinaleak eta ugalkortasunean zerk eragiten duen."
+    },
+    "contraception": {
+      "title": "Antisorgailuak",
+      "summary": "Metodo bakoitzak nola funtzionatzen duen, hitz errazetan."
+    },
+    "symptoms-and-signals": {
+      "title": "Sintomak eta gorputzaren seinaleak",
+      "summary": "Mina, odol-orbanak, jarioa, aldartea: zure gorputza zer esaten ari zaizun."
+    },
+    "conditions": {
+      "title": "Osasun-arazoak",
+      "summary": "Obulutegi polikistikoen sindromea, endometriosia, miomak eta gehiago, azalduta eta iturriekin."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Sexu- eta intimitate-osasuna",
+      "summary": "Ongizate intimoa, erosotasuna eta ohiko galderak."
+    },
+    "life-stages": {
+      "title": "Bizitzaren etapak",
+      "summary": "Lehen hilekotik perimenopausiara eta menopausiara."
+    },
+    "wellbeing": {
+      "title": "Ongizatea eta zikloa",
+      "summary": "Loa, estresa eta eguneroko bizitza zure zikloarekin nola lotzen diren."
+    },
+    "tests-and-exams": {
+      "title": "Probak eta azterketak",
+      "summary": "Bularraren autoazterketa, umetoki-lepoko baheketa, obulazio-testak eta gehiago."
+    },
+    "pregnancy": {
+      "title": "Haurdunaldia",
+      "summary": "Lehen seinaleak, ondo egotea, alarma-seinaleak eta haurdunaldiaren galera, azalduta eta iturriekin."
+    },
+    "for-partners": {
+      "title": "Bikotekideentzat",
+      "summary": "Haren zikloa ulertzea, ondo laguntzea eta errespetuan oinarritutako harremana eraikitzea."
+    },
+    "safety-and-support": {
+      "title": "Segurtasuna eta laguntza",
+      "summary": "Tratu txarrak ezagutzea, seguru egotea eta laguntza nola lortu, larrialdi-zenbakiekin."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Ulertu zure zikloa 5 urratsetan",
+      "summary": "Ibilaldi lasaia ziklo osoan zehar eta haren lau faseetako bakoitzean."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Obulazioa ezagutzen",
+      "summary": "Zer den obulazioa, zer den leiho emankorra eta zer seinale ematen dituen zure gorputzak."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Zure zikloaren atzeko hormonak",
+      "summary": "Ezagutu zikloa gidatzen duten lau mezulariak, eta bakoitzak zer egiten duen."
+    }
+  }
+}

@@ -1,0 +1,1434 @@
+{
+  "_meta": {
+    "lang": "af",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohol tydens swangerskap",
+      "aliases": [
+        "alkohol tydens swangerskap",
+        "drink terwyl swanger",
+        "alkohol en swangerskap",
+        "fetale alkoholsindroom",
+        "FAS",
+        "FASD",
+        "wyn swanger"
+      ],
+      "glance": "Die veiligste keuse: drink glad geen alkohol tydens swangerskap nie, en ook nie terwyl jy probeer swanger raak nie.",
+      "overview": "Die NHS se raad is duidelik en eenvoudig: die veiligste benadering is om **glad nie alkohol te drink nie** as jy swanger is of probeer swanger raak. As jy nie drink nie, hou jy enige risiko vir jou baba so laag moontlik.\n\nDie rede is dat alkohol uit jou bloed deur die plasenta na jou baba beweeg, wie se lewer nog nie genoeg ontwikkel is om dit te verwerk nie. Om tydens swangerskap te drink kan lei tot fetale alkoholspektrumversteuring (FASD), 'n reeks lewenslange probleme met leer, gedrag en ontwikkeling.\n\nAs jy gedrink het voordat jy geweet het dat jy swanger is, probeer om jou nie te bekommer nie: die risiko vir die baba van klein hoeveelhede vroeg in die swangerskap is waarskynlik laag. Wat help, is om eenvoudig van nou af vir die res van die swangerskap alkohol te vermy.",
+      "deep": null,
+      "when_to_see_doctor": "- As jy dit moeilik vind om op te hou drink, is dit niks om oor skaam te wees nie: sê vir jou vroedvrou of huisdokter. Hulle kan jou sonder oordeel ondersteun, en om hulp te kry is goed vir jou en jou baba.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Voorgeboortesorg",
+      "aliases": [
+        "voorgeboortesorg",
+        "swangerskapsorg",
+        "kraamsorg",
+        "afsprake by die vroedvrou",
+        "eerste swangerskapsafspraak",
+        "voorgeboorte-afsprake",
+        "kliniek swanger"
+      ],
+      "glance": "Voorgeboortesorg is die gereelde ondersoeke deur jou swangerskap wat help om jou en jou baba gesond te hou.",
+      "overview": "Voorgeboortesorg is die sorg wat jy tydens jou swangerskap kry om jou en jou baba so gesond moontlik te hou. Jy sal gewoonlik 'n vroedvrou sien, en ook 'n dokter as jy een nodig het. Dit is die moeite werd om vroeg te begin: kontak jou vroedvrou of huisdokter sodra jy weet dat jy swanger is.\n\nJou eerste volledige afspraak, die “bespreekafspraak”, is gewoonlik tussen 8 en 12 weke. Daarna word gereelde ondersoeke aangebied: ten minste 10 afsprake en 2 sonarondersoeke as dit jou eerste baba is, of ongeveer 7 as jy al voorheen geboorte gegee het, met meer teen die einde.\n\nBy hierdie besoeke meet jou vroedvrou jou bloeddruk en toets sy jou urine, meet sy jou maag om jou baba se groei te volg, bied sy siftingstoetse aan en praat sy met jou oor jou baba se bewegings en hoe jy voel. Baie belangrike dinge, soos pre-eklampsie of swangerskapsdiabetes, word hier opgespoor voordat jy enigiets sou agterkom, en dit is presies hoekom die afsprake saak maak.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontak 'n **vroedvrou of huisdokter sodra jy uitvind dat jy swanger is**, sodat jou sorg vroeg kan begin, verkieslik betyds vir daardie eerste afspraak voor ongeveer 10 tot 12 weke.\n- Probeer om **al** jou voorgeboorte-afsprake na te kom, selfs as jy heeltemal gesond voel: verskeie ondersoeke is ontwerp om stil probleme vroeg op te spoor.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Jou baba se bewegings",
+      "aliases": [
+        "baba se bewegings",
+        "baba beweeg",
+        "fetale bewegings",
+        "skoppe",
+        "baba skop",
+        "voel hoe baba beweeg",
+        "baba beweeg minder",
+        "minder bewegings"
+      ],
+      "glance": "Om jou baba te voel beweeg is 'n teken dat dit goed gaan. As die bewegings verminder of verander, bel dadelik jou vroedvrou.",
+      "overview": "Om jou baba te voel beweeg is een van die geruststellende tekens dat dit met hom of haar goed gaan. Die meeste mense begin bewegings voel iewers tussen 16 en 24 weke van die swangerskap, dikwels later in 'n eerste swangerskap, so ná 20 weke is die eerste keer algemeen.\n\nDaar is geen vaste aantal bewegings wat jy “behoort” te voel nie, en dit is nie nodig om skoppe teen 'n teiken te tel nie. Elke baba is anders, en wat saak maak, is om **jou** baba se eie gewone patroon deur die dag te leer ken: die tye wanneer hy of sy aktief is en die tye wanneer dit stil is.\n\nSodra jy daardie patroon ken, is 'n verandering daarin die ding om op te let. Vertrou wat jy van jou eie baba weet.",
+      "deep": null,
+      "when_to_see_doctor": "Om jou baba se normale patroon te leer ken, is wat jou in staat stel om 'n verandering raak te sien. As jy ooit onseker is of die bewegings verminder of verander het, is dit altyd reg om te bel en dit te laat nagaan: jy sal nooit iemand se tyd mors nie.",
+      "red_flags": "- As jou baba **minder as gewoonlik beweeg, die bewegings verander, of jy hom of haar nie voel beweeg nie**, **bel onmiddellik jou vroedvrou of kraamafdeling**, op enige tyd van die dag of nag. **Moenie tot die volgende dag wag nie**, selfs al is dit middel in die nag.\n- Moenie op 'n tuis-hartklopmonitor (doppler) of 'n app staatmaak om jouself gerus te stel nie: laat jou persoonlik ondersoek."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Rugpyn tydens swangerskap",
+      "aliases": [
+        "rugpyn tydens swangerskap",
+        "rugpyn swanger",
+        "lae rugpyn swanger",
+        "swangerskap rugpyn",
+        "seer rug swanger",
+        "laerugpyn"
+      ],
+      "glance": "Rugpyn is baie algemeen tydens swangerskap omdat ligamente sagter word en jou maag groei. Dit is gewoonlik onskadelik.",
+      "overview": "Rugpyn is een van die algemeenste dele van swangerskap. Terwyl jou liggaam gereed maak vir die geboorte, word die ligamente natuurlik sagter en rek hulle, en jou groeiende maag verander hoe jy jou gewig dra. Albei plaas ekstra druk op jou laerug en bekken.\n\nAlledaagse dinge kan dit verlig: let op jou postuur wanneer jy staan, sit en optel; dra plat skoene wat goeie ondersteuning gee; gebruik 'n ferm matras of 'n ondersteunende kussing; en beweeg sag en gereeld, soos stap, swangerskapjoga of oefeninge in 'n klas. As dit regtig in die pad staan, kan 'n obstetriese fisioterapeut raad gee wat by jou pas.\n\nDie meeste rugpyn tydens swangerskap is niks om oor bekommerd te wees nie, maar 'n paar patrone is die moeite werd om dadelik te laat nagaan, en daarvoor is die riglyne hieronder.",
+      "deep": null,
+      "when_to_see_doctor": "Kontak jou **huisdokter of vroedvrou** dadelik as jou rugpyn:\n\n- **erg** voel, of in die **tweede of derde trimester** begin (dit kan soms 'n teken van voortydige kraam wees)\n- saam met **koors, vaginale bloeding of pyn wanneer jy piepie** voorkom\n- **in een of albei sye, onder jou ribbes** voorkom",
+      "red_flags": "- Bel **{{emergency}} of gaan na die hospitaal se noodafdeling** as jy **gevoel in jou bene, boude of geslagsdele verloor**, of as jy beheer oor jou blaas of ingewande verloor. Hierdie toestand kom selde voor, maar dit vereis noodsorg."
+    },
+    "basal-body-temperature": {
+      "title": "Basale liggaamstemperatuur",
+      "aliases": [
+        "bbt",
+        "basale liggaamstemperatuur",
+        "oggendtemperatuur",
+        "temperatuur met opstaan",
+        "temperatuurmetode",
+        "temperatuur meet ovulasie"
+      ],
+      "glance": "Basale liggaamstemperatuur is jou oggendtemperatuur in rus, wat effens styg ná ovulasie.",
+      "overview": "Basale liggaamstemperatuur (BBT) is jou liggaam se temperatuur wanneer jy heeltemal in rus is. As dit elke dag op dieselfde manier gemeet word, wys dit 'n klein maar veelseggende verandering oor die siklus: ná ovulasie styg dit effens en bly dit hoër tot jou volgende maandstonde.\n\nDie styging is klein, ongeveer 0,4 tot 0,8 °F (sowat 0,2 tot 0,4 °C), so dit word afgelees uit 'n patroon oor 'n paar dae, nie uit 'n enkele meting nie. Om dit op te vang, meet jy elke oggend jou temperatuur voordat jy opstaan, eet of drink, verkieslik op dieselfde tyd. Teen ongeveer drie dae nadat die temperatuur begin styg het, het byna almal reeds geovuleer.\n\nOmdat die styging *ná* die vrystelling van die eiersel kom, bevestig BBT dat ovulasie plaasgevind het, eerder as om dit vooraf te voorspel. Oor 'n paar siklusse kan dit jou help om die vorm van jou eie siklus te sien, hoewel dit op sy eie nie 'n presiese manier is om die vrugbare dae op te vang nie.",
+      "deep": "BBT is een van die tekens van vrugbaarheidsbewustheid wat daagliks aangeteken word, saam met servikale slym en die lengte van die siklus. Dit pas natuurlik by die dophou van slym: die verandering na helder, gladde slym dui daarop dat die vrugbare venster oopgaan, terwyl die temperatuurstyging 'n paar dae later bevestig dat ovulasie verby is. Baie dinge kan 'n rustemperatuur effens beïnvloed, soos swak slaap, siekte, alkohol of laat slaap, so enkele vreemde metings is minder belangrik as die algehele neiging.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Bloeding tydens swangerskap",
+      "aliases": [
+        "bloeding tydens swangerskap",
+        "vaginale bloeding swanger",
+        "ligte bloeding swangerskap",
+        "spotting swanger",
+        "bloei terwyl swanger",
+        "bloed swanger"
+      ],
+      "glance": "Bloeding tydens swangerskap beteken nie altyd iets ernstigs nie (ligte bloeding kom vroeg dikwels voor), maar laat dit altyd deur 'n dokter of vroedvrou nagaan.",
+      "overview": "Bloeding uit die vagina tydens swangerskap is nie altyd 'n teken dat iets verkeerd is nie. Ligte bloeding of spotting is veral vroeg in die swangerskap redelik algemeen, en baie swangerskappe gaan daarna heeltemal goed voort.\n\nTog kan bloeding soms 'n teken van 'n probleem wees, soos 'n miskraam of 'n ektopiese swangerskap (buitebaarmoederlike swangerskap), daarom is dit iets wat **altyd deur 'n dokter of vroedvrou nagegaan moet word**, ongeag hoeveel dit is. Deur dit te laat ondersoek, word die oorsaak gevind en kry jy vinnig die regte sorg as jy dit nodig het.\n\nOmdat dieselfde simptoom baie verskillende dinge kan beteken, is die nuttige stap nie om te raai nie, maar om kontak te maak en gesien te word.",
+      "deep": null,
+      "when_to_see_doctor": "- **Kontak altyd jou kraamafdeling** (of, as jy minder as 20 weke swanger is of nie hul nommer het nie, 'n vroeë-swangerskapseenheid of 'n **na-uurse dokter**) as jy **enige** vaginale bloeding tydens swangerskap het, selfs ligte spotting, sodat die oorsaak nagegaan kan word.",
+      "red_flags": "- Bel **{{emergency}} of gaan na die hospitaal se noodafdeling** as jy **swaar bloei**, byvoorbeeld as 'n maandverband kort nadat jy dit aangesit het, heeltemal deurweek is, veral saam met **erge maagpyn, pyn in die punt van jou skouer, of as jy naar voel, voel of jy gaan flou word, duiselig is of jou bewussyn verloor.** Dit het noodsorg nodig."
+    },
+    "breast-awareness": {
+      "title": "Borsbewustheid",
+      "aliases": [
+        "borsbewustheid",
+        "borste ondersoek",
+        "borsselfondersoek",
+        "self borste ondersoek",
+        "knop in bors",
+        "borste nagaan"
+      ],
+      "glance": "Borsbewustheid beteken eenvoudig om te weet hoe jou borste gewoonlik lyk en voel, sodat jy veranderinge raaksien.",
+      "overview": "Borsbewustheid is nie 'n spesiale tegniek nie: dit is net om te leer ken wat vir jou normaal is, sodat enigiets nuuts uitstaan. As jy jou borste of borskas gereeld nagaan, leer jy hoe hulle gewoonlik lyk en voel; een keer per maand is 'n goeie ritme.\n\nDaar is nie een “regte” manier nie. Baie mense kyk in die spieël met die arms af en dan opgelig, en voel aan elke bors, tot bo in die oksel. Wat jy opbou, is vertroudheid, nie 'n diagnose nie: die doel is net om 'n verandering vroeg raak te sien as daar een is.\n\nBorste verander ook natuurlik oor die siklus en deur die lewe, so sommige veranderinge is heeltemal normaal. Die punt van bewustheid is om jou eie normaal goed genoeg te ken om iets raak te sien wat nie normaal is nie.",
+      "deep": null,
+      "when_to_see_doctor": "Gaan na 'n huisdokter as jy enige verandering opmerk wat nie vir jou normaal is nie, soos:\n\n- 'n knop of swelling in jou bors, borskas of oksel\n- 'n verandering in die vel, soos kuiltjies (dit kan soos lemoenskil lyk) of rooiheid\n- 'n verandering in die grootte of vorm van een of albei borste\n- afskeiding uit die tepel (as jy nie swanger is of borsvoed nie), wat bloed kan bevat\n- 'n verandering in hoe jou tepel lyk, soos dat dit na binne draai\n- pyn in jou bors of oksel wat nie weggaan nie\n\nDie meeste borsveranderinge is nie kanker nie en blyk onskadelik te wees, maar dit is altyd die moeite werd om 'n verandering dadelik deur 'n dokter te laat nagaan, want as iets wel aandag nodig het, help dit om dit vroeg te vind.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Borsvoeding",
+      "aliases": [
+        "borsvoeding",
+        "borsvoed",
+        "borsmelk",
+        "baba voed",
+        "jou baba voed",
+        "borsvoedingsprobleme"
+      ],
+      "glance": "Borsmelk beskerm 'n baba teen infeksies en pas aan soos hy of sy groei, en enige hoeveelheid het voordele.",
+      "overview": "Borsmelk is 'n natuurlike, volledige voedsel vir 'n baba: dit verskaf die voeding, vitamiene en minerale wat die baba nodig het, en dit verander mettertyd om by elke stadium te pas. Dit help ook om teen infeksies en siektes te beskerm en bied sekere gesondheidsvoordele op die langer termyn.\n\nDaar is ook voordele vir die persoon wat voed: borsvoeding word onder meer verbind met 'n laer risiko van bors- en eierstokkanker, en die algemene patroon is dat hoe meer en hoe langer jy borsvoed, hoe groter die voordele. Belangrik: **enige** hoeveelheid borsmelk is die moeite werd; dit is nie alles of niks nie.\n\nOm 'n baba te voed kan ook aanvanklik moeiliker wees as wat jy verwag het, en dit is algemeen. Hulp is beskikbaar, van jou vroedvrou, gesondheidsbesoeker (kliniekverpleegster) en plaaslike borsvoedingsondersteuningsdienste, so dit is 'n goeie stap om vroeg uit te reik as dit nie glad verloop nie.",
+      "deep": null,
+      "when_to_see_doctor": "- Vra jou **vroedvrou of gesondheidsbesoeker (kliniekverpleegster)** vroeg vir hulp as voeding seer maak of moeilik gaan, of as jy bekommerd voel dat jou baba nie genoeg kry nie: ondersteuning kan 'n werklike verskil maak.\n- Hoe jy jou baba voed, bly 'n persoonlike besluit, en daar is ondersteuning wat jy ook al kies; wat saak maak, is dat dit met jou en jou baba goed gaan.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Bruin afskeiding",
+      "aliases": [
+        "bruin afskeiding",
+        "bruin spotting",
+        "bruin bloed",
+        "ou bloed",
+        "donker afskeiding",
+        "bruin maandstondebloed",
+        "bruin kolle"
+      ],
+      "glance": "Bruin afskeiding is gewoonlik 'n bietjie bloed, dikwels op die ligter dae van jou maandstonde. Laat bruin spotting op ander tye liefs deur 'n dokter nagaan.",
+      "overview": "Bruin afskeiding beteken 'n klein hoeveelheid bruinerige bloed of vog wat jy op jou onderklere of op toiletpapier opmerk. Baie mense sien dit op een stadium, en baie dikwels is dit eenvoudig deel van 'n maandstonde.\n\nMenstruasiebloed lyk nie altyd helderrooi nie. Op jou swaarste dae is dit geneig om rooi te wees, maar op ligter dae kan dit eerder pienk of bruin lyk. 'n Bruinerige kleur op die ligter dae van jou maandstonde kom dus algemeen voor en is normaal.\n\nBruin kan ook op ander tye verskyn. Spotting beteken klein kolletjies pienk, rooi of bruin bloed, en spotting tussen maandstondes het verskeie algemene oorsake. Hormonale voorbehoeding, soos die pil, is 'n gereelde oorsaak. Ander sluit klein gewasse in of rondom die baarmoeder in (soos poliepe of fibroïede) en infeksies soos chlamidia. Heel vroeg in 'n swangerskap merk sommige mense 'n bietjie spotting op omtrent die tyd wanneer hul maandstonde sou kom. Dit staan bekend as innestelingsbloeding.\n\nOmdat bruin spotting buite jou maandstonde verskillende oorsake kan hê, meestal geringe, help dit nie om te raai nie. Die nuttige stap: laat dit deur 'n dokter ondersoek, sodat jy weet wat by jou daaragter sit.",
+      "deep": null,
+      "when_to_see_doctor": "- Gaan na 'n huisdokter of 'n kliniek vir seksuele gesondheid as jy **bruin spotting of bloeding tussen maandstondes of ná seks** het, selfs al is dit lig. Dit is gewoonlik nie ernstig nie, maar dit loon altyd om dit deur 'n dokter te laat nagaan.\n- As jy **swanger is, of dalk swanger kan wees**, kontak jou kraamafdeling, 'n vroeë-swangerskapseenheid of 'n **na-uurse dokter** oor enige spotting, ook bruin spotting, sodat die oorsaak nagegaan kan word.\n- Gaan na 'n huisdokter as jy **enige bruin of pienk afskeiding of bloeding ná jou menopouse** opmerk, selfs al gaan dit net oor 'n klein hoeveelheid, of het dit net een keer gebeur.\n- Kry raad by 'n huisdokter, 'n kliniek vir seksuele gesondheid of 'n na-uurse dokter as jou afskeiding **van kleur, reuk of tekstuur verander**, of saam met jeuk, seerheid, bekkenpyn of pyn wanneer jy piepie voorkom.",
+      "red_flags": "- Vra vir 'n **dringende** afspraak by 'n huisdokter, of kontak 'n **na-uurse dokter**, as jy **onlangs 'n maandstonde gemis het en ongewone bloeding saam met maag- of bekkenpyn het**. Dit moet vinnig nagegaan word, want dit kan 'n teken van 'n ektopiese swangerskap (buitebaarmoederlike swangerskap) wees.\n- As jy swanger is, bel **{{emergency}}** as jy bloei en **erge maagpyn het, pyn in jou skouer het, voel of jy gaan flou word, duiselig of naar voel, of as die bloeding swaar is** ('n maandverband wat kort nadat jy dit aangesit het, heeltemal deurweek is)."
+    },
+    "cervical-mucus": {
+      "title": "Servikale slym",
+      "aliases": [
+        "servikale slym",
+        "afskeiding",
+        "vaginale afskeiding",
+        "baarmoedermondslym",
+        "eierwitslym",
+        "slym by ovulasie"
+      ],
+      "glance": "Servikale slym is die natuurlike afskeiding wat deur die siklus verander en jou vrugbare dae aandui.",
+      "overview": "Servikale slym is die vog wat die serviks (baarmoedermond) maak, en jy merk dit dalk as afskeiding op. Dit is normaal, en hoe dit lyk en voel, verander volgens 'n redelik voorspelbare patroon oor die siklus. Daarom is dit een van die tekens wat gebruik word om die vrugbare dae raak te sien.\n\nNet ná 'n maandstonde volg daar dikwels 'n paar “droë” dae met min slym. Soos 'n eiersel begin ryp word, neem die slym toe en is dit geneig om wit of geel, troebel en klewerig te wees. In die dae net voor ovulasie word dit gewoonlik helder, nat en glibberig, en rek dit tussen jou vingers soos rou eierwit: dit is die vrugbaarste tyd. Ná ovulasie word dit gewoonlik weer klewerig en troebel, of droog dit op.\n\nElkeen se patroon verskil 'n bietjie, en dit kan 'n paar siklusse se aandag verg om jou eie te leer ken. Sommige dinge, soos hormonale voorbehoeding, borsvoeding of 'n infeksie, kan die slym verander, so dit is nie vir almal 'n betroubare vrugbaarheidsteken nie.",
+      "deep": "Om servikale slym te lees, is een van die tekens van vrugbaarheidsbewustheid wat mense dophou, saam met die liggaamstemperatuur in rus en die lengte van die siklus; om hulle te leer ken, neem gewoonlik twee tot drie siklusse. Anders as 'n temperatuurstyging, wat ovulasie eers bevestig nadat dit plaasgevind het, verskyn die verandering na helder, glibberige eierwitslym gewoonlik *voor* ovulasie. Daarom word dit gebruik om aan te dui dat die vrugbare venster oopgaan, eerder as nadat dit gesluit het.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Servikale sifting (papsmeer)",
+      "aliases": [
+        "servikale sifting",
+        "papsmeer",
+        "smeer",
+        "pap-toets",
+        "smeertoets",
+        "baarmoederhalskanker toets"
+      ],
+      "glance": "Servikale sifting is 'n roetine-ondersoek van die gesondheid van jou serviks wat help om servikale kanker te voorkom.",
+      "overview": "Servikale sifting is 'n toets wat die gesondheid van die serviks nagaan: die opening na die baarmoeder bo-aan die vagina. Dit is nie 'n toets vir kanker nie. Dit is eerder 'n manier om veranderinge vroeg raak te sien en te help keer dat servikale kanker hoegenaamd ontwikkel.\n\nAlmal met 'n serviks word vanaf die ouderdom van 25 tot 64 uitgenooi. Jy kry 'n uitnodiging wanneer jy aan die beurt is, met gereelde tussenposes, so jy hoef nie self te onthou om dit uit die bloute te bespreek nie, hoewel dit altyd jou keuse bly of jy gaan.\n\nDie toets self gaan vinnig en word deur 'n verpleegster gedoen. Baie mense voel 'n bietjie senuweeagtig daaroor, wat heeltemal verstaanbaar is; as jy weet waarvoor dit dien ('n roetine-, voorkomende ondersoek), kan dit meer hanteerbaar voel.",
+      "deep": null,
+      "when_to_see_doctor": "- Sifting is bedoel vir wanneer jy **nie** simptome het nie. As jy tussen siftings iets opmerk wat jou bekommer, soos ongewone bloeding (tussen maandstondes, ná seks of ná menopouse), gaan na 'n huisdokter eerder as om vir jou volgende uitnodiging te wag.\n- As jy uitgenooi is en onseker of angstig voel om te gaan, loon dit om met jou huisdokter of die praktykverpleegster te praat, wat kan verduidelik wat gebeur en jou vrae kan beantwoord.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Kindermishandeling en kinders veilig hou",
+      "aliases": [
+        "kindermishandeling",
+        "kindermisbruik",
+        "kinderveiligheid",
+        "kind beskerm",
+        "bekommerd oor 'n kind",
+        "verwaarlosing",
+        "kinderbeskerming"
+      ],
+      "glance": "As jy bekommerd voel dat 'n kind dalk seergemaak of verwaarloos word, doen jy die regte ding as jy raad vra: jy hoef nie seker te wees nie.",
+      "overview": "Kindermishandeling, of kindermisbruik, is skade aan enigiemand onder 18. Dit sluit fisiese, seksuele en emosionele mishandeling in, asook verwaarlosing (wanneer daar nie in 'n kind se basiese behoeftes voorsien word nie). Dit kom ongelukkig algemeen voor, dit kan lewenslange skade veroorsaak, en dit is nooit die kind se skuld nie.\n\nJy is dalk bekommerd oor 'n kind in jou lewe, of oor 'n kind wat jy raakgesien het. Jy hoef nie seker te wees of bewys te hê om op daardie kommer te reageer nie: om dit te vertrou en raad te vra, is presies die regte ding om te doen, en dit kan 'n kind beskerm.\n\nEn as jy self as kind mishandel is, weet dat die skade nooit jou skuld was nie, en dat daar ook vir jou ondersteuning beskikbaar is, op enige ouderdom.",
+      "deep": null,
+      "when_to_see_doctor": "- As jy bekommerd voel oor 'n kind, kan jy **kinderbeskerming / maatskaplike dienste**, 'n spesiale **kinderbeskermingshulplyn**, of 'n **huisdokter, gesondheidsbesoeker (kliniekverpleegster) of die kind se skool** vertroulik vir raad kontak.\n- Jy “oorreageer” nie deur te vra nie. Dit is beter om navraag te doen as om te wag.",
+      "red_flags": "- As 'n kind in **onmiddellike gevaar** verkeer of ernstig beseer is, kontak nou die nooddienste: **112** in die EU (insluitend Italië), **999** in die VK, **911** in die VSA en Kanada."
+    },
+    "coercive-control": {
+      "title": "Dwingende beheer",
+      "aliases": [
+        "dwingende beheer",
+        "beherende gedrag",
+        "emosionele mishandeling",
+        "sielkundige mishandeling",
+        "isolasie",
+        "finansiële mishandeling",
+        "gaslighting",
+        "beherende maat"
+      ],
+      "glance": "Dwingende beheer is 'n patroon van beherende gedrag (isoleer, dophou, dreig) wat as 'n vorm van mishandeling erken word.",
+      "overview": "Dwingende beheer is 'n vorm van mishandeling wat deur beheer werk, in plaas van, of saam met, fisiese skade. Dit is 'n patroon, nie 'n enkele rusie nie, waarin een persoon geleidelik 'n ander se vryheid en selfbeeld beperk.\n\nDit kan daarop neerkom dat jy van vriende en familie afgesny word, dat jou foon, bewegings of uitgawes dopgehou of beperk word, dat vir jou gesê word wat om aan te trek of hoe om op te tree, of dat jy met voortdurende kritiek, dreigemente of intimidasie leef. Omdat daar dalk geen kneusplekke is nie, kan dit moeilik wees om te benoem, en ander sien dit dalk nie raak nie, maar dit word as mishandeling erken en kan net so skadelik soos fisiese geweld wees.\n\nAs jy iets hiervan herken, is dit nie 'n teken dat jy te sensitief is of dat jy dit oor jouself gebring het nie. Beherende gedrag is 'n keuse wat die ander persoon maak. Om dit te verstaan vir wat dit is, kan die eerste stap na ondersteuning wees.",
+      "deep": "Dwingende beheer bou dikwels stadig op, en dit is deels hoekom dit van binne moeilik is om raak te sien: klein vorme van beheer word normaal, en selftwyfel groei. Mettertyd tas dit die geestesgesondheid aan. Om dit deur te praat met iemand wat opgelei is om hierdie patrone te verstaan, kan jou help om die situasie duideliker te sien en sonder druk te dink oor wat jy volgende wil doen.",
+      "when_to_see_doctor": "- 'n Sentrum teen geweld of 'n hulplyn (in Italië, **1522**) kan vertroulik en gratis met jou praat oor wat jy beleef, en jou help om jou opsies te verstaan: jy hoef nie in fisiese gevaar te wees om uit te reik nie.\n- 'n Huisdokter of berader kan jou ook ondersteun en jou na gespesialiseerde dienste verwys.",
+      "red_flags": "- As jy in **onmiddellike gevaar** verkeer, kontak nou die nooddienste: **112** in die EU (insluitend Italië), **999** in die VK, **911** in die VSA en Kanada.\n- In Italië is **1522** gratis, 24 uur per dag beskikbaar, anoniem en veeltalig, per telefoon of klets."
+    },
+    "combined-pill": {
+      "title": "Die gekombineerde pil",
+      "aliases": [
+        "gekombineerde pil",
+        "die pil",
+        "gekombineerde orale voorbehoedmiddel",
+        "COC",
+        "voorbehoedpil",
+        "geboortebeperkingspil"
+      ],
+      "glance": "Die gekombineerde pil is 'n daaglikse pil met twee hormone wat hoofsaaklik werk deur ovulasie te stop.",
+      "overview": "Die gekombineerde pil is 'n daaglikse tablet wat twee hormone bevat: vorme van estrogeen en progestogeen, soortgelyk aan dié wat die eierstokke maak. Dit is een van die bekendste vorme van voorbehoeding.\n\nDit voorkom swangerskap op 'n paar maniere tegelyk. Hoofsaaklik keer dit dat die eierstokke 'n eiersel vrystel (ovulasie). Dit maak ook die slym by die baarmoedermond dikker, sodat sperms moeiliker deurkom, en dit maak die baarmoedervoering dunner.\n\nHoe goed dit werk, hang daarvan af of jy dit neem soos voorgeskryf: dit is meer as 99% doeltreffend met perfekte gebruik, maar met tipiese, alledaagse gebruik, waar pille soms vergeet of laat geneem word, is dit ongeveer 91% doeltreffend. Soos die meeste metodes beskerm dit nie teen SOI's (seksueel oordraagbare infeksies) nie, so sommige mense gebruik ook kondome.",
+      "deep": "Die gekombineerde pil word gewoonlik volgens 'n patroon oor die maand geneem, en hoe om dit te neem, vir wie dit geskik is, en die newe-effekte en risiko's, is dinge wat 'n klinikus met jou deurgaan wanneer dit voorgeskryf word: dit is nie vir almal geskik nie. Omdat dit 'n daaglikse metode is, hang die doeltreffendheid in die werklike lewe baie van roetine af. Hierdie artikel verduidelik wat dit is en hoe dit werk; die besonderhede van begin, neem of ophou is 'n gesprek met 'n huisdokter, verpleegster of apteker.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Algemene swangerskapsimptome",
+      "aliases": [
+        "algemene swangerskapsimptome",
+        "swangerskapongemak",
+        "sooibrand swanger",
+        "rugpyn swanger",
+        "geswolle enkels",
+        "hardlywigheid swanger",
+        "pyne swangerskap"
+      ],
+      "glance": "Swangerskap bring baie klein pyntjies en veranderinge mee: meestal normaal, hoewel 'n paar die moeite werd is om te laat nagaan.",
+      "overview": "Swangerskap bring baie verandering vir jou liggaam mee, en dit kom met 'n lang lys alledaagse ongemakkies. Die meeste kom algemeen voor en is nie 'n teken dat iets verkeerd is nie: hulle is net deel daarvan om 'n baba te laat groei.\n\nBekende ongemakke sluit in rugpyn, sooibrand en slegte spysvertering, hardlywigheid, aambeie, geswolle enkels, voete en vingers, moegheid en onderbroke slaap, beenkramp, hoofpyn, floute voel, en meer afskeiding as gewoonlik. Baie verlig met klein gemaksmaatreëls, en jou vroedvrou kan voorstel wat veilig is as iets jou pla.\n\nWat help, is om te weet watter veranderinge die gewone soort is en watter die moeite werd is om te meld, want 'n paar simptome, hoewel minder algemeen, moet wel nagegaan word eerder as om net af te wag.",
+      "deep": null,
+      "when_to_see_doctor": "Die meeste hiervan is normaal, maar kontak jou **vroedvrou of kraamafdeling** dadelik as jy die volgende het:\n\n- **vaginale bloeding**, of 'n skielike stroom of gesypel vloeistof uit die vagina\n- jou **baba beweeg minder** as gewoonlik\n- 'n **erge hoofpyn, probleme met jou sig, of skielike swelling** van die gesig, hande of voete (moontlike tekens van pre-eklampsie)\n- **erge of eensydige maagpyn**, of **koors**\n- **jeuk**, veral op jou hande en voete, of jeuk wat snags erger raak (dit kan 'n teken wees van 'n lewertoestand tydens swangerskap wat nagegaan moet word)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Kondome",
+      "aliases": [
+        "kondoom",
+        "kondome",
+        "manlike kondoom",
+        "rubber",
+        "skermmetode",
+        "veilige seks"
+      ],
+      "glance": "Kondome is 'n skermmetode, en die enigste soort voorbehoeding wat ook teen SOI's beskerm.",
+      "overview": "'n Kondoom is 'n dun skerm, gewoonlik van lateks, of van 'n plastiekalternatief vir mense met 'n lateksallergie, wat tydens seks oor die penis gedra word. Dit werk eenvoudig: dit keer dat sperms in die vagina kom.\n\nWat kondome spesiaal maak onder voorbehoedmiddels, is dat hulle **die enigste metode is wat ook teen seksueel oordraagbare infeksies (SOI's) beskerm, insluitend MIV.** Daarom word hulle dikwels saam met 'n ander metode gebruik: een vir swangerskap, albei saam vir beskerming teen infeksie.\n\nAs kondome elke keer korrek gebruik word, is hulle sowat 98% doeltreffend om swangerskap te voorkom. Met tipiese gebruik, waar hulle soms verkeerd of nie elke keer gebruik word nie, daal dit tot ongeveer 82%. Om een behoorlik en konsekwent te gebruik, maak die verskil.",
+      "deep": "Omdat kondome in die oomblik gebruik word eerder as vooraf, hang hul doeltreffendheid in die werklike lewe sterk af van konsekwente, korrekte gebruik. Interne kondome (wat binne-in die vagina gedra word) is nog 'n skermopsie. Anders as die meeste metodes het kondome geen voorskrif nodig nie en is hulle wyd beskikbaar, en hul dubbele rol, beskerming teen swangerskap en SOI's, verklaar hoekom hulle so dikwels ter sprake kom in gesprekke oor veiliger seks.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Toestemming en respek",
+      "aliases": [
+        "toestemming",
+        "respekteer haar grense",
+        "entoesiastiese toestemming",
+        "liggaamlike outonomie",
+        "nee beteken nee",
+        "grense"
+      ],
+      "glance": "Toestemming beteken 'n duidelike, vrye, entoesiastiese ja: elke keer, en dit kan op enige oomblik teruggetrek word.",
+      "overview": "Respek begin by haar reg om oor haar eie liggaam te besluit, altyd. Toestemming tot intimiteit beteken 'n vrywillige, ingeligte, entoesiastiese **ja**. Stilte beteken nie toestemming nie. 'n Onwillige “goed dan” beteken nie toestemming nie. Iemand wat slaap, baie dronk is of onder druk verkeer, kan nie werklik toestemming gee nie. En 'n ja vir een ding, of op een dag, beteken nie 'n ja vir alles of vir volgende keer nie.\n\nToestemming kan op enige oomblik teruggetrek word, en “stop” of “nie vanaand nie” is 'n volledige antwoord wat geen regverdiging nodig het nie. Om druk uit te oefen, haar skuldig te laat voel, te dikmond totdat sy toegee, of seks te behandel as iets wat jou toekom, is nie aanvaarbaar nie: 'n verhouding is nie 'n skuld nie.",
+      "deep": "Hoe respek in die praktyk lyk:\n\n- **Vra, en maak seker.** “Is dit oukei?”, en let op hoe sy reageer, met woorde en met haar lyf.\n- **Aanvaar “nee” met grasie.** Geen dikmond, druk of straf nie. Haar antwoord is die einde van die saak.\n- **Entoesiasme maak saak.** As sy onseker of huiwerig lyk, of net saamgaan, stop en vra.\n- **Haar liggaam, haar besluit**: oor intimiteit, voorbehoeding, swangerskap, haar gesondheid, haar voorkoms, haar keuses. Jy het 'n stem in julle gedeelde lewe, maar nooit 'n veto oor haar liggaam nie.\n- **Respek is daagliks.** Hoe jy met haar en oor haar praat, en hoe jy haar grense in klein dingetjies respekteer, vorm die fondament waarop alles anders rus.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Voorbehoeding",
+      "aliases": [
+        "voorbehoeding",
+        "geboortebeperking",
+        "gesinsbeplanning",
+        "voorbehoedmiddels",
+        "swangerskap voorkom",
+        "prevensie"
+      ],
+      "glance": "Voorbehoeding verwys na die verskillende maniere om swangerskap te voorkom, en daar is baie om van te kies.",
+      "overview": "Voorbehoeding, soms geboortebeperking genoem, is die reeks metodes wat gebruik word om swangerskap te voorkom. Daar is baie daarvan, en hulle werk op verskillende maniere: sommige gebruik hormone, sommige vorm 'n skerm, sommige sit binne-in die baarmoeder, en sommige berus op die dophou van die siklus.\n\nHoe goed 'n metode werk, hang baie af van hoe dit gebruik word. Sommige metodes, soos die voorbehoedinplanting in die arm en die intra-uteriene toestelle (IUT's, “lussies”), is “insit en vergeet”-metodes en is meer as 99% doeltreffend. Ander, soos die pil of kondome, is baie doeltreffend wanneer hulle perfek gebruik word, maar effens minder met alledaagse, tipiese gebruik, want dit is makliker om 'n pil te vergeet of 'n kondoom verkeerd te gebruik.\n\nEen ding om te weet: **net kondome beskerm ook teen seksueel oordraagbare infeksies (SOI's)**. Die ander metodes voorkom swangerskap, maar nie infeksie nie, en daarom word kondome soms saam met 'n ander metode gebruik.\n\nDaar bestaan nie een “beste” metode nie: die regte een hang af van jou gesondheid, jou liggaam en wat by jou lewe pas. 'n Huisdokter of 'n kliniek vir seksuele gesondheid kan die opsies met jou deurgaan en jou help kies.",
+      "deep": "Omdat metodes so baie verskil, help dit om te dink oor wat vir jou belangrik is: hoe doeltreffend dit is, of jy daagliks iets moet onthou, hoe lank dit hou, of jy hormone wil hê of nie, en of beskerming teen SOI's in jou situasie saak maak. Baie mense verander deur hul lewe van metode soos hul behoeftes verander. Hierdie kennisbasis beskryf hoe die algemene metodes werk sodat die keuses duideliker voel, maar die besluit, en enige voorskrif of insit, neem jy saam met 'n klinikus.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Voorbehoeding en gewig",
+      "aliases": [
+        "laat die pil jou gewig optel",
+        "pil en gewigstoename",
+        "voorbehoeding gewigstoename",
+        "geboortebeperking gewig",
+        "gewig optel op die pil",
+        "voorbehoedinspuiting gewig",
+        "inplanting gewigstoename",
+        "prik en gewig"
+      ],
+      "glance": "Daar is geen bewys dat die gekombineerde pil gewigstoename veroorsaak nie, maar die voorbehoedinspuiting kan. Dit hang af van die metode.",
+      "overview": "Om te wonder of voorbehoeding jou gewig sal laat optel, is 'n baie algemene vraag. Die eerlike antwoord: dit hang af van die metode.\n\nVir die gekombineerde pil is die bewyse gerusstellend: daar is geen bewys dat dit jou gewig laat optel nie. Dieselfde geld vir die voorbehoedpleister en die vaginale ring.\n\nDie voorbehoedinspuiting werk anders. Gewigstoename word as een van die algemene newe-effekte gelys, saam met veranderinge aan jou maandstondes.\n\nBy die pil met net progestogeen (soms die minipil genoem) en die voorbehoedinplanting in die arm, rapporteer sommige mense dat hulle gewig optel. Maar daar bestaan nie genoeg bewyse om te sê of die metode self die oorsaak is nie.\n\nGewig is net een deel van die prentjie. Elke metode het sy eie lys moontlike newe-effekte en risiko's, en om voorbehoeding te kies, gaan daaroor om te vind wat by jou liggaam, jou gesondheid en jou lewe pas. 'n Apteker, huisdokter, verpleegster of kliniek vir seksuele gesondheid kan die opsies met jou deurgaan.",
+      "deep": null,
+      "when_to_see_doctor": "- As newe-effekte, insluitend veranderinge aan jou gewig, vir jou 'n probleem is, praat met 'n apteker, huisdokter, verpleegster of kliniek vir seksuele gesondheid. Met die gekombineerde pil, die pleister of die ring kan sommige newe-effekte voorkom wanneer jy net begin. As hulle jou ná ongeveer 3 maande steeds pla, kan 'n klinikus met jou praat oor 'n ander pil of 'n ander soort voorbehoeding.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Die voorbehoedinplanting in die arm",
+      "aliases": [
+        "voorbehoedinplanting",
+        "die inplanting",
+        "Nexplanon",
+        "inplanting",
+        "staafie in die arm",
+        "implant"
+      ],
+      "glance": "Die inplanting is 'n klein staafie in die bo-arm wat vir 'n paar jaar 'n hormoon vrystel.",
+      "overview": "Die voorbehoedinplanting is 'n klein, buigsame staafie, omtrent so groot soos 'n vuurhoutjie, wat deur 'n opgeleide klinikus net onder die vel van die bo-arm geplaas word. Sodra dit in is, stel dit bestendig 'n progestogeenhormoon vry en werk dit tot ongeveer drie jaar lank.\n\nDit voorkom swangerskap hoofsaaklik deur te keer dat die eierstokke 'n eiersel vrystel (ovulasie), en deur die slym by die baarmoedermond dikker te maak sodat sperms nie kan deurkom nie. Omdat daar niks is om van dag tot dag te onthou nie, is dit een van die “insit en vergeet”-metodes.\n\nDaarom is dit ook een van die betroubaarste opsies: die inplanting is meer as 99% doeltreffend, en die doeltreffendheid verskil skaars tussen perfekte en tipiese gebruik. Soos ander hormonale metodes beskerm dit nie teen SOI's nie.",
+      "deep": "Die inplanting is 'n langwerkende, omkeerbare metode: dit werk aan totdat dit verwyder word, en vrugbaarheid keer ná verwydering terug. Om dit te laat insit en uithaal, is vinnige prosedures wat deur 'n klinikus gedoen word, wat ook met jou deurgaan vir wie dit geskik is en wat die newe-effekte is. Hierdie artikel verduidelik wat dit is en hoe dit werk; die besluit om een te kry, is 'n gesprek met 'n huisdokter, verpleegster of kliniek vir seksuele gesondheid.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Jou siklus en jou welstand",
+      "aliases": [
+        "welstand",
+        "siklus en gesondheid",
+        "menstruele siklus en gesondheid",
+        "vitale teken",
+        "gesondheid en maandstonde"
+      ],
+      "glance": "Jou siklus werk 'n bietjie soos 'n maandelikse gesondheidskontrole: veranderinge daarin kan die moeite werd wees om op te let.",
+      "overview": "Jou menstruele siklus staan nie los van die res van jou gesondheid nie: dit hou daarmee verband. 'n Siklus wat vir jou gereeld is, is oor die algemeen 'n teken dat jou liggaam aangaan soos dit moet. Daarom beskou sommige mense die maandstonde as 'n soort maandelikse sein oor algehele welstand.\n\nDie alledaagse lewe speel 'n rol. Liggaamsgewig is een voorbeeld: as jy beduidend ondergewig of oorgewig is, kan dit die hormone beïnvloed wat ovulasie aandryf, wat maandstondes onreëlmatig kan maak. Dit werk in albei rigtings: om na die basiese dinge om te sien, soos 'n gebalanseerde benadering tot eet en aktief bly, ondersteun die siklus, en 'n bestendige siklus is 'n teken dat daardie dinge redelik in balans is.\n\nDit gaan nie daaroor om 'n “perfekte” siklus na te jaag of jouself vir veranderinge te blameer nie. Sagte aandag aan jou siklus kan eenvoudig 'n nuttige venster bied op hoe dit met jou gaan, en 'n aansporing wees om met 'n klinikus te gesels as iets verskuif.",
+      "deep": null,
+      "when_to_see_doctor": "- Gaan na 'n huisdokter as jou maandstondes onreëlmatig word, ophou, of verander op 'n manier wat nie vir jou gewoon is nie: aanhoudende veranderinge kan soms op iets dui wat die moeite werd is om na te kyk.\n- Dit loon ook om te gaan gesels as probleme met jou maandstonde jou daaglikse lewe raak, sodat jy ondersteuning kan kry eerder as om dit net te verduur.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Ekonomiese mishandeling",
+      "aliases": [
+        "ekonomiese mishandeling",
+        "finansiële mishandeling",
+        "geldbeheer",
+        "beheer oor finansies",
+        "skuld op my naam",
+        "hy vat my geld"
+      ],
+      "glance": "Ekonomiese mishandeling beteken om iemand se toegang tot geld, werk of hulpbronne te beheer: 'n erkende vorm van mishandeling.",
+      "overview": "Ekonomiese mishandeling is wanneer iemand 'n ander persoon se toegang tot geld, en die dinge wat geld koop, beheer. Dit is 'n vorm van beherende gedrag, en dit gaan dikwels gepaard met ander soorte mishandeling.\n\nDit kan daarop neerkom dat al die uitgawes beheer word of dat jy vir elke sent rekenskap moet gee, dat jou salaris of toelaes gevat word, dat skuld op jou naam aangegaan word, dat bankrekeninge of dokumente van jou weerhou word, of dat jy verhinder word om te werk of te studeer. Omdat dit iemand sonder die middele kan laat om weg te gaan of om van dag tot dag klaar te kom, is dit een van die maniere waarop mishandeling soos 'n val kan voel.\n\nAs iets hiervan bekend klink, is dit nie 'n teken dat jy “sleg met geld” is of dat jy die skuld dra nie. Om 'n ander persoon se hulpbronne te beheer, is 'n keuse wat die ander persoon maak, en dit word as mishandeling erken.",
+      "deep": null,
+      "when_to_see_doctor": "- Dienste teen geweld kan ook hiermee help: nie net met veiligheid nie, maar ook met praktiese en finansiële stappe, vertroulik en gratis (in Italië kan die **1522**-hulplyn jou na plaaslike ondersteuning verwys).\n- 'n Veiligheidsplan kan insluit dat jy stilletjies toegang tot 'n bietjie geld, belangrike dokumente en belangrike nommers verseker.",
+      "red_flags": "- As jy in **onmiddellike gevaar** verkeer, kontak nou die nooddienste: **112** in die EU (insluitend Italië), **999** in die VK, **911** in die VSA en Kanada.\n- In Italië kan **1522** (gratis, 24 uur per dag, anoniem, veeltalig) per telefoon of klets help."
+    },
+    "ectopic-pregnancy": {
+      "title": "Ektopiese swangerskap",
+      "aliases": [
+        "ektopiese swangerskap",
+        "buitebaarmoederlike swangerskap",
+        "ektopies",
+        "buisswangerskap",
+        "swangerskap in die buis",
+        "eierleierswangerskap"
+      ],
+      "glance": "'n Ektopiese swangerskap groei buite die baarmoeder: dit kan nie voortgaan nie en het vinnig mediese sorg nodig.",
+      "overview": "'n Ektopiese swangerskap (buitebaarmoederlike swangerskap) is wanneer 'n bevrugte eiersel buite die baarmoeder innestel, meestal in een van die fallopiese buise (eierleiers). Ongelukkig kan 'n swangerskap in hierdie posisie nie tot 'n baba ontwikkel nie, en dit kan nie na die baarmoeder geskuif word nie, so dit moet altyd behandel word.\n\nTekens verskyn gewoonlik tussen ongeveer week 4 en 12, en kan insluit maagpyn laag aan een kant, vaginale bloeding of 'n bruin, waterige afskeiding, pyn in die punt van jou skouer, of ongemak wanneer jy piepie of 'n stoelgang het. Die mengsel van simptome wissel, en sommige kan maklik vir iets geringer aangesien word, en daarom maak dit saak om dit deur 'n dokter te laat nagaan.\n\nDit kom nie algemeen voor nie, maar dit kan ernstig wees, so dit is nie iets om af te wag nie. As jy vroeg raad kry, kan dit veilig hanteer word.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontak jou huisdokter of 'n **na-uurse dokter** as jy 'n kombinasie van hierdie simptome het **en jy dalk swanger kan wees**, selfs al het jy nie 'n positiewe swangerskaptoets gehad nie. Dit is belangrik om dadelik raad te kry.",
+      "red_flags": "- Bel **{{emergency}} of gaan na die hospitaal se noodafdeling** as jy **skielike, skerp, intense pyn in jou maag** het, **baie duiselig voel of voel of jy gaan flou word**, **baie bleek** lyk, of saam hiermee naar voel. Dit kan beteken dat die fallopiese buis gebars het: 'n mediese noodgeval wat dringende behandeling nodig het."
+    },
+    "emergency-contraception": {
+      "title": "Noodvoorbehoeding (môrepil)",
+      "aliases": [
+        "noodvoorbehoeding",
+        "môrepil",
+        "môre-oggend-pil",
+        "dag-daarna-pil",
+        "noodpil",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "Noodvoorbehoeding kan swangerskap ná onbeskermde seks voorkom, en hoe gouer, hoe beter.",
+      "overview": "Noodvoorbehoeding is 'n manier om swangerskap te voorkom ná seks sonder voorbehoeding, of wanneer jou gewone metode dalk misluk het ('n vergete pil, 'n geskeurde kondoom). Daar bestaan twee soorte, en tydsberekening maak by albei saak.\n\nDie eerste is die **noodpil (môrepil)**. Daar is twee tipes: een (levonorgestrel) kan tot 3 dae (72 uur) ná seks geneem word, en 'n ander (ulipristalasetaat, handelsnaam ellaOne) tot 5 dae (120 uur). Die tweede opsie is die **koper-IUT (koperlussie)**, wat 'n klinikus tot 5 dae ná seks kan insit; dit is die doeltreffendste vorm van noodvoorbehoeding, en dit kan daarna as deurlopende voorbehoeding bly sit as jy wil.\n\nBy al hierdie opsies geld: **hoe gouer jy dit gebruik, hoe beter werk dit gewoonlik**, so dit loon om vinnig op te tree eerder as om te wag. Jy kan noodvoorbehoeding by 'n apteek, 'n huisdokter, 'n kliniek vir seksuele gesondheid of 'n inloopkliniek kry, dikwels gratis.",
+      "deep": null,
+      "when_to_see_doctor": "- Omdat tyd saak maak, moenie wag nie: 'n apteker kan die noodpil vinnig verskaf, en 'n kliniek vir seksuele gesondheid of huisdokter kan die IUT insit.\n- Noodvoorbehoeding voorkom swangerskap, nie infeksie nie. As daar enige kans op 'n seksueel oordraagbare infeksie bestaan, kan 'n kliniek vir seksuele gesondheid jou oor toetse adviseer.\n- As jou maandstonde daarna meer as 'n paar dae laat kom, of baie anders as gewoonlik lyk, loon dit om 'n swangerskaptoets te doen en met 'n klinikus te praat.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriose",
+      "aliases": [
+        "endometriose",
+        "endo",
+        "erge menstruasiepyn",
+        "pyn met maandstonde",
+        "bekkenpyn",
+        "endometriosis"
+      ],
+      "glance": "Endometriose is 'n toestand waar weefsel soortgelyk aan die baarmoedervoering buite die baarmoeder groei en dikwels pyn veroorsaak.",
+      "overview": "Endometriose is 'n langdurige toestand waar selle soortgelyk aan die voering van die baarmoeder (uterus) in ander dele van die liggaam groei, soos rondom die eierstokke, in die bekken of op die derm. Dit kom algemeen voor: na raming raak dit wêreldwyd ongeveer 1 uit 10 vroue van vrugbare ouderdom.\n\nOmdat hierdie weefsel 'n bietjie soos die baarmoedervoering optree, kan dit ontsteking en mettertyd littekenweefsel veroorsaak. Die algemeenste teken is pyn: dikwels erge menstruasiepyn, maar ook bekken- of laerugpyn op ander tye, pyn tydens of ná seks, en pyn wanneer jy piepie of 'n stoelgang het. Baie swaar maandstondes, diep moegheid, neerslagtigheid en probleme om swanger te raak kom ook algemeen voor. Simptome wissel baie: sommige mense het erge pyn, ander min.\n\nEndometriose word dikwels misverstaan en kan jare neem om herken te word, deels omdat menstruasiepyn so dikwels as “normaal” afgemaak word. Erge pyn wat jou lewe ontwrig, is nie iets wat jy eenvoudig moet verduur nie: dit verdien om ernstig opgeneem te word.",
+      "deep": "Die presiese oorsaak van endometriose is onbekend, en daar bestaan tans geen genesing nie, maar behandelings kan help om die simptome te beheer, en ondersteuning wissel van medisyne tot, vir sommige mense, chirurgie, saam met hulp vir die fisiese en emosionele las. Een van die grootste uitdagings is vertraging: gemiddeld kan dit etlike jare, soms baie jare, neem om 'n diagnose te kry. Dit is deels hoekom dit so belangrik kan wees om 'n duidelike rekord van jou simptome te hou, en om terug te gaan na 'n klinikus as daar nie na jou geluister word nie.",
+      "when_to_see_doctor": "Dit is die moeite werd om 'n huisdokter te sien as:\n\n- jy erge menstruasiepyn het wat jou keer om normale aktiwiteite te doen\n- jou maandstondes baie swaar is, byvoorbeeld as jy elke 1–2 uur 'n maandverband of tampon moet vervang\n- jy aanhoudende bekken- of laerugpyn het, pyn tydens of ná seks, of pyn wanneer jy piepie of 'n stoelgang het\n- jy dit moeilik vind om swanger te raak\n- behandeling wat jy reeds gehad het, nie gehelp het nie, of jou simptome erger geword het\n\nOmdat endometriose tyd kan neem om te diagnoseer, is dit heeltemal reg om terug te gaan as jou simptome nie ernstig opgeneem word nie: 'n duidelike prentjie van jou pyn oor tyd help. As die pyn of swaar bloeding ook jou gemoed raak, sê dit vir jou huisdokter; dit vorm deel van die prentjie, en ondersteuning is beskikbaar.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogeen",
+      "aliases": [
+        "estrogeen",
+        "oestrogeen",
+        "estrogen",
+        "vroulike hormoon",
+        "estradiol"
+      ],
+      "glance": "Estrogeen is 'n sleutelhormoon wat jou liggaam elke siklus help voorberei vir 'n moontlike swangerskap.",
+      "overview": "Estrogeen is een van die hoofhormone agter die menstruele siklus. In die eerste helfte van die siklus (die follikulêre fase) styg die vlak daarvan soos 'n follikel in die eierstok ryp word. Hierdie styging maak die voering van die baarmoeder dikker en lei tot ovulasie.\n\nEstrogeen beïnvloed ook dinge wat jy dalk van dag tot dag opmerk: energie, gemoed en veranderinge in servikale slym rondom jou vrugbare dae. Ná ovulasie daal die vlak en verskuif dit dan weer, en werk dit deur die tweede helfte van die siklus saam met 'n ander hormoon, progesteroon.\n\nVlakke styg en daal natuurlik oor elke siklus, en hulle verander ook deur die lewensfases. Dit is normaal: dit is die ritme waarop jou liggaam werk, nie iets om “reg te maak” nie.",
+      "deep": "Estrogeen is nie 'n enkele stof nie, maar 'n groep verwante hormone (die aktiefste in die siklus is estradiol). Die meeste daarvan word deur die eierstokke gemaak, in die groeiende follikel. Die sikliese styging en daling daarvan, saam met progesteroon en die brein se seinhormone LH en FSH, dryf die fases van die siklus aan. Omdat estrogeen baie stelsels raak, kan die natuurlike verskuiwings daarvan deur die maand op klein maniere na vore kom; om dit dop te hou, help jou om jou eie patroon te leer ken eerder as om dit met 'n “gemiddelde” te vergelyk.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Beweging en jou siklus",
+      "aliases": [
+        "oefening",
+        "fisieke aktiwiteit",
+        "oefen",
+        "beweging",
+        "oefening en maandstonde",
+        "gim tydens maandstonde",
+        "sport"
+      ],
+      "glance": "Jy kan deur jou hele siklus aktief bly, en gereelde beweging kan krampe en PMS verlig.",
+      "overview": "Jy kan op enige punt in jou siklus fisiek aktief wees. Sommige mense vind dat hulle op sekere tye van die maand meer energie het en effens harder kan werk, en op ander tye minder: albei is normaal, en geeneen is 'n rede om op te hou beweeg nie.\n\nGereelde aktiwiteit kan eintlik help met sommige simptome wat met die maandstonde verband hou. Mense wat gereeld oefen, het dikwels minder pynlike krampe, en om aktief te bly, kan ook premenstruele simptome (PMS) verlig. Op dae met minder energie tel sagter beweging steeds: dit hoef nie intens te wees om die moeite werd te wees nie.\n\nJy hoef nie jou lewe rondom jou siklus te beplan nie, en daar bestaan nie een “regte” manier om te beweeg nie. Om jou eie energiepatroon oor die maand raak te sien, kan jou eenvoudig help om te beplan op 'n manier wat goed voel.",
+      "deep": null,
+      "when_to_see_doctor": "- Baie strawwe oefening, of soveel oefen dat jou liggaam te min energie het, kan maandstondes onreëlmatig maak of heeltemal laat ophou. 'n Gereelde siklus is oor die algemeen 'n teken dat dinge goed gaan, so dit loon om met 'n huisdokter te praat as jou maandstondes onreëlmatig word of ophou: dit kan mettertyd met been- en hormoongesondheid verband hou.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Oefening tydens swangerskap",
+      "aliases": [
+        "oefening tydens swangerskap",
+        "aktief bly swanger",
+        "swangerskapoefening",
+        "fiks bly swanger",
+        "oefen terwyl swanger",
+        "stap swanger"
+      ],
+      "glance": "Om aktief te bly, is veilig en goed in die meeste swangerskappe: sag, sonder om jouself uit te put.",
+      "overview": "Om aktief te bly tydens swangerskap is goed vir jou en nie gevaarlik vir jou baba nie; om fiks te bly, kan jou trouens help om die veranderinge wat voorlê en die kraam te hanteer. Jy hoef niks intens aan te pak nie: om met jou normale daaglikse aktiwiteit voort te gaan, solank dit gemaklik voel, is 'n goeie beginpunt.\n\n'n Eenvoudige vuistreël: jy moet 'n **gesprek kan voer** terwyl jy beweeg. As jy te uitasem is om te praat, verminder die tempo. Sagte opsies soos stap, swem, wateroefenklasse vir swanger vroue en swangerskapjoga pas die meeste mense. As jy nie voorheen aktief was nie, is dit nie die tyd om 'n strawwe nuwe roetine te begin nie: bou eerder stadig op.\n\n'n Paar aktiwiteite vermy jy liefs of benader jy versigtig, soos om ná ongeveer 16 weke plat op jou rug te lê, kontaksport, skubaduik, en enigiets met 'n werklike risiko om te val.",
+      "deep": null,
+      "when_to_see_doctor": "- Raadpleeg jou **vroedvrou** voordat jy 'n nuwe aërobiese oefenprogram begin, of as jy 'n gesondheidstoestand of 'n kommer oor jou swangerskap het.\n- **Hou op en kry raad** as jy onwel, duiselig of baie uitasem voel, of as jy enige pyn, bloeding of kontraksies kry terwyl jy oefen.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Die vrugbare venster",
+      "aliases": [
+        "vrugbare venster",
+        "vrugbare dae",
+        "vrugbaarste dae",
+        "wanneer is ek vrugbaar",
+        "vrugbare tyd"
+      ],
+      "glance": "Die vrugbare venster is die handjievol dae elke siklus wanneer seks tot swangerskap kan lei.",
+      "overview": "Die vrugbare venster is die kort tydperk van die siklus wanneer swangerskap moontlik is. Dit bestaan weens twee tydsberekeninge wat nie heeltemal ooreenstem nie: 'n eiersel kan net vir ongeveer 12 tot 24 uur ná vrystelling bevrug word, maar sperms kan etlike dae in die liggaam oorleef (tot ongeveer 'n week) terwyl hulle vir 'n eiersel wag.\n\nSaam beteken dit dat die venster 'n paar dae voor ovulasie oopgaan en ongeveer 'n dag daarna sluit. In die praktyk is jy die vrugbaarste in die 2 tot 3 dae voor ovulasie en op die dag self, want sperms kan reeds daar wees wanneer die eiersel aankom.\n\nOmdat ovulasie van siklus tot siklus kan verskuif, skuif die vrugbare venster ook. Daarom word dit gewoonlik as 'n reeks dae beskou eerder as 'n enkele datum, en daarom is dit meer betroubaar om tekens oor 'n paar siklusse dop te hou as om op een kalenderberekening staat te maak.",
+      "deep": "Die presiese dae verskil van persoon tot persoon en van maand tot maand, so die venster word die beste geskat uit die liggaam se eie seine eerder as uit 'n vaste formule. Veranderinge in servikale slym dui daarop dat die venster oopgaan soos ovulasie nader kom, en 'n styging in die liggaamstemperatuur in rus bevestig, agterna, dat ovulasie verby is en die venster gesluit het. Ovulasietoetse werk 'n stap vroeër: hulle bespeur die skerp styging in luteïniserende hormoon (LH) wat kort voor die vrystelling van die eiersel kom.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Begin menstrueer (eerste maandstonde)",
+      "aliases": [
+        "eerste maandstonde",
+        "menarge",
+        "begin menstrueer",
+        "my eerste menstruasie",
+        "eerste keer ongesteld",
+        "eerste periode"
+      ],
+      "glance": "Jou eerste maandstonde kom gewoonlik rondom die ouderdom van 12: enige tyd van ongeveer 8 tot 17 is normaal.",
+      "overview": "Jou eerste maandstonde, soms menarge genoem, is wanneer die menstruele siklus vir die eerste keer begin. Die meeste mense begin rondom die ouderdom van 12, maar enige tyd van ongeveer 8 tot 17 is normaal. Dit kom dikwels omtrent twee jaar nadat jou borste begin ontwikkel.\n\nDaar is gewoonlik tekens in die aanloop: hare wat onder jou arms en in die skaamstreek begin groei, en 'n bietjie helder of wit afskeiding in die maande voor die tyd. As jy weet dat dit kom, kan die eerste maandstonde minder skielik voel.\n\nAan die begin is maandstondes dikwels onreëlmatig: die tussenposes kan lank of kort wees, en dit kan jou liggaam 'n paar maande, selfs 'n jaar of twee, neem om in 'n meer bestendige ritme te kom. Sodra dit gebeur, kom maandstondes gewoonlik elke 23 tot 35 dae en duur hulle ongeveer 2 tot 7 dae. Vroeë onreëlmatigheid is normaal en niks om oor bekommerd te wees nie.",
+      "deep": null,
+      "when_to_see_doctor": "- Gaan na 'n huisdokter as maandstondes **teen die ouderdom van 15 nog nie begin het nie**, of teen **13 as daar geen ander tekens van puberteit is nie** (soos borsontwikkeling of liggaamshare). Dit is net om seker te maak dat alles ontwikkel soos verwag: gewoonlik is alles in orde.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Foliensuur en vitamiene tydens swangerskap",
+      "aliases": [
+        "foliensuur",
+        "folaat",
+        "vitamien D swanger",
+        "swangerskapsvitamiene",
+        "aanvullings swanger",
+        "folic acid"
+      ],
+      "glance": "Foliensuur voor en vroeg in die swangerskap help om die baba te beskerm, plus daagliks vitamien D.",
+      "overview": "Twee aanvullings maak regtig saak tydens swangerskap, en die NHS beveel albei aan.\n\n**Foliensuur** is die belangrikste. Om elke dag 'n aanvulling van 400 mikrogram te neem, verkieslik van voor jy swanger raak (ongeveer drie maande vooraf) tot aan die einde van die eerste trimester, op 12 weke, help om die baba teen neuraalbuisdefekte soos spina bifida te beskerm. Omdat dit so vroeg werk, is dit een van die min dinge wat die moeite werd is om *voor* 'n swangerskap te begin as jy probeer swanger raak.\n\n**Vitamien D** is die ander een: 'n daaglikse aanvulling van 10 mikrogram word deur die hele swangerskap en tydens borsvoeding aanbeveel, om die baba se bene en ontwikkeling te ondersteun.\n\nBuiten daardie twee dek 'n gesonde, gevarieerde dieet die meeste behoeftes: jy het nie baie ekstra aanvullings nodig nie. Een om weg te bly van, is **vitamien A** (retinol): moenie aanvullings neem wat dit bevat nie, en vermy lewer, want te veel vitamien A kan die baba skade aandoen.",
+      "deep": null,
+      "when_to_see_doctor": "- 'n **Huisdokter, vroedvrou of apteker** kan jou help om die regte aanvullings te kies, en sommige mense word aangeraai om 'n **hoër dosis foliensuur** te neem (byvoorbeeld by diabetes, 'n hoër BMI, sekere medisyne, of 'n vorige swangerskap wat deur 'n neuraalbuisdefek geraak is), so dit loon om te vra, veral voor of vroeg in die swangerskap.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Follikulêre fase",
+      "aliases": [
+        "follikulêre fase",
+        "eerste helfte van die siklus",
+        "follikelfase",
+        "ná my maandstonde",
+        "voor ovulasie"
+      ],
+      "glance": "Die follikulêre fase is die eerste helfte van die siklus, wanneer 'n eiersel ryp word en die baarmoedervoering dikker word.",
+      "overview": "Die follikulêre fase is die eerste deel van die siklus. Dit begin op die eerste dag van jou maandstonde en duur tot by ovulasie. Die naam kom van die follikel: die klein, vloeistofgevulde sakkie in die eierstok wat gedurende hierdie tyd 'n eiersel bevat en laat groei.\n\nDeur hierdie fase styg die hormoon estrogeen. Daardie stygende estrogeen doen twee hoofdinge: dit help 'n follikel in die eierstok om ryp te word, en dit maak die voering van die uterus (baarmoeder) dikker, sodat die liggaam gereed is ingeval 'n swangerskap later in die siklus begin.\n\nOmdat estrogeen styg, merk sommige mense meer energie of veranderinge in servikale slym op soos die vrugbare dae nader kom. Elkeen se ervaring verskil, en niks hiervan hoef “bestuur” te word nie: dit is eenvoudig die eerste helfte van jou siklus wat sy werk doen.",
+      "deep": "Die lengte van die follikulêre fase kan van siklus tot siklus wissel, en dit is deels hoekom hele siklusse van persoon tot persoon en van maand tot maand verskil. Dit eindig wanneer stygende estrogeen help om die vrystelling van 'n eiersel (ovulasie) te ontketen. Omdat die laaste dae daarvan na ovulasie lei, gaan die vrugbare venster dan oop, en daarom maak die einde van die follikulêre fase saak vir enigiemand wat vrugbaarheid dophou.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Kos om tydens swangerskap te vermy",
+      "aliases": [
+        "kos om te vermy swanger",
+        "swangerskapsdieet",
+        "wat om nie te eet as jy swanger is",
+        "kafeïen swanger",
+        "listeria",
+        "koffie swanger",
+        "kaas swanger"
+      ],
+      "glance": "Die meeste kos is in orde tydens swangerskap: 'n paar vermy jy liefs, en dit help om kafeïen laag te hou.",
+      "overview": "Die goeie nuus is dat die meeste kos tydens swangerskap heeltemal in orde is: net 'n klein aantal vermy jy liefs of hanteer jy versigtig, meestal om kieme soos listeria of te veel van sekere vitamiene te vermy. As jy die kort lys ken, kan jy oor die res ontspan.\n\nDie NHS raai aan dat jy versigtig is met:\n\n- **Sommige kase**: sagte kase met 'n witskimmelkors soos brie en camembert, en sagte bloukase, tensy hulle gaargemaak is tot hulle stomend warm is; en enigiets wat met **ongepasteuriseerde** melk gemaak is.\n- **Rou of halfgaar vleis**, koue gerookte of gesoute vleis, **patee** en **lewer** (wat baie vitamien A bevat).\n- **Rou of lopende eiers**, tensy hulle die Britse Lion-merk dra.\n- **Sommige vis**: vermy haai, swaardvis en marlyn, beperk tuna, en eet nie meer as twee porsies olierige vis per week nie.\n- **Kafeïen**: hou dit onder ongeveer 200mg per dag (omtrent twee bekers kitskoffie), en tel ook tee, cola, energiedrankies en sjokolade mee.",
+      "deep": null,
+      "when_to_see_doctor": "- Dit is algemene riglyne, nie 'n streng dieet nie: as jy vrae het oor wat vir jou veilig is, of 'n spesifieke dieetbehoefte het, kan jou **vroedvrou** dit met jou deurpraat.\n- As jy iets van die “vermy”-lys geëet het, probeer om nie paniekerig te raak nie; noem dit aan jou vroedvrou as jy bekommerd is of onwel voel.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Follikelstimulerende hormoon (FSH)",
+      "aliases": [
+        "fsh",
+        "follikelstimulerende hormoon",
+        "follikel-stimulerende hormoon",
+        "FSH-vlak",
+        "FSH-toets"
+      ],
+      "glance": "FSH is 'n breinhormoon wat follikels in die eierstok aan die begin van elke siklus laat groei.",
+      "overview": "FSH, follikelstimulerende hormoon, is een van die boodskapperhormone wat die siklus aan die gang sit. Dit word gemaak deur 'n klein klier in die brein (die pituïtêre klier of hipofise), en soos die naam sê, stimuleer dit follikels: die piepklein vloeistofgevulde sakkies in die eierstok wat elk 'n eiersel bevat.\n\nVroeg in die siklus moedig FSH 'n groep van hierdie follikels aan om te begin groei. Soos 'n follikel ontwikkel, stel dit meer estrogeen vry, wat op sy beurt die voering van die uterus (baarmoeder) dikker maak, gereed vir 'n moontlike swangerskap. Gewoonlik word een follikel die dominante een wat verder na ovulasie beweeg.\n\nFSH styg en daal as deel van die normale heen-en-weer van die siklus. Jy voel FSH nie direk nie: dit werk stilletjies in die agtergrond en berei die meer sigbare veranderinge van die follikulêre fase voor.",
+      "deep": "FSH werk as 'n paar saam met luteïniserende hormoon (LH); albei word deur die pituïtêre klier in die brein vrygestel, en saam dryf hulle die eierstokke deur die siklus. FSH lei die eerste helfte en laat die follikels groei, terwyl die LH-styging later die vrystelling van 'n eiersel in die middel van die siklus aandui. Hierdie vennootskap verklaar ook hoekom vrugbaarheidsbehandelings FSH-gebaseerde medisyne gebruik: ekstra FSH moedig verskeie follikels aan om gelyktydig ryp te word, eerder as die enkele een wat 'n natuurlike siklus gewoonlik lewer.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Swangerskapsdiabetes",
+      "aliases": [
+        "swangerskapsdiabetes",
+        "diabetes tydens swangerskap",
+        "hoë bloedsuiker swanger",
+        "suiker swanger",
+        "glukosetoets swanger",
+        "gestasiediabetes"
+      ],
+      "glance": "Swangerskapsdiabetes is verhoogde bloedsuiker tydens swangerskap: gewoonlik opgespoor deur sifting, en dit bedaar dikwels ná die geboorte.",
+      "overview": "Swangerskapsdiabetes is hoë bloedsuiker (glukose) wat tydens swangerskap ontwikkel, wanneer die liggaam nie heeltemal byhou met die ekstra vraag na insulien nie. By die meeste mense verdwyn dit weer nadat die baba gebore is.\n\nDit veroorsaak gewoonlik **geen simptome nie**, so dit word opgespoor deur 'n siftingstoets wat tydens swangerskap aangebied word ('n glukosetoleransietoets, dikwels rondom 24 tot 28 weke), veral as jy dinge het wat die kans daarop verhoog, soos 'n hoër gewig, diabetes in die familie, 'n vorige groot baba, of sekere etniese agtergronde.\n\nDit is baie hanteerbaar. Om bloedsuiker binne 'n gesonde reeks te hou, deur kos, aktiwiteit en soms medisyne, alles onder leiding van jou sorgspan, verlaag die kans op komplikasies vir jou en jou baba, en daarom loon dit om dit goed dop te hou.",
+      "deep": null,
+      "when_to_see_doctor": "- Gaan vir die **siftingstoets** as dit aangebied word: omdat swangerskapsdiabetes gewoonlik geen simptome het nie, word dit deur toetse opgespoor.\n- Moenie vir die toets wag as jy moontlike tekens van hoë bloedsuiker opmerk nie, soos baie dors voel, baie moet piepie, 'n droë mond of moegheid: noem dit aan jou vroedvrou of dokter.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Waar om hulp te kry",
+      "aliases": [
+        "hulp kry",
+        "wie om te kontak",
+        "hulplyne",
+        "nuttige nommers",
+        "sentrum teen geweld",
+        "1522",
+        "noodnommers",
+        "hulplyn geweld"
+      ],
+      "glance": "Gratis, vertroulike hulp is beskikbaar: bel in 'n noodgeval jou plaaslike noodnommer; in Italië kan jy enige tyd 1522 bel.",
+      "overview": "As jy mishandeling beleef, hoef jy dit nie alleen die hoof te bied nie, en om uit te reik, verbind jou tot niks nie. Daar is mense wie se hele werk dit is om te luister en te help, vertroulik en gratis.\n\n'n Paar soorte hulp bestaan langs mekaar:\n\n- **Nooddienste**: bel by onmiddellike gevaar jou plaaslike noodnommer (hieronder).\n- **'n Nasionale hulplyn**: in Italië **1522**, die gratis hulplyn teen geweld en agtervolging: 24 uur per dag oop, anoniem, in verskeie tale beskikbaar, per telefoon of aanlyn klets.\n- **Sentrums teen geweld** (in Italië *centri antiviolenza*): plaaslike dienste wat gratis, vertroulike ondersteuning, veiligheidsbeplanning en regs- en sielkundige hulp bied.\n- **Gesondheidsdienste**: 'n huisdokter, of 'n hospitaal se noodafdeling, waar personeel toenemend opgelei word om mishandeling te herken en jou met ondersteuning in verbinding te stel.\n- **Mense wat jy vertrou**: 'n vriend of familielid by wie jy veilig voel.\n\nJy kan begin met wat ook al vir jou die moontlikste voel, en jy hoef nog niks besluit te hê nie.",
+      "deep": null,
+      "when_to_see_doctor": "- Jy kan vertroulik met 'n **huisdokter of 'n hospitaal** praat oor wat gebeur; hulle kan enige beserings behandel en jou met gespesialiseerde dienste in verbinding stel.\n- As dit makliker is om te skryf as om te praat, bied die **1522-klets** nog 'n manier om hulp te kry.",
+      "red_flags": "- As jy in **onmiddellike gevaar** verkeer, kontak nou die nooddienste: **112** in die EU (insluitend Italië), **999** in die VK, **911** in die VSA en Kanada.\n- **Italië:** **1522** (gratis, 24/7, anoniem, veeltalig: bel of klets).\n- Hulplynnommers verskil van land tot land. Die app kan die nommers vir jou land wys, en **findahelpline.com** lys hulplyne teen geweld wêreldwyd (dit bespeur jou land en het 'n knoppie om vinnig uit te gaan). As jy in die EU is, werk **112** oral."
+    },
+    "group-b-strep": {
+      "title": "Groep B-streptokokke (GBS)",
+      "aliases": [
+        "groep B-strep",
+        "GBS",
+        "groep B-streptokokke",
+        "strep B swanger",
+        "streptokokkus B"
+      ],
+      "glance": "Groep B-strep is 'n algemene, gewoonlik onskadelike bakterie: die klein risiko geld vir die baba tydens die geboorte, en dit is hanteerbaar.",
+      "overview": "Groep B-strep (GBS) is 'n baie algemene bakterie wat baie mense dra, gewoonlik in die vagina of die agterent, sonder dat hulle weet en sonder dat dit enige skade doen. Dit is nie 'n seksueel oordraagbare infeksie nie, en om dit te dra, is normaal.\n\nTydens swangerskap maak dit net saak omdat daar 'n **klein kans** bestaan dat dit rondom die tyd van die geboorte na die baba kan oorgaan en die baba, in seldsame gevalle, siek kan maak: dit gebeur in ongeveer 1 uit 1 750 swangerskappe. Dit word dikwels toevallig gevind, byvoorbeeld met 'n urinetoets of 'n vaginale deppermonster wat om 'n ander rede gedoen is (die NHS sif nie almal roetinematig daarvoor nie).\n\nDie gerusstellende deel: dit is baie hanteerbaar. As daar van GBS geweet word, verlaag **antibiotika deur 'n drup tydens die kraam** die kans dat die baba siek word, aansienlik.",
+      "deep": null,
+      "when_to_see_doctor": "- As vir jou gesê word dat jy groep B-strep dra, nou of in 'n vorige swangerskap, **laat jou vroedvrou of kraamspan weet**, sodat antibiotika tydens die kraam beplan kan word. Dit is 'n eenvoudige stap wat 'n werklike verskil maak.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Sooibrand en slegte spysvertering tydens swangerskap",
+      "aliases": [
+        "sooibrand swanger",
+        "slegte spysvertering swanger",
+        "suurrefluks swangerskap",
+        "refluks",
+        "sooibrand",
+        "indigestie"
+      ],
+      "glance": "Sooibrand kom baie algemeen voor tydens swangerskap: gewoonlik onskadelik, en dikwels verlig deur klein alledaagse veranderinge.",
+      "overview": "Sooibrand en slegte spysvertering ('n brandende gevoel of ongemak in die bors, dikwels ná ete) kom baie algemeen voor tydens swangerskap. Dit is te wyte aan swangerskapshormone wat die spier bo-aan die maag laat verslap, en later ook aan die groeiende baba wat opwaarts druk. Dit is ongemaklik, maar nie skadelik nie.\n\nKlein veranderinge help dikwels: eet kleiner maaltye meer gereeld eerder as groot maaltye, sit regop terwyl jy eet en vir 'n ruk daarna, verminder gekruide, vetterige of kafeïenhoudende dinge, en moenie laat voor slaaptyd eet nie. Sommige mense vind dit gemakliker om met 'n paar kussings effens regop te slaap.\n\nAs dit nie genoeg is nie, kan 'n **apteker** teensuurmiddels voorstel wat veilig is om tydens swangerskap te gebruik: 'n goeie eerste aanloophawe voordat dit 'n groter las word.",
+      "deep": null,
+      "when_to_see_doctor": "- Gaan na jou **huisdokter of vroedvrou** as eenvoudige veranderinge en middels van die apteek nie help nie, of as jy **sukkel om te sluk**, aanhoudend kos opbring, gewig verloor sonder om te probeer, of maagpyn het: dit is die moeite werd om dit te laat nagaan eerder as om dit aan gewone sooibrand toe te skryf.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Swaar maandstondes",
+      "aliases": [
+        "swaar maandstondes",
+        "menorragie",
+        "swaar menstruele bloeding",
+        "baie bloei",
+        "swaar bloeding",
+        "klonte",
+        "bloedklonte maandstonde"
+      ],
+      "glance": "Swaar maandstondes beteken dat jy elke siklus baie bloed verloor: algemeen, maar die moeite werd om te laat nagaan as dit jou raak.",
+      "overview": "Swaar maandstondes (die mediese naam is menorragie) beteken dat jy tydens jou maandstondes baie bloed verloor. Vir sommige mense is swaar bloeding eenvoudig hul normaal, maar as dit jou lewe ontwrig of jou uitgeput laat, loon dit om daarna te laat kyk.\n\nSommige tekens dat maandstondes aan die swaar kant is: jy moet elke 1 tot 2 uur 'n maandverband of tampon vervang, jy gebruik twee soorte produkte saam (soos 'n tampon en 'n maandverband), jy bloei deur na jou klere of beddegoed, jy verloor bloedklonte groter as ongeveer 2,5 cm (omtrent so groot soos 'n Britse 10p-muntstuk), of jou maandstondes duur langer as 7 dae.\n\nOm maand ná maand baie bloed te verloor, kan jou moeg of kortasem laat, want dit kan tot 'n lae ystervlak (bloedarmoede, anemie) lei. Daar is baie moontlike oorsake, van fibroïede of toestande soos endometriose, adenomiose of PCOS, tot sommige medisyne, en dikwels word geen ernstige oorsaak gevind nie. Hoe dit ook al sy, swaar maandstondes kan gewoonlik behandel word, so dit is nie iets waarmee jy net moet saamleef nie.",
+      "deep": null,
+      "when_to_see_doctor": "Gaan na 'n huisdokter as:\n\n- swaar maandstondes jou alledaagse lewe raak\n- jy vir baie ure swaar bloei, of jou maandstondes lank duur\n- jy ook erge menstruasiepyn het, of pyn tydens seks, wanneer jy piepie of wanneer jy 'n stoelgang het\n- jy tussen maandstondes of ná seks bloei\n- jy dikwels moeg of kortasem voel (dit kan 'n teken van 'n lae ystervlak wees)\n\n'n Huisdokter kan na 'n oorsaak soek en met jou deurpraat wat kan help.",
+      "red_flags": "- Kry **dringend** mediese hulp (kontak 'n dokter of 'n **na-uurse diens**, of bel **{{emergency}}** / gaan na die hospitaal se noodafdeling as dit ernstig is) as jy **so swaar bloei dat jy elke uur 'n maandverband of meer heeltemal deurweek, 'n paar uur agtereenvolgens**, of as jy **voel jy gaan flou word, duiselig voel of kortasem is**. Dit kan tekens wees dat jy te veel bloed verloor."
+    },
+    "lh": {
+      "title": "Luteïniserende hormoon (LH)",
+      "aliases": [
+        "lh",
+        "luteïniserende hormoon",
+        "luteiniserende hormoon",
+        "LH-styging",
+        "LH-piek",
+        "ovulasietoets"
+      ],
+      "glance": "LH is die breinhormoon wie se skerp styging in die middel van die siklus die eierstok aanspoor om 'n eiersel vry te stel.",
+      "overview": "LH, luteïniserende hormoon, is die boodskapper wat ovulasie aan die gang sit. Soos FSH word dit gemaak deur 'n klein klier in die brein (die pituïtêre klier), en dit sê vir die eierstok wanneer om 'n eiersel vry te stel.\n\nVir die grootste deel van die eerste helfte van die siklus bly LH laag. Dan, rondom die middel van die siklus, styg dit skerp in wat die LH-styging (LH-piek) genoem word. Hierdie styging is die sein wat die eierstok sy eiersel laat vrystel (ovulasie), gewoonlik 'n dag of so later.\n\nDie styging is 'n kort, goed getimede sein eerder as iets wat jy sou agterkom in hoe jy voel. Omdat dit so kort voor die vrystelling van die eiersel kom, is die tydsberekening van die LH-styging 'n betroubare aanwyser van die vrugbaarste deel van die siklus.",
+      "deep": "LH werk saam met FSH, die hormoon wat die follikels vroeër in die siklus laat groei. Waar FSH die opbou lei, is die LH-styging die keerpunt: vlakke begin ongeveer anderhalf dag voor die vrystelling van die eiersel styg en bereik 'n piek sowat 'n halwe dag daarvoor. Ná die styging beweeg die siklus na sy tweede helfte. Hierdie noue tydsberekening verklaar hoekom LH so 'n nuttige aanwyser is vir enigiemand wat ovulasie dophou, en hoekom dit sentraal staan in hoe vrugbaarheidsbehandelings beplan word.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Luister en emosionele ondersteuning",
+      "aliases": [
+        "hoe om te luister",
+        "emosionele ondersteuning vir maats",
+        "kommunikasie",
+        "daar wees vir haar",
+        "ondersteun my vrou",
+        "ondersteun my meisie"
+      ],
+      "glance": "Meestal het sy nodig om gehoor te word, nie reggemaak te word nie: luister eers, en vra voordat jy raad gee.",
+      "overview": "Wanneer iemand vir wie ons lief is, swaarkry, is die instink om in te spring en dit op te los. Maar dikwels help dit die meeste om werklik gehoor te voel: dat haar gevoelens sin maak en dat sy nie alleen daarmee is nie. Om te vinnig reg te maak, kan oorkom as “jou gevoelens is 'n probleem wat toegemaak moet word”.\n\nGoeie luister is 'n vaardigheid wat enigiemand kan aanleer. Dit gaan meestal oor aandag: sit die foon neer, draai na haar toe, en laat haar klaarpraat. Jy hoef nie met elke punt saam te stem om haar gerespekteer te laat voel nie.",
+      "deep": "Praktiese maniere om daar te wees:\n\n- **Luister om te verstaan, nie om te antwoord nie.** Laat haar praat sonder om in die rede te val of jou verdediging te beplan.\n- **Weerspieël wat sy sê.** “Dit klink regtig stresvol” of “Ek verstaan hoekom dit seergemaak het” werk beter as “moet jou net nie daaroor bekommer nie”.\n- **Vra voordat jy raad gee.** “Wil jy hê ek moet jou help om dit deur te dink, of wil jy net hê ek moet luister?”\n- **Moenie dit persoonlik opneem nie** wanneer 'n moeilike dag nie oor jou gaan nie. Kalmte en bestendigheid is 'n geskenk.\n- **Neem verantwoordelikheid vir jou deel.** As jy iets verkeerd gedoen het, bou 'n opregte verskoning, sonder “maar”, vertroue weer op.\n- **Let op die groter prentjie.** As sy aanhoudend neerslagtig, angstig of nie soos haarself lyk nie, moedig haar saggies aan om ondersteuning te kry en bied aan om haar te help om dit te bereik. Jy is 'n spanmaat, nie 'n terapeut nie.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Luteale fase",
+      "aliases": [
+        "luteale fase",
+        "tweede helfte van die siklus",
+        "voor my maandstonde",
+        "ná ovulasie",
+        "geelliggaamfase"
+      ],
+      "glance": "Die luteale fase is die tweede helfte van die siklus, ná ovulasie, wanneer progesteroon styg.",
+      "overview": "Die luteale fase is die deel van die siklus wat op ovulasie volg en duur totdat jou volgende maandstonde begin. Dit is vernoem na die corpus luteum (geelliggaam): die klein struktuur wat die eierstok uit die leë follikel vorm sodra die eiersel vrygestel is.\n\nIn hierdie fase styg die hormoon progesteroon. Die taak daarvan is om die voering van die uterus (baarmoeder) dik en stabiel te hou, sodat 'n bevrugte eiersel, as een aankom, 'n plek het om in te nestel. Estrogeen bly ook deel van die prentjie en werk saam met progesteroon.\n\nAs geen swangerskap begin nie, breek die corpus luteum af, daal progesteroon en estrogeen, en word die voering nie meer in stand gehou nie, wat jou volgende maandstonde laat begin en 'n nuwe siklus aan die gang sit. Dit is ook die tydperk wanneer sommige mense premenstruele veranderinge in gemoed, slaap of die liggaam opmerk.",
+      "deep": "Die luteale fase is geneig om effens meer bestendig in lengte te wees as die eerste helfte van die siklus, en duur dikwels iewers in die omgewing van ongeveer twee weke, hoewel daar normale variasie van persoon tot persoon bestaan. Omdat die einde daarvan gekoppel is aan die daling in progesteroon, is die koms van 'n maandstonde eintlik die sigbare teken dat hormoonvlakke gedaal het. Om dop te hou hoe jy deur die luteale fase voel, kan jou help om te onderskei tussen wat vir jou 'n bekende patroon is en wat nuut is of die moeite werd is om met 'n klinikus te bespreek.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopouse",
+      "aliases": [
+        "menopouse",
+        "die lewensverandering",
+        "oorgang",
+        "oorgangsjare",
+        "warm gloede",
+        "menopause"
+      ],
+      "glance": "Menopouse is wanneer maandstondes vir goed ophou: 'n natuurlike fase, gewoonlik tussen ongeveer 45 en 55 bereik.",
+      "overview": "Menopouse is die punt wanneer jou maandstondes permanent ophou. Omdat maandstondes eers 'n ruk lank kan kom en gaan, word dit as bereik beskou sodra jy 12 maande agtereenvolgens sonder een was. Dit gebeur gewoonlik tussen ongeveer 45 en 55, hoewel dit vroeër of later kan wees.\n\nDit is 'n natuurlike deel van ouer word, nie 'n siekte nie. Dit gebeur soos die eierstokke hul werking afskaal en die vlak van estrogeen, 'n sleutelhormoon van die siklus, daal. Daardie hormonale verskuiwing sit agter die veranderinge wat baie mense opmerk: warm gloede en nagsweet, veranderinge aan maandstondes in die aanloop, slaapprobleme, skommelinge in gemoed of angs, breinmis, vaginale droogheid, en pyne.\n\nErvarings verskil geweldig: sommige mense gaan maklik daardeur, ander vind dit moeilik, en simptome kan etlike jare duur. Niks daarvan beteken dat iets met jou verkeerd is nie. Ondersteuning en opsies bestaan, en om te verstaan wat gebeur, is 'n goeie eerste stap.",
+      "deep": "Die jare van verandering in die aanloop tot menopouse word perimenopouse genoem; menopouse self is 'n enkele punt in tyd (daardie merk van 12 maande sonder 'n maandstonde), en die tyd daarna word soms postmenopouse genoem. Omdat estrogeen op die lang termyn ook die bene en die hart beïnvloed, gee klinici saam met die daaglikse simptome ook daaraan aandag. 'n Reeks benaderings, van leefstyl tot niehormonale en hormonale behandelings, kan simptome verlig, en wat reg is, hang af van jou gesondheid, geskiedenis en voorkeure: 'n gesprek om met 'n klinikus te voer.",
+      "when_to_see_doctor": "- Gaan na 'n huisdokter as menopousesimptome jou pla of jou daaglikse lewe raak, en jy jou opsies wil deurpraat.\n- Gaan **altyd** na 'n huisdokter as jy **enige vaginale bloeding ná 12 maande sonder 'n maandstonde** het (bloeding ná menopouse). Dit is dikwels niks ernstigs nie, maar dit moet altyd deur 'n dokter nagegaan word.\n- Dit loon ook om te gaan as jy meer eerder as minder bloei as voorheen, of as jou maandstondes verander op 'n manier wat jou bekommer.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Die menstruele siklus",
+      "aliases": [
+        "siklus",
+        "maandelikse siklus",
+        "menstruele siklus",
+        "maandstondesiklus",
+        "hoe lank is my siklus"
+      ],
+      "glance": "Die menstruele siklus is die maandelikse ritme waarvolgens jou liggaam voorberei vir 'n moontlike swangerskap.",
+      "overview": "Die menstruele siklus word getel vanaf die eerste dag van jou maandstonde (dit is dag 1) tot die dag voordat jou volgende maandstonde begin. Dit word aangedryf deur hormone wat elke maand in 'n herhalende patroon styg en daal.\n\n'n Siklus duur dikwels ongeveer 28 dae, maar dit is net 'n gemiddelde. Enige lengte van ongeveer 21 tot 35 dae is normaal, en jou eie lengte kan van maand tot maand effens wissel. Om jou eie patroon te leer ken, is nuttiger as om dit met 'n getal te vergelyk.\n\nOor die siklus beweeg jou liggaam deur 'n paar fases: jou maandstonde, die opbou na die vrystelling van 'n eiersel, die vrystelling self (ovulasie), en die tydperk daarna. Elke fase word gevorm deur hormone, hoofsaaklik estrogeen en progesteroon.",
+      "deep": "Die hele siklus is 'n gesprek tussen die brein en die eierstokke, gedra deur hormone. In die eerste helfte styg estrogeen soos 'n follikel met 'n eiersel in die eierstok ryp word en die voering van die uterus (baarmoeder) dikker word. Rondom die middel van die siklus word 'n eiersel vrygestel. In die tweede helfte help progesteroon om daardie voering gereed te hou ingeval 'n bevrugte eiersel aankom.\n\nAs daar geen swangerskap is nie, daal estrogeen en progesteroon tot lae vlakke, word die voering as jou maandstonde afgewerp, en begin die patroon weer. Omdat hierdie hormone baie stelsels raak, merk jy dalk klein daaglikse veranderinge deur die maand op: dit is die normale ritme van die siklus, nie iets om “reg te maak” nie.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstruele fase (jou maandstonde)",
+      "aliases": [
+        "maandstonde",
+        "menstruasie",
+        "menstruele fase",
+        "bloeding",
+        "periode",
+        "ongesteld",
+        "tyd van die maand"
+      ],
+      "glance": "Jou maandstonde is die paar dae van bloeding waarmee elke siklus begin, wanneer die baarmoedervoering afgewerp word.",
+      "overview": "Die menstruele fase is jou maandstonde: die dae wanneer jy bloei. Dit begin op dag 1 van die siklus, wanneer die vlakke van estrogeen en progesteroon laag genoeg gedaal het dat die voering wat binne-in die uterus (baarmoeder) opgebou is, nie meer in stand gehou word nie en loskom, en die liggaam deur die vagina verlaat.\n\n'n Maandstonde duur gewoonlik ongeveer 2 tot 7 dae, met sowat 5 dae as tipies. Die vloei is dikwels die swaarste in die eerste dag of twee en ligter daarna. Maandstondes begin gewoonlik rondom die ouderdom van 12, hoewel dit ook normaal is om vroeër of later te begin.\n\nWat “normaal” is, verskil baie van persoon tot persoon. Om jou eie maandstondes dop te hou, help jou om raak te sien wat vir jou gewoon is, en dit is baie meer betekenisvol as enige gemiddelde.",
+      "deep": "Die bloeding van 'n maandstonde is die voering van die uterus (die endometrium) wat afgewerp word ná 'n siklus waarin geen swangerskap begin het nie. Dit merk sowel die einde van een siklus as die begin van die volgende, en daarom word dag 1 van jou maandstonde as dag 1 van die hele siklus getel. Soos jou maandstonde klaarmaak, begin estrogeen weer styg en begin die liggaam die voering vir die komende siklus weer opbou.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Miskraam",
+      "aliases": [
+        "miskraam",
+        "swangerskapsverlies",
+        "vroeë swangerskapsverlies",
+        "baba verloor",
+        "swangerskap verloor",
+        "tekens van miskraam"
+      ],
+      "glance": "'n Miskraam is die verlies van 'n swangerskap voor 24 weke: dit kom algemeen voor, en dit is byna nooit iets wat jy veroorsaak het nie.",
+      "overview": "'n Miskraam is die verlies van 'n swangerskap in die eerste 24 weke. Dit kom meer algemeen voor as wat baie mense besef, en een van die belangrikste dinge om te weet, is dat dit byna nooit veroorsaak word deur iets wat jy gedoen of nie gedoen het nie: dit gebeur gewoonlik weens 'n probleem in hoe die swangerskap ontwikkel het, wat buite enigiemand se beheer was.\n\nDie algemeenste tekens is vaginale bloeding, en krampe of pyn laag in jou maag. Bloeding vroeg in die swangerskap beteken nie altyd dat 'n miskraam plaasvind nie (baie mense bloei 'n bietjie en het daarna 'n gesonde swangerskap), maar dit moet altyd deur 'n dokter of vroedvrou nagegaan word.\n\nHoe 'n verlies ook al gebeur, die gevoelens wat daarmee saamkom, is eg en geldig, en rou is 'n normale reaksie. Jy hoef dit nie alleen deur te gaan nie: ondersteuning is beskikbaar, van jou vroedvrou of huisdokter en van liefdadigheidsorganisasies wat spesifiek met swangerskapsverlies help.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontak jou huisdokter, vroedvrou, 'n vroeë-swangerskapseenheid (of 'n na-uurse dokter) as jy **vaginale bloeding of spotting tydens swangerskap** het, selfs al lyk dit lig en voel jy min of geen pyn nie, sodat dit nagegaan kan word.\n- Vra na jou naaste **vroeë-swangerskapseenheid**, wat presies vir hierdie soort situasie bestaan.",
+      "red_flags": "- Bel **{{emergency}} of gaan na die hospitaal se noodafdeling** as jy tydens swangerskap **erge maagpyn, pyn in die punt van jou skouer of swaar bloeding het, of as jy voel jy gaan flou word of baie onwel voel**. Dit kan tekens wees van 'n ernstige probleem, soos 'n ektopiese swangerskap, wat dringende sorg nodig het."
+    },
+    "morning-sickness": {
+      "title": "Oggendnaarheid",
+      "aliases": [
+        "oggendnaarheid",
+        "naarheid swanger",
+        "swangerskapsnaarheid",
+        "opgooi swanger",
+        "braking swanger",
+        "hiperemesis",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "Om naar te voel of op te gooi kom baie algemeen voor vroeg in die swangerskap, en dit verlig gewoonlik teen ongeveer week 16 tot 20.",
+      "overview": "Om naar te voel, of op te gooi, kom baie algemeen voor vroeg in die swangerskap. Ondanks die naam “oggendnaarheid” kan dit op enige tyd van die dag of nag gebeur. By die meeste mense begin dit in die eerste paar weke en bedaar dit teen ongeveer 16 tot 20 weke.\n\nDit is onaangenaam, en by sommige raak dit die daaglikse lewe regtig, maar gewone oggendnaarheid stel jou baba nie aan enige verhoogde risiko bloot nie. Om gereeld klein hoeveelhede te eet, en uit te vind wat vir jou help, kan dit meer draaglik maak; 'n vroedvrou, huisdokter of apteker kan veilige opsies voorstel as jy sukkel.\n\nBy 'n klein aantal mense word die naarheid erg (dit word hyperemesis gravidarum genoem), met 'n werklike risiko van ontwatering (dehidrasie). Daardie vorm het mediese hulp nodig: sien die tekens hieronder.",
+      "deep": null,
+      "when_to_see_doctor": "Kontak jou vroedvrou, huisdokter of 'n na-uurse dokter as jy:\n\n- vir 24 uur glad geen kos of drinkgoed kan binnehou nie (jy gooi alles weer op)\n- baie donker urine het, of vir meer as 8 uur nie piepie nie\n- baie swak of duiselig voel, of voel jy gaan flou word wanneer jy opstaan\n- maagpyn of koors het, of bloed opgooi\n- gewig verloor",
+      "red_flags": "- As jy geen vloeistof kan binnehou nie (jy gooi alles weer op), met baie donker of geen urine, kan dit beteken dat jy ontwater raak (erge swangerskapsnaarheid): **kontak jou vroedvrou, huisdokter of 'n na-uurse dokter dieselfde dag**, want jy het dalk behandeling nodig om te keer dat dit erger word."
+    },
+    "ovulation": {
+      "title": "Ovulasie",
+      "aliases": [
+        "ovulasie",
+        "eiersel vrystel",
+        "vrugbare venster",
+        "wanneer ovuleer ek",
+        "ovuleer",
+        "eisprong"
+      ],
+      "glance": "Ovulasie is wanneer 'n eierstok 'n eiersel vrystel: die vrugbaarste punt van jou siklus.",
+      "overview": "Ovulasie is die oomblik wanneer 'n eierstok 'n ryp eiersel vrystel. Dit is die keerpunt van die siklus: die eerste helfte bou daarna op, en die tweede helfte volg daarop.\n\nIn 'n siklus van ongeveer 28 dae vind ovulasie dikwels rondom dag 14 plaas, maar die tydsberekening wissel. 'n Nuttige manier om daaraan te dink: ovulasie vind gewoonlik iewers tussen 10 en 16 dae voor jou volgende maandstonde begin, plaas. Dit kan moeilik wees om die presiese dag vas te stel.\n\nSodra 'n eiersel vrygestel is, kan dit net vir ongeveer 12 tot 24 uur bevrug word. Sperms kan egter etlike dae in die liggaam oorleef, so die “vrugbare venster” is wyer as 'n enkele dag: omtrent die paar dae voor ovulasie en die dag self.",
+      "deep": "Die vrystelling van die eiersel word ontketen deur 'n kort, skerp styging in hormone rondom die middel van die siklus, ná die opbou van estrogeen in die follikulêre fase. Omdat sperms 'n aantal dae kan leef terwyl die eiersel minder as 'n dag leef, is swangerskap die waarskynlikste ná seks in die dae net voor ovulasie. Ovulasie kan van siklus tot siklus verskuif weens dinge soos stres of siekte, en daarom is dit moeilik om dit presies te voorspel, en is dit meer betroubaar om 'n paar siklusse dop te hou as enige enkele berekening.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Pyn tydens seks",
+      "aliases": [
+        "pyn tydens seks",
+        "pynlike seks",
+        "dispareunie",
+        "seer met seks",
+        "vaginisme",
+        "seks maak seer"
+      ],
+      "glance": "Pyn tydens seks kom algemeen voor en het baie moontlike oorsake. Laat dit altyd deur 'n dokter nagaan: daar bestaan hulp.",
+      "overview": "Pyn tydens seks (soms dispareunie genoem) kom meer algemeen voor as wat baie mense besef, en dit is nooit iets wat jy eenvoudig moet aanvaar nie. Dit kan baie oorsake hê, en om die regte een te vind, is die sleutel tot verligting.\n\nSommige oorsake is fisiek. Vaginale droogheid is 'n algemene een, dikwels gekoppel aan hormone rondom menopouse of aan te min opwinding, en dit kan seks seer of ongemaklik laat voel. Infeksies, soos vaginale sproei (gisinfeksie), kan ook pyn veroorsaak. Nog 'n oorsaak is vaginisme: wanneer die spiere rondom die vagina vanself saamtrek wanneer penetrasie probeer word, wat seks pynlik of onmoontlik kan laat voel. Dit gebeur onwillekeurig, dit is nie “in jou kop” nie, en dit is behandelbaar.\n\nOmdat die oorsaak fisiek of hormonaal kan wees, of verband kan hou met hoe ontspanne of opgewonde jy voel (en dikwels 'n mengsel), is die nuttige stap om dit deur 'n dokter te laat ondersoek eerder as om te raai of net aan te hou verduur.",
+      "deep": null,
+      "when_to_see_doctor": "- Gaan na 'n huisdokter of 'n kliniek vir seksuele gesondheid as seks pynlik is: wat die oorsaak ook al is, dit loon om dit te laat nagaan, en daar bestaan doeltreffende hulp vir die algemene oorsake.\n- Dit kan ongemaklik voel om dit te noem, maar klinici hanteer dit gereeld en is daar om te help, nie om te oordeel nie. Jy kan vra vir 'n vroulike dokter, iemand saamneem, en deurpraat wat 'n ondersoek vir jou gemakliker sal maak.\n- Laat enige bloeding ná seks beslis deur 'n dokter nagaan, en gaan sonder uitstel na 'n dokter as die pyn erg is of as jy ook onwel voel.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Pynverligting tydens kraam",
+      "aliases": [
+        "pynverligting tydens kraam",
+        "epidurale",
+        "epidurale blok",
+        "gas en lug",
+        "Entonox",
+        "kraampynverligting",
+        "geboortebad",
+        "TENS"
+      ],
+      "glance": "Daar bestaan verskeie maniere om kraampyn te verlig: geen keuse is reg of verkeerd nie, en jy kan buigsaam bly.",
+      "overview": "Kraam verskil vir almal, en daar bestaan verskeie maniere om die pyn te hanteer, van eenvoudige gemaksmaatreëls tot mediese opsies. As jy vooraf weet wat beskikbaar is, kan jy meer voorbereid voel.\n\nOpsies wissel van **aktief en regop bly**, asemhaling en ontspanning, masserings en om in **water** te wees ('n bad of geboortebad), tot **'n TENS-masjien**, **gas en lug** (Entonox, wat jy self inasem), **inspuitings** soos petidien, en 'n **epidurale blok** (toegedien deur 'n narkotiseur, wat die pyn van die kraam vollediger verdoof).\n\nDaar bestaan geen “beste” keuse nie: dit hang af van jou, jou kraam en hoe jy op die dag voel. Dit loon om jou voorkeure in 'n **geboorteplan** neer te skryf, terwyl jy 'n oop gemoed hou: baie mense vind dat hulle meer, of minder, pynverligting wil hê as wat hulle verwag het, en dit is heeltemal in orde.",
+      "deep": null,
+      "when_to_see_doctor": "- Jou **vroedvrou** (en, vir 'n epidurale blok, 'n narkotiseur) sal die opsies met jou deurgaan en jou help besluit wat by jou pas, tydens die swangerskap en weer tydens die kraam self. Jy hoef nie alles vooraf te besluit nie.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (polisistiese-ovariumsindroom)",
+      "aliases": [
+        "pcos",
+        "polisistiese-ovariumsindroom",
+        "polisistiese eierstokke",
+        "polisistiese eierstoksindroom",
+        "PKOS",
+        "siste op eierstokke"
+      ],
+      "glance": "PCOS is 'n algemene hormonale toestand wat maandstondes, ovulasie, vel en hare kan raak.",
+      "overview": "PCOS, polisistiese-ovariumsindroom, is 'n algemene toestand wat verband hou met die balans van voortplantingshormone. Ramings dui daarop dat dit ongeveer 1 uit 10 vroue van vrugbare ouderdom raak, en baie mense wat dit het, word nooit gediagnoseer nie.\n\nDit kan op verskillende maniere na vore kom, en geen twee mense is presies dieselfde nie. Algemene kenmerke sluit in maandstondes wat onreëlmatig, skaars of afwesig is; hoër vlakke van hormone wat androgene genoem word, wat tot ekstra haargroei op die gesig of liggaam, aknee, of dunner hare op die kopvel kan lei; en eierstokke wat nie so gereeld soos gewoonlik 'n eiersel vrystel nie, wat dit moeiliker kan maak om swanger te raak. Gewigsveranderinge en kolle donkerder vel kom ook algemeen voor.\n\nDie presiese oorsaak word nie ten volle verstaan nie, en daar bestaan geen genesing nie, maar die simptome kan beheer word, en om te verstaan wat gebeur, is die eerste stap. PCOS is algemeen en hanteerbaar, nie iets om oor skaam te wees nie.",
+      "deep": "Omdat PCOS die liggaam se hormone betrek en hoe dit insulien hanteer, word dit op die langer termyn ook verbind met insulienweerstandigheid en 'n groter kans op tipe 2-diabetes, verhoogde bloeddruk en veranderinge in cholesterol, en daarom hou klinici hierdie dinge gewoonlik mettertyd dop. Ongeveer die helfte van mense met PCOS kan teen hul veertigs diabetes of prediabetes ontwikkel, so gereelde ondersoeke maak saak. 'n Diagnose is nie iets om self te bepaal nie: 'n klinikus kyk na die algehele prentjie (jou geskiedenis en maandstondes, soms bloedtoetse vir hormone, en soms 'n sonarondersoek van die eierstokke) en sluit ander oorsake uit voordat PCOS vasgestel word.",
+      "when_to_see_doctor": "Dit loon om 'n huisdokter te sien as jy dinge opmerk wat by die prentjie hierbo pas, veral as dit raak hoe jy van dag tot dag voel:\n\n- maandstondes wat onreëlmatig of baie skaars is, of opgehou het\n- opvallend meer haargroei op die gesig of liggaam, aanhoudende aknee, of dunner wordende hare op die kopvel\n- probleme om swanger te raak nadat jy 'n ruk lank probeer het\n- gewigstoename wat moeilik is om af te skud, saam met ander simptome\n\n'n Huisdokter kan ondersoek wat aan die gang is, bevestig of dit PCOS of iets anders is, en 'n plan met jou deurpraat wat by jou pas. PCOS word ook verbind met neerslagtigheid en angs: as jy sukkel met hoe jy voel, sê dit ook vir jou huisdokter; dit vorm deel van die prentjie, en ondersteuning is beskikbaar.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopouse",
+      "aliases": [
+        "perimenopouse",
+        "menopousale oorgang",
+        "die lewensverandering",
+        "oorgangsjare",
+        "voor die menopouse",
+        "perimenopause"
+      ],
+      "glance": "Perimenopouse is die oorgang in die aanloop tot menopouse, wanneer maandstondes en hormone begin verander.",
+      "overview": "Perimenopouse is die tydperk in die aanloop tot menopouse: die jare “rondom die menopouse”. Dit begin wanneer jy die eerste keer die veranderinge opmerk en duur tot 'n volle jaar ná jou laaste maandstonde, op watter punt jy menopouse bereik het. Dit kan etlike jare duur.\n\nGedurende hierdie tyd maak die eierstokke geleidelik minder estrogeen, en vlakke styg en daal minder voorspelbaar as voorheen. Die algemeenste vroeë teken is dat maandstondes verander: hulle kom nader aan mekaar of verder uit mekaar, ligter of swaarder. Baie van die simptome wat met menopouse verbind word, soos warm gloede, slaapveranderinge of gemoedskommelinge, kan hier begin terwyl jy nog maandstondes het.\n\nOmdat dit geleidelik gebeur en so baie wissel, kan perimenopouse verwarrend wees: die veranderinge kom nie almal gelyk of by almal in dieselfde volgorde nie. Om te weet dat hierdie fase 'n naam het, en dat dit 'n normale oorgang is, kan dit makliker maak om sin daarvan te maak.",
+      "deep": null,
+      "when_to_see_doctor": "- Gaan na 'n huisdokter as perimenopousesimptome jou daaglikse lewe raak en jy wil deurpraat wat kan help.\n- Dit loon om dit deur 'n dokter te laat nagaan as jou maandstondes baie swaar word, of as jy tussen maandstondes of ná seks bloei, sodat die oorsaak gevind kan word.\n- Onthou dat swangerskap steeds tydens perimenopouse kan gebeur, so dit loon om voorbehoeding met 'n klinikus te bespreek as dit vir jou van toepassing is.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Menstruasiepyn",
+      "aliases": [
+        "menstruasiepyn",
+        "maandstondepyn",
+        "krampe",
+        "menstruele krampe",
+        "dismenorree",
+        "pynlike maandstondes",
+        "maagkrampe maandstonde"
+      ],
+      "glance": "Menstruasiepyn is krampe in jou onderbuik rondom jou maandstonde: algemeen, en dikwels 'n normale deel van die siklus.",
+      "overview": "Menstruasiepyn is die krampende, seer gevoel in jou onderbuik wat baie mense rondom hul maandstonde kry. Dit gebeur wanneer die spierwand van die baarmoeder saamtrek, en dit is dikwels 'n normale deel van die menstruele siklus. Die mediese naam daarvoor is dismenorree.\n\nDit begin gewoonlik aan die begin van jou maandstonde, of net voor dit, en duur gewoonlik tot ongeveer drie dae. By sommige voel dit soos 'n ligte swaarheid; by ander is die krampe sterker. Pyn kan ook deur jou lewe en van siklus tot siklus verander.\n\nMenstruasiepyn wat hierdie bekende patroon volg, kom algemeen voor en is gewoonlik hanteerbaar. Baie mense gebruik alledaagse gemaksmaatreëls en eenvoudige pynstillers, en 'n apteker of huisdokter kan raad gee oor wat vir jou kan werk. Wat saak maak, is om jou eie gewone patroon te ken, sodat jy kan agterkom as iets verander.",
+      "deep": null,
+      "when_to_see_doctor": "Dit loon om met 'n huisdokter te praat as:\n\n- jou maandstondes pynliker, swaarder of meer onreëlmatig as gewoonlik word\n- die pyn jou keer om alledaagse dinge soos werk of skool te doen\n- gewone pynstillers nie help nie\n- jy pyn tydens seks het, of wanneer jy piepie of 'n stoelgang het\n- jy tussen maandstondes bloei\n- jou pyn op ander tye kom as net voor of tydens jou maandstonde\n- jy bloedklonte verloor wat groter as 'n muntstuk is (ongeveer so groot soos 'n Amerikaanse kwartdollar)\n- jy ook 'n geswelde maag, minder eetlus of onverklaarbare gewigsverlies opmerk\n\nDit beteken nie dat iets verkeerd is nie, maar dit loon om dit te laat nagaan: menstruasiepyn wat nuut of anders is, of moeilik om te hanteer, kan oorsake hê waarmee 'n klinikus kan help.",
+      "red_flags": "- Vra vir 'n **dringende** afspraak by 'n huisdokter, of kontak 'n **na-uurse dokter**, as jou menstruasie- of bekkenpyn **erg voel, of erger as gewoonlik, en pynstillers nie gehelp het nie.**"
+    },
+    "planning-pregnancy": {
+      "title": "Beplanning vir 'n swangerskap",
+      "aliases": [
+        "swangerskap beplan",
+        "voor bevrugting",
+        "probeer swanger raak",
+        "voor swangerskap",
+        "gereed maak vir swangerskap",
+        "wil swanger raak"
+      ],
+      "glance": "'n Paar eenvoudige stappe voordat jy probeer (foliensuur, ophou rook, geen alkohol) gee 'n swangerskap die beste begin.",
+      "overview": "As jy daaraan dink om vir 'n baba te probeer, kan 'n handjievol stappe vooraf 'n swangerskap 'n gesonder begin gee, en baie daarvan werk al voordat jy swanger raak.\n\nDie belangrikstes: begin **foliensuur** (en vitamien D) neem, **hou op rook** en **vermy alkohol**. Om na 'n gesonde gewig te streef, help ook, want as jy beduidend ondergewig of oorgewig is, kan dit moeiliker wees om swanger te raak. Dit loon ook om seker te maak dat jou **MMR-inenting** op datum is, want sommige infeksies kan 'n swangerskap raak.\n\nNiks hiervan hoef perfek of stresvol te wees nie. Klein, sagte veranderinge vooraf is wat saak maak, en om 'n bietjie van 'n voorsprong te kry, is een van die mooiste dinge wat jy vir 'n toekomstige swangerskap kan doen.",
+      "deep": null,
+      "when_to_see_doctor": "- As jy 'n **langdurige gesondheidstoestand** het of **gereeld medisyne** neem, gaan na jou huisdokter voordat jy begin probeer: sommige toestande en medisyne vra vooraf beplanning. **Moenie enige voorgeskrewe medisyne staak** sonder om eers met jou dokter te praat nie.\n- 'n Huisdokter kan ook raad gee oor foliensuur (insluitend of jy 'n hoër dosis nodig het) en oor hoe om voor swangerskap 'n gesonde gewig te bereik.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Nageboortelike depressie",
+      "aliases": [
+        "nageboortelike depressie",
+        "postpartum depressie",
+        "postnatale depressie",
+        "PND",
+        "baba-blues",
+        "depressie ná geboorte",
+        "hartseer ná baba"
+      ],
+      "glance": "Nageboortelike depressie: 'n algemene, behandelbare neerslagtigheid ná die geboorte. Dit is nie jou skuld nie, en hulp bestaan.",
+      "overview": "Om in die eerste week of twee ná die geboorte neerslagtig, angstig of geïrriteerd te voel, kom baie algemeen voor: dit word dikwels die “baba-blues” genoem, en dit gaan gewoonlik binne ongeveer twee weke vanself oor.\n\nNageboortelike depressie is anders: 'n neerslagtigheid wat dieper gaan of langer hou. Dit is 'n algemene toestand, dit kan enige tyd in die eerste jaar begin, en dit kan ook vaders en maats raak. Tekens sluit in 'n aanhoudende neerslagtigheid, dat jy dit moeilik vind om enigiets te geniet, slaapprobleme selfs wanneer jou baba slaap, en soms moeilike gevoelens oor die band met jou baba.\n\nAs jy dit het, beteken dit **nie** dat jy 'n slegte ouer is of dat jy nie vir jou baba lief is nie: dit is 'n siekte, nie 'n mislukking nie, en dit reageer goed op ondersteuning en behandeling. Om vroeg uit te reik, is 'n sterk, liefdevolle ding om te doen, vir jou en jou baba.",
+      "deep": null,
+      "when_to_see_doctor": "- Praat met jou **huisdokter, vroedvrou of gesondheidsbesoeker (kliniekverpleegster)** as jy dink jy het dalk nageboortelike depressie, of as die “baba-blues” ná twee weke nog nie opgeklaar het nie. Hulle het dit al baie keer gesien en kan jou help om die regte ondersteuning te vind.",
+      "red_flags": "- As jy **gedagtes het om jouself of jou baba seer te maak**, of dat jou gesin beter af sou wees sonder jou, kry **onmiddellik** hulp: bel **{{emergency}}** of gaan na die hospitaal se noodafdeling, of bel 'n krisishulplyn. Hierdie gedagtes kan deel van die siekte wees, hulle bepaal nie wie jy is nie, en dringende hulp is beskikbaar."
+    },
+    "pre-eclampsia": {
+      "title": "Pre-eklampsie",
+      "aliases": [
+        "pre-eklampsie",
+        "preeklampsie",
+        "hoë bloeddruk swanger",
+        "toksemie",
+        "swangerskapvergiftiging",
+        "bloeddruk tydens swangerskap"
+      ],
+      "glance": "Pre-eklampsie is verhoogde bloeddruk tydens swangerskap: aanvanklik dikwels sonder simptome, en daarom maak voorgeboorte-ondersoeke saak.",
+      "overview": "Pre-eklampsie is 'n swangerskapstoestand wat hoofsaaklik as hoë bloeddruk na vore kom, saam met proteïen in die urine. Dit verskyn gewoonlik vanaf ongeveer 20 weke, en soms ná die geboorte.\n\nEen van die belangrikste dinge om te weet, is dat dit vroeg dikwels **glad geen simptome** veroorsaak nie: jy kan heeltemal goed voel. Dit is presies hoekom jou vroedvrou by elke gereelde voorgeboorte-afspraak jou bloeddruk meet en jou urine toets: dié ondersoeke is hoe dit gewoonlik opgespoor word voordat jy enigiets sou agterkom.\n\nWanneer simptome wel kom, loon dit om hulle te ken, want pre-eklampsie kan ernstig word vir sowel jou as jou baba. Dit kan goed behandel word wanneer dit betyds gevind word, en om al jou voorgeboorte-afsprake na te kom, is die heel beste manier om dit vroeg op te spoor.",
+      "deep": null,
+      "when_to_see_doctor": "- Kom al jou **gereelde voorgeboorte-afsprake** na: die bloeddruk- en urinetoetse is hoe pre-eklampsie gewoonlik gevind word voordat simptome begin.",
+      "red_flags": "Kry **onmiddellik** mediese hulp (kontak jou kraamafdeling of 'n **na-uurse dokter**) as jy enige van die volgende het (bel **{{emergency}}** as jy ernstig siek is, byvoorbeeld by 'n toeval of stuiptrekkings):\n\n- 'n **erge hoofpyn** wat nie met gewone pynstillers verlig nie\n- **probleme met jou sig**: dowwe sig of flitsende ligte\n- **skielike swelling** van jou gesig, hande of voete\n- **pyn net onder jou ribbes**\n- as jy **opgooi**, of skielik baie siek voel"
+    },
+    "pregnancy": {
+      "title": "Swangerskap",
+      "aliases": [
+        "swangerskap",
+        "swanger wees",
+        "verwag",
+        "gestasie",
+        "trimesters",
+        "verwagte datum",
+        "hoeveel weke swanger",
+        "bevallingsdatum"
+      ],
+      "glance": "'n Swangerskap duur gewoonlik ongeveer 40 weke, getel vanaf die eerste dag van jou laaste maandstonde.",
+      "overview": "Swangerskap is die tyd wanneer jou liggaam 'n baba laat groei en dra. Dit duur gewoonlik ongeveer 40 weke (enige tyd van 37 tot 42 weke word as voltyds en normaal beskou) en, miskien verrassend, word dit getel vanaf die eerste dag van jou **laaste maandstonde**, nie vanaf bevrugting nie. Dit is eenvoudig die standaardmanier waarop datums bereken word.\n\nJou **verwagte datum** is 'n skatting, nie 'n sperdatum nie: babas daag gerus 'n bietjie vroeër of later op. Vroeg in die swangerskap kan 'n “dateringsonar” (gewoonlik rondom 12 weke) jou baba meet en 'n meer akkurate datum gee, wat soms die oorspronklike skatting verskuif.\n\nDaar word dikwels van swangerskap in drie fases, of **trimesters**, gepraat, elk met sy eie veranderinge. Deur die hele tyd word jy versorg met gereelde voorgeboorte-ondersoeke deur 'n vroedvrou (en 'n dokter indien nodig): die sorg wat help om jou en jou baba gesond te hou.",
+      "deep": "Omdat datums vanaf die laaste maandstonde getel word, word jy as ongeveer vier weke swanger beskou teen die tyd dat 'n maandstonde uitbly. Die telling van swangerskapsweke is hoe sorg georganiseer word: sonars, siftingstoetse en ondersoeke word almal op bepaalde weke aangebied. As jou maandstondes onreëlmatig is of jy onseker is oor datums, bepaal die dateringsonar die tydlyn. Hierdie artikel is die kaart van die hele reis; die spesifieke onderwerpe (tekens van swangerskap, voorgeboortesorg, gesond bly, en kraam) het elk hul eie.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Swangerskaptoets",
+      "aliases": [
+        "swangerskaptoets",
+        "tuis-swangerskaptoets",
+        "hCG-toets",
+        "toets vir swangerskap",
+        "my maandstonde is laat",
+        "positiewe toets"
+      ],
+      "glance": "'n Tuis-swangerskaptoets toets jou urine vir die swangerskapshormoon hCG: die betroubaarste vanaf die eerste dag van 'n uitgebleefde maandstonde.",
+      "overview": "'n Tuis-swangerskaptoets werk deur 'n hormoon genaamd hCG (menslike choriongonadotropien) in jou urine te bespeur. Jou liggaam begin dit 'n paar dae nadat 'n bevrugte eiersel innestel, maak, en die hoeveelheid styg vinnig vroeg in die swangerskap.\n\nDie toets is die betroubaarste vanaf die **eerste dag van 'n uitgebleefde maandstonde**, ongeveer twee weke ná bevrugting. As jou siklus onreëlmatig is of jy nie seker is wanneer jou maandstonde moet kom nie, gee dit 'n meer betroubare uitslag as jy wag tot minstens 21 dae ná onbeskermde seks. Jy hoef nie die eerste ding in die oggend te toets nie; enige tyd van die dag is in orde.\n\n'n **Positiewe** uitslag is byna seker korrek: baie min toetse wys positief wanneer jy nie swanger is nie. 'n **Negatiewe** uitslag is effens minder seker: as jou maandstonde steeds nie kom nie en jy dink jy is dalk swanger, wag 'n paar dae en toets weer.",
+      "deep": null,
+      "when_to_see_doctor": "- As jy 'n positiewe uitslag kry, kontak 'n **vroedvrou of huisdokter** om met voorgeboortesorg te begin.\n- As toetse negatief is maar jou maandstonde uitbly en jy swanger (of onwel) voel, gaan na 'n huisdokter om uit te vind wat aan die gang is.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Voortydige kraam",
+      "aliases": [
+        "voortydige kraam",
+        "premature kraam",
+        "vroeggeboorte",
+        "premature geboorte",
+        "vroeë kraam",
+        "water breek vroeg",
+        "prematuur"
+      ],
+      "glance": "Voortydige kraam is kraam voor 37 weke: tree vinnig op, want vroeë sorg maak 'n werklike verskil.",
+      "overview": "Voortydige (of premature) kraam is kraam wat voor die 37ste week van swangerskap begin. Dit gebeur by ongeveer 8 uit 100 geboortes.\n\nBabas wat vroeg gebore word, is kwesbaarder, maar baie van hulle doen daarna goed, veral met die gespesialiseerde sorg wat neonatale eenhede bied. Die sleutel is om vinnig op te tree as jy dink dit begin dalk, sodat jy ondersoek kan word en, indien nodig, behandeling kan kry wat help om die baba te beskerm.\n\nDie tekens is soortgelyk aan kraam in enige stadium, maar voor 37 weke moet jy nooit afwag of dit oorgaan nie: dit is altyd 'n rede om dadelik kontak te maak.",
+      "deep": null,
+      "when_to_see_doctor": "- Bel jou **vroedvrou of kraamafdeling** enige tyd **voor 37 weke** as jy onseker of bekommerd voel: jy mag altyd bel en dit laat nagaan.",
+      "red_flags": "Kontak **onmiddellik jou vroedvrou of kraamafdeling**, bedags of snags, as jy **voor 37 weke** enige van die volgende het:\n\n- gereelde **kontraksies of stywe trekkings**, of pyne soos menstruasiepyn\n- 'n **stroom of gesypel vloeistof** uit jou vagina (jou water wat breek)\n- **rugpyn** wat vir jou ongewoon voel, of 'n gevoel van druk laag af in jou bekken"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (premenstruele sindroom)",
+      "aliases": [
+        "pms",
+        "premenstruele sindroom",
+        "premenstruele spanning",
+        "pmt",
+        "pmdd",
+        "premenstruele disforiese versteuring",
+        "humeurig voor maandstonde"
+      ],
+      "glance": "PMS is die mengsel van fisiese en emosionele veranderinge wat baie mense in die week of twee voor 'n maandstonde opmerk.",
+      "overview": "PMS, premenstruele sindroom, is die naam vir die veranderinge wat baie mense in die dae of die paar weke voor hul maandstonde voel. Dit kan enigiemand raak wat maandstondes het, en dit verlig gewoonlik binne 'n paar dae nadat die maandstonde begin.\n\nDie veranderinge kom in baie vorme. Fisiek merk jy dalk opgeblasenheid, seer of gevoelige borste, krampe, hoofpyn, of dat jy moeër voel. Emosioneel kan daar gemoedskommelinge, prikkelbaarheid, angs of neerslagtigheid wees. Drange na sekere kos en veranderinge in slaap kom ook algemeen voor. Nie almal kry PMS nie, en dié wat dit kry, sal nie elke simptoom kry nie: jou eie patroon is wat saak maak.\n\nPMS is 'n normale, erkende deel van baie mense se siklus, gekoppel aan die natuurlike hormonale verskuiwings van die tweede helfte. Om op te let hoe dit by jou na vore kom, van siklus tot siklus, kan dit makliker maak om daarom te beplan, en om raak te sien as dit ooit verander.",
+      "deep": null,
+      "when_to_see_doctor": "Dit loon om met 'n huisdokter te praat as:\n\n- jou simptome jou daaglikse lewe raak: werk, studie, verhoudings\n- alledaagse veranderinge aan jou roetine nie gehelp het nie\n- jou neerslagtigheid, angs of prikkelbaarheid erg voel\n\n'n Klinikus kan deurpraat wat kan help. 'n Meer intense vorm, genaamd premenstruele disforiese versteuring (PMDD), kan baie sterker gemoedsimptome veroorsaak, en daar is ondersteuning daarvoor beskikbaar.",
+      "red_flags": "- As jy simptome van PMDD het en **selfmoordgedagtes het, of voel dat jy in gevaar is om jouself seer te maak**, kry dadelik hulp: **bel {{emergency}} of gaan na die hospitaal se noodafdeling.** Moenie self bestuur nie: vra iemand om jou te neem, of vra vir 'n ambulans. Jy verdien ondersteuning, en hulp is beskikbaar."
+    },
+    "progesterone": {
+      "title": "Progesteroon",
+      "aliases": [
+        "progesteroon",
+        "progesterone",
+        "progesteroonvlak",
+        "hormoon ná ovulasie"
+      ],
+      "glance": "Progesteroon is die hormoon van die siklus se tweede helfte, wat die baarmoedervoering ná ovulasie voorberei.",
+      "overview": "Progesteroon is een van die hoofhormone agter die menstruele siklus, en dit neem die leiding in die tweede helfte, nadat 'n eiersel by ovulasie vrygestel is.\n\nDie hoofrol daarvan is om die voering van die uterus (baarmoeder) dik en gereed te hou, sodat 'n bevrugte eiersel, as een aankom, kan innestel en 'n swangerskap kan begin. Só werk progesteroon as vennoot van estrogeen, wat vroeër in die siklus 'n groot deel van die opbou gedoen het.\n\nAs geen swangerskap begin nie, daal progesteroonvlakke. Daardie daling laat die voering toe om as jou volgende maandstonde afgewerp te word. Die styging en daling van progesteroon oor die tweede helfte van die siklus is 'n normale, verwagte ritme.",
+      "deep": "Progesteroon word hoofsaaklik deur die corpus luteum (geelliggaam) gemaak: die struktuur wat die eierstok uit die follikel vorm nadat dit sy eiersel vrygestel het. Daarom styg progesteroon spesifiek in die luteale fase (ná ovulasie). Wanneer die corpus luteum afbreek, daal progesteroon en estrogeen albei, wat die begin van 'n nuwe siklus aandui. Die natuurlike verskuiwings daarvan is deels hoekom sommige mense premenstruele veranderinge in die dae voor 'n maandstonde opmerk.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Die pil met net progestogeen (minipil)",
+      "aliases": [
+        "pil met net progestogeen",
+        "minipil",
+        "POP",
+        "progesteroon-alleen pil",
+        "desogestrelpil",
+        "mini-pil"
+      ],
+      "glance": "Die minipil is 'n daaglikse pil met een hormoon wat servikale slym dikker maak om sperms te keer.",
+      "overview": "Die pil met net progestogeen, dikwels die minipil genoem, is 'n daaglikse tablet wat net een hormoon bevat, 'n progestogeen. Dit is 'n opsie vir mense wat nie estrogeen kan of wil neem nie.\n\nDie hoofwerking daarvan is om die slym by die baarmoedermond dikker te maak, sodat sperms moeiliker by 'n eiersel uitkom. Een algemene soort, die desogestrelpil, keer ook dat die eierstokke 'n eiersel vrystel (ovulasie).\n\nAs dit korrek geneem word, is dit meer as 99% doeltreffend; met tipiese alledaagse gebruik is dit ongeveer 91%. Soos by ander pille maak tydsberekening saak, en dit beskerm nie teen SOI's nie.",
+      "deep": "Die minipil verskil van die gekombineerde pil deurdat dit geen estrogeen bevat nie, wat verander vir wie dit geskik kan wees: iets wat 'n klinikus oorweeg wanneer dit voorgeskryf word. Sommige soorte moet binne 'n redelik noue daaglikse tydvenster geneem word om doeltreffend te bly. Hierdie artikel dek wat dit is en hoe dit werk; hoe om dit te neem en of dit vir jou reg is, is sake vir 'n huisdokter, verpleegster of apteker.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "'n Mishandelende verhouding herken",
+      "aliases": [
+        "mishandeling herken",
+        "mishandelende verhouding",
+        "gesinsgeweld",
+        "huishoudelike geweld",
+        "geweld deur 'n maat",
+        "tekens van mishandeling",
+        "word ek mishandel"
+      ],
+      "glance": "Mishandeling kan fisiek, seksueel, emosioneel of beherend wees, en dit is nooit die skuld van die persoon wat dit beleef nie.",
+      "overview": "Mishandeling in 'n verhouding is nie net fisiek nie. Dit kan verskeie vorme aanneem, dikwels saam: fisiese skade, seksuele dwang, emosionele of sielkundige skade, en beherende gedrag, soos 'n maat wat besluit waarheen jy gaan, wie jy sien of wat jy mag doen. Enigeen hiervan kan mishandeling wees, selfs wanneer daar geen sigbare besering is nie.\n\nDit kom meer algemeen voor as wat baie mense besef. Wêreldwyd beleef ongeveer 1 uit 3 vroue in hul leeftyd fisiese of seksuele geweld, meestal deur 'n maat; die prentjie in Italië is soortgelyk. As dit deel van jou lewe is, is jy dus nie alleen nie, en dit is nie iets wat jy veroorsaak het nie.\n\nDit kan moeilik wees om dit te benoem: mishandeling kom dikwels gemeng met goeie tye, verskonings of beloftes om te verander, en dit kan so stadig opbou dat dit normaal voel. Om jou eie gevoel te vertrou dat iets verkeerd is, is 'n geldige rede om uit te reik. Jy hoef nie seker te wees nie, of te wag dat dit “erg genoeg” word, om met iemand te praat.",
+      "deep": "Onder die verskillende vorme volg mishandeling gewoonlik 'n patroon waarin een persoon mag en beheer oor 'n ander probeer kry, en dit kan mettertyd vererger. Dit eis 'n werklike tol van gesondheid: dit word verbind met angs, depressie, slaapprobleme en langdurige fisiese gevolge. Niks daarvan beteken dat jy swak is of die skuld dra nie; dit beteken dat wat jy beleef skadelik is, en dat ondersteuning bestaan om jou te help om dit veilig en op jou eie tempo deur te dink.",
+      "when_to_see_doctor": "- Jy kan vertroulik met iemand praat wanneer jy ook al gereed voel: 'n huisdokter of verpleegster, 'n sentrum teen geweld, of 'n hulplyn (in Italië **1522**, gratis en op enige tyd). Jy het nie eers bewys, 'n plan of 'n besluit nodig nie; hulle is daar om te luister en jou te help om jou opsies te verstaan.\n- 'n Gesondheidswerker kan ook enige beserings behandel en jou diskreet met gespesialiseerde ondersteuning in verbinding stel.",
+      "red_flags": "- As jy in **onmiddellike gevaar** verkeer, kontak nou die nooddienste: **112** in die EU (insluitend Italië), **999** in die VK, **911** in die VSA en Kanada.\n- In Italië is **1522**, die gratis nasionale hulplyn teen geweld en agtervolging, 24 uur per dag anoniem beskikbaar, per telefoon of klets, in verskeie tale."
+    },
+    "respect-not-control": {
+      "title": "Respek, nie beheer nie",
+      "aliases": [
+        "beherende gedrag",
+        "dwingende beheer",
+        "gesonde verhouding",
+        "waarskuwingstekens",
+        "waar om hulp te kry",
+        "mishandeling",
+        "jaloesie"
+      ],
+      "glance": "Liefde word gebou op respek en vryheid: beheer, jaloesie en druk beteken nie liefde nie, en hulp bestaan.",
+      "overview": "'n Gesonde verhouding berus op respek, vertroue, gelykheid en vryheid: twee mense wat elk hul eie vriendskappe, keuses en ruimte behou. Beheer is die teenoorgestelde. Dit skuil dikwels agter woorde soos liefde of jaloesie (“Ek kyk na jou foon omdat ek omgee”, “Ek wil nie hê jy moet hulle sien nie, want ek is lief vir jou”), maar die uitwerking daarvan is om haar wêreld en haar vryheid kleiner te maak.\n\nBeheer begin selde met geweld. Dit begin gewoonlik klein ('n stukkie kritiek, 'n grens wat oorskry word, 'n “grap” wat seermaak) en groei. Om dit vroeg te benoem, maak saak, want dwingende beheer is self 'n vorm van mishandeling en 'n waarskuwingsteken van erger. Dit gaan nie oor skuldgevoel nie; dit gaan oor eerlikheid en verandering.",
+      "deep": "**As jy sommige hiervan in jouself herken, is daardie bewustheid 'n beginpunt, nie 'n lewenslange vonnis nie.**\nMense kan met werklike moeite en die regte hulp verander. Om uit te reik na 'n spesiale program vir mans wat wil ophou om beherend of gewelddadig te wees, is 'n teken van krag, nie swakheid nie. Praat met 'n professionele persoon, 'n dokter, of 'n diens vir gedragsverandering by mans.\n\nAs **sy** die een in gevaar is, of as jy oor iemand bekommerd is, moedig haar aan en ondersteun haar om hulp te kry, op haar voorwaardes, nooit deur oor te neem nie.\n\n**Waar om hulp te kry**\n- In 'n noodgeval, of as enigiemand in onmiddellike gevaar verkeer, bel jou plaaslike noodnommer (**112** in Italië en 'n groot deel van Europa; **911** in die VSA).\n- **Italië: 1522**: die nasionale hulplyn teen geweld en agtervolging. Gratis, 24/7, anoniem en veeltalig, bestuur deur die Departement vir Gelyke Geleenthede. Dit verwys mense ook na plaaslike sentrums teen geweld (centri antiviolenza).\n- Sentrums teen geweld en gedragsveranderingsprogramme vir mans (in Italië “centri per uomini autori di violenza”) bied vertroulike ondersteuning om te verander.",
+      "when_to_see_doctor": null,
+      "red_flags": "Waarskuwingstekens van beherende of mishandelende gedrag, wat die moeite werd is om ernstig op te neem, in jouself of in 'n verhouding:\n\n- **Dophou of isoleer**: haar foon nagaan, haar ligging volg, of haar van vriende en familie afsny.\n- **Beheer oor keuses**: geld, wat sy aantrek, waarheen sy gaan, wie sy sien.\n- **Jaloesie wat as liefde voorgehou word**, voortdurende beskuldigings, of die behoefte om te alle tye te weet waar sy is.\n- **Neerhalende opmerkings, blaam, of om haar bang te laat voel**, skuldig te laat voel, of te laat voel asof sy “op eierdoppe loop”.\n- **Druk of dreigemente** oor seks, uitmaak, of selfbeskadiging om haar te laat toegee.\n- **Enige fisiese geweld, intimidasie of vrees.** As dit teenwoordig is, is dit mishandeling: kry die hulp hierbo. Daar bestaan nooit 'n verskoning nie, en dit is nooit haar skuld nie."
+    },
+    "safety-plan": {
+      "title": "'n Veiligheidsplan maak",
+      "aliases": [
+        "veiligheidsplan",
+        "veilig bly",
+        "veiligheid",
+        "veiligheidsbeplanning",
+        "veilig weggaan",
+        "hoe om veilig weg te gaan"
+      ],
+      "glance": "'n Veiligheidsplan bestaan uit 'n paar praktiese stappe om jou te help om veiliger te bly, en opgeleide dienste kan jou help om een te maak.",
+      "overview": "'n Veiligheidsplan beteken eenvoudig om vooruit te dink oor hoe om jouself (en enige kinders) veiliger te hou. Dit is nie 'n besluit om weg te gaan of te bly nie: dit gaan daaroor om 'n bietjie beter voorbereid te wees, wat jy ook al kies.\n\nVir sommige mense help dit om stilletjies 'n paar dinge in plek te hê: 'n vertroude persoon wat weet wat aan die gang is, belangrike dokumente en nommers waar jy dit kan bykom, 'n klein sakkie met noodsaaklike goed, 'n idee van die veiligste maniere uit die huis, of 'n woord of teken wat vir iemand sê dat jy hulp nodig het. Wat sin maak, hang heeltemal van jou eie situasie af.\n\nJy hoef dit nie alleen uit te werk nie, en dit is dikwels veiliger om dit nie alleen te doen nie. Dienste teen geweld het ondervinding daarvan om veiligheidsplanne saam met mense te maak, vertroulik en gratis, ook vir die tyd rondom die weggaan, wat 'n hoërrisiko-oomblik kan wees en die moeite werd is om met ondersteuning te beplan eerder as haastig.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontak 'n sentrum teen geweld of 'n hulplyn (in Italië **1522**) om 'n plan te maak wat by jou situasie pas: hulle doen dit elke dag, vertroulik, en kan help met praktiese, regs- en emosionele stappe.\n- As jy enige rekord hou van wat gebeur, bêre dit iewers privaat en veilig.",
+      "red_flags": "- As jy in **onmiddellike gevaar** verkeer, kontak nou die nooddienste: **112** in die EU (insluitend Italië), **999** in die VK, **911** in die VSA en Kanada.\n- In Italië kan **1522** (gratis, 24 uur per dag, anoniem, veeltalig) per telefoon of klets help, ook met dringende veiligheidsbeplanning."
+    },
+    "sex-during-your-period": {
+      "title": "Seks tydens jou maandstonde",
+      "aliases": [
+        "seks tydens maandstonde",
+        "seks op jou maandstonde",
+        "seks tydens menstruasie",
+        "kan ek swanger raak op my maandstonde",
+        "swanger tydens maandstonde",
+        "seks met periode",
+        "kan ek swanger word tydens my maandstonde"
+      ],
+      "glance": "Seks tydens jou maandstonde is in orde as julle albei dit wil hê, maar jy kan steeds swanger raak of 'n SOI oordra.",
+      "overview": "Om seks tydens jou maandstonde te hê, is 'n persoonlike keuse. As julle albei wil en julle albei gemaklik voel, is dit oukei, en daar is niks verkeerd of ongewoon daaraan nie. Sommige mense voel in hierdie tyd meer sensitief of is eenvoudig nie lus nie, terwyl ander dit geniet. Om na jou liggaam te luister en openlik met jou maat te praat, is wat die meeste saak maak.\n\nWat 'n maandstonde nie doen nie, is om as voorbehoeding te werk. Die kans om swanger te raak, is laer as rondom ovulasie, maar dit is nie nul nie. Sperms kan tot 7 dae ná seks in die liggaam oorleef, so as jy vroeg ovuleer, wat meer waarskynlik is met 'n korter siklus, kan sperms van seks tydens of net ná jou maandstonde steeds 'n eiersel ontmoet. As jy nie swanger wil raak nie, maak jou gewone voorbehoeding op hierdie dae steeds saak.\n\n'n Maandstonde beskerm ook nie teen seksueel oordraagbare infeksies (SOI's) nie. Infeksies kan tydens seks sonder 'n kondoom tussen maats oorgedra word, en die kieme wat dit veroorsaak, kan in bloed sowel as in ander liggaamsvloeistowwe voorkom. Kondome is die metode wat ook die risiko van SOI's, insluitend MIV, verlaag, so dit loon om hulle te gebruik, watter tyd van die maand dit ook al is.",
+      "deep": null,
+      "when_to_see_doctor": "- As jy seks **sonder voorbehoeding** gehad het, of jou voorbehoeding dalk misluk het, en jy nie swanger wil raak nie, praat **so gou as moontlik** met 'n apteker, huisdokter of kliniek vir seksuele gesondheid oor noodvoorbehoeding (die môrepil). Dit moet binne 'n paar dae gebruik word, en dit werk gewoonlik beter hoe gouer dit gebruik word.\n- Kry hulp by 'n apteker, kliniek vir seksuele gesondheid of huisdokter as 'n **kondoom tydens seks skeur of afgly**. Jy het dalk noodvoorbehoeding of 'n SOI-toets nodig.\n- Gaan na 'n huisdokter of 'n kliniek vir seksuele gesondheid as jy **bloeding ná seks opmerk wanneer jy nie op jou maandstonde is nie**. Dit is gewoonlik nie ernstig nie, maar dit loon altyd om dit deur 'n dokter te laat nagaan.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Seks tydens swangerskap",
+      "aliases": [
+        "seks tydens swangerskap",
+        "seks terwyl swanger",
+        "seks swanger",
+        "is seks veilig tydens swangerskap",
+        "intimiteit tydens swangerskap",
+        "orgasme swanger"
+      ],
+      "glance": "Seks is veilig in die meeste swangerskappe en sal die baba nie seermaak nie, tensy jou vroedvrou of dokter anders aangeraai het.",
+      "overview": "Vir die meeste mense is seks tydens swangerskap veilig, tensy jou vroedvrou of dokter vir jou gesê het om dit nie te doen nie. Die baba word goed binne-in die baarmoeder beskerm, en seks sal hom of haar nie skade aandoen nie.\n\nJy kan in 'n paar situasies aangeraai word om penetrerende seks te vermy: as jy 'n **laagliggende plasenta (placenta praevia)** het, weens die risiko van bloeding; as jou **water gebreek het**, weens die risiko van infeksie; of as jy **verskeie miskrame** gehad het.\n\nBegeerte verander dikwels tydens swangerskap (sommige mense wil meer seks hê, sommige minder, sommige vir 'n ruk glad nie), met hormone, liggaamsveranderinge, moegheid, naarheid en bekommernisse wat almal 'n rol speel. Dit is alles normaal. As jy nie lus is vir seks nie, is soen, drukkies en massering ander maniere om naby te bly.\n\nSoos jou maag groei, word sommige posisies ongemaklik; posisies waar julle langs mekaar op julle sye lê, voel dikwels makliker. Hormone kan die vagina droër maak, en 'n waterbasis-glymiddel kan help.\n\nLaat in die swangerskap kan seks of 'n orgasme Braxton Hicks-sametrekkings veroorsaak, wanneer die baarmoeder vir 'n ruk hard word. Dit is normaal en beteken nie dat die kraam begin nie, en daar is geen bewys dat seks die kraam aan die gang sit nie.\n\nAs een van julle dalk 'n seksueel oordraagbare infeksie het, gebruik 'n kondoom, ook vir orale seks: 'n onbehandelde infeksie kan jou en die baba ernstig skade aandoen. Vermy orale seks as een van julle 'n koorsblaar het, want die virus kan na die baba oorgedra word.",
+      "deep": null,
+      "when_to_see_doctor": "- Praat met jou **vroedvrou of dokter** as jy nie seker is of seks vir jou veilig is nie, of as bekommernisse oor seks of jou verhouding swaar op jou druk.\n- As jy **enige bloeding** tydens swangerskap het, laat dit nagaan voordat jy weer seks het: kontak jou vroedvrou, dokter of kraamafdeling.\n- Gaan na 'n **kliniek vir seksuele gesondheid** as jy of jou maat dalk 'n SOI het.",
+      "red_flags": "- Kontak dadelik jou **kraamafdeling** as jy dink jou **water het gebreek**, en moenie seks hê voordat jy gesien is nie.\n- Bel **{{emergency}} of gaan na die hospitaal se noodafdeling** as jy **swaar bloei**, veral saam met **erge maagpyn** of as jy voel jy gaan flou word."
+    },
+    "sexual-violence": {
+      "title": "Seksuele geweld en toestemming",
+      "aliases": [
+        "seksuele geweld",
+        "seksuele aanranding",
+        "verkragting",
+        "toestemming",
+        "seksuele mishandeling",
+        "sonder toestemming",
+        "gedwonge seks"
+      ],
+      "glance": "Seksuele geweld is enige seksuele daad sonder toestemming, en dit is nooit die skuld van die persoon wat dit beleef het nie.",
+      "overview": "Seksuele geweld beteken enige seksuele daad, of 'n poging om een te verkry, sonder toestemming of deur dwang. Dit sluit verkragting en enige ongewenste seksuele kontak in, en dit kan deur enigiemand gepleeg word: 'n vreemdeling, 'n kennis, of 'n maat of eggenoot.\n\nToestemming staan in die kern daarvan. Toestemming beteken om vrywillig in te stem, en dit is nie moontlik wanneer iemand slaap, bewusteloos is, dronk of onder die invloed van dwelms is, 'n kind is, of onder druk geplaas word, gedreig word of bang is nie. Dit kan op enige punt teruggetrek word. Daarom is seksuele geweld **nooit** die skuld van die persoon met wie dit gebeur het nie: nie weens die klere wat die persoon aangehad het nie, nie omdat daar gedrink is nie, nie omdat die persoon gevries het eerder as om terug te veg nie, en ook nie omdat die twee mekaar geken het nie.\n\nAs dit met jou gebeur het, is daar ondersteuning, of dit onlangs of lank gelede was. Jy word geglo, en wat jy volgende doen, is jou keuse.",
+      "deep": null,
+      "when_to_see_doctor": "- Jy kan na 'n **gesondheidsdiens, 'n hospitaal of 'n gespesialiseerde diens vir seksuele aanranding** gaan, wat na jou kan omsien, enige beserings kan behandel en, as jy wil, kan help om aangifte te doen en bewyse te bewaar.\n- Sommige gesondheidstappe is **tydsensitief**, byvoorbeeld noodvoorbehoeding of die voorkoming van infeksie, so om **gou** uit te reik, kan help. Maar daar bestaan geen tydsbeperking om ondersteuning te kry nie, en dit bly altyd jou keuse of jy aangifte doen.",
+      "red_flags": "- As jy in **onmiddellike gevaar** verkeer, kontak nou die nooddienste: **112** in die EU (insluitend Italië), **999** in die VK, **911** in die VSA en Kanada.\n- Ná 'n onlangse aanranding kan 'n **hospitaal of gespesialiseerde diens dringend help**. In Italië kan **1522** (gratis, 24/7, anoniem, veeltalig: telefoon of klets) jou na die regte sorg lei."
+    },
+    "signs-of-labour": {
+      "title": "Tekens van kraam",
+      "aliases": [
+        "tekens van kraam",
+        "kraam",
+        "in kraam gaan",
+        "kontraksies",
+        "water breek",
+        "die slymprop",
+        "latente fase",
+        "kraampyne"
+      ],
+      "glance": "Tekens dat kraam begin, sluit in gereelde kontraksies, 'n “show” (slymprop), rugpyn of dat jou water breek.",
+      "overview": "Daar is 'n paar tekens dat kraam dalk begin. Die belangrikste is kontraksies: stywe trekkings oor jou maag wat gereeld kom en sterker word. Ander sluit in 'n “show” (die slymprop van jou serviks wat loskom), aanhoudende rugpyn, 'n drang om toilet toe te gaan, en dat jou water breek.\n\nVoor aktiewe kraam kom daar dikwels 'n vroeë (“latente”) fase, wanneer die serviks sagter word en begin oopgaan. Hierdie deel kan ure of selfs dae duur, en vir baie mense is dit in orde om gedurende hierdie tyd gemaklik by die huis te bly, te rus en genoeg te drink.\n\nElkeen se kraam begin 'n bietjie anders, so jy hoef nie elke teken af te merk nie. Wanneer jy dink dinge begin, is jou vroedvrou of kraamafdeling daar om jou te lei oor wat om te doen en wanneer om in te kom.",
+      "deep": null,
+      "when_to_see_doctor": "- Bel jou **vroedvrou of kraamafdeling** vir leiding wanneer jy dink die kraam het begin, of wanneer kontraksies **gereeld kom, ongeveer elke 5 minute**. As jy jou vroedvrou nie in die hande kan kry nie, bel die hospitaal waar jy beplan om geboorte te gee.",
+      "red_flags": "Bel **onmiddellik jou vroedvrou of kraamafdeling**, dag of nag, moenie wag nie, as:\n\n- jou **water breek** (veral as die vloeistof groen of bruin lyk, of sleg ruik)\n- jy **enige vaginale bloeding** het\n- jou **baba minder as gewoonlik beweeg**\n- jy tekens van kraam het en jy **minder as 37 weke swanger** is"
+    },
+    "signs-of-pregnancy": {
+      "title": "Tekens van swangerskap",
+      "aliases": [
+        "tekens van swangerskap",
+        "vroeë swangerskapsimptome",
+        "is ek swanger",
+        "swangerskapsimptome",
+        "maandstonde uitgebly",
+        "eerste tekens swanger"
+      ],
+      "glance": "'n Uitgebleefde maandstonde is dikwels die eerste teken van swangerskap, soms saam met naarheid, moegheid of gevoelige borste.",
+      "overview": "Vir baie mense is die eerste aanduiding van swangerskap 'n **uitgebleefde maandstonde**. Maar liggame verskil, en sommige merk eers ander vroeë tekens op, dikwels rondom 4 tot 6 weke.\n\nAlgemene vroeë tekens sluit in om naar te voel of op te gooi (op enige tyd van die dag, nie net soggens nie), borste wat groter of gevoelig voel, ongewoon moeg voel, en dat jy meer gereeld moet piepie. Sommige mense merk ook 'n metaalsmaak op, 'n nuwe gevoeligheid vir sekere reuke, of dat hulle nie meer lus is vir kos waarvan hulle gewoonlik hou nie.\n\nNie een van hierdie tekens op sy eie beteken dat jy beslis swanger is nie (baie oorvleuel met die gewone wisselinge van die siklus), en nie almal kry hulle nie. Die manier om seker te weet, is 'n swangerskaptoets.",
+      "deep": null,
+      "when_to_see_doctor": "- As 'n toets positief is, kontak 'n **vroedvrou of huisdokter** om jou swangerskapsorg (voorgeboortesorg) vroeg te begin.\n- As jou maandstonde laat is en toetse negatief is, maar simptome aanhou, loon dit om by 'n huisdokter te gaan hoor wat anders dalk aan die gang is.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Rook tydens swangerskap",
+      "aliases": [
+        "rook tydens swangerskap",
+        "ophou rook swanger",
+        "stop rook swangerskap",
+        "vape swanger",
+        "sigarette swanger",
+        "e-sigaret swanger"
+      ],
+      "glance": "Om op te hou rook is een van die beste dinge wat jy vir jou baba kan doen, en dit is nooit te laat nie.",
+      "overview": "Om op te hou rook is een van die kragtigste dinge wat jy kan doen om jou baba 'n gesonde begin te gee. Elke sigaret beperk die suurstof wat jou baba kry, wat sy of haar hart harder laat werk en groei kan terughou.\n\nRook tydens swangerskap verhoog die risiko van ernstige probleme, insluitend miskraam, voortydige geboorte, lae geboortegewig, doodgeboorte, en wiegiedood (skielike babasterftesindroom, SIDS) ná die geboorte. Tweedehandse rook maak ook saak, so 'n rookvrye huis help.\n\nDie bemoedigende deel: dit is **nooit te laat nie**. Om op enige punt in die swangerskap op te hou, help, en om vroeg op te hou, bring die meeste voordeel. Dit kan regtig moeilik wees, en dit is presies hoekom daar gratis hulp bestaan, en as jy dit gebruik, is sukses baie meer waarskynlik.",
+      "deep": null,
+      "when_to_see_doctor": "- Vra jou **vroedvrou** oor **gratis ondersteuning om op te hou rook**: opgeleide adviseurs (sommige wat in swangerskap spesialiseer) kan jou ondersteun, en baie lande het ook 'n gratis hulplyn om op te hou rook. Om hulp te kry, is 'n teken dat jy na jou baba omsien, nie 'n mislukking nie.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Spotting en bloeding tussen maandstondes",
+      "aliases": [
+        "spotting",
+        "ligte bloeding tussen maandstondes",
+        "bloeding tussen maandstondes",
+        "tussentydse bloeding",
+        "deurbraakbloeding",
+        "bloeding ná seks"
+      ],
+      "glance": "Spotting is ligte bloeding tussen maandstondes of ná seks: dikwels nie ernstig nie, maar laat dit altyd deur 'n dokter nagaan.",
+      "overview": "Spotting beteken ligte bloeding wat tussen jou maandstondes of ná seks voorkom, buite jou normale vloei. Dit kom algemeen voor, en dit is gewoonlik niks ernstigs nie, maar omdat dit verskeie oorsake kan hê, is dit die soort ding wat altyd die moeite werd is om deur 'n klinikus te laat nagaan.\n\nDaar bestaan baie alledaagse redes daarvoor. Om met hormonale voorbehoeding te begin of dit te gebruik, is 'n algemene rede. Ander sluit in klein, onskadelike gewasse in of rondom die baarmoeder (poliepe of fibroïede), onskadelike veranderinge aan die oppervlak van die serviks, vaginale droogheid, of 'n infeksie soos chlamidia.\n\nOmdat dieselfde simptoom verskillende oorsake kan hê, meestal geringe, help dit nie om te raai nie. Die nuttige stap: laat dit ondersoek sodat jy weet wat by jou daaragter sit.",
+      "deep": null,
+      "when_to_see_doctor": "- Gaan na 'n huisdokter of 'n kliniek vir seksuele gesondheid **elke keer as jy tussen maandstondes of ná seks bloei**, selfs al lyk dit lig. Dit is gewoonlik niks ernstigs nie, maar deur dit te laat nagaan, word die oorsaak gevind, en so word minder algemene oorsake vroeg uitgesluit.",
+      "red_flags": "- Vra vir 'n **dringende** afspraak by 'n huisdokter, of kontak 'n **na-uurse dokter**, as jy **'n maandstonde gemis het en ongewone bloeding saam met maag- of bekkenpyn het**: dit moet vinnig ondersoek word, want dit kan 'n teken van 'n ektopiese swangerskap (buitebaarmoederlike swangerskap) wees."
+    },
+    "stalking": {
+      "title": "Agtervolging (stalking)",
+      "aliases": [
+        "agtervolging",
+        "stalking",
+        "iemand agtervolg my",
+        "teistering",
+        "ongewenste aandag",
+        "iemand volg my",
+        "kuberagtervolging"
+      ],
+      "glance": "Agtervolging is herhaalde, ongewenste aandag wat jou bang of onveilig laat voel, en dit word ernstig opgeneem.",
+      "overview": "Agtervolging (stalking) is 'n patroon van ongewenste, herhaalde gedrag deur iemand wat jou bang, dopgehou of onveilig laat voel. Dit kan insluit dat jy gevolg word, dat iemand opdaag waar jy is, aanhoudende oproepe of boodskappe, ongewenste geskenke, dat jy aanlyn of deur jou foon dopgehou word, of dreigemente. Dit word dikwels gedoen deur 'n voormalige maat of iemand wat jy ken, hoewel nie altyd nie.\n\nDie vrees wat dit veroorsaak, is geldig, selfs wanneer elke enkele daad vir ander “klein” mag lyk: dit is die patroon, en hoe dit jou laat voel, wat saak maak. Agtervolging word as 'n vorm van mishandeling erken, en in baie lande is dit 'n misdaad. Niks daarvan is jou skuld nie, en jy hoef nie net daarmee saam te leef nie.\n\nAs dit veilig is om te doen, kan dit later help om 'n rekord te hou: datums en tye, skermskote van boodskappe, en wat gebeur het. Jy hoef nie op jou eie uit te werk of dit “tel” nie: ondersteuningsdienste kan jou help om sin daarvan te maak en oor jou opsies te dink.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontak die **polisie** om agtervolging aan te meld, en 'n hulplyn teen geweld of agtervolging vir ondersteuning en raad (in Italië is **1522** vir geweld **en** agtervolging).\n- Om bewyse te bewaar en 'n veiligheidsplan te maak, met hulp van 'n gespesialiseerde diens, kan albei 'n werklike verskil maak.",
+      "red_flags": "- As jy voel jy is in **onmiddellike gevaar**, kontak nou die nooddienste: **112** in die EU (insluitend Italië), **999** in die VK, **911** in die VSA en Kanada.\n- In Italië kan **1522** (gratis, 24 uur per dag, anoniem, veeltalig) per telefoon of klets help."
+    },
+    "stillbirth": {
+      "title": "Doodgeboorte",
+      "aliases": [
+        "doodgeboorte",
+        "doodgebore",
+        "verlies van 'n baba",
+        "laat swangerskapsverlies",
+        "baba slapend gebore",
+        "stilgeboorte"
+      ],
+      "glance": "Doodgeboorte is die verlies van 'n baba ná 24 weke: ongewoon, nooit jou skuld nie, en altyd met ondersteuning tegemoetgekom.",
+      "overview": "'n Doodgeboorte is wanneer 'n baba gebore word nadat hy of sy ná 24 weke van swangerskap gesterf het. ('n Verlies voor 24 weke word 'n miskraam genoem.) Dit is ongewoon, ongeveer 1 uit elke 250 geboortes, maar vir die gesinne wat dit raak, is dit 'n diepgaande verlies, en alles aan die sorg wat volg, is bedoel om jou saggies daardeur te dra.\n\nSoms word 'n oorsaak gevind, byvoorbeeld 'n probleem met die plasenta of die baba se ontwikkeling, of 'n gesondheidstoestand, en soms word, ondanks toetse, **glad geen oorsaak gevind nie**. Wat die rede ook al is, 'n doodgeboorte is nie iets wat 'n ouer veroorsaak het of kon geweet het om te voorkom nie.\n\nEen ding help werklik om die risiko te verlaag, en dit is eenvoudig: **om jou vroedvrou dadelik te laat weet as jou baba se bewegings verminder of verander.** Daarbenewens speel die alledaagse dinge almal 'n rol: om na voorgeboorte-afsprake te gaan, nie te rook nie, alkohol te vermy, en vanaf 28 weke op jou sy te slaap.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontak **onmiddellik jou vroedvrou of kraamafdeling**, enige tyd, dag of nag, as jou **baba minder as gewoonlik beweeg of die bewegings anders voel.** Moet nooit wag om te sien of dit oorgaan nie; om dit te laat nagaan, is presies die regte ding om te doen, en dit is nooit 'n las nie.\n- Ná 'n verlies is gespesialiseerde vroedvroue en rouspanne daar vir jou: vir die besluite, die praktiese stappe en die rou. Jy hoef niks daarvan alleen die hoof te bied nie, en ondersteuningsgroepe vir babaverlies is beskikbaar vir so lank as wat jy hulle nodig het.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stres, die lewe en jou maandstondes",
+      "aliases": [
+        "stres en maandstonde",
+        "stres",
+        "gemiste maandstonde",
+        "maandstonde laat",
+        "hoekom is my maandstonde laat",
+        "maandstonde uitgebly"
+      ],
+      "glance": "Stres, groot gewigsveranderinge of baie oefening kan 'n maandstonde vertraag of laat uitbly, dikwels net vir 'n ruk.",
+      "overview": "Dit gebeur gereeld dat 'n maandstonde laat kom, of 'n maand oorslaan, en die rede het dikwels meer met die lewe te doen as met iets wat verkeerd is. Stres is 'n algemene oorsaak: dieselfde stelsel wat op druk reageer, kan die hormone wat jou siklus bestuur, beïnvloed.\n\nAnder alledaagse dinge kan ook jou maandstondes verskuif: 'n groot verandering in gewig (op of af), baie oefening, of as jy uitgeput is. Hormonale veranderinge, soos die nadering van perimenopouse, of toestande soos PCOS, kan ook daaragter sit, net soos swangerskap en sommige voorbehoeding. Dikwels wissel die tussenpose tussen maandstondes eenvoudig van tyd tot tyd 'n bietjie, en dit is normaal.\n\nDie gerusstellende deel is dat 'n enkele laat of gemiste maandstonde gewoonlik nie rede tot kommer is nie, en dinge bedaar dikwels soos die lewe bedaar. Wat die moeite werd is om dop te hou, is 'n patroon van verandering eerder as 'n enkele maand.",
+      "deep": null,
+      "when_to_see_doctor": "Gaan na 'n huisdokter as:\n\n- jy **drie maandstondes agtereenvolgens** gemis het, of jou maandstondes **onreëlmatig** geword het\n- jou maandstondes **ophou** en jy nie seker is hoekom nie (en as swangerskap moontlik is, loon dit om eers 'n toets te doen)\n- gemiste maandstondes saam met ander veranderinge kom, soos onverwagte gewigsveranderinge, moegheid, ekstra haargroei, of neerslagtigheid\n\nHierdie ondersoeke is net om te verstaan wat agter die verandering sit, en dit is gewoonlik iets hanteerbaars.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Ondersteun haar tydens haar maandstonde",
+      "aliases": [
+        "help tydens haar maandstonde",
+        "maandstonde-ondersteuning vir maats",
+        "sorg tydens maandstonde",
+        "haar maandstonde",
+        "help haar met krampe"
+      ],
+      "glance": "Maandstondes kan werklike pyn en moegheid meebring: klein, praktiese sorg maak 'n groot verskil.",
+      "overview": "'n Maandstonde beteken nie net 'n paar dae van bloeding nie; vir baie kom dit met krampe, rugpyn, hoofpyn, moegheid en min energie. Menstruasiepyn kom algemeen voor en kan regtig uitputtend wees: dit is nie 'n oordrywing nie. Behandel dit soos jy enige maat sou behandel wat siek is: met praktiese vriendelikheid.\n\nMaak dit ook normaal. Maandstondes is nie walglik, 'n verleentheid of taboe nie. As jy gemaklik is om maandverbande of tampons te koop, 'n paar by die huis te hou, of vir haar 'n warmwaterbottel te gee sonder om 'n ophef te maak, sê dit vir haar dat sy veilig is en ondersteun word.",
+      "deep": "Eenvoudige dinge wat help:\n\n- **Warmte en rus.** 'n Warmwaterbottel of hittekussing op die onderbuik verlig krampe; stel 'n rustige aand tuis voor.\n- **Neem dinge van haar bord af.** Kook, ruim op, doen die boodskap, ry haar rond: praktiese hulp tref dieper as woorde.\n- **Hou voorraad in die huis.** Weet wat sy gebruik en hou 'n voorraad, sodat 'n swaar dag nooit 'n krisis word nie.\n- **Pynstillers en troosvoedsel** as sy dit wil hê; haar keuse.\n- **Moenie druk uitoefen vir seks of energie wat sy nie het nie.** Nabyheid kan 'n drukkie op die bank wees.",
+      "when_to_see_doctor": "Moedig haar aan om 'n dokter te sien (en bied aan om saam te gaan) as menstruasiepyn **erg voel, erger word, of haar keer om haar daaglikse lewe te lei**, as maandstondes **baie swaar** is (sy deurweek elke uur haar beskerming heeltemal, groot klonte), of as pyn nuut en ongewoon voel: dit kan dui op toestande soos endometriose wat behoorlike sorg verdien.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Ondersteun iemand wat geweld beleef",
+      "aliases": [
+        "iemand ondersteun",
+        "'n vriendin help",
+        "hoe om te help",
+        "iemand wat mishandel word",
+        "hoe om te ondersteun",
+        "my vriendin word mishandel"
+      ],
+      "glance": "As iemand wat jy ken dalk mishandeling beleef, help dit om sonder oordeel te luister en te weet waarheen om die persoon te verwys.",
+      "overview": "Om te besef dat iemand vir wie jy omgee dalk mishandeling beleef, is moeilik, en om te wil help, is 'n goeie instink. Die nuttigste dinge wat jy kan bied, is dikwels die eenvoudigste.\n\nLuister, en glo die persoon. Laat die persoon op eie tempo praat, sonder om te oordeel, te blameer of te vra wat hy of sy gedoen het om dit te veroorsaak. Sê duidelik dat dit nie die persoon se skuld is nie en dat hy of sy dit nie verdien nie. Probeer om nie voor te skryf wat om te doen nie, en moenie druk uitoefen om weg te gaan nie: om weg te gaan, is die persoon se eie besluit, en om dit haastig te doen, kan die gevaar eintlik verhoog. Wat meer help, is om ondersteun en nie alleen te voel nie.\n\nHou wat jy vertel word, privaat. Help die persoon saggies om gespesialiseerde ondersteuning te vind wanneer hy of sy gereed is ('n hulplyn soos **1522** in Italië, of 'n plaaslike sentrum teen geweld), en bied praktiese hulp aan, soos om saam nommers op te soek of daar te wees wanneer die oproep gemaak word. En sorg ook vir jouself; om iemand hierdeur te ondersteun, kan swaar wees.",
+      "deep": null,
+      "when_to_see_doctor": "- Moedig die persoon aan (sonder druk) om 'n hulplyn of sentrum teen geweld te kontak, wat julle albei kan lei oor wat om volgende te doen. Jy kan aanbied om te help om die oproep te maak of die nommer te vind.\n- As die persoon beseer is, kan 'n huisdokter of hospitaal help, en hom of haar met ondersteuningsdienste in verbinding stel.",
+      "red_flags": "- As die persoon in **onmiddellike gevaar** verkeer, bel die nooddienste: **112** in die EU (insluitend Italië), **999** in die VK, **911** in die VSA en Kanada.\n- In Italië kan **1522** (gratis, 24/7, anoniem, veeltalig: telefoon of klets) jou ook raad gee oor hoe om iemand te help."
+    },
+    "the-coil": {
+      "title": "Die lussie (IUT en IUS)",
+      "aliases": [
+        "lussie",
+        "die lussie",
+        "IUT",
+        "IUD",
+        "IUS",
+        "koperlussie",
+        "hormonale lussie",
+        "intra-uteriene toestel",
+        "intra-uteriene stelsel",
+        "Mirena"
+      ],
+      "glance": "Die lussie is 'n klein toestel wat in die baarmoeder geplaas word, met koper (IUT) of hormone (IUS), en wat jare lank hou.",
+      "overview": "Die lussie (intra-uteriene toestel) is 'n klein toestel wat 'n klinikus binne-in die baarmoeder plaas. Daar bestaan twee soorte, en dit help om hulle uitmekaar te ken:\n\n- Die **IUT (IUD)**, of koperlussie, bevat geen hormone nie. Die koper verander toestande in die baarmoeder sodat sperms en eierselle nie goed kan oorleef nie, en dit beïnvloed ook servikale slym. Afhangend van die soort werk dit vir ongeveer 5 tot 10 jaar.\n- Die **IUS**, of hormonale lussie, stel 'n progestogeen vry in plaas daarvan om koper te gebruik. Dit maak die slym by die baarmoedermond dikker en die baarmoedervoering dunner; by sommige mense kan dit ook maandstondes baie ligter maak.\n\nAlbei is “insit en vergeet”-metodes, en albei is meer as 99% doeltreffend, met min verskil tussen perfekte en tipiese gebruik. Nie een beskerm teen SOI's nie.",
+      "deep": "Die lussies is langwerkende, omkeerbare metodes: sodra hulle ingesit is, werk hulle vir jare, en vrugbaarheid keer terug nadat hulle verwyder is. Insit en verwydering word deur 'n opgeleide klinikus gedoen en neem net 'n paar minute, hoewel sommige mense die insit ongemaklik vind. 'n Algemene rede waarom mense tussen die twee kies, is hul uitwerking op maandstondes: die koper-IUT kan maandstondes aanvanklik swaarder maak, terwyl die hormonale IUS hulle dikwels ligter maak. Watter een by jou pas, is 'n gesprek met 'n klinikus; hierdie artikel verduidelik net hoe elkeen werk.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Die premenstruele dae",
+      "aliases": [
+        "PMS vir maats",
+        "ondersteun haar voor haar maandstonde",
+        "premenstruele ondersteuning",
+        "luteale fase ondersteuning",
+        "sy is humeurig voor haar maandstonde"
+      ],
+      "glance": "In die dae voor haar maandstonde voel sy dalk moeër, gevoeliger of neerslagtig: reageer met geduld, nie met grappies nie.",
+      "overview": "In die week of so voor 'n maandstonde kry baie mense premenstruele simptome: gemoedsveranderinge, prikkelbaarheid of neerslagtigheid, moegheid, seer borste, opgeblasenheid, hoofpyn, of slaapprobleme. Dit kom baie algemeen voor en dit is eg: dit word aangedryf deur die natuurlike hormoonverskuiwing van die luteale fase, nie deur haar wat “oorreageer” nie.\n\nBy 'n kleiner aantal mense is die neerslagtigheid erg ('n toestand wat PMDD genoem word) en verdien dit werklike ondersteuning en mediese sorg. Hoe dit ook al sy, jou taak is nie om haar te diagnoseer of reg te maak nie: dit is om bestendig en vriendelik te wees.\n\nDie heel skadelikste ding wat 'n maat hier kan doen, is om dit as wapen te gebruik: “jy het net PMS”, oë rol, of haar gevoelens as ongeldig behandel weens die datum. Dit skuif haar eenkant toe en voeg seer by 'n moeilike week. Haar gevoelens tel steeds, selfs wanneer hormone deel van die prentjie is.",
+      "deep": "Wat regtig help in hierdie dae:\n\n- **Maak haar las ligter.** Neem take, kook, of die geestelike doenlys oor sonder dat sy hoef te vra.\n- **Troos, nie regstelling nie.** Bied warmte, rus, 'n warmwaterbottel, haar gunstelingkos, en laat haar voel wat sy voel.\n- **Luister eers.** As sy ontsteld is, werk “dit klink regtig moeilik” elke keer beter as “bedaar”.\n- **Moenie punte tel nie.** 'n Moeiliker dag is nie 'n skuld wat sy jou later verskuldig is nie.\n- **Vra wat sy nodig het**: sommige wil nabyheid hê, sommige wil ruimte hê. Albei is oukei; respekteer haar antwoord.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Tweeling- en meervoudige swangerskap",
+      "aliases": [
+        "tweeling",
+        "tweelingswangerskap",
+        "meervoudige swangerskap",
+        "verwag 'n tweeling",
+        "identiese tweeling",
+        "nie-identiese tweeling",
+        "drieling"
+      ],
+      "glance": "'n Tweeling word gewoonlik eers by die dateringsonar opgemerk, en dit beteken 'n bietjie meer voorgeboortesorg.",
+      "overview": "Dat jy meer as een baba verwag, word gewoonlik eers by die **dateringsonar** (rondom 12 weke) ontdek, wat ook kan wys of die babas 'n plasenta deel.\n\nDaar is twee hoofsoorte. 'n **Identiese** tweeling kom van 'n enkele bevrugte eiersel wat verdeel, so hulle deel dieselfde gene en is altyd van dieselfde geslag. 'n **Nie-identiese** tweeling kom van twee aparte eierselle, en hulle lyk nie meer eenders as enige ander broers en susters nie; dit is die algemeenste van die twee, en effens meer waarskynlik op 'n ouer ouderdom, met 'n familiegeskiedenis aan moederskant, of ná vrugbaarheidsbehandeling.\n\nOm 'n tweeling of meer te dra, is 'n eie ervaring, en dit beteken gewoonlik **'n bietjie meer voorgeboortesorg**: ekstra afsprake en sonars om jou en jou babas fyn dop te hou. Jou vroedvrouspan sal verduidelik wat om te verwag.",
+      "deep": null,
+      "when_to_see_doctor": "- As 'n sonar 'n tweeling (of meer) wys, sal jou **vroedvrou** die ekstra ondersoeke en sonars wat met 'n meervoudige swangerskap gepaard gaan, met jou deurgaan: om na almal te gaan, is die beste manier om goed versorg te bly.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Verstaan haar siklus",
+      "aliases": [
+        "maat se gids tot die siklus",
+        "siklus vir maats",
+        "hoe haar siklus werk",
+        "ondersteun haar siklus",
+        "haar maandstonde verstaan"
+      ],
+      "glance": "Haar liggaam beweeg deur 'n maandelikse siklus met vier fases: as jy die basiese dinge ken, kan jy haar ondersteun sonder om te raai.",
+      "overview": "Die menstruele siklus is 'n ritme van ongeveer 'n maand, gemiddeld sowat 28 dae maar dikwels enige tyd van 21 tot 35, en normaal vir haar is wat ook al gereeld is vir *haar*. Dit verloop in vier fases: die **menstruele** fase (haar maandstonde), die **follikulêre** fase, **ovulasie** rondom die middel, en die **luteale** fase voor die volgende maandstonde.\n\nEnergie, gemoed, slaap en begeerte kan oor hierdie fases verskuif omdat hormone styg en daal: dit is biologie, nie 'n karakterfout nie, en nie iets om haar oor te terg nie. Sommige mense voel 'n werklike insinking in die dae voor hul maandstonde; ander merk dit skaars op. Daar bestaan nie een “regte” manier om te voel nie.\n\nJy hoef nie 'n kenner te word nie. Wat die meeste help, is eenvoudig: weet min of meer waar sy in haar siklus is (hierdie app kan dit vir jou wys, met haar toestemming), verwag dat sommige dae moeiliker as ander sal wees, en vra haar wat *sy* nuttig vind eerder as om aan te neem.",
+      "deep": "'n Paar dinge wat die moeite werd is om te weet, sodat mites nie die gaping vul nie:\n\n- **“Sy is op haar maandstonde” is nie 'n belediging of 'n verduideliking daarvoor dat sy met jou verskil nie.** Om haar siklus te gebruik om haar gevoelens af te maak (“jy is net hormonaal”), is oneerbiedig, en dit is gewoonlik verkeerd. Haar redes bly steeds haar redes.\n- **Die siklus raak meer as net maandstondes.** Krampe, hoofpyn, gevoelige borste, min energie of 'n laer gemoed kan almal deel daarvan wees. Praktiese hulp werk beter as raad.\n- **Die dophou behoort aan haar.** As sy haar siklus met jou deel, behandel dit as 'n venster op hoe sy dalk voel: 'n uitnodiging om vriendelik te wees, nooit 'n instrument om haar dop te hou of te beheer nie.\n- **As jy twyfel, vra.** “Hoe voel jy vandag? Kan ek iets doen?” is meer werd as enige grafiek.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Vaginale droogheid",
+      "aliases": [
+        "vaginale droogheid",
+        "droogheid",
+        "vaginale atrofie",
+        "droë vagina",
+        "droog daar onder",
+        "pynlike droë seks"
+      ],
+      "glance": "Vaginale droogheid kom algemeen voor, hou dikwels met hormone verband, en kan seerheid of ongemak tydens seks veroorsaak.",
+      "overview": "Vaginale droogheid is 'n algemene ervaring wat baie mense op een stadium het. Dit gebeur wanneer die gewone vog wat die vagina gemaklik hou, verminder, en dit kan voel soos seerheid, jeuk of ongemak, insluitend pyn of ongemak tydens seks.\n\nDit hou dikwels verband met hormone, veral 'n daling in estrogeen. Daarom kom dit algemeen voor rondom menopouse en perimenopouse, maar dit kan ook gebeur tydens borsvoeding, met sommige medisyne (soos sekere voorbehoedmiddels of antidepressante), of wanneer daar nie genoeg opwinding voor seks is nie. Dit is niks om oor skaam te wees nie: dit is 'n fisiese ding, nie 'n weerspieëling van jou of jou verhouding nie.\n\nOm te weet dat dit algemeen voorkom, en gewoonlik baie goed behandel kan word, is 'n goeie beginpunt. Daar bestaan eenvoudige opsies wat kan help, en 'n huisdokter of apteker kan jou wys wat by jou pas.",
+      "deep": null,
+      "when_to_see_doctor": "Gaan na 'n huisdokter as:\n\n- vaginale droogheid jou pla of nie ná 'n paar weke bedaar nie\n- dit jou daaglikse lewe of jou sekslewe raak\n- jy ook ongewone afskeiding het, of enige bloeding ná seks, tussen maandstondes of ná menopouse\n\nJy hoef dit nie net te verduur nie: hulp is beskikbaar, en 'n klinikus kan kyk wat daaragter sit en wat dit kan verlig.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Vaginale en vulvagesondheid",
+      "aliases": [
+        "vaginale gesondheid",
+        "vulvagesondheid",
+        "intieme higiëne",
+        "skoon hou",
+        "uitspoel",
+        "douching",
+        "afskeiding",
+        "vaginale afskeiding"
+      ],
+      "glance": "Die vagina maak homself skoon: dit het net sagte sorg aan die buitekant nodig, en afskeiding is normaal.",
+      "overview": "Een van die mees gerusstellende dinge om te weet, is dat die vagina na homself omsien. Dit is natuurlik selfreinigend, en die afskeiding wat jy opmerk, is deel daarvan: 'n vloeistof wat dit skoon en klam hou en help om dit teen infeksie te beskerm. Die hoeveelheid en tekstuur verander deur die siklus, wat heeltemal normaal is.\n\nDaarom hoef die vagina nie van binne gewas te word nie. Trouens, om dit van binne te was (“uitspoel” of “douching”) kan die natuurlike balans versteur. Die buitekant (die vulva) het net sagte sorg nodig: warm water en, as jy wil, 'n sagte, ongeparfumeerde seep. Geparfumeerde seep, jel, deodorante en geurige doekies vermy jy liefs, want hulle kan irritasie veroorsaak.\n\nOm te leer ken wat vir jou normaal is (jou gewone afskeiding, hoe dit lyk en voel), maak dit makliker om op te merk as iets verander en dalk deur 'n dokter nagegaan moet word.",
+      "deep": null,
+      "when_to_see_doctor": "Gaan na 'n huisdokter of kliniek vir seksuele gesondheid as jy die volgende opmerk:\n\n- 'n verandering in jou afskeiding: die kleur, reuk of tekstuur, of baie meer as gewoonlik\n- jeuk, seerheid of irritasie rondom die vagina of vulva\n- bloeding tussen maandstondes of ná seks\n- pyn wanneer jy piepie, of pyn laag af tussen jou maag en dye (bekkenpyn)\n\nDit kom algemeen voor en word dikwels maklik behandel: 'n verandering in afskeiding kan eenvoudig 'n ligte infeksie soos vaginale sproei (gisinfeksie) beteken. Om dit deur 'n dokter te laat nagaan, is die manier om te weet, eerder as om te raai.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Die siklus en sy fases",
+      "summary": "Hoe jou siklus deur die menstruele fase, follikulêre fase, ovulasie en luteale fase beweeg."
+    },
+    "hormones": {
+      "title": "Hormone",
+      "summary": "Die boodskappers agter jou siklus: estrogeen, progesteroon, LH en FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Vrugbaarheid en ovulasie",
+      "summary": "Die vrugbare venster, tekens van ovulasie en wat vrugbaarheid beïnvloed."
+    },
+    "contraception": {
+      "title": "Voorbehoeding",
+      "summary": "Hoe verskillende metodes werk, in eenvoudige taal."
+    },
+    "symptoms-and-signals": {
+      "title": "Simptome en liggaamseine",
+      "summary": "Pyn, ligte bloeding, afskeiding, gemoed: wat jou liggaam jou dalk probeer sê."
+    },
+    "conditions": {
+      "title": "Toestande",
+      "summary": "PCOS, endometriose, fibroïede en meer: verduidelik, met bronne."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Seksuele en intieme gesondheid",
+      "summary": "Intieme welstand, gemak en algemene vrae."
+    },
+    "life-stages": {
+      "title": "Lewensfases",
+      "summary": "Van jou eerste maandstonde tot perimenopouse en menopouse."
+    },
+    "wellbeing": {
+      "title": "Welstand en die siklus",
+      "summary": "Hoe slaap, stres en die alledaagse lewe met jou siklus verband hou."
+    },
+    "tests-and-exams": {
+      "title": "Toetse en ondersoeke",
+      "summary": "Borsselfondersoek, servikale sifting, ovulasietoetse en meer."
+    },
+    "pregnancy": {
+      "title": "Swangerskap",
+      "summary": "Vroeë tekens, gesond bly, waarskuwingstekens en swangerskapsverlies: verduidelik, met bronne."
+    },
+    "for-partners": {
+      "title": "Vir maats",
+      "summary": "Verstaan haar siklus, ondersteun haar goed en bou 'n verhouding op respek."
+    },
+    "safety-and-support": {
+      "title": "Veiligheid en ondersteuning",
+      "summary": "Mishandeling herken, veilig bly en hulp vind, met noodnommers."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Verstaan jou siklus in 5 stappe",
+      "summary": "'n Rustige wandeling deur die hele siklus en elkeen van sy vier fases."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Leer ovulasie ken",
+      "summary": "Wat ovulasie is, die vrugbare venster en die tekens wat jou liggaam gee."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Die hormone agter jou siklus",
+      "summary": "Ontmoet die vier boodskappers wat die siklus aandryf, en wat elkeen doen."
+    }
+  }
+}

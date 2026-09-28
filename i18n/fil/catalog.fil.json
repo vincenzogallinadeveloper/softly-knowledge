@@ -1,0 +1,1393 @@
+{
+  "_meta": {
+    "lang": "fil",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alak habang buntis",
+      "aliases": [
+        "alak habang buntis",
+        "pag-inom ng alak habang buntis",
+        "alkohol at pagbubuntis",
+        "beer habang buntis",
+        "fetal alcohol",
+        "FASD"
+      ],
+      "glance": "Ang pinakaligtas na gawin ay huwag uminom ng kahit anong alak habang buntis o habang sinusubukang magbuntis.",
+      "overview": "Malinaw at simple ang payo ng NHS: ang pinakaligtas na gawin ay **huwag talagang uminom ng alak** kung buntis ka o sinusubukan mong magbuntis. Kapag hindi ka umiinom, nananatiling pinakamababa ang anumang panganib sa iyong sanggol.\n\nAng dahilan ay dumadaan ang alak mula sa iyong dugo, sa placenta (inunan), papunta sa iyong sanggol — na ang atay ay hindi pa sapat na nabubuo para iproseso ito. Ang pag-inom habang buntis ay maaaring magdulot ng fetal alcohol spectrum disorder (FASD), isang hanay ng panghabambuhay na paghihirap sa pag-aaral, pag-uugali, at paglaki.\n\nKung nakainom ka bago mo nalamang buntis ka, subukang huwag masyadong mag-alala: malamang na mababa ang panganib sa sanggol mula sa kaunting alak sa maagang bahagi ng pagbubuntis. Ang makatutulong ay iwasan na lang ang alak sa natitirang bahagi ng pagbubuntis mula ngayon.",
+      "deep": null,
+      "when_to_see_doctor": "- Kung nahihirapan kang tumigil sa pag-inom, wala kang dapat ikahiya — sabihin ito sa iyong midwife o family doctor. Makapag-aalok sila ng suporta nang hindi ka hinuhusgahan, at ang paghingi ng tulong ay mabuti para sa iyo at sa iyong sanggol.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Pangangalaga habang buntis (prenatal care)",
+      "aliases": [
+        "prenatal",
+        "prenatal check-up",
+        "antenatal care",
+        "check-up habang buntis",
+        "pagpapatingin sa midwife",
+        "unang prenatal appointment"
+      ],
+      "glance": "Ang prenatal care ay ang regular na mga check-up sa buong pagbubuntis na tumutulong na mapanatiling malusog ka at ang iyong sanggol.",
+      "overview": "Ang prenatal care ay ang pangangalagang natatanggap mo habang buntis para mapanatiling malusog hangga't maaari ka at ang iyong sanggol. Kadalasan, midwife ang titingin sa iyo, at doktor din kung kailangan mo. Mainam na magsimula nang maaga: kontakin ang iyong midwife o family doctor sa sandaling malaman mong buntis ka.\n\nAng iyong unang tunay na appointment — ang tinatawag na “booking appointment” — ay kadalasang nasa pagitan ng 8 at 12 linggo. Pagkatapos nito, aalukin ka ng regular na mga check-up: hindi bababa sa 10 appointment at 2 ultrasound kung ito ang una mong anak, o mga 7 kung nanganak ka na dati, at mas madalas pa habang papalapit ang katapusan ng pagbubuntis.\n\nSa mga pagbisitang ito, sinusuri ng iyong midwife ang iyong blood pressure at ihi, sinusukat ang iyong tiyan para subaybayan ang paglaki ng sanggol, nag-aalok ng mga screening test, at kinakausap ka tungkol sa paggalaw ng iyong sanggol at sa nararamdaman mo. Maraming mahahalagang bagay — tulad ng pre-eclampsia o gestational diabetes — ang natutuklasan dito bago ka pa man makapansin ng anuman, at iyon mismo ang dahilan kung bakit mahalaga ang mga appointment.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakin ang **midwife o family doctor sa sandaling malaman mong buntis ka** para makapagsimula nang maaga ang iyong pangangalaga — mainam kung aabot sa unang appointment bago ang mga 10 hanggang 12 linggo.\n- Sikaping puntahan ang **lahat** ng iyong prenatal appointment, kahit pakiramdam mo ay ganap kang malusog — may ilang pagsusuri na ginawa para matuklasan nang maaga ang mga problemang walang sintomas.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Ang paggalaw ng iyong sanggol",
+      "aliases": [
+        "galaw ng baby",
+        "sipa ng baby",
+        "paggalaw ng sanggol sa tiyan",
+        "fetal movements",
+        "kicks",
+        "hindi gumagalaw ang baby",
+        "humina ang galaw ng baby"
+      ],
+      "glance": "Ang pagramdam sa paggalaw ng iyong sanggol ay senyales na maayos siya — kung bumagal o nagbago ang paggalaw, tawagan agad ang iyong midwife.",
+      "overview": "Ang pagramdam sa paggalaw ng iyong sanggol ay isa sa mga nakapagpapanatag na senyales na maayos siya. Karamihan ay nagsisimulang makaramdam ng paggalaw sa pagitan ng 16 at 24 na linggo ng pagbubuntis — kadalasang mas huli sa unang pagbubuntis, kaya karaniwan na pagkalipas ng 20 linggo sa unang beses.\n\nWalang takdang bilang ng paggalaw na “dapat” mong maramdaman, at hindi kailangang bilangin ang mga sipa para umabot sa isang target. Iba-iba ang bawat sanggol, at ang mahalaga ay makilala mo ang sariling karaniwang pattern ng **iyong** sanggol sa buong araw — ang mga oras na aktibo siya at ang mga oras na tahimik siya.\n\nKapag alam mo na ang pattern na iyon, ang pagbabago mula rito ang dapat mong bantayan. Magtiwala sa alam mo tungkol sa sarili mong sanggol.",
+      "deep": null,
+      "when_to_see_doctor": "Ang pagkilala sa normal na pattern ng iyong sanggol ang nagbibigay-daan para mapansin mo ang pagbabago. Kung sakaling hindi ka sigurado kung bumagal o nagbago ang paggalaw, laging tama na tumawag para maipasuri ito — hindi ka kailanman nag-aaksaya ng oras ng sinuman.",
+      "red_flags": "- Kung **mas kaunti kaysa karaniwan ang paggalaw ng iyong sanggol, nagbago ang kanyang paggalaw, o hindi mo siya maramdamang gumagalaw**, **tawagan kaagad ang iyong midwife o ang maternity unit ng ospital** — anumang oras, araw man o gabi. **Huwag nang maghintay hanggang kinabukasan**, kahit hatinggabi pa.\n- Huwag umasa sa home heartbeat monitor (doppler) o sa isang app para panatagin ang sarili mo — magpatingin nang personal."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Pananakit ng likod habang buntis",
+      "aliases": [
+        "sakit ng likod habang buntis",
+        "masakit ang balakang buntis",
+        "sakit sa ibabang likod buntis",
+        "ngalay ng likod buntis",
+        "back pain pregnancy"
+      ],
+      "glance": "Napakakaraniwan ng pananakit ng likod habang buntis dahil lumalambot ang mga ligament at lumalaki ang iyong tiyan — kadalasan ay hindi ito mapanganib.",
+      "overview": "Ang pananakit ng likod ay isa sa mga pinakakaraniwang bahagi ng pagbubuntis. Habang naghahanda ang iyong katawan para sa panganganak, natural na lumalambot at bumabanat ang mga ligament, at binabago ng lumalaking tiyan kung paano mo dinadala ang iyong timbang — na parehong nagdaragdag ng bigat sa iyong ibabang likod at balakang (pelvis).\n\nMakatutulong ang mga pang-araw-araw na bagay: pag-iingat sa iyong tindig kapag nakatayo, nakaupo at nagbubuhat; pagsusuot ng flat at matibay na sapatos na sumusuporta sa paa; matigas na kutson o unan na sumusuporta sa katawan; at banayad at regular na paggalaw tulad ng paglalakad, pregnancy yoga, o mga ehersisyo mula sa isang klase. Kung talagang nakakaabala na ito, makapagbibigay ng payong angkop sa iyo ang isang obstetric physiotherapist.\n\nKaramihan sa pananakit ng likod habang buntis ay hindi dapat ikabahala — pero may ilang pattern na dapat ipatingin agad sa doktor o midwife, at iyon ang dahilan ng gabay sa ibaba.",
+      "deep": null,
+      "when_to_see_doctor": "Kontakin agad ang iyong **family doctor o midwife** kung ang pananakit ng likod mo ay:\n\n- **matindi**, o nagsimula sa **ikalawa o ikatlong trimester** (minsan ay maaari itong senyales ng maagang panganganak)\n- may kasamang **lagnat, pagdurugo sa ari, o pananakit kapag umiihi**\n- nasa **tagiliran (isa o magkabila), sa ilalim ng iyong tadyang**",
+      "red_flags": "- Tumawag sa **{{emergency}} o pumunta sa emergency room ng ospital** kung **mawalan ka ng pakiramdam sa iyong mga binti, puwit, o ari**, o hindi mo na makontrol ang pag-ihi o pagdumi. Bihira ito, pero kailangan nito ng emergency na pangangalaga."
+    },
+    "basal-body-temperature": {
+      "title": "Basal body temperature (BBT)",
+      "aliases": [
+        "BBT",
+        "basal body temperature",
+        "temperatura paggising",
+        "temperatura ng katawan sa umaga",
+        "temperature method"
+      ],
+      "glance": "Ang basal body temperature ay ang temperatura ng katawan mo sa umaga habang ganap na nakapahinga, na bahagyang tumataas pagkatapos ng obulasyon.",
+      "overview": "Ang basal body temperature (BBT) ay ang temperatura ng iyong katawan kapag ganap itong nakapahinga. Kapag sinusukat sa parehong paraan araw-araw, nagpapakita ito ng maliit pero makabuluhang pagbabago sa buong siklo: pagkatapos ng obulasyon, bahagya itong tumataas at nananatiling mataas hanggang sa susunod mong regla.\n\nMaliit ang pagtaas — mga 0.4 hanggang 0.8°F (humigit-kumulang 0.2 hanggang 0.4°C) — kaya binabasa ito mula sa pattern sa loob ng ilang araw, hindi sa iisang sukat. Para makita ito, kinukuha mo ang iyong temperatura tuwing umaga bago bumangon, kumain o uminom, mainam kung sa parehong oras. Pagsapit ng mga tatlong araw matapos magsimulang tumaas ang temperatura, halos lahat ay nakapag-obulasyon na.\n\nDahil ang pagtaas ay dumarating *pagkatapos* mailabas ang itlog, kinukumpirma ng BBT na naganap na ang obulasyon sa halip na hulaan ito nang maaga. Sa loob ng ilang siklo, matutulungan ka nitong makita ang hugis ng sarili mong siklo, bagaman kung ito lang ang gagamitin, hindi ito eksaktong paraan para matukoy ang mga fertile na araw.",
+      "deep": "Ang BBT ay isa sa mga senyales ng fertility awareness na itinatala araw-araw, kasama ng cervical mucus at haba ng siklo. Natural itong kapares ng pagsubaybay sa mucus: ang pagbabago tungo sa malinaw at madulas na mucus ay nagpapahiwatig na nagbubukas na ang fertile window, habang ang pagtaas ng temperatura makalipas ang ilang araw ay nagpapatunay na lumipas na ang obulasyon. Maraming bagay ang maaaring bahagyang magpabago sa temperatura sa pamamahinga — kulang na tulog, sakit, alak, o pagtulog nang mas matagal kaysa karaniwan — kaya hindi gaanong mahalaga ang iisang kakaibang sukat kumpara sa kabuuang takbo.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Pagdurugo habang buntis",
+      "aliases": [
+        "pagdurugo habang buntis",
+        "dinudugo habang buntis",
+        "spotting habang buntis",
+        "may dugo buntis",
+        "bleeding pregnancy"
+      ],
+      "glance": "Hindi laging seryoso ang pagdurugo habang buntis — karaniwan ang bahagyang spotting sa simula — pero laging magpatingin sa doktor o midwife.",
+      "overview": "Ang pagdurugo mula sa ari habang buntis ay hindi laging senyales na may mali. Medyo karaniwan ang bahagyang pagdurugo o spotting lalo na sa maagang bahagi ng pagbubuntis, at maraming pagbubuntis ang nagpapatuloy nang maayos pagkatapos nito.\n\nGayunman, ang pagdurugo ay maaaring minsan senyales ng problema — tulad ng pagkakunan (miscarriage) o ectopic pregnancy — kaya ito ang uri ng bagay na dapat **laging ipatingin**, gaano man kaunti o karami. Sa pagpapatingin natutukoy ang sanhi, at sa ganitong paraan mabilis kang makakakuha ng tamang pangangalaga kung kailangan mo ito.\n\nDahil ang iisang sintomas ay maaaring mangahulugan ng magkakaibang bagay, ang makatutulong na hakbang ay hindi ang manghula — kundi ang makipag-ugnayan at magpatingin.",
+      "deep": null,
+      "when_to_see_doctor": "- **Laging kontakin ang iyong maternity unit** (o, kung wala ka pang 20 linggo o wala sa iyo ang kanilang numero, isang early pregnancy unit o isang **doktor na tumatanggap ng pasyente sa labas ng regular na oras**) kung mayroon kang **anumang** pagdurugo sa ari habang buntis, kahit bahagyang spotting lang — para matingnan ang sanhi.",
+      "red_flags": "- Tumawag sa **{{emergency}} o pumunta sa emergency room ng ospital** kung **malakas ang pagdurugo** — halimbawa, lubusang nababasa ng dugo ang napkin ilang sandali lang matapos itong isuot — lalo na kung may kasamang **matinding pananakit ng tiyan, pananakit sa dulo ng balikat, o pakiramdam na nasusuka, parang hihimatayin, nahihilo, o nawawalan ng malay.** Kailangan nito ng emergency na pangangalaga."
+    },
+    "breast-awareness": {
+      "title": "Pagkilala sa sariling suso (breast awareness)",
+      "aliases": [
+        "breast awareness",
+        "pagsusuri sa suso",
+        "breast self-exam",
+        "pagkapa sa suso",
+        "bukol sa suso",
+        "self-exam ng dibdib"
+      ],
+      "glance": "Ang breast awareness ay ang pag-alam lang kung ano ang karaniwang hitsura at pakiramdam ng iyong mga suso, para mapansin mo ang mga pagbabago.",
+      "overview": "Ang breast awareness ay hindi espesyal na teknik — ito ay ang pagkilala lang kung ano ang normal para sa iyo, para mapansin agad ang anumang bago. Ang regular na pagsusuri sa iyong suso o dibdib ay tumutulong sa iyong matutunan ang karaniwang hitsura at pakiramdam nito; mainam na gawin ito isang beses sa isang buwan.\n\nWalang iisang “tamang” paraan. Maraming tumitingin sa salamin nang nakababa ang mga braso at pagkatapos ay nakataas, at kinakapa ang bawat suso, hanggang sa kilikili. Ang binubuo mo ay pagiging pamilyar, hindi diagnosis — ang layunin ay mapansin lang nang maaga ang pagbabago kung sakaling mangyari ito.\n\nNatural ding nagbabago ang mga suso sa buong siklo at sa paglipas ng buhay, kaya ganap na normal ang ilang pagbabago. Ang punto ng awareness ay makilala nang sapat ang sarili mong normal para mapansin ang bagay na hindi normal.",
+      "deep": null,
+      "when_to_see_doctor": "Magpatingin sa family doctor kung may mapansin kang anumang pagbabago na hindi normal para sa iyo, tulad ng:\n\n- bukol o pamamaga sa iyong suso, dibdib, o kilikili\n- pagbabago sa balat, tulad ng maliliit na lubog (maaaring magmukhang balat ng dalandan) o pamumula\n- pagbabago sa laki o hugis ng isa o parehong suso\n- likidong lumalabas sa utong (kung hindi ka buntis o nagpapasuso), na maaaring may kasamang dugo\n- pagbabago sa hitsura ng iyong utong, tulad ng pagbaling nito papaloob\n- pananakit sa iyong suso o kilikili na hindi nawawala\n\nKaramihan sa mga pagbabago sa suso ay hindi kanser at lumalabas na hindi mapanganib — pero laging mainam na ipatingin agad sa doktor ang isang pagbabago, dahil kung may kailangan mang asikasuhin, nakatutulong ang maagang pagtuklas.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Pagpapasuso",
+      "aliases": [
+        "pagpapasuso",
+        "pagpapadede",
+        "breastfeeding",
+        "gatas ng ina",
+        "breast milk",
+        "chestfeeding"
+      ],
+      "glance": "Pinoprotektahan ng gatas ng ina ang sanggol laban sa impeksyon at umaangkop ito habang lumalaki siya — at may pakinabang ang kahit anong dami.",
+      "overview": "Ang gatas ng ina ay natural at kumpletong pagkain para sa sanggol: nagbibigay ito ng nutrisyon, bitamina at mineral na kailangan niya, at nagbabago ito sa paglipas ng panahon para tumugma sa kanyang yugto. Tumutulong din itong protektahan siya laban sa mga impeksyon at sakit, at nag-aalok ng ilang pangmatagalang pakinabang sa kalusugan.\n\nMay mga pakinabang din para sa nagpapasuso — naiuugnay ang pagpapasuso sa mas mababang panganib ng kanser sa suso at sa obaryo, bukod sa iba pa — at ang pangkalahatang pattern ay habang mas madalas at mas matagal kang nagpapasuso, mas malaki ang pakinabang. Mahalaga ring tandaan: sulit ang **kahit anong** dami ng gatas ng ina; hindi ito lahat-o-wala.\n\nMaaari ding mas mahirap kaysa inaasahan ang pagpapakain sa sanggol sa simula, at karaniwan iyon. May tulong na makukuha — mula sa iyong midwife, health visitor (nars), at mga lokal na serbisyong sumusuporta sa pagpapasuso — kaya mainam na humingi agad ng tulong kung hindi ito maayos na nangyayari.",
+      "deep": null,
+      "when_to_see_doctor": "- Humingi agad ng tulong sa iyong **midwife o health visitor** kung masakit o mahirap ang pagpapasuso, o nag-aalala kang hindi sapat ang nakukuha ng iyong sanggol — malaki ang maitutulong ng suporta.\n- Ang paraan ng pagpapakain mo sa iyong sanggol ay personal na desisyon, at may suporta anuman ang piliin mo; ang mahalaga ay malusog ka at ang iyong sanggol.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Brown discharge (kulay-kapeng discharge)",
+      "aliases": [
+        "brown discharge",
+        "kulay kape na discharge",
+        "brown spotting",
+        "lumang dugo",
+        "maitim na discharge",
+        "brown na dugo sa regla"
+      ],
+      "glance": "Kadalasan, ang brown discharge ay kaunting dugo, madalas sa mga mahinang araw ng regla. Ang brown spotting sa ibang panahon ay dapat ipatingin sa doktor.",
+      "overview": "Ang brown discharge ay kaunting kulay-kapeng dugo o likido na napapansin mo sa iyong panty o sa tissue. Marami ang nakakakita nito paminsan-minsan, at kadalasan ay bahagi lang ito ng regla.\n\nHindi laging matingkad na pula ang dugo ng regla. Sa pinakamalakas na mga araw, kadalasan itong pula, pero sa mas mahihinang araw ay maaari itong magmukhang pink o brown. Kaya karaniwan at normal ang medyo brown na kulay sa mga mahinang araw ng iyong regla.\n\nMaaari ring lumabas ang brown sa ibang panahon. Ang spotting ay maliliit na patak ng pink, pula o brown na dugo, at may ilang karaniwang sanhi ang spotting sa pagitan ng regla. Madalas na sanhi ang hormonal na kontrasepsyon, tulad ng pill. Kabilang din sa iba pang sanhi ang maliliit na tumutubong laman sa loob o paligid ng matris (tulad ng polyp o fibroids) at mga impeksyon tulad ng chlamydia. Sa napakaagang pagbubuntis, may ilang nakapapansin ng kaunting spotting sa panahong dapat sanang darating ang kanilang regla. Tinatawag itong implantation bleeding.\n\nDahil ang brown spotting sa labas ng regla ay maaaring manggaling sa iba't ibang sanhi, na karamihan ay hindi malubha, ang makatutulong na hakbang ay hindi ang manghula. Ang dapat ay ipatingin ito, para malaman mo kung ano ang nasa likod nito sa iyong kaso.",
+      "deep": null,
+      "when_to_see_doctor": "- Magpatingin sa family doctor o sa sexual health clinic kung may **brown spotting o pagdurugo ka sa pagitan ng regla o pagkatapos makipagtalik**, kahit kaunti lang. Kadalasan ay hindi ito seryoso, pero laging mainam na ipatingin ito.\n- Kung **buntis ka, o maaaring buntis**, kontakin ang iyong maternity unit, isang early pregnancy unit o isang **doktor na tumatanggap ng pasyente sa labas ng regular na oras** tungkol sa anumang spotting, kasama ang brown spotting, para matingnan ang sanhi.\n- Magpatingin sa family doctor kung may mapansin kang **anumang brown o pink na discharge o pagdurugo pagkatapos ng iyong menopause**, kahit kaunti lang ito o isang beses pa lang nangyari.\n- Humingi ng payo sa family doctor, sa sexual health clinic o sa doktor na tumatanggap ng pasyente sa labas ng regular na oras kung **nagbago ang kulay, amoy o tekstura** ng iyong discharge, o may kasama itong pangangati, hapdi, pananakit sa puson (pelvic pain) o pananakit kapag umiihi.",
+      "red_flags": "- Humingi ng **agarang** appointment sa family doctor, o kontakin ang **doktor na tumatanggap ng pasyente sa labas ng regular na oras**, kung **hindi ka dinatnan ng regla kamakailan at may kakaibang pagdurugo ka kasabay ng pananakit ng tiyan o puson**. Kailangan itong masuri agad, dahil maaari itong senyales ng ectopic pregnancy.\n- Kung buntis ka, tumawag sa **{{emergency}}** kung dinudugo ka at may **matinding pananakit ng tiyan, pananakit sa balikat, pakiramdam na parang hihimatayin, nahihilo o nasusuka, o malakas ang pagdurugo** (lubusang nababasa ng dugo ang napkin ilang sandali lang matapos itong isuot)."
+    },
+    "cervical-mucus": {
+      "title": "Cervical mucus",
+      "aliases": [
+        "cervical mucus",
+        "puti",
+        "discharge sa ari",
+        "discharge",
+        "egg white mucus",
+        "malagkit na discharge"
+      ],
+      "glance": "Ang cervical mucus ay ang natural na discharge na nagbabago sa buong siklo at nagpapakita ng iyong mga fertile na araw.",
+      "overview": "Ang cervical mucus ay ang likidong ginagawa ng cervix (kuwelyo ng matris), na maaaring mapansin mo bilang discharge. Normal ito, at nagbabago ang hitsura at pakiramdam nito ayon sa medyo inaasahang pattern sa buong siklo — kaya ito ang isa sa mga senyales na ginagamit para matukoy ang mga fertile na araw.\n\nPagkatapos na pagkatapos ng regla, madalas may ilang “tuyong” araw na kaunti lang ang mucus. Habang nagsisimulang mahinog ang isang itlog, dumarami ang mucus at kadalasang puti o dilaw, malabo at malagkit. Sa mga araw bago mismo ang obulasyon, kadalasan itong nagiging malinaw, basa at madulas, na nababanat sa pagitan ng mga daliri tulad ng hilaw na puti ng itlog — ito ang pinaka-fertile na panahon. Pagkatapos ng obulasyon, kadalasan itong muling nagiging malagkit at malabo, o natutuyo.\n\nMedyo iba-iba ang pattern ng bawat isa, at maaaring abutin ng ilang siklo ng pagmamasid bago mo makilala ang sa iyo. May ilang bagay — tulad ng hormonal na kontrasepsyon, pagpapasuso, o impeksyon — na maaaring magpabago sa mucus, kaya hindi ito maaasahang senyales ng fertility para sa lahat.",
+      "deep": "Ang pagbasa sa cervical mucus ay isa sa mga senyales ng fertility awareness na sinusubaybayan ng mga tao, kasama ng temperatura ng katawan sa pamamahinga at haba ng siklo; kadalasang dalawa hanggang tatlong siklo ang kailangan para matutunan ang mga ito. Hindi tulad ng pagtaas ng temperatura, na kinukumpirma lang ang obulasyon pagkatapos itong mangyari, ang paglipat sa malinaw, madulas, at parang puti-ng-itlog na mucus ay kadalasang lumilitaw *bago* ang obulasyon, kaya ito ginagamit para ipahiwatig ang fertile window habang nagbubukas ito sa halip na pagkatapos itong magsara.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Cervical screening (Pap smear)",
+      "aliases": [
+        "cervical screening",
+        "pap smear",
+        "pap test",
+        "smear test",
+        "pagsusuri sa cervix"
+      ],
+      "glance": "Ang cervical screening ay isang regular na pagsusuri sa kalusugan ng iyong cervix na tumutulong na maiwasan ang cervical cancer.",
+      "overview": "Ang cervical screening ay isang test na sumusuri sa kalusugan ng cervix — ang bukana ng matris sa itaas na bahagi ng ari. Hindi ito test para sa kanser. Sa halip, paraan ito para matukoy nang maaga ang mga pagbabago at makatulong na mapigilan ang cervical cancer bago pa ito magsimulang mabuo.\n\nIniimbitahan ang lahat ng may cervix mula edad 25 hanggang 64. Pinadadalhan ka ng imbitasyon kapag oras mo na, sa regular na pagitan, kaya hindi mo kailangang tandaan na magpa-book nang kusa — bagaman laging ikaw ang magpapasya kung pupunta ka.\n\nMabilis lang ang mismong test at nars ang gumagawa nito. Marami ang medyo kinakabahan tungkol dito, na lubos na nauunawaan; ang pag-alam kung para saan ito — isang regular at pang-iwas na pagsusuri — ay makatutulong na maging mas magaan ito sa pakiramdam.",
+      "deep": null,
+      "when_to_see_doctor": "- Ang screening ay para sa panahong **wala** kang sintomas. Kung may mapansin kang nakababahala sa pagitan ng mga screening — tulad ng kakaibang pagdurugo (sa pagitan ng regla, pagkatapos makipagtalik, o pagkatapos ng menopause) — magpatingin sa family doctor sa halip na hintayin ang susunod mong imbitasyon.\n- Kung naimbitahan ka na at hindi ka sigurado o nababalisa kang pumunta, mainam na kausapin ang iyong family doctor o ang nars ng klinika, na makapagpapaliwanag kung ano ang mangyayari at makasasagot sa iyong mga tanong.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Pang-aabuso sa bata at pagpapanatiling ligtas ng mga bata",
+      "aliases": [
+        "pang-aabuso sa bata",
+        "child abuse",
+        "pagpapabaya sa bata",
+        "kaligtasan ng bata",
+        "pagprotekta sa bata",
+        "nag-aalala sa isang bata"
+      ],
+      "glance": "Kung nag-aalala kang may batang maaaring sinasaktan o pinababayaan, tama na humingi ng payo — hindi mo kailangang maging sigurado.",
+      "overview": "Ang pang-aabuso sa bata — o child maltreatment — ay pananakit sa sinumang wala pang 18 taong gulang. Kabilang dito ang pisikal, sekswal, at emosyonal na pang-aabuso, at pagpapabaya (hindi pagtugon sa mga pangunahing pangangailangan ng bata). Nakalulungkot na karaniwan ito, maaari itong magdulot ng panghabambuhay na pinsala, at hindi ito kailanman kasalanan ng bata.\n\nMaaaring may nag-aalala ka tungkol sa isang bata sa iyong buhay, o sa isang batang napansin mo. Hindi mo kailangang maging sigurado, o magkaroon ng patunay, para kumilos sa pag-aalalang iyon — ang pagtitiwala rito at ang paghingi ng payo ang mismong tamang gawin, at maaari nitong maprotektahan ang isang bata.\n\nAt kung ikaw mismo ay nakaranas ng pang-aabuso noong bata ka, alamin na hindi kailanman naging kasalanan mo ang pinsala, at may suporta ring makukuha para sa iyo, sa anumang edad.",
+      "deep": null,
+      "when_to_see_doctor": "- Kung nag-aalala ka tungkol sa isang bata, maaari kang makipag-ugnayan sa **proteksyon ng bata / social services**, sa isang nakalaang **helpline para sa proteksyon ng bata**, o sa isang **family doctor, health visitor, o sa paaralan ng bata** para humingi ng payo — nang kumpidensyal.\n- Hindi ka “nag-o-overreact” sa pagtatanong. Mas mabuting magtanong at alamin kaysa maghintay.",
+      "red_flags": "- Kung ang isang bata ay nasa **agarang panganib** o malubhang nasaktan, kontakin ngayon din ang emergency services: **112** sa EU (kasama ang Italya), **999** sa UK, **911** sa US at Canada."
+    },
+    "coercive-control": {
+      "title": "Coercive control (mapang-kontrol na pang-aabuso)",
+      "aliases": [
+        "coercive control",
+        "kontrolado ng partner",
+        "mapang-kontrol na asawa",
+        "emosyonal na pang-aabuso",
+        "sikolohikal na pang-aabuso",
+        "pinansyal na pang-aabuso",
+        "gaslighting"
+      ],
+      "glance": "Ang coercive control ay isang pattern ng mapang-kontrol na pag-uugali — paghihiwalay sa iyo sa iba, pagmamanman, pagbabanta — na kinikilalang anyo ng pang-aabuso.",
+      "overview": "Ang coercive control ay isang anyo ng pang-aabuso na gumagana sa pamamagitan ng pagkontrol sa halip na, o kasabay ng, pisikal na pananakit. Isa itong pattern — hindi iisang away — kung saan unti-unting nililimitahan ng isang tao ang kalayaan at pagkakakilanlan ng isa pa.\n\nMaaari itong magmukhang pagkakahiwalay sa mga kaibigan at pamilya, pagbabantay o paghihigpit sa iyong telepono, mga pinupuntahan o paggastos, pagsasabi sa iyo kung ano ang isusuot o kung paano kumilos, o pamumuhay nang may palagiang pamimintas, pagbabanta, o pananakot. Dahil maaaring walang pasa, mahirap itong pangalanan, at maaaring hindi ito makita ng iba — pero kinikilala itong pang-aabuso, at maaari itong makapinsala nang kasinlubha ng pisikal na karahasan.\n\nKung nakikilala mo ang ilan dito, hindi ito senyales na masyado kang sensitibo o na ikaw ang nagdulot nito sa sarili mo. Ang mapang-kontrol na pag-uugali ay pagpili ng ibang tao. Ang pag-unawa rito kung ano talaga ito ay maaaring maging unang hakbang tungo sa suporta.",
+      "deep": "Kadalasang dahan-dahang nabubuo ang coercive control, na bahagi ng dahilan kung bakit mahirap itong mapansin mula sa loob — ang maliliit na pagkontrol ay nagiging normal, at lumalaki ang pagdududa sa sarili. Unti-unti nitong pinahihina ang kalusugan ng isip. Ang pakikipag-usap tungkol dito sa isang taong sinanay na umunawa sa ganitong mga pattern ay makatutulong sa iyong makita nang mas malinaw ang sitwasyon at pag-isipan kung ano ang gusto mong gawin kasunod, nang walang pamimilit.",
+      "when_to_see_doctor": "- Ang isang anti-violence center o helpline (sa Italya, **1522**) ay maaaring makipag-usap sa iyo tungkol sa nararanasan mo, nang kumpidensyal at libre, at tulungan kang maunawaan ang iyong mga opsyon — hindi mo kailangang nasa pisikal na panganib para humingi ng tulong.\n- Makasusuporta rin sa iyo ang isang family doctor o counsellor at maituturo ka nila sa mga espesyalistang serbisyo.",
+      "red_flags": "- Kung ikaw ay nasa **agarang panganib**, kontakin ngayon din ang emergency services: **112** sa EU (kasama ang Italya), **999** sa UK, **911** sa US at Canada.\n- Sa Italya, ang **1522** ay libre, bukas 24 na oras bawat araw, anonymous, at may iba't ibang wika — sa telepono o chat."
+    },
+    "combined-pill": {
+      "title": "Ang combined pill",
+      "aliases": [
+        "combined pill",
+        "pills",
+        "pildoras",
+        "birth control pills",
+        "combined oral contraceptive",
+        "COC"
+      ],
+      "glance": "Ang combined pill ay isang pildoras na iniinom araw-araw, may dalawang hormone, at pangunahing gumagana sa pamamagitan ng pagpigil sa obulasyon.",
+      "overview": "Ang combined pill ay isang tabletang iniinom araw-araw na may dalawang hormone — mga bersyon ng estrogen at progestogen, na kahawig ng mga ginagawa ng obaryo. Isa ito sa mga pinakakilalang anyo ng kontrasepsyon.\n\nPinipigilan nito ang pagbubuntis sa ilang paraan nang sabay-sabay. Pangunahin, pinipigilan nito ang obaryo na maglabas ng itlog (obulasyon). Pinalalapot din nito ang mucus sa kuwelyo ng matris (cervix), kaya mas mahirap makalusot ang sperm, at pinanipis ang lining ng matris.\n\nAng bisa nito ay nakadepende sa pag-inom nito ayon sa tagubilin: mahigit 99% ang bisa nito kapag perpekto ang paggamit, pero sa karaniwang pang-araw-araw na paggamit — kung saan minsan ay nakakalimutan o naaantala ang pag-inom — mga 91% ang bisa nito. Tulad ng karamihan sa mga paraan, hindi ito nagpoprotekta laban sa STI, kaya may ilang gumagamit din ng condom.",
+      "deep": "Kadalasang iniinom ang combined pill ayon sa isang pattern sa loob ng buwan, at ang paraan ng pag-inom nito, kung kanino ito angkop, at ang mga side effect at panganib nito ay tinatalakay ng isang health professional kapag inireseta ito — hindi ito angkop para sa lahat. Dahil araw-araw itong iniinom, ang tunay na bisa nito ay lubos na nakasalalay sa nakagawiang routine. Ipinaliliwanag ng artikulong ito kung ano ito at kung paano ito gumagana; ang mga detalye ng pagsisimula, pag-inom, o pagtigil dito ay dapat pag-usapan kasama ang family doctor, nars, o parmasyutiko.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Mga karaniwang sintomas ng pagbubuntis",
+      "aliases": [
+        "sintomas ng pagbubuntis",
+        "hirap habang buntis",
+        "heartburn habang buntis",
+        "sakit ng likod buntis",
+        "manas",
+        "tibi habang buntis",
+        "almoranas buntis"
+      ],
+      "glance": "Maraming maliliit na pananakit at pagbabago ang dala ng pagbubuntis — karamihan ay normal, bagaman may ilang dapat ipatingin.",
+      "overview": "Maraming pagbabago ang pinagdaraanan ng iyong katawan sa pagbubuntis, at kasama nito ang mahabang listahan ng pang-araw-araw na maliliit na abala. Karamihan ay karaniwan at hindi senyales na may mali — bahagi lang sila ng pagpapalaki ng sanggol.\n\nKabilang sa mga pamilyar ang pananakit ng likod, heartburn at hindi pagkatunaw ng pagkain, tibi, almoranas, pamamaga (manas) ng bukung-bukong, paa at daliri, pagkapagod at putol-putol na tulog, pulikat sa binti, sakit ng ulo, pakiramdam na parang hihimatayin, at mas maraming discharge kaysa karaniwan. Marami ang gumagaan sa maliliit na paraan ng pagpapaginhawa, at maipapayo ng iyong midwife kung ano ang ligtas kung may nakakaabala sa iyo.\n\nAng makatutulong ay ang malaman kung aling mga pagbabago ang karaniwan lang at alin ang dapat ipaalam — dahil may ilang sintomas, bagaman hindi gaanong karaniwan, na kailangang ipatingin sa halip na hintaying lumipas.",
+      "deep": null,
+      "when_to_see_doctor": "Normal ang karamihan dito, pero kontakin agad ang iyong **midwife o maternity unit** kung mayroon kang:\n\n- **pagdurugo sa ari**, o biglang pagbulwak o pagtulo ng likido mula sa ari\n- **mas kaunting paggalaw ng iyong sanggol** kaysa karaniwan\n- **matinding sakit ng ulo, problema sa paningin, o biglang pamamaga** ng mukha, kamay o paa (posibleng senyales ng pre-eclampsia)\n- **matindi o isang-panig na pananakit ng tiyan**, o **lagnat**\n- **pangangati**, lalo na sa iyong mga kamay at paa o kung lumalala ito sa gabi (maaari itong senyales ng isang kondisyon sa atay habang buntis na kailangang ipatingin)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Condom",
+      "aliases": [
+        "condom",
+        "kondom",
+        "rubber",
+        "external condom",
+        "barrier method",
+        "proteksyon sa sex"
+      ],
+      "glance": "Ang condom ay isang barrier method — at ito lang ang uri ng kontrasepsyon na nagpoprotekta rin laban sa STI.",
+      "overview": "Ang condom ay isang manipis na harang — kadalasang gawa sa latex, o sa alternatibong plastik para sa may allergy sa latex — na isinusuot sa ari ng lalaki habang nakikipagtalik. Simple ang paraan ng paggana nito: pinipigilan nitong makapasok ang sperm sa ari ng babae.\n\nAng nagpapaiba sa condom sa ibang kontraseptibo ay **ito lang ang paraan na nagpoprotekta rin laban sa mga sexually transmitted infection (STI), kasama ang HIV.** Kaya madalas itong ginagamit kasabay ng ibang paraan — ang isa para sa pagbubuntis, ang dalawa nang magkasama para sa proteksyon laban sa impeksyon.\n\nKapag ginamit nang tama sa bawat pagkakataon, mga 98% ang bisa ng condom sa pagpigil ng pagbubuntis. Sa karaniwang paggamit — kung saan minsan ay mali ang paggamit o hindi ito ginagamit sa bawat pagkakataon — bumababa ito sa mga 82%. Ang tama at palagiang paggamit ang nagpapaiba ng resulta.",
+      "deep": "Dahil ginagamit ang condom sa mismong sandali sa halip na nang maaga, ang tunay na bisa nito ay lubos na nakasalalay sa palagian at tamang paggamit. Ang internal condom (isinusuot sa loob ng ari ng babae) ay isa pang opsyong barrier. Hindi tulad ng karamihan sa mga paraan, hindi kailangan ng reseta ang condom at madali itong mabili kahit saan, at ang doble nitong papel — proteksyon laban sa pagbubuntis at sa STI — ang dahilan kung bakit madalas itong mabanggit sa mga usapan tungkol sa mas ligtas na pakikipagtalik.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Pahintulot at paggalang",
+      "aliases": [
+        "consent",
+        "pahintulot",
+        "igalang ang kanyang hangganan",
+        "paggalang sa katawan niya",
+        "enthusiastic consent",
+        "bodily autonomy"
+      ],
+      "glance": "Ang consent ay isang malinaw, malaya, at buong-siglang oo — sa bawat pagkakataon, at maaari itong bawiin anumang sandali.",
+      "overview": "Nagsisimula ang paggalang sa karapatan niyang magpasya tungkol sa sarili niyang katawan — palagi. Ang pagpayag (consent) sa intimacy ay nangangahulugang isang **oo** na malayang ibinigay, may sapat na kaalaman, at buong-sigla. Hindi consent ang pananahimik. Hindi consent ang napipilitang “sige na nga.” Ang taong tulog, lasing na lasing, o nasa ilalim ng pamimilit ay hindi tunay na makapagbibigay ng consent. At ang oo sa isang bagay, o sa isang araw, ay hindi oo sa lahat o sa susunod na pagkakataon.\n\nMaaaring bawiin ang consent anumang sandali, at ang “tigil” o “hindi ngayong gabi” ay kumpletong sagot na hindi kailangan ng paliwanag. Hindi okay ang pamimilit, ang pagpapakonsensya, ang pagtatampo hanggang pumayag siya, o ang pagturing sa sex bilang bagay na utang niya sa iyo — hindi utang ang isang relasyon.",
+      "deep": "Ganito ang hitsura ng paggalang sa praktika:\n\n- **Magtanong, at kumustahin siya.** “Okay lang ba ito?” at pansinin kung paano siya tumutugon — sa salita at sa katawan.\n- **Tanggapin nang maayos ang “hindi.”** Walang pagmamaktol, pamimilit, o pagpaparusa. Ang sagot niya ang katapusan ng usapan.\n- **Mahalaga ang sigla.** Kung mukhang hindi siya sigurado, nag-aalangan o sumasabay lang, tumigil at magtanong.\n- **Katawan niya, desisyon niya** — tungkol sa intimacy, kontrasepsyon, pagbubuntis, sa kanyang kalusugan, sa kanyang hitsura, sa kanyang mga pagpili. May boses ka sa inyong pinagsasaluhang buhay, pero hindi ka kailanman may veto sa katawan niya.\n- **Araw-araw ang paggalang.** Kung paano ka makipag-usap sa kanya, kung paano mo siya pinag-uusapan, at kung paano mo iginagalang ang kanyang mga hangganan sa maliliit na bagay ang pundasyong kinasasaligan ng lahat ng iba pa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Kontrasepsyon",
+      "aliases": [
+        "kontrasepsyon",
+        "family planning",
+        "birth control",
+        "contraception",
+        "pampigil sa pagbubuntis",
+        "paraan para hindi mabuntis"
+      ],
+      "glance": "Ang kontrasepsyon ay ang iba't ibang paraan para maiwasan ang pagbubuntis — at marami ang mapagpipilian.",
+      "overview": "Ang kontrasepsyon — tinatawag ding birth control o family planning — ay ang hanay ng mga paraang ginagamit para maiwasan ang pagbubuntis. Marami ang mga ito, at iba-iba ang paraan ng paggana nila: ang ilan ay gumagamit ng hormone, ang ilan ay harang (barrier), ang ilan ay inilalagay sa loob ng matris, at ang ilan ay batay sa pagsubaybay sa siklo.\n\nAng bisa ng isang paraan ay lubos na nakadepende sa kung paano ito ginagamit. Ang ilang paraan — tulad ng implant at mga IUD (intrauterine device) — ay “ikabit at kalimutan,” at mahigit 99% ang bisa. Ang iba, tulad ng pill o condom, ay napakabisa kapag perpekto ang paggamit, pero medyo mas mababa sa karaniwang pang-araw-araw na paggamit, dahil mas madaling makalimutan ang isang pill o magamit nang mali ang condom.\n\nIsang bagay na mainam malaman: **condom lang ang nagpoprotekta rin laban sa mga sexually transmitted infection (STI)**. Pinipigilan ng ibang paraan ang pagbubuntis pero hindi ang impeksyon, kaya minsan ay ginagamit ang condom kasabay ng ibang paraan.\n\nWalang iisang “pinakamahusay” na paraan — ang tamang paraan ay nakadepende sa iyong kalusugan, iyong katawan, at kung ano ang akma sa iyong buhay. Maipapaliwanag sa iyo ng family doctor o ng sexual health clinic ang mga opsyon at matutulungan ka nilang pumili.",
+      "deep": "Dahil malaki ang pagkakaiba ng mga paraan, nakatutulong na isipin kung ano ang mahalaga sa iyo: gaano ito kabisa, kung kailangan mong tandaan ang isang bagay araw-araw, gaano ito katagal, kung gusto mo ng hormone o hindi, at kung mahalaga ang proteksyon laban sa STI sa iyong sitwasyon. Maraming nagpapalit ng paraan sa buong buhay nila habang nagbabago ang kanilang pangangailangan. Inilalarawan ng knowledge base na ito kung paano gumagana ang mga karaniwang paraan para mas maging malinaw ang mga pagpipilian — pero ang desisyon, at anumang reseta o pagkakabit, ay dapat gawin kasama ang isang health professional.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Kontrasepsyon at timbang",
+      "aliases": [
+        "nakakataba ba ang pills",
+        "pills at pagtaba",
+        "tumaba dahil sa pills",
+        "kontrasepsyon at timbang",
+        "injectable at pagtaba",
+        "implant at pagtaba",
+        "birth control weight gain"
+      ],
+      "glance": "Walang ebidensyang nakapagpapataba ang combined pill, pero ang contraceptive injection ay maaaring makapagpataba. Nakadepende ito sa paraan.",
+      "overview": "Napakakaraniwang tanong kung papatabain ka ba ng kontrasepsyon. Ang tapat na sagot ay nakadepende ito sa paraan.\n\nPara sa combined pill, nakapapanatag ang ebidensya: walang ebidensyang tumataba ka dahil sa pag-inom nito. Ganoon din sa contraceptive patch at sa vaginal ring.\n\nIba ang contraceptive injection. Nakalista ang pagtaba bilang isa sa mga karaniwang side effect nito, kasama ng mga pagbabago sa iyong regla.\n\nPara sa progestogen-only pill (minsan ay tinatawag na mini pill) at sa contraceptive implant sa braso, may ilang nagsasabing tumaba sila. Pero walang sapat na ebidensya para masabi kung ang paraan mismo ang sanhi.\n\nIsang bahagi lang ng larawan ang timbang. Bawat paraan ay may sariling listahan ng posibleng side effect at panganib, at ang pagpili ng kontrasepsyon ay tungkol sa paghahanap ng akma sa iyong katawan, iyong kalusugan at iyong buhay. Matutulungan kang suriin ang mga opsyon ng isang parmasyutiko, family doctor, nars o sexual health clinic.",
+      "deep": null,
+      "when_to_see_doctor": "- Kung problema para sa iyo ang mga side effect, kasama ang mga pagbabago sa iyong timbang, kausapin ang isang parmasyutiko, family doctor, nars o sexual health clinic. Sa combined pill, sa patch o sa ring, may ilang side effect na maaaring mangyari sa simula ng paggamit. Kung nakakaabala pa rin ang mga ito pagkalipas ng mga 3 buwan, maaaring pag-usapan ng isang health professional kasama mo ang ibang pill o ibang uri ng kontrasepsyon.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Ang contraceptive implant",
+      "aliases": [
+        "contraceptive implant",
+        "implant",
+        "implant sa braso",
+        "Nexplanon",
+        "Implanon",
+        "family planning implant"
+      ],
+      "glance": "Ang implant ay isang maliit na baras na inilalagay sa itaas na bahagi ng braso at naglalabas ng hormone sa loob ng ilang taon.",
+      "overview": "Ang contraceptive implant ay isang maliit at nababaluktot na baras — halos kasinlaki ng palito ng posporo — na inilalagay sa ilalim lang ng balat ng itaas na bahagi ng braso ng isang sinanay na health professional. Kapag nailagay na, patuloy itong naglalabas ng hormone na progestogen at gumagana nang hanggang mga tatlong taon.\n\nPinipigilan nito ang pagbubuntis pangunahin sa pamamagitan ng pagpigil sa obaryo na maglabas ng itlog (obulasyon), at sa pagpapalapot ng mucus sa kuwelyo ng matris para hindi makalusot ang sperm. Dahil wala kang kailangang tandaan araw-araw, isa ito sa mga paraang “ikabit at kalimutan.”\n\nIyon din ang dahilan kung bakit isa ito sa mga pinakamaaasahang opsyon: mahigit 99% ang bisa ng implant, at halos hindi nagbabago ang bisa nito sa pagitan ng perpekto at karaniwang paggamit. Tulad ng ibang hormonal na paraan, hindi ito nagpoprotekta laban sa STI.",
+      "deep": "Ang implant ay isang pangmatagalan at nababawing paraan — patuloy itong gumagana hanggang tanggalin, at bumabalik ang fertility pagkatapos itong tanggalin. Ang paglalagay at pagtatanggal nito ay mabibilis na prosesong ginagawa ng isang health professional, na nagpapaliwanag din kung kanino ito angkop at kung ano ang mga side effect nito. Ipinaliliwanag ng artikulong ito kung ano ito at kung paano ito gumagana; ang desisyong magpalagay nito ay dapat pag-usapan kasama ang family doctor, nars, o sexual health clinic.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Ang iyong siklo at ang iyong kapakanan",
+      "aliases": [
+        "kapakanan",
+        "kalusugan at regla",
+        "siklo at kalusugan",
+        "menstrual cycle at kalusugan",
+        "vital sign"
+      ],
+      "glance": "Ang iyong siklo ay parang buwanang pagkumusta sa iyong kalusugan — maaaring mainam na pansinin ang mga pagbabago rito.",
+      "overview": "Hindi hiwalay ang iyong menstrual cycle sa iba pang bahagi ng iyong kalusugan — konektado ito rito. Ang siklong regular para sa iyo ay kadalasang senyales na maayos ang takbo ng iyong katawan. Kaya may ilang nag-iisip sa regla bilang isang uri ng buwanang senyales tungkol sa pangkalahatang kapakanan.\n\nMay epekto rito ang pang-araw-araw na buhay. Isang halimbawa ang timbang ng katawan: ang pagiging labis na kulang sa timbang o labis na sobra sa timbang ay maaaring makaapekto sa mga hormone na nagpapatakbo ng obulasyon, na maaaring magpairegular sa regla. Dalawang direksyon ito — ang pag-aalaga sa mga pangunahing bagay, tulad ng balanseng pagkain at pananatiling aktibo, ay sumusuporta sa siklo, at ang matatag na siklo ay senyales na nasa makatwirang balanse ang mga bagay na iyon.\n\nHindi ito tungkol sa paghahabol ng “perpektong” siklo o paninisi sa sarili mo dahil sa mga pagbabago. Ang punto lang ay ang mahinahong pagpansin sa iyong siklo ay maaaring maging kapaki-pakinabang na bintana sa kalagayan mo — at paalala na kumonsulta sa isang health professional kung may magbago.",
+      "deep": null,
+      "when_to_see_doctor": "- Magpatingin sa family doctor kung naging iregular ang iyong regla, tumigil ito, o nagbago ito sa paraang hindi karaniwan para sa iyo — ang tuloy-tuloy na mga pagbabago ay minsan maaaring tumuro sa isang bagay na dapat suriin.\n- Mainam ding kumonsulta kung nakaaapekto na sa iyong pang-araw-araw na buhay ang mga problema sa regla, para makakuha ka ng suporta sa halip na tiisin na lang ang mga ito.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Pang-aabusong pang-ekonomiya",
+      "aliases": [
+        "economic abuse",
+        "financial abuse",
+        "pinansyal na pang-aabuso",
+        "kinokontrol ang pera ko",
+        "kontrol sa pera",
+        "utang sa pangalan ko"
+      ],
+      "glance": "Ang pang-aabusong pang-ekonomiya ay pagkontrol sa access ng isang tao sa pera, trabaho o mga mapagkukunan — isang kinikilalang anyo ng pang-aabuso.",
+      "overview": "Ang pang-aabusong pang-ekonomiya ay kapag kinokontrol ng isang tao ang access ng ibang tao sa pera at sa mga bagay na nabibili ng pera. Isa itong anyo ng mapang-kontrol na pag-uugali, at madalas itong kasabay ng iba pang uri ng pang-aabuso.\n\nMaaari itong magmukhang pagkontrol sa lahat ng gastos o pagpipilit sa iyong ipaliwanag ang bawat sentimo, pagkuha sa iyong sahod o benepisyo, pag-utang sa pangalan mo, pagtatago sa iyo ng mga bank account o dokumento, o pagpigil sa iyong magtrabaho o mag-aral. Dahil maaari nitong iwan ang isang tao nang walang paraan para umalis o para mairaos ang araw-araw, isa ito sa mga paraan kung paano maaaring maramdamang parang bitag ang pang-aabuso.\n\nKung pamilyar sa iyo ang ilan dito, hindi ito senyales na “hindi ka marunong humawak ng pera” o na ikaw ang may kasalanan. Ang pagkontrol sa mga mapagkukunan ng ibang tao ay pagpili ng taong gumagawa nito — at kinikilala itong pang-aabuso.",
+      "deep": null,
+      "when_to_see_doctor": "- Makatutulong din dito ang mga serbisyong laban sa karahasan — hindi lang sa kaligtasan, kundi pati sa mga praktikal at pinansyal na hakbang, nang kumpidensyal at libre (sa Italya, maituturo ka ng helpline na **1522** sa lokal na suporta).\n- Maaaring kasama sa safety plan ang tahimik na pagtiyak na may access ka sa kaunting pera, mahahalagang dokumento, at mahahalagang numero.",
+      "red_flags": "- Kung ikaw ay nasa **agarang panganib**, kontakin ngayon din ang emergency services: **112** sa EU (kasama ang Italya), **999** sa UK, **911** sa US at Canada.\n- Sa Italya, ang **1522** — libre, bukas 24 na oras bawat araw, anonymous, may iba't ibang wika — ay makatutulong sa telepono o chat."
+    },
+    "ectopic-pregnancy": {
+      "title": "Ectopic pregnancy (pagbubuntis sa labas ng matris)",
+      "aliases": [
+        "ectopic pregnancy",
+        "ectopic",
+        "pagbubuntis sa labas ng matris",
+        "tubal pregnancy",
+        "pagbubuntis sa fallopian tube"
+      ],
+      "glance": "Ang ectopic pregnancy ay pagbubuntis na lumalaki sa labas ng matris — hindi ito maaaring magpatuloy at kailangan nito ng agarang medikal na pangangalaga.",
+      "overview": "Ang ectopic pregnancy ay kapag ang na-fertilize na itlog ay kumapit sa labas ng matris, kadalasan sa isa sa mga fallopian tube. Nakalulungkot, ang pagbubuntis sa ganitong lugar ay hindi maaaring mabuo bilang sanggol, at hindi ito maililipat sa matris — kaya laging kailangan itong gamutin.\n\nKadalasang lumilitaw ang mga senyales sa pagitan ng mga ika-4 at ika-12 linggo, at maaaring kabilang ang pananakit sa ibabang bahagi ng tiyan sa isang panig, pagdurugo sa ari o brown at matubig na discharge, pananakit sa dulo ng iyong balikat, o hindi komportableng pakiramdam kapag umiihi o dumudumi. Iba-iba ang kombinasyon ng mga sintomas, at ang ilan ay madaling mapagkamalang maliit na bagay lang, kaya mahalagang ipatingin ang mga ito sa doktor.\n\nHindi ito karaniwang sitwasyon, pero maaari itong maging seryoso, kaya hindi ito dapat hintaying lumipas. Ang maagang paghingi ng payo ay nangangahulugang maaalagaan ito nang ligtas.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakin ang iyong family doctor o isang **doktor na tumatanggap ng pasyente sa labas ng regular na oras** kung mayroon kang kombinasyon ng mga sintomas na ito **at maaaring buntis ka** — kahit hindi ka pa nagkakaroon ng positibong pregnancy test. Mahalagang humingi agad ng payo.",
+      "red_flags": "- Tumawag sa **{{emergency}} o pumunta sa emergency room ng ospital** kung may **biglaan, matalas at matinding pananakit sa iyong tiyan**, pakiramdam mo ay **lubhang nahihilo o parang hihimatayin**, mukha kang **napakaputla**, o nasusuka ka kasabay ng mga ito. Maaaring ibig sabihin nito ay pumutok ang fallopian tube — isang medical emergency na nangangailangan ng agarang gamutan."
+    },
+    "emergency-contraception": {
+      "title": "Emergency contraception (morning-after pill)",
+      "aliases": [
+        "emergency contraception",
+        "morning after pill",
+        "morning-after pill",
+        "day after pill",
+        "pampigil pagkatapos ng sex",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "Mapipigilan ng emergency contraception ang pagbubuntis pagkatapos ng pakikipagtalik nang walang proteksyon — at habang mas maaga, mas mabuti.",
+      "overview": "Ang emergency contraception ay paraan para maiwasan ang pagbubuntis pagkatapos makipagtalik nang walang kontrasepsyon, o kapag maaaring pumalya ang karaniwan mong paraan (nakalimutang pill, pumutok na condom). May dalawang uri, at mahalaga ang tamang oras para sa pareho.\n\nAng una ay ang **emergency pill**. May dalawang klase: ang isa (levonorgestrel) ay maaaring inumin hanggang 3 araw — 72 oras — pagkatapos makipagtalik, at ang isa pa (ulipristal acetate, brand name na ellaOne) hanggang 5 araw — 120 oras. Ang ikalawang opsyon ay ang **copper IUD (intrauterine device)**, na maaaring ikabit ng isang health professional hanggang 5 araw pagkatapos makipagtalik; ito ang pinakamabisang anyo ng emergency contraception, at maaari itong manatili bilang tuloy-tuloy na kontrasepsyon kung gusto mo.\n\nPara sa lahat ng ito, **habang mas maaga mong ginagamit, kadalasan ay mas mabisa ang mga ito** — kaya mainam na kumilos agad sa halip na maghintay. Makakakuha ka ng emergency contraception sa botika, sa family doctor, sa sexual health clinic, o sa walk-in centre, kadalasan nang libre.",
+      "deep": null,
+      "when_to_see_doctor": "- Dahil may takdang oras ito, huwag nang maghintay — mabilis na makapagbibigay ng emergency pill ang isang parmasyutiko, at maikakabit ng sexual health clinic o family doctor ang IUD.\n- Ang emergency contraception ay para maiwasan ang pagbubuntis, hindi ang impeksyon. Kung may anumang posibilidad ng sexually transmitted infection, makapagpapayo ang sexual health clinic tungkol sa pagpapa-test.\n- Kung pagkatapos nito ay mahigit ilang araw nang atrasado ang iyong regla, o ibang-iba ito kaysa karaniwan, mainam na mag-pregnancy test at kumausap ng isang health professional.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriosis",
+      "aliases": [
+        "endometriosis",
+        "endo",
+        "matinding sakit ng puson tuwing regla",
+        "masakit na regla endometriosis"
+      ],
+      "glance": "Ang endometriosis ay kondisyon kung saan tumutubo sa labas ng matris ang tissue na kahawig ng lining ng matris, na madalas nagdudulot ng pananakit.",
+      "overview": "Ang endometriosis ay pangmatagalang kondisyon kung saan ang mga cell na kahawig ng lining ng matris (uterus) ay tumutubo sa ibang bahagi ng katawan, tulad ng paligid ng obaryo, sa pelvis, o sa bituka. Karaniwan ito — tinatayang tinatamaan nito ang mga 1 sa bawat 10 babaeng nasa edad ng reproduksyon sa buong mundo.\n\nDahil kumikilos ang tissue na ito na medyo katulad ng lining ng matris, maaari itong magdulot ng pamamaga at, sa paglipas ng panahon, peklat na tissue. Ang pinakakaraniwang senyales ay pananakit: kadalasan ay matinding sakit ng regla, pero pati na rin pananakit sa puson o ibabang likod sa ibang panahon, pananakit habang o pagkatapos makipagtalik, at pananakit kapag umiihi o dumudumi. Karaniwan din ang napakalakas na regla, matinding pagkapagod, pagkalungkot, at hirap magbuntis. Malaki ang pagkakaiba-iba ng mga sintomas — may ilang matindi ang sakit, ang iba ay kaunti lang.\n\nMadalas hindi nauunawaan ang endometriosis at maaaring abutin ng mga taon bago ito makilala, bahagi nito ay dahil madalas ipinagwawalang-bahala ang sakit ng regla bilang “normal.” Ang matinding pananakit na gumugulo sa iyong buhay ay hindi basta dapat tiisin — dapat itong seryosohin.",
+      "deep": "Hindi pa alam ang eksaktong sanhi ng endometriosis, at sa ngayon ay wala pa itong lunas — pero makatutulong ang mga gamutan na makontrol ang mga sintomas, at ang suporta ay mula sa mga gamot hanggang, para sa ilan, operasyon, kasabay ng tulong para sa pisikal at emosyonal na pasanin. Isa sa pinakamalalaking hamon ang pagkaantala: sa karaniwan, maaaring abutin ng ilang taon, minsan ay marami pa, bago ma-diagnose. Bahagi iyon ng dahilan kung bakit napakahalaga ng malinaw na pagtatala ng iyong mga sintomas, at ng pagbabalik sa isang health professional kung hindi ka pinakikinggan.",
+      "when_to_see_doctor": "Mainam na magpatingin sa family doctor kung:\n\n- may matindi kang sakit ng regla na pumipigil sa iyong gawin ang karaniwang mga gawain\n- napakalakas ng iyong regla — halimbawa, kailangang magpalit ng napkin o tampon bawat 1–2 oras\n- may tuloy-tuloy kang pananakit sa puson o ibabang likod, pananakit habang o pagkatapos makipagtalik, o pananakit kapag umiihi o dumudumi\n- nahihirapan kang magbuntis\n- hindi nakatulong ang gamutang natanggap mo na, o lumala ang iyong mga sintomas\n\nDahil maaaring matagal bago ma-diagnose ang endometriosis, okay lang na bumalik kung hindi sineseryoso ang iyong mga sintomas — nakatutulong ang malinaw na larawan ng iyong pananakit sa paglipas ng panahon. Kung nakaaapekto rin sa iyong mood ang pananakit o ang malakas na pagdurugo, sabihin ito sa iyong family doctor; bahagi iyon ng buong larawan, at may suportang makukuha.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogen",
+      "aliases": [
+        "estrogen",
+        "oestrogen",
+        "hormone na estrogen",
+        "estradiol"
+      ],
+      "glance": "Ang estrogen ay isang mahalagang hormone na tumutulong ihanda ang iyong katawan para sa posibleng pagbubuntis bawat siklo.",
+      "overview": "Ang estrogen ay isa sa mga pangunahing hormone sa likod ng menstrual cycle. Sa unang kalahati ng siklo (ang follicular phase), tumataas ang antas nito habang nahihinog ang isang follicle sa obaryo. Pinakakapal ng pagtaas na ito ang lining ng matris at humahantong ito sa obulasyon.\n\nNakaiimpluwensya rin ang estrogen sa mga bagay na maaaring mapansin mo araw-araw — enerhiya, mood, at mga pagbabago sa cervical mucus sa paligid ng iyong mga fertile na araw. Pagkatapos ng obulasyon, bumababa ang antas nito at pagkatapos ay muling nagbabago, katuwang ang isa pang hormone, ang progesterone, sa ikalawang kalahati ng siklo.\n\nNatural na tumataas at bumababa ang mga antas nito sa bawat siklo, at nagbabago rin ang mga ito sa iba't ibang yugto ng buhay. Normal ito — ito ang ritmong pinatatakbo ng iyong katawan, hindi isang bagay na kailangang “ayusin.”",
+      "deep": "Ang estrogen ay hindi iisang substansya kundi isang grupo ng magkakaugnay na hormone (ang pinakaaktibo sa siklo ay estradiol). Karamihan dito ay ginagawa ng obaryo, sa lumalaking follicle. Ang paikot nitong pagtaas at pagbaba — kasama ng progesterone, at ng mga hormone na nagpapadala ng senyales mula sa utak, ang LH at FSH — ang nagpapatakbo sa mga yugto ng siklo. Dahil maraming sistema ng katawan ang naaapektuhan ng estrogen, ang mga natural nitong pagbabago ay maaaring lumitaw sa maliliit na paraan sa buong buwan; ang pagsubaybay ay tumutulong sa iyong makilala ang sarili mong pattern sa halip na ikumpara ito sa isang “average.”",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Paggalaw at ang iyong siklo",
+      "aliases": [
+        "ehersisyo",
+        "exercise",
+        "pisikal na aktibidad",
+        "workout",
+        "pag-eehersisyo habang may regla",
+        "paggalaw"
+      ],
+      "glance": "Maaari kang manatiling aktibo sa buong siklo — at ang regular na paggalaw ay maaaring makapagpagaan ng pulikat at PMS.",
+      "overview": "Maaari kang maging pisikal na aktibo sa anumang bahagi ng iyong siklo. May ilang nakapapansin na mas marami silang enerhiya at kaya nilang magsikap nang kaunti pa sa ilang panahon ng buwan, at mas kaunti sa iba — parehong normal, at hindi dahilan ang alinman para tumigil sa paggalaw.\n\nAng regular na aktibidad ay talagang makatutulong sa ilang sintomas na kaugnay ng regla. Ang mga regular na nag-eehersisyo ay kadalasang mas kaunti ang masakit na pulikat, at ang pananatiling aktibo ay maaari ring makapagpagaan ng mga sintomas bago magregla (PMS). Sa mga araw na mababa ang enerhiya, may halaga pa rin ang mas banayad na paggalaw — hindi ito kailangang matindi para maging sulit.\n\nHindi mo kailangang iiskedyul ang iyong buhay ayon sa iyong siklo, at walang iisang “tamang” paraan ng paggalaw. Ang pagpansin sa sarili mong pattern ng enerhiya sa buong buwan ay makatutulong lang sa iyong magplano sa paraang maganda sa pakiramdam.",
+      "deep": null,
+      "when_to_see_doctor": "- Ang napakabigat na training, o ang pag-eehersisyo nang sobra hanggang maubusan ng enerhiya ang katawan, ay maaaring magpairegular sa regla o tuluyan itong patigilin. Ang regular na siklo ay kadalasang senyales na maayos ang takbo ng mga bagay, kaya mainam na kumausap ng family doctor kung naging iregular o tumigil ang iyong regla — maaari itong may kaugnayan sa kalusugan ng buto at ng hormone sa paglipas ng panahon.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Ehersisyo habang buntis",
+      "aliases": [
+        "ehersisyo habang buntis",
+        "exercise pregnancy",
+        "pananatiling aktibo habang buntis",
+        "pregnancy yoga",
+        "puwede bang mag-exercise ang buntis"
+      ],
+      "glance": "Ligtas at mabuti ang pananatiling aktibo sa karamihan ng pagbubuntis — nang banayad, nang hindi labis na pinapagod ang sarili.",
+      "overview": "Mabuti para sa iyo ang pananatiling aktibo habang buntis at hindi ito mapanganib para sa iyong sanggol — sa katunayan, ang pananatiling fit ay makatutulong sa iyong makayanan ang mga darating na pagbabago at ang panganganak. Hindi mo kailangang magsimula ng anumang matindi; ang pagpapatuloy ng iyong karaniwang pang-araw-araw na gawain, basta komportable ka, ay magandang simula.\n\nIsang simpleng panuntunan: dapat ay **kaya mo pa ring makipag-usap** habang gumagalaw. Kung sobra kang hinihingal para makapagsalita, magdahan-dahan. Angkop sa karamihan ang mga banayad na opsyon tulad ng paglalakad, paglangoy, aqua-natal na klase, at pregnancy yoga. Kung hindi ka aktibo dati, hindi ito ang panahon para magsimula ng bago at mabigat na routine — sa halip, dahan-dahan itong dagdagan.\n\nMay ilang aktibidad na pinakamainam iwasan o gawin nang may pag-iingat — tulad ng paghiga nang tuwid sa likod pagkalipas ng mga 16 na linggo, contact sports, scuba diving, at anumang may tunay na panganib na mahulog o matumba.",
+      "deep": null,
+      "when_to_see_doctor": "- Kumonsulta sa iyong **midwife** bago magsimula ng bagong aerobic exercise program, o kung may kondisyon ka sa kalusugan o alalahanin sa pagbubuntis.\n- **Tumigil at humingi ng payo** kung masama ang pakiramdam mo, nahihilo ka o labis na hinihingal, o kung may anumang pananakit, pagdurugo, o paghilab (contractions) habang nag-eehersisyo.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Ang fertile window",
+      "aliases": [
+        "fertile window",
+        "fertile days",
+        "mga araw na fertile",
+        "pinaka-fertile na araw",
+        "kailan puwedeng mabuntis"
+      ],
+      "glance": "Ang fertile window ay ang ilang araw sa bawat siklo kung kailan maaaring humantong sa pagbubuntis ang pakikipagtalik.",
+      "overview": "Ang fertile window ay ang maikling bahagi ng siklo kung kailan posible ang pagbubuntis. Umiiral ito dahil sa dalawang timing na hindi eksaktong nagtutugma: ang itlog ay maaari lang ma-fertilize nang mga 12 hanggang 24 na oras pagkatapos itong mailabas, pero ang sperm ay maaaring mabuhay sa loob ng katawan nang ilang araw — hanggang mga isang linggo — habang naghihintay ng itlog.\n\nKapag pinagsama, ibig sabihin nito ay nagbubukas ang window ilang araw bago ang obulasyon at nagsasara mga isang araw pagkatapos nito. Sa praktika, pinaka-fertile ka sa 2 hanggang 3 araw bago ang obulasyon at sa mismong araw nito, dahil maaaring naroon na ang sperm pagdating ng itlog.\n\nDahil maaaring magbago ang obulasyon sa bawat siklo, gumagalaw din ang fertile window. Kaya kadalasan itong itinuturing na hanay ng mga araw sa halip na iisang petsa, at kaya mas maaasahan ang pagsubaybay sa mga senyales sa loob ng ilang siklo kaysa umasa sa iisang kalkulasyon sa kalendaryo.",
+      "deep": "Ang eksaktong mga araw ay nagkakaiba-iba sa bawat tao at bawat buwan, kaya pinakamainam na tantiyahin ang window mula sa sariling mga senyales ng katawan sa halip na sa isang takdang formula. Ang mga pagbabago sa cervical mucus ay nagpapahiwatig na nagbubukas na ang window habang papalapit ang obulasyon, at ang pagtaas ng temperatura ng katawan sa pamamahinga ay nagpapatunay — pagkatapos nitong mangyari — na lumipas na ang obulasyon at nagsara na ang window. Isang hakbang na mas maaga gumagana ang mga ovulation predictor kit, na tumutukoy sa biglang pagtaas ng luteinizing hormone (LH) na nangyayari ilang sandali bago mailabas ang itlog.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Pagsisimula ng regla (unang regla)",
+      "aliases": [
+        "unang regla",
+        "unang mens",
+        "first period",
+        "menarche",
+        "dinatnan sa unang pagkakataon",
+        "pagsisimula ng regla"
+      ],
+      "glance": "Kadalasang dumarating ang unang regla sa edad na mga 12 — normal ang kahit anong edad mula mga 8 hanggang 17.",
+      "overview": "Ang iyong unang regla — minsan ay tinatawag na menarche — ay kapag nagsimula ang menstrual cycle sa unang pagkakataon. Karamihan ay nagsisimula sa edad na mga 12, pero normal ang kahit anong edad mula mga 8 hanggang 17. Kadalasan itong dumarating mga dalawang taon matapos magsimulang lumaki ang iyong mga suso.\n\nKadalasang may mga senyales bago ito: pagtubo ng buhok sa kilikili at sa paligid ng ari, at kaunting malinaw o puting discharge sa mga buwan bago nito. Ang pag-alam na darating ang mga ito ay makatutulong para hindi masyadong biglaan ang pakiramdam ng unang regla.\n\nSa simula, madalas iregular ang regla — maaaring mahaba o maikli ang pagitan, at maaaring abutin ng ilang buwan, o kahit isa o dalawang taon, bago masanay ang iyong katawan sa mas matatag na ritmo. Kapag nangyari iyon, kadalasang dumarating ang regla mga bawat 23 hanggang 35 araw at tumatagal nang mga 2 hanggang 7 araw. Normal ang pagiging iregular sa simula at hindi ito dapat ikabahala.",
+      "deep": null,
+      "when_to_see_doctor": "- Magpatingin sa family doctor kung **hindi pa nagsisimula ang regla pagsapit ng edad na 15**, o pagsapit ng **13 kung wala pang ibang senyales ng puberty** (tulad ng paglaki ng suso o pagtubo ng buhok sa katawan). Ito ay para lang matiyak na maayos ang paglaki gaya ng inaasahan — kadalasan ay maayos naman ang lahat.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Folic acid at mga bitamina habang buntis",
+      "aliases": [
+        "folic acid",
+        "folate",
+        "vitamin D habang buntis",
+        "bitamina para sa buntis",
+        "supplement habang buntis",
+        "prenatal vitamins"
+      ],
+      "glance": "Ang folic acid bago at sa maagang bahagi ng pagbubuntis ay tumutulong protektahan ang sanggol — kasama ang vitamin D araw-araw.",
+      "overview": "Dalawang supplement ang talagang mahalaga habang buntis, at inirerekomenda ng NHS ang pareho.\n\nAng **folic acid** ang pinakamahalaga. Ang pag-inom ng 400 microgram na supplement araw-araw — mainam kung bago ka pa magbuntis (mga tatlong buwan bago) at hanggang sa katapusan ng unang trimester, sa 12 linggo — ay tumutulong protektahan ang sanggol laban sa mga neural tube defect tulad ng spina bifida. Dahil napakaaga itong gumagana, isa ito sa iilang bagay na mainam simulan *bago* magbuntis kung sinusubukan mo nang magkaanak.\n\nAng **vitamin D** naman ang isa pa: inirerekomenda ang 10 microgram na supplement araw-araw sa buong pagbubuntis at habang nagpapasuso, para suportahan ang mga buto at paglaki ng sanggol.\n\nBukod sa dalawang iyon, natutugunan ng malusog at iba-ibang pagkain ang karamihan ng pangangailangan — hindi mo kailangan ng maraming dagdag na supplement. Ang isang dapat iwasan ay ang **vitamin A** (retinol): huwag uminom ng supplement na may laman nito, at iwasan ang atay (liver), dahil ang sobrang vitamin A ay maaaring makasama sa sanggol.",
+      "deep": null,
+      "when_to_see_doctor": "- Matutulungan ka ng isang **family doctor, midwife, o parmasyutiko** na pumili ng tamang supplement, at may ilang pinapayuhang uminom ng **mas mataas na dose ng folic acid** (halimbawa, kung may diabetes, mas mataas na BMI, umiinom ng ilang partikular na gamot, o may naunang pagbubuntis na naapektuhan ng neural tube defect) — kaya mainam na magtanong, lalo na bago o sa maagang bahagi ng pagbubuntis.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Follicular phase",
+      "aliases": [
+        "follicular phase",
+        "yugtong follicular",
+        "unang kalahati ng siklo",
+        "pagkatapos ng regla"
+      ],
+      "glance": "Ang follicular phase ay ang unang kalahati ng siklo, kung kailan nahihinog ang isang itlog at kumakapal ang lining ng matris.",
+      "overview": "Ang follicular phase ay ang unang bahagi ng siklo. Nagsisimula ito sa unang araw ng iyong regla at tumatagal hanggang obulasyon. Nagmula ang pangalan nito sa follicle — ang maliit na supot na may likido sa obaryo na naglalaman at nagpapalaki ng isang itlog sa panahong ito.\n\nSa buong yugtong ito, tumataas ang hormone na estrogen. Dalawang pangunahing bagay ang ginagawa ng tumataas na estrogen: tumutulong itong mahinog ang isang follicle sa obaryo, at pinakakapal nito ang lining ng uterus (matris), inihahanda ang katawan kung sakaling magsimula ang pagbubuntis sa mas huling bahagi ng siklo.\n\nDahil tumataas ang estrogen, may ilang nakapapansin ng mas maraming enerhiya o mga pagbabago sa cervical mucus habang papalapit ang mga fertile na araw. Iba-iba ang karanasan ng bawat isa, at wala rito ang kailangang “kontrolin” — ito lang ang unang kalahati ng iyong siklo na ginagawa ang trabaho nito.",
+      "deep": "Maaaring mag-iba ang haba ng follicular phase sa bawat siklo, na bahagi ng dahilan kung bakit nagkakaiba ang buong siklo sa bawat tao at bawat buwan. Nagtatapos ito kapag ang tumataas na estrogen ay tumulong mag-udyok sa paglabas ng itlog (obulasyon). Dahil ang mga huling araw nito ay humahantong sa obulasyon, ito ang panahong nagbubukas ang fertile window — kaya mahalaga ang dulo ng follicular phase para sa sinumang sumusubaybay sa fertility.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Mga pagkaing dapat iwasan habang buntis",
+      "aliases": [
+        "bawal kainin ng buntis",
+        "pagkaing iwasan habang buntis",
+        "diet ng buntis",
+        "kape habang buntis",
+        "caffeine habang buntis",
+        "listeria"
+      ],
+      "glance": "Ayos lang ang karamihan ng pagkain habang buntis — may ilang mainam iwasan, at nakatutulong na panatilihing mababa ang caffeine.",
+      "overview": "Ang magandang balita ay ayos na ayos lang ang karamihan ng pagkain habang buntis — kaunti lang ang mainam iwasan o pag-ingatan, kadalasan para makaiwas sa mga mikrobyo tulad ng listeria o sa sobrang dami ng ilang bitamina. Kapag alam mo ang maikling listahan, makapagpapanatag ka na tungkol sa iba.\n\nPinapayuhan ng NHS na mag-ingat sa:\n\n- **Ilang keso** — mga malambot na keso na pinahinog ng amag tulad ng brie at camembert, at malalambot na blue cheese, maliban kung niluto hanggang umuusok sa init; at anumang gawa sa gatas na **hindi pasteurized**.\n- **Hilaw o hindi lutong-lutong karne**, malalamig na cured meat, **pâté**, at **atay** (na napakataas sa vitamin A).\n- **Hilaw o malasadong itlog**, maliban kung may British Lion mark ang mga ito.\n- **Ilang isda** — iwasan ang pating, swordfish at marlin, limitahan ang tuna, at huwag lalampas sa dalawang serving ng oily fish (matabang isda) sa isang linggo.\n- **Caffeine** — panatilihin ito sa ilalim ng mga 200mg bawat araw (humigit-kumulang dalawang tasa ng instant coffee), kasama sa bilang ang tsaa, cola, energy drink at tsokolate.",
+      "deep": null,
+      "when_to_see_doctor": "- Pangkalahatang gabay ito, hindi mahigpit na diet — kung may tanong ka tungkol sa kung ano ang ligtas para sa iyo, o may partikular kang pangangailangan sa pagkain, maaari mo itong pag-usapan kasama ang iyong **midwife**.\n- Kung nakakain ka ng isang bagay na nasa listahan ng “iwasan,” subukang huwag mag-panic; banggitin ito sa iyong midwife kung nag-aalala ka o masama ang pakiramdam mo.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Follicle-stimulating hormone (FSH)",
+      "aliases": [
+        "FSH",
+        "follicle stimulating hormone",
+        "follicle-stimulating hormone",
+        "hormone na FSH"
+      ],
+      "glance": "Ang FSH ay isang hormone mula sa utak na nag-uudyok sa mga follicle sa obaryo na lumaki sa simula ng bawat siklo.",
+      "overview": "Ang FSH — follicle-stimulating hormone — ay isa sa mga mensaherong hormone na nagpapasimula sa siklo. Ginagawa ito ng isang maliit na glandula sa utak (ang pituitary) at, gaya ng sinasabi ng pangalan nito, pinasisigla nito ang mga follicle: ang maliliit na supot na may likido sa obaryo na bawat isa ay may lamang itlog.\n\nSa simula ng siklo, hinihikayat ng FSH ang isang grupo ng mga follicle na ito na magsimulang lumaki. Habang nabubuo ang isang follicle, naglalabas ito ng mas maraming estrogen, na siya namang nagpapakapal sa lining ng uterus (matris) bilang paghahanda sa posibleng pagbubuntis. Kadalasan, isang follicle ang nagiging nangingibabaw at nagpapatuloy tungo sa obulasyon.\n\nTumataas at bumababa ang FSH bilang bahagi ng normal na pabalik-balik na takbo ng siklo. Hindi mo direktang nararamdaman ang FSH — tahimik itong gumagana sa likod, inihahanda ang mas nakikitang mga pagbabago ng follicular phase.",
+      "deep": "Magkapares na gumagana ang FSH at ang luteinizing hormone (LH); pareho silang inilalabas ng pituitary gland sa utak at magkasama nilang pinatatakbo ang obaryo sa buong siklo. Ang FSH ang nangunguna sa unang kalahati, pinalalaki ang mga follicle, habang ang biglang pagtaas ng LH sa kalaunan ang hudyat ng paglabas ng itlog sa kalagitnaan ng siklo. Ang ugnayang ito rin ang dahilan kung bakit gumagamit ng mga gamot na batay sa FSH ang mga fertility treatment: ang pagbibigay ng dagdag na FSH ay naghihikayat sa ilang follicle na mahinog nang sabay-sabay, sa halip na iisang follicle lang na kadalasang nabubuo sa natural na siklo.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Gestational diabetes",
+      "aliases": [
+        "gestational diabetes",
+        "diabetes habang buntis",
+        "mataas na blood sugar buntis",
+        "asukal sa dugo buntis",
+        "OGTT"
+      ],
+      "glance": "Ang gestational diabetes ay pagtaas ng blood sugar habang buntis — kadalasang natutuklasan sa screening, at madalas itong nawawala pagkapanganak.",
+      "overview": "Ang gestational diabetes ay mataas na blood sugar (glucose) na nabubuo habang buntis, kapag hindi na lubos makasabay ang katawan sa dagdag na pangangailangan sa insulin. Para sa karamihan, nawawala itong muli pagkapanganak ng sanggol.\n\nKadalasan ay **wala itong sintomas**, kaya natutuklasan ito sa pamamagitan ng screening test na iniaalok habang buntis (isang glucose tolerance test, madalas sa bandang 24 hanggang 28 linggo), lalo na kung may mga bagay na nagpapataas ng tsansa nito — tulad ng mas mataas na timbang, kasaysayan ng diabetes sa pamilya, naunang malaking sanggol, o ilang partikular na etnikong pinagmulan.\n\nKayang-kaya itong kontrolin. Ang pagpapanatili ng blood sugar sa malusog na antas — sa pamamagitan ng pagkain, aktibidad, at minsan ay gamot, na lahat ay ginagabayan ng iyong care team — ay nagpapababa ng tsansa ng komplikasyon para sa iyo at sa iyong sanggol, kaya mainam na bantayan ito nang mabuti.",
+      "deep": null,
+      "when_to_see_doctor": "- Magpa-**screening test** kapag iniaalok ito — dahil kadalasang walang sintomas ang gestational diabetes, sa pagte-test ito natutuklasan.\n- Huwag nang hintayin ang test kung may mapansin kang posibleng senyales ng mataas na blood sugar — labis na pagkauhaw, madalas na pag-ihi, panunuyo ng bibig, o pagkapagod — banggitin ang mga ito sa iyong midwife o doktor.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Saan hihingi ng tulong",
+      "aliases": [
+        "paghingi ng tulong",
+        "sino ang tatawagan",
+        "helpline",
+        "mahahalagang numero",
+        "anti-violence centre",
+        "1522",
+        "emergency numbers"
+      ],
+      "glance": "May libre at kumpidensyal na tulong — sa emergency, tawagan ang lokal na emergency number; sa Italya, ang 1522 anumang oras.",
+      "overview": "Kung nakararanas ka ng pang-aabuso, hindi mo kailangang harapin ito nang mag-isa, at ang paghingi ng tulong ay hindi nag-oobliga sa iyo sa anuman. May mga taong ang buong trabaho ay makinig at tumulong, nang kumpidensyal at libre.\n\nMay ilang uri ng tulong na magkakasabay na umiiral:\n\n- **Emergency services** — para sa agarang panganib, tawagan ang lokal na emergency number (nasa ibaba).\n- **Isang pambansang helpline** — sa Italya, ang **1522**, ang libreng helpline laban sa karahasan at stalking: bukas 24 na oras bawat araw, anonymous, may iba't ibang wika, sa telepono o online chat.\n- **Mga anti-violence centre** (sa Italya, *centri antiviolenza*) — mga lokal na serbisyong nag-aalok ng libre at kumpidensyal na suporta, pagpaplano para sa kaligtasan, at legal at sikolohikal na tulong.\n- **Mga serbisyong pangkalusugan** — isang family doctor, o ang emergency room ng ospital, kung saan lalong dumarami ang mga kawaning sinanay na kumilala sa pang-aabuso at iugnay ka sa suporta.\n- **Mga taong pinagkakatiwalaan mo** — isang kaibigan o kapamilyang ligtas ang pakiramdam mo kapag kasama.\n\nMaaari kang magsimula sa alinmang pakiramdam mo ay pinakakaya, at hindi mo kailangang may napagpasyahan na.",
+      "deep": null,
+      "when_to_see_doctor": "- Maaari kang makipag-usap nang kumpidensyal sa isang **family doctor o sa ospital** tungkol sa nangyayari; magagamot nila ang anumang pinsala at maiuugnay ka sa mga espesyalistang serbisyo.\n- Kung mas madaling magsulat kaysa magsalita, ang **1522 chat** ay isa pang paraan para humingi ng tulong.",
+      "red_flags": "- Kung ikaw ay nasa **agarang panganib**, kontakin ngayon din ang emergency services: **112** sa EU (kasama ang Italya), **999** sa UK, **911** sa US at Canada.\n- **Italya:** **1522** (libre, 24/7, anonymous, may iba't ibang wika — tumawag o mag-chat).\n- Nagkakaiba-iba ang mga numero ng helpline sa bawat bansa. Maipapakita ng app ang mga numero para sa iyong bansa, at nakalista sa **findahelpline.com** ang mga anti-violence helpline sa buong mundo (natutukoy nito ang iyong bansa at may quick-exit button ito). Kung nasa EU ka, gumagana ang **112** kahit saan."
+    },
+    "group-b-strep": {
+      "title": "Group B strep (GBS)",
+      "aliases": [
+        "group B strep",
+        "GBS",
+        "group B streptococcus",
+        "strep B habang buntis",
+        "bacteria sa ari habang buntis"
+      ],
+      "glance": "Ang group B strep ay isang karaniwang bacteria na kadalasang hindi nakapipinsala — ang maliit na panganib ay para sa sanggol sa panganganak, at kaya itong kontrolin.",
+      "overview": "Ang group B strep (GBS) ay isang napakakaraniwang bacteria na dala ng maraming tao, kadalasan sa ari o sa puwitan, nang hindi nila alam at nang walang anumang pinsalang dulot. Hindi ito sexually transmitted infection, at normal lang na dala-dala ito.\n\nSa pagbubuntis, mahalaga lang ito dahil may **maliit na tsansa** na maipasa ito sa sanggol sa panahon ng panganganak at, bihira, magkasakit siya dahil dito — nangyayari ito sa humigit-kumulang 1 sa bawat 1,750 pagbubuntis. Madalas itong natutuklasan nang di-sinasadya, halimbawa sa urine test o vaginal swab na ginawa para sa ibang dahilan (hindi regular na sinusuri ng NHS ang lahat para dito).\n\nAng nakapapanatag na bahagi ay kayang-kaya itong kontrolin: kung alam na may GBS, ang pagbibigay ng **antibiotic sa pamamagitan ng suwero (IV drip) habang nanganganak** ay lubos na nagpapababa ng tsansang magkasakit ang sanggol.",
+      "deep": null,
+      "when_to_see_doctor": "- Kung sinabihan kang may dala kang group B strep — ngayon man o sa nakaraang pagbubuntis — **ipaalam ito sa iyong midwife o maternity team**, para maplano ang antibiotic habang nanganganak. Simpleng hakbang ito na may tunay na malaking epekto.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Heartburn at impatso habang buntis",
+      "aliases": [
+        "heartburn habang buntis",
+        "hyperacidity buntis",
+        "acid reflux buntis",
+        "impatso buntis",
+        "reflux"
+      ],
+      "glance": "Napakakaraniwan ng heartburn habang buntis — kadalasang hindi nakapipinsala, at madalas gumagaan sa maliliit na pang-araw-araw na pagbabago.",
+      "overview": "Ang heartburn at hindi pagkatunaw ng pagkain (impatso) — isang mahapdi o hindi komportableng pakiramdam sa dibdib, madalas pagkatapos kumain — ay napakakaraniwan habang buntis. Dulot ito ng mga hormone ng pagbubuntis na nagpapalambot sa kalamnan sa itaas na bahagi ng sikmura, at, sa kalaunan, ng lumalaking sanggol na tumutulak pataas. Hindi ito komportable, pero hindi ito nakapipinsala.\n\nMadalas makatulong ang maliliit na pagbabago: pagkain nang mas kaunti pero mas madalas sa halip na malalaking kain, pag-upo nang tuwid habang kumakain at sandali pagkatapos, pagbabawas sa maaanghang, mamantika o may caffeine, at hindi pagkain nang gabing-gabi bago matulog. May ilang mas komportable kapag natutulog nang medyo nakaangat ang ulo at katawan.\n\nKung hindi iyon sapat, makapagmumungkahi ang isang **parmasyutiko** ng mga antacid na ligtas gamitin habang buntis — magandang unang lapitan bago ito maging mas malaking abala.",
+      "deep": null,
+      "when_to_see_doctor": "- Magpatingin sa iyong **family doctor o midwife** kung hindi nakatutulong ang mga simpleng pagbabago at gamot mula sa botika, o kung **nahihirapan kang lumunok**, paulit-ulit na bumabalik ang pagkain, pumapayat ka nang hindi sinasadya, o may pananakit ka ng tiyan — mainam na ipatingin ang mga ito sa halip na ituring na karaniwang heartburn lang.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Malakas na regla",
+      "aliases": [
+        "malakas na regla",
+        "malakas na mens",
+        "menorrhagia",
+        "sobrang dugo tuwing regla",
+        "buo-buong dugo",
+        "heavy period",
+        "clots"
+      ],
+      "glance": "Ang malakas na regla ay pagkawala ng maraming dugo bawat siklo — karaniwan ito, pero mainam na ipatingin kung naaapektuhan ka nito.",
+      "overview": "Ang malakas na regla — menorrhagia ang medikal na tawag — ay nangangahulugang maraming dugo ang nawawala sa iyo tuwing may regla. Para sa ilan, ang malakas na pagdurugo ay normal lang para sa kanila, pero kung ginugulo na nito ang iyong buhay o inuubos ang lakas mo, mainam itong ipasuri.\n\nIlang senyales na malakas ang regla: kailangang magpalit ng napkin o tampon bawat 1 hanggang 2 oras, paggamit ng dalawang uri ng pang-regla nang sabay (tulad ng tampon at napkin), paglusot ng dugo sa iyong damit o kama, paglabas ng buo-buong dugo na mas malaki sa mga 2.5cm (halos kasinlaki ng isang 10-pisong barya), o reglang tumatagal nang mahigit 7 araw.\n\nAng pagkawala ng maraming dugo buwan-buwan ay maaaring magdulot sa iyo ng pagkapagod o hirap sa paghinga, dahil maaari itong humantong sa kakulangan sa iron (anemia). Maraming posibleng sanhi — mula sa fibroids (myoma) o mga kondisyon tulad ng endometriosis, adenomyosis o PCOS, hanggang sa ilang gamot — at madalas ay walang malubhang sanhing natutuklasan. Alinman dito, kadalasang may maitutulong para sa malakas na regla, kaya hindi ito isang bagay na kailangan mong tiisin na lang.",
+      "deep": null,
+      "when_to_see_doctor": "Magpatingin sa family doctor kung:\n\n- nakaaapekto na sa pang-araw-araw mong buhay ang malakas na regla\n- malakas ang pagdurugo mo nang maraming oras, o matagal ang iyong regla\n- mayroon ka ring matinding sakit ng regla, o pananakit habang nakikipagtalik, umiihi, o dumudumi\n- may pagdurugo ka sa pagitan ng regla o pagkatapos makipagtalik\n- madalas kang pagod o hinihingal (maaari itong senyales ng kakulangan sa iron)\n\nMakahahanap ng sanhi ang family doctor at mapag-uusapan ninyo kung ano ang maaaring makatulong.",
+      "red_flags": "- Humingi ng **agarang** medikal na tulong — kumontak ng doktor o ng **serbisyong tumatanggap ng pasyente sa labas ng regular na oras**, o tumawag sa **{{emergency}}** / pumunta sa emergency room ng ospital kung malubha — kung **napakalakas ng pagdurugo mo na lubusang nababasa ang isang napkin o higit pa bawat oras nang ilang oras na sunud-sunod**, o pakiramdam mo ay **parang hihimatayin, nahihilo, o hinihingal**. Maaaring senyales ito ng pagkawala ng sobrang dugo."
+    },
+    "lh": {
+      "title": "Luteinizing hormone (LH)",
+      "aliases": [
+        "LH",
+        "luteinizing hormone",
+        "luteinising hormone",
+        "LH surge",
+        "hormone na LH"
+      ],
+      "glance": "Ang LH ay ang hormone mula sa utak na ang biglang pagtaas sa kalagitnaan ng siklo ang nag-uudyok sa obaryo na maglabas ng itlog.",
+      "overview": "Ang LH — luteinizing hormone — ay ang mensaherong nagpapasimula ng obulasyon. Tulad ng FSH, ginagawa ito ng isang maliit na glandula sa utak (ang pituitary) at sinasabi nito sa obaryo kung kailan maglalabas ng itlog.\n\nSa halos buong unang kalahati ng siklo, nananatiling mababa ang LH. Pagkatapos, sa bandang kalagitnaan ng siklo, bigla itong tumataas sa tinatawag na LH surge. Ang surge na ito ang hudyat na nagpapalabas sa obaryo ng itlog nito — obulasyon — kadalasan mga isang araw makalipas.\n\nAng surge ay isang maikli at eksaktong-oras na senyales sa halip na isang bagay na mapapansin mo sa iyong pakiramdam. Dahil dumarating ito nang napakalapit bago mailabas ang itlog, ang timing ng pagtaas ng LH ay maaasahang palatandaan ng pinaka-fertile na bahagi ng siklo.",
+      "deep": "Gumagana ang LH kasama ng FSH, ang hormone na nagpapalaki sa mga follicle sa mas maagang bahagi ng siklo. Kung ang FSH ang nangunguna sa paghahanda, ang LH surge naman ang pagbabagong-punto: nagsisimulang tumaas ang antas nito mga isang araw at kalahati bago mailabas ang itlog at umaabot sa rurok mga kalahating araw bago nito. Pagkatapos ng surge, pumapasok ang siklo sa ikalawang kalahati nito. Ang eksaktong timing na ito ang dahilan kung bakit napakapakinabang na palatandaan ang LH para sa sinumang sumusubaybay sa obulasyon, at kung bakit sentral ito sa pagpaplano ng mga fertility treatment.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Pakikinig at emosyonal na suporta",
+      "aliases": [
+        "paano makinig",
+        "emosyonal na suporta",
+        "suporta sa partner",
+        "komunikasyon",
+        "pagdamay sa kanya"
+      ],
+      "glance": "Kadalasan, kailangan niyang mapakinggan, hindi maayos — makinig muna, at magtanong bago magpayo.",
+      "overview": "Kapag nahihirapan ang taong mahal natin, likas na gusto nating sumabat at lutasin ito. Pero madalas, ang pinakanakatutulong ay ang maramdaman niyang tunay siyang pinakikinggan: na may saysay ang kanyang nararamdaman at hindi siya nag-iisa rito. Ang masyadong mabilis na pag-aayos ay maaaring dumating sa kanya bilang “problema ang nararamdaman mo na kailangang tapusin agad”.\n\nAng mahusay na pakikinig ay isang kasanayang kayang matutunan ng sinuman. Kadalasan ay tungkol ito sa atensyon: ibaba ang telepono, humarap sa kanya, at hayaan siyang matapos magsalita. Hindi mo kailangang sumang-ayon sa bawat punto para maramdaman niyang iginagalang mo siya.",
+      "deep": "Mga praktikal na paraan para dumamay:\n\n- **Makinig para umunawa, hindi para sumagot.** Hayaan siyang magsalita nang hindi sumasabat o nagpaplano ng iyong depensa.\n- **Ibalik sa kanya ang narinig mo.** Mas mabuti ang “Parang nakaka-stress talaga iyan” o “Naiintindihan ko kung bakit iyon masakit” kaysa sa “huwag mo na lang isipin”.\n- **Magtanong bago magpayo.** “Gusto mo bang tulungan kitang pag-isipan ito, o gusto mo lang na makinig ako?”\n- **Huwag itong personalin** kapag ang mabigat na araw ay hindi tungkol sa iyo. Regalo ang pagiging mahinahon at matatag.\n- **Panagutan ang iyong bahagi.** Kung may nagawa kang mali, ang tunay na paghingi ng tawad — nang walang “pero” — ay nagbabalik ng tiwala.\n- **Pansinin ang mas malaking larawan.** Kung mukhang palagi siyang malungkot, nababalisa o hindi tulad ng dati, marahan siyang hikayating humingi ng suporta at mag-alok na tulungan siyang makarating dito. Kakampi ka, hindi therapist.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Luteal phase",
+      "aliases": [
+        "luteal phase",
+        "yugtong luteal",
+        "ikalawang kalahati ng siklo",
+        "pagkatapos ng obulasyon"
+      ],
+      "glance": "Ang luteal phase ay ang ikalawang kalahati ng siklo, pagkatapos ng obulasyon, kung kailan tumataas ang progesterone.",
+      "overview": "Ang luteal phase ay ang bahagi ng siklo na kasunod ng obulasyon at tumatagal hanggang magsimula ang susunod mong regla. Ipinangalan ito sa corpus luteum — ang maliit na istrukturang binubuo ng obaryo mula sa bakanteng follicle kapag nailabas na ang itlog.\n\nSa yugtong ito, tumataas ang hormone na progesterone. Ang trabaho nito ay panatilihing makapal at matatag ang lining ng uterus (matris), para kung dumating ang isang na-fertilize na itlog, may makakapitan ito. Bahagi pa rin ng larawan ang estrogen, katuwang ng progesterone.\n\nKung walang pagbubuntis na nagsimula, nasisira ang corpus luteum, bumababa ang progesterone at estrogen, at hindi na napapanatili ang lining — na nagdudulot ng susunod mong regla at nagsisimula ng bagong siklo. Ito rin ang panahon kung kailan may ilang nakapapansin ng mga pagbabago bago magregla sa mood, tulog o katawan.",
+      "deep": "Ang luteal phase ay kadalasang medyo mas matatag ang haba kaysa sa unang kalahati ng siklo, madalas na nasa mga dalawang linggo, bagaman may normal na pagkakaiba-iba sa bawat tao. Dahil ang pagtatapos nito ay nakatali sa pagbaba ng progesterone, ang pagdating ng regla ay talagang nakikitang senyales na bumaba na ang antas ng mga hormone. Ang pagsubaybay sa nararamdaman mo sa buong luteal phase ay makatutulong sa iyong makilala kung alin ang pamilyar na pattern para sa iyo at kung alin ang bago o dapat pag-usapan kasama ang isang health professional.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopause",
+      "aliases": [
+        "menopause",
+        "meno",
+        "pagtigil ng regla",
+        "change of life",
+        "hot flashes"
+      ],
+      "glance": "Ang menopause ay kapag tuluyan nang tumigil ang regla — isang natural na yugto, kadalasang naaabot sa pagitan ng mga edad 45 at 55.",
+      "overview": "Ang menopause ay ang panahong permanenteng tumitigil ang iyong regla. Dahil maaaring dumating at mawala ang regla nang ilang panahon muna, itinuturing itong naabot kapag lumipas na ang 12 magkakasunod na buwan nang walang regla. Kadalasan itong nangyayari sa pagitan ng mga edad 45 at 55, bagaman maaari itong mas maaga o mas huli.\n\nNatural itong bahagi ng pagtanda, hindi sakit. Nangyayari ito habang humihina ang obaryo at bumababa ang antas ng estrogen — isang mahalagang hormone ng siklo. Ang pagbabagong ito sa hormone ang nasa likod ng mga pagbabagong napapansin ng marami: hot flushes (biglang pag-init ng katawan) at pagpapawis sa gabi, mga pagbabago sa regla bago nito, hirap sa pagtulog, pagbabago sa mood o pagkabalisa, paglabo ng isip (brain fog), panunuyo ng ari, at mga pananakit ng katawan.\n\nLubhang iba-iba ang karanasan — may ilang madali lang itong nalalampasan, ang iba ay nahihirapan, at maaaring tumagal ang mga sintomas nang ilang taon. Wala rito ang nangangahulugang may mali sa iyo. May suporta at mga opsyon, at ang pag-unawa sa nangyayari ay magandang unang hakbang.",
+      "deep": "Ang mga taon ng pagbabago bago ang menopause ay tinatawag na perimenopause; ang menopause mismo ay iisang punto sa panahon (ang markang 12 buwan nang walang regla), at ang panahon pagkatapos ay minsang tinatawag na postmenopause. Dahil naaapektuhan din ng estrogen ang mga buto at puso sa pangmatagalan, binibigyang-pansin din ng mga health professional ang mga ito kasabay ng mga pang-araw-araw na sintomas. Maraming paraan — mula sa pamumuhay hanggang sa mga gamutang hindi hormonal at hormonal — ang makapagpapagaan ng mga sintomas, at ang tama para sa iyo ay nakadepende sa iyong kalusugan, kasaysayan at kagustuhan, na dapat pag-usapan kasama ang isang health professional.",
+      "when_to_see_doctor": "- Magpatingin sa family doctor kung nababahala ka sa mga sintomas ng menopause o nakaaapekto na ang mga ito sa pang-araw-araw na buhay, at gusto mong pag-usapan ang iyong mga opsyon.\n- **Laging** magpatingin sa family doctor kung may **anumang pagdurugo sa ari pagkatapos ng 12 buwang walang regla** (pagdurugo pagkatapos ng menopause). Madalas ay hindi ito seryoso, pero dapat itong laging ipatingin.\n- Mainam ding kumonsulta kung mas lumalakas sa halip na humihina ang iyong pagdurugo kaysa dati, o kung nagbabago ang iyong regla sa paraang ikinababahala mo.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Ang menstrual cycle",
+      "aliases": [
+        "siklo",
+        "menstrual cycle",
+        "buwanang siklo",
+        "siklo ng regla",
+        "cycle"
+      ],
+      "glance": "Ang menstrual cycle ay ang buwanang ritmong pinatatakbo ng iyong katawan para maghanda sa posibleng pagbubuntis.",
+      "overview": "Binibilang ang menstrual cycle mula sa unang araw ng iyong regla — iyon ang araw 1 — hanggang sa araw bago magsimula ang susunod mong regla. Pinatatakbo ito ng mga hormone na tumataas at bumababa sa paulit-ulit na pattern bawat buwan.\n\nKadalasang mga 28 araw ang isang siklo, pero average lang iyon. Normal ang kahit ano mula mga 21 hanggang 35 araw, at maaaring bahagyang mag-iba ang haba ng sarili mong siklo bawat buwan. Mas kapaki-pakinabang na kilalanin ang sarili mong pattern kaysa ikumpara ito sa isang numero.\n\nSa buong siklo, dumaraan ang iyong katawan sa ilang yugto: ang iyong regla, ang paghahanda para maglabas ng itlog, ang mismong paglabas nito (obulasyon), at ang panahon pagkatapos. Bawat yugto ay hinuhubog ng mga hormone, pangunahin ang estrogen at progesterone.",
+      "deep": "Ang buong siklo ay isang pag-uusap sa pagitan ng utak at ng obaryo, na dinadala ng mga hormone. Sa unang kalahati, tumataas ang estrogen habang nahihinog sa obaryo ang isang follicle na may lamang itlog at kumakapal ang lining ng uterus (matris). Sa bandang kalagitnaan ng siklo, may itlog na inilalabas. Sa ikalawang kalahati, tumutulong ang progesterone na panatilihing handa ang lining na iyon kung sakaling dumating ang isang na-fertilize na itlog.\n\nKung walang pagbubuntis, bumababa sa mababang antas ang estrogen at progesterone, natatanggal ang lining bilang iyong regla, at nagsisimulang muli ang pattern. Dahil maraming sistema ng katawan ang naaapektuhan ng mga hormone na ito, maaaring mapansin mo ang maliliit na pagbabago araw-araw sa buong buwan — ito ang normal na ritmo ng siklo, hindi isang bagay na kailangang “ayusin.”",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstrual phase (ang iyong regla)",
+      "aliases": [
+        "regla",
+        "mens",
+        "buwanang dalaw",
+        "dinatnan",
+        "period",
+        "menstruation",
+        "menstrual phase"
+      ],
+      "glance": "Ang iyong regla ay ang ilang araw ng pagdurugo na nagsisimula sa bawat siklo, habang natatanggal ang lining ng matris.",
+      "overview": "Ang menstrual phase ay ang iyong regla — ang mga araw na dinudugo ka. Nagsisimula ito sa araw 1 ng siklo, kapag bumaba na nang sapat ang antas ng estrogen at progesterone kaya hindi na napapanatili ang lining na nabuo sa loob ng uterus (matris) at natatanggal ito, lumalabas sa katawan sa pamamagitan ng ari.\n\nKadalasang tumatagal ang regla nang mga 2 hanggang 7 araw, at mga 5 araw ang karaniwan. Madalas na pinakamalakas ang daloy sa unang dalawang araw at humihina pagkatapos. Karaniwang nagsisimula ang regla sa edad na mga 12, bagaman normal din ang mas maaga o mas huling pagsisimula.\n\nMalaki ang pagkakaiba-iba ng “normal” sa bawat tao. Ang pagsubaybay sa sarili mong regla ay tumutulong sa iyong mapansin kung ano ang karaniwan para sa iyo, na mas makabuluhan kaysa sa anumang average.",
+      "deep": "Ang pagdurugo sa regla ay ang lining ng uterus (ang endometrium) na natatanggal pagkatapos ng isang siklo kung saan walang pagbubuntis na nagsimula. Minamarkahan nito ang pagtatapos ng isang siklo at ang pagsisimula ng susunod, kaya ang araw 1 ng iyong regla ay binibilang na araw 1 ng buong siklo. Habang natatapos ang iyong regla, nagsisimulang tumaas muli ang estrogen at sinisimulan ng katawan na buuing muli ang lining para sa susunod na siklo.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Pagkakunan (miscarriage)",
+      "aliases": [
+        "pagkakunan",
+        "nakunan",
+        "miscarriage",
+        "pagkawala ng pagbubuntis",
+        "early pregnancy loss"
+      ],
+      "glance": "Ang pagkakunan (miscarriage) ay ang pagkawala ng pagbubuntis bago ang 24 na linggo — karaniwan ito, at halos hindi kailanman dulot ng anumang ginawa mo.",
+      "overview": "Ang pagkakunan (miscarriage) ay ang pagkawala ng pagbubuntis sa unang 24 na linggo. Mas karaniwan ito kaysa inaakala ng marami, at isa sa pinakamahalagang dapat malaman ay halos hindi ito kailanman dulot ng anumang ginawa o hindi mo ginawa — kadalasan itong nangyayari dahil sa problema sa pagbuo ng pagbubuntis, na wala sa kontrol ng sinuman.\n\nAng pinakakaraniwang senyales ay pagdurugo sa ari, at paghilab o pananakit sa ibabang bahagi ng tiyan. Ang pagdurugo sa maagang pagbubuntis ay hindi laging nangangahulugang nakukunan ka — maraming dinudugo nang kaunti at nagpapatuloy sa malusog na pagbubuntis — pero dapat itong laging ipatingin.\n\nPaano man nangyari ang pagkawala, totoo at makatwiran ang mga damdaming kasama nito, at normal na tugon ang pagdadalamhati. Hindi mo kailangang pagdaanan ito nang mag-isa — may suportang makukuha, mula sa iyong midwife o family doctor at mula sa mga charity na nakatuon sa pagkawala ng pagbubuntis.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakin ang iyong family doctor, midwife, o early pregnancy unit (o isang doktor na tumatanggap ng pasyente sa labas ng regular na oras) kung may **pagdurugo o spotting sa ari habang buntis**, kahit kaunti lang ito at kaunti o walang pananakit — para maipatingin ito.\n- Magtanong tungkol sa pinakamalapit na **early pregnancy unit**, na itinayo mismo para sa ganitong sitwasyon.",
+      "red_flags": "- Tumawag sa **{{emergency}} o pumunta sa emergency room ng ospital** kung, habang buntis, may **matinding pananakit ng tiyan, pananakit sa dulo ng balikat, malakas na pagdurugo, o pakiramdam mo ay parang hihimatayin o masamang-masama ang pakiramdam mo**. Maaaring senyales ang mga ito ng malubhang problema tulad ng ectopic pregnancy na nangangailangan ng agarang pangangalaga."
+    },
+    "morning-sickness": {
+      "title": "Morning sickness (pagduduwal habang buntis)",
+      "aliases": [
+        "morning sickness",
+        "paglilihi",
+        "pagduduwal habang buntis",
+        "pagsusuka habang buntis",
+        "nasusuka buntis",
+        "hyperemesis",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "Napakakaraniwan ang pagduduwal o pagsusuka sa maagang pagbubuntis, at kadalasan itong gumagaan pagsapit ng mga ika-16 hanggang ika-20 linggo.",
+      "overview": "Napakakaraniwan ang pagduduwal, o pagsusuka, sa maagang pagbubuntis. Sa kabila ng pangalang “morning sickness,” maaari itong mangyari anumang oras sa araw o gabi. Para sa karamihan, nagsisimula ito sa unang ilang linggo at humuhupa pagsapit ng mga 16 hanggang 20 linggo.\n\nHindi ito kaaya-aya, at para sa ilan ay talagang naaapektuhan nito ang pang-araw-araw na buhay — pero ang karaniwang morning sickness ay hindi nagdudulot ng dagdag na panganib sa iyong sanggol. Ang pagkain nang kaunti pero madalas, at ang paghahanap ng nakatutulong sa iyo, ay makapagpapagaan nito; makapagmumungkahi ang midwife, family doctor o parmasyutiko ng mga ligtas na opsyon kung nahihirapan ka.\n\nPara sa iilang tao, nagiging malubha ang pagsusuka (tinatawag itong hyperemesis gravidarum), na may tunay na panganib na ma-dehydrate. Kailangan ng medikal na tulong ang ganitong uri — tingnan ang mga senyales sa ibaba.",
+      "deep": null,
+      "when_to_see_doctor": "Kontakin ang iyong midwife, family doctor, o isang doktor na tumatanggap ng pasyente sa labas ng regular na oras kung:\n\n- 24 na oras mo nang isinusuka ang lahat ng kinakain at iniinom mo, at walang nananatili sa tiyan mo\n- napakadilim ng iyong ihi, o hindi ka umiihi nang mahigit 8 oras\n- nanghihina ka nang husto, nahihilo, o parang hihimatayin kapag tumatayo\n- may pananakit ka ng tiyan, lagnat, o nagsusuka ka ng dugo\n- pumapayat ka",
+      "red_flags": "- Ang pagsusuka ng lahat ng iniinom mo, kasama ng napakadilim na ihi o walang ihi, ay maaaring mangahulugang nade-dehydrate ka na (malubhang pagsusuka habang buntis) — **kontakin ang iyong midwife, family doctor o isang doktor na tumatanggap ng pasyente sa labas ng regular na oras sa araw ding iyon**, dahil maaaring kailangan mo ng gamutan para hindi ito lumala."
+    },
+    "ovulation": {
+      "title": "Obulasyon",
+      "aliases": [
+        "obulasyon",
+        "ovulation",
+        "paglabas ng itlog",
+        "fertile window",
+        "kailan ako fertile"
+      ],
+      "glance": "Ang obulasyon ay kapag naglalabas ang obaryo ng itlog — ang pinaka-fertile na punto ng iyong siklo.",
+      "overview": "Ang obulasyon ay ang sandaling naglalabas ang obaryo ng isang hinog na itlog. Ito ang pagbabagong-punto ng siklo: ang unang kalahati ay naghahanda para dito, at ang ikalawang kalahati ay sumusunod dito.\n\nSa isang siklong mga 28 araw, kadalasang nangyayari ang obulasyon sa bandang araw 14 — pero nag-iiba ang timing. Isang nakatutulong na paraan ng pag-iisip dito ay kadalasang nangyayari ang obulasyon sa pagitan ng 10 at 16 na araw bago magsimula ang susunod mong regla. Maaaring mahirap matukoy ang eksaktong araw.\n\nKapag nailabas na, maaari lang ma-fertilize ang itlog nang mga 12 hanggang 24 na oras. Ang sperm naman ay maaaring mabuhay sa katawan nang ilang araw, kaya mas malawak kaysa iisang araw ang “fertile window” — humigit-kumulang ang ilang araw bago ang obulasyon at ang mismong araw nito.",
+      "deep": "Ang paglabas ng itlog ay inuudyok ng maikli at biglang pagtaas ng mga hormone sa bandang kalagitnaan ng siklo, kasunod ng pag-ipon ng estrogen sa follicular phase. Dahil ang sperm ay maaaring mabuhay nang ilang araw habang ang itlog ay nabubuhay nang wala pang isang araw, pinakamalamang ang pagbubuntis mula sa pakikipagtalik sa mga araw bago mismo ang obulasyon. Maaaring magbago ang obulasyon sa bawat siklo dahil sa mga bagay tulad ng stress o sakit, kaya mahirap itong hulaan nang eksakto at kaya mas maaasahan ang pagsubaybay sa ilang siklo kaysa sa anumang iisang kalkulasyon.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Pananakit habang nakikipagtalik",
+      "aliases": [
+        "masakit makipagtalik",
+        "sakit habang nagse-sex",
+        "pananakit sa sex",
+        "dyspareunia",
+        "vaginismus",
+        "painful sex"
+      ],
+      "glance": "Karaniwan ang pananakit habang nakikipagtalik, marami itong posibleng sanhi, at laging mainam na ipatingin — may tulong na makukuha.",
+      "overview": "Ang pananakit habang nakikipagtalik — minsan ay tinatawag na dyspareunia — ay mas karaniwan kaysa inaakala ng marami, at hindi ito kailanman isang bagay na kailangan mo lang tanggapin. Maaari itong magkaroon ng maraming sanhi, at ang paghahanap ng tamang sanhi ang susi sa pagpapagaan nito.\n\nPisikal ang ilang sanhi. Madalas na sanhi ang panunuyo ng ari, na madalas nauugnay sa mga hormone sa panahon ng menopause o sa hindi sapat na pagkapukaw (arousal), at maaari nitong gawing mahapdi o hindi komportable ang pakikipagtalik. Ang mga impeksyon, tulad ng yeast infection sa ari, ay maaari ring magdulot ng pananakit. Isa pang sanhi ang vaginismus — kapag kusang humihigpit ang mga kalamnan sa paligid ng ari habang sinusubukang pumasok, na maaaring magpasakit sa pakikipagtalik o gawin itong parang imposible. Hindi ito sinasadya, hindi ito “nasa isip mo lang,” at nagagamot ito.\n\nDahil ang sanhi ay maaaring pisikal, hormonal, o nauugnay sa kung gaano ka kapanatag o kapukaw — at madalas ay halo-halo — ang makatutulong na hakbang ay ipatingin ito sa halip na manghula o tiisin na lang.",
+      "deep": null,
+      "when_to_see_doctor": "- Magpatingin sa family doctor o sa sexual health clinic kung masakit ang pakikipagtalik — anuman ang sanhi, mainam itong ipatingin, at may mabisang tulong para sa mga karaniwang sanhi.\n- Maaaring nakakahiyang banggitin ito, pero madalas itong hinaharap ng mga health professional at nariyan sila para tumulong, hindi para manghusga. Maaari kang humiling ng babaeng doktor, magsama ng isang tao, at pag-usapan kung ano ang makapagpapakomportable sa pagsusuri.\n- Ipatingin ang anumang pagdurugo pagkatapos makipagtalik, at magpatingin nang mas maaga kung matindi ang pananakit o masama rin ang pakiramdam mo.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Pampawala ng sakit sa panganganak",
+      "aliases": [
+        "pampawala ng sakit sa panganganak",
+        "epidural",
+        "painless na panganganak",
+        "gas and air",
+        "Entonox",
+        "birth pool",
+        "TENS"
+      ],
+      "glance": "May ilang paraan para mapagaan ang sakit ng panganganak — walang tama o maling pagpili, at puwede kang manatiling bukas sa pagbabago.",
+      "overview": "Iba-iba ang panganganak para sa bawat isa, at may ilang paraan para makayanan ang sakit — mula sa simpleng paraan ng pagpapaginhawa hanggang sa mga medikal na opsyon. Ang pag-alam nang maaga kung ano ang mayroon ay makatutulong para mas maramdaman mong handa ka.\n\nMula ang mga opsyon sa **pananatiling aktibo at nakatayo o tuwid ang katawan**, paghinga at pagre-relax, masahe, at pagiging nasa **tubig** (bathtub o birth pool), hanggang sa **TENS machine**, **gas and air** (Entonox, na ikaw mismo ang lumalanghap), mga **iniksyon** tulad ng pethidine, at **epidural** (ibinibigay ng isang anesthesiologist, na mas lubos na nagpapamanhid sa sakit ng panganganak).\n\nWalang “pinakamahusay” na pagpili — nakadepende ito sa iyo, sa iyong panganganak, at sa nararamdaman mo sa araw na iyon. Mainam na isulat ang iyong mga kagustuhan sa isang **birth plan**, habang nananatiling bukas ang isip: marami ang nakatutuklas na gusto nila ng mas marami, o mas kaunting, pampawala ng sakit kaysa inaasahan nila, at ayos na ayos lang iyon.",
+      "deep": null,
+      "when_to_see_doctor": "- Ipapaliwanag sa iyo ng iyong **midwife** (at, para sa epidural, ng isang anesthesiologist) ang mga opsyon at tutulungan ka nilang magpasya kung ano ang akma sa iyo — habang buntis at muli sa mismong panganganak. Hindi mo kailangang pagpasyahan ang lahat nang maaga.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (polycystic ovary syndrome)",
+      "aliases": [
+        "PCOS",
+        "polycystic ovary syndrome",
+        "polycystic ovarian syndrome",
+        "polycystic ovaries",
+        "PCOS sintomas",
+        "iregular na regla PCOS"
+      ],
+      "glance": "Ang PCOS ay isang karaniwang kondisyong hormonal na maaaring makaapekto sa regla, obulasyon, balat at buhok.",
+      "overview": "Ang PCOS — polycystic ovary syndrome — ay isang karaniwang kondisyong nauugnay sa balanse ng mga reproductive hormone. Tinatayang tinatamaan nito ang humigit-kumulang 1 sa bawat 10 babaeng nasa edad ng reproduksyon, at marami sa mga may nito ay hindi kailanman nada-diagnose.\n\nMaaari itong lumitaw sa iba't ibang paraan, at walang dalawang taong eksaktong magkapareho. Kabilang sa mga karaniwang katangian ang reglang iregular, madalang, o wala; mas mataas na antas ng mga hormone na tinatawag na androgen, na maaaring magdulot ng dagdag na pagtubo ng buhok sa mukha o katawan, tagihawat, o pagnipis ng buhok sa anit; at obaryong hindi naglalabas ng itlog nang kasing-regular ng karaniwan, na maaaring magpahirap sa pagbubuntis. Karaniwan din ang mga pagbabago sa timbang at mga bahagi ng balat na mas maitim.\n\nHindi pa lubos na nauunawaan ang eksaktong sanhi, at wala itong lunas — pero kayang kontrolin ang mga sintomas, at ang pag-unawa sa nangyayari ang unang hakbang. Karaniwan at kayang kontrolin ang PCOS, at hindi ito dapat ikahiya.",
+      "deep": "Dahil ang PCOS ay may kinalaman sa mga hormone ng katawan at kung paano nito pinangangasiwaan ang insulin, nauugnay din ito sa pangmatagalan sa insulin resistance at mas mataas na tsansa ng type 2 diabetes, pagtaas ng blood pressure, at mga pagbabago sa cholesterol — kaya karaniwang binabantayan ng mga health professional ang mga bagay na ito sa paglipas ng panahon. Humigit-kumulang kalahati ng mga may PCOS ay maaaring magkaroon ng diabetes o pre-diabetes pagsapit ng kanilang edad kuwarenta, kaya mahalaga ang regular na pagpapatingin. Ang diagnosis ay hindi isang bagay na sarili mong matutukoy: tinitingnan ng isang health professional ang buong larawan — ang iyong kasaysayan at regla, minsan ay blood test para sa mga hormone, at minsan ay ultrasound ng obaryo — at inaalis ang iba pang posibleng sanhi bago humantong sa PCOS.",
+      "when_to_see_doctor": "Mainam na magpatingin sa family doctor kung may mapansin kang mga bagay na tugma sa larawan sa itaas, lalo na kung nakaaapekto ang mga ito sa nararamdaman mo araw-araw:\n\n- reglang iregular, napakadalang, o tumigil na\n- kapansin-pansing mas maraming tumutubong buhok sa mukha o katawan, tuloy-tuloy na tagihawat, o pagnipis ng buhok sa anit\n- hirap magbuntis pagkatapos sumubok nang ilang panahon\n- pagtaas ng timbang na mahirap tanggalin, kasabay ng iba pang sintomas\n\nMasusuri ng family doctor kung ano ang nangyayari, makukumpirma kung PCOS ito o iba pa, at mapag-uusapan ninyo ang planong akma sa iyo. Nauugnay rin ang PCOS sa pagkalungkot at pagkabalisa — kung nahihirapan ka sa nararamdaman mo, sabihin mo rin ito sa iyong family doctor; bahagi iyon ng larawan at may suportang makukuha.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopause",
+      "aliases": [
+        "perimenopause",
+        "bago mag-menopause",
+        "menopausal transition",
+        "iregular na regla bago mag-menopause",
+        "the change"
+      ],
+      "glance": "Ang perimenopause ay ang paglipat bago ang menopause, kung kailan nagsisimulang magbago ang regla at ang mga hormone.",
+      "overview": "Ang perimenopause ay ang panahon bago ang menopause — ang mga taong “nasa paligid ng menopause.” Nagsisimula ito kapag una mong napansin ang mga pagbabago at tumatagal hanggang isang buong taon pagkatapos ng huli mong regla, kung kailan naabot mo na ang menopause. Maaari itong tumagal nang ilang taon.\n\nSa panahong ito, unti-unting kumakaunti ang estrogen na ginagawa ng obaryo, at mas hindi mahuhulaan kaysa dati ang pagtaas at pagbaba ng mga antas nito. Ang pinakakaraniwang maagang senyales ay ang pagbabago ng regla — nagiging mas malapit o mas malayo ang pagitan, mas mahina o mas malakas. Marami sa mga sintomas na nauugnay sa menopause, tulad ng hot flushes, pagbabago sa tulog, o pagbabago sa mood, ay maaaring magsimula rito habang nireregla ka pa.\n\nDahil unti-unti ito at napakaiba-iba, maaaring nakalilito ang perimenopause — hindi sabay-sabay dumarating ang mga pagbabago o sa parehong pagkakasunod-sunod para sa lahat. Ang pag-alam na may pangalan ang yugtong ito, at na normal itong paglipat, ay makatutulong para mas maunawaan ito.",
+      "deep": null,
+      "when_to_see_doctor": "- Magpatingin sa family doctor kung nakaaapekto na sa pang-araw-araw mong buhay ang mga sintomas ng perimenopause at gusto mong pag-usapan kung ano ang maaaring makatulong.\n- Mainam na magpatingin kung naging napakalakas ng iyong regla, o kung may pagdurugo ka sa pagitan ng regla o pagkatapos makipagtalik, para matukoy ang sanhi.\n- Tandaan na maaari ka pa ring mabuntis habang nasa perimenopause, kaya mainam na pag-usapan ang kontrasepsyon kasama ang isang health professional kung may kinalaman ito sa iyo.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Sakit ng regla (dysmenorrhea)",
+      "aliases": [
+        "sakit ng puson tuwing regla",
+        "masakit na regla",
+        "pulikat sa regla",
+        "dysmenorrhea",
+        "dysmenorrhoea",
+        "menstrual cramps",
+        "period pain"
+      ],
+      "glance": "Ang sakit ng regla ay pulikat sa ibabang bahagi ng tiyan sa panahon ng regla — karaniwan ito, at madalas ay normal na bahagi ng siklo.",
+      "overview": "Ang sakit ng regla ay ang pakiramdam ng pulikat at kirot sa ibabang bahagi ng tiyan (puson) na nararanasan ng marami tuwing may regla. Nangyayari ito kapag humihigpit ang maskuladong pader ng matris, at madalas itong normal na bahagi ng menstrual cycle. Dysmenorrhea ang medikal na tawag dito.\n\nKadalasan itong dumarating sa simula ng iyong regla, o bago mismo nito, at karaniwang tumatagal nang hanggang mga tatlong araw. Para sa ilan, ito ay bahagyang bigat; para sa iba, mas malakas ang pulikat. Maaari ring magbago ang pananakit sa buong buhay mo at sa bawat siklo.\n\nKaraniwan ang sakit ng regla na sumusunod sa pamilyar na pattern na ito at kadalasang kaya itong kontrolin. Ginagamit ng marami ang mga pang-araw-araw na paraan ng pagpapaginhawa at simpleng pain reliever, at makapagpapayo ang isang parmasyutiko o family doctor kung ano ang maaaring akma sa iyo. Ang mahalaga ay makilala mo ang sarili mong karaniwang pattern — para mapansin mo kung may magbago.",
+      "deep": null,
+      "when_to_see_doctor": "Mainam na kumausap ng family doctor kung:\n\n- naging mas masakit, mas malakas, o mas iregular ang iyong regla kaysa karaniwan\n- pinipigilan ka ng sakit na gawin ang mga pang-araw-araw na bagay tulad ng trabaho o pag-aaral\n- hindi nakatutulong ang mga karaniwang pain reliever\n- may pananakit ka habang nakikipagtalik, o kapag umiihi o dumudumi\n- dinudugo ka sa pagitan ng regla\n- dumarating ang pananakit sa ibang panahon bukod sa bago o habang may regla ka\n- may lumalabas sa iyong buo-buong dugo na mas malaki kaysa barya (halos kasinlaki ng limang-pisong barya)\n- may napapansin ka ring pamamaga ng tiyan, pagkawala ng gana sa pagkain, o pagpayat na hindi mo maipaliwanag\n\nHindi nangangahulugan ang mga ito na may mali, pero mainam na ipatingin ang mga ito — ang sakit ng regla na bago, iba, o mahirap kontrolin ay maaaring may sanhing matutulungan ng isang health professional.",
+      "red_flags": "- Humingi ng **agarang** appointment sa family doctor, o kontakin ang isang **doktor na tumatanggap ng pasyente sa labas ng regular na oras**, kung ang iyong regla o pananakit sa puson ay **matindi, o mas malala kaysa karaniwan, at hindi nakatulong ang mga pain reliever.**"
+    },
+    "planning-pregnancy": {
+      "title": "Pagpaplano ng pagbubuntis",
+      "aliases": [
+        "pagpaplano ng pagbubuntis",
+        "gustong magbuntis",
+        "sinusubukang magbuntis",
+        "paghahanda bago magbuntis",
+        "preconception",
+        "trying to conceive"
+      ],
+      "glance": "Ilang simpleng hakbang bago sumubok — folic acid, pagtigil sa paninigarilyo at sa alak — ang nagbibigay sa pagbubuntis ng pinakamagandang simula.",
+      "overview": "Kung iniisip mong sumubok nang magkaanak, ang ilang hakbang bago nito ay makapagbibigay ng mas malusog na simula sa pagbubuntis — marami sa mga ito ay gumagana kahit bago ka pa magbuntis.\n\nAng mga pangunahin: magsimulang uminom ng **folic acid** (at vitamin D), **tumigil sa paninigarilyo**, at **iwasan ang alak**. Nakatutulong din ang pagsisikap na maabot ang malusog na timbang, dahil ang pagiging labis na kulang o labis na sobra sa timbang ay maaaring magpahirap sa pagbubuntis. Mainam ding tiyaking updated ang iyong **bakuna sa MMR**, dahil may ilang impeksyon na maaaring makaapekto sa pagbubuntis.\n\nWala rito ang kailangang maging perpekto o nakaka-stress. Ang maliliit at mabubuting pagbabago nang maaga ang mahalaga — at ang maagang paghahanda ay isa sa pinakamagagandang magagawa mo para sa isang pagbubuntis sa hinaharap.",
+      "deep": null,
+      "when_to_see_doctor": "- Kung may **pangmatagalang kondisyon sa kalusugan** ka o umiinom ng **regular na gamot**, magpatingin sa iyong family doctor bago ka sumubok — may ilang kondisyon at gamot na kailangang planuhin. **Huwag ihinto ang anumang iniresetang gamot** nang hindi muna kinakausap ang iyong doktor.\n- Makapagpapayo rin ang family doctor tungkol sa folic acid (kasama kung kailangan mo ng mas mataas na dose) at sa pag-abot sa malusog na timbang bago magbuntis.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Postnatal depression (depresyon pagkapanganak)",
+      "aliases": [
+        "postpartum depression",
+        "postnatal depression",
+        "depresyon pagkapanganak",
+        "lungkot pagkapanganak",
+        "baby blues",
+        "PND"
+      ],
+      "glance": "Ang postnatal depression ay karaniwan at nagagamot na pagkalungkot pagkapanganak — hindi mo ito kasalanan, at may tulong na nariyan.",
+      "overview": "Karaniwang-karaniwan ang pakiramdam na malungkot, nababalisa, o iritable sa unang dalawang linggo pagkapanganak — madalas itong tinatawag na “baby blues,” at kadalasan itong kusang lumilipas sa loob ng mga dalawang linggo.\n\nIba ang postnatal depression: isang pagkalungkot na mas malalim o mas matagal. Karaniwan itong kondisyon, maaari itong magsimula anumang oras sa unang taon, at maaari rin nitong tamaan ang mga ama at partner. Kabilang sa mga senyales ang tuloy-tuloy na pagkalungkot, hirap na masiyahan sa anumang bagay, hirap sa pagtulog kahit tulog ang iyong sanggol, at kung minsan ay mahihirap na damdamin tungkol sa pagkakabuklod ninyo ng iyong sanggol.\n\nAng pagkakaroon nito ay **hindi** nangangahulugang masama kang magulang o na hindi mo mahal ang iyong sanggol — isa itong sakit, hindi pagkukulang, at mabuti itong tumutugon sa suporta at gamutan. Ang maagang paghingi ng tulong ay isang matatag at mapagmahal na hakbang, para sa iyo at sa iyong sanggol.",
+      "deep": null,
+      "when_to_see_doctor": "- Kausapin ang iyong **family doctor, midwife, o health visitor** kung sa tingin mo ay maaaring may postnatal depression ka, o kung hindi pa nawawala ang “baby blues” pagkalipas ng dalawang linggo. Maraming beses na nilang nakita ito at matutulungan ka nilang makahanap ng tamang suporta.",
+      "red_flags": "- Kung **naiisip mong saktan ang sarili mo o ang iyong sanggol**, o na mas mabuti ang kalagayan ng iyong pamilya kung wala ka, humingi ng tulong **agad-agad**: tumawag sa **{{emergency}}** o pumunta sa emergency room ng ospital, o tumawag sa isang crisis helpline. Maaaring bahagi ng sakit ang mga kaisipang ito, hindi ito ang pagkatao mo, at may agarang tulong na makukuha."
+    },
+    "pre-eclampsia": {
+      "title": "Pre-eclampsia",
+      "aliases": [
+        "pre-eclampsia",
+        "preeclampsia",
+        "high blood habang buntis",
+        "mataas na presyon buntis",
+        "altapresyon buntis",
+        "toxaemia"
+      ],
+      "glance": "Ang pre-eclampsia ay mataas na blood pressure habang buntis — madalas walang sintomas sa simula, kaya mahalaga ang mga prenatal check-up.",
+      "overview": "Ang pre-eclampsia ay isang kondisyon sa pagbubuntis na pangunahing lumilitaw bilang mataas na blood pressure, kasama ng protina sa ihi. Kadalasan itong lumilitaw mula sa bandang 20 linggo, at minsan ay pagkatapos manganak.\n\nIsa sa pinakamahalagang dapat malaman ay madalas itong **walang anumang sintomas** sa simula — maaaring ganap na maayos ang pakiramdam mo. Iyon mismo ang dahilan kung bakit sinusukat ng iyong midwife ang iyong blood pressure at sinusuri ang iyong ihi sa bawat regular na prenatal appointment: sa mga pagsusuring iyon ito kadalasang natutuklasan bago ka pa makapansin ng anuman.\n\nKapag lumitaw ang mga sintomas, mainam na kilalanin ang mga ito, dahil maaaring maging malubha ang pre-eclampsia para sa iyo at sa iyong sanggol. Mahusay itong nagagamot kapag natuklasan sa tamang panahon, at ang pagdalo sa iyong mga prenatal appointment ang nag-iisang pinakamahusay na paraan para maagang matuklasan ito.",
+      "deep": null,
+      "when_to_see_doctor": "- Puntahan ang lahat ng iyong **regular na prenatal appointment** — sa pagsukat ng blood pressure at pagsusuri ng ihi kadalasang natutuklasan ang pre-eclampsia bago pa magsimula ang mga sintomas.",
+      "red_flags": "Humingi **agad** ng medikal na tulong — kontakin ang iyong maternity unit o ang isang **doktor na tumatanggap ng pasyente sa labas ng regular na oras** — kung mayroon kang alinman dito (tumawag sa **{{emergency}}** kung malubha ang kalagayan mo, halimbawa kung nangingisay ka o nagkaka-seizure):\n\n- **matinding sakit ng ulo** na hindi gumagaan sa mga karaniwang pain reliever\n- **problema sa paningin** — paglabo o pagkakita ng kumikislap na ilaw\n- **biglang pamamaga** ng iyong mukha, kamay, o paa\n- **pananakit sa ibaba lang ng iyong tadyang**\n- **pagsusuka**, o biglang pakiramdam na masamang-masama ang lagay mo"
+    },
+    "pregnancy": {
+      "title": "Pagbubuntis",
+      "aliases": [
+        "pagbubuntis",
+        "buntis",
+        "nagdadalang-tao",
+        "trimester",
+        "due date",
+        "kabuwanan",
+        "ilang linggo na akong buntis"
+      ],
+      "glance": "Kadalasang tumatagal ang pagbubuntis nang mga 40 linggo, na binibilang mula sa unang araw ng huli mong regla.",
+      "overview": "Ang pagbubuntis ay ang panahong pinalalaki at dinadala ng iyong katawan ang isang sanggol. Karaniwan itong tumatagal nang mga 40 linggo — itinuturing na kabuwanan at normal ang kahit ano mula 37 hanggang 42 linggo — at, marahil nakagugulat, binibilang ito mula sa unang araw ng iyong **huling regla**, hindi mula sa mismong pagbubuo (conception). Iyon lang talaga ang karaniwang paraan ng pagkalkula ng mga petsa.\n\nAng iyong **due date** ay tantiya, hindi takdang deadline: normal lang na dumating ang sanggol nang medyo mas maaga o mas huli. Sa maagang pagbubuntis, ang isang “dating scan” (kadalasan sa bandang 12 linggo) ay makasusukat sa iyong sanggol at makapagbibigay ng mas eksaktong petsa, na kung minsan ay nagbabago sa orihinal na tantiya.\n\nMadalas pinag-uusapan ang pagbubuntis sa tatlong yugto, o **trimester**, na may kani-kaniyang pagbabago. Sa buong panahon, inaalagaan ka sa pamamagitan ng regular na prenatal check-up mula sa isang midwife (at doktor kung kailangan) — ang pangangalagang tumutulong na mapanatiling malusog ka at ang iyong sanggol.",
+      "deep": "Dahil binibilang ang mga petsa mula sa huling regla, itinuturing kang mga apat na linggo nang buntis pagsapit ng panahong hindi ka dinatnan. Ang bilang ng mga linggo ng pagbubuntis ang batayan ng pag-aayos ng pangangalaga — ang mga scan, screening, at check-up ay iniaalok lahat sa partikular na mga linggo. Kung iregular ang iyong regla o hindi ka sigurado sa mga petsa, ang dating scan ang nagtatakda ng timeline. Ang artikulong ito ang mapa ng buong paglalakbay; ang mga partikular na paksa — mga senyales ng pagbubuntis, prenatal care, pananatiling malusog, at panganganak — ay may kani-kaniyang artikulo.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Pregnancy test",
+      "aliases": [
+        "pregnancy test",
+        "PT",
+        "home pregnancy test",
+        "hCG test",
+        "paano mag-pregnancy test",
+        "buntis ba ako"
+      ],
+      "glance": "Sinusuri ng home pregnancy test ang iyong ihi para sa hormone ng pagbubuntis na hCG — pinakamaaasahan mula sa unang araw na hindi ka dinatnan.",
+      "overview": "Gumagana ang home pregnancy test sa pamamagitan ng pagtuklas ng hormone na tinatawag na hCG (human chorionic gonadotrophin) sa iyong ihi. Nagsisimula itong gawin ng iyong katawan ilang araw matapos kumapit sa matris ang na-fertilize na itlog, at mabilis na tumataas ang dami nito sa maagang pagbubuntis.\n\nPinakamaaasahan ang test mula sa **unang araw na hindi ka dinatnan ng regla** — mga dalawang linggo pagkatapos ng conception. Kung iregular ang iyong siklo o hindi ka sigurado kung kailan dapat dumating ang iyong regla, ang paghihintay nang hindi bababa sa 21 araw pagkatapos ng pakikipagtalik nang walang proteksyon ay nagbibigay ng mas maaasahang resulta. Hindi mo kailangang mag-test sa unang ihi sa umaga; ayos lang ang kahit anong oras ng araw.\n\nHalos tiyak na tama ang **positibong** resulta — napakakaunting test ang nagpapakita ng positibo kapag hindi ka buntis. Medyo hindi gaanong tiyak ang **negatibong** resulta: kung hindi pa rin dumarating ang iyong regla at sa tingin mo ay maaaring buntis ka, maghintay ng ilang araw at mag-test muli.",
+      "deep": null,
+      "when_to_see_doctor": "- Kung positibo ang resulta mo, kontakin ang isang **midwife o family doctor** para masimulan ang prenatal care.\n- Kung negatibo ang mga test pero hindi ka dinatnan at pakiramdam mo ay buntis ka (o masama ang pakiramdam mo), magpatingin sa family doctor para malaman kung ano ang nangyayari.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Maagang panganganak (premature labour)",
+      "aliases": [
+        "maagang panganganak",
+        "premature labour",
+        "preterm labour",
+        "premature na sanggol",
+        "kulang sa buwan",
+        "maagang pumutok ang panubigan"
+      ],
+      "glance": "Ang premature labour ay panganganak bago ang 37 linggo — kumilos agad, dahil malaki ang naitutulong ng maagang pangangalaga.",
+      "overview": "Ang premature (o preterm) labour ay panganganak na nagsisimula bago ang ika-37 linggo ng pagbubuntis. Nangyayari ito sa humigit-kumulang 8 sa bawat 100 panganganak.\n\nMas maselan ang mga sanggol na ipinanganak nang maaga, pero marami ang lumalaking maayos — lalo na sa espesyalistang pangangalaga ng mga neonatal unit (NICU). Ang susi ay kumilos agad kung sa tingin mo ay maaaring nagsisimula na ito, para ka masuri at, kung kailangan, mabigyan ng mga gamutang tumutulong protektahan ang sanggol.\n\nKatulad ng sa panganganak sa anumang yugto ang mga senyales, pero bago ang 37 linggo ay hindi dapat hintaying lumipas ang mga ito — laging dahilan ang mga ito para makipag-ugnayan agad.",
+      "deep": null,
+      "when_to_see_doctor": "- Tawagan ang iyong **midwife o maternity unit** anumang oras na **wala ka pang 37 linggo** at hindi ka sigurado o nag-aalala ka — laging okay na magtanong at magpasuri.",
+      "red_flags": "Kontakin **agad ang iyong midwife o maternity unit** — araw man o gabi — kung, **bago ang 37 linggo**, mayroon kang alinman sa mga ito:\n\n- regular na **paghilab (contractions) o paninigas ng tiyan**, o pananakit na parang sa regla\n- **biglang pagbulwak o pagtulo ng likido** mula sa iyong ari (pumutok ang panubigan)\n- **pananakit ng likod** na hindi karaniwan para sa iyo, o pakiramdam na may dumidiin sa bandang ibaba ng puson (pelvic pressure)"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (premenstrual syndrome)",
+      "aliases": [
+        "PMS",
+        "premenstrual syndrome",
+        "sintomas bago magregla",
+        "mood swings bago mens",
+        "PMT",
+        "PMDD",
+        "premenstrual dysphoric disorder"
+      ],
+      "glance": "Ang PMS ay ang halo ng pisikal at emosyonal na pagbabagong napapansin ng marami sa isa o dalawang linggo bago magregla.",
+      "overview": "Ang PMS — premenstrual syndrome — ay ang tawag sa mga pagbabagong nararamdaman ng marami sa mga araw o isa hanggang dalawang linggo bago ang kanilang regla. Maaari nitong tamaan ang sinumang nireregla, at kadalasan itong gumagaan sa loob ng ilang araw pagkatapos magsimula ang regla.\n\nIba-iba ang anyo ng mga pagbabago. Sa pisikal, maaaring mapansin mo ang pagkabloat, pananakit o paglambot ng suso, pulikat, sakit ng ulo, o mas madaling mapagod. Sa emosyonal, maaaring may pabago-bagong mood, pagkairita, pagkabalisa, o pagkalungkot. Karaniwan din ang pagkatakam sa partikular na pagkain at mga pagbabago sa tulog. Hindi lahat ay nagkakaroon ng PMS, at ang mga nagkakaroon nito ay hindi makararanas ng bawat sintomas — ang sarili mong pattern ang mahalaga.\n\nNormal at kinikilalang bahagi ng siklo ng marami ang PMS, na nakatali sa natural na pagbabago ng mga hormone sa ikalawang kalahati ng siklo. Ang pagpansin kung paano ito lumilitaw sa iyo, bawat siklo, ay makatutulong para mas madali kang makapagplano — at para mapansin kung sakaling magbago ito.",
+      "deep": null,
+      "when_to_see_doctor": "Mainam na kumausap ng family doctor kung:\n\n- nakaaapekto na ang iyong mga sintomas sa pang-araw-araw mong buhay — trabaho, pag-aaral, mga relasyon\n- hindi nakatulong ang mga pang-araw-araw na pagbabago sa iyong routine\n- pakiramdam mo ay matindi na ang iyong pagkalungkot, pagkabalisa, o pagkairita\n\nMaaaring pag-usapan ninyo ng isang health professional kung ano ang maaaring makatulong. Ang mas matinding anyo nito, na tinatawag na premenstrual dysphoric disorder (PMDD), ay maaaring magdulot ng mas malalakas na sintomas sa mood, at may suportang makukuha para dito.",
+      "red_flags": "- Kung may mga sintomas ka ng PMDD at **naiisip mong magpakamatay o nasa panganib kang saktan ang sarili mo**, humingi agad ng tulong: **tumawag sa {{emergency}} o pumunta sa emergency room ng ospital.** Huwag magmaneho nang mag-isa — magpahatid sa isang tao, o humingi ng ambulansya. Karapat-dapat kang suportahan, at may tulong na makukuha."
+    },
+    "progesterone": {
+      "title": "Progesterone",
+      "aliases": [
+        "progesterone",
+        "hormone na progesterone",
+        "progesterone level",
+        "progesterone sa siklo"
+      ],
+      "glance": "Ang progesterone ay ang hormone ng ikalawang kalahati ng siklo, na naghahanda sa lining ng matris pagkatapos ng obulasyon.",
+      "overview": "Ang progesterone ay isa sa mga pangunahing hormone sa likod ng menstrual cycle, at ito ang nangunguna sa ikalawang kalahati — pagkatapos mailabas ang itlog sa obulasyon.\n\nAng pangunahing papel nito ay tulungang manatiling makapal at handa ang lining ng uterus (matris), para kung dumating ang isang na-fertilize na itlog, makakapit ito at makapagsimula ang pagbubuntis. Sa ganitong paraan, katuwang ng estrogen ang progesterone, na siyang gumawa ng karamihan sa paghahanda sa mas maagang bahagi ng siklo.\n\nKung walang pagbubuntis na nagsimula, bumababa ang antas ng progesterone. Ang pagbabang iyon ang nagpapahintulot na matanggal ang lining bilang iyong susunod na regla. Normal at inaasahang ritmo ang pagtaas at pagbaba ng progesterone sa ikalawang kalahati ng siklo.",
+      "deep": "Pangunahing ginagawa ang progesterone ng corpus luteum — ang istrukturang binubuo ng obaryo mula sa follicle pagkatapos nitong mailabas ang itlog. Kaya partikular na tumataas ang progesterone sa luteal phase (pagkatapos ng obulasyon). Kapag nasira ang corpus luteum, parehong bumababa ang progesterone at estrogen, na hudyat ng pagsisimula ng bagong siklo. Ang mga natural nitong pagbabago ay bahagi ng dahilan kung bakit may ilang nakapapansin ng mga pagbabago sa mga araw bago magregla.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Ang progestogen-only pill (mini pill)",
+      "aliases": [
+        "progestogen-only pill",
+        "mini pill",
+        "POP",
+        "progesterone only pill",
+        "desogestrel pill",
+        "pills para sa nagpapasuso"
+      ],
+      "glance": "Ang mini pill ay isang pildoras na iniinom araw-araw na may iisang hormone na nagpapalapot sa cervical mucus para harangan ang sperm.",
+      "overview": "Ang progestogen-only pill — madalas tawaging mini pill — ay isang tabletang iniinom araw-araw na may iisang hormone lang, isang progestogen. Opsyon ito para sa mga hindi puwede o ayaw uminom ng estrogen.\n\nAng pangunahing epekto nito ay palaputin ang mucus sa kuwelyo ng matris (cervix), kaya mas mahirap para sa sperm na maabot ang itlog. Ang isang karaniwang uri, ang desogestrel pill, ay pumipigil din sa obaryo na maglabas ng itlog (obulasyon).\n\nKapag ininom nang tama, mahigit 99% ang bisa nito; sa karaniwang pang-araw-araw na paggamit, mga 91%. Tulad ng ibang pill, mahalaga ang oras ng pag-inom, at hindi ito nagpoprotekta laban sa STI.",
+      "deep": "Naiiba ang mini pill sa combined pill dahil wala itong estrogen, na nagbabago kung kanino ito maaaring angkop — isang bagay na tinitimbang ng health professional kapag inireseta ito. Ang ilang uri ay kailangang inumin sa loob ng medyo makitid na oras bawat araw para manatiling mabisa. Tinatalakay ng artikulong ito kung ano ito at kung paano ito gumagana; ang paraan ng pag-inom nito at kung tama ba ito para sa iyo ay dapat pag-usapan kasama ang family doctor, nars, o parmasyutiko.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Pagkilala sa mapang-abusong relasyon",
+      "aliases": [
+        "pang-aabuso sa relasyon",
+        "mapang-abusong relasyon",
+        "karahasan sa tahanan",
+        "domestic abuse",
+        "VAWC",
+        "senyales ng pang-aabuso",
+        "inaabuso ba ako"
+      ],
+      "glance": "Ang pang-aabuso ay maaaring pisikal, sekswal, emosyonal o mapang-kontrol — at hindi ito kailanman kasalanan ng taong nakararanas nito.",
+      "overview": "Ang pang-aabuso sa isang relasyon ay hindi lang pisikal. Maaari itong magkaroon ng iba't ibang anyo, madalas nang magkakasabay: pisikal na pananakit, sekswal na pamimilit, emosyonal o sikolohikal na pananakit, at mapang-kontrol na pag-uugali — isang partner na nagpapasya kung saan ka pupunta, sino ang makikita mo, o ano ang puwede mong gawin. Maaaring pang-aabuso ang alinman dito, kahit walang nakikitang pinsala.\n\nMas karaniwan ito kaysa inaakala ng marami. Sa buong mundo, mga 1 sa bawat 3 babae ang nakararanas ng pisikal o sekswal na karahasan sa kanilang buhay, kadalasan mula sa isang partner; halos ganito rin ang sitwasyon sa Italya. Kaya kung bahagi ito ng iyong buhay, hindi ka nag-iisa, at hindi ito isang bagay na ikaw ang nagdulot.\n\nMaaaring mahirap itong pangalanan — madalas may kasamang masasayang sandali, paghingi ng tawad, o pangakong magbabago ang pang-aabuso, at maaari itong mabuo nang napakabagal kaya parang normal na ito. Ang pagtitiwala sa sarili mong pakiramdam na may mali ay sapat na dahilan para humingi ng tulong. Hindi mo kailangang maging sigurado, o hintaying maging “sapat na masama” ito, para makipag-usap sa isang tao.",
+      "deep": "Sa ilalim ng iba't ibang anyo nito, kadalasang sumusunod ang pang-aabuso sa isang pattern kung saan naghahangad ang isang tao ng kapangyarihan at kontrol sa iba, at maaari itong lumala sa paglipas ng panahon. Malaki ang pinsala nito sa kalusugan — nauugnay ito sa pagkabalisa, depresyon, hirap sa pagtulog, at pangmatagalang pisikal na epekto. Wala rito ang nangangahulugang mahina ka o ikaw ang may kasalanan; ibig sabihin nito ay nakasasama ang pinagdaraanan mo, at may suportang makatutulong sa iyong pag-isipan ito nang ligtas at sa sarili mong bilis.",
+      "when_to_see_doctor": "- Maaari kang makipag-usap nang kumpidensyal sa isang tao kapag handa ka na — isang family doctor o nars, isang anti-violence centre, o isang helpline (sa Italya, ang **1522**, libre at anumang oras). Hindi mo kailangan muna ng patunay, plano, o desisyon; nariyan sila para makinig at tulungan kang maunawaan ang iyong mga opsyon.\n- Magagamot din ng isang health professional ang anumang pinsala at tahimik kang maiuugnay sa espesyalistang suporta.",
+      "red_flags": "- Kung ikaw ay nasa **agarang panganib**, kontakin ngayon din ang emergency services: **112** sa EU (kasama ang Italya), **999** sa UK, **911** sa US at Canada.\n- Sa Italya, ang **1522** — ang libreng pambansang helpline laban sa karahasan at stalking — ay bukas 24 na oras bawat araw, nang anonymous, sa telepono o chat, sa iba't ibang wika."
+    },
+    "respect-not-control": {
+      "title": "Paggalang, hindi pagkontrol",
+      "aliases": [
+        "mapang-kontrol na pag-uugali",
+        "coercive control",
+        "malusog na relasyon",
+        "selos sa relasyon",
+        "babalang senyales",
+        "saan hihingi ng tulong",
+        "pang-aabuso"
+      ],
+      "glance": "Nakasandig ang pagmamahal sa paggalang at kalayaan — hindi pagmamahal ang pagkontrol, selos at pamimilit, at may tulong na makukuha.",
+      "overview": "Nakasandig ang isang malusog na relasyon sa paggalang, tiwala, pagkakapantay-pantay at kalayaan: dalawang taong kapwa may sariling pakikipagkaibigan, pagpili at espasyo. Kabaligtaran nito ang pagkontrol. Madalas itong nagtatago sa likod ng mga salitang tulad ng pagmamahal o selos — “Tinitingnan ko ang cellphone mo kasi may malasakit ako”, “Ayokong makipagkita ka sa kanila kasi mahal kita” — pero ang epekto nito ay paliitin ang kanyang mundo at ang kanyang kalayaan.\n\nBihirang magsimula ang pagkontrol sa karahasan. Kadalasan itong nagsisimula nang maliit — isang pamimintas, isang hangganang nilampasan, isang “biro” na masakit — at lumalaki. Mahalagang mapangalanan ito nang maaga, dahil ang coercive control ay isa na mismong anyo ng pang-aabuso at babalang senyales ng mas malala pa. Hindi ito tungkol sa pagkakasala; tungkol ito sa katapatan at pagbabago.",
+      "deep": "**Kung nakikilala mo ang ilan dito sa sarili mo, ang kamalayang iyon ay isang panimulang punto — hindi habambuhay na sentensya.**\nMaaaring magbago ang mga tao sa pamamagitan ng tunay na pagsisikap at tamang tulong. Ang paglapit sa isang nakalaang programa para sa mga lalaking gustong tumigil sa pagiging mapang-kontrol o marahas ay tanda ng lakas, hindi ng kahinaan. Makipag-usap sa isang propesyonal, isang doktor, o isang serbisyong tumutulong sa mga lalaki na baguhin ang kanilang pag-uugali.\n\nKung **siya** ang nasa panganib, o nag-aalala ka para sa isang tao, hikayatin at suportahan siyang humingi ng tulong — ayon sa sarili niyang pasya, at hindi kailanman sa pag-agaw ng kontrol.\n\n**Saan hihingi ng tulong**\n- Sa isang emergency, o kung may sinumang nasa agarang panganib, tawagan ang lokal na emergency number (**112** sa Italya at sa malaking bahagi ng Europa; **911** sa US).\n- **Italya — 1522**: ang pambansang helpline laban sa karahasan at stalking. Libre, 24/7, anonymous, at may iba't ibang wika, pinatatakbo ng Department for Equal Opportunities. Ginagabayan din nito ang mga tao patungo sa mga lokal na anti-violence centre (centri antiviolenza).\n- Nag-aalok ng kumpidensyal na suporta para magbago ang mga anti-violence centre at ang mga programa para sa pagbabago ng pag-uugali ng mga lalaki (sa Italya, “centri per uomini autori di violenza”).",
+      "when_to_see_doctor": null,
+      "red_flags": "Mga babalang senyales ng mapang-kontrol o mapang-abusong pag-uugali — dapat seryosohin, sa sarili mo man o sa isang relasyon:\n\n- **Pagmamanman o paghihiwalay sa kanya sa iba**: pagtingin sa kanyang cellphone, pagsubaybay sa kanyang lokasyon, o paglayo sa kanya sa mga kaibigan at pamilya.\n- **Pagkontrol sa kanyang mga pagpili**: pera, kung ano ang isusuot niya, kung saan siya pupunta, kung sino ang makikita niya.\n- **Selos na ipinapakitang pagmamahal**, palagiang pag-aakusa, o pangangailangang malaman kung nasaan siya sa lahat ng oras.\n- **Pangmamaliit, paninisi, o pagpaparamdam sa kanya ng takot**, pagkakasala, o na lagi siyang kinakabahang baka may magawa siyang mali.\n- **Pamimilit o pagbabanta** tungkol sa sex, pakikipaghiwalay, o pananakit sa sarili para mapasunod siya.\n- **Anumang pisikal na puwersa, pananakot, o takot.** Kung naroroon ito, pang-aabuso ito — humingi ng tulong sa itaas. Walang kailanmang dahilan para dito, at hindi ito kailanman kasalanan niya."
+    },
+    "safety-plan": {
+      "title": "Paggawa ng safety plan",
+      "aliases": [
+        "safety plan",
+        "plano para sa kaligtasan",
+        "pananatiling ligtas",
+        "paano umalis nang ligtas",
+        "safety planning"
+      ],
+      "glance": "Ang safety plan ay ilang praktikal na hakbang para matulungan kang manatiling mas ligtas — at matutulungan ka ng mga sinanay na serbisyo na gumawa nito.",
+      "overview": "Ang safety plan ay ang simpleng pag-iisip nang maaga kung paano mapapanatiling mas ligtas ang sarili mo (at ang sinumang mga anak). Hindi ito desisyon na umalis o manatili — tungkol ito sa pagiging mas handa, anuman ang piliin mo.\n\nPara sa ilan, nakatutulong na may ilang bagay na tahimik na nakahanda: isang pinagkakatiwalaang tao na nakaaalam ng nangyayari, mahahalagang dokumento at numero na madali mong makukuha, isang maliit na bag ng mga pangunahing kailangan, kaalaman sa pinakaligtas na mga daan palabas ng bahay, o isang salita o senyales na nagsasabi sa isang tao na kailangan mo ng tulong. Ang makatwiran ay lubos na nakadepende sa sarili mong sitwasyon.\n\nHindi mo kailangang pag-isipan ito nang mag-isa, at madalas ay mas ligtas kung hindi. Sanay ang mga serbisyong laban sa karahasan sa paggawa ng safety plan kasama ang mga tao, nang kumpidensyal at libre — kasama na para sa panahon ng pag-alis, na maaaring mas mapanganib na sandali at mainam na planuhin nang may suporta sa halip na nang nagmamadali.",
+      "deep": null,
+      "when_to_see_doctor": "- Kumontak ng anti-violence centre o helpline (sa Italya, ang **1522**) para gumawa ng planong akma sa iyong sitwasyon — ginagawa nila ito araw-araw, nang kumpidensyal, at makatutulong sila sa mga praktikal, legal at emosyonal na hakbang.\n- Kung nagtatago ka ng anumang talaan ng nangyayari, itago ito sa isang pribado at ligtas na lugar.",
+      "red_flags": "- Kung ikaw ay nasa **agarang panganib**, kontakin ngayon din ang emergency services: **112** sa EU (kasama ang Italya), **999** sa UK, **911** sa US at Canada.\n- Sa Italya, ang **1522** — libre, bukas 24 na oras bawat araw, anonymous, may iba't ibang wika — ay makatutulong sa telepono o chat, kasama na sa agarang pagpaplano para sa kaligtasan."
+    },
+    "sex-during-your-period": {
+      "title": "Pakikipagtalik habang may regla",
+      "aliases": [
+        "sex habang may regla",
+        "sex habang may mens",
+        "pakikipagtalik habang may regla",
+        "period sex",
+        "puwede bang mabuntis kahit may regla",
+        "mabubuntis ba kapag may mens",
+        "sex during period"
+      ],
+      "glance": "Ayos lang makipagtalik habang may regla kung pareho ninyong gusto, pero maaari ka pa ring mabuntis o mahawa o makahawa ng STI.",
+      "overview": "Personal na pagpili ang pakikipagtalik habang may regla. Kung pareho ninyong gusto at pareho kayong komportable, okay lang ito, at walang mali o kakaiba rito. May ilang mas sensitibo o wala lang sa mood sa panahong ito, habang ang iba ay nasisiyahan dito. Ang pakikinig sa iyong katawan at ang bukas na pakikipag-usap sa iyong partner ang pinakamahalaga.\n\nAng hindi nagagawa ng regla ay ang magsilbing kontrasepsyon. Mas mababa ang tsansang mabuntis kaysa sa panahon ng obulasyon, pero hindi ito zero. Maaaring mabuhay ang sperm sa loob ng katawan nang hanggang 7 araw pagkatapos makipagtalik, kaya kung maaga kang mag-obulasyon, na mas malamang kung maikli ang iyong siklo, ang sperm mula sa pakikipagtalik habang may regla o pagkatapos na pagkatapos nito ay maaari pa ring makatagpo ng itlog. Kung ayaw mong mabuntis, mahalaga pa rin ang karaniwan mong kontrasepsyon sa mga araw na ito.\n\nHindi rin nagpoprotekta ang regla laban sa mga sexually transmitted infection (STI). Maaaring maipasa ang mga impeksyon sa magkapartner habang nakikipagtalik nang walang condom, at ang mga mikrobyong nagdudulot nito ay maaaring nasa dugo at pati na rin sa iba pang likido ng katawan. Ang condom ang paraang nagpapababa rin ng panganib ng STI, kasama ang HIV, kaya sulit itong gamitin anumang panahon ng buwan.",
+      "deep": null,
+      "when_to_see_doctor": "- Kung nakipagtalik ka **nang walang kontrasepsyon**, o maaaring pumalya ang iyong kontrasepsyon, at ayaw mong mabuntis, kausapin ang isang parmasyutiko, family doctor o sexual health clinic **sa lalong madaling panahon** tungkol sa emergency contraception. Kailangan itong gamitin sa loob ng ilang araw, at kadalasang mas mabisa ito habang mas maaga itong ginagamit.\n- Humingi ng tulong sa parmasyutiko, sexual health clinic o family doctor kung **pumutok o natanggal ang condom** habang nakikipagtalik. Maaaring kailangan mo ng emergency contraception o STI test.\n- Magpatingin sa family doctor o sexual health clinic kung may mapansin kang **pagdurugo pagkatapos makipagtalik kahit wala kang regla**. Kadalasan ay hindi ito seryoso, pero laging mainam na ipatingin ito.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Pakikipagtalik habang buntis",
+      "aliases": [
+        "sex habang buntis",
+        "pakikipagtalik habang buntis",
+        "puwede bang makipagtalik ang buntis",
+        "ligtas ba ang sex habang buntis",
+        "intimacy habang buntis",
+        "orgasm habang buntis"
+      ],
+      "glance": "Ligtas ang pakikipagtalik sa karamihan ng pagbubuntis at hindi nito masasaktan ang sanggol, maliban kung iba ang payo ng iyong midwife o doktor.",
+      "overview": "Para sa karamihan, ligtas ang pakikipagtalik habang buntis, maliban kung sinabihan ka ng iyong midwife o doktor na huwag. Protektadong-protektado ang sanggol sa loob ng matris, at hindi siya masasaktan ng pakikipagtalik.\n\nMaaaring payuhan kang iwasan ang penetrative sex sa ilang sitwasyon: kung **mababa ang kapit ng inunan (placenta praevia)**, dahil sa panganib ng pagdurugo; kung **pumutok na ang iyong panubigan**, dahil sa panganib ng impeksyon; o kung **ilang beses ka nang nakunan**.\n\nMadalas nagbabago ang pagnanasa habang buntis — may ilang mas gusto ang sex, ang ilan ay mas kaunti, ang ilan ay hindi muna talaga — at may papel dito ang mga hormone, pagbabago ng katawan, pagkapagod, pagduduwal at mga alalahanin. Normal ang lahat ng ito. Kung wala ka sa mood makipagtalik, ang paghalik, pagyakap at masahe ay iba pang paraan para manatiling malapit sa isa't isa.\n\nHabang lumalaki ang iyong tiyan, nagiging hindi komportable ang ilang posisyon; kadalasang mas madali ang mga posisyong magkatabing nakahiga. Maaaring gawing mas tuyo ng mga hormone ang ari, at makatutulong ang water-based na lubricant.\n\nSa huling bahagi ng pagbubuntis, maaaring magdulot ang pakikipagtalik o orgasm ng Braxton Hicks na paninigas, kung kailan tumitigas ang matris nang sandali. Normal iyon at hindi ito pagsisimula ng panganganak — at walang ebidensyang nagpapasimula ng panganganak ang pakikipagtalik.\n\nKung maaaring may sexually transmitted infection ang alinman sa inyo, gumamit ng condom, kasama sa oral sex: ang hindi nagamot na impeksyon ay maaaring makapinsala nang malubha sa iyo at sa sanggol. Iwasan ang oral sex kung may cold sore (herpes sa labi) ang alinman sa inyo, dahil maaaring maipasa ang virus sa sanggol.",
+      "deep": null,
+      "when_to_see_doctor": "- Kausapin ang iyong **midwife o doktor** kung hindi ka sigurado kung ligtas ang pakikipagtalik para sa iyo, o kung dinadala mo ang mga alalahanin tungkol sa sex o sa iyong relasyon.\n- Kung may **anumang pagdurugo** ka habang buntis, ipatingin muna ito bago makipagtalik muli — kontakin ang iyong midwife, doktor o maternity unit.\n- Pumunta sa isang **sexual health clinic** kung ikaw o ang iyong partner ay maaaring may STI.",
+      "red_flags": "- Kontakin agad ang iyong **maternity unit** kung sa tingin mo ay **pumutok na ang iyong panubigan**, at huwag makipagtalik hangga't hindi ka pa natitingnan.\n- Tumawag sa **{{emergency}} o pumunta sa emergency room ng ospital** kung may **malakas na pagdurugo** ka, lalo na kung may kasamang **matinding pananakit ng tiyan** o pakiramdam na parang hihimatayin."
+    },
+    "sexual-violence": {
+      "title": "Sekswal na karahasan at pahintulot",
+      "aliases": [
+        "sekswal na karahasan",
+        "panggagahasa",
+        "rape",
+        "sexual assault",
+        "sekswal na pang-aabuso",
+        "pinilit makipagtalik",
+        "consent"
+      ],
+      "glance": "Ang sekswal na karahasan ay anumang sekswal na gawain nang walang pahintulot — at hindi ito kailanman kasalanan ng taong nakaranas nito.",
+      "overview": "Ang sekswal na karahasan ay anumang sekswal na gawain, o pagtatangkang makuha ito, nang walang pahintulot o sa pamamagitan ng pamimilit. Kabilang dito ang panggagahasa at anumang hindi gustong sekswal na paghawak, at maaari itong gawin ng sinuman — isang estranghero, isang kakilala, o isang partner o asawa.\n\nNasa sentro nito ang pahintulot (consent). Ang pahintulot ay malayang pagsang-ayon, at hindi ito posible kapag ang isang tao ay tulog, walang malay, lasing o nadroga, bata, o pinipilit, binabantaan, o natatakot. Maaari itong bawiin anumang sandali. Dahil dito, ang sekswal na karahasan ay **hindi kailanman** kasalanan ng taong pinagdanasan nito — hindi dahil sa suot niya, kung nakainom ba siya, kung natigilan siya sa halip na lumaban, o kung kilala niya ang tao.\n\nKung nangyari ito sa iyo, may suportang nariyan, kamakailan man ito nangyari o matagal na. Pinaniniwalaan ka, at ikaw ang magpapasya kung ano ang susunod mong gagawin.",
+      "deep": null,
+      "when_to_see_doctor": "- Maaari kang pumunta sa isang **health service, ospital, o espesyalistang serbisyo para sa sexual assault**, na makapag-aalaga sa iyo, makagagamot sa anumang pinsala, at — kung gusto mo — makatutulong sa pag-uulat at sa pagpapanatili ng ebidensya.\n- May ilang hakbang pangkalusugan na **may takdang oras** — halimbawa ang emergency contraception, o ang pag-iwas sa impeksyon — kaya makatutulong ang paghingi ng tulong **sa lalong madaling panahon**. Pero walang takdang oras ang paghingi ng suporta, at laging ikaw ang magpapasya kung mag-uulat ka.",
+      "red_flags": "- Kung ikaw ay nasa **agarang panganib**, kontakin ngayon din ang emergency services: **112** sa EU (kasama ang Italya), **999** sa UK, **911** sa US at Canada.\n- Pagkatapos ng kamakailang pag-atake, **makatutulong agad ang isang ospital o espesyalistang serbisyo**. Sa Italya, ang **1522** (libre, 24/7, anonymous, may iba't ibang wika — telepono o chat) ay makagagabay sa iyo sa tamang pangangalaga."
+    },
+    "signs-of-labour": {
+      "title": "Mga senyales ng panganganak",
+      "aliases": [
+        "senyales ng panganganak",
+        "manganganak na",
+        "paghilab",
+        "contractions",
+        "pumutok ang panubigan",
+        "labor",
+        "the show"
+      ],
+      "glance": "Kabilang sa mga senyales na nagsisimula na ang panganganak ang regular na paghilab, ang “show,” pananakit ng likod, o pagputok ng panubigan.",
+      "overview": "May ilang senyales na maaaring nagsisimula na ang panganganak. Ang pangunahin ay ang paghilab (contractions) — paninigas ng tiyan na regular na dumarating at unti-unting lumalakas. Kabilang din ang “show” (ang pagtanggal ng malapot na mucus plug mula sa iyong cervix), tuloy-tuloy na pananakit ng likod, pakiramdam na kailangang pumunta sa CR, at pagputok ng iyong panubigan.\n\nBago ang aktibong panganganak, madalas may maagang yugto (“latent” phase), kung kailan lumalambot ang cervix at nagsisimulang bumuka. Maaaring abutin ito ng ilang oras o kahit ilang araw, at para sa marami ay ayos lang na manatiling komportable sa bahay sa panahong ito, nagpapahinga at umiinom ng sapat na tubig.\n\nMedyo iba-iba ang pagsisimula ng panganganak ng bawat isa, kaya hindi mo kailangang maranasan ang bawat senyales. Kapag sa tingin mo ay nagsisimula na, nariyan ang iyong midwife o maternity unit para gabayan ka kung ano ang gagawin at kung kailan pupunta.",
+      "deep": null,
+      "when_to_see_doctor": "- Tawagan ang iyong **midwife o maternity unit** para sa gabay kapag sa tingin mo ay nagsimula na ang panganganak, o kapag **regular na ang paghilab — mga bawat 5 minuto**. Kung hindi mo makontak ang iyong midwife, tawagan ang ospital kung saan mo balak manganak.",
+      "red_flags": "Tawagan **agad ang iyong midwife o maternity unit** — araw man o gabi, huwag maghintay — kung:\n\n- **pumutok ang iyong panubigan** (lalo na kung berde, brown, o mabaho ang likido)\n- may **anumang pagdurugo sa ari**\n- **mas kaunti kaysa karaniwan ang paggalaw ng iyong sanggol**\n- may mga senyales ka ng panganganak at **wala ka pang 37 linggong buntis**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Mga senyales ng pagbubuntis",
+      "aliases": [
+        "senyales ng pagbubuntis",
+        "sintomas ng buntis",
+        "buntis ba ako",
+        "maagang sintomas ng pagbubuntis",
+        "delayed ang mens",
+        "paano malalaman kung buntis"
+      ],
+      "glance": "Ang hindi pagdating ng regla ang madalas na unang senyales ng pagbubuntis, minsan kasabay ng pagduduwal, pagkapagod o pananakit ng suso.",
+      "overview": "Para sa marami, ang unang palatandaan ng pagbubuntis ay ang **hindi pagdating ng regla**. Pero iba-iba ang katawan, at may ilang unang nakapapansin ng ibang maagang senyales — madalas sa bandang ika-4 hanggang ika-6 na linggo.\n\nKabilang sa mga karaniwang maagang senyales ang pagduduwal o pagsusuka (anumang oras sa araw, hindi lang sa umaga), mga susong parang lumaki o masakit kapag hinawakan, hindi pangkaraniwang pagkapagod, at mas madalas na pag-ihi. May ilang nakapapansin din ng lasang parang metal sa bibig, bagong pagkasensitibo sa ilang amoy, o pagkawala ng gana sa mga pagkaing karaniwang gusto nila.\n\nWala sa mga ito, kung mag-isa, ang nangangahulugang tiyak na buntis ka — marami ang kahawig ng karaniwang pagbabago sa siklo — at hindi lahat ay nakararanas nito. Ang paraan para matiyak ay isang pregnancy test.",
+      "deep": null,
+      "when_to_see_doctor": "- Kung positibo ang test, kontakin ang isang **midwife o family doctor** para masimulan nang maaga ang iyong prenatal care.\n- Kung atrasado ang iyong regla at negatibo ang mga test pero nagpapatuloy ang mga sintomas, mainam na kumonsulta sa family doctor para matingnan kung ano pa ang maaaring nangyayari.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Paninigarilyo habang buntis",
+      "aliases": [
+        "paninigarilyo habang buntis",
+        "yosi habang buntis",
+        "pagtigil sa paninigarilyo buntis",
+        "vape habang buntis",
+        "smoking pregnancy"
+      ],
+      "glance": "Ang pagtigil sa paninigarilyo ay isa sa pinakamabubuting magagawa mo para sa iyong sanggol — at hindi pa huli ang lahat.",
+      "overview": "Ang pagtigil sa paninigarilyo ay isa sa pinakamabisang magagawa mo para mabigyan ng malusog na simula ang iyong sanggol. Bawat sigarilyo ay nagpapakaunti ng oxygen na natatanggap ng iyong sanggol, kaya mas napapagod ang kanyang puso at maaaring mapigilan ang kanyang paglaki.\n\nAng paninigarilyo habang buntis ay nagpapataas ng panganib ng malulubhang problema, kabilang ang pagkakunan, maagang panganganak, mababang timbang pagkapanganak, stillbirth (patay na pagsilang), at sudden infant death syndrome (SIDS) pagkapanganak. Mahalaga rin ang usok mula sa ibang naninigarilyo (second-hand smoke), kaya nakatutulong ang bahay na walang usok.\n\nAng nakapagpapalakas-loob na bahagi: **hindi pa huli ang lahat**. Nakatutulong ang pagtigil sa anumang punto ng pagbubuntis, at ang maagang pagtigil ang nagdudulot ng pinakamalaking pakinabang. Maaari itong talagang mahirap, at iyon mismo ang dahilan kung bakit may libreng tulong — at ang paggamit nito ay nagpapalaki nang husto ng tsansang magtagumpay.",
+      "deep": null,
+      "when_to_see_doctor": "- Tanungin ang iyong **midwife** tungkol sa **libreng suporta para tumigil sa paninigarilyo** — matutulungan ka ng mga sinanay na tagapayo (ang ilan ay espesyalista sa pagbubuntis), at maraming bansa rin ang may libreng quit-smoking helpline. Ang paghingi ng tulong ay tanda ng pag-aalaga sa iyong sanggol, hindi pagkukulang.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Spotting at pagdurugo sa pagitan ng regla",
+      "aliases": [
+        "spotting",
+        "pagdurugo sa pagitan ng regla",
+        "dinudugo kahit walang regla",
+        "pagdurugo pagkatapos makipagtalik",
+        "breakthrough bleeding",
+        "intermenstrual bleeding"
+      ],
+      "glance": "Ang spotting ay bahagyang pagdurugo sa pagitan ng regla o pagkatapos makipagtalik — madalas hindi seryoso, pero laging mainam na ipatingin.",
+      "overview": "Ang spotting ay bahagyang pagdurugo na nangyayari sa pagitan ng iyong regla o pagkatapos makipagtalik, labas sa normal mong daloy. Karaniwan ito, at kadalasan ay hindi seryoso — pero dahil maaari itong magkaroon ng ilang sanhi, ito ang uri ng bagay na laging mainam na ipatingin sa isang health professional.\n\nMaraming pang-araw-araw na dahilan para dito. Madalas na dahilan ang pagsisimula o paggamit ng hormonal na kontrasepsyon. Kabilang din ang maliliit at hindi mapanganib na tumutubong laman sa loob o paligid ng matris (polyp o fibroids), hindi mapanganib na pagbabago sa ibabaw ng cervix, panunuyo ng ari, o impeksyon tulad ng chlamydia.\n\nDahil ang iisang sintomas ay maaaring manggaling sa iba't ibang sanhi — karamihan ay hindi malubha — ang makatutulong na hakbang ay hindi ang manghula, kundi ang ipatingin ito para malaman mo kung ano ang nasa likod nito sa iyong kaso.",
+      "deep": null,
+      "when_to_see_doctor": "- Magpatingin sa family doctor o sexual health clinic **tuwing may pagdurugo ka sa pagitan ng regla o pagkatapos makipagtalik**, kahit kaunti lang. Kadalasan ay hindi ito seryoso, pero sa pagpapatingin natutukoy ang sanhi — at ito ang paraan para maagang maalis ang posibilidad ng mga hindi gaanong karaniwang sanhi.",
+      "red_flags": "- Humingi ng **agarang** appointment sa family doctor, o kontakin ang isang **doktor na tumatanggap ng pasyente sa labas ng regular na oras**, kung **hindi ka dinatnan ng regla at may kakaibang pagdurugo ka kasabay ng pananakit ng tiyan o puson** — kailangan itong masuri agad, dahil maaari itong senyales ng ectopic pregnancy."
+    },
+    "stalking": {
+      "title": "Stalking (paulit-ulit na pagsunod at pagmamanman)",
+      "aliases": [
+        "stalking",
+        "sinusundan ako",
+        "may sumusunod sa akin",
+        "panliligalig",
+        "harassment",
+        "cyberstalking",
+        "hindi gustong atensyon"
+      ],
+      "glance": "Ang stalking ay paulit-ulit at hindi gustong atensyon na nagpaparamdam sa iyo ng takot o na hindi ka ligtas — at sineseryoso ito.",
+      "overview": "Ang stalking ay isang pattern ng hindi gusto at paulit-ulit na pag-uugali ng isang tao na nagpaparamdam sa iyo ng takot, na binabantayan ka, o na hindi ka ligtas. Maaaring kabilang dito ang pagsunod-sunod sa iyo, pagsulpot ng isang tao kung nasaan ka, walang tigil na tawag o mensahe, hindi gustong regalo, pagmamanman sa iyo online o sa pamamagitan ng iyong telepono, o pagbabanta. Madalas itong ginagawa ng dating partner o ng isang taong kakilala mo, bagaman hindi palagi.\n\nMakatwiran ang takot na dulot nito, kahit na ang bawat isang gawain ay maaaring mukhang “maliit” sa iba — ang pattern, at kung ano ang ipinararamdam nito sa iyo, ang mahalaga. Kinikilala ang stalking bilang isang anyo ng pang-aabuso, at sa maraming bansa ay krimen ito. Wala rito ang kasalanan mo, at hindi mo kailangang basta tiisin ito.\n\nKung ligtas itong gawin, makatutulong sa kalaunan ang pagtatala: mga petsa at oras, screenshot ng mga mensahe, at kung ano ang nangyari. Hindi mo kailangang alamin nang mag-isa kung “kasama” ba ito — matutulungan ka ng mga support service na unawain ito at pag-isipan ang iyong mga opsyon.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakin ang **pulis** para i-report ang stalking, at ang isang helpline laban sa karahasan o stalking para sa suporta at payo (sa Italya, ang **1522** ay para sa karahasan **at** stalking).\n- Ang pagtatago ng ebidensya at ang paggawa ng safety plan, sa tulong ng isang espesyalistang serbisyo, ay parehong may tunay na malaking maitutulong.",
+      "red_flags": "- Kung pakiramdam mo ay nasa **agarang panganib** ka, kontakin ngayon din ang emergency services: **112** sa EU (kasama ang Italya), **999** sa UK, **911** sa US at Canada.\n- Sa Italya, ang **1522** — libre, bukas 24 na oras bawat araw, anonymous, may iba't ibang wika — ay makatutulong sa telepono o chat."
+    },
+    "stillbirth": {
+      "title": "Stillbirth (patay na pagsilang)",
+      "aliases": [
+        "stillbirth",
+        "patay na ipinanganak",
+        "stillborn",
+        "pagkawala ng sanggol",
+        "late pregnancy loss",
+        "baby born sleeping"
+      ],
+      "glance": "Ang stillbirth ay ang pagkawala ng sanggol pagkalipas ng 24 na linggo — hindi karaniwan, hindi kailanman kasalanan mo, at laging may kasamang suporta.",
+      "overview": "Ang stillbirth ay kapag ipinanganak ang isang sanggol na namatay na pagkalipas ng 24 na linggo ng pagbubuntis. (Ang pagkawala bago ang 24 na linggo ay tinatawag na pagkakunan o miscarriage.) Hindi ito karaniwan — mga 1 sa bawat 250 panganganak — pero para sa mga pamilyang tinatamaan nito, isa itong napakalalim na pagkawala, at ang lahat ng pangangalagang kasunod nito ay para marahan kang alalayan sa pagdaan dito.\n\nMinsan ay natutuklasan ang sanhi — halimbawa, problema sa inunan (placenta) o sa paglaki ng sanggol, o isang kondisyon sa kalusugan — at minsan, sa kabila ng mga test, **walang sanhing natutuklasan**. Anuman ang dahilan, ang stillbirth ay hindi isang bagay na dinulot ng magulang o maaari sanang nalaman niya para maiwasan.\n\nMay isang bagay na talagang nakatutulong na mapababa ang panganib, at simple ito: **agad na pagsasabi sa iyong midwife kung bumagal o nagbago ang paggalaw ng iyong sanggol.** Kasabay nito, may papel din ang mga pang-araw-araw na bagay — ang pagpunta sa mga prenatal appointment, hindi paninigarilyo, pag-iwas sa alak, at pagtulog nang nakatagilid mula 28 linggo.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontakin **agad ang iyong midwife o maternity unit** — anumang oras, araw man o gabi — kung **mas kaunti kaysa karaniwan ang paggalaw ng iyong sanggol o iba ang pakiramdam ng kanyang paggalaw.** Huwag kailanman maghintay kung lilipas ito; ang pagpapatingin ang mismong tamang gawin, at hindi ka kailanman nakaaabala.\n- Pagkatapos ng pagkawala, nariyan para sa iyo ang mga espesyalistang midwife at bereavement team — para sa mga desisyon, sa mga praktikal na hakbang, at sa pagdadalamhati. Hindi mo kailangang harapin ang alinman dito nang mag-isa, at may mga support group para sa pagkawala ng sanggol hangga't kailangan mo ang mga ito.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stress, buhay at ang iyong regla",
+      "aliases": [
+        "stress at regla",
+        "stress",
+        "hindi dinatnan",
+        "delayed ang mens",
+        "atrasadong regla",
+        "bakit late ang regla ko"
+      ],
+      "glance": "Ang stress, malalaking pagbabago sa timbang, o sobrang ehersisyo ay maaaring makapag-antala o makapagpatigil sa regla — madalas pansamantala lang.",
+      "overview": "Karaniwan na maatraso ang regla, o lumaktaw ng isang buwan, at ang dahilan ay madalas mas may kinalaman sa buhay kaysa sa anumang problema. Madalas na dahilan ang stress — ang parehong sistemang tumutugon sa pressure ay maaaring makagalaw sa mga hormone na nagpapatakbo ng iyong siklo.\n\nMaaari ring makapagpabago sa iyong regla ang iba pang pang-araw-araw na bagay: malaking pagbabago sa timbang (pagtaas o pagbaba), sobrang pag-eehersisyo, o pagiging pagod at nanghihina. Maaari ring nasa likod nito ang mga pagbabago sa hormone — tulad ng papalapit na perimenopause, o mga kondisyon tulad ng PCOS — gayundin ang pagbubuntis at ilang kontrasepsyon. Madalas, bahagya lang talagang nag-iiba ang pagitan ng mga regla paminsan-minsan, at normal iyon.\n\nAng nakapapanatag na bahagi ay kadalasang hindi dapat ikabahala ang minsanang atraso o hindi pagdating ng regla, at madalas bumabalik sa ayos ang mga bagay habang umaayos ang buhay. Ang mainam bantayan ay ang pattern ng pagbabago sa halip na iisang buwan.",
+      "deep": null,
+      "when_to_see_doctor": "Magpatingin sa family doctor kung:\n\n- **tatlong magkakasunod na beses** ka nang hindi dinatnan, o naging **iregular** ang iyong regla\n- **tumigil** ang iyong regla at hindi mo alam kung bakit (at kung posible ang pagbubuntis, mainam na mag-test muna)\n- may kasamang ibang pagbabago ang hindi pagdating ng regla — tulad ng hindi inaasahang pagbabago sa timbang, pagkapagod, dagdag na pagtubo ng buhok, o pagkalungkot\n\nAng mga pagsusuring ito ay para lang maunawaan kung ano ang nasa likod ng pagbabago — na kadalasan ay isang bagay na kayang kontrolin.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Pagsuporta sa kanya habang may regla siya",
+      "aliases": [
+        "pagtulong sa kanya habang may regla",
+        "suporta ng partner sa regla",
+        "pag-aalaga habang may mens",
+        "paano tulungan ang girlfriend na may regla",
+        "period care"
+      ],
+      "glance": "Maaaring magdala ng tunay na sakit at pagod ang regla — malaki ang naitutulong ng maliliit at praktikal na pag-aalaga.",
+      "overview": "Ang regla ay hindi lang ilang araw ng pagdurugo; para sa marami, may kasama itong pulikat, sakit ng likod, sakit ng ulo, pagkapagod at kawalan ng lakas. Karaniwan ang sakit ng regla at maaari itong talagang makapanghina — hindi ito pagmamalabis. Tratuhin ito gaya ng pagtrato mo sa sinumang partner na may sakit: nang may praktikal na kabaitan.\n\nGawin din itong normal. Hindi kadiri, nakakahiya o bawal na paksa ang regla. Ang pagiging komportable sa pagbili ng napkin o tampon, pagtatabi ng ilan sa bahay, o pag-abot sa kanya ng hot water bag nang walang arte ay nagsasabi sa kanyang ligtas siya at sinusuportahan.",
+      "deep": "Mga simpleng bagay na nakatutulong:\n\n- **Init at pahinga.** Nakapagpapagaan ng pulikat ang hot water bag o heat pad sa ibabang bahagi ng tiyan; mag-alok ng tahimik na gabi sa bahay.\n- **Bawasan ang kanyang mga gawain.** Magluto, maglinis, mag-asikaso ng lakad, ihatid siya — mas tumatatak ang praktikal na tulong kaysa sa mga salita.\n- **Laging may stock.** Alamin kung ano ang ginagamit niya at magtabi nito, para hindi kailanman maging krisis ang araw na malakas ang regla.\n- **Pain reliever at paboritong pagkain** kung gusto niya; siya ang magpapasya.\n- **Huwag siyang pilitin sa sex o sa lakas na wala siya.** Ang pagiging malapit ay maaaring simpleng yakapan sa sofa.",
+      "when_to_see_doctor": "Hikayatin siyang magpatingin sa doktor (at mag-alok na samahan siya) kung ang sakit ng regla ay **matindi, lumalala, o pumipigil sa kanyang pang-araw-araw na buhay**, kung **napakalakas** ng regla (lubusang nababasa ang napkin o proteksyon bawat oras, malalaking buo-buong dugo), o kung bago at kakaiba ang sakit — maaaring tumuro ang mga ito sa mga kondisyong tulad ng endometriosis na nararapat sa tamang pangangalaga.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Pagsuporta sa taong nakararanas ng karahasan",
+      "aliases": [
+        "pagsuporta sa kaibigan",
+        "paano tumulong",
+        "pagtulong sa kaibigang inaabuso",
+        "taong nakararanas ng pang-aabuso",
+        "paano sumuporta"
+      ],
+      "glance": "Kung may kakilala kang maaaring nakararanas ng pang-aabuso, nakatutulong ang pakikinig nang hindi nanghuhusga — at ang pag-alam kung saan siya ituturo.",
+      "overview": "Mahirap mapagtanto na ang isang taong mahalaga sa iyo ay maaaring nakararanas ng pang-aabuso, at mabuting likas na pagnanais ang gustong tumulong. Kadalasan, ang pinakasimpleng bagay ang pinakamakabuluhang maibibigay mo.\n\nMakinig, at paniwalaan siya. Hayaan siyang magsalita sa sarili niyang bilis, nang hindi nanghuhusga, naninisi, o nagtatanong kung ano ang ginawa niya para mangyari ito. Sabihin nang malinaw na hindi niya ito kasalanan at hindi niya ito nararapat. Subukang huwag sabihin sa kanya kung ano ang gagawin o pilitin siyang umalis: siya ang magpapasya kung aalis siya, at ang pag-alis nang nagmamadali ay maaaring talagang magpataas ng panganib — mas nakatutulong na maramdaman niyang sinusuportahan siya at hindi siya nag-iisa.\n\nPanatilihing pribado ang sinasabi niya sa iyo. Marahan siyang tulungang makahanap ng espesyalistang suporta kapag handa na siya — isang helpline tulad ng **1522** sa Italya, o isang lokal na anti-violence centre — at mag-alok ng praktikal na tulong, tulad ng sabay na paghahanap ng mga numero o pagsama sa kanya kapag tumatawag siya. At alagaan mo rin ang sarili mo; maaaring mabigat ang pagsuporta sa isang tao sa ganitong sitwasyon.",
+      "deep": null,
+      "when_to_see_doctor": "- Hikayatin siya (nang walang pamimilit) na kumontak ng helpline o anti-violence centre, na makagagabay sa inyong dalawa kung ano ang susunod na gagawin. Maaari kang mag-alok na tulungan siyang tumawag o hanapin ang numero.\n- Kung nasaktan siya, makatutulong ang isang family doctor o ospital — at maiuugnay siya sa mga serbisyong pang-suporta.",
+      "red_flags": "- Kung siya ay nasa **agarang panganib**, tumawag sa emergency services: **112** sa EU (kasama ang Italya), **999** sa UK, **911** sa US at Canada.\n- Sa Italya, ang **1522** (libre, 24/7, anonymous, may iba't ibang wika — telepono o chat) ay makapagpapayo rin sa iyo kung paano tutulungan ang isang tao."
+    },
+    "the-coil": {
+      "title": "IUD at IUS (intrauterine device)",
+      "aliases": [
+        "IUD",
+        "IUS",
+        "copper IUD",
+        "hormonal IUD",
+        "intrauterine device",
+        "intrauterine system",
+        "Mirena",
+        "coil"
+      ],
+      "glance": "Ang IUD o IUS ay isang maliit na device na inilalagay sa loob ng matris — copper (IUD) o hormonal (IUS) — na tumatagal nang ilang taon.",
+      "overview": "Ang IUD o IUS ay isang maliit na device na inilalagay ng isang health professional sa loob ng matris. May dalawang uri, at nakatutulong na makilala ang pagkakaiba nila:\n\n- Ang **IUD**, o copper IUD, ay walang hormone. Binabago ng copper ang kondisyon sa loob ng matris kaya hindi mabuhay nang maayos ang sperm at itlog, at naaapektuhan din nito ang cervical mucus. Depende sa uri, gumagana ito nang mga 5 hanggang 10 taon.\n- Ang **IUS**, o hormonal IUD, ay naglalabas ng progestogen sa halip na gumamit ng copper. Pinalalapot nito ang mucus sa kuwelyo ng matris at pinanipis ang lining ng matris; para sa ilan, maaari rin nitong gawing mas mahina nang husto ang regla.\n\nParehong “ikabit at kalimutan” ang mga ito at parehong mahigit 99% ang bisa, na may kaunting pagkakaiba lang sa pagitan ng perpekto at karaniwang paggamit. Wala sa dalawa ang nagpoprotekta laban sa STI.",
+      "deep": "Ang mga IUD ay pangmatagalan at nababawing paraan: kapag naikabit na, patuloy silang gumagana nang ilang taon, at bumabalik ang fertility pagkatapos silang tanggalin. Ang pagkakabit at pagtatanggal ay ginagawa ng isang sinanay na health professional at ilang minuto lang, bagaman may ilang nakararamdam ng hindi komportable habang ikinakabit. Isang karaniwang dahilan kung bakit pumipili ang mga tao sa pagitan ng dalawa ay ang epekto nila sa regla — maaaring palakasin ng copper IUD ang regla sa simula, habang madalas namang pinahihina ito ng hormonal IUS. Kung alin ang akma sa iyo ay dapat pag-usapan kasama ang isang health professional; ipinaliliwanag lang ng artikulong ito kung paano gumagana ang bawat isa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Ang mga araw bago ang kanyang regla",
+      "aliases": [
+        "PMS para sa partner",
+        "pagsuporta sa kanya bago ang regla",
+        "suporta sa PMS",
+        "premenstrual support",
+        "luteal phase support"
+      ],
+      "glance": "Sa mga araw bago ang kanyang regla, maaaring mas pagod siya, mas maramdamin o mas malungkot — harapin ito nang may pasensya, hindi biro.",
+      "overview": "Sa mga isang linggo bago ang regla, marami ang nakararanas ng mga premenstrual na sintomas: pagbabago ng mood, pagkairita o pagkalungkot, pagkapagod, masakit na suso, pagkabloat, sakit ng ulo, o hirap sa pagtulog. Napakakaraniwan nito at totoo ito — dulot ng natural na pagbabago ng hormone sa luteal phase, hindi ng kanyang “pag-o-overreact”.\n\nPara sa mas kaunting tao, matindi ang pagkalungkot (isang kondisyong tinatawag na PMDD) at nararapat itong bigyan ng tunay na suporta at medikal na pangangalaga. Alinman dito, hindi mo trabahong i-diagnose o ayusin siya — ang trabaho mo ay maging mahinahon, matatag at mabait.\n\nAng pinakamapinsalang magagawa ng isang partner dito ay gamitin ito bilang sandata: “nagpi-PMS ka lang”, pag-ikot ng mata, o pagturing na walang saysay ang kanyang damdamin dahil sa petsa. Binabalewala siya nito at nagdadagdag ng sakit sa isang mahirap na linggo. Mahalaga pa rin ang kanyang damdamin, kahit bahagi ng larawan ang mga hormone.",
+      "deep": "Ang talagang nakatutulong sa mga araw na ito:\n\n- **Pagaanin ang kanyang pasanin.** Akuin ang mga gawaing-bahay, pagluluto, o ang listahan ng mga dapat asikasuhin nang hindi na hinihiling.\n- **Pag-aalo, hindi pagtatama.** Mag-alok ng init, pahinga, hot water bag, ang paborito niyang pagkain — at hayaan siyang maramdaman ang nararamdaman niya.\n- **Makinig muna.** Kung nababalisa siya, laging mas mabuti ang “parang ang hirap talaga niyan” kaysa sa “kumalma ka nga”.\n- **Huwag magbilang ng utang.** Ang mas mahirap na araw ay hindi utang na babayaran niya sa iyo sa ibang araw.\n- **Tanungin kung ano ang kailangan niya** — may ilang gusto ng pagiging malapit, may ilang gusto ng espasyo. Parehong okay; igalang ang sagot niya.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Kambal at maramihang pagbubuntis",
+      "aliases": [
+        "kambal",
+        "buntis sa kambal",
+        "twin pregnancy",
+        "multiple pregnancy",
+        "identical twins",
+        "hindi magkamukhang kambal",
+        "triplets"
+      ],
+      "glance": "Kadalasang unang natutuklasan sa dating scan ang pagbubuntis sa kambal, at nangangahulugan ito ng medyo mas maraming prenatal care.",
+      "overview": "Ang pagbubuntis sa higit sa isang sanggol ay kadalasang unang natutuklasan sa **dating scan** (sa bandang 12 linggo), na maaari ring magpakita kung iisa ang inunan (placenta) ng mga sanggol.\n\nMay dalawang pangunahing uri. Ang **identical** na kambal ay nagmumula sa iisang na-fertilize na itlog na nahati, kaya pareho sila ng genes at laging pareho ang kasarian. Ang **non-identical** na kambal ay nagmumula sa dalawang magkahiwalay na itlog, at hindi sila mas magkahawig kaysa sa ibang magkakapatid; sila ang mas karaniwan sa dalawa, at medyo mas malamang sa mas matandang edad, kapag may kasaysayan nito sa pamilya sa panig ng ina, o pagkatapos ng fertility treatment.\n\nAng pagdadala ng kambal o higit pa ay isang natatanging karanasan, at kadalasan itong nangangahulugan ng **medyo mas maraming prenatal care** — dagdag na appointment at scan para mabantayang mabuti ka at ang iyong mga sanggol. Ipapaliwanag ng iyong midwifery team kung ano ang aasahan.",
+      "deep": null,
+      "when_to_see_doctor": "- Kung ipinakita ng scan na kambal (o higit pa) ang dinadala mo, ipapaliwanag sa iyo ng iyong **midwife** ang mga dagdag na check-up at scan na kasama ng maramihang pagbubuntis — ang pagpunta sa lahat ng ito ang pinakamahusay na paraan para manatili kang maayos na naaalagaan.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Pag-unawa sa kanyang siklo",
+      "aliases": [
+        "gabay sa siklo para sa partner",
+        "siklo para sa mga partner",
+        "paano gumagana ang siklo niya",
+        "pagsuporta sa kanyang siklo",
+        "regla ng girlfriend"
+      ],
+      "glance": "Dumaraan ang kanyang katawan sa buwanang siklo na may apat na yugto — ang pag-alam sa mga pangunahing bagay ay tumutulong sa iyong suportahan siya nang hindi nanghuhula.",
+      "overview": "Ang menstrual cycle ay isang halos buwanang ritmo, na sa karaniwan ay mga 28 araw pero madalas ay kahit saan mula 21 hanggang 35, at ang normal para sa kanya ay kung ano ang regular para sa *kanya*. Tumatakbo ito sa apat na yugto: ang **menstrual** phase (ang kanyang regla), ang **follicular** phase, ang **obulasyon** sa bandang kalagitnaan, at ang **luteal** phase bago ang susunod na regla.\n\nMaaaring magbago ang lakas, mood, tulog at pagnanasa sa mga yugtong ito dahil tumataas at bumababa ang mga hormone — biyolohiya iyon, hindi kapintasan sa ugali at hindi dapat gawing tukso sa kanya. May ilang nakararamdam ng tunay na pagbaba sa mga araw bago ang kanilang regla; ang iba ay halos hindi nakapapansin. Walang iisang “tamang” pakiramdam.\n\nHindi mo kailangang maging eksperto. Simple ang pinakanakatutulong: alamin kung humigit-kumulang nasaan na siya sa kanyang siklo (maipapakita ito sa iyo ng app na ito, nang may pahintulot niya), asahan na may mga araw na mas mahirap kaysa sa iba, at tanungin siya kung ano ang nakatutulong para sa *kanya* sa halip na mag-akala.",
+      "deep": "Ilang bagay na mainam malaman, para hindi mapunan ng mga maling paniniwala ang puwang:\n\n- **Ang “may regla siya” ay hindi insulto o paliwanag kung bakit hindi siya sang-ayon sa iyo.** Ang paggamit sa kanyang siklo para balewalain ang kanyang damdamin (“hormonal ka lang”) ay kawalan ng paggalang, at kadalasan ay mali ito. Ang mga dahilan niya ay mga dahilan pa rin niya.\n- **Higit pa sa regla ang naaapektuhan ng siklo.** Maaaring bahagi nito ang pulikat, sakit ng ulo, masakit na suso, kawalan ng lakas, o mas malungkot na mood. Mas mabuti ang praktikal na tulong kaysa sa payo.\n- **Sa kanya ang pagsubaybay.** Kung ibinabahagi niya sa iyo ang kanyang siklo, ituring itong bintana sa kung ano ang maaaring nararamdaman niya — isang paanyaya na maging mabait, hindi kailanman kasangkapan para bantayan o kontrolin siya.\n- **Kapag may alinlangan, magtanong.** Mas mahalaga ang “Kumusta ang pakiramdam mo ngayon? May magagawa ba ako?” kaysa sa anumang chart.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Panunuyo ng ari",
+      "aliases": [
+        "panunuyo ng ari",
+        "tuyong ari",
+        "vaginal dryness",
+        "dryness",
+        "vaginal atrophy",
+        "masakit makipagtalik dahil tuyo"
+      ],
+      "glance": "Karaniwan ang panunuyo ng ari, madalas nauugnay sa mga hormone, at maaaring magdulot ng hapdi o hindi komportableng pakiramdam habang nakikipagtalik.",
+      "overview": "Ang panunuyo ng ari ay karaniwang karanasan na nararanasan ng marami sa isang punto. Nangyayari ito kapag nabawasan ang karaniwang pagkabasa na nagpapanatiling komportable sa ari, at maaari itong maramdaman bilang hapdi, pangangati, o hindi komportableng pakiramdam — kasama ang pananakit o hindi komportableng pakiramdam habang nakikipagtalik.\n\nMadalas itong nauugnay sa mga hormone, lalo na sa pagbaba ng estrogen. Kaya karaniwan ito sa panahon ng menopause at perimenopause, pero maaari rin itong mangyari habang nagpapasuso, dahil sa ilang gamot (tulad ng ilang partikular na kontraseptibo o antidepressant), o kapag hindi sapat ang pagkapukaw bago makipagtalik. Walang dapat ikahiya rito — pisikal na bagay ito, hindi salamin ng pagkatao mo o ng inyong relasyon.\n\nAng pag-alam na karaniwan ito, at kadalasang madaling gamutin, ay magandang panimula. May mga simpleng opsyon na makatutulong, at maituturo sa iyo ng family doctor o parmasyutiko kung ano ang akma sa iyo.",
+      "deep": null,
+      "when_to_see_doctor": "Magpatingin sa family doctor kung:\n\n- nakakaabala sa iyo ang panunuyo ng ari o hindi ito gumagaan pagkalipas ng ilang linggo\n- nakaaapekto ito sa iyong pang-araw-araw na buhay o sa iyong buhay sekswal\n- mayroon ka ring kakaibang discharge, o anumang pagdurugo pagkatapos makipagtalik, sa pagitan ng regla, o pagkatapos ng menopause\n\nHindi mo kailangang tiisin na lang ito — may tulong na makukuha, at matitingnan ng isang health professional kung ano ang nasa likod nito at kung ano ang maaaring makapagpagaan nito.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Kalusugan ng ari at vulva",
+      "aliases": [
+        "kalusugan ng ari",
+        "feminine hygiene",
+        "paghuhugas ng ari",
+        "feminine wash",
+        "douching",
+        "discharge",
+        "puti"
+      ],
+      "glance": "Kusang nililinis ng ari ang sarili nito — banayad na pag-aalaga sa labas lang ang kailangan, at normal ang discharge.",
+      "overview": "Isa sa mga pinakanakapapanatag na dapat malaman ay inaalagaan ng ari ang sarili nito. Natural itong naglilinis ng sarili, at ang discharge na napapansin mo ay bahagi niyon — isang likidong nagpapanatiling malinis at basa ito at tumutulong protektahan ito laban sa impeksyon. Nagbabago ang dami at tekstura nito sa buong siklo, na ganap na normal.\n\nDahil dito, hindi kailangang hugasan ang loob ng ari. Sa katunayan, ang paghuhugas sa loob nito — “douching” — ay maaaring makagulo sa natural nitong balanse. Ang labas (ang vulva) ay nangangailangan lang ng banayad na pag-aalaga: maligamgam na tubig at, kung gusto mo, banayad at walang pabangong sabon. Pinakamainam iwasan ang mga sabon, gel, deodorant at wipes na may pabango, dahil maaari itong magdulot ng iritasyon.\n\nAng pagkilala sa kung ano ang normal para sa iyo — ang karaniwan mong discharge, hitsura at pakiramdam — ay nagpapadali para mapansin kung may nagbago na maaaring kailangang ipatingin sa doktor.",
+      "deep": null,
+      "when_to_see_doctor": "Magpatingin sa family doctor o sexual health clinic kung may mapansin kang:\n\n- pagbabago sa iyong discharge — sa kulay, amoy, o tekstura nito, o mas marami kaysa karaniwan\n- pangangati, hapdi, o iritasyon sa paligid ng ari o vulva\n- pagdurugo sa pagitan ng regla o pagkatapos makipagtalik\n- pananakit kapag umiihi, o pananakit sa bandang ibaba sa pagitan ng tiyan at mga hita (pelvic pain)\n\nKaraniwan ang mga ito at madalas madaling gamutin — ang pagbabago sa discharge ay maaaring mangahulugan lang ng banayad na impeksyon tulad ng yeast infection sa ari. Ang pagpapatingin ang paraan para malaman, sa halip na manghula.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Ang siklo at ang mga yugto nito",
+      "summary": "Kung paano dumadaan ang iyong siklo sa yugto ng regla, follicular, obulasyon at luteal."
+    },
+    "hormones": {
+      "title": "Mga hormone",
+      "summary": "Ang mga mensahero sa likod ng iyong siklo — estrogen, progesterone, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Fertility at obulasyon",
+      "summary": "Ang fertile window, ang mga senyales ng obulasyon, at kung ano ang nakaaapekto sa fertility."
+    },
+    "contraception": {
+      "title": "Kontrasepsyon",
+      "summary": "Kung paano gumagana ang iba't ibang paraan, sa simpleng pananalita."
+    },
+    "symptoms-and-signals": {
+      "title": "Mga sintomas at senyales ng katawan",
+      "summary": "Pananakit, spotting, discharge, mood — kung ano ang maaaring sinasabi sa iyo ng katawan mo."
+    },
+    "conditions": {
+      "title": "Mga kondisyon",
+      "summary": "PCOS, endometriosis, fibroids (myoma) at iba pa — ipinaliwanag, kasama ang mga pinagkunan."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Kalusugang sekswal at intimate",
+      "summary": "Kapakanan ng iyong pribadong bahagi at buhay sekswal, ginhawa, at mga karaniwang tanong."
+    },
+    "life-stages": {
+      "title": "Mga yugto ng buhay",
+      "summary": "Mula sa unang regla hanggang sa perimenopause at menopause."
+    },
+    "wellbeing": {
+      "title": "Kapakanan at ang siklo",
+      "summary": "Kung paano nauugnay ang tulog, stress at pang-araw-araw na buhay sa iyong siklo."
+    },
+    "tests-and-exams": {
+      "title": "Mga test at pagsusuri",
+      "summary": "Pagsusuri sa sariling suso, cervical screening, ovulation test at iba pa."
+    },
+    "pregnancy": {
+      "title": "Pagbubuntis",
+      "summary": "Mga unang senyales, pananatiling malusog, mga babalang senyales, at pagkawala ng pagbubuntis — ipinaliwanag, kasama ang mga pinagkunan."
+    },
+    "for-partners": {
+      "title": "Para sa mga partner",
+      "summary": "Pag-unawa sa kanyang siklo, tamang pagsuporta sa kanya, at pagbuo ng relasyong nakasandig sa paggalang."
+    },
+    "safety-and-support": {
+      "title": "Kaligtasan at suporta",
+      "summary": "Pagkilala sa pang-aabuso, pananatiling ligtas, at kung paano humingi ng tulong — kasama ang mga numero para sa emergency."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Unawain ang iyong siklo sa 5 hakbang",
+      "summary": "Isang mahinahong paglalakbay sa buong siklo at sa bawat isa sa apat na yugto nito."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Kilalanin ang obulasyon",
+      "summary": "Kung ano ang obulasyon, ang fertile window, at ang mga senyales na ibinibigay ng katawan mo."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Ang mga hormone sa likod ng iyong siklo",
+      "summary": "Kilalanin ang apat na mensaherong nagpapatakbo sa siklo — at kung ano ang ginagawa ng bawat isa."
+    }
+  }
+}

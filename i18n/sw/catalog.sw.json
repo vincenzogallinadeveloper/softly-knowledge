@@ -1,0 +1,1403 @@
+{
+  "_meta": {
+    "lang": "sw",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Pombe wakati wa ujauzito",
+      "aliases": [
+        "pombe wakati wa ujauzito",
+        "kunywa pombe ukiwa mjamzito",
+        "pombe na mimba",
+        "pombe kwa mama mjamzito",
+        "FASD",
+        "alcohol in pregnancy"
+      ],
+      "glance": "Njia salama zaidi ni kutokunywa pombe kabisa wakati wa ujauzito au unapojaribu kupata mimba.",
+      "overview": "Ushauri wa NHS uko wazi na rahisi: njia salama zaidi ni **kutokunywa pombe kabisa** ikiwa una mimba au unajaribu kupata mimba. Kutokunywa pombe hupunguza hatari yoyote kwa mtoto wako hadi kiwango cha chini kabisa.\n\nSababu ni kwamba pombe hupita kutoka kwenye damu yako, kupitia kondo la nyuma (placenta), hadi kwa mtoto wako — ambaye ini lake bado halijakomaa vya kutosha kuweza kuichakata. Kunywa pombe wakati wa ujauzito kunaweza kusababisha matatizo yatokanayo na pombe kwa mtoto aliye tumboni (FASD), yaani mkusanyiko wa matatizo ya maisha yote katika kujifunza, tabia na ukuaji.\n\nIkiwa ulikunywa pombe kabla ya kujua kuwa una mimba, jaribu kutokuwa na wasiwasi: hatari kwa mtoto kutokana na kiasi kidogo mwanzoni huenda ikawa ndogo. Jambo la msaada ni kuepuka pombe tu kwa kipindi chote kilichobaki cha ujauzito kuanzia sasa.",
+      "deep": null,
+      "when_to_see_doctor": "- Ikiwa unaona ni vigumu kuacha kunywa pombe, hilo si jambo la kuona aibu — mweleze mkunga wako au daktari wa familia. Wanaweza kukupa msaada bila kukuhukumu, na kupata msaada ni jambo zuri kwako na kwa mtoto wako.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Huduma za kliniki ya ujauzito",
+      "aliases": [
+        "kliniki ya wajawazito",
+        "huduma kabla ya kujifungua",
+        "kliniki ya mama mjamzito",
+        "kuhudhuria kliniki",
+        "miadi na mkunga",
+        "ANC",
+        "antenatal"
+      ],
+      "glance": "Huduma za kliniki ya ujauzito ni uchunguzi wa mara kwa mara katika kipindi chote cha ujauzito unaosaidia wewe na mtoto wako kuwa na afya njema.",
+      "overview": "Huduma za kliniki ya ujauzito ni huduma unazopata wakati wa ujauzito ili wewe na mtoto wako muwe na afya bora kadiri iwezekanavyo. Kwa kawaida utamwona mkunga, na pia daktari ikiwa unamhitaji. Ni vizuri kuanza mapema: wasiliana na mkunga wako au daktari wa familia mara tu unapojua kuwa una mimba.\n\nMiadi yako ya kwanza kamili — \"miadi ya kujiandikisha\" — kwa kawaida huwa kati ya wiki 8 na 12. Baada ya hapo utapewa uchunguzi wa mara kwa mara: angalau miadi 10 na vipimo 2 vya ultrasound ikiwa ni mtoto wako wa kwanza, au takriban miadi 7 ikiwa umeshajifungua hapo awali, na miadi zaidi kuelekea mwisho.\n\nKatika ziara hizi mkunga wako hupima shinikizo lako la damu na mkojo, hupima ukubwa wa tumbo lako ili kufuatilia ukuaji wa mtoto, hukupa vipimo vya uchunguzi, na huzungumza nawe kuhusu mijongeo ya mtoto wako na jinsi unavyojisikia. Mambo mengi muhimu — kama kifafa cha mimba (pre-eclampsia) au kisukari cha ujauzito — hugunduliwa hapa kabla hujaona dalili yoyote, na ndiyo sababu hasa miadi hii ni muhimu.",
+      "deep": null,
+      "when_to_see_doctor": "- Wasiliana na **mkunga au daktari wa familia mara tu unapogundua kuwa una mimba** ili huduma yako ianze mapema — ikiwezekana kwa wakati wa miadi hiyo ya kwanza, kabla ya takriban wiki 10 hadi 12.\n- Jitahidi kuhudhuria miadi **yote** ya kliniki ya ujauzito, hata kama unajisikia mzima kabisa — vipimo kadhaa vimekusudiwa kugundua mapema matatizo yasiyo na dalili.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Mtoto wako kucheza tumboni",
+      "aliases": [
+        "mtoto kucheza tumboni",
+        "mijongeo ya mtoto",
+        "mateke ya mtoto",
+        "kuhisi mtoto akicheza",
+        "mtoto hachezi",
+        "mtoto amepunguza kucheza",
+        "baby movements"
+      ],
+      "glance": "Kuhisi mtoto wako akicheza ni ishara kuwa yuko salama — ikiwa mijongeo inapungua au inabadilika, mpigie mkunga wako mara moja.",
+      "overview": "Kuhisi mtoto wako akicheza ni mojawapo ya ishara zinazotia moyo kwamba anaendelea vizuri. Watu wengi huanza kuhisi mijongeo kati ya wiki 16 na 24 za ujauzito — mara nyingi baadaye katika mimba ya kwanza, kwa hiyo ni kawaida kuanza kuhisi baada ya wiki 20 mara ya kwanza.\n\nHakuna idadi maalum ya mijongeo \"unayopaswa\" kuhisi, na hakuna haja ya kuhesabu mateke ili kufikia lengo fulani. Kila mtoto ni tofauti, na kilicho muhimu ni kuufahamu mpangilio wa kawaida wa mtoto **wako** mwenyewe katika siku nzima — nyakati anapocheza na nyakati anapotulia.\n\nUkishaufahamu mpangilio huo, badiliko lolote kutoka kwake ndilo jambo la kuzingatia. Amini unachokifahamu kuhusu mtoto wako mwenyewe.",
+      "deep": null,
+      "when_to_see_doctor": "Kuufahamu mpangilio wa kawaida wa mtoto wako ndiko kunakokuwezesha kugundua badiliko. Ikiwa wakati wowote huna uhakika kama mijongeo imepungua au imebadilika, ni sahihi kila mara kupiga simu na kuwauliza wahudumu wa afya — hutakuwa unapoteza muda wa mtu yeyote.",
+      "red_flags": "- Ikiwa mtoto wako **anacheza kidogo kuliko kawaida, mijongeo yake inabadilika, au huwezi kumhisi akicheza**, **mpigie mkunga wako au wodi ya wazazi mara moja** — wakati wowote, mchana au usiku. **Usisubiri hadi siku inayofuata**, hata kama ni katikati ya usiku.\n- Usitegemee kifaa cha nyumbani cha kusikiliza mapigo ya moyo wa mtoto (doppler) wala programu ili kujihakikishia — nenda ukachunguzwe ana kwa ana na mhudumu wa afya."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Maumivu ya mgongo wakati wa ujauzito",
+      "aliases": [
+        "maumivu ya mgongo ujauzitoni",
+        "mgongo kuuma nikiwa mjamzito",
+        "maumivu ya kiuno ujauzitoni",
+        "maumivu ya mgongo wa chini mimba",
+        "back pain pregnancy"
+      ],
+      "glance": "Maumivu ya mgongo ni ya kawaida sana wakati wa ujauzito kwa kuwa kano za viungo hulegea na tumbo lako hukua — kwa kawaida si hatari.",
+      "overview": "Maumivu ya mgongo ni mojawapo ya mambo ya kawaida zaidi wakati wa ujauzito. Mwili wako unapojiandaa kwa kujifungua, kano zinazounganisha mifupa (ligamenti) hulegea na kunyooka kwa njia ya asili, na tumbo lako linalokua hubadilisha jinsi unavyobeba uzito wako — mambo yote mawili huongeza mkazo kwenye mgongo wako wa chini na fupanyonga.\n\nMambo ya kila siku yanaweza kuyapunguza: kuwa makini na jinsi unavyosimama, kukaa na kunyanyua vitu; kuvaa viatu bapa vinavyoushikilia mguu vizuri; godoro imara au mto unaoushikilia mwili; na kujishughulisha kwa upole mara kwa mara kama kutembea, yoga ya wajawazito, au mazoezi ya darasani. Ikiwa yanakusumbua kweli, mtaalamu wa tiba ya viungo kwa wajawazito anaweza kukupa ushauri unaokufaa wewe.\n\nMaumivu mengi ya mgongo wakati wa ujauzito si ya kutia wasiwasi — lakini hali chache zinastahili kuchunguzwa na daktari haraka, na ndiyo sababu ya mwongozo ulio hapa chini.",
+      "deep": null,
+      "when_to_see_doctor": "Wasiliana na **daktari wa familia au mkunga** wako haraka ikiwa maumivu yako ya mgongo:\n\n- ni **makali**, au yanaanza katika **kipindi cha pili au cha tatu cha ujauzito (trimesta)** (wakati mwingine yanaweza kuwa ishara ya uchungu wa kujifungua kuanza mapema)\n- yanaambatana na **homa, kutokwa na damu ukeni, au maumivu wakati wa kukojoa**\n- yako **ubavuni (upande mmoja au pande zote mbili), chini ya mbavu**",
+      "red_flags": "- Piga **{{emergency}} au nenda idara ya dharura hospitalini** ikiwa **unapoteza hisia miguuni, kwenye matako, au sehemu za siri**, au unashindwa kuzuia mkojo au haja kubwa. Hali hii ni nadra, lakini inahitaji matibabu ya dharura."
+    },
+    "basal-body-temperature": {
+      "title": "Joto la msingi la mwili",
+      "aliases": [
+        "bbt",
+        "joto la msingi la mwili",
+        "joto la mwili asubuhi",
+        "kupima joto asubuhi",
+        "njia ya joto la mwili",
+        "basal body temperature"
+      ],
+      "glance": "Joto la msingi la mwili ni joto lako la asubuhi ukiwa umepumzika, ambalo hupanda kidogo baada ya ovulesheni.",
+      "overview": "Joto la msingi la mwili (BBT) ni joto la mwili wako ukiwa umepumzika kabisa. Likipimwa kwa njia ileile kila siku, huonyesha badiliko dogo lakini lenye maana katika mzunguko: baada ya ovulesheni, hupanda kidogo na kubaki juu hadi hedhi yako inayofuata.\n\nKupanda huku ni kudogo — takriban 0.4 hadi 0.8°F (karibu 0.2 hadi 0.4°C) — kwa hiyo hutambuliwa kutokana na mwenendo wa siku kadhaa, si kipimo kimoja. Ili kukiona, unapima joto lako kila asubuhi kabla ya kuamka kitandani, kula au kunywa, ikiwezekana saa ileile. Kufikia takriban siku tatu baada ya joto kuanza kupanda, karibu kila mtu atakuwa tayari amepitia ovulesheni.\n\nKwa kuwa kupanda huku hutokea *baada ya* yai kutolewa, BBT huthibitisha kuwa ovulesheni imeshatokea badala ya kuitabiri mapema. Kwa mizunguko michache inaweza kukusaidia kuona sura ya mzunguko wako mwenyewe, ingawa peke yake si njia sahihi ya kubaini siku za rutuba.",
+      "deep": "BBT ni mojawapo ya ishara za kutambua uwezo wa kupata mimba zinazorekodiwa kila siku, pamoja na ute wa shingo ya kizazi na urefu wa mzunguko. Inaendana vizuri na ufuatiliaji wa ute: ute kubadilika kuwa angavu na unaoteleza huashiria kuwa siku za rutuba zinaanza, huku kupanda kwa joto siku chache baadaye kukithibitisha kuwa ovulesheni imepita. Mambo mengi yanaweza kuathiri joto la mwili wakati wa kupumzika — usingizi hafifu, ugonjwa, pombe, au kuchelewa kuamka — kwa hiyo vipimo visivyo vya kawaida vya siku moja moja si muhimu kama mwenendo wa jumla.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Kutokwa na damu wakati wa ujauzito",
+      "aliases": [
+        "kutokwa damu ujauzitoni",
+        "damu ukeni nikiwa mjamzito",
+        "matone ya damu ujauzitoni",
+        "kuona damu nikiwa na mimba",
+        "bleeding in pregnancy"
+      ],
+      "glance": "Kutokwa na damu wakati wa ujauzito si hatari kila mara — matone machache ya damu ni ya kawaida mwanzoni — lakini daima mwone daktari au mkunga akuchunguze.",
+      "overview": "Kutokwa na damu ukeni wakati wa ujauzito si mara zote ishara kwamba kuna tatizo. Kutokwa na damu kidogo au matone ya damu ni jambo la kawaida kiasi, hasa mwanzoni mwa ujauzito, na mimba nyingi huendelea vizuri kabisa baada ya hapo.\n\nHata hivyo, kutokwa na damu wakati mwingine kunaweza kuwa ishara ya tatizo — kama kuharibika kwa mimba au mimba nje ya kizazi — kwa hiyo ni jambo ambalo **linapaswa kuchunguzwa na mhudumu wa afya kila mara**, bila kujali kiasi. Kuchunguzwa ndiyo njia ya kujua chanzo chake na ya kupata huduma sahihi haraka ikiwa unaihitaji.\n\nKwa kuwa dalili hiyohiyo inaweza kumaanisha mambo tofauti sana, hatua yenye msaada si kubahatisha — ni kuwasiliana na wahudumu wa afya na kuonwa nao.",
+      "deep": null,
+      "when_to_see_doctor": "- **Wasiliana na wodi ya wazazi kila mara** (au, ikiwa ujauzito wako ni chini ya wiki 20 au huna nambari yao, kitengo cha mimba za mwanzo au **daktari wa zamu wa nje ya saa za kazi**) ikiwa unatokwa na damu ukeni kwa kiasi **chochote** wakati wa ujauzito, hata matone machache — ili chanzo chake kiweze kuchunguzwa.",
+      "red_flags": "- Piga **{{emergency}} au nenda idara ya dharura hospitalini** ikiwa **unatokwa na damu nyingi** — kwa mfano pedi inalowa damu kabisa muda mfupi baada ya kuivaa — hasa pamoja na **maumivu makali ya tumbo, maumivu kwenye ncha ya bega, au kuhisi kichefuchefu, kuhisi kama unataka kuzimia, kizunguzungu, au kupoteza fahamu.** Hali hii inahitaji matibabu ya dharura."
+    },
+    "breast-awareness": {
+      "title": "Kuyafahamu matiti yako",
+      "aliases": [
+        "kujichunguza matiti",
+        "kupima matiti mwenyewe",
+        "uvimbe kwenye titi",
+        "kuchunguza matiti",
+        "dalili za saratani ya matiti",
+        "breast self-exam"
+      ],
+      "glance": "Kuyafahamu matiti yako ni kujua tu jinsi yanavyoonekana na kuhisika kwa kawaida, ili uweze kugundua mabadiliko.",
+      "overview": "Kuyafahamu matiti yako si mbinu maalum — ni kufahamu tu kile kilicho cha kawaida kwako, ili jambo lolote jipya lionekane wazi. Kuchunguza matiti au kifua chako mara kwa mara hukusaidia kujifunza jinsi yanavyoonekana na kuhisika kwa kawaida; mara moja kwa mwezi ni mpangilio mzuri.\n\nHakuna njia moja \"sahihi\". Watu wengi hujitazama kwenye kioo mikono ikiwa chini kisha ikiwa juu, na hupapasa kila titi, hadi kwenye kwapa. Unachojenga ni kuyazoea, si kutambua ugonjwa — lengo ni kugundua mapema badiliko ikiwa litatokea.\n\nMatiti pia hubadilika kwa asili katika mzunguko na katika maisha yote, kwa hiyo baadhi ya mabadiliko ni ya kawaida kabisa. Lengo la kuyafahamu ni kujua hali yako ya kawaida vizuri kiasi cha kutambua kitu kisicho cha kawaida.",
+      "deep": null,
+      "when_to_see_doctor": "Mwone daktari wa familia ukigundua badiliko lolote ambalo si la kawaida kwako, kama vile:\n\n- uvimbe au kuvimba kwenye titi, kifua, au kwapa\n- badiliko la ngozi, kama vibonyeo (inaweza kuonekana kama ganda la chungwa) au wekundu\n- badiliko la ukubwa au umbo la titi moja au yote mawili\n- majimaji kutoka kwenye chuchu (ikiwa huna mimba wala hunyonyeshi), ambayo huenda yakawa na damu\n- badiliko la mwonekano wa chuchu, kama kuingia ndani\n- maumivu kwenye titi au kwapa yasiyoisha\n\nMabadiliko mengi ya matiti si saratani na huishia kuwa si hatari — lakini daima inafaa daktari akuchunguze badiliko hilo haraka, kwa sababu ikiwa kuna jambo linalohitaji kushughulikiwa, kuligundua mapema husaidia.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Kunyonyesha",
+      "aliases": [
+        "kunyonyesha",
+        "maziwa ya mama",
+        "kunyonyesha mtoto",
+        "kulisha mtoto",
+        "unyonyeshaji",
+        "breastfeeding"
+      ],
+      "glance": "Maziwa ya mama humkinga mtoto dhidi ya maambukizi na hubadilika kadiri anavyokua — na kiasi chochote kina faida.",
+      "overview": "Maziwa ya mama ni chakula cha asili na kamili kwa mtoto: yanampa lishe, vitamini na madini anayohitaji, na hubadilika kadiri muda unavyopita ili kuendana na hatua yake ya ukuaji. Pia husaidia kumkinga dhidi ya maambukizi na magonjwa, na huleta faida fulani za kiafya za muda mrefu.\n\nKuna faida pia kwa anayenyonyesha — kunyonyesha kunahusishwa na hatari ndogo ya saratani ya matiti na ya ovari, miongoni mwa mambo mengine — na kwa ujumla, kadiri unavyonyonyesha zaidi na kwa muda mrefu, ndivyo faida zinavyoongezeka. Muhimu zaidi, kiasi **chochote** cha maziwa ya mama kina thamani; si lazima iwe yote au hakuna.\n\nKumlisha mtoto kunaweza pia kuwa kugumu kuliko ulivyotarajia mwanzoni, na hilo ni la kawaida. Msaada upo — kutoka kwa mkunga wako, muuguzi wa afya ya mama na mtoto, na huduma za msaada wa unyonyeshaji zilizo karibu nawe — kwa hiyo kutafuta msaada mapema ikiwa mambo hayaendi vizuri ni hatua nzuri.",
+      "deep": null,
+      "when_to_see_doctor": "- Mwombe **mkunga au muuguzi wa afya ya mama na mtoto** msaada mapema ikiwa kumnyonyesha mtoto kunauma au ni kugumu, au una wasiwasi kuwa mtoto wako hapati maziwa ya kutosha — msaada unaweza kuleta tofauti kubwa.\n- Jinsi unavyomlisha mtoto wako ni uamuzi wako binafsi, na msaada upo kwa chochote utakachochagua; kilicho muhimu ni kwamba wewe na mtoto wako mko salama na wazima.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Uchafu wa kahawia ukeni",
+      "aliases": [
+        "uchafu wa kahawia",
+        "damu ya kahawia",
+        "matone ya kahawia",
+        "damu nzee",
+        "uchafu mweusi ukeni",
+        "brown discharge"
+      ],
+      "glance": "Uchafu wa kahawia kwa kawaida ni damu kidogo, mara nyingi katika siku nyepesi za hedhi. Matone ya kahawia nyakati nyingine yanastahili kuchunguzwa na daktari.",
+      "overview": "Uchafu wa kahawia ni kiasi kidogo cha damu au majimaji yenye rangi ya kahawia unayoona kwenye nguo yako ya ndani au kwenye karatasi ya chooni. Watu wengi huuona wakati fulani, na mara nyingi sana ni sehemu tu ya hedhi.\n\nDamu ya hedhi si mara zote nyekundu angavu. Katika siku zako za damu nyingi zaidi huwa nyekundu, lakini katika siku nyepesi inaweza kuonekana ya waridi au kahawia badala yake. Kwa hiyo rangi ya kahawia katika siku nyepesi za hedhi yako ni jambo la kawaida kabisa.\n\nRangi ya kahawia inaweza pia kuonekana nyakati nyingine. Matone ya damu (spotting) ni vitone vidogo vya damu ya waridi, nyekundu au kahawia, na matone ya damu kati ya hedhi yana sababu kadhaa za kawaida. Njia za homoni za uzazi wa mpango, kama vidonge, ni mojawapo ya sababu za mara kwa mara. Nyingine ni pamoja na viuvimbe vidogo ndani au karibu na mfuko wa uzazi (kama polipu au fibroidi) na maambukizi kama klamidia. Mwanzoni kabisa mwa ujauzito, baadhi ya watu huona matone machache ya damu karibu na wakati ambao hedhi yao ingetarajiwa. Hii hujulikana kama damu ya kujipandikiza kwa mimba (implantation bleeding).\n\nKwa kuwa matone ya kahawia nje ya hedhi yanaweza kutokana na sababu tofauti, nyingi zikiwa ndogo, hatua yenye msaada si kubahatisha. Ni kumwona mhudumu wa afya akuchunguze, ili ujue kinachoyasababisha kwako.",
+      "deep": null,
+      "when_to_see_doctor": "- Mwone daktari wa familia au nenda kliniki ya afya ya uzazi na ngono ikiwa una **matone ya kahawia au unatokwa na damu kati ya hedhi au baada ya kujamiiana**, hata kama ni kidogo. Kwa kawaida si hatari, lakini daima inafaa daktari akuchunguze.\n- Ikiwa **una mimba, au huenda una mimba**, wasiliana na wodi ya wazazi, kitengo cha mimba za mwanzo au **daktari wa zamu wa nje ya saa za kazi** kuhusu matone yoyote ya damu, yakiwemo ya kahawia, ili chanzo chake kichunguzwe.\n- Mwone daktari wa familia ukiona **uchafu wowote wa kahawia au waridi au unatokwa na damu baada ya kukoma hedhi**, hata kama ni kiasi kidogo tu au imetokea mara moja tu.\n- Pata ushauri kutoka kwa daktari wa familia, kliniki ya afya ya uzazi na ngono au daktari wa zamu wa nje ya saa za kazi ikiwa uchafu wako **unabadilika rangi, harufu au umbile lake**, au unaambatana na kuwashwa, kuuma, maumivu ya nyonga au maumivu wakati wa kukojoa.",
+      "red_flags": "- Omba miadi ya **haraka** na daktari wa familia, au wasiliana na **daktari wa zamu wa nje ya saa za kazi**, ikiwa **hivi karibuni umekosa hedhi na unatokwa na damu isivyo kawaida pamoja na maumivu ya tumbo au nyonga**. Hali hii inahitaji kuchunguzwa haraka, kwa kuwa inaweza kuwa ishara ya mimba nje ya kizazi.\n- Ikiwa una mimba, piga **{{emergency}}** ikiwa unatokwa na damu na una **maumivu makali ya tumbo, maumivu kwenye bega, unahisi kama unataka kuzimia, kizunguzungu au kichefuchefu, au damu ni nyingi** (pedi inalowa damu kabisa muda mfupi baada ya kuivaa)."
+    },
+    "cervical-mucus": {
+      "title": "Ute wa shingo ya kizazi",
+      "aliases": [
+        "ute wa shingo ya kizazi",
+        "ute ukeni",
+        "uchafu ukeni",
+        "ute kama yai bichi",
+        "ute wa uzazi",
+        "cervical mucus"
+      ],
+      "glance": "Ute wa shingo ya kizazi ni ute wa asili unaotoka ukeni ambao hubadilika katika mzunguko na huonyesha siku zako za rutuba.",
+      "overview": "Ute wa shingo ya kizazi ni majimaji yanayotengenezwa na shingo ya kizazi, ambayo unaweza kuyaona kama ute au uchafu ukeni. Ni jambo la kawaida, na mwonekano wake na jinsi unavyohisika hubadilika kwa mpangilio unaotabirika kiasi katika mzunguko — ndiyo sababu ni mojawapo ya ishara zinazotumiwa kutambua siku za rutuba.\n\nMara baada ya hedhi mara nyingi kuna siku chache \"kavu\" zenye ute kidogo. Yai linapoanza kukomaa, ute huongezeka na huwa mweupe au wa manjano, usio angavu na unaonata. Katika siku zinazotangulia moja kwa moja ovulesheni kwa kawaida hubadilika kuwa angavu, wenye unyevu na unaoteleza, ukinyooka kati ya vidole kama ute mweupe wa yai bichi — huu ndio wakati wenye rutuba zaidi. Baada ya ovulesheni kwa kawaida huwa unaonata na usio angavu tena, au hukauka.\n\nMpangilio wa kila mtu ni tofauti kidogo, na inaweza kuchukua mizunguko michache ya kuzingatia ili kujifunza mpangilio wako mwenyewe. Baadhi ya mambo — kama njia za homoni za uzazi wa mpango, kunyonyesha, au maambukizi — yanaweza kubadilisha ute, kwa hiyo si ishara ya rutuba inayotegemewa kwa kila mtu.",
+      "deep": "Kusoma ute wa shingo ya kizazi ni mojawapo ya ishara za kutambua uwezo wa kupata mimba ambazo watu hufuatilia, pamoja na joto la mwili wakati wa kupumzika na urefu wa mzunguko; kujifunza ishara hizi kwa kawaida huchukua mizunguko miwili hadi mitatu. Tofauti na kupanda kwa joto, ambako huthibitisha ovulesheni baada tu ya kuwa imetokea, kubadilika kwa ute kuwa angavu, unaoteleza, kama ute mweupe wa yai, huelekea kutokea *kabla ya* ovulesheni, na ndiyo sababu hutumiwa kuashiria kuwa siku za rutuba zinaanza badala ya baada ya kuisha.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Uchunguzi wa shingo ya kizazi (kipimo cha pap smear)",
+      "aliases": [
+        "uchunguzi wa shingo ya kizazi",
+        "pap smear",
+        "kipimo cha pap",
+        "smear test",
+        "uchunguzi wa saratani ya shingo ya kizazi",
+        "cervical screening"
+      ],
+      "glance": "Uchunguzi wa shingo ya kizazi ni kipimo cha kawaida cha afya ya shingo ya kizazi chako kinachosaidia kuzuia saratani ya shingo ya kizazi.",
+      "overview": "Uchunguzi wa shingo ya kizazi ni kipimo kinachochunguza afya ya shingo ya kizazi — mlango wa mfuko wa uzazi ulio juu ya uke. Si kipimo cha saratani. Badala yake, ni njia ya kugundua mabadiliko mapema na kusaidia kuzuia saratani ya shingo ya kizazi isitokee kabisa.\n\nKila mtu mwenye shingo ya kizazi hualikwa kuanzia umri wa miaka 25 hadi 64. Hutumiwa mwaliko wakati wako unapofika, kwa vipindi vya mara kwa mara, kwa hiyo huhitaji kukumbuka kuweka miadi wewe mwenyewe bila kutarajia — ingawa daima ni chaguo lako kama utaenda au la.\n\nKipimo chenyewe ni cha haraka na hufanywa na muuguzi. Watu wengi huhisi wasiwasi kidogo kuhusu kipimo hiki, jambo linaloeleweka kabisa; kujua lengo lake — uchunguzi wa kawaida wa kinga — kunaweza kukifanya kionekane rahisi zaidi kukabiliana nacho.",
+      "deep": null,
+      "when_to_see_doctor": "- Uchunguzi huu ni kwa wakati **huna** dalili. Ukiona jambo linalokutia wasiwasi kati ya uchunguzi mmoja na mwingine — kama kutokwa na damu isivyo kawaida (kati ya hedhi, baada ya kujamiiana, au baada ya kukoma hedhi) — mwone daktari wa familia badala ya kusubiri mwaliko wako unaofuata.\n- Ikiwa umealikwa na huna uhakika au una wasiwasi kuhusu kwenda, inafaa kuzungumza na daktari wako wa familia au muuguzi wa kliniki, ambaye anaweza kukueleza kinachofanyika na kujibu maswali yako.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Unyanyasaji wa watoto na kuwaweka watoto salama",
+      "aliases": [
+        "unyanyasaji wa watoto",
+        "ukatili dhidi ya watoto",
+        "usalama wa mtoto",
+        "kumlinda mtoto",
+        "wasiwasi kuhusu mtoto",
+        "kutelekezwa kwa mtoto",
+        "child abuse"
+      ],
+      "glance": "Ikiwa una wasiwasi kwamba mtoto huenda anadhuriwa au anatelekezwa, ni sahihi kutafuta ushauri — huhitaji kuwa na uhakika.",
+      "overview": "Unyanyasaji wa watoto — au ukatili dhidi ya watoto — ni madhara kwa mtu yeyote aliye chini ya miaka 18. Unajumuisha unyanyasaji wa kimwili, wa kingono, na wa kihisia, pamoja na kutelekezwa (kutotimiziwa mahitaji ya msingi ya mtoto). Kwa bahati mbaya ni jambo la kawaida, linaweza kusababisha madhara ya maisha yote, na kamwe si kosa la mtoto.\n\nHuenda una wasiwasi kuhusu mtoto aliye katika maisha yako, au kuhusu mtoto uliyemwona. Huhitaji kuwa na uhakika, au kuwa na ushahidi, ili uchukue hatua kuhusu wasiwasi huo — kuuamini na kuomba ushauri ndilo jambo sahihi kabisa kufanya, na kunaweza kumlinda mtoto.\n\nNa ikiwa wewe mwenyewe ulinyanyaswa ukiwa mtoto, fahamu kuwa madhara hayo hayakuwa kosa lako kamwe, na kwamba msaada upo kwa ajili yako pia, katika umri wowote.",
+      "deep": null,
+      "when_to_see_doctor": "- Ikiwa una wasiwasi kuhusu mtoto, unaweza kuwasiliana na **idara ya ustawi wa jamii / ulinzi wa mtoto**, **simu maalum ya msaada kwa ulinzi wa watoto**, au **daktari wa familia, muuguzi wa afya ya mama na mtoto, au shule ya mtoto** ili kupata ushauri — kwa siri.\n- Huzidishi mambo kwa kuuliza. Ni bora kuuliza kuliko kusubiri.",
+      "red_flags": "- Ikiwa mtoto yuko katika **hatari ya haraka** au ameumizwa vibaya, wasiliana na huduma za dharura sasa hivi: **112** katika Umoja wa Ulaya (ikiwemo Italia), **999** nchini Uingereza, **911** nchini Marekani na Kanada."
+    },
+    "coercive-control": {
+      "title": "Udhibiti wa kulazimisha",
+      "aliases": [
+        "udhibiti wa kulazimisha",
+        "tabia ya kudhibiti",
+        "unyanyasaji wa kihisia",
+        "unyanyasaji wa kisaikolojia",
+        "kutengwa",
+        "unyanyasaji wa kiuchumi",
+        "gaslighting",
+        "coercive control"
+      ],
+      "glance": "Udhibiti wa kulazimisha ni mfululizo wa tabia za kudhibiti — kukutenga, kukufuatilia, kukutisha — ambao unatambuliwa kama aina ya unyanyasaji.",
+      "overview": "Udhibiti wa kulazimisha ni aina ya unyanyasaji unaofanya kazi kupitia udhibiti badala ya, au pamoja na, madhara ya kimwili. Ni mfululizo wa tabia — si ugomvi mmoja — ambapo mtu mmoja hatua kwa hatua huminya uhuru wa mwingine na hisia yake ya utambulisho.\n\nUnaweza kuonekana kama kutengwa na marafiki na familia, simu yako, mienendo yako au matumizi yako ya pesa kufuatiliwa au kuwekewa vikwazo, kuambiwa uvae nini au ujiendeshe vipi, au kuishi na ukosoaji, vitisho au vitendo vya kukutisha kila mara. Kwa kuwa huenda hakuna michubuko, inaweza kuwa vigumu kuutaja, na wengine huenda wasiuone — lakini unatambuliwa kama unyanyasaji, na unaweza kudhuru kama vile ukatili wa kimwili.\n\nIkiwa unatambua baadhi ya haya, si ishara kwamba wewe ni mwepesi wa kuumia kupita kiasi au kwamba umejiletea mwenyewe. Tabia ya kudhibiti ni uamuzi ambao mtu mwingine hufanya. Kuielewa jinsi ilivyo hasa kunaweza kuwa hatua ya kwanza kuelekea kupata msaada.",
+      "deep": "Udhibiti wa kulazimisha mara nyingi hujengeka taratibu, na hiyo ni sehemu ya kinachoufanya kuwa vigumu kuutambua ukiwa ndani yake — udhibiti mdogo huwa jambo la kawaida, na kujitilia shaka huongezeka. Kwa muda, huathiri afya ya akili. Kuuzungumzia na mtu aliyefunzwa kuelewa mifumo hii kunaweza kukusaidia kuiona hali yako kwa uwazi zaidi na kufikiria unachotaka kufanya baadaye, bila shinikizo.",
+      "when_to_see_doctor": "- Kituo cha kupambana na ukatili au simu ya msaada (nchini Italia, **1522**) kinaweza kuzungumza nawe kuhusu unachopitia, kwa siri na bila malipo, na kukusaidia kuelewa chaguo zako — huhitaji kuwa katika hatari ya kimwili ili kuomba msaada.\n- Daktari wa familia au mshauri nasaha anaweza pia kukusaidia na kukuelekeza kwenye huduma za wataalamu.",
+      "red_flags": "- Ikiwa uko katika **hatari ya haraka**, wasiliana na huduma za dharura sasa hivi: **112** katika Umoja wa Ulaya (ikiwemo Italia), **999** nchini Uingereza, **911** nchini Marekani na Kanada.\n- Nchini Italia, **1522** ni bure, inapatikana saa 24 kwa siku, bila kujitambulisha, na kwa lugha nyingi — kwa simu au kwa ujumbe wa mtandaoni (chat)."
+    },
+    "combined-pill": {
+      "title": "Kidonge cha mchanganyiko",
+      "aliases": [
+        "kidonge cha mchanganyiko",
+        "vidonge vya uzazi wa mpango",
+        "vidonge vya majira",
+        "kidonge",
+        "COC",
+        "combined pill"
+      ],
+      "glance": "Kidonge cha mchanganyiko ni kidonge cha kila siku chenye homoni mbili ambacho hufanya kazi hasa kwa kuzuia ovulesheni.",
+      "overview": "Kidonge cha mchanganyiko ni kidonge cha kila siku chenye homoni mbili — aina za estrojeni na projestojeni, zinazofanana na zile ambazo ovari hutengeneza. Ni mojawapo ya njia za uzazi wa mpango zinazojulikana zaidi.\n\nHuzuia mimba kwa njia kadhaa kwa wakati mmoja. Hasa, huzuia ovari kutoa yai (ovulesheni). Pia hufanya ute kwenye shingo ya kizazi kuwa mzito, hivyo kufanya iwe vigumu kwa mbegu za kiume kupita, na hupunguza unene wa ukuta wa ndani wa mfuko wa uzazi.\n\nJinsi kinavyofanya kazi vizuri hutegemea kukitumia kama ulivyoelekezwa: kina ufanisi wa zaidi ya 99% kikitumiwa kikamilifu, lakini kwa matumizi ya kawaida ya kila siku — ambapo wakati mwingine vidonge husahaulika au huchelewa kumezwa — kina ufanisi wa takriban 91%. Kama njia nyingi, hakikingi dhidi ya magonjwa ya zinaa, kwa hiyo baadhi ya watu hutumia kondomu pia.",
+      "deep": "Kidonge cha mchanganyiko kwa kawaida humezwa kwa mpangilio fulani katika mwezi, na jinsi ya kukimeza, kinamfaa nani, na madhara yake na hatari zake ni mambo ambayo mhudumu wa afya hukueleza anapokuandikia — hakimfai kila mtu. Kwa kuwa ni njia ya kila siku, ufanisi wake katika maisha halisi hutegemea sana utaratibu. Makala hii inaeleza ni nini na jinsi kinavyofanya kazi; mambo mahususi ya kuanza, kutumia, au kuacha kukitumia ni mazungumzo na daktari wa familia, muuguzi, au mfamasia.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Dalili za kawaida za ujauzito",
+      "aliases": [
+        "dalili za kawaida za ujauzito",
+        "usumbufu wa ujauzito",
+        "kiungulia ujauzitoni",
+        "maumivu ya mgongo ujauzitoni",
+        "miguu kuvimba",
+        "kufunga choo ujauzitoni",
+        "maumivu ya ujauzito"
+      ],
+      "glance": "Ujauzito huleta maumivu madogo na mabadiliko mengi — mengi ni ya kawaida, ingawa machache yanastahili kuchunguzwa na mhudumu wa afya.",
+      "overview": "Ujauzito ni mabadiliko makubwa kwa mwili wako, na huja na orodha ndefu ya usumbufu mdogo wa kila siku. Mengi ni ya kawaida na si ishara kwamba kuna tatizo — ni sehemu tu ya kumkuza mtoto.\n\nYanayojulikana ni pamoja na maumivu ya mgongo, kiungulia na tumbo kujaa gesi, kufunga choo, bawasiri, kuvimba kwa vifundo vya miguu, miguu na vidole, uchovu na usingizi wa kukatizwa, misuli ya mguu kukaza ghafla, maumivu ya kichwa, kuhisi kama unataka kuzimia, na ute ukeni zaidi kuliko kawaida. Mengi hupungua kwa hatua ndogo za kujistarehesha, na mkunga wako anaweza kukushauri kilicho salama ikiwa kuna jambo linalokusumbua.\n\nJambo la msaada ni kujua ni mabadiliko yapi ni ya kawaida na yapi yanafaa kuripotiwa — kwa sababu dalili chache, ingawa si za kawaida sana, zinahitaji kuchunguzwa badala ya kusubiri zipite.",
+      "deep": null,
+      "when_to_see_doctor": "Mengi ya haya ni ya kawaida, lakini wasiliana na **mkunga wako au wodi ya wazazi** haraka ikiwa una:\n\n- **kutokwa na damu ukeni**, au maji kutoka ukeni ghafla kwa wingi au kuvuja kidogo kidogo (huenda chupa imepasuka)\n- **mtoto wako anacheza kidogo** kuliko kawaida\n- **maumivu makali ya kichwa, matatizo ya kuona, au kuvimba ghafla** kwa uso, mikono au miguu (huenda ni dalili za kifafa cha mimba, yaani pre-eclampsia)\n- **maumivu makali ya tumbo au ya upande mmoja**, au **homa**\n- **kuwashwa**, hasa mikononi na miguuni au kunakozidi usiku (inaweza kuwa ishara ya ugonjwa wa ini wakati wa ujauzito unaohitaji kuchunguzwa)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Kondomu",
+      "aliases": [
+        "kondomu",
+        "mpira",
+        "kondomu ya kiume",
+        "kinga",
+        "njia ya kizuizi",
+        "condom"
+      ],
+      "glance": "Kondomu ni njia ya kizuizi — na ndiyo aina pekee ya uzazi wa mpango ambayo pia hukinga dhidi ya magonjwa ya zinaa.",
+      "overview": "Kondomu ni kizuizi chembamba — kwa kawaida cha mpira (latex), au mbadala wa plastiki kwa wenye mzio wa latex — kinachovaliwa kwenye uume wakati wa kujamiiana. Hufanya kazi kwa urahisi: huzuia mbegu za kiume kuingia ukeni.\n\nKinachofanya kondomu kuwa za kipekee miongoni mwa njia za uzazi wa mpango ni kwamba **ndiyo njia pekee ambayo pia hukinga dhidi ya magonjwa ya zinaa, ikiwemo VVU (HIV).** Ndiyo sababu mara nyingi hutumiwa pamoja na njia nyingine — moja kwa ajili ya kuzuia mimba, na zote mbili pamoja kwa kinga dhidi ya maambukizi.\n\nZikitumiwa ipasavyo kila mara, kondomu zina ufanisi wa takriban 98% katika kuzuia mimba. Kwa matumizi ya kawaida — ambapo wakati mwingine hutumiwa vibaya au si kila mara — ufanisi hushuka hadi takriban 82%. Kuitumia ipasavyo na kila mara ndiko kunakoleta tofauti.",
+      "deep": "Kwa kuwa kondomu hutumiwa wakati huohuo badala ya mapema, ufanisi wake katika maisha halisi hutegemea sana matumizi sahihi na ya kila mara. Kondomu za kike (zinazovaliwa ndani ya uke) ni chaguo jingine la kizuizi. Tofauti na njia nyingi, kondomu hazihitaji cheti cha daktari na zinapatikana kwa urahisi kila mahali, na jukumu lake maradufu — kuzuia mimba na kukinga dhidi ya magonjwa ya zinaa — ndiyo sababu hutajwa mara nyingi katika mazungumzo kuhusu ngono salama zaidi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Ridhaa na heshima",
+      "aliases": [
+        "ridhaa",
+        "idhini",
+        "kuheshimu mipaka yake",
+        "ridhaa ya dhati",
+        "mamlaka juu ya mwili wake",
+        "consent"
+      ],
+      "glance": "Ridhaa ni ndiyo iliyo wazi, ya hiari na ya dhati — kila mara, na inaweza kuondolewa wakati wowote.",
+      "overview": "Heshima huanza na haki yake ya kuamua kuhusu mwili wake mwenyewe — kila mara. Ridhaa ya ukaribu wa kimapenzi maana yake ni **ndiyo** iliyotolewa kwa hiari, kwa ufahamu, na kwa moyo wote. Ukimya si ridhaa. \"Sawa\" ya shingo upande si ridhaa. Mtu aliyelala, aliyelewa sana, au aliye chini ya shinikizo hawezi kutoa ridhaa ya kweli. Na ndiyo kwa jambo moja, au siku moja, si ndiyo kwa kila kitu au kwa wakati ujao.\n\nRidhaa inaweza kuondolewa wakati wowote, na \"acha\" au \"si leo usiku\" ni jibu kamili lisilohitaji maelezo. Kumshinikiza, kumfanya ajione na hatia, kununa hadi akubali, au kuichukulia ngono kama kitu unachodai ni haki yako si sawa — uhusiano si deni.",
+      "deep": "Heshima inavyoonekana kwa vitendo:\n\n- **Uliza, na endelea kuhakikisha.** \"Je, hivi ni sawa?\" na kuzingatia jinsi anavyoitikia — kwa maneno na kwa mwili.\n- **Pokea \"hapana\" kwa staha.** Bila kununa, kushinikiza, au kuadhibu. Jibu lake ndilo mwisho wa jambo hilo.\n- **Shauku ni muhimu.** Ikiwa anaonekana hana uhakika, anasita au anakubali tu kwa kufuata mkondo, acha na umuulize.\n- **Mwili wake, uamuzi wake** — kuhusu ukaribu wa kimapenzi, uzazi wa mpango, ujauzito, afya yake, mwonekano wake, maamuzi yake. Una sauti katika maisha yenu ya pamoja, lakini kamwe huna kura ya turufu juu ya mwili wake.\n- **Heshima ni ya kila siku.** Jinsi unavyozungumza naye, unavyomzungumzia, na unavyoheshimu mipaka yake katika mambo madogo ndio msingi ambao kila kitu kingine hujengwa juu yake.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Uzazi wa mpango",
+      "aliases": [
+        "uzazi wa mpango",
+        "njia za kuzuia mimba",
+        "njia za uzazi wa mpango",
+        "kupanga uzazi",
+        "majira",
+        "family planning"
+      ],
+      "glance": "Uzazi wa mpango ni njia mbalimbali za kuzuia mimba — na kuna nyingi za kuchagua.",
+      "overview": "Uzazi wa mpango — wakati mwingine huitwa njia za kuzuia mimba — ni mkusanyiko wa njia zinazotumiwa kuzuia mimba. Kuna nyingi, na hufanya kazi kwa njia tofauti: baadhi hutumia homoni, baadhi ni vizuizi, baadhi huwekwa ndani ya mfuko wa uzazi, na baadhi hutegemea kufuatilia mzunguko.\n\nJinsi njia inavyofanya kazi vizuri hutegemea sana jinsi inavyotumiwa. Baadhi ya njia — kama kipandikizi cha uzazi wa mpango na vitanzi (IUD) — ni za \"weka na usahau,\" na zina ufanisi wa zaidi ya 99%. Nyingine, kama vidonge au kondomu, zina ufanisi mkubwa zikitumiwa kikamilifu, lakini kidogo chini ya hapo kwa matumizi ya kawaida ya kila siku, kwa sababu ni rahisi kusahau kidonge au kutumia kondomu vibaya.\n\nJambo moja la kufahamu: **ni kondomu pekee ambazo pia hukinga dhidi ya magonjwa ya zinaa**. Njia nyingine huzuia mimba lakini si maambukizi, ndiyo sababu kondomu wakati mwingine hutumiwa pamoja na njia nyingine.\n\nHakuna njia moja \"bora zaidi\" — inayokufaa hutegemea afya yako, mwili wako, na kinachoendana na maisha yako. Daktari wa familia au kliniki ya afya ya uzazi na ngono inaweza kukueleza chaguo zilizopo na kukusaidia kuchagua.",
+      "deep": "Kwa kuwa njia hutofautiana sana, inasaidia kufikiria kilicho muhimu kwako: ina ufanisi kiasi gani, kama inahitaji kukumbuka jambo kila siku, inadumu kwa muda gani, kama unataka homoni au la, na kama kinga dhidi ya magonjwa ya zinaa ni muhimu katika hali yako. Watu wengi hubadilisha njia katika maisha yao kadiri mahitaji yao yanavyobadilika. Maktaba hii ya maarifa inaeleza jinsi njia za kawaida zinavyofanya kazi ili chaguo zionekane wazi zaidi — lakini uamuzi, na maagizo yoyote ya dawa au kuwekewa njia, ni jambo la kufanya pamoja na mhudumu wa afya.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Uzazi wa mpango na uzito wa mwili",
+      "aliases": [
+        "vidonge vinanenepesha",
+        "uzazi wa mpango na kunenepa",
+        "sindano ya majira kunenepa",
+        "kuongezeka uzito kwa vidonge",
+        "kipandikizi na uzito",
+        "vijiti na kunenepa",
+        "kunenepa kwa uzazi wa mpango"
+      ],
+      "glance": "Hakuna ushahidi kwamba kidonge cha mchanganyiko husababisha kuongezeka uzito, lakini sindano ya uzazi wa mpango inaweza. Inategemea njia.",
+      "overview": "Kujiuliza kama uzazi wa mpango utakuongezea uzito ni swali la kawaida sana. Jibu la kweli ni kwamba inategemea njia.\n\nKwa kidonge cha mchanganyiko, ushahidi unatia moyo: hakuna ushahidi kwamba kukitumia hukufanya uongezeke uzito. Vivyo hivyo kwa kiraka cha uzazi wa mpango na pete ya ukeni.\n\nSindano ya uzazi wa mpango ni tofauti. Kuongezeka uzito kumeorodheshwa kama mojawapo ya madhara yake ya kawaida, pamoja na mabadiliko ya hedhi yako.\n\nKwa kidonge cha projestojeni pekee (wakati mwingine huitwa mini pill) na kipandikizi cha uzazi wa mpango, baadhi ya watu huripoti kuongezeka uzito. Lakini hakuna ushahidi wa kutosha kusema kama njia yenyewe ndiyo chanzo.\n\nUzito ni sehemu moja tu ya picha nzima. Kila njia ina orodha yake ya madhara na hatari zinazowezekana, na kuchagua uzazi wa mpango ni kutafuta kinachofaa mwili wako, afya yako na maisha yako. Mfamasia, daktari wa familia, muuguzi au kliniki ya afya ya uzazi na ngono anaweza kupitia chaguo pamoja nawe.",
+      "deep": null,
+      "when_to_see_doctor": "- Ikiwa madhara, yakiwemo mabadiliko ya uzito wako, ni tatizo kwako, zungumza na mfamasia, daktari wa familia, muuguzi au kliniki ya afya ya uzazi na ngono. Kwa kidonge cha mchanganyiko, kiraka au pete, baadhi ya madhara yanaweza kutokea unapoanza tu. Ikiwa bado yanakusumbua baada ya takriban miezi 3, mhudumu wa afya anaweza kuzungumza nawe kuhusu kidonge kingine au aina nyingine ya uzazi wa mpango.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Kipandikizi cha uzazi wa mpango",
+      "aliases": [
+        "kipandikizi cha uzazi wa mpango",
+        "kipandikizi mkononi",
+        "vijiti",
+        "kijiti cha mkononi",
+        "Nexplanon",
+        "Implanon",
+        "implant"
+      ],
+      "glance": "Kipandikizi ni kijiti kidogo kinachowekwa kwenye sehemu ya juu ya mkono ambacho hutoa homoni kwa miaka kadhaa.",
+      "overview": "Kipandikizi cha uzazi wa mpango ni kijiti kidogo kinachopindika — takriban ukubwa wa njiti ya kiberiti — kinachowekwa chini kidogo ya ngozi ya sehemu ya juu ya mkono na mhudumu wa afya aliyefunzwa. Kikishawekwa, hutoa homoni ya projestojeni kwa kiwango kisichobadilika na hufanya kazi kwa hadi takriban miaka mitatu.\n\nHuzuia mimba hasa kwa kuzuia ovari kutoa yai (ovulesheni), na kwa kufanya ute kwenye shingo ya kizazi kuwa mzito ili mbegu za kiume zisiweze kupita. Kwa kuwa hakuna cha kukumbuka kila siku, ni mojawapo ya njia za \"weka na usahau\".\n\nHiyo pia ndiyo sababu ni mojawapo ya chaguo zinazotegemewa zaidi: kipandikizi kina ufanisi wa zaidi ya 99%, na ufanisi wake karibu haubadiliki kati ya matumizi kamilifu na ya kawaida. Kama njia nyingine za homoni, hakikingi dhidi ya magonjwa ya zinaa.",
+      "deep": "Kipandikizi ni njia ya muda mrefu inayoweza kuondolewa — huendelea kufanya kazi hadi kiondolewe, na uwezo wa kupata mimba hurejea baada ya kuondolewa. Kukiweka na kukitoa ni taratibu za haraka zinazofanywa na mhudumu wa afya, ambaye pia hukueleza kinamfaa nani na madhara yake. Makala hii inaeleza ni nini na jinsi kinavyofanya kazi; uamuzi wa kukiweka ni mazungumzo na daktari wa familia, muuguzi, au kliniki ya afya ya uzazi na ngono.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Mzunguko wako na ustawi wako",
+      "aliases": [
+        "ustawi",
+        "mzunguko na afya",
+        "hedhi na afya",
+        "afya ya mzunguko wa hedhi",
+        "ishara muhimu ya afya",
+        "wellbeing"
+      ],
+      "glance": "Mzunguko wako ni kama ukaguzi wa kila mwezi wa afya yako — mabadiliko ndani yake yanaweza kustahili kuzingatiwa.",
+      "overview": "Mzunguko wako wa hedhi haujatengana na afya yako yote — umeunganika nayo. Mzunguko ulio wa kawaida kwako kwa ujumla ni ishara kuwa mwili wako unaendelea kufanya kazi inavyopaswa. Ndiyo sababu baadhi ya watu huiona hedhi kama aina ya ishara ya kila mwezi kuhusu ustawi wa jumla.\n\nMaisha ya kila siku yanahusika. Uzito wa mwili ni mfano mmoja: kuwa na uzito mdogo sana au mkubwa sana kunaweza kuathiri homoni zinazoendesha ovulesheni, jambo linaloweza kufanya hedhi isiwe na mpangilio. Hili hufanya kazi pande zote mbili — kujali mambo ya msingi, kama ulaji wenye uwiano na kujishughulisha kimwili, huusaidia mzunguko, na mzunguko thabiti ni ishara kuwa mambo hayo yako katika uwiano wa kuridhisha.\n\nHili si kuhusu kutafuta mzunguko \"kamilifu\" au kujilaumu kwa mabadiliko. Ni kwamba tu kuuzingatia mzunguko wako kwa upole kunaweza kuwa dirisha lenye msaada la kuona jinsi unavyoendelea — na ukumbusho wa kuzungumza na mhudumu wa afya ikiwa jambo fulani linabadilika.",
+      "deep": null,
+      "when_to_see_doctor": "- Mwone daktari wa familia ikiwa hedhi zako zinakosa mpangilio, zinakoma, au zinabadilika kwa namna isiyo ya kawaida kwako — mabadiliko yanayoendelea wakati mwingine yanaweza kuashiria jambo linalostahili kuchunguzwa.\n- Pia inafaa kuzungumza na daktari ikiwa matatizo ya hedhi yanaathiri maisha yako ya kila siku, ili upate msaada badala ya kuvumilia tu.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Unyanyasaji wa kiuchumi",
+      "aliases": [
+        "unyanyasaji wa kiuchumi",
+        "unyanyasaji wa kifedha",
+        "kudhibiti pesa",
+        "kunyimwa pesa",
+        "madeni kwa jina langu",
+        "economic abuse"
+      ],
+      "glance": "Unyanyasaji wa kiuchumi ni kudhibiti upatikanaji wa mtu wa pesa, kazi au rasilimali — aina ya unyanyasaji inayotambuliwa.",
+      "overview": "Unyanyasaji wa kiuchumi ni pale mtu anapodhibiti upatikanaji wa mtu mwingine wa pesa na vitu vinavyonunuliwa kwa pesa. Ni aina ya tabia ya kudhibiti, na mara nyingi huambatana na aina nyingine za unyanyasaji.\n\nUnaweza kuonekana kama kudhibiti matumizi yote au kukulazimisha ueleze kila senti, kuchukua mshahara wako au mafao yako, kukuingiza kwenye madeni kwa jina lako, kukuficha akaunti za benki au nyaraka, au kukuzuia kufanya kazi au kusoma. Kwa kuwa unaweza kumwacha mtu bila uwezo wa kuondoka au wa kujikimu siku hadi siku, ni mojawapo ya njia ambazo unyanyasaji unaweza kuhisika kama mtego.\n\nIkiwa baadhi ya haya yanafahamika kwako, si ishara kwamba \"huwezi kutunza pesa\" au kwamba una lawama. Kudhibiti rasilimali za mtu mwingine ni uamuzi ambao mtu huyo mwingine hufanya — na unatambuliwa kama unyanyasaji.",
+      "deep": null,
+      "when_to_see_doctor": "- Huduma za kupambana na ukatili zinaweza kusaidia katika hili pia — si usalama tu, bali hatua za kivitendo na za kifedha, kwa siri na bila malipo (nchini Italia, simu ya msaada **1522** inaweza kukuelekeza kwenye msaada ulio karibu nawe).\n- Mpango wa usalama unaweza kujumuisha kuhakikisha kimyakimya kuwa unaweza kupata kiasi fulani cha pesa, nyaraka muhimu, na nambari muhimu za simu.",
+      "red_flags": "- Ikiwa uko katika **hatari ya haraka**, wasiliana na huduma za dharura sasa hivi: **112** katika Umoja wa Ulaya (ikiwemo Italia), **999** nchini Uingereza, **911** nchini Marekani na Kanada.\n- Nchini Italia, **1522** — bure, saa 24 kwa siku, bila kujitambulisha, kwa lugha nyingi — inaweza kusaidia kwa simu au kwa ujumbe wa mtandaoni (chat)."
+    },
+    "ectopic-pregnancy": {
+      "title": "Mimba nje ya kizazi",
+      "aliases": [
+        "mimba nje ya kizazi",
+        "mimba nje ya mfuko wa uzazi",
+        "mimba kwenye mrija",
+        "ectopic",
+        "ectopic pregnancy"
+      ],
+      "glance": "Mimba nje ya kizazi hukua nje ya mfuko wa uzazi — haiwezi kuendelea na inahitaji matibabu haraka.",
+      "overview": "Mimba nje ya kizazi ni pale yai lililorutubishwa linapojipandikiza nje ya mfuko wa uzazi, mara nyingi zaidi katika mojawapo ya mirija ya uzazi (fallopian tubes). Kwa bahati mbaya, mimba iliyo mahali hapa haiwezi kukua kuwa mtoto, na haiwezi kuhamishiwa ndani ya mfuko wa uzazi — kwa hiyo daima inahitaji kutibiwa.\n\nDalili kwa kawaida huonekana kati ya takriban wiki 4 na 12, na zinaweza kujumuisha maumivu ya tumbo la chini upande mmoja, kutokwa na damu ukeni au uchafu wa majimaji wa kahawia, maumivu kwenye ncha ya bega, au usumbufu wakati wa kukojoa au kujisaidia haja kubwa. Mchanganyiko wa dalili hutofautiana, na baadhi zinaweza kudhaniwa kwa urahisi kuwa jambo dogo, ndiyo sababu ni muhimu zichunguzwe na daktari.\n\nNi hali isiyo ya kawaida, lakini inayoweza kuwa hatari, kwa hiyo si jambo la kusubiri lipite. Kupata ushauri mapema kunamaanisha inaweza kushughulikiwa kwa usalama.",
+      "deep": null,
+      "when_to_see_doctor": "- Wasiliana na daktari wako wa familia au **daktari wa zamu wa nje ya saa za kazi** ikiwa una mchanganyiko wa dalili hizi **na huenda una mimba** — hata kama hujapata kipimo chanya cha mimba. Ni muhimu kupata ushauri mara moja.",
+      "red_flags": "- Piga **{{emergency}} au nenda idara ya dharura hospitalini** ikiwa una **maumivu ya ghafla, makali sana na ya kuchoma tumboni**, unahisi **kizunguzungu kikubwa au kama unataka kuzimia**, unaonekana **umepauka sana**, au unahisi kichefuchefu pamoja na dalili hizi. Hii inaweza kumaanisha mrija wa uzazi umepasuka — dharura ya kitabibu inayohitaji matibabu ya haraka."
+    },
+    "emergency-contraception": {
+      "title": "Uzazi wa mpango wa dharura",
+      "aliases": [
+        "uzazi wa mpango wa dharura",
+        "P2",
+        "kidonge cha dharura",
+        "kidonge cha siku inayofuata",
+        "postinor",
+        "ellaOne",
+        "morning after pill"
+      ],
+      "glance": "Uzazi wa mpango wa dharura unaweza kuzuia mimba baada ya kujamiiana bila kinga — na kadiri unavyotumiwa mapema, ndivyo bora zaidi.",
+      "overview": "Uzazi wa mpango wa dharura ni njia ya kuzuia mimba baada ya kujamiiana bila kutumia njia ya uzazi wa mpango, au pale ambapo njia yako ya kawaida huenda imeshindwa (kidonge ulichosahau, kondomu iliyopasuka). Kuna aina mbili, na muda ni muhimu kwa zote mbili.\n\nYa kwanza ni **kidonge cha dharura**. Kuna aina mbili: kimoja (levonorgestrel) kinaweza kumezwa hadi siku 3 — saa 72 — baada ya kujamiiana, na kingine (ulipristal acetate, jina la biashara ellaOne) hadi siku 5 — saa 120. Chaguo la pili ni **kitanzi cha shaba (IUD)**, ambacho mhudumu wa afya anaweza kukuwekea hadi siku 5 baada ya kujamiiana; ndiyo aina yenye ufanisi zaidi ya uzazi wa mpango wa dharura, na kinaweza kubaki ndani kama njia ya kuendelea ya uzazi wa mpango ukipenda.\n\nKwa njia zote hizi, **kadiri unavyozitumia mapema, ndivyo zinavyofanya kazi vizuri zaidi** — kwa hiyo inafaa kuchukua hatua haraka badala ya kusubiri. Unaweza kupata uzazi wa mpango wa dharura kutoka duka la dawa, kwa daktari wa familia, kliniki ya afya ya uzazi na ngono, au kituo cha huduma bila miadi, mara nyingi bila malipo.",
+      "deep": null,
+      "when_to_see_doctor": "- Kwa kuwa muda ni muhimu, usisubiri — mfamasia anaweza kukupa kidonge cha dharura haraka, na kliniki ya afya ya uzazi na ngono au daktari wa familia anaweza kukuwekea kitanzi (IUD).\n- Uzazi wa mpango wa dharura ni kwa ajili ya kuzuia mimba, si maambukizi. Ikiwa kuna uwezekano wowote wa maambukizi ya zinaa, kliniki ya afya ya uzazi na ngono inaweza kukushauri kuhusu kupima.\n- Ikiwa baadaye hedhi yako imechelewa kwa zaidi ya siku chache, au ni tofauti sana na kawaida, inafaa kupima mimba na kuzungumza na mhudumu wa afya.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriosis",
+      "aliases": [
+        "endometriosis",
+        "endo",
+        "maumivu makali ya hedhi",
+        "tishu za kizazi nje ya kizazi",
+        "endometriosisi"
+      ],
+      "glance": "Endometriosis ni hali ambapo tishu zinazofanana na ukuta wa ndani wa mfuko wa uzazi hukua nje ya mfuko wa uzazi, mara nyingi zikisababisha maumivu.",
+      "overview": "Endometriosis ni hali ya muda mrefu ambapo seli zinazofanana na ukuta wa ndani wa mfuko wa uzazi (uterasi) hukua katika sehemu nyingine za mwili, kama vile kuzunguka ovari, kwenye fupanyonga, au kwenye utumbo. Ni ya kawaida — inakadiriwa kuwaathiri takriban mwanamke 1 kati ya 10 walio katika umri wa kuzaa duniani kote.\n\nKwa kuwa tishu hizi hutenda kwa namna fulani kama ukuta wa ndani wa mfuko wa uzazi, zinaweza kusababisha uvimbe wa ndani (inflammation) na, kwa muda, makovu. Dalili ya kawaida zaidi ni maumivu: mara nyingi maumivu makali ya hedhi, lakini pia maumivu ya nyonga au mgongo wa chini nyakati nyingine, maumivu wakati au baada ya kujamiiana, na maumivu wakati wa kukojoa au kujisaidia haja kubwa. Hedhi nzito sana, uchovu mkubwa, hali ya huzuni, na ugumu wa kupata mimba pia ni mambo ya kawaida. Dalili hutofautiana sana — baadhi ya watu wana maumivu makali, wengine kidogo.\n\nEndometriosis mara nyingi haieleweki vizuri na inaweza kuchukua miaka kutambuliwa, kwa sehemu kwa sababu maumivu ya hedhi mara nyingi hupuuzwa kama \"ya kawaida.\" Maumivu makali yanayovuruga maisha yako si jambo la kuvumilia tu — yanastahili kuchukuliwa kwa uzito.",
+      "deep": "Chanzo halisi cha endometriosis hakijulikani, na kwa sasa hakuna tiba ya kuiponya kabisa — lakini matibabu yanaweza kusaidia kudhibiti dalili, na msaada unajumuisha dawa hadi, kwa baadhi ya watu, upasuaji, pamoja na msaada kwa athari za kimwili na za kihisia. Mojawapo ya changamoto kubwa zaidi ni kuchelewa: kwa wastani inaweza kuchukua miaka kadhaa, wakati mwingine mingi, kupata utambuzi. Hiyo ni sehemu ya sababu kwa nini kuweka kumbukumbu wazi za dalili zako, na kurudi kwa mhudumu wa afya ikiwa husikilizwi, kunaweza kuwa muhimu sana.",
+      "when_to_see_doctor": "Inafaa kumwona daktari wa familia ikiwa:\n\n- una maumivu makali ya hedhi yanayokuzuia kufanya shughuli zako za kawaida\n- hedhi zako ni nzito sana — kwa mfano, unahitaji kubadilisha pedi au tamponi kila saa 1–2\n- una maumivu ya nyonga au mgongo wa chini yasiyoisha, maumivu wakati au baada ya kujamiiana, au maumivu wakati wa kukojoa au kujisaidia haja kubwa\n- unapata ugumu wa kupata mimba\n- matibabu uliyokwisha kupata hayajasaidia, au dalili zako zimezidi kuwa mbaya\n\nKwa kuwa endometriosis inaweza kuchukua muda kutambuliwa, ni sawa kurudi ikiwa dalili zako hazichukuliwi kwa uzito — picha wazi ya maumivu yako kwa muda husaidia. Ikiwa maumivu au damu nyingi pia vinaathiri hisia zako, mweleze daktari wako wa familia; hilo ni sehemu ya picha nzima, na msaada upo.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrojeni",
+      "aliases": [
+        "estrojeni",
+        "estrogen",
+        "oestrogen",
+        "homoni ya estrojeni",
+        "homoni ya kike"
+      ],
+      "glance": "Estrojeni ni homoni muhimu inayosaidia kuuandaa mwili wako kwa uwezekano wa mimba katika kila mzunguko.",
+      "overview": "Estrojeni ni mojawapo ya homoni kuu zinazoendesha mzunguko wa hedhi. Katika nusu ya kwanza ya mzunguko (awamu ya folikula) kiwango chake hupanda kadiri folikula kwenye ovari inavyokomaa. Kupanda huku huufanya ukuta wa ndani wa mfuko wa uzazi kuwa mnene na huelekeza kwenye ovulesheni.\n\nEstrojeni pia huathiri mambo unayoweza kuyaona siku hadi siku — nguvu, hisia, na mabadiliko ya ute wa shingo ya kizazi karibu na siku zako za rutuba. Baada ya ovulesheni kiwango chake hushuka kisha hubadilika tena, ikifanya kazi pamoja na homoni nyingine, projesteroni, katika nusu ya pili ya mzunguko.\n\nViwango hupanda na kushuka kwa asili katika kila mzunguko, na pia hubadilika katika hatua mbalimbali za maisha. Hili ni la kawaida — ni mdundo ambao mwili wako huendeshwa nao, si kitu cha \"kurekebisha.\"",
+      "deep": "Estrojeni si dutu moja bali ni kundi la homoni zinazohusiana (iliyo hai zaidi katika mzunguko ni estradioli). Nyingi yake hutengenezwa na ovari, ndani ya folikula inayokua. Kupanda na kushuka kwake kwa mzunguko — pamoja na projesteroni, na homoni za ubongo za kutuma ishara, LH na FSH — ndiko kunakoendesha awamu za mzunguko. Kwa kuwa estrojeni hugusa mifumo mingi ya mwili, mabadiliko yake ya asili yanaweza kujitokeza kwa njia ndogo katika mwezi mzima; kufuatilia hukusaidia kujifunza mpangilio wako mwenyewe badala ya kuulinganisha na \"wastani.\"",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Kujishughulisha kimwili na mzunguko wako",
+      "aliases": [
+        "mazoezi",
+        "mazoezi ya mwili",
+        "kufanya mazoezi",
+        "mazoezi na hedhi",
+        "kujishughulisha kimwili",
+        "exercise"
+      ],
+      "glance": "Unaweza kuendelea kujishughulisha kimwili katika mzunguko wako wote — na mazoezi ya mara kwa mara huenda yakapunguza maumivu ya tumbo ya hedhi na PMS.",
+      "overview": "Unaweza kufanya mazoezi wakati wowote katika mzunguko wako. Baadhi ya watu hugundua kuwa wana nguvu zaidi na wanaweza kujitahidi zaidi kidogo nyakati fulani za mwezi, na kidogo nyakati nyingine — yote mawili ni ya kawaida, na hakuna kati yake ambalo ni sababu ya kuacha kujishughulisha.\n\nKujishughulisha mara kwa mara kunaweza kweli kusaidia dalili fulani zinazohusiana na hedhi. Watu wanaofanya mazoezi mara kwa mara mara nyingi huwa na maumivu machache ya tumbo ya hedhi, na kuendelea kujishughulisha huenda kukapunguza dalili za kabla ya hedhi (PMS) pia. Katika siku zenye nguvu kidogo, mazoezi mepesi bado yana thamani — hayahitaji kuwa makali ili yawe na manufaa.\n\nHakuna haja ya kupanga maisha yako kwa kufuata mzunguko wako, na hakuna njia moja \"sahihi\" ya kujishughulisha. Kuzingatia mpangilio wako mwenyewe wa nguvu katika mwezi kunaweza kukusaidia tu kupanga kwa namna inayokupendeza.",
+      "deep": null,
+      "when_to_see_doctor": "- Mazoezi mazito sana, au kufanya mazoezi kupita kiasi hadi mwili wako unakosa nishati ya kutosha, kunaweza kufanya hedhi ikose mpangilio au ikome kabisa. Mzunguko wenye mpangilio kwa ujumla ni ishara kuwa mambo yanaenda vizuri, kwa hiyo inafaa kuzungumza na daktari wa familia ikiwa hedhi zako zinakosa mpangilio au zinakoma — hili linaweza kuhusiana na afya ya mifupa na homoni kwa muda mrefu.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Mazoezi wakati wa ujauzito",
+      "aliases": [
+        "mazoezi wakati wa ujauzito",
+        "mazoezi kwa mjamzito",
+        "kujishughulisha ukiwa mjamzito",
+        "mazoezi ya ujauzito",
+        "kutembea ujauzitoni",
+        "exercise in pregnancy"
+      ],
+      "glance": "Kuendelea kujishughulisha kimwili ni salama na ni vizuri katika mimba nyingi — kwa upole, bila kujichosha kupita kiasi.",
+      "overview": "Kuendelea kujishughulisha kimwili wakati wa ujauzito ni vizuri kwako na si hatari kwa mtoto wako — kwa kweli, kuwa na mwili imara kunaweza kukusaidia kukabiliana na mabadiliko yanayokuja na uchungu wa kujifungua. Huhitaji kuanza jambo lolote zito; kuendelea na shughuli zako za kawaida za kila siku, maadamu unajisikia vizuri, ni mwanzo mzuri.\n\nKanuni rahisi: unapaswa kuweza **kuendelea kuzungumza** wakati unafanya mazoezi. Ikiwa unahema sana kiasi cha kushindwa kuzungumza, punguza kasi. Machaguo mepesi kama kutembea, kuogelea, madarasa ya mazoezi ya majini kwa wajawazito, na yoga ya wajawazito yanawafaa watu wengi. Ikiwa hukuwa ukifanya mazoezi kabla, huu si wakati wa kuanza utaratibu mpya mzito — badala yake ongeza taratibu kwa upole.\n\nShughuli chache ni bora kuziepuka au kuzifanya kwa uangalifu — kama kulala chali baada ya takriban wiki 16, michezo ya kugusana, kupiga mbizi kwa mitungi ya hewa (scuba), na chochote chenye hatari halisi ya kuanguka.",
+      "deep": null,
+      "when_to_see_doctor": "- Wasiliana na **mkunga** wako kabla ya kuanza programu mpya ya mazoezi ya aerobiki, au ikiwa una tatizo la kiafya au wasiwasi kuhusu ujauzito.\n- **Acha na upate ushauri** ikiwa unajisikia vibaya, una kizunguzungu au unakosa pumzi sana, au ikiwa una maumivu yoyote, kutokwa na damu, au mikazo ya tumbo la uzazi wakati wa kufanya mazoezi.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Siku za rutuba",
+      "aliases": [
+        "siku za rutuba",
+        "siku za hatari",
+        "siku za kushika mimba",
+        "kipindi cha rutuba",
+        "fertile window"
+      ],
+      "glance": "Siku za rutuba ni siku chache katika kila mzunguko ambapo kujamiiana kunaweza kusababisha mimba.",
+      "overview": "Siku za rutuba ni kipindi kifupi cha mzunguko ambapo mimba inawezekana. Kipindi hiki kipo kwa sababu ya nyakati mbili zisizolingana kabisa: yai linaweza kurutubishwa kwa takriban saa 12 hadi 24 tu baada ya kutolewa, lakini mbegu za kiume zinaweza kuishi ndani ya mwili kwa siku kadhaa — hadi takriban wiki moja — zikisubiri yai.\n\nUkiviweka pamoja, hiyo inamaanisha kipindi hiki huanza siku chache kabla ya ovulesheni na huisha takriban siku moja baada yake. Kwa vitendo una rutuba zaidi katika siku 2 hadi 3 zinazotangulia ovulesheni na siku yenyewe ya ovulesheni, kwa sababu mbegu za kiume zinaweza kuwa tayari zipo yai linapofika.\n\nKwa kuwa ovulesheni inaweza kubadilika kutoka mzunguko mmoja hadi mwingine, siku za rutuba nazo hubadilika. Ndiyo sababu kwa kawaida hufikiriwa kama mfululizo wa siku badala ya tarehe moja, na ndiyo sababu kufuatilia ishara katika mizunguko kadhaa kunategemewa zaidi kuliko kutegemea hesabu moja ya kalenda.",
+      "deep": "Siku halisi hutofautiana kati ya mtu na mtu na kati ya mwezi na mwezi, kwa hiyo kipindi hiki hukadiriwa vizuri zaidi kutokana na ishara za mwili wenyewe badala ya fomula maalum. Mabadiliko ya ute wa shingo ya kizazi huashiria kuwa siku za rutuba zinaanza ovulesheni inapokaribia, na kupanda kwa joto la mwili wakati wa kupumzika huthibitisha — baada ya tukio — kuwa ovulesheni imepita na siku za rutuba zimeisha. Vipimo vya kutabiri ovulesheni hufanya kazi hatua moja mapema zaidi, kwa kugundua ongezeko la ghafla la homoni ya luteinizing (LH) linalotokea muda mfupi kabla ya yai kutolewa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Kuanza hedhi (hedhi ya kwanza)",
+      "aliases": [
+        "hedhi ya kwanza",
+        "kuvunja ungo",
+        "kuanza hedhi",
+        "kupata siku zangu mara ya kwanza",
+        "menarche",
+        "first period"
+      ],
+      "glance": "Hedhi yako ya kwanza kwa kawaida huja karibu na umri wa miaka 12 — popote kati ya takriban miaka 8 hadi 17 ni kawaida.",
+      "overview": "Hedhi yako ya kwanza — wakati mwingine huitwa kuvunja ungo (menarche) — ni pale mzunguko wa hedhi unapoanza kwa mara ya kwanza. Watu wengi huanza karibu na umri wa miaka 12, lakini popote kati ya takriban miaka 8 hadi 17 ni kawaida. Mara nyingi huja takriban miaka miwili baada ya matiti yako kuanza kukua.\n\nKwa kawaida kuna ishara kabla yake: nywele kuota kwapani na sehemu za siri, na ute kidogo angavu au mweupe katika miezi inayotangulia. Kujua kuwa haya yanakuja kunaweza kuifanya hedhi ya kwanza isihisike kama jambo la ghafla sana.\n\nMwanzoni, hedhi mara nyingi hazina mpangilio — muda kati yake unaweza kuwa mrefu au mfupi, na inaweza kuuchukua mwili wako miezi kadhaa, hata mwaka mmoja au miwili, kutulia katika mdundo thabiti zaidi. Ukishatulia, hedhi huelekea kuja takriban kila siku 23 hadi 35 na kudumu kwa takriban siku 2 hadi 7. Kukosa mpangilio mwanzoni ni jambo la kawaida na si la kutia wasiwasi.",
+      "deep": null,
+      "when_to_see_doctor": "- Mwone daktari wa familia ikiwa hedhi **haijaanza kufikia umri wa miaka 15**, au kufikia **miaka 13 ikiwa hakuna ishara nyingine za kubalehe** (kama kukua kwa matiti au nywele mwilini). Hii ni kuhakikisha tu kuwa mambo yanakua kama inavyotarajiwa — kwa kawaida kila kitu kiko sawa.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Asidi ya foliki na vitamini wakati wa ujauzito",
+      "aliases": [
+        "asidi ya foliki",
+        "folic acid",
+        "folate",
+        "vitamini D ujauzitoni",
+        "vitamini za ujauzito",
+        "virutubisho wakati wa ujauzito"
+      ],
+      "glance": "Asidi ya foliki kabla ya ujauzito na mwanzoni mwa ujauzito husaidia kumlinda mtoto — pamoja na vitamini D kila siku.",
+      "overview": "Virutubisho viwili ni muhimu sana wakati wa ujauzito, na NHS inapendekeza vyote viwili.\n\n**Asidi ya foliki** ndiyo muhimu zaidi. Kumeza kirutubisho cha mikrogramu 400 kila siku — ikiwezekana kuanzia kabla ya kushika mimba (takriban miezi mitatu kabla) na hadi mwisho wa miezi mitatu ya kwanza ya ujauzito, katika wiki 12 — husaidia kumlinda mtoto dhidi ya kasoro za mrija wa neva kama spina bifida (mgongo wazi). Kwa kuwa hufanya kazi mapema sana, ni mojawapo ya mambo machache yanayofaa kuanzishwa *kabla ya* ujauzito ikiwa unajaribu kupata mimba.\n\n**Vitamini D** ndicho kingine: kirutubisho cha mikrogramu 10 kila siku kinapendekezwa katika kipindi chote cha ujauzito na wakati wa kunyonyesha, ili kusaidia mifupa na ukuaji wa mtoto.\n\nZaidi ya hivyo viwili, lishe bora yenye vyakula mbalimbali hutosheleza mahitaji mengi — huhitaji virutubisho vingi vya ziada. Kimoja cha kuepuka ni **vitamini A** (retinol): usimeze virutubisho vyenye vitamini hiyo, na epuka maini, kwa kuwa vitamini A nyingi kupita kiasi inaweza kumdhuru mtoto.",
+      "deep": null,
+      "when_to_see_doctor": "- **Daktari wa familia, mkunga, au mfamasia** anaweza kukusaidia kuchagua virutubisho sahihi, na baadhi ya watu hushauriwa kumeza **kiwango cha juu zaidi cha asidi ya foliki** (kwa mfano wenye kisukari, BMI ya juu zaidi, dawa fulani, au mimba ya awali iliyoathiriwa na kasoro ya mrija wa neva) — kwa hiyo inafaa kuuliza, hasa kabla ya ujauzito au mwanzoni mwa ujauzito.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Awamu ya folikula",
+      "aliases": [
+        "awamu ya folikula",
+        "nusu ya kwanza ya mzunguko",
+        "awamu ya kukomaa kwa yai",
+        "follicular phase"
+      ],
+      "glance": "Awamu ya folikula ni nusu ya kwanza ya mzunguko, wakati yai linapokomaa na ukuta wa ndani wa mfuko wa uzazi unapozidi kuwa mnene.",
+      "overview": "Awamu ya folikula ni sehemu ya kwanza ya mzunguko. Huanza siku ya kwanza ya hedhi yako na huendelea hadi ovulesheni. Jina lake linatokana na folikula — kifuko kidogo chenye majimaji kwenye ovari ambacho hubeba na kukuza yai katika kipindi hiki.\n\nKatika awamu hii homoni ya estrojeni hupanda. Estrojeni hiyo inayopanda hufanya mambo mawili makuu: husaidia folikula kwenye ovari kukomaa, na huufanya ukuta wa ndani wa uterasi (mfuko wa uzazi) kuwa mnene, ikiuandaa mwili iwapo mimba itaanza baadaye katika mzunguko.\n\nKwa kuwa estrojeni inapanda, baadhi ya watu huona nguvu zaidi au mabadiliko ya ute wa shingo ya kizazi siku za rutuba zinapokaribia. Uzoefu wa kila mtu ni tofauti, na hakuna kati ya haya kinachohitaji \"kudhibitiwa\" — ni nusu ya kwanza tu ya mzunguko wako ikifanya kazi yake.",
+      "deep": "Urefu wa awamu ya folikula unaweza kutofautiana kutoka mzunguko mmoja hadi mwingine, na hiyo ni sehemu ya sababu kwa nini mizunguko mizima hutofautiana kati ya mtu na mtu na kati ya mwezi na mwezi. Huisha pale estrojeni inayopanda inaposaidia kuchochea kutolewa kwa yai (ovulesheni). Kwa kuwa siku zake za mwisho huelekea kwenye ovulesheni, huu ndio wakati siku za rutuba zinapoanza — ndiyo sababu mwisho wa awamu ya folikula ni muhimu kwa yeyote anayefuatilia uwezo wa kupata mimba.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Vyakula vya kuepuka wakati wa ujauzito",
+      "aliases": [
+        "vyakula vya kuepuka ujauzitoni",
+        "lishe ya mjamzito",
+        "mjamzito asile nini",
+        "kahawa wakati wa ujauzito",
+        "kafeini ujauzitoni",
+        "listeria"
+      ],
+      "glance": "Vyakula vingi ni salama wakati wa ujauzito — vichache vinafaa kuepukwa, na inasaidia kupunguza kafeini.",
+      "overview": "Habari njema ni kwamba vyakula vingi ni salama kabisa wakati wa ujauzito — ni vichache tu vinavyofaa kuepukwa au kuliwa kwa uangalifu, hasa ili kujiepusha na vijidudu kama listeria au kiasi kikubwa mno cha vitamini fulani. Kujua orodha hii fupi kunakuwezesha kutokuwa na wasiwasi kuhusu vingine.\n\nNHS inashauri uangalifu kuhusu:\n\n- **Baadhi ya jibini** — jibini laini zilizoivishwa kwa ukungu kama brie na camembert, na jibini laini za bluu, isipokuwa zikipikwa hadi ziwe moto sana zikitoa mvuke; na chochote kilichotengenezwa kwa maziwa **yasiyochemshwa (yasiyo pasteurized)**.\n- **Nyama mbichi au isiyoiva vizuri**, nyama baridi zilizohifadhiwa kwa chumvi, **pâté**, na **maini** (yenye vitamini A nyingi sana).\n- **Mayai mabichi au yasiyoiva vizuri**, isipokuwa yakiwa na alama ya British Lion.\n- **Baadhi ya samaki** — epuka papa, samaki panga (swordfish) na marlin, punguza jodari (tuna), na usile zaidi ya milo miwili ya samaki wenye mafuta kwa wiki.\n- **Kafeini** — iweke chini ya takriban 200mg kwa siku (karibu vikombe viwili vikubwa vya kahawa ya papo hapo), ukihesabu pia chai, kola, vinywaji vya kuongeza nguvu na chokoleti.",
+      "deep": null,
+      "when_to_see_doctor": "- Huu ni mwongozo wa jumla, si mlo mkali — ikiwa una maswali kuhusu kilicho salama kwako, au hitaji maalum la lishe, **mkunga** wako anaweza kulizungumzia nawe.\n- Ikiwa umekula kitu kilicho kwenye orodha ya \"kuepuka\", jaribu kutoingiwa na hofu; mweleze mkunga wako ikiwa una wasiwasi au unajisikia vibaya.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Homoni ya kuchochea folikula (FSH)",
+      "aliases": [
+        "fsh",
+        "homoni ya kuchochea folikula",
+        "kipimo cha FSH",
+        "follicle stimulating hormone"
+      ],
+      "glance": "FSH ni homoni ya ubongo inayochochea folikula kwenye ovari kukua mwanzoni mwa kila mzunguko.",
+      "overview": "FSH — homoni ya kuchochea folikula — ni mojawapo ya homoni za kutuma ujumbe zinazoanzisha mzunguko. Hutengenezwa na tezi ndogo iliyo kwenye ubongo (tezi ya pituitari) na, kama jina lake linavyosema, huchochea folikula: vifuko vidogo vyenye majimaji kwenye ovari ambavyo kila kimoja hubeba yai.\n\nMwanzoni mwa mzunguko, FSH huhimiza kundi la folikula hizi kuanza kukua. Folikula inapokua hutoa estrojeni zaidi, ambayo nayo huufanya ukuta wa ndani wa uterasi (mfuko wa uzazi) kuwa mnene tayari kwa uwezekano wa mimba. Kwa kawaida folikula moja huwa kubwa kuliko nyingine na kuendelea kuelekea ovulesheni.\n\nFSH hupanda na kushuka kama sehemu ya mabadilishano ya kawaida ya mzunguko. Huihisi FSH moja kwa moja — hufanya kazi kimyakimya nyuma ya pazia, ikiandaa mabadiliko yanayoonekana zaidi ya awamu ya folikula.",
+      "deep": "FSH hufanya kazi pamoja na homoni ya luteinizing (LH); zote mbili hutolewa na tezi ya pituitari kwenye ubongo na kwa pamoja huziendesha ovari katika mzunguko. FSH huongoza nusu ya kwanza, ikikuza folikula, huku ongezeko la ghafla la LH baadaye likiashiria kutolewa kwa yai katikati ya mzunguko. Ushirikiano huu pia ndio sababu matibabu ya uzazi hutumia dawa zinazotokana na FSH: kutoa FSH ya ziada huhimiza folikula kadhaa kukomaa kwa wakati mmoja, badala ya moja tu ambayo mzunguko wa asili kwa kawaida hutoa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Kisukari cha ujauzito",
+      "aliases": [
+        "kisukari cha ujauzito",
+        "kisukari wakati wa ujauzito",
+        "sukari juu ujauzitoni",
+        "sukari ya mimba",
+        "gestational diabetes"
+      ],
+      "glance": "Kisukari cha ujauzito ni sukari ya damu iliyo juu wakati wa ujauzito — kwa kawaida hugunduliwa kwa kipimo cha uchunguzi, na mara nyingi hutulia baada ya kujifungua.",
+      "overview": "Kisukari cha ujauzito ni sukari ya damu (glukosi) iliyo juu inayojitokeza wakati wa ujauzito, pale mwili unaposhindwa kukidhi mahitaji ya ziada ya insulini. Kwa watu wengi huisha tena baada ya mtoto kuzaliwa.\n\nKwa kawaida **hakisababishi dalili zozote**, kwa hiyo hugunduliwa kupitia kipimo cha uchunguzi kinachotolewa wakati wa ujauzito (kipimo cha uvumilivu wa glukosi, mara nyingi karibu na wiki 24 hadi 28), hasa ikiwa una mambo yanayoongeza uwezekano wake — kama uzito wa juu zaidi, historia ya kisukari katika familia, kuwahi kuzaa mtoto mkubwa, au asili fulani za kikabila.\n\nKinaweza kudhibitiwa vizuri sana. Kuweka sukari ya damu katika kiwango cha afya — kupitia chakula, kujishughulisha kimwili, na wakati mwingine dawa, yote kwa mwongozo wa timu yako ya huduma — hupunguza uwezekano wa matatizo kwako na kwa mtoto wako, ndiyo sababu inafaa kukifuatilia kwa karibu.",
+      "deep": null,
+      "when_to_see_doctor": "- Kubali **kipimo cha uchunguzi** kikitolewa — kwa kuwa kisukari cha ujauzito kwa kawaida hakina dalili, kupima ndiyo njia ya kukigundua.\n- Usisubiri kipimo ukiona dalili zinazowezekana za sukari ya damu kuwa juu — kuhisi kiu sana, kukojoa mara nyingi, kinywa kukauka, au uchovu — mweleze mkunga wako au daktari.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Mahali pa kupata msaada",
+      "aliases": [
+        "kupata msaada",
+        "nani wa kuwasiliana naye",
+        "simu za msaada",
+        "nambari muhimu",
+        "kituo cha kupambana na ukatili",
+        "1522",
+        "nambari za dharura"
+      ],
+      "glance": "Msaada wa bure na wa siri unapatikana — wakati wa dharura piga nambari ya dharura ya eneo lako; nchini Italia, 1522 wakati wowote.",
+      "overview": "Ikiwa unapitia unyanyasaji, huhitaji kukabiliana nao peke yako, na kuomba msaada hakukulazimishi kufanya jambo lolote. Kuna watu ambao kazi yao yote ni kusikiliza na kusaidia, kwa siri na bila malipo.\n\nKuna aina kadhaa za msaada zinazopatikana sambamba:\n\n- **Huduma za dharura** — kwa hatari ya haraka, piga nambari ya dharura ya eneo lako (hapa chini).\n- **Simu ya msaada ya kitaifa** — nchini Italia, **1522**, simu ya msaada ya bure dhidi ya ukatili na kuviziwa: iko wazi saa 24 kwa siku, bila kujitambulisha, inapatikana kwa lugha kadhaa, kwa simu au ujumbe wa mtandaoni (chat).\n- **Vituo vya kupambana na ukatili** (nchini Italia, *centri antiviolenza*) — huduma za eneo lako zinazotoa msaada wa bure na wa siri, kupanga usalama, na msaada wa kisheria na wa kisaikolojia.\n- **Huduma za afya** — daktari wa familia, au idara ya dharura hospitalini, ambapo wafanyakazi wanazidi kufunzwa kutambua unyanyasaji na kukuunganisha na msaada.\n- **Watu unaowaamini** — rafiki au mwanafamilia ambaye unajisikia salama ukiwa naye.\n\nUnaweza kuanza na chochote kinachoonekana kuwezekana zaidi kwako, na huhitaji kuwa umeshaamua jambo lolote.",
+      "deep": null,
+      "when_to_see_doctor": "- Unaweza kuzungumza na **daktari wa familia au hospitali** kwa siri kuhusu kinachoendelea; wanaweza kutibu majeraha yoyote na kukuunganisha na huduma za wataalamu.\n- Ikiwa ni rahisi zaidi kuandika kuliko kuzungumza, **chat ya 1522** ni njia nyingine ya kuanzia.",
+      "red_flags": "- Ikiwa uko katika **hatari ya haraka**, wasiliana na huduma za dharura sasa hivi: **112** katika Umoja wa Ulaya (ikiwemo Italia), **999** nchini Uingereza, **911** nchini Marekani na Kanada.\n- **Italia:** **1522** (bure, 24/7, bila kujitambulisha, kwa lugha nyingi — piga simu au tumia chat).\n- Nambari za simu za msaada hutofautiana kati ya nchi na nchi. Programu inaweza kuonyesha nambari za nchi yako, na **findahelpline.com** huorodhesha simu za msaada dhidi ya ukatili duniani kote (hutambua nchi yako na ina kitufe cha kutoka haraka). Ikiwa uko katika Umoja wa Ulaya, **112** hufanya kazi kila mahali."
+    },
+    "group-b-strep": {
+      "title": "Streptokokasi wa kundi B (GBS)",
+      "aliases": [
+        "group B strep",
+        "GBS",
+        "bakteria wa kundi B",
+        "streptokokasi wa kundi B",
+        "strep B ujauzitoni"
+      ],
+      "glance": "Streptokokasi wa kundi B ni bakteria wa kawaida ambaye kwa kawaida hana madhara — hatari ndogo ni kwa mtoto wakati wa kuzaliwa, na inaweza kudhibitiwa.",
+      "overview": "Streptokokasi wa kundi B (GBS) ni bakteria wa kawaida sana ambaye watu wengi humbeba, kwa kawaida ukeni au sehemu ya haja kubwa, bila kujua na bila kusababisha madhara yoyote. Si ugonjwa wa zinaa, na kumbeba ni jambo la kawaida.\n\nWakati wa ujauzito ni muhimu tu kwa sababu kuna **uwezekano mdogo** kwamba anaweza kupita kwa mtoto karibu na wakati wa kuzaliwa na, mara chache, kumfanya augue — hili hutokea katika takriban mimba 1 kati ya 1,750. Mara nyingi hugunduliwa kwa bahati, kwa mfano katika kipimo cha mkojo au sampuli ya ukeni iliyochukuliwa kwa sababu nyingine (NHS haimpimi kila mtu kwa kawaida).\n\nSehemu inayotia moyo ni kwamba inaweza kudhibitiwa vizuri sana: ikiwa GBS inajulikana, kupewa **antibiotiki kupitia dripu wakati wa uchungu wa kujifungua** hupunguza sana uwezekano wa mtoto kuugua.",
+      "deep": null,
+      "when_to_see_doctor": "- Ukiambiwa kuwa unambeba streptokokasi wa kundi B — sasa au katika mimba iliyopita — **mjulishe mkunga wako au timu ya wodi ya wazazi**, ili antibiotiki wakati wa uchungu wa kujifungua ziweze kupangwa. Ni hatua rahisi inayoleta tofauti kubwa.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Kiungulia na matatizo ya kumeng'enya chakula wakati wa ujauzito",
+      "aliases": [
+        "kiungulia ujauzitoni",
+        "kiungulia",
+        "tumbo kujaa gesi ujauzitoni",
+        "asidi kupanda kifuani",
+        "reflux",
+        "heartburn"
+      ],
+      "glance": "Kiungulia ni cha kawaida sana wakati wa ujauzito — kwa kawaida si hatari, na mara nyingi hupungua kwa mabadiliko madogo ya kila siku.",
+      "overview": "Kiungulia na matatizo ya kumeng'enya chakula — hisia ya kuungua au usumbufu kifuani, mara nyingi baada ya kula — ni vya kawaida sana wakati wa ujauzito. Husababishwa na homoni za ujauzito kulegeza msuli ulio juu ya tumbo, na, baadaye, mtoto anayekua kusukuma juu. Ni usumbufu, lakini si hatari.\n\nMabadiliko madogo mara nyingi husaidia: kula milo midogo mara nyingi zaidi badala ya milo mikubwa, kukaa wima unapokula na kwa muda baada ya kula, kupunguza vyakula vyenye pilipili, mafuta mengi au kafeini, na kutokula usiku sana kabla ya kulala. Baadhi ya watu hujisikia vizuri zaidi wakilala wameinuliwa kidogo kwa mito.\n\nIkiwa hilo halitoshi, **mfamasia** anaweza kupendekeza dawa za kupunguza asidi ambazo ni salama kutumia wakati wa ujauzito — mahali pazuri pa kuanzia kabla halijawa usumbufu mkubwa zaidi.",
+      "deep": null,
+      "when_to_see_doctor": "- Mwone **daktari wa familia au mkunga** wako ikiwa mabadiliko rahisi na dawa za duka la dawa hazisaidii, au ikiwa una **shida ya kumeza**, chakula kinaendelea kukurudia juu, unapungua uzito bila kukusudia, au una maumivu ya tumbo — haya yanastahili kuchunguzwa na daktari badala ya kudhaniwa kuwa ni kiungulia cha kawaida.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Hedhi nzito",
+      "aliases": [
+        "hedhi nzito",
+        "damu nyingi ya hedhi",
+        "kutokwa na damu nyingi",
+        "mabonge ya damu",
+        "hedhi inayomwagika",
+        "menorrhagia"
+      ],
+      "glance": "Hedhi nzito ni kupoteza damu nyingi katika kila mzunguko — ni jambo la kawaida, lakini linastahili kuchunguzwa na daktari ikiwa linakuathiri.",
+      "overview": "Hedhi nzito — jina la kitabibu ni menorrhagia — ni kupoteza damu nyingi wakati wa hedhi zako. Kwa baadhi ya watu kutokwa na damu nyingi ni hali yao ya kawaida tu, lakini ikiwa inavuruga maisha yako au inakuacha ukiwa umechoka kabisa, inafaa kuchunguzwa.\n\nBaadhi ya ishara kwamba hedhi ni nzito: kuhitaji kubadilisha pedi au tamponi kila saa 1 hadi 2, kutumia aina mbili za vifaa vya hedhi pamoja (kama tamponi na pedi), damu kupenya hadi kwenye nguo au matandiko, kutoa mabonge ya damu makubwa kuliko takriban 2.5cm (karibu ukubwa wa sarafu ya peni 10 ya Uingereza), au hedhi inayodumu zaidi ya siku 7.\n\nKupoteza damu nyingi mwezi baada ya mwezi kunaweza kukuacha umechoka au ukikosa pumzi, kwa sababu kunaweza kusababisha upungufu wa madini ya chuma (upungufu wa damu, au anemia). Kuna sababu nyingi zinazowezekana — kuanzia fibroidi au hali kama endometriosis, adenomyosis au PCOS, hadi baadhi ya dawa — na mara nyingi hakuna sababu kubwa inayopatikana. Kwa vyovyote vile, hedhi nzito kwa kawaida inaweza kusaidiwa, kwa hiyo si jambo la kuvumilia tu.",
+      "deep": null,
+      "when_to_see_doctor": "Mwone daktari wa familia ikiwa:\n\n- hedhi nzito zinaathiri maisha yako ya kila siku\n- unatokwa na damu nyingi kwa saa nyingi, au hedhi zako hudumu kwa muda mrefu\n- pia una maumivu makali ya hedhi, au maumivu wakati wa kujamiiana, kukojoa, au kujisaidia haja kubwa\n- unatokwa na damu kati ya hedhi au baada ya kujamiiana\n- mara nyingi unajisikia uchovu au kukosa pumzi (hii inaweza kuwa ishara ya upungufu wa madini ya chuma)\n\nDaktari wa familia anaweza kutafuta chanzo na kuzungumza nawe kuhusu kinachoweza kusaidia.",
+      "red_flags": "- Pata msaada wa kitabibu **wa haraka** — wasiliana na daktari au **huduma ya nje ya saa za kazi**, au piga **{{emergency}}** / nenda idara ya dharura hospitalini ikiwa hali ni mbaya sana — ikiwa **unatokwa na damu nyingi kiasi kwamba pedi moja au zaidi inalowa damu kabisa kila saa kwa saa chache mfululizo**, au unahisi **kama unataka kuzimia, kizunguzungu, au kukosa pumzi**. Hizi zinaweza kuwa ishara za kupoteza damu nyingi mno."
+    },
+    "lh": {
+      "title": "Homoni ya luteinizing (LH)",
+      "aliases": [
+        "lh",
+        "homoni ya luteinizing",
+        "kipimo cha LH",
+        "ongezeko la LH",
+        "luteinizing hormone"
+      ],
+      "glance": "LH ni homoni ya ubongo ambayo ongezeko lake la ghafla katikati ya mzunguko huchochea ovari kutoa yai.",
+      "overview": "LH — homoni ya luteinizing — ni mjumbe anayeanzisha ovulesheni. Kama FSH, hutengenezwa na tezi ndogo iliyo kwenye ubongo (tezi ya pituitari) na huiambia ovari wakati wa kutoa yai.\n\nKwa sehemu kubwa ya nusu ya kwanza ya mzunguko LH hubaki chini. Kisha, karibu katikati ya mzunguko, hupanda kwa kasi katika kile kinachoitwa ongezeko la ghafla la LH (LH surge). Ongezeko hili ni ishara inayosababisha ovari kutoa yai lake — ovulesheni — kwa kawaida takriban siku moja baadaye.\n\nOngezeko hili ni ishara fupi, iliyopangwa vizuri kwa wakati, badala ya kitu ambacho ungekihisi katika jinsi unavyojisikia. Kwa kuwa huja muda mfupi sana kabla ya yai kutolewa, wakati wa kupanda kwa LH ni kiashiria kinachotegemewa cha sehemu yenye rutuba zaidi ya mzunguko.",
+      "deep": "LH hufanya kazi pamoja na FSH, homoni inayokuza folikula mapema katika mzunguko. Wakati FSH inaongoza maandalizi, ongezeko la ghafla la LH ndilo badiliko kuu: viwango huanza kupanda takriban siku moja na nusu kabla ya yai kutolewa na hufikia kilele takriban nusu siku kabla yake. Baada ya ongezeko hili, mzunguko huingia katika nusu yake ya pili. Muda huu uliobanwa ndio sababu LH ni kiashiria chenye manufaa sana kwa yeyote anayefuatilia ovulesheni, na ndio sababu ni kitovu cha jinsi matibabu ya uzazi yanavyopangwa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Kusikiliza na kumpa msaada wa kihisia",
+      "aliases": [
+        "jinsi ya kusikiliza",
+        "msaada wa kihisia kwa mwenzi",
+        "mawasiliano",
+        "kuwa pamoja naye",
+        "kumsaidia mke wangu",
+        "kumsaidia mpenzi wangu"
+      ],
+      "glance": "Mara nyingi anahitaji kusikilizwa, si kurekebishwa — sikiliza kwanza, na uliza kabla ya kutoa ushauri.",
+      "overview": "Mtu tunayempenda anapopitia magumu, silika yetu ni kuingilia na kulitatua. Lakini mara nyingi kinachosaidia zaidi ni kuhisi kwamba anasikilizwa kwa dhati: kwamba hisia zake zina mantiki na hayuko peke yake nazo. Kukimbilia kurekebisha haraka mno kunaweza kueleweka kama \"hisia zako ni tatizo la kumalizwa\".\n\nKusikiliza vizuri ni ujuzi ambao mtu yeyote anaweza kujifunza. Kwa kiasi kikubwa ni kutoa umakini: kuweka simu chini, kumgeukia, na kumwacha amalize. Huhitaji kukubaliana na kila hoja ili kumfanya ahisi anaheshimiwa.",
+      "deep": "Njia za kivitendo za kuwa naye:\n\n- **Sikiliza ili uelewe, si ili ujibu.** Mwache azungumze bila kumkatiza wala kupanga utetezi wako.\n- **Mrudishie alichosema.** \"Hilo linaonekana kuwa na msongo mkubwa kweli\" au \"Naelewa kwa nini hilo lilikuumiza\" ni bora kuliko \"usijali tu\".\n- **Uliza kabla ya kushauri.** \"Unataka nikusaidie kulifikiria, au unataka tu nikusikilize?\"\n- **Usichukulie kibinafsi** siku ngumu isiyokuhusu wewe. Utulivu wako ni zawadi.\n- **Kubali sehemu yako.** Ikiwa ulikosea jambo, kuomba msamaha kwa dhati — bila \"lakini\" — hujenga upya imani.\n- **Tazama picha kubwa.** Ikiwa anaonekana kuwa na huzuni, wasiwasi au si yeye yule kwa muda mrefu, mhimize kwa upole kutafuta msaada na ujitolee kumsaidia kuupata. Wewe ni mwenzake katika timu, si mtaalamu wa tiba.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Awamu ya luteal",
+      "aliases": [
+        "awamu ya luteal",
+        "nusu ya pili ya mzunguko",
+        "awamu baada ya ovulesheni",
+        "luteal phase"
+      ],
+      "glance": "Awamu ya luteal ni nusu ya pili ya mzunguko, baada ya ovulesheni, wakati projesteroni inapopanda.",
+      "overview": "Awamu ya luteal ni sehemu ya mzunguko inayofuata ovulesheni na huendelea hadi hedhi yako inayofuata inapoanza. Imepewa jina kutokana na corpus luteum — muundo mdogo ambao ovari huunda kutokana na folikula tupu baada ya yai kutolewa.\n\nKatika awamu hii homoni ya projesteroni hupanda. Kazi yake ni kuuweka ukuta wa ndani wa uterasi (mfuko wa uzazi) ukiwa mnene na imara, ili yai lililorutubishwa likifika lipate mahali pa kujipandikiza. Estrojeni pia huendelea kuwa sehemu ya picha, ikifanya kazi pamoja na projesteroni.\n\nIkiwa mimba haianzi, corpus luteum huvunjika, projesteroni na estrojeni hushuka, na ukuta huo haudumishwi tena — jambo linaloleta hedhi yako inayofuata na kuanzisha mzunguko mpya. Hiki pia ndicho kipindi ambapo baadhi ya watu huona mabadiliko ya kabla ya hedhi katika hisia, usingizi au mwili.",
+      "deep": "Urefu wa awamu ya luteal huelekea kuwa thabiti kidogo kuliko nusu ya kwanza ya mzunguko, mara nyingi ukiwa takriban wiki mbili, ingawa kuna tofauti za kawaida kati ya mtu na mtu. Kwa kuwa mwisho wake unahusishwa na kushuka kwa projesteroni, kuja kwa hedhi kwa kweli ni ishara inayoonekana kuwa viwango vya homoni vimeshuka. Kufuatilia jinsi unavyojisikia katika awamu ya luteal kunaweza kukusaidia kutofautisha kile ambacho ni mpangilio unaoufahamu kwako na kile ambacho ni kipya au kinachostahili mazungumzo na mhudumu wa afya.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Kukoma hedhi",
+      "aliases": [
+        "kukoma hedhi",
+        "komahedhi",
+        "kukatika kwa hedhi",
+        "hedhi kukoma",
+        "menopause"
+      ],
+      "glance": "Kukoma hedhi ni pale hedhi zinapokoma kabisa — hatua ya asili, kwa kawaida hufikiwa kati ya takriban miaka 45 na 55.",
+      "overview": "Kukoma hedhi ni wakati ambapo hedhi zako hukoma kabisa. Kwa kuwa hedhi zinaweza kuja na kupotea kwa muda kwanza, huhesabiwa kuwa imefikiwa pale unapokaa miezi 12 mfululizo bila hedhi. Kwa kawaida hutokea kati ya takriban miaka 45 na 55, ingawa inaweza kuwa mapema au baadaye.\n\nNi sehemu ya asili ya kuzeeka, si ugonjwa. Hutokea kadiri ovari zinavyopunguza kazi yake na kiwango cha estrojeni — homoni muhimu ya mzunguko — kinaposhuka. Badiliko hilo la homoni ndilo chanzo cha mabadiliko ambayo watu wengi huyaona: joto la ghafla mwilini na kutokwa jasho usiku, mabadiliko ya hedhi katika kipindi cha kuelekea, shida ya kulala, mabadiliko ya hisia au wasiwasi, akili kuwa na ukungu (kusahau na kukosa umakini), ukavu ukeni, na maumivu ya mwili.\n\nUzoefu hutofautiana sana — baadhi ya watu hupita kwa urahisi, wengine huona ni vigumu, na dalili zinaweza kudumu miaka kadhaa. Hakuna kati ya haya kinachomaanisha kuna tatizo kwako. Msaada na machaguo yapo, na kuelewa kinachotokea ni hatua nzuri ya kwanza.",
+      "deep": "Miaka ya mabadiliko inayoelekea kukoma hedhi huitwa perimenopause (kipindi cha kukaribia kukoma hedhi); kukoma hedhi chenyewe ni wakati mmoja tu (ule wa kufikisha miezi 12 bila hedhi), na kipindi kinachofuata wakati mwingine huitwa postmenopause (baada ya kukoma hedhi). Kwa kuwa estrojeni pia huathiri mifupa na moyo kwa muda mrefu, wahudumu wa afya huyazingatia hayo pamoja na dalili za kila siku. Mbinu mbalimbali — kuanzia mtindo wa maisha hadi matibabu yasiyo ya homoni na ya homoni — zinaweza kupunguza dalili, na kinachokufaa hutegemea afya yako, historia yako na mapendeleo yako, jambo ambalo ni la kuzungumza na mhudumu wa afya.",
+      "when_to_see_doctor": "- Mwone daktari wa familia ikiwa dalili za kukoma hedhi zinakusumbua au zinaathiri maisha yako ya kila siku, na ungependa kuzungumzia machaguo yako.\n- **Daima** mwone daktari wa familia ikiwa **unatokwa na damu ukeni kwa namna yoyote baada ya miezi 12 bila hedhi** (kutokwa na damu baada ya kukoma hedhi). Mara nyingi si jambo kubwa, lakini daima inapaswa kuchunguzwa na daktari.\n- Pia inafaa kumwona daktari ikiwa unatokwa na damu zaidi badala ya kidogo kuliko awali, au hedhi zako zinabadilika kwa namna inayokutia wasiwasi.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Mzunguko wa hedhi",
+      "aliases": [
+        "mzunguko wa hedhi",
+        "mzunguko",
+        "mzunguko wa kila mwezi",
+        "siku za mwezi",
+        "menstrual cycle"
+      ],
+      "glance": "Mzunguko wa hedhi ni mdundo wa kila mwezi ambao mwili wako hufuata ili kujiandaa kwa uwezekano wa mimba.",
+      "overview": "Mzunguko wa hedhi huhesabiwa kuanzia siku ya kwanza ya hedhi yako — hiyo ni siku ya 1 — hadi siku moja kabla ya hedhi yako inayofuata kuanza. Huendeshwa na homoni zinazopanda na kushuka kwa mpangilio unaojirudia kila mwezi.\n\nMzunguko mara nyingi huwa takriban siku 28, lakini huo ni wastani tu. Popote kati ya takriban siku 21 hadi 35 ni kawaida, na urefu wa mzunguko wako mwenyewe unaweza kutofautiana kidogo kutoka mwezi hadi mwezi. Kujifunza mpangilio wako mwenyewe kuna manufaa zaidi kuliko kuulinganisha na namba.\n\nKatika mzunguko mwili wako hupitia hatua chache: hedhi yako, maandalizi ya kutoa yai, kutolewa kwa yai lenyewe (ovulesheni), na kipindi kinachofuata. Kila hatua huundwa na homoni, hasa estrojeni na projesteroni.",
+      "deep": "Mzunguko mzima ni mazungumzo kati ya ubongo na ovari, yanayobebwa na homoni. Katika nusu ya kwanza, estrojeni hupanda kadiri folikula yenye yai inavyokomaa kwenye ovari na ukuta wa ndani wa uterasi (mfuko wa uzazi) unavyozidi kuwa mnene. Karibu katikati ya mzunguko yai hutolewa. Katika nusu ya pili, projesteroni husaidia kuuweka ukuta huo tayari iwapo yai lililorutubishwa litafika.\n\nIkiwa hakuna mimba, estrojeni na projesteroni hushuka hadi viwango vya chini, ukuta hutoka kama hedhi yako, na mpangilio huanza upya. Kwa kuwa homoni hizi hugusa mifumo mingi ya mwili, unaweza kuona mabadiliko madogo ya siku hadi siku katika mwezi — huu ni mdundo wa kawaida wa mzunguko, si kitu cha \"kurekebisha.\"",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Awamu ya hedhi (siku zako za mwezi)",
+      "aliases": [
+        "hedhi",
+        "siku za mwezi",
+        "kuwa kwenye siku zangu",
+        "awamu ya hedhi",
+        "damu ya hedhi",
+        "period"
+      ],
+      "glance": "Hedhi yako ni siku chache za kutokwa na damu zinazoanza kila mzunguko, ukuta wa ndani wa mfuko wa uzazi unapotoka.",
+      "overview": "Awamu ya hedhi ni hedhi yako — siku unazotokwa na damu. Huanza siku ya 1 ya mzunguko, pale viwango vya estrojeni na projesteroni vimeshuka kiasi kwamba ukuta uliojengeka ndani ya uterasi (mfuko wa uzazi) haudumishwi tena na hutoka, ukiondoka mwilini kupitia ukeni.\n\nHedhi kwa kawaida hudumu takriban siku 2 hadi 7, na takriban siku 5 zikiwa ndizo za kawaida. Damu mara nyingi huwa nyingi zaidi katika siku mbili hivi za kwanza na hupungua baada ya hapo. Hedhi kwa kawaida huanza karibu na umri wa miaka 12, ingawa kuanza mapema au baadaye pia ni kawaida.\n\nKile kilicho \"kawaida\" hutofautiana sana kati ya mtu na mtu. Kufuatilia hedhi zako mwenyewe hukusaidia kutambua kilicho cha kawaida kwako, jambo lenye maana zaidi kuliko wastani wowote.",
+      "deep": "Damu ya hedhi ni ukuta wa ndani wa uterasi (endometriamu) ukitoka baada ya mzunguko ambao mimba haikuanza. Huashiria mwisho wa mzunguko mmoja na mwanzo wa unaofuata, ndiyo sababu siku ya 1 ya hedhi yako huhesabiwa kuwa siku ya 1 ya mzunguko mzima. Hedhi yako inapoisha, estrojeni huanza kupanda tena na mwili huanza kujenga upya ukuta huo kwa ajili ya mzunguko unaofuata.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Kuharibika kwa mimba",
+      "aliases": [
+        "kuharibika kwa mimba",
+        "mimba kutoka",
+        "kupoteza mimba",
+        "mimba kuharibika mapema",
+        "miscarriage"
+      ],
+      "glance": "Kuharibika kwa mimba ni kupoteza mimba kabla ya wiki 24 — ni jambo la kawaida, na karibu kamwe si jambo ulilosababisha.",
+      "overview": "Kuharibika kwa mimba ni kupoteza mimba katika wiki 24 za kwanza. Ni jambo la kawaida kuliko watu wengi wanavyodhani, na mojawapo ya mambo muhimu zaidi ya kujua ni kwamba karibu kamwe halisababishwi na chochote ulichofanya au usichofanya — kwa kawaida hutokea kwa sababu ya tatizo katika jinsi mimba ilivyokuwa ikikua, jambo lililokuwa nje ya uwezo wa mtu yeyote.\n\nDalili za kawaida zaidi ni kutokwa na damu ukeni, na mikakamao au maumivu chini ya tumbo. Kutokwa na damu mwanzoni mwa ujauzito si mara zote humaanisha mimba inaharibika — watu wengi hutokwa na damu kidogo na kuendelea kuwa na ujauzito wenye afya — lakini daima inapaswa kuchunguzwa na mhudumu wa afya.\n\nKwa njia yoyote ile mimba inavyopotea, hisia zinazoambatana nayo ni za kweli na halali, na huzuni ni mwitikio wa kawaida. Huhitaji kupitia hili peke yako — msaada upo, kutoka kwa mkunga wako au daktari wa familia na kutoka kwa mashirika maalum ya msaada kwa waliopoteza mimba.",
+      "deep": null,
+      "when_to_see_doctor": "- Wasiliana na daktari wako wa familia, mkunga, au kitengo cha mimba za mwanzo (au daktari wa zamu wa nje ya saa za kazi) ikiwa una **kutokwa na damu ukeni au matone ya damu wakati wa ujauzito**, hata kama ni kidogo na kuna maumivu kidogo au hakuna kabisa — ili kuchunguzwa.\n- Uliza kuhusu **kitengo cha mimba za mwanzo** kilicho karibu nawe, ambacho kimeanzishwa hasa kwa ajili ya hili.",
+      "red_flags": "- Piga **{{emergency}} au nenda idara ya dharura hospitalini** ikiwa, ukiwa na mimba, una **maumivu makali ya tumbo, maumivu kwenye ncha ya bega, kutokwa na damu nyingi, au unahisi kama unataka kuzimia au unajisikia vibaya sana**. Hizi zinaweza kuwa ishara za tatizo kubwa kama mimba nje ya kizazi linalohitaji huduma ya haraka."
+    },
+    "morning-sickness": {
+      "title": "Kichefuchefu cha ujauzito",
+      "aliases": [
+        "kichefuchefu cha ujauzito",
+        "kutapika ujauzitoni",
+        "kichefuchefu asubuhi",
+        "kutapika sana ujauzitoni",
+        "hyperemesis",
+        "morning sickness"
+      ],
+      "glance": "Kuhisi kichefuchefu au kutapika ni jambo la kawaida sana mwanzoni mwa ujauzito, na kwa kawaida hupungua karibu na wiki 16 hadi 20.",
+      "overview": "Kuhisi kichefuchefu, au kutapika, ni jambo la kawaida sana mwanzoni mwa ujauzito. Licha ya jina \"morning sickness\" (kichefuchefu cha asubuhi), kinaweza kutokea wakati wowote wa mchana au usiku. Kwa watu wengi huanza katika wiki chache za kwanza na hutulia karibu na wiki 16 hadi 20.\n\nNi hali isiyopendeza, na kwa baadhi huathiri kweli maisha ya kila siku — lakini kichefuchefu cha kawaida cha ujauzito hakimwongezei mtoto wako hatari yoyote. Kula kiasi kidogo mara kwa mara, na kutafuta kinachokusaidia wewe, kunaweza kukifanya kivumilike zaidi; mkunga, daktari wa familia au mfamasia anaweza kupendekeza machaguo salama ikiwa unatatizika.\n\nKwa idadi ndogo ya watu kichefuchefu na kutapika huwa vikali (hali hii huitwa hyperemesis gravidarum), na kuna hatari halisi ya kupungukiwa na maji mwilini. Aina hiyo inahitaji msaada wa kitabibu — tazama dalili hapa chini.",
+      "deep": null,
+      "when_to_see_doctor": "Wasiliana na mkunga wako, daktari wa familia, au daktari wa zamu wa nje ya saa za kazi ikiwa:\n\n- kwa saa 24 unatapika kila chakula au kinywaji — hakuna kinachobaki tumboni\n- mkojo wako una rangi iliyokolea sana (njano nzito au kahawia), au hujakojoa kwa zaidi ya saa 8\n- unajisikia dhaifu sana, una kizunguzungu, au unahisi kama unataka kuzimia unaposimama\n- una maumivu ya tumbo, homa, au unatapika damu\n- unapungua uzito",
+      "red_flags": "- Kushindwa kubakiza vinywaji tumboni (kutapika kila unachokunywa), pamoja na mkojo wenye rangi iliyokolea sana au kutokojoa kabisa, kunaweza kumaanisha unapungukiwa na maji mwilini (kichefuchefu na kutapika vikali vya ujauzito) — **wasiliana na mkunga wako, daktari wa familia au daktari wa zamu wa nje ya saa za kazi siku hiyohiyo**, kwa kuwa huenda ukahitaji matibabu ili kuzuia hali isizidi kuwa mbaya."
+    },
+    "ovulation": {
+      "title": "Ovulesheni",
+      "aliases": [
+        "ovulesheni",
+        "kupevuka kwa yai",
+        "kutoa yai",
+        "yai kutolewa",
+        "siku za rutuba",
+        "ovulation"
+      ],
+      "glance": "Ovulesheni ni pale ovari inapotoa yai — kipindi chenye rutuba zaidi katika mzunguko wako.",
+      "overview": "Ovulesheni ni wakati ovari inapotoa yai lililokomaa. Ndiyo sehemu ya mgeuko ya mzunguko: nusu ya kwanza hujiandaa kuelekea kwake, na nusu ya pili huifuata.\n\nKatika mzunguko wa takriban siku 28, ovulesheni mara nyingi hutokea karibu na siku ya 14 — lakini wakati wake hutofautiana. Njia yenye msaada ya kuifikiria ni kwamba ovulesheni kwa kawaida hutokea mahali fulani kati ya siku 10 hadi 16 kabla ya hedhi yako inayofuata kuanza. Inaweza kuwa vigumu kubaini siku halisi.\n\nYai likishatolewa, linaweza kurutubishwa kwa takriban saa 12 hadi 24 tu. Hata hivyo, mbegu za kiume zinaweza kuishi mwilini kwa siku kadhaa, kwa hiyo \"siku za rutuba\" ni zaidi ya siku moja — takriban siku chache zinazotangulia ovulesheni na siku yenyewe.",
+      "deep": "Kutolewa kwa yai huchochewa na kupanda kwa ghafla na kwa muda mfupi kwa homoni karibu katikati ya mzunguko, kufuatia kuongezeka kwa estrojeni katika awamu ya folikula. Kwa kuwa mbegu za kiume zinaweza kuishi kwa siku kadhaa ilhali yai huishi chini ya siku moja, uwezekano mkubwa zaidi wa mimba ni kutokana na kujamiiana katika siku zinazotangulia moja kwa moja ovulesheni. Ovulesheni inaweza kubadilika kutoka mzunguko mmoja hadi mwingine kutokana na mambo kama msongo wa mawazo au ugonjwa, ndiyo sababu kuitabiri kwa usahihi ni vigumu na ndiyo sababu kufuatilia mizunguko kadhaa kunategemewa zaidi kuliko hesabu yoyote moja.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Maumivu wakati wa kujamiiana",
+      "aliases": [
+        "maumivu wakati wa kujamiiana",
+        "maumivu wakati wa tendo la ndoa",
+        "kuumia wakati wa ngono",
+        "uke kubana",
+        "dyspareunia",
+        "vaginismus"
+      ],
+      "glance": "Maumivu wakati wa kujamiiana ni ya kawaida, yana sababu nyingi zinazowezekana, na daima yanastahili kuchunguzwa na daktari — msaada upo.",
+      "overview": "Maumivu wakati wa kujamiiana — wakati mwingine huitwa dyspareunia — ni ya kawaida kuliko watu wengi wanavyodhani, na kamwe si jambo la kukubali tu. Yanaweza kuwa na sababu nyingi, na kupata sababu sahihi ndio ufunguo wa kuyapunguza.\n\nBaadhi ya sababu ni za kimwili. Ukavu ukeni ni mojawapo ya zile za mara kwa mara, mara nyingi huhusishwa na homoni wakati wa kukoma hedhi au na kutosisimka vya kutosha, na unaweza kufanya kujamiiana kuhisi kuchubua au kukosa raha. Maambukizi, kama maambukizi ya fangasi ukeni, yanaweza pia kusababisha maumivu. Sababu nyingine ni vaginismus — pale misuli inayozunguka uke inapojikaza yenyewe wakati wa kujaribu kuingiza, jambo linaloweza kufanya kujamiiana kuwe na maumivu au kuhisi kama haiwezekani. Hali hii haitokani na mapenzi yako, \"si mawazo tu,\" na inatibika.\n\nKwa kuwa chanzo kinaweza kuwa cha kimwili, cha homoni, au kuhusiana na jinsi unavyojisikia umetulia au umesisimka — na mara nyingi mchanganyiko — hatua yenye msaada ni kuchunguzwa na mhudumu wa afya badala ya kubahatisha au kuvumilia tu.",
+      "deep": null,
+      "when_to_see_doctor": "- Mwone daktari wa familia au nenda kliniki ya afya ya uzazi na ngono ikiwa kujamiiana kunauma — vyovyote vile chanzo, inafaa daktari akuchunguze, na kuna msaada unaofanya kazi kwa sababu za kawaida.\n- Inaweza kuhisi aibu kulizungumzia, lakini wahudumu wa afya hushughulikia jambo hili mara nyingi na wapo kukusaidia, si kukuhukumu. Unaweza kuomba daktari mwanamke, kuja na mtu, na kuzungumzia kile ambacho kingefanya uchunguzi uwe wa kustarehesha.\n- Hakikisha kutokwa na damu kokote baada ya kujamiiana kunachunguzwa na daktari, na mwone mhudumu wa afya mapema zaidi, bila kuchelewa, ikiwa maumivu ni makali au pia unajisikia vibaya.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Kupunguza maumivu wakati wa uchungu wa kujifungua",
+      "aliases": [
+        "kupunguza maumivu ya uchungu",
+        "dawa za maumivu wakati wa kujifungua",
+        "epidural",
+        "gesi na hewa",
+        "Entonox",
+        "bwawa la kujifungulia",
+        "TENS"
+      ],
+      "glance": "Kuna njia kadhaa za kupunguza maumivu ya uchungu wa kujifungua — hakuna chaguo sahihi au kosa, na unaweza kubadilisha mawazo.",
+      "overview": "Uchungu wa kujifungua ni tofauti kwa kila mtu, na kuna njia kadhaa za kukabiliana na maumivu — kuanzia hatua rahisi za kujistarehesha hadi machaguo ya kitabibu. Kujua kinachopatikana mapema kunaweza kukusaidia kujihisi umejiandaa zaidi.\n\nMachaguo yanaanzia **kuendelea kutembea na kukaa wima**, kupumua na kujilegeza, kukandwa, na kuwa **ndani ya maji** (bafu au bwawa la kujifungulia), hadi **mashine ya TENS**, **gesi na hewa** (Entonox, unayoivuta mwenyewe), **sindano** kama pethidine, na **epidural** (inayotolewa na daktari wa usingizi, ambayo huondoa maumivu ya uchungu kwa kiwango kikubwa zaidi).\n\nHakuna chaguo \"bora zaidi\" — inategemea wewe, uchungu wako, na jinsi unavyojisikia siku hiyo. Inafaa kuandika mapendeleo yako katika **mpango wa kujifungua**, huku ukiwa tayari kubadilika: watu wengi hugundua kuwa wanataka dawa za maumivu zaidi, au kidogo, kuliko walivyotarajia, na hilo ni sawa kabisa.",
+      "deep": null,
+      "when_to_see_doctor": "- **Mkunga** wako (na, kwa epidural, daktari wa usingizi) atakueleza machaguo na kukusaidia kuamua kinachokufaa — wakati wa ujauzito na tena wakati wa uchungu wenyewe. Hakuna haja ya kuamua kila kitu mapema.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (ugonjwa wa vifuko vingi kwenye ovari)",
+      "aliases": [
+        "pcos",
+        "vifuko vingi kwenye ovari",
+        "ovari zenye vifuko vingi",
+        "uvimbe mdogo kwenye mayai",
+        "polycystic ovary syndrome",
+        "dalili za PCOS"
+      ],
+      "glance": "PCOS ni hali ya kawaida ya homoni inayoweza kuathiri hedhi, ovulesheni, ngozi na nywele.",
+      "overview": "PCOS — ugonjwa wa vifuko vingi kwenye ovari (polycystic ovary syndrome) — ni hali ya kawaida inayohusiana na uwiano wa homoni za uzazi. Makadirio yanaonyesha kuwa huwaathiri takriban mwanamke 1 kati ya 10 walio katika umri wa kuzaa, na watu wengi walio nayo hawajawahi kutambuliwa.\n\nInaweza kujitokeza kwa njia tofauti, na hakuna watu wawili wanaofanana kabisa. Sifa za kawaida ni pamoja na hedhi zisizo na mpangilio, zinazokuja mara chache, au zisizokuja kabisa; viwango vya juu vya homoni zinazoitwa androjeni, vinavyoweza kusababisha nywele za ziada kuota usoni au mwilini, chunusi, au nywele kupungua kichwani; na ovari zisizotoa yai kwa mpangilio kama kawaida, jambo linaloweza kufanya iwe vigumu zaidi kupata mimba. Mabadiliko ya uzito na mabaka ya ngozi nyeusi zaidi pia ni ya kawaida.\n\nChanzo halisi hakieleweki kikamilifu, na hakuna tiba ya kuiponya kabisa — lakini dalili zinaweza kudhibitiwa, na kuelewa kinachotokea ni hatua ya kwanza. PCOS ni ya kawaida na inadhibitika, si jambo la kuona aibu.",
+      "deep": "Kwa kuwa PCOS inahusisha homoni za mwili na jinsi mwili unavyoshughulikia insulini, pia inahusishwa kwa muda mrefu na usugu wa insulini na uwezekano mkubwa zaidi wa kisukari aina ya 2, shinikizo la damu la juu, na mabadiliko ya lehemu (cholesterol) — ndiyo sababu wahudumu wa afya huelekea kufuatilia mambo haya kwa muda. Takriban nusu ya watu wenye PCOS wanaweza kupata kisukari au hali ya kabla ya kisukari kufikia umri wa miaka arobaini na kitu, kwa hiyo uchunguzi wa mara kwa mara ni muhimu. Utambuzi si jambo la kujitathmini mwenyewe: mhudumu wa afya huangalia picha nzima — historia yako na hedhi zako, wakati mwingine vipimo vya damu vya homoni, na wakati mwingine ultrasound ya ovari — na huondoa sababu nyingine kabla ya kufikia PCOS.",
+      "when_to_see_doctor": "Inafaa kumwona daktari wa familia ukiona mambo yanayoendana na picha iliyo hapo juu, hasa ikiwa yanaathiri jinsi unavyojisikia siku hadi siku:\n\n- hedhi zisizo na mpangilio, zinazokuja mara chache sana, au zilizokoma\n- nywele nyingi zaidi kwa kiasi kinachoonekana usoni au mwilini, chunusi zisizoisha, au nywele kupungua kichwani\n- ugumu wa kupata mimba baada ya kujaribu kwa muda\n- kuongezeka uzito kunakokuwa vigumu kupunguza, pamoja na dalili nyingine\n\nDaktari wa familia anaweza kuchunguza kinachoendelea, kuthibitisha kama ni PCOS au kitu kingine, na kuzungumzia mpango unaokufaa. PCOS pia inahusishwa na hali ya huzuni na wasiwasi — ikiwa unatatizika na jinsi unavyojisikia, mweleze daktari wako wa familia pia; hilo ni sehemu ya picha nzima na msaada upo.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Kipindi cha kukaribia kukoma hedhi",
+      "aliases": [
+        "perimenopause",
+        "kukaribia kukoma hedhi",
+        "kipindi cha mpito cha kukoma hedhi",
+        "kuelekea kukoma hedhi",
+        "the change"
+      ],
+      "glance": "Kipindi cha kukaribia kukoma hedhi ni mpito unaoelekea kukoma hedhi, wakati hedhi na homoni zinapoanza kubadilika.",
+      "overview": "Kipindi cha kukaribia kukoma hedhi (perimenopause) ni muda unaoelekea kukoma hedhi — miaka ya \"karibu na kukoma hedhi\". Huanza pale unapoona mabadiliko kwa mara ya kwanza na huendelea hadi mwaka mzima baada ya hedhi yako ya mwisho, wakati ambapo utakuwa umefikia kukoma hedhi. Kinaweza kudumu miaka kadhaa.\n\nKatika kipindi hiki ovari hupunguza taratibu kutengeneza estrojeni, na viwango hupanda na kushuka kwa namna isiyotabirika kuliko awali. Ishara ya mapema ya kawaida zaidi ni kwamba hedhi hubadilika — zikikaribiana zaidi au kuachana zaidi, nyepesi au nzito zaidi. Dalili nyingi zinazohusishwa na kukoma hedhi, kama joto la ghafla mwilini, mabadiliko ya usingizi, au mabadiliko ya hisia, zinaweza kuanza hapa wakati bado unapata hedhi.\n\nKwa kuwa hutokea taratibu na hutofautiana sana, kipindi hiki kinaweza kuchanganya — mabadiliko hayaji yote kwa wakati mmoja wala kwa mpangilio uleule kwa kila mtu. Kujua kuwa awamu hii ina jina, na kwamba ni mpito wa kawaida, kunaweza kurahisisha kuielewa.",
+      "deep": null,
+      "when_to_see_doctor": "- Mwone daktari wa familia ikiwa dalili za kipindi cha kukaribia kukoma hedhi zinaathiri maisha yako ya kila siku na ungependa kuzungumzia kinachoweza kusaidia.\n- Inafaa daktari akuchunguze ikiwa hedhi zako zinakuwa nzito sana, au ikiwa unatokwa na damu kati ya hedhi au baada ya kujamiiana, ili chanzo kipatikane.\n- Kumbuka kuwa mimba bado inaweza kutokea katika kipindi hiki, kwa hiyo inafaa kuzungumzia uzazi wa mpango na mhudumu wa afya ikiwa hilo linakuhusu.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Maumivu ya hedhi",
+      "aliases": [
+        "maumivu ya hedhi",
+        "tumbo kuuma wakati wa hedhi",
+        "mikakamao ya hedhi",
+        "maumivu ya tumbo la chini",
+        "dysmenorrhea",
+        "period pain"
+      ],
+      "glance": "Maumivu ya hedhi ni mikakamao katika tumbo la chini karibu na wakati wa hedhi — ni ya kawaida, na mara nyingi ni sehemu ya kawaida ya mzunguko.",
+      "overview": "Maumivu ya hedhi ni hisia ya mikakamao na kuuma katika tumbo la chini ambayo watu wengi huipata karibu na wakati wa hedhi zao. Hutokea pale ukuta wa misuli wa mfuko wa uzazi unapojikaza, na mara nyingi ni sehemu ya kawaida ya mzunguko wa hedhi. Jina lake la kitabibu ni dysmenorrhea.\n\nKwa kawaida huanza mwanzoni mwa hedhi yako, au kabla kidogo, na huelekea kudumu hadi takriban siku tatu. Kwa baadhi ni uzito mdogo; kwa wengine mikakamao ni mikali zaidi. Maumivu yanaweza pia kubadilika katika maisha yako na kutoka mzunguko mmoja hadi mwingine.\n\nMaumivu ya hedhi yanayofuata mpangilio huu unaofahamika ni ya kawaida na kwa kawaida yanaweza kudhibitiwa. Hatua za kila siku za kujistarehesha na dawa rahisi za maumivu ndizo watu wengi hutumia, na mfamasia au daktari wa familia anaweza kukushauri kinachoweza kukufaa. Kilicho muhimu ni kujua mpangilio wako wa kawaida — ili uweze kugundua ikiwa kuna kitu kinabadilika.",
+      "deep": null,
+      "when_to_see_doctor": "Inafaa kuzungumza na daktari wa familia ikiwa:\n\n- hedhi zako zinakuwa na maumivu zaidi, nzito zaidi, au zisizo na mpangilio zaidi kuliko kawaida\n- maumivu yanakuzuia kufanya mambo ya kila siku kama kazi au shule\n- dawa za kawaida za maumivu hazisaidii\n- una maumivu wakati wa kujamiiana, au wakati wa kukojoa au kujisaidia haja kubwa\n- unatokwa na damu kati ya hedhi\n- maumivu yako yanakuja nyakati nyingine zaidi ya kabla tu au wakati wa hedhi yako\n- unatoa mabonge ya damu makubwa kuliko sarafu (takriban ukubwa wa sarafu kubwa)\n- pia unaona tumbo kuvimba, hamu ya kula kupungua, au kupungua uzito bila sababu unayoweza kueleza\n\nHaya hayamaanishi kuna tatizo, lakini yanastahili kuchunguzwa na daktari — maumivu ya hedhi yaliyo mapya, tofauti, au magumu kudhibiti yanaweza kuwa na sababu ambazo mhudumu wa afya anaweza kusaidia.",
+      "red_flags": "- Omba miadi ya **haraka** na daktari wa familia, au wasiliana na **daktari wa zamu wa nje ya saa za kazi**, ikiwa maumivu yako ya hedhi au ya nyonga ni **makali, au mabaya kuliko kawaida, na dawa za maumivu hazijasaidia.**"
+    },
+    "planning-pregnancy": {
+      "title": "Kupanga ujauzito",
+      "aliases": [
+        "kupanga ujauzito",
+        "kujiandaa kupata mimba",
+        "kujaribu kupata mimba",
+        "kabla ya ujauzito",
+        "kutafuta mtoto",
+        "preconception"
+      ],
+      "glance": "Hatua chache rahisi kabla ya kujaribu — asidi ya foliki, kuacha kuvuta sigara na pombe — huipa mimba mwanzo bora zaidi.",
+      "overview": "Ikiwa unafikiria kujaribu kupata mtoto, hatua chache kabla ya hapo zinaweza kuipa mimba mwanzo wenye afya zaidi — nyingi zikifanya kazi hata kabla hujashika mimba.\n\nHatua kuu: anza kumeza **asidi ya foliki** (na vitamini D), **acha kuvuta sigara**, na **epuka pombe**. Kulenga uzito wenye afya pia husaidia, kwa kuwa kuwa na uzito mdogo sana au mkubwa sana kunaweza kufanya iwe vigumu zaidi kushika mimba. Pia inafaa kuhakikisha **chanjo yako ya MMR** (surua, matumbwitumbwi na rubela) iko sawa, kwa kuwa baadhi ya maambukizi yanaweza kuathiri ujauzito.\n\nHakuna kati ya haya kinachohitaji kuwa kamilifu au cha kukuletea msongo. Mabadiliko madogo, ya upole, mapema ndiyo muhimu — na kuanza mapema kidogo ni mojawapo ya mambo mazuri zaidi unayoweza kufanya kwa ajili ya ujauzito wa baadaye.",
+      "deep": null,
+      "when_to_see_doctor": "- Ikiwa una **tatizo la kiafya la muda mrefu** au unatumia **dawa za kila mara**, mwone daktari wako wa familia kabla ya kuanza kujaribu — baadhi ya hali na dawa zinahitaji kupangwa mapema. **Usiache dawa yoyote uliyoandikiwa** bila kuzungumza na daktari wako kwanza.\n- Daktari wa familia anaweza pia kukushauri kuhusu asidi ya foliki (ikiwemo kama unahitaji kiwango cha juu zaidi) na kufikia uzito wenye afya kabla ya ujauzito.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Sonona baada ya kujifungua",
+      "aliases": [
+        "sonona baada ya kujifungua",
+        "msongo wa mawazo baada ya kujifungua",
+        "huzuni baada ya kujifungua",
+        "unyogovu baada ya kuzaa",
+        "baby blues",
+        "PND"
+      ],
+      "glance": "Sonona baada ya kujifungua ni hali ya kawaida ya huzuni inayotibika baada ya kuzaa — si kosa lako, na msaada upo.",
+      "overview": "Kujisikia huzuni, wasiwasi, au kukasirika haraka katika wiki mbili hivi za kwanza baada ya kujifungua ni jambo la kawaida sana — hali hii mara nyingi huitwa \"baby blues,\" na kwa kawaida hupita yenyewe ndani ya takriban wiki mbili.\n\nSonona baada ya kujifungua ni tofauti: ni huzuni iliyo nzito zaidi au inayodumu muda mrefu zaidi. Ni hali ya kawaida, inaweza kuanza wakati wowote katika mwaka wa kwanza, na inaweza kuwaathiri akina baba na wenzi pia. Ishara ni pamoja na huzuni isiyoisha, kushindwa kufurahia chochote, shida ya kulala hata mtoto wako anapolala, na wakati mwingine hisia ngumu kuhusu kujenga uhusiano wa karibu na mtoto wako.\n\nKuwa nayo **hakumaanishi** kuwa wewe ni mzazi mbaya au kwamba humpendi mtoto wako — ni ugonjwa, si kushindwa, na hujibu vizuri kwa msaada na matibabu. Kuomba msaada mapema ni jambo la ujasiri na la kujali, kwako na kwa mtoto wako.",
+      "deep": null,
+      "when_to_see_doctor": "- Zungumza na **daktari wa familia, mkunga, au muuguzi wa afya ya mama na mtoto** ikiwa unadhani huenda una sonona baada ya kujifungua, au ikiwa \"baby blues\" haijaondoka baada ya wiki mbili. Wameshaiona mara nyingi na wanaweza kukusaidia kupata msaada unaofaa.",
+      "red_flags": "- Ikiwa una **mawazo ya kujidhuru au kumdhuru mtoto wako**, au kwamba familia yako ingekuwa bora bila wewe, pata msaada **mara moja**: piga **{{emergency}}** au nenda idara ya dharura hospitalini, au piga simu ya msaada wa dharura wa afya ya akili. Mawazo haya yanaweza kuwa sehemu ya ugonjwa, si wewe halisi, na msaada wa haraka unapatikana."
+    },
+    "pre-eclampsia": {
+      "title": "Kifafa cha mimba (pre-eclampsia)",
+      "aliases": [
+        "kifafa cha mimba",
+        "pre-eclampsia",
+        "preeclampsia",
+        "shinikizo la damu ujauzitoni",
+        "presha ya mimba",
+        "presha juu ujauzitoni"
+      ],
+      "glance": "Kifafa cha mimba (pre-eclampsia) ni shinikizo la damu lililopanda wakati wa ujauzito — mara nyingi hakina dalili mwanzoni, ndiyo sababu vipimo vya kliniki ya ujauzito ni muhimu.",
+      "overview": "Kifafa cha mimba (pre-eclampsia) ni hali ya ujauzito inayojitokeza hasa kama shinikizo la damu la juu, pamoja na protini kwenye mkojo. Kwa kawaida hujitokeza kuanzia takriban wiki 20, na wakati mwingine baada ya kujifungua.\n\nMojawapo ya mambo muhimu zaidi ya kujua ni kwamba mwanzoni mara nyingi **hakisababishi dalili zozote kabisa** — unaweza kujisikia mzima kabisa. Ndiyo sababu hasa mkunga wako hupima shinikizo lako la damu na mkojo wako katika kila miadi ya kawaida ya kliniki ya ujauzito: vipimo hivyo ndivyo kwa kawaida hukigundua kabla hujaona chochote.\n\nDalili zinapojitokeza, ni muhimu kuzijua, kwa sababu kifafa cha mimba kinaweza kuwa hatari kwako na kwa mtoto wako. Kinaweza kutibiwa vizuri kikigunduliwa mapema, na kuhudhuria miadi yako ya kliniki ya ujauzito ndiyo njia bora kabisa ya kukigundua mapema.",
+      "deep": null,
+      "when_to_see_doctor": "- Hudhuria **miadi yote ya kawaida ya kliniki ya ujauzito** — vipimo vya shinikizo la damu na mkojo ndivyo kwa kawaida hugundua kifafa cha mimba kabla dalili hazijaanza.",
+      "red_flags": "Pata msaada wa kitabibu **mara moja** — wasiliana na wodi ya wazazi au **daktari wa zamu wa nje ya saa za kazi** — ikiwa una mojawapo ya haya (piga **{{emergency}}** ikiwa unajisikia vibaya sana, kwa mfano ukipata degedege/kifafa):\n\n- **maumivu makali ya kichwa** yasiyopungua kwa dawa za kawaida za maumivu\n- **matatizo ya kuona** — kuona ukungu au mwanga unaomulika\n- **kuvimba ghafla** kwa uso, mikono, au miguu\n- **maumivu chini kidogo ya mbavu**\n- **kutapika**, au kujisikia vibaya sana ghafla"
+    },
+    "pregnancy": {
+      "title": "Ujauzito",
+      "aliases": [
+        "ujauzito",
+        "mimba",
+        "kuwa mjamzito",
+        "trimesta",
+        "tarehe ya kujifungua",
+        "nina mimba ya wiki ngapi",
+        "pregnancy"
+      ],
+      "glance": "Ujauzito kwa kawaida hudumu takriban wiki 40, zinazohesabiwa kuanzia siku ya kwanza ya hedhi yako ya mwisho.",
+      "overview": "Ujauzito ni kipindi ambacho mwili wako hukuza na kubeba mtoto. Kwa kawaida hudumu takriban wiki 40 — popote kati ya wiki 37 hadi 42 huchukuliwa kuwa ni muda kamili na wa kawaida — na, huenda kwa kushangaza, huhesabiwa kuanzia siku ya kwanza ya **hedhi yako ya mwisho**, si kuanzia wakati wa kushika mimba. Hiyo ni njia ya kawaida tu ya kukokotoa tarehe.\n\n**Tarehe yako ya kujifungua** ni makadirio, si tarehe ya mwisho: watoto huzaliwa mapema kidogo au baadaye kidogo bila tatizo. Mwanzoni mwa ujauzito \"ultrasound ya kukadiria umri wa mimba\" (kwa kawaida karibu na wiki 12) inaweza kumpima mtoto wako na kutoa tarehe sahihi zaidi, ambayo wakati mwingine hubadilisha makadirio ya awali.\n\nUjauzito mara nyingi huzungumziwa katika hatua tatu, au **trimesta**, kila moja ikiwa na mabadiliko yake. Katika kipindi chote, unahudumiwa kwa uchunguzi wa mara kwa mara wa kliniki ya ujauzito na mkunga (na daktari ikihitajika) — huduma inayosaidia wewe na mtoto wako kuwa na afya njema.",
+      "deep": "Kwa kuwa tarehe huhesabiwa kuanzia hedhi ya mwisho, huchukuliwa kuwa na mimba ya takriban wiki nne kufikia wakati hedhi inakosekana. Hesabu ya wiki za ujauzito ndiyo jinsi huduma inavyopangwa — ultrasound, vipimo vya uchunguzi, na uchunguzi wa kawaida vyote hutolewa katika wiki maalum. Ikiwa hedhi zako hazina mpangilio au huna uhakika wa tarehe, ultrasound ya kukadiria umri wa mimba ndiyo huweka ratiba. Makala hii ni ramani ya safari nzima; mada mahususi — dalili za ujauzito, huduma za kliniki ya ujauzito, kuwa na afya njema, na uchungu wa kujifungua — kila moja ina makala yake.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Kipimo cha mimba",
+      "aliases": [
+        "kipimo cha mimba",
+        "kupima mimba nyumbani",
+        "kipimo cha hCG",
+        "kupima ujauzito",
+        "UPT",
+        "pregnancy test"
+      ],
+      "glance": "Kipimo cha mimba cha nyumbani hupima mkojo wako kutafuta homoni ya ujauzito hCG — kinategemewa zaidi kuanzia siku ya kwanza hedhi inapokosekana.",
+      "overview": "Kipimo cha mimba cha nyumbani hufanya kazi kwa kugundua homoni inayoitwa hCG (human chorionic gonadotrophin) kwenye mkojo wako. Mwili wako huanza kuitengeneza siku chache baada ya yai lililorutubishwa kujipandikiza, na kiasi chake huongezeka haraka mwanzoni mwa ujauzito.\n\nKipimo kinategemewa zaidi kuanzia **siku ya kwanza hedhi inapokosekana** — takriban wiki mbili baada ya kushika mimba. Ikiwa mzunguko wako hauna mpangilio au huna uhakika hedhi yako inatarajiwa lini, kusubiri hadi angalau siku 21 baada ya kujamiiana bila kinga hutoa matokeo yanayotegemewa zaidi. Huhitaji kupima asubuhi na mapema; wakati wowote wa siku ni sawa.\n\nMatokeo **chanya** karibu kwa hakika ni sahihi — vipimo vichache sana huonyesha chanya wakati huna mimba. Matokeo **hasi** hayana uhakika sana: ikiwa hedhi yako bado haiji na unadhani huenda una mimba, subiri siku chache kisha upime tena.",
+      "deep": null,
+      "when_to_see_doctor": "- Ukipata matokeo chanya, wasiliana na **mkunga au daktari wa familia** ili kuanza huduma za kliniki ya ujauzito.\n- Ikiwa vipimo ni hasi lakini hedhi yako haijaja na unahisi una mimba (au unajisikia vibaya), mwone daktari wa familia ili kujua kinachoendelea.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Uchungu wa kujifungua kabla ya wakati",
+      "aliases": [
+        "uchungu kabla ya wakati",
+        "kujifungua kabla ya wakati",
+        "mtoto njiti",
+        "kuzaa mapema",
+        "chupa kupasuka mapema",
+        "preterm labour"
+      ],
+      "glance": "Uchungu wa kujifungua kabla ya wakati ni uchungu unaoanza kabla ya wiki 37 — chukua hatua haraka, kwa kuwa huduma ya mapema huleta tofauti kubwa.",
+      "overview": "Uchungu wa kujifungua kabla ya wakati ni uchungu unaoanza kabla ya wiki ya 37 ya ujauzito. Hutokea katika takriban vizazi 8 kati ya 100.\n\nWatoto wanaozaliwa mapema wako katika hatari zaidi, lakini wengi huendelea vizuri — hasa kwa huduma maalum zinazotolewa na vitengo vya watoto wachanga (neonatal). Jambo la msingi ni kuchukua hatua haraka ikiwa unadhani huenda unaanza, ili uweze kuchunguzwa na, ikihitajika, kupewa matibabu yanayosaidia kumlinda mtoto.\n\nDalili zinafanana na za uchungu katika hatua yoyote, lakini kabla ya wiki 37 kamwe hazipaswi kusubiriwa zipite — daima ni sababu ya kuwasiliana na wahudumu wa afya mara moja.",
+      "deep": null,
+      "when_to_see_doctor": "- Mpigie **mkunga wako au wodi ya wazazi** wakati wowote ukiwa na **ujauzito wa chini ya wiki 37** na huna uhakika au una wasiwasi — daima ni sawa kuuliza.",
+      "red_flags": "Wasiliana na **mkunga wako au wodi ya wazazi mara moja** — mchana au usiku — ikiwa, **kabla ya wiki 37**, una mojawapo ya haya:\n\n- **mikazo au tumbo kukaza** kwa mpangilio, au maumivu kama ya hedhi\n- **majimaji kutoka ukeni ghafla kwa wingi au kuvuja kidogo kidogo** (chupa kupasuka)\n- **maumivu ya mgongo** yasiyo ya kawaida kwako, au hisia ya mgandamizo chini kwenye nyonga"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (dalili za kabla ya hedhi)",
+      "aliases": [
+        "pms",
+        "dalili za kabla ya hedhi",
+        "hasira kabla ya hedhi",
+        "mabadiliko ya hisia kabla ya hedhi",
+        "pmdd",
+        "premenstrual syndrome"
+      ],
+      "glance": "PMS ni mchanganyiko wa mabadiliko ya kimwili na ya kihisia ambayo watu wengi huyaona wiki moja au mbili kabla ya hedhi.",
+      "overview": "PMS — dalili za kabla ya hedhi (premenstrual syndrome) — ni jina la mabadiliko ambayo watu wengi huhisi katika siku au wiki mbili hivi kabla ya hedhi yao. Yanaweza kumpata yeyote anayepata hedhi, na kwa kawaida hupungua ndani ya siku chache baada ya hedhi kuanza.\n\nMabadiliko haya huja kwa njia nyingi. Kimwili, unaweza kuona tumbo kujaa, matiti kuuma au kuwa laini kuguswa, mikakamao ya tumbo, maumivu ya kichwa, au kujisikia uchovu zaidi. Kihisia, kunaweza kuwa na mabadiliko ya ghafla ya hisia, kukasirika haraka, wasiwasi, au kujisikia huzuni. Kutamani vyakula fulani na mabadiliko ya usingizi pia ni ya kawaida. Si kila mtu hupata PMS, na wale wanaoipata hawapati kila dalili — mpangilio wako mwenyewe ndio muhimu.\n\nPMS ni sehemu ya kawaida inayotambuliwa ya mizunguko ya watu wengi, inayohusiana na mabadiliko ya asili ya homoni katika nusu ya pili ya mzunguko. Kuzingatia jinsi inavyojitokeza kwako, mzunguko hadi mzunguko, kunaweza kurahisisha kupanga mambo yako — na kugundua ikiwa itabadilika.",
+      "deep": null,
+      "when_to_see_doctor": "Inafaa kuzungumza na daktari wa familia ikiwa:\n\n- dalili zako zinaathiri maisha yako ya kila siku — kazi, masomo, mahusiano\n- mabadiliko ya kila siku katika utaratibu wako hayajasaidia\n- huzuni, wasiwasi, au kukasirika kwako kunahisi kuwa kwa kiwango kikubwa sana\n\nMhudumu wa afya anaweza kuzungumzia kinachoweza kusaidia. Aina kali zaidi, inayoitwa premenstrual dysphoric disorder (PMDD), inaweza kusababisha dalili za hisia zilizo kali zaidi, na msaada upo kwa ajili yake.",
+      "red_flags": "- Ikiwa una dalili za PMDD na **una mawazo ya kujiua au uko katika hatari ya kujidhuru**, pata msaada mara moja: **piga {{emergency}} au nenda idara ya dharura hospitalini.** Usiendeshe gari mwenyewe — mwombe mtu akupeleke, au omba gari la wagonjwa. Unastahili msaada, na msaada unapatikana."
+    },
+    "progesterone": {
+      "title": "Projesteroni",
+      "aliases": [
+        "projesteroni",
+        "progesterone",
+        "homoni ya projesteroni",
+        "homoni ya ujauzito"
+      ],
+      "glance": "Projesteroni ni homoni ya nusu ya pili ya mzunguko, inayouandaa ukuta wa ndani wa mfuko wa uzazi baada ya ovulesheni.",
+      "overview": "Projesteroni ni mojawapo ya homoni kuu zinazoendesha mzunguko wa hedhi, na huchukua uongozi katika nusu ya pili — baada ya yai kutolewa wakati wa ovulesheni.\n\nKazi yake kuu ni kusaidia ukuta wa ndani wa uterasi (mfuko wa uzazi) kubaki mnene na tayari, ili yai lililorutubishwa likifika liweze kujipandikiza na mimba iweze kuanza. Kwa njia hii projesteroni hufanya kazi kama mshirika wa estrojeni, iliyofanya sehemu kubwa ya maandalizi mapema katika mzunguko.\n\nIkiwa mimba haianzi, viwango vya projesteroni hushuka. Kushuka huko ndiko kunakoruhusu ukuta kutoka kama hedhi yako inayofuata. Kupanda na kushuka kwa projesteroni katika nusu ya pili ya mzunguko ni mdundo wa kawaida unaotarajiwa.",
+      "deep": "Projesteroni hutengenezwa hasa na corpus luteum — muundo ambao ovari huunda kutokana na folikula baada ya kutoa yai lake. Ndiyo sababu projesteroni hupanda hasa katika awamu ya luteal (baada ya ovulesheni). Corpus luteum inapovunjika, projesteroni na estrojeni zote hushuka, zikiashiria mwanzo wa mzunguko mpya. Mabadiliko yake ya asili ni sehemu ya sababu kwa nini baadhi ya watu huona mabadiliko ya kabla ya hedhi katika siku zinazotangulia hedhi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Kidonge cha projestojeni pekee (mini pill)",
+      "aliases": [
+        "kidonge cha projestojeni pekee",
+        "mini pill",
+        "kidonge chenye homoni moja",
+        "POP",
+        "desogestrel",
+        "progestogen-only pill"
+      ],
+      "glance": "Mini pill ni kidonge cha kila siku chenye homoni moja ambacho hufanya ute wa shingo ya kizazi kuwa mzito ili kuzuia mbegu za kiume.",
+      "overview": "Kidonge cha projestojeni pekee — mara nyingi huitwa mini pill — ni kidonge cha kila siku chenye homoni moja tu, projestojeni. Ni chaguo kwa watu wasioweza au wasiopenda kutumia estrojeni.\n\nKazi yake kuu ni kufanya ute kwenye shingo ya kizazi kuwa mzito, ili mbegu za kiume zipate ugumu zaidi kulifikia yai. Aina moja ya kawaida, kidonge cha desogestrel, pia huzuia ovari kutoa yai (ovulesheni).\n\nKikitumiwa ipasavyo, kina ufanisi wa zaidi ya 99%; kwa matumizi ya kawaida ya kila siku ni takriban 91%. Kama vidonge vingine, muda wa kumeza ni muhimu, na hakikingi dhidi ya magonjwa ya zinaa.",
+      "deep": "Mini pill hutofautiana na kidonge cha mchanganyiko kwa kutokuwa na estrojeni, jambo linalobadilisha ni nani kinaweza kumfaa — kitu ambacho mhudumu wa afya hupima anapokuandikia. Baadhi ya aina zinahitaji kumezwa ndani ya muda uliobanwa kiasi kila siku ili ziendelee kufanya kazi. Makala hii inaeleza ni nini na jinsi kinavyofanya kazi; jinsi ya kukimeza na kama kinakufaa ni mambo ya kuzungumza na daktari wa familia, muuguzi, au mfamasia.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Kutambua uhusiano wenye unyanyasaji",
+      "aliases": [
+        "kutambua unyanyasaji",
+        "uhusiano wenye unyanyasaji",
+        "ukatili wa nyumbani",
+        "ukatili wa kijinsia",
+        "ukatili kutoka kwa mwenzi",
+        "dalili za unyanyasaji",
+        "je, ninanyanyaswa"
+      ],
+      "glance": "Unyanyasaji unaweza kuwa wa kimwili, wa kingono, wa kihisia au wa kudhibiti — na kamwe si kosa la anayeupitia.",
+      "overview": "Unyanyasaji katika uhusiano si wa kimwili tu. Unaweza kuchukua aina kadhaa, mara nyingi kwa pamoja: madhara ya kimwili, kulazimishwa kingono, madhara ya kihisia au ya kisaikolojia, na tabia za kudhibiti — mwenzi kuamua unakokwenda, unaowaona, au unachoweza kufanya. Yoyote kati ya haya inaweza kuwa unyanyasaji, hata kama hakuna jeraha linaloonekana.\n\nNi jambo la kawaida kuliko watu wengi wanavyodhani. Duniani kote, takriban mwanamke 1 kati ya 3 hupitia ukatili wa kimwili au wa kingono katika maisha yake, mara nyingi zaidi kutoka kwa mwenzi; hali nchini Italia inafanana. Kwa hiyo ikiwa hili ni sehemu ya maisha yako, hauko peke yako, na si jambo ulilolisababisha.\n\nKulitaja kwa jina kunaweza kuwa vigumu — unyanyasaji mara nyingi huchanganyika na nyakati nzuri, kuomba msamaha, au ahadi za kubadilika, na unaweza kujengeka taratibu sana hadi ukaonekana wa kawaida. Kuiamini hisia yako kwamba kuna jambo si sawa ni sababu halali ya kuomba msaada. Huhitaji kuwa na uhakika, au kusubiri hadi hali iwe \"mbaya vya kutosha,\" ili kuzungumza na mtu.",
+      "deep": "Chini ya aina hizo tofauti, unyanyasaji huelekea kufuata mtindo wa mtu mmoja kutafuta mamlaka na udhibiti juu ya mwingine, na unaweza kuongezeka kwa muda. Una madhara halisi kwa afya — unahusishwa na wasiwasi, sonona, shida ya kulala, na athari za kimwili za muda mrefu. Hakuna kati ya hayo kinachomaanisha wewe ni dhaifu au una lawama; kinamaanisha kwamba unachoishi nacho ni chenye madhara, na msaada upo kukusaidia kulifikiria kwa usalama na kwa kasi yako mwenyewe.",
+      "when_to_see_doctor": "- Unaweza kuzungumza na mtu kwa siri wakati wowote utakapokuwa tayari — daktari wa familia au muuguzi, kituo cha kupambana na ukatili, au simu ya msaada (nchini Italia, **1522**, bure na wakati wowote). Huhitaji kuwa na ushahidi, mpango, au uamuzi kwanza; wapo kukusikiliza na kukusaidia kuelewa chaguo zako.\n- Mtaalamu wa afya anaweza pia kutibu majeraha yoyote na kukuunganisha kimyakimya na msaada wa wataalamu.",
+      "red_flags": "- Ikiwa uko katika **hatari ya haraka**, wasiliana na huduma za dharura sasa hivi: **112** katika Umoja wa Ulaya (ikiwemo Italia), **999** nchini Uingereza, **911** nchini Marekani na Kanada.\n- Nchini Italia, **1522** — simu ya msaada ya kitaifa ya bure dhidi ya ukatili na kuviziwa — inapatikana saa 24 kwa siku, bila kujitambulisha, kwa simu au chat, kwa lugha kadhaa."
+    },
+    "respect-not-control": {
+      "title": "Heshima, si udhibiti",
+      "aliases": [
+        "tabia ya kudhibiti",
+        "udhibiti wa kulazimisha",
+        "uhusiano wenye afya",
+        "ishara za hatari",
+        "wivu uliopitiliza",
+        "mahali pa kupata msaada",
+        "unyanyasaji"
+      ],
+      "glance": "Upendo hujengwa juu ya heshima na uhuru — udhibiti, wivu na shinikizo si upendo, na msaada upo.",
+      "overview": "Uhusiano wenye afya hujengwa juu ya heshima, kuaminiana, usawa na uhuru: watu wawili ambao kila mmoja anadumisha urafiki wake, maamuzi yake na nafasi yake. Udhibiti ni kinyume chake. Mara nyingi hujificha nyuma ya maneno kama upendo au wivu — \"Ninakagua simu yako kwa sababu ninakujali\", \"Sitaki uonane nao kwa sababu ninakupenda\" — lakini athari yake ni kuufinya ulimwengu wake na uhuru wake.\n\nUdhibiti mara chache huanza na ukatili. Kwa kawaida huanza kidogo — ukosoaji, mpaka uliovukwa, \"utani\" unaouma — kisha hukua. Kuutaja mapema ni muhimu, kwa sababu udhibiti wa kulazimisha wenyewe ni aina ya unyanyasaji na ishara ya hatari ya mambo mabaya zaidi. Hili si kuhusu hatia; ni kuhusu uaminifu na mabadiliko.",
+      "deep": "**Ikiwa unatambua baadhi ya haya ndani yako, ufahamu huo ni mahali pa kuanzia — si hukumu ya maisha.**\nWatu wanaweza kubadilika kwa juhudi za kweli na msaada unaofaa. Kutafuta programu maalum kwa wanaume wanaotaka kuacha kuwa wadhibiti au wakatili ni ishara ya nguvu, si udhaifu. Zungumza na mtaalamu, daktari, au huduma ya kubadilisha tabia kwa wanaume.\n\nIkiwa **yeye** ndiye aliye hatarini, au una wasiwasi kuhusu mtu fulani, mhimize na umsaidie kupata msaada — kwa masharti yake, kamwe si kwa kuchukua usukani.\n\n**Mahali pa kupata msaada**\n- Wakati wa dharura, au ikiwa mtu yeyote yuko katika hatari ya haraka, piga nambari ya dharura ya eneo lako (**112** nchini Italia na sehemu kubwa ya Ulaya; **911** nchini Marekani).\n- **Italia — 1522**: simu ya msaada ya kitaifa dhidi ya ukatili na kuviziwa. Ni bure, 24/7, bila kujitambulisha, na kwa lugha nyingi, inaendeshwa na Idara ya Fursa Sawa. Pia huwaelekeza watu kwenye vituo vya kupambana na ukatili vilivyo karibu (centri antiviolenza).\n- Vituo vya kupambana na ukatili na programu za kubadilisha tabia kwa wanaume (nchini Italia, \"centri per uomini autori di violenza\") hutoa msaada wa siri wa kubadilika.",
+      "when_to_see_doctor": null,
+      "red_flags": "Ishara za hatari za tabia ya kudhibiti au ya unyanyasaji — zinazostahili kuchukuliwa kwa uzito ndani yako au katika uhusiano:\n\n- **Kufuatilia au kutenga**: kukagua simu yake, kufuatilia mahali alipo, au kumtenga na marafiki na familia.\n- **Kudhibiti maamuzi yake**: pesa, anachovaa, anakokwenda, anaowaona.\n- **Wivu unaoonyeshwa kama upendo**, tuhuma za kila mara, au kuhitaji kujua alipo wakati wote.\n- **Kumdharau, kumlaumu, au kumfanya aogope**, ajione na hatia, au aishi kwa kujihadhari kila wakati asikukasirishe.\n- **Shinikizo au vitisho** kuhusu ngono, kuachana, au kujidhuru ili akubali.\n- **Nguvu yoyote ya kimwili, vitisho, au hofu.** Ikiwa hili lipo, ni unyanyasaji — tafuta msaada ulioelezwa hapo juu. Hakuna kisingizio kamwe, na kamwe si kosa lake."
+    },
+    "safety-plan": {
+      "title": "Kuandaa mpango wa usalama",
+      "aliases": [
+        "mpango wa usalama",
+        "kuwa salama",
+        "kujilinda",
+        "kupanga usalama",
+        "kuondoka kwa usalama",
+        "safety plan"
+      ],
+      "glance": "Mpango wa usalama ni hatua chache za kivitendo za kukusaidia kuwa salama zaidi — na huduma zilizofunzwa zinaweza kukusaidia kuuandaa.",
+      "overview": "Mpango wa usalama ni kufikiria mapema tu jinsi ya kujiweka (na watoto wowote) salama zaidi. Si uamuzi wa kuondoka au kubaki — ni kuhusu kujiandaa zaidi kidogo, vyovyote utakavyochagua.\n\nKwa baadhi ya watu inasaidia kuwa na mambo machache yaliyoandaliwa kimyakimya: mtu unayemwamini anayejua kinachoendelea, nyaraka muhimu na nambari za simu mahali unapoweza kuzifikia, begi dogo la vitu muhimu, kujua njia salama zaidi za kutoka nyumbani, au neno au ishara inayomjulisha mtu kuwa unahitaji msaada. Kinachofaa hutegemea kabisa hali yako mwenyewe.\n\nHuhitaji kulifanya hili peke yako, na mara nyingi ni salama zaidi kutolifanya peke yako. Huduma za kupambana na ukatili zina uzoefu wa kuandaa mipango ya usalama pamoja na watu, kwa siri na bila malipo — ikiwemo kwa kipindi cha kuondoka, ambacho kinaweza kuwa wakati wenye hatari kubwa zaidi na kinafaa kupangwa kwa msaada badala ya kwa haraka.",
+      "deep": null,
+      "when_to_see_doctor": "- Wasiliana na kituo cha kupambana na ukatili au simu ya msaada (nchini Italia, **1522**) ili kuandaa mpango unaoendana na hali yako — hufanya hivi kila siku, kwa siri, na wanaweza kusaidia katika hatua za kivitendo, za kisheria na za kihisia.\n- Ikiwa unaweka kumbukumbu zozote za kinachoendelea, zihifadhi mahali pa faragha na salama.",
+      "red_flags": "- Ikiwa uko katika **hatari ya haraka**, wasiliana na huduma za dharura sasa hivi: **112** katika Umoja wa Ulaya (ikiwemo Italia), **999** nchini Uingereza, **911** nchini Marekani na Kanada.\n- Nchini Italia, **1522** — bure, saa 24 kwa siku, bila kujitambulisha, kwa lugha nyingi — inaweza kusaidia kwa simu au chat, ikiwemo katika kupanga usalama kwa haraka."
+    },
+    "sex-during-your-period": {
+      "title": "Kujamiiana wakati wa hedhi",
+      "aliases": [
+        "kujamiiana wakati wa hedhi",
+        "ngono wakati wa hedhi",
+        "tendo la ndoa nikiwa kwenye siku zangu",
+        "naweza kupata mimba nikiwa kwenye hedhi",
+        "mimba wakati wa hedhi",
+        "period sex"
+      ],
+      "glance": "Kujamiiana wakati wa hedhi ni sawa ikiwa nyote wawili mnataka, lakini bado unaweza kupata mimba au kuambukizwa magonjwa ya zinaa.",
+      "overview": "Kujamiiana wakati wa hedhi ni uamuzi binafsi. Ikiwa nyote wawili mnataka na nyote mnajisikia huru, ni sawa, na hakuna kosa wala jambo la ajabu kuhusu hilo. Baadhi ya watu huhisi mwili kuwa nyeti zaidi au hawana hamu tu wakati huu, huku wengine wakifurahia. Kusikiliza mwili wako na kuzungumza wazi na mwenzi wako ndicho muhimu zaidi.\n\nKile ambacho hedhi haifanyi ni kufanya kazi kama njia ya uzazi wa mpango. Uwezekano wa kupata mimba ni mdogo kuliko karibu na wakati wa ovulesheni, lakini si sifuri. Mbegu za kiume zinaweza kuishi ndani ya mwili hadi siku 7 baada ya kujamiiana, kwa hiyo ukipata ovulesheni mapema, jambo lenye uwezekano mkubwa zaidi kwa mzunguko mfupi, mbegu kutokana na kujamiiana wakati wa hedhi au mara baada yake bado zinaweza kukutana na yai. Ikiwa hutaki kupata mimba, njia yako ya kawaida ya uzazi wa mpango bado ni muhimu katika siku hizi.\n\nHedhi pia haikingi dhidi ya magonjwa ya zinaa. Maambukizi yanaweza kupita kati ya wenzi wakati wa kujamiiana bila kondomu, na vijidudu vinavyoyasababisha vinaweza kubebwa kwenye damu pamoja na majimaji mengine ya mwili. Kondomu ndiyo njia ambayo pia hupunguza hatari ya magonjwa ya zinaa, ikiwemo VVU (HIV), kwa hiyo inafaa kuzitumia wakati wowote wa mwezi.",
+      "deep": null,
+      "when_to_see_doctor": "- Ikiwa umejamiiana **bila kutumia njia ya uzazi wa mpango**, au njia yako huenda imeshindwa, na hutaki kupata mimba, zungumza na mfamasia, daktari wa familia au kliniki ya afya ya uzazi na ngono **haraka iwezekanavyo** kuhusu uzazi wa mpango wa dharura. Unahitaji kutumiwa ndani ya siku chache, na kwa kawaida hufanya kazi vizuri zaidi kadiri unavyotumiwa mapema.\n- Pata msaada kutoka kwa mfamasia, kliniki ya afya ya uzazi na ngono au daktari wa familia ikiwa **kondomu imepasuka au imetoka** wakati wa kujamiiana. Huenda ukahitaji uzazi wa mpango wa dharura au kipimo cha magonjwa ya zinaa.\n- Mwone daktari wa familia au nenda kliniki ya afya ya uzazi na ngono ukiona **unatokwa na damu baada ya kujamiiana wakati hauko kwenye hedhi**. Kwa kawaida si jambo kubwa, lakini daima inafaa daktari akuchunguze.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Kujamiiana wakati wa ujauzito",
+      "aliases": [
+        "kujamiiana wakati wa ujauzito",
+        "ngono ukiwa mjamzito",
+        "tendo la ndoa wakati wa mimba",
+        "je, ngono ni salama ujauzitoni",
+        "ukaribu wakati wa ujauzito",
+        "kufika kileleni ujauzitoni"
+      ],
+      "glance": "Kujamiiana ni salama katika mimba nyingi na hakutamdhuru mtoto, isipokuwa mkunga au daktari wako amekushauri vinginevyo.",
+      "overview": "Kwa watu wengi, kujamiiana wakati wa ujauzito ni salama, isipokuwa mkunga au daktari wako amekuambia usifanye hivyo. Mtoto amelindwa vizuri ndani ya mfuko wa uzazi, na kujamiiana hakutamdhuru.\n\nHuenda ukashauriwa kuepuka kujamiiana kwa kuingiza uume katika hali chache: ikiwa una **kondo la nyuma lililo chini (placenta praevia)**, kwa sababu ya hatari ya kutokwa na damu; ikiwa **chupa imepasuka**, kwa sababu ya hatari ya maambukizi; au ikiwa umewahi **kuharibikiwa na mimba mara kadhaa**.\n\nHamu ya kujamiiana mara nyingi hubadilika wakati wa ujauzito — baadhi ya watu hutamani zaidi, wengine kidogo, wengine hawatamani kabisa kwa muda — huku homoni, mabadiliko ya mwili, uchovu, kichefuchefu na wasiwasi vyote vikichangia. Yote haya ni ya kawaida. Ikiwa huna hamu ya kujamiiana, kubusiana, kukumbatiana na kukandana ni njia nyingine za kubaki karibu.\n\nTumbo lako linapokua, baadhi ya mikao huwa ya usumbufu; mikao ya kulala ubavu kwa ubavu mara nyingi huhisi rahisi zaidi. Homoni zinaweza kufanya uke kuwa mkavu zaidi, na kilainishi chenye msingi wa maji kinaweza kusaidia.\n\nMwishoni mwa ujauzito, kujamiiana au kufika kileleni kunaweza kuleta mikazo ya Braxton Hicks, pale mfuko wa uzazi unapokuwa mgumu kwa muda. Hilo ni la kawaida na si uchungu wa kujifungua kuanza — na hakuna ushahidi kwamba kujamiiana huleta uchungu.\n\nIkiwa mmoja wenu huenda ana ugonjwa wa zinaa, tumieni kondomu, ikiwemo kwa ngono ya mdomo: maambukizi yasiyotibiwa yanaweza kukudhuru vibaya wewe na mtoto. Epukeni ngono ya mdomo ikiwa mmoja wenu ana malengelenge ya mdomoni (vidonda vya homa), kwa kuwa virusi vinaweza kupitishwa kwa mtoto.",
+      "deep": null,
+      "when_to_see_doctor": "- Zungumza na **mkunga au daktari** wako ikiwa huna uhakika kama kujamiiana ni salama kwako, au ikiwa wasiwasi kuhusu kujamiiana au uhusiano wako unakulemea.\n- Ikiwa unatokwa na **damu kwa namna yoyote** wakati wa ujauzito, hakikisha inachunguzwa na mhudumu wa afya kabla ya kujamiiana tena — wasiliana na mkunga wako, daktari au wodi ya wazazi.\n- Nenda **kliniki ya afya ya uzazi na ngono** ikiwa wewe au mwenzi wako huenda mna ugonjwa wa zinaa.",
+      "red_flags": "- Wasiliana na **wodi ya wazazi** mara moja ikiwa unadhani **chupa imepasuka**, na usijamiiane hadi uwe umeonwa na mhudumu wa afya.\n- Piga **{{emergency}} au nenda idara ya dharura hospitalini** ikiwa **unatokwa na damu nyingi**, hasa pamoja na **maumivu makali ya tumbo** au kuhisi kama unataka kuzimia."
+    },
+    "sexual-violence": {
+      "title": "Ukatili wa kingono na ridhaa",
+      "aliases": [
+        "ukatili wa kingono",
+        "unyanyasaji wa kingono",
+        "ubakaji",
+        "kubakwa",
+        "kulazimishwa ngono",
+        "ridhaa",
+        "sexual assault"
+      ],
+      "glance": "Ukatili wa kingono ni kitendo chochote cha kingono bila ridhaa — na kamwe si kosa la aliyefanyiwa.",
+      "overview": "Ukatili wa kingono ni kitendo chochote cha kingono, au jaribio la kukipata, bila ridhaa au kwa kulazimisha. Unajumuisha ubakaji na mguso wowote wa kingono usiotakiwa, na unaweza kufanywa na mtu yeyote — mgeni, mtu unayemfahamu, au mwenzi au mume/mke.\n\nRidhaa ndiyo kiini chake. Ridhaa maana yake ni kukubali kwa hiari, na haiwezekani mtu anapokuwa amelala, amepoteza fahamu, amelewa au amepewa dawa za kulevya, ni mtoto, au amelazimishwa, ametishiwa, au anaogopa. Inaweza kuondolewa wakati wowote. Kwa sababu hii, ukatili wa kingono **kamwe** si kosa la aliyefanyiwa — si kwa sababu ya alichovaa, kama alikuwa amekunywa pombe, kama aliganda badala ya kupigana, au kama alimfahamu mtu huyo.\n\nIkiwa hili limekutokea, msaada upo, iwe lilitokea hivi karibuni au zamani. Unaaminiwa, na unachofanya baadaye ni uamuzi wako.",
+      "deep": null,
+      "when_to_see_doctor": "- Unaweza kwenda **kituo cha afya, hospitali, au huduma maalum kwa waathirika wa ukatili wa kingono**, ambako wanaweza kukuhudumia, kutibu majeraha yoyote, na — ukipenda — kukusaidia kuripoti na kuhifadhi ushahidi.\n- Baadhi ya hatua za kiafya **hutegemea muda** — kwa mfano uzazi wa mpango wa dharura, au kuzuia maambukizi — kwa hiyo kutafuta msaada **mapema** kunaweza kusaidia. Lakini hakuna kikomo cha muda cha kupata msaada, na daima ni uamuzi wako kama utaripoti.",
+      "red_flags": "- Ikiwa uko katika **hatari ya haraka**, wasiliana na huduma za dharura sasa hivi: **112** katika Umoja wa Ulaya (ikiwemo Italia), **999** nchini Uingereza, **911** nchini Marekani na Kanada.\n- Baada ya shambulio la hivi karibuni, **hospitali au huduma maalum inaweza kukusaidia kwa haraka**. Nchini Italia, **1522** (bure, 24/7, bila kujitambulisha, kwa lugha nyingi — simu au chat) inaweza kukuelekeza kwenye huduma inayofaa."
+    },
+    "signs-of-labour": {
+      "title": "Dalili za uchungu wa kujifungua",
+      "aliases": [
+        "dalili za uchungu",
+        "uchungu wa kujifungua",
+        "kuanza uchungu",
+        "mikazo",
+        "chupa kupasuka",
+        "ute wenye damu kabla ya kujifungua",
+        "awamu ya mwanzo ya uchungu"
+      ],
+      "glance": "Dalili kwamba uchungu unaanza ni pamoja na mikazo ya mara kwa mara, kutoka kwa ute wenye damu (\"show\"), maumivu ya mgongo, au chupa kupasuka.",
+      "overview": "Kuna dalili chache kwamba uchungu wa kujifungua huenda unaanza. Kuu ni mikazo — tumbo kukaza kunakokuja kwa mpangilio na kuongezeka nguvu. Nyingine ni pamoja na \"show\" (kizibo cha ute kutoka kwenye shingo ya kizazi kutoka nje), maumivu ya mgongo yasiyoisha, kuhisi haja ya kwenda chooni, na chupa kupasuka.\n\nKabla ya uchungu kamili mara nyingi kuna awamu ya mwanzo (\"latent\"), wakati shingo ya kizazi inapolainika na kuanza kufunguka. Sehemu hii inaweza kuchukua saa au hata siku, na kwa watu wengi ni sawa kubaki nyumbani wakistarehe katika kipindi hiki, wakipumzika na kunywa maji ya kutosha.\n\nUchungu wa kila mtu huanza kwa namna tofauti kidogo, kwa hiyo huhitaji kuona kila dalili. Unapodhani mambo yanaanza, mkunga wako au wodi ya wazazi wapo kukuelekeza cha kufanya na wakati wa kuja hospitalini.",
+      "deep": null,
+      "when_to_see_doctor": "- Mpigie **mkunga wako au wodi ya wazazi** kwa mwongozo unapodhani uchungu umeanza, au mikazo inapokuwa **ya mpangilio — takriban kila dakika 5**. Ikiwa huwezi kumpata mkunga wako, piga simu hospitali unayopanga kujifungulia.",
+      "red_flags": "Mpigie **mkunga wako au wodi ya wazazi mara moja** — mchana au usiku, usisubiri — ikiwa:\n\n- **chupa imepasuka** (hasa ikiwa majimaji ni ya kijani, kahawia, au yana harufu mbaya)\n- unatokwa na **damu ukeni kwa namna yoyote**\n- **mtoto wako anacheza kidogo kuliko kawaida**\n- una dalili za uchungu na **ujauzito wako ni chini ya wiki 37**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Dalili za ujauzito",
+      "aliases": [
+        "dalili za ujauzito",
+        "dalili za mimba changa",
+        "dalili za mwanzo za mimba",
+        "je, nina mimba",
+        "nitajuaje nina mimba",
+        "pregnancy symptoms"
+      ],
+      "glance": "Kukosa hedhi mara nyingi ni dalili ya kwanza ya ujauzito, wakati mwingine pamoja na kichefuchefu, uchovu au matiti kuuma.",
+      "overview": "Kwa watu wengi dalili ya kwanza ya ujauzito ni **kukosa hedhi**. Lakini miili hutofautiana, na baadhi huona dalili nyingine za mwanzo kwanza — mara nyingi karibu na wiki 4 hadi 6.\n\nDalili za kawaida za mwanzo ni pamoja na kuhisi kichefuchefu au kutapika (wakati wowote wa siku, si asubuhi tu), matiti kuhisi makubwa zaidi au kuuma, kujisikia uchovu kuliko kawaida, na kuhitaji kukojoa mara nyingi zaidi. Baadhi ya watu pia huhisi ladha ya chuma mdomoni, kuwa nyeti zaidi kwa harufu fulani, au kuchukia vyakula wanavyovipenda kwa kawaida.\n\nHakuna kati ya hizi peke yake inayomaanisha kuwa hakika una mimba — nyingi zinafanana na mabadiliko ya kawaida ya mzunguko — na si kila mtu huzipata. Njia ya kujua kwa uhakika ni kipimo cha mimba.",
+      "deep": null,
+      "when_to_see_doctor": "- Kipimo kikiwa chanya, wasiliana na **mkunga au daktari wa familia** ili kuanza huduma zako za kliniki ya ujauzito mapema.\n- Ikiwa hedhi yako imechelewa na vipimo ni hasi lakini dalili zinaendelea, inafaa kumwona daktari wa familia ili kuangalia kinachoweza kuwa kinaendelea.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Kuvuta sigara wakati wa ujauzito",
+      "aliases": [
+        "kuvuta sigara ujauzitoni",
+        "kuacha sigara ukiwa mjamzito",
+        "sigara na mimba",
+        "kuvuta vape ujauzitoni",
+        "moshi wa sigara na mtoto"
+      ],
+      "glance": "Kuacha kuvuta sigara ni mojawapo ya mambo bora zaidi unayoweza kumfanyia mtoto wako — na kamwe hujachelewa.",
+      "overview": "Kuacha kuvuta sigara ni mojawapo ya mambo yenye nguvu zaidi unayoweza kufanya ili kumpa mtoto wako mwanzo wenye afya. Kila sigara hupunguza oksijeni anayoipata mtoto wako, jambo linalofanya moyo wake ufanye kazi kwa bidii zaidi na linaloweza kuzuia ukuaji wake.\n\nKuvuta sigara wakati wa ujauzito huongeza hatari ya matatizo makubwa, ikiwemo kuharibika kwa mimba, kuzaliwa kabla ya wakati, uzito mdogo wa kuzaliwa, mtoto kufia tumboni, na kifo cha ghafla cha mtoto mchanga (SIDS) baada ya kuzaliwa. Moshi wa sigara za wengine pia ni muhimu, kwa hiyo nyumba isiyo na moshi husaidia.\n\nSehemu inayotia moyo: **kamwe hujachelewa**. Kuacha wakati wowote katika ujauzito husaidia, na kuacha mapema huleta manufaa makubwa zaidi. Kunaweza kuwa vigumu kweli, na ndiyo sababu hasa msaada wa bure upo — na kuutumia hufanya uwezekano wa kufanikiwa kuwa mkubwa zaidi.",
+      "deep": null,
+      "when_to_see_doctor": "- Muulize **mkunga** wako kuhusu **msaada wa bure wa kuacha kuvuta sigara** — washauri waliofunzwa (baadhi yao wamebobea katika ujauzito) wanaweza kukusaidia, na nchi nyingi pia zina simu ya msaada ya bure ya kuacha kuvuta sigara. Kupata msaada ni ishara ya kumjali mtoto wako, si kushindwa.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Matone ya damu na kutokwa na damu kati ya hedhi",
+      "aliases": [
+        "matone ya damu kati ya hedhi",
+        "kutokwa na damu kati ya hedhi",
+        "damu nje ya siku za hedhi",
+        "damu baada ya kujamiiana",
+        "damu kidogo ukeni",
+        "spotting"
+      ],
+      "glance": "Matone ya damu ni kutokwa na damu kidogo kati ya hedhi au baada ya kujamiiana — mara nyingi si jambo kubwa, lakini daima inafaa daktari akuchunguze.",
+      "overview": "Matone ya damu (spotting) ni kutokwa na damu kidogo kunakotokea kati ya hedhi zako au baada ya kujamiiana, nje ya damu yako ya kawaida ya hedhi. Ni jambo la kawaida, na kwa kawaida si jambo kubwa — lakini kwa kuwa kunaweza kuwa na sababu kadhaa, ni aina ya jambo ambalo daima linafaa kuchunguzwa na mhudumu wa afya.\n\nKuna sababu nyingi za kila siku. Kuanza au kutumia njia za homoni za uzazi wa mpango ni mojawapo ya zile za mara kwa mara. Nyingine ni pamoja na viuvimbe vidogo visivyo na madhara ndani au karibu na mfuko wa uzazi (polipu au fibroidi), mabadiliko yasiyo na madhara kwenye uso wa shingo ya kizazi, ukavu ukeni, au maambukizi kama klamidia.\n\nKwa kuwa dalili hiyohiyo inaweza kutokana na sababu tofauti — nyingi zikiwa ndogo — hatua yenye msaada si kubahatisha, ni kumwona mhudumu wa afya akuchunguze ili ujue kinachoisababisha kwako.",
+      "deep": null,
+      "when_to_see_doctor": "- Mwone daktari wa familia au nenda kliniki ya afya ya uzazi na ngono **kila unapotokwa na damu kati ya hedhi au baada ya kujamiiana**, hata kama ni kidogo. Kwa kawaida si jambo kubwa, lakini kuchunguzwa na daktari ndiyo njia ya kupata chanzo — na ndiyo njia ya kuondoa mapema uwezekano wa sababu zisizo za kawaida.",
+      "red_flags": "- Omba miadi ya **haraka** na daktari wa familia, au wasiliana na **daktari wa zamu wa nje ya saa za kazi**, ikiwa **umekosa hedhi na unatokwa na damu isivyo kawaida pamoja na maumivu ya tumbo au nyonga** — hali hii inahitaji kuchunguzwa haraka, kwa kuwa inaweza kuwa ishara ya mimba nje ya kizazi."
+    },
+    "stalking": {
+      "title": "Kuviziwa na kufuatiliwa",
+      "aliases": [
+        "kuviziwa",
+        "kufuatiliwa",
+        "kunyemelewa",
+        "usumbufu",
+        "mtu ananifuata",
+        "kufuatiliwa mtandaoni",
+        "stalking"
+      ],
+      "glance": "Kuviziwa ni kufuatiliwa mara kwa mara kusikotakiwa kunakokufanya uogope au ujisikie si salama — na kunachukuliwa kwa uzito.",
+      "overview": "Kuviziwa (stalking) ni mfululizo wa tabia zisizotakiwa, zinazorudiwa na mtu, zinazokuacha ukiogopa, ukihisi unatazamwa, au si salama. Kunaweza kujumuisha kufuatwa, mtu kutokea mahali ulipo, simu au jumbe za kila mara, zawadi zisizotakiwa, kukufuatilia mtandaoni au kupitia simu yako, au vitisho. Mara nyingi hufanywa na mpenzi wa zamani au mtu unayemfahamu, ingawa si mara zote.\n\nHofu inayosababishwa ni halali, hata kama kila kitendo kimoja kinaweza kuonekana \"kidogo\" kwa wengine — ni mfululizo, na jinsi unavyokufanya ujisikie, ndivyo muhimu. Kuviziwa kunatambuliwa kama aina ya unyanyasaji, na katika nchi nyingi ni kosa la jinai. Hakuna kati ya haya ambalo ni kosa lako, na huhitaji kuvumilia tu.\n\nIkiwa ni salama kufanya hivyo, kuweka kumbukumbu kunaweza kusaidia baadaye: tarehe na nyakati, picha za skrini za jumbe, na kilichotokea. Huhitaji kuamua peke yako kama \"kinahesabika\" — huduma za msaada zinaweza kukusaidia kuelewa hali na kufikiria chaguo zako.",
+      "deep": null,
+      "when_to_see_doctor": "- Wasiliana na **polisi** kuripoti kuviziwa, na simu ya msaada dhidi ya ukatili au kuviziwa kwa msaada na ushauri (nchini Italia, **1522** ni kwa ajili ya ukatili **na** kuviziwa).\n- Kuhifadhi ushahidi na kuandaa mpango wa usalama, kwa msaada wa huduma ya wataalamu, vyote vinaweza kuleta tofauti kubwa.",
+      "red_flags": "- Ikiwa unahisi uko katika **hatari ya haraka**, wasiliana na huduma za dharura sasa hivi: **112** katika Umoja wa Ulaya (ikiwemo Italia), **999** nchini Uingereza, **911** nchini Marekani na Kanada.\n- Nchini Italia, **1522** — bure, saa 24 kwa siku, bila kujitambulisha, kwa lugha nyingi — inaweza kusaidia kwa simu au chat."
+    },
+    "stillbirth": {
+      "title": "Mtoto kufia tumboni",
+      "aliases": [
+        "mtoto kufia tumboni",
+        "kuzaa mtoto mfu",
+        "kupoteza mtoto",
+        "kupoteza mimba kubwa",
+        "mtoto aliyezaliwa amefariki",
+        "stillbirth"
+      ],
+      "glance": "Mtoto kufia tumboni ni kumpoteza mtoto baada ya wiki 24 — si jambo la kawaida, kamwe si kosa lako, na daima kuna msaada.",
+      "overview": "Mtoto kufia tumboni (stillbirth) ni pale mtoto anapozaliwa akiwa amefariki baada ya wiki 24 za ujauzito. (Kupoteza mimba kabla ya wiki 24 huitwa kuharibika kwa mimba.) Si jambo la kawaida — takriban mtoto 1 katika kila vizazi 250 — lakini kwa familia zinazoguswa nalo, ni hasara kubwa sana, na kila kitu kuhusu huduma inayofuata kimekusudiwa kukushika kwa upole katika kipindi hicho.\n\nWakati mwingine chanzo hupatikana — kwa mfano tatizo la kondo la nyuma au la ukuaji wa mtoto, au tatizo la kiafya — na wakati mwingine, licha ya vipimo, **hakuna chanzo kinachopatikana kabisa**. Vyovyote vile sababu, mtoto kufia tumboni si jambo ambalo mzazi amesababisha au angeweza kujua jinsi ya kulizuia.\n\nJambo moja kweli husaidia kupunguza hatari, na ni rahisi: **kumjulisha mkunga wako mara moja ikiwa mtoto wako anapunguza kucheza au mijongeo yake inabadilika.** Pamoja na hilo, mambo ya kila siku — kuhudhuria miadi ya kliniki ya ujauzito, kutovuta sigara, kuepuka pombe, na kulala kwa ubavu kuanzia wiki 28 — yote yana mchango wake.",
+      "deep": null,
+      "when_to_see_doctor": "- Wasiliana na **mkunga wako au wodi ya wazazi mara moja** — wakati wowote, mchana au usiku — ikiwa **mtoto wako anacheza kidogo kuliko kawaida au mijongeo yake inahisika tofauti.** Kamwe usisubiri kuona kama itapita; kwenda kuchunguzwa ndilo jambo sahihi kabisa kufanya, na kamwe si usumbufu.\n- Baada ya kumpoteza mtoto, wakunga maalum na timu za msaada kwa wafiwa wapo kwa ajili yako — kwa maamuzi, hatua za kivitendo, na huzuni. Huhitaji kukabiliana na chochote kati ya haya peke yako, na vikundi vya msaada kwa waliopoteza watoto vinapatikana kwa muda wote utakaovihitaji.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Msongo wa mawazo, maisha na hedhi zako",
+      "aliases": [
+        "msongo wa mawazo na hedhi",
+        "msongo wa mawazo",
+        "kukosa hedhi",
+        "hedhi kuchelewa",
+        "kwa nini hedhi yangu imechelewa",
+        "stress"
+      ],
+      "glance": "Msongo wa mawazo, mabadiliko makubwa ya uzito, au mazoezi mengi yanaweza kuchelewesha au kusimamisha hedhi — mara nyingi kwa muda tu.",
+      "overview": "Ni jambo la kawaida hedhi kuchelewa, au kuruka mwezi mmoja, na sababu mara nyingi inahusiana zaidi na maisha kuliko tatizo lolote. Msongo wa mawazo ni mojawapo ya zile za mara kwa mara — mfumo uleule unaoitikia shinikizo unaweza kuathiri homoni zinazoendesha mzunguko wako.\n\nMambo mengine ya kila siku yanaweza pia kubadilisha hedhi zako: badiliko kubwa la uzito (kuongezeka au kupungua), kufanya mazoezi mengi, au kuchoka kupita kiasi. Mabadiliko ya homoni — kama kuanza kwa kipindi cha kukaribia kukoma hedhi, au hali kama PCOS — yanaweza pia kuwa chanzo, kama ilivyo kwa ujauzito na baadhi ya njia za uzazi wa mpango. Mara nyingi muda kati ya hedhi hubadilika kidogo tu mara kwa mara, na hilo ni la kawaida.\n\nSehemu inayotia moyo ni kwamba hedhi kuchelewa au kukosekana mara moja kwa kawaida si sababu ya wasiwasi, na mambo mara nyingi hutulia maisha yanapotulia. Kinachofaa kuzingatiwa ni mfululizo wa mabadiliko badala ya mwezi mmoja tu.",
+      "deep": null,
+      "when_to_see_doctor": "Mwone daktari wa familia ikiwa:\n\n- umekosa **hedhi tatu mfululizo**, au hedhi zako zimekuwa **bila mpangilio**\n- hedhi zako **zimekoma** na huna uhakika kwa nini (na ikiwa mimba inawezekana, inafaa kupima kwanza)\n- kukosa hedhi kunaambatana na mabadiliko mengine — kama mabadiliko ya uzito yasiyotarajiwa, uchovu, nywele za ziada kuota, au kujisikia huzuni\n\nUchunguzi huu ni kwa ajili tu ya kuelewa kinachosababisha badiliko — ambacho kwa kawaida ni jambo linaloweza kudhibitiwa.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Kumsaidia wakati wa hedhi yake",
+      "aliases": [
+        "kumsaidia wakati wa hedhi",
+        "msaada wa hedhi kwa wenzi",
+        "kumjali akiwa kwenye siku zake",
+        "mke wangu yuko kwenye hedhi",
+        "period support"
+      ],
+      "glance": "Hedhi inaweza kuleta maumivu halisi na uchovu — kumjali kwa vitendo vidogo huleta tofauti kubwa.",
+      "overview": "Hedhi si siku chache tu za kutokwa na damu; kwa wengi huja na mikakamao ya tumbo, maumivu ya mgongo, maumivu ya kichwa, uchovu na nguvu kidogo. Maumivu ya hedhi ni ya kawaida na yanaweza kumchosha kweli — si kutia chumvi. Mhudumie kama ungemhudumia mwenzi yeyote anayeumwa: kwa wema wa vitendo.\n\nLifanye kuwa jambo la kawaida pia. Hedhi si kitu cha kuchukiza, cha aibu wala mwiko. Kuwa huru kununua pedi au tamponi, kuweka akiba nyumbani, au kumpa chupa ya maji ya moto bila makuu kunamwonyesha kuwa yuko salama na anasaidiwa.",
+      "deep": "Mambo rahisi yanayosaidia:\n\n- **Joto na mapumziko.** Chupa ya maji ya moto au kitambaa cha joto kwenye tumbo la chini hupunguza mikakamao; mpendekezee jioni tulivu nyumbani.\n- **Mpunguzie majukumu.** Pika, safisha, fanya shughuli za nje, mpeleke kwa gari — msaada wa vitendo hugusa zaidi kuliko maneno.\n- **Weka akiba ya vifaa.** Jua anachotumia na weka akiba, ili siku ya damu nyingi isiwe dharura kamwe.\n- **Dawa za maumivu na chakula anachokipenda** ikiwa anavitaka; ni uamuzi wake.\n- **Usimshinikize kujamiiana au kuwa na nguvu asizokuwa nazo.** Ukaribu unaweza kuwa kukumbatiana kwenye kochi.",
+      "when_to_see_doctor": "Mhimize amwone daktari (na ujitolee kwenda naye) ikiwa maumivu ya hedhi ni **makali, yanazidi kuwa mabaya, au yanamzuia kuendelea na maisha ya kila siku**, ikiwa hedhi ni **nzito sana** (pedi au kinga nyingine kulowa damu kabisa kila saa, mabonge makubwa), au ikiwa maumivu ni mapya na si ya kawaida — haya yanaweza kuashiria hali kama endometriosis zinazostahili huduma sahihi.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Kumsaidia mtu anayepitia ukatili",
+      "aliases": [
+        "kumsaidia mtu",
+        "kumsaidia rafiki",
+        "jinsi ya kusaidia",
+        "mtu anayenyanyaswa",
+        "rafiki yangu ananyanyaswa",
+        "jinsi ya kumuunga mkono"
+      ],
+      "glance": "Ikiwa mtu unayemfahamu huenda anapitia unyanyasaji, kumsikiliza bila kumhukumu — na kujua wapi pa kumwelekeza — husaidia.",
+      "overview": "Kugundua kuwa mtu unayemjali huenda anapitia unyanyasaji ni vigumu, na kutaka kusaidia ni silika nzuri. Mambo yenye msaada zaidi unayoweza kutoa mara nyingi ndiyo rahisi zaidi.\n\nMsikilize, na umwamini. Mwache azungumze kwa kasi yake mwenyewe, bila kumhukumu, kumlaumu, au kumuuliza alifanya nini kusababisha. Mwambie waziwazi kuwa si kosa lake na kwamba hastahili hayo. Jaribu kutomwambia afanye nini wala kumshinikiza aondoke: kuondoka ni uamuzi wake, na kufanya hivyo kwa haraka kunaweza kwa kweli kuongeza hatari — kinachosaidia zaidi ni yeye kuhisi anaungwa mkono na hayuko peke yake.\n\nWeka siri anachokueleza. Msaidie kwa upole kupata msaada wa wataalamu anapokuwa tayari — simu ya msaada kama **1522** nchini Italia, au kituo cha kupambana na ukatili kilicho karibu — na umpe msaada wa vitendo, kama kutafuta nambari pamoja au kuwa naye anapopiga simu. Na jijali wewe pia; kumsaidia mtu katika hali hii kunaweza kuwa mzigo mzito.",
+      "deep": null,
+      "when_to_see_doctor": "- Mhimize (bila shinikizo) awasiliane na simu ya msaada au kituo cha kupambana na ukatili, ambao wanaweza kuwaelekeza nyote wawili kuhusu cha kufanya baadaye. Unaweza kujitolea kumsaidia kupiga simu au kutafuta nambari.\n- Ikiwa ameumia, daktari wa familia au hospitali inaweza kusaidia — na kumuunganisha na huduma za msaada.",
+      "red_flags": "- Ikiwa yuko katika **hatari ya haraka**, piga simu huduma za dharura: **112** katika Umoja wa Ulaya (ikiwemo Italia), **999** nchini Uingereza, **911** nchini Marekani na Kanada.\n- Nchini Italia, **1522** (bure, 24/7, bila kujitambulisha, kwa lugha nyingi — simu au chat) inaweza pia kukushauri jinsi ya kumsaidia mtu."
+    },
+    "the-coil": {
+      "title": "Kitanzi (IUD na IUS)",
+      "aliases": [
+        "kitanzi",
+        "IUD",
+        "IUS",
+        "kitanzi cha shaba",
+        "kitanzi cha homoni",
+        "lupu",
+        "Mirena",
+        "coil"
+      ],
+      "glance": "Kitanzi ni kifaa kidogo kinachowekwa ndani ya mfuko wa uzazi — cha shaba (IUD) au cha homoni (IUS) — kinachodumu kwa miaka.",
+      "overview": "Kitanzi ni kifaa kidogo ambacho mhudumu wa afya huweka ndani ya mfuko wa uzazi. Kuna aina mbili, na inasaidia kuzitofautisha:\n\n- **IUD**, au kitanzi cha shaba, hakina homoni. Shaba hubadilisha hali ndani ya mfuko wa uzazi ili mbegu za kiume na mayai visiweze kuishi vizuri, na pia huathiri ute wa shingo ya kizazi. Kutegemea aina yake, hufanya kazi kwa takriban miaka 5 hadi 10.\n- **IUS**, au kitanzi cha homoni, hutoa projestojeni badala ya kutumia shaba. Hufanya ute kwenye shingo ya kizazi kuwa mzito na hupunguza unene wa ukuta wa ndani wa mfuko wa uzazi; kwa baadhi ya watu kinaweza pia kufanya hedhi kuwa nyepesi sana.\n\nVyote viwili ni njia za \"weka na usahau\" na vyote vina ufanisi wa zaidi ya 99%, kukiwa na tofauti ndogo kati ya matumizi kamilifu na ya kawaida. Hakuna kati yake kinachokinga dhidi ya magonjwa ya zinaa.",
+      "deep": "Vitanzi ni njia za muda mrefu zinazoweza kuondolewa: vikishawekwa huendelea kufanya kazi kwa miaka, na uwezo wa kupata mimba hurejea baada ya kuondolewa. Kuweka na kutoa hufanywa na mhudumu wa afya aliyefunzwa na huchukua dakika chache tu, ingawa baadhi ya watu huhisi usumbufu wakati wa kuwekewa. Sababu ya kawaida ya watu kuchagua kati ya aina hizi mbili ni athari yake kwa hedhi — kitanzi cha shaba (IUD) kinaweza kufanya hedhi kuwa nzito zaidi mwanzoni, ilhali kitanzi cha homoni (IUS) mara nyingi huzifanya kuwa nyepesi. Kipi kinakufaa ni mazungumzo na mhudumu wa afya; makala hii inaeleza tu jinsi kila kimoja kinavyofanya kazi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Siku za kabla ya hedhi",
+      "aliases": [
+        "PMS kwa wenzi",
+        "kumsaidia kabla ya hedhi yake",
+        "msaada wa kabla ya hedhi",
+        "hasira zake kabla ya hedhi",
+        "awamu ya luteal kwa wenzi"
+      ],
+      "glance": "Katika siku za kabla ya hedhi yake anaweza kujisikia uchovu zaidi, mwili kuuma au huzuni — mpokee kwa subira, si kwa utani.",
+      "overview": "Katika wiki moja hivi kabla ya hedhi, watu wengi hupata dalili za kabla ya hedhi: mabadiliko ya hisia, kukasirika haraka au kujisikia huzuni, uchovu, matiti kuuma, tumbo kujaa, maumivu ya kichwa, au shida ya kulala. Ni jambo la kawaida sana na ni la kweli — husababishwa na badiliko la asili la homoni katika awamu ya luteal, si kwa yeye \"kuzidisha mambo\".\n\nKwa idadi ndogo ya watu huzuni huwa kali (hali inayoitwa PMDD) na inastahili msaada wa kweli na huduma ya kitabibu. Vyovyote vile, kazi yako si kumtambua ugonjwa au kumrekebisha — ni kuwa mtulivu na mwema.\n\nJambo moja lenye madhara zaidi ambalo mwenzi anaweza kufanya hapa ni kulitumia kama silaha: \"ni PMS yako tu\", kumzungushia macho, au kuzichukulia hisia zake kuwa si halali kwa sababu ya tarehe. Hilo linampuuza na kuongeza maumivu katika wiki ngumu. Hisia zake bado zina uzito, hata homoni zinapokuwa sehemu ya picha.",
+      "deep": "Kinachosaidia kweli katika siku hizi:\n\n- **Mpunguzie mzigo.** Chukua kazi za nyumbani, upishi, au orodha ya mambo ya kukumbuka bila kuombwa.\n- **Faraja, si masahihisho.** Mpe joto, mapumziko, chupa ya maji ya moto, chakula anachokipenda — na umwache ahisi anachohisi.\n- **Sikiliza kwanza.** Ikiwa amekasirika au ana huzuni, \"hilo linaonekana gumu kweli\" ni bora kuliko \"tulia\" kila mara.\n- **Usiweke hesabu.** Siku ngumu zaidi si deni atakalokulipa baadaye.\n- **Muulize anachohitaji** — wengine wanataka ukaribu, wengine nafasi. Vyote ni sawa; heshimu jibu lake.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Mimba ya mapacha na zaidi",
+      "aliases": [
+        "mapacha",
+        "mimba ya mapacha",
+        "mimba ya watoto wengi",
+        "kutarajia mapacha",
+        "mapacha wanaofanana",
+        "mapacha wasiofanana",
+        "watoto watatu"
+      ],
+      "glance": "Mimba ya mapacha kwa kawaida hugunduliwa kwanza katika ultrasound ya kukadiria umri wa mimba, na humaanisha huduma zaidi kidogo za kliniki ya ujauzito.",
+      "overview": "Kutarajia zaidi ya mtoto mmoja kwa kawaida hugunduliwa kwanza katika **ultrasound ya kukadiria umri wa mimba** (karibu na wiki 12), ambayo inaweza pia kuonyesha kama watoto wanashiriki kondo moja la nyuma.\n\nKuna aina mbili kuu. Mapacha **wanaofanana** hutokana na yai moja lililorutubishwa linalogawanyika, kwa hiyo wanashiriki vinasaba vilevile na daima ni wa jinsia moja. Mapacha **wasiofanana** hutokana na mayai mawili tofauti, na hawafanani zaidi kuliko ndugu wengine wowote; hawa ndio wa kawaida zaidi kati ya aina hizo mbili, na uwezekano wao ni mkubwa kidogo kwa umri mkubwa zaidi, historia ya familia upande wa mama, au baada ya matibabu ya uzazi.\n\nKubeba mapacha au zaidi ni uzoefu wa aina yake, na kwa kawaida humaanisha **huduma zaidi kidogo za kliniki ya ujauzito** — miadi na ultrasound za ziada ili kukufuatilia kwa karibu wewe na watoto wako. Timu yako ya wakunga itakueleza cha kutarajia.",
+      "deep": null,
+      "when_to_see_doctor": "- Ikiwa ultrasound inaonyesha mapacha (au zaidi), **mkunga** wako atakueleza kuhusu uchunguzi na ultrasound za ziada zinazoambatana na mimba ya watoto wengi — kuhudhuria zote ndiyo njia bora ya kuendelea kuhudumiwa vizuri.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Kuuelewa mzunguko wake",
+      "aliases": [
+        "mwongozo wa mzunguko kwa wenzi",
+        "mzunguko kwa wenzi",
+        "jinsi mzunguko wake unavyofanya kazi",
+        "kumsaidia katika mzunguko wake",
+        "hedhi ya mke wangu",
+        "mzunguko wa mpenzi wangu"
+      ],
+      "glance": "Mwili wake hupitia mzunguko wa kila mwezi wenye awamu nne — kujua mambo ya msingi hukusaidia kumsaidia bila kubahatisha.",
+      "overview": "Mzunguko wa hedhi ni mdundo wa takriban kila mwezi, kwa wastani takriban siku 28 lakini mara nyingi popote kati ya 21 hadi 35, na kawaida kwake ni chochote kilicho na mpangilio kwa *yeye*. Huenda katika awamu nne: awamu ya **hedhi** (siku zake za mwezi), awamu ya **folikula**, **ovulesheni** karibu katikati, na awamu ya **luteal** kabla ya hedhi inayofuata.\n\nNguvu, hisia, usingizi na hamu ya kujamiiana vinaweza kubadilika katika awamu hizi kwa sababu homoni hupanda na kushuka — hiyo ni biolojia, si kasoro ya tabia na si jambo la kumtania. Baadhi ya watu huhisi kushuka halisi katika siku za kabla ya hedhi; wengine hawaoni tofauti sana. Hakuna njia moja \"sahihi\" ya kujisikia.\n\nHuhitaji kuwa mtaalamu. Kinachosaidia zaidi ni rahisi: jua takriban yuko wapi katika mzunguko wake (programu hii inaweza kukuonyesha, kwa ruhusa yake), tarajia kuwa baadhi ya siku ni ngumu kuliko nyingine, na umuulize *yeye* anaona nini kinasaidia badala ya kudhani.",
+      "deep": "Mambo machache ya kufahamu, ili hadithi potofu zisijaze pengo:\n\n- **\"Yuko kwenye hedhi\" si tusi wala maelezo ya kutokubaliana naye.** Kutumia mzunguko wake kupuuza hisia zake (\"ni homoni zako tu\") ni kukosa heshima, na kwa kawaida si kweli. Sababu zake bado ni sababu zake.\n- **Mzunguko huathiri zaidi ya hedhi.** Mikakamao ya tumbo, maumivu ya kichwa, matiti kuuma, nguvu kidogo, au hisia kushuka vyote vinaweza kuwa sehemu yake. Msaada wa vitendo ni bora kuliko ushauri.\n- **Ufuatiliaji ni wake.** Akishiriki mzunguko wake nawe, uchukulie kama dirisha la kuona jinsi huenda anavyojisikia — mwaliko wa kuwa mwema, kamwe si chombo cha kumfuatilia au kumdhibiti.\n- **Ukiwa na shaka, uliza.** \"Unajisikiaje leo? Kuna chochote ninachoweza kufanya?\" kina thamani kuliko chati yoyote.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Ukavu ukeni",
+      "aliases": [
+        "ukavu ukeni",
+        "uke mkavu",
+        "ukavu",
+        "ukavu wakati wa kujamiiana",
+        "vaginal dryness",
+        "vaginal atrophy"
+      ],
+      "glance": "Ukavu ukeni ni jambo la kawaida, mara nyingi huhusiana na homoni, na unaweza kusababisha kuuma au usumbufu wakati wa kujamiiana.",
+      "overview": "Ukavu ukeni ni hali ya kawaida ambayo watu wengi huipitia wakati fulani. Hutokea pale unyevu wa kawaida unaoufanya uke ujisikie vizuri unapopungua, na unaweza kuhisika kama kuuma, kuwashwa, au usumbufu — ikiwemo maumivu au usumbufu wakati wa kujamiiana.\n\nMara nyingi huhusiana na homoni, hasa kushuka kwa estrojeni. Ndiyo sababu ni wa kawaida karibu na wakati wa kukoma hedhi na kipindi cha kukaribia kukoma hedhi, lakini unaweza pia kutokea wakati wa kunyonyesha, kwa baadhi ya dawa (kama baadhi ya njia za uzazi wa mpango au dawa za sonona), au pale hakuna msisimko wa kutosha kabla ya kujamiiana. Si jambo la kuona aibu — ni jambo la kimwili, si kielelezo chako wala cha uhusiano wako.\n\nKujua kuwa ni wa kawaida, na kwa kawaida unatibika kwa urahisi, ni mahali pazuri pa kuanzia. Kuna machaguo rahisi yanayoweza kusaidia, na daktari wa familia au mfamasia anaweza kukuelekeza kinachokufaa.",
+      "deep": null,
+      "when_to_see_doctor": "Mwone daktari wa familia ikiwa:\n\n- ukavu ukeni unakusumbua au hauishi baada ya wiki chache\n- unaathiri maisha yako ya kila siku au maisha yako ya kimapenzi\n- pia una uchafu ukeni usio wa kawaida, au unatokwa na damu kokote baada ya kujamiiana, kati ya hedhi, au baada ya kukoma hedhi\n\nHakuna haja ya kuvumilia tu — msaada upo, na mhudumu wa afya anaweza kuangalia chanzo chake na kinachoweza kuupunguza.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Afya ya uke na sehemu za siri za nje",
+      "aliases": [
+        "afya ya uke",
+        "usafi wa sehemu za siri",
+        "kujisafisha ukeni",
+        "kusafisha uke ndani",
+        "uchafu ukeni",
+        "douching",
+        "vaginal health"
+      ],
+      "glance": "Uke hujisafisha wenyewe — unahitaji tu utunzaji wa upole kwa nje, na ute ukeni ni jambo la kawaida.",
+      "overview": "Mojawapo ya mambo yanayotia moyo zaidi kujua ni kwamba uke hujitunza wenyewe. Kwa asili hujisafisha wenyewe, na ute unaouona ni sehemu ya hilo — majimaji yanayouweka safi na wenye unyevu na kusaidia kuukinga dhidi ya maambukizi. Kiasi na umbile lake hubadilika katika mzunguko, jambo ambalo ni la kawaida kabisa.\n\nKwa sababu hii, uke hauhitaji kuoshwa ndani. Kwa kweli, kuosha ndani yake — \"douching\" — kunaweza kuvuruga uwiano wake wa asili. Sehemu ya nje (uke wa nje, au vulva) inahitaji tu utunzaji wa upole: maji ya uvuguvugu na, ukipenda, sabuni laini isiyo na manukato. Ni bora kuepuka sabuni zenye manukato, jeli, dawa za kuondoa harufu na vitambaa vyenye manukato, kwa kuwa vinaweza kusababisha muwasho.\n\nKujua kilicho cha kawaida kwako — ute wako wa kawaida, mwonekano na jinsi unavyohisi — hurahisisha kugundua ikiwa kuna kitu kinabadilika na huenda kinahitaji kuchunguzwa na daktari.",
+      "deep": null,
+      "when_to_see_doctor": "Mwone daktari wa familia au nenda kliniki ya afya ya uzazi na ngono ukiona:\n\n- badiliko la uchafu ukeni — rangi yake, harufu, au umbile lake, au kiasi kingi zaidi kuliko kawaida\n- kuwashwa, kuuma, au muwasho karibu na uke au sehemu za siri za nje\n- kutokwa na damu kati ya hedhi au baada ya kujamiiana\n- maumivu wakati wa kukojoa, au maumivu chini kati ya tumbo lako na mapaja (maumivu ya nyonga)\n\nHaya ni ya kawaida na mara nyingi hutibika kwa urahisi — badiliko la uchafu ukeni linaweza kumaanisha tu maambukizi madogo kama maambukizi ya fangasi ukeni. Kuchunguzwa na daktari ndiyo njia ya kujua, badala ya kubahatisha.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Mzunguko na awamu zake",
+      "summary": "Jinsi mzunguko wako unavyopita katika awamu za hedhi, folikula, ovulesheni na luteal."
+    },
+    "hormones": {
+      "title": "Homoni",
+      "summary": "Wajumbe wanaoendesha mzunguko wako — estrojeni, projesteroni, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Uwezo wa kupata mimba na ovulesheni",
+      "summary": "Siku za rutuba, ishara za ovulesheni, na mambo yanayoathiri uwezo wa kupata mimba."
+    },
+    "contraception": {
+      "title": "Uzazi wa mpango",
+      "summary": "Jinsi njia mbalimbali zinavyofanya kazi, kwa lugha rahisi."
+    },
+    "symptoms-and-signals": {
+      "title": "Dalili na ishara za mwili",
+      "summary": "Maumivu, matone ya damu kati ya hedhi, uchafu ukeni, hisia — kile ambacho mwili wako huenda unakuambia."
+    },
+    "conditions": {
+      "title": "Magonjwa na hali za kiafya",
+      "summary": "PCOS, endometriosis, fibroidi na mengineyo — yameelezwa, pamoja na vyanzo."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Afya ya ngono na ya faragha",
+      "summary": "Ustawi wa faragha, kujisikia vizuri, na maswali yanayoulizwa mara kwa mara."
+    },
+    "life-stages": {
+      "title": "Hatua za maisha",
+      "summary": "Kuanzia hedhi ya kwanza hadi kipindi cha kukaribia kukoma hedhi na kukoma hedhi."
+    },
+    "wellbeing": {
+      "title": "Ustawi na mzunguko",
+      "summary": "Jinsi usingizi, msongo wa mawazo na maisha ya kila siku yanavyohusiana na mzunguko wako."
+    },
+    "tests-and-exams": {
+      "title": "Vipimo na uchunguzi",
+      "summary": "Kujichunguza matiti, uchunguzi wa shingo ya kizazi, vipimo vya ovulesheni na zaidi."
+    },
+    "pregnancy": {
+      "title": "Ujauzito",
+      "summary": "Dalili za mwanzo, kuwa na afya njema, dalili za hatari, na kupoteza mimba — yameelezwa, pamoja na vyanzo."
+    },
+    "for-partners": {
+      "title": "Kwa wenzi",
+      "summary": "Kuelewa mzunguko wake, kumsaidia vizuri, na kujenga uhusiano unaojengwa juu ya heshima."
+    },
+    "safety-and-support": {
+      "title": "Usalama na msaada",
+      "summary": "Kutambua unyanyasaji, kuwa salama, na jinsi ya kupata msaada — pamoja na nambari za dharura."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Elewa mzunguko wako kwa hatua 5",
+      "summary": "Safari tulivu kupitia mzunguko mzima na kila moja ya awamu zake nne."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Kuifahamu ovulesheni",
+      "summary": "Ovulesheni ni nini, siku za rutuba, na ishara ambazo mwili wako hutoa."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Homoni zinazoendesha mzunguko wako",
+      "summary": "Wafahamu wajumbe wanne wanaoendesha mzunguko — na kazi ya kila mmoja wao."
+    }
+  }
+}

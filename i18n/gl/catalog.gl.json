@@ -1,0 +1,1394 @@
+{
+  "_meta": {
+    "lang": "gl",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alcol no embarazo",
+      "aliases": [
+        "alcol no embarazo",
+        "beber no embarazo",
+        "alcol e embarazo",
+        "alcol fetal",
+        "TEAF",
+        "beber alcol embarazada"
+      ],
+      "glance": "O máis seguro é non beber nada de alcol durante o embarazo nin cando estás a tentar quedar embarazada.",
+      "overview": "O consello do NHS é claro e sinxelo: o máis seguro é **non beber nada de alcol** se estás embarazada ou a tentar concibir. Non beber reduce ao mínimo calquera risco para o teu bebé.\n\nO motivo é que o alcol pasa do teu sangue, a través da placenta, ao teu bebé, cuxo fígado aínda non está o bastante desenvolvido para procesalo. Beber durante o embarazo pode provocar un trastorno do espectro alcohólico fetal (TEAF), un conxunto de dificultades para toda a vida na aprendizaxe, no comportamento e no desenvolvemento.\n\nSe bebiches antes de saber que estabas embarazada, tenta non preocuparte: é probable que o risco para o bebé por pequenas cantidades ao comezo sexa baixo. O que axuda é, simplemente, evitar o alcol durante o resto do embarazo a partir de agora.",
+      "deep": null,
+      "when_to_see_doctor": "- Se che está a custar deixar de beber, non é nada do que avergoñarse: cóntallo á túa matroa ou ao teu médico/a de familia. Poden ofrecerche apoio sen xulgarte, e pedir axuda é bo para ti e para o teu bebé.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Coidados prenatais",
+      "aliases": [
+        "coidados prenatais",
+        "control do embarazo",
+        "seguimento do embarazo",
+        "citas coa matroa",
+        "primeira visita do embarazo",
+        "consultas prenatais",
+        "control prenatal"
+      ],
+      "glance": "Os coidados prenatais son as revisións regulares durante o embarazo que axudan a que ti e o teu bebé esteades ben.",
+      "overview": "Os coidados prenatais son a atención que recibes durante o embarazo para que ti e o teu bebé esteades o máis sans posible. Normalmente verás unha matroa e, se o precisas, tamén un médico. Paga a pena comezar cedo: contacta coa túa matroa ou co teu médico/a de familia en canto saibas que estás embarazada.\n\nA túa primeira cita completa, a chamada «primeira visita do embarazo», adoita ser entre as semanas 8 e 12. Despois ofrécenseche revisións regulares: polo menos 10 citas e 2 ecografías se é o teu primeiro bebé, ou arredor de 7 se xa diches a luz antes, con máis cara ao final.\n\nNestas visitas a matroa mídeche a tensión arterial e analiza a ouriña, mide a barriga para seguir o crecemento do bebé, ofrécete probas de cribado e fala contigo dos movementos do bebé e de como te sentes. Moitas cousas importantes, como a preeclampsia ou a diabetes xestacional, detéctanse aquí antes de que ti notes nada, e precisamente por iso importan estas citas.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta cunha **matroa ou co teu médico/a de familia en canto saibas que estás embarazada** para que os teus coidados comecen cedo, idealmente a tempo para esa primeira cita antes das 10 a 12 semanas, aproximadamente.\n- Tenta acudir a **todas** as túas citas prenatais, aínda que te sintas perfectamente ben: varias revisións están pensadas para detectar a tempo problemas que non dan síntomas.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Os movementos do teu bebé",
+      "aliases": [
+        "movementos do bebé",
+        "movementos fetais",
+        "patadas do bebé",
+        "sentir o bebé",
+        "o bebé móvese menos",
+        "menos movementos"
+      ],
+      "glance": "Sentir que o teu bebé se move é sinal de que está ben; se os movementos diminúen ou cambian, chama á túa matroa de inmediato.",
+      "overview": "Sentir que o teu bebé se move é un dos sinais tranquilizadores de que está ben. A maioría das persoas empezan a notar os movementos entre as semanas 16 e 24 de embarazo; no primeiro embarazo adoita ser máis tarde, así que a primeira vez é habitual notalos despois da semana 20.\n\nNon hai un número concreto de movementos que «deberías» sentir, nin cómpre contar patadas para chegar a unha cifra. Cada bebé é diferente, e o que importa é coñecer o patrón habitual do **teu** bebé ao longo do día: os momentos nos que está activo e os momentos nos que está tranquilo.\n\nUnha vez que coñeces ese patrón, o que hai que vixiar é calquera cambio nel. Confía no que sabes do teu propio bebé.",
+      "deep": null,
+      "when_to_see_doctor": "Coñecer o patrón normal do teu bebé é o que che permite notar un cambio. Se algunha vez dubidas de se os movementos diminuíron ou cambiaron, sempre está ben chamar para consultalo: nunca lle estarás facendo perder o tempo a ninguén.",
+      "red_flags": "- Se o teu bebé **se move menos do habitual, os seus movementos cambian ou non o notas moverse**, **chama á túa matroa ou á unidade de maternidade de inmediato**, a calquera hora do día ou da noite. **Non esperes ao día seguinte**, aínda que sexa no medio da noite.\n- Non te fíes dun monitor caseiro do latexo cardíaco (doppler) nin dunha app para quedar tranquila: fai que te revisen en persoa."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Dor de costas no embarazo",
+      "aliases": [
+        "dor de costas no embarazo",
+        "dor lumbar no embarazo",
+        "dor de costas embarazada",
+        "lumbago no embarazo",
+        "dor na parte baixa das costas"
+      ],
+      "glance": "A dor de costas é moi común no embarazo, porque os ligamentos se afrouxan e a barriga medra; adoita ser inofensiva.",
+      "overview": "A dor de costas é unha das molestias máis comúns do embarazo. Mentres o corpo se prepara para o parto, os ligamentos afróuxanse e estíranse de forma natural, e a barriga, que vai medrando, cambia a maneira en que levas o peso: as dúas cousas cargan máis a parte baixa das costas e a pelve.\n\nHai cousas do día a día que poden aliviala: coidar a postura ao estar de pé, ao estar sentada e ao levantar peso; usar calzado plano que suxeite ben; un colchón firme ou unha almofada de apoio; e movemento suave e regular, como camiñar, ioga para embarazadas ou exercicios dunha clase. Se de verdade che está a limitar, un fisioterapeuta especializado en obstetricia pode darche consellos adaptados a ti.\n\nA maior parte da dor de costas no embarazo non é motivo de preocupación, pero hai algúns patróns que paga a pena facer revisar axiña, e para iso serven as indicacións de abaixo.",
+      "deep": null,
+      "when_to_see_doctor": "Contacta axiña co teu **médico/a de familia ou coa matroa** se a dor de costas:\n\n- é **forte**, ou aparece no **segundo ou terceiro trimestre** (ás veces pode ser un sinal de parto prematuro)\n- vén acompañada de **febre, sangrado vaxinal ou dor ao ouriñar**\n- está **nun costado ou nos dous, debaixo das costelas**",
+      "red_flags": "- Chama ao **{{emergency}} ou vai a urxencias do hospital** se **perdes a sensibilidade nas pernas, nas nádegas ou nos xenitais**, ou se perdes o control da vexiga ou do intestino. É pouco frecuente, pero precisa atención de urxencia."
+    },
+    "basal-body-temperature": {
+      "title": "Temperatura basal",
+      "aliases": [
+        "temperatura basal",
+        "tcb",
+        "bbt",
+        "temperatura ao espertar",
+        "método da temperatura",
+        "temperatura corporal basal"
+      ],
+      "glance": "A temperatura basal é a túa temperatura en repouso pola mañá, que sobe lixeiramente despois da ovulación.",
+      "overview": "A temperatura corporal basal (TCB) é a temperatura do teu corpo en repouso total. Se a mides do mesmo xeito cada día, mostra un cambio pequeno pero revelador ao longo do ciclo: despois da ovulación sobe un pouco e mantense alta ata a seguinte regra.\n\nA subida é pequena, arredor de 0,4 a 0,8 °F (aproximadamente 0,2 a 0,4 °C), así que se le nun patrón de varios días, non nunha soa medición. Para detectala, tómaste a temperatura cada mañá antes de levantarte, comer ou beber, idealmente á mesma hora. Uns tres días despois de que a temperatura comece a subir, case todo o mundo xa ovulou.\n\nComo a subida chega *despois* de que se libere o óvulo, a TCB confirma que a ovulación xa ocorreu, en lugar de predicila con antelación. Ao longo duns cantos ciclos pode axudarche a ver a forma do teu propio ciclo, aínda que por si soa non é unha forma precisa de detectar os días fértiles.",
+      "deep": "A TCB é un dos sinais do coñecemento da fertilidade que se rexistran a diario, xunto co moco cervical e a duración do ciclo. Combina de forma natural co seguimento do moco: o cambio a un moco transparente e esvaradío suxire que se está a abrir a xanela fértil, mentres que a subida da temperatura uns días despois confirma que a ovulación xa pasou. Moitas cousas poden alterar a temperatura en repouso (durmir mal, estar enferma, o alcol ou quedar máis tempo na cama), así que unha medición estraña por si soa importa menos ca a tendencia xeral.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Sangrado no embarazo",
+      "aliases": [
+        "sangrado no embarazo",
+        "sangrado vaxinal no embarazo",
+        "manchado no embarazo",
+        "sangrar embarazada",
+        "perdas de sangue no embarazo"
+      ],
+      "glance": "O sangrado no embarazo non sempre é grave (un manchado leve é común ao principio), pero fai sempre que cho revisen.",
+      "overview": "Sangrar pola vaxina durante o embarazo non sempre é sinal de que algo vaia mal. Un sangrado leve ou un manchado é bastante común, sobre todo ao comezo do embarazo, e moitos embarazos seguen adiante perfectamente despois.\n\nDito isto, o sangrado ás veces pode ser sinal dun problema, como un aborto espontáneo ou un embarazo ectópico, así que é algo que **sempre hai que facer revisar**, sexa cal sexa a cantidade. Que o revisen é o xeito de atopar a causa e de recibir axiña a atención axeitada se a necesitas.\n\nComo un mesmo síntoma pode significar cousas moi distintas, o útil non é adiviñar, senón contactar e que te vexan.",
+      "deep": null,
+      "when_to_see_doctor": "- **Contacta sempre coa túa unidade de maternidade** (ou, se estás de menos de 20 semanas ou non tes o seu número, cunha unidade de embarazo precoz ou cun **servizo médico de garda**) se tes **calquera** sangrado vaxinal no embarazo, mesmo un manchado leve, para que se poida revisar a causa.",
+      "red_flags": "- Chama ao **{{emergency}} ou vai a urxencias do hospital** se tes un **sangrado abundante** (por exemplo, se empapas por completo unha compresa pouco despois de poñela), sobre todo se vén con **dor forte na barriga, dor na punta do ombreiro, náuseas, sensación de desmaio, mareo ou perda do coñecemento.** Isto precisa atención de urxencia."
+    },
+    "breast-awareness": {
+      "title": "Coñecer as túas mamas",
+      "aliases": [
+        "autoexploración mamaria",
+        "explorar as mamas",
+        "revisar o peito",
+        "autoexame de mama",
+        "bulto no peito",
+        "coñecer as mamas"
+      ],
+      "glance": "Coñecer as túas mamas é simplemente saber como son e como as notas normalmente, para darte conta dos cambios.",
+      "overview": "Coñecer as túas mamas non é ningunha técnica especial: é só familiarizarte co que é normal para ti, para que calquera cousa nova destaque. Revisar as mamas ou o peito con regularidade axúdache a aprender o seu aspecto e o seu tacto habituais; unha vez ao mes é un bo ritmo.\n\nNon hai unha única forma «correcta». Moitas persoas míranse no espello cos brazos baixados e despois levantados, e palpan cada mama ata a axila. O que buscas é familiaridade, non un diagnóstico: o obxectivo é só notar axiña un cambio, se se produce.\n\nAs mamas tamén cambian de forma natural ao longo do ciclo e da vida, polo que algúns cambios son completamente normais. A idea é coñecer o teu normal o bastante ben como para detectar algo que non o é.",
+      "deep": null,
+      "when_to_see_doctor": "Consulta co teu médico/a de familia se notas calquera cambio que non sexa normal para ti, como:\n\n- un bulto ou inchazo na mama, no peito ou na axila\n- un cambio na pel, como pequenas covas (pode parecer pel de laranxa) ou zonas avermelladas\n- un cambio no tamaño ou na forma dunha mama ou das dúas\n- secreción polo mamilo (se non estás embarazada nin dando o peito), que pode levar sangue\n- un cambio no aspecto do mamilo, por exemplo, que se afunda cara a dentro\n- dor na mama ou na axila que non desaparece\n\nA maioría dos cambios nas mamas non son cancro e resultan ser inofensivos, pero sempre paga a pena facer revisar axiña calquera cambio, porque, se algo precisa atención, detectalo cedo axuda.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Lactación materna",
+      "aliases": [
+        "lactación materna",
+        "dar o peito",
+        "leite materno",
+        "amamantar",
+        "aleitamento",
+        "alimentar o bebé"
+      ],
+      "glance": "O leite materno protexe o bebé das infeccións e adáptase a medida que medra; calquera cantidade ten beneficios.",
+      "overview": "O leite materno é un alimento natural e completo para o bebé: dálle a nutrición, as vitaminas e os minerais que precisa, e vai cambiando co tempo para adaptarse a cada etapa. Tamén axuda a protexelo de infeccións e enfermidades, e ofrece algúns beneficios para a saúde a máis longo prazo.\n\nTamén hai beneficios para quen dá o peito (a lactación materna asóciase, entre outras cousas, cun menor risco de cancro de mama e de ovario) e, en xeral, canto máis e durante máis tempo se dá o peito, maiores son os beneficios. E, moi importante, **calquera** cantidade de leite materno paga a pena; non é todo ou nada.\n\nAlimentar un bebé tamén pode resultar máis difícil do esperado ao principio, e iso é habitual. Hai axuda dispoñible (da túa matroa, da enfermeira de pediatría e dos servizos locais de apoio á lactación), así que pedir axuda cedo se as cousas non van ben é unha boa idea.",
+      "deep": null,
+      "when_to_see_doctor": "- Pídelle axuda cedo á túa **matroa ou á enfermeira de pediatría** se dar de mamar che doe ou che resulta difícil, ou se te preocupa que o bebé non estea a tomar abondo: o apoio pode marcar unha gran diferenza.\n- Como alimentas o teu bebé é unha decisión persoal, e hai apoio decidas o que decidas; o que importa é que ti e o teu bebé esteades ben.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Fluxo marrón",
+      "aliases": [
+        "fluxo marrón",
+        "manchado marrón",
+        "sangue marrón",
+        "sangue vello",
+        "fluxo escuro",
+        "regra marrón",
+        "fluxo vaxinal marrón"
+      ],
+      "glance": "O fluxo marrón adoita ser un pouco de sangue, a miúdo nos días máis lixeiros da regra. Se aparece un manchado marrón noutros momentos, paga a pena facelo revisar.",
+      "overview": "O fluxo marrón é unha pequena cantidade de sangue ou fluído amarronado que notas na roupa interior ou no papel hixiénico. É algo que moitas persoas ven nalgún momento e, moi a miúdo, é simplemente parte da regra.\n\nO sangue da regra non sempre é vermello vivo. Nos días de máis sangrado adoita ser vermello, pero nos días máis lixeiros pode verse rosado ou marrón. Así que un ton amarronado nos días máis lixeiros da regra é algo común e normal.\n\nO marrón tamén pode aparecer noutros momentos. O manchado son pequenas manchas de sangue rosado, vermello ou marrón, e o manchado entre regras ten varias causas comúns. A anticoncepción hormonal, como a pílula, é unha das máis frecuentes. Outras son pequenos crecementos dentro ou arredor do útero (como pólipos ou miomas) e infeccións como a clamidia. Ao comezo do embarazo, algunhas persoas notan un pequeno manchado arredor da data en que lles tocaría a regra. Isto coñécese como sangrado de implantación.\n\nComo un manchado marrón fóra da regra pode ter causas distintas, a maioría leves, o útil non é adiviñar, senón facelo revisar, para saber que hai detrás no teu caso.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta co teu médico/a de familia ou nun centro de saúde sexual se tes **manchado marrón ou sangrado entre regras ou despois de manter relacións sexuais**, aínda que sexa leve. Normalmente non é grave, pero sempre paga a pena facelo revisar.\n- Se **estás embarazada ou podes estalo**, contacta coa túa unidade de maternidade, cunha unidade de embarazo precoz ou cun **servizo médico de garda** por calquera manchado, incluído o marrón, para que se poida revisar a causa.\n- Consulta co teu médico/a de familia se notas **calquera fluxo ou sangrado marrón ou rosado despois da menopausa**, aínda que sexa só unha pequena cantidade ou só pasase unha vez.\n- Pide consello ao teu médico/a de familia, nun centro de saúde sexual ou a un servizo médico de garda se o teu fluxo **cambia de cor, de cheiro ou de textura**, ou vén con proído, irritación, dor pélvica ou dor ao ouriñar.",
+      "red_flags": "- Pide unha cita **urxente** co teu médico/a de familia, ou contacta cun **servizo médico de garda**, se **recentemente non che veu a regra cando tocaba e tes un sangrado pouco habitual xunto con dor na barriga ou na pelve**. Isto hai que revisalo axiña, porque pode ser sinal dun embarazo ectópico.\n- Se estás embarazada, chama ao **{{emergency}}** se estás a sangrar e tes **dor forte na barriga, dor no ombreiro, sensación de desmaio, mareo ou náuseas, ou se o sangrado é abundante** (se empapas por completo unha compresa pouco despois de poñela)."
+    },
+    "cervical-mucus": {
+      "title": "Moco cervical",
+      "aliases": [
+        "moco cervical",
+        "fluxo",
+        "fluxo vaxinal",
+        "secrecións cervicais",
+        "moco clara de ovo",
+        "moco fértil"
+      ],
+      "glance": "O moco cervical é o fluxo natural que cambia ao longo do ciclo e sinala os teus días fértiles.",
+      "overview": "O moco cervical é o fluído que produce o colo do útero, e podes notalo como fluxo vaxinal. É normal, e o seu aspecto e a súa textura cambian seguindo un patrón bastante previsible ao longo do ciclo; por iso é un dos sinais que se usan para detectar os días fértiles.\n\nXusto despois da regra adoita haber uns cantos días «secos», con pouco moco. Cando un óvulo empeza a madurar, o moco aumenta e adoita ser branco ou amarelo, turbio e pegañento. Nos días xusto antes da ovulación normalmente vólvese transparente, húmido e esvaradío, e estírase entre os dedos coma a clara de ovo crúa: este é o momento máis fértil. Despois da ovulación adoita volver ser pegañento e turbio, ou secar.\n\nO patrón de cada persoa é un pouco diferente, e pode levar uns cantos ciclos de atención aprender o teu. Algunhas cousas (como a anticoncepción hormonal, a lactación ou unha infección) poden cambiar o moco, así que non é un sinal de fertilidade fiable para todo o mundo.",
+      "deep": "Observar o moco cervical é un dos sinais do coñecemento da fertilidade que se rexistran, xunto coa temperatura corporal en repouso e a duración do ciclo; aprender a interpretalos adoita levar de dous a tres ciclos. A diferenza da subida da temperatura, que só confirma a ovulación despois de que ocorra, o cambio a un moco transparente, esvaradío e tipo clara de ovo adoita aparecer *antes* da ovulación, e por iso se usa para sinalar a xanela fértil cando se abre, e non despois de que se peche.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Cribado do colo do útero (citoloxía)",
+      "aliases": [
+        "cribado do colo do útero",
+        "citoloxía",
+        "citoloxía vaxinal",
+        "proba de Papanicolau",
+        "papanicolau",
+        "cribado cervical",
+        "test do VPH"
+      ],
+      "glance": "O cribado do colo do útero é unha revisión habitual da saúde do colo do útero que axuda a previr o cancro de colo do útero.",
+      "overview": "O cribado do colo do útero é unha proba que revisa a saúde do colo do útero, a entrada ao útero na parte superior da vaxina. Non é unha proba para detectar cancro. É, en cambio, unha forma de detectar cambios cedo e de axudar a evitar que chegue a desenvolverse un cancro de colo do útero.\n\nConvídase a todas as persoas con colo do útero desde os 25 ata os 64 anos. Recibes unha invitación cando che toca, a intervalos regulares, así que non tes que lembrar pedir cita pola túa conta, aínda que sempre é decisión túa acudir ou non.\n\nA proba en si é rápida e faina unha enfermeira. Moitas persoas están un pouco nerviosas antes da proba, o que é totalmente comprensible; saber para que serve (unha revisión habitual e preventiva) pode facer que resulte máis levadeira.",
+      "deep": null,
+      "when_to_see_doctor": "- O cribado é para cando **non** tes síntomas. Se entre un cribado e outro notas algo que che preocupa, como un sangrado pouco habitual (entre regras, despois de manter relacións sexuais ou despois da menopausa), consulta co teu médico/a de familia en vez de esperar á seguinte invitación.\n- Se che chegou a invitación e tes dúbidas ou che dá ansiedade ir, paga a pena falalo co teu médico/a de familia ou coa enfermeira do centro de saúde, que che poden explicar o que se fai e responder ás túas preguntas.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Maltrato infantil e protección da infancia",
+      "aliases": [
+        "maltrato infantil",
+        "abuso infantil",
+        "protección da infancia",
+        "protexer un neno",
+        "preocupada por un neno",
+        "neglixencia",
+        "abandono infantil"
+      ],
+      "glance": "Se che preocupa que un neno ou nena poida estar a sufrir dano ou abandono, está ben pedir consello: non tes que estar segura.",
+      "overview": "O abuso ou maltrato infantil é calquera dano a unha persoa menor de 18 anos. Inclúe o maltrato físico, sexual e emocional, e a neglixencia (non cubrir as necesidades básicas dun neno ou nena). Por desgraza, é frecuente, pode causar un dano para toda a vida e nunca é culpa do neno ou da nena.\n\nPode que che preocupe un neno ou nena da túa vida, ou un no que reparaches. Non tes que estar segura nin ter probas para actuar ante esa preocupación: confiar nela e pedir consello é exactamente o que hai que facer, e pode protexer un neno ou nena.\n\nE se ti mesma sufriches maltrato na infancia, que saibas que o dano nunca foi culpa túa e que tamén hai apoio para ti, a calquera idade.",
+      "deep": null,
+      "when_to_see_doctor": "- Se che preocupa un neno ou nena, podes contactar cos **servizos de protección da infancia / servizos sociais**, cunha **liña de axuda específica de protección da infancia** ou co teu **médico/a de familia, a enfermeira de pediatría ou o centro escolar do neno ou nena** para pedir consello, de forma confidencial.\n- Non estás «esaxerando» por preguntar. É mellor comprobalo que esperar.",
+      "red_flags": "- Se un neno ou nena está en **perigo inmediato** ou gravemente ferido, contacta agora cos servizos de emerxencia: o **112** na UE (incluída Italia), o **999** no Reino Unido e o **911** nos Estados Unidos e no Canadá."
+    },
+    "coercive-control": {
+      "title": "Control coercitivo",
+      "aliases": [
+        "control coercitivo",
+        "comportamento controlador",
+        "maltrato emocional",
+        "maltrato psicolóxico",
+        "illamento",
+        "maltrato económico",
+        "luz de gas",
+        "gaslighting"
+      ],
+      "glance": "O control coercitivo é un patrón de comportamento controlador (illar, vixiar, ameazar) que está recoñecido como unha forma de maltrato.",
+      "overview": "O control coercitivo é unha forma de maltrato que funciona a través do control, en lugar do dano físico ou ademais del. É un patrón, non unha discusión puntual, no que unha persoa vai limitando pouco a pouco a liberdade da outra e a súa identidade.\n\nPode consistir en que te afasten das amizades e da familia, en que che vixíen ou restrinxan o teléfono, os movementos ou os gastos, en que che digan que roupa poñer ou como comportarte, ou en vivir con críticas, ameazas ou intimidación constantes. Como pode non haber hematomas, pode ser difícil poñerlle nome, e as demais persoas poden non velo, pero está recoñecido como maltrato e pode facer tanto dano coma a violencia física.\n\nSe recoñeces algo disto, non é sinal de que sexas demasiado sensible nin de que ti o provocases. O comportamento controlador é unha elección da outra persoa. Entendelo polo que é pode ser o primeiro paso cara ao apoio.",
+      "deep": "O control coercitivo adoita construírse pouco a pouco, e iso é parte do que o fai difícil de ver desde dentro: os pequenos controis vólvense normais e as dúbidas sobre ti mesma medran. Co tempo, desgasta a saúde mental. Falalo con alguén formado para entender estes patróns pode axudarche a ver a situación con máis claridade e a pensar no que queres facer a continuación, sen presión.",
+      "when_to_see_doctor": "- Un centro contra a violencia ou unha liña de axuda (en Italia, o **1522**) pode falar contigo do que estás a vivir, de forma confidencial e gratuíta, e axudarche a entender as túas opcións: non tes que estar en perigo físico para pedir axuda.\n- O teu médico/a de familia ou un psicólogo ou psicóloga tamén poden apoiarte e orientarte cara a servizos especializados.",
+      "red_flags": "- Se estás en **perigo inmediato**, contacta agora cos servizos de emerxencia: o **112** na UE (incluída Italia), o **999** no Reino Unido e o **911** nos Estados Unidos e no Canadá.\n- En Italia, o **1522** é gratuíto, está dispoñible as 24 horas do día, é anónimo e multilingüe, por teléfono ou por chat."
+    },
+    "combined-pill": {
+      "title": "A pílula combinada",
+      "aliases": [
+        "pílula combinada",
+        "a pílula",
+        "anticonceptivo oral combinado",
+        "AOC",
+        "pastilla anticonceptiva",
+        "anovulatorios"
+      ],
+      "glance": "A pílula combinada é unha pílula diaria con dúas hormonas que funciona sobre todo impedindo a ovulación.",
+      "overview": "A pílula combinada é un comprimido diario que contén dúas hormonas, versións do estróxeno e do proxestóxeno, parecidas ás que producen os ovarios. É unha das formas de anticoncepción máis coñecidas.\n\nPrevén o embarazo de varias maneiras á vez. Principalmente, impide que os ovarios liberen un óvulo (a ovulación). Tamén espesa o moco do colo do útero, o que dificulta o paso dos espermatozoides, e fai máis fino o revestimento do útero.\n\nA súa eficacia depende de tomala segundo as indicacións: é eficaz en máis do 99 % dos casos cun uso perfecto, pero co uso típico do día a día (no que ás veces se esquecen ou se atrasan tomas) é eficaz arredor do 91 %. Como a maioría dos métodos, non protexe fronte ás ITS, así que algunhas persoas usan tamén preservativo.",
+      "deep": "A pílula combinada adoita tomarse seguindo unha pauta ao longo do mes, e como tomala, a quen lle convén e os seus efectos secundarios e riscos son cousas que repasa un profesional sanitario cando a receita: non é axeitada para todo o mundo. Como é un método diario, a súa eficacia na vida real depende moito da rutina. Este artigo explica que é e como funciona; os detalles de como empezala, tomala ou deixala son algo que hai que falar co médico/a de familia, a enfermeira ou o farmacéutico.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Síntomas comúns do embarazo",
+      "aliases": [
+        "síntomas comúns do embarazo",
+        "molestias do embarazo",
+        "azia no embarazo",
+        "dor de costas no embarazo",
+        "nocellos inchados",
+        "estrinximento no embarazo",
+        "dores no embarazo"
+      ],
+      "glance": "O embarazo trae moitas pequenas molestias e cambios; a maioría son normais, aínda que algúns paga a pena facelos revisar.",
+      "overview": "O embarazo supón moitos cambios para o teu corpo, e vén cunha longa lista de pequenas molestias do día a día. A maioría son comúns e non indican que algo vaia mal: son simplemente parte de xestar un bebé.\n\nEntre as habituais están a dor de costas, a azia e a indixestión, o estrinximento, as hemorroides, os nocellos, os pés e os dedos inchados, o cansazo e o sono interrompido, as cambras nas pernas, as dores de cabeza, a sensación de desmaio e máis fluxo vaxinal do habitual. Moitas melloran con pequenas medidas para estar máis cómoda, e a túa matroa pode suxerirche que é seguro se algo che molesta.\n\nO útil é saber que cambios son dos normais e cales paga a pena comentar, porque algúns síntomas, aínda que menos comúns, si precisan revisión en lugar de agardar a que pasen.",
+      "deep": null,
+      "when_to_see_doctor": "A maioría son normais, pero contacta axiña coa túa **matroa ou coa unidade de maternidade** se tes ou notas:\n\n- **sangrado vaxinal**, ou unha saída repentina de líquido, a chorro ou a pingas\n- que o teu **bebé se move menos** do habitual\n- **dor de cabeza forte, problemas de visión ou inchazo repentino** da cara, as mans ou os pés (posibles sinais de preeclampsia)\n- **dor de barriga forte ou só nun lado**, ou **febre**\n- **proído**, sobre todo nas mans e nos pés ou que empeora pola noite (pode ser sinal dunha afección do fígado no embarazo que hai que revisar)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Preservativos",
+      "aliases": [
+        "preservativo",
+        "preservativos",
+        "condón",
+        "goma",
+        "método barreira",
+        "preservativo externo"
+      ],
+      "glance": "O preservativo é un método barreira e o único tipo de anticoncepción que tamén protexe fronte ás ITS.",
+      "overview": "O preservativo é unha barreira fina (normalmente de látex, ou dun material plástico alternativo para quen ten alerxia ao látex) que se pon no pene durante as relacións sexuais. Funciona de forma sinxela: impide que os espermatozoides entren na vaxina.\n\nO que fai especial o preservativo entre os anticonceptivos é que é **o único método que tamén protexe fronte ás infeccións de transmisión sexual (ITS), incluído o VIH.** Por iso adoita usarse xunto con outro método: un para evitar o embarazo, e os dous xuntos para protexerse tamén das infeccións.\n\nUsado correctamente todas as veces, o preservativo ten unha eficacia de arredor do 98 % para previr o embarazo. Co uso típico (no que ás veces se usa mal ou non se usa sempre), baixa a arredor do 82 %. Usalo ben e de forma constante é o que marca a diferenza.",
+      "deep": "Como o preservativo se usa no momento e non con antelación, a súa eficacia na vida real depende moito de usalo sempre e correctamente. O preservativo interno (que se pon dentro da vaxina) é outra opción de barreira. A diferenza da maioría dos métodos, o preservativo non precisa receita e é fácil de conseguir, e o seu dobre papel (protección fronte ao embarazo e fronte ás ITS) é o motivo polo que aparece tan a miúdo nas conversas sobre sexo máis seguro.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Consentimento e respecto",
+      "aliases": [
+        "consentimento",
+        "respectar os seus límites",
+        "consentimento entusiasta",
+        "autonomía corporal",
+        "respecto na parella",
+        "non é non"
+      ],
+      "glance": "O consentimento é un si claro, libre e entusiasta, cada vez, e pódese retirar en calquera momento.",
+      "overview": "O respecto comeza polo seu dereito a decidir sobre o seu propio corpo, sempre. Consentir na intimidade significa un **si** dado libremente, informado e entusiasta. O silencio non é consentimento. Un «vale» a desgana non é consentimento. Unha persoa que está durmida, moi bébeda ou baixo presión non pode consentir de verdade. E un si a unha cousa, ou nun día concreto, non é un si a todo nin á próxima vez.\n\nO consentimento pódese retirar en calquera momento, e «para» ou «hoxe non» é unha resposta completa que non precisa xustificación. Presionar, facela sentir culpable, amuarse ata que ela ceda ou tratar o sexo como algo que che deben non está ben: unha relación non é unha débeda.",
+      "deep": "Como é o respecto na práctica:\n\n- **Pregunta e comproba.** «Está ben isto?», e presta atención a como responde, coas palabras e co corpo.\n- **Acepta un «non» con boas maneiras.** Sen poñer mala cara, sen presionar e sen castigar. A súa resposta pon fin ao tema.\n- **O entusiasmo importa.** Se parece insegura, dubidosa ou que simplemente se deixa levar, para e pregunta.\n- **O seu corpo, a súa decisión**: sobre a intimidade, a anticoncepción, o embarazo, a súa saúde, o seu aspecto e as súas eleccións. Ti tes voz na vida que compartides, nunca un veto sobre o seu corpo.\n- **O respecto é diario.** Como lle falas, como falas dela e como respectas os seus límites nas cousas pequenas é a base sobre a que se apoia todo o demais.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Anticoncepción",
+      "aliases": [
+        "anticoncepción",
+        "métodos anticonceptivos",
+        "anticonceptivos",
+        "control da natalidade",
+        "planificación familiar"
+      ],
+      "glance": "A anticoncepción son as distintas formas de evitar un embarazo, e hai moitas para escoller.",
+      "overview": "A anticoncepción, ás veces chamada control da natalidade, é o conxunto de métodos que se usan para evitar un embarazo. Hai moitos, e funcionan de maneiras diferentes: algúns usan hormonas, outros son barreiras, outros colócanse dentro do útero e outros baséanse no seguimento do ciclo.\n\nA eficacia dun método depende moito de como se use. Algúns métodos, como o implante e os DIU, son de «poñer e esquecer», e teñen unha eficacia de máis do 99 %. Outros, como a pílula ou o preservativo, son moi eficaces cun uso perfecto, pero un pouco menos co uso típico do día a día, porque é máis fácil esquecer unha pílula ou usar mal un preservativo.\n\nUnha cousa que convén saber: **só o preservativo protexe tamén fronte ás infeccións de transmisión sexual (ITS)**. Os demais métodos preveñen o embarazo pero non as infeccións, e por iso ás veces se usa o preservativo xunto con outro método.\n\nNon hai un único método «mellor»: o axeitado depende da túa saúde, do teu corpo e do que encaixa na túa vida. O teu médico/a de familia ou un centro de saúde sexual poden explicarche as opcións e axudarche a escoller.",
+      "deep": "Como os métodos son tan diferentes, axuda pensar no que é importante para ti: que eficacia ten, se implica lembrar algo cada día, canto dura, se queres hormonas ou non, e se a protección fronte ás ITS importa na túa situación. Moitas persoas cambian de método ao longo da vida a medida que cambian as súas necesidades. Esta base de coñecemento describe como funcionan os métodos máis comúns para que as opcións resulten máis claras, pero a decisión, e calquera receita ou colocación, hai que tomala cun profesional sanitario.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Anticoncepción e peso",
+      "aliases": [
+        "a pílula engorda",
+        "pílula e aumento de peso",
+        "anticoncepción e peso",
+        "os anticonceptivos engordan",
+        "engordar coa pílula",
+        "inxección anticonceptiva e peso",
+        "implante e peso"
+      ],
+      "glance": "Non hai probas de que a pílula combinada faga gañar peso, pero a inxección anticonceptiva si pode facelo. Depende do método.",
+      "overview": "Preguntarse se a anticoncepción fará que engordes é unha dúbida moi habitual. A resposta sincera é que depende do método.\n\nNo caso da pílula combinada, os estudos son tranquilizadores: non hai probas de que tomala faga gañar peso. O mesmo pasa co parche anticonceptivo e co anel vaxinal.\n\nA inxección anticonceptiva é diferente. O aumento de peso figura como un dos seus efectos secundarios comúns, xunto cos cambios na regra.\n\nCoa pílula só de proxestóxeno (ás veces chamada minipílula) e co implante anticonceptivo, algunhas persoas din que gañaron peso. Pero non hai probas suficientes para dicir se a causa é o propio método.\n\nO peso é só unha parte do cadro. Cada método ten a súa propia lista de posibles efectos secundarios e riscos, e escoller anticoncepción consiste en atopar o que lle vai ben ao teu corpo, á túa saúde e á túa vida. Un farmacéutico, o teu médico/a de familia, unha enfermeira ou un centro de saúde sexual poden repasar as opcións contigo.",
+      "deep": null,
+      "when_to_see_doctor": "- Se os efectos secundarios, incluídos os cambios de peso, son un problema para ti, fala cun farmacéutico, co teu médico/a de familia, cunha enfermeira ou nun centro de saúde sexual. Coa pílula combinada, o parche ou o anel, algúns efectos secundarios poden aparecer ao comezar. Se aínda che molestan despois duns 3 meses, un profesional sanitario pode falar contigo doutra pílula ou doutro tipo de anticoncepción.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "O implante anticonceptivo",
+      "aliases": [
+        "implante anticonceptivo",
+        "o implante",
+        "Nexplanon",
+        "implante",
+        "implante no brazo",
+        "variña anticonceptiva"
+      ],
+      "glance": "O implante é unha variña diminuta que se coloca na parte superior do brazo e libera unha hormona durante uns anos.",
+      "overview": "O implante anticonceptivo é unha variña pequena e flexible, aproximadamente do tamaño dun misto, que un profesional sanitario formado coloca xusto debaixo da pel da parte superior do brazo. Unha vez colocado, libera de forma constante unha hormona, un proxestóxeno, e funciona ata uns tres anos.\n\nPrevén o embarazo principalmente impedindo que os ovarios liberen un óvulo (a ovulación) e espesando o moco do colo do útero para que os espermatozoides non poidan pasar. Como non hai nada que lembrar no día a día, é un dos métodos de «poñer e esquecer».\n\nPor iso mesmo é unha das opcións máis fiables: o implante ten unha eficacia de máis do 99 %, e a súa eficacia apenas cambia entre o uso perfecto e o típico. Como outros métodos hormonais, non protexe fronte ás ITS.",
+      "deep": "O implante é un método reversible de longa duración: segue funcionando ata que se retira, e a fertilidade volve despois de retiralo. Colocalo e retiralo son procedementos rápidos que fai un profesional sanitario, que tamén explica a quen lle convén e cales son os seus efectos secundarios. Este artigo explica que é e como funciona; a decisión de poñelo é algo que hai que falar co médico/a de familia, a enfermeira ou nun centro de saúde sexual.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "O teu ciclo e o teu benestar",
+      "aliases": [
+        "benestar",
+        "ciclo e saúde",
+        "ciclo menstrual e saúde",
+        "sinal vital",
+        "regra e saúde"
+      ],
+      "glance": "O teu ciclo é un pouco como unha revisión mensual da túa saúde: os cambios nel poden merecer atención.",
+      "overview": "O teu ciclo menstrual non está separado do resto da túa saúde: está conectado con ela. Un ciclo que é regular para ti adoita ser sinal de que o teu corpo funciona como debe. Por iso hai quen pensa na regra como unha especie de sinal mensual sobre o benestar xeral.\n\nA vida diaria inflúe nel. O peso corporal é un exemplo: ter un peso bastante inferior ou superior ao saudable pode afectar as hormonas que desencadean a ovulación, e iso pode facer que as regras sexan irregulares. Isto funciona nos dous sentidos: coidar o básico, como unha alimentación equilibrada e manterse activa, favorece o ciclo, e un ciclo estable é sinal de que esas cousas están nun equilibrio razoable.\n\nNon se trata de perseguir un ciclo «perfecto» nin de culparte polos cambios. Simplemente, prestar unha atención tranquila ao teu ciclo pode ser unha xanela útil para saber como estás, e un aviso para consultar cun profesional sanitario se algo cambia.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta co teu médico/a de familia se as túas regras se volven irregulares, desaparecen ou cambian dun xeito que non é habitual para ti: os cambios que se manteñen ás veces poden indicar algo que paga a pena investigar.\n- Tamén paga a pena falalo se os problemas coa regra están a afectar o teu día a día, para que poidas recibir apoio en vez de simplemente aguantalos.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Maltrato económico",
+      "aliases": [
+        "maltrato económico",
+        "violencia económica",
+        "control do diñeiro",
+        "controlar as finanzas",
+        "débedas ao meu nome",
+        "abuso financeiro"
+      ],
+      "glance": "O maltrato económico é controlar o acceso doutra persoa ao diñeiro, ao traballo ou aos recursos; é unha forma de maltrato recoñecida.",
+      "overview": "O maltrato económico é cando alguén controla o acceso doutra persoa ao diñeiro e ao que se pode comprar con el. É unha forma de comportamento controlador, e a miúdo vai xunto con outros tipos de maltrato.\n\nPode consistir en controlar todos os gastos ou obrigarte a dar contas de cada céntimo, quedarse co teu salario ou coas túas prestacións, endebedarse ao teu nome, ocultarche as contas bancarias ou os documentos, ou impedirche traballar ou estudar. Como pode deixar unha persoa sen medios para marchar ou para arranxarse no día a día, é unha das formas en que o maltrato pode sentirse como unha trampa.\n\nSe algo disto che resulta familiar, non é sinal de que sexas «mala co diñeiro» nin de que teñas a culpa. Controlar os recursos doutra persoa é unha elección que fai esa persoa, e está recoñecido como maltrato.",
+      "deep": null,
+      "when_to_see_doctor": "- Os servizos contra a violencia tamén poden axudar con isto: non só coa seguridade, senón tamén con pasos prácticos e económicos, de forma confidencial e gratuíta (en Italia, a liña **1522** pode orientarte cara a apoio local).\n- Un plan de seguridade pode incluír asegurar con discreción o acceso a algo de diñeiro, a documentos clave e a números importantes.",
+      "red_flags": "- Se estás en **perigo inmediato**, contacta agora cos servizos de emerxencia: o **112** na UE (incluída Italia), o **999** no Reino Unido e o **911** nos Estados Unidos e no Canadá.\n- En Italia, o **1522** (gratuíto, as 24 horas do día, anónimo e multilingüe) pode axudarte por teléfono ou por chat."
+    },
+    "ectopic-pregnancy": {
+      "title": "Embarazo ectópico",
+      "aliases": [
+        "embarazo ectópico",
+        "ectópico",
+        "embarazo tubárico",
+        "embarazo fóra do útero"
+      ],
+      "glance": "Un embarazo ectópico desenvólvese fóra do útero: non pode seguir adiante e precisa atención médica rápida.",
+      "overview": "Un embarazo ectópico prodúcese cando un óvulo fecundado se implanta fóra do útero, na maioría dos casos nunha das trompas de Falopio. Por desgraza, un embarazo nesa posición non pode converterse nun bebé nin se pode trasladar ao útero, así que sempre hai que tratalo.\n\nOs sinais adoitan aparecer aproximadamente entre as semanas 4 e 12, e poden incluír dor na parte baixa da barriga nun lado, sangrado vaxinal ou un fluxo marrón e acuoso, dor na punta do ombreiro, ou molestias ao ouriñar ou ao facer de ventre. A combinación de síntomas varía, e algúns poden confundirse facilmente con algo leve; por iso importa facelos revisar.\n\nÉ unha situación pouco común, pero potencialmente grave, así que non é algo para agardar a ver se pasa. Pedir consello cedo permite atendela con seguridade.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta co teu médico/a de familia ou cun **servizo médico de garda** se tes unha combinación destes síntomas **e podes estar embarazada**, aínda que non tiveses un test de embarazo positivo. É importante pedir consello de inmediato.",
+      "red_flags": "- Chama ao **{{emergency}} ou vai a urxencias do hospital** se tes unha **dor na barriga repentina, aguda e intensa**, tes **un mareo moi forte ou sensación de desmaio**, estás **moi pálida** ou tes náuseas xunto con isto. Pode significar que a trompa de Falopio rompeu, unha urxencia médica que precisa tratamento inmediato."
+    },
+    "emergency-contraception": {
+      "title": "Anticoncepción de emerxencia",
+      "aliases": [
+        "anticoncepción de emerxencia",
+        "pílula do día despois",
+        "pílula do día seguinte",
+        "pílula de emerxencia",
+        "Levonelle",
+        "ellaOne",
+        "Norlevo"
+      ],
+      "glance": "A anticoncepción de emerxencia pode evitar un embarazo despois dunha relación sen protección, e canto antes, mellor.",
+      "overview": "A anticoncepción de emerxencia é unha forma de evitar un embarazo despois de manter relacións sexuais sen anticoncepción, ou cando o teu método habitual puido fallar (unha pílula esquecida, un preservativo roto). Hai dous tipos, e en ambos importa o momento.\n\nO primeiro é a **pílula de emerxencia** (a pílula do día despois). Hai dúas clases: unha (levonorgestrel) pódese tomar ata 3 días (72 horas) despois da relación, e outra (acetato de ulipristal, marca comercial ellaOne) ata 5 días (120 horas). A segunda opción é o **DIU de cobre (dispositivo intrauterino)**, que un profesional sanitario pode colocar ata 5 días despois da relación; é a forma máis eficaz de anticoncepción de emerxencia, e despois pode quedar colocado como anticoncepción continuada se queres.\n\nEn todos os casos, **canto antes os uses, mellor adoitan funcionar**, así que paga a pena actuar rápido en vez de esperar. Podes conseguir anticoncepción de emerxencia nunha farmacia, co teu médico/a de familia, nun centro de saúde sexual ou nun centro de atención sen cita, a miúdo de balde.",
+      "deep": null,
+      "when_to_see_doctor": "- Como o tempo conta, non esperes: un farmacéutico pode darche a pílula de emerxencia rapidamente, e un centro de saúde sexual ou o teu médico/a de familia poden colocar o DIU.\n- A anticoncepción de emerxencia serve para previr o embarazo, non as infeccións. Se hai algunha posibilidade dunha infección de transmisión sexual, un centro de saúde sexual pode aconsellarte sobre as probas.\n- Se despois a regra se atrasa máis duns cantos días, ou é moi diferente do habitual, paga a pena facer un test de embarazo e falar cun profesional sanitario.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriose",
+      "aliases": [
+        "endometriose",
+        "endo",
+        "endometriosis",
+        "regras moi dolorosas",
+        "dor pélvica crónica"
+      ],
+      "glance": "A endometriose é unha afección na que un tecido parecido ao revestimento do útero medra fóra del e adoita causar dor.",
+      "overview": "A endometriose é unha afección de longa duración na que células parecidas ás do revestimento do útero medran noutras partes do corpo, como arredor dos ovarios, na pelve ou no intestino. É común: calcúlase que afecta a arredor de 1 de cada 10 mulleres en idade reprodutiva en todo o mundo.\n\nComo este tecido se comporta un pouco coma o revestimento do útero, pode causar inflamación e, co tempo, tecido cicatricial. O sinal máis común é a dor: a miúdo, dor menstrual forte, pero tamén dor pélvica ou na parte baixa das costas noutros momentos, dor durante as relacións sexuais ou despois delas, e dor ao ouriñar ou ao facer de ventre. Tamén son comúns as regras moi abundantes, un cansazo profundo, o ánimo baixo e a dificultade para quedar embarazada. Os síntomas varían moito: algunhas persoas teñen unha dor intensa e outras, pouca.\n\nA endometriose adoita malinterpretarse e pode tardar anos en recoñecerse, en parte porque a dor menstrual se considera «normal» con moita frecuencia. Unha dor forte que altera a túa vida non é algo que simplemente teñas que aguantar: paga a pena tomala en serio.",
+      "deep": "Non se coñece a causa exacta da endometriose e, polo de agora, non ten cura, pero os tratamentos poden axudar a controlar os síntomas, e o apoio vai desde os medicamentos ata, para algunhas persoas, a cirurxía, xunto con axuda para o desgaste físico e emocional. Un dos maiores desafíos é o atraso: de media, pode levar varios anos, ás veces moitos, chegar a un diagnóstico. Por iso pode importar tanto levar un rexistro claro dos teus síntomas e volver a consultar se sentes que non te escoitan.",
+      "when_to_see_doctor": "Paga a pena consultar co teu médico/a de familia se:\n\n- tes unha dor menstrual forte que che impide facer as túas actividades normais\n- as túas regras son moi abundantes: por exemplo, se tes que cambiar a compresa ou o tampón cada 1–2 horas\n- tes dor pélvica ou na parte baixa das costas que non desaparece, dor durante as relacións sexuais ou despois delas, ou dor ao ouriñar ou ao facer de ventre\n- che está a custar quedar embarazada\n- o tratamento que xa recibiches non axudou, ou os teus síntomas empeoraron\n\nComo a endometriose pode tardar en diagnosticarse, está ben volver se non se toman en serio os teus síntomas: unha imaxe clara da túa dor ao longo do tempo axuda. Se a dor ou o sangrado abundante tamén están a afectar o teu estado de ánimo, cóntallo ao teu médico/a de familia; iso tamén forma parte do cadro, e hai apoio dispoñible.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estróxeno",
+      "aliases": [
+        "estróxeno",
+        "estróxenos",
+        "estrógeno",
+        "estradiol",
+        "oestrogen"
+      ],
+      "glance": "O estróxeno é unha hormona clave que axuda a preparar o teu corpo para un posible embarazo en cada ciclo.",
+      "overview": "O estróxeno é unha das principais hormonas do ciclo menstrual. Na primeira metade do ciclo (a fase folicular), o seu nivel sobe a medida que madura un folículo no ovario. Esta subida engrosa o revestimento do útero e prepara o camiño cara á ovulación.\n\nO estróxeno tamén inflúe en cousas que podes notar no día a día: a enerxía, o estado de ánimo e os cambios no moco cervical arredor dos teus días fértiles. Despois da ovulación o seu nivel baixa e logo volve cambiar, traballando xunto con outra hormona, a proxesterona, durante a segunda metade do ciclo.\n\nOs niveis soben e baixan de forma natural en cada ciclo, e tamén cambian nas distintas etapas da vida. Isto é normal: é o ritmo co que funciona o teu corpo, non algo que haxa que «arranxar».",
+      "deep": "O estróxeno non é unha soa substancia, senón un grupo de hormonas relacionadas (a máis activa no ciclo é o estradiol). A maior parte prodúcena os ovarios, no folículo en crecemento. A súa subida e baixada cíclica (xunto coa proxesterona e coas hormonas de sinalización do cerebro, a LH e a FSH) é o que move as fases do ciclo. Como o estróxeno inflúe en moitos sistemas, os seus cambios naturais poden notarse en pequenos detalles ao longo do mes; o rexistro axúdache a aprender o teu propio patrón en vez de comparalo cunha «media».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Movemento e o teu ciclo",
+      "aliases": [
+        "exercicio",
+        "actividade física",
+        "facer deporte",
+        "movemento",
+        "exercicio e regra",
+        "deporte coa regra"
+      ],
+      "glance": "Podes manterte activa durante todo o ciclo, e o movemento regular pode aliviar as cólicas e a síndrome premenstrual.",
+      "overview": "Podes facer actividade física en calquera momento do ciclo. Hai persoas que notan que teñen máis enerxía e poden esforzarse un pouco máis nalgúns momentos do mes, e menos noutros: as dúas cousas son normais, e ningunha é motivo para deixar de moverte.\n\nDe feito, a actividade regular pode axudar con algúns síntomas relacionados coa regra. As persoas que fan exercicio con regularidade adoitan ter menos cólicas dolorosas, e manterse activa tamén pode aliviar os síntomas premenstruais (SPM). Nos días de menos enerxía, o movemento máis suave tamén conta: non ten que ser intenso para pagar a pena.\n\nNon cómpre organizar a túa vida arredor do ciclo, nin hai unha única forma «correcta» de moverse. Fixarte no teu propio patrón de enerxía ao longo do mes pode axudarche, simplemente, a planificarte dun xeito que che sente ben.",
+      "deep": null,
+      "when_to_see_doctor": "- Adestrar moi intensamente, ou facer tanto exercicio que o teu corpo quede sen enerxía suficiente, pode facer que as regras se volvan irregulares ou desaparezan por completo. Un ciclo regular adoita ser sinal de que as cousas van ben, así que paga a pena falar co teu médico/a de familia se as túas regras se volven irregulares ou desaparecen: co tempo, isto pode estar relacionado coa saúde dos ósos e das hormonas.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Exercicio no embarazo",
+      "aliases": [
+        "exercicio no embarazo",
+        "manterse activa embarazada",
+        "deporte no embarazo",
+        "estar en forma no embarazo",
+        "ioga para embarazadas"
+      ],
+      "glance": "Manterse activa é seguro e bo na maioría dos embarazos: con suavidade, sen esgotarte.",
+      "overview": "Manterte activa no embarazo é bo para ti e non é perigoso para o teu bebé; de feito, estar en forma pode axudarche a afrontar os cambios que veñen e o parto. Non tes que empezar nada intenso: seguir coa túa actividade diaria normal, sempre que che resulte cómoda, é un bo punto de partida.\n\nUnha regra sinxela: deberías poder **manter unha conversa** mentres te moves. Se che falta tanto o alento que non podes falar, baixa o ritmo. As opcións suaves, como camiñar, nadar, as clases de exercicio na auga para embarazadas e o ioga para embarazadas, van ben á maioría das persoas. Se antes non eras activa, este non é o momento de empezar unha rutina nova e intensa: vai aumentando pouco a pouco.\n\nHai algunhas actividades que é mellor evitar ou facer con coidado, como estar deitada boca arriba despois das 16 semanas aproximadamente, os deportes de contacto, o mergullo con botella e calquera cousa cun risco real de caída.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta coa túa **matroa** antes de empezar un novo programa de exercicio aeróbico, ou se tes algunha doenza ou algunha preocupación sobre o embarazo.\n- **Para e pide consello** se te sentes mal, mareada ou moi sen alento, ou se tes calquera dor, sangrado ou contraccións mentres fas exercicio.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "A xanela fértil",
+      "aliases": [
+        "xanela fértil",
+        "días fértiles",
+        "días máis fértiles",
+        "ventá fértil",
+        "cando son fértil"
+      ],
+      "glance": "A xanela fértil son os poucos días de cada ciclo nos que as relacións sexuais poden levar a un embarazo.",
+      "overview": "A xanela fértil é o curto período do ciclo no que é posible quedar embarazada. Existe por dous tempos que non coinciden de todo: un óvulo só se pode fecundar durante unhas 12 a 24 horas despois de liberarse, pero os espermatozoides poden sobrevivir dentro do corpo varios días (ata unha semana, aproximadamente) á espera dun óvulo.\n\nXuntando as dúas cousas, a xanela ábrese uns días antes da ovulación e péchase aproximadamente un día despois. Na práctica, es máis fértil nos 2 a 3 días previos á ovulación e no propio día, porque os espermatozoides xa poden estar alí cando chega o óvulo.\n\nComo a ovulación pode variar dun ciclo a outro, a xanela fértil tamén se move. Por iso adoita pensarse nela como un intervalo de días e non como unha única data, e por iso rexistrar os sinais durante varios ciclos é máis fiable que confiar nun só cálculo de calendario.",
+      "deep": "Os días exactos varían dunha persoa a outra e dun mes a outro, así que a xanela estímase mellor a partir dos propios sinais do corpo que cunha fórmula fixa. Os cambios no moco cervical indican que a xanela se está a abrir a medida que se achega a ovulación, e unha subida da temperatura corporal en repouso confirma, a posteriori, que a ovulación xa pasou e que a xanela se pechou. Os tests de predición da ovulación funcionan un paso antes, detectando o pico de hormona luteinizante (LH) que se produce pouco antes de que se libere o óvulo.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "A primeira regra",
+      "aliases": [
+        "primeira regra",
+        "menarquia",
+        "baixar a regra por primeira vez",
+        "empezar coa regra",
+        "vir a regra"
+      ],
+      "glance": "A primeira regra adoita chegar arredor dos 12 anos; é normal en calquera momento entre os 8 e os 17, aproximadamente.",
+      "overview": "A primeira regra, ás veces chamada menarquia, é cando o ciclo menstrual comeza por primeira vez. A maioría das persoas empeza arredor dos 12 anos, pero é normal en calquera momento entre os 8 e os 17, aproximadamente. Adoita chegar uns dous anos despois de que empecen a desenvolverse as mamas.\n\nNormalmente hai sinais previos: aparece pelo nas axilas e no pube, e un pouco de fluxo transparente ou branco nos meses anteriores. Saber que isto vai pasar pode facer que a primeira regra pareza menos repentina.\n\nAo principio, as regras adoitan ser irregulares (o tempo entre unha e outra pode ser longo ou curto), e o corpo pode tardar varios meses, ou mesmo un par de anos, en asentarse nun ritmo máis estable. Cando o fai, as regras adoitan vir aproximadamente cada 23 a 35 días e duran uns 2 a 7 días. A irregularidade ao principio é normal e non é motivo de preocupación.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta co médico/a de familia se a regra **non comezou aos 15 anos**, ou aos **13 se non hai outros sinais de puberdade** (como o desenvolvemento das mamas ou o pelo corporal). Só é para comprobar que todo se está a desenvolver como se espera; normalmente todo está ben.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Ácido fólico e vitaminas no embarazo",
+      "aliases": [
+        "ácido fólico",
+        "folato",
+        "vitamina D no embarazo",
+        "vitaminas no embarazo",
+        "suplementos no embarazo",
+        "folatos"
+      ],
+      "glance": "O ácido fólico antes e ao comezo do embarazo axuda a protexer o bebé, e ademais cómpre vitamina D a diario.",
+      "overview": "Hai dous suplementos que importan de verdade no embarazo, e o NHS recomenda os dous.\n\nO **ácido fólico** é o principal. Tomar un suplemento de 400 microgramos cada día (idealmente desde antes de concibir, uns tres meses antes, e ata o final do primeiro trimestre, ás 12 semanas) axuda a protexer o bebé fronte aos defectos do tubo neural, como a espiña bífida. Como actúa tan cedo, é unha das poucas cousas que paga a pena empezar *antes* do embarazo se o estás a buscar.\n\nA outra é a **vitamina D**: recoméndase un suplemento diario de 10 microgramos durante todo o embarazo e mentres dás o peito, para favorecer os ósos e o desenvolvemento do bebé.\n\nAlén destes dous, unha dieta sa e variada cobre a maioría das necesidades: non precisas moitos suplementos extra. Un que convén evitar é a **vitamina A** (retinol): non tomes suplementos que a conteñan e evita o fígado, porque o exceso de vitamina A pode danar o bebé.",
+      "deep": null,
+      "when_to_see_doctor": "- O teu **médico/a de familia, a matroa ou un farmacéutico** poden axudarche a escoller os suplementos axeitados, e a algunhas persoas recoméndaselles tomar unha **dose máis alta de ácido fólico** (por exemplo, con diabetes, un IMC máis alto, certos medicamentos ou un embarazo anterior afectado por un defecto do tubo neural), así que paga a pena preguntar, sobre todo antes do embarazo ou ao comezo.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Fase folicular",
+      "aliases": [
+        "fase folicular",
+        "primeira metade do ciclo",
+        "folicular"
+      ],
+      "glance": "A fase folicular é a primeira metade do ciclo, cando madura un óvulo e se engrosa o revestimento do útero.",
+      "overview": "A fase folicular é a primeira parte do ciclo. Comeza o primeiro día da regra e dura ata a ovulación. O seu nome vén do folículo, o pequeno saco cheo de líquido do ovario que contén e fai medrar un óvulo durante este tempo.\n\nAo longo desta fase sobe a hormona estróxeno. Esa subida do estróxeno fai dúas cousas principais: axuda a madurar un folículo no ovario e engrosa o revestimento do útero, preparando o corpo por se comeza un embarazo máis adiante no ciclo.\n\nComo o estróxeno vai subindo, algunhas persoas notan máis enerxía ou cambios no moco cervical a medida que se achegan os días fértiles. A experiencia de cada persoa é diferente, e nada diso precisa «xestionarse»: é simplemente a primeira metade do teu ciclo facendo o seu traballo.",
+      "deep": "A fase folicular pode variar de duración dun ciclo a outro, e iso é parte do motivo polo que os ciclos completos son distintos dunha persoa a outra e dun mes a outro. Remata cando a subida do estróxeno axuda a desencadear a liberación dun óvulo (a ovulación). Como os seus últimos días levan á ovulación, é entón cando se abre a xanela fértil, e por iso o final da fase folicular importa a quen rexistra a súa fertilidade.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Alimentos que evitar no embarazo",
+      "aliases": [
+        "alimentos que evitar no embarazo",
+        "dieta no embarazo",
+        "que non comer embarazada",
+        "cafeína no embarazo",
+        "listeria",
+        "queixo no embarazo"
+      ],
+      "glance": "A maioría dos alimentos están ben no embarazo; algúns paga a pena evitalos, e axuda tomar pouca cafeína.",
+      "overview": "A boa nova é que a maioría dos alimentos están perfectamente ben no embarazo: só uns poucos paga a pena evitalos ou tomalos con coidado, sobre todo para evitar xermes como a listeria ou un exceso de certas vitaminas. Coñecer esa lista curta permite que te despreocupes do resto.\n\nO NHS aconsella ter coidado con:\n\n- **Algúns queixos**: os queixos brandos de casca enmofada, como o brie e o camembert, e os queixos azuis brandos, salvo que estean cociñados ata que queimen e boten fume; e calquera cousa feita con leite **sen pasteurizar**.\n- **A carne crúa ou pouco feita**, os embutidos curados, o **paté** e o **fígado** (que ten moitísima vitamina A).\n- **Os ovos crus ou coa xema líquida**, salvo que leven o selo British Lion.\n- **Algúns peixes**: evita o tiburón, o peixe espada e o marlín, limita o atún e non tomes máis de dúas racións de peixe azul á semana.\n- **A cafeína**: mantena por debaixo duns 200 mg ao día (aproximadamente dúas cuncas de café soluble), contando tamén o té, os refrescos de cola, as bebidas enerxéticas e o chocolate.",
+      "deep": null,
+      "when_to_see_doctor": "- Isto son indicacións xerais, non unha dieta estrita: se tes preguntas sobre o que é seguro para ti, ou unha necesidade alimentaria concreta, a túa **matroa** pode falalo contigo.\n- Se comiches algo da lista de «evitar», tenta non asustarte; coméntallo á túa matroa se estás preocupada ou te sentes mal.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Hormona foliculoestimulante (FSH)",
+      "aliases": [
+        "fsh",
+        "hormona foliculoestimulante",
+        "hormona folículo estimulante",
+        "foliculoestimulante"
+      ],
+      "glance": "A FSH é unha hormona do cerebro que fai que os folículos do ovario empecen a medrar ao comezo de cada ciclo.",
+      "overview": "A FSH (hormona foliculoestimulante) é unha das hormonas mensaxeiras que poñen en marcha o ciclo. Prodúcea unha pequena glándula do cerebro (a hipófise) e, como indica o seu nome, estimula os folículos: os diminutos sacos cheos de líquido do ovario, cada un dos cales contén un óvulo.\n\nAo comezo do ciclo, a FSH fai que un grupo destes folículos empece a medrar. A medida que un folículo se desenvolve, libera máis estróxeno, que á súa vez engrosa o revestimento do útero para un posible embarazo. Normalmente un folículo convértese no dominante, o que segue adiante cara á ovulación.\n\nA FSH sobe e baixa como parte do vaivén normal do ciclo. Non notas a FSH directamente: actúa en silencio, en segundo plano, preparando os cambios máis visibles da fase folicular.",
+      "deep": "A FSH funciona en parella coa hormona luteinizante (LH); as dúas libéraas a hipófise, no cerebro, e xuntas guían os ovarios ao longo do ciclo. A FSH dirixe a primeira metade, facendo medrar os folículos, mentres que o pico de LH marca máis tarde a liberación dun óvulo a metade do ciclo. Esta parella tamén explica por que os tratamentos de fertilidade usan medicamentos baseados na FSH: administrar FSH extra fai que varios folículos maduren á vez, en lugar do único que adoita producir un ciclo natural.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Diabetes xestacional",
+      "aliases": [
+        "diabetes xestacional",
+        "diabetes no embarazo",
+        "azucre alto no embarazo",
+        "glicosa alta no embarazo",
+        "curva de glicosa",
+        "test de O'Sullivan"
+      ],
+      "glance": "A diabetes xestacional é o azucre elevado no sangue durante o embarazo; adoita detectarse nas probas de cribado e a miúdo desaparece despois do parto.",
+      "overview": "A diabetes xestacional é un nivel alto de azucre (glicosa) no sangue que aparece durante o embarazo, cando o corpo non dá abasto coa demanda extra de insulina. Na maioría das persoas desaparece despois de que nace o bebé.\n\nNormalmente **non dá síntomas**, así que se detecta mediante unha proba de cribado que se ofrece no embarazo (unha proba de tolerancia á glicosa, a miúdo arredor das semanas 24 a 28), sobre todo se tes factores que aumentan a probabilidade, como un peso máis alto, antecedentes familiares de diabetes, un bebé anterior grande ou certas orixes étnicas.\n\nÉ moi controlable. Manter o azucre no sangue nun rango saudable (coa alimentación, a actividade física e ás veces medicación, sempre coa orientación do teu equipo sanitario) reduce a probabilidade de complicacións para ti e para o teu bebé, e por iso paga a pena levar un bo control.",
+      "deep": null,
+      "when_to_see_doctor": "- Fai a **proba de cribado** se cha ofrecen: como a diabetes xestacional adoita non dar síntomas, as probas son a forma de detectala.\n- Non esperes á proba se notas posibles sinais de azucre alto no sangue (moita sede, ganas de ouriñar moi a miúdo, boca seca ou cansazo): coméntallos á túa matroa ou ao teu médico.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Onde pedir axuda",
+      "aliases": [
+        "pedir axuda",
+        "a quen contactar",
+        "liñas de axuda",
+        "números útiles",
+        "centro contra a violencia",
+        "1522",
+        "números de emerxencia"
+      ],
+      "glance": "Hai axuda gratuíta e confidencial: nunha emerxencia chama ao número de emerxencias local; en Italia, ao 1522 a calquera hora.",
+      "overview": "Se estás a sufrir maltrato, non tes que afrontalo soa, e pedir axuda non te compromete a nada. Hai persoas cuxo traballo é precisamente escoitar e axudar, de forma confidencial e gratuíta.\n\nHai varios tipos de axuda, uns xunto a outros:\n\n- **Servizos de emerxencia**: se hai perigo inmediato, chama ao número de emerxencias local (máis abaixo).\n- **Unha liña de axuda nacional**: en Italia, o **1522**, a liña gratuíta contra a violencia e o acoso, aberta as 24 horas do día, anónima, dispoñible en varios idiomas, por teléfono ou por chat en liña.\n- **Centros contra a violencia** (en Italia, *centri antiviolenza*): servizos locais que ofrecen apoio gratuíto e confidencial, plans de seguridade e axuda legal e psicolóxica.\n- **Servizos sanitarios**: o teu médico/a de familia ou as urxencias do hospital, onde o persoal está cada vez máis formado para recoñecer o maltrato e poñerte en contacto con apoio.\n- **Persoas de confianza**: unha amiga, un amigo ou un familiar co que te sintas segura.\n\nPodes empezar polo que che pareza máis posible, e non tes que ter nada decidido.",
+      "deep": null,
+      "when_to_see_doctor": "- Podes falar co teu **médico/a de familia ou nun hospital** de forma confidencial sobre o que está a pasar; poden tratar calquera lesión e poñerte en contacto con servizos especializados.\n- Se che resulta máis fácil escribir que falar, o **chat do 1522** é outra vía.",
+      "red_flags": "- Se estás en **perigo inmediato**, contacta agora cos servizos de emerxencia: o **112** na UE (incluída Italia), o **999** no Reino Unido e o **911** nos Estados Unidos e no Canadá.\n- **Italia:** **1522** (gratuíto, 24/7, anónimo, multilingüe; por teléfono ou chat).\n- Os números das liñas de axuda cambian dun país a outro. A app pode mostrarche os números do teu país, e **findahelpline.com** recolle liñas de axuda contra a violencia de todo o mundo (detecta o teu país e ten un botón de saída rápida). Se estás na UE, o **112** funciona en todas partes."
+    },
+    "group-b-strep": {
+      "title": "Estreptococo do grupo B (EGB)",
+      "aliases": [
+        "estreptococo do grupo B",
+        "EGB",
+        "GBS",
+        "estreptococo B no embarazo",
+        "strep B",
+        "exsudado vaxinal e rectal"
+      ],
+      "glance": "O estreptococo do grupo B é unha bacteria común e normalmente inofensiva; o pequeno risco é para o bebé durante o parto, e pódese controlar.",
+      "overview": "O estreptococo do grupo B (EGB) é unha bacteria moi común que levan moitas persoas, normalmente na vaxina ou no recto, sen sabelo e sen que lles cause ningún dano. Non é unha infección de transmisión sexual, e levala é normal.\n\nNo embarazo só importa porque hai unha **pequena probabilidade** de que pase ao bebé arredor do momento do parto e, raramente, de que o faga enfermar: isto ocorre aproximadamente en 1 de cada 1.750 embarazos. A miúdo descóbrese por casualidade, por exemplo nunha análise de ouriña ou nun exsudado vaxinal feito por outro motivo (o NHS non fai un cribado sistemático a todo o mundo).\n\nO tranquilizador é que se pode controlar moi ben: se se sabe que tes EGB, recibir **antibióticos por vía intravenosa (gota a gota) durante o parto** reduce moito a probabilidade de que o bebé enferme.",
+      "deep": null,
+      "when_to_see_doctor": "- Se che din que es portadora de estreptococo do grupo B (agora ou nun embarazo anterior), **infórmao á túa matroa ou ao equipo de maternidade**, para que se poidan planificar os antibióticos durante o parto. É un paso sinxelo que marca unha diferenza real.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Azia e indixestión no embarazo",
+      "aliases": [
+        "azia no embarazo",
+        "indixestión no embarazo",
+        "refluxo no embarazo",
+        "refluxo",
+        "ardor de estómago",
+        "acidez"
+      ],
+      "glance": "A azia é moi común no embarazo; adoita ser inofensiva e a miúdo alíviase con pequenos cambios do día a día.",
+      "overview": "A azia e a indixestión (unha sensación de ardor ou molestia no peito, a miúdo despois de comer) son moi comúns no embarazo. Débense a que as hormonas do embarazo relaxan o músculo da parte superior do estómago e, máis adiante, a que o bebé, ao medrar, empurra cara arriba. É molesto, pero non prexudicial.\n\nOs pequenos cambios adoitan axudar: comer menos cantidade e máis a miúdo en vez de facer comidas grandes, estar sentada dereita mentres comes e durante un tempo despois, reducir as comidas picantes, graxentas ou con cafeína, e non cear tarde xusto antes de deitarte. A algunhas persoas resúltalles máis cómodo durmir un pouco incorporadas.\n\nSe iso non abonda, un **farmacéutico** pode recomendarche antiácidos que sexan seguros no embarazo: é un bo primeiro paso antes de que se converta nunha molestia maior.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta co teu **médico/a de familia ou coa matroa** se os cambios sinxelos e os remedios da farmacia non axudan, ou se tes **dificultade para tragar**, vomitas ou regurxitas a comida unha e outra vez, perdes peso sen pretendelo ou tes dor de barriga: paga a pena facer revisar estas cousas en vez de atribuílas a unha azia normal.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Regras abundantes",
+      "aliases": [
+        "regras abundantes",
+        "menorraxia",
+        "sangrado menstrual abundante",
+        "sangro moito coa regra",
+        "sangrado abundante",
+        "coágulos",
+        "regra moi forte"
+      ],
+      "glance": "As regras abundantes supoñen perder moito sangue en cada ciclo; son comúns, pero paga a pena consultalo se che afectan.",
+      "overview": "As regras abundantes (o nome médico é menorraxia) supoñen perder moito sangue durante a regra. Para algunhas persoas, sangrar moito é simplemente o seu normal, pero se che está a alterar a vida ou te deixa esgotada, paga a pena investigalo.\n\nAlgúns sinais de que as regras son abundantes: ter que cambiar a compresa ou o tampón cada 1 a 2 horas, usar dous produtos menstruais á vez (como un tampón e unha compresa), traspasar o sangue á roupa ou á cama, expulsar coágulos de sangue de máis de 2,5 cm aproximadamente (máis ou menos o tamaño dunha moeda británica de 10 peniques), ou regras que duran máis de 7 días.\n\nPerder moito sangue mes tras mes pode deixarte cansa ou sen alento, porque pode provocar un nivel baixo de ferro (anemia). Hai moitas causas posibles (desde miomas ou afeccións como a endometriose, a adenomiose ou a SOP ata algúns medicamentos) e a miúdo non se atopa ningunha causa grave. En calquera caso, as regras abundantes adoitan ter tratamento, así que non son algo co que teñas que resignarte a vivir.",
+      "deep": null,
+      "when_to_see_doctor": "Consulta co teu médico/a de familia se:\n\n- as regras abundantes están a afectar a túa vida diaria\n- sangras moito durante moitas horas, ou as túas regras duran moito tempo\n- ademais tes dor menstrual forte, ou dor durante as relacións sexuais, ao ouriñar ou ao facer de ventre\n- tes sangrado entre regras ou despois de manter relacións sexuais\n- adoitas sentirte cansa ou sen alento (pode ser sinal de ferro baixo)\n\nO médico/a de familia pode buscar a causa e falar contigo do que pode axudar.",
+      "red_flags": "- Busca axuda médica **urxente** (contacta cun médico ou cun **servizo de garda**, ou chama ao **{{emergency}}** / vai a urxencias do hospital se é grave) se **sangras tanto que empapas por completo unha compresa ou máis cada hora durante unhas poucas horas seguidas**, ou se tes **sensación de desmaio, mareo ou falta de alento**. Poden ser sinais de que estás a perder demasiado sangue."
+    },
+    "lh": {
+      "title": "Hormona luteinizante (LH)",
+      "aliases": [
+        "lh",
+        "hormona luteinizante",
+        "pico de LH",
+        "luteinizante"
+      ],
+      "glance": "A LH é a hormona do cerebro cuxo pico a metade do ciclo fai que o ovario libere un óvulo.",
+      "overview": "A LH (hormona luteinizante) é a mensaxeira que desencadea a ovulación. Igual ca a FSH, prodúcea unha pequena glándula do cerebro (a hipófise), e indícalle ao ovario cando liberar un óvulo.\n\nDurante a maior parte da primeira metade do ciclo, a LH mantense baixa. Despois, arredor da metade do ciclo, sobe bruscamente no chamado pico de LH. Este pico é o sinal que fai que o ovario libere o seu óvulo (a ovulación), normalmente un día despois, máis ou menos.\n\nO pico é un sinal breve e ben sincronizado, non algo que notes na forma en que te sentes. Como chega tan pouco antes de que se libere o óvulo, o momento da subida da LH é un indicador fiable da parte máis fértil do ciclo.",
+      "deep": "A LH traballa xunto coa FSH, a hormona que fai medrar os folículos antes no ciclo. Mentres que a FSH dirixe a preparación, o pico de LH é o punto de inflexión: os niveis empezan a subir aproximadamente un día e medio antes de que se libere o óvulo e alcanzan o máximo aproximadamente medio día antes. Despois do pico, o ciclo pasa á súa segunda metade. Este momento tan preciso é o motivo polo que a LH é un indicador tan útil para quen rexistra a ovulación, e polo que é fundamental na planificación dos tratamentos de fertilidade.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Escoitar e dar apoio emocional",
+      "aliases": [
+        "como escoitar",
+        "apoio emocional para parellas",
+        "comunicación",
+        "estar ao seu lado",
+        "escoita activa"
+      ],
+      "glance": "Na maioría das ocasións ela necesita sentirse escoitada, non que lle arranxen nada: escoita primeiro e pregunta antes de aconsellar.",
+      "overview": "Cando alguén a quen queremos o está a pasar mal, o instinto é lanzarse a solucionalo. Pero moitas veces o que máis axuda é sentirse escoitada de verdade: que os seus sentimentos teñen sentido e que non está soa con eles. Arranxar as cousas demasiado rápido pode interpretarse como «os teus sentimentos son un problema que hai que pechar».\n\nSaber escoitar é unha habilidade que calquera pode aprender. É sobre todo atención: deixar o teléfono, poñerte fronte a ela e deixala acabar. Non tes que estar de acordo con todo o que di para que se sinta respectada.",
+      "deep": "Formas prácticas de estar presente:\n\n- **Escoita para entender, non para responder.** Déixaa falar sen interromper nin preparar a túa defensa.\n- **Reflicte o que che conta.** «Parece moi estresante» ou «Entendo por que che doeu» é mellor que «non te preocupes e xa está».\n- **Pregunta antes de aconsellar.** «Queres que te axude a pensalo ou prefires que simplemente te escoite?»\n- **Non o tomes como algo persoal** cando un mal día non vai contigo. A serenidade é un agasallo.\n- **Asume a túa parte.** Se fixeches algo mal, unha desculpa sincera (sen «pero») reconstrúe a confianza.\n- **Fíxate no conxunto.** Se durante moito tempo a ves baixa de ánimo, ansiosa ou distinta a como é, anímaa con delicadeza a buscar apoio e ofrécete a axudala a conseguilo. Es un compañeiro de equipo, non un terapeuta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Fase lútea",
+      "aliases": [
+        "fase lútea",
+        "segunda metade do ciclo",
+        "fase luteínica",
+        "lútea"
+      ],
+      "glance": "A fase lútea é a segunda metade do ciclo, despois da ovulación, cando sobe a proxesterona.",
+      "overview": "A fase lútea é a parte do ciclo que segue á ovulación e dura ata que comeza a seguinte regra. O seu nome vén do corpo lúteo, a pequena estrutura que forma o ovario a partir do folículo baleiro unha vez liberado o óvulo.\n\nNesta fase sobe a hormona proxesterona. A súa función é manter o revestimento do útero groso e estable, para que, se chega un óvulo fecundado, teña onde implantarse. O estróxeno tamén segue presente, traballando xunto coa proxesterona.\n\nSe non comeza un embarazo, o corpo lúteo desfaise, a proxesterona e o estróxeno baixan e o revestimento deixa de manterse, o que provoca a seguinte regra e inicia un novo ciclo. Este é tamén o período no que algunhas persoas notan cambios premenstruais no estado de ánimo, no sono ou no corpo.",
+      "deep": "A fase lútea adoita ter unha duración algo máis estable que a primeira metade do ciclo, a miúdo arredor de dúas semanas, aínda que hai unha variación normal dunha persoa a outra. Como o seu final está ligado á baixada da proxesterona, a chegada da regra é, en realidade, o sinal visible de que os niveis hormonais baixaron. Rexistrar como te sentes ao longo da fase lútea pode axudarche a distinguir o que é un patrón coñecido para ti do que é novo ou merece unha conversa cun profesional sanitario.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopausa",
+      "aliases": [
+        "menopausa",
+        "climaterio",
+        "o cambio",
+        "retirada da regra",
+        "sufocos"
+      ],
+      "glance": "A menopausa é cando a regra desaparece para sempre: unha etapa natural á que adoita chegarse entre os 45 e os 55 anos, aproximadamente.",
+      "overview": "A menopausa é o momento en que a regra desaparece de forma permanente. Como antes a regra pode ir e vir durante un tempo, considérase que chegou cando pasaches 12 meses seguidos sen ela. Adoita ocorrer aproximadamente entre os 45 e os 55 anos, aínda que pode ser antes ou despois.\n\nÉ unha parte natural do envellecemento, non unha enfermidade. Ocorre porque os ovarios van reducindo a súa actividade e baixa o nivel de estróxeno, unha hormona clave do ciclo. Ese cambio hormonal está detrás dos cambios que notan moitas persoas: sufocos e suores nocturnos, cambios na regra nos anos previos, problemas para durmir, cambios no estado de ánimo ou ansiedade, néboa mental, secura vaxinal e dores.\n\nAs experiencias varían enormemente: algunhas persoas pásana sen apenas notala, a outras resúltalles dura, e os síntomas poden durar varios anos. Nada diso significa que che pase algo malo. Hai apoio e opcións, e entender o que está a pasar é un bo primeiro paso.",
+      "deep": "Os anos de cambios previos á menopausa chámanse perimenopausa; a menopausa en si é un momento concreto (esa marca dos 12 meses sen regra), e o período posterior ás veces chámase posmenopausa. Como o estróxeno tamén afecta os ósos e o corazón a longo prazo, os profesionais sanitarios préstanlles atención xunto cos síntomas do día a día. Hai diversas opcións (desde cambios no estilo de vida ata tratamentos non hormonais e hormonais) que poden aliviar os síntomas, e a axeitada depende da túa saúde, dos teus antecedentes e das túas preferencias, algo que hai que falar cun profesional sanitario.",
+      "when_to_see_doctor": "- Consulta co teu médico/a de familia se os síntomas da menopausa che molestan ou afectan a túa vida diaria e queres falar das túas opcións.\n- Consulta **sempre** co teu médico/a de familia se tes **calquera sangrado vaxinal despois de 12 meses sen regra** (sangrado despois da menopausa). A miúdo non é nada grave, pero sempre hai que facelo revisar.\n- Tamén paga a pena consultar se sangras máis en vez de menos que antes, ou se as túas regras cambian dun xeito que che preocupa.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "O ciclo menstrual",
+      "aliases": [
+        "ciclo",
+        "ciclo mensual",
+        "ciclo menstrual",
+        "duración do ciclo"
+      ],
+      "glance": "O ciclo menstrual é o ritmo mensual co que funciona o teu corpo para prepararse para un posible embarazo.",
+      "overview": "O ciclo menstrual cóntase desde o primeiro día da regra (ese é o día 1) ata o día anterior a que comece a seguinte regra. Móveno hormonas que soben e baixan seguindo un patrón que se repite cada mes.\n\nUn ciclo adoita durar arredor de 28 días, pero iso é só unha media. Calquera duración entre uns 21 e 35 días é normal, e a túa pode variar un pouco dun mes a outro. Aprender o teu propio patrón é máis útil que comparalo cun número.\n\nAo longo do ciclo, o teu corpo pasa por varias etapas: a regra, a preparación para liberar un óvulo, a propia liberación (a ovulación) e o período posterior. Cada etapa está marcada polas hormonas, principalmente o estróxeno e a proxesterona.",
+      "deep": "Todo o ciclo é unha conversa entre o cerebro e os ovarios, levada polas hormonas. Na primeira metade, o estróxeno sobe mentres madura no ovario un folículo que contén un óvulo, e o revestimento do útero engrósase. Arredor da metade do ciclo libérase un óvulo. Na segunda metade, a proxesterona axuda a manter ese revestimento preparado por se chega un óvulo fecundado.\n\nSe non hai embarazo, o estróxeno e a proxesterona baixan a niveis baixos, o revestimento despréndese coa regra e o patrón comeza de novo. Como estas hormonas inflúen en moitos sistemas, podes notar pequenos cambios día a día ao longo do mes: é o ritmo normal do ciclo, non algo que haxa que «arranxar».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Fase menstrual (a regra)",
+      "aliases": [
+        "regra",
+        "menstruación",
+        "fase menstrual",
+        "sangrado",
+        "período",
+        "estar coa regra"
+      ],
+      "glance": "A regra son os poucos días de sangrado cos que comeza cada ciclo, cando se desprende o revestimento do útero.",
+      "overview": "A fase menstrual é a regra: os días nos que sangras. Comeza o día 1 do ciclo, cando os niveis de estróxeno e proxesterona baixaron o suficiente para que o revestimento formado dentro do útero deixe de manterse e se desprenda, saíndo do corpo a través da vaxina.\n\nA regra adoita durar de 2 a 7 días, e o típico son uns 5 días. O fluxo adoita ser máis abundante nos primeiros dous días e máis lixeiro despois. A regra adoita empezar arredor dos 12 anos, aínda que empezar antes ou despois tamén é normal.\n\nO que é «normal» varía moito dunha persoa a outra. Rexistrar as túas regras axúdache a notar o que é habitual para ti, e iso ten moito máis significado que calquera media.",
+      "deep": "O sangrado da regra é o revestimento do útero (o endometrio) que se desprende despois dun ciclo no que non comezou un embarazo. Marca á vez o final dun ciclo e o comezo do seguinte, e por iso o día 1 da regra cóntase como o día 1 de todo o ciclo. Cando remata a regra, o estróxeno empeza a subir de novo e o corpo comeza a reconstruír o revestimento para o ciclo seguinte.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Aborto espontáneo",
+      "aliases": [
+        "aborto espontáneo",
+        "perda do embarazo",
+        "perda xestacional precoz",
+        "perder un embarazo",
+        "aborto natural"
+      ],
+      "glance": "O aborto espontáneo é a perda dun embarazo antes das 24 semanas; é común e case nunca é algo que ti causases.",
+      "overview": "Un aborto espontáneo é a perda dun embarazo nas primeiras 24 semanas. É máis común do que moita xente pensa, e unha das cousas máis importantes que hai que saber é que case nunca se debe a nada que ti fixeses ou deixases de facer: normalmente ocorre por un problema no desenvolvemento do embarazo, que estaba fóra do control de calquera.\n\nOs sinais máis comúns son o sangrado vaxinal e as cólicas ou a dor na parte baixa da barriga. Sangrar ao comezo do embarazo non sempre significa que se estea a producir un aborto espontáneo (moitas persoas sangran un pouco e despois teñen un embarazo san), pero sempre hai que facelo revisar.\n\nSexa como sexa a perda, os sentimentos que a acompañan son reais e lexítimos, e o dó é unha resposta normal. Non tes que pasar por isto soa: hai apoio dispoñible, da túa matroa ou do teu médico/a de familia e de asociacións dedicadas á perda xestacional.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta co teu médico/a de familia, coa matroa ou cunha unidade de embarazo precoz (ou cun servizo médico de garda) se tes **sangrado vaxinal ou manchado no embarazo**, aínda que sexa leve e haxa pouca dor ou ningunha, para que o poidan revisar.\n- Pregunta cal é a **unidade de embarazo precoz** máis próxima, que está pensada precisamente para isto.",
+      "red_flags": "- Chama ao **{{emergency}} ou vai a urxencias do hospital** se, estando embarazada, tes **dor forte na barriga, dor na punta do ombreiro, sangrado abundante, ou sensación de desmaio, ou te sentes moi mal**. Poden ser sinais dun problema grave, como un embarazo ectópico, que precisa atención urxente."
+    },
+    "morning-sickness": {
+      "title": "Náuseas do embarazo",
+      "aliases": [
+        "náuseas do embarazo",
+        "náuseas matutinas",
+        "vómitos no embarazo",
+        "enxoo no embarazo",
+        "hiperémese",
+        "hiperémese gravídica"
+      ],
+      "glance": "Ter náuseas ou vomitar é moi común ao comezo do embarazo, e adoita mellorar arredor das semanas 16 a 20.",
+      "overview": "Ter náuseas ou vomitar é moi común ao comezo do embarazo. A pesar do nome de «náuseas matutinas», poden aparecer a calquera hora do día ou da noite. Na maioría das persoas empezan nas primeiras semanas e melloran arredor das semanas 16 a 20.\n\nSon desagradables e, para algunhas persoas, afectan de verdade o día a día, pero as náuseas do embarazo habituais non supoñen ningún risco maior para o teu bebé. Comer pequenas cantidades a miúdo e atopar o que che axuda pode facelas máis levadeiras; a matroa, o teu médico/a de familia ou un farmacéutico poden suxerirche opcións seguras se o estás a pasar mal.\n\nNun pequeno número de persoas, as náuseas e os vómitos vólvense graves (isto chámase hiperémese gravídica), cun risco real de deshidratación. Esa forma precisa axuda médica: mira os sinais de abaixo.",
+      "deep": null,
+      "when_to_see_doctor": "Contacta coa túa matroa, co teu médico/a de familia ou cun servizo médico de garda se:\n\n- vomitas todo o que comes ou bebes e non consegues reter nada durante 24 horas\n- tes a ouriña moi escura, ou non ouriñas en máis de 8 horas\n- te sentes moi débil, mareada ou con sensación de desmaio ao poñerte de pé\n- tes dor de barriga, febre ou vomitas sangue\n- estás a perder peso",
+      "red_flags": "- Non conseguir reter os líquidos (vomitalos todos), coa ouriña moi escura ou sen ouriñar, pode significar que te estás a deshidratar (náuseas e vómitos graves do embarazo): **contacta coa túa matroa, co teu médico/a de familia ou cun servizo médico de garda o mesmo día**, porque podes precisar tratamento para evitar que empeore."
+    },
+    "ovulation": {
+      "title": "Ovulación",
+      "aliases": [
+        "ovulación",
+        "liberar un óvulo",
+        "xanela fértil",
+        "cando ovulo",
+        "días fértiles"
+      ],
+      "glance": "A ovulación é cando un ovario libera un óvulo: o momento máis fértil do teu ciclo.",
+      "overview": "A ovulación é o momento no que un ovario libera un óvulo maduro. É o punto de inflexión do ciclo: a primeira metade prepárase para ela e a segunda metade vén despois.\n\nNun ciclo duns 28 días, a ovulación adoita producirse arredor do día 14, pero o momento varía. Unha forma útil de velo é que a ovulación adoita ocorrer entre 10 e 16 días antes de que comece a seguinte regra. Pode ser difícil precisar o día exacto.\n\nUnha vez liberado, un óvulo só se pode fecundar durante unhas 12 a 24 horas. Os espermatozoides, en cambio, poden sobrevivir no corpo varios días, así que a «xanela fértil» é máis ampla ca un só día: aproximadamente os poucos días previos á ovulación e o propio día.",
+      "deep": "A liberación do óvulo desencadéaa unha subida breve e brusca de hormonas arredor da metade do ciclo, despois da acumulación de estróxeno da fase folicular. Como os espermatozoides poden vivir varios días e o óvulo vive menos dun día, o embarazo é máis probable por relacións sexuais nos días xusto anteriores á ovulación. A ovulación pode desprazarse dun ciclo a outro por cousas como o estrés ou unha enfermidade, e por iso é difícil predicila con exactitude e rexistrar varios ciclos é máis fiable que calquera cálculo illado.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Dor durante as relacións sexuais",
+      "aliases": [
+        "dor durante as relacións sexuais",
+        "relacións dolorosas",
+        "dispareunia",
+        "dor no sexo",
+        "vaxinismo",
+        "dóeme ao ter relacións"
+      ],
+      "glance": "A dor durante as relacións sexuais é común, ten moitas causas posibles e sempre paga a pena facela revisar: hai axuda.",
+      "overview": "A dor durante as relacións sexuais (ás veces chamada dispareunia) é máis común do que moita xente pensa, e nunca é algo que simplemente teñas que aceptar. Pode ter moitas causas, e atopar a correcta é a clave para aliviala.\n\nAlgunhas causas son físicas. A secura vaxinal é unha causa frecuente, a miúdo relacionada coas hormonas arredor da menopausa ou cunha excitación insuficiente, e pode facer que as relacións resulten dolorosas ou incómodas. As infeccións, como a candidíase vaxinal, tamén poden causar dor. Outra causa é o vaxinismo: cando os músculos que rodean a vaxina se contraen por si sós ao intentar a penetración, o que pode facer que as relacións sexuais sexan dolorosas ou parezan imposibles. É involuntario, non é algo que estea «na túa cabeza», e ten tratamento.\n\nComo a causa pode ser física, hormonal ou estar relacionada co relaxada ou excitada que te sintas (e a miúdo é unha mestura), o útil é facelo revisar en vez de adiviñar ou aguantar sen máis.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta co teu médico/a de familia ou nun centro de saúde sexual se as relacións sexuais che doen: sexa cal sexa a causa, paga a pena facelo revisar, e hai axuda eficaz para as causas máis comúns.\n- Pode resultar incómodo sacar o tema, pero os profesionais sanitarios tratan isto a miúdo e están para axudar, non para xulgar. Podes pedir que te atenda unha médica, ir acompañada e falar do que faría que a exploración fose máis cómoda para ti.\n- Fai revisar calquera sangrado despois das relacións sexuais, e consulta canto antes, sen esperar, se a dor é forte ou se ademais te sentes mal.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Alivio da dor no parto",
+      "aliases": [
+        "alivio da dor no parto",
+        "epidural",
+        "gas e aire",
+        "óxido nitroso",
+        "Entonox",
+        "dor no parto",
+        "piscina de partos",
+        "TENS"
+      ],
+      "glance": "Hai varias formas de aliviar a dor do parto: non hai eleccións correctas nin incorrectas, e podes cambiar de idea.",
+      "overview": "O parto é diferente para cada persoa, e hai varias formas de afrontar a dor, desde simples medidas de confort ata opcións médicas. Saber con antelación o que hai dispoñible pode axudarche a sentirte máis preparada.\n\nAs opcións van desde **manterte activa e en posición vertical**, a respiración e a relaxación, a masaxe e estar na **auga** (unha bañeira ou unha piscina de partos) ata **un aparello de TENS**, o **gas e aire** (Entonox, que inhalas ti mesma), as **inxeccións** como a petidina e a **epidural** (que pon un anestesista e que adormece máis completamente a dor do parto).\n\nNon hai unha opción «mellor»: depende de ti, do teu parto e de como te sintas ese día. Paga a pena anotar as túas preferencias nun **plan de parto**, pero mantendo a mente aberta: moitas persoas descobren que queren máis alivio da dor, ou menos, do que esperaban, e iso está completamente ben.",
+      "deep": null,
+      "when_to_see_doctor": "- A túa **matroa** (e, no caso da epidural, un anestesista) explicarache as opcións e axudarache a decidir o que che convén, durante o embarazo e de novo durante o propio parto. Non cómpre decidilo todo con antelación.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "SOP (síndrome do ovario poliquístico)",
+      "aliases": [
+        "sop",
+        "síndrome do ovario poliquístico",
+        "ovarios poliquísticos",
+        "síndrome de ovarios poliquísticos",
+        "pcos"
+      ],
+      "glance": "A SOP é unha afección hormonal común que pode afectar a regra, a ovulación, a pel e o pelo.",
+      "overview": "A SOP (síndrome do ovario poliquístico) é unha afección común relacionada co equilibrio das hormonas reprodutivas. As estimacións indican que afecta a arredor de 1 de cada 10 mulleres en idade reprodutiva, e moitas persoas que a teñen nunca reciben un diagnóstico.\n\nPode manifestarse de formas diferentes, e non hai dúas persoas iguais. Entre os trazos comúns están as regras irregulares, pouco frecuentes ou ausentes; niveis máis altos das hormonas chamadas andróxenos, que poden provocar máis pelo na cara ou no corpo, acne ou perda de pelo no coiro cabeludo; e ovarios que non liberan un óvulo tan regularmente como é habitual, o que pode dificultar quedar embarazada. Tamén son comúns os cambios de peso e as zonas de pel máis escura.\n\nA causa exacta non se coñece totalmente e non ten cura, pero os síntomas pódense controlar, e entender o que está a pasar é o primeiro paso. A SOP é común e controlable, non algo do que avergoñarse.",
+      "deep": "Como a SOP afecta as hormonas do corpo e a forma en que este xestiona a insulina, tamén se relaciona a longo prazo coa resistencia á insulina e cunha maior probabilidade de diabetes tipo 2, tensión arterial alta e cambios no colesterol; por iso os profesionais sanitarios adoitan vixiar estas cousas co paso do tempo. Aproximadamente a metade das persoas con SOP poden desenvolver diabetes ou prediabetes arredor dos corenta anos, así que as revisións periódicas importan. O diagnóstico non é algo que poidas facer ti mesma: un profesional sanitario valora o cadro completo (os teus antecedentes e as túas regras, ás veces análises de sangue das hormonas e ás veces unha ecografía dos ovarios) e descarta outras causas antes de concluír que é SOP.",
+      "when_to_see_doctor": "Paga a pena consultar co teu médico/a de familia se notas cousas que encaixan co cadro anterior, sobre todo se están a afectar como te sentes no día a día:\n\n- regras irregulares, moi pouco frecuentes ou que desapareceron\n- bastante máis pelo na cara ou no corpo, acne persistente ou perda de pelo no coiro cabeludo\n- dificultade para quedar embarazada despois de buscalo durante un tempo\n- aumento de peso difícil de baixar, xunto con outros síntomas\n\nO médico/a de familia pode investigar o que pasa, confirmar se é SOP ou outra cousa e falar contigo dun plan que se axuste a ti. A SOP tamén se relaciona co ánimo baixo e a ansiedade: se che está a custar como te sentes, cóntallo tamén ao teu médico/a de familia; iso forma parte do cadro e hai apoio dispoñible.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopausa",
+      "aliases": [
+        "perimenopausa",
+        "transición á menopausa",
+        "o cambio",
+        "premenopausa",
+        "climaterio"
+      ],
+      "glance": "A perimenopausa é a transición previa á menopausa, cando a regra e as hormonas empezan a cambiar.",
+      "overview": "A perimenopausa é o período previo á menopausa: os anos «arredor da menopausa». Comeza cando notas os primeiros cambios e dura ata que pasa un ano enteiro desde a túa última regra, momento no que chegaches á menopausa. Pode durar varios anos.\n\nDurante este tempo, os ovarios producen pouco a pouco menos estróxeno, e os niveis soben e baixan de forma menos previsible ca antes. O primeiro sinal máis común é que a regra cambia: vén máis seguida ou máis espazada, é máis lixeira ou máis abundante. Moitos dos síntomas asociados á menopausa, como os sufocos, os cambios no sono ou no estado de ánimo, poden empezar nesta etapa, mentres aínda tes a regra.\n\nComo é gradual e varía tanto, a perimenopausa pode resultar desconcertante: os cambios non chegan todos á vez nin na mesma orde para todo o mundo. Saber que esta fase ten nome, e que é unha transición normal, pode axudar a entendela mellor.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta co teu médico/a de familia se os síntomas da perimenopausa están a afectar a túa vida diaria e queres falar do que pode axudar.\n- Paga a pena facelo revisar se as túas regras se volven moi abundantes, ou se tes sangrado entre regras ou despois de manter relacións sexuais, para que se poida atopar a causa.\n- Lembra que durante a perimenopausa aínda podes quedar embarazada, así que paga a pena falar de anticoncepción cun profesional sanitario se é o teu caso.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Dor menstrual",
+      "aliases": [
+        "dor menstrual",
+        "cólicas menstruais",
+        "dor de regra",
+        "dismenorrea",
+        "regras dolorosas",
+        "calambres",
+        "retortixóns"
+      ],
+      "glance": "A dor menstrual son as cólicas na parte baixa da barriga arredor da regra; é común e a miúdo é unha parte normal do ciclo.",
+      "overview": "A dor menstrual é esa sensación de cólica e dor na parte baixa da barriga que moitas persoas teñen arredor da regra. Prodúcese cando a parede muscular do útero se contrae, e a miúdo é unha parte normal do ciclo menstrual. O seu nome médico é dismenorrea.\n\nNormalmente aparece ao comezo da regra, ou xusto antes, e adoita durar ata uns tres días. Para algunhas persoas é unha sensación de peso leve; para outras, as cólicas son máis fortes. A dor tamén pode cambiar ao longo da vida e dun ciclo a outro.\n\nA dor menstrual que segue este patrón coñecido é común e normalmente controlable. Moitas persoas usan medidas de confort do día a día e analxésicos sinxelos, e un farmacéutico ou o teu médico/a de familia poden aconsellarte sobre o que che pode ir ben. O importante é coñecer o teu propio patrón habitual, para poder notar se algo cambia.",
+      "deep": null,
+      "when_to_see_doctor": "Paga a pena falar co teu médico/a de familia se:\n\n- as túas regras se volven máis dolorosas, máis abundantes ou máis irregulares do habitual\n- a dor che impide facer cousas do día a día, como traballar ou ir a clase\n- os analxésicos habituais non axudan\n- tes dor durante as relacións sexuais, ou ao ouriñar ou ao facer de ventre\n- sangras entre regras\n- a dor aparece noutros momentos que non son xusto antes ou durante a regra\n- expulsas coágulos de sangue máis grandes ca unha moeda (aproximadamente do tamaño dunha moeda de dous euros)\n- ademais notas a barriga inchada, menos apetito ou unha perda de peso que non sabes explicar\n\nIsto non significa que algo vaia mal, pero paga a pena facelo revisar: unha dor menstrual nova, diferente ou difícil de controlar pode ter causas coas que un profesional sanitario pode axudar.",
+      "red_flags": "- Pide unha cita **urxente** co teu médico/a de familia, ou contacta cun **servizo médico de garda**, se a dor da regra ou a dor pélvica é **forte, ou peor do habitual, e os analxésicos non axudaron.**"
+    },
+    "planning-pregnancy": {
+      "title": "Planificar un embarazo",
+      "aliases": [
+        "planificar un embarazo",
+        "preconcepción",
+        "buscar un embarazo",
+        "tentar quedar embarazada",
+        "antes do embarazo",
+        "prepararse para o embarazo"
+      ],
+      "glance": "Algúns pasos sinxelos antes de buscalo (ácido fólico, deixar de fumar e o alcol) dan ao embarazo o mellor comezo.",
+      "overview": "Se estás a pensar en buscar un bebé, uns cantos pasos previos poden darlle ao embarazo un comezo máis saudable; moitos deles actúan mesmo desde antes de concibir.\n\nOs principais: empeza a tomar **ácido fólico** (e vitamina D), **deixa de fumar** e **evita o alcol**. Procurar un peso saudable tamén axuda, porque ter un peso bastante inferior ou superior ao saudable pode dificultar quedar embarazada. Tamén paga a pena comprobar que tes ao día a **vacina triple vírica** (sarampelo, papeira e rubéola), xa que algunhas infeccións poden afectar un embarazo.\n\nNada disto ten que ser perfecto nin estresante. O que importa son pequenos cambios, feitos con cariño e con antelación, e adiantarse un pouco é unha das cousas máis bonitas que podes facer por un futuro embarazo.",
+      "deep": null,
+      "when_to_see_doctor": "- Se tes unha **enfermidade crónica** ou tomas **medicación de forma habitual**, consulta co teu médico/a de familia antes de empezar a buscar o embarazo: algunhas enfermidades e medicamentos requiren planificación. **Non deixes ningún medicamento receitado** sen falar antes co teu médico.\n- O teu médico/a de familia tamén pode aconsellarte sobre o ácido fólico (incluído se necesitas unha dose máis alta) e sobre como chegar a un peso saudable antes do embarazo.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Depresión posparto",
+      "aliases": [
+        "depresión posparto",
+        "depresión postparto",
+        "DPP",
+        "baby blues",
+        "tristeza posparto",
+        "depresión despois do parto"
+      ],
+      "glance": "A depresión posparto é un estado de ánimo baixo despois do parto, común e tratable: non é culpa túa, e hai axuda.",
+      "overview": "Sentirse triste, ansiosa ou irritable nas primeiras semanas despois do parto é moi común: a miúdo chámase «tristeza posparto» (baby blues), e normalmente desaparece por si soa nunhas dúas semanas.\n\nA depresión posparto é diferente: un ánimo baixo máis profundo ou que dura máis. É unha afección común, pode empezar en calquera momento durante o primeiro ano e tamén pode afectar os pais e as parellas. Entre os sinais están un ánimo baixo persistente, que che custe gozar de calquera cousa, problemas para durmir mesmo cando o bebé dorme e, ás veces, sentimentos difíciles sobre o vínculo co bebé.\n\nTela **non** significa que sexas mala nai nin que non queiras o teu bebé: é unha enfermidade, non un fracaso, e responde ben ao apoio e ao tratamento. Pedir axuda cedo é un xesto de forza e de coidado, para ti e para o teu bebé.",
+      "deep": null,
+      "when_to_see_doctor": "- Fala co teu **médico/a de familia, coa matroa ou coa enfermeira de pediatría** se cres que podes ter depresión posparto, ou se a tristeza posparto non desapareceu ao cabo de dúas semanas. Xa o viron moitas veces e poden axudarche a atopar o apoio axeitado.",
+      "red_flags": "- Se tes **pensamentos de facerte dano a ti ou ao teu bebé**, ou de que a túa familia estaría mellor sen ti, busca axuda **de inmediato**: chama ao **{{emergency}}** ou vai a urxencias do hospital, ou chama a unha liña de atención en crise. Estes pensamentos poden formar parte da enfermidade, non son quen es ti, e hai axuda urxente dispoñible."
+    },
+    "pre-eclampsia": {
+      "title": "Preeclampsia",
+      "aliases": [
+        "preeclampsia",
+        "pre-eclampsia",
+        "tensión alta no embarazo",
+        "hipertensión no embarazo",
+        "toxemia"
+      ],
+      "glance": "A preeclampsia é a tensión arterial alta no embarazo; a miúdo non dá síntomas ao principio, e por iso importan as revisións prenatais.",
+      "overview": "A preeclampsia é unha afección do embarazo que se manifesta principalmente como tensión arterial alta, xunto con proteínas na ouriña. Adoita aparecer a partir das 20 semanas, aproximadamente, e ás veces despois do parto.\n\nUnha das cousas máis importantes que hai que saber é que ao principio a miúdo **non dá ningún síntoma**: podes sentirte perfectamente ben. Precisamente por iso a matroa che mide a tensión e che analiza a ouriña en cada cita prenatal habitual: esas revisións son a forma en que adoita detectarse antes de que notes nada.\n\nCando si aparecen síntomas, convén coñecelos, porque a preeclampsia pode chegar a ser grave para ti e para o teu bebé. Pódese tratar ben cando se detecta a tempo, e non faltar ás citas prenatais é a mellor forma de detectala cedo.",
+      "deep": null,
+      "when_to_see_doctor": "- Acude a todas as túas **citas prenatais habituais**: as revisións da tensión arterial e da ouriña son a forma en que adoita detectarse a preeclampsia antes de que empecen os síntomas.",
+      "red_flags": "Busca axuda médica **de inmediato** (contacta coa túa unidade de maternidade ou cun **servizo médico de garda**) se tes calquera destes síntomas (chama ao **{{emergency}}** se estás moi mal, por exemplo se tes unha convulsión):\n\n- **dor de cabeza forte** que non mellora cos analxésicos habituais\n- **problemas de visión**: visión borrosa ou destelos de luz\n- **inchazo repentino** da cara, das mans ou dos pés\n- **dor xusto debaixo das costelas**\n- **vómitos**, ou sentirte de súpeto moi mal"
+    },
+    "pregnancy": {
+      "title": "Embarazo",
+      "aliases": [
+        "embarazo",
+        "estar embarazada",
+        "embarazada",
+        "xestación",
+        "trimestres",
+        "data prevista de parto",
+        "de cantas semanas estou"
+      ],
+      "glance": "O embarazo adoita durar unhas 40 semanas, contadas desde o primeiro día da túa última regra.",
+      "overview": "O embarazo é o tempo durante o cal o teu corpo fai medrar e leva dentro un bebé. Normalmente dura unhas 40 semanas (considérase a termo e normal calquera momento entre as 37 e as 42 semanas) e, aínda que poida sorprender, cóntase desde o primeiro día da túa **última regra**, non desde a concepción. Simplemente é a forma estándar de calcular as datas.\n\nA túa **data prevista de parto** é unha estimación, non un prazo: os bebés chegan sen problema un pouco antes ou despois. Ao comezo do embarazo, unha «ecografía de datación» (normalmente arredor das 12 semanas) pode medir o bebé e dar unha data máis precisa, que ás veces cambia a estimación inicial.\n\nAdoita falarse do embarazo en tres etapas, ou **trimestres**, cada unha cos seus propios cambios. Durante todo o camiño recibes coidados con revisións prenatais regulares dunha matroa (e dun médico se fai falta): a atención que axuda a que ti e o teu bebé esteades ben.",
+      "deep": "Como as datas se contan desde a última regra, considérase que estás de arredor de catro semanas cando se atrasa a regra. A conta das semanas de embarazo é a forma en que se organizan os coidados: as ecografías, os cribados e as revisións ofrécense en semanas concretas. Se as túas regras son irregulares ou non estás segura das datas, a ecografía de datación é a que marca o calendario. Este artigo é o mapa de toda a viaxe; os temas concretos (sinais de embarazo, coidados prenatais, coidarse e o parto) teñen cada un o seu propio artigo.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Test de embarazo",
+      "aliases": [
+        "test de embarazo",
+        "proba de embarazo",
+        "test de embarazo caseiro",
+        "test de hCG",
+        "facer un test de embarazo",
+        "predictor"
+      ],
+      "glance": "Un test de embarazo caseiro detecta na ouriña a hormona do embarazo, a hCG; é máis fiable desde o primeiro día de atraso da regra.",
+      "overview": "Un test de embarazo caseiro funciona detectando na ouriña unha hormona chamada hCG (gonadotropina coriónica humana). O corpo empeza a producila uns días despois de que se implante un óvulo fecundado, e a cantidade aumenta rapidamente ao comezo do embarazo.\n\nO test é máis fiable desde o **primeiro día de atraso da regra**, aproximadamente dúas semanas despois da concepción. Se o teu ciclo é irregular ou non estás segura de cando che toca a regra, agardar polo menos 21 días despois dunha relación sen protección dá un resultado máis fiable. Non tes que facer o test a primeira hora da mañá; calquera momento do día vale.\n\nUn resultado **positivo** é case seguro que é correcto: moi poucos tests dan positivo se non estás embarazada. Un resultado **negativo** é un pouco menos seguro: se a regra segue sen chegar e cres que podes estar embarazada, agarda uns días e repite o test.",
+      "deep": null,
+      "when_to_see_doctor": "- Se o resultado é positivo, contacta cunha **matroa ou co teu médico/a de familia** para empezar os coidados prenatais.\n- Se os tests dan negativo pero non che vén a regra e te sentes embarazada (ou te sentes mal), consulta co teu médico/a de familia para saber que está a pasar.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Parto prematuro",
+      "aliases": [
+        "parto prematuro",
+        "parto pretermo",
+        "nacemento prematuro",
+        "ameaza de parto prematuro",
+        "parto adiantado",
+        "romper augas antes de tempo"
+      ],
+      "glance": "O parto prematuro é o que empeza antes das 37 semanas: actúa rápido, porque a atención temperá marca unha diferenza real.",
+      "overview": "O parto prematuro (ou pretermo) é o que comeza antes da semana 37 de embarazo. Ocorre en aproximadamente 8 de cada 100 nacementos.\n\nOs bebés que nacen antes de tempo son máis vulnerables, pero moitos saen adiante ben, sobre todo coa atención especializada que ofrecen as unidades de neonatoloxía. O fundamental é actuar rápido se cres que pode estar a comezar, para que te poidan valorar e, se fai falta, darche tratamentos que axudan a protexer o bebé.\n\nOs sinais son parecidos aos do parto en calquera etapa, pero antes das 37 semanas nunca hai que agardar a ver se pasan: sempre son motivo para contactar de inmediato.",
+      "deep": null,
+      "when_to_see_doctor": "- Chama á túa **matroa ou á unidade de maternidade** sempre que estés de **menos de 37 semanas** e teñas dúbidas ou estés preocupada: sempre está ben comprobalo.",
+      "red_flags": "Contacta coa túa **matroa ou coa unidade de maternidade de inmediato** (de día ou de noite) se, **antes das 37 semanas**, tes calquera destes síntomas:\n\n- **contraccións ou endurecementos** regulares da barriga, ou dores parecidas ás da regra\n- unha **saída de líquido pola vaxina, a chorro ou a pingas** (rotura de augas)\n- **dor de costas** que non é habitual para ti, ou unha sensación de presión na parte baixa da pelve"
+    },
+    "premenstrual-syndrome": {
+      "title": "SPM (síndrome premenstrual)",
+      "aliases": [
+        "spm",
+        "síndrome premenstrual",
+        "tensión premenstrual",
+        "pms",
+        "TDPM",
+        "trastorno disfórico premenstrual"
+      ],
+      "glance": "A SPM é a mestura de cambios físicos e emocionais que moitas persoas notan unha ou dúas semanas antes da regra.",
+      "overview": "A SPM (síndrome premenstrual) é o nome dos cambios que moitas persoas senten nos días ou nas dúas semanas anteriores á regra. Pode afectar a calquera persoa que teña a regra, e normalmente mellora uns días despois de que empece a regra.\n\nOs cambios poden ser moi variados. No físico, podes notar inchazo, as mamas doridas ou sensibles, cólicas, dores de cabeza ou máis cansazo. No emocional, pode haber cambios de humor, irritabilidade, ansiedade ou ánimo baixo. Os antollos de comida e os cambios no sono tamén son comúns. Non todo o mundo ten SPM, e quen a ten non vai ter todos os síntomas: o que importa é o teu propio patrón.\n\nA SPM é unha parte normal e recoñecida do ciclo de moitas persoas, ligada aos cambios hormonais naturais da segunda metade. Fixarte en como se manifesta en ti, ciclo a ciclo, pode facer máis doado organizarte arredor dela, e detectar se algunha vez cambia.",
+      "deep": null,
+      "when_to_see_doctor": "Paga a pena falar co teu médico/a de familia se:\n\n- os teus síntomas están a afectar a túa vida diaria: o traballo, os estudos, as relacións\n- os cambios na túa rutina diaria non axudaron\n- o ánimo baixo, a ansiedade ou a irritabilidade che parecen graves\n\nUn profesional sanitario pode falar contigo do que pode axudar. Unha forma máis intensa, chamada trastorno disfórico premenstrual (TDPM), pode causar síntomas no estado de ánimo moito máis fortes, e hai apoio para iso.",
+      "red_flags": "- Se tes síntomas de TDPM e **tes pensamentos suicidas ou sentes que podes facerte dano e non es capaz de manterte a salvo**, busca axuda de inmediato: **chama ao {{emergency}} ou vai a urxencias do hospital.** Non conduzas ti: pídelle a alguén que te leve ou pide unha ambulancia. Mereces apoio, e hai axuda dispoñible."
+    },
+    "progesterone": {
+      "title": "Proxesterona",
+      "aliases": [
+        "proxesterona",
+        "progesterona",
+        "hormona da segunda metade do ciclo"
+      ],
+      "glance": "A proxesterona é a hormona da segunda metade do ciclo, que prepara o revestimento do útero despois da ovulación.",
+      "overview": "A proxesterona é unha das principais hormonas do ciclo menstrual, e toma o protagonismo na segunda metade, despois de que se libere un óvulo na ovulación.\n\nA súa función principal é axudar a que o revestimento do útero se manteña groso e preparado, para que, se chega un óvulo fecundado, poida implantarse e comezar un embarazo. Deste xeito, a proxesterona traballa en parella co estróxeno, que fixo boa parte da preparación antes no ciclo.\n\nSe non comeza un embarazo, os niveis de proxesterona baixan. Esa baixada é o que permite que o revestimento se desprenda coa seguinte regra. A subida e baixada da proxesterona ao longo da segunda metade do ciclo é un ritmo normal e esperado.",
+      "deep": "A proxesterona prodúcea principalmente o corpo lúteo, a estrutura que forma o ovario a partir do folículo despois de que este liberase o seu óvulo. Por iso a proxesterona sobe especificamente na fase lútea (despois da ovulación). Cando o corpo lúteo se desfai, a proxesterona e o estróxeno baixan, o que sinala o comezo dun novo ciclo. Os seus cambios naturais son parte do motivo polo que algunhas persoas notan cambios premenstruais nos días anteriores á regra.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "A pílula só de proxestóxeno (minipílula)",
+      "aliases": [
+        "pílula só de proxestóxeno",
+        "minipílula",
+        "POP",
+        "pílula sen estróxenos",
+        "pílula de desogestrel",
+        "pílula da lactación"
+      ],
+      "glance": "A minipílula é unha pílula diaria cunha soa hormona que espesa o moco cervical para bloquear os espermatozoides.",
+      "overview": "A pílula só de proxestóxeno (a miúdo chamada minipílula) é un comprimido diario que contén unha soa hormona, un proxestóxeno. É unha opción para quen non pode ou prefire non tomar estróxeno.\n\nA súa acción principal é espesar o moco do colo do útero, para que aos espermatozoides lles custe máis chegar a un óvulo. Un tipo común, a pílula de desogestrel, tamén impide que os ovarios liberen un óvulo (a ovulación).\n\nTomada correctamente, ten unha eficacia de máis do 99 %; co uso típico do día a día, arredor do 91 %. Como coas outras pílulas, o horario importa, e non protexe fronte ás ITS.",
+      "deep": "A minipílula diferénciase da pílula combinada en que non ten estróxeno, o que cambia a quen lle pode convir, algo que valora un profesional sanitario ao receitala. Algúns tipos deben tomarse dentro dunha marxe horaria diaria bastante estreita para seguir sendo eficaces. Este artigo explica que é e como funciona; como tomala e se é axeitada para ti son cuestións para o teu médico/a de familia, a enfermeira ou o farmacéutico.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Recoñecer unha relación de maltrato",
+      "aliases": [
+        "recoñecer o maltrato",
+        "relación de maltrato",
+        "violencia doméstica",
+        "violencia de xénero",
+        "violencia na parella",
+        "sinais de maltrato",
+        "estou a sufrir maltrato"
+      ],
+      "glance": "O maltrato pode ser físico, sexual, emocional ou de control, e nunca é culpa da persoa que o sofre.",
+      "overview": "O maltrato nunha relación non é só físico. Pode adoptar varias formas, a miúdo á vez: dano físico, coacción sexual, dano emocional ou psicolóxico e comportamentos de control (que a parella decida onde vas, con quen te ves ou que podes facer). Calquera destas cousas pode ser maltrato, aínda que non haxa lesións visibles.\n\nÉ máis común do que moita xente pensa. En todo o mundo, arredor de 1 de cada 3 mulleres sofre violencia física ou sexual ao longo da súa vida, na maioría dos casos por parte da parella; en Italia a situación é semellante. Así que, se isto forma parte da túa vida, non estás soa, e non é algo que ti provocases.\n\nPoñerlle nome pode ser difícil: o maltrato adoita vir mesturado con bos momentos, desculpas ou promesas de cambio, e pode ir construíndose tan amodo que parece normal. Confiar na túa propia sensación de que algo vai mal é un motivo válido para pedir axuda. Non tes que estar segura, nin esperar a que sexa «o bastante grave», para falar con alguén.",
+      "deep": "Por debaixo das distintas formas, o maltrato adoita seguir un patrón no que unha persoa busca poder e control sobre outra, e pode ir a máis co tempo. Pasa unha factura real á saúde: está relacionado coa ansiedade, a depresión, os problemas para durmir e efectos físicos a longo prazo. Nada diso significa que sexas débil nin que teñas a culpa; significa que o que estás a vivir é daniño, e que hai apoio para axudarte a pensalo con seguridade e ao teu ritmo.",
+      "when_to_see_doctor": "- Podes falar con alguén de forma confidencial cando esteas preparada: o teu médico/a de familia ou unha enfermeira, un centro contra a violencia ou unha liña de axuda (en Italia, o **1522**, gratuíto e a calquera hora). Non precisas probas, un plan nin ter nada decidido antes; están aí para escoitarte e axudarte a entender as túas opcións.\n- Un profesional sanitario tamén pode tratar calquera lesión e poñerte en contacto con discreción con apoio especializado.",
+      "red_flags": "- Se estás en **perigo inmediato**, contacta agora cos servizos de emerxencia: o **112** na UE (incluída Italia), o **999** no Reino Unido e o **911** nos Estados Unidos e no Canadá.\n- En Italia, o **1522** (a liña nacional gratuíta contra a violencia e o acoso) está dispoñible as 24 horas do día, de forma anónima, por teléfono ou por chat, en varios idiomas."
+    },
+    "respect-not-control": {
+      "title": "Respecto, non control",
+      "aliases": [
+        "comportamento controlador",
+        "control coercitivo",
+        "relación sa",
+        "sinais de alarma",
+        "onde pedir axuda",
+        "maltrato",
+        "celos"
+      ],
+      "glance": "O amor constrúese sobre o respecto e a liberdade: o control, os celos e a presión non son amor, e hai axuda.",
+      "overview": "Unha relación sa baséase no respecto, a confianza, a igualdade e a liberdade: dúas persoas que conservan cada unha as súas amizades, as súas decisións e o seu espazo. O control é o contrario. A miúdo escóndese detrás de palabras como amor ou celos («mírote o móbil porque me preocupo por ti», «non quero que os vexas porque te quero»), pero o seu efecto é facer máis pequeno o mundo dela e reducir a súa liberdade.\n\nO control raramente empeza coa violencia. Normalmente comeza con pouco (unha crítica, un límite que se cruza, unha «broma» que doe) e vai medrando. Poñerlle nome cedo importa, porque o control coercitivo xa é en si unha forma de maltrato e un sinal de alarma de algo peor. Non se trata de culpa; trátase de honestidade e de cambio.",
+      "deep": "**Se recoñeces algo disto en ti, esa conciencia é un punto de partida, non unha condena para toda a vida.**\nAs persoas poden cambiar cun esforzo real e a axuda axeitada. Acudir a un programa específico para homes que queren deixar de ser controladores ou violentos é un sinal de forza, non de debilidade. Fala cun profesional, cun médico ou cun servizo de cambio de comportamento para homes.\n\nSe é **ela** quen está en perigo, ou se che preocupa alguén, anímaa e apóiaa para que busque axuda, respectando as súas decisións e sen tomar nunca ti o control.\n\n**Onde pedir axuda**\n- Nunha emerxencia, ou se alguén está en perigo inmediato, chama ao número de emerxencias local (o **112** en Italia e en boa parte de Europa; o **911** nos Estados Unidos).\n- **Italia: 1522**: a liña nacional contra a violencia e o acoso. Gratuíta, 24/7, anónima e multilingüe, xestionada polo Departamento para a Igualdade de Oportunidades. Tamén orienta cara aos centros contra a violencia locais (centri antiviolenza).\n- Os centros contra a violencia e os programas de cambio de comportamento para homes (en Italia, «centri per uomini autori di violenza») ofrecen apoio confidencial para cambiar.",
+      "when_to_see_doctor": null,
+      "red_flags": "Sinais de alarma dun comportamento controlador ou de maltrato, que convén tomar en serio en ti ou nunha relación:\n\n- **Vixiar ou illar**: mirarlle o teléfono, controlar a súa localización ou afastala das amizades e da familia.\n- **Control sobre as súas decisións**: o diñeiro, a roupa que leva, onde vai, con quen se ve.\n- **Celos disfrazados de amor**, acusacións constantes ou necesidade de saber onde está en todo momento.\n- **Menosprezos, culpas ou facer que teña medo**, se sinta culpable ou teña que «ir con pés de chumbo».\n- **Presións ou ameazas** sobre o sexo, a ruptura ou autolesionarse para conseguir que ceda.\n- **Calquera uso da forza física, intimidación ou medo.** Se isto está presente, é maltrato: busca a axuda indicada arriba. Nunca hai escusa, e nunca é culpa dela."
+    },
+    "safety-plan": {
+      "title": "Facer un plan de seguridade",
+      "aliases": [
+        "plan de seguridade",
+        "estar a salvo",
+        "manterse a salvo",
+        "planificar a seguridade",
+        "marchar con seguridade",
+        "saír de casa con seguridade"
+      ],
+      "glance": "Un plan de seguridade son uns poucos pasos prácticos para axudarte a estar máis segura, e hai servizos formados que poden axudarte a facelo.",
+      "overview": "Un plan de seguridade é simplemente pensar con antelación como protexerte (a ti e a calquera fillo ou filla) para estar máis segura. Non é unha decisión de marchar nin de quedar: trátase de estar un pouco máis preparada, escollas o que escollas.\n\nA algunhas persoas axúdalles ter algunhas cousas preparadas con discreción: unha persoa de confianza que saiba o que está a pasar, os documentos e números importantes onde poidas collelos, unha bolsa pequena co imprescindible, unha idea das formas máis seguras de saír da casa, ou unha palabra ou un sinal para avisar a alguén de que necesitas axuda. O que ten sentido depende totalmente da túa situación.\n\nNon tes que resolver isto soa, e a miúdo é máis seguro non facelo. Os servizos contra a violencia teñen experiencia en facer plans de seguridade coas persoas, de forma confidencial e gratuíta, tamén para o momento de marchar, que pode ser un momento de máis risco e que paga a pena planificar con apoio e non con présa.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta cun centro contra a violencia ou cunha liña de axuda (en Italia, o **1522**) para facer un plan que se axuste á túa situación: fano todos os días, de forma confidencial, e poden axudarte con pasos prácticos, legais e emocionais.\n- Se gardas algún rexistro do que está a pasar, gárdao nun lugar privado e seguro.",
+      "red_flags": "- Se estás en **perigo inmediato**, contacta agora cos servizos de emerxencia: o **112** na UE (incluída Italia), o **999** no Reino Unido e o **911** nos Estados Unidos e no Canadá.\n- En Italia, o **1522** (gratuíto, as 24 horas do día, anónimo e multilingüe) pode axudarte por teléfono ou por chat, tamén cun plan de seguridade urxente."
+    },
+    "sex-during-your-period": {
+      "title": "Relacións sexuais durante a regra",
+      "aliases": [
+        "sexo coa regra",
+        "relacións coa regra",
+        "sexo durante a regra",
+        "sexo durante a menstruación",
+        "podo quedar embarazada coa regra",
+        "embarazada coa regra",
+        "quedar embarazada durante a regra"
+      ],
+      "glance": "Ter relacións sexuais coa regra está ben se as dúas persoas o desexan, pero aínda podes quedar embarazada ou transmitir unha ITS.",
+      "overview": "Manter relacións sexuais durante a regra é unha decisión persoal. Se as dúas persoas o desexan e se senten cómodas, está ben, e non ten nada de malo nin de raro. Algunhas persoas senten máis sensibilidade ou simplemente non teñen ganas nestes días, mentres que a outras lles gusta. O que máis importa é escoitar o teu corpo e falar abertamente coa túa parella.\n\nO que a regra non fai é funcionar como anticonceptivo. A probabilidade de quedar embarazada é menor que arredor da ovulación, pero non é cero. Os espermatozoides poden sobrevivir dentro do corpo ata 7 días despois da relación, así que se ovulas cedo, algo máis probable cun ciclo máis curto, os espermatozoides dunha relación durante a regra ou xusto despois poderían atoparse cun óvulo. Se non queres quedar embarazada, a túa anticoncepción habitual segue sendo importante estes días.\n\nA regra tampouco protexe fronte ás infeccións de transmisión sexual (ITS). As infeccións poden pasar dunha persoa a outra durante as relacións sen preservativo, e os xermes que as causan poden estar no sangue, así como noutros fluídos corporais. O preservativo é o método que tamén reduce o risco de ITS, incluído o VIH, así que paga a pena usalo sexa cal sexa o momento do mes.",
+      "deep": null,
+      "when_to_see_doctor": "- Se tiveches relacións sexuais **sen anticoncepción**, ou a túa anticoncepción puido fallar, e non queres quedar embarazada, fala cun farmacéutico, co teu médico/a de familia ou cun centro de saúde sexual **canto antes** sobre a anticoncepción de emerxencia. Hai que usala nuns poucos días, e normalmente funciona mellor canto antes se use.\n- Pide axuda a un farmacéutico, a un centro de saúde sexual ou ao teu médico/a de familia se un **preservativo rompe ou se sae** durante a relación. Podes necesitar anticoncepción de emerxencia ou unha proba de ITS.\n- Consulta co teu médico/a de familia ou nun centro de saúde sexual se notas **sangrado despois das relacións cando non tes a regra**. Normalmente non é grave, pero sempre paga a pena facelo revisar.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Relacións sexuais no embarazo",
+      "aliases": [
+        "sexo no embarazo",
+        "sexo estando embarazada",
+        "relacións sexuais no embarazo",
+        "é seguro o sexo no embarazo",
+        "intimidade no embarazo",
+        "orgasmo no embarazo"
+      ],
+      "glance": "As relacións sexuais son seguras na maioría dos embarazos e non lle fan dano ao bebé, salvo que a matroa ou o médico che indicasen o contrario.",
+      "overview": "Para a maioría das persoas, manter relacións sexuais durante o embarazo é seguro, salvo que a matroa ou o médico che dixesen que non. O bebé está ben protexido dentro do útero, e o sexo non lle fará dano.\n\nPode que che aconsellen evitar o sexo con penetración nalgunhas situacións: se tes a **placenta baixa (placenta previa)**, polo risco de sangrado; se **rompiches augas**, polo risco de infección; ou se tiveches **varios abortos espontáneos**.\n\nO desexo adoita cambiar no embarazo (algunhas persoas queren máis sexo, outras menos, e outras ningún durante un tempo), e inflúen as hormonas, os cambios no corpo, o cansazo, as náuseas e as preocupacións. Todo isto é normal. Se non che apetece ter relacións, os bicos, as apertas e as masaxes son outras formas de manter a proximidade.\n\nA medida que medra a barriga, algunhas posturas vólvense incómodas; as posturas de lado adoitan resultar máis cómodas. As hormonas poden facer que a vaxina estea máis seca, e un lubricante a base de auga pode axudar.\n\nAo final do embarazo, o sexo ou un orgasmo poden provocar contraccións de Braxton Hicks, cando o útero se pon duro durante un tempo. É normal e non significa que empece o parto, e non hai probas de que as relacións sexuais desencadeen o parto.\n\nSe algún dos dous puidese ter unha infección de transmisión sexual, usade preservativo, tamén no sexo oral: unha infección sen tratar pode danar gravemente a túa saúde e a do bebé. Evita o sexo oral se algún dos dous ten herpes labial, porque o virus pode pasar ao bebé.",
+      "deep": null,
+      "when_to_see_doctor": "- Fala coa túa **matroa ou co médico** se non tes claro que as relacións sexuais sexan seguras para ti, ou se as preocupacións sobre o sexo ou a túa relación che pesan.\n- Se tes **calquera sangrado** no embarazo, fai que o revisen antes de volver ter relacións: contacta coa matroa, co médico ou coa unidade de maternidade.\n- Vai a un **centro de saúde sexual** se ti ou a túa parella podedes ter unha ITS.",
+      "red_flags": "- Contacta de inmediato coa túa **unidade de maternidade** se cres que **rompiches augas**, e non teñas relacións sexuais ata que te vexan.\n- Chama ao **{{emergency}} ou vai a urxencias do hospital** se tes un **sangrado abundante**, sobre todo se vén con **dor forte na barriga** ou sensación de desmaio."
+    },
+    "sexual-violence": {
+      "title": "Violencia sexual e consentimento",
+      "aliases": [
+        "violencia sexual",
+        "agresión sexual",
+        "violación",
+        "consentimento",
+        "abuso sexual",
+        "sen consentimento"
+      ],
+      "glance": "A violencia sexual é calquera acto sexual sen consentimento, e nunca é culpa da persoa que a sufriu.",
+      "overview": "A violencia sexual é calquera acto sexual, ou intento de conseguilo, sen consentimento ou mediante coacción. Inclúe a violación e calquera contacto sexual non desexado, e pode cometela calquera persoa: un descoñecido, un coñecido, ou a parella ou o cónxuxe.\n\nO consentimento está no centro de todo. Consentir significa aceptar libremente, e non é posible cando unha persoa está durmida, inconsciente, bébeda ou drogada, é menor, ou está presionada, ameazada ou con medo. Pódese retirar en calquera momento. Por iso, a violencia sexual **nunca** é culpa da persoa á que lle ocorreu: nin pola roupa que levaba, nin por se bebera, nin por quedar paralizada en vez de defenderse, nin por coñecer a persoa.\n\nSe che pasou isto, hai apoio, tanto se foi hai pouco coma se foi hai moito tempo. Cremos o que contas, e o que fagas despois é decisión túa.",
+      "deep": null,
+      "when_to_see_doctor": "- Podes acudir a un **servizo sanitario, a un hospital ou a un servizo especializado en agresións sexuais**, onde poden atenderte, tratar calquera lesión e, se o desexas, axudarte coa denuncia e coa conservación das probas.\n- Algúns pasos sanitarios **dependen do tempo**, como a anticoncepción de emerxencia ou a prevención de infeccións, así que pedir axuda **pronto** pode axudar. Pero non hai límite de tempo para recibir apoio, e sempre é decisión túa denunciar ou non.",
+      "red_flags": "- Se estás en **perigo inmediato**, contacta agora cos servizos de emerxencia: o **112** na UE (incluída Italia), o **999** no Reino Unido e o **911** nos Estados Unidos e no Canadá.\n- Despois dunha agresión recente, **un hospital ou un servizo especializado pode axudarte con urxencia**. En Italia, o **1522** (gratuíto, 24/7, anónimo e multilingüe; por teléfono ou chat) pode orientarte cara á atención axeitada."
+    },
+    "signs-of-labour": {
+      "title": "Sinais de parto",
+      "aliases": [
+        "sinais de parto",
+        "parto",
+        "estar de parto",
+        "contraccións",
+        "romper augas",
+        "tapón mucoso",
+        "fase latente",
+        "pródromos"
+      ],
+      "glance": "Os sinais de que o parto está a comezar inclúen contraccións regulares, a expulsión do tapón mucoso, dor de costas ou a rotura de augas.",
+      "overview": "Hai algúns sinais de que o parto pode estar a comezar. O principal son as contraccións: endurecementos da barriga que aparecen con regularidade e van en aumento. Outros son a expulsión do tapón mucoso (o tapón de moco do colo do útero que se desprende), unha dor de costas persistente, ganas de ir ao baño e a rotura de augas.\n\nAntes do parto activo adoita haber unha fase inicial («latente»), na que o colo do útero se abranda e empeza a abrirse. Esta parte pode durar horas ou mesmo días, e para moitas persoas está ben pasala tranquila na casa, descansando e ben hidratada.\n\nO parto de cada persoa empeza dun xeito un pouco diferente, así que non tes que ter todos os sinais. Cando creas que as cousas están a comezar, a túa matroa ou a unidade de maternidade están aí para orientarte sobre o que facer e cando ir.",
+      "deep": null,
+      "when_to_see_doctor": "- Chama á túa **matroa ou á unidade de maternidade** para que te orienten cando creas que empezou o parto, ou cando as contraccións sexan **regulares, aproximadamente cada 5 minutos**. Se non consegues falar coa túa matroa, chama ao hospital onde pensas dar a luz.",
+      "red_flags": "Chama á túa **matroa ou á unidade de maternidade de inmediato** (de día ou de noite, sen esperar) se:\n\n- **rompes augas** (sobre todo se o líquido é verde, marrón ou cheira mal)\n- tes **calquera sangrado vaxinal**\n- o teu **bebé se move menos do habitual**\n- tes sinais de parto e estás de **menos de 37 semanas**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Sinais de embarazo",
+      "aliases": [
+        "sinais de embarazo",
+        "primeiros síntomas de embarazo",
+        "estou embarazada",
+        "síntomas de embarazo",
+        "atraso da regra"
+      ],
+      "glance": "Un atraso da regra adoita ser o primeiro sinal de embarazo, ás veces xunto con náuseas, cansazo ou mamas sensibles.",
+      "overview": "Para moitas persoas, o primeiro indicio de embarazo é un **atraso da regra**. Pero cada corpo é distinto, e algunhas persoas notan antes outros sinais temperáns, a miúdo arredor das semanas 4 a 6.\n\nEntre os primeiros sinais comúns están ter náuseas ou vomitar (a calquera hora do día, non só pola mañá), notar as mamas máis grandes ou sensibles, sentirse máis cansa do habitual e ter que ouriñar máis a miúdo. Algunhas persoas tamén notan un sabor metálico, unha nova sensibilidade a certos cheiros ou que deixan de apetecerlles comidas que normalmente lles gustan.\n\nNingún destes sinais por si só significa que esteas embarazada con seguridade (moitos coinciden cos altibaixos normais do ciclo), e non todo o mundo os ten. A forma de sabelo con certeza é un test de embarazo.",
+      "deep": null,
+      "when_to_see_doctor": "- Se un test dá positivo, contacta cunha **matroa ou co teu médico/a de familia** para empezar cedo os coidados do embarazo (prenatais).\n- Se a regra se atrasa e os tests dan negativo pero os síntomas continúan, paga a pena consultar co teu médico/a de familia para ver que máis pode estar a pasar.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Tabaco no embarazo",
+      "aliases": [
+        "fumar no embarazo",
+        "deixar de fumar no embarazo",
+        "deixar o tabaco embarazada",
+        "vapear no embarazo",
+        "cigarro electrónico no embarazo",
+        "tabaco no embarazo"
+      ],
+      "glance": "Deixar de fumar é unha das mellores cousas que podes facer polo teu bebé, e nunca é demasiado tarde.",
+      "overview": "Deixar de fumar é unha das cousas máis poderosas que podes facer para darlle ao teu bebé un comezo saudable. Cada cigarro reduce o osíxeno que recibe o bebé, o que fai que o seu corazón traballe máis e pode frear o seu crecemento.\n\nFumar no embarazo aumenta o risco de problemas graves, como o aborto espontáneo, o parto prematuro, o baixo peso ao nacer, a morte fetal e a síndrome de morte súbita do lactante (SMSL) despois do nacemento. O fume de segunda man tamén importa, así que axuda ter unha casa sen fume.\n\nO esperanzador é que **nunca é demasiado tarde**. Deixalo en calquera momento do embarazo axuda, e deixalo cedo é o que máis beneficios trae. Pode ser realmente difícil, e precisamente por iso existe axuda gratuíta; usala fai que o éxito sexa moito máis probable.",
+      "deep": null,
+      "when_to_see_doctor": "- Pregúntalle á túa **matroa** polo **apoio gratuíto para deixar de fumar**: hai asesores formados (algúns especializados no embarazo) que poden axudarte, e moitos países tamén teñen unha liña de axuda gratuíta para deixar de fumar. Pedir axuda é un sinal de que coidas o teu bebé, non un fracaso.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Manchado e sangrado entre regras",
+      "aliases": [
+        "manchado",
+        "sangrado entre regras",
+        "sangrado intermenstrual",
+        "sangrado por escape",
+        "sangrado despois das relacións",
+        "manchar entre regras"
+      ],
+      "glance": "O manchado é un sangrado leve entre regras ou despois das relacións sexuais; a miúdo non é grave, pero sempre paga a pena facelo revisar.",
+      "overview": "O manchado é un sangrado leve que se produce entre regras ou despois das relacións sexuais, fóra do teu fluxo normal. É común e normalmente non é nada grave, pero como pode ter varias causas, é o tipo de cousa que sempre paga a pena que revise un profesional sanitario.\n\nHai moitas causas habituais. Empezar ou usar anticoncepción hormonal é unha das máis frecuentes. Outras son pequenos crecementos inofensivos dentro ou arredor do útero (pólipos ou miomas), cambios inofensivos na superficie do colo do útero, a secura vaxinal ou unha infección como a clamidia.\n\nComo un mesmo síntoma pode ter causas distintas (a maioría leves), o útil non é adiviñar, senón facelo revisar para saber que hai detrás no teu caso.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta co teu médico/a de familia ou nun centro de saúde sexual **sempre que teñas sangrado entre regras ou despois das relacións sexuais**, aínda que sexa leve. Normalmente non é nada grave, pero facelo revisar é a forma de atopar a causa, e de descartar cedo as causas menos comúns.",
+      "red_flags": "- Pide unha cita **urxente** co teu médico/a de familia, ou contacta cun **servizo médico de garda**, se **non che veu a regra e tes un sangrado pouco habitual xunto con dor na barriga ou na pelve**: isto precisa unha valoración rápida, porque pode ser sinal dun embarazo ectópico."
+    },
+    "stalking": {
+      "title": "Acoso (stalking)",
+      "aliases": [
+        "acoso",
+        "stalking",
+        "acoso reiterado",
+        "persecución",
+        "atención non desexada",
+        "alguén me segue",
+        "ciberacoso"
+      ],
+      "glance": "O acoso é unha atención repetida e non desexada que che fai sentir medo ou inseguridade, e tómase en serio.",
+      "overview": "O acoso é un patrón de comportamento repetido e non desexado por parte de alguén que fai que te sintas con medo, vixiada ou insegura. Pode incluír que te sigan, que alguén apareza onde estás, chamadas ou mensaxes constantes, agasallos non desexados, que te vixíen en internet ou a través do teléfono, ou ameazas. A miúdo faino unha ex-parella ou alguén que coñeces, aínda que non sempre.\n\nO medo que provoca é lexítimo, aínda que cada acto por separado lles poida parecer «pequeno» aos demais: o que importa é o patrón e como te fai sentir. O acoso está recoñecido como unha forma de maltrato e, en moitos países, é un delito. Nada diso é culpa túa, e non tes por que resignarte a vivir con iso.\n\nSe é seguro facelo, levar un rexistro pode axudar máis adiante: datas e horas, capturas de pantalla das mensaxes e o que pasou. Non tes que decidir ti soa se «conta» ou non: os servizos de apoio poden axudarche a entendelo e a pensar nas túas opcións.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta coa **policía** para denunciar o acoso, e cunha liña de axuda contra a violencia ou o acoso para recibir apoio e consello (en Italia, o **1522** atende a violencia **e** o acoso).\n- Gardar probas e facer un plan de seguridade, coa axuda dun servizo especializado, poden marcar unha diferenza real.",
+      "red_flags": "- Se te sentes en **perigo inmediato**, contacta agora cos servizos de emerxencia: o **112** na UE (incluída Italia), o **999** no Reino Unido e o **911** nos Estados Unidos e no Canadá.\n- En Italia, o **1522** (gratuíto, as 24 horas do día, anónimo e multilingüe) pode axudarte por teléfono ou por chat."
+    },
+    "stillbirth": {
+      "title": "Morte fetal",
+      "aliases": [
+        "morte fetal",
+        "morte perinatal",
+        "nado morto",
+        "perda do bebé",
+        "perda xestacional tardía",
+        "bebé nado sen vida"
+      ],
+      "glance": "A morte fetal é a perda dun bebé despois das 24 semanas; é pouco común, nunca é culpa túa e sempre hai apoio.",
+      "overview": "A morte fetal é cando un bebé nace sen vida despois das 24 semanas de embarazo. (Unha perda antes das 24 semanas chámase aborto espontáneo.) É pouco común, arredor de 1 de cada 250 nacementos, pero para as familias ás que lles toca é unha perda profunda, e toda a atención que vén despois está pensada para acompañarte con delicadeza ao longo dela.\n\nÁs veces atópase unha causa (por exemplo, un problema na placenta ou no desenvolvemento do bebé, ou unha doenza) e ás veces, a pesar das probas, **non se atopa ningunha causa**. Sexa cal sexa o motivo, a morte fetal non é algo que causasen os pais nin que puidesen saber como evitar.\n\nHai unha cousa que de verdade axuda a reducir o risco, e é sinxela: **avisar a túa matroa de inmediato se os movementos do bebé diminúen ou cambian.** Xunto con iso, as cousas do día a día (acudir ás citas prenatais, non fumar, evitar o alcol e durmir de lado a partir das 28 semanas) tamén contribúen.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta coa túa **matroa ou coa unidade de maternidade de inmediato** (a calquera hora, de día ou de noite) se o teu **bebé se move menos do habitual ou os seus movementos che parecen diferentes.** Nunca esperes a ver se pasa; facelo revisar é exactamente o que hai que facer, e nunca é unha molestia.\n- Despois dunha perda, as matroas especializadas e os equipos de acompañamento no dó están aí para ti: para as decisións, os pasos prácticos e o dó. Non tes que afrontar nada diso soa, e hai grupos de apoio para a perda dun bebé dispoñibles durante todo o tempo que os necesites.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "O estrés, a vida e as túas regras",
+      "aliases": [
+        "estrés e regra",
+        "estrés",
+        "falta da regra",
+        "regra atrasada",
+        "por que se me atrasa a regra",
+        "non me baixa a regra",
+        "atraso menstrual"
+      ],
+      "glance": "O estrés, os grandes cambios de peso ou moito exercicio poden atrasar ou deter a regra, a miúdo só durante un tempo.",
+      "overview": "É habitual que a regra chegue tarde ou que falte algún mes, e o motivo adoita ter máis que ver coa vida que con que algo vaia mal. O estrés é un dos máis frecuentes: o mesmo sistema que responde á presión pode alterar as hormonas que regulan o teu ciclo.\n\nOutras cousas do día a día tamén poden alterar a regra: un gran cambio de peso (a máis ou a menos), facer moito exercicio ou estar esgotada. Os cambios hormonais (como a chegada da perimenopausa, ou afeccións como a SOP) tamén poden estar detrás, igual que o embarazo e algúns anticonceptivos. A miúdo, o tempo entre regras simplemente varía un pouco de cando en vez, e iso é normal.\n\nO tranquilizador é que unha regra atrasada ou que falta unha soa vez normalmente non é motivo de preocupación, e as cousas adoitan normalizarse cando a vida se calma. O que paga a pena vixiar é un patrón de cambio, non un único mes.",
+      "deep": null,
+      "when_to_see_doctor": "Consulta co teu médico/a de familia se:\n\n- non che veu a regra **tres veces seguidas**, ou as túas regras se volveron **irregulares**\n- a regra **desapareceu** e non sabes por que (e, se é posible que esteas embarazada, paga a pena facer primeiro un test)\n- a falta de regras vén acompañada doutros cambios, como cambios de peso inesperados, cansazo, máis pelo do habitual ou ánimo baixo\n\nEstas revisións só serven para entender que hai detrás do cambio, que normalmente é algo controlable.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Apoiala durante a regra",
+      "aliases": [
+        "axudala coa regra",
+        "apoio na regra para parellas",
+        "coidados durante a regra",
+        "a miña parella ten a regra",
+        "como axudar coa regra"
+      ],
+      "glance": "A regra pode traer dor e cansazo reais: os coidados pequenos e prácticos marcan unha gran diferenza.",
+      "overview": "A regra non son só uns días de sangrado; para moitas persoas vén acompañada de cólicas, dor de costas, dores de cabeza, cansazo e pouca enerxía. A dor menstrual é común e pode esgotar de verdade: non é unha esaxeración. Actúa como farías con calquera parella que se sente mal: con amabilidade práctica.\n\nTamén axuda normalizala. A regra non é noxenta, vergoñenta nin un tabú. Sentirte cómodo mercando compresas ou tampóns, ter algúns na casa ou achegarlle unha botella de auga quente sen facer un drama dille que está segura e apoiada.",
+      "deep": "Cousas sinxelas que axudan:\n\n- **Calor e descanso.** Unha botella de auga quente ou unha almofada térmica na parte baixa da barriga alivia as cólicas; ofrécelle unha noite tranquila na casa.\n- **Quítalle tarefas de enriba.** Cociña, recolle, fai o recado, lévaa en coche: a axuda práctica chega máis que as palabras.\n- **Ten reservas.** Infórmate do que usa e garda existencias, para que un día de moito sangrado nunca sexa unha crise.\n- **Analxésicos e comida reconfortante** se os quere; é decisión dela.\n- **Non a presiones para ter sexo nin para ter unha enerxía que non ten.** A proximidade pode ser unha aperta no sofá.",
+      "when_to_see_doctor": "Anímaa a ir ao médico (e ofrécete a acompañala) se a dor da regra é **forte, vai a peor ou lle impide facer a súa vida diaria**, se as regras son **moi abundantes** (empapa por completo a protección cada hora, coágulos grandes) ou se a dor é nova e pouco habitual: poden indicar afeccións como a endometriose, que merecen unha atención axeitada.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Apoiar a alguén que sofre violencia",
+      "aliases": [
+        "apoiar a alguén",
+        "axudar a unha amiga",
+        "como axudar",
+        "alguén que sofre maltrato",
+        "como apoiar",
+        "unha amiga sofre maltrato"
+      ],
+      "glance": "Se alguén que coñeces pode estar a sufrir maltrato, escoitar sen xulgar e saber a onde orientar esa persoa axuda.",
+      "overview": "Darte conta de que alguén que che importa pode estar a sufrir maltrato é duro, e querer axudar é un bo instinto. As cousas máis útiles que podes ofrecer adoitan ser as máis sinxelas.\n\nEscoita esa persoa e cre o que che conta. Deixa que fale ao seu ritmo, sen xulgar, sen culpar e sen preguntar que fixo para provocalo. Dille claramente que non é culpa súa e que non o merece. Tenta non dicirlle o que ten que facer nin presionala para que marche: marchar é decisión súa, e facelo con présa pode aumentar o perigo; o que máis axuda é que se sinta apoiada e non soa.\n\nGarda en privado o que che conte. Axúdaa con delicadeza a atopar apoio especializado cando estea preparada (unha liña de axuda como o **1522** en Italia, ou un centro contra a violencia local) e ofrécelle axuda práctica, como buscar os números con ela ou estar presente cando chame. E coida tamén de ti; apoiar a alguén nisto pode ser duro.",
+      "deep": null,
+      "when_to_see_doctor": "- Anímaa (sen presionar) a contactar cunha liña de axuda ou cun centro contra a violencia, que poden orientarvos ás dúas persoas sobre que facer a continuación. Podes ofrecerte a axudala a facer a chamada ou a atopar o número.\n- Se ten lesións, o médico/a de familia ou o hospital poden axudar, e poñela en contacto con servizos de apoio.",
+      "red_flags": "- Se está en **perigo inmediato**, chama aos servizos de emerxencia: o **112** na UE (incluída Italia), o **999** no Reino Unido e o **911** nos Estados Unidos e no Canadá.\n- En Italia, o **1522** (gratuíto, 24/7, anónimo e multilingüe; por teléfono ou chat) tamén pode aconsellarte sobre como axudar a alguén."
+    },
+    "the-coil": {
+      "title": "O DIU (de cobre ou hormonal)",
+      "aliases": [
+        "DIU",
+        "dispositivo intrauterino",
+        "DIU de cobre",
+        "DIU hormonal",
+        "sistema intrauterino",
+        "SIU",
+        "Mirena"
+      ],
+      "glance": "O DIU é un pequeno dispositivo que se coloca no útero, de cobre ou hormonal (SIU), e dura anos.",
+      "overview": "O DIU (dispositivo intrauterino) é un pequeno dispositivo que un profesional sanitario coloca dentro do útero. Hai dous tipos, e convén distinguilos:\n\n- O **DIU de cobre** non contén hormonas. O cobre cambia as condicións dentro do útero para que os espermatozoides e os óvulos non poidan sobrevivir ben, e tamén afecta o moco cervical. Segundo o tipo, funciona durante uns 5 a 10 anos.\n- O **DIU hormonal** (SIU, sistema intrauterino) libera un proxestóxeno en lugar de usar cobre. Espesa o moco do colo do útero e fai máis fino o revestimento do útero; nalgunhas persoas tamén pode facer que as regras sexan moito máis lixeiras.\n\nOs dous son métodos de «poñer e esquecer» e os dous teñen unha eficacia de máis do 99 %, con pouca diferenza entre o uso perfecto e o típico. Ningún protexe fronte ás ITS.",
+      "deep": "Os DIU son métodos reversibles de longa duración: unha vez colocados, seguen funcionando durante anos, e a fertilidade volve despois de retiralos. A colocación e a retirada fainas un profesional sanitario formado e levan só uns minutos, aínda que a algunhas persoas a colocación lles resulta molesta. Un motivo habitual para escoller entre os dous é o seu efecto na regra: o DIU de cobre pode facer que as regras sexan máis abundantes ao principio, mentres que o DIU hormonal adoita facelas máis lixeiras. Cal che convén é algo que hai que falar cun profesional sanitario; este artigo só explica como funciona cada un.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Os días premenstruais",
+      "aliases": [
+        "SPM para parellas",
+        "apoiala antes da regra",
+        "apoio premenstrual",
+        "apoio na fase lútea",
+        "síndrome premenstrual e parella"
+      ],
+      "glance": "Nos días antes da regra pode sentirse máis cansa, sensible ou baixa de ánimo: responde con paciencia, non con bromas.",
+      "overview": "Na semana, aproximadamente, anterior á regra, moitas persoas teñen síntomas premenstruais: cambios de humor, irritabilidade ou ánimo baixo, cansazo, mamas doridas, inchazo, dores de cabeza ou problemas para durmir. É moi común e é real: débese ao cambio hormonal natural da fase lútea, non a que ela «esaxere».\n\nNun número menor de persoas o ánimo baixo é grave (unha afección chamada TDPM) e merece un apoio real e atención médica. En calquera caso, o teu papel non é diagnosticala nin arranxala: é manterte sereno e ser amable.\n\nO máis daniño que pode facer unha parella nestes días é usalo como arma: «estás así pola regra», poñer os ollos en branco ou tratar os seus sentimentos como se non valesen por mor da data. Iso desprézaa e engade dor a unha semana difícil. Os seus sentimentos seguen contando, aínda que as hormonas formen parte do cadro.",
+      "deep": "O que de verdade axuda nestes días:\n\n- **Alixeira a súa carga.** Encárgate das tarefas da casa, da comida ou da lista mental de pendentes sen que cho teña que pedir.\n- **Consolo, non correccións.** Ofrécelle calor, descanso, unha botella de auga quente, a súa comida favorita, e déixaa sentir o que sente.\n- **Escoita primeiro.** Se está disgustada, «parece moi duro» é sempre mellor que «tranquilízate».\n- **Non leves a conta.** Un día máis difícil non é unha débeda que ela teña contigo despois.\n- **Pregúntalle que necesita**: hai quen quere proximidade e hai quen quere espazo. As dúas cousas están ben; respecta a súa resposta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Embarazo de xemelgos e múltiple",
+      "aliases": [
+        "xemelgos",
+        "embarazo de xemelgos",
+        "embarazo múltiple",
+        "esperar xemelgos",
+        "xemelgos idénticos",
+        "xemelgos non idénticos",
+        "trixemelgos"
+      ],
+      "glance": "O embarazo de xemelgos adoita detectarse por primeira vez na ecografía de datación e supón algo máis de coidados prenatais.",
+      "overview": "Que esperas máis dun bebé adoita descubrirse por primeira vez na **ecografía de datación** (arredor das 12 semanas), que tamén pode mostrar se os bebés comparten placenta.\n\nHai dous tipos principais. Os xemelgos **idénticos** proceden dun único óvulo fecundado que se divide, así que comparten os mesmos xenes e sempre son do mesmo sexo. Os xemelgos **non idénticos** proceden de dous óvulos distintos e non se parecen máis ca calquera outro par de irmáns; son os máis comúns dos dous tipos, e son algo máis probables cunha idade maior, con antecedentes familiares por parte da nai ou despois dun tratamento de fertilidade.\n\nLevar xemelgos ou máis bebés é unha experiencia propia, e normalmente supón **un pouco máis de coidados prenatais**: citas e ecografías extra para facer un seguimento de preto de ti e dos teus bebés. O teu equipo de matroas explicarache que esperar.",
+      "deep": null,
+      "when_to_see_doctor": "- Se unha ecografía mostra xemelgos (ou máis), a túa **matroa** explicarache as revisións e as ecografías extra que implica un embarazo múltiple; acudir a todas elas é a mellor forma de estar ben atendida.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Entender o seu ciclo",
+      "aliases": [
+        "guía do ciclo para parellas",
+        "o ciclo para parellas",
+        "como funciona o seu ciclo",
+        "apoiala no seu ciclo",
+        "o ciclo da miña parella"
+      ],
+      "glance": "O seu corpo pasa por un ciclo mensual con catro fases: coñecer o básico axúdache a apoiala sen ter que adiviñar.",
+      "overview": "O ciclo menstrual é un ritmo aproximadamente mensual, de media duns 28 días pero a miúdo de entre 21 e 35, e o normal para ela é o que sexa regular para *ela*. Ten catro fases: a fase **menstrual** (a regra), a fase **folicular**, a **ovulación** arredor da metade e a fase **lútea** antes da seguinte regra.\n\nA enerxía, o estado de ánimo, o sono e o desexo poden cambiar ao longo destas fases porque as hormonas soben e baixan: é bioloxía, non un defecto de carácter nin algo polo que burlarse dela. Algunhas persoas notan unha baixada real nos días anteriores á regra; outras apenas o notan. Non hai unha única forma «correcta» de sentirse.\n\nNon tes que converterte nun experto. O que máis axuda é sinxelo: saber aproximadamente en que momento do ciclo está (esta app pode mostrarcho, co seu permiso), contar con que algúns días serán máis duros ca outros e preguntarlle que é o que *a ela* lle axuda, en vez de supoñelo.",
+      "deep": "Algunhas cousas que convén saber, para que os mitos non enchan o baleiro:\n\n- **«Está coa regra» non é un insulto nin a explicación de que non estea de acordo contigo.** Usar o seu ciclo para desprezar os seus sentimentos («só son as hormonas») é unha falta de respecto, e normalmente é falso. As súas razóns seguen sendo as súas razóns.\n- **O ciclo afecta a algo máis que á regra.** As cólicas, as dores de cabeza, as mamas sensibles, a pouca enerxía ou o ánimo máis baixo poden formar parte del. A axuda práctica vale máis que os consellos.\n- **O rexistro é seu.** Se comparte o seu ciclo contigo, tómao como unha xanela a como pode estar a sentirse: unha invitación a ser amable, nunca unha ferramenta para vixiala ou controlala.\n- **Se tes dúbidas, pregunta.** «Como te sentes hoxe? Podo facer algo?» vale máis que calquera gráfica.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Secura vaxinal",
+      "aliases": [
+        "secura vaxinal",
+        "sequidade vaxinal",
+        "secura",
+        "atrofia vaxinal",
+        "vaxina seca"
+      ],
+      "glance": "A secura vaxinal é común, adoita estar relacionada coas hormonas e pode causar irritación ou molestias durante as relacións sexuais.",
+      "overview": "A secura vaxinal é unha experiencia común que moitas persoas teñen nalgún momento. Prodúcese cando diminúe a humidade habitual que mantén a vaxina cómoda, e pode notarse como irritación, proído ou molestias, incluída dor ou molestias durante as relacións sexuais.\n\nAdoita estar relacionada coas hormonas, sobre todo cunha baixada do estróxeno. Por iso é común arredor da menopausa e da perimenopausa, pero tamén pode aparecer durante a lactación, con algúns medicamentos (como certos anticonceptivos ou antidepresivos) ou cando non hai excitación suficiente antes das relacións. Non é nada do que avergoñarse: é algo físico, non un reflexo de ti nin da túa relación.\n\nSaber que é común, e que normalmente ten un tratamento moi eficaz, é un bo punto de partida. Hai opcións sinxelas que poden axudar, e o teu médico/a de familia ou un farmacéutico poden indicarche a que che vai mellor.",
+      "deep": null,
+      "when_to_see_doctor": "Consulta co teu médico/a de familia se:\n\n- a secura vaxinal che molesta ou non mellora ao cabo dunhas semanas\n- está a afectar a túa vida diaria ou a túa vida sexual\n- tamén tes un fluxo vaxinal pouco habitual, ou calquera sangrado despois das relacións sexuais, entre regras ou despois da menopausa\n\nNon tes por que aguantalo sen máis: hai axuda dispoñible, e un profesional sanitario pode ver que hai detrás e que pode aliviala.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Saúde da vaxina e da vulva",
+      "aliases": [
+        "saúde vaxinal",
+        "saúde da vulva",
+        "hixiene íntima",
+        "lavado íntimo",
+        "duchas vaxinais",
+        "fluxo vaxinal",
+        "fluxo"
+      ],
+      "glance": "A vaxina límpase soa: só precisa coidados suaves por fóra, e o fluxo vaxinal é normal.",
+      "overview": "Unha das cousas máis tranquilizadoras que convén saber é que a vaxina se coida soa. Límpase de forma natural, e o fluxo que notas forma parte diso: un fluído que a mantén limpa e húmida e axuda a protexela das infeccións. A cantidade e a textura cambian ao longo do ciclo, o que é completamente normal.\n\nPor iso, a vaxina non precisa lavarse por dentro. De feito, lavala por dentro (as chamadas «duchas vaxinais») pode alterar o seu equilibrio natural. A parte de fóra (a vulva) só precisa coidados suaves: auga morna e, se queres, un xabón suave e sen perfume. É mellor evitar os xabóns, xeles, desodorantes e toalliñas perfumados, porque poden causar irritación.\n\nCoñecer o que é normal para ti (o teu fluxo habitual, o aspecto e as sensacións) fai máis doado notar se algo cambia e pode precisar unha revisión.",
+      "deep": null,
+      "when_to_see_doctor": "Consulta co teu médico/a de familia ou nun centro de saúde sexual se notas:\n\n- un cambio no fluxo vaxinal: na cor, no cheiro ou na textura, ou moito máis do habitual\n- proído, ardor ou irritación arredor da vaxina ou da vulva\n- sangrado entre regras ou despois das relacións sexuais\n- dor ao ouriñar, ou dor na parte baixa, entre a barriga e as coxas (dor pélvica)\n\nIsto é común e a miúdo trátase facilmente: un cambio no fluxo pode significar simplemente unha infección leve, como unha candidíase vaxinal. Facelo revisar é a forma de sabelo, en vez de adiviñar.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "O ciclo e as súas fases",
+      "summary": "Como avanza o teu ciclo polas fases menstrual, folicular, de ovulación e lútea."
+    },
+    "hormones": {
+      "title": "Hormonas",
+      "summary": "As mensaxeiras que hai detrás do teu ciclo: estróxeno, proxesterona, LH e FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Fertilidade e ovulación",
+      "summary": "A xanela fértil, os sinais da ovulación e o que inflúe na fertilidade."
+    },
+    "contraception": {
+      "title": "Anticoncepción",
+      "summary": "Como funcionan os distintos métodos, en palabras sinxelas."
+    },
+    "symptoms-and-signals": {
+      "title": "Síntomas e sinais do corpo",
+      "summary": "Dor, manchado, fluxo vaxinal, estado de ánimo: o que o teu corpo pode estar a dicirche."
+    },
+    "conditions": {
+      "title": "Afeccións",
+      "summary": "SOP, endometriose, miomas e máis: explicados e con fontes."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Saúde sexual e íntima",
+      "summary": "Benestar íntimo, comodidade e preguntas frecuentes."
+    },
+    "life-stages": {
+      "title": "Etapas da vida",
+      "summary": "Da primeira regra á perimenopausa e á menopausa."
+    },
+    "wellbeing": {
+      "title": "Benestar e ciclo",
+      "summary": "Como se relacionan o sono, o estrés e o día a día co teu ciclo."
+    },
+    "tests-and-exams": {
+      "title": "Probas e exames",
+      "summary": "Autoexploración mamaria, cribado do colo do útero, tests de ovulación e máis."
+    },
+    "pregnancy": {
+      "title": "Embarazo",
+      "summary": "Primeiros sinais, coidarse, sinais de alarma e perda do embarazo: explicados e con fontes."
+    },
+    "for-partners": {
+      "title": "Para parellas",
+      "summary": "Entender o seu ciclo, apoiala ben e construír unha relación baseada no respecto."
+    },
+    "safety-and-support": {
+      "title": "Seguridade e apoio",
+      "summary": "Recoñecer o maltrato, estar a salvo e como atopar axuda, con números de emerxencia."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Entende o teu ciclo en 5 pasos",
+      "summary": "Un percorrido tranquilo polo ciclo enteiro e por cada unha das súas catro fases."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Coñecer a ovulación",
+      "summary": "Que é a ovulación, a xanela fértil e os sinais que che dá o teu corpo."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "As hormonas detrás do teu ciclo",
+      "summary": "Coñece as catro mensaxeiras que moven o ciclo e o que fai cada unha."
+    }
+  }
+}

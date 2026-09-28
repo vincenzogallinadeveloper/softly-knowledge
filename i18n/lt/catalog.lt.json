@@ -1,0 +1,1366 @@
+{
+  "_meta": {
+    "lang": "lt",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkoholis nėštumo metu",
+      "aliases": [
+        "alkoholis nėštumo metu",
+        "alkoholio vartojimas nėštumo metu",
+        "alkoholis ir nėštumas",
+        "alkoholio poveikis vaisiui",
+        "FASD"
+      ],
+      "glance": "Saugiausia yra visiškai nevartoti alkoholio nėštumo metu arba bandant pastoti.",
+      "overview": "NHS rekomendacijos yra aiškios ir paprastos: saugiausia **visiškai nevartoti alkoholio**, jei esate nėščia arba bandote pastoti. Nevartojant alkoholio, bet kokia rizika jūsų kūdikiui yra sumažinama iki minimumo.\n\nPriežastis ta, kad alkoholis iš jūsų kraujo per placentą patenka į kūdikio organizmą, kurio kepenys dar nėra pakankamai išsivysčiusios, kad galėtų jį apdoroti. Alkoholio vartojimas nėštumo metu gali sukelti vaisiaus alkoholio spektro sutrikimą (FASD) – įvairius visą gyvenimą trunkančius mokymosi, elgesio ir vystymosi sunkumus.\n\nJei gėrėte alkoholį dar nežinodama, kad esate nėščia, stenkitės nesijaudinti: tikėtina, kad nedidelis alkoholio kiekis nėštumo pradžioje kelia mažą riziką kūdikiui. Svarbiausia – nuo šiol iki pat nėštumo pabaigos vengti alkoholio.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei jums sunku liautis gerti, dėl to nereikia gėdytis — pasakykite savo akušerei ar šeimos gydytojui. Jie gali padėti nesmerkdami, o pagalba naudinga ir jums, ir jūsų kūdikiui.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Nėštumo priežiūra",
+      "aliases": [
+        "nėštumo priežiūra",
+        "priešgimdyminė priežiūra",
+        "nėščiųjų priežiūra",
+        "vizitai pas akušerę",
+        "pirmasis nėštumo vizitas",
+        "nėštumo patikrinimai",
+        "nėštumo vizitai"
+      ],
+      "glance": "Nėštumo priežiūra – tai reguliarūs patikrinimai nėštumo metu, padedantys užtikrinti jūsų ir jūsų kūdikio gerą savijautą.",
+      "overview": "Nėštumo priežiūra – tai priežiūra, kurią gaunate nėštumo metu, kad jūs ir jūsų kūdikis būtumėte kuo sveikesni. Paprastai lankysitės pas akušerę, o prireikus – ir pas gydytoją. Verta pradėti anksti: susisiekite su akušere arba šeimos gydytoju, vos sužinojusi, kad esate nėščia.\n\nPirmasis tikras vizitas – vadinamasis „pirminis vizitas“ – paprastai vyksta tarp 8 ir 12 nėštumo savaitės. Vėliau jums siūlomi reguliarūs patikrinimai: mažiausiai 10 vizitų ir 2 ultragarso tyrimai, jei laukiatės pirmojo kūdikio, arba apie 7 vizitai, jei jau esate gimdžiusi; nėštumo pabaigoje vizitų būna daugiau.\n\nPer šiuos vizitus akušerė matuoja jūsų kraujospūdį, tiria šlapimą, matuoja pilvą, kad stebėtų kūdikio augimą, siūlo patikros tyrimus ir kalbasi su jumis apie kūdikio judesius bei jūsų savijautą. Daug svarbių dalykų – pavyzdžiui, preeklampsija ar nėštumo cukrinis diabetas – čia nustatomi dar prieš jums ką nors pastebint, būtent todėl šie vizitai tokie svarbūs.",
+      "deep": null,
+      "when_to_see_doctor": "- **Kai tik sužinosite, kad esate nėščia,** kreipkitės į **akušerę arba šeimos gydytoją**, kad priežiūra prasidėtų anksti – geriausia laiku, kad pirmasis vizitas įvyktų iki maždaug 10–12 nėštumo savaitės.\n- Stenkitės atvykti į **visus** nėštumo priežiūros vizitus, net jei jaučiatės visiškai gerai – kai kurie patikrinimai skirti būtent tam, kad anksti būtų nustatytos simptomų nesukeliančios problemos.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Jūsų kūdikio judesiai",
+      "aliases": [
+        "kūdikio judesiai",
+        "vaisiaus judesiai",
+        "kūdikis spardosi",
+        "spyriai",
+        "jaučiu kūdikio judesius",
+        "sumažėję judesiai",
+        "kūdikis mažiau juda"
+      ],
+      "glance": "Jaučiami kūdikio judesiai rodo, kad jam viskas gerai – jei judesių sumažėja ar jie pasikeičia, nedelsdama skambinkite savo akušerei.",
+      "overview": "Kūdikio judesiai – vienas iš raminančių ženklų, kad jam viskas gerai. Dauguma moterų pradeda jausti judesius maždaug nuo 16 iki 24 nėštumo savaitės – per pirmąjį nėštumą dažnai vėliau, todėl pirmą kartą įprasta juos pajusti po 20 savaitės.\n\nNėra nustatyto judesių skaičiaus, kurį „turėtumėte“ pajusti, ir nereikia skaičiuoti spyrių siekiant kokio nors tikslo. Kiekvienas kūdikis kitoks, todėl svarbiausia – pažinti **savo** kūdikio įprastą judėjimo ritmą per dieną: kada jis būna aktyvus, o kada ramus.\n\nKai jau žinote tą ritmą, dėmesį reikia atkreipti į bet kokį nukrypimą nuo jo. Pasitikėkite tuo, ką žinote apie savo kūdikį.",
+      "deep": null,
+      "when_to_see_doctor": "Gerai pažinusi įprastą savo kūdikio judėjimo ritmą, galėsite pastebėti pokyčius. Jei kada nors abejojate, ar judesių nesumažėjo ar jie nepasikeitė, visada teisinga paskambinti ir pasitikrinti – tikrai niekam negaišinsite laiko.",
+      "red_flags": "- Jei jūsų kūdikis **juda mažiau nei įprastai, jo judesiai pasikeitė arba nejaučiate, kad jis juda**, **nedelsdama skambinkite savo akušerei arba į gimdymo skyrių** – bet kuriuo paros metu. **Nelaukite iki kitos dienos**, net jei dabar vidurnaktis.\n- Nesiraminkite namų vaisiaus širdelės klausymo prietaisu (dopleriu) ar programėle – vykite, kad jus apžiūrėtų gyvai."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Nugaros skausmas nėštumo metu",
+      "aliases": [
+        "nugaros skausmas nėštumo metu",
+        "skauda nugarą nėštumo metu",
+        "apatinės nugaros dalies skausmas nėštumo metu",
+        "strėnų skausmas nėštumo metu",
+        "nėščiosios nugaros skausmas"
+      ],
+      "glance": "Nugaros skausmas nėštumo metu yra labai dažnas reiškinys, nes raiščiai suminkštėja, o pilvas didėja — paprastai tai nėra pavojinga.",
+      "overview": "Nugaros skausmas yra vienas iš dažniausiai pasitaikančių nėštumo simptomų. Kūnui ruošiantis gimdymui, raiščiai natūraliai suminkštėja ir išsitempia, o augantis pilvas keičia svorio pasiskirstymą – abu šie veiksniai sukelia papildomą apkrovą apatinei nugaros daliai ir dubens sričiai.\n\nŠį diskomfortą gali palengvinti kasdieniniai dalykai: dėmesingas požiūris į laikyseną stovint, sėdint ir keliant daiktus; plokščių, koją gerai palaikančių batų nešiojimas; tvirtas čiužinys arba gerai palaikanti pagalvė; taip pat švelnūs, reguliarūs judesiai, pavyzdžiui, vaikščiojimas, nėštumo joga ar užsiėmimuose atliekami pratimai. Jei diskomfortas tampa tikrai trukdantis, akušerijos fizioterapeutas gali suteikti individualius patarimus.\n\nDauguma nėštumo metu pasireiškiančių nugaros skausmų nėra priežastis nerimauti, tačiau kai kuriais atvejais verta nedelsiant kreiptis pas gydytoją – būtent tam ir skirtos žemiau pateiktos rekomendacijos.",
+      "deep": null,
+      "when_to_see_doctor": "Nedelsdama kreipkitės į **šeimos gydytoją arba akušerę**, jei nugaros skausmas:\n\n- yra **stiprus** arba prasideda **antrąjį ar trečiąjį nėštumo trimestrą** (kartais tai gali būti ankstyvo gimdymo požymis)\n- pasireiškia kartu su **karščiavimu, kraujavimu iš makšties ar skausmu šlapinantis**\n- jaučiamas **šone (ar abiejuose šonuose), po šonkauliais**",
+      "red_flags": "- Jei **prarandate jutimą kojose, sėdmenyse ar lyties organuose** arba nebegalite sulaikyti šlapimo ar išmatų, skambinkite **{{emergency}} arba vykite į skubiosios pagalbos skyrių**. Tai pasitaiko retai, bet reikalinga skubi medicininė pagalba."
+    },
+    "basal-body-temperature": {
+      "title": "Bazinė kūno temperatūra",
+      "aliases": [
+        "bbt",
+        "bkt",
+        "bazinė kūno temperatūra",
+        "bazinė temperatūra",
+        "temperatūra ryte pabudus",
+        "temperatūrinis metodas"
+      ],
+      "glance": "Bazinė kūno temperatūra – tai jūsų ramybės būsenoje ryte matuojama temperatūra, kuri po ovuliacijos šiek tiek pakyla.",
+      "overview": "Bazinė kūno temperatūra (BKT) – tai jūsų kūno temperatūra visiškos ramybės būsenoje. Kasdien matuojant tuo pačiu būdu, per ciklą matyti nedidelis, bet daug pasakantis pokytis: po ovuliacijos ji šiek tiek pakyla ir išlieka aukštesnė iki kitų mėnesinių.\n\nPakilimas nedidelis — apie 0,4–0,8 °F (maždaug 0,2–0,4 °C) — todėl jis nustatomas iš kelių dienų tendencijos, o ne iš vieno matavimo. Kad jį pastebėtumėte, matuokite temperatūrą kasryt prieš atsikeliant, valgant ar geriant, geriausia tuo pačiu laiku. Praėjus maždaug trims dienoms nuo temperatūros kilimo pradžios, beveik visos moterys jau būna ovuliavusios.\n\nKadangi temperatūra pakyla *po* kiaušinėlio išsiskyrimo, BKT patvirtina, kad ovuliacija jau įvyko, o ne numato jos iš anksto. Per kelis ciklus ji gali padėti pamatyti jūsų pačios ciklo eigą, nors vien jos nepakanka tiksliai nustatyti vaisingas dienas.",
+      "deep": "BKT yra vienas iš kasdien fiksuojamų vaisingumo požymių, kartu su gimdos kaklelio gleivėmis ir ciklo trukme. Ji natūraliai derinama su gleivių stebėjimu: kai gleivės tampa skaidrios ir slidžios, tai rodo, kad prasideda vaisingasis laikotarpis, o temperatūros pakilimas po kelių dienų patvirtina, kad ovuliacija jau praėjo. Ramybės temperatūrą gali paveikti daug dalykų – prastas miegas, liga, alkoholis ar ilgesnis miegas ryte – todėl pavieniai neįprasti rodmenys mažiau svarbūs nei bendra tendencija.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Kraujavimas nėštumo metu",
+      "aliases": [
+        "kraujavimas nėštumo metu",
+        "kraujavimas iš makšties nėštumo metu",
+        "tepimas nėštumo metu",
+        "kraujingos išskyros nėštumo metu",
+        "rudos išskyros nėštumo metu",
+        "kraujuoju būdama nėščia"
+      ],
+      "glance": "Kraujavimas nėštumo metu ne visada rimtas – negausus tepimas nėštumo pradžioje pasitaiko dažnai, – tačiau visada tegul jį patikrina gydytojas ar akušerė.",
+      "overview": "Kraujavimas iš makšties nėštumo metu ne visada reiškia, kad kažkas negerai. Negausus kraujavimas ar tepimas gana dažnas ypač nėštumo pradžioje, ir daugelis nėštumų po jo tęsiasi visiškai gerai.\n\nVis dėlto kraujavimas kartais gali būti problemos – pavyzdžiui, persileidimo ar negimdinio nėštumo – požymis, todėl jį **visada turi patikrinti specialistas**, nesvarbu, koks kraujo kiekis. Tik taip nustatoma priežastis ir, jei reikia, greitai suteikiama tinkama pagalba.\n\nKadangi tas pats simptomas gali reikšti labai skirtingus dalykus, naudinga ne spėlioti, o susisiekti su specialistu ir leisti save apžiūrėti.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei nėštumo metu pastebite **bet kokį** kraujavimą iš makšties, net ir negausų tepimą, **visada kreipkitės į savo gimdymo skyrių** (arba, jei nėštumas trumpesnis nei 20 savaičių ar neturite skyriaus telefono numerio, – **į** ankstyvojo nėštumo skyrių arba **budintį gydytoją**), kad būtų nustatyta priežastis.",
+      "red_flags": "- Jei kraujuojate **gausiai** — pavyzdžiui, higieninis paketas permirksta netrukus po to, kai jį užsidėjote, — ypač jei kartu jaučiate **stiprų pilvo skausmą, skausmą peties viršūnėje, pykinimą, jaučiatės lyg tuoj nualpsite, svaigsta galva arba prarandate sąmonę,** skambinkite **{{emergency}} arba vykite į skubiosios pagalbos skyrių.** Tokiu atveju reikalinga skubi medicininė pagalba."
+    },
+    "breast-awareness": {
+      "title": "Krūtų savikontrolė",
+      "aliases": [
+        "krūtų savikontrolė",
+        "krūtų savityra",
+        "krūtų apžiūra",
+        "krūtų apčiuopimas",
+        "kaip patikrinti krūtis",
+        "krūtų patikrinimas"
+      ],
+      "glance": "Krūtų savikontrolė – tai tiesiog žinojimas, kaip jūsų krūtys paprastai atrodo ir kokios jos būna apčiuopiamos, kad pastebėtumėte pokyčius.",
+      "overview": "Krūtų savikontrolė nėra kokia nors ypatinga technika – tai tiesiog pažinimas to, kas jums įprasta, kad bet kas nauja išsiskirtų. Reguliariai apžiūrėdama ir apčiuopdama savo krūtis ar krūtinę, išmoksite, kaip jos paprastai atrodo ir kokios būna liečiant; kartą per mėnesį – geras ritmas.\n\nNėra vieno „teisingo“ būdo. Daugelis žiūri į veidrodį nuleidę rankas, paskui jas pakėlę, ir apčiuopia kiekvieną krūtį iki pat pažasties. Taip įgyjate pažinimą, o ne nustatote diagnozę – tikslas tiesiog anksti pastebėti pokytį, jei jis atsirastų.\n\nKrūtys taip pat natūraliai keičiasi per ciklą ir per visą gyvenimą, todėl kai kurie pokyčiai visiškai normalūs. Savikontrolės prasmė – pakankamai gerai pažinti savo normą, kad galėtumėte pastebėti tai, kas nuo jos skiriasi.",
+      "deep": null,
+      "when_to_see_doctor": "Kreipkitės į šeimos gydytoją, jei pastebite kokių nors pokyčių, kurie jums nėra įprasti, pavyzdžiui:\n\n- gumbas ar patinimas krūtyje, krūtinėje arba pažastyje\n- odos pokyčiai, pavyzdžiui, įdubimai (oda gali atrodyti kaip apelsino žievelė) arba paraudimas\n- vienos arba abiejų krūtų dydžio ar formos pasikeitimas\n- išskyros iš spenelio (jei nesate nėščia ir nemaitinate krūtimi), kuriose gali būti kraujo\n- spenelio išvaizdos pasikeitimas, pavyzdžiui, jis įsitraukia į vidų\n- krūties ar pažasties skausmas, kuris nepraeina\n\nDauguma krūtų pokyčių nėra vėžys ir pasirodo esantys nekenksmingi – tačiau bet kokį pokytį visada verta nedelsiant parodyti gydytojui, nes jei kas nors iš tiesų reikalauja dėmesio, ankstyvas nustatymas padeda.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Žindymas",
+      "aliases": [
+        "žindymas",
+        "maitinimas krūtimi",
+        "motinos pienas",
+        "kūdikio maitinimas",
+        "kaip žindyti",
+        "žindymo problemos"
+      ],
+      "glance": "Motinos pienas apsaugo kūdikį nuo infekcijų ir prisitaiko prie jo augimo – o bet koks jo kiekis teikia naudos.",
+      "overview": "Motinos pienas yra natūralus ir visavertis kūdikio maistas: jis suteikia kūdikiui reikalingų maistinių medžiagų, vitaminų ir mineralų, o jo sudėtis laikui bėgant keičiasi, prisitaikydama prie kūdikio vystymosi etapo. Be to, jis padeda apsaugoti nuo infekcijų ir ligų bei teikia tam tikrą ilgalaikę naudą sveikatai.\n\nNauda yra ir maitinančiai moteriai – žindymas, be kita ko, siejamas su mažesne krūties ir kiaušidžių vėžio rizika – ir apskritai galioja taisyklė, kad kuo daugiau ir ilgiau žindote, tuo didesnė nauda. Svarbu, kad **bet koks** motinos pieno kiekis yra vertingas; čia negalioja principas „viskas arba nieko“.\n\nIš pradžių žindyti gali būti sunkiau, nei tikėjotės, ir tai dažnai pasitaiko. Pagalbos galite gauti – iš akušerės, patronažinės slaugytojos ir vietinių žindymo konsultantų ar paramos tarnybų – todėl, jei nesiseka sklandžiai, verta kreiptis kuo anksčiau.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei maitinti skauda ar sunku, arba nerimaujate, kad jūsų kūdikis negauna pakankamai pieno, kuo anksčiau paprašykite pagalbos **akušerės ar patronažinės slaugytojos** – pagalba gali iš tiesų daug ką pakeisti.\n- Kaip maitinsite savo kūdikį – jūsų asmeninis sprendimas, ir kad ir ką pasirinktumėte, pagalbos sulauksite; svarbiausia, kad jums ir jūsų kūdikiui būtų gerai.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Rudos išskyros",
+      "aliases": [
+        "rudos išskyros",
+        "rudas tepimas",
+        "rudas kraujas",
+        "senas kraujas",
+        "tamsios išskyros",
+        "rudos mėnesinės",
+        "rudas menstruacinis kraujas"
+      ],
+      "glance": "Rudos išskyros paprastai yra nedidelis kraujo kiekis, dažniausiai pasitaikantis lengvesnėmis menstruacijų dienomis. Jei rudos dėmės atsiranda kitu metu, verta pasitikrinti pas gydytoją.",
+      "overview": "Rudos išskyros – tai nedidelis rusvo kraujo ar skysčio kiekis, kurį pastebite ant apatinių drabužių arba tualetinio popieriaus. Daugelis tai kada nors pastebi, ir labai dažnai tai tiesiog menstruacijų dalis.\n\nMenstruacinis kraujas ne visada ryškiai raudonas. Gausiausiomis dienomis jis paprastai būna raudonas, tačiau negausiomis dienomis gali atrodyti rausvas arba rudas. Taigi rusvas atspalvis negausiomis menstruacijų dienomis yra dažnas ir normalus dalykas.\n\nRudos išskyros gali pasirodyti ir kitu metu. Tepimas – tai nedidelės rožinio, raudono arba rudo kraujo dėmelės, o tepimas tarp menstruacijų turi keletą dažnų priežasčių. Viena dažniausių – hormoninė kontracepcija, pavyzdžiui, kontraceptinės tabletės. Kitos – nedideli dariniai gimdoje ar aplink ją (pavyzdžiui, polipai ar miomos) ir infekcijos, pavyzdžiui, chlamidiozė. Labai ankstyvo nėštumo metu kai kurios moterys pastebi nedidelį tepimą maždaug tuo metu, kai turėtų prasidėti mėnesinės. Tai vadinama implantaciniu kraujavimu.\n\nKadangi rudas tepimas ne menstruacijų metu gali turėti įvairių priežasčių, dažniausiai nereikšmingų, naudinga ne spėlioti, o leisti gydytojui jį įvertinti, kad sužinotumėte, kas būtent jūsų atveju jį sukelia.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei **tarp menstruacijų arba po lytinių santykių** pastebite **rudą tepimą ar kraujavimą**, net jei jis negausus, kreipkitės į šeimos gydytoją arba lytinės sveikatos kliniką. Paprastai tai nėra rimta, tačiau visada verta, kad tai patikrintų gydytojas.\n- Jei esate **nėščia arba galite būti nėščia**, dėl bet kokio tepimo, įskaitant rudą, kreipkitės į savo gimdymo skyrių, ankstyvojo nėštumo skyrių arba **budintį gydytoją**, kad būtų nustatyta jo priežastis.\n- Jei **po menopauzės** pastebite **bet kokių rudų ar rausvų išskyrų arba kraujavimą**, kreipkitės į šeimos gydytoją, net jei jų buvo nedaug arba tai pasitaikė tik kartą.\n- Jei išskyros **pakeičia spalvą, kvapą ar konsistenciją** arba kartu pasireiškia niežulys, perštėjimas, dubens skausmas ar skausmas šlapinantis, pasitarkite su šeimos gydytoju, lytinės sveikatos klinikoje arba su budinčiu gydytoju.",
+      "red_flags": "- Jei **neseniai negavote mėnesinių ir atsirado neįprastas kraujavimas kartu su pilvo ar dubens skausmu**, kreipkitės dėl **skubaus** vizito pas šeimos gydytoją arba susisiekite su **budinčiu gydytoju**. Tai reikia greitai patikrinti, nes tai gali būti negimdinio nėštumo požymis.\n- Jei esate nėščia, skambinkite **{{emergency}}**, jei kraujuojate ir jaučiate **stiprų pilvo skausmą, skausmą peties srityje, jaučiatės lyg tuoj nualpsite, svaigsta galva ar pykina, arba kraujavimas gausus** (higieninis paketas permirksta netrukus po to, kai jį užsidėjote)."
+    },
+    "cervical-mucus": {
+      "title": "Gimdos kaklelio gleivės",
+      "aliases": [
+        "gimdos kaklelio gleivės",
+        "išskyros",
+        "makšties išskyros",
+        "gimdos kaklelio išskyros",
+        "kiaušinio baltymo gleivės",
+        "vaisingos gleivės"
+      ],
+      "glance": "Gimdos kaklelio gleivės – tai natūralios išskyros, kurių pobūdis kinta ciklo metu ir kurios žymi vaisingas dienas.",
+      "overview": "Gimdos kaklelio gleivės – tai skystis, kurį gamina gimdos kaklelis ir kurį galite pastebėti kaip išskyras. Tai normalu, o jų išvaizda ir konsistencija per ciklą keičiasi gana nuspėjamai – būtent todėl jos yra vienas iš požymių, pagal kuriuos nustatomos vaisingos dienos.\n\nIškart po menstruacijų dažnai būna kelios „sausos“ dienos, kai gleivių mažai. Kiaušinėliui pradėjus bręsti, gleivių padaugėja, jos paprastai būna baltos arba gelsvos, drumstos ir lipnios. Likus kelioms dienoms iki ovuliacijos jos paprastai tampa skaidrios, drėgnos ir slidžios, tempiasi tarp pirštų kaip žalias kiaušinio baltymas – tai vaisingiausias laikas. Po ovuliacijos jos paprastai vėl tampa lipnios ir drumstos arba išnyksta.\n\nKiekvienos moters gleivių kaita šiek tiek skiriasi, todėl gali prireikti kelių ciklų atidaus stebėjimo, kad pažintumėte savąją. Kai kurie veiksniai – pavyzdžiui, hormoninė kontracepcija, žindymas ar infekcija – gali pakeisti gleives, todėl ne visoms moterims tai patikimas vaisingumo požymis.",
+      "deep": "Gimdos kaklelio gleivių stebėjimas yra vienas iš vaisingumo požymių, kuriuos žmonės stebi kartu su ramybės kūno temperatūra ir ciklo trukme; jų įsisavinimas paprastai užtrunka du ar tris ciklus. Skirtingai nuo temperatūros pakilimo, kuris patvirtina ovuliaciją tik jai įvykus, gleivių pasikeitimas į skaidrias, slidžias, kiaušinio baltymo konsistencijos gleives paprastai pasireiškia *prieš* ovuliaciją, todėl šis požymis naudojamas vaisingumo laikotarpio pradžiai pažymėti, o ne jo pabaigai.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Gimdos kaklelio patikrinimas (tepinėlis)",
+      "aliases": [
+        "gimdos kaklelio patikra",
+        "tepinėlis",
+        "citologinis tepinėlis",
+        "citologinis tyrimas",
+        "PAP testas",
+        "PAP tepinėlis"
+      ],
+      "glance": "Gimdos kaklelio patikrinimas – tai reguliarus gimdos kaklelio būklės patikrinimas, padedantis užkirsti kelią gimdos kaklelio vėžiui.",
+      "overview": "Gimdos kaklelio patikrinimas – tai tyrimas, kurio metu tikrinama gimdos kaklelio, t. y. gimdos angos makšties viršuje, būklė. Tai nėra vėžio tyrimas. Tai būdas anksti nustatyti pokyčius ir padėti užkirsti kelią gimdos kaklelio vėžio atsiradimui.\n\nKviečiamos visos moterys, turinčios gimdos kaklelį, nuo 25 iki 64 metų. Kai ateis laikas, jums bus reguliariai siunčiamas kvietimas, todėl nereikės staiga prisiminti ir užsiregistruoti – nors sprendimas, ar eiti, visada priklauso nuo jūsų.\n\nPats tyrimas trunka trumpai, jį atlieka slaugytoja. Daugelis žmonių dėl to šiek tiek jaudinasi, o tai visiškai suprantama; žinant, kam jis skirtas – tai įprastas profilaktinis patikrinimas – jį galima lengviau ištverti.",
+      "deep": null,
+      "when_to_see_doctor": "- Patikra skirta tada, kai **neturite** simptomų. Jei tarp patikrų pastebite ką nors nerimą keliančio – pavyzdžiui, neįprastą kraujavimą (tarp menstruacijų, po lytinių santykių arba po menopauzės) – kreipkitės į šeimos gydytoją, o ne laukite kito kvietimo.\n- Jei esate pakviesta, bet abejojate ar nerimaujate dėl apsilankymo, verta pasikalbėti su savo šeimos gydytoju arba poliklinikos slaugytoja, kurie paaiškins, kas vyks, ir atsakys į jūsų klausimus.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Smurtas prieš vaikus ir vaikų apsauga",
+      "aliases": [
+        "smurtas prieš vaikus",
+        "prievarta prieš vaiką",
+        "vaiko nepriežiūra",
+        "vaikų apsauga",
+        "nerimauju dėl vaiko",
+        "skriaudžiamas vaikas",
+        "vaiko teisių apsauga"
+      ],
+      "glance": "Jei nerimaujate, kad vaikas gali būti skriaudžiamas ar neprižiūrimas, teisinga kreiptis patarimo – nebūtina būti visiškai įsitikinus.",
+      "overview": "Smurtas prieš vaiką – arba netinkamas elgesys su vaiku – tai žala bet kuriam asmeniui iki 18 metų. Tai apima fizinį, seksualinį ir emocinį smurtą bei nepriežiūrą (kai neužtikrinami pagrindiniai vaiko poreikiai). Deja, tai dažnas reiškinys, jis gali pakenkti visam gyvenimui, ir tai niekada nėra vaiko kaltė.\n\nGalbūt nerimaujate dėl vaiko iš savo aplinkos ar dėl vaiko, kurį tiesiog pastebėjote. Kad imtumėtės veiksmų dėl šio nerimo, nebūtina būti tikriems ar turėti įrodymų – pasitikėti savo nuojauta ir paprašyti patarimo yra būtent tai, ką reikia daryti, ir tai gali apsaugoti vaiką.\n\nO jei jūs patys vaikystėje patyrėte prievartą, žinokite, kad ta žala niekada nebuvo jūsų kaltė ir kad pagalba prieinama ir jums, bet kokio amžiaus.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei nerimaujate dėl vaiko, galite konfidencialiai kreiptis patarimo į **vaiko teisių apsaugos / socialines tarnybas**, specialią **vaikų apsaugos pagalbos liniją**, **šeimos gydytoją, patronažinę slaugytoją ar vaiko mokyklą**.\n- Klausdami jūs tikrai „neperdedate“. Geriau pasitikrinti, nei laukti.",
+      "red_flags": "- Jei vaikui gresia **tiesioginis pavojus** arba jis sunkiai sužeistas, nedelsdami kreipkitės į skubios pagalbos tarnybas: **112** ES šalyse (įskaitant Italiją), **999** Jungtinėje Karalystėje, **911** JAV ir Kanadoje."
+    },
+    "coercive-control": {
+      "title": "Prievartinė kontrolė",
+      "aliases": [
+        "prievartinė kontrolė",
+        "kontroliuojantis elgesys",
+        "emocinis smurtas",
+        "psichologinis smurtas",
+        "izoliavimas",
+        "ekonominis smurtas",
+        "gaslaitingas",
+        "psichologinis manipuliavimas"
+      ],
+      "glance": "Prievartinė kontrolė – tai kontroliuojančio elgesio modelis (izoliavimas, sekimas, grasinimai), pripažįstamas smurto forma.",
+      "overview": "Prievartinė kontrolė – tai smurto forma, kuri veikia per kontrolę, o ne per fizinę žalą, arba kartu su ja. Tai elgesio modelis – o ne pavienis ginčas – kai vienas žmogus palaipsniui riboja kito laisvę ir savivoką.\n\nTai gali pasireikšti atskyrimu nuo draugų ir šeimos, telefono, judėjimo ar išlaidų sekimu ar ribojimu, nurodinėjimu, ką vilkėti ar kaip elgtis, arba gyvenimu su nuolatine kritika, grasinimais ar bauginimu. Kadangi mėlynių gali nebūti, tai gali būti sunku įvardyti, o kiti gali to nematyti – tačiau tai pripažįstama smurtu ir gali būti lygiai toks pat žalingas kaip fizinis smurtas.\n\nJei atpažįstate kai ką iš to, tai nereiškia, kad esate per daug jautri ar kad pati dėl to kalta. Kontroliuojantis elgesys yra kito žmogaus pasirinkimas. Suprasti, kas tai iš tikrųjų yra, gali būti pirmas žingsnis link pagalbos.",
+      "deep": "Prievartinė kontrolė dažnai stiprėja palaipsniui, todėl iš vidaus ją sunku pastebėti – smulkūs kontrolės veiksmai tampa įprasti, o abejonės savimi stiprėja. Laikui bėgant tai alina psichinę sveikatą. Pasikalbėjimas su žmogumi, išmokytu atpažinti tokius elgesio modelius, gali padėti jums aiškiau pamatyti situaciją ir be jokio spaudimo apgalvoti, ką norite daryti toliau.",
+      "when_to_see_doctor": "- Pagalbos smurtą patiriantiems centre arba pagalbos linijoje (Italijoje – **1522**) galite konfidencialiai ir nemokamai pasikalbėti apie tai, ką patiriate, ir išsiaiškinti savo galimybes – kreiptis galite net ir tada, kai jums negresia fizinis pavojus.\n- Šeimos gydytojas arba psichologas taip pat gali jums padėti ir nukreipti į specializuotas tarnybas.",
+      "red_flags": "- Jei jums gresia **tiesioginis pavojus**, nedelsdami kreipkitės į skubios pagalbos tarnybas: **112** ES (įskaitant Italiją), **999** Jungtinėje Karalystėje, **911** JAV ir Kanadoje.\n- Italijoje numeris **1522** yra nemokamas, pasiekiamas 24 valandas per parą, užtikrina anonimiškumą ir teikia paslaugas keliomis kalbomis – telefonu arba pokalbių programoje."
+    },
+    "combined-pill": {
+      "title": "Kombinuotos kontraceptinės tabletės",
+      "aliases": [
+        "kombinuotos kontraceptinės tabletės",
+        "kontraceptinės tabletės",
+        "kombinuotieji geriamieji kontraceptikai",
+        "KGK",
+        "COC",
+        "hormoninės tabletės"
+      ],
+      "glance": "Kombinuotos kontraceptinės tabletės – tai kasdien vartojamos tabletės, kurių sudėtyje yra dviejų hormonų ir kurios veikia daugiausia stabdydamos ovuliaciją.",
+      "overview": "Kombinuotos kontraceptinės tabletės – tai kasdien geriamos tabletės, kuriose yra du hormonai – estrogeno ir progestogeno atmainos, panašios į tuos, kuriuos gamina kiaušidės. Tai vienas iš labiausiai žinomų kontracepcijos būdų.\n\nJos apsaugo nuo nėštumo keliais būdais vienu metu. Visų pirma jos neleidžia kiaušidėms išleisti kiaušinėlio (ovuliacijai). Be to, jos sutirština gleives gimdos kaklelyje, todėl spermatozoidams sunkiau prasiskverbti, ir suplonina gimdos gleivinę.\n\nJų veiksmingumas priklauso nuo to, ar jos vartojamos pagal nurodymus: vartojant idealiai, veiksmingumas viršija 99 %, tačiau įprastai, kasdien vartojant – kai kartais pamirštama išgerti tabletę arba ji išgeriama pavėluotai – veiksmingumas siekia apie 91 %. Kaip ir dauguma metodų, jos neapsaugo nuo lytiniu keliu plintančių infekcijų, todėl kai kas papildomai naudoja ir prezervatyvus.",
+      "deep": "Kombinuotos kontraceptinės tabletės paprastai vartojamos pagal nustatytą mėnesio schemą, o kaip jas vartoti, kam jos tinka, kokie yra šalutiniai poveikiai ir rizika – visa tai gydytojas išsamiai paaiškina išrašydamas receptą; jos tinka ne visiems. Kadangi tai kasdienio vartojimo priemonė, jos veiksmingumas praktikoje labai priklauso nuo vartojimo įpročių. Šiame straipsnyje paaiškinama, kas tai yra ir kaip veikia; dėl vartojimo pradžios, vartojimo ar nutraukimo detalių reikėtų pasikalbėti su šeimos gydytoju, slaugytoju ar vaistininku.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Dažni nėštumo simptomai",
+      "aliases": [
+        "dažni nėštumo simptomai",
+        "nėštumo negalavimai",
+        "rėmuo nėštumo metu",
+        "nugaros skausmas nėštumo metu",
+        "patinusios kulkšnys",
+        "vidurių užkietėjimas nėštumo metu",
+        "nėštumo skausmai"
+      ],
+      "glance": "Nėštumas atneša daug smulkių skausmų ir pokyčių – dauguma jų normalūs, tačiau kai kuriuos verta parodyti gydytojui ar akušerei.",
+      "overview": "Nėštumas – tai daug pokyčių jūsų kūnui, o kartu atsiranda ir ilgas kasdienių negalavimų sąrašas. Dauguma jų dažni ir nereiškia, kad kažkas negerai – tai tiesiog kūdikio auginimo dalis.\n\nDažniausi yra nugaros skausmas, rėmuo ir virškinimo sutrikimai, vidurių užkietėjimas, hemorojus, kulkšnių, pėdų ir pirštų patinimas, nuovargis ir pertraukiamas miegas, kojų mėšlungis, galvos skausmas, jausmas, kad tuoj nualpsite, ir gausesnės nei įprastai išskyros. Daugelį jų palengvina paprastos priemonės, o jei kas nors vargina, akušerė gali patarti, kas saugu.\n\nNaudinga žinoti, kurie pokyčiai yra įprasti, o apie kuriuos verta pranešti – nes kai kuriuos simptomus, nors jie ir retesni, reikia parodyti specialistui, o ne laukti, kol praeis.",
+      "deep": null,
+      "when_to_see_doctor": "Dauguma šių simptomų normalūs, tačiau nedelsdama kreipkitės į **akušerę arba gimdymo skyrių**, jei atsiranda:\n\n- **kraujavimas iš makšties** arba staigus skysčio išsiliejimas ar pratekėjimas\n- jūsų **kūdikis juda mažiau** nei įprastai\n- **stiprus galvos skausmas, regėjimo sutrikimai arba staigus** veido, rankų ar pėdų **patinimas** (galimi preeklampsijos požymiai)\n- **stiprus arba vienoje pusėje jaučiamas pilvo skausmas** arba **karščiavimas**\n- **niežulys**, ypač delnų ir padų, arba stipresnis naktį (tai gali būti nėštumo metu pasireiškiančios kepenų ligos požymis, kurį reikia ištirti)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Prezervatyvai",
+      "aliases": [
+        "prezervatyvas",
+        "prezervatyvai",
+        "prezikas",
+        "išorinis prezervatyvas",
+        "vyriškas prezervatyvas",
+        "barjerinė kontracepcija"
+      ],
+      "glance": "Prezervatyvai yra barjerinis kontracepcijos metodas – ir vienintelė kontracepcijos priemonė, kuri taip pat apsaugo nuo lytiniu keliu plintančių infekcijų.",
+      "overview": "Prezervatyvas – tai plonas barjeras (paprastai iš latekso, o alergiškiems lateksui – iš plastiko pakaitalo), kuris lytinių santykių metu užmaunamas ant varpos. Jis veikia paprastai: neleidžia spermai patekti į makštį.\n\nTarp kontracepcijos priemonių prezervatyvai išsiskiria tuo, kad tai **vienintelis metodas, kuris taip pat apsaugo nuo lytiniu keliu plintančių infekcijų (LPI), įskaitant ŽIV.** Todėl jie dažnai naudojami kartu su kitu metodu – kitas metodas apsaugo nuo nėštumo, o prezervatyvas papildomai apsaugo nuo infekcijų.\n\nKiekvieną kartą teisingai naudojami prezervatyvai apsaugo nuo nėštumo maždaug 98 % veiksmingumu. Įprastai naudojant – kai kartais jie naudojami neteisingai arba ne kiekvieną kartą – veiksmingumas sumažėja iki maždaug 82 %. Skirtumą lemia teisingas ir nuoseklus naudojimas.",
+      "deep": "Kadangi prezervatyvai naudojami santykių metu, o ne iš anksto, jų veiksmingumas realiame gyvenime labai priklauso nuo nuoseklaus ir teisingo naudojimo. Vidiniai prezervatyvai (dedami į makštį) yra dar viena barjerinė priemonė. Skirtingai nuo daugumos metodų, prezervatyvams nereikia recepto, jie plačiai prieinami, o dėl dvejopos paskirties – apsaugos nuo nėštumo ir nuo lytiniu keliu plintančių infekcijų – jie taip dažnai minimi kalbant apie saugesnį seksą.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Sutikimas ir pagarba",
+      "aliases": [
+        "sutikimas",
+        "sutikimas seksui",
+        "gerbti jos ribas",
+        "entuziastingas sutikimas",
+        "kūno autonomija",
+        "pagarba santykiuose"
+      ],
+      "glance": "Sutikimas – tai aiškus, savanoriškas ir entuziastingas „taip“ – kiekvieną kartą, ir jį galima atšaukti bet kuriuo metu.",
+      "overview": "Pagarba prasideda nuo jos teisės spręsti dėl savo kūno – visada. Sutikimas intymumui reiškia laisva valia duotą, sąmoningą ir entuziastingą **„taip“**. Tyla nėra sutikimas. Nenoriai ištartas „na gerai“ nėra sutikimas. Žmogus, kuris miega, yra labai girtas ar patiria spaudimą, negali duoti tikro sutikimo. O „taip“ vienam dalykui ar vieną dieną nereiškia „taip“ viskam ar kitam kartui.\n\nSutikimą galima atšaukti bet kuriuo metu, o „sustok“ arba „ne šįvakar“ yra išsamus atsakymas, kurio nereikia pagrįsti. Spaudimas, kaltės jausmo kėlimas, įsižeidimo demonstravimas, kol ji nusileis, ar požiūris į seksą kaip į kažką, ką ji jums skolinga, yra nepriimtini – santykiai nėra skola.",
+      "deep": "Kaip pagarba atrodo praktikoje:\n\n- **Klauskite ir pasitikslinkite.** „Ar taip gerai?“ – ir stebėkite, kaip ji reaguoja: žodžiais ir kūnu.\n- **Priimkite „ne“ oriai.** Be surūgusios minos, spaudimo ar bausmių. Jos atsakymas yra galutinis.\n- **Entuziazmas svarbus.** Jei ji atrodo nesava, dvejoja ar tiesiog nusileidžia, sustokite ir paklauskite.\n- **Jos kūnas – jos sprendimas** – dėl intymumo, kontracepcijos, nėštumo, jos sveikatos, išvaizdos ir pasirinkimų. Bendrame gyvenime turite teisę į savo nuomonę, bet niekada – teisės vetuoti tai, kas susiję su jos kūnu.\n- **Pagarba – kasdienis dalykas.** Tai, kaip su ja kalbate, kaip apie ją kalbate ir kaip gerbiate jos ribas smulkmenose, yra pamatas, ant kurio laikosi visa kita.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Kontracepcija",
+      "aliases": [
+        "kontracepcija",
+        "apsisaugojimas nuo nėštumo",
+        "kontraceptikai",
+        "šeimos planavimas",
+        "gimstamumo kontrolė",
+        "kaip apsisaugoti nuo nėštumo"
+      ],
+      "glance": "Kontracepcija – tai įvairūs būdai, padedantys išvengti nėštumo, ir jų yra daug, iš kurių galima rinktis.",
+      "overview": "Kontracepcija – kartais vadinama gimstamumo kontrole – tai įvairūs metodai, skirti nėštumui išvengti. Jų yra daug, ir jie veikia skirtingai: vieni naudoja hormonus, kiti yra barjeriniai, treti įdedami į gimdą, o dar kiti grindžiami ciklo stebėjimu.\n\nTai, kaip gerai veikia metodas, labai priklauso nuo to, kaip jis naudojamas. Kai kurie metodai – pavyzdžiui, implantas ir spiralės – yra „įdėk ir pamiršk“ tipo, o jų veiksmingumas viršija 99 %. Kiti, pavyzdžiui, kontraceptinės tabletės ar prezervatyvai, yra labai veiksmingi, kai naudojami idealiai, tačiau įprastai, kasdien naudojant, jų veiksmingumas šiek tiek mažesnis, nes lengviau pamiršti išgerti tabletę arba neteisingai panaudoti prezervatyvą.\n\nVerta žinoti vieną dalyką: **tik prezervatyvai apsaugo ir nuo lytiniu keliu plintančių infekcijų (LPI)**. Kiti metodai apsaugo nuo nėštumo, bet ne nuo infekcijų, todėl prezervatyvai kartais naudojami kartu su kitu metodu.\n\nNėra vieno „geriausio“ metodo – tinkamiausias priklauso nuo jūsų sveikatos, jūsų kūno ir to, kas tinka jūsų gyvenimui. Šeimos gydytojas arba lytinės sveikatos klinika gali aptarti su jumis galimybes ir padėti pasirinkti.",
+      "deep": "Kadangi metodai labai skiriasi, verta apgalvoti, kas jums svarbu: koks metodo veiksmingumas, ar reikia kasdien ką nors prisiminti, kiek laiko jis veikia, ar norite hormonų, ar ne, ir ar jūsų situacijoje svarbi apsauga nuo lytiniu keliu plintančių infekcijų. Daugelis per gyvenimą keičia metodus, nes keičiasi jų poreikiai. Šioje žinių bazėje aprašoma, kaip veikia dažniausi metodai, kad pasirinkimas taptų aiškesnis – tačiau sprendimą, taip pat receptą ar priemonės įdėjimą, reikia aptarti su gydytoju.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Kontracepcija ir svoris",
+      "aliases": [
+        "ar vartojant kontraceptines tabletes priaugama svorio?",
+        "tabletės ir svorio padidėjimas",
+        "kontracepcija, svorio padidėjimas",
+        "kontracepcija ir svorio padidėjimas",
+        "svorio padidėjimas vartojant kontraceptines tabletes",
+        "kontraceptinė injekcija ir svorio padidėjimas",
+        "svorio padidėjimas po implanto įdėjimo"
+      ],
+      "glance": "Nėra įrodymų, kad kombinuotos kontraceptinės tabletės sukelia svorio padidėjimą, tačiau kontraceptinė injekcija gali jį sukelti. Tai priklauso nuo metodo.",
+      "overview": "Dažnai kyla klausimas, ar kontracepcija gali sukelti svorio padidėjimą. Sąžiningas atsakymas yra toks: tai priklauso nuo pasirinkto metodo.\n\nKalbant apie kombinuotas kontraceptines tabletes, duomenys teikia pasitikėjimą: nėra įrodymų, kad jų vartojimas skatina svorio padidėjimą. Tas pats pasakytina ir apie kontraceptinį pleistrą bei makšties žiedą.\n\nKontraceptinė injekcija yra kitokia. Svorio padidėjimas nurodytas kaip vienas iš dažniausių jos šalutinių poveikių, kartu su menstruacijų pokyčiais.\n\nVartojant tik progestogeną turinčias kontraceptines tabletes (kartais vadinamas „mini tabletėmis“) ir kontraceptinį implantą, kai kurios moterys teigia, kad priaugo svorio. Tačiau nėra pakankamai įrodymų, kad būtų galima teigti, jog priežastis yra būtent šis metodas.\n\nSvoris – tai tik viena iš daugelio aplinkybių. Kiekvienas metodas turi savų galimų šalutinių poveikių ir rizikos veiksnių, todėl renkantis kontracepciją svarbiausia rasti tai, kas tinka jūsų organizmui, sveikatai ir gyvenimo būdui. Vaistininkas, šeimos gydytojas, slaugytoja arba lytinės sveikatos klinika gali kartu su jumis aptarti galimas pasirinkimo galimybes.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei šalutiniai poveikiai, įskaitant svorio pokyčius, kelia jums problemų, pasitarkite su vaistininku, šeimos gydytoju, slaugytoja arba kreipkitės į lytinės sveikatos kliniką. Vartojant kombinuotas kontraceptines tabletes, pleistrą ar žiedą, kai kurie šalutiniai poveikiai gali pasireikšti pradėjus vartoti. Jei po maždaug 3 mėnesių jie vis dar jums kelia nerimą, gydytojas gali su jumis aptarti galimybę pakeisti kontraceptines tabletes arba pasirinkti kitą kontracepcijos būdą.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Kontraceptinis implantas",
+      "aliases": [
+        "kontraceptinis implantas",
+        "implantas",
+        "implantas rankoje",
+        "Nexplanon",
+        "kontracepcija rankoje"
+      ],
+      "glance": "Implantas – tai į viršutinę rankos dalį įdedamas mažytis strypelis, kuris kelerius metus išskiria hormoną.",
+      "overview": "Kontraceptinis implantas – tai mažas, lankstus strypelis, maždaug degtukų dydžio, kurį kvalifikuotas medicinos specialistas įterpia tiesiai po viršutinės rankos oda. Įterptas implantas nuolat išskiria progestogeno hormoną ir veikia iki maždaug trejų metų.\n\nJis apsaugo nuo nėštumo daugiausia užkertant kelią kiaušidėms išleisti kiaušinėlį (ovuliacijai) ir sutirštindamas gimdos kaklelio gleives, todėl spermatozoidai negali prasiskverbti. Kadangi kasdien nereikia nieko prisiminti, tai yra vienas iš „įdėk ir pamiršk“ metodų.\n\nBūtent dėl to tai yra vienas iš patikimiausių pasirinkimų: implanto veiksmingumas siekia daugiau nei 99 %, o jo veiksmingumas beveik nesiskiria, nepriklausomai nuo to, ar jis naudojamas idealiai, ar įprastai. Kaip ir kiti hormoniniai kontracepcijos metodai, jis neapsaugo nuo lytiniu keliu plintančių infekcijų.",
+      "deep": "Implantas yra ilgalaikio poveikio grįžtamasis kontracepcijos metodas – jis veikia tol, kol yra pašalinamas, o vaisingumas atsinaujina po jo pašalinimo. Jo įdėjimas ir išėmimas yra greitos procedūros, kurias atlieka gydytojas, kuris taip pat paaiškina, kam jis tinka ir kokie yra jo šalutiniai poveikiai. Ši informacija paaiškina, kas tai yra ir kaip veikia; sprendimas jį įsidėti turi būti aptartas su šeimos gydytoju, slaugytoja arba lytinės sveikatos klinikoje.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Jūsų ciklas ir jūsų savijauta",
+      "aliases": [
+        "savijauta",
+        "ciklas ir sveikata",
+        "menstruacinis ciklas ir sveikata",
+        "ciklas kaip sveikatos rodiklis",
+        "gyvybinis rodiklis"
+      ],
+      "glance": "Jūsų ciklas yra tarsi kasmėnesinis sveikatos patikrinimas – verta atkreipti dėmesį į jo pokyčius.",
+      "overview": "Jūsų menstruacinis ciklas nėra atskirtas nuo likusios jūsų sveikatos – jis su ja susijęs. Jums įprastas, reguliarus ciklas paprastai rodo, kad organizmas veikia taip, kaip turėtų. Todėl kai kas menstruacijas laiko savotišku kasmėnesiniu signalu apie bendrą savijautą.\n\nĮtakos turi ir kasdienis gyvenimas. Vienas pavyzdys – kūno svoris: gerokai per mažas arba per didelis svoris gali paveikti ovuliaciją valdančius hormonus, todėl mėnesinės gali tapti nereguliarios. Tai veikia abiem kryptimis – rūpinimasis pagrindiniais dalykais, pavyzdžiui, subalansuota mityba ir judėjimu, palaiko ciklą, o pastovus ciklas rodo, kad šie dalykai yra pakankamoje pusiausvyroje.\n\nČia kalbama ne apie „tobulo“ ciklo siekimą ar savęs kaltinimą dėl pokyčių. Tiesiog švelnus dėmesys savo ciklui gali padėti suprasti, kaip jums sekasi, ir paskatinti pasitarti su gydytoju, jei kas nors pasikeičia.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei jūsų mėnesinės tampa nereguliarios, nustoja arba pasikeičia taip, kaip jums nebūdinga, kreipkitės į šeimos gydytoją – ilgalaikiai pokyčiai kartais gali rodyti, kad verta tai išsiaiškinti.\n- Taip pat verta pasikalbėti, jei menstruacijų sutrikimai trukdo jūsų kasdieniam gyvenimui – taip galėsite gauti pagalbą, o ne tiesiog kentėti.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Ekonominis smurtas",
+      "aliases": [
+        "ekonominis smurtas",
+        "finansinis smurtas",
+        "pinigų kontrolė",
+        "finansų kontroliavimas",
+        "skolos mano vardu",
+        "partneris atima pinigus"
+      ],
+      "glance": "Ekonominis smurtas – tai kito asmens galimybės naudotis pinigais, darbu ar ištekliais ribojimas; tai pripažinta smurto forma.",
+      "overview": "Ekonominis smurtas – tai kai vienas žmogus kontroliuoja kito galimybę naudotis pinigais ir tuo, ką už pinigus galima įsigyti. Tai kontroliuojančio elgesio forma, ir jis dažnai pasireiškia kartu su kitomis smurto rūšimis.\n\nTai gali atrodyti kaip visų išlaidų kontroliavimas ar reikalavimas atsiskaityti už kiekvieną centą, jūsų atlyginimo ar išmokų atėmimas, skolų darymas jūsų vardu, banko sąskaitų ar dokumentų slėpimas nuo jūsų arba trukdymas dirbti ar mokytis. Kadangi dėl to žmogus gali likti be lėšų išeiti ar susitvarkyti kasdienybėje, tai vienas iš būdų, kaip smurtas gali tapti tarsi spąstais.\n\nJei kai kas iš to jums pažįstama, tai nereiškia, kad „nemokate tvarkytis su pinigais“ ar esate kalta. Kito žmogaus išteklių kontroliavimas yra to žmogaus pasirinkimas – ir tai pripažįstama smurtu.",
+      "deep": null,
+      "when_to_see_doctor": "- Ir čia gali padėti pagalbos smurtą patiriantiems tarnybos – ne tik dėl saugumo, bet ir imantis praktinių bei finansinių žingsnių, konfidencialiai ir nemokamai (Italijoje pagalbos linija **1522** gali nukreipti jus į vietinę pagalbą).\n- Saugumo planas gali apimti tai, kad tyliai pasirūpinate prieiga prie šiek tiek pinigų, svarbiausių dokumentų ir svarbių telefono numerių.",
+      "red_flags": "- Jei jums gresia **tiesioginis pavojus**, nedelsdami kreipkitės į skubios pagalbos tarnybas: **112** ES (įskaitant Italiją), **999** Jungtinėje Karalystėje, **911** JAV ir Kanadoje.\n- Italijoje numeris **1522** — nemokamas, veikiantis 24 valandas per parą, užtikrinantis anonimiškumą ir teikiantis pagalbą įvairiomis kalbomis — gali padėti telefonu arba pokalbių programoje."
+    },
+    "ectopic-pregnancy": {
+      "title": "Negimdinis nėštumas",
+      "aliases": [
+        "negimdinis nėštumas",
+        "ektopinis nėštumas",
+        "kiaušintakio nėštumas",
+        "nėštumas kiaušintakyje"
+      ],
+      "glance": "Negimdinis nėštumas vystosi už gimdos ribų – jis negali tęstis, todėl reikia nedelsiant kreiptis į gydytoją.",
+      "overview": "Negimdinis nėštumas – tai kai apvaisintas kiaušinėlis prisitvirtina ne gimdoje, dažniausiai viename iš kiaušintakių. Deja, tokioje vietoje nėštumas negali išsivystyti į kūdikį ir jo neįmanoma perkelti į gimdą, todėl jį visada reikia gydyti.\n\nPožymiai paprastai pasireiškia maždaug tarp 4 ir 12 savaitės ir gali būti skausmas apatinėje pilvo dalyje vienoje pusėje, kraujavimas iš makšties arba rudos vandeningos išskyros, skausmas peties viršūnėje arba diskomfortas šlapinantis ar tuštinantis. Simptomų derinys būna įvairus, o kai kuriuos lengva supainioti su kuo nors nereikšmingu, todėl svarbu, kad juos įvertintų gydytojas.\n\nTai nedažna, bet galimai pavojinga būklė, todėl nereikėtų laukti, kol praeis. Anksti kreipusis patarimo, ją galima saugiai gydyti.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei jaučiate kelis iš šių simptomų **ir galite būti nėščia**, kreipkitės į šeimos gydytoją arba **budintį gydytoją** – net jei neturite teigiamo nėštumo testo. Svarbu nedelsiant pasitarti.",
+      "red_flags": "- Skambinkite **{{emergency}} arba vykite į skubiosios pagalbos skyrių**, jei jaučiate **staigų, aštrų, stiprų pilvo skausmą**, **labai svaigsta galva ar jaučiatės lyg tuoj nualpsite**, esate **labai išblyškusi** arba kartu jus pykina. Tai gali reikšti, kad plyšo kiaušintakis – tai skubi medicininė būklė, kurią reikia gydyti nedelsiant."
+    },
+    "emergency-contraception": {
+      "title": "Avarinė kontracepcija",
+      "aliases": [
+        "avarinė kontracepcija",
+        "skubioji kontracepcija",
+        "tabletė po lytinių santykių",
+        "rytinė tabletė",
+        "tabletė „po“",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "Avarinė kontracepcija gali padėti išvengti nėštumo po lytinių santykių be apsaugos – ir kuo greičiau, tuo geriau.",
+      "overview": "Avarinė kontracepcija – tai būdas išvengti nėštumo po lytinių santykių be kontracepcijos arba kai įprastas metodas galėjo nesuveikti (praleista tabletė, plyšęs prezervatyvas). Yra dvi jos rūšys, ir abiem atvejais svarbus laikas.\n\nPirmoji – **avarinės kontracepcijos tabletė**. Yra dviejų tipų tabletės: vieną (levonorgestrelio) galima išgerti per 3 dienas – 72 valandas – po lytinių santykių, o kitą (ulipristalio acetato, prekės pavadinimas „ellaOne“) – per 5 dienas – 120 valandų. Antroji galimybė – **varinė spiralė (IUD)**, kurią gydytojas gali įdėti per 5 dienas po lytinių santykių; tai veiksmingiausia avarinės kontracepcijos forma, o jei norite, ją galima palikti kaip nuolatinę kontracepciją.\n\nVisais atvejais **kuo anksčiau jas panaudosite, tuo geriau jos paprastai veikia** – todėl verta veikti greitai, o ne laukti. Avarinės kontracepcijos galite gauti vaistinėje, pas šeimos gydytoją, lytinės sveikatos klinikoje arba centre, kuriame priima be išankstinės registracijos, dažnai nemokamai.",
+      "deep": null,
+      "when_to_see_doctor": "- Kadangi laikas svarbus, nelaukite – vaistininkas gali greitai parduoti avarinės kontracepcijos tabletę, o lytinės sveikatos klinikoje arba pas šeimos gydytoją galima įsidėti spiralę.\n- Avarinė kontracepcija skirta nėštumui išvengti, o ne infekcijoms. Jei yra bent menkiausia lytiniu keliu plintančios infekcijos tikimybė, lytinės sveikatos klinikoje patars dėl tyrimų.\n- Jei po to mėnesinės vėluoja daugiau nei kelias dienas arba labai skiriasi nuo įprastų, verta atlikti nėštumo testą ir pasitarti su gydytoju.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriozė",
+      "aliases": [
+        "endometriozė",
+        "endo",
+        "endometriozės simptomai",
+        "endometriozės skausmas"
+      ],
+      "glance": "Endometriozė – tai liga, kai gimdos gleivinės audinys auga už gimdos ribų, dėl to dažnai kyla skausmas.",
+      "overview": "Endometriozė – tai lėtinė liga, kai į gimdos gleivinę panašios ląstelės auga kitose kūno vietose, pavyzdžiui, aplink kiaušides, dubenyje ar ant žarnyno. Tai dažna liga – manoma, kad ja serga maždaug 1 iš 10 reprodukcinio amžiaus moterų visame pasaulyje.\n\nKadangi šis audinys elgiasi šiek tiek panašiai kaip gimdos gleivinė, jis gali sukelti uždegimą, o laikui bėgant – randinio audinio susidarymą. Dažniausias požymis yra skausmas: dažnai stiprūs menstruaciniai skausmai, bet ir dubens ar apatinės nugaros dalies skausmas kitu metu, skausmas lytinių santykių metu ar po jų, skausmas šlapinantis ar tuštinantis. Taip pat dažnai pasitaiko labai gausios mėnesinės, didelis nuovargis, prislėgta nuotaika ir sunkumai pastoti. Simptomai labai skiriasi – vienos moterys jaučia stiprų skausmą, kitos – nedidelį.\n\nEndometriozė dažnai nesuprantama, o jos atpažinimas gali užtrukti metų metus, iš dalies dėl to, kad menstruaciniai skausmai labai dažnai nurašomi kaip „normalūs“. Stiprus skausmas, kuris trikdo jūsų gyvenimą, nėra tai, ką tiesiog reikia iškęsti – į jį verta žiūrėti rimtai.",
+      "deep": "Tiksli endometriozės priežastis nėra žinoma, ir šiuo metu nėra būdo ją išgydyti – tačiau gydymas gali padėti suvaldyti simptomus, o pagalba apima tiek vaistus, tiek, kai kuriems žmonėms, chirurginę operaciją, taip pat paramą, padedančią susidoroti su fizine ir emocine našta. Vienas didžiausių iššūkių yra vėlavimas: vidutiniškai diagnozei nustatyti gali prireikti kelerių metų, kartais – net daugelio. Būtent dėl to labai svarbu kruopščiai fiksuoti savo simptomus ir kreiptis į gydytoją dar kartą, jei jūsų negirdima.",
+      "when_to_see_doctor": "Verta apsilankyti pas šeimos gydytoją, jei:\n\n- jaučiate stiprius menstruacinius skausmus, dėl kurių negalite užsiimti įprasta veikla\n- jūsų mėnesinės labai gausios — pavyzdžiui, tenka keisti higieninį paketą ar tamponą kas 1–2 valandas\n- jaučiate nuolatinį dubens ar apatinės nugaros dalies skausmą, skausmą lytinių santykių metu ar po jų, arba skausmą šlapinantis ar tuštinantis\n- jums sunku pastoti\n- jau taikytas gydymas nepadėjo arba simptomai pablogėjo\n\nKadangi endometriozę diagnozuoti gali užtrukti, visiškai normalu kreiptis dar kartą, jei į jūsų simptomus nežiūrima rimtai – aiškus vaizdas, kaip skausmas keitėsi laikui bėgant, labai padeda. Jei skausmas ar gausus kraujavimas veikia ir jūsų nuotaiką, pasakykite apie tai šeimos gydytojui; tai irgi bendro vaizdo dalis, ir jums gali būti suteikta pagalba.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogenas",
+      "aliases": [
+        "estrogenas",
+        "estrogenai",
+        "estrogeno lygis",
+        "estradiolis"
+      ],
+      "glance": "Estrogenas yra pagrindinis hormonas, kuris kiekvieną ciklą padeda organizmui pasirengti galimai nėštumui.",
+      "overview": "Estrogenas yra vienas iš pagrindinių hormonų, lemiančių menstruacinį ciklą. Pirmojoje ciklo pusėje (folikulinėje fazėje) jo lygis kyla, kai kiaušidėje bręsta folikulas. Dėl šio pakilimo storėja gimdos gleivinė ir artėjama prie ovuliacijos.\n\nEstrogenas taip pat daro įtaką dalykams, kuriuos galite pastebėti kasdien – energijai, nuotaikai ir gimdos kaklelio gleivių pokyčiams vaisingomis dienomis. Po ovuliacijos jo lygis nukrinta, o vėliau vėl pakinta ir antroje ciklo pusėje veikia kartu su kitu hormonu – progesteronu.\n\nKiekvieno ciklo metu hormonų lygis natūraliai kyla ir krinta, be to, jis kinta ir skirtingais gyvenimo etapais. Tai normalu – tai ritmas, pagal kurį veikia jūsų organizmas, o ne kažkas, ką reikėtų „taisyti“.",
+      "deep": "Estrogenas nėra viena medžiaga, o susijusių hormonų grupė (ciklo metu aktyviausias yra estradiolis). Didžioji jo dalis gaminama kiaušidėse, augančiame folikule. Jo ciklinis padidėjimas ir sumažėjimas – kartu su progesteronu ir smegenų signaliniais hormonais LH bei FSH – lemia ciklo fazes. Kadangi estrogenas veikia daugelį organizmo sistemų, jo natūralūs svyravimai gali pasireikšti nežymiais pokyčiais per visą mėnesį; stebėjimas padeda pažinti savo individualų ciklą, o ne lyginti jį su „vidurkiu“.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Fizinis aktyvumas ir jūsų ciklas",
+      "aliases": [
+        "sportas",
+        "fizinis aktyvumas",
+        "treniruotės",
+        "judėjimas",
+        "sportas per mėnesines",
+        "mankšta ir ciklas"
+      ],
+      "glance": "Galite išlikti aktyvi visą ciklą — o reguliarus fizinis aktyvumas gali palengvinti skausmus ir PMS simptomus.",
+      "overview": "Fiziškai aktyvi galite būti bet kuriuo ciklo metu. Kai kurios moterys pastebi, kad tam tikru mėnesio laikotarpiu turi daugiau energijos ir gali šiek tiek labiau pasistengti, o kitu – mažiau; abu atvejai normalūs, ir nė vienas nėra priežastis nustoti judėti.\n\nReguliari fizinė veikla iš tiesų gali padėti sušvelninti kai kuriuos su menstruacijomis susijusius simptomus. Reguliariai sportuojančios moterys dažnai rečiau jaučia skausmingus spazmus, o aktyvumas taip pat gali palengvinti priešmenstruacinius simptomus (PMS). Tomis dienomis, kai energijos mažiau, švelnesnis judėjimas taip pat skaičiuojasi – kad būtų naudingas, jis nebūtinai turi būti intensyvus.\n\nNereikia planuoti savo gyvenimo pagal ciklą, ir nėra vieno „teisingo“ būdo judėti. Stebėdama savo energijos pokyčius per mėnesį, galėsite tiesiog planuoti taip, kaip jums patogu.",
+      "deep": null,
+      "when_to_see_doctor": "- Labai intensyvios treniruotės arba pernelyg didelis fizinis krūvis, dėl kurio organizmui trūksta energijos, gali sutrikdyti menstruacijų ciklą arba visiškai jį sustabdyti. Reguliarus ciklas paprastai rodo, kad viskas vyksta kaip reikia, todėl, jei menstruacijos tampa nereguliarios arba visai nustoja, verta pasikonsultuoti su šeimos gydytoju – ilgainiui tai gali turėti įtakos kaulų ir hormonų sveikatai.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Fizinis aktyvumas nėštumo metu",
+      "aliases": [
+        "fizinis aktyvumas nėštumo metu",
+        "sportas nėštumo metu",
+        "pratimai nėščiosioms",
+        "mankšta nėštumo metu",
+        "aktyvumas nėštumo metu"
+      ],
+      "glance": "Daugumos nėštumų metu būti aktyviai saugu ir naudinga – švelniai, nepersitempiant.",
+      "overview": "Fizinis aktyvumas nėštumo metu yra naudingas jums ir nekelia pavojaus jūsų kūdikiui – tiesą sakant, gera fizinė forma gali padėti lengviau prisitaikyti prie laukiančių pokyčių ir gimdymo. Nebūtina imtis kokių nors intensyvių užsiėmimų; puiki pradžia – tiesiog tęsti įprastą kasdienę veiklą, jei tik jaučiatės patogiai.\n\nPaprasta praktinė taisyklė: judėdama turėtumėte galėti **kalbėtis**. Jei taip trūksta kvapo, kad negalite kalbėti, sulėtinkite tempą. Daugumai tinka švelnūs užsiėmimai, tokie kaip vaikščiojimas, plaukimas, vandens mankšta nėščiosioms ir joga nėščiosioms. Jei anksčiau nebuvote fiziškai aktyvi, dabar ne laikas pradėti naują, intensyvią treniruočių programą – geriau pradėkite švelniai ir krūvį didinkite palaipsniui.\n\nKai kurių veiklų geriausia vengti arba imtis jų atsargiai — pavyzdžiui, gulėjimo ant nugaros po maždaug 16 savaitės, kontaktinių sporto šakų, nardymo su akvalangu ir bet kokios veiklos, kurioje yra reali rizika nukristi.",
+      "deep": null,
+      "when_to_see_doctor": "- Prieš pradėdama naują aerobinių pratimų programą arba jei turite sveikatos problemų ar nerimaujate dėl nėštumo, pasitarkite su savo **akušere**.\n- Jei mankštinantis pasijuntate blogai, svaigsta galva ar labai trūksta kvapo, arba jaučiate skausmą, kraujuojate ar prasideda sąrėmiai, **sustokite ir pasitarkite su specialistu**.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Vaisingumo laikotarpis",
+      "aliases": [
+        "vaisingumo laikotarpis",
+        "vaisingos dienos",
+        "vaisingiausios dienos",
+        "vaisingumo langas",
+        "kada galima pastoti"
+      ],
+      "glance": "Vaisingumo laikotarpis – tai keletas dienų kiekvieno ciklo metu, kai lytiniai santykiai gali baigtis nėštumu.",
+      "overview": "Vaisingumo laikotarpis – tai trumpas ciklo etapas, kai įmanoma pastoti. Jis susidaro dėl dviejų nesutampančių laikotarpių: kiaušinėlis gali būti apvaisintas tik maždaug 12–24 valandas po jo išsiskyrimo, o spermatozoidai organizme gali išgyventi keletą dienų – iki maždaug savaitės – laukdami kiaušinėlio.\n\nApibendrinant, tai reiškia, kad vaisingumo laikotarpis prasideda keletą dienų prieš ovuliaciją ir baigiasi maždaug dieną po jos. Praktikoje didžiausias vaisingumas pasiekiamas per 2–3 dienas iki ovuliacijos ir pačią ovuliacijos dieną, nes spermatozoidai jau gali būti ten, kai atvyksta kiaušinėlis.\n\nKadangi ovuliacija gali skirtis kiekvieną ciklą, keičiasi ir vaisingumo laikotarpis. Būtent todėl jis paprastai laikomas ne viena konkrečia data, o kelių dienų laikotarpiu, o požymių stebėjimas per kelis ciklus yra patikimesnis nei pasikliauti vienu kalendoriniu skaičiavimu.",
+      "deep": "Tikslios dienos skiriasi priklausomai nuo žmogaus ir kiekvieną mėnesį, todėl šį laikotarpį geriausia nustatyti remiantis pačios organizmo siunčiamais signalais, o ne pagal fiksuotą formulę. Gimdos kaklelio gleivių pokyčiai rodo, kad artėjant ovuliacijai prasideda vaisingumo laikotarpis, o ramybės kūno temperatūros pakilimas patvirtina – jau po fakto – kad ovuliacija praėjo ir vaisingumo laikotarpis baigėsi. Ovuliacijos prognozavimo rinkiniai veikia šiek tiek anksčiau, nustatydami liuteinizuojančio hormono (LH) šuolį, kuris atsiranda netrukus prieš kiaušinėlio išsiskyrimą.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Mėnesinių pradžia (pirmosios mėnesinės)",
+      "aliases": [
+        "pirmosios mėnesinės",
+        "pirmoji menstruacija",
+        "menarchė",
+        "mėnesinių pradžia",
+        "kada prasideda mėnesinės",
+        "prasidėjo mėnesinės"
+      ],
+      "glance": "Pirmosios mėnesinės paprastai prasideda apie 12 metų – normalu, jei jos prasideda bet kada nuo maždaug 8 iki 17 metų.",
+      "overview": "Pirmosios mėnesinės – kartais vadinamos menarche – tai metas, kai pirmą kartą prasideda menstruacinis ciklas. Daugumai mergaičių jos prasideda maždaug 12 metų, tačiau normalu, jei tai įvyksta bet kada nuo maždaug 8 iki 17 metų. Dažnai jos prasideda maždaug po dvejų metų nuo krūtų augimo pradžios.\n\nPaprastai prieš tai būna tam tikrų požymių: auga pažastų ir gaktos plaukai, o keletą mėnesių prieš tai atsiranda nedaug skaidrių ar baltų išskyrų. Žinant, kad tai artėja, pirmosios mėnesinės gali neatrodyti tokios netikėtos.\n\nIš pradžių mėnesinės dažnai būna nereguliarios – tarpai gali būti ilgi arba trumpi, o organizmui gali prireikti kelių mėnesių, net poros metų, kol nusistovės pastovesnis ritmas. Kai tai įvyksta, mėnesinės paprastai ateina maždaug kas 23–35 dienas ir trunka apie 2–7 dienas. Nereguliarumas pradžioje yra normalus ir dėl jo nereikia nerimauti.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei menstruacijos **neprasidėjo iki 15 metų amžiaus** arba iki **13 metų**, **jei nėra kitų brendimo požymių** (pavyzdžiui, krūtų augimo ar kūno plaukų), kreipkitės į šeimos gydytoją. Tai daroma tik tam, kad būtų patikrinta, ar viskas vystosi kaip tikėtasi – paprastai viskas yra gerai.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Folio rūgštis ir vitaminai nėštumo metu",
+      "aliases": [
+        "folio rūgštis",
+        "folatai",
+        "vitaminas D nėštumo metu",
+        "vitaminai nėščiosioms",
+        "maisto papildai nėštumo metu"
+      ],
+      "glance": "Folio rūgštis prieš nėštumą ir jo pradžioje padeda apsaugoti kūdikį, o vitaminą D rekomenduojama vartoti kasdien.",
+      "overview": "Nėštumo metu tikrai svarbūs du maisto papildai, ir NHS rekomenduoja juos abu.\n\nSvarbiausia – **folio rūgštis**. Kasdien vartojama 400 mikrogramų folio rūgštis – geriausia dar prieš pastojant (maždaug prieš tris mėnesius) ir iki pirmojo trimestro pabaigos, t. y. iki 12 savaitės – padeda apsaugoti kūdikį nuo nervinio vamzdelio defektų, pavyzdžiui, stuburo nesuaugimo (spina bifida). Kadangi ji veikia labai anksti, tai viena iš nedaugelio priemonių, kurias verta pradėti vartoti *dar prieš* nėštumą, jei bandote pastoti.\n\nAntrasis – **vitaminas D**: visą nėštumą ir žindymo laikotarpiu rekomenduojama kasdien vartoti 10 mikrogramų vitamino D papildą kūdikio kaulams ir vystymuisi palaikyti.\n\nBe šių dviejų, sveika ir įvairi mityba patenkina daugumą poreikių – daug papildomų maisto papildų nereikia. Vengtinas **vitaminas A** (retinolis): nevartokite jo turinčių maisto papildų ir nevalgykite kepenų, nes per didelis vitamino A kiekis gali pakenkti kūdikiui.",
+      "deep": null,
+      "when_to_see_doctor": "- Šeimos **gydytojas, akušerė ar vaistininkas** gali padėti jums pasirinkti tinkamus maisto papildus, o kai kuriems žmonėms rekomenduojama vartoti **didesnę folio rūgšties dozę** (pavyzdžiui, sergantiems cukriniu diabetu, turintiems didesnį KMI, vartojantiems tam tikrus vaistus arba anksčiau patyrusiems nėštumą, kurio metu buvo nustatytas nervinio vamzdelio defektas) — todėl verta pasikonsultuoti, ypač prieš nėštumą arba jo pradžioje.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Folikulinė fazė",
+      "aliases": [
+        "folikulinė fazė",
+        "ciklo pirmoji pusė"
+      ],
+      "glance": "Folikulinė fazė – tai ciklo pirmoji pusė, kai subręsta kiaušinėlis ir sustorėja gimdos gleivinė.",
+      "overview": "Folikulinė fazė yra pirmoji ciklo dalis. Ji prasideda pirmąją menstruacijų dieną ir tęsiasi iki ovuliacijos. Jos pavadinimas kilęs iš žodžio „folikulas“ – tai mažas, skysčiu užpildytas maišelis kiaušidėje, kuriame šiuo laikotarpiu laikoma ir auga kiaušinėlis.\n\nŠio etapo metu padidėja estrogeno kiekis. Padidėjęs estrogeno kiekis atlieka dvi pagrindines funkcijas: padeda subręsti kiaušidės folikului ir sustorina gimdos gleivinę, taip parengdamas organizmą tuo atveju, jei vėliau ciklo metu prasidėtų nėštumas.\n\nKadangi estrogeno lygis kyla, kai kurios moterys, artėjant vaisingoms dienoms, jaučia didesnį energijos antplūdį arba pastebi gimdos kaklelio gleivių pokyčius. Kiekvienos moters patirtis yra skirtinga, ir nieko iš to nereikia „kontroliuoti“ – tai tiesiog ciklo pirmoji pusė, kuri atlieka savo funkciją.",
+      "deep": "Folikulinės fazės trukmė gali skirtis nuo ciklo iki ciklo, o tai yra viena iš priežasčių, kodėl ciklai skiriasi tarp skirtingų moterų ir kiekvieną mėnesį. Ji baigiasi, kai didėjantis estrogeno kiekis skatina kiaušinėlio išsiskyrimą (ovuliaciją). Kadangi paskutinės folikulinės fazės dienos veda prie ovuliacijos, būtent tada prasideda vaisingumo laikotarpis – todėl folikulinės fazės pabaiga yra svarbi visiems, kurie stebi savo vaisingumą.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Maisto produktai, kurių reikėtų vengti nėštumo metu",
+      "aliases": [
+        "maisto produktai, kurių reikėtų vengti nėštumo metu",
+        "mityba nėštumo metu",
+        "ko negalima valgyti nėštumo metu",
+        "kofeinas nėštumo metu",
+        "listerija"
+      ],
+      "glance": "Dauguma maisto produktų nėštumo metu yra tinkami — keletą iš jų geriau vengti, taip pat patartina riboti kofeino vartojimą.",
+      "overview": "Gera žinia ta, kad dauguma maisto produktų nėštumo metu yra visiškai tinkami – tik keleto verta vengti arba juos vartoti atsargiai, daugiausia tam, kad išvengtumėte bakterijų, pavyzdžiui, listerijų, arba per didelio tam tikrų vitaminų kiekio. Žinodama šį trumpą sąrašą, dėl kitų produktų galite nesijaudinti.\n\nNHS pataria būti atsargiai su šiais produktais:\n\n- **Kai kurie sūriai** — pelėsiu brandinti minkšti sūriai, tokie kaip brie ir camembert, bei minkšti pelėsiniai mėlynieji sūriai, nebent jie iškepti ar pašildyti iki garuojančio karščio; taip pat viskas, kas pagaminta iš **nepasterizuoto** pieno.\n- **Žalia arba nepakankamai termiškai apdorota mėsa**, šalti vytinti mėsos gaminiai, **paštetas** ir **kepenys** (kuriose labai daug vitamino A).\n- **Žali arba skystu tryniu kiaušiniai**, nebent jie pažymėti „British Lion“ ženklu.\n- **Kai kurios žuvys** — venkite ryklio, kardžuvės ir marlino, ribokite tuną ir per savaitę suvalgykite ne daugiau kaip dvi porcijas riebios žuvies.\n- **Kofeinas** — jo turėtų būti ne daugiau kaip maždaug 200 mg per dieną (apytiksliai du puodeliai tirpios kavos), įskaičiuojant ir arbatą, kolą, energinius gėrimus bei šokoladą.",
+      "deep": null,
+      "when_to_see_doctor": "- Tai yra bendrosios rekomendacijos, o ne griežta dieta – jei turite klausimų apie tai, kas jums yra saugu, arba turite konkrečių mitybos poreikių, apie tai galite pasikalbėti su savo **akušere**.\n- Jei suvalgėte ką nors iš „vengtinų“ produktų sąrašo, stenkitės nepanikuoti; jei nerimaujate ar blogai jaučiatės, pasakykite apie tai savo akušerei.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Folikulus stimuliuojantis hormonas (FSH)",
+      "aliases": [
+        "fsh",
+        "folikulus stimuliuojantis hormonas",
+        "FSH hormonas",
+        "FSH lygis"
+      ],
+      "glance": "FSH – tai smegenų hormonas, kuris kiekvieno ciklo pradžioje skatina kiaušidžių folikulų augimą.",
+      "overview": "FSH – folikulus stimuliuojantis hormonas – yra vienas iš signalinių hormonų, kurie pradeda menstruacinį ciklą. Jį gamina nedidelė smegenų liauka (hipofizė) ir, kaip rodo jo pavadinimas, jis stimuliuoja folikulus – mažus, skysčiu užpildytus kiaušidžių maišelius, kuriuose kiekviename yra po vieną kiaušinėlį.\n\nCiklo pradžioje FSH skatina tam tikrą šių folikulų grupę pradėti augti. Vystantis folikului, jis išskiria daugiau estrogeno, kuris savo ruožtu sustorina gimdos gleivinę, paruošdamas ją galimai nėštumui. Paprastai vienas folikulas tampa dominuojančiu ir toliau vystosi iki ovuliacijos.\n\nFSH lygis kyla ir krinta kaip įprastas ciklo svyravimas. FSH tiesiogiai nejaučiate – jis tyliai veikia foniniame plane, paruošdamas akivaizdesnius folikulinės fazės pokyčius.",
+      "deep": "FSH veikia kartu su liuteinizuojančiu hormonu (LH); abu šiuos hormonus išskiria smegenų hipofizė, ir jie kartu reguliuoja kiaušidžių veiklą per visą ciklą. FSH vadovauja pirmajai ciklo pusei, skatindamas folikulų augimą, o vėliau pasireiškiantis LH šuolis žymi kiaušinėlio išsiskyrimą ciklo viduryje. Būtent dėl šio sąveikavimo vaisingumo gydymui naudojami FSH pagrindu sukurti vaistai: papildomo FSH suteikimas skatina kelis folikulus subręsti vienu metu, o ne vieną, kaip paprastai būna natūralaus ciklo metu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Nėštumo cukrinis diabetas",
+      "aliases": [
+        "nėštumo cukrinis diabetas",
+        "cukrinis diabetas nėštumo metu",
+        "padidėjęs cukraus kiekis kraujyje nėštumo metu"
+      ],
+      "glance": "Nėštumo cukrinis diabetas – tai padidėjęs cukraus kiekis kraujyje nėštumo metu; paprastai jis nustatomas atliekant patikrinimus, o po gimdymo dažnai praeina savaime.",
+      "overview": "Nėštumo cukrinis diabetas – tai padidėjęs cukraus (gliukozės) kiekis kraujyje, atsirandantis nėštumo metu, kai organizmas nespėja patenkinti padidėjusio insulino poreikio. Daugumai moterų jis praeina po kūdikio gimimo.\n\nPaprastai jis nesukelia **jokių simptomų**, todėl nustatomas atliekant nėštumo metu siūlomą patikros tyrimą (gliukozės tolerancijos mėginį, dažniausiai apie 24–28 savaitę), ypač jei turite jo tikimybę didinančių veiksnių – pavyzdžiui, didesnį svorį, diabeto atvejų šeimoje, anksčiau gimusį stambų kūdikį ar tam tikrą etninę kilmę.\n\nJį galima gerai suvaldyti. Palaikydama sveiką cukraus kiekį kraujyje – mityba, fiziniu aktyvumu ir kartais vaistais, vadovaujant jus prižiūrinčiai komandai – sumažinate komplikacijų riziką sau ir kūdikiui, todėl verta tai nuolat stebėti.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei jums siūlomas **patikros tyrimas**, jį atlikite – kadangi nėštumo cukrinis diabetas paprastai nesukelia simptomų, jis nustatomas būtent tyrimu.\n- Jei pastebite galimus padidėjusio cukraus kiekio kraujyje požymius – stiprų troškulį, dažną šlapinimąsi, burnos džiūvimą ar nuovargį – nelaukite tyrimo, o pasakykite apie juos savo akušerei ar gydytojui.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Kur kreiptis pagalbos",
+      "aliases": [
+        "kur kreiptis pagalbos",
+        "su kuo susisiekti",
+        "pagalbos linijos",
+        "naudingi numeriai",
+        "pagalbos smurtą patiriantiems centras",
+        "1522",
+        "skubios pagalbos numeriai"
+      ],
+      "glance": "Nemokama ir konfidenciali pagalba yra – skubiu atveju skambinkite vietiniu skubios pagalbos numeriu; Italijoje bet kuriuo metu – 1522.",
+      "overview": "Jei patiriate smurtą, jums nereikia su tuo grumtis vienai, o kreipimasis pagalbos jūsų niekuo neįpareigoja. Yra žmonių, kurių darbas – išklausyti ir padėti, konfidencialiai ir nemokamai.\n\nYra kelios pagalbos rūšys:\n\n- **Skubiosios pagalbos tarnybos** — esant tiesioginiam pavojui, skambinkite vietiniu skubios pagalbos numeriu (žr. žemiau).\n- **Nacionalinė pagalbos linija** – Italijoje **1522**, nemokama pagalbos linija dėl smurto ir persekiojimo: veikia 24 valandas per parą, anonimiška, keliomis kalbomis, telefonu arba pokalbiu internetu.\n- **Pagalbos smurtą patiriantiems centrai** (Italijoje – *centri antiviolenza*) – vietinės tarnybos, teikiančios nemokamą, konfidencialią paramą, padedančios sudaryti saugumo planą ir teikiančios teisinę bei psichologinę pagalbą.\n- **Sveikatos priežiūros įstaigos** – šeimos gydytojas arba ligoninės skubiosios pagalbos skyrius, kurio darbuotojai vis dažniau mokomi atpažinti smurtą ir nukreipti jus į pagalbos tarnybas.\n- **Žmonės, kuriais pasitikite** — draugas ar šeimos narys, su kuriuo jaučiatės saugiai.\n\nGalite pradėti nuo to, kas jums atrodo lengviausia, ir nieko nereikia būti nusprendus iš anksto.",
+      "deep": null,
+      "when_to_see_doctor": "- Galite konfidencialiai papasakoti, kas vyksta, **šeimos gydytojui arba ligoninėje**; ten gali sutvarkyti sužalojimus ir susieti jus su specializuotomis tarnybomis.\n- Jei rašyti lengviau nei kalbėti, **1522 pokalbis internetu** – dar vienas būdas kreiptis.",
+      "red_flags": "- Jei jums gresia **tiesioginis pavojus**, nedelsdami kreipkitės į skubiosios pagalbos tarnybas: **112** ES (įskaitant Italiją), **999** Jungtinėje Karalystėje, **911** JAV ir Kanadoje.\n- **Italija:** **1522** (nemokamai, 24/7, anonimiškai, keliomis kalbomis – skambinkite arba rašykite pokalbiu internetu).\n- Pagalbos linijų numeriai kiekvienoje šalyje skiriasi. Programėlė gali parodyti jūsų šalies numerius, o **findahelpline.com** pateikia pagalbos smurto atveju linijų visame pasaulyje sąrašą (svetainė nustato jūsų šalį ir turi greito išėjimo mygtuką). Jei esate ES, **112** veikia visur."
+    },
+    "group-b-strep": {
+      "title": "B grupės streptokokas (GBS)",
+      "aliases": [
+        "B grupės streptokokas",
+        "GBS",
+        "BGS",
+        "B grupės streptokokai",
+        "streptokokas nėštumo metu"
+      ],
+      "glance": "B grupės streptokokai yra paplitusi, paprastai nekenksminga bakterija – gimdymo metu kyla nedidelė rizika kūdikiui, tačiau ją galima suvaldyti.",
+      "overview": "B grupės streptokokas (GBS) – tai labai paplitusi bakterija, kurią daugelis žmonių turi, dažniausiai makštyje ar tiesiosios žarnos srityje, patys to nežinodami, ir ji nesukelia jokios žalos. Tai nėra lytiniu keliu plintanti infekcija, o būti jos nešiotoja yra normalu.\n\nNėštumo metu ji svarbi tik todėl, kad yra **nedidelė tikimybė**, jog gimdymo metu ji gali būti perduota kūdikiui ir retais atvejais jį susargdinti – tai nutinka maždaug 1 iš 1 750 nėštumų. Dažnai ji aptinkama atsitiktinai, pavyzdžiui, atliekant šlapimo tyrimą ar makšties tepinėlį dėl kitos priežasties (NHS visų nėščiųjų dėl jos įprastai netikrina).\n\nRamina tai, kad situacija gerai valdoma: jei apie GBS žinoma, **antibiotikai, lašinami į veną gimdymo metu**, gerokai sumažina tikimybę, kad kūdikis susirgs.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei jums buvo pasakyta, kad esate B grupės streptokokų nešiotoja – dabar arba ankstesnio nėštumo metu – **praneškite apie tai savo akušerei arba gimdymo komandai**, kad būtų galima suplanuoti antibiotikų vartojimą gimdymo metu. Tai paprastas žingsnis, kuris turi didelę reikšmę.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Rėmuo ir virškinimo sutrikimai nėštumo metu",
+      "aliases": [
+        "rėmuo nėštumo metu",
+        "virškinimo sutrikimai nėštumo metu",
+        "rūgšties refliuksas nėštumo metu",
+        "refliuksas",
+        "deginimas krūtinėje"
+      ],
+      "glance": "Rėmuo nėštumo metu yra labai dažnas reiškinys — paprastai jis nekelia pavojaus, o dažnai jį galima sušvelninti nedideliais kasdienio gyvenimo pokyčiais.",
+      "overview": "Rėmuo ir virškinimo sutrikimai – deginimo pojūtis ar diskomfortas krūtinėje, dažnai po valgio – nėštumo metu labai dažni. Juos sukelia nėštumo hormonai, atpalaiduojantys raumenį viršutinėje skrandžio dalyje, o vėliau – augantis kūdikis, spaudžiantis į viršų. Tai nemalonu, bet nekenksminga.\n\nDažnai padeda nedideli pokyčiai: valgyti dažniau ir mažesnėmis porcijomis, o ne daug iš karto, valgyti sėdint ir kurį laiką po valgio neatsigulti, riboti aštrų, riebų maistą ir kofeino turinčius produktus bei nevalgyti vėlai prieš miegą. Kai kurioms moterims patogiau miegoti šiek tiek aukščiau pakėlus galvą ir pečius.\n\nJei to nepakanka, **vaistininkas** gali pasiūlyti rūgštingumą mažinančių vaistų, kuriuos saugu vartoti nėštumo metu – tai gera pirmoji vieta kreiptis, kol problema netapo didesnė.",
+      "deep": null,
+      "when_to_see_doctor": "- Kreipkitės į **šeimos gydytoją arba akušerę**, jei paprasti pokyčiai ir vaistinės priemonės nepadeda, arba jei jums **sunku ryti**, maistas nuolat grįžta atgal, krenta svoris, nors to nesiekiate, ar skauda pilvą – šiuos simptomus verta ištirti, o ne nurašyti paprastam rėmeniui.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Gausios mėnesinės",
+      "aliases": [
+        "gausios mėnesinės",
+        "gausios menstruacijos",
+        "menoragija",
+        "gausus menstruacinis kraujavimas",
+        "stiprus kraujavimas",
+        "krešuliai per mėnesines"
+      ],
+      "glance": "Gausios mėnesinės – kai kiekvieną ciklą netenkama daug kraujo; tai dažna, tačiau jei tai jus vargina, verta pasitarti su gydytoju.",
+      "overview": "Gausios mėnesinės – mediciniškai vadinamos menoragija – reiškia, kad per mėnesines netenkama daug kraujo. Kai kurioms moterims gausus kraujavimas yra tiesiog jų norma, tačiau jei tai trikdo jūsų gyvenimą ar jaučiatės dėl to išsekusi, verta tai išsiaiškinti.\n\nKai kurie požymiai, kad mėnesinės gausios: reikia keisti higieninį paketą ar tamponą kas 1–2 valandas, tenka naudoti dvi priemones kartu (pavyzdžiui, tamponą ir higieninį paketą), kraujas prateka ant drabužių ar patalynės, išsiskiria kraujo krešuliai, didesni nei maždaug 2,5 cm (maždaug 10 pensų monetos dydžio), arba mėnesinės trunka ilgiau nei 7 dienas.\n\nMėnesį po mėnesio netenkant daug kraujo, galite jaustis pavargusi ar dusti, nes gali išsivystyti geležies trūkumas (mažakraujystė). Priežasčių gali būti daug – nuo gimdos miomų ar tokių ligų kaip endometriozė, adenomiozė ar policistinių kiaušidžių sindromas (PCOS) iki kai kurių vaistų – tačiau dažnai rimtos priežasties nerandama. Bet kuriuo atveju gausias mėnesines paprastai galima palengvinti, todėl su jomis nebūtina tiesiog taikstytis.",
+      "deep": null,
+      "when_to_see_doctor": "Kreipkitės į šeimos gydytoją, jei:\n\n- gausios mėnesinės trikdo jūsų kasdienį gyvenimą\n- gausiai kraujuojate daug valandų arba mėnesinės trunka ilgai\n- kartu jaučiate stiprius menstruacinius skausmus arba skausmą lytinių santykių metu, šlapinantis ar tuštinantis\n- kraujuojate tarp mėnesinių arba po lytinių santykių\n- dažnai jaučiatės pavargusi arba dūstate (tai gali būti geležies trūkumo požymis)\n\nŠeimos gydytojas gali ieškoti priežasties ir aptarti, kas galėtų padėti.",
+      "red_flags": "- Kreipkitės **skubios** medicininės pagalbos – susisiekite su gydytoju ar **budinčiu gydytoju**, o jei būklė sunki, skambinkite **{{emergency}}** / vykite į skubiosios pagalbos skyrių – jei **kraujuojate taip gausiai, kad kelias valandas iš eilės kas valandą visiškai permirksta vienas ar daugiau higieninių paketų**, arba jei **jaučiatės lyg tuoj nualpsite, svaigsta galva ar dūstate**. Tai gali būti per didelio kraujo netekimo požymiai."
+    },
+    "lh": {
+      "title": "Liuteinizuojantis hormonas (LH)",
+      "aliases": [
+        "lh",
+        "liuteinizuojantis hormonas",
+        "LH šuolis",
+        "LH lygis"
+      ],
+      "glance": "LH yra smegenų hormonas, kurio koncentracijos padidėjimas ciklo viduryje skatina kiaušidę išleisti kiaušinėlį.",
+      "overview": "LH (liuteinizuojantis hormonas) – tai signalas, kuris sukelia ovuliaciją. Kaip ir FSH, jis gaminamas mažoje smegenų liaukoje (hipofizėje) ir nurodo kiaušidei, kada išleisti kiaušinėlį.\n\nDidžiąją pirmosios ciklo pusės dalį LH lygis išlieka žemas. Vėliau, maždaug ciklo viduryje, jis staigiai pakyla – tai vadinama LH šuoliu. Šis šuolis yra signalas, dėl kurio kiaušidė išleidžia kiaušinėlį – įvyksta ovuliacija – paprastai maždaug po dienos.\n\nŠis šuolis – trumpas, tiksliai laiku pasirodantis signalas, o ne kažkas, ką pastebėtumėte pagal savo savijautą. Kadangi jis įvyksta vos prieš kiaušinėlio išsiskyrimą, LH pakilimo laikas yra patikimas vaisingiausios ciklo dalies rodiklis.",
+      "deep": "LH veikia kartu su FSH – hormonu, kuris anksčiau cikle skatina folikulų augimą. FSH vadovauja pasiruošimui, o LH šuolis yra lūžio taškas: jo lygis pradeda kilti maždaug pusantros dienos prieš kiaušinėlio išsiskyrimą ir pasiekia piką maždaug pusę dienos prieš jį. Po šuolio ciklas pereina į antrąją pusę. Būtent dėl tokio tikslaus laiko LH yra toks naudingas rodiklis visiems, kurie stebi ovuliaciją, ir todėl jis yra svarbiausias planuojant vaisingumo gydymą.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Išklausymas ir emocinė parama",
+      "aliases": [
+        "kaip išklausyti",
+        "emocinė parama",
+        "kaip palaikyti partnerę",
+        "bendravimas poroje",
+        "būti šalia jos"
+      ],
+      "glance": "Dažniausiai jai reikia būti išklausytai, o ne „pataisytai“ – pirmiausia išklausykite, o prieš patardami paklauskite.",
+      "overview": "Kai mylimam žmogui sunku, instinktyviai norisi įsikišti ir viską išspręsti. Tačiau dažnai labiausiai padeda jausmas, kad ji tikrai išgirsta: kad jos jausmai suprantami ir kad ji su jais neliko viena. Per greitas „taisymas“ gali nuskambėti kaip „tavo jausmai yra problema, kurią reikia kuo greičiau užbaigti“.\n\nGerai klausytis – tai įgūdis, kurio gali išmokti kiekvienas. Svarbiausia – dėmesys: padėti telefoną, atsisukti į ją ir leisti jai baigti. Nebūtina sutikti su kiekvienu jos žodžiu, kad ji jaustųsi gerbiama.",
+      "deep": "Praktiški būdai būti šalia:\n\n- **Klausykitės, kad suprastumėte, o ne kad atsakytumėte.** Leiskite jai kalbėti nepertraukdami ir nesiruošdami gintis.\n- **Atspindėkite, ką girdite.** „Skamba tikrai įtemptai“ arba „Suprantu, kodėl tai įskaudino“ yra geriau nei „tiesiog nesijaudink“.\n- **Prieš patardami, paklauskite.** „Nori, kad padėčiau viską apgalvoti, ar tiesiog, kad tave išklausyčiau?“\n- **Nepriimkite asmeniškai**, kai sunki diena nėra dėl jūsų. Ramus pastovumas – tai dovana.\n- **Prisiimkite savo dalį.** Jei suklydote, nuoširdus atsiprašymas – be jokio „bet“ – atkuria pasitikėjimą.\n- **Matykite platesnį vaizdą.** Jei ji ilgą laiką atrodo prislėgta, nerimastinga ar ne savimi, švelniai paskatinkite ją kreiptis pagalbos ir pasiūlykite padėti tą pagalbą rasti. Jūs esate komandos draugas, o ne terapeutas.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Lutealinė fazė",
+      "aliases": [
+        "lutealinė fazė",
+        "antroji ciklo pusė"
+      ],
+      "glance": "Lutealinė fazė – tai ciklo antroji pusė, prasidedanti po ovuliacijos, kai padidėja progesterono lygis.",
+      "overview": "Lutealinė fazė – tai ciklo dalis, kuri prasideda po ovuliacijos ir tęsiasi iki kitų mėnesinių pradžios. Ji pavadinta pagal geltonąjį kūnelį (corpus luteum) – nedidelį darinį, kurį kiaušidė suformuoja iš tuščio folikulo, kai kiaušinėlis jau išsiskyręs.\n\nŠioje fazėje kyla hormono progesterono lygis. Jo užduotis – palaikyti gimdos gleivinę storą ir stabilią, kad apvaisintas kiaušinėlis, jei toks atkeliautų, turėtų kur prisitvirtinti. Estrogenas taip pat lieka svarbus ir veikia kartu su progesteronu.\n\nJei nėštumas neprasideda, geltonasis kūnelis suyra, progesterono ir estrogeno lygis krinta, o gimdos gleivinė nebėra palaikoma – taip prasideda kitos mėnesinės ir naujas ciklas. Tai taip pat laikotarpis, kai kai kurios moterys pastebi priešmenstruacinius nuotaikos, miego ar kūno pokyčius.",
+      "deep": "Lutealinė fazė paprastai trunka šiek tiek pastoviau nei pirmoji ciklo pusė – dažniausiai apie dvi savaites, nors tarp atskirų asmenų gali būti normalių svyravimų. Kadangi jos pabaiga susijusi su progesterono kiekio sumažėjimu, menstruacijų pradžia iš tiesų yra matomas ženklas, kad hormonų lygis nukrito. Stebėdama, kaip jaučiatės lutealinės fazės metu, galėsite atskirti, kas jums yra įprasta, o kas – nauja ar verta aptarti su gydytoju.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopauzė",
+      "aliases": [
+        "menopauzė",
+        "klimaksas",
+        "perimenopauzė",
+        "karščio bangos",
+        "menopauzės simptomai"
+      ],
+      "glance": "Menopauzė – tai metas, kai mėnesinės baigiasi visam laikui; tai natūralus etapas, paprastai ateinantis maždaug tarp 45 ir 55 metų.",
+      "overview": "Menopauzė – tai metas, kai mėnesinės liaujasi visam laikui. Kadangi prieš tai mėnesinės kurį laiką gali tai būti, tai nebūti, laikoma, kad menopauzė įvyko, kai 12 mėnesių iš eilės jų nebuvo. Paprastai tai įvyksta maždaug tarp 45 ir 55 metų, nors gali būti ir anksčiau, ir vėliau.\n\nTai natūrali senėjimo dalis, o ne liga. Ji įvyksta, kai kiaušidžių veikla slopsta ir mažėja estrogeno – vieno pagrindinių ciklo hormonų – lygis. Būtent šis hormonų pokytis lemia daugelio moterų pastebimus pokyčius: karščio bangas ir naktinį prakaitavimą, mėnesinių pokyčius artėjant menopauzei, miego sutrikimus, nuotaikos svyravimus ar nerimą, „rūką galvoje“, makšties sausumą ir įvairius skausmus.\n\nPatirtys labai skiriasi — vienos moterys šį etapą išgyvena lengvai, kitoms sunku, o simptomai gali trukti kelerius metus. Nė vienas iš jų nereiškia, kad su jumis kažkas negerai. Pagalbos ir galimybių yra, o suprasti, kas vyksta, – geras pirmas žingsnis.",
+      "deep": "Metai, kuriuos lydi pokyčiai ir kurie veda prie menopauzės, vadinami perimenopauze; pati menopauzė yra vienas konkretus laiko momentas (tas 12 mėnesių be menstruacijų laikotarpis), o laikotarpis po jos kartais vadinamas postmenopauze. Kadangi estrogenas ilgalaikėje perspektyvoje daro įtaką ir kaulams, ir širdžiai, gydytojai, be kasdienių simptomų, skiria dėmesį ir šiems aspektams. Simptomus gali palengvinti įvairūs metodai – nuo gyvenimo būdo pokyčių iki nehormoninių ir hormoninių gydymo būdų – o tai, kas jums tinka, priklauso nuo jūsų sveikatos būklės, ligos istorijos ir pageidavimų, todėl šį klausimą reikėtų aptarti su gydytoju.",
+      "when_to_see_doctor": "- Jei menopauzės simptomai vargina ar trikdo kasdienį gyvenimą ir norėtumėte aptarti galimybes, kreipkitės į šeimos gydytoją.\n- Jei **po 12 mėnesių be mėnesinių** atsiranda **bet koks kraujavimas iš makšties** (kraujavimas po menopauzės), **visada** kreipkitės į šeimos gydytoją. Dažnai tai nieko rimto, tačiau tai visada turi patikrinti gydytojas.\n- Taip pat verta pasitarti su gydytoju, jei kraujuojate gausiau, o ne mažiau nei anksčiau, arba mėnesinės pasikeitė taip, kad tai kelia jums nerimą.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Menstruacinis ciklas",
+      "aliases": [
+        "ciklas",
+        "mėnesinių ciklas",
+        "menstruacijų ciklas",
+        "kasmėnesinis ciklas",
+        "ciklo trukmė"
+      ],
+      "glance": "Menstruacinis ciklas – tai kasmėnesinis ritmas, kuriuo vadovaujasi jūsų organizmas, ruošdamasis galimai nėštumui.",
+      "overview": "Menstruacinis ciklas skaičiuojamas nuo pirmosios mėnesinių dienos – tai 1-oji diena – iki dienos prieš prasidedant kitoms mėnesinėms. Jį valdo hormonai, kurių lygis kas mėnesį kyla ir krinta pagal pasikartojantį modelį.\n\nCiklas dažnai trunka apie 28 dienas, tačiau tai tik vidurkis. Normalu, jei jis trunka nuo maždaug 21 iki 35 dienų, o jūsų ciklo trukmė kiekvieną mėnesį gali šiek tiek skirtis. Naudingiau pažinti savo ritmą, nei lyginti jį su kokiu nors skaičiumi.\n\nPer ciklą jūsų organizmas pereina kelis etapus: mėnesines, pasiruošimą kiaušinėlio išsiskyrimui, patį išsiskyrimą (ovuliaciją) ir laikotarpį po jo. Kiekvieną etapą lemia hormonai, daugiausia estrogenas ir progesteronas.",
+      "deep": "Visas ciklas – tai smegenų ir kiaušidžių dialogas, kurį užtikrina hormonai. Pirmojoje ciklo pusėje estrogeno lygis pakyla, kai kiaušidėje bręsta folikulas su kiaušinėliu, o gimdos gleivinė sustorėja. Maždaug ciklo viduryje kiaušinėlis išsiskiria. Antrojoje pusėje progesteronas padeda išlaikyti tą gleivinę paruoštą tuo atveju, jei atsirastų apvaisintas kiaušinėlis.\n\nJei nėštumas neįvyksta, estrogeno ir progesterono lygis nukrinta iki žemo lygio, gimdos gleivinė išsiskiria kaip menstruacijos, ir ciklas prasideda iš naujo. Kadangi šie hormonai veikia daugelį organizmo sistemų, per mėnesį galite pastebėti nedidelius kasdienius pokyčius – tai yra normalus ciklo ritmas, o ne kažkas, ką reikėtų „ištaisyti“.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstruacinė fazė (mėnesinės)",
+      "aliases": [
+        "mėnesinės",
+        "menstruacijos",
+        "menstruacinė fazė",
+        "kraujavimas",
+        "mėnesinių dienos",
+        "prasidėjo mėnesinės"
+      ],
+      "glance": "Mėnesinės – tai kelios kraujavimo dienos kiekvieno ciklo pradžioje, kai atsiskiria gimdos gleivinė.",
+      "overview": "Menstruacinė fazė – tai jūsų mėnesinės, t. y. dienos, kai kraujuojate. Ji prasideda 1-ąją ciklo dieną, kai estrogeno ir progesterono lygis nukrinta tiek, kad gimdos viduje susiformavusi gleivinė nebėra palaikoma, atsiskiria ir pasišalina iš organizmo per makštį.\n\nMėnesinės paprastai trunka apie 2–7 dienas, dažniausiai – maždaug 5 dienas. Kraujavimas paprastai būna gausiausias per pirmąsias porą dienų, o vėliau tampa negausus. Mėnesinės dažniausiai prasideda apie 12 metų, tačiau normalu, jei jos prasideda anksčiau ar vėliau.\n\nTai, kas „normalu“, labai skiriasi. Stebėdama savo mėnesines, pastebėsite, kas jums įprasta, o tai kur kas prasmingiau nei bet koks vidurkis.",
+      "deep": "Mėnesinių kraujavimas – tai gimdos gleivinės (endometriumo) atsiskyrimas po ciklo, kurio metu nėštumas neprasidėjo. Jis žymi ir vieno ciklo pabaigą, ir kito pradžią, todėl 1-oji mėnesinių diena laikoma viso ciklo 1-ąja diena. Mėnesinėms baigiantis, estrogeno lygis vėl pradeda kilti, o organizmas pradeda atkurti gleivinę kitam ciklui.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Persileidimas",
+      "aliases": [
+        "persileidimas",
+        "savaiminis persileidimas",
+        "nėštumo netektis",
+        "ankstyvas persileidimas",
+        "prarastas nėštumas"
+      ],
+      "glance": "Savaiminis persileidimas – tai nėštumo nutrūkimas iki 24 savaičių – tai dažnas reiškinys, ir beveik niekada tai nėra jūsų kaltė.",
+      "overview": "Savaiminis persileidimas – tai nėštumo netektis per pirmąsias 24 savaites. Tai pasitaiko dažniau, nei daugelis įsivaizduoja, ir vienas svarbiausių dalykų, kuriuos reikia žinoti: beveik niekada jo nesukelia tai, ką padarėte ar ko nepadarėte – paprastai jis įvyksta dėl sutrikimo, kaip vystėsi nėštumas, o to niekas negalėjo kontroliuoti.\n\nDažniausi požymiai – kraujavimas iš makšties ir spazmai ar skausmas apatinėje pilvo dalyje. Kraujavimas ankstyvo nėštumo metu ne visada reiškia persileidimą – daugelis moterų šiek tiek pakraujuoja, o nėštumas toliau sėkmingai tęsiasi, – tačiau tai visada turi įvertinti specialistas.\n\nKad ir kaip įvyktų netektis, su ja susiję jausmai yra tikri ir pagrįsti, o gedulas – normali reakcija. Jums nereikia to išgyventi vienai – paramos galite gauti iš akušerės ar šeimos gydytojo, taip pat iš organizacijų, padedančių nėštumo netektį patyrusioms šeimoms.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei **nėštumo metu** atsiranda **kraujavimas iš makšties ar tepimas**, net jei jis negausus ir skausmo mažai arba visai nėra, kreipkitės į šeimos gydytoją, akušerę ar ankstyvojo nėštumo skyrių (arba į budintį gydytoją), kad tai būtų patikrinta.\n- Pasiteiraukite apie artimiausią **ankstyvojo nėštumo skyrių** – jis skirtas būtent tokiems atvejams.",
+      "red_flags": "- Jei nėštumo metu jaučiate **stiprų pilvo skausmą, skausmą peties viršūnėje, gausiai kraujuojate arba jaučiatės lyg tuoj nualpsite ar labai blogai**, skambinkite **{{emergency}} arba vykite į skubiosios pagalbos skyrių**. Tai gali būti rimtos problemos, pavyzdžiui, negimdinio nėštumo, kuriai reikia skubios pagalbos, požymiai."
+    },
+    "morning-sickness": {
+      "title": "Rytinis pykinimas",
+      "aliases": [
+        "rytinis pykinimas",
+        "pykinimas nėštumo metu",
+        "vėmimas nėštumo metu",
+        "nėščiųjų vėmimas",
+        "hiperemezė",
+        "nėščiųjų hiperemezė"
+      ],
+      "glance": "Pykinimas ar vėmimas ankstyvo nėštumo metu yra labai dažnas ir paprastai praeina maždaug iki 16–20 savaitės.",
+      "overview": "Pykinimas ar vėmimas ankstyvo nėštumo metu yra labai dažnas. Nors vadinamas „rytiniu pykinimu“, jis gali pasireikšti bet kuriuo dienos ar nakties metu. Daugumai moterų jis prasideda per pirmąsias kelias savaites ir praeina maždaug iki 16–20 savaitės.\n\nTai nemalonu, o kai kurioms moterims labai trukdo kasdieniam gyvenimui, tačiau įprastas rytinis pykinimas nedidina jokios rizikos jūsų kūdikiui. Valgant dažnai po nedaug ir ieškant, kas jums padeda, jį galima lengviau ištverti; jei jums sunku, akušerė, šeimos gydytojas ar vaistininkas gali pasiūlyti saugių priemonių.\n\nNedidelei daliai moterų pykinimas ir vėmimas tampa labai stiprūs (tai vadinama hyperemesis gravidarum, arba nėščiųjų hiperemeze), ir kyla reali dehidratacijos rizika. Tokiu atveju reikalinga medicininė pagalba – žr. požymius toliau.",
+      "deep": null,
+      "when_to_see_doctor": "Susisiekite su akušere, šeimos gydytoju arba budinčiu gydytoju, jei:\n\n- 24 valandas viską – ir maistą, ir gėrimus – išvemiate\n- šlapimas labai tamsus arba nesišlapinate ilgiau nei 8 valandas\n- atsistojus jaučiate didelį silpnumą, svaigsta galva arba jaučiatės lyg tuoj nualpsite\n- skauda pilvą, karščiuojate arba vemiate krauju\n- krenta jūsų svoris",
+      "red_flags": "- Jei išvemiate visus skysčius, o šlapimas labai tamsus arba jo visai nėra, tai gali reikšti, kad organizmas netenka per daug skysčių (sunkus nėščiųjų vėmimas) — **tą pačią dieną kreipkitės į akušerę, šeimos gydytoją arba budintį gydytoją**, nes gali prireikti gydymo, kad būklė nepablogėtų."
+    },
+    "ovulation": {
+      "title": "Ovuliacija",
+      "aliases": [
+        "ovuliacija",
+        "kiaušinėlio išsiskyrimas",
+        "vaisingumo laikotarpis",
+        "vaisingos dienos",
+        "kada būna ovuliacija"
+      ],
+      "glance": "Ovuliacija – tai momentas, kai kiaušidė išskiria kiaušinėlį; tai yra vaisingiausias ciklo etapas.",
+      "overview": "Ovuliacija – tai momentas, kai kiaušidė išleidžia subrendusį kiaušinėlį. Tai ciklo lūžio taškas: pirmoji pusė veda link jos, o antroji seka po jos.\n\nMaždaug 28 dienų cikle ovuliacija dažnai įvyksta apie 14-ąją dieną, tačiau laikas gali skirtis. Naudinga žinoti, kad ovuliacija paprastai įvyksta maždaug likus 10–16 dienų iki kitų mėnesinių pradžios. Tikslią dieną nustatyti gali būti sunku.\n\nIšsiskyrusį kiaušinėlį galima apvaisinti tik maždaug 12–24 valandas. Tačiau spermatozoidai organizme gali išgyventi kelias dienas, todėl „vaisingumo laikotarpis“ ilgesnis nei viena diena – apytiksliai kelios dienos iki ovuliacijos ir pati ovuliacijos diena.",
+      "deep": "Kiaušinėlio išsiskyrimą sukelia trumpas ir staigus hormonų lygio pakilimas maždaug ciklo viduryje, po estrogeno kilimo folikulinėje fazėje. Kadangi spermatozoidai gali išgyventi kelias dienas, o kiaušinėlis – mažiau nei parą, pastoti labiausiai tikėtina po lytinių santykių dienomis prieš pat ovuliaciją. Ovuliacijos laikas gali keistis nuo ciklo iki ciklo dėl tokių veiksnių kaip stresas ar liga, todėl ją tiksliai nuspėti sunku, o kelių ciklų stebėjimas yra patikimesnis nei bet koks pavienis skaičiavimas.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Skausmas lytinių santykių metu",
+      "aliases": [
+        "skausmas lytinių santykių metu",
+        "skausmingi lytiniai santykiai",
+        "skauda per seksą",
+        "dispareunija",
+        "vaginizmas"
+      ],
+      "glance": "Skausmas lytinių santykių metu yra dažnas, gali turėti daug priežasčių, ir jį visada verta parodyti gydytojui – pagalba yra.",
+      "overview": "Skausmas lytinių santykių metu – kartais vadinamas dispareunija – pasitaiko dažniau, nei daugelis įsivaizduoja, ir tai niekada nėra kažkas, su kuo tiesiog reikia susitaikyti. Priežasčių gali būti daug, o tinkamos priežasties nustatymas yra raktas į skausmo palengvinimą.\n\nKai kurios priežastys yra fizinės. Dažna priežastis – makšties sausumas, dažnai susijęs su hormonų pokyčiais apie menopauzę arba su nepakankamu susijaudinimu; dėl jo lytiniai santykiai gali būti skausmingi ar nemalonūs. Skausmą taip pat gali sukelti infekcijos, pavyzdžiui, makšties grybelis (pienligė). Kita priežastis – vaginizmas, kai bandant įsiskverbti raumenys aplink makštį savaime susitraukia, todėl lytiniai santykiai gali būti skausmingi arba atrodyti neįmanomi. Tai nevalinga reakcija, tai nėra „tik jūsų galvoje“, ir ją galima gydyti.\n\nKadangi priežastis gali būti fizinė, hormoninė arba susijusi su tuo, kiek atsipalaidavusi ar susijaudinusi jaučiatės – o dažnai tai visų jų derinys, – naudinga, kad jus apžiūrėtų specialistas, o ne spėlioti ar kęsti.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei lytiniai santykiai sukelia skausmą, kreipkitės į šeimos gydytoją arba lytinės sveikatos kliniką – nesvarbu, kokia būtų priežastis, verta tai patikrinti, o dažniausiai pasitaikančioms priežastims yra veiksminga pagalba.\n- Apie tai kalbėti gali būti nemalonu, tačiau gydytojai su tokiais atvejais susiduria dažnai ir yra čia tam, kad padėtų, o ne teistų. Galite paprašyti, kad jus apžiūrėtų moteris gydytoja, atsivesti ką nors kartu ir aptarti, kas padėtų, kad apžiūra būtų kuo patogesnė.\n- Jei po lytinių santykių pasirodo kraujavimas, būtinai kreipkitės į gydytoją, o jei skausmas stiprus arba jaučiatės blogai, kreipkitės anksčiau.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Skausmo malšinimas gimdymo metu",
+      "aliases": [
+        "skausmo malšinimas gimdymo metu",
+        "epidurinė nejautra",
+        "epiduralinė anestezija",
+        "juoko dujos",
+        "Entonox",
+        "gimdymas vandenyje",
+        "TENS"
+      ],
+      "glance": "Yra keletas būdų palengvinti gimdymo skausmą – nėra teisingo ar neteisingo pasirinkimo, o apsispręsti galite lanksčiai.",
+      "overview": "Kiekvienos moters gimdymas skirtingas, o su skausmu galima susidoroti įvairiais būdais – nuo paprastų patogumo priemonių iki medicininių galimybių. Iš anksto žinodama, kokios galimybės yra, galėsite jaustis geriau pasiruošusi.\n\nGalimybės apima **aktyvų judėjimą ir vertikalią padėtį**, kvėpavimą ir atsipalaidavimą, masažą, buvimą **vandenyje** (vonioje ar gimdymo baseine), taip pat **TENS aparatą**, **juoko dujas** (Entonox, kurias įkvepiate pati), **injekcijas**, pavyzdžiui, petidino, ir **epidurinę nejautrą** (ją atlieka anesteziologas; ji gimdymo skausmą numalšina labiausiai).\n\nNėra „geriausio“ pasirinkimo – viskas priklauso nuo jūsų, jūsų gimdymo eigos ir savijautos tą dieną. Verta savo pageidavimus užrašyti **gimdymo plane**, tačiau išlikti atviriems: daugelis moterų pajunta, kad nori daugiau ar mažiau skausmo malšinimo, nei tikėjosi, ir tai visiškai normalu.",
+      "deep": null,
+      "when_to_see_doctor": "- Jūsų **akušerė** (o dėl epidurinės nejautros – ir anesteziologas) paaiškins galimybes ir padės nuspręsti, kas jums tinka – nėštumo metu ir dar kartą per patį gimdymą. Nereikia visko nuspręsti iš anksto.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (policistinių kiaušidžių sindromas)",
+      "aliases": [
+        "PCOS",
+        "PKS",
+        "policistinių kiaušidžių sindromas",
+        "policistinės kiaušidės",
+        "PCOS simptomai"
+      ],
+      "glance": "PCOS yra dažna hormoninė liga, kuri gali turėti įtakos menstruacijoms, ovuliacijai, odai ir plaukams.",
+      "overview": "PCOS (policistinių kiaušidžių sindromas) – tai dažna liga, susijusi su reprodukcinių hormonų pusiausvyra. Remiantis apskaičiavimais, ja serga maždaug 1 iš 10 reprodukcinio amžiaus moterų, tačiau daugeliui sergančiųjų ši liga niekada nėra diagnozuojama.\n\nTai gali pasireikšti įvairiais būdais, ir nėra dviejų visiškai vienodų žmonių. Būdingi požymiai: nereguliarios, retos arba visai nesančios mėnesinės; padidėjęs androgenų – hormonų, kurie gali sukelti padidėjusį plaukų augimą veide ar ant kūno, spuogus arba plaukų retėjimą ant galvos – kiekis; taip pat kiaušidės, kurios neišskiria kiaušinėlio taip reguliariai, kaip įprasta, dėl ko gali būti sunkiau pastoti. Taip pat dažnai pasitaiko svorio pokyčiai ir tamsesnės odos dėmės.\n\nTiksli priežastis nėra iki galo išsiaiškinta, o išgydyti šią ligą neįmanoma – tačiau simptomus galima kontroliuoti, o suprasti, kas vyksta, yra pirmasis žingsnis. PCOS yra dažna ir kontroliuojama liga, todėl dėl jos nereikia gėdytis.",
+      "deep": "Kadangi PCOS susijęs su organizmo hormonais ir tuo, kaip organizmas apdoroja insuliną, ilgainiui jis taip pat siejamas su atsparumu insulinui ir didesne 2 tipo diabeto, padidėjusio kraujospūdžio bei cholesterolio pokyčių rizika – todėl gydytojai paprastai šiuos rodiklius stebi laikui bėgant. Maždaug pusei moterų, turinčių PCOS, iki keturiasdešimtmečio gali išsivystyti diabetas ar prediabetas, todėl reguliarūs patikrinimai svarbūs. Diagnozės negalima nustatyti pačiai: gydytojas įvertina bendrą vaizdą – jūsų anamnezę ir mėnesines, kartais hormonų kraujo tyrimus, o kartais ir kiaušidžių echoskopiją – ir, prieš nustatydamas PCOS, atmeta kitas priežastis.",
+      "when_to_see_doctor": "Verta apsilankyti pas šeimos gydytoją, jei pastebite požymių, atitinkančių aukščiau aprašytą vaizdą, ypač jei jie veikia jūsų kasdienę savijautą:\n\n- nereguliarios, labai retos arba visai išnykusios mėnesinės\n- pastebimai gausesnis plaukų augimas veide ar ant kūno, nuolatiniai spuogai arba retėjantys plaukai ant galvos\n- sunkumai pastoti, kai bandote jau kurį laiką\n- sunkiai numetamas priaugtas svoris kartu su kitais simptomais\n\nŠeimos gydytojas gali išsiaiškinti, kas vyksta, patvirtinti, ar tai PCOS, ar kas kita, ir aptarti jums tinkamą planą. PCOS taip pat siejamas su prislėgta nuotaika ir nerimu – jei jums sunku emociškai, apie tai irgi pasakykite šeimos gydytojui; tai bendro vaizdo dalis, ir pagalbos yra.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopauzė",
+      "aliases": [
+        "perimenopauzė",
+        "premenopauzė",
+        "pereinamasis laikotarpis į menopauzę",
+        "klimaksas",
+        "menopauzės pradžia"
+      ],
+      "glance": "Perimenopauzė – tai pereinamasis laikotarpis prieš menopauzę, kai menstruacijos ir hormonų pusiausvyra pradeda kisti.",
+      "overview": "Perimenopauzė – tai laikotarpis, einantis iki menopauzės, t. y. metai „aplink menopauzę“. Ji prasideda tada, kai pirmą kartą pastebite pokyčius, ir tęsiasi iki praėjus lygiai metams po paskutinės menstruacijos, kai pasiekiate menopauzę. Ji gali trukti kelerius metus.\n\nŠiuo laikotarpiu kiaušidės palaipsniui gamina vis mažiau estrogeno, o jo koncentracija kyla ir krinta ne taip nuspėjamai kaip anksčiau. Dažniausias ankstyvas požymis yra menstruacijų pokyčiai – jos tampa dažnesnės arba retesnės, lengvesnės arba gausesnės. Daugelis su menopauze susijusių simptomų, pavyzdžiui, karščio bangos, miego sutrikimai ar nuotaikos svyravimai, gali prasidėti jau dabar, kol dar turite menstruacijas.\n\nKadangi perimenopauzė vyksta palaipsniui ir labai skiriasi, ji gali kelti sumaištį – pokyčiai neatsiranda visi iš karto ir ne visiems ta pačia tvarka. Žinojimas, kad šis etapas turi pavadinimą ir kad tai yra normalus pereinamasis laikotarpis, gali padėti lengviau jį suprasti.",
+      "deep": null,
+      "when_to_see_doctor": "- Kreipkitės į šeimos gydytoją, jei perimenopauzės simptomai trikdo jūsų kasdienį gyvenimą ir norėtumėte aptarti, kas galėtų padėti.\n- Jei mėnesinės tampa labai gausios arba kraujuojate tarp mėnesinių ar po lytinių santykių, verta, kad tai patikrintų gydytojas ir būtų nustatyta priežastis.\n- Atminkite, kad perimenopauzės metu vis dar galima pastoti, todėl, jei jums tai aktualu, verta aptarti kontracepciją su gydytoju.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Menstruaciniai skausmai",
+      "aliases": [
+        "menstruaciniai skausmai",
+        "mėnesinių skausmai",
+        "skausmingos mėnesinės",
+        "pilvo spazmai per mėnesines",
+        "skauda pilvą per mėnesines",
+        "dismenorėja"
+      ],
+      "glance": "Menstruaciniai skausmai – tai spazmai apatinėje pilvo dalyje menstruacijų metu; jie yra dažni ir dažnai yra normali ciklo dalis.",
+      "overview": "Menstruaciniai skausmai – tai spazminis, maudžiantis skausmas apatinėje pilvo dalyje, kurį daugelis jaučia apie mėnesines. Jie atsiranda, kai susitraukia raumeninė gimdos sienelė, ir dažnai yra normali menstruacinio ciklo dalis. Medicininis jų pavadinimas – dismenorėja.\n\nPaprastai jie prasideda mėnesinių pradžioje arba šiek tiek prieš jas ir dažniausiai trunka iki maždaug trijų dienų. Vienoms moterims tai lengvas sunkumo jausmas, kitoms – stipresni spazmai. Skausmas taip pat gali kisti per gyvenimą ir nuo ciklo iki ciklo.\n\nMenstruaciniai skausmai, kurie atitinka šį įprastą modelį, yra dažni ir paprastai suvaldomi. Daugelis naudojasi kasdienėmis patogumo priemonėmis ir paprastais nuskausminamaisiais vaistais; vaistininkas ar šeimos gydytojas gali patarti, kas jums tiktų. Svarbiausia – žinoti savo įprastą modelį, kad pastebėtumėte, jei kas nors pasikeistų.",
+      "deep": null,
+      "when_to_see_doctor": "Verta pasitarti su šeimos gydytoju, jei:\n\n- mėnesinės tampa skausmingesnės, gausesnės ar nereguliaresnės nei įprastai\n- skausmas trukdo atlikti kasdienius dalykus, pavyzdžiui, eiti į darbą ar mokyklą\n- įprasti nuskausminamieji vaistai nepadeda\n- jaučiate skausmą lytinių santykių metu, šlapinantis ar tuštinantis\n- kraujuojate tarp mėnesinių\n- skausmas atsiranda ne tik prieš pat mėnesines ar jų metu, bet ir kitu laiku\n- išsiskiria kraujo krešuliai, didesni už monetą (maždaug didžiausios euro monetos dydžio)\n- kartu pastebite išsipūtusį pilvą, sumažėjusį apetitą ar nepaaiškinamą svorio kritimą\n\nTai nebūtinai reiškia, kad kažkas negerai, tačiau verta, kad tai įvertintų gydytojas – nauji, kitokie ar sunkiai suvaldomi menstruaciniai skausmai gali turėti priežasčių, kurias gydytojas gali padėti išspręsti.",
+      "red_flags": "- Jei menstruacinis ar dubens skausmas yra **stiprus arba stipresnis nei įprastai, o nuskausminamieji vaistai nepadėjo**, paprašykite **skubaus** vizito pas šeimos gydytoją arba kreipkitės į **budintį gydytoją.**"
+    },
+    "planning-pregnancy": {
+      "title": "Nėštumo planavimas",
+      "aliases": [
+        "nėštumo planavimas",
+        "pasiruošimas nėštumui",
+        "bandome pastoti",
+        "prieš nėštumą",
+        "kaip pastoti",
+        "prieškoncepcinis laikotarpis"
+      ],
+      "glance": "Keletas paprastų veiksmų prieš bandant pastoti – folio rūgšties vartojimas, rūkymo ir alkoholio atsisakymas – užtikrina geriausią nėštumo pradžią.",
+      "overview": "Jei galvojate bandyti susilaukti kūdikio, keli žingsniai iš anksto gali užtikrinti sveikesnę nėštumo pradžią – daugelis jų veikia dar prieš pastojimą.\n\nSvarbiausi: pradėkite vartoti **folio rūgštį** (ir vitaminą D), **meskite rūkyti** ir **venkite alkoholio**. Padeda ir siekis turėti sveiką svorį, nes gerokai per mažas ar per didelis svoris gali apsunkinti pastojimą. Taip pat verta įsitikinti, kad esate paskiepyta **MMR vakcina** (nuo tymų, epideminio parotito ir raudonukės), nes kai kurios infekcijos gali paveikti nėštumą.\n\nNieko iš to nereikia daryti tobulai ar su įtampa. Svarbiausia – nedideli, sau palankūs pokyčiai iš anksto, o pasiruošti šiek tiek anksčiau yra vienas gražiausių dalykų, kuriuos galite padaryti būsimam nėštumui.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei sergate **lėtine liga** ar **reguliariai vartojate vaistus**, prieš pradėdama bandyti pastoti pasitarkite su šeimos gydytoju – kai kurias ligas ir vaistus reikia suderinti su planais. **Nenustokite vartoti paskirtų vaistų**, prieš tai nepasitarusi su gydytoju.\n- Šeimos gydytojas taip pat gali patarti dėl folio rūgšties (ir ar jums reikia didesnės dozės) bei kaip pasiekti sveiką svorį prieš nėštumą.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Pogimdyminė depresija",
+      "aliases": [
+        "pogimdyminė depresija",
+        "depresija po gimdymo",
+        "PND",
+        "pogimdyminis liūdesys",
+        "baby blues",
+        "liūdna po gimdymo"
+      ],
+      "glance": "Pogimdyminė depresija – dažna, gydoma prislėgta nuotaika po gimdymo; tai ne jūsų kaltė, ir pagalba yra.",
+      "overview": "Pirmąsias porą savaičių po gimdymo labai dažnai būna prislėgta nuotaika, nerimas ar dirglumas – tai dažnai vadinama „pogimdyminiu liūdesiu“ (angl. baby blues), ir paprastai jis praeina savaime maždaug per dvi savaites.\n\nPogimdyminė depresija yra kitas dalykas: tai gilesnė arba ilgiau trunkanti prislėgta nuotaika. Tai dažna būklė, ji gali prasidėti bet kuriuo metu per pirmuosius metus ir gali paveikti ir tėčius bei partnerius. Požymiai – nuolat prislėgta nuotaika, sunkumai kuo nors džiaugtis, sunku užmigti net tada, kai kūdikis miega, o kartais ir sunkūs jausmai dėl ryšio su kūdikiu.\n\nTai **nereiškia**, kad esate bloga mama ar blogas tėtis arba kad nemylite savo kūdikio – tai liga, o ne nesėkmė, ir ji gerai pasiduoda pagalbai bei gydymui. Anksti kreiptis pagalbos yra stiprus ir rūpestingas žingsnis – ir dėl jūsų, ir dėl jūsų kūdikio.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei manote, kad galbūt sergate pogimdymine depresija, arba jei „pogimdyminis liūdesys“ nepraėjo po dviejų savaičių, pasitarkite su **šeimos gydytoju, akušere ar patronažine slaugytoja**. Jie tai matė daugybę kartų ir gali padėti rasti tinkamą pagalbą.",
+      "red_flags": "- Jei kyla **minčių pakenkti sau ar savo kūdikiui** arba kad jūsų šeimai būtų geriau be jūsų, **nedelsdama** kreipkitės pagalbos: skambinkite **{{emergency}}** arba vykite į skubiosios pagalbos skyrių, arba skambinkite į krizių pagalbos liniją. Šios mintys gali būti ligos dalis, jos neatspindi to, kas jūs esate, o skubi pagalba yra."
+    },
+    "pre-eclampsia": {
+      "title": "Preeklampsija",
+      "aliases": [
+        "preeklampsija",
+        "aukštas kraujospūdis nėštumo metu",
+        "padidėjęs kraujospūdis nėštumo metu",
+        "nėščiųjų hipertenzija",
+        "gestozė",
+        "vėlyvoji toksikozė"
+      ],
+      "glance": "Preeklampsija – tai padidėjęs kraujospūdis nėštumo metu; iš pradžių ji dažnai nesukelia jokių simptomų, todėl nėštumo priežiūros patikrinimai tokie svarbūs.",
+      "overview": "Preeklampsija – tai nėštumo komplikacija, kuri dažniausiai pasireiškia aukštu kraujospūdžiu ir baltymų atsiradimu šlapime. Ji paprastai pasireiškia maždaug nuo 20-osios savaitės, o kartais – ir po gimdymo.\n\nVienas iš svarbiausių dalykų, kurį reikia žinoti, yra tai, kad ankstyvoje stadijoje ši liga dažnai nesukelia **jokių simptomų** – galite jaustis visiškai gerai. Būtent todėl akušerė kiekvieno įprasto nėštumo stebėjimo vizito metu tikrina jūsų kraujospūdį ir tiria šlapimą: būtent šių patikrinimų dėka liga paprastai nustatoma dar prieš jums ką nors pastebint.\n\nKai pasireiškia simptomai, verta juos atpažinti, nes preeklampsija gali tapti pavojinga tiek jums, tiek jūsų kūdikiui. Laiku diagnozuota preeklampsija gali būti sėkmingai gydoma, o reguliarus lankymasis nėštumo priežiūros vizituose yra geriausias būdas ją anksti nustatyti.",
+      "deep": null,
+      "when_to_see_doctor": "- Nepraleiskite nė vieno **reguliaraus nėštumo stebėjimo vizito** – būtent kraujospūdžio ir šlapimo tyrimai dažniausiai padeda nustatyti preeklampsiją dar prieš pasireiškiant simptomams.",
+      "red_flags": "Jei pasireiškia bet kuris iš šių simptomų, **nedelsdama** kreipkitės medicininės pagalbos – susisiekite su gimdymo skyriumi arba **budinčiu gydytoju** (jei jūsų savijauta labai bloga, pavyzdžiui, ištiko priepuolis ar traukuliai, skambinkite **{{emergency}}**):\n\n- **stiprus galvos skausmas**, kurio nenumalšina įprasti nuskausminamieji vaistai\n- **regėjimo sutrikimai** — neryškus matymas arba blyksniai akyse\n- **staigus** veido, rankų ar pėdų **patinimas**\n- **skausmas tiesiai po šonkauliais**\n- **vėmimas** arba staiga pasijutus labai blogai"
+    },
+    "pregnancy": {
+      "title": "Nėštumas",
+      "aliases": [
+        "nėštumas",
+        "esu nėščia",
+        "laukiuosi",
+        "nėštumo trukmė",
+        "trimestrai",
+        "gimdymo data",
+        "numatoma gimdymo data",
+        "kiek savaičių esu nėščia"
+      ],
+      "glance": "Nėštumas paprastai trunka apie 40 savaičių, skaičiuojant nuo paskutinių mėnesinių pirmosios dienos.",
+      "overview": "Nėštumas – tai laikotarpis, kai jūsų kūnas augina ir nešioja kūdikį. Paprastai jis trunka apie 40 savaičių – išnešiotu ir normaliu laikomas nėštumas nuo 37 iki 42 savaičių – ir, galbūt netikėtai, skaičiuojamas nuo **paskutinių mėnesinių** pirmosios dienos, o ne nuo pastojimo. Tai tiesiog standartinis datų skaičiavimo būdas.\n\nNumatoma **gimdymo data** yra apytikslė, o ne galutinis terminas: kūdikiai neretai gimsta šiek tiek anksčiau ar vėliau. Nėštumo pradžioje atliekamas nėštumo trukmės nustatymo ultragarsinis tyrimas (paprastai apie 12 savaitę) gali išmatuoti kūdikį ir nustatyti tikslesnę datą, todėl pirminis įvertinimas kartais pasikeičia.\n\nNėštumas dažnai skirstomas į tris etapus, arba **trimestrus**, kurių kiekvienas turi savų pokyčių. Visą laiką jus prižiūri akušerė (o prireikus ir gydytojas), reguliariai atlikdama nėštumo patikrinimus – tai priežiūra, padedanti jums ir jūsų kūdikiui būti sveikiems.",
+      "deep": "Kadangi datos skaičiuojamos nuo paskutinių mėnesinių, kai mėnesinės vėluoja, laikoma, kad esate maždaug keturių savaičių nėščia. Pagal nėštumo savaites organizuojama priežiūra – ultragarsiniai tyrimai, patikros tyrimai ir apžiūros siūlomi tam tikromis savaitėmis. Jei mėnesinės nereguliarios arba nesate tikra dėl datų, laiko juostą nustato nėštumo trukmės nustatymo ultragarsinis tyrimas. Šis straipsnis – visos kelionės žemėlapis; konkrečioms temoms – nėštumo požymiams, nėštumo priežiūrai, sveikatos palaikymui ir gimdymui – skirti atskiri straipsniai.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Nėštumo testas",
+      "aliases": [
+        "nėštumo testas",
+        "namų nėštumo testas",
+        "hCG tyrimas",
+        "ar aš nėščia",
+        "kada daryti nėštumo testą"
+      ],
+      "glance": "Namų nėštumo testas tiria šlapimą ieškodamas nėštumo hormono hCG – patikimiausias nuo pirmos vėluojančių mėnesinių dienos.",
+      "overview": "Namų nėštumo testas veikia aptikdamas šlapime hormoną hCG (žmogaus chorioninį gonadotropiną). Organizmas pradeda jį gaminti praėjus kelioms dienoms po to, kai apvaisintas kiaušinėlis prisitvirtina, o jo kiekis ankstyvo nėštumo metu sparčiai didėja.\n\nTestas patikimiausias nuo **pirmos dienos, kai vėluoja mėnesinės** – maždaug po dviejų savaičių nuo pastojimo. Jei jūsų ciklas nereguliarus arba nesate tikra, kada turėtų prasidėti mėnesinės, patikimesnį rezultatą gausite palaukusi bent 21 dieną po lytinių santykių be apsaugos. Testo nebūtina daryti iš pat ryto; tinka bet kuris paros metas.\n\n**Teigiamas** rezultatas beveik neabejotinai teisingas – labai retai testas būna teigiamas, kai nesate nėščia. **Neigiamas** rezultatas šiek tiek mažiau patikimas: jei mėnesinės vis neprasideda ir manote, kad galite būti nėščia, palaukite kelias dienas ir pasidarykite testą dar kartą.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei gausite teigiamą rezultatą, kreipkitės į **akušerę arba šeimos gydytoją,** kad pradėtumėte nėštumo priežiūrą.\n- Jei testų rezultatai neigiami, bet mėnesinės nevyksta ir jaučiatės nėščia (arba blogai), kreipkitės į šeimos gydytoją, kad išsiaiškintumėte, kas vyksta.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Priešlaikinis gimdymas",
+      "aliases": [
+        "priešlaikinis gimdymas",
+        "priešlaikiniai sąrėmiai",
+        "neišnešiotas kūdikis",
+        "ankstyvas gimdymas",
+        "anksti nubėgę vandenys"
+      ],
+      "glance": "Priešlaikinis gimdymas – tai gimdymas iki 37 savaičių. Reaguokite greitai, nes ankstyva pagalba iš tiesų gali pakeisti padėtį.",
+      "overview": "Priešlaikinis (arba ankstyvas) gimdymas – tai gimdymas, kuris prasideda anksčiau nei 37-ąją nėštumo savaitę. Tai pasitaiko maždaug 8 iš 100 gimdymų.\n\nAnksti gimę kūdikiai yra pažeidžiamesni, tačiau daugelis jų vėliau klesti – ypač gavę specializuotą priežiūrą, kurią teikia naujagimių skyriuose. Svarbiausia – veikti greitai, jei manote, kad tai gali prasidėti, kad jus galėtų ištirti ir, jei reikia, skirti gydymą, kuris padės apsaugoti kūdikį.\n\nŠie simptomai yra panašūs į bet kurio etapo gimdymo požymius, tačiau iki 37 savaičių jokiu būdu negalima laukti, kol jie praeis – jie visada yra priežastis nedelsiant kreiptis pagalbos.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei esate **mažiau nei 37 nėštumo savaičių** ir abejojate ar nerimaujate, bet kuriuo metu skambinkite savo **akušerei arba į gimdymo skyrių** – visada verta pasitikrinti.",
+      "red_flags": "**Nedelsdama** susisiekite su savo **akušere arba gimdymo skyriumi** – dieną ar naktį – jei **iki 37 savaitės** atsiranda bet kuris iš šių požymių:\n\n- reguliarūs **sąrėmiai ar pilvo įsitempimai** arba į mėnesinių skausmą panašūs skausmai\n- **skysčio pliūpsnis ar sunkimasis** iš makšties (nubėga vaisiaus vandenys)\n- jums neįprastas **nugaros skausmas** arba spaudimo jausmas apačioje, dubens srityje"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (priešmenstruacinis sindromas)",
+      "aliases": [
+        "pms",
+        "priešmenstruacinis sindromas",
+        "priešmenstruacinė įtampa",
+        "pmt",
+        "PMDD",
+        "priešmenstruacinis disforinis sutrikimas"
+      ],
+      "glance": "PMS – tai fizinių ir emocinių pokyčių derinys, kurį daugelis žmonių pastebi likus savaitei ar dviem iki mėnesinių.",
+      "overview": "PMS (priešmenstruacinis sindromas) – taip vadinami pokyčiai, kuriuos daugelis jaučia likus kelioms dienoms ar porai savaičių iki mėnesinių. Jis gali pasireikšti bet kuriai moteriai, kuri turi mėnesines, ir paprastai atslūgsta per kelias dienas nuo mėnesinių pradžios.\n\nŠie pokyčiai būna labai įvairūs. Fiziškai galite pastebėti pilvo pūtimą, skausmingas ar jautrias krūtis, spazmus, galvos skausmą ar didesnį nuovargį. Emociškai gali būti nuotaikos svyravimų, dirglumo, nerimo ar prislėgtumo. Taip pat dažni potraukiai tam tikram maistui ir miego pokyčiai. Ne visos moterys patiria PMS, o tos, kurios patiria, nebūtinai jaučia visus simptomus – svarbiausia jūsų pačios modelis.\n\nPMS yra normali, pripažinta daugelio moterų ciklo dalis, susijusi su natūraliais hormonų pokyčiais antrojoje ciklo pusėje. Stebėdama, kaip jis pasireiškia jums kiekviename cikle, galėsite lengviau planuoti ir pastebėti, jei jis kada nors pasikeistų.",
+      "deep": null,
+      "when_to_see_doctor": "Verta pasikonsultuoti su šeimos gydytoju, jei:\n\n- jūsų simptomai daro įtaką jūsų kasdieniam gyvenimui – darbui, studijoms, santykiams\n- kasdieniniai įpročių pokyčiai nepadėjo\n- jūsų prasta nuotaika, nerimas ar dirglumas atrodo labai stiprūs\n\nGydytojas gali paaiškinti, kas galėtų padėti. Sunkesnė forma, vadinama priešmenstruaciniu disforiniu sutrikimu (PMDD), gali sukelti žymiai stipresnius nuotaikos simptomus, tačiau šiuo atveju taip pat galima gauti pagalbą.",
+      "red_flags": "- Jei jaučiate PMDD simptomų ir **kyla minčių apie savižudybę arba jaučiate, kad galite sau pakenkti**, nedelsdama kreipkitės pagalbos: **skambinkite {{emergency}} arba vykite į skubiosios pagalbos skyrių.** Nevairuokite pati – paprašykite, kad kas nors jus nuvežtų, arba kvieskite greitąją pagalbą. Jūs nusipelnėte paramos, ir pagalba yra."
+    },
+    "progesterone": {
+      "title": "Progesteronas",
+      "aliases": [
+        "progesteronas",
+        "progesterono lygis"
+      ],
+      "glance": "Progesteronas yra ciklo antrosios pusės hormonas, kuris po ovuliacijos paruošia gimdos gleivinę.",
+      "overview": "Progesteronas yra vienas iš pagrindinių hormonų, lemiančių menstruacinį ciklą, ir jis perima pagrindinį vaidmenį antrojoje ciklo pusėje – po to, kai ovuliacijos metu išsiskiria kiaušinėlis.\n\nJo pagrindinė funkcija – padėti gimdos gleivinei išlikti storai ir pasirengusiai, kad, jei atkeliautų apvaisintas kiaušinėlis, jis galėtų prisitvirtinti ir prasidėtų nėštumas. Taip progesteronas veikia kaip partneris estrogenui, kuris didžiąją dalį gleivinės auginimo atliko anksčiau cikle.\n\nJei nėštumas neprasideda, progesterono lygis nukrinta. Būtent dėl šio kritimo gleivinė atsiskiria ir prasideda kitos mėnesinės. Progesterono lygio kilimas ir kritimas antrojoje ciklo pusėje yra normalus, dėsningas ritmas.",
+      "deep": "Progesteroną daugiausia gamina geltonasis kūnelis – darinys, kurį kiaušidė suformuoja iš folikulo po to, kai šis išleidžia kiaušinėlį. Todėl progesterono lygis pakyla būtent lutealinėje (po ovuliacijos) fazėje. Kai geltonasis kūnelis suyra, krinta ir progesterono, ir estrogeno lygis – tai signalas naujo ciklo pradžiai. Šie natūralūs svyravimai yra viena iš priežasčių, kodėl kai kurios moterys likus kelioms dienoms iki mėnesinių pastebi priešmenstruacinius pokyčius.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Tik progestogeno turinčios kontraceptinės tabletės („mini tabletės“)",
+      "aliases": [
+        "tik progestogeno turinčios kontraceptinės tabletės",
+        "mini tabletė",
+        "POP",
+        "tik progesterono tabletės",
+        "desogestrelio tabletė"
+      ],
+      "glance": "„Mini tabletė“ – tai kasdien geriama tabletė su vienu hormonu, kuris sutirština gimdos kaklelio gleives ir taip užtveria kelią spermatozoidams.",
+      "overview": "Tik progestogeno tabletė – dažnai vadinama „mini tabletė“ – yra kasdien vartojama tabletė, kurioje yra tik vienas hormonas – progestogenas. Tai pasirinkimas tiems, kurie negali arba nenori vartoti estrogeno.\n\nJos pagrindinis veikimas – sustorinti gleives gimdos kaklelyje, todėl spermatozoidams tampa sunkiau pasiekti kiaušinėlį. Viena iš dažniausiai vartojamų kontraceptinių tablečių – desogestrelio tabletės – taip pat neleidžia kiaušidėms išleisti kiaušinėlio (ovuliacijos).\n\nJei vartojama teisingai, jos veiksmingumas viršija 99 %; įprastomis kasdienio vartojimo sąlygomis jis siekia apie 91 %. Kaip ir kitų kontraceptinių tablečių atveju, svarbu laikytis vartojimo grafiko, be to, jos neapsaugo nuo lytiniu keliu plintančių infekcijų.",
+      "deep": "„Mini“ tabletės skiriasi nuo kombinuotųjų kontraceptinių tablečių tuo, kad jose nėra estrogeno, o tai lemia, kam jos gali būti tinkamos – šį aspektą gydytojas įvertina skirdamas vaistą. Kai kurias tabletes reikia vartoti per gana trumpą kasdienį laikotarpį, kad jos išliktų veiksmingos. Šiame straipsnyje aptariama, kas tai yra ir kaip veikia; kaip jas vartoti ir ar jos tinka būtent jums – tai klausimai, kuriuos turėtų išspręsti šeimos gydytojas, slaugytoja ar vaistininkas.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Kaip atpažinti smurtinius santykius",
+      "aliases": [
+        "smurto atpažinimas",
+        "smurtiniai santykiai",
+        "smurtas artimoje aplinkoje",
+        "smurtas šeimoje",
+        "partnerio smurtas",
+        "smurto požymiai",
+        "ar patiriu smurtą"
+      ],
+      "glance": "Smurtas gali būti fizinis, seksualinis, emocinis ar kontroliuojantis – ir dėl jo niekada nekaltas jį patiriantis žmogus.",
+      "overview": "Smurtas santykiuose nėra vien fizinis. Jis gali būti kelių formų, dažnai kartu: fizinė žala, seksualinė prievarta, emocinė ar psichologinė žala ir kontroliuojantis elgesys – kai partneris sprendžia, kur jūs einate, su kuo matotės ar ką galite daryti. Bet kuri iš šių formų gali būti smurtas, net jei nėra matomų sužalojimų.\n\nTai pasitaiko dažniau, nei daugelis įsivaizduoja. Pasaulyje maždaug 1 iš 3 moterų per gyvenimą patiria fizinį ar seksualinį smurtą, dažniausiai iš partnerio; Italijoje padėtis panaši. Taigi, jei tai yra jūsų gyvenimo dalis, jūs ne viena, ir tai ne jūsų sukelta.\n\nTai įvardyti gali būti sunku – smurtas dažnai persipina su gerais momentais, atsiprašymais ar pažadais pasikeisti, ir gali stiprėti taip lėtai, kad ima atrodyti normalu. Pasitikėjimas savo nuojauta, kad kažkas negerai, yra pakankama priežastis kreiptis pagalbos. Nebūtina būti tikrai ar laukti, kol taps „pakankamai blogai“, kad su kuo nors pasikalbėtumėte.",
+      "deep": "Už skirtingų formų smurtas paprastai turi tą patį modelį: vienas žmogus siekia valdžios ir kontrolės prieš kitą, ir laikui bėgant tai gali stiprėti. Tai smarkiai kenkia sveikatai – smurtas siejamas su nerimu, depresija, miego sutrikimais ir ilgalaikiais fiziniais padariniais. Nieko iš to nereiškia, kad esate silpna ar kalta; tai reiškia, kad tai, ką išgyvenate, yra žalinga, o pagalba yra tam, kad padėtų jums viską apgalvoti saugiai ir savo tempu.",
+      "when_to_see_doctor": "- Kai tik būsite pasiruošusi, galite konfidencialiai pasikalbėti – su šeimos gydytoju ar slaugytoja, pagalbos smurtą patiriantiems centre arba pagalbos linijoje (Italijoje – **1522**, nemokamai ir bet kuriuo metu). Iš anksto nereikia nei įrodymų, nei plano, nei sprendimo; ten jus išklausys ir padės suprasti jūsų galimybes.\n- Sveikatos priežiūros specialistas taip pat gali sutvarkyti sužalojimus ir diskretiškai susieti jus su specializuota pagalba.",
+      "red_flags": "- Jei jums gresia **tiesioginis pavojus**, nedelsdami susisiekite su skubios pagalbos tarnybomis: **112** ES (įskaitant Italiją), **999** Jungtinėje Karalystėje, **911** JAV ir Kanadoje.\n- Italijoje nemokama nacionalinė pagalbos linija **„1522“**, skirta smurto ir persekiojimo aukoms, veikia 24 valandas per parą, galima kreiptis anonimiškai telefonu arba pokalbių programoje keliomis kalbomis."
+    },
+    "respect-not-control": {
+      "title": "Pagarba, o ne kontrolė",
+      "aliases": [
+        "kontroliuojantis elgesys",
+        "prievartinė kontrolė",
+        "sveiki santykiai",
+        "įspėjamieji ženklai",
+        "kur kreiptis pagalbos",
+        "smurtas santykiuose"
+      ],
+      "glance": "Meilė grindžiama pagarba ir laisve — kontrolė, pavydas ir spaudimas nėra meilė, o pagalba yra.",
+      "overview": "Sveiki santykiai grindžiami pagarba, pasitikėjimu, lygybe ir laisve: du žmonės, kurie kiekvienas išlaiko savo draugystes, pasirinkimus ir asmeninę erdvę. Kontrolė yra visiškai priešinga. Ji dažnai slepiasi už tokių žodžių kaip meilė ar pavydas – „Aš tikrinu tavo telefoną, nes man rūpi“, „Nenoriu, kad su jais susitiktum, nes tave myliu“ – tačiau jos pasekmė yra ta, kad susiaurėja jos pasaulis ir laisvė.\n\nKontrolė retai prasideda nuo smurto. Paprastai viskas prasideda nuo smulkmenų – kritikos, peržengtos ribos, įžeidžiančio „juokelio“ – ir palaipsniui stiprėja. Svarbu tai laiku įvardyti, nes prievartinė kontrolė pati savaime yra smurto forma ir įspėjamasis ženklas, kad situacija gali pablogėti. Čia nekalbama apie kaltę; čia kalbama apie sąžiningumą ir pokyčius.",
+      "deep": "**Jei atpažįstate kai ką iš to savyje, šis suvokimas yra pradžia – o ne nuosprendis visam gyvenimui.** Žmonės gali pasikeisti, jei rimtai stengiasi ir gauna tinkamą pagalbą. Kreiptis į specialią programą vyrams, kurie nori liautis kontroliuoti ar smurtauti, yra stiprybės, o ne silpnumo ženklas. Pasikalbėkite su specialistu, gydytoju ar vyrams skirta elgesio keitimo tarnyba.\n\nJei pavojus gresia **jai** arba nerimaujate dėl ko nors, padrąsinkite ją ir padėkite jai kreiptis pagalbos – jos pačios sąlygomis, niekada neperimdami sprendimų.\n\n**Kur kreiptis pagalbos**\n- Skubiu atveju arba jei kam nors gresia tiesioginis pavojus, skambinkite vietiniu skubios pagalbos numeriu (**112** Italijoje ir didžiojoje Europos dalyje; **911** JAV).\n- **Italija — 1522**: nacionalinė pagalbos linija dėl smurto ir persekiojimo. Nemokama, 24/7, anonimiška, keliomis kalbomis; ją administruoja Lygių galimybių departamentas. Ji taip pat nukreipia į vietinius pagalbos smurtą patiriantiems centrus (centri antiviolenza).\n- Pagalbos smurtą patiriantiems centrai ir vyrų elgesio keitimo programos (Italijoje – „centri per uomini autori di violenza“) teikia konfidencialią pagalbą norintiems keistis.",
+      "when_to_see_doctor": null,
+      "red_flags": "Kontroliuojančio ar smurtinio elgesio įspėjamieji ženklai – į juos verta rimtai atsižvelgti savyje ar santykiuose:\n\n- **Sekimas ar izoliavimas**: jos telefono tikrinimas, jos buvimo vietos sekimas ar atskyrimas nuo draugų ir šeimos.\n- **Jos pasirinkimų kontrolė**: pinigai, ką ji vilki, kur eina, su kuo susitinka.\n- **Pavydas, pateikiamas kaip meilė**, nuolatiniai kaltinimai ar poreikis visą laiką žinoti, kur ji yra.\n- **Žeminimas, kaltinimas ar gąsdinimas**, kaltės jausmo kėlimas ar jausmas, kad ji turi „vaikščioti ant kiaušinių lukštų“.\n- **Spaudimas ar grasinimai**, susiję su seksu, išsiskyrimu ar susižalojimu, siekiant priversti paklusti.\n- **Bet kokia fizinė jėga, bauginimas ar baimė.** Jei tai vyksta, tai smurtas – kreipkitės aukščiau nurodytos pagalbos. Tam niekada nėra pateisinimo, ir tai niekada nėra jos kaltė."
+    },
+    "safety-plan": {
+      "title": "Saugumo plano sudarymas",
+      "aliases": [
+        "saugumo planas",
+        "saugumas",
+        "kaip apsisaugoti",
+        "saugumo planavimas",
+        "kaip saugiai išeiti"
+      ],
+      "glance": "Saugumo planas – tai keletas praktinių veiksmų, kurie padės jums užtikrinti didesnį saugumą, o kvalifikuotos tarnybos gali padėti jį parengti.",
+      "overview": "Saugumo planas – tai tiesiog išankstinis apmąstymas, kaip padidinti savo (ir vaikų, jei jų turite) saugumą. Tai nėra sprendimas išeiti ar likti – tai būdas būti šiek tiek geriau pasiruošusiai, kad ir ką pasirinktumėte.\n\nKai kam padeda tyliai pasirūpinti keliais dalykais: patikimas žmogus, kuris žino, kas vyksta, svarbūs dokumentai ir telefono numeriai lengvai pasiekiamoje vietoje, nedidelis krepšys su būtiniausiais daiktais, žinojimas, kokiais keliais saugiausia išeiti iš namų, ar žodis ar ženklas, kuriuo galite kam nors pranešti, kad jums reikia pagalbos. Kas tinka, visiškai priklauso nuo jūsų situacijos.\n\nJums nereikia to spręsti vienai, ir dažnai saugiau to nedaryti vienai. Pagalbos smurtą patiriantiems tarnybos turi patirties kartu su žmonėmis rengiant saugumo planus – konfidencialiai ir nemokamai – taip pat ir laikotarpiui, kai išeinate: tai gali būti ypač rizikingas metas, kurį verta planuoti su pagalba, o ne skubotai.",
+      "deep": null,
+      "when_to_see_doctor": "- Susisiekite su pagalbos smurtą patiriantiems centru ar pagalbos linija (Italijoje – **1522**), kad sudarytumėte jūsų situacijai tinkamą planą – jie tai daro kasdien, konfidencialiai, ir gali padėti imtis praktinių, teisinių bei emocinių žingsnių.\n- Jei užsirašinėjate, kas vyksta, laikykite tuos įrašus privačioje ir saugioje vietoje.",
+      "red_flags": "- Jei jums gresia **tiesioginis pavojus**, nedelsdami kreipkitės į skubios pagalbos tarnybas: **112** ES šalyse (įskaitant Italiją), **999** Jungtinėje Karalystėje, **911** JAV ir Kanadoje.\n- Italijoje numeris **1522** – nemokamas, veikia 24 valandas per parą, anoniminis, daugiakalbis – gali padėti telefonu arba pokalbių svetainėje, įskaitant skubų saugumo planavimą."
+    },
+    "sex-during-your-period": {
+      "title": "Seksas menstruacijų metu",
+      "aliases": [
+        "seksas per mėnesines",
+        "seksas menstruacijų metu",
+        "lytiniai santykiai per mėnesines",
+        "ar galima pastoti per mėnesines",
+        "nėščia per mėnesines",
+        "ar galiu pastoti menstruacijų metu"
+      ],
+      "glance": "Seksas per mėnesines yra visiškai normalus, jei abu to norite, tačiau vis tiek galite pastoti arba perduoti ar užsikrėsti lytiniu keliu plintančia infekcija.",
+      "overview": "Seksas per mėnesines yra asmeninis pasirinkimas. Jei abu to norite ir abu jaučiatės patogiai, tai visiškai normalu, ir nėra nieko blogo ar neįprasto. Kai kurios moterys šiuo metu jaučiasi jautresnės arba tiesiog neturi nuotaikos, o kitoms tai patinka. Svarbiausia – klausytis savo kūno ir atvirai kalbėtis su partneriu.\n\nTačiau mėnesinės neveikia kaip kontracepcija. Tikimybė pastoti mažesnė nei apie ovuliaciją, tačiau ji nėra lygi nuliui. Spermatozoidai organizme gali išgyventi iki 7 dienų po lytinių santykių, todėl jei ovuliacija įvyksta anksčiau (o tai labiau tikėtina, jei ciklas trumpesnis), spermatozoidai po lytinių santykių mėnesinių metu ar iškart po jų vis tiek gali susitikti su kiaušinėliu. Jei nenorite pastoti, įprasta kontracepcija šiomis dienomis tebėra svarbi.\n\nMėnesinės taip pat neapsaugo nuo lytiniu keliu plintančių infekcijų (LPI). Infekcijos gali būti perduodamos partneriams santykiaujant be prezervatyvo, o jų sukėlėjų gali būti ir kraujyje, ir kituose kūno skysčiuose. Prezervatyvai yra metodas, kuris taip pat mažina LPI, įskaitant ŽIV, riziką, todėl juos verta naudoti bet kuriuo mėnesio metu.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei turėjote lytinių santykių **be kontracepcijos** ar kontracepcija galėjo nesuveikti, o nenorite pastoti, **kuo greičiau** pasitarkite su vaistininku, šeimos gydytoju ar lytinės sveikatos klinikoje dėl avarinės kontracepcijos. Ją reikia panaudoti per kelias dienas, ir paprastai ji veikia geriau, kuo anksčiau panaudojama.\n- Jei lytinių santykių metu **prezervatyvas plyšo ar nuslydo**, kreipkitės pagalbos į vaistininką, lytinės sveikatos kliniką ar šeimos gydytoją. Jums gali prireikti avarinės kontracepcijos ar lytiniu keliu plintančių infekcijų tyrimo.\n- Jei **po lytinių santykių** pastebite **kraujavimą, kai neturite mėnesinių**, kreipkitės į šeimos gydytoją ar lytinės sveikatos kliniką. Paprastai tai nėra rimta, tačiau visada verta, kad tai patikrintų gydytojas.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Seksas nėštumo metu",
+      "aliases": [
+        "seksas nėštumo metu",
+        "lytiniai santykiai nėštumo metu",
+        "mylėtis nėštumo metu",
+        "ar saugu mylėtis nėštumo metu",
+        "intymumas nėštumo metu",
+        "orgazmas nėštumo metu"
+      ],
+      "glance": "Daugeliu nėštumo atvejų lytiniai santykiai yra saugūs ir nekenkia kūdikiui, nebent jūsų akušerė ar gydytojas patarė kitaip.",
+      "overview": "Daugumai moterų lytiniai santykiai nėštumo metu yra saugūs, nebent akušerė ar gydytojas patarė to nedaryti. Kūdikis gimdoje yra gerai apsaugotas, ir lytiniai santykiai jam nepakenks.\n\nKai kuriais atvejais jums gali būti patarta vengti lytinių santykių su įsiskverbimu: jei turite **žemai esančią placentą (placenta praevia)** – dėl kraujavimo pavojaus; jei **nubėgo vaisiaus vandenys** – dėl infekcijos pavojaus; arba jei patyrėte **kelis persileidimus**.\n\nNėštumo metu lytinis potraukis dažnai kinta – vienos moterys nori sekso daugiau, kitos mažiau, kai kurios kurį laiką visai nenori – tam įtakos turi hormonai, kūno pokyčiai, nuovargis, pykinimas ir rūpesčiai. Visa tai normalu. Jei sekso nesinori, bučiniai, apsikabinimai ir masažas yra kiti būdai išlikti artimiems.\n\nPilvui augant, kai kurios pozos tampa nepatogios; dažnai patogiau gulint šonu vienas prie kito. Dėl hormonų makštis gali būti sausesnė, todėl gali padėti vandens pagrindo lubrikantas.\n\nNėštumo pabaigoje lytiniai santykiai ar orgazmas gali sukelti Braxtono-Hickso (treniruojamuosius) sąrėmius, kai gimda kurį laiką sukietėja. Tai normalu ir nereiškia, kad prasideda gimdymas – be to, nėra įrodymų, kad lytiniai santykiai sukeltų gimdymą.\n\nJei kuris nors iš jūsų gali turėti lytiniu keliu plintančią infekciją, naudokite prezervatyvą, taip pat ir oralinio sekso metu: negydoma infekcija gali rimtai pakenkti jums ir kūdikiui. Venkite oralinio sekso, jei kuris nors iš jūsų turi lūpų pūslelinę, nes virusas gali būti perduotas kūdikiui.",
+      "deep": null,
+      "when_to_see_doctor": "- Pasitarkite su **akušere ar gydytoju**, jei nesate tikra, ar lytiniai santykiai jums saugūs, arba jei jus slegia nerimas dėl sekso ar jūsų santykių.\n- Jei nėštumo metu atsiranda **bet koks kraujavimas**, prieš vėl mylėdamasi parodykite tai specialistui – kreipkitės į akušerę, gydytoją ar gimdymo skyrių.\n- Jei jūs ar jūsų partneris galite turėti lytiniu keliu plintančią infekciją, kreipkitės į **lytinės sveikatos kliniką**.",
+      "red_flags": "- Jei manote, kad **nubėgo vaisiaus vandenys**, nedelsdama kreipkitės į **gimdymo skyrių** ir nesimylėkite, kol jūsų neapžiūrės.\n- Jei **gausiai kraujuojate**, ypač jei kartu jaučiate **stiprų pilvo skausmą** ar jaučiatės lyg tuoj nualpsite, skambinkite **{{emergency}} arba vykite į skubiosios pagalbos skyrių**."
+    },
+    "sexual-violence": {
+      "title": "Seksualinis smurtas ir sutikimas",
+      "aliases": [
+        "seksualinis smurtas",
+        "seksualinė prievarta",
+        "išžaginimas",
+        "išprievartavimas",
+        "sutikimas",
+        "lytiniai santykiai be sutikimo"
+      ],
+      "glance": "Seksualinis smurtas – tai bet koks seksualinis veiksmas be sutikimo, ir dėl to niekada nekaltas tas, kuris jį patyrė.",
+      "overview": "Seksualinis smurtas – tai bet koks seksualinis veiksmas arba bandymas jį įvykdyti be sutikimo arba naudojant prievartą. Tai apima išžaginimą ir bet kokį nepageidaujamą seksualinį kontaktą, o jį gali įvykdyti bet kas – nepažįstamasis, pažįstamas, partneris ar sutuoktinis.\n\nSutikimas yra esminis dalykas. Sutikimas reiškia laisvą pritarimą, ir jo negali būti, kai žmogus miega, yra be sąmonės, girtas ar apsvaigęs nuo narkotikų, yra vaikas, arba kai jam daromas spaudimas, grasinama ar jis bijo. Sutikimą galima atšaukti bet kuriuo metu. Todėl seksualinis smurtas **niekada** nėra nukentėjusiojo kaltė – nei dėl to, ką jis vilkėjo, nei dėl to, ar buvo gėręs, ar sustingo užuot priešinęsis, ar pažinojo tą žmogų.\n\nJei tai nutiko jums, pagalba yra – nesvarbu, ar tai įvyko neseniai, ar seniai. Jumis tikima, o ką darysite toliau – spręsite jūs.",
+      "deep": null,
+      "when_to_see_doctor": "- Galite kreiptis į **sveikatos priežiūros įstaigą, ligoninę ar specializuotą pagalbos nukentėjusiems nuo seksualinio smurto tarnybą**, kur jumis pasirūpins, sutvarkys sužalojimus ir – jei norite – padės pranešti apie įvykį bei išsaugoti įrodymus.\n- Kai kurie sveikatos žingsniai **priklauso nuo laiko** – pavyzdžiui, avarinė kontracepcija ar infekcijų prevencija – todėl kreiptis **kuo greičiau** gali padėti. Tačiau pagalbos gauti galima neribotai ilgai, ir ar pranešti apie įvykį, visada sprendžiate jūs.",
+      "red_flags": "- Jei jums gresia **tiesioginis pavojus**, nedelsdami kreipkitės į skubiosios pagalbos tarnybas: **112** ES (įskaitant Italiją), **999** Jungtinėje Karalystėje, **911** JAV ir Kanadoje.\n- Jei neseniai patyrėte užpuolimą, **skubiai padėti gali ligoninė ar specializuota tarnyba**. Italijoje **1522** (nemokama, 24/7, anonimiška, keliomis kalbomis – telefonu arba pokalbiu internetu) gali nukreipti jus į tinkamą pagalbą."
+    },
+    "signs-of-labour": {
+      "title": "Gimdymo požymiai",
+      "aliases": [
+        "gimdymo požymiai",
+        "gimdymas",
+        "prasideda gimdymas",
+        "sąrėmiai",
+        "nubėgo vandenys",
+        "gleivių kamštis",
+        "latentinė fazė"
+      ],
+      "glance": "Gimdymo pradžios požymiai – reguliarūs sąrėmiai, pasišalinęs gleivių kamštis, nugaros skausmas arba nubėgę vaisiaus vandenys.",
+      "overview": "Yra keli požymiai, kad gali prasidėti gimdymas. Pagrindinis – sąrėmiai: reguliariai pasikartojantys ir stiprėjantys pilvo sukietėjimai. Kiti požymiai – vadinamasis „ženklas“ (pasišalina gimdos kaklelį užkimšęs gleivių kamštis), nuolatinis nugaros skausmas, noras eiti į tualetą ir nubėgę vaisiaus vandenys.\n\nPrieš aktyvų gimdymą dažnai būna ankstyvoji („latentinė“) fazė, kai gimdos kaklelis minkštėja ir pradeda vertis. Ji gali trukti valandas ar net dienas, ir daugeliui moterų tuo metu visai tinka būti namuose, ilsėtis ir gerti pakankamai skysčių.\n\nKiekvienos moters gimdymas prasideda šiek tiek skirtingai, todėl nebūtina sulaukti visų požymių. Kai manysite, kad prasideda, akušerė ar gimdymo skyrius patars, ką daryti ir kada atvykti.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei manote, kad prasidėjo gimdymas, arba kai sąrėmiai tampa **reguliarūs – maždaug kas 5 minutes** – paskambinkite savo **akušerei ar į gimdymo skyrių** patarimo. Jei nepavyksta susisiekti su akušere, skambinkite į ligoninę, kurioje planuojate gimdyti.",
+      "red_flags": "**Nedelsdama** skambinkite savo **akušerei ar į gimdymo skyrių** – dieną ar naktį, nelaukite – jei:\n\n- **nubėga vaisiaus vandenys** (ypač jei skystis žalias, rudas ar nemalonaus kvapo)\n- atsiranda **bet koks kraujavimas iš makšties**\n- jūsų **kūdikis juda mažiau nei įprastai**\n- jaučiate gimdymo požymius, o **nėštumas** trunka **mažiau nei 37 savaites**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Nėštumo požymiai",
+      "aliases": [
+        "nėštumo požymiai",
+        "ankstyvi nėštumo simptomai",
+        "ar aš nėščia?",
+        "nėštumo simptomai"
+      ],
+      "glance": "Vėluojančios mėnesinės dažnai yra pirmasis nėštumo požymis, kartais kartu su pykinimu, nuovargiu ar jautriomis krūtimis.",
+      "overview": "Daugeliui moterų pirmasis nėštumo ženklas yra **vėluojančios mėnesinės**. Tačiau kiekvienas organizmas skirtingas, ir kai kurios pirmiausia pastebi kitus ankstyvus požymius – dažnai maždaug 4–6 savaitę.\n\nDažni ankstyvi požymiai – pykinimas ar vėmimas (bet kuriuo paros metu, ne tik ryte), padidėjusios ar jautrios krūtys, neįprastas nuovargis ir dažnesnis šlapinimasis. Kai kurios moterys taip pat jaučia metalo skonį burnoje, tampa jautrios tam tikriems kvapams arba nebenori maisto, kurį paprastai mėgsta.\n\nNė vienas iš šių požymių pats savaime nereiškia, kad tikrai esate nėščia – daugelis jų sutampa su įprastais ciklo svyravimais – ir ne visos moterys juos jaučia. Tikrai sužinoti galima tik atlikus nėštumo testą.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei testo rezultatas teigiamas, kreipkitės į **akušerę arba šeimos gydytoją,** kad kuo anksčiau pradėtumėte nėštumo priežiūrą (priešgimdyminę priežiūrą).\n- Jei mėnesinės vėluoja, testų rezultatai neigiami, bet simptomai tęsiasi, verta pasikonsultuoti su šeimos gydytoju, kad išsiaiškintumėte, kas dar galėtų būti.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Rūkymas nėštumo metu",
+      "aliases": [
+        "rūkymas nėštumo metu",
+        "mesti rūkyti nėštumo metu",
+        "metimas rūkyti nėščiai",
+        "elektroninės cigaretės nėštumo metu"
+      ],
+      "glance": "Mesti rūkyti – tai vienas iš geriausių dalykų, kuriuos galite padaryti savo kūdikiui, ir tam niekada nėra per vėlu.",
+      "overview": "Mesti rūkyti – vienas veiksmingiausių dalykų, kuriuos galite padaryti, kad jūsų kūdikis sveikai pradėtų gyvenimą. Kiekviena cigaretė riboja deguonies kiekį, kurį gauna kūdikis, todėl jo širdžiai tenka dirbti sunkiau, o augimas gali sulėtėti.\n\nRūkymas nėštumo metu didina rimtų problemų riziką, įskaitant persileidimą, priešlaikinį gimdymą, mažą naujagimio svorį, negyvagimį ir staigios kūdikio mirties sindromą (SIDS) po gimimo. Pasyvus rūkymas taip pat kenkia, todėl padeda namai be dūmų.\n\nDrąsinanti žinia: **niekada** nėra **per vėlu**. Mesti rūkyti naudinga bet kuriuo nėštumo metu, o metus anksti nauda didžiausia. Tai gali būti tikrai sunku – būtent todėl yra nemokama pagalba, o ja pasinaudojus sėkmės tikimybė gerokai padidėja.",
+      "deep": null,
+      "when_to_see_doctor": "- Pasiteiraukite savo **akušerės** apie **nemokamą pagalbą norint mesti rūkyti** – jums gali padėti kvalifikuoti konsultantai (kai kurie iš jų specializuojasi nėštumo klausimais), be to, daugelyje šalių veikia nemokama pagalbos linija, skirta norintiems mesti rūkyti. Kreipimasis pagalbos yra jūsų rūpestingumo kūdikiui ženklas, o ne nesėkmė.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Tepimas ir kraujavimas tarp mėnesinių",
+      "aliases": [
+        "tepimas",
+        "tepimas tarp mėnesinių",
+        "kraujavimas tarp mėnesinių",
+        "tarpmenstruacinis kraujavimas",
+        "prasiveržęs kraujavimas",
+        "kraujavimas po lytinių santykių"
+      ],
+      "glance": "Tepimas – tai negausus kraujavimas tarp mėnesinių arba po lytinių santykių; dažnai nieko rimto, tačiau visada verta, kad tai patikrintų gydytojas.",
+      "overview": "Tepimas – tai negausus kraujavimas tarp mėnesinių arba po lytinių santykių, ne įprastų mėnesinių metu. Jis dažnas ir paprastai nėra rimtas, tačiau kadangi priežasčių gali būti įvairių, jį visada verta parodyti gydytojui.\n\nKasdienių priežasčių yra daug. Viena dažniausių – hormoninės kontracepcijos pradžia ar vartojimas. Kitos – nedideli, nekenksmingi dariniai gimdoje ar aplink ją (polipai ar miomos), nekenksmingi gimdos kaklelio paviršiaus pokyčiai, makšties sausumas ar infekcija, pavyzdžiui, chlamidiozė.\n\nKadangi tas pats simptomas gali atsirasti dėl įvairių priežasčių — dažniausiai nereikšmingų — naudinga ne spėlioti, o leisti gydytojui tai įvertinti, kad sužinotumėte, kas jį sukelia būtent jums.",
+      "deep": null,
+      "when_to_see_doctor": "- **Jei kraujuojate tarp menstruacijų arba po lytinių santykių**, net jei kraujavimas yra nedidelis, kreipkitės į šeimos gydytoją arba lytinės sveikatos kliniką. Paprastai tai nėra nieko rimto, tačiau tik atlikus tyrimą galima nustatyti priežastį – taip pat tai yra būdas anksti atmesti rečiau pasitaikančias priežastis.",
+      "red_flags": "- Jei **vėluoja mėnesinės ir atsirado neįprastas kraujavimas kartu su pilvo ar dubens skausmu**, kreipkitės dėl **skubaus** vizito pas šeimos gydytoją arba susisiekite su **budinčiu gydytoju** – tai reikia greitai įvertinti, nes gali būti negimdinio nėštumo požymis."
+    },
+    "stalking": {
+      "title": "Persekiojimas",
+      "aliases": [
+        "persekiojimas",
+        "mane persekioja",
+        "priekabiavimas",
+        "nepageidaujamas dėmesys",
+        "kažkas mane seka",
+        "persekiojimas internete"
+      ],
+      "glance": "Persekiojimas – tai pasikartojantis, nepageidaujamas dėmesys, dėl kurio jaučiatės išsigandusi ar nesaugi, ir į jį žiūrima rimtai.",
+      "overview": "Persekiojimas – tai pasikartojantis nepageidaujamas žmogaus elgesys, dėl kurio jaučiatės išsigandusi, stebima ar nesaugi. Tai gali būti sekimas, netikėtas pasirodymas ten, kur esate, nuolatiniai skambučiai ar žinutės, nepageidaujamos dovanos, jūsų stebėjimas internete ar per telefoną, taip pat grasinimai. Dažnai tai daro buvęs partneris ar pažįstamas žmogus, nors ne visada.\n\nBaimė, kurią tai sukelia, yra pagrįsta, net jei kitiems kiekvienas atskiras veiksmas gali atrodyti „smulkmena“ — svarbu elgesio modelis ir tai, kaip dėl jo jaučiatės. Persekiojimas pripažįstamas smurto forma, o daugelyje šalių tai nusikaltimas. Niekas iš to nėra jūsų kaltė, ir jums nereikia su tuo tiesiog taikstytis.\n\nJei tai daryti saugu, vėliau gali praversti užrašai: datos ir laikas, žinučių ekrano nuotraukos ir tai, kas įvyko. Jums nereikia vienai spręsti, ar tai „skaitosi“ – pagalbos tarnybos gali padėti suprasti situaciją ir apsvarstyti galimybes.",
+      "deep": null,
+      "when_to_see_doctor": "- Kreipkitės į **policiją**, kad praneštumėte apie persekiojimą, o pagalbos ir patarimų kreipkitės į pagalbos liniją, skirtą kovai su smurtu ar persekiojimu (Italijoje **numeris 1522** skirtas smurto **ir** persekiojimo atvejams).\n- Įrodymų saugojimas ir saugumo plano parengimas, pasinaudojant specializuotos tarnybos pagalba, gali turėti didelę reikšmę.",
+      "red_flags": "- Jei jaučiate, kad jums gresia **tiesioginis pavojus**, nedelsdami kreipkitės į skubios pagalbos tarnybas: **112** ES (įskaitant Italiją), **999** Jungtinėje Karalystėje, **911** JAV ir Kanadoje.\n- Italijoje numeris **1522** – nemokamas, veikiantis 24 valandas per parą, anoniminis, daugiakalbis – gali padėti telefonu arba pokalbių programoje."
+    },
+    "stillbirth": {
+      "title": "Negyvagimis",
+      "aliases": [
+        "negyvagimis",
+        "negyvas gimimas",
+        "kūdikis gimė negyvas",
+        "kūdikio netektis",
+        "vėlyva nėštumo netektis",
+        "kūdikio mirtis gimdoje"
+      ],
+      "glance": "Negyvagimis – tai kūdikio netektis po 24 nėštumo savaitės; tai nedažna, niekada ne jūsų kaltė, ir jums visada bus suteikta pagalba.",
+      "overview": "Negyvagimis – tai kai kūdikis gimsta miręs po 24 nėštumo savaitės. (Netektis iki 24 savaitės vadinama persileidimu.) Tai nedažna – maždaug 1 iš 250 gimdymų – tačiau šeimoms, kurias tai ištinka, tai didžiulė netektis, ir visa tolesnė priežiūra skirta tam, kad jus švelniai palaikytų šiuo metu.\n\nKartais priežastis nustatoma – pavyzdžiui, placentos ar kūdikio vystymosi sutrikimas arba mamos sveikatos būklė – o kartais, nepaisant tyrimų, **priežastis visai nenustatoma**. Kad ir kokia būtų priežastis, negyvagimis nėra tai, ką tėvai sukėlė ar galėjo žinoti, kaip išvengti.\n\nYra vienas dalykas, kuris tikrai padeda sumažinti riziką, ir jis paprastas: **nedelsiant pranešti akušerei, jei kūdikio judesių sumažėja ar jie pasikeičia.** Be to, savo vaidmenį atlieka ir kasdieniai dalykai – lankymasis nėštumo priežiūros vizituose, nerūkymas, alkoholio vengimas ir miegojimas ant šono nuo 28 savaitės.",
+      "deep": null,
+      "when_to_see_doctor": "- **Nedelsdama** susisiekite su savo **akušere arba gimdymo skyriumi** – bet kuriuo metu, dieną ar naktį – jei jūsų **kūdikis juda mažiau nei įprastai arba jo judesiai atrodo kitokie.** Niekada nelaukite, ar praeis; pasitikrinti yra būtent tai, ką reikia daryti, ir jūs niekam netrukdote.\n- Po netekties specializuotos akušerės ir netekties komandos yra šalia jūsų – priimant sprendimus, tvarkant praktinius reikalus ir išgyvenant gedulą. Jums nereikia nieko iš to išgyventi vienai, o kūdikio netektį patyrusiųjų paramos grupės jums prieinamos tiek, kiek jų prireiks.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stresas, gyvenimas ir menstruacijos",
+      "aliases": [
+        "stresas ir mėnesinės",
+        "stresas",
+        "negavau mėnesinių",
+        "vėluoja mėnesinės",
+        "kodėl vėluoja mėnesinės",
+        "praleistos mėnesinės"
+      ],
+      "glance": "Stresas, dideli svorio pokyčiai ar labai daug sporto gali pavėlinti ar sustabdyti mėnesines – dažnai tik laikinai.",
+      "overview": "Dažnai pasitaiko, kad mėnesinės vėluoja arba kurį mėnesį jų visai nebūna, ir priežastis dažniau susijusi su gyvenimu, o ne su kokia nors liga. Dažna priežastis – stresas: ta pati sistema, kuri reaguoja į įtampą, gali paveikti ciklą valdančius hormonus.\n\nMėnesines gali paveikti ir kiti kasdieniai dalykai: didelis svorio pokytis (priaugus ar numetus), labai daug sporto ar išsekimas. Priežastis taip pat gali būti hormonų pokyčiai – pavyzdžiui, artėjanti perimenopauzė ar tokios būklės kaip policistinių kiaušidžių sindromas (PCOS) – taip pat nėštumas ir kai kurios kontracepcijos priemonės. Dažnai tarpas tarp mėnesinių tiesiog kartkartėmis šiek tiek svyruoja, ir tai normalu.\n\nRamina tai, kad pavienis mėnesinių vėlavimas ar vieno mėnesio praleidimas paprastai nėra priežastis nerimauti, ir viskas dažnai susitvarko, kai nurimsta gyvenimas. Verta stebėti ne vieną mėnesį, o pokyčių tendenciją.",
+      "deep": null,
+      "when_to_see_doctor": "Kreipkitės į šeimos gydytoją, jei:\n\n- **tris kartus iš eilės** negavote mėnesinių arba jos tapo **nereguliarios**\n- mėnesinės **liovėsi** ir nežinote, kodėl (jei galite būti nėščia, pirmiausia verta pasidaryti testą)\n- kartu su dingusiomis mėnesinėmis atsiranda ir kitų pokyčių – pavyzdžiui, netikėti svorio pokyčiai, nuovargis, gausesnis plaukų augimas ar prislėgta nuotaika\n\nŠie patikrinimai skirti tiesiog suprasti, kas slypi už pokyčio – paprastai tai kažkas, ką galima suvaldyti.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Pagalba jai menstruacijų metu",
+      "aliases": [
+        "pagalba jai per mėnesines",
+        "kaip palaikyti partnerę per mėnesines",
+        "rūpestis per mėnesines",
+        "mėnesinės partneriams"
+      ],
+      "glance": "Mėnesinės gali atnešti tikrą skausmą ir nuovargį – smulkus, praktiškas rūpestis labai padeda.",
+      "overview": "Mėnesinės – tai ne tik kelios kraujavimo dienos; daugeliui moterų jas lydi spazmai, nugaros skausmas, galvos skausmas, nuovargis ir energijos stoka. Mėnesinių skausmai dažni ir gali tikrai išsekinti – tai ne perdėta. Elkitės taip, kaip elgtumėtės su sergančia partnere: praktiškai ir rūpestingai.\n\nTaip pat priimkite tai kaip normalų dalyką. Mėnesinės nėra šlykščios, gėdingos ar tabu. Kai be nepatogumo perkate higieninius paketus ar tamponus, laikote jų namuose ar be jokio triukšmo paduodate jai šildyklę, ji jaučiasi saugi ir palaikoma.",
+      "deep": "Paprasti dalykai, kurie padeda:\n\n- **Šiluma ir poilsis.** Šildyklė ar šildanti pagalvėlė ant pilvo apačios palengvina spazmus; pasiūlykite ramų vakarą namuose.\n- **Perimkite dalį jos darbų.** Gaminkite, susitvarkykite, nueikite reikalų, nuvežkite ją – praktinė pagalba reiškia daugiau nei žodžiai.\n- **Turėkite atsargų.** Žinokite, kokias priemones ji naudoja, ir laikykite jų namuose, kad gausi diena niekada netaptų krize.\n- **Nuskausminamieji ir mėgstamas maistas**, jei ji to nori; sprendžia ji.\n- **Nespauskite jos dėl sekso ar energijos, kurios ji neturi.** Artumas gali būti tiesiog apsikabinimas ant sofos.",
+      "when_to_see_doctor": "Paskatinkite ją kreiptis į gydytoją (ir pasiūlykite nueiti kartu), jei mėnesinių skausmai **stiprūs, stiprėja arba trukdo jai kasdieniame gyvenime**, jei mėnesinės **labai gausios** (kas valandą visiškai permirksta higienos priemonės, išsiskiria dideli krešuliai) arba jei skausmas naujas ir neįprastas – tai gali rodyti tokias ligas kaip endometriozė, kurioms reikia tinkamos priežiūros.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Pagalba smurtą patiriančiam asmeniui",
+      "aliases": [
+        "kaip padėti smurtą patiriančiam",
+        "padėti draugei",
+        "kaip padėti",
+        "smurtą patiriantis žmogus",
+        "kaip palaikyti"
+      ],
+      "glance": "Jei pažįstamas žmogus gali patirti smurtą, padeda išklausyti jį nesmerkiant ir žinoti, kur jį nukreipti.",
+      "overview": "Suprasti, kad jums brangus žmogus gali patirti smurtą, sunku, o noras padėti – geras instinktas. Naudingiausia pagalba dažnai būna pati paprasčiausia.\n\nIšklausykite ir patikėkite. Leiskite kalbėti savo tempu, nesmerkdami, nekaltindami ir neklausdami, ką jie padarė, kad taip nutiko. Aiškiai pasakykite, kad tai ne jų kaltė ir kad jie to nenusipelnė. Stenkitės nenurodinėti, ką daryti, ir nespauskite išeiti: sprendimas išeiti priklauso jiems, o skubotas išėjimas gali net padidinti pavojų – labiau padeda tai, kad jie jaustųsi palaikomi ir ne vieni.\n\nTai, ką jums pasako, laikykite paslaptyje. Kai jie bus pasirengę, švelniai padėkite rasti specializuotą pagalbą – pavyzdžiui, pagalbos liniją, tokią kaip **1522** Italijoje, ar vietinį pagalbos smurtą patiriantiems centrą – ir pasiūlykite praktinės pagalbos, pavyzdžiui, kartu surasti numerius ar pabūti šalia, kai jie skambins. Ir pasirūpinkite savimi; palaikyti kitą tokioje situacijoje gali būti sunku.",
+      "deep": null,
+      "when_to_see_doctor": "- Padrąsinkite juos (nespausdami) kreiptis į pagalbos liniją ar pagalbos smurtą patiriantiems centrą – ten jums abiem patars, ką daryti toliau. Galite pasiūlyti padėti paskambinti ar surasti numerį.\n- Jei jie sužeisti, šeimos gydytojas ar ligoninė gali padėti ir susieti juos su pagalbos tarnybomis.",
+      "red_flags": "- Jei jiems gresia **tiesioginis pavojus**, skambinkite skubiosios pagalbos tarnyboms: **112** ES (įskaitant Italiją), **999** Jungtinėje Karalystėje, **911** JAV ir Kanadoje.\n- Italijoje **1522** (nemokama, 24/7, anonimiška, keliomis kalbomis – telefonu arba pokalbiu internetu) taip pat gali patarti, kaip padėti kitam žmogui."
+    },
+    "the-coil": {
+      "title": "Spiralė (IUD ir IUS)",
+      "aliases": [
+        "spiralė",
+        "gimdos spiralė",
+        "IUD",
+        "IUS",
+        "varinė spiralė",
+        "hormoninė spiralė",
+        "gimdos vidinė priemonė",
+        "intrauterinė sistema",
+        "Mirena"
+      ],
+      "glance": "Spiralė – tai maža priemonė, įdedama į gimdą – varinė (IUD) arba hormoninė (IUS) – veikianti kelerius metus.",
+      "overview": "Spiralė – tai nedidelė priemonė, kurią gydytojas įdeda į gimdą. Yra dviejų rūšių spiralės, ir naudinga jas atskirti:\n\n- **IUD**, arba varinė spiralė, neturi hormonų. Varis pakeičia sąlygas gimdoje taip, kad spermatozoidai ir kiaušinėliai negalėtų gerai išgyventi, be to, jis veikia gimdos kaklelio gleives. Priklausomai nuo tipo, ji veikia maždaug 5–10 metų.\n- **IUS**, arba hormoninė spiralė, vietoj vario išskiria progestogeną. Ji sutirština gleives gimdos kaklelyje ir suplonina gimdos gleivinę; kai kurioms moterims ji taip pat gali gerokai sumažinti mėnesinių gausumą.\n\nAbu metodai yra „įdėk ir pamiršk“ tipo, abiejų veiksmingumas viršija 99 %, o skirtumas tarp idealaus ir įprasto naudojimo nedidelis. Nė vienas neapsaugo nuo lytiniu keliu plintančių infekcijų.",
+      "deep": "Spiralės yra ilgai veikiantys grįžtamieji kontracepcijos metodai: įdėtos jos veikia kelerius metus, o vaisingumas sugrįžta jas išėmus. Įdėjimą ir išėmimą atlieka apmokytas gydytojas, ir tai trunka vos kelias minutes, nors kai kurioms moterims įdėjimas būna nemalonus. Dažna priežastis, dėl kurios renkamasi tarp šių dviejų, yra jų poveikis mėnesinėms – varinė IUD iš pradžių gali padaryti mėnesines gausesnes, o hormoninė IUS dažnai jas sumažina. Kuri jums tinka, reikia aptarti su gydytoju; šiame straipsnyje tik paaiškinama, kaip veikia kiekviena.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Dienos prieš mėnesines",
+      "aliases": [
+        "PMS partneriams",
+        "padėti jai prieš mėnesines",
+        "pagalba prieš menstruacijas",
+        "lutealinės fazės palaikymas"
+      ],
+      "glance": "Prieš mėnesines ji gali jaustis labiau pavargusi, jautri ar prislėgta – reaguokite į tai kantriai, o ne juokais.",
+      "overview": "Maždaug savaitę prieš mėnesines daugelis moterų jaučia priešmenstruacinius simptomus: nuotaikos svyravimus, dirglumą ar prislėgtumą, nuovargį, krūtų skausmą, pilvo pūtimą, galvos skausmą ar miego sutrikimus. Tai labai dažna ir tai tikra – tai lemia natūralus hormonų pokytis lutealinėje fazėje, o ne tai, kad ji „perdeda“.\n\nNedidelei daliai moterų prislėgta nuotaika būna labai sunki (tokia būklė vadinama PMDD), ir joms reikia tikros paramos bei medicininės pagalbos. Bet kuriuo atveju jūsų užduotis – ne diagnozuoti ar „pataisyti“ ją, o būti ramiems ir maloniems.\n\nLabiausiai žalinga, ką partneris gali padaryti, – paversti tai ginklu: „tau tiesiog PMS“, akių vartymas ar jos jausmų nuvertinimas vien dėl datos. Tai ją menkina ir prideda skausmo ir taip sunkią savaitę. Jos jausmai vis tiek svarbūs, net jei hormonai čia irgi turi įtakos.",
+      "deep": "Kas šiomis dienomis iš tiesų padeda:\n\n- **Palengvinkite jos naštą.** Neprašomi perimkite namų ruošą, maisto gaminimą ar mintyse laikomą darbų sąrašą.\n- **Paguoda, o ne pamokymai.** Pasiūlykite šilumą, poilsį, šildyklę, jos mėgstamą maistą – ir leiskite jai jausti tai, ką ji jaučia.\n- **Pirmiausia išklausykite.** Jei ji nusiminusi, „skamba tikrai sunkiai“ visada geriau nei „nusiramink“.\n- **Neskaičiuokite, kas kam skolingas.** Sunkesnė diena nėra skola, kurią ji vėliau turės jums grąžinti.\n- **Paklauskite, ko jai reikia** – vienos nori artumo, kitos erdvės. Abu variantai normalūs; gerbkite jos atsakymą.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Dvyniai ir daugiavaisis nėštumas",
+      "aliases": [
+        "dvyniai",
+        "dvynių nėštumas",
+        "daugiavaisis nėštumas",
+        "laukiuosi dvynių",
+        "vienkiaušiniai dvyniai",
+        "dvikiaušiniai dvyniai",
+        "trynukai"
+      ],
+      "glance": "Dvynių nėštumas paprastai pirmą kartą nustatomas per nėštumo trukmės nustatymo ultragarsinį tyrimą ir reiškia šiek tiek daugiau nėštumo priežiūros.",
+      "overview": "Tai, kad laukiatės daugiau nei vieno kūdikio, paprastai pirmą kartą paaiškėja per **nėštumo trukmės nustatymo ultragarsinį tyrimą** (apie 12 savaitę), kurio metu taip pat galima pamatyti, ar kūdikiai turi bendrą placentą.\n\nYra dvi pagrindinės rūšys. **Vienkiaušiniai (identiški)** dvyniai išsivysto iš vieno apvaisinto kiaušinėlio, kuris pasidalija, todėl jų genai vienodi ir jie visada tos pačios lyties. **Dvikiaušiniai (neidentiški)** dvyniai išsivysto iš dviejų atskirų kiaušinėlių ir yra ne panašesni nei bet kurie kiti broliai ir seserys; jie pasitaiko dažniau, o jų tikimybė šiek tiek didesnė vyresniame amžiuje, jei motinos giminėje buvo dvynių arba po vaisingumo gydymo.\n\nDvynių ar daugiau kūdikių laukimas – savita patirtis, ir paprastai tai reiškia **šiek tiek daugiau nėštumo priežiūros** – papildomus vizitus ir ultragarsinius tyrimus, kad jūs ir jūsų kūdikiai būtumėte atidžiai stebimi. Jus prižiūrinčios akušerės paaiškins, ko tikėtis.",
+      "deep": null,
+      "when_to_see_doctor": "- Jei ultragarso tyrimo metu paaiškės, kad laukiate dvynių (arba daugiau vaikų), jūsų **akušerė** išsamiai paaiškins, kokie papildomi patikrinimai ir ultragarso tyrimai atliekami daugiavaisio nėštumo atveju – dalyvavimas visuose juose yra geriausias būdas užtikrinti, kad jums būtų skiriamas tinkamas dėmesys.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Jos ciklo supratimas",
+      "aliases": [
+        "ciklas partneriams",
+        "kaip veikia jos ciklas",
+        "partnerio gidas apie ciklą",
+        "kaip palaikyti ją per ciklą"
+      ],
+      "glance": "Jos organizmas veikia pagal mėnesinį ciklą, susidedantį iš keturių fazių – žinodami pagrindinius dalykus, galėsite jai padėti, nesiremdami spėjimais.",
+      "overview": "Menstruacinis ciklas – tai maždaug kas mėnesį pasikartojantis ritmas, kurio trukmė vidutiniškai siekia 28 dienas, tačiau dažnai svyruoja nuo 21 iki 35 dienų, o jai normaliu laikomas tas ciklas, kuris *jai* yra reguliarus. Jis susideda iš keturių fazių: **menstruacinės** fazės (menstruacijų), **folikulinės** fazės, **ovuliacijos** maždaug ciklo viduryje ir **lutealinės** fazės prieš kitas menstruacijas.\n\nEnergijos lygis, nuotaika, miegas ir lytinis potraukis gali kisti per šias fazes, nes hormonų lygis kyla ir krinta – tai biologinis reiškinys, o ne charakterio trūkumas ir ne priežastis iš jos juoktis. Kai kurios moterys prieš mėnesines jaučia akivaizdų energijos sumažėjimą, kitos to beveik nepastebi. Nėra vieno „teisingo“ būdo, kaip turėtų jaustis.\n\nNereikia tapti ekspertu. Labiausiai padeda paprasti dalykai: žinoti, kurioje ciklo fazėje ji apytiksliai yra (ši programėlė gali tai parodyti, jei ji leis), numatyti, kad kai kurios dienos bus sunkesnės nei kitos, ir paklausti jos, kas *jai* padeda, o ne daryti prielaidų.",
+      "deep": "Keli dalykai, kuriuos verta žinoti, kad spragų neužpildytų mitai:\n\n- **„Jai mėnesinės“ nėra įžeidimas ar paaiškinimas, kodėl su ja nesutinkate.** Naudoti jos ciklą jos jausmams nuvertinti („tau tiesiog hormonai šėlsta“) yra nepagarbu ir dažniausiai neteisinga. Jos priežastys vis tiek yra jos priežastys.\n- **Ciklas veikia ne tik mėnesines.** Spazmai, galvos skausmas, jautrios krūtys, energijos stoka ar prislėgta nuotaika – visa tai gali būti jo dalis. Praktinė pagalba geriau už patarimus.\n- **Ciklo stebėjimas priklauso jai.** Jei ji dalijasi savo ciklu su jumis, vertinkite tai kaip langą į tai, kaip ji gali jaustis – kvietimą būti maloniems, o ne įrankį ją sekti ar kontroliuoti.\n- **Jei abejojate, paklauskite.** „Kaip šiandien jautiesi? Ar galiu kuo nors padėti?“ vertingiau už bet kokią diagramą.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Makšties sausumas",
+      "aliases": [
+        "makšties sausumas",
+        "sausa makštis",
+        "sausumas",
+        "makšties atrofija",
+        "skausmas dėl sausumo"
+      ],
+      "glance": "Makšties sausumas yra dažnas reiškinys, dažnai susijęs su hormonais, ir gali sukelti skausmą ar diskomfortą lytinių santykių metu.",
+      "overview": "Makšties sausumas yra dažnas reiškinys, su kuriuo daugelis žmonių susiduria tam tikru gyvenimo etapu. Jis atsiranda, kai sumažėja įprastas drėgnumas, užtikrinantis makšties komfortą, ir gali pasireikšti skausmu, niežuliu ar nemaloniais pojūčiais, įskaitant skausmą ar diskomfortą lytinių santykių metu.\n\nTai dažnai siejama su hormonais, ypač su estrogeno kiekio sumažėjimu. Štai kodėl tai dažnai pasitaiko menopauzės ir perimenopauzės laikotarpiu, tačiau tai gali įvykti ir žindymo metu, vartojant kai kuriuos vaistus (pavyzdžiui, tam tikrus kontraceptikus ar antidepresantus) arba kai prieš lytinius santykius nepakanka susijaudinimo. Dėl to nereikia jaustis nepatogiai – tai fizinis reiškinys, o ne jūsų ar jūsų santykių atspindys.\n\nGeras pradžios taškas – žinoti, kad tai dažnas reiškinys ir paprastai labai gerai gydomas. Yra paprastų būdų, kurie gali padėti, o šeimos gydytojas ar vaistininkas gali patarti, kas jums tiktų.",
+      "deep": null,
+      "when_to_see_doctor": "Kreipkitės į šeimos gydytoją, jei:\n\n- jums kelia nerimą makšties sausumas arba jis neišnyksta po kelių savaičių\n- tai daro įtaką jūsų kasdieniam gyvenimui ar seksualiniam gyvenimui\n- taip pat pasireiškia neįprastos išskyros arba kraujavimas po lytinių santykių, tarp menstruacijų arba po menopauzės\n\nNereikia tiesiog su tuo susitaikyti – pagalba yra, o gydytojas gali išsiaiškinti, kas tai lemia ir kas galėtų palengvinti šią būklę.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Makšties ir išorinių lytinių organų sveikata",
+      "aliases": [
+        "makšties sveikata",
+        "vulvos sveikata",
+        "intymi higiena",
+        "intymi švara",
+        "makšties praplovimas",
+        "išskyros"
+      ],
+      "glance": "Makštis pati išsivalo — jai reikia tik švelnios išorinės priežiūros, o išskyros yra normalus reiškinys.",
+      "overview": "Vienas iš labiausiai raminančių dalykų yra tai, kad makštis pati rūpinasi savimi. Ji natūraliai išsivalo pati, o išskyros, kurias pastebite, yra to proceso dalis – skystis, kuris palaiko makšties švarumą ir drėgmę bei padeda apsaugoti ją nuo infekcijų. Išskyrų kiekis ir konsistencija kinta per visą ciklą, o tai yra visiškai normalu.\n\nDėl to makšties vidaus plauti nereikia. Tiesą sakant, jos vidaus plovimas – „makšties praplovimas“ – gali sutrikdyti natūralią pusiausvyrą. Išorė (vulva) reikalauja tik švelnios priežiūros: šilto vandens ir, jei norite, švelnaus, neparfumuoto muilo. Geriausia vengti parfumuotų muilų, gelių, dezodorantų ir kvapnių servetėlių, nes jie gali sukelti dirginimą.\n\nSužinojus, kas jums yra normalu – kokios yra įprastos išskyros, išvaizda ir pojūtis – lengviau pastebėti, jei kas nors pasikeičia ir gali prireikti patikrinimo.",
+      "deep": null,
+      "when_to_see_doctor": "Kreipkitės į šeimos gydytoją arba lytinės sveikatos kliniką, jei pastebite:\n\n- išskyrų pokytį – jų spalvos, kvapo ar konsistencijos, arba kai jų gerokai daugiau nei įprastai\n- niežulį, perštėjimą ar sudirginimą makšties ar vulvos srityje\n- kraujavimą tarp mėnesinių ar po lytinių santykių\n- skausmą šlapinantis arba skausmą apačioje tarp pilvo ir šlaunų (dubens skausmą)\n\nTai dažni ir dažnai lengvai gydomi dalykai – išskyrų pokytis gali reikšti tiesiog lengvą infekciją, pavyzdžiui, pienligę. Kad sužinotumėte tikrai, geriau, kad tai patikrintų gydytojas, nei spėlioti.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Ciklas ir jo fazės",
+      "summary": "Kaip jūsų ciklas pereina menstruacinę, folikulinę, ovuliacijos ir lutealinę fazes."
+    },
+    "hormones": {
+      "title": "Hormonai",
+      "summary": "Jūsų ciklą reguliuojantys hormonai – estrogenas, progesteronas, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Vaisingumas ir ovuliacija",
+      "summary": "Vaisingumo laikotarpis, ovuliacijos požymiai ir veiksniai, lemiantys vaisingumą."
+    },
+    "contraception": {
+      "title": "Kontracepcija",
+      "summary": "Kaip veikia įvairūs metodai – paprastais žodžiais."
+    },
+    "symptoms-and-signals": {
+      "title": "Simptomai ir kūno signalai",
+      "summary": "Skausmas, tepimas, išskyros, nuotaika – ką jūsų kūnas gali bandyti jums pasakyti."
+    },
+    "conditions": {
+      "title": "Ligos ir būklės",
+      "summary": "PCOS, endometriozė, gimdos miomos ir kitos – paaiškinta, pateikiant šaltinius."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Seksualinė ir intymi sveikata",
+      "summary": "Intymi sveikata, komfortas ir dažniausiai užduodami klausimai."
+    },
+    "life-stages": {
+      "title": "Gyvenimo etapai",
+      "summary": "Nuo pirmųjų mėnesinių iki perimenopauzės ir menopauzės."
+    },
+    "wellbeing": {
+      "title": "Savijauta ir ciklas",
+      "summary": "Kaip miegas, stresas ir kasdienis gyvenimas susiję su jūsų ciklu."
+    },
+    "tests-and-exams": {
+      "title": "Tyrimai ir patikros",
+      "summary": "Krūtų savikontrolė, gimdos kaklelio patikra, ovuliacijos testai ir kt."
+    },
+    "pregnancy": {
+      "title": "Nėštumas",
+      "summary": "Ankstyvi požymiai, geros savijautos palaikymas, pavojaus ženklai ir nėštumo netektis – paaiškinta, pateikiant šaltinius."
+    },
+    "for-partners": {
+      "title": "Partneriams",
+      "summary": "Kaip suprasti jos ciklą, gerai ją palaikyti ir kurti pagarba grįstus santykius."
+    },
+    "safety-and-support": {
+      "title": "Sauga ir pagalba",
+      "summary": "Kaip atpažinti smurtą, užtikrinti savo saugumą ir kur kreiptis pagalbos – su skubios pagalbos numeriais."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Supraskite savo ciklą per 5 žingsnius",
+      "summary": "Rami kelionė per visą ciklą ir kiekvieną iš keturių jo fazių."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Susipažinkite su ovuliacija",
+      "summary": "Kas yra ovuliacija, vaisingumo laikotarpis ir kokius ženklus duoda jūsų kūnas."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormonai, valdantys jūsų ciklą",
+      "summary": "Susipažinkite su keturiais hormonais pasiuntiniais, kurie valdo ciklą, ir sužinokite, ką daro kiekvienas iš jų."
+    }
+  }
+}

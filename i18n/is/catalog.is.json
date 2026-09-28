@@ -1,0 +1,1408 @@
+{
+  "_meta": {
+    "lang": "is",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Áfengi á meðgöngu",
+      "aliases": [
+        "áfengi á meðgöngu",
+        "drekka á meðgöngu",
+        "áfengi og meðganga",
+        "vín á meðgöngu",
+        "fósturskaði vegna áfengis",
+        "FASD"
+      ],
+      "glance": "Öruggast er að drekka ekkert áfengi á meðgöngu eða þegar þú ert að reyna að verða þunguð.",
+      "overview": "Ráðleggingar NHS eru skýrar og einfaldar: öruggast er að **drekka alls ekkert áfengi** ef þú ert barnshafandi eða að reyna að verða þunguð. Ef þú drekkur ekki heldur þú allri áhættu fyrir barnið í lágmarki.\n\nÁstæðan er sú að áfengi berst úr blóðinu þínu, í gegnum fylgjuna, til barnsins, en lifur þess er ekki nógu þroskuð til að vinna úr því. Áfengisdrykkja á meðgöngu getur valdið fósturskaða vegna áfengis (FASD), sem er safn ævilangra erfiðleika með nám, hegðun og þroska.\n\nEf þú drakkst áður en þú vissir að þú værir barnshafandi skaltu reyna að hafa ekki áhyggjur: áhættan fyrir barnið af litlu magni snemma á meðgöngu er líklega lítil. Það sem hjálpar er einfaldlega að sleppa áfengi það sem eftir er meðgöngunnar, héðan í frá.",
+      "deep": null,
+      "when_to_see_doctor": "- Ef þér finnst erfitt að hætta að drekka er það ekkert til að skammast sín fyrir: segðu ljósmóðurinni þinni eða heimilislækninum frá því. Þau geta veitt þér stuðning án þess að dæma þig, og að fá hjálp er gott bæði fyrir þig og barnið.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Mæðravernd",
+      "aliases": [
+        "mæðravernd",
+        "meðgönguvernd",
+        "eftirlit á meðgöngu",
+        "tími hjá ljósmóður",
+        "fyrsta skoðun í mæðravernd",
+        "skoðanir á meðgöngu",
+        "ómskoðun"
+      ],
+      "glance": "Mæðravernd er reglulegt eftirlit á meðgöngunni sem hjálpar til við að halda þér og barninu heilbrigðum.",
+      "overview": "Mæðravernd er umönnunin sem þú færð á meðgöngu til að halda þér og barninu eins heilbrigðum og mögulegt er. Yfirleitt hittir þú ljósmóður, og einnig lækni ef þörf er á. Það borgar sig að byrja snemma: hafðu samband við ljósmóður eða heimilislækni um leið og þú veist að þú ert barnshafandi.\n\nFyrsta eiginlega skoðunin, fyrsta viðtalið í mæðravernd, er yfirleitt á milli 8 og 12 vikna meðgöngu. Eftir það býðst þér reglulegt eftirlit: að minnsta kosti 10 skoðanir og 2 ómskoðanir ef þetta er fyrsta barnið þitt, eða um 7 ef þú hefur fætt barn áður, og fleiri undir lok meðgöngunnar.\n\nÍ þessum skoðunum mælir ljósmóðirin blóðþrýstinginn og athugar þvagið, mælir kúluna til að fylgjast með vexti barnsins, býður upp á skimunarpróf og ræðir við þig um hreyfingar barnsins og hvernig þér líður. Margt mikilvægt, eins og meðgöngueitrun eða meðgöngusykursýki, greinist hér áður en þú myndir sjálf taka eftir nokkru, og einmitt þess vegna skipta skoðanirnar máli.",
+      "deep": null,
+      "when_to_see_doctor": "- Hafðu samband við **ljósmóður eða heimilislækni um leið og þú kemst að því að þú ert barnshafandi** svo að umönnunin geti hafist snemma, helst í tæka tíð fyrir fyrstu skoðunina, áður en um það bil 10 til 12 vikur eru liðnar.\n- Reyndu að mæta í **allar** skoðanir í mæðravernd, jafnvel þótt þér líði fullkomlega vel: nokkrar mælingar eru einmitt hannaðar til að finna þögul vandamál snemma.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Hreyfingar barnsins",
+      "aliases": [
+        "hreyfingar barnsins",
+        "fósturhreyfingar",
+        "spörk",
+        "finna barnið hreyfa sig",
+        "minni hreyfingar",
+        "barnið hreyfir sig minna"
+      ],
+      "glance": "Að finna barnið hreyfa sig er merki um að því líði vel. Ef hreyfingarnar minnka eða breytast skaltu strax hringja í ljósmóðurina þína.",
+      "overview": "Að finna barnið hreyfa sig er eitt af þeim merkjum sem gefa til kynna að því líði vel. Flestar konur finna fyrstu hreyfingarnar einhvern tímann á milli 16. og 24. viku meðgöngu, oft seinna á fyrstu meðgöngu, svo það er algengt að það gerist ekki fyrr en eftir 20. viku í fyrsta skiptið.\n\nEkki er til neinn ákveðinn fjöldi hreyfinga sem þú „ættir“ að finna og engin þörf á að telja spörk upp í eitthvert markmið. Hvert barn er ólíkt og það sem skiptir máli er að kynnast venjulegu mynstri **þíns eigin** barns yfir daginn: hvenær það er virkt og hvenær það er rólegt.\n\nÞegar þú þekkir þetta mynstur er það breyting á því sem þú þarft að gefa gaum. Treystu því sem þú veist um þitt eigið barn.",
+      "deep": null,
+      "when_to_see_doctor": "Það að þekkja venjulegt mynstur barnsins er það sem gerir þér kleift að taka eftir breytingu. Ef þú ert einhvern tímann í vafa um hvort hreyfingarnar hafi minnkað eða breyst er alltaf rétt að hringja og láta kanna málið: þú ert aldrei að sóa tíma neins.",
+      "red_flags": "- Ef barnið **hreyfir sig minna en venjulega, hreyfingarnar breytast eða þú finnur það ekki hreyfa sig**, **hringdu strax í ljósmóðurina þína eða fæðingardeildina**, hvenær sem er sólarhringsins. **Ekki bíða til næsta dags**, jafnvel þótt það sé um miðja nótt.\n- Ekki treysta á hjartsláttartæki (doppler) heima eða app til að róa þig: farðu í skoðun hjá heilbrigðisstarfsfólki."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Bakverkir á meðgöngu",
+      "aliases": [
+        "bakverkir á meðgöngu",
+        "bakverkur á meðgöngu",
+        "verkur í mjóbaki á meðgöngu",
+        "mjóbaksverkur ólétt",
+        "bakverkur ólétt"
+      ],
+      "glance": "Bakverkir eru mjög algengir á meðgöngu þegar liðböndin mýkjast og kúlan stækkar, og eru yfirleitt skaðlausir.",
+      "overview": "Bakverkir eru með því algengasta sem fylgir meðgöngu. Þegar líkaminn býr sig undir fæðingu mýkjast liðböndin og teygjast á náttúrulegan hátt, og stækkandi kúlan breytir því hvernig þú berð þyngdina. Hvort tveggja veldur auknu álagi á mjóbakið og grindina.\n\nHversdagslegir hlutir geta linað verkina: að huga að líkamsstöðunni þegar þú stendur, situr og lyftir; flatbotna skór sem styðja vel við fótinn; stíf dýna eða koddi sem styður vel; og mild, regluleg hreyfing eins og göngur, meðgöngujóga eða æfingar á námskeiði. Ef verkirnir eru virkilega til trafala getur sjúkraþjálfari með sérþekkingu á meðgöngu gefið þér ráð sem henta þér.\n\nFlestir bakverkir á meðgöngu eru ekkert til að hafa áhyggjur af, en sum mynstur er rétt að láta lækni skoða fljótt, og til þess eru leiðbeiningarnar hér að neðan.",
+      "deep": null,
+      "when_to_see_doctor": "Hafðu fljótt samband við **heimilislækni eða ljósmóður** ef bakverkurinn:\n\n- er **mikill**, eða byrjar á **öðrum eða þriðja þriðjungi meðgöngu** (hann getur stundum verið merki um að fæðing sé að fara af stað of snemma)\n- er samfara **hita, blæðingu úr leggöngum eða verk við þvaglát**\n- er **í síðunni (annarri eða báðum), undir rifbeinunum**",
+      "red_flags": "- Hringdu í **{{emergency}} eða farðu á bráðamóttöku** ef þú **missir tilfinningu í fótleggjum, rasskinnum eða kynfærum**, eða missir stjórn á þvagblöðru eða hægðum. Þetta er sjaldgæft en krefst bráðameðferðar."
+    },
+    "basal-body-temperature": {
+      "title": "Grunnlíkamshiti",
+      "aliases": [
+        "grunnlíkamshiti",
+        "BBT",
+        "morgunhiti",
+        "líkamshiti á morgnana",
+        "hitamæling og egglos",
+        "hitaaðferð"
+      ],
+      "glance": "Grunnlíkamshiti er líkamshitinn þinn í hvíld á morgnana, og hann hækkar örlítið eftir egglos.",
+      "overview": "Grunnlíkamshiti (BBT) er hiti líkamans í algjörri hvíld. Ef hann er mældur á sama hátt á hverjum degi sýnir hann litla en skýra breytingu yfir tíðahringinn: eftir egglos hækkar hann örlítið og helst hærri fram að næstu blæðingum.\n\nHækkunin er lítil, um 0,2 til 0,4°C (u.þ.b. 0,4 til 0,8°F), svo hún sést á mynstri yfir nokkra daga en ekki af einni mælingu. Til að ná henni mælir þú hitann á hverjum morgni áður en þú ferð fram úr, borðar eða drekkur, helst á sama tíma. Um það bil þremur dögum eftir að hitinn byrjar að hækka hafa nánast allar konur þegar haft egglos.\n\nÞar sem hækkunin kemur *eftir* að eggið losnar staðfestir grunnlíkamshitinn að egglos hafi átt sér stað frekar en að spá fyrir um það fyrir fram. Yfir nokkra tíðahringi getur hann hjálpað þér að sjá lögun þíns eigin tíðahrings, þótt hann einn og sér sé ekki nákvæm leið til að hitta á frjósömu dagana.",
+      "deep": "Grunnlíkamshiti er eitt þeirra frjósemismerkja sem skráð eru daglega, ásamt leghálsslími og lengd tíðahringsins. Hann fer vel saman við að fylgjast með slíminu: þegar slímið verður tært og hált bendir það til þess að frjósemisglugginn sé að opnast, en hitahækkunin nokkrum dögum síðar staðfestir að egglosið sé afstaðið. Margt getur haft áhrif á hvíldarhitann, til dæmis lélegur svefn, veikindi, áfengi eða að sofa út, svo stakar undarlegar mælingar skipta minna máli en heildarþróunin.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Blæðing á meðgöngu",
+      "aliases": [
+        "blæðing á meðgöngu",
+        "blæðing úr leggöngum á meðgöngu",
+        "blettablæðingar á meðgöngu",
+        "blæðir ólétt",
+        "blæðing snemma á meðgöngu"
+      ],
+      "glance": "Blæðing á meðgöngu er ekki alltaf alvarleg og smáblæðingar eru algengar snemma á meðgöngu, en láttu alltaf lækni eða ljósmóður skoða hana.",
+      "overview": "Blæðing úr leggöngum á meðgöngu er ekki alltaf merki um að eitthvað sé að. Lítil blæðing eða blettablæðingar eru frekar algengar, sérstaklega snemma á meðgöngu, og margar meðgöngur halda áfram með fullkomlega eðlilegum hætti eftir það.\n\nSamt sem áður getur blæðing stundum verið merki um vandamál, til dæmis fósturlát eða utanlegsþungun, og því þarf **alltaf að láta skoða hana**, sama hversu mikil hún er. Með skoðun finnst orsökin og þú færð rétta umönnun fljótt ef þú þarft á henni að halda.\n\nÞar sem sama einkennið getur þýtt mjög ólíka hluti er gagnlega skrefið ekki að giska, heldur að hafa samband og fá skoðun.",
+      "deep": null,
+      "when_to_see_doctor": "- **Hafðu alltaf samband við fæðingardeildina** (eða, ef þú ert komin skemur en 20 vikur eða ert ekki með númerið þeirra, við móttöku fyrir snemmþungun eða **vaktlækni utan dagvinnutíma**) ef þú færð **einhverja** blæðingu úr leggöngum á meðgöngu, jafnvel litlar blettablæðingar, svo hægt sé að kanna orsökina.",
+      "red_flags": "- Hringdu í **{{emergency}} eða farðu á bráðamóttöku** ef þú ert með **mikla blæðingu**, til dæmis ef dömubindi verður gegnblautt skömmu eftir að þú setur það á þig, sérstaklega ef henni fylgja **miklir kviðverkir, verkur í axlarbroddi, ógleði, yfirliðstilfinning, sundl eða ef þú missir meðvitund.** Þetta krefst bráðameðferðar."
+    },
+    "breast-awareness": {
+      "title": "Að þekkja brjóstin sín",
+      "aliases": [
+        "þekktu brjóstin þín",
+        "sjálfsskoðun brjósta",
+        "skoða brjóstin",
+        "brjóstaskoðun",
+        "hnútur í brjósti",
+        "breytingar á brjóstum"
+      ],
+      "glance": "Að þekkja brjóstin sín snýst einfaldlega um að vita hvernig þau líta venjulega út og eru viðkomu, svo þú takir eftir breytingum.",
+      "overview": "Að þekkja brjóstin sín er engin sérstök tækni: það snýst bara um að kynnast því hvað er eðlilegt fyrir þig, svo að allt nýtt skeri sig úr. Ef þú skoðar brjóstin eða bringuna reglulega lærir þú hvernig þau líta venjulega út og eru viðkomu; einu sinni í mánuði er góður taktur.\n\nÞað er ekki til ein „rétt“ aðferð. Margar horfa í spegil, fyrst með hendur niður með síðum og svo uppréttar, og þreifa hvort brjóst fyrir sig, alveg upp í handarkrika. Það sem þú byggir upp er kunnugleiki, ekki sjúkdómsgreining: markmiðið er bara að taka snemma eftir breytingu ef hún verður.\n\nBrjóstin breytast líka náttúrulega yfir tíðahringinn og í gegnum lífið, svo sumar breytingar eru fullkomlega eðlilegar. Tilgangurinn er að þekkja þitt eigið eðlilega ástand nógu vel til að koma auga á það sem víkur frá því.",
+      "deep": null,
+      "when_to_see_doctor": "Leitaðu til heimilislæknis ef þú tekur eftir breytingu sem er ekki eðlileg fyrir þig, til dæmis:\n\n- hnút eða þrota í brjósti, bringu eða handarkrika\n- breytingu á húðinni, eins og inndrætti (húðin getur líkst appelsínuberki) eða roða\n- breytingu á stærð eða lögun annars eða beggja brjósta\n- vökva sem kemur úr geirvörtu (ef þú ert ekki barnshafandi eða með barn á brjósti), en í honum getur verið blóð\n- breytingu á útliti geirvörtunnar, til dæmis að hún dragist inn\n- verk í brjósti eða handarkrika sem hverfur ekki\n\nFlestar breytingar á brjóstum eru ekki krabbamein og reynast skaðlausar, en það er alltaf þess virði að láta lækni skoða breytingu fljótt, því ef eitthvað þarfnast meðferðar hjálpar að finna það snemma.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Brjóstagjöf",
+      "aliases": [
+        "brjóstagjöf",
+        "gefa brjóst",
+        "brjóstamjólk",
+        "barn á brjósti",
+        "næra barnið",
+        "mjólkurgjöf"
+      ],
+      "glance": "Brjóstamjólk ver barnið gegn sýkingum og breytist eftir því sem það vex, og hvaða magn sem er hefur ávinning.",
+      "overview": "Brjóstamjólk er náttúruleg og fullkomin fæða fyrir barn: hún veitir þá næringu, vítamín og steinefni sem það þarf og breytist með tímanum í takt við þroska þess. Hún hjálpar líka til við að verja barnið gegn sýkingum og veikindum og hefur ákveðinn heilsufarslegan ávinning til lengri tíma.\n\nÁvinningurinn nær líka til þeirrar sem gefur brjóst: brjóstagjöf tengist meðal annars minni hættu á brjóstakrabbameini og krabbameini í eggjastokkum. Almenna reglan er sú að því meira og lengur sem þú gefur brjóst, því meiri er ávinningurinn. Mikilvægt er að **hvaða** magn af brjóstamjólk sem er skiptir máli; þetta er ekki spurning um allt eða ekkert.\n\nBrjóstagjöf getur líka verið erfiðari en búist var við í fyrstu, og það er algengt. Hjálp er í boði, frá ljósmóðurinni, hjúkrunarfræðingi í ungbarnavernd og stuðningsþjónustu við brjóstagjöf á þínu svæði, svo það er gott ráð að leita sér hjálpar snemma ef hlutirnir ganga ekki vel.",
+      "deep": null,
+      "when_to_see_doctor": "- Biddu **ljósmóðurina eða hjúkrunarfræðinginn í ungbarnavernd** snemma um hjálp ef brjóstagjöfin er sársaukafull eða erfið, eða ef þú hefur áhyggjur af því að barnið fái ekki nóg; stuðningur getur skipt sköpum.\n- Hvernig þú nærir barnið þitt er persónuleg ákvörðun og stuðningur er í boði hvað sem þú velur; það sem skiptir máli er að þér og barninu líði vel.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Brún útferð",
+      "aliases": [
+        "brún útferð",
+        "brúnar blettablæðingar",
+        "brúnt blóð",
+        "gamalt blóð",
+        "dökk útferð",
+        "brúnt tíðablóð"
+      ],
+      "glance": "Brún útferð er yfirleitt örlítið blóð, oft á léttari dögum blæðinga. Brúnar blettablæðingar á öðrum tímum er rétt að láta lækni skoða.",
+      "overview": "Brún útferð er lítið magn af brúnleitu blóði eða vökva sem þú tekur eftir í nærbuxunum eða á klósettpappírnum. Margar konur sjá hana einhvern tímann og mjög oft er hún einfaldlega hluti af blæðingum.\n\nTíðablóð er ekki alltaf skærrautt. Á þyngstu dögunum er það yfirleitt rautt, en á léttari dögum getur það virst bleikt eða brúnt. Brúnleitur blær á léttari dögum blæðinga er því algengur og eðlilegur.\n\nBrúnn litur getur líka komið fram á öðrum tímum. Blettablæðingar eru litlir blettir af bleiku, rauðu eða brúnu blóði, og blettablæðingar á milli tíða eiga sér nokkrar algengar orsakir. Hormónagetnaðarvarnir, eins og pillan, eru ein algeng orsök. Aðrar eru meðal annars litlir vextir í eða við legið (eins og separ eða vöðvahnútar) og sýkingar eins og klamydía. Mjög snemma á meðgöngu taka sumar konur eftir smá blettablæðingu um það leyti sem blæðingar hefðu átt að byrja. Þetta kallast bólfestublæðing.\n\nÞar sem brúnar blettablæðingar utan blæðinga geta átt sér ólíkar orsakir, flestar smávægilegar, er gagnlega skrefið ekki að giska. Það er að láta lækni skoða þær, svo þú vitir hvað liggur að baki hjá þér.",
+      "deep": null,
+      "when_to_see_doctor": "- Leitaðu til heimilislæknis eða kynsjúkdómamóttöku ef þú ert með **brúnar blettablæðingar eða blæðingu á milli tíða eða eftir kynlíf**, jafnvel þótt hún sé lítil. Yfirleitt er það ekki alvarlegt, en það er alltaf þess virði að láta lækni skoða það.\n- Ef þú ert **barnshafandi, eða gætir verið það**, hafðu samband við fæðingardeildina, móttöku fyrir snemmþungun eða **vaktlækni utan dagvinnutíma** vegna hvers kyns blettablæðinga, líka brúnna, svo hægt sé að kanna orsökina.\n- Leitaðu til heimilislæknis ef þú tekur eftir **hvers kyns brúnni eða bleikri útferð eða blæðingu eftir tíðahvörf**, jafnvel þótt það sé aðeins lítið magn eða hafi aðeins gerst einu sinni.\n- Fáðu ráð hjá heimilislækni, kynsjúkdómamóttöku eða vaktlækni ef útferðin **breytir um lit, lykt eða áferð**, eða ef henni fylgir kláði, eymsli, verkur í grindarholi eða verkur við þvaglát.",
+      "red_flags": "- Biddu um **bráðatíma** hjá heimilislækni, eða hafðu samband við **vaktlækni utan dagvinnutíma**, ef **blæðingar hafa nýlega ekki komið á réttum tíma og þú ert með óvenjulega blæðingu ásamt verk í kvið eða grindarholi**. Þetta þarf að skoða fljótt, því það getur verið merki um utanlegsþungun.\n- Ef þú ert barnshafandi skaltu hringja í **{{emergency}}** ef þér blæðir og þú ert með **mikla kviðverki, verk í öxl, yfirliðstilfinningu, sundl eða ógleði, eða ef blæðingin er mikil** (dömubindi verður gegnblautt skömmu eftir að þú setur það á þig)."
+    },
+    "cervical-mucus": {
+      "title": "Leghálsslím",
+      "aliases": [
+        "leghálsslím",
+        "útferð",
+        "útferð úr leggöngum",
+        "slím frá leghálsi",
+        "eggjahvítuslím",
+        "frjósemisslím"
+      ],
+      "glance": "Leghálsslím er náttúruleg útferð sem breytist yfir tíðahringinn og gefur til kynna frjósömu dagana.",
+      "overview": "Leghálsslím er vökvinn sem leghálsinn myndar og þú gætir tekið eftir sem útferð. Það er eðlilegt, og útlit þess og áferð breytast eftir nokkuð fyrirsjáanlegu mynstri yfir tíðahringinn, og þess vegna er það eitt af merkjunum sem notuð eru til að finna frjósömu dagana.\n\nStrax eftir blæðingar koma oft nokkrir „þurrir“ dagar með litlu slími. Þegar egg byrjar að þroskast eykst slímið og er yfirleitt hvítt eða gult, skýjað og klístrað. Dagana rétt fyrir egglos verður það yfirleitt tært, blautt og hált og teygist á milli fingranna eins og hrá eggjahvíta; þetta er frjósamasti tíminn. Eftir egglos verður það yfirleitt aftur klístrað og skýjað, eða þornar upp.\n\nMynstrið er aðeins ólíkt hjá hverri og einni, og það getur tekið nokkra tíðahringi af athygli að læra á sitt eigið. Sumt, eins og hormónagetnaðarvarnir, brjóstagjöf eða sýking, getur breytt slíminu, svo það er ekki áreiðanlegt frjósemismerki hjá öllum.",
+      "deep": "Að lesa í leghálsslímið er eitt þeirra frjósemismerkja sem fylgst er með, ásamt líkamshita í hvíld og lengd tíðahringsins; yfirleitt tekur tvo til þrjá tíðahringi að læra á þau. Ólíkt hitahækkun, sem staðfestir egglos aðeins eftir að það hefur átt sér stað, kemur breytingin yfir í tært, hált slím sem líkist eggjahvítu yfirleitt fram *fyrir* egglos, og þess vegna er hún notuð til að gefa til kynna að frjósemisglugginn sé að opnast frekar en eftir að hann hefur lokast.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Leghálsskimun (frumustrok)",
+      "aliases": [
+        "leghálsskimun",
+        "frumustrok",
+        "krabbameinsskoðun",
+        "pap-próf",
+        "strok úr leghálsi",
+        "skimun fyrir leghálskrabbameini"
+      ],
+      "glance": "Leghálsskimun er reglubundin athugun á heilbrigði leghálsins sem hjálpar til við að koma í veg fyrir leghálskrabbamein.",
+      "overview": "Leghálsskimun er próf sem kannar heilbrigði leghálsins, opsins að leginu efst í leggöngunum. Þetta er ekki próf fyrir krabbameini. Það er frekar leið til að finna breytingar snemma og hjálpa til við að koma í veg fyrir að leghálskrabbamein myndist yfirhöfuð.\n\nÖllum sem eru með legháls er boðið í skimun frá 25 ára aldri til 64 ára. Þú færð boð þegar komið er að þér, með reglulegu millibili, svo þú þarft ekki að muna að panta tíma upp úr þurru, þótt það sé alltaf þitt val hvort þú mætir.\n\nSjálft prófið tekur stuttan tíma og hjúkrunarfræðingur framkvæmir það. Margar eru svolítið kvíðnar fyrir því, sem er fullkomlega skiljanlegt; að vita til hvers það er, reglubundin og fyrirbyggjandi athugun, getur gert það viðráðanlegra.",
+      "deep": null,
+      "when_to_see_doctor": "- Skimun er ætluð fyrir þegar þú ert **ekki** með einkenni. Ef þú tekur eftir einhverju sem veldur þér áhyggjum á milli skimana, eins og óvenjulegri blæðingu (á milli tíða, eftir kynlíf eða eftir tíðahvörf), skaltu leita til heimilislæknis frekar en að bíða eftir næsta boði.\n- Ef þér hefur verið boðið og þú ert óviss eða kvíðin fyrir að mæta er gott að ræða við heimilislækninn eða hjúkrunarfræðinginn á heilsugæslunni, sem geta útskýrt hvað fer fram og svarað spurningum þínum.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Ofbeldi gegn börnum og öryggi barna",
+      "aliases": [
+        "ofbeldi gegn börnum",
+        "ill meðferð á börnum",
+        "öryggi barna",
+        "vernda barn",
+        "áhyggjur af barni",
+        "vanræksla",
+        "barnavernd"
+      ],
+      "glance": "Ef þú hefur áhyggjur af því að barn verði fyrir skaða eða vanrækslu er rétt að leita ráða; þú þarft ekki að vera viss.",
+      "overview": "Ofbeldi gegn börnum, eða ill meðferð á börnum, er þegar einstaklingi undir 18 ára aldri er gert mein. Það nær yfir líkamlegt, kynferðislegt og andlegt ofbeldi og vanrækslu (þegar grunnþörfum barns er ekki mætt). Það er því miður algengt, getur valdið ævilöngum skaða og er aldrei barninu að kenna.\n\nÞú gætir haft áhyggjur af barni í lífi þínu, eða af barni sem þú hefur tekið eftir. Þú þarft hvorki að vera viss né hafa sannanir til að bregðast við þessum áhyggjum: að treysta þeim og leita ráða er einmitt það rétta að gera, og það getur verndað barn.\n\nOg ef þú varðst sjálf fyrir ofbeldi sem barn skaltu vita að skaðinn var aldrei þér að kenna og að stuðningur er einnig í boði fyrir þig, á hvaða aldri sem er.",
+      "deep": null,
+      "when_to_see_doctor": "- Ef þú hefur áhyggjur af barni getur þú haft samband við **barnavernd / félagsþjónustu**, sérstakan **hjálparsíma vegna barnaverndar** eða **heimilislækni, hjúkrunarfræðing í ungbarnavernd eða skóla barnsins** til að fá ráð, í trúnaði.\n- Þú ert ekki að „gera of mikið úr hlutunum“ með því að spyrja. Það er betra að kanna málið en að bíða.",
+      "red_flags": "- Ef barn er í **bráðri hættu** eða alvarlega slasað skaltu hafa samband við neyðarþjónustu strax: **112** í ESB (þar á meðal á Ítalíu), **999** í Bretlandi, **911** í Bandaríkjunum og Kanada."
+    },
+    "coercive-control": {
+      "title": "Þvingandi stjórnun",
+      "aliases": [
+        "þvingandi stjórnun",
+        "stjórnsemi",
+        "andlegt ofbeldi",
+        "sálrænt ofbeldi",
+        "einangrun",
+        "fjárhagslegt ofbeldi",
+        "gaslýsing"
+      ],
+      "glance": "Þvingandi stjórnun er mynstur stjórnandi hegðunar, eins og einangrunar, eftirlits og hótana, og er viðurkennt form ofbeldis.",
+      "overview": "Þvingandi stjórnun er tegund ofbeldis sem beitt er með stjórnun, í stað líkamlegs skaða eða samhliða honum. Hún er mynstur, ekki eitt rifrildi, þar sem ein manneskja takmarkar smám saman frelsi og sjálfsmynd annarrar.\n\nHún getur birst þannig að þú sért slitin úr tengslum við vini og fjölskyldu, að fylgst sé með símanum þínum, ferðum þínum eða eyðslu eða þeim settar skorður, að þér sé sagt hverju þú eigir að klæðast eða hvernig þú eigir að haga þér, eða að þú búir við stöðuga gagnrýni, hótanir eða ógnanir. Þar sem ekki er víst að marblettir séu til staðar getur verið erfitt að koma orðum að henni og aðrir sjá hana ef til vill ekki, en hún er viðurkennd sem ofbeldi og getur verið jafn skaðleg og líkamlegt ofbeldi.\n\nEf þú kannast við eitthvað af þessu er það ekki merki um að þú sért of viðkvæm eða að þú hafir kallað þetta yfir þig. Stjórnandi hegðun er val sem hin manneskjan tekur. Að skilja hana fyrir það sem hún er getur verið fyrsta skrefið í átt að stuðningi.",
+      "deep": "Þvingandi stjórnun byggist oft upp hægt, og það er hluti af því sem gerir erfitt að koma auga á hana innan frá: smávægileg stjórnun verður eðlileg og sjálfsefinn vex. Hún tekur sinn toll af andlegri heilsu með tímanum. Að ræða málin við einhvern sem er þjálfaður í að skilja þessi mynstur getur hjálpað þér að sjá stöðuna skýrar og hugsa um hvað þú vilt gera næst, án þrýstings.",
+      "when_to_see_doctor": "- Miðstöð eða hjálparsími fyrir þolendur ofbeldis (á Ítalíu **1522**) getur farið yfir það sem þú ert að upplifa með þér, í trúnaði og þér að kostnaðarlausu, og hjálpað þér að skilja hvaða möguleika þú hefur; þú þarft ekki að vera í líkamlegri hættu til að leita til þeirra.\n- Heimilislæknir eða ráðgjafi getur líka stutt þig og vísað þér á sérhæfða þjónustu.",
+      "red_flags": "- Ef þú ert í **bráðri hættu** skaltu hafa samband við neyðarþjónustu strax: **112** í ESB (þar á meðal á Ítalíu), **999** í Bretlandi, **911** í Bandaríkjunum og Kanada.\n- Á Ítalíu er **1522** gjaldfrjáls, opinn 24 tíma á sólarhring, nafnlaus og á mörgum tungumálum, í síma eða á netspjalli."
+    },
+    "combined-pill": {
+      "title": "Samsetta pillan",
+      "aliases": [
+        "samsetta pillan",
+        "pillan",
+        "getnaðarvarnarpilla",
+        "samsett getnaðarvarnarpilla",
+        "p-pillan",
+        "COC"
+      ],
+      "glance": "Samsetta pillan er tafla sem tekin er daglega, inniheldur tvö hormón og virkar aðallega með því að koma í veg fyrir egglos.",
+      "overview": "Samsetta pillan er tafla sem tekin er daglega og inniheldur tvö hormón, afbrigði af estrógeni og prógestógeni sem líkjast þeim sem eggjastokkarnir mynda. Hún er ein þekktasta getnaðarvörnin.\n\nHún kemur í veg fyrir þungun á nokkra vegu í einu. Fyrst og fremst kemur hún í veg fyrir að eggjastokkarnir losi egg (egglos). Hún þykkir líka slímið í leghálsinum, sem gerir sáðfrumum erfiðara að komast í gegn, og þynnir legslímhúðina.\n\nHversu vel hún virkar veltur á því að hún sé tekin samkvæmt leiðbeiningum: hún er yfir 99% örugg við fullkomna notkun, en við venjulega, hversdagslega notkun, þegar pillur gleymast stundum eða eru teknar of seint, er hún um 91% örugg. Eins og flestar aðferðir veitir hún ekki vörn gegn kynsjúkdómum, svo sumar nota smokka líka.",
+      "deep": "Samsetta pillan er yfirleitt tekin eftir ákveðnu mynstri yfir mánuðinn, og hvernig á að taka hana, hverjum hún hentar og aukaverkanir hennar og áhætta eru atriði sem heilbrigðisstarfsmaður fer yfir þegar henni er ávísað; hún hentar ekki öllum. Þar sem hún er dagleg aðferð veltur raunveruleg virkni hennar mikið á rútínu. Þessi grein útskýrir hvað hún er og hvernig hún virkar; nánari atriði um að byrja á henni, taka hana eða hætta á henni er best að ræða við heimilislækni, hjúkrunarfræðing eða lyfjafræðing.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Algeng einkenni á meðgöngu",
+      "aliases": [
+        "algeng einkenni á meðgöngu",
+        "óþægindi á meðgöngu",
+        "brjóstsviði á meðgöngu",
+        "bakverkir á meðgöngu",
+        "bólgnir ökklar",
+        "hægðatregða á meðgöngu",
+        "verkir á meðgöngu"
+      ],
+      "glance": "Meðgöngu fylgja ýmsir smáverkir og breytingar; flest er eðlilegt, en sumt er rétt að láta skoða.",
+      "overview": "Meðganga felur í sér miklar breytingar fyrir líkamann og henni fylgir langur listi af hversdagslegum óþægindum. Flest þeirra eru algeng og ekki merki um að eitthvað sé að; þau eru einfaldlega hluti af því að ganga með barn.\n\nAlgeng óþægindi eru meðal annars bakverkir, brjóstsviði og meltingartruflanir, hægðatregða, gyllinæð, bólgnir ökklar, fætur og fingur, þreyta og slitróttur svefn, sinadráttur í fótum, höfuðverkur, yfirliðstilfinning og meiri útferð en venjulega. Margt af þessu lagast með einföldum ráðum sem létta á óþægindunum, og ljósmóðirin þín getur bent þér á hvað er öruggt ef eitthvað angrar þig.\n\nÞað sem kemur að gagni er að vita hvaða breytingar eru af venjulega taginu og hverjar er rétt að nefna, því nokkur einkenni, þótt þau séu sjaldgæfari, þarf að láta skoða frekar en að bíða eftir að þau líði hjá.",
+      "deep": null,
+      "when_to_see_doctor": "Flest af þessu er eðlilegt, en hafðu fljótt samband við **ljósmóðurina þína eða fæðingardeildina** ef eitthvað af eftirfarandi á við:\n\n- **blæðing úr leggöngum**, eða skyndileg gusa eða seytl af vökva úr leggöngum\n- **barnið hreyfir sig minna** en venjulega\n- **mikill höfuðverkur, sjóntruflanir eða skyndilegur bjúgur** í andliti, höndum eða fótum (hugsanleg merki um meðgöngueitrun)\n- **miklir kviðverkir eða verkir öðrum megin**, eða **hiti**\n- **kláði**, sérstaklega á höndum og fótum eða sem versnar á nóttunni (hann getur verið merki um lifrarsjúkdóm á meðgöngu sem þarf að skoða)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Smokkar",
+      "aliases": [
+        "smokkur",
+        "smokkar",
+        "verja",
+        "gúmmí",
+        "hindrunaraðferð",
+        "karlsmokkur"
+      ],
+      "glance": "Smokkar eru hindrunaraðferð og eina getnaðarvörnin sem veitir líka vörn gegn kynsjúkdómum.",
+      "overview": "Smokkur er þunn hindrun, yfirleitt úr latexi, eða úr plasti fyrir þá sem eru með latexofnæmi, sem settur er á getnaðarliminn við kynlíf. Hann virkar á einfaldan hátt: hann kemur í veg fyrir að sáðfrumur komist inn í leggöngin.\n\nÞað sem gerir smokka sérstaka meðal getnaðarvarna er að þeir eru **eina aðferðin sem veitir líka vörn gegn kynsjúkdómum, þar á meðal HIV.** Þess vegna eru þeir oft notaðir ásamt annarri aðferð: önnur aðferðin ver gegn þungun, og saman veita þær líka vörn gegn sýkingum.\n\nÞegar smokkar eru notaðir rétt í hvert skipti eru þeir um 98% öruggir gegn þungun. Við venjulega notkun, þegar þeir eru stundum notaðir rangt eða ekki í hvert skipti, fer hlutfallið niður í um 82%. Það sem skiptir sköpum er að nota smokk rétt og alltaf.",
+      "deep": "Þar sem smokkar eru notaðir í augnablikinu frekar en fyrir fram veltur raunveruleg virkni þeirra mjög á stöðugri og réttri notkun. Innri smokkar (kvensmokkar, sem settir eru inn í leggöngin) eru annar hindrunarkostur. Ólíkt flestum aðferðum þarf ekki lyfseðil fyrir smokkum og þeir fást víða, og tvíþætt hlutverk þeirra, vörn gegn þungun og kynsjúkdómum, er ástæðan fyrir því að þeir koma svo oft upp í umræðu um öruggara kynlíf.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Samþykki og virðing",
+      "aliases": [
+        "samþykki",
+        "virða mörk hennar",
+        "áhugasamt samþykki",
+        "já þýðir já",
+        "sjálfsákvörðunarréttur yfir eigin líkama",
+        "mörk í sambandi"
+      ],
+      "glance": "Samþykki er skýrt, frjálst og áhugasamt já, í hvert skipti, og það má draga til baka hvenær sem er.",
+      "overview": "Virðing byrjar á rétti hennar til að ráða yfir eigin líkama, alltaf. Samþykki fyrir nánd þýðir frjálst, upplýst og áhugasamt **já**. Þögn er ekki samþykki. Tregt „allt í lagi“ er ekki samþykki. Manneskja sem er sofandi, mjög drukkin eða undir þrýstingi getur ekki raunverulega veitt samþykki. Og já við einu, eða á einum degi, er ekki já við öllu eða við næsta skipti.\n\nSamþykki má draga til baka hvenær sem er, og „hættu“ eða „ekki í kvöld“ er fullnægjandi svar sem þarfnast engrar réttlætingar. Að þrýsta á hana, láta hana fá samviskubit, fara í fýlu þar til hún lætur undan eða líta á kynlíf sem eitthvað sem þú eigir inni er ekki í lagi: samband er ekki skuld.",
+      "deep": "Hvernig virðing lítur út í reynd:\n\n- **Spurðu, og athugaðu reglulega.** „Er þetta í lagi?“ og taktu eftir því hvernig hún bregst við, bæði í orðum og með líkamanum.\n- **Taktu „nei“ af háttvísi.** Engin fýla, enginn þrýstingur og engin refsing. Svar hennar er endanlegt.\n- **Áhugi skiptir máli.** Ef hún virðist óviss, hikandi eða bara að láta sig hafa það, hættu og spurðu.\n- **Hennar líkami, hennar ákvörðun**: um nánd, getnaðarvarnir, meðgöngu, heilsu sína, útlit sitt og val sitt. Þú hefur rödd í sameiginlegu lífi ykkar, en aldrei neitunarvald yfir líkama hennar.\n- **Virðing er dagleg.** Hvernig þú talar við hana og um hana og hvernig þú virðir mörk hennar í smáu er grunnurinn sem allt annað hvílir á.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Getnaðarvarnir",
+      "aliases": [
+        "getnaðarvarnir",
+        "getnaðarvörn",
+        "fjölskylduáætlun",
+        "koma í veg fyrir þungun",
+        "varnir"
+      ],
+      "glance": "Getnaðarvarnir eru ólíkar leiðir til að koma í veg fyrir þungun, og úr mörgum er að velja.",
+      "overview": "Getnaðarvarnir eru þær aðferðir sem notaðar eru til að koma í veg fyrir þungun. Þær eru margar og virka á ólíkan hátt: sumar nota hormón, sumar eru hindranir, sumar eru settar inn í legið og sumar byggjast á því að fylgjast með tíðahringnum.\n\nHversu vel aðferð virkar veltur mikið á því hvernig hún er notuð. Sumar aðferðir, eins og hormónastafurinn og lykkjurnar, þarf ekki að hugsa um eftir að þær eru komnar á sinn stað, og þær eru yfir 99% öruggar. Aðrar, eins og pillan eða smokkar, eru mjög öruggar við fullkomna notkun en aðeins síður við venjulega, hversdagslega notkun, því það er auðveldara að gleyma pillu eða nota smokk rangt.\n\nEitt er gott að vita: **aðeins smokkar veita líka vörn gegn kynsjúkdómum**. Hinar aðferðirnar koma í veg fyrir þungun en ekki sýkingar, og þess vegna eru smokkar stundum notaðir ásamt annarri aðferð.\n\nÞað er engin ein „besta“ aðferð: sú rétta fer eftir heilsu þinni, líkama þínum og því sem hentar lífi þínu. Heimilislæknir eða kynheilbrigðismóttaka getur farið yfir möguleikana með þér og hjálpað þér að velja.",
+      "deep": "Þar sem aðferðirnar eru svo ólíkar hjálpar að hugsa um hvað skiptir þig máli: hversu örugg aðferðin er, hvort hún krefst þess að þú munir eftir einhverju daglega, hversu lengi hún endist, hvort þú vilt hormón eða ekki og hvort vörn gegn kynsjúkdómum skiptir máli í þínum aðstæðum. Margar skipta um aðferð yfir ævina eftir því sem þarfirnar breytast. Þessi fræðslubanki lýsir því hvernig algengustu aðferðirnar virka svo að valið verði skýrara, en ákvörðunina, og allar lyfjaávísanir eða ísetningar, á að taka með heilbrigðisstarfsmanni.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Getnaðarvarnir og þyngd",
+      "aliases": [
+        "fitnar maður af pillunni",
+        "pillan og þyngdaraukning",
+        "getnaðarvarnir og þyngdaraukning",
+        "þyngjast á pillunni",
+        "getnaðarvarnarsprauta og þyngd",
+        "hormónastafur og þyngdaraukning",
+        "þyngd og getnaðarvarnir"
+      ],
+      "glance": "Engar vísbendingar eru um að samsetta pillan valdi þyngdaraukningu, en getnaðarvarnarsprautan getur gert það. Það fer eftir aðferðinni.",
+      "overview": "Það er mjög algengt að velta fyrir sér hvort getnaðarvörnin muni valda því að þú þyngist. Heiðarlega svarið er að það fer eftir aðferðinni.\n\nHvað samsettu pilluna varðar eru rannsóknir traustvekjandi: engar vísbendingar eru um að hún valdi þyngdaraukningu. Það sama á við um getnaðarvarnarplásturinn og hringinn í leggöngum.\n\nGetnaðarvarnarsprautan er önnur saga. Þyngdaraukning er talin upp sem ein af algengum aukaverkunum hennar, ásamt breytingum á blæðingum.\n\nHvað varðar prógestógenpilluna (stundum kölluð minipillan) og hormónastafinn í handlegg segja sumar konur að þær hafi þyngst. En ekki eru til nægar rannsóknir til að segja til um hvort aðferðin sjálf sé orsökin.\n\nÞyngd er aðeins einn hluti myndarinnar. Hver aðferð hefur sinn eigin lista yfir mögulegar aukaverkanir og áhættu, og að velja getnaðarvörn snýst um að finna það sem hentar líkama þínum, heilsu og lífi. Lyfjafræðingur, heimilislæknir, hjúkrunarfræðingur eða kynheilbrigðismóttaka getur farið yfir möguleikana með þér.",
+      "deep": null,
+      "when_to_see_doctor": "- Ef aukaverkanir, þar á meðal breytingar á þyngd, eru vandamál fyrir þig skaltu ræða við lyfjafræðing, heimilislækni, hjúkrunarfræðing eða kynheilbrigðismóttöku. Með samsettu pillunni, plástrinum eða hringnum geta sumar aukaverkanir komið fram þegar þú byrjar. Ef þær angra þig enn eftir um það bil 3 mánuði getur heilbrigðisstarfsmaður rætt við þig um aðra pillu eða aðra tegund getnaðarvarnar.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Hormónastafur í handlegg",
+      "aliases": [
+        "hormónastafur",
+        "stafurinn",
+        "getnaðarvarnarstafur",
+        "stafur í handlegg",
+        "Nexplanon",
+        "implant"
+      ],
+      "glance": "Hormónastafurinn er lítill stafur sem komið er fyrir í upphandlegg og gefur frá sér hormón í nokkur ár.",
+      "overview": "Hormónastafurinn er lítill, sveigjanlegur stafur, á stærð við eldspýtu, sem þjálfaður heilbrigðisstarfsmaður kemur fyrir rétt undir húðinni á upphandleggnum. Þegar hann er kominn á sinn stað gefur hann jafnt og þétt frá sér hormónið prógestógen og virkar í allt að um það bil þrjú ár.\n\nHann kemur í veg fyrir þungun aðallega með því að hindra að eggjastokkarnir losi egg (egglos) og með því að þykkja slímið í leghálsinum svo sáðfrumur komist ekki í gegn. Þar sem ekkert þarf að muna frá degi til dags er hann ein af þeim aðferðum sem þarf ekki að hugsa um eftir að þær eru komnar á sinn stað.\n\nÞað er líka ástæðan fyrir því að hann er einn áreiðanlegasti kosturinn: hormónastafurinn er yfir 99% öruggur og virkni hans breytist varla milli fullkominnar og venjulegrar notkunar. Eins og aðrar hormónaaðferðir veitir hann ekki vörn gegn kynsjúkdómum.",
+      "deep": "Hormónastafurinn er langvirk aðferð sem hægt er að snúa við: hann virkar þar til hann er fjarlægður og frjósemin kemur aftur eftir að hann er tekinn. Ísetning og fjarlæging eru stuttar aðgerðir sem heilbrigðisstarfsmaður framkvæmir, sem fer líka yfir hverjum stafurinn hentar og hverjar aukaverkanirnar eru. Þessi grein útskýrir hvað hann er og hvernig hann virkar; ákvörðunina um að fá hann tekur þú í samtali við heimilislækni, hjúkrunarfræðing eða kynheilbrigðismóttöku.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Tíðahringurinn og vellíðan þín",
+      "aliases": [
+        "vellíðan",
+        "tíðahringur og heilsa",
+        "tíðir og heilsa",
+        "blæðingar og heilsa",
+        "lífsmark"
+      ],
+      "glance": "Tíðahringurinn er dálítið eins og mánaðarleg athugun á heilsunni þinni; breytingar á honum getur verið vert að taka eftir.",
+      "overview": "Tíðahringurinn er ekki aðskilinn frá restinni af heilsunni heldur tengdur henni. Tíðahringur sem er reglulegur hjá þér er almennt merki um að líkaminn starfi eins og hann á að gera. Þess vegna líta sumar á blæðingarnar sem eins konar mánaðarlegt merki um almenna vellíðan.\n\nDaglegt líf hefur áhrif á hann. Líkamsþyngd er eitt dæmi: að vera verulega undir eða yfir kjörþyngd getur haft áhrif á hormónin sem stýra egglosi, sem getur gert blæðingarnar óreglulegar. Þetta virkar í báðar áttir: að hugsa um grunnatriðin, eins og fjölbreytt mataræði og hreyfingu, styður við tíðahringinn, og stöðugur tíðahringur er merki um að þessir þættir séu í þokkalegu jafnvægi.\n\nÞetta snýst ekki um að eltast við „fullkominn“ tíðahring eða kenna sjálfri þér um breytingar. Það er einfaldlega þannig að mild athygli á tíðahringnum getur verið gagnlegur gluggi inn í það hvernig þér líður, og hvatning til að leita til heilbrigðisstarfsmanns ef eitthvað breytist.",
+      "deep": null,
+      "when_to_see_doctor": "- Leitaðu til heimilislæknis ef blæðingarnar verða óreglulegar, hætta eða breytast á þann hátt sem er ekki venjulegur hjá þér; viðvarandi breytingar geta stundum bent til einhvers sem vert er að skoða.\n- Það er líka þess virði að ræða málin ef vandamál tengd blæðingum hafa áhrif á daglegt líf þitt, svo þú getir fengið stuðning í stað þess að sætta þig bara við þau.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Fjárhagslegt ofbeldi",
+      "aliases": [
+        "fjárhagslegt ofbeldi",
+        "efnahagslegt ofbeldi",
+        "stjórn á peningum",
+        "stjórnar fjármálunum",
+        "skuldir á mínu nafni",
+        "peningar í sambandi"
+      ],
+      "glance": "Fjárhagslegt ofbeldi er þegar einhver stjórnar aðgangi annarrar manneskju að peningum, vinnu eða bjargráðum; það er viðurkennt form ofbeldis.",
+      "overview": "Fjárhagslegt ofbeldi er þegar einhver stjórnar aðgangi annarrar manneskju að peningum og því sem peningar geta keypt. Það er tegund stjórnandi hegðunar og fylgir oft öðrum tegundum ofbeldis.\n\nÞað getur birst þannig að hinn aðilinn stjórni öllum útgjöldum eða að þú þurfir að gera grein fyrir hverri krónu, að launin þín eða bæturnar séu tekin af þér, að stofnað sé til skulda í þínu nafni, að bankareikningum eða skjölum sé haldið frá þér eða að komið sé í veg fyrir að þú vinnir eða stundir nám. Þar sem það getur skilið manneskju eftir án bjarga til að fara eða til að komast af frá degi til dags er það ein af þeim leiðum sem ofbeldi getur orðið eins og gildra.\n\nEf eitthvað af þessu hljómar kunnuglega er það ekki merki um að þú sért „léleg með peninga“ eða að sökin sé þín. Að stjórna bjargráðum annarrar manneskju er val sem hin manneskjan tekur, og það er viðurkennt sem ofbeldi.",
+      "deep": null,
+      "when_to_see_doctor": "- Þjónusta fyrir þolendur ofbeldis getur líka hjálpað með þetta, ekki aðeins varðandi öryggi heldur líka með hagnýt og fjárhagsleg skref, í trúnaði og þér að kostnaðarlausu (á Ítalíu getur hjálparsíminn **1522** vísað þér á stuðning í nágrenninu).\n- Öryggisáætlun getur falið í sér að tryggja þér í kyrrþey aðgang að einhverjum peningum, mikilvægum skjölum og mikilvægum símanúmerum.",
+      "red_flags": "- Ef þú ert í **bráðri hættu** skaltu hafa samband við neyðarþjónustu strax: **112** í ESB (þar á meðal á Ítalíu), **999** í Bretlandi, **911** í Bandaríkjunum og Kanada.\n- Á Ítalíu getur **1522**, gjaldfrjáls, opinn 24 tíma á sólarhring, nafnlaus og á mörgum tungumálum, hjálpað í síma eða á netspjalli."
+    },
+    "ectopic-pregnancy": {
+      "title": "Utanlegsþungun",
+      "aliases": [
+        "utanlegsþungun",
+        "utanlegsfóstur",
+        "þungun í eggjaleiðara",
+        "utanlegs",
+        "fóstur utan legs"
+      ],
+      "glance": "Utanlegsþungun er þungun sem vex utan legsins; hún getur ekki haldið áfram og krefst skjótrar læknismeðferðar.",
+      "overview": "Utanlegsþungun er þegar frjóvgað egg tekur sér bólfestu utan legsins, oftast í öðrum eggjaleiðaranum. Því miður getur þungun á þessum stað ekki þróast í barn og ekki er hægt að færa hana inn í legið, svo hún þarfnast alltaf meðferðar.\n\nEinkenni koma yfirleitt fram á milli um það bil 4. og 12. viku og geta verið verkur neðarlega í kviðnum öðrum megin, blæðing úr leggöngum eða brún, vatnskennd útferð, verkur í axlarbroddi eða óþægindi við þvaglát eða hægðalosun. Samsetning einkennanna er breytileg og sum geta auðveldlega verið talin eitthvað smávægilegt, og þess vegna skiptir máli að láta lækni skoða þau.\n\nÞetta er óalgengt ástand en getur verið alvarlegt, svo það er ekki eitthvað sem á að bíða með. Ef þú leitar ráða snemma er hægt að annast það á öruggan hátt.",
+      "deep": null,
+      "when_to_see_doctor": "- Hafðu samband við heimilislækni eða **vaktlækni utan dagvinnutíma** ef þú ert með nokkur þessara einkenna saman **og gætir verið barnshafandi**, jafnvel þótt þungunarpróf hafi ekki verið jákvætt. Það er mikilvægt að leita ráða strax.",
+      "red_flags": "- Hringdu í **{{emergency}} eða farðu á bráðamóttöku** ef þú færð **skyndilegan, sáran og mikinn verk í kviðinn**, finnur fyrir **miklu sundli eða yfirliðstilfinningu**, ert **mjög föl** eða finnur fyrir ógleði ásamt þessu. Þetta getur þýtt að eggjaleiðarinn hafi rofnað, sem er bráðatilfelli sem krefst tafarlausrar meðferðar."
+    },
+    "emergency-contraception": {
+      "title": "Neyðargetnaðarvörn",
+      "aliases": [
+        "neyðargetnaðarvörn",
+        "neyðarpilla",
+        "daginn-eftir-pillan",
+        "pillan daginn eftir",
+        "Postinor",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "Neyðargetnaðarvörn getur komið í veg fyrir þungun eftir óvarið kynlíf, og því fyrr, því betra.",
+      "overview": "Neyðargetnaðarvörn er leið til að koma í veg fyrir þungun eftir kynlíf án getnaðarvarnar, eða þegar venjulega aðferðin þín gæti hafa brugðist (gleymd pilla, smokkur sem rifnaði). Til eru tvær gerðir og tímasetningin skiptir máli fyrir þær báðar.\n\nSú fyrri er **neyðarpillan**. Af henni eru tvær tegundir: aðra (levónorgestrel) má taka allt að 3 dögum, eða 72 klukkustundum, eftir kynlíf, og hina (úlipristal asetat, vöruheiti ellaOne) allt að 5 dögum, eða 120 klukkustundum, eftir kynlíf. Seinni kosturinn er **koparlykkjan**, sem heilbrigðisstarfsmaður getur komið fyrir allt að 5 dögum eftir kynlíf; hún er áhrifaríkasta neyðargetnaðarvörnin og getur síðan verið áfram á sínum stað sem áframhaldandi getnaðarvörn ef þú vilt.\n\nFyrir allar þessar leiðir gildir að **því fyrr sem þú notar þær, því betur virka þær yfirleitt**, svo það borgar sig að bregðast fljótt við frekar en að bíða. Þú getur fengið neyðargetnaðarvörn í apóteki, hjá heimilislækni, á kynheilbrigðismóttöku eða á móttöku án tímapöntunar, oft án endurgjalds.",
+      "deep": null,
+      "when_to_see_doctor": "- Þar sem tíminn skiptir máli skaltu ekki bíða: lyfjafræðingur getur útvegað neyðarpilluna fljótt, og kynheilbrigðismóttaka eða heimilislæknir getur komið koparlykkjunni fyrir.\n- Neyðargetnaðarvörn snýst um að koma í veg fyrir þungun, ekki sýkingu. Ef einhver möguleiki er á kynsjúkdómi getur kynheilbrigðismóttaka ráðlagt þér um próf.\n- Ef blæðingarnar koma síðan meira en nokkrum dögum of seint, eða eru mjög frábrugðnar því sem venjulegt er, er rétt að taka þungunarpróf og ræða við heilbrigðisstarfsmann.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Legslímuflakk (endómetríósa)",
+      "aliases": [
+        "legslímuflakk",
+        "endómetríósa",
+        "endo",
+        "endometriosis",
+        "miklir túrverkir",
+        "legslímuvilla"
+      ],
+      "glance": "Legslímuflakk er sjúkdómur þar sem vefur líkur legslímhúðinni vex utan legsins og veldur oft verkjum.",
+      "overview": "Legslímuflakk er langvinnur sjúkdómur þar sem frumur sem líkjast slímhúð legsins vaxa annars staðar í líkamanum, til dæmis í kringum eggjastokkana, í grindarholinu eða við þarmana. Það er algengt: talið er að það hrjái um 1 af hverjum 10 konum á barneignaraldri um allan heim.\n\nÞar sem þessi vefur hegðar sér svipað og legslímhúðin getur hann valdið bólgu og með tímanum örvef. Algengasta einkennið er verkur: oft miklir túrverkir, en einnig verkir í grindarholi eða mjóbaki á öðrum tímum, verkir við eða eftir kynlíf og verkir við þvaglát eða hægðalosun. Mjög miklar blæðingar, djúp þreyta, depurð og erfiðleikar við að verða þunguð eru líka algeng. Einkennin eru mjög breytileg: sumar eru með mikla verki, aðrar litla.\n\nLegslímuflakk er oft misskilið og það getur tekið mörg ár að greina það, meðal annars vegna þess að túrverkir eru svo oft afgreiddir sem „eðlilegir“. Miklir verkir sem raska lífi þínu eru ekki eitthvað sem þú þarft bara að sætta þig við: það er þess virði að taka þá alvarlega.",
+      "deep": "Nákvæm orsök legslímuflakks er ekki þekkt og eins og er er engin lækning til, en meðferðir geta hjálpað til við að halda einkennunum í skefjum, og stuðningurinn nær frá lyfjum til, hjá sumum, skurðaðgerðar, ásamt hjálp við líkamlegt og andlegt álag. Ein stærsta áskorunin er töfin: að meðaltali getur tekið nokkur ár, stundum mörg, að fá greiningu. Það er hluti af ástæðunni fyrir því að það getur skipt svo miklu máli að halda skýra skrá yfir einkennin og fara aftur til heilbrigðisstarfsmanns ef ekki er hlustað á þig.",
+      "when_to_see_doctor": "Það er þess virði að leita til heimilislæknis ef:\n\n- þú ert með mikla túrverki sem koma í veg fyrir að þú getir sinnt venjulegum athöfnum\n- blæðingarnar eru mjög miklar, til dæmis ef þú þarft að skipta um dömubindi eða túrtappa á 1–2 klukkustunda fresti\n- þú ert með viðvarandi verki í grindarholi eða mjóbaki, verki við eða eftir kynlíf eða verki við þvaglát eða hægðalosun\n- þér gengur illa að verða þunguð\n- meðferð sem þú hefur þegar fengið hefur ekki hjálpað eða einkennin hafa versnað\n\nÞar sem það getur tekið tíma að greina legslímuflakk er allt í lagi að fara aftur ef einkennin eru ekki tekin alvarlega; skýr mynd af verkjunum yfir tíma hjálpar. Ef verkirnir eða miklu blæðingarnar hafa líka áhrif á skapið skaltu segja heimilislækninum frá því; það er hluti af myndinni og stuðningur er í boði.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrógen",
+      "aliases": [
+        "estrógen",
+        "östrógen",
+        "oestrogen",
+        "estradíól",
+        "kvenhormón"
+      ],
+      "glance": "Estrógen er lykilhormón sem hjálpar til við að undirbúa líkamann fyrir mögulega þungun í hverjum tíðahring.",
+      "overview": "Estrógen er eitt helsta hormónið á bak við tíðahringinn. Á fyrri hluta tíðahringsins (eggbúsfasanum) hækkar magn þess eftir því sem eggbú í eggjastokknum þroskast. Þessi hækkun þykkir slímhúð legsins og leiðir að egglosi.\n\nEstrógen hefur líka áhrif á hluti sem þú gætir tekið eftir frá degi til dags: orku, skap og breytingar á leghálsslími í kringum frjósömu dagana. Eftir egglos lækkar magn þess og breytist svo aftur, og það vinnur með öðru hormóni, prógesteróni, allan seinni hluta tíðahringsins.\n\nMagnið hækkar og lækkar náttúrulega í hverjum tíðahring og breytist líka á mismunandi æviskeiðum. Þetta er eðlilegt: þetta er takturinn sem líkaminn gengur eftir, ekki eitthvað sem þarf að „laga“.",
+      "deep": "Estrógen er ekki eitt efni heldur hópur skyldra hormóna (það virkasta í tíðahringnum er estradíól). Mest af því er myndað í eggjastokkunum, í eggbúinu sem er að vaxa. Regluleg hækkun þess og lækkun, ásamt prógesteróni og boðhormónum heilans, LH og FSH, er það sem knýr fasa tíðahringsins áfram. Þar sem estrógen snertir mörg kerfi líkamans geta náttúrulegar sveiflur þess komið fram á smávægilegan hátt allan mánuðinn; með því að fylgjast með lærir þú á þitt eigið mynstur í stað þess að bera það saman við „meðaltal“.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Hreyfing og tíðahringurinn",
+      "aliases": [
+        "hreyfing",
+        "líkamsrækt",
+        "æfingar",
+        "æfa á blæðingum",
+        "hreyfing og blæðingar",
+        "íþróttir og tíðahringur"
+      ],
+      "glance": "Þú getur verið virk allan tíðahringinn, og regluleg hreyfing getur dregið úr túrverkjum og fyrirtíðaspennu.",
+      "overview": "Þú getur stundað hreyfingu hvenær sem er í tíðahringnum. Sumar finna að þær hafa meiri orku og geta tekið aðeins meira á á ákveðnum tímum mánaðarins, og minni á öðrum; hvort tveggja er eðlilegt og hvorugt er ástæða til að hætta að hreyfa sig.\n\nRegluleg hreyfing getur í raun hjálpað við sumum einkennum tengdum blæðingum. Konur sem hreyfa sig reglulega fá oft færri sársaukafulla krampa, og hreyfing getur líka dregið úr fyrirtíðaeinkennum (PMS). Á orkuminni dögum telur mildari hreyfing samt: hún þarf ekki að vera kröftug til að vera þess virði.\n\nÞað er engin þörf á að skipuleggja lífið í kringum tíðahringinn og engin ein „rétt“ leið til að hreyfa sig. Að taka eftir eigin orkumynstri yfir mánuðinn getur einfaldlega hjálpað þér að skipuleggja þig á þann hátt sem þér líður vel með.",
+      "deep": null,
+      "when_to_see_doctor": "- Mjög mikil þjálfun, eða svo mikil hreyfing að líkaminn fær ekki næga orku, getur valdið því að blæðingar verði óreglulegar eða hætti alveg. Reglulegur tíðahringur er almennt merki um að allt gangi vel, svo það er þess virði að ræða við heimilislækni ef blæðingarnar verða óreglulegar eða hætta; þetta getur með tímanum tengst heilbrigði beina og hormóna.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Hreyfing á meðgöngu",
+      "aliases": [
+        "hreyfing á meðgöngu",
+        "æfingar á meðgöngu",
+        "líkamsrækt ólétt",
+        "að halda sér í formi á meðgöngu",
+        "meðgöngusund",
+        "meðgöngujóga"
+      ],
+      "glance": "Að vera virk er öruggt og gott á flestum meðgöngum, á mildan hátt og án þess að ofreyna þig.",
+      "overview": "Að halda sér virkri á meðgöngu er gott fyrir þig og er ekki hættulegt fyrir barnið; raunar getur gott líkamlegt form hjálpað þér að takast á við breytingarnar fram undan og fæðinguna. Þú þarft ekki að byrja á neinu kröftugu; að halda áfram venjulegri daglegri hreyfingu, svo lengi sem þér líður vel með hana, er fínn upphafspunktur.\n\nEinföld þumalputtaregla: þú ættir að geta **haldið uppi samræðum** á meðan þú hreyfir þig. Ef þú ert of móð til að tala skaltu draga úr. Mildir kostir eins og göngur, sund, meðgöngusund og meðgöngujóga henta flestum. Ef þú hreyfðir þig ekki mikið áður er þetta ekki rétti tíminn til að byrja á nýrri, erfiðri æfingaáætlun; byggðu þig frekar upp hægt og rólega.\n\nSumt er best að forðast eða nálgast með varúð, til dæmis að liggja flöt á bakinu eftir um það bil 16 vikur, snertiíþróttir, köfun og allt þar sem raunveruleg hætta er á að detta.",
+      "deep": null,
+      "when_to_see_doctor": "- Ráðfærðu þig við **ljósmóðurina þína** áður en þú byrjar á nýrri þolþjálfun, eða ef þú ert með heilsufarsvandamál eða áhyggjur varðandi meðgönguna.\n- **Hættu og leitaðu ráða** ef þér líður illa, finnur fyrir sundli eða verður mjög móð, eða ef þú færð einhverja verki, blæðingu eða samdrætti á meðan þú hreyfir þig.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Frjósemisglugginn",
+      "aliases": [
+        "frjósemisglugginn",
+        "frjósamir dagar",
+        "frjósömustu dagarnir",
+        "hvenær er ég frjósöm",
+        "frjósemistímabil"
+      ],
+      "glance": "Frjósemisglugginn eru þeir fáu dagar í hverjum tíðahring þegar kynlíf getur leitt til þungunar.",
+      "overview": "Frjósemisglugginn er stutta tímabilið í tíðahringnum þegar þungun er möguleg. Hann er til vegna tveggja tímasetninga sem passa ekki alveg saman: egg getur aðeins frjóvgast í um það bil 12 til 24 klukkustundir eftir að það losnar, en sáðfrumur geta lifað í líkamanum í nokkra daga, allt að um það bil viku, og beðið eftir eggi.\n\nSamanlagt þýðir þetta að glugginn opnast nokkrum dögum fyrir egglos og lokast um það bil degi eftir það. Í reynd ertu frjósömust á 2 til 3 dögunum fram að egglosi og á sjálfum egglosdeginum, því sáðfrumur geta þegar verið til staðar þegar eggið kemur.\n\nÞar sem egglos getur færst til milli tíðahringa færist frjósemisglugginn líka. Þess vegna er yfirleitt litið á hann sem nokkurra daga bil frekar en eina dagsetningu, og þess vegna er áreiðanlegra að fylgjast með merkjum yfir nokkra tíðahringi en að treysta á einn dagatalsútreikning.",
+      "deep": "Nákvæmu dagarnir eru ólíkir milli einstaklinga og milli mánaða, svo best er að meta gluggann út frá merkjum líkamans sjálfs frekar en fastri formúlu. Breytingar á leghálsslími benda til þess að glugginn sé að opnast þegar egglos nálgast, og hækkun á líkamshita í hvíld staðfestir, eftir á, að egglos sé afstaðið og glugginn hafi lokast. Egglospróf virka skrefi fyrr og nema þá skyndilegu aukningu gulbúsörvandi hormóns (LH) sem verður skömmu áður en eggið losnar.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Fyrstu blæðingarnar",
+      "aliases": [
+        "fyrstu blæðingar",
+        "fyrstu tíðir",
+        "byrja á túr",
+        "fyrsti túrinn",
+        "tíðabyrjun",
+        "byrja á blæðingum"
+      ],
+      "glance": "Fyrstu blæðingarnar koma yfirleitt í kringum 12 ára aldur, en allt frá um 8 til 17 ára er eðlilegt.",
+      "overview": "Fyrstu blæðingarnar, stundum kallaðar tíðabyrjun, eru þegar tíðahringurinn fer af stað í fyrsta sinn. Flestar byrja um 12 ára aldur, en allt frá um 8 til 17 ára er eðlilegt. Þær koma oft um það bil tveimur árum eftir að brjóstin byrja að þroskast.\n\nYfirleitt eru merki um að þær séu í nánd: hár fer að vaxa í handarkrikum og á kynfærasvæði, og smá tær eða hvít útferð kemur mánuðina á undan. Að vita af þessu fyrir fram getur gert það að verkum að fyrstu blæðingarnar koma minna á óvart.\n\nÍ byrjun eru blæðingar oft óreglulegar: bilið á milli getur verið langt eða stutt og það getur tekið líkamann nokkra mánuði, jafnvel eitt til tvö ár, að komast í stöðugri takt. Þegar það gerist koma blæðingarnar yfirleitt á um það bil 23 til 35 daga fresti og standa í um 2 til 7 daga. Óregla í byrjun er eðlileg og ekkert til að hafa áhyggjur af.",
+      "deep": null,
+      "when_to_see_doctor": "- Leitaðu til heimilislæknis ef blæðingar **eru ekki byrjaðar við 15 ára aldur**, eða við **13 ára aldur ef engin önnur merki um kynþroska eru komin fram** (eins og brjóstavöxtur eða líkamshár). Þetta er bara til að athuga hvort þroskinn sé eins og búist er við; yfirleitt er allt í lagi.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Fólínsýra og vítamín á meðgöngu",
+      "aliases": [
+        "fólínsýra",
+        "fólat",
+        "D-vítamín á meðgöngu",
+        "vítamín á meðgöngu",
+        "fæðubótarefni á meðgöngu",
+        "bætiefni á meðgöngu"
+      ],
+      "glance": "Fólínsýra fyrir og snemma á meðgöngu hjálpar til við að vernda barnið, auk D-vítamíns daglega.",
+      "overview": "Tvö fæðubótarefni skipta virkilega máli á meðgöngu og NHS mælir með þeim báðum.\n\n**Fólínsýra** er sú mikilvægasta. Að taka 400 míkrógramma töflu á hverjum degi, helst frá því áður en þú verður þunguð (um það bil þremur mánuðum fyrr) og til loka fyrsta þriðjungs meðgöngu, við 12 vikur, hjálpar til við að vernda barnið gegn taugagangagöllum eins og klofnum hrygg. Þar sem hún virkar svo snemma er hún eitt af því fáa sem vert er að byrja á *áður* en þungun verður ef þú ert að reyna.\n\n**D-vítamín** er hitt: mælt er með 10 míkrógramma töflu daglega alla meðgönguna og á meðan á brjóstagjöf stendur, til að styðja við bein og þroska barnsins.\n\nFyrir utan þessi tvö dugar hollt og fjölbreytt mataræði fyrir flestar þarfir; þú þarft ekki mikið af aukafæðubótarefnum. Eitt sem ber að forðast er **A-vítamín** (retínól): ekki taka fæðubótarefni sem innihalda það og forðastu lifur, því of mikið A-vítamín getur skaðað barnið.",
+      "deep": null,
+      "when_to_see_doctor": "- **Heimilislæknir, ljósmóðir eða lyfjafræðingur** getur hjálpað þér að velja rétt fæðubótarefni, og sumum er ráðlagt að taka **stærri skammt af fólínsýru** (til dæmis vegna sykursýki, hærri líkamsþyngdarstuðuls (BMI), ákveðinna lyfja eða fyrri meðgöngu þar sem barnið var með taugagangagalla), svo það er þess virði að spyrja, sérstaklega fyrir eða snemma á meðgöngu.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Eggbúsfasi",
+      "aliases": [
+        "eggbúsfasi",
+        "eggbússkeið",
+        "fyrri hluti tíðahringsins",
+        "follicular fasi"
+      ],
+      "glance": "Eggbúsfasinn er fyrri hluti tíðahringsins, þegar egg þroskast og legslímhúðin þykknar.",
+      "overview": "Eggbúsfasinn er fyrsti hluti tíðahringsins. Hann hefst á fyrsta degi blæðinga og stendur fram að egglosi. Nafnið kemur af eggbúinu, litla vökvafyllta belgnum í eggjastokknum sem geymir egg og lætur það vaxa á þessum tíma.\n\nÍ þessum fasa hækkar hormónið estrógen. Hækkandi estrógen gerir aðallega tvennt: það hjálpar eggbúi í eggjastokknum að þroskast og það þykkir slímhúð legsins og býr líkamann undir það ef þungun skyldi verða síðar í tíðahringnum.\n\nÞar sem estrógenið er að hækka taka sumar eftir meiri orku eða breytingum á leghálsslími þegar frjósömu dagarnir nálgast. Upplifun hverrar og einnar er ólík og ekkert af þessu þarf að „stjórna“: þetta er einfaldlega fyrri hluti tíðahringsins að sinna sínu.",
+      "deep": "Lengd eggbúsfasans getur verið breytileg milli tíðahringa, og það er hluti af ástæðunni fyrir því að heilir tíðahringir eru ólíkir milli kvenna og milli mánaða. Honum lýkur þegar hækkandi estrógen hjálpar til við að koma af stað losun eggs (egglosi). Þar sem síðustu dagar hans leiða að egglosi opnast frjósemisglugginn á þessum tíma, og þess vegna skiptir lok eggbúsfasans máli fyrir alla sem fylgjast með frjósemi sinni.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Matur sem ber að forðast á meðgöngu",
+      "aliases": [
+        "matur sem ber að forðast á meðgöngu",
+        "mataræði á meðgöngu",
+        "hvað má ekki borða ólétt",
+        "koffín á meðgöngu",
+        "listería",
+        "ostar á meðgöngu"
+      ],
+      "glance": "Flestur matur er í lagi á meðgöngu; fáeinar fæðutegundir er gott að forðast og gott er að halda koffíni í lágmarki.",
+      "overview": "Góðu fréttirnar eru að flestur matur er fullkomlega í lagi á meðgöngu. Aðeins fáeinar fæðutegundir er vert að forðast eða fara varlega með, aðallega til að forðast bakteríur eins og listeríu eða of mikið af ákveðnum vítamínum. Þegar þú þekkir stutta listann getur þú verið róleg varðandi allt hitt.\n\nNHS ráðleggur að fara varlega með:\n\n- **Suma osta**: mygluosta með hvítri skorpu eins og brie og camembert, og mjúka gráðosta, nema þeir séu hitaðir þar til gufa rýkur úr þeim; og allt sem er búið til úr **ógerilsneyddri** mjólk.\n- **Hrátt eða illa eldað kjöt**, kalt saltað eða reykt kjötálegg, **kæfu** og **lifur** (sem inniheldur mjög mikið af A-vítamíni).\n- **Hrá eða lin egg**, nema þau beri breska Lion-merkið.\n- **Sumar fisktegundir**: forðastu hákarl, sverðfisk og marlín, takmarkaðu túnfisk og borðaðu ekki meira en tvo skammta af feitum fiski á viku.\n- **Koffín**: haltu því undir um það bil 200 mg á dag (um það bil tveir bollar af skyndikaffi), og teldu líka með te, kóladrykki, orkudrykki og súkkulaði.",
+      "deep": null,
+      "when_to_see_doctor": "- Þetta eru almennar leiðbeiningar, ekki strangt mataræði: ef þú hefur spurningar um hvað er öruggt fyrir þig, eða sérstakar þarfir varðandi mataræði, getur **ljósmóðirin þín** farið yfir það með þér.\n- Ef þú hefur borðað eitthvað af listanum yfir það sem ber að forðast skaltu reyna að örvænta ekki; nefndu það við ljósmóðurina ef þú hefur áhyggjur eða líður illa.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Eggbúsörvandi hormón (FSH)",
+      "aliases": [
+        "FSH",
+        "eggbúsörvandi hormón",
+        "eggbússtýrihormón",
+        "follicle stimulating hormone"
+      ],
+      "glance": "FSH er hormón frá heilanum sem fær eggbú í eggjastokknum til að vaxa í byrjun hvers tíðahrings.",
+      "overview": "FSH, eggbúsörvandi hormón, er eitt af boðhormónunum sem koma tíðahringnum af stað. Það er myndað í litlum kirtli í heilanum (heiladinglinum) og, eins og nafnið segir, örvar það eggbú: örsmáu vökvafylltu belgina í eggjastokknum sem hver um sig geymir egg.\n\nSnemma í tíðahringnum hvetur FSH hóp þessara eggbúa til að byrja að vaxa. Þegar eggbú þroskast losar það meira estrógen, sem aftur þykkir slímhúð legsins til undirbúnings fyrir mögulega þungun. Yfirleitt verður eitt eggbú ráðandi og heldur áfram í átt að egglosi.\n\nFSH hækkar og lækkar sem hluti af eðlilegum sveiflum tíðahringsins. Þú finnur ekki beint fyrir FSH: það vinnur hljóðlega í bakgrunninum og undirbýr sýnilegri breytingar eggbúsfasans.",
+      "deep": "FSH vinnur í pari með gulbúsörvandi hormóni (LH); bæði eru losuð úr heiladinglinum í heilanum og saman knýja þau eggjastokkana í gegnum tíðahringinn. FSH stýrir fyrri helmingnum og lætur eggbúin vaxa, en skyndileg aukning LH síðar markar losun eggs um miðjan tíðahringinn. Þetta samspil er líka ástæðan fyrir því að frjósemismeðferðir nota lyf byggð á FSH: aukaskammtur af FSH hvetur nokkur eggbú til að þroskast í einu, frekar en það eina sem náttúrulegur tíðahringur myndar yfirleitt.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Meðgöngusykursýki",
+      "aliases": [
+        "meðgöngusykursýki",
+        "sykursýki á meðgöngu",
+        "hár blóðsykur á meðgöngu",
+        "sykurþolspróf",
+        "blóðsykur ólétt"
+      ],
+      "glance": "Meðgöngusykursýki er hækkaður blóðsykur á meðgöngu; hún finnst yfirleitt við skimun og gengur oft til baka eftir fæðingu.",
+      "overview": "Meðgöngusykursýki er hár blóðsykur (glúkósi) sem myndast á meðgöngu, þegar líkaminn nær ekki alveg að anna aukinni þörf fyrir insúlín. Hjá flestum hverfur hún aftur eftir að barnið fæðist.\n\nHún veldur yfirleitt **engum einkennum**, svo hún finnst með skimunarprófi sem boðið er upp á á meðgöngu (sykurþolspróf, oft í kringum 24. til 28. viku), sérstaklega ef þú ert með þætti sem auka líkurnar á henni, eins og hærri líkamsþyngd, sykursýki í fjölskyldunni, að hafa áður átt stórt barn eða ákveðinn þjóðernisuppruna.\n\nHún er vel viðráðanleg. Að halda blóðsykrinum innan heilbrigðra marka, með mataræði, hreyfingu og stundum lyfjum, allt undir leiðsögn heilbrigðisstarfsfólksins sem annast þig, dregur úr líkum á fylgikvillum fyrir þig og barnið, og þess vegna er þess virði að fylgjast vel með.",
+      "deep": null,
+      "when_to_see_doctor": "- Þiggðu **skimunarprófið** ef þér er boðið það: þar sem meðgöngusykursýki veldur yfirleitt engum einkennum er prófið leiðin til að finna hana.\n- Ekki bíða eftir prófinu ef þú tekur eftir mögulegum merkjum um háan blóðsykur, eins og miklum þorsta, tíðum þvaglátum, munnþurrki eða þreytu; nefndu þau við ljósmóðurina eða lækninn.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Hvar hægt er að fá hjálp",
+      "aliases": [
+        "fá hjálp",
+        "hvert á ég að leita",
+        "hjálparsímar",
+        "gagnleg símanúmer",
+        "miðstöð gegn ofbeldi",
+        "1522",
+        "neyðarnúmer"
+      ],
+      "glance": "Ókeypis hjálp í trúnaði er í boði; í neyðartilviki skaltu hringja í neyðarnúmerið þar sem þú ert, og á Ítalíu í 1522 hvenær sem er.",
+      "overview": "Ef þú verður fyrir ofbeldi þarftu ekki að takast á við það ein, og það skuldbindur þig ekki til neins að leita hjálpar. Til er fólk sem hefur það að starfi að hlusta og hjálpa, í trúnaði og án endurgjalds.\n\nÝmiss konar hjálp er í boði samhliða:\n\n- **Neyðarþjónusta**: ef hætta er yfirvofandi skaltu hringja í neyðarnúmerið þar sem þú ert (sjá hér að neðan).\n- **Landsbundinn hjálparsími**: á Ítalíu **1522**, gjaldfrjáls hjálparsími gegn ofbeldi og eltihrellingum: opinn 24 tíma á sólarhring, nafnlaus, á nokkrum tungumálum, í síma eða á netspjalli.\n- **Miðstöðvar gegn ofbeldi** (á Ítalíu *centri antiviolenza*): þjónusta í nærumhverfinu sem býður upp á ókeypis stuðning í trúnaði, gerð öryggisáætlunar og lögfræðilega og sálfræðilega aðstoð.\n- **Heilbrigðisþjónusta**: heimilislæknir eða bráðamóttaka sjúkrahúss, þar sem starfsfólk er í sífellt meira mæli þjálfað í að þekkja ofbeldi og koma þér í samband við stuðning.\n- **Fólk sem þú treystir**: vinur, vinkona eða ættingi sem þér finnst þú örugg hjá.\n\nÞú getur byrjað á því sem þér finnst viðráðanlegast og þú þarft ekki að hafa ákveðið neitt.",
+      "deep": null,
+      "when_to_see_doctor": "- Þú getur rætt við **heimilislækni eða starfsfólk sjúkrahúss** í trúnaði um það sem er að gerast; þau geta meðhöndlað áverka og komið þér í samband við sérhæfða þjónustu.\n- Ef auðveldara er að skrifa en tala er **netspjall 1522** önnur leið.",
+      "red_flags": "- Ef þú ert í **bráðri hættu** skaltu hafa samband við neyðarþjónustu strax: **112** í ESB (þar á meðal á Ítalíu), **999** í Bretlandi, **911** í Bandaríkjunum og Kanada.\n- **Ítalía:** **1522** (gjaldfrjálst, 24/7, nafnlaust, á mörgum tungumálum; símtal eða netspjall).\n- Númer hjálparsíma eru ólík milli landa. Appið getur sýnt númerin fyrir landið þitt, og á **findahelpline.com** er listi yfir hjálparsíma gegn ofbeldi um allan heim (síðan greinir landið þitt og er með hnapp til að fara hratt út af henni). Ef þú ert í ESB virkar **112** alls staðar."
+    },
+    "group-b-strep": {
+      "title": "Keðjukokkar af flokki B (GBS)",
+      "aliases": [
+        "GBS",
+        "keðjukokkar af flokki B",
+        "streptókokkar af flokki B",
+        "strep B á meðgöngu",
+        "GBS á meðgöngu",
+        "grúppu B streptókokkar"
+      ],
+      "glance": "Keðjukokkar af flokki B eru algeng og yfirleitt skaðlaus bakteríutegund; litla áhættan snýr að barninu í fæðingu og við henni er hægt að bregðast.",
+      "overview": "Keðjukokkar af flokki B (GBS) eru mjög algeng bakteríutegund sem margar konur bera, yfirleitt í leggöngum eða við endaþarm, án þess að vita af því og án þess að hún valdi nokkrum skaða. Þetta er ekki kynsjúkdómur og það er eðlilegt að bera hana.\n\nÁ meðgöngu skiptir hún aðeins máli vegna þess að það eru **litlar líkur** á að hún geti borist til barnsins í kringum fæðinguna og, í sjaldgæfum tilvikum, valdið því veikindum; þetta gerist í um það bil 1 af hverjum 1.750 meðgöngum. Hún finnst oft fyrir tilviljun, til dæmis í þvagprufu eða stroki úr leggöngum sem tekið er af öðrum ástæðum (NHS skimar ekki alla fyrir henni að staðaldri).\n\nÞað sem róar er að hún er vel viðráðanleg: ef vitað er um GBS dregur **sýklalyfjagjöf í æð í fæðingu** mjög úr líkunum á að barnið veikist.",
+      "deep": null,
+      "when_to_see_doctor": "- Ef þér er sagt að þú berir keðjukokka af flokki B, nú eða á fyrri meðgöngu, **láttu ljósmóðurina eða fæðingarteymið vita**, svo hægt sé að skipuleggja sýklalyfjagjöf í fæðingu. Þetta er einfalt skref sem skiptir raunverulegu máli.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Brjóstsviði og meltingartruflanir á meðgöngu",
+      "aliases": [
+        "brjóstsviði á meðgöngu",
+        "meltingartruflanir á meðgöngu",
+        "bakflæði á meðgöngu",
+        "bakflæði",
+        "nábítur",
+        "súr magi ólétt"
+      ],
+      "glance": "Brjóstsviði er mjög algengur á meðgöngu; hann er yfirleitt skaðlaus og lagast oft með litlum breytingum í daglegu lífi.",
+      "overview": "Brjóstsviði og meltingartruflanir, sviðatilfinning eða óþægindi fyrir brjósti, oft eftir máltíðir, eru mjög algeng á meðgöngu. Ástæðan er sú að meðgönguhormón mýkja vöðvann efst í maganum og, þegar líður á meðgönguna, þrýstir stækkandi barnið upp á við. Þetta er óþægilegt en ekki skaðlegt.\n\nLitlar breytingar hjálpa oft: að borða minni máltíðir oftar í stað stórra, sitja upprétt á meðan þú borðar og í smá stund á eftir, draga úr sterkum, feitum eða koffínríkum mat og drykk og borða ekki seint rétt fyrir svefninn. Sumum finnst þægilegra að sofa með höfuðið aðeins hærra.\n\nEf það dugar ekki getur **lyfjafræðingur** bent á sýrubindandi lyf sem óhætt er að nota á meðgöngu; það er gott fyrsta skref áður en þetta verður meira vandamál.",
+      "deep": null,
+      "when_to_see_doctor": "- Leitaðu til **heimilislæknis eða ljósmóður** ef einfaldar breytingar og lyf úr apóteki hjálpa ekki, eða ef þú átt **erfitt með að kyngja**, maturinn kemur ítrekað upp aftur, þú léttist án þess að ætla þér það eða ert með kviðverki; þetta er rétt að láta skoða frekar en að skrifa það á venjulegan brjóstsviða.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Miklar blæðingar",
+      "aliases": [
+        "miklar blæðingar",
+        "miklar tíðablæðingar",
+        "menorrhagia",
+        "mikil blæðing á túr",
+        "blóðkekkir",
+        "blæðir í gegn",
+        "langar blæðingar"
+      ],
+      "glance": "Miklar blæðingar þýða að þú missir mikið blóð í hverjum tíðahring; þær eru algengar, en það er þess virði að láta skoða þær ef þær hafa áhrif á þig.",
+      "overview": "Miklar blæðingar, á læknamáli menorrhagia, þýða að þú missir mikið blóð á blæðingum. Hjá sumum eru miklar blæðingar einfaldlega það sem er eðlilegt fyrir þær, en ef þær raska lífi þínu eða draga úr þér allan mátt er þess virði að skoða málið.\n\nNokkur merki um að blæðingarnar séu í meira lagi: að þurfa að skipta um dömubindi eða túrtappa á 1 til 2 klukkustunda fresti, að nota tvær tegundir af tíðavörum saman (eins og túrtappa og dömubindi), að blæða í gegn í föt eða rúmföt, að missa blóðkekki sem eru stærri en um það bil 2,5 cm (á stærð við 10 krónu pening) eða blæðingar sem standa lengur en 7 daga.\n\nAð missa mikið blóð mánuð eftir mánuð getur valdið þreytu eða mæði, því það getur leitt til járnskorts (blóðleysis). Mögulegar orsakir eru margar, allt frá vöðvahnútum eða sjúkdómum eins og legslímuflakki, adenómýósu eða PCOS til sumra lyfja, og oft finnst engin alvarleg orsök. Hvort sem er er yfirleitt hægt að hjálpa við miklum blæðingum, svo þær eru ekki eitthvað sem þú þarft bara að lifa með.",
+      "deep": null,
+      "when_to_see_doctor": "Leitaðu til heimilislæknis ef:\n\n- miklar blæðingar hafa áhrif á daglegt líf þitt\n- þér blæðir mikið í margar klukkustundir eða blæðingarnar standa lengi yfir\n- þú ert líka með mikla túrverki eða verki við kynlíf, þvaglát eða hægðalosun\n- þú færð blæðingu á milli tíða eða eftir kynlíf\n- þú ert oft þreytt eða móð (þetta getur verið merki um járnskort)\n\nHeimilislæknir getur leitað að orsök og farið yfir hvað gæti hjálpað.",
+      "red_flags": "- Leitaðu **tafarlaust** læknishjálpar, hafðu samband við lækni eða **vaktþjónustu utan dagvinnutíma**, eða hringdu í **{{emergency}}** / farðu á bráðamóttöku ef ástandið er alvarlegt, ef **blæðingin er svo mikil að eitt dömubindi eða fleiri verða gegnblaut á hverri klukkustund fáeinar klukkustundir í röð**, eða ef þú finnur fyrir **yfirliðstilfinningu, sundli eða mæði**. Þetta geta verið merki um að þú sért að missa of mikið blóð."
+    },
+    "lh": {
+      "title": "Gulbúsörvandi hormón (LH)",
+      "aliases": [
+        "LH",
+        "gulbúsörvandi hormón",
+        "gulbúsörvunarhormón",
+        "LH-toppur",
+        "luteinizing hormone"
+      ],
+      "glance": "LH er hormón frá heilanum sem eykst skyndilega um miðjan tíðahringinn og kemur af stað losun eggs úr eggjastokknum.",
+      "overview": "LH, gulbúsörvandi hormón, er boðberinn sem kemur egglosi af stað. Eins og FSH er það myndað í litlum kirtli í heilanum (heiladinglinum) og segir eggjastokknum hvenær hann eigi að losa egg.\n\nMestallan fyrri hluta tíðahringsins helst LH lágt. Svo, í kringum miðjan tíðahringinn, hækkar það skyndilega í því sem kallast LH-toppur. Þessi toppur er merkið sem fær eggjastokkinn til að losa eggið, egglosið, yfirleitt um það bil degi síðar.\n\nToppurinn er stutt og vel tímasett merki frekar en eitthvað sem þú tekur eftir á líðaninni. Þar sem hann kemur svo skömmu áður en eggið losnar er tímasetning LH-hækkunarinnar áreiðanlegt merki um frjósamasta hluta tíðahringsins.",
+      "deep": "LH vinnur með FSH, hormóninu sem lætur eggbúin vaxa fyrr í tíðahringnum. Á meðan FSH stýrir uppbyggingunni er LH-toppurinn vendipunkturinn: magnið byrjar að hækka um það bil einum og hálfum degi áður en eggið losnar og nær hámarki um hálfum degi áður. Eftir toppinn færist tíðahringurinn yfir í seinni hluta sinn. Þessi nákvæma tímasetning er ástæðan fyrir því að LH er svo gagnlegt merki fyrir alla sem fylgjast með egglosi, og ástæðan fyrir því að það er lykilatriði við skipulagningu frjósemismeðferða.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Að hlusta og veita tilfinningalegan stuðning",
+      "aliases": [
+        "hvernig á að hlusta",
+        "tilfinningalegur stuðningur fyrir maka",
+        "samskipti",
+        "að vera til staðar fyrir hana",
+        "styðja kærustuna",
+        "styðja konuna mína"
+      ],
+      "glance": "Oftast þarf hún að fá áheyrn, ekki lausn: hlustaðu fyrst og spurðu áður en þú gefur ráð.",
+      "overview": "Þegar einhver sem við elskum á erfitt er eðlilegt að vilja stökkva til og leysa málið. En oft hjálpar mest að finna að það sé raunverulega hlustað: að tilfinningar hennar séu skiljanlegar og að hún sé ekki ein með þær. Að leysa málið of hratt getur virkað eins og „tilfinningar þínar eru vandamál sem þarf að afgreiða“.\n\nGóð hlustun er færni sem allir geta lært. Hún snýst að mestu um athygli: að leggja frá sér símann, snúa sér að henni og leyfa henni að klára. Þú þarft ekki að vera sammála hverju atriði til að henni finnist hún njóta virðingar.",
+      "deep": "Hagnýtar leiðir til að vera til staðar:\n\n- **Hlustaðu til að skilja, ekki til að svara.** Leyfðu henni að tala án þess að grípa fram í eða undirbúa vörnina þína.\n- **Speglaðu það sem hún segir.** „Þetta hljómar virkilega streituvaldandi“ eða „Ég skil af hverju þetta særði þig“ er betra en „hættu bara að hafa áhyggjur af þessu“.\n- **Spurðu áður en þú gefur ráð.** „Viltu að ég hjálpi þér að hugsa þetta í gegn, eða viltu bara að ég hlusti?“\n- **Ekki taka það persónulega** þegar erfiður dagur snýst ekki um þig. Stöðugleiki er gjöf.\n- **Viðurkenndu þinn hlut.** Ef þú gerðir eitthvað rangt byggir einlæg afsökunarbeiðni, án „en“, upp traust á ný.\n- **Taktu eftir heildarmyndinni.** Ef hún virðist langvarandi niðurdregin, kvíðin eða ekki hún sjálf, hvettu hana mildilega til að leita sér stuðnings og bjóddu fram hjálp við að finna hann. Þú ert liðsfélagi, ekki meðferðaraðili.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Gulbúsfasi",
+      "aliases": [
+        "gulbúsfasi",
+        "gulbússkeið",
+        "seinni hluti tíðahringsins",
+        "luteal fasi"
+      ],
+      "glance": "Gulbúsfasinn er seinni hluti tíðahringsins, eftir egglos, þegar prógesterón hækkar.",
+      "overview": "Gulbúsfasinn er sá hluti tíðahringsins sem kemur á eftir egglosi og stendur þar til næstu blæðingar hefjast. Hann dregur nafn sitt af gulbúinu (corpus luteum), litlu fyrirbæri sem eggjastokkurinn myndar úr tóma eggbúinu eftir að eggið hefur losnað.\n\nÍ þessum fasa hækkar hormónið prógesterón. Hlutverk þess er að halda slímhúð legsins þykkri og stöðugri, svo að ef frjóvgað egg berst þangað hafi það stað til að taka sér bólfestu. Estrógen er líka hluti af myndinni og vinnur með prógesteróni.\n\nEf þungun verður ekki hrörnar gulbúið, prógesterón og estrógen lækka og slímhúðinni er ekki lengur viðhaldið, sem kemur næstu blæðingum af stað og byrjar nýjan tíðahring. Þetta er líka tímabilið þegar sumar taka eftir breytingum á skapi, svefni eða líkama fyrir blæðingar.",
+      "deep": "Gulbúsfasinn er yfirleitt aðeins stöðugri að lengd en fyrri hluti tíðahringsins og stendur oft í um það bil tvær vikur, þótt eðlilegur munur sé milli kvenna. Þar sem lok hans tengjast lækkun prógesteróns eru blæðingarnar í raun sýnilega merkið um að hormónamagnið hafi lækkað. Að fylgjast með líðan þinni yfir gulbúsfasann getur hjálpað þér að greina á milli þess sem er kunnuglegt mynstur hjá þér og þess sem er nýtt eða vert að ræða við heilbrigðisstarfsmann.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Tíðahvörf",
+      "aliases": [
+        "tíðahvörf",
+        "breytingaskeið",
+        "breytingaskeiðið",
+        "tíðalok",
+        "hitakóf"
+      ],
+      "glance": "Tíðahvörf eru þegar blæðingar hætta fyrir fullt og allt; þau eru náttúrulegt æviskeið sem yfirleitt verður á milli um 45 og 55 ára aldurs.",
+      "overview": "Tíðahvörf eru sá tímapunktur þegar blæðingar hætta varanlega. Þar sem blæðingar geta komið og farið um tíma fyrst er miðað við að tíðahvörfum sé náð þegar 12 mánuðir hafa liðið í röð án blæðinga. Þau verða yfirleitt á milli um 45 og 55 ára aldurs, þótt þau geti orðið fyrr eða seinna.\n\nÞau eru náttúrulegur hluti af því að eldast, ekki sjúkdómur. Þau verða þegar eggjastokkarnir draga úr starfsemi sinni og magn estrógens, lykilhormóns tíðahringsins, lækkar. Þessi hormónabreyting liggur að baki þeim breytingum sem margar taka eftir: hitakófum og nætursvita, breytingum á blæðingum í aðdragandanum, svefnerfiðleikum, sveiflum í skapi eða kvíða, heilaþoku, þurrki í leggöngum og verkjum.\n\nUpplifunin er gríðarlega ólík: sumar fara létt í gegnum þetta, öðrum finnst það erfitt, og einkennin geta staðið í nokkur ár. Ekkert af þessu þýðir að eitthvað sé að þér. Stuðningur og úrræði eru til, og að skilja hvað er að gerast er gott fyrsta skref.",
+      "deep": "Árin sem breytingarnar eiga sér stað í aðdraganda tíðahvarfa kallast breytingaskeið; tíðahvörfin sjálf eru einn tímapunktur (þessir 12 mánuðir án blæðinga) og tíminn eftir það er stundum kallaður tímabilið eftir tíðahvörf. Þar sem estrógen hefur líka áhrif á bein og hjarta til lengri tíma fylgjast heilbrigðisstarfsmenn með þeim ásamt daglegum einkennum. Ýmsar leiðir, allt frá lífsstíl til meðferða án hormóna og hormónameðferða, geta dregið úr einkennum, og hvað hentar fer eftir heilsu þinni, sögu og óskum, sem er eitthvað til að ræða við heilbrigðisstarfsmann.",
+      "when_to_see_doctor": "- Leitaðu til heimilislæknis ef einkenni tíðahvarfa valda þér vanlíðan eða hafa áhrif á daglegt líf og þú vilt fara yfir möguleikana.\n- Leitaðu **alltaf** til heimilislæknis ef þú færð **einhverja blæðingu úr leggöngum eftir 12 mánuði án blæðinga** (blæðingu eftir tíðahvörf). Oft er það ekkert alvarlegt, en það á alltaf að láta skoða það.\n- Það er líka þess virði að leita til læknis ef blæðingarnar verða meiri frekar en minni en áður, eða ef þær breytast á þann hátt sem veldur þér áhyggjum.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Tíðahringurinn",
+      "aliases": [
+        "tíðahringur",
+        "tíðahringurinn",
+        "mánaðarlegur hringur",
+        "blæðingahringur",
+        "lengd tíðahrings"
+      ],
+      "glance": "Tíðahringurinn er mánaðarlegi takturinn sem líkaminn gengur eftir til að búa sig undir mögulega þungun.",
+      "overview": "Tíðahringurinn er talinn frá fyrsta degi blæðinga, sem er dagur 1, fram að deginum áður en næstu blæðingar hefjast. Honum er stýrt af hormónum sem hækka og lækka eftir endurteknu mynstri í hverjum mánuði.\n\nTíðahringur er oft um 28 dagar, en það er bara meðaltal. Allt frá um 21 til 35 daga er eðlilegt og lengdin hjá þér getur verið örlítið breytileg milli mánaða. Það er gagnlegra að læra á eigið mynstur en að bera það saman við tölu.\n\nYfir tíðahringinn fer líkaminn í gegnum nokkur stig: blæðingarnar, aðdragandann að losun eggs, sjálfa losunina (egglos) og tímann á eftir. Hverju stigi er stýrt af hormónum, aðallega estrógeni og prógesteróni.",
+      "deep": "Allur tíðahringurinn er samtal milli heilans og eggjastokkanna, sem fer fram með hormónum. Á fyrri helmingnum hækkar estrógen á meðan eggbú með eggi þroskast í eggjastokknum og slímhúð legsins þykknar. Um miðjan tíðahringinn losnar egg. Á seinni helmingnum hjálpar prógesterón til við að halda slímhúðinni tilbúinni ef frjóvgað egg skyldi berast.\n\nEf þungun verður ekki lækka estrógen og prógesterón niður í lágt magn, slímhúðin losnar og kemur út sem blæðingar, og mynstrið byrjar upp á nýtt. Þar sem þessi hormón snerta mörg kerfi líkamans gætir þú tekið eftir smávægilegum breytingum frá degi til dags yfir mánuðinn; þetta er eðlilegur taktur tíðahringsins, ekki eitthvað sem þarf að „laga“.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Blæðingafasi (blæðingarnar)",
+      "aliases": [
+        "blæðingar",
+        "tíðir",
+        "túr",
+        "á túr",
+        "blæðingafasi",
+        "tíðablæðingar"
+      ],
+      "glance": "Blæðingarnar eru þeir fáu dagar sem blæðir í upphafi hvers tíðahrings, þegar legslímhúðin losnar.",
+      "overview": "Blæðingafasinn eru blæðingarnar, þeir dagar sem þér blæðir. Hann hefst á degi 1 í tíðahringnum, þegar magn estrógens og prógesteróns er orðið svo lágt að slímhúðinni sem byggðist upp inni í leginu er ekki lengur viðhaldið og hún losnar og fer út úr líkamanum um leggöngin.\n\nBlæðingar standa yfirleitt í um það bil 2 til 7 daga, og um 5 dagar eru algengastir. Blæðingin er oft mest fyrstu einn til tvo dagana og minni eftir það. Blæðingar byrja yfirleitt um 12 ára aldur, þótt það sé líka eðlilegt að byrja fyrr eða seinna.\n\nHvað er „eðlilegt“ er mjög breytilegt milli kvenna. Að fylgjast með eigin blæðingum hjálpar þér að taka eftir því hvað er venjulegt hjá þér, sem segir miklu meira en nokkurt meðaltal.",
+      "deep": "Blæðingin á blæðingum er slímhúð legsins (legslímhúðin) sem losnar eftir tíðahring þar sem þungun hefur ekki orðið. Hún markar bæði lok eins tíðahrings og upphaf þess næsta, og þess vegna er dagur 1 á blæðingum talinn sem dagur 1 í öllum tíðahringnum. Þegar blæðingunum lýkur byrjar estrógen að hækka aftur og líkaminn byrjar að byggja slímhúðina upp á ný fyrir næsta tíðahring.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Fósturlát",
+      "aliases": [
+        "fósturlát",
+        "missa fóstur",
+        "fósturmissir",
+        "fósturlát snemma á meðgöngu",
+        "missa meðgöngu"
+      ],
+      "glance": "Fósturlát er þegar meðganga endar fyrir 24. viku; það er algengt og nánast aldrei eitthvað sem þú ollir.",
+      "overview": "Fósturlát er þegar meðganga tapast á fyrstu 24 vikunum. Það er algengara en margir gera sér grein fyrir, og eitt það mikilvægasta að vita er að það orsakast nánast aldrei af neinu sem þú gerðir eða gerðir ekki; yfirleitt verður það vegna vandamáls í þroska meðgöngunnar sem enginn hafði stjórn á.\n\nAlgengustu merkin eru blæðing úr leggöngum og krampar eða verkur neðarlega í kviðnum. Blæðing snemma á meðgöngu þýðir ekki alltaf að fósturlát sé að eiga sér stað, því margar fá smá blæðingu og eiga síðan heilbrigða meðgöngu, en það á alltaf að láta skoða hana.\n\nHvernig sem missirinn verður eru tilfinningarnar sem fylgja honum raunverulegar og eðlilegar, og sorg eru eðlileg viðbrögð. Þú þarft ekki að ganga í gegnum þetta ein: stuðningur er í boði, frá ljósmóðurinni eða heimilislækninum og frá samtökum sem styðja fólk eftir fósturmissi.",
+      "deep": null,
+      "when_to_see_doctor": "- Hafðu samband við heimilislækni, ljósmóður eða móttöku fyrir snemmþungun (eða vaktlækni utan dagvinnutíma) ef þú færð **blæðingu eða blettablæðingu úr leggöngum á meðgöngu**, jafnvel þótt hún sé lítil og þú sért með lítinn eða engan verk, svo hægt sé að skoða það.\n- Spurðu hvar næsta **móttaka fyrir snemmþungun** er, en hún er einmitt ætluð fyrir þetta.",
+      "red_flags": "- Hringdu í **{{emergency}} eða farðu á bráðamóttöku** ef þú ert barnshafandi og færð **mikla kviðverki, verk í axlarbroddi, mikla blæðingu eða ef þú finnur fyrir yfirliðstilfinningu eða líður mjög illa**. Þetta geta verið merki um alvarlegt vandamál, eins og utanlegsþungun, sem krefst bráðrar meðferðar."
+    },
+    "morning-sickness": {
+      "title": "Morgunógleði",
+      "aliases": [
+        "morgunógleði",
+        "ógleði á meðgöngu",
+        "uppköst á meðgöngu",
+        "meðgönguógleði",
+        "alvarleg meðgönguógleði",
+        "hyperemesis",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "Ógleði eða uppköst eru mjög algeng snemma á meðgöngu og lagast yfirleitt í kringum 16. til 20. viku.",
+      "overview": "Ógleði eða uppköst eru mjög algeng snemma á meðgöngu. Þrátt fyrir nafnið „morgunógleði“ getur hún komið hvenær sem er dags eða nætur. Hjá flestum byrjar hún á fyrstu vikunum og lagast í kringum 16. til 20. viku.\n\nHún er óþægileg og hjá sumum hefur hún virkilega áhrif á daglegt líf, en venjuleg morgunógleði eykur ekki áhættu fyrir barnið. Að borða lítið í einu og oft, og finna út hvað hjálpar þér, getur gert hana bærilegri; ljósmóðir, heimilislæknir eða lyfjafræðingur getur bent á örugg úrræði ef þú átt erfitt.\n\nHjá fáeinum konum verður ógleðin mjög alvarleg (þetta kallast hyperemesis gravidarum, eða alvarleg meðgönguógleði), og þá er raunveruleg hætta á vökvaskorti. Það ástand krefst læknishjálpar; sjá merkin hér að neðan.",
+      "deep": null,
+      "when_to_see_doctor": "Hafðu samband við ljósmóðurina þína, heimilislækni eða vaktlækni utan dagvinnutíma ef þú:\n\n- kastar upp öllum mat og drykk og getur ekki haldið neinu niðri í 24 klukkustundir\n- ert með mjög dökkt þvag eða hefur ekki pissað í meira en 8 klukkustundir\n- finnur fyrir miklum slappleika, sundli eða yfirliðstilfinningu þegar þú stendur upp\n- ert með kviðverki, hita eða kastar upp blóði\n- ert að léttast",
+      "red_flags": "- Ef þú getur ekki haldið vökva niðri, heldur kastar honum upp aftur, og þvagið er mjög dökkt eða ekkert, getur það þýtt að þú sért að fá vökvaskort (alvarleg meðgönguógleði). **Hafðu samband við ljósmóðurina þína, heimilislækni eða vaktlækni utan dagvinnutíma samdægurs**, því þú gætir þurft meðferð til að koma í veg fyrir að ástandið versni."
+    },
+    "ovulation": {
+      "title": "Egglos",
+      "aliases": [
+        "egglos",
+        "losun eggs",
+        "frjósemisglugginn",
+        "hvenær er egglos",
+        "egglosverkur"
+      ],
+      "glance": "Egglos er þegar eggjastokkur losar egg; það er frjósamasti tími tíðahringsins.",
+      "overview": "Egglos er sú stund þegar eggjastokkur losar fullþroskað egg. Það er vendipunktur tíðahringsins: fyrri hlutinn byggist upp að því og seinni hlutinn fylgir í kjölfarið.\n\nÍ um það bil 28 daga tíðahring verður egglos oft í kringum dag 14, en tímasetningin er breytileg. Gagnlegt er að hugsa um það þannig að egglos verður yfirleitt einhvern tímann 10 til 16 dögum áður en næstu blæðingar hefjast. Það getur verið erfitt að finna nákvæmlega hvaða dagur það er.\n\nEftir að egg losnar getur það aðeins frjóvgast í um það bil 12 til 24 klukkustundir. Sáðfrumur geta hins vegar lifað í líkamanum í nokkra daga, svo „frjósemisglugginn“ er breiðari en einn dagur: um það bil nokkrir dagar fram að egglosi og sjálfur egglosdagurinn.",
+      "deep": "Losun eggsins er komið af stað með stuttri, snöggri hormónahækkun um miðjan tíðahringinn, í kjölfar uppbyggingar estrógens í eggbúsfasanum. Þar sem sáðfrumur geta lifað í nokkra daga en eggið lifir skemur en einn dag eru mestar líkur á þungun eftir kynlíf dagana rétt fyrir egglos. Egglos getur færst til milli tíðahringa, til dæmis vegna streitu eða veikinda, og þess vegna er erfitt að spá nákvæmlega fyrir um það og áreiðanlegra að fylgjast með nokkrum tíðahringjum en að treysta á einn útreikning.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Verkir við kynlíf",
+      "aliases": [
+        "verkir við kynlíf",
+        "sárt að stunda kynlíf",
+        "sársaukafullt kynlíf",
+        "samfaraverkir",
+        "dyspareunia",
+        "leggangakrampi",
+        "vaginismus"
+      ],
+      "glance": "Verkir við kynlíf eru algengir, geta átt sér margar orsakir og alltaf er þess virði að láta lækni skoða þá; hjálp er til.",
+      "overview": "Verkir við kynlíf, stundum kallaðir samfaraverkir (dyspareunia), eru algengari en margir gera sér grein fyrir, og þú þarft aldrei bara að sætta þig við þá. Orsakirnar geta verið margar og að finna réttu orsökina er lykillinn að því að draga úr verkjunum.\n\nSumar orsakir eru líkamlegar. Þurrkur í leggöngum er algeng orsök, oft tengd hormónum í kringum tíðahvörf eða ónógri örvun, og hann getur gert kynlíf aumt eða óþægilegt. Sýkingar, eins og sveppasýking í leggöngum, geta líka valdið verkjum. Önnur orsök er leggangakrampi (vaginismus), þegar vöðvarnir í kringum leggöngin herpast saman af sjálfu sér þegar reynt er að fara inn, sem getur gert kynlíf sársaukafullt eða virst ómögulegt. Þetta er ósjálfrátt, það er ekki „ímyndun“ og það er hægt að meðhöndla það.\n\nÞar sem orsökin getur verið líkamleg, hormónatengd eða tengst því hversu slök eða örvuð þú ert, og oft er um blöndu að ræða, er gagnlega skrefið að láta skoða þetta frekar en að giska eða harka af þér.",
+      "deep": null,
+      "when_to_see_doctor": "- Leitaðu til heimilislæknis eða kynheilbrigðismóttöku ef kynlíf er sársaukafullt; hver sem orsökin er er þess virði að láta skoða það, og til er árangursrík hjálp við algengum orsökum.\n- Það getur verið vandræðalegt að nefna þetta, en heilbrigðisstarfsfólk fæst oft við þetta og er til staðar til að hjálpa, ekki dæma. Þú getur beðið um kvenkyns lækni, tekið einhvern með þér og rætt hvað myndi gera skoðunina þægilegri fyrir þig.\n- Láttu endilega skoða allar blæðingar eftir kynlíf, og leitaðu fyrr til læknis, án þess að bíða, ef verkirnir eru miklir eða þér líður líka illa.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Verkjastilling í fæðingu",
+      "aliases": [
+        "verkjastilling í fæðingu",
+        "mænurótardeyfing",
+        "glaðloft",
+        "hláturgas",
+        "Entonox",
+        "fæðingarlaug",
+        "TENS"
+      ],
+      "glance": "Til eru ýmsar leiðir til að lina fæðingarverki; ekkert val er rétt eða rangt og þú getur skipt um skoðun.",
+      "overview": "Fæðing er ólík hjá hverri og einni, og til eru ýmsar leiðir til að takast á við verkina, allt frá einföldum ráðum sem auka vellíðan til læknisfræðilegra úrræða. Að vita fyrir fram hvað er í boði getur hjálpað þér að finnast þú betur undirbúin.\n\nKostirnir eru margir: allt frá því að **vera á hreyfingu og upprétt**, anda og slaka á, fá nudd og vera í **vatni** (baði eða fæðingarlaug), til **TENS-tækis**, **glaðlofts** (Entonox, sem þú andar sjálf að þér), **sprautna** eins og petidíns og **mænurótardeyfingar** (sem svæfingalæknir gefur og deyfir fæðingarverkina betur).\n\nEkkert eitt val er „best“: það fer eftir þér, fæðingunni og því hvernig þér líður á deginum sjálfum. Það er gott að skrá óskir þínar í **fæðingaráætlun** en halda um leið opnum huga: margar komast að því að þær vilja meiri, eða minni, verkjastillingu en þær bjuggust við, og það er fullkomlega í lagi.",
+      "deep": null,
+      "when_to_see_doctor": "- **Ljósmóðirin þín** (og, ef um mænurótardeyfingu er að ræða, svæfingalæknir) fer yfir möguleikana með þér og hjálpar þér að ákveða hvað hentar þér, bæði á meðgöngunni og aftur í sjálfri fæðingunni. Það er engin þörf á að ákveða allt fyrir fram.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (fjölblöðrueggjastokkaheilkenni)",
+      "aliases": [
+        "PCOS",
+        "fjölblöðrueggjastokkaheilkenni",
+        "fjölblöðrueggjastokkar",
+        "blöðrur á eggjastokkum",
+        "óreglulegar blæðingar og hárvöxtur"
+      ],
+      "glance": "PCOS er algengur hormónakvilli sem getur haft áhrif á blæðingar, egglos, húð og hár.",
+      "overview": "PCOS, fjölblöðrueggjastokkaheilkenni, er algengt ástand sem tengist jafnvægi kynhormóna. Samkvæmt áætlunum hrjáir það um það bil 1 af hverjum 10 konum á barneignaraldri, og margar sem eru með það fá aldrei greiningu.\n\nÞað getur birst á ólíkan hátt og engar tvær eru alveg eins. Algeng einkenni eru óreglulegar, strjálar eða engar blæðingar; hærra magn hormóna sem kallast andrógen, sem getur leitt til aukins hárvaxtar í andliti eða á líkama, bóla eða hárþynningar á höfði; og eggjastokkar sem losa ekki egg eins reglulega og venjulega, sem getur gert erfiðara að verða þunguð. Þyngdarbreytingar og dekkri blettir á húð eru líka algengir.\n\nNákvæm orsök er ekki að fullu þekkt og engin lækning er til, en hægt er að halda einkennunum í skefjum og að skilja hvað er að gerast er fyrsta skrefið. PCOS er algengt og viðráðanlegt, ekki eitthvað til að skammast sín fyrir.",
+      "deep": "Þar sem PCOS snertir hormón líkamans og hvernig hann vinnur úr insúlíni tengist það einnig, til lengri tíma, insúlínviðnámi og auknum líkum á sykursýki af tegund 2, hækkuðum blóðþrýstingi og breytingum á kólesteróli, og þess vegna fylgjast heilbrigðisstarfsmenn yfirleitt með þessum þáttum yfir tíma. Um það bil helmingur kvenna með PCOS gæti verið kominn með sykursýki eða forstig sykursýki á fimmtugsaldri, svo reglulegt eftirlit skiptir máli. Greiningin er ekki eitthvað sem þú metur sjálf: heilbrigðisstarfsmaður skoðar heildarmyndina, sögu þína og blæðingar, stundum blóðprufur fyrir hormónum og stundum ómskoðun af eggjastokkunum, og útilokar aðrar orsakir áður en komist er að niðurstöðu um PCOS.",
+      "when_to_see_doctor": "Það er þess virði að leita til heimilislæknis ef þú tekur eftir einhverju sem passar við lýsinguna hér að ofan, sérstaklega ef það hefur áhrif á líðan þína frá degi til dags:\n\n- blæðingar sem eru óreglulegar, mjög strjálar eða hafa hætt\n- greinilega meiri hárvöxtur í andliti eða á líkama, þrálátar bólur eða hárþynning á höfði\n- erfiðleikar við að verða þunguð eftir að hafa reynt í nokkurn tíma\n- þyngdaraukning sem erfitt er að losna við, ásamt öðrum einkennum\n\nHeimilislæknir getur kannað hvað er á seyði, staðfest hvort um PCOS eða eitthvað annað er að ræða og farið yfir áætlun sem hentar þér. PCOS tengist líka depurð og kvíða; ef þér líður illa skaltu líka segja heimilislækninum frá því, það er hluti af myndinni og stuðningur er í boði.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Breytingaskeið (aðdragandi tíðahvarfa)",
+      "aliases": [
+        "breytingaskeið",
+        "breytingaskeiðið",
+        "aðdragandi tíðahvarfa",
+        "perimenopause",
+        "hitakóf",
+        "óreglulegar blæðingar"
+      ],
+      "glance": "Breytingaskeiðið er aðdragandi tíðahvarfa, þegar blæðingar og hormón byrja að breytast.",
+      "overview": "Breytingaskeiðið er tímabilið í aðdraganda tíðahvarfa, árin „í kringum tíðahvörf“. Það hefst þegar þú tekur fyrst eftir breytingunum og stendur þar til heilt ár er liðið frá síðustu blæðingum, en þá hefur þú náð tíðahvörfum. Það getur staðið í nokkur ár.\n\nÁ þessum tíma mynda eggjastokkarnir smám saman minna estrógen og magnið hækkar og lækkar á ófyrirsjáanlegri hátt en áður. Algengasta fyrsta merkið er að blæðingarnar breytast: þær koma með styttra eða lengra millibili og verða minni eða meiri. Mörg einkennanna sem tengjast tíðahvörfum, eins og hitakóf, breytingar á svefni eða sveiflur í skapi, geta byrjað hér á meðan þú ert enn með blæðingar.\n\nÞar sem breytingaskeiðið gengur hægt yfir og er svo breytilegt getur það verið ruglingslegt: breytingarnar koma ekki allar í einu eða í sömu röð hjá öllum. Að vita að þetta skeið á sér nafn, og að það er eðlilegt breytingatímabil, getur auðveldað þér að átta þig á því.",
+      "deep": null,
+      "when_to_see_doctor": "- Leitaðu til heimilislæknis ef einkenni breytingaskeiðsins hafa áhrif á daglegt líf þitt og þú vilt ræða hvað gæti hjálpað.\n- Það er þess virði að láta lækni skoða þig ef blæðingarnar verða mjög miklar eða ef þú færð blæðingu á milli tíða eða eftir kynlíf, svo hægt sé að finna orsökina.\n- Mundu að þungun getur enn orðið á breytingaskeiðinu, svo það er þess virði að ræða getnaðarvarnir við heilbrigðisstarfsmann ef það á við um þig.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Túrverkir",
+      "aliases": [
+        "túrverkir",
+        "tíðaverkir",
+        "krampar",
+        "tíðaþrautir",
+        "sárar blæðingar",
+        "verkir á blæðingum",
+        "dysmenorrhea"
+      ],
+      "glance": "Túrverkir eru krampar neðarlega í kviðnum í kringum blæðingar; þeir eru algengir og oft eðlilegur hluti tíðahringsins.",
+      "overview": "Túrverkir eru sú krampakennda, auma tilfinning neðarlega í kviðnum sem margar fá í kringum blæðingar. Þeir verða þegar vöðvaveggur legsins dregst saman og eru oft eðlilegur hluti tíðahringsins. Á læknamáli kallast þeir tíðaþrautir (dysmenorrhea).\n\nÞeir koma yfirleitt í byrjun blæðinga, eða rétt á undan, og standa yfirleitt í allt að um það bil þrjá daga. Hjá sumum er þetta væg þyngslatilfinning; hjá öðrum eru kramparnir sterkari. Verkirnir geta líka breyst yfir ævina og milli tíðahringa.\n\nTúrverkir sem fylgja þessu kunnuglega mynstri eru algengir og yfirleitt viðráðanlegir. Margar nota hversdagsleg ráð til að lina þá og einföld verkjalyf, og lyfjafræðingur eða heimilislæknir getur ráðlagt hvað gæti hentað þér. Það sem skiptir máli er að þekkja þitt venjulega mynstur, svo þú getir tekið eftir ef eitthvað breytist.",
+      "deep": null,
+      "when_to_see_doctor": "Það er þess virði að ræða við heimilislækni ef:\n\n- blæðingarnar verða sársaukafyllri, meiri eða óreglulegri en venjulega\n- verkirnir koma í veg fyrir að þú getir sinnt daglegum athöfnum eins og vinnu eða skóla\n- venjuleg verkjalyf hjálpa ekki\n- þú ert með verki við kynlíf eða við þvaglát eða hægðalosun\n- þér blæðir á milli tíða\n- verkirnir koma á öðrum tímum en rétt fyrir eða á meðan á blæðingum stendur\n- þú missir blóðkekki sem eru stærri en mynt (um það bil á stærð við stóra mynt)\n- þú tekur líka eftir þöndum kvið, minni matarlyst eða þyngdartapi sem þú getur ekki útskýrt\n\nÞetta þýðir ekki að eitthvað sé að, en það er þess virði að láta skoða það: túrverkir sem eru nýir, öðruvísi eða erfitt að ráða við geta átt sér orsakir sem heilbrigðisstarfsmaður getur hjálpað við.",
+      "red_flags": "- Biddu um **bráðatíma** hjá heimilislækni, eða hafðu samband við **vaktlækni utan dagvinnutíma**, ef túrverkir eða verkir í grindarholi eru **miklir, eða verri en venjulega, og verkjalyf hafa ekki hjálpað.**"
+    },
+    "planning-pregnancy": {
+      "title": "Að undirbúa þungun",
+      "aliases": [
+        "undirbúa þungun",
+        "fyrir getnað",
+        "reyna að verða ólétt",
+        "reyna að eignast barn",
+        "fyrir meðgöngu",
+        "undirbúningur fyrir meðgöngu"
+      ],
+      "glance": "Nokkur einföld skref áður en þú byrjar að reyna, eins og fólínsýra og að hætta að reykja og drekka áfengi, gefa meðgöngunni besta mögulega upphaf.",
+      "overview": "Ef þú ert að hugsa um að reyna að eignast barn geta nokkur skref fyrir fram gefið meðgöngunni heilbrigðara upphaf, og mörg þeirra virka strax áður en getnaður verður.\n\nHelstu skrefin: byrjaðu að taka **fólínsýru** (og D-vítamín), **hættu að reykja** og **forðastu áfengi**. Það hjálpar líka að stefna að heilbrigðri þyngd, því að vera verulega undir eða yfir kjörþyngd getur gert erfiðara að verða þunguð. Það er líka gott að ganga úr skugga um að **MMR-bólusetningin** þín sé í gildi, þar sem sumar sýkingar geta haft áhrif á meðgöngu.\n\nEkkert af þessu þarf að vera fullkomið eða streituvaldandi. Litlar, mildar breytingar fyrir fram eru það sem skiptir máli, og að byrja aðeins fyrr er eitt það fallegasta sem þú getur gert fyrir framtíðarmeðgöngu.",
+      "deep": null,
+      "when_to_see_doctor": "- Ef þú ert með **langvinnan sjúkdóm** eða tekur **lyf að staðaldri** skaltu hitta heimilislækninn áður en þú byrjar að reyna; sumir sjúkdómar og lyf krefjast skipulagningar. **Ekki hætta á neinu ávísuðu lyfi** án þess að ræða fyrst við lækninn þinn.\n- Heimilislæknir getur líka ráðlagt þér um fólínsýru (þar á meðal hvort þú þurfir stærri skammt) og um að ná heilbrigðri þyngd fyrir meðgöngu.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Fæðingarþunglyndi",
+      "aliases": [
+        "fæðingarþunglyndi",
+        "þunglyndi eftir fæðingu",
+        "sængurkvennagrátur",
+        "depurð eftir fæðingu",
+        "vanlíðan eftir fæðingu",
+        "PND"
+      ],
+      "glance": "Fæðingarþunglyndi er algeng depurð eftir fæðingu sem hægt er að meðhöndla; það er ekki þér að kenna og hjálp er til staðar.",
+      "overview": "Það er mjög algengt að finna fyrir depurð, kvíða eða pirringi fyrstu vikurnar eftir fæðingu; þetta er oft kallað „sængurkvennagrátur“ og gengur yfirleitt yfir af sjálfu sér innan um það bil tveggja vikna.\n\nFæðingarþunglyndi er annað: depurð sem er dýpri eða varir lengur. Það er algengur sjúkdómur, getur byrjað hvenær sem er á fyrsta árinu og getur líka hrjáð feður og maka. Merki eru meðal annars viðvarandi depurð, erfiðleikar við að njóta nokkurs, svefnerfiðleikar jafnvel þegar barnið sefur og stundum erfiðar tilfinningar varðandi tengslin við barnið.\n\nAð vera með það þýðir **ekki** að þú sért slæmt foreldri eða að þú elskir ekki barnið þitt: þetta er sjúkdómur, ekki mistök, og hann svarar vel stuðningi og meðferð. Að leita hjálpar snemma er sterkt og umhyggjusamt skref, fyrir þig og barnið.",
+      "deep": null,
+      "when_to_see_doctor": "- Talaðu við **heimilislækni, ljósmóður eða hjúkrunarfræðing í ungbarnavernd** ef þú heldur að þú gætir verið með fæðingarþunglyndi, eða ef sængurkvennagráturinn er ekki horfinn eftir tvær vikur. Þau hafa séð þetta margoft og geta hjálpað þér að finna réttan stuðning.",
+      "red_flags": "- Ef þú hefur **hugsanir um að skaða sjálfa þig eða barnið**, eða um að fjölskyldan væri betur sett án þín, leitaðu hjálpar **strax**: hringdu í **{{emergency}}** eða farðu á bráðamóttöku, eða hringdu í hjálparsíma fyrir fólk í andlegri krísu. Þessar hugsanir geta verið hluti af sjúkdómnum, þær segja ekki til um hver þú ert, og bráð hjálp er í boði."
+    },
+    "pre-eclampsia": {
+      "title": "Meðgöngueitrun",
+      "aliases": [
+        "meðgöngueitrun",
+        "háþrýstingur á meðgöngu",
+        "hár blóðþrýstingur á meðgöngu",
+        "prótín í þvagi",
+        "pre-eclampsia",
+        "einkenni meðgöngueitrunar"
+      ],
+      "glance": "Meðgöngueitrun er hækkaður blóðþrýstingur á meðgöngu; hún veldur oft engum einkennum í fyrstu, og þess vegna skipta skoðanir í mæðravernd máli.",
+      "overview": "Meðgöngueitrun er sjúkdómur á meðgöngu sem birtist aðallega sem hár blóðþrýstingur ásamt prótíni í þvagi. Hún kemur yfirleitt fram frá um það bil 20. viku og stundum eftir fæðingu.\n\nEitt það mikilvægasta að vita er að í byrjun veldur hún oft **alls engum einkennum**: þér getur liðið fullkomlega vel. Einmitt þess vegna mælir ljósmóðirin blóðþrýstinginn og athugar þvagið í hverri reglubundinni skoðun í mæðravernd: með þessum mælingum finnst hún yfirleitt áður en þú myndir taka eftir nokkru.\n\nÞegar einkenni koma fram er mikilvægt að þekkja þau, því meðgöngueitrun getur orðið alvarleg bæði fyrir þig og barnið. Hægt er að meðhöndla hana vel þegar hún finnst í tæka tíð, og að mæta í allar skoðanir í mæðravernd er besta leiðin til að finna hana snemma.",
+      "deep": null,
+      "when_to_see_doctor": "- Mættu í allar **reglubundnar skoðanir í mæðravernd**: mælingar á blóðþrýstingi og þvagi eru leiðin til að finna meðgöngueitrun, yfirleitt áður en einkenni byrja.",
+      "red_flags": "Leitaðu læknishjálpar **tafarlaust**, hafðu samband við fæðingardeildina eða **vaktlækni utan dagvinnutíma**, ef þú finnur fyrir einhverju af eftirfarandi (hringdu í **{{emergency}}** ef þú ert alvarlega veik, til dæmis ef þú færð krampa/flog):\n\n- **mikill höfuðverkur** sem lagast ekki með venjulegum verkjalyfjum\n- **sjóntruflanir**: þokusýn eða ljósglampar\n- **skyndilegur bjúgur** í andliti, höndum eða fótum\n- **verkur rétt fyrir neðan rifbeinin**\n- **uppköst**, eða skyndilega mjög mikil vanlíðan"
+    },
+    "pregnancy": {
+      "title": "Meðganga",
+      "aliases": [
+        "meðganga",
+        "ólétt",
+        "barnshafandi",
+        "ófrísk",
+        "þriðjungar meðgöngu",
+        "áætlaður fæðingardagur",
+        "hvað er ég komin langt"
+      ],
+      "glance": "Meðganga varir yfirleitt í um 40 vikur, talið frá fyrsta degi síðustu blæðinga.",
+      "overview": "Meðganga er tíminn þegar líkaminn lætur barn vaxa og ber það. Hún varir venjulega í um 40 vikur, en allt frá 37 til 42 vikum telst full og eðlileg meðganga, og, kannski öfugt við það sem margir halda, er hún talin frá fyrsta degi **síðustu blæðinga**, ekki frá getnaði. Það er einfaldlega hin hefðbundna leið til að reikna út dagsetningar.\n\n**Áætlaður fæðingardagur** er mat, ekki lokafrestur: börn koma gjarnan aðeins fyrr eða seinna. Snemma á meðgöngu getur ómskoðun til að ákvarða meðgöngulengd (yfirleitt í kringum 12. viku) mælt barnið og gefið nákvæmari dagsetningu, sem stundum færir upphaflega matið til.\n\nOft er talað um meðgönguna í þremur hlutum, eða **þriðjungum**, sem hver hefur sínar breytingar. Alla leiðina er vel hugsað um þig með reglulegum skoðunum í mæðravernd hjá ljósmóður (og lækni ef þörf er á), umönnun sem hjálpar til við að halda þér og barninu heilbrigðum.",
+      "deep": "Þar sem dagsetningar eru taldar frá síðustu blæðingum telst þú vera komin um fjórar vikur á leið þegar blæðingar hafa ekki komið á réttum tíma. Talning meðgönguvikna er grunnurinn að skipulagi umönnunarinnar: ómskoðanir, skimanir og skoðanir eru allar í boði á ákveðnum vikum. Ef blæðingarnar eru óreglulegar eða þú ert ekki viss um dagsetningar er það ómskoðunin sem ákvarðar tímalínuna. Þessi grein er kortið yfir alla vegferðina; einstök efni, eins og merki um þungun, mæðravernd, að líða vel og fæðing, hafa hvert sína grein.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Þungunarpróf",
+      "aliases": [
+        "þungunarpróf",
+        "óléttupróf",
+        "heimaþungunarpróf",
+        "hCG-próf",
+        "er ég ólétt",
+        "taka þungunarpróf"
+      ],
+      "glance": "Heimaþungunarpróf leitar að þungunarhormóninu hCG í þvagi; það er áreiðanlegast frá fyrsta degi sem blæðingar eru seinar.",
+      "overview": "Heimaþungunarpróf virkar þannig að það nemur hormón sem kallast hCG (human chorionic gonadotrophin) í þvaginu. Líkaminn byrjar að mynda það nokkrum dögum eftir að frjóvgað egg tekur sér bólfestu og magnið hækkar hratt snemma á meðgöngu.\n\nPrófið er áreiðanlegast frá **fyrsta degi sem blæðingar eru seinar**, um það bil tveimur vikum eftir getnað. Ef tíðahringurinn er óreglulegur eða þú ert ekki viss um hvenær blæðingar eiga að koma færðu áreiðanlegri niðurstöðu ef þú bíður þar til að minnsta kosti 21 dagur er liðinn frá óvörðu kynlífi. Þú þarft ekki að taka prófið fyrst á morgnana; hvaða tími dags sem er er í lagi.\n\n**Jákvæð** niðurstaða er nánast örugglega rétt: mjög fá próf sýna jákvæða niðurstöðu þegar þú ert ekki barnshafandi. **Neikvæð** niðurstaða er aðeins óvissari: ef blæðingarnar koma samt ekki og þú heldur að þú gætir verið barnshafandi skaltu bíða í nokkra daga og taka prófið aftur.",
+      "deep": null,
+      "when_to_see_doctor": "- Ef þú færð jákvæða niðurstöðu skaltu hafa samband við **ljósmóður eða heimilislækni** til að hefja mæðravernd.\n- Ef prófin eru neikvæð en blæðingarnar koma ekki og þér finnst þú vera barnshafandi (eða þér líður illa) skaltu leita til heimilislæknis til að komast að því hvað er í gangi.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Fæðing fyrir tímann",
+      "aliases": [
+        "fyrirburafæðing",
+        "fæðing fyrir tímann",
+        "fyrirburi",
+        "ótímabær fæðing",
+        "fæðing of snemma",
+        "legvatnið fer snemma"
+      ],
+      "glance": "Fæðing fyrir tímann er fæðing sem hefst fyrir 37. viku; bregstu fljótt við, því snemmbær umönnun skiptir sköpum.",
+      "overview": "Fæðing fyrir tímann (fyrirburafæðing) er fæðing sem hefst fyrir 37. viku meðgöngu. Hún á sér stað í um það bil 8 af hverjum 100 fæðingum.\n\nBörn sem fæðast fyrir tímann eru viðkvæmari, en mörgum þeirra farnast vel, sérstaklega með þeirri sérhæfðu umönnun sem vökudeildir veita. Lykilatriðið er að bregðast fljótt við ef þú heldur að fæðingin gæti verið að hefjast, svo hægt sé að meta stöðuna og, ef þörf krefur, veita meðferð sem hjálpar til við að vernda barnið.\n\nMerkin eru svipuð og við fæðingu á hvaða stigi sem er, en fyrir 37. viku á aldrei að bíða og sjá til: þau eru alltaf ástæða til að hafa samband strax.",
+      "deep": null,
+      "when_to_see_doctor": "- Hringdu í **ljósmóðurina þína eða fæðingardeildina** hvenær sem er ef þú ert komin **skemur en 37 vikur** og ert óviss eða hefur áhyggjur; það er alltaf í lagi að hringja og athuga.",
+      "red_flags": "Hafðu **strax samband við ljósmóðurina þína eða fæðingardeildina**, dag eða nótt, ef þú finnur fyrir einhverju af eftirfarandi **fyrir 37. viku**:\n\n- reglulegum **samdráttum eða herpingi**, eða verkjum sem líkjast túrverkjum\n- **gusu eða seytli af vökva** úr leggöngunum (legvatnið að fara)\n- **bakverk** sem er ekki venjulegur fyrir þig, eða þrýstingstilfinningu neðarlega í grindinni"
+    },
+    "premenstrual-syndrome": {
+      "title": "Fyrirtíðaspenna (PMS)",
+      "aliases": [
+        "fyrirtíðaspenna",
+        "PMS",
+        "fyrirtíðaheilkenni",
+        "PMT",
+        "PMDD",
+        "alvarleg fyrirtíðaspenna",
+        "fyrirtíðavanlíðan"
+      ],
+      "glance": "Fyrirtíðaspenna er samsafn líkamlegra og tilfinningalegra breytinga sem margar finna fyrir einni til tveimur vikum fyrir blæðingar.",
+      "overview": "Fyrirtíðaspenna (PMS) er heitið á þeim breytingum sem margar finna fyrir dagana eða einni til tveimur vikum fyrir blæðingar. Hún getur hrjáð allar sem hafa blæðingar og lagast yfirleitt innan fárra daga eftir að blæðingarnar byrja.\n\nBreytingarnar geta verið af ýmsu tagi. Líkamlega gætir þú tekið eftir þembu, aumum eða viðkvæmum brjóstum, krömpum, höfuðverk eða meiri þreytu. Tilfinningalega geta komið skapsveiflur, pirringur, kvíði eða depurð. Löngun í ákveðinn mat og breytingar á svefni eru líka algengar. Ekki fá allar fyrirtíðaspennu og þær sem fá hana fá ekki öll einkennin; það er þitt eigið mynstur sem skiptir máli.\n\nFyrirtíðaspenna er eðlilegur og viðurkenndur hluti af tíðahring margra kvenna, tengd náttúrulegum hormónasveiflum seinni hlutans. Að taka eftir því hvernig hún birtist hjá þér frá einum tíðahring til annars getur auðveldað þér að skipuleggja þig í kringum hana og að taka eftir ef hún breytist einhvern tímann.",
+      "deep": null,
+      "when_to_see_doctor": "Það er þess virði að ræða við heimilislækni ef:\n\n- einkennin hafa áhrif á daglegt líf þitt, vinnu, nám eða sambönd\n- breytingar á daglegum venjum hafa ekki hjálpað\n- depurðin, kvíðinn eða pirringurinn er mikill\n\nHeilbrigðisstarfsmaður getur farið yfir hvað gæti hjálpað. Alvarlegri mynd, sem kallast fyrirtíðavanlíðan (PMDD), getur valdið mun sterkari einkennum á skapi, og stuðningur er í boði við henni.",
+      "red_flags": "- Ef þú ert með einkenni PMDD og **ert með sjálfsvígshugsanir eða finnst þú vera í hættu á að skaða sjálfa þig**, leitaðu hjálpar strax: **hringdu í {{emergency}} eða farðu á bráðamóttöku.** Ekki keyra sjálf: biddu einhvern um að fara með þig eða biddu um sjúkrabíl. Þú átt skilið stuðning og hjálp er í boði."
+    },
+    "progesterone": {
+      "title": "Prógesterón",
+      "aliases": [
+        "prógesterón",
+        "progesterone",
+        "gulbúshormón",
+        "meðgönguhormón"
+      ],
+      "glance": "Prógesterón er hormón seinni hluta tíðahringsins og undirbýr legslímhúðina eftir egglos.",
+      "overview": "Prógesterón er eitt helsta hormónið á bak við tíðahringinn og það tekur forystuna á seinni hlutanum, eftir að egg losnar við egglos.\n\nMegintilgangur þess er að hjálpa slímhúð legsins að haldast þykk og tilbúin, svo að ef frjóvgað egg berst þangað geti það tekið sér bólfestu og þungun hafist. Þannig vinnur prógesterón í samstarfi við estrógen, sem sá um stóran hluta uppbyggingarinnar fyrr í tíðahringnum.\n\nEf þungun verður ekki lækkar magn prógesteróns. Sú lækkun er það sem gerir slímhúðinni kleift að losna sem næstu blæðingar. Hækkun og lækkun prógesteróns yfir seinni hluta tíðahringsins er eðlilegur og fyrirsjáanlegur taktur.",
+      "deep": "Prógesterón er aðallega myndað í gulbúinu (corpus luteum), fyrirbærinu sem eggjastokkurinn myndar úr eggbúinu eftir að það hefur losað eggið. Þess vegna hækkar prógesterón einmitt í gulbúsfasanum (eftir egglos). Þegar gulbúið hrörnar lækka bæði prógesterón og estrógen, sem gefur merki um upphaf nýs tíðahrings. Náttúrulegar sveiflur þess eru hluti af ástæðunni fyrir því að sumar taka eftir breytingum dagana áður en blæðingar hefjast.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Prógestógenpillan (minipillan)",
+      "aliases": [
+        "prógestógenpilla",
+        "minipillan",
+        "smápillan",
+        "prógesterónpilla",
+        "desógestrel pilla",
+        "pilla án estrógens",
+        "POP"
+      ],
+      "glance": "Minipillan er tafla sem tekin er daglega, inniheldur eitt hormón og þykkir leghálsslímið til að hindra sáðfrumur.",
+      "overview": "Prógestógenpillan, oft kölluð minipillan, er tafla sem tekin er daglega og inniheldur aðeins eitt hormón, prógestógen. Hún er valkostur fyrir þær sem geta ekki eða vilja síður taka estrógen.\n\nHelsta verkun hennar er að þykkja slímið í leghálsinum svo sáðfrumum reynist erfiðara að ná til eggs. Ein algeng tegund, desógestrel-pillan, kemur líka í veg fyrir að eggjastokkarnir losi egg (egglos).\n\nRétt tekin er hún yfir 99% örugg; við venjulega, hversdagslega notkun er hún um 91% örugg. Eins og með aðrar pillur skiptir tímasetningin máli, og hún veitir ekki vörn gegn kynsjúkdómum.",
+      "deep": "Minipillan er frábrugðin samsettu pillunni að því leyti að hún inniheldur ekkert estrógen, sem breytir því hverjum hún getur hentað; það metur heilbrigðisstarfsmaður þegar henni er ávísað. Sumar tegundir þarf að taka innan nokkuð þröngs tímaramma á hverjum degi til að þær haldi virkni sinni. Þessi grein fjallar um hvað hún er og hvernig hún virkar; hvernig á að taka hana og hvort hún hentar þér eru atriði sem heimilislæknir, hjúkrunarfræðingur eða lyfjafræðingur fer yfir með þér.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Að þekkja ofbeldissamband",
+      "aliases": [
+        "að þekkja ofbeldi",
+        "ofbeldissamband",
+        "heimilisofbeldi",
+        "ofbeldi í nánu sambandi",
+        "merki um ofbeldi",
+        "er ég beitt ofbeldi"
+      ],
+      "glance": "Ofbeldi getur verið líkamlegt, kynferðislegt, andlegt eða falist í stjórnun, og það er aldrei sök þeirrar manneskju sem verður fyrir því.",
+      "overview": "Ofbeldi í sambandi er ekki aðeins líkamlegt. Það getur tekið á sig ýmsar myndir, oft margar í einu: líkamlegan skaða, kynferðislega þvingun, andlegan eða sálrænan skaða og stjórnandi hegðun, þegar maki ákveður hvert þú ferð, hverja þú hittir eða hvað þú mátt gera. Allt þetta getur verið ofbeldi, jafnvel þegar engir sýnilegir áverkar eru.\n\nÞað er algengara en margir gera sér grein fyrir. Um allan heim verður um það bil 1 af hverjum 3 konum fyrir líkamlegu eða kynferðislegu ofbeldi á lífsleiðinni, oftast af hendi maka; myndin á Ítalíu er svipuð. Ef þetta er hluti af lífi þínu ertu því ekki ein, og þetta er ekki eitthvað sem þú hefur valdið.\n\nÞað getur verið erfitt að koma orðum að þessu: ofbeldi blandast oft góðum stundum, afsökunarbeiðnum eða loforðum um breytingar, og það getur byggst upp svo hægt að það fer að virðast eðlilegt. Tilfinning þín fyrir því að eitthvað sé að er gild ástæða til að leita til einhvers. Þú þarft hvorki að vera viss né bíða eftir að ástandið verði „nógu slæmt“ til að tala við einhvern.",
+      "deep": "Undir hinum ólíku myndum fylgir ofbeldi yfirleitt mynstri þar sem ein manneskja sækist eftir valdi og stjórn yfir annarri, og það getur stigmagnast með tímanum. Það tekur raunverulegan toll af heilsunni: það tengist kvíða, þunglyndi, svefnerfiðleikum og langvarandi líkamlegum áhrifum. Ekkert af þessu þýðir að þú sért veikgeðja eða eigir sök á þessu; það þýðir að það sem þú býrð við er skaðlegt, og til er stuðningur sem getur hjálpað þér að hugsa málin á öruggan hátt og á þínum eigin hraða.",
+      "when_to_see_doctor": "- Þú getur talað við einhvern í trúnaði hvenær sem þú ert tilbúin: heimilislækni eða hjúkrunarfræðing, miðstöð fyrir þolendur ofbeldis eða hjálparsíma (á Ítalíu **1522**, gjaldfrjálst og hvenær sem er). Þú þarft ekki að hafa sannanir, áætlun eða ákvörðun fyrst; þau eru til staðar til að hlusta og hjálpa þér að skilja hvaða möguleika þú hefur.\n- Heilbrigðisstarfsmaður getur líka meðhöndlað áverka og komið þér í samband við sérhæfðan stuðning í kyrrþey.",
+      "red_flags": "- Ef þú ert í **bráðri hættu** skaltu hafa samband við neyðarþjónustu strax: **112** í ESB (þar á meðal á Ítalíu), **999** í Bretlandi, **911** í Bandaríkjunum og Kanada.\n- Á Ítalíu er **1522**, gjaldfrjáls landsbundinn hjálparsími gegn ofbeldi og eltihrellingum, opinn 24 tíma á sólarhring, nafnlaust, í síma eða á netspjalli, á nokkrum tungumálum."
+    },
+    "respect-not-control": {
+      "title": "Virðing, ekki stjórnun",
+      "aliases": [
+        "stjórnsemi",
+        "þvingandi stjórnun",
+        "heilbrigt samband",
+        "hættumerki",
+        "hvar er hægt að fá hjálp",
+        "ofbeldi",
+        "afbrýðisemi"
+      ],
+      "glance": "Ást byggist á virðingu og frelsi; stjórnun, afbrýðisemi og þrýstingur eru ekki ást, og hjálp er til.",
+      "overview": "Heilbrigt samband hvílir á virðingu, trausti, jafnrétti og frelsi: tvær manneskjur sem hvor um sig halda sínum vináttuböndum, sínu vali og sínu rými. Stjórnun er andstæðan. Hún felur sig oft á bak við orð eins og ást eða afbrýðisemi, „ég skoða símann þinn af því að mér er annt um þig“, „ég vil ekki að þú hittir þau af því að ég elska þig“, en áhrifin eru þau að heimur hennar og frelsi skreppa saman.\n\nStjórnun byrjar sjaldan með ofbeldi. Hún byrjar yfirleitt smátt, með gagnrýni, mörkum sem farið er yfir eða „gríni“ sem særir, og vex. Það skiptir máli að nefna hana snemma, því þvingandi stjórnun er í sjálfu sér ein tegund ofbeldis og hættumerki um að eitthvað verra sé í vændum. Þetta snýst ekki um sektarkennd; þetta snýst um heiðarleika og breytingar.",
+      "deep": "**Ef þú kannast við eitthvað af þessu í eigin fari er sú meðvitund upphafspunktur, ekki lífstíðardómur.**\nFólk getur breyst með raunverulegri vinnu og réttri hjálp. Að leita til sérstaks úrræðis fyrir karla sem vilja hætta að beita stjórnun eða ofbeldi er merki um styrk, ekki veikleika. Talaðu við fagmann, lækni eða þjónustu sem hjálpar körlum að breyta hegðun sinni.\n\nEf það er **hún** sem er í hættu, eða ef þú hefur áhyggjur af einhverjum, hvettu hana og styddu til að leita hjálpar, á hennar forsendum, aldrei með því að taka yfir.\n\n**Hvar er hægt að fá hjálp**\n- Í neyðartilviki, eða ef einhver er í bráðri hættu, hringdu í neyðarnúmerið þar sem þú ert (**112** á Ítalíu og víðast hvar í Evrópu; **911** í Bandaríkjunum).\n- **Ítalía, 1522**: landsbundni hjálparsíminn gegn ofbeldi og eltihrellingum. Gjaldfrjáls, 24/7, nafnlaus og á mörgum tungumálum, rekinn af jafnréttisskrifstofu ítalska ríkisins. Hann vísar fólki líka á miðstöðvar gegn ofbeldi í nærumhverfinu (centri antiviolenza).\n- Miðstöðvar gegn ofbeldi og úrræði fyrir karla sem vilja breyta hegðun sinni (á Ítalíu „centri per uomini autori di violenza“) bjóða upp á stuðning til breytinga, í trúnaði.",
+      "when_to_see_doctor": null,
+      "red_flags": "Hættumerki um stjórnandi hegðun eða ofbeldi, sem vert er að taka alvarlega hvort sem er í eigin fari eða í sambandi:\n\n- **Eftirlit eða einangrun**: að skoða símann hennar, fylgjast með staðsetningu hennar eða slíta hana úr tengslum við vini og fjölskyldu.\n- **Stjórn á vali hennar**: peningum, hverju hún klæðist, hvert hún fer, hverja hún hittir.\n- **Afbrýðisemi sem er sögð vera ást**, stöðugar ásakanir eða þörf á að vita alltaf hvar hún er.\n- **Niðurlæging, ásakanir eða að láta hana finna fyrir ótta**, sektarkennd eða að hún þurfi að „ganga á eggjaskurn“.\n- **Þrýstingur eða hótanir** varðandi kynlíf, sambandsslit eða sjálfsskaða til að fá hana til að hlýða.\n- **Hvers kyns líkamleg valdbeiting, ógnanir eða ótti.** Ef þetta er til staðar er það ofbeldi: leitaðu hjálparinnar hér að ofan. Það er aldrei til afsökun og það er aldrei henni að kenna."
+    },
+    "safety-plan": {
+      "title": "Að gera öryggisáætlun",
+      "aliases": [
+        "öryggisáætlun",
+        "að vera örugg",
+        "halda sér öruggri",
+        "gera öryggisáætlun",
+        "fara á öruggan hátt",
+        "yfirgefa ofbeldissamband"
+      ],
+      "glance": "Öryggisáætlun eru nokkur hagnýt skref sem hjálpa þér að vera öruggari, og þjálfuð þjónusta getur hjálpað þér að gera hana.",
+      "overview": "Öryggisáætlun snýst einfaldlega um að hugsa fram í tímann um hvernig þú getur haldið þér (og börnum, ef einhver eru) öruggari. Hún er ekki ákvörðun um að fara eða vera: hún snýst um að vera aðeins betur undirbúin, hvað sem þú velur.\n\nSumum hjálpar að hafa nokkra hluti tilbúna í kyrrþey: manneskju sem þú treystir og veit hvað er að gerast, mikilvæg skjöl og símanúmer þar sem þú nærð til þeirra, litla tösku með nauðsynjum, hugmynd um öruggustu leiðirnar út af heimilinu, eða orð eða merki sem segir einhverjum að þú þurfir hjálp. Hvað hentar fer algjörlega eftir þínum aðstæðum.\n\nÞú þarft ekki að finna út úr þessu ein, og oft er öruggara að gera það ekki ein. Þjónusta fyrir þolendur ofbeldis hefur reynslu af því að gera öryggisáætlanir með fólki, í trúnaði og án endurgjalds, þar á meðal fyrir tímann í kringum það að fara, sem getur verið áhættusamara augnablik og vert er að skipuleggja með stuðningi frekar en í flýti.",
+      "deep": null,
+      "when_to_see_doctor": "- Hafðu samband við miðstöð fyrir þolendur ofbeldis eða hjálparsíma (á Ítalíu **1522**) til að gera áætlun sem hentar þínum aðstæðum; þau gera þetta á hverjum degi, í trúnaði, og geta hjálpað með hagnýt, lagaleg og tilfinningaleg skref.\n- Ef þú heldur skrá yfir það sem er að gerast skaltu geyma hana á öruggum stað þar sem enginn annar kemst í hana.",
+      "red_flags": "- Ef þú ert í **bráðri hættu** skaltu hafa samband við neyðarþjónustu strax: **112** í ESB (þar á meðal á Ítalíu), **999** í Bretlandi, **911** í Bandaríkjunum og Kanada.\n- Á Ítalíu getur **1522**, gjaldfrjáls, opinn 24 tíma á sólarhring, nafnlaus og á mörgum tungumálum, hjálpað í síma eða á netspjalli, þar á meðal við gerð öryggisáætlunar í bráðatilvikum."
+    },
+    "sex-during-your-period": {
+      "title": "Kynlíf á blæðingum",
+      "aliases": [
+        "kynlíf á túr",
+        "kynlíf á blæðingum",
+        "samfarir á túr",
+        "get ég orðið ólétt á túr",
+        "ólétt á blæðingum",
+        "get ég orðið ólétt á blæðingum",
+        "stunda kynlíf á túr"
+      ],
+      "glance": "Kynlíf á blæðingum er í lagi ef þið viljið það bæði, en þú getur samt orðið þunguð og kynsjúkdómar geta samt smitast.",
+      "overview": "Það er persónulegt val að stunda kynlíf á blæðingum. Ef þið viljið það bæði og ykkur líður báðum vel með það er það í lagi, og það er ekkert rangt eða óvenjulegt við það. Sumar eru viðkvæmari eða einfaldlega ekki í stuði á þessum tíma, á meðan aðrar njóta þess. Að hlusta á líkamann og tala opinskátt við makann skiptir mestu máli.\n\nÞað sem blæðingar gera ekki er að virka sem getnaðarvörn. Líkurnar á þungun eru minni en í kringum egglos, en þær eru ekki engar. Sáðfrumur geta lifað í líkamanum í allt að 7 daga eftir kynlíf, svo ef egglos verður snemma, sem er líklegra ef tíðahringurinn er stuttur, gætu sáðfrumur frá kynlífi á blæðingum eða rétt eftir þær enn hitt egg. Ef þú vilt ekki verða þunguð skiptir venjulega getnaðarvörnin þín áfram máli þessa daga.\n\nBlæðingar veita heldur ekki vörn gegn kynsjúkdómum. Sýkingar geta borist milli maka við kynlíf án smokks, og sýklarnir sem valda þeim geta borist með blóði jafnt sem öðrum líkamsvökvum. Smokkar eru sú aðferð sem dregur líka úr hættu á kynsjúkdómum, þar á meðal HIV, svo það er gott að nota þá hvenær sem er í mánuðinum.",
+      "deep": null,
+      "when_to_see_doctor": "- Ef þú hefur stundað kynlíf **án getnaðarvarnar**, eða getnaðarvörnin gæti hafa brugðist, og þú vilt ekki verða þunguð, skaltu ræða við lyfjafræðing, heimilislækni eða kynheilbrigðismóttöku **eins fljótt og þú getur** um neyðargetnaðarvörn. Hana þarf að nota innan fárra daga og hún virkar yfirleitt betur því fyrr sem hún er notuð.\n- Leitaðu aðstoðar hjá lyfjafræðingi, kynheilbrigðismóttöku eða heimilislækni ef **smokkur rifnar eða dettur af** við kynlíf. Þú gætir þurft neyðargetnaðarvörn eða kynsjúkdómapróf.\n- Leitaðu til heimilislæknis eða kynheilbrigðismóttöku ef þú tekur eftir **blæðingu eftir kynlíf þegar þú ert ekki á blæðingum**. Yfirleitt er það ekki alvarlegt, en það er alltaf þess virði að láta lækni skoða það.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Kynlíf á meðgöngu",
+      "aliases": [
+        "kynlíf á meðgöngu",
+        "kynlíf ólétt",
+        "samfarir á meðgöngu",
+        "er kynlíf öruggt á meðgöngu",
+        "nánd á meðgöngu",
+        "fullnæging á meðgöngu"
+      ],
+      "glance": "Kynlíf er öruggt á flestum meðgöngum og skaðar ekki barnið, nema ljósmóðir eða læknir hafi ráðlagt annað.",
+      "overview": "Fyrir flestar er kynlíf á meðgöngu öruggt, nema ljósmóðirin eða læknirinn hafi sagt þér að forðast það. Barnið er vel varið inni í leginu og kynlíf skaðar það ekki.\n\nÞér gæti verið ráðlagt að forðast kynlíf með innsetningu í nokkrum tilvikum: ef þú ert með **lágt liggjandi fylgju (fyrirsæta fylgju)**, vegna hættu á blæðingu; ef **legvatnið er farið**, vegna hættu á sýkingu; eða ef þú hefur **misst fóstur nokkrum sinnum**.\n\nLöngun breytist oft á meðgöngu: sumar vilja kynlíf oftar, sumar sjaldnar og sumar alls ekki um tíma, og hormón, líkamlegar breytingar, þreyta, ógleði og áhyggjur spila öll inn í. Allt þetta er eðlilegt. Ef þú ert ekki í stuði fyrir kynlíf eru kossar, faðmlög og nudd aðrar leiðir til að halda nándinni.\n\nÞegar kúlan stækkar verða sumar stellingar óþægilegar; stellingar þar sem þið liggið hlið við hlið eru oft auðveldari. Hormón geta valdið þurrki í leggöngum og vatnsleysanlegt sleipiefni getur hjálpað.\n\nSíðla á meðgöngu getur kynlíf eða fullnæging komið af stað fyrirvaraverkjum (Braxton Hicks), þegar legið harðnar um stund. Það er eðlilegt og þýðir ekki að fæðing sé að hefjast, og engar vísbendingar eru um að kynlíf komi fæðingu af stað.\n\nEf annað hvort ykkar gæti verið með kynsjúkdóm skaltu nota smokk, líka við munnmök: ómeðhöndluð sýking getur valdið þér og barninu alvarlegum skaða. Forðastu munnmök ef annað hvort ykkar er með áblástur (frunsu), því veiran getur borist til barnsins.",
+      "deep": null,
+      "when_to_see_doctor": "- Ræddu við **ljósmóðurina eða lækninn** ef þú ert ekki viss um hvort kynlíf sé öruggt fyrir þig, eða ef áhyggjur af kynlífi eða sambandinu hvíla á þér.\n- Ef þú færð **einhverja blæðingu** á meðgöngu skaltu láta skoða hana áður en þú stundar kynlíf aftur: hafðu samband við ljósmóðurina, lækninn eða fæðingardeildina.\n- Farðu á **kynheilbrigðismóttöku** ef þú eða maki þinn gætuð verið með kynsjúkdóm.",
+      "red_flags": "- Hafðu strax samband við **fæðingardeildina** ef þú heldur að **legvatnið sé farið**, og ekki stunda kynlíf fyrr en þú hefur farið í skoðun.\n- Hringdu í **{{emergency}} eða farðu á bráðamóttöku** ef þú færð **mikla blæðingu**, sérstaklega ef henni fylgja **miklir kviðverkir** eða yfirliðstilfinning."
+    },
+    "sexual-violence": {
+      "title": "Kynferðisofbeldi og samþykki",
+      "aliases": [
+        "kynferðisofbeldi",
+        "kynferðisleg árás",
+        "nauðgun",
+        "samþykki",
+        "kynferðisleg misnotkun",
+        "án samþykkis",
+        "neyðarmóttaka"
+      ],
+      "glance": "Kynferðisofbeldi er hvers kyns kynferðisleg athöfn án samþykkis, og það er aldrei sök þeirrar manneskju sem varð fyrir því.",
+      "overview": "Kynferðisofbeldi er hvers kyns kynferðisleg athöfn, eða tilraun til hennar, án samþykkis eða með þvingun. Það nær yfir nauðgun og alla óvelkomna kynferðislega snertingu, og hver sem er getur beitt því: ókunnugur, kunningi eða maki.\n\nSamþykki er kjarni málsins. Samþykki þýðir að samþykkja af fúsum og frjálsum vilja, og það er ekki mögulegt þegar manneskja er sofandi, meðvitundarlaus, drukkin eða undir áhrifum vímuefna, barn, eða undir þrýstingi, hótunum eða hrædd. Það má draga til baka hvenær sem er. Þess vegna er kynferðisofbeldi **aldrei** sök þeirrar manneskju sem varð fyrir því: ekki vegna þess hverju hún klæddist, hvort hún hafði drukkið, hvort hún fraus frekar en að berjast á móti eða hvort hún þekkti manneskjuna.\n\nEf þetta hefur komið fyrir þig er stuðningur til staðar, hvort sem það gerðist nýlega eða fyrir löngu. Þér er trúað og hvað þú gerir næst er þitt val.",
+      "deep": null,
+      "when_to_see_doctor": "- Þú getur leitað til **heilbrigðisþjónustu, sjúkrahúss eða sérhæfðrar þjónustu fyrir þolendur kynferðisofbeldis**, sem getur annast þig, meðhöndlað áverka og, ef þú vilt, hjálpað við að kæra og tryggja sönnunargögn.\n- Sum heilbrigðisskref **þola ekki bið**, til dæmis neyðargetnaðarvörn eða varnir gegn sýkingu, svo það getur hjálpað að leita til einhvers **fljótt**. En það eru engin tímamörk á því að fá stuðning og það er alltaf þitt val hvort þú kærir.",
+      "red_flags": "- Ef þú ert í **bráðri hættu** skaltu hafa samband við neyðarþjónustu strax: **112** í ESB (þar á meðal á Ítalíu), **999** í Bretlandi, **911** í Bandaríkjunum og Kanada.\n- Eftir nýlega árás getur **sjúkrahús eða sérhæfð þjónusta hjálpað strax**. Á Ítalíu getur **1522** (gjaldfrjálst, 24/7, nafnlaust, á mörgum tungumálum; sími eða netspjall) vísað þér á rétta umönnun."
+    },
+    "signs-of-labour": {
+      "title": "Merki um að fæðing sé að hefjast",
+      "aliases": [
+        "merki um fæðingu",
+        "fæðing að hefjast",
+        "hríðir",
+        "samdrættir",
+        "legvatnið fer",
+        "slímtappinn",
+        "dulið stig fæðingar"
+      ],
+      "glance": "Merki um að fæðing sé að hefjast eru meðal annars reglulegir samdrættir, að slímtappinn losni, bakverkur eða að legvatnið fari.",
+      "overview": "Nokkur merki geta gefið til kynna að fæðing sé að hefjast. Helsta merkið eru samdrættir (hríðir): herpingur yfir kúluna sem kemur reglulega og eykst. Önnur merki eru meðal annars að slímtappinn losni (slímtappinn úr leghálsinum fer og oft sést blóðlitað slím), viðvarandi bakverkur, þörf fyrir að fara á klósettið og að legvatnið fari.\n\nÁður en virk fæðing hefst er oft byrjunarstig („dulið stig“), þegar leghálsinn mýkist og byrjar að opnast. Þessi hluti getur tekið klukkustundir eða jafnvel daga, og hjá mörgum er í lagi að vera heima og láta fara vel um sig á meðan, hvílast og drekka nóg.\n\nFæðing byrjar aðeins á mismunandi hátt hjá hverri og einni, svo þú þarft ekki að haka við hvert merki. Þegar þú heldur að eitthvað sé að fara af stað er ljósmóðirin þín eða fæðingardeildin til staðar til að leiðbeina þér um hvað þú átt að gera og hvenær þú átt að koma.",
+      "deep": null,
+      "when_to_see_doctor": "- Hringdu í **ljósmóðurina þína eða fæðingardeildina** til að fá leiðbeiningar þegar þú heldur að fæðingin sé hafin, eða þegar samdrættirnir eru **reglulegir, á um það bil 5 mínútna fresti**. Ef þú nærð ekki í ljósmóðurina skaltu hringja á sjúkrahúsið þar sem þú ætlar að fæða.",
+      "red_flags": "Hringdu **strax í ljósmóðurina þína eða fæðingardeildina**, dag eða nótt, ekki bíða, ef:\n\n- **legvatnið fer** (sérstaklega ef vökvinn er grænn, brúnn eða illa lyktandi)\n- þú færð **einhverja blæðingu úr leggöngum**\n- **barnið hreyfir sig minna en venjulega**\n- þú ert með merki um að fæðing sé að hefjast og ert komin **skemur en 37 vikur á meðgöngunni**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Merki um þungun",
+      "aliases": [
+        "merki um þungun",
+        "fyrstu einkenni þungunar",
+        "er ég ólétt",
+        "einkenni þungunar",
+        "óléttueinkenni",
+        "fyrstu merki meðgöngu"
+      ],
+      "glance": "Að blæðingar komi ekki er oft fyrsta merkið um þungun, stundum ásamt ógleði, þreytu eða aumum brjóstum.",
+      "overview": "Hjá mörgum er fyrsta vísbendingin um þungun að **blæðingar koma ekki**. En líkamar eru ólíkir og sumar taka fyrst eftir öðrum snemmbærum merkjum, oft í kringum 4. til 6. viku.\n\nAlgeng snemmbær merki eru ógleði eða uppköst (hvenær sem er dags, ekki bara á morgnana), brjóst sem virðast stærri eða eru aum, óvenjuleg þreyta og tíðari þvaglát. Sumar taka líka eftir málmbragði í munni, nýrri viðkvæmni fyrir ákveðinni lykt eða því að missa lyst á mat sem þeim líkar venjulega.\n\nEkkert af þessu eitt og sér þýðir að þú sért örugglega barnshafandi, því margt skarast við venjulegar sveiflur tíðahringsins, og ekki fá allar þessi einkenni. Leiðin til að vita það fyrir víst er þungunarpróf.",
+      "deep": null,
+      "when_to_see_doctor": "- Ef prófið er jákvætt skaltu hafa samband við **ljósmóður eða heimilislækni** til að hefja mæðravernd snemma.\n- Ef blæðingarnar eru seinar og prófin neikvæð en einkennin halda áfram er þess virði að leita til heimilislæknis til að skoða hvað annað gæti verið á seyði.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Reykingar á meðgöngu",
+      "aliases": [
+        "reykingar á meðgöngu",
+        "hætta að reykja á meðgöngu",
+        "hætta að reykja ólétt",
+        "rafrettur á meðgöngu",
+        "veip á meðgöngu",
+        "nikótín á meðgöngu"
+      ],
+      "glance": "Að hætta að reykja er eitt það besta sem þú getur gert fyrir barnið, og það er aldrei of seint.",
+      "overview": "Að hætta að reykja er eitt það áhrifaríkasta sem þú getur gert til að gefa barninu heilbrigða byrjun. Hver sígaretta takmarkar súrefnið sem barnið fær, sem lætur hjarta þess erfiða meira og getur hamlað vexti þess.\n\nReykingar á meðgöngu auka hættuna á alvarlegum vandamálum, þar á meðal fósturláti, fæðingu fyrir tímann, lágri fæðingarþyngd, andvana fæðingu og vöggudauða eftir fæðingu. Óbeinar reykingar skipta líka máli, svo reyklaust heimili hjálpar.\n\nÞað uppörvandi er að það er **aldrei of seint**. Að hætta hvenær sem er á meðgöngunni hjálpar, og að hætta snemma skilar mestum ávinningi. Það getur verið virkilega erfitt, og einmitt þess vegna er ókeypis hjálp í boði; að nýta hana eykur líkurnar á árangri til muna.",
+      "deep": null,
+      "when_to_see_doctor": "- Spurðu **ljósmóðurina þína** um **ókeypis stuðning til að hætta að reykja**: þjálfaðir ráðgjafar (sumir sérhæfðir í meðgöngu) geta stutt þig, og víða er líka til gjaldfrjáls hjálparsími fyrir þá sem vilja hætta að reykja. Að fá hjálp er merki um að þú hugsir vel um barnið, ekki veikleiki.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Blettablæðingar og blæðing á milli tíða",
+      "aliases": [
+        "blettablæðingar",
+        "blæðing á milli tíða",
+        "milliblæðing",
+        "gegnumbrotsblæðing",
+        "blæðing eftir kynlíf",
+        "smáblæðing"
+      ],
+      "glance": "Blettablæðingar eru smáblæðing á milli tíða eða eftir kynlíf; oft ekki alvarlegt, en alltaf þess virði að láta lækni skoða það.",
+      "overview": "Blettablæðingar eru smáblæðing sem verður á milli tíða eða eftir kynlíf, utan venjulegra blæðinga. Þær eru algengar og yfirleitt ekki alvarlegar, en þar sem þær geta átt sér ýmsar orsakir er alltaf þess virði að láta heilbrigðisstarfsmann skoða þær.\n\nÁstæðurnar geta verið margar og hversdagslegar. Að byrja á eða nota hormónagetnaðarvörn er algeng ástæða. Aðrar eru meðal annars litlir, skaðlausir vextir í eða við legið (separ eða vöðvahnútar), skaðlausar breytingar á yfirborði leghálsins, þurrkur í leggöngum eða sýking eins og klamydía.\n\nÞar sem sama einkennið getur átt sér ólíkar orsakir, flestar smávægilegar, er gagnlega skrefið ekki að giska, heldur að láta skoða það svo þú vitir hvað liggur að baki hjá þér.",
+      "deep": null,
+      "when_to_see_doctor": "- Leitaðu til heimilislæknis eða kynheilbrigðismóttöku **í hvert sinn sem þú færð blæðingu á milli tíða eða eftir kynlíf**, jafnvel þótt hún sé lítil. Yfirleitt er það ekkert alvarlegt, en skoðun er leiðin til að finna orsökina og til að útiloka sjaldgæfari orsakir snemma.",
+      "red_flags": "- Biddu um **bráðatíma** hjá heimilislækni, eða hafðu samband við **vaktlækni utan dagvinnutíma**, ef **blæðingar hafa ekki komið á réttum tíma og þú ert með óvenjulega blæðingu ásamt verk í kvið eða grindarholi**; þetta þarf að meta fljótt, því það getur verið merki um utanlegsþungun."
+    },
+    "stalking": {
+      "title": "Umsáturseinelti (eltihrellar)",
+      "aliases": [
+        "umsáturseinelti",
+        "eltihrellir",
+        "áreitni",
+        "óvelkomin athygli",
+        "einhver eltir mig",
+        "netáreitni",
+        "fylgst með mér"
+      ],
+      "glance": "Umsáturseinelti er endurtekin, óvelkomin athygli sem gerir þig hrædda eða óörugga, og það er tekið alvarlega.",
+      "overview": "Umsáturseinelti er mynstur óvelkominnar, endurtekinnar hegðunar einhvers sem veldur því að þú finnur fyrir ótta, finnst fylgst með þér eða ert óörugg. Það getur falið í sér að þér sé veitt eftirför, að einhver birtist þar sem þú ert, stöðug símtöl eða skilaboð, óvelkomnar gjafir, eftirlit með þér á netinu eða í gegnum símann, eða hótanir. Oft er það fyrrverandi maki eða einhver sem þú þekkir sem stendur að baki, þótt ekki sé það alltaf.\n\nÓttinn sem það veldur er réttmætur, jafnvel þegar hvert einstakt atvik gæti virst „smávægilegt“ í augum annarra: það er mynstrið, og hvernig það lætur þér líða, sem skiptir máli. Umsáturseinelti er viðurkennt sem tegund ofbeldis og í mörgum löndum er það glæpur. Ekkert af þessu er þér að kenna og þú þarft ekki bara að lifa með því.\n\nEf það er öruggt getur hjálpað síðar að halda skrá: dagsetningar og tímasetningar, skjáskot af skilaboðum og hvað gerðist. Þú þarft ekki að finna út sjálf hvort þetta „telst“ með; stuðningsþjónusta getur hjálpað þér að átta þig á stöðunni og hugsa um hvaða möguleika þú hefur.",
+      "deep": null,
+      "when_to_see_doctor": "- Hafðu samband við **lögregluna** til að tilkynna umsáturseinelti, og við hjálparsíma gegn ofbeldi eða umsáturseinelti til að fá stuðning og ráð (á Ítalíu er **1522** fyrir ofbeldi **og** umsáturseinelti).\n- Að halda utan um sönnunargögn og gera öryggisáætlun, með hjálp sérhæfðrar þjónustu, getur hvort tveggja skipt sköpum.",
+      "red_flags": "- Ef þér finnst þú vera í **bráðri hættu** skaltu hafa samband við neyðarþjónustu strax: **112** í ESB (þar á meðal á Ítalíu), **999** í Bretlandi, **911** í Bandaríkjunum og Kanada.\n- Á Ítalíu getur **1522**, gjaldfrjáls, opinn 24 tíma á sólarhring, nafnlaus og á mörgum tungumálum, hjálpað í síma eða á netspjalli."
+    },
+    "stillbirth": {
+      "title": "Andvana fæðing",
+      "aliases": [
+        "andvana fæðing",
+        "andvana fætt barn",
+        "barnsmissir",
+        "missir seint á meðgöngu",
+        "barn fætt sofandi",
+        "englabarn"
+      ],
+      "glance": "Andvana fæðing er þegar barn deyr eftir 24. viku; hún er sjaldgæf, aldrei þér að kenna, og henni er alltaf mætt með stuðningi.",
+      "overview": "Andvana fæðing er þegar barn fæðist látið eftir 24 vikna meðgöngu. (Missir fyrir 24. viku kallast fósturlát.) Hún er sjaldgæf, um 1 af hverjum 250 fæðingum, en fyrir fjölskyldurnar sem hún snertir er hún djúpstæður missir, og öll umönnunin sem fylgir á að halda utan um þig af mildi í gegnum hann.\n\nStundum finnst orsök, til dæmis vandamál með fylgjuna eða þroska barnsins eða heilsufarsvandamál, og stundum finnst, þrátt fyrir rannsóknir, **alls engin orsök**. Hver sem ástæðan er, er andvana fæðing ekki eitthvað sem foreldri hefur valdið eða hefði getað vitað til að koma í veg fyrir.\n\nEitt hjálpar raunverulega til við að draga úr áhættunni, og það er einfalt: **að segja ljósmóðurinni strax frá því ef hreyfingar barnsins minnka eða breytast.** Samhliða því spila hversdagslegir hlutir allir inn í: að mæta í skoðanir í mæðravernd, reykja ekki, forðast áfengi og sofa á hliðinni frá 28. viku.",
+      "deep": null,
+      "when_to_see_doctor": "- Hafðu **strax samband við ljósmóðurina þína eða fæðingardeildina**, hvenær sem er, dag eða nótt, ef **barnið hreyfir sig minna en venjulega eða hreyfingarnar eru öðruvísi.** Bíddu aldrei til að sjá hvort þetta líði hjá; að fara í skoðun er einmitt það rétta að gera og það er aldrei ónæði.\n- Eftir missi eru sérhæfðar ljósmæður og sorgarteymi til staðar fyrir þig, vegna ákvarðananna, hagnýtu skrefanna og sorgarinnar. Þú þarft ekki að takast á við neitt af þessu ein, og stuðningshópar fyrir foreldra sem hafa misst barn eru til staðar eins lengi og þú þarft á þeim að halda.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Streita, lífið og blæðingarnar",
+      "aliases": [
+        "streita og blæðingar",
+        "streita",
+        "blæðingar koma ekki",
+        "seinar blæðingar",
+        "af hverju eru blæðingarnar seinar",
+        "túrinn seinn",
+        "blæðingar féllu niður"
+      ],
+      "glance": "Streita, miklar breytingar á þyngd eða mikil hreyfing geta seinkað eða stöðvað blæðingar, oft bara um tíma.",
+      "overview": "Það er algengt að blæðingar komi seint eða falli niður einn mánuð, og ástæðan tengist oft frekar lífinu en því að eitthvað sé að. Streita er algeng ástæða: sama kerfið og bregst við álagi getur haft áhrif á hormónin sem stýra tíðahringnum.\n\nAðrir hversdagslegir þættir geta líka hnikað blæðingunum til: mikil breyting á þyngd (upp eða niður), mikil hreyfing eða að vera úrvinda. Hormónabreytingar, eins og þegar breytingaskeiðið nálgast, eða sjúkdómar eins og PCOS geta líka legið að baki, eins og þungun og sumar getnaðarvarnir. Oft er bilið á milli blæðinga einfaldlega örlítið breytilegt frá einum tíma til annars, og það er eðlilegt.\n\nÞað sem róar er að ef blæðingar koma einu sinni seint eða falla niður er það yfirleitt ekki áhyggjuefni, og hlutirnir komast oft í jafnvægi þegar lífið gerir það. Það sem vert er að fylgjast með er mynstur breytinga frekar en einn mánuður.",
+      "deep": null,
+      "when_to_see_doctor": "Leitaðu til heimilislæknis ef:\n\n- blæðingar hafa fallið niður **þrisvar í röð**, eða blæðingarnar eru orðnar **óreglulegar**\n- blæðingarnar **hætta** og þú veist ekki af hverju (og ef þungun er möguleg er gott að taka próf fyrst)\n- blæðingum sem falla niður fylgja aðrar breytingar, eins og óvæntar þyngdarbreytingar, þreyta, aukinn hárvöxtur eða depurð\n\nÞessar athuganir eru bara til að skilja hvað liggur að baki breytingunni, sem er yfirleitt eitthvað viðráðanlegt.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Að styðja hana á blæðingum",
+      "aliases": [
+        "hjálpa henni á blæðingum",
+        "stuðningur á túr fyrir maka",
+        "umhyggja á blæðingum",
+        "kærastan á túr",
+        "styðja hana á túr"
+      ],
+      "glance": "Blæðingum geta fylgt raunverulegir verkir og þreyta; lítil, hagnýt umhyggja skiptir miklu máli.",
+      "overview": "Blæðingar snúast ekki bara um nokkra daga þar sem blæðir; hjá mörgum fylgja þeim krampar, bakverkir, höfuðverkir, þreyta og orkuleysi. Túrverkir eru algengir og geta verið virkilega lýjandi; þetta eru ekki ýkjur. Komdu fram við hana eins og þú myndir koma fram við maka sem er veikur: með hagnýtri góðvild.\n\nGerðu þetta líka eðlilegt. Blæðingar eru ekki ógeðslegar, vandræðalegar eða tabú. Að kaupa óhikað dömubindi eða túrtappa, eiga birgðir heima eða rétta henni hitapoka án þess að gera mál úr því segir henni að hún sé örugg og njóti stuðnings.",
+      "deep": "Einfaldir hlutir sem hjálpa:\n\n- **Hlýja og hvíld.** Hitapoki eða hitapúði á neðanverðan kviðinn linar krampa; bjóddu upp á rólegt kvöld heima.\n- **Léttu af henni verkum.** Eldaðu, taktu til, sinntu erindum, keyrðu hana; hagnýt hjálp segir meira en orð.\n- **Eigðu birgðir.** Vittu hvað hún notar og eigðu það til, svo mikill blæðingadagur verði aldrei að neyðarástandi.\n- **Verkjalyf og huggunarmatur** ef hún vill; hennar val.\n- **Ekki þrýsta á hana um kynlíf eða orku sem hún hefur ekki.** Nánd getur verið að kúra saman í sófanum.",
+      "when_to_see_doctor": "Hvettu hana til að leita til læknis (og bjóddu þig fram til að koma með) ef túrverkirnir eru **miklir, fara versnandi eða hindra hana í daglegu lífi**, ef blæðingarnar eru **mjög miklar** (tíðavörn verður gegnblaut á klukkutíma fresti, stórir blóðkekkir) eða ef verkirnir eru nýir og óvenjulegir; þetta getur bent til sjúkdóma eins og legslímuflakks sem eiga skilið almennilega meðferð.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Að styðja einhvern sem verður fyrir ofbeldi",
+      "aliases": [
+        "styðja einhvern",
+        "hjálpa vinkonu",
+        "hvernig get ég hjálpað",
+        "vinkona beitt ofbeldi",
+        "hvernig á að styðja",
+        "vinkona í ofbeldissambandi"
+      ],
+      "glance": "Ef manneskja sem þú þekkir gæti verið beitt ofbeldi hjálpar að hlusta án þess að dæma og vita hvert hægt er að vísa henni.",
+      "overview": "Það er erfitt að átta sig á því að manneskja sem þér þykir vænt um gæti verið beitt ofbeldi, og löngunin til að hjálpa er góð. Það gagnlegasta sem þú getur boðið er oft það einfaldasta.\n\nHlustaðu á hana og trúðu henni. Leyfðu henni að tala á eigin hraða, án þess að dæma, kenna henni um eða spyrja hvað hún hafi gert til að valda þessu. Segðu skýrt að þetta sé ekki henni að kenna og að hún eigi þetta ekki skilið. Reyndu að segja henni ekki hvað hún eigi að gera eða þrýsta á hana að fara: það er hennar að ákveða hvort hún fer, og að gera það í flýti getur í raun aukið hættuna. Það sem hjálpar meira er að hún finni fyrir stuðningi og sé ekki ein.\n\nHaltu því sem hún segir þér fyrir þig. Hjálpaðu henni mildilega að finna sérhæfðan stuðning þegar hún er tilbúin, til dæmis hjálparsíma eins og **1522** á Ítalíu eða miðstöð gegn ofbeldi á staðnum, og bjóddu fram hagnýta hjálp, eins og að fletta upp númerum saman eða vera hjá henni þegar hún hringir. Og hugsaðu líka um sjálfa þig; það getur verið þungbært að styðja einhvern í gegnum þetta.",
+      "deep": null,
+      "when_to_see_doctor": "- Hvettu hana (án þrýstings) til að hafa samband við hjálparsíma eða miðstöð gegn ofbeldi, sem getur leiðbeint ykkur báðum um næstu skref. Þú getur boðist til að hjálpa henni að hringja eða finna númerið.\n- Ef hún er slösuð getur heimilislæknir eða sjúkrahús hjálpað og komið henni í samband við stuðningsþjónustu.",
+      "red_flags": "- Ef hún er í **bráðri hættu** skaltu hringja í neyðarþjónustu: **112** í ESB (þar á meðal á Ítalíu), **999** í Bretlandi, **911** í Bandaríkjunum og Kanada.\n- Á Ítalíu getur **1522** (gjaldfrjálst, 24/7, nafnlaust, á mörgum tungumálum; sími eða netspjall) líka ráðlagt þér um hvernig þú getur hjálpað öðrum."
+    },
+    "the-coil": {
+      "title": "Lykkjan (koparlykkja og hormónalykkja)",
+      "aliases": [
+        "lykkjan",
+        "lykkja",
+        "koparlykkja",
+        "hormónalykkja",
+        "getnaðarvarnarlykkja",
+        "IUD",
+        "IUS",
+        "Mirena",
+        "Kyleena"
+      ],
+      "glance": "Lykkjan er lítið tæki sem komið er fyrir í leginu, annaðhvort koparlykkja eða hormónalykkja, og hún endist í mörg ár.",
+      "overview": "Lykkjan er lítið tæki sem heilbrigðisstarfsmaður kemur fyrir inni í leginu. Til eru tvær gerðir og gott er að þekkja muninn:\n\n- **Koparlykkjan** (IUD) inniheldur engin hormón. Koparinn breytir aðstæðum í leginu svo að sáðfrumur og egg lifa illa, og hann hefur líka áhrif á leghálsslímið. Eftir tegund virkar hún í um það bil 5 til 10 ár.\n- **Hormónalykkjan** (IUS) gefur frá sér prógestógen í stað þess að nota kopar. Hún þykkir slímið í leghálsinum og þynnir legslímhúðina; hjá sumum getur hún líka gert blæðingar mun minni.\n\nBáðar eru aðferðir sem þarf ekki að hugsa um eftir að þeim hefur verið komið fyrir, og báðar eru yfir 99% öruggar, með litlum mun milli fullkominnar og venjulegrar notkunar. Hvorug veitir vörn gegn kynsjúkdómum.",
+      "deep": "Lykkjurnar eru langvirkar aðferðir sem hægt er að snúa við: þegar þeim hefur verið komið fyrir virka þær í mörg ár og frjósemin kemur aftur eftir að þær eru fjarlægðar. Þjálfaður heilbrigðisstarfsmaður setur þær upp og fjarlægir þær og það tekur aðeins nokkrar mínútur, þótt sumum finnist ísetningin óþægileg. Algeng ástæða fyrir því að valið fellur á aðra hvora er áhrifin á blæðingar: koparlykkjan getur gert blæðingar meiri í fyrstu, en hormónalykkjan gerir þær oft minni. Hvor hentar þér er eitthvað til að ræða við heilbrigðisstarfsmann; þessi grein útskýrir bara hvernig hvor um sig virkar.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Dagarnir fyrir blæðingar",
+      "aliases": [
+        "fyrirtíðaspenna fyrir maka",
+        "styðja hana fyrir blæðingar",
+        "stuðningur fyrir blæðingar",
+        "stuðningur í gulbúsfasa",
+        "kærastan með fyrirtíðaspennu",
+        "PMS og maki"
+      ],
+      "glance": "Dagana fyrir blæðingar getur hún verið þreyttari, viðkvæmari eða niðurdregnari; mættu því með þolinmæði, ekki gríni.",
+      "overview": "Í um það bil viku fyrir blæðingar fá margar fyrirtíðaeinkenni: skapbreytingar, pirring eða depurð, þreytu, aum brjóst, þembu, höfuðverk eða svefnerfiðleika. Þetta er mjög algengt og raunverulegt: það stafar af náttúrulegri hormónabreytingu gulbúsfasans, ekki af því að hún sé að „gera of mikið úr hlutunum“.\n\nHjá færri verður depurðin mjög mikil (ástand sem kallast PMDD) og á þá skilið raunverulegan stuðning og læknismeðferð. Hvort heldur sem er er hlutverk þitt ekki að greina hana eða laga, heldur að sýna stöðugleika og góðvild.\n\nÞað skaðlegasta sem maki getur gert hér er að nota þetta sem vopn: „þú ert bara með fyrirtíðaspennu“, að ranghvolfa augunum eða að líta á tilfinningar hennar sem ógildar vegna dagsetningarinnar. Það gerir lítið úr henni og bætir sársauka ofan á erfiða viku. Tilfinningar hennar skipta samt máli, jafnvel þegar hormón eru hluti af myndinni.",
+      "deep": "Það sem raunverulega hjálpar þessa daga:\n\n- **Léttu byrðina hennar.** Taktu að þér heimilisstörf, eldamennsku eða hugræna verkefnalistann án þess að hún þurfi að biðja um það.\n- **Huggun, ekki leiðrétting.** Bjóddu hlýju, hvíld, hitapoka, uppáhaldsmatinn hennar, og leyfðu henni að finna það sem hún finnur.\n- **Hlustaðu fyrst.** Ef hún er í uppnámi er „þetta hljómar virkilega erfitt“ alltaf betra en „róaðu þig“.\n- **Ekki halda bókhald.** Erfiðari dagur er ekki skuld sem hún þarf að greiða þér seinna.\n- **Spurðu hvað hún þarf**: sumar vilja nánd, aðrar rými. Hvort tveggja er í lagi; virtu svarið hennar.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Tvíbura- og fjölburameðganga",
+      "aliases": [
+        "tvíburar",
+        "tvíburameðganga",
+        "fjölburameðganga",
+        "von á tvíburum",
+        "eineggja tvíburar",
+        "tvíeggja tvíburar",
+        "þríburar"
+      ],
+      "glance": "Tvíburameðganga kemur yfirleitt fyrst í ljós í ómskoðun snemma á meðgöngu og kallar á aðeins meiri mæðravernd.",
+      "overview": "Það kemur yfirleitt fyrst í ljós í **ómskoðun til að ákvarða meðgöngulengd** (í kringum 12. viku) að von er á fleiri en einu barni, og sú ómskoðun getur líka sýnt hvort börnin deila fylgju.\n\nTil eru tvær megingerðir. **Eineggja** tvíburar koma úr einu frjóvguðu eggi sem skiptir sér, svo þeir hafa sömu gen og eru alltaf af sama kyni. **Tvíeggja** tvíburar koma úr tveimur aðskildum eggjum og eru ekki líkari hvor öðrum en önnur systkini; þeir eru algengari gerðin og aðeins líklegri með hækkandi aldri, ef tvíburar eru í móðurætt eða eftir frjósemismeðferð.\n\nAð ganga með tvíbura eða fleiri er upplifun út af fyrir sig og kallar yfirleitt á **aðeins meiri mæðravernd**: fleiri skoðanir og ómskoðanir til að fylgjast vel með þér og börnunum. Ljósmæðurnar þínar útskýra hvers má vænta.",
+      "deep": null,
+      "when_to_see_doctor": "- Ef ómskoðun sýnir tvíbura (eða fleiri) fer **ljósmóðirin þín** yfir þær aukaskoðanir og ómskoðanir sem fylgja fjölburameðgöngu; að mæta í þær allar er besta leiðin til að tryggja að vel sé hugsað um þig.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Að skilja tíðahringinn hennar",
+      "aliases": [
+        "tíðahringurinn fyrir maka",
+        "leiðarvísir fyrir maka",
+        "hvernig tíðahringurinn hennar virkar",
+        "styðja hana í gegnum tíðahringinn",
+        "skilja blæðingar kærustunnar"
+      ],
+      "glance": "Líkami hennar fer í gegnum mánaðarlegan tíðahring með fjórum fösum; að þekkja grunnatriðin hjálpar þér að styðja hana án þess að giska.",
+      "overview": "Tíðahringurinn er taktur sem endurtekur sig um það bil mánaðarlega, að meðaltali um 28 dagar en oft allt frá 21 til 35, og eðlilegt fyrir hana er það sem er reglulegt hjá *henni*. Hann skiptist í fjóra fasa: **blæðingafasann** (blæðingarnar hennar), **eggbúsfasann**, **egglos** um miðbikið og **gulbúsfasann** fyrir næstu blæðingar.\n\nOrka, skap, svefn og löngun geta breyst milli þessara fasa vegna þess að hormón hækka og lækka; það er líffræði, ekki skapgerðargalli og ekki eitthvað til að stríða henni með. Sumar finna fyrir raunverulegri lægð dagana fyrir blæðingar; aðrar taka varla eftir neinu. Það er engin ein „rétt“ leið til að líða.\n\nÞú þarft ekki að verða sérfræðingur. Það sem hjálpar mest er einfalt: vittu nokkurn veginn hvar hún er stödd í tíðahringnum (þetta app getur sýnt þér það, með hennar leyfi), búðu þig undir að sumir dagar séu erfiðari en aðrir og spurðu hana hvað *henni* finnst hjálplegt í stað þess að gefa þér eitthvað.",
+      "deep": "Nokkur atriði sem gott er að vita, svo að mýtur fylli ekki í eyðurnar:\n\n- **„Hún er á túr“ er hvorki móðgun né skýring á því að hún sé ósammála þér.** Að nota tíðahringinn hennar til að gera lítið úr tilfinningum hennar („þú ert bara hormónaleg“) er vanvirðing og yfirleitt rangt. Ástæður hennar eru samt ástæður hennar.\n- **Tíðahringurinn hefur áhrif á meira en blæðingar.** Krampar, höfuðverkur, aum brjóst, orkuleysi eða depurð geta allt verið hluti af honum. Hagnýt hjálp er betri en ráðleggingar.\n- **Skráningin er hennar.** Ef hún deilir tíðahringnum sínum með þér skaltu líta á það sem glugga inn í hvernig henni gæti liðið, boð um að sýna góðvild, aldrei tæki til að fylgjast með henni eða stjórna henni.\n- **Ef þú ert í vafa, spurðu.** „Hvernig líður þér í dag? Get ég gert eitthvað?“ er meira virði en nokkurt graf.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Þurrkur í leggöngum",
+      "aliases": [
+        "þurrkur í leggöngum",
+        "þurr leggöng",
+        "leggangaþurrkur",
+        "slímhúðarrýrnun í leggöngum",
+        "þurrkur",
+        "sleipiefni"
+      ],
+      "glance": "Þurrkur í leggöngum er algengur, tengist oft hormónum og getur valdið eymslum eða óþægindum við kynlíf.",
+      "overview": "Þurrkur í leggöngum er algeng upplifun sem margar finna fyrir einhvern tímann. Hann verður þegar sá raki sem venjulega heldur leggöngunum þægilegum minnkar, og hann getur lýst sér sem eymsli, kláði eða óþægindi, þar á meðal verkir eða óþægindi við kynlíf.\n\nHann tengist oft hormónum, sérstaklega lækkun estrógens. Þess vegna er hann algengur í kringum tíðahvörf og á breytingaskeiðinu, en hann getur líka komið fram við brjóstagjöf, vegna sumra lyfja (eins og ákveðinna getnaðarvarna eða þunglyndislyfja) eða þegar örvun fyrir kynlíf er ekki nægileg. Það er ekkert til að skammast sín fyrir: þetta er líkamlegt og segir ekkert um þig eða sambandið þitt.\n\nAð vita að þetta er algengt, og yfirleitt vel hægt að meðhöndla, er góður upphafspunktur. Til eru einfaldar leiðir sem geta hjálpað, og heimilislæknir eða lyfjafræðingur getur bent þér á hvað hentar þér.",
+      "deep": null,
+      "when_to_see_doctor": "Leitaðu til heimilislæknis ef:\n\n- þurrkurinn angrar þig eða lagast ekki eftir nokkrar vikur\n- hann hefur áhrif á daglegt líf þitt eða kynlíf\n- þú ert líka með óvenjulega útferð, eða einhverja blæðingu eftir kynlíf, á milli tíða eða eftir tíðahvörf\n\nÞað er engin þörf á að sætta sig bara við þetta: hjálp er í boði og heilbrigðisstarfsmaður getur skoðað hvað liggur að baki og hvað gæti linað einkennin.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Heilbrigði legganga og skapabarma",
+      "aliases": [
+        "heilbrigði legganga",
+        "heilbrigði píku",
+        "skapabarmar",
+        "náið hreinlæti",
+        "hreinlæti að neðan",
+        "skolun legganga",
+        "útferð"
+      ],
+      "glance": "Leggöngin hreinsa sig sjálf; mild umhirða að utanverðu er allt sem þarf, og útferð er eðlileg.",
+      "overview": "Eitt það sem gott er að vita er að leggöngin sjá um sig sjálf. Þau hreinsa sig á náttúrulegan hátt og útferðin sem þú tekur eftir er hluti af því: vökvi sem heldur þeim hreinum og rökum og hjálpar til við að verja þau gegn sýkingum. Magnið og áferðin breytast yfir tíðahringinn, og það er fullkomlega eðlilegt.\n\nÞess vegna þarf ekki að þvo leggöngin að innanverðu. Raunar getur það að skola þau að innan raskað náttúrulegu jafnvægi þeirra. Ytri kynfærin (píkan og skapabarmarnir) þurfa bara milda umhirðu: volgt vatn og, ef þú vilt, milda sápu án ilmefna. Best er að forðast ilmsápur, sturtusápur, svitalyktareyði og ilmandi blautþurrkur, því þau geta valdið ertingu.\n\nAð kynnast því hvað er eðlilegt fyrir þig, venjulegri útferð, útliti og tilfinningu, gerir auðveldara að taka eftir því ef eitthvað breytist og gæti þurft að skoða.",
+      "deep": null,
+      "when_to_see_doctor": "Leitaðu til heimilislæknis eða kynheilbrigðismóttöku ef þú tekur eftir:\n\n- breytingu á útferðinni, lit hennar, lykt eða áferð, eða miklu meiri útferð en venjulega\n- kláða, eymslum eða ertingu í kringum leggöngin eða píkuna\n- blæðingu á milli tíða eða eftir kynlíf\n- verk við þvaglát, eða verk neðarlega á milli kviðar og læra (verk í grindarholi)\n\nÞetta er algengt og oft auðvelt að meðhöndla: breyting á útferð getur einfaldlega þýtt væga sýkingu eins og sveppasýkingu í leggöngum. Að láta lækni skoða þetta er leiðin til að vita, frekar en að giska.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Tíðahringurinn og fasar hans",
+      "summary": "Hvernig tíðahringurinn fer í gegnum blæðingar, eggbúsfasa, egglos og gulbúsfasa."
+    },
+    "hormones": {
+      "title": "Hormón",
+      "summary": "Boðberarnir á bak við tíðahringinn: estrógen, prógesterón, LH og FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Frjósemi og egglos",
+      "summary": "Frjósemisglugginn, merki um egglos og það sem hefur áhrif á frjósemi."
+    },
+    "contraception": {
+      "title": "Getnaðarvarnir",
+      "summary": "Hvernig ólíkar aðferðir virka, á einföldu máli."
+    },
+    "symptoms-and-signals": {
+      "title": "Einkenni og merki líkamans",
+      "summary": "Verkir, blettablæðingar, útferð, skap: hvað líkaminn gæti verið að segja þér."
+    },
+    "conditions": {
+      "title": "Sjúkdómar og kvillar",
+      "summary": "PCOS, legslímuflakk, vöðvahnútar í legi og fleira, útskýrt og með heimildum."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Kynheilbrigði og nánd",
+      "summary": "Vellíðan í nánum samskiptum, þægindi og algengar spurningar."
+    },
+    "life-stages": {
+      "title": "Æviskeið",
+      "summary": "Frá fyrstu blæðingum til breytingaskeiðs og tíðahvarfa."
+    },
+    "wellbeing": {
+      "title": "Vellíðan og tíðahringurinn",
+      "summary": "Hvernig svefn, streita og daglegt líf tengjast tíðahringnum."
+    },
+    "tests-and-exams": {
+      "title": "Próf og skoðanir",
+      "summary": "Sjálfsskoðun brjósta, leghálsskimun, egglospróf og fleira."
+    },
+    "pregnancy": {
+      "title": "Meðganga",
+      "summary": "Fyrstu merki, að líða vel, hættumerki og fósturmissir, útskýrt og með heimildum."
+    },
+    "for-partners": {
+      "title": "Fyrir maka",
+      "summary": "Að skilja tíðahringinn hennar, styðja hana vel og byggja sambandið á virðingu."
+    },
+    "safety-and-support": {
+      "title": "Öryggi og stuðningur",
+      "summary": "Að þekkja ofbeldi, vera örugg og finna hjálp, með neyðarnúmerum."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Skildu tíðahringinn í 5 skrefum",
+      "summary": "Róleg yfirferð um allan tíðahringinn og hvern af fjórum fösum hans."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Að kynnast egglosi",
+      "summary": "Hvað egglos er, frjósemisglugginn og merkin sem líkaminn gefur."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormónin á bak við tíðahringinn",
+      "summary": "Kynntu þér boðberana fjóra sem stýra tíðahringnum og hvað hver þeirra gerir."
+    }
+  }
+}
