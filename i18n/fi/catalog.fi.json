@@ -1,0 +1,1476 @@
+{
+  "_meta": {
+    "lang": "fi",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkoholi raskauden aikana",
+      "aliases": [
+        "alkoholi raskaus",
+        "alkoholi raskausaikana",
+        "juominen raskaana",
+        "sikiön alkoholivaurio",
+        "fasd",
+        "fas",
+        "viini raskaana"
+      ],
+      "glance": "Turvallisinta on olla juomatta lainkaan alkoholia raskauden aikana ja silloin, kun yrität tulla raskaaksi.",
+      "overview": "NHS:n ohje on selkeä ja yksinkertainen: turvallisinta on **olla juomatta alkoholia lainkaan**, jos olet raskaana tai yrität tulla raskaaksi. Kun et juo, vauvaasi kohdistuva riski pysyy mahdollisimman pienenä.\n\nSyy on se, että alkoholi kulkeutuu verestäsi istukan kautta vauvaan, jonka maksa ei ole vielä riittävän kehittynyt käsittelemään sitä. Raskaudenaikainen juominen voi aiheuttaa sikiön alkoholivaurion (FASD) – joukon elinikäisiä oppimiseen, käyttäytymiseen ja kehitykseen liittyviä vaikeuksia.\n\nJos joit alkoholia ennen kuin tiesit olevasi raskaana, yritä olla huolehtimatta: pienten määrien aiheuttama riski vauvalle raskauden alussa on todennäköisesti pieni. Tärkeintä on yksinkertaisesti välttää alkoholia tästä eteenpäin koko loppuraskauden ajan.",
+      "deep": null,
+      "when_to_see_doctor": "- Jos sinun on vaikea lopettaa juomista, siinä ei ole mitään hävettävää – kerro asiasta kätilölle tai omalääkärillesi. He voivat tarjota tukea ilman tuomitsemista, ja avun hakeminen on hyväksi sekä sinulle että vauvallesi.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Raskauden seuranta",
+      "aliases": [
+        "neuvola",
+        "äitiysneuvola",
+        "raskauden seuranta",
+        "neuvolakäynnit",
+        "kätilö",
+        "ensikäynti",
+        "raskaudenaikainen hoito",
+        "ultraääni"
+      ],
+      "glance": "Raskauden seuranta tarkoittaa säännöllisiä tarkastuksia koko raskauden ajan – ne auttavat pitämään sinut ja vauvasi terveinä.",
+      "overview": "Raskauden seuranta on hoitoa, jota saat raskauden aikana, jotta sinä ja vauvasi pysyisitte mahdollisimman terveinä. Tapaat yleensä kätilön ja tarvittaessa myös lääkärin. Seuranta kannattaa aloittaa ajoissa: ota yhteyttä kätilöön tai omalääkäriisi heti, kun tiedät olevasi raskaana.\n\nEnsimmäinen varsinainen käynti – niin sanottu ensikäynti – on yleensä raskausviikoilla 8–12. Sen jälkeen sinulle tarjotaan säännöllisiä tarkastuksia: vähintään 10 käyntiä ja 2 ultraäänitutkimusta, jos kyseessä on ensimmäinen lapsesi, tai noin 7 käyntiä, jos olet synnyttänyt aiemmin – ja loppua kohden käyntejä on tiheämmin.\n\nKäynneillä kätilö mittaa verenpaineesi ja tutkii virtsasi, mittaa raskausvatsasi seuratakseen vauvan kasvua, tarjoaa seulontatutkimuksia ja keskustelee kanssasi vauvan liikkeistä ja siitä, miltä sinusta tuntuu. Moni tärkeä asia – kuten raskausmyrkytys tai raskausdiabetes – havaitaan juuri näillä käynneillä ennen kuin itse huomaisit mitään, ja juuri siksi käynnit ovat niin tärkeitä.",
+      "deep": null,
+      "when_to_see_doctor": "- Ota yhteyttä **kätilöön tai omalääkäriisi heti, kun saat tietää olevasi raskaana**, jotta seurantasi voi alkaa ajoissa – mieluiten niin, että ehdit ensimmäiselle käynnille ennen noin 10–12 raskausviikkoa.\n- Yritä käydä **kaikilla** neuvolakäynneillä, vaikka voisit täysin hyvin – monen tarkastuksen tarkoitus on löytää oireettomat ongelmat ajoissa.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Vauvan liikkeet",
+      "aliases": [
+        "vauvan liikkeet",
+        "sikiön liikkeet",
+        "potkut",
+        "vauva ei liiku",
+        "liikkeet vähentyneet",
+        "potkujen laskeminen",
+        "vauva liikkuu vähemmän"
+      ],
+      "glance": "Vauvan liikkeiden tunteminen on merkki siitä, että vauva voi hyvin – jos liikkeet hidastuvat tai muuttuvat, soita kätilölle heti.",
+      "overview": "Vauvan liikkeiden tunteminen on yksi rauhoittavista merkeistä siitä, että vauva voi hyvin. Useimmat alkavat tuntea liikkeitä jossain vaiheessa raskausviikkojen 16 ja 24 välillä – ensimmäisessä raskaudessa usein myöhemmin, joten ensimmäisellä kerralla on tavallista tuntea ne vasta 20 viikon jälkeen.\n\nEi ole olemassa tiettyä määrää liikkeitä, jotka sinun ”pitäisi” tuntea, eikä potkuja tarvitse laskea jotakin tavoitemäärää vastaan. Jokainen vauva on erilainen, ja tärkeintä on oppia tuntemaan **oman** vauvasi tavallinen rytmi päivän mittaan – milloin hän on aktiivinen ja milloin rauhallinen.\n\nKun tunnet tämän rytmin, huomiota kannattaa kiinnittää siihen, jos se muuttuu. Luota siihen, mitä tiedät omasta vauvastasi.",
+      "deep": null,
+      "when_to_see_doctor": "Kun opit tuntemaan vauvasi tavallisen liikerytmin, huomaat myös, jos se muuttuu. Jos olet joskus epävarma, ovatko liikkeet vähentyneet tai muuttuneet, on aina oikein soittaa ja tarkistaa – et koskaan vie kenenkään aikaa turhaan.",
+      "red_flags": "- Jos vauvasi **liikkuu tavallista vähemmän, liikkeet muuttuvat tai et tunne hänen liikkuvan lainkaan**, **soita kätilölle tai synnytysosastolle välittömästi** – mihin vuorokaudenaikaan tahansa. **Älä odota seuraavaan päivään**, vaikka olisi keskiyö.\n- Älä luota kotona käytettävään sydänäänilaitteeseen (doppleriin) tai sovellukseen rauhoittaaksesi itseäsi – mene tarkastettavaksi paikan päälle."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Selkäkipu raskauden aikana",
+      "aliases": [
+        "selkäkipu raskaus",
+        "raskaus selkäkipu",
+        "alaselkäkipu raskaana",
+        "selkä kipeä raskaana",
+        "lantiokipu raskaus",
+        "liitoskipu"
+      ],
+      "glance": "Selkäkipu on raskauden aikana hyvin yleistä, kun nivelsiteet pehmenevät ja vatsa kasvaa – yleensä se on vaaratonta.",
+      "overview": "Selkäkipu on yksi raskauden yleisimmistä vaivoista. Kun kehosi valmistautuu synnytykseen, nivelsiteet pehmenevät ja venyvät luonnostaan, ja kasvava raskausvatsa muuttaa tapaa, jolla kannat painoasi – kumpikin kuormittaa alaselkää ja lantiota tavallista enemmän.\n\nArkiset asiat voivat helpottaa: kiinnitä huomiota asentoosi seistessä, istuessa ja nostaessa; käytä matalia, tukevia kenkiä; nuku tukevalla patjalla tai käytä tukityynyä; ja liiku säännöllisesti ja kevyesti, esimerkiksi kävellen, raskausjoogalla tai ryhmäliikuntatunnilla opituilla harjoituksilla. Jos kipu todella haittaa arkeasi, raskaana olevien hoitoon perehtynyt fysioterapeutti voi antaa sinulle yksilöllisiä neuvoja.\n\nUseimmiten raskaudenaikainen selkäkipu ei ole huolestuttavaa – mutta muutama tilanne on syytä tarkistuttaa viipymättä, ja niitä varten alla olevat ohjeet ovat.",
+      "deep": null,
+      "when_to_see_doctor": "Ota viipymättä yhteyttä **omalääkäriisi tai kätilöön**, jos selkäkipusi:\n\n- on **voimakasta** tai alkaa **toisella tai kolmannella raskauskolmanneksella** (se voi joskus olla merkki alkavasta synnytyksestä)\n- liittyy **kuumeeseen, emätinverenvuotoon tai kipuun virtsatessa**\n- tuntuu **kyljessä tai kyljissä, kylkiluiden alla**",
+      "red_flags": "- Soita **hätänumeroon {{emergency}} tai mene päivystykseen**, jos **jaloistasi, pakaroistasi tai sukupuolielintesi alueelta katoaa tunto** tai menetät virtsarakon tai suolen hallinnan. Tämä on harvinaista, mutta vaatii päivystyksellistä hoitoa."
+    },
+    "basal-body-temperature": {
+      "title": "Peruslämpö",
+      "aliases": [
+        "peruslämpö",
+        "bbt",
+        "aamulämpö",
+        "lämpömenetelmä",
+        "peruslämmön mittaus",
+        "ovulaatio lämpö"
+      ],
+      "glance": "Peruslämpö on levossa mitattu aamulämpösi, joka nousee hieman ovulaation jälkeen.",
+      "overview": "Peruslämpö (BBT) on kehosi lämpötila täydessä levossa. Kun se mitataan joka päivä samalla tavalla, siinä näkyy kierron aikana pieni mutta paljon kertova muutos: ovulaation jälkeen lämpö nousee hieman ja pysyy koholla seuraaviin kuukautisiin asti.\n\nNousu on pieni – noin 0,4–0,8 °F (suunnilleen 0,2–0,4 °C) – joten se luetaan usean päivän mittausten muodostamasta kuviosta eikä yksittäisestä lukemasta. Jotta huomaat nousun, mittaa lämpösi joka aamu ennen kuin nouset ylös, syöt tai juot, mieluiten samaan aikaan. Noin kolmen päivän kuluttua lämmön nousun alkamisesta lähes kaikilla ovulaatio on jo tapahtunut.\n\nKoska nousu tapahtuu *vasta* munasolun irtoamisen jälkeen, peruslämpö vahvistaa, että ovulaatio on tapahtunut, eikä ennusta sitä etukäteen. Muutaman kierron aikana se voi auttaa sinua hahmottamaan oman kiertosi kulun, vaikka yksinään se ei olekaan tarkka tapa tunnistaa hedelmälliset päivät.",
+      "deep": "Peruslämpö on yksi niistä hedelmällisyyden merkeistä, joita kirjataan päivittäin kohdunkaulan liman ja kierron pituuden ohella. Se sopii luontevasti yhteen liman seurannan kanssa: muutos kirkkaaksi, liukkaaksi limaksi viittaa siihen, että hedelmällinen ikkuna on avautumassa, kun taas muutamaa päivää myöhemmin tapahtuva lämmön nousu vahvistaa, että ovulaatio on ohi. Moni asia voi vaikuttaa lepolämpöön – huonosti nukuttu yö, sairaus, alkoholi tai tavallista pidemmät aamu-unet – joten yksittäiset poikkeavat lukemat merkitsevät vähemmän kuin kokonaissuuntaus.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Verenvuoto raskauden aikana",
+      "aliases": [
+        "verenvuoto raskaus",
+        "vuoto raskaana",
+        "tiputteluvuoto raskaus",
+        "veristä vuotoa raskaana",
+        "alkuraskauden vuoto",
+        "ruskea vuoto raskaana"
+      ],
+      "glance": "Verenvuoto raskauden aikana ei aina ole vakavaa – vähäinen tiputteluvuoto on alkuraskaudessa yleistä – mutta tarkistuta se aina.",
+      "overview": "Emättimestä tuleva verenvuoto raskauden aikana ei aina tarkoita, että jokin olisi vialla. Vähäinen verenvuoto tai tiputteluvuoto on melko yleistä etenkin alkuraskaudessa, ja monet raskaudet jatkuvat sen jälkeen täysin normaalisti.\n\nVerenvuoto voi kuitenkin joskus olla merkki ongelmasta – kuten keskenmenosta tai kohdunulkoisesta raskaudesta – joten se pitää **aina tarkistuttaa**, oli vuodon määrä mikä tahansa. Tutkimuksissa syy selviää, ja saat tarvittaessa oikeaa hoitoa nopeasti.\n\nKoska sama oire voi tarkoittaa hyvin eri asioita, hyödyllisintä ei ole arvailla – vaan ottaa yhteyttä ja päästä tutkittavaksi.",
+      "deep": null,
+      "when_to_see_doctor": "- **Ota aina yhteyttä synnytysosastolle** (tai, jos raskautesi on alle 20 viikkoa tai sinulla ei ole heidän numeroaan, alkuraskauden poliklinikalle tai **päivystävään lääkäriin**), jos sinulla on raskauden aikana **mitä tahansa** verenvuotoa emättimestä, myös vähäistä tiputteluvuotoa – jotta syy voidaan selvittää.",
+      "red_flags": "- Soita **hätänumeroon {{emergency}} tai mene päivystykseen**, jos sinulla on **runsasta verenvuotoa** – esimerkiksi side kastuu läpi pian sen vaihtamisen jälkeen – etenkin jos siihen liittyy **voimakas vatsakipu, kipu olkapään kärjessä, pahoinvointi, pyörtymisen tunne, huimaus tai tajunnan menetys.** Tämä vaatii päivystyksellistä hoitoa."
+    },
+    "breast-awareness": {
+      "title": "Rintojen omatarkkailu",
+      "aliases": [
+        "rintojen omatarkastus",
+        "rintojen tutkiminen",
+        "rintojen omatarkkailu",
+        "kyhmy rinnassa",
+        "patti rinnassa",
+        "rintasyöpä",
+        "rintojen tarkistaminen"
+      ],
+      "glance": "Rintojen omatarkkailu tarkoittaa yksinkertaisesti sitä, että tiedät, miltä rintasi tavallisesti näyttävät ja tuntuvat, jotta huomaat muutokset.",
+      "overview": "Rintojen omatarkkailu ei ole mikään erityinen tekniikka – se on vain sen oppimista, mikä on sinulle normaalia, jotta kaikki uusi erottuu. Kun tarkastelet rintojasi tai rintakehääsi säännöllisesti, opit tuntemaan niiden tavallisen ulkonäön ja tuntuman; kerran kuukaudessa on hyvä rytmi.\n\nYhtä ”oikeaa” tapaa ei ole. Moni katsoo peilistä ensin kädet alhaalla ja sitten kädet ylös nostettuina ja tunnustelee kumpaakin rintaa kainaloon asti. Tavoitteena on tuttuus, ei diagnoosi – tarkoitus on vain huomata mahdollinen muutos ajoissa.\n\nRinnat myös muuttuvat luonnostaan kierron aikana ja elämän mittaan, joten osa muutoksista on täysin normaaleja. Omatarkkailun tarkoitus on tuntea oma normaalisi niin hyvin, että huomaat, jos jokin poikkeaa siitä.",
+      "deep": null,
+      "when_to_see_doctor": "Hakeudu omalääkärin vastaanotolle, jos huomaat muutoksen, joka ei ole sinulle normaali, esimerkiksi:\n\n- kyhmy tai turvotus rinnassa, rintakehällä tai kainalossa\n- ihomuutos, kuten kuoppaisuus (se voi näyttää appelsiininkuorelta) tai punoitus\n- muutos toisen tai molempien rintojen koossa tai muodossa\n- eritettä nännistä (jos et ole raskaana tai imetä), ja siinä voi olla verta\n- muutos nännin ulkonäössä, esimerkiksi nänni kääntyy sisäänpäin\n- kipu rinnassa tai kainalossa, joka ei mene ohi\n\nUseimmat rintojen muutokset eivät ole syöpää, vaan osoittautuvat vaarattomiksi – mutta muutos kannattaa aina tarkistuttaa viipymättä, sillä jos jokin vaatii hoitoa, varhainen löytäminen auttaa.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Imetys",
+      "aliases": [
+        "imetys",
+        "imettäminen",
+        "rintamaito",
+        "rintaruokinta",
+        "vauvan ruokinta",
+        "maidon riittävyys",
+        "imetysohjaus"
+      ],
+      "glance": "Rintamaito suojaa vauvaa infektioilta ja muuttuu vauvan kasvaessa – ja mikä tahansa määrä on hyödyksi.",
+      "overview": "Rintamaito on vauvalle luonnollista ja täysipainoista ravintoa: se antaa vauvan tarvitsemat ravintoaineet, vitamiinit ja kivennäisaineet, ja sen koostumus muuttuu ajan mittaan vauvan kehitysvaiheen mukaan. Se myös auttaa suojaamaan infektioilta ja sairauksilta ja tuo joitakin pidemmän aikavälin terveyshyötyjä.\n\nHyötyjä on myös imettäjälle – imetykseen liittyy muun muassa pienempi rinta- ja munasarjasyövän riski – ja yleisesti mitä enemmän ja pidempään imetät, sitä suuremmat hyödyt ovat. Tärkeää on, että **mikä tahansa** määrä rintamaitoa on arvokasta; kyse ei ole kaikki tai ei mitään -valinnasta.\n\nVauvan ruokkiminen voi alussa olla myös odotettua vaikeampaa, ja se on yleistä. Apua on saatavilla – kätilöltä, neuvolan terveydenhoitajalta ja paikallisista imetystukipalveluista – joten apua kannattaa pyytää ajoissa, jos imetys ei suju.",
+      "deep": null,
+      "when_to_see_doctor": "- Pyydä **kätilöltä tai neuvolan terveydenhoitajalta** apua ajoissa, jos imetys on kivuliasta tai vaikeaa tai olet huolissasi siitä, saako vauvasi tarpeeksi maitoa – tuki voi auttaa todella paljon.\n- Se, miten ruokit vauvasi, on henkilökohtainen päätös, ja tukea on saatavilla, valitsitpa minkä tahansa; tärkeintä on, että sinä ja vauvasi voitte hyvin.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Ruskea vuoto",
+      "aliases": [
+        "ruskea vuoto",
+        "ruskea valkovuoto",
+        "ruskea tiputteluvuoto",
+        "ruskea veri",
+        "vanha veri",
+        "tumma vuoto",
+        "ruskeat kuukautiset"
+      ],
+      "glance": "Ruskea vuoto on yleensä vähän verta, usein kuukautisten vähävuotoisina päivinä. Ruskea tiputteluvuoto muulloin on syytä tarkistuttaa.",
+      "overview": "Ruskea vuoto tarkoittaa pientä määrää ruskehtavaa verta tai eritettä, jonka huomaat alushousuissa tai wc-paperissa. Moni huomaa sitä jossain vaiheessa, ja hyvin usein se on yksinkertaisesti osa kuukautisia.\n\nKuukautisveri ei aina ole kirkkaanpunaista. Runsaimpina päivinä se on yleensä punaista, mutta vähävuotoisempina päivinä se voi näyttää vaaleanpunaiselta tai ruskealta. Ruskehtava sävy kuukautisten vähävuotoisina päivinä on siis yleistä ja normaalia.\n\nRuskeaa vuotoa voi esiintyä myös muulloin. Tiputteluvuoto tarkoittaa pieniä vaaleanpunaisia, punaisia tai ruskeita veritäpliä, ja kuukautisten välisellä tiputteluvuodolla on useita tavallisia syitä. Hormonaalinen ehkäisy, kuten e-pillerit, on yksi yleisimmistä. Muita syitä ovat pienet kasvannaiset kohdussa tai sen ympärillä (kuten polyypit tai myoomat) ja infektiot, kuten klamydia. Aivan alkuraskaudessa jotkut huomaavat vähän tiputteluvuotoa suunnilleen silloin, kun kuukautisten pitäisi alkaa. Tätä kutsutaan kiinnittymisvuodoksi.\n\nKoska ruskealla tiputteluvuodolla kuukautisten ulkopuolella voi olla eri syitä – joista useimmat ovat vähäisiä – hyödyllisintä ei ole arvailla. Parempi on tarkistuttaa asia, jotta tiedät, mistä sinun kohdallasi on kyse.",
+      "deep": null,
+      "when_to_see_doctor": "- Hakeudu omalääkärille tai seksuaaliterveysklinikalle, jos sinulla on **ruskeaa tiputteluvuotoa tai verenvuotoa kuukautisten välillä tai yhdynnän jälkeen**, vaikka se olisi vähäistä. Se ei yleensä ole vakavaa, mutta se kannattaa aina tarkistuttaa.\n- Jos olet **raskaana tai saatat olla**, ota yhteyttä synnytysosastolle, alkuraskauden poliklinikalle tai **päivystävään lääkäriin** mistä tahansa tiputteluvuodosta, myös ruskeasta, jotta syy voidaan selvittää.\n- Hakeudu omalääkärille, jos huomaat **mitä tahansa ruskeaa tai vaaleanpunaista vuotoa tai verenvuotoa vaihdevuosien jälkeen**, vaikka sitä olisi vain vähän tai se olisi tapahtunut vain kerran.\n- Kysy neuvoa omalääkäriltä, seksuaaliterveysklinikalta tai päivystävältä lääkäriltä, jos valkovuotosi **väri, haju tai koostumus muuttuu** tai siihen liittyy kutinaa, arkuutta, lantion alueen kipua tai kipua virtsatessa.",
+      "red_flags": "- Pyydä **kiireellistä** aikaa omalääkärille tai ota yhteyttä **päivystävään lääkäriin**, jos **kuukautisesi ovat hiljattain jääneet tulematta ja sinulla on epätavallista verenvuotoa sekä vatsa- tai lantiokipua**. Tämä on tarkistettava nopeasti, koska se voi olla merkki kohdunulkoisesta raskaudesta.\n- Jos olet raskaana, soita **hätänumeroon {{emergency}}**, jos sinulla on verenvuotoa ja **voimakasta vatsakipua, kipua olkapäässä, pyörtymisen tunnetta, huimausta tai pahoinvointia tai jos vuoto on runsasta** (side kastuu läpi pian sen vaihtamisen jälkeen)."
+    },
+    "cervical-mucus": {
+      "title": "Kohdunkaulan lima",
+      "aliases": [
+        "kohdunkaulan lima",
+        "valkovuoto",
+        "emätineritys",
+        "limaeritys",
+        "munanvalkuaismainen lima",
+        "hedelmällinen lima",
+        "kohdunkaulan erite"
+      ],
+      "glance": "Kohdunkaulan lima on luonnollista valkovuotoa, joka muuttuu kierron aikana ja kertoo hedelmällisistä päivistäsi.",
+      "overview": "Kohdunkaulan lima on kohdunkaulan tuottamaa eritettä, jonka saatat huomata valkovuotona. Se on normaalia, ja sen ulkonäkö ja tuntuma muuttuvat kierron aikana melko ennustettavalla tavalla – siksi se on yksi merkeistä, joiden avulla hedelmälliset päivät voi tunnistaa.\n\nHeti kuukautisten jälkeen on usein muutama ”kuiva” päivä, jolloin limaa on vähän. Kun munasolu alkaa kypsyä, liman määrä lisääntyy, ja se on yleensä valkoista tai kellertävää, sameaa ja tahmeaa. Juuri ennen ovulaatiota se muuttuu tavallisesti kirkkaaksi, märäksi ja liukkaaksi ja venyy sormien välissä kuin raaka munanvalkuainen – tämä on hedelmällisintä aikaa. Ovulaation jälkeen lima muuttuu yleensä taas tahmeaksi ja sameaksi tai kuivuu.\n\nJokaisen kuvio on hieman erilainen, ja oman kuvion oppiminen voi vaatia muutaman kierron tarkkailua. Jotkin asiat – kuten hormonaalinen ehkäisy, imetys tai infektio – voivat muuttaa limaa, joten se ei ole kaikille luotettava hedelmällisyyden merkki.",
+      "deep": "Kohdunkaulan liman tulkitseminen on yksi niistä hedelmällisyyden merkeistä, joita seurataan lepolämmön ja kierron pituuden ohella; niiden oppiminen vie yleensä kahdesta kolmeen kiertoa. Toisin kuin lämmön nousu, joka vahvistaa ovulaation vasta sen tapahduttua, muutos kirkkaaksi, liukkaaksi, munanvalkuaismaiseksi limaksi ilmenee yleensä *ennen* ovulaatiota. Siksi sitä käytetään merkkinä hedelmällisen ikkunan avautumisesta eikä vasta sen sulkeutumisesta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Kohdunkaulan seulonta (Papa-koe)",
+      "aliases": [
+        "papa-koe",
+        "papakoe",
+        "irtosolunäyte",
+        "kohdunkaulan syövän seulonta",
+        "gynekologinen irtosolututkimus",
+        "hpv-testi",
+        "seulonta"
+      ],
+      "glance": "Kohdunkaulan seulonta on rutiinitarkastus, jossa tutkitaan kohdunkaulasi terveyttä ja joka auttaa ehkäisemään kohdunkaulan syöpää.",
+      "overview": "Kohdunkaulan seulonta on testi, jolla tutkitaan kohdunkaulan – emättimen yläpäässä olevan kohdun suuaukon – terveyttä. Se ei ole syöpätesti. Sen sijaan se on keino havaita muutokset varhain ja auttaa estämään kohdunkaulan syövän kehittyminen ylipäätään.\n\nKaikki, joilla on kohdunkaula, kutsutaan seulontaan 25-vuotiaasta 64-vuotiaaksi. Saat kutsun säännöllisin väliajoin, kun on vuorosi, joten sinun ei tarvitse itse muistaa varata aikaa – mutta on aina oma valintasi, osallistutko.\n\nItse testi on nopea, ja sen tekee hoitaja. Moni jännittää sitä hieman, mikä on täysin ymmärrettävää; kun tietää, mitä varten testi on – rutiininomainen, ennaltaehkäisevä tarkastus – se voi tuntua helpommalta.",
+      "deep": null,
+      "when_to_see_doctor": "- Seulonta on tarkoitettu tilanteisiin, joissa sinulla **ei** ole oireita. Jos huomaat seulontojen välillä jotain huolestuttavaa – kuten epätavallista verenvuotoa (kuukautisten välillä, yhdynnän jälkeen tai vaihdevuosien jälkeen) – hakeudu omalääkärille äläkä odota seuraavaa kutsua.\n- Jos olet saanut kutsun ja olet epävarma tai jännittynyt osallistumisesta, voit keskustella omalääkärisi tai terveyskeskuksen hoitajan kanssa: he voivat kertoa, mitä tutkimuksessa tapahtuu, ja vastata kysymyksiisi.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Lasten kaltoinkohtelu ja lasten suojeleminen",
+      "aliases": [
+        "lasten kaltoinkohtelu",
+        "lapsen pahoinpitely",
+        "lastensuojelu",
+        "lastensuojeluilmoitus",
+        "huoli lapsesta",
+        "laiminlyönti",
+        "lapsen suojeleminen"
+      ],
+      "glance": "Jos olet huolissasi siitä, että lasta saatetaan vahingoittaa tai laiminlyödä, on oikein kysyä neuvoa – sinun ei tarvitse olla varma.",
+      "overview": "Lasten kaltoinkohtelu on mitä tahansa alle 18-vuotiaaseen kohdistuvaa vahingoittamista. Siihen kuuluvat fyysinen, seksuaalinen ja henkinen väkivalta sekä laiminlyönti (lapsen perustarpeista huolehtimatta jättäminen). Se on valitettavan yleistä, se voi aiheuttaa elinikäistä haittaa, eikä se ole koskaan lapsen syytä.\n\nSaatat olla huolissasi jostakin elämääsi kuuluvasta lapsesta tai lapsesta, jonka olet huomannut. Sinun ei tarvitse olla varma eikä sinulla tarvitse olla todisteita, jotta voit toimia huolesi perusteella – huoleesi luottaminen ja neuvon kysyminen on juuri oikein, ja se voi suojella lasta.\n\nJa jos olet itse kokenut kaltoinkohtelua lapsena, tiedä, ettei vahinko koskaan ollut sinun syytäsi ja että tukea on saatavilla myös sinulle, missä iässä tahansa.",
+      "deep": null,
+      "when_to_see_doctor": "- Jos olet huolissasi lapsesta, voit pyytää neuvoa luottamuksellisesti **lastensuojelusta tai sosiaalipalveluista**, lasten suojeluun erikoistuneesta **auttavasta puhelimesta** tai **omalääkäriltä, neuvolan terveydenhoitajalta tai lapsen koulusta**.\n- Et ”ylireagoi”, kun kysyt. On parempi tarkistaa kuin odottaa.",
+      "red_flags": "- Jos lapsi on **välittömässä vaarassa** tai vakavasti loukkaantunut, ota heti yhteyttä hätäpalveluihin: **112** EU:ssa (myös Italiassa), **999** Isossa-Britanniassa, **911** Yhdysvalloissa ja Kanadassa."
+    },
+    "coercive-control": {
+      "title": "Pakottava kontrolli",
+      "aliases": [
+        "pakottava kontrolli",
+        "kontrolloiva käytös",
+        "henkinen väkivalta",
+        "psyykkinen väkivalta",
+        "eristäminen",
+        "taloudellinen väkivalta",
+        "gaslighting",
+        "kaasuvalotus"
+      ],
+      "glance": "Pakottava kontrolli on toistuvaa kontrolloivaa käyttäytymistä – eristämistä, valvontaa, uhkailua – ja se tunnustetaan väkivallan muodoksi.",
+      "overview": "Pakottava kontrolli on väkivallan muoto, joka toimii kontrollin kautta joko fyysisen vahingoittamisen sijasta tai sen lisäksi. Se on toistuva kaava – ei yksittäinen riita – jossa yksi ihminen rajoittaa vähitellen toisen vapautta ja käsitystä itsestään.\n\nSe voi näkyä niin, että sinut eristetään ystävistä ja perheestä, puhelintasi, liikkumistasi tai rahankäyttöäsi valvotaan tai rajoitetaan, sinulle sanellaan, mitä pukea päälle tai miten käyttäytyä, tai elät jatkuvan arvostelun, uhkailun tai pelottelun keskellä. Koska mustelmia ei välttämättä ole, sitä voi olla vaikea nimetä, eivätkä muut välttämättä näe sitä – mutta se tunnustetaan väkivallaksi, ja se voi olla aivan yhtä vahingollista kuin fyysinen väkivalta.\n\nJos tunnistat tästä jotain, se ei tarkoita, että olisit liian herkkä tai että olisit itse aiheuttanut sen. Kontrolloiva käyttäytyminen on toisen ihmisen tekemä valinta. Kun ymmärrät, mistä on kyse, se voi olla ensimmäinen askel kohti tukea.",
+      "deep": "Pakottava kontrolli kehittyy usein hitaasti, mikä on osasyy siihen, miksi sitä on vaikea huomata sisältä päin – pienistä rajoituksista tulee normaaleja, ja epävarmuus omasta itsestä kasvaa. Ajan mittaan se kuluttaa mielenterveyttä. Tilanteesta puhuminen sellaisen ihmisen kanssa, joka on koulutettu ymmärtämään näitä kaavoja, voi auttaa sinua näkemään tilanteen selvemmin ja miettimään ilman painostusta, mitä haluat seuraavaksi tehdä.",
+      "when_to_see_doctor": "- Väkivaltaa kokeneiden tukikeskus tai auttava puhelin (Italiassa **1522**) voi keskustella kanssasi kokemastasi luottamuksellisesti ja maksutta sekä auttaa sinua ymmärtämään vaihtoehtojasi – sinun ei tarvitse olla fyysisessä vaarassa ottaaksesi yhteyttä.\n- Myös omalääkäri tai terapeutti voi tukea sinua ja ohjata sinut erityispalveluihin.",
+      "red_flags": "- Jos olet **välittömässä vaarassa**, ota heti yhteyttä hätäpalveluihin: **112** EU:ssa (myös Italiassa), **999** Isossa-Britanniassa, **911** Yhdysvalloissa ja Kanadassa.\n- Italiassa **1522** on maksuton, avoinna 24 tuntia vuorokaudessa, nimetön ja monikielinen – puhelimitse tai chatissa."
+    },
+    "combined-pill": {
+      "title": "Yhdistelmäehkäisypilleri",
+      "aliases": [
+        "e-pilleri",
+        "ehkäisypilleri",
+        "yhdistelmäpilleri",
+        "yhdistelmäehkäisypilleri",
+        "pillerit",
+        "coc",
+        "ehkäisytabletti"
+      ],
+      "glance": "Yhdistelmäehkäisypilleri on päivittäin otettava pilleri, jossa on kahta hormonia ja joka toimii pääasiassa estämällä ovulaation.",
+      "overview": "Yhdistelmäehkäisypilleri on päivittäin otettava tabletti, joka sisältää kahta hormonia – estrogeenin ja progestiinin muotoja, jotka muistuttavat munasarjojen tuottamia hormoneja. Se on yksi tutuimmista ehkäisymenetelmistä.\n\nSe ehkäisee raskauden usealla tavalla samanaikaisesti. Pääasiassa se estää munasarjoja vapauttamasta munasolua (ovulaatio). Lisäksi se sakeuttaa kohdunkaulan limaa, jolloin siittiöiden on vaikeampi päästä läpi, ja ohentaa kohdun limakalvoa.\n\nSen teho riippuu siitä, otetaanko sitä ohjeiden mukaan: täydellisesti käytettynä se on yli 99-prosenttisesti tehokas, mutta tavallisessa arkikäytössä – kun pillereitä joskus unohtuu tai ne otetaan myöhässä – sen teho on noin 91 %. Kuten useimmat menetelmät, se ei suojaa sukupuolitaudeilta, joten jotkut käyttävät lisäksi kondomia.",
+      "deep": "Yhdistelmäpilleriä otetaan yleensä tietyn kaavan mukaan kuukauden aikana, ja sen ottotapa, se, kenelle se sopii, sekä sen haittavaikutukset ja riskit käydään läpi, kun ammattilainen määrää sen – se ei sovi kaikille. Koska kyse on päivittäisestä menetelmästä, sen teho todellisessa elämässä riippuu paljon rutiineista. Tämä artikkeli kertoo, mitä pilleri on ja miten se toimii; aloittamisen, käytön tai lopettamisen yksityiskohdista kannattaa keskustella lääkärin, hoitajan tai farmaseutin kanssa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Tavalliset raskausoireet",
+      "aliases": [
+        "raskausoireet",
+        "raskausvaivat",
+        "närästys raskaus",
+        "selkäkipu raskaus",
+        "turvonneet nilkat",
+        "ummetus raskaus",
+        "raskauden kivut",
+        "suonenveto raskaus"
+      ],
+      "glance": "Raskauteen kuuluu paljon pieniä kolotuksia ja muutoksia – useimmiten normaaleja, vaikka muutama on syytä tarkistuttaa.",
+      "overview": "Raskaus tuo kehollesi paljon muutoksia, ja sen mukana tulee pitkä lista arkisia vaivoja. Useimmat ovat yleisiä eivätkä ole merkki siitä, että jokin olisi vialla – ne kuuluvat yksinkertaisesti vauvan kasvamiseen.\n\nTuttuja vaivoja ovat esimerkiksi selkäkipu, närästys ja ruoansulatusvaivat, ummetus, peräpukamat, turvonneet nilkat, jalkaterät ja sormet, väsymys ja katkonainen uni, jalkojen suonenvedot, päänsärky, pyörtymisen tunne ja tavallista runsaampi valkovuoto. Moni niistä helpottaa pienillä keinoilla, ja kätilösi voi kertoa, mikä on turvallista, jos jokin vaiva haittaa sinua.\n\nHyödyllistä on tietää, mitkä muutokset ovat tavallisia ja mistä kannattaa kertoa – sillä muutama oire, vaikka harvinaisempi, pitää tarkistuttaa eikä vain odottaa sen menevän ohi.",
+      "deep": null,
+      "when_to_see_doctor": "Useimmat näistä ovat normaaleja, mutta ota viipymättä yhteyttä **kätilöön tai synnytysosastolle**, jos sinulla on jokin seuraavista:\n\n- **verenvuoto emättimestä** tai äkillinen nesteen ryöpsähdys tai nesteen tihkuminen emättimestä\n- **vauvasi liikkuu vähemmän** kuin tavallisesti\n- **kova päänsärky, näköhäiriöt tai äkillinen turvotus** kasvoissa, käsissä tai jalkaterissä (mahdollisia raskausmyrkytyksen merkkejä)\n- **voimakas tai toispuoleinen vatsakipu** tai **kuumetta**\n- **kutina**, etenkin käsissä ja jalkapohjissa tai öisin pahentuva (se voi olla merkki raskaudenaikaisesta maksasairaudesta, joka on tutkittava)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Kondomit",
+      "aliases": [
+        "kondomi",
+        "kondomit",
+        "kumi",
+        "ehkäisykondomi",
+        "estemenetelmä",
+        "sisäkondomi",
+        "naisten kondomi"
+      ],
+      "glance": "Kondomi on estemenetelmä – ja ainoa ehkäisymenetelmä, joka suojaa myös sukupuolitaudeilta.",
+      "overview": "Kondomi on ohut este – yleensä lateksia tai lateksiallergisille tarkoitettua muovista vaihtoehtoa – jota pidetään peniksen päällä yhdynnän aikana. Sen toimintaperiaate on yksinkertainen: se estää siittiöitä pääsemästä emättimeen.\n\nKondomit ovat ehkäisymenetelmien joukossa erityisiä siksi, että ne ovat **ainoa menetelmä, joka suojaa myös sukupuolitaudeilta, HIV mukaan lukien.** Siksi niitä käytetään usein toisen menetelmän rinnalla – toinen ehkäisee raskauden, ja yhdessä ne suojaavat myös infektioilta.\n\nKun kondomia käytetään oikein joka kerta, se ehkäisee raskauden noin 98-prosenttisesti. Tavallisessa käytössä – kun sitä joskus käytetään väärin tai ei joka kerta – teho laskee noin 82 prosenttiin. Ratkaisevaa on käyttää kondomia oikein ja johdonmukaisesti.",
+      "deep": "Koska kondomi otetaan käyttöön tilanteessa eikä etukäteen, sen teho todellisessa elämässä riippuu paljon johdonmukaisesta ja oikeasta käytöstä. Sisäkondomit (joita pidetään emättimen sisällä) ovat toinen estemenetelmä. Toisin kuin useimmat menetelmät, kondomit eivät vaadi reseptiä ja niitä on laajasti saatavilla, ja niiden kaksoisrooli – suoja sekä raskaudelta että sukupuolitaudeilta – on syy siihen, miksi ne nousevat niin usein esiin keskusteluissa turvaseksistä.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Suostumus ja kunnioitus",
+      "aliases": [
+        "suostumus",
+        "kunnioita hänen rajojaan",
+        "innostunut suostumus",
+        "kehollinen itsemääräämisoikeus",
+        "rajat",
+        "ei tarkoittaa ei",
+        "seksuaalinen itsemääräämisoikeus"
+      ],
+      "glance": "Suostumus on selkeä, vapaaehtoinen ja innostunut kyllä – joka kerta, ja sen voi perua milloin tahansa.",
+      "overview": "Kunnioitus alkaa hänen oikeudestaan päättää omasta kehostaan – aina. Suostumus läheisyyteen tarkoittaa vapaaehtoista, tietoon perustuvaa ja innostunutta **kyllä**-vastausta. Hiljaisuus ei ole suostumus. Vastahakoinen ”no okei” ei ole suostumus. Nukkuva, hyvin humalassa oleva tai painostuksen alla oleva ihminen ei voi aidosti suostua. Ja kyllä yhdelle asialle tai yhtenä päivänä ei ole kyllä kaikelle tai seuraavalle kerralle.\n\nSuostumuksen voi perua milloin tahansa, ja ”lopeta” tai ”ei tänä iltana” on täydellinen vastaus, jota ei tarvitse perustella. Painostaminen, syyllistäminen, mököttäminen kunnes hän antaa periksi tai seksin pitäminen jonakin, mitä sinulle ollaan velkaa, eivät ole hyväksyttäviä – parisuhde ei ole velka.",
+      "deep": "Miltä kunnioitus näyttää käytännössä:\n\n- **Kysy ja varmista.** ”Onko tämä ok?” – ja kiinnitä huomiota siihen, miten hän reagoi, sekä sanoin että kehollaan.\n- **Ota ”ei” vastaan arvokkaasti.** Ei murjottamista, painostusta tai rankaisemista. Hänen vastauksensa on viimeinen sana.\n- **Innostuksella on merkitystä.** Jos hän vaikuttaa epävarmalta, empivältä tai vain myötäilee, lopeta ja kysy.\n- **Hänen kehonsa, hänen päätöksensä** – läheisyydestä, ehkäisystä, raskaudesta, terveydestään, ulkonäöstään ja valinnoistaan. Sinulla on äänivaltaa yhteisessä elämässänne, mutta ei koskaan veto-oikeutta hänen kehoonsa.\n- **Kunnioitus on jokapäiväistä.** Se, miten puhut hänelle ja hänestä ja miten suhtaudut hänen rajoihinsa pienissä asioissa, on perusta, jonka varassa kaikki muu on.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Ehkäisy",
+      "aliases": [
+        "ehkäisy",
+        "raskauden ehkäisy",
+        "ehkäisymenetelmät",
+        "perhesuunnittelu",
+        "ehkäisyneuvola",
+        "e-pillerit",
+        "ehkäisyvaihtoehdot"
+      ],
+      "glance": "Ehkäisy tarkoittaa eri keinoja ehkäistä raskaus – ja vaihtoehtoja on paljon.",
+      "overview": "Ehkäisy eli raskauden ehkäisy tarkoittaa niitä monia menetelmiä, joilla raskaus voidaan ehkäistä. Niitä on paljon, ja ne toimivat eri tavoin: jotkin perustuvat hormoneihin, jotkin ovat esteitä, jotkin asetetaan kohtuun ja jotkin perustuvat kierron seurantaan.\n\nMenetelmän teho riippuu paljon siitä, miten sitä käytetään. Jotkin menetelmät – kuten ehkäisykapseli ja kierukat – ovat ”asenna ja unohda” -menetelmiä, ja niiden teho on yli 99 %. Toiset, kuten e-pillerit tai kondomit, ovat hyvin tehokkaita täydellisesti käytettyinä, mutta hieman vähemmän tavallisessa arkikäytössä, koska pillerin voi helpommin unohtaa tai kondomia käyttää väärin.\n\nYksi asia on hyvä tietää: **vain kondomit suojaavat myös sukupuolitaudeilta**. Muut menetelmät ehkäisevät raskauden mutta eivät infektioita, ja siksi kondomia käytetään joskus toisen menetelmän rinnalla.\n\nYhtä ”parasta” menetelmää ei ole – sopiva riippuu terveydestäsi, kehostasi ja siitä, mikä sopii elämääsi. Omalääkäri tai ehkäisyneuvola voi käydä vaihtoehdot kanssasi läpi ja auttaa sinua valitsemaan.",
+      "deep": "Koska menetelmät eroavat niin paljon toisistaan, kannattaa miettiä, mikä on sinulle tärkeää: kuinka tehokas menetelmä on, pitääkö jotain muistaa päivittäin, kuinka kauan se kestää, haluatko hormoneja vai et ja onko suoja sukupuolitaudeilta tilanteessasi tärkeä. Moni vaihtaa menetelmää elämänsä aikana tarpeiden muuttuessa. Tämä tietopankki kuvaa, miten yleiset menetelmät toimivat, jotta vaihtoehdot tuntuisivat selkeämmiltä – mutta päätös sekä mahdollinen resepti tai asennus tehdään yhdessä ammattilaisen kanssa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Ehkäisy ja paino",
+      "aliases": [
+        "lihottaako e-pilleri",
+        "e-pillerit ja painonnousu",
+        "ehkäisy painonnousu",
+        "paino nousee pillereistä",
+        "ehkäisyruiske painonnousu",
+        "ehkäisykapseli painonnousu",
+        "minipilleri paino"
+      ],
+      "glance": "Ei ole näyttöä siitä, että yhdistelmäpilleri lihottaisi, mutta ehkäisyruiske voi nostaa painoa. Se riippuu menetelmästä.",
+      "overview": "Moni miettii, lihottaako ehkäisy. Rehellinen vastaus on, että se riippuu menetelmästä.\n\nYhdistelmäehkäisypillerin osalta tutkimustieto on rauhoittavaa: ei ole näyttöä siitä, että sen käyttö nostaisi painoa. Sama pätee ehkäisylaastariin ja ehkäisyrenkaaseen.\n\nEhkäisyruiske on eri asia. Painonnousu mainitaan yhtenä sen yleisistä haittavaikutuksista kuukautisten muutosten ohella.\n\nPelkkää progestiinia sisältävän pillerin (jota kutsutaan joskus minipilleriksi) ja ehkäisykapselin kohdalla osa käyttäjistä kertoo painonsa nousseen. Näyttöä ei kuitenkaan ole tarpeeksi sen sanomiseksi, onko syynä itse menetelmä.\n\nPaino on vain yksi osa kokonaisuutta. Jokaisella menetelmällä on omat mahdolliset haittavaikutuksensa ja riskinsä, ja ehkäisyn valinnassa on kyse siitä, että löydät kehollesi, terveydellesi ja elämääsi sopivan vaihtoehdon. Farmaseutti, omalääkäri, hoitaja tai ehkäisyneuvola voi käydä vaihtoehdot kanssasi läpi.",
+      "deep": null,
+      "when_to_see_doctor": "- Jos haittavaikutukset, kuten painon muutokset, ovat sinulle ongelma, keskustele farmaseutin, omalääkärin, hoitajan tai ehkäisyneuvolan kanssa. Yhdistelmäpillerin, laastarin tai renkaan kohdalla joitakin haittavaikutuksia voi esiintyä käytön alussa. Jos ne vaivaavat sinua yhä noin 3 kuukauden jälkeen, ammattilainen voi keskustella kanssasi toisesta pilleristä tai muusta ehkäisymenetelmästä.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Ehkäisykapseli",
+      "aliases": [
+        "ehkäisykapseli",
+        "kapseli",
+        "ehkäisyimplantti",
+        "implantti",
+        "nexplanon",
+        "kapseli käsivarressa",
+        "kapseliehkäisy"
+      ],
+      "glance": "Ehkäisykapseli on pieni sauva, joka asetetaan olkavarteen ja joka vapauttaa hormonia muutaman vuoden ajan.",
+      "overview": "Ehkäisykapseli on pieni, taipuisa sauva – suunnilleen tulitikun kokoinen – jonka koulutettu ammattilainen asettaa olkavarren ihon alle. Paikalleen asetettuna se vapauttaa tasaisesti progestiinihormonia ja toimii enintään noin kolmen vuoden ajan.\n\nSe ehkäisee raskauden pääasiassa estämällä munasarjoja vapauttamasta munasolua (ovulaatio) ja sakeuttamalla kohdunkaulan limaa niin, etteivät siittiöt pääse läpi. Koska päivittäin ei tarvitse muistaa mitään, se kuuluu ”asenna ja unohda” -menetelmiin.\n\nSiksi se on myös yksi luotettavimmista vaihtoehdoista: ehkäisykapselin teho on yli 99 %, eikä teho juuri eroa täydellisen ja tavallisen käytön välillä. Kuten muutkaan hormonaaliset menetelmät, se ei suojaa sukupuolitaudeilta.",
+      "deep": "Ehkäisykapseli on pitkäaikainen, palautuva menetelmä – se toimii, kunnes se poistetaan, ja hedelmällisyys palautuu poiston jälkeen. Kapselin asettaminen ja poistaminen ovat nopeita toimenpiteitä, jotka tekee ammattilainen, ja hän käy läpi myös sen, kenelle kapseli sopii ja mitä haittavaikutuksia sillä on. Tämä artikkeli kertoo, mikä kapseli on ja miten se toimii; päätöksestä ottaa se kannattaa keskustella omalääkärin, hoitajan tai ehkäisyneuvolan kanssa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Kiertosi ja hyvinvointisi",
+      "aliases": [
+        "hyvinvointi",
+        "kierto ja terveys",
+        "kuukautiskierto ja terveys",
+        "terveyden mittari",
+        "paino ja kuukautiset",
+        "epäsäännöllinen kierto"
+      ],
+      "glance": "Kiertosi on vähän kuin kuukausittainen terveystarkastus – sen muutokset voivat olla huomion arvoisia.",
+      "overview": "Kuukautiskiertosi ei ole erillään muusta terveydestäsi – se on yhteydessä siihen. Sinulle säännöllinen kierto on yleensä merkki siitä, että kehosi toimii niin kuin pitää. Siksi jotkut pitävät kuukautisia eräänlaisena kuukausittaisena viestinä yleisestä hyvinvoinnista.\n\nArki vaikuttaa kiertoon. Paino on yksi esimerkki: huomattava ali- tai ylipaino voi vaikuttaa ovulaatiota ohjaaviin hormoneihin, mikä voi tehdä kuukautisista epäsäännöllisiä. Tämä toimii molempiin suuntiin – perusasioista huolehtiminen, kuten tasapainoinen syöminen ja liikkuminen, tukee kiertoa, ja tasainen kierto on merkki siitä, että nämä asiat ovat kohtuullisessa tasapainossa.\n\nKyse ei ole ”täydellisen” kierron tavoittelusta tai itsesi syyllistämisestä muutoksista. Kun kiinnität lempeästi huomiota kiertoosi, se voi yksinkertaisesti olla hyödyllinen ikkuna siihen, miten voit – ja muistutus ottaa yhteyttä ammattilaiseen, jos jokin muuttuu.",
+      "deep": null,
+      "when_to_see_doctor": "- Hakeudu omalääkärille, jos kuukautisesi muuttuvat epäsäännöllisiksi, loppuvat tai muuttuvat tavalla, joka ei ole sinulle tavallista – pitkään jatkuvat muutokset voivat joskus viitata johonkin, mikä kannattaa selvittää.\n- Asiasta kannattaa keskustella myös, jos kuukautisongelmat haittaavat arkeasi, jotta saat tukea sen sijaan, että vain kestät ne.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Taloudellinen väkivalta",
+      "aliases": [
+        "taloudellinen väkivalta",
+        "rahalla kontrollointi",
+        "raha-asioiden kontrollointi",
+        "velkaa minun nimissäni",
+        "taloudellinen hyväksikäyttö",
+        "kumppani vie rahat",
+        "taloudellinen kontrolli"
+      ],
+      "glance": "Taloudellinen väkivalta tarkoittaa, että joku kontrolloi toisen pääsyä rahaan, työhön tai resursseihin – se tunnustetaan väkivallan muodoksi.",
+      "overview": "Taloudellinen väkivalta tarkoittaa, että joku kontrolloi toisen ihmisen pääsyä rahaan ja siihen, mitä rahalla voi hankkia. Se on kontrolloivan käyttäytymisen muoto, ja siihen liittyy usein myös muunlaista väkivaltaa.\n\nSe voi näkyä niin, että toinen päättää kaikesta rahankäytöstä tai vaatii sinua tekemään tiliä jokaisesta sentistä, ottaa palkkasi tai tukesi, ottaa velkaa sinun nimissäsi, pitää pankkitilit tai asiakirjat piilossa sinulta tai estää sinua käymästä töissä tai opiskelemasta. Koska se voi jättää ihmisen ilman keinoja lähteä tai selvitä arjesta, se on yksi niistä tavoista, joilla väkivalta voi tuntua ansalta.\n\nJos tunnistat tästä jotain, se ei tarkoita, että olisit ”huono käsittelemään rahaa” tai syyllinen. Toisen ihmisen resurssien kontrollointi on toisen tekemä valinta – ja se tunnustetaan väkivallaksi.",
+      "deep": null,
+      "when_to_see_doctor": "- Väkivaltaa kokeneiden tukipalvelut voivat auttaa tässäkin – eivät vain turvallisuudessa vaan myös käytännön ja taloudellisissa asioissa, luottamuksellisesti ja maksutta (Italiassa auttava puhelin **1522** voi ohjata sinut paikallisen tuen luo).\n- Turvasuunnitelmaan voi kuulua, että varmistat huomaamattomasti pääsyn johonkin rahaan, tärkeisiin asiakirjoihin ja tärkeisiin puhelinnumeroihin.",
+      "red_flags": "- Jos olet **välittömässä vaarassa**, ota heti yhteyttä hätäpalveluihin: **112** EU:ssa (myös Italiassa), **999** Isossa-Britanniassa, **911** Yhdysvalloissa ja Kanadassa.\n- Italiassa **1522** – maksuton, avoinna 24 tuntia vuorokaudessa, nimetön, monikielinen – voi auttaa puhelimitse tai chatissa."
+    },
+    "ectopic-pregnancy": {
+      "title": "Kohdunulkoinen raskaus",
+      "aliases": [
+        "kohdunulkoinen raskaus",
+        "munanjohdinraskaus",
+        "ektooppinen raskaus",
+        "kohdunulkoinen",
+        "kipu toisella puolella raskaus",
+        "munanjohdin raskaus"
+      ],
+      "glance": "Kohdunulkoinen raskaus kehittyy kohdun ulkopuolella – se ei voi jatkua, ja se vaatii nopeaa hoitoa.",
+      "overview": "Kohdunulkoinen raskaus tarkoittaa, että hedelmöittynyt munasolu kiinnittyy kohdun ulkopuolelle, useimmiten toiseen munanjohtimeen. Valitettavasti tällä paikalla oleva raskaus ei voi kehittyä vauvaksi, eikä sitä voi siirtää kohtuun – joten se vaatii aina hoitoa.\n\nOireet ilmenevät yleensä noin raskausviikoilla 4–12, ja niitä voivat olla alavatsakipu toisella puolella, verenvuoto emättimestä tai ruskea, vetinen vuoto, kipu olkapään kärjessä tai epämukavuus virtsatessa tai ulostaessa. Oireiden yhdistelmä vaihtelee, ja joitakin niistä voi olla helppo pitää vähäpätöisinä, minkä vuoksi niiden tarkistuttaminen on tärkeää.\n\nTilanne on harvinainen mutta mahdollisesti vakava, joten sitä ei pidä jäädä odottelemaan. Kun kysyt neuvoa ajoissa, tilanne voidaan hoitaa turvallisesti.",
+      "deep": null,
+      "when_to_see_doctor": "- Ota yhteyttä omalääkäriin tai **päivystävään lääkäriin**, jos sinulla on näiden oireiden yhdistelmä **ja saatat olla raskaana** – vaikka raskaustestisi ei olisi ollut positiivinen. On tärkeää saada neuvoa heti.",
+      "red_flags": "- Soita **hätänumeroon {{emergency}} tai mene päivystykseen**, jos sinulla on **äkillinen, terävä, voimakas vatsakipu**, tunnet **voimakasta huimausta tai pyörtymisen tunnetta**, olet **hyvin kalpea** tai sinulla on näiden lisäksi pahoinvointia. Tämä voi tarkoittaa, että munanjohdin on revennyt – se on hätätilanne, joka vaatii kiireellistä hoitoa."
+    },
+    "emergency-contraception": {
+      "title": "Jälkiehkäisy",
+      "aliases": [
+        "jälkiehkäisy",
+        "jälkiehkäisytabletti",
+        "katumuspilleri",
+        "jälkiehkäisypilleri",
+        "ellaone",
+        "norlevo",
+        "kondomi hajosi",
+        "kuparikierukka jälkiehkäisy"
+      ],
+      "glance": "Jälkiehkäisy voi ehkäistä raskauden suojaamattoman yhdynnän jälkeen – ja mitä pikemmin, sitä parempi.",
+      "overview": "Jälkiehkäisy on keino ehkäistä raskaus yhdynnän jälkeen, kun ehkäisyä ei ole käytetty tai kun tavallinen menetelmäsi on voinut pettää (unohtunut pilleri, rikkoutunut kondomi). Vaihtoehtoja on kaksi, ja ajoitus on tärkeä molemmissa.\n\nEnsimmäinen on **jälkiehkäisytabletti**. Niitä on kahta tyyppiä: toisen (levonorgestreeli) voi ottaa enintään 3 vuorokautta – 72 tuntia – yhdynnän jälkeen ja toisen (ulipristaaliasetaatti, kauppanimeltään ellaOne) enintään 5 vuorokautta – 120 tuntia – yhdynnän jälkeen. Toinen vaihtoehto on **kuparikierukka**, jonka ammattilainen voi asettaa enintään 5 vuorokautta yhdynnän jälkeen; se on tehokkain jälkiehkäisyn muoto, ja se voi halutessasi jäädä paikalleen jatkuvaksi ehkäisyksi.\n\nKaikkien näiden kohdalla pätee, että **mitä pikemmin niitä käytät, sitä paremmin ne yleensä toimivat** – joten kannattaa toimia nopeasti eikä odottaa. Jälkiehkäisyä saa apteekista, omalääkäriltä, seksuaaliterveysklinikalta tai ilman ajanvarausta toimivasta vastaanotosta, usein maksutta.",
+      "deep": null,
+      "when_to_see_doctor": "- Koska aika on ratkaisevaa, älä odota – farmaseutti voi antaa jälkiehkäisytabletin nopeasti, ja seksuaaliterveysklinikalla tai omalääkärin vastaanotolla voidaan asettaa kierukka.\n- Jälkiehkäisy ehkäisee raskautta, ei infektioita. Jos on mahdollista, että olet saanut sukupuolitaudin, seksuaaliterveysklinikalta saat neuvoa testaukseen.\n- Jos kuukautisesi ovat sen jälkeen yli muutaman päivän myöhässä tai hyvin erilaiset kuin tavallisesti, kannattaa tehdä raskaustesti ja keskustella ammattilaisen kanssa.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometrioosi",
+      "aliases": [
+        "endometrioosi",
+        "endo",
+        "kovat kuukautiskivut",
+        "endometrioosikipu",
+        "suklaakysta",
+        "kohdun limakalvon pesäkkeet"
+      ],
+      "glance": "Endometrioosi on sairaus, jossa kohdun limakalvon kaltaista kudosta kasvaa kohdun ulkopuolella, ja se aiheuttaa usein kipua.",
+      "overview": "Endometrioosi on pitkäaikainen sairaus, jossa kohdun limakalvon kaltaisia soluja kasvaa muualla elimistössä, esimerkiksi munasarjojen ympärillä, lantiossa tai suolistossa. Se on yleinen – sen arvioidaan koskettavan maailmanlaajuisesti noin 1:tä 10:stä hedelmällisessä iässä olevasta naisesta.\n\nKoska tämä kudos käyttäytyy hieman kohdun limakalvon tavoin, se voi aiheuttaa tulehdusta ja ajan mittaan arpikudosta. Yleisin oire on kipu: usein kovat kuukautiskivut, mutta myös lantion tai alaselän kipu muina aikoina, kipu yhdynnän aikana tai sen jälkeen sekä kipu virtsatessa tai ulostaessa. Myös hyvin runsaat kuukautiset, syvä väsymys, alakulo ja vaikeudet tulla raskaaksi ovat yleisiä. Oireet vaihtelevat paljon – joillakin on kovia kipuja, toisilla vähän.\n\nEndometrioosi ymmärretään usein väärin, ja sen tunnistaminen voi kestää vuosia, osittain siksi, että kuukautiskipuja vähätellään niin usein ”normaaleina”. Kova kipu, joka häiritsee elämääsi, ei ole jotain, mitä sinun vain pitäisi kestää – se kannattaa ottaa vakavasti.",
+      "deep": "Endometrioosin tarkkaa syytä ei tiedetä, eikä siihen ole tällä hetkellä parantavaa hoitoa – mutta hoidot voivat auttaa oireiden hallinnassa, ja tuki vaihtelee lääkkeistä joidenkin kohdalla leikkaukseen, minkä lisäksi tukea saa myös fyysiseen ja henkiseen kuormitukseen. Yksi suurimmista haasteista on viive: diagnoosin saaminen voi kestää keskimäärin useita, joskus monia vuosia. Osittain siksi oireiden selkeä kirjaaminen ja paluu ammattilaisen luo, jos sinua ei kuunnella, voivat olla niin tärkeitä.",
+      "when_to_see_doctor": "Omalääkärille kannattaa hakeutua, jos:\n\n- sinulla on kovia kuukautiskipuja, jotka estävät tavallisia arjen toimia\n- kuukautisesi ovat hyvin runsaat – esimerkiksi sinun täytyy vaihtaa side tai tamponi 1–2 tunnin välein\n- sinulla on pitkäaikaista lantion tai alaselän kipua, kipua yhdynnän aikana tai sen jälkeen tai kipua virtsatessa tai ulostaessa\n- sinun on vaikea tulla raskaaksi\n- jo saamasi hoito ei ole auttanut tai oireesi ovat pahentuneet\n\nKoska endometrioosin diagnosointi voi viedä aikaa, on ihan ok palata vastaanotolle, jos oireitasi ei oteta vakavasti – selkeä kuva kivustasi ajan mittaan auttaa. Jos kipu tai runsas vuoto vaikuttaa myös mielialaasi, kerro siitä omalääkärillesi; se on osa kokonaiskuvaa, ja tukea on saatavilla.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogeeni",
+      "aliases": [
+        "estrogeeni",
+        "oestrogeeni",
+        "estradioli",
+        "naishormoni",
+        "estrogeenitaso"
+      ],
+      "glance": "Estrogeeni on keskeinen hormoni, joka auttaa valmistamaan kehoasi mahdolliseen raskauteen joka kierrossa.",
+      "overview": "Estrogeeni on yksi kuukautiskierron tärkeimmistä hormoneista. Kierron ensimmäisellä puoliskolla (follikkelivaiheessa) sen pitoisuus nousee, kun munarakkula kypsyy munasarjassa. Tämä nousu paksuntaa kohdun limakalvoa ja johtaa kohti ovulaatiota.\n\nEstrogeeni vaikuttaa myös asioihin, joita saatat huomata päivittäin – energiaan, mielialaan ja kohdunkaulan liman muutoksiin hedelmällisten päivien tienoilla. Ovulaation jälkeen sen pitoisuus laskee ja muuttuu sitten taas, ja kierron toisella puoliskolla se toimii yhdessä toisen hormonin, progesteronin, kanssa.\n\nPitoisuudet nousevat ja laskevat luonnostaan jokaisen kierron aikana, ja ne muuttuvat myös elämänvaiheiden mukana. Tämä on normaalia – se on rytmi, jonka varassa kehosi toimii, ei jotain, mikä pitäisi ”korjata”.",
+      "deep": "Estrogeeni ei ole yksittäinen aine vaan joukko toisilleen sukua olevia hormoneja (kierrossa aktiivisin niistä on estradioli). Suurin osa siitä muodostuu munasarjoissa, kasvavassa munarakkulassa. Sen jaksoittainen nousu ja lasku – yhdessä progesteronin sekä aivojen viestihormonien LH:n ja FSH:n kanssa – vie kiertoa vaiheesta toiseen. Koska estrogeeni vaikuttaa moniin elimistön järjestelmiin, sen luonnolliset vaihtelut voivat näkyä pieninä muutoksina pitkin kuukautta; seuranta auttaa sinua oppimaan oman kuviosi sen sijaan, että vertaisit sitä johonkin ”keskiarvoon”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Liikunta ja kiertosi",
+      "aliases": [
+        "liikunta",
+        "urheilu",
+        "treenaaminen",
+        "liikkuminen",
+        "liikunta ja kuukautiset",
+        "treeni kuukautisten aikana",
+        "kuntoilu kierto"
+      ],
+      "glance": "Voit liikkua koko kiertosi ajan – ja säännöllinen liikunta voi helpottaa kuukautiskipuja ja PMS-oireita.",
+      "overview": "Voit liikkua missä tahansa kiertosi vaiheessa. Jotkut huomaavat, että heillä on tiettyinä aikoina kuukaudesta enemmän energiaa ja he jaksavat vähän enemmän, ja toisina aikoina vähemmän – kumpikin on normaalia, eikä kumpikaan ole syy lopettaa liikkumista.\n\nSäännöllinen liikunta voi jopa helpottaa joitakin kuukautisiin liittyviä oireita. Säännöllisesti liikkuvilla on usein vähemmän kivuliaita kuukautiskouristuksia, ja liikkuminen voi helpottaa myös kuukautisia edeltäviä oireita (PMS). Vähäenergisinä päivinä myös kevyempi liikkuminen on arvokasta – liikunnan ei tarvitse olla rankkaa ollakseen hyödyllistä.\n\nElämää ei tarvitse aikatauluttaa kiertosi mukaan, eikä ole yhtä ”oikeaa” tapaa liikkua. Kun huomaat oman energiarytmisi kuukauden mittaan, se voi yksinkertaisesti auttaa sinua suunnittelemaan tavalla, joka tuntuu hyvältä.",
+      "deep": null,
+      "when_to_see_doctor": "- Hyvin raskas harjoittelu tai niin runsas liikunta, että kehosi energia käy vähiin, voi tehdä kuukautisista epäsäännöllisiä tai lopettaa ne kokonaan. Säännöllinen kierto on yleensä merkki siitä, että asiat ovat hyvällä mallilla, joten omalääkärin kanssa kannattaa keskustella, jos kuukautisesi muuttuvat epäsäännöllisiksi tai loppuvat – tämä voi ajan mittaan liittyä luuston ja hormonien terveyteen.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Liikunta raskauden aikana",
+      "aliases": [
+        "liikunta raskaus",
+        "liikunta raskaana",
+        "raskausajan liikunta",
+        "kunnon ylläpito raskaus",
+        "raskausjooga",
+        "treenaaminen raskaana",
+        "vesijumppa raskaus"
+      ],
+      "glance": "Liikkuminen on useimmissa raskauksissa turvallista ja hyväksi – kevyesti ja itseään uuvuttamatta.",
+      "overview": "Liikkuminen raskauden aikana on sinulle hyväksi eikä ole vaarallista vauvallesi – itse asiassa hyvä kunto voi auttaa sinua selviytymään edessä olevista muutoksista ja synnytyksestä. Sinun ei tarvitse aloittaa mitään rankkaa; tavallisten päivittäisten toimiesi jatkaminen, kunhan se tuntuu mukavalta, on hyvä lähtökohta.\n\nYksinkertainen nyrkkisääntö: sinun pitäisi pystyä **keskustelemaan** liikkuessasi. Jos olet liian hengästynyt puhuaksesi, kevennä. Kevyet vaihtoehdot, kuten kävely, uinti, raskausajan vesijumppa ja raskausjooga, sopivat useimmille. Jos et liikkunut aiemmin, nyt ei ole oikea aika aloittaa uutta rasittavaa harjoitusohjelmaa – lisää liikuntaa sen sijaan vähitellen.\n\nJoitakin lajeja on parasta välttää tai lähestyä varoen – esimerkiksi selällään makaamista noin 16. raskausviikon jälkeen, kontaktilajeja, laitesukellusta ja kaikkea, mihin liittyy todellinen kaatumisen riski.",
+      "deep": null,
+      "when_to_see_doctor": "- Kysy **kätilöltä** ennen kuin aloitat uuden aerobisen liikuntaohjelman tai jos sinulla on jokin sairaus tai raskauteen liittyvä huoli.\n- **Lopeta ja kysy neuvoa**, jos voit huonosti, sinua huimaa tai olet hyvin hengästynyt tai jos sinulla on liikkuessa kipua, verenvuotoa tai supistuksia.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Hedelmällinen ikkuna",
+      "aliases": [
+        "hedelmällinen ikkuna",
+        "hedelmälliset päivät",
+        "hedelmällisimmät päivät",
+        "milloin voi tulla raskaaksi",
+        "hedelmällinen aika",
+        "raskaaksi tulo"
+      ],
+      "glance": "Hedelmällinen ikkuna on ne muutamat päivät kussakin kierrossa, jolloin yhdynnästä voi seurata raskaus.",
+      "overview": "Hedelmällinen ikkuna on kierron lyhyt jakso, jolloin raskaus on mahdollinen. Se johtuu kahdesta ajoituksesta, jotka eivät aivan osu yksiin: munasolu voi hedelmöittyä vain noin 12–24 tunnin ajan irtoamisensa jälkeen, mutta siittiöt voivat säilyä elimistössä useita päiviä – jopa noin viikon – odottamassa munasolua.\n\nYhdessä tämä tarkoittaa, että ikkuna avautuu muutamaa päivää ennen ovulaatiota ja sulkeutuu noin vuorokausi sen jälkeen. Käytännössä olet hedelmällisimmilläsi ovulaatiota edeltävinä 2–3 päivänä ja ovulaatiopäivänä, koska siittiöt voivat olla jo valmiina paikalla munasolun saapuessa.\n\nKoska ovulaation ajankohta voi vaihdella kierrosta toiseen, myös hedelmällinen ikkuna siirtyy. Siksi sitä pidetään yleensä päivien jaksona eikä yksittäisenä päivämääränä, ja siksi merkkien seuraaminen useamman kierron ajan on luotettavampaa kuin yksittäiseen kalenterilaskelmaan luottaminen.",
+      "deep": "Tarkat päivät vaihtelevat ihmisestä toiseen ja kuukaudesta toiseen, joten ikkuna on parasta arvioida kehon omista merkeistä eikä kiinteän kaavan avulla. Kohdunkaulan liman muutokset kertovat ikkunan avautumisesta ovulaation lähestyessä, ja lepolämmön nousu vahvistaa – jälkikäteen – että ovulaatio on ohi ja ikkuna on sulkeutunut. Ovulaatiotestit toimivat askelta aiemmin: ne tunnistavat luteinisoivan hormonin (LH) nousun, joka tapahtuu vähän ennen munasolun irtoamista.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Kuukautisten alkaminen (ensimmäiset kuukautiset)",
+      "aliases": [
+        "ensimmäiset kuukautiset",
+        "menarke",
+        "kuukautisten alkaminen",
+        "menkat alkaa",
+        "ekat menkat",
+        "murrosikä kuukautiset"
+      ],
+      "glance": "Ensimmäiset kuukautiset alkavat yleensä noin 12-vuotiaana – mikä tahansa ikä noin 8 ja 17 vuoden välillä on normaali.",
+      "overview": "Ensimmäiset kuukautiset – joita kutsutaan joskus menarkeksi – tarkoittavat, että kuukautiskierto alkaa ensimmäistä kertaa. Useimmilla ne alkavat noin 12-vuotiaana, mutta mikä tahansa ikä noin 8 ja 17 vuoden välillä on normaali. Ne tulevat usein noin kaksi vuotta sen jälkeen, kun rinnat alkavat kehittyä.\n\nEnnen niitä on yleensä merkkejä: kainalo- ja häpykarvoitus kasvaa, ja edeltävinä kuukausina voi tulla vähän kirkasta tai valkoista valkovuotoa. Kun tietää näiden olevan tulossa, ensimmäiset kuukautiset voivat tuntua vähemmän yllättäviltä.\n\nAlussa kuukautiset ovat usein epäsäännöllisiä – välit voivat olla pitkiä tai lyhyitä, ja kehollasi voi kestää useita kuukausia, jopa pari vuotta, asettua tasaisempaan rytmiin. Kun niin käy, kuukautiset tulevat yleensä noin 23–35 päivän välein ja kestävät noin 2–7 päivää. Alkuvaiheen epäsäännöllisyys on normaalia eikä siitä tarvitse huolestua.",
+      "deep": null,
+      "when_to_see_doctor": "- Hakeudu omalääkärille, jos kuukautiset **eivät ole alkaneet 15 ikävuoteen mennessä** tai **13 ikävuoteen mennessä, jos muita murrosiän merkkejä ei ole** (kuten rintojen kehittymistä tai karvoitusta). Tämä on vain sen varmistamiseksi, että kehitys etenee odotetusti – yleensä kaikki on hyvin.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Foolihappo ja vitamiinit raskauden aikana",
+      "aliases": [
+        "foolihappo",
+        "folaatti",
+        "d-vitamiini raskaus",
+        "raskausvitamiinit",
+        "ravintolisät raskaus",
+        "foolihappo raskaus",
+        "a-vitamiini raskaus"
+      ],
+      "glance": "Foolihappo ennen raskautta ja alkuraskaudessa auttaa suojaamaan vauvaa – lisäksi päivittäin D-vitamiinia.",
+      "overview": "Kaksi ravintolisää on raskauden aikana todella tärkeitä, ja NHS suosittelee molempia.\n\n**Foolihappo** on niistä tärkein. Päivittäin otettava 400 mikrogramman lisä – mieluiten jo ennen raskaaksi tuloa (noin kolme kuukautta etukäteen) ja ensimmäisen raskauskolmanneksen loppuun eli 12. raskausviikkoon asti – auttaa suojaamaan vauvaa hermostoputken sulkeutumishäiriöiltä, kuten selkärankahalkiolta. Koska se vaikuttaa niin varhain, se on yksi harvoista asioista, jotka kannattaa aloittaa jo *ennen* raskautta, jos yrität tulla raskaaksi.\n\n**D-vitamiini** on toinen: päivittäistä 10 mikrogramman lisää suositellaan koko raskauden ajan ja imetyksen aikana tukemaan vauvan luustoa ja kehitystä.\n\nNäiden kahden lisäksi terveellinen ja monipuolinen ruokavalio kattaa useimmat tarpeet – et tarvitse paljon muita ravintolisiä. Yksi vältettävä on **A-vitamiini** (retinoli): älä ota sitä sisältäviä ravintolisiä ja vältä maksaa, koska liika A-vitamiini voi vahingoittaa vauvaa.",
+      "deep": null,
+      "when_to_see_doctor": "- **Omalääkäri, kätilö tai farmaseutti** voi auttaa sinua valitsemaan oikeat ravintolisät, ja joillekin suositellaan **suurempaa foolihappoannosta** (esimerkiksi diabeteksen, korkeamman painoindeksin, tiettyjen lääkkeiden tai aiemman hermostoputken sulkeutumishäiriön koskettaman raskauden vuoksi) – joten asiasta kannattaa kysyä, etenkin ennen raskautta tai alkuraskaudessa.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Follikkelivaihe",
+      "aliases": [
+        "follikkelivaihe",
+        "follikulaarivaihe",
+        "kierron ensimmäinen puolisko",
+        "munarakkulavaihe",
+        "kierron alkupuoli"
+      ],
+      "glance": "Follikkelivaihe on kierron ensimmäinen puolisko, jolloin munasolu kypsyy ja kohdun limakalvo paksuuntuu.",
+      "overview": "Follikkelivaihe on kierron ensimmäinen osa. Se alkaa kuukautisten ensimmäisenä päivänä ja jatkuu ovulaatioon asti. Nimensä se saa follikkelista eli munarakkulasta – pienestä nesteen täyttämästä rakkulasta munasarjassa, jossa munasolu kasvaa tänä aikana.\n\nTämän vaiheen aikana estrogeenihormonin pitoisuus nousee. Nouseva estrogeeni tekee kaksi pääasiaa: se auttaa munarakkulaa kypsymään munasarjassa ja paksuntaa kohdun limakalvoa, jolloin keho valmistautuu siltä varalta, että raskaus alkaa myöhemmin kierron aikana.\n\nKoska estrogeeni nousee, jotkut huomaavat enemmän energiaa tai muutoksia kohdunkaulan limassa hedelmällisten päivien lähestyessä. Jokaisen kokemus on erilainen, eikä mitään tästä tarvitse ”hallita” – se on yksinkertaisesti kiertosi ensimmäinen puolisko tekemässä tehtäväänsä.",
+      "deep": "Follikkelivaiheen pituus voi vaihdella kierrosta toiseen, mikä on osasyy siihen, miksi kokonaiset kierrot eroavat ihmisestä toiseen ja kuukaudesta toiseen. Vaihe päättyy, kun nouseva estrogeeni auttaa käynnistämään munasolun irtoamisen (ovulaatio). Koska sen viimeiset päivät johtavat ovulaatioon, silloin hedelmällinen ikkuna avautuu – ja siksi follikkelivaiheen loppu on tärkeä kaikille, jotka seuraavat hedelmällisyyttään.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Raskausaikana vältettävät ruoat",
+      "aliases": [
+        "vältettävät ruoat raskaus",
+        "raskausajan ruokavalio",
+        "mitä ei saa syödä raskaana",
+        "kofeiini raskaus",
+        "kahvi raskaana",
+        "listeria",
+        "raskaana syöminen"
+      ],
+      "glance": "Useimmat ruoat sopivat raskausaikana – muutamaa kannattaa välttää, ja kofeiinia kannattaa nauttia vain vähän.",
+      "overview": "Hyvä uutinen on, että useimmat ruoat sopivat raskausaikana aivan hyvin – vain pientä joukkoa kannattaa välttää tai käsitellä huolellisesti, lähinnä listerian kaltaisten bakteerien tai tiettyjen vitamiinien liiallisen saannin välttämiseksi. Kun tunnet tämän lyhyen listan, voit suhtautua kaikkeen muuhun rennommin.\n\nNHS neuvoo olemaan varovainen seuraavien kanssa:\n\n- **Jotkin juustot** – homekuoriset pehmeät juustot, kuten brie ja camembert, sekä pehmeät sinihomejuustot, ellei niitä ole kuumennettu höyryävän kuumiksi; sekä kaikki **pastöroimattomasta** maidosta valmistettu.\n- **Raaka tai vajaaksi kypsennetty liha**, kylmät kuivatut tai suolatut lihaleikkeleet, **pasteija** ja **maksa** (jossa on hyvin paljon A-vitamiinia).\n- **Raa'at tai löysät kananmunat**, ellei niissä ole British Lion -merkintää.\n- **Jotkin kalat** – vältä haita, miekkakalaa ja marliinia, rajoita tonnikalaa ja syö rasvaista kalaa enintään kaksi annosta viikossa.\n- **Kofeiini** – pidä se alle noin 200 mg:ssa päivässä (suunnilleen kaksi mukillista pikakahvia) ja laske mukaan myös tee, kolajuomat, energiajuomat ja suklaa.",
+      "deep": null,
+      "when_to_see_doctor": "- Tämä on yleinen ohje eikä tiukka ruokavalio – jos sinulla on kysyttävää siitä, mikä on sinulle turvallista, tai jokin erityisruokavalio, **kätilösi** voi käydä asian kanssasi läpi.\n- Jos olet syönyt jotain ”vältettävien” listalta, yritä olla panikoimatta; mainitse asiasta kätilöllesi, jos olet huolissasi tai voit huonosti.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Follikkelia stimuloiva hormoni (FSH)",
+      "aliases": [
+        "fsh",
+        "follikkelia stimuloiva hormoni",
+        "follitropiini",
+        "fsh-arvo",
+        "munarakkulaa stimuloiva hormoni"
+      ],
+      "glance": "FSH on aivojen hormoni, joka saa munasarjan munarakkulat kasvamaan jokaisen kierron alussa.",
+      "overview": "FSH – follikkelia stimuloiva hormoni – on yksi viestihormoneista, jotka panevat kierron käyntiin. Sitä tuottaa pieni rauhanen aivoissa (aivolisäke), ja kuten nimikin kertoo, se stimuloi follikkeleita: munasarjan pieniä nesteen täyttämiä rakkuloita, joista jokainen sisältää munasolun.\n\nKierron alussa FSH saa joukon näitä munarakkuloita alkamaan kasvaa. Kehittyessään munarakkula vapauttaa yhä enemmän estrogeenia, joka puolestaan paksuntaa kohdun limakalvoa mahdollista raskautta varten. Yleensä yhdestä munarakkulasta tulee johtava, joka etenee kohti ovulaatiota.\n\nFSH:n pitoisuus nousee ja laskee osana kierron normaalia vaihtelua. FSH:ta et tunne suoraan – se toimii hiljaa taustalla ja valmistelee follikkelivaiheen näkyvämpiä muutoksia.",
+      "deep": "FSH toimii parina luteinisoivan hormonin (LH) kanssa; molempia erittää aivolisäke, ja yhdessä ne ohjaavat munasarjoja kierron läpi. FSH johtaa ensimmäistä puoliskoa kasvattamalla munarakkuloita, kun taas myöhemmin tapahtuva LH-piikki merkitsee munasolun irtoamista kierron puolivälissä. Tämän yhteistyön vuoksi hedelmöityshoidoissa käytetään FSH:hon perustuvia lääkkeitä: ylimääräinen FSH saa useita munarakkuloita kypsymään kerralla sen yhden sijaan, jonka luonnollinen kierto yleensä tuottaa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Raskausdiabetes",
+      "aliases": [
+        "raskausdiabetes",
+        "diabetes raskaus",
+        "korkea verensokeri raskaus",
+        "sokerirasitus",
+        "glukoosirasitus",
+        "gdm",
+        "raskausajan diabetes"
+      ],
+      "glance": "Raskausdiabetes on raskauden aikana kohonnut verensokeri – se löytyy yleensä seulonnassa, ja se usein tasaantuu synnytyksen jälkeen.",
+      "overview": "Raskausdiabetes on raskauden aikana kehittyvä korkea verensokeri (glukoosi), kun elimistö ei aivan pysy insuliinin lisääntyneen tarpeen tahdissa. Useimmilla se häviää taas vauvan synnyttyä.\n\nSe ei yleensä aiheuta **mitään oireita**, joten se löydetään raskauden aikana tarjottavalla seulontatestillä (sokerirasituskoe, usein noin raskausviikoilla 24–28), etenkin jos sinulla on sen todennäköisyyttä lisääviä tekijöitä – kuten korkeampi paino, suvussa esiintyvä diabetes, aiemmin syntynyt kookas vauva tai tietty etninen tausta.\n\nSe on hyvin hoidettavissa. Kun verensokeri pidetään terveellä tasolla – ruokavalion, liikunnan ja joskus lääkityksen avulla, hoitotiimisi ohjauksessa – komplikaatioiden todennäköisyys pienenee sekä sinulla että vauvallasi, ja siksi siitä kannattaa pitää huolta.",
+      "deep": null,
+      "when_to_see_doctor": "- Osallistu **seulontatestiin**, jos sitä tarjotaan – koska raskausdiabetes on yleensä oireeton, se löydetään testaamalla.\n- Älä odota testiä, jos huomaat mahdollisia korkean verensokerin merkkejä – kovaa janoa, tihentynyttä virtsaamisen tarvetta, suun kuivumista tai väsymystä – vaan kerro niistä kätilölle tai lääkärille.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Mistä saa apua",
+      "aliases": [
+        "avun saaminen",
+        "keneen ottaa yhteyttä",
+        "auttavat puhelimet",
+        "hyödyllisiä numeroita",
+        "väkivaltaa kokeneiden tukikeskus",
+        "1522",
+        "hätänumerot",
+        "nollalinja"
+      ],
+      "glance": "Maksutonta ja luottamuksellista apua on saatavilla – hätätilanteessa soita paikalliseen hätänumeroon; Italiassa numeroon 1522 milloin tahansa.",
+      "overview": "Jos koet väkivaltaa, sinun ei tarvitse kohdata sitä yksin, eikä yhteydenotto sido sinua mihinkään. On ihmisiä, joiden koko työ on kuunnella ja auttaa luottamuksellisesti ja maksutta.\n\nApua on tarjolla monenlaista rinnakkain:\n\n- **Hätäpalvelut** – välittömässä vaarassa soita paikalliseen hätänumeroon (alla).\n- **Valtakunnallinen auttava puhelin** – Italiassa **1522**, maksuton väkivallan ja vainoamisen vastainen auttava puhelin: avoinna 24 tuntia vuorokaudessa, nimetön, saatavilla useilla kielillä puhelimitse tai verkkochatissa.\n- **Väkivaltaa kokeneiden tukikeskukset** (Italiassa *centri antiviolenza*) – paikallisia palveluita, jotka tarjoavat maksutonta ja luottamuksellista tukea, turvasuunnittelua sekä oikeudellista ja psykologista apua.\n- **Terveyspalvelut** – omalääkäri tai sairaalan päivystys, jossa henkilökunta on yhä useammin koulutettu tunnistamaan väkivaltaa ja ohjaamaan sinut tuen piiriin.\n- **Ihmiset, joihin luotat** – ystävä tai perheenjäsen, jonka seurassa tunnet olosi turvalliseksi.\n\nVoit aloittaa siitä, mikä tuntuu sinusta mahdollisimman helpolta, eikä sinun tarvitse olla päättänyt mitään.",
+      "deep": null,
+      "when_to_see_doctor": "- Voit puhua tilanteestasi luottamuksellisesti **omalääkärin tai sairaalan** kanssa; siellä voidaan hoitaa mahdolliset vammat ja ohjata sinut erityispalveluihin.\n- Jos kirjoittaminen on helpompaa kuin puhuminen, **1522-chat** on toinen tapa ottaa yhteyttä.",
+      "red_flags": "- Jos olet **välittömässä vaarassa**, ota heti yhteyttä hätäpalveluihin: **112** EU:ssa (myös Italiassa), **999** Isossa-Britanniassa, **911** Yhdysvalloissa ja Kanadassa.\n- **Italia:** **1522** (maksuton, 24/7, nimetön, monikielinen – soita tai chattaa).\n- Auttavien puhelinten numerot vaihtelevat maittain. Sovellus voi näyttää oman maasi numerot, ja **findahelpline.com** listaa väkivaltaa kokeneiden auttavia puhelimia kaikkialla maailmassa (se tunnistaa maasi, ja siinä on pikapoistumispainike). Jos olet EU:ssa, **112** toimii kaikkialla."
+    },
+    "group-b-strep": {
+      "title": "B-ryhmän streptokokki (GBS)",
+      "aliases": [
+        "b-streptokokki",
+        "gbs",
+        "b-ryhmän streptokokki",
+        "b-strepto",
+        "streptokokki raskaus",
+        "gbs-kantajuus"
+      ],
+      "glance": "B-ryhmän streptokokki on yleinen ja yleensä vaaraton bakteeri – pieni riski koskee vauvaa synnytyksen aikana, ja se on hallittavissa.",
+      "overview": "B-ryhmän streptokokki (GBS) on hyvin yleinen bakteeri, jota monet kantavat tietämättään, yleensä emättimessä tai peräaukon alueella, ilman että siitä on mitään haittaa. Se ei ole sukupuolitauti, ja sen kantaminen on normaalia.\n\nRaskauden aikana sillä on merkitystä vain siksi, että on **pieni mahdollisuus**, että se siirtyy vauvaan synnytyksen aikoihin ja harvoin sairastuttaa tämän – näin käy noin 1 raskaudessa 1 750:stä. Se löydetään usein sattumalta, esimerkiksi virtsanäytteestä tai muusta syystä otetusta emätinnäytteestä (NHS ei rutiinisti seulo kaikkia sen varalta).\n\nRauhoittavaa on, että se on hyvin hallittavissa: jos GBS tiedetään, **suonensisäinen antibiootti synnytyksen aikana** pienentää huomattavasti todennäköisyyttä, että vauva sairastuu.",
+      "deep": null,
+      "when_to_see_doctor": "- Jos sinulle kerrotaan, että kannat B-ryhmän streptokokkia – nyt tai aiemmassa raskaudessa – **kerro siitä kätilölle tai synnytysosaston henkilökunnalle**, jotta synnytyksenaikainen antibioottihoito voidaan suunnitella. Se on yksinkertainen toimenpide, jolla on todellista merkitystä.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Närästys ja ruoansulatusvaivat raskauden aikana",
+      "aliases": [
+        "närästys raskaus",
+        "närästys raskaana",
+        "ruoansulatusvaivat raskaus",
+        "refluksi raskaus",
+        "refluksi",
+        "happovaivat raskaana"
+      ],
+      "glance": "Närästys on raskauden aikana hyvin yleistä – yleensä vaaratonta, ja pienet arjen muutokset auttavat usein.",
+      "overview": "Närästys ja ruoansulatusvaivat – polttava tunne tai epämukavuus rinnassa, usein syömisen jälkeen – ovat raskauden aikana hyvin yleisiä. Ne johtuvat siitä, että raskaushormonit rentouttavat mahalaukun yläosan lihasta ja myöhemmin kasvava vauva painaa ylöspäin. Vaiva on epämukava mutta ei vaarallinen.\n\nPienet muutokset auttavat usein: syö pienempiä aterioita useammin suurten sijaan, istu suorassa syödessäsi ja vielä jonkin aikaa sen jälkeen, vähennä mausteisia, rasvaisia ja kofeiinipitoisia ruokia ja juomia äläkä syö myöhään juuri ennen nukkumaanmenoa. Jotkut kokevat nukkumisen hieman koholla mukavammaksi.\n\nJos tämä ei riitä, **farmaseutti** voi suositella raskausaikana turvallisia happoja neutraloivia valmisteita – hyvä ensimmäinen osoite ennen kuin vaiva kasvaa suuremmaksi.",
+      "deep": null,
+      "when_to_see_doctor": "- Hakeudu **omalääkärille tai kätilölle**, jos yksinkertaiset muutokset ja apteekin valmisteet eivät auta tai jos sinulla on **nielemisvaikeuksia**, ruoka nousee toistuvasti takaisin ylös, painosi laskee tahattomasti tai sinulla on vatsakipua – nämä kannattaa tarkistuttaa sen sijaan, että pitäisit niitä tavallisena närästyksenä.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Runsaat kuukautiset",
+      "aliases": [
+        "runsaat kuukautiset",
+        "menorragia",
+        "runsas kuukautisvuoto",
+        "läpi tuleva vuoto",
+        "runsas vuoto",
+        "hyytymät",
+        "verihyytymät kuukautiset",
+        "runsaat menkat"
+      ],
+      "glance": "Runsaat kuukautiset tarkoittavat, että menetät kussakin kierrossa paljon verta – se on yleistä, mutta kannattaa tarkistuttaa, jos se vaikuttaa elämääsi.",
+      "overview": "Runsaat kuukautiset – lääketieteelliseltä nimeltään menorragia – tarkoittavat, että menetät kuukautisten aikana paljon verta. Joillekin runsas vuoto on yksinkertaisesti heidän normaalinsa, mutta jos se häiritsee elämääsi tai vie voimasi, asia kannattaa selvittää.\n\nMerkkejä siitä, että kuukautiset ovat runsaat: sinun täytyy vaihtaa side tai tamponi 1–2 tunnin välein, käytät kahta kuukautissuojaa yhtä aikaa (kuten tamponia ja sidettä), vuoto tulee läpi vaatteisiin tai vuodevaatteisiin, vuodon mukana tulee yli noin 2,5 cm:n kokoisia verihyytymiä (suunnilleen brittiläisen 10 pennyn kolikon kokoisia) tai kuukautiset kestävät yli 7 päivää.\n\nJos menetät paljon verta kuukaudesta toiseen, voit tuntea itsesi väsyneeksi tai hengästyä helposti, koska se voi johtaa raudanpuutteeseen (anemiaan). Mahdollisia syitä on monia – myoomista tai sairauksista, kuten endometrioosista, adenomyoosista tai PCOS:stä, joihinkin lääkkeisiin – ja usein vakavaa syytä ei löydy. Joka tapauksessa runsaisiin kuukautisiin voi yleensä saada apua, joten niiden kanssa ei tarvitse vain elää.",
+      "deep": null,
+      "when_to_see_doctor": "Hakeudu omalääkärille, jos:\n\n- runsaat kuukautiset vaikuttavat arkeesi\n- vuotosi on runsasta monta tuntia tai kuukautisesi kestävät pitkään\n- sinulla on myös kovia kuukautiskipuja tai kipua yhdynnän aikana, virtsatessa tai ulostaessa\n- sinulla on verenvuotoa kuukautisten välillä tai yhdynnän jälkeen\n- tunnet itsesi usein väsyneeksi tai hengästyneeksi (tämä voi olla merkki raudanpuutteesta)\n\nOmalääkäri voi etsiä syytä ja keskustella kanssasi siitä, mikä voisi auttaa.",
+      "red_flags": "- Hakeudu **kiireellisesti** hoitoon – ota yhteyttä lääkäriin tai **päivystysvastaanotolle** tai soita **hätänumeroon {{emergency}}** / mene sairaalan päivystykseen, jos tilanne on vakava – jos **vuoto on niin runsasta, että vähintään yksi side kastuu täysin läpi joka tunti muutaman tunnin ajan peräkkäin**, tai sinulla on **pyörtymisen tunnetta, huimausta tai hengenahdistusta**. Nämä voivat olla merkkejä liiallisesta verenmenetyksestä."
+    },
+    "lh": {
+      "title": "Luteinisoiva hormoni (LH)",
+      "aliases": [
+        "lh",
+        "luteinisoiva hormoni",
+        "lh-piikki",
+        "lh-nousu",
+        "ovulaatiotesti",
+        "lutropiini"
+      ],
+      "glance": "LH on aivojen hormoni, jonka nousu kierron puolivälissä saa munasarjan vapauttamaan munasolun.",
+      "overview": "LH – luteinisoiva hormoni – on viestinviejä, joka käynnistää ovulaation. FSH:n tavoin sitä tuottaa pieni rauhanen aivoissa (aivolisäke), ja se kertoo munasarjalle, milloin munasolu vapautetaan.\n\nSuurimman osan kierron ensimmäisestä puoliskosta LH-pitoisuus pysyy matalana. Sitten, suunnilleen kierron puolivälissä, se nousee jyrkästi niin sanotussa LH-piikissä. Tämä piikki on signaali, joka saa munasarjan vapauttamaan munasolunsa – ovulaatio – yleensä noin vuorokauden kuluttua.\n\nPiikki on lyhyt ja tarkasti ajoitettu signaali, ei jotain, minkä huomaisit olossasi. Koska se tapahtuu niin vähän ennen munasolun irtoamista, LH:n nousun ajankohta on luotettava merkki kierron hedelmällisimmästä vaiheesta.",
+      "deep": "LH toimii yhdessä FSH:n kanssa, joka kasvattaa munarakkuloita aiemmin kierrossa. Siinä missä FSH johtaa valmisteluvaihetta, LH-piikki on käännekohta: pitoisuudet alkavat nousta noin puolitoista vuorokautta ennen munasolun irtoamista ja ovat korkeimmillaan noin puoli vuorokautta ennen sitä. Piikin jälkeen kierto siirtyy toiselle puoliskolleen. Tämän tarkan ajoituksen vuoksi LH on niin hyödyllinen merkki kaikille, jotka seuraavat ovulaatiotaan, ja siksi se on keskeinen myös hedelmöityshoitojen suunnittelussa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Kuunteleminen ja tunnetuki",
+      "aliases": [
+        "miten kuunnella",
+        "tunnetuki kumppanille",
+        "kommunikointi",
+        "tukena oleminen",
+        "miten tukea häntä",
+        "kuunteleminen parisuhteessa",
+        "keskustelu parisuhteessa"
+      ],
+      "glance": "Useimmiten hän tarvitsee tulla kuulluksi, ei korjatuksi – kuuntele ensin ja kysy ennen kuin neuvot.",
+      "overview": "Kun rakas ihminen kamppailee, vaistomainen reaktio on hypätä väliin ja ratkaista asia. Usein eniten auttaa kuitenkin se, että hän tuntee tulevansa aidosti kuulluksi: että hänen tunteensa ovat ymmärrettäviä eikä hän ole niiden kanssa yksin. Liian nopea korjaaminen voi tuntua siltä kuin sanoisit: ”tunteesi ovat ongelma, joka pitää saada pois päiväjärjestyksestä”.\n\nHyvä kuunteleminen on taito, jonka kuka tahansa voi oppia. Se on enimmäkseen huomion antamista: laske puhelin kädestä, käänny häneen päin ja anna hänen puhua loppuun. Sinun ei tarvitse olla samaa mieltä joka asiasta, jotta hän tuntisi itsensä kunnioitetuksi.",
+      "deep": "Käytännön tapoja olla läsnä:\n\n- **Kuuntele ymmärtääksesi, älä vastataksesi.** Anna hänen puhua keskeyttämättä ja suunnittelematta puolustustasi.\n- **Heijasta takaisin.** ”Tuo kuulostaa tosi stressaavalta” tai ”Ymmärrän, miksi se sattui” on parempi kuin ”älä nyt siitä murehdi”.\n- **Kysy ennen kuin neuvot.** ”Haluatko, että mietitään tätä yhdessä, vai haluatko, että vain kuuntelen?”\n- **Älä ota sitä henkilökohtaisesti**, kun vaikea päivä ei johdu sinusta. Tasaisuus on lahja.\n- **Ota vastuu omasta osuudestasi.** Jos teit jotain väärin, aito anteeksipyyntö – ilman ”mutta”-sanaa – rakentaa luottamusta uudelleen.\n- **Huomaa kokonaiskuva.** Jos hän vaikuttaa jatkuvasti alakuloiselta, ahdistuneelta tai ei ole oma itsensä, kannusta häntä lempeästi hakemaan tukea ja tarjoudu auttamaan siinä. Olet tiimikaveri, et terapeutti.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Luteaalivaihe",
+      "aliases": [
+        "luteaalivaihe",
+        "keltarauhasvaihe",
+        "kierron toinen puolisko",
+        "kierron loppupuoli",
+        "ovulaation jälkeen"
+      ],
+      "glance": "Luteaalivaihe on kierron toinen puolisko ovulaation jälkeen, jolloin progesteronin pitoisuus nousee.",
+      "overview": "Luteaalivaihe on kierron osa, joka seuraa ovulaatiota ja kestää seuraavien kuukautisten alkuun asti. Se on nimetty keltarauhasen (corpus luteum) mukaan – pienen rakenteen, jonka munasarja muodostaa tyhjästä munarakkulasta munasolun irrottua.\n\nTässä vaiheessa progesteronihormonin pitoisuus nousee. Sen tehtävä on pitää kohdun limakalvo paksuna ja vakaana, jotta hedelmöittyneellä munasolulla on paikka, johon kiinnittyä, jos sellainen saapuu. Myös estrogeeni on edelleen mukana ja toimii progesteronin rinnalla.\n\nJos raskaus ei ala, keltarauhanen surkastuu, progesteroni- ja estrogeenipitoisuudet laskevat eikä limakalvoa enää ylläpidetä – mikä käynnistää seuraavat kuukautiset ja uuden kierron. Tänä aikana jotkut myös huomaavat kuukautisia edeltäviä muutoksia mielialassa, unessa tai kehossa.",
+      "deep": "Luteaalivaiheen pituus on yleensä hieman tasaisempi kuin kierron ensimmäisen puoliskon, usein suunnilleen kaksi viikkoa, vaikka normaalia vaihtelua ihmisten välillä onkin. Koska vaiheen loppu liittyy progesteronin laskuun, kuukautisten alkaminen on oikeastaan näkyvä merkki hormonipitoisuuksien laskusta. Kun seuraat vointiasi luteaalivaiheen aikana, voit paremmin erottaa, mikä on sinulle tuttu kuvio ja mikä on uutta tai sellaista, josta kannattaa keskustella ammattilaisen kanssa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Vaihdevuodet (menopaussi)",
+      "aliases": [
+        "vaihdevuodet",
+        "menopaussi",
+        "kuukautisten loppuminen",
+        "kuumat aallot",
+        "vaihdevuosioireet",
+        "yöhikoilu",
+        "hormonikorvaushoito"
+      ],
+      "glance": "Menopaussi tarkoittaa kuukautisten pysyvää loppumista – luonnollinen vaihe, joka saavutetaan yleensä noin 45–55 vuoden iässä.",
+      "overview": "Menopaussi on hetki, jolloin kuukautisesi loppuvat pysyvästi. Koska kuukautiset voivat ensin tulla ja jäädä pois jonkin aikaa, menopaussi katsotaan saavutetuksi, kun kuukautisia ei ole ollut 12 kuukauteen peräkkäin. Se tapahtuu yleensä noin 45–55 vuoden iässä, mutta se voi olla myös aiemmin tai myöhemmin.\n\nSe on luonnollinen osa ikääntymistä, ei sairaus. Se tapahtuu, kun munasarjojen toiminta hiipuu ja estrogeenin – kierron keskeisen hormonin – pitoisuus laskee. Tämä hormonimuutos on niiden muutosten taustalla, joita moni huomaa: kuumat aallot ja yöhikoilu, kuukautisten muutokset ennen menopaussia, univaikeudet, mielialan vaihtelut tai ahdistus, aivosumu, emättimen kuivuus ja kolotukset.\n\nKokemukset vaihtelevat valtavasti – jotkut selviävät vaivatta, toisille vaihe on raskas, ja oireet voivat kestää useita vuosia. Mikään tästä ei tarkoita, että sinussa olisi jotain vikaa. Tukea ja vaihtoehtoja on olemassa, ja sen ymmärtäminen, mitä tapahtuu, on hyvä ensimmäinen askel.",
+      "deep": "Menopaussia edeltäviä muutoksen vuosia kutsutaan perimenopaussiksi; menopaussi itsessään on yksittäinen ajankohta (12 kuukautta ilman kuukautisia -raja), ja sen jälkeistä aikaa kutsutaan joskus postmenopaussiksi. Koska estrogeeni vaikuttaa pitkällä aikavälillä myös luustoon ja sydämeen, ammattilaiset kiinnittävät huomiota niihin päivittäisten oireiden ohella. Oireita voivat helpottaa monenlaiset keinot – elintavoista hormonittomiin ja hormonaalisiin hoitoihin – ja sopiva vaihtoehto riippuu terveydestäsi, taustastasi ja toiveistasi, joista kannattaa keskustella ammattilaisen kanssa.",
+      "when_to_see_doctor": "- Hakeudu omalääkärille, jos vaihdevuosioireet vaivaavat sinua tai vaikuttavat arkeesi ja haluaisit käydä vaihtoehtoja läpi.\n- Hakeudu **aina** omalääkärille, jos sinulla on **mitä tahansa verenvuotoa emättimestä, kun kuukautisia ei ole ollut 12 kuukauteen** (vaihdevuosien jälkeinen verenvuoto). Se ei usein ole mitään vakavaa, mutta se pitää aina tarkistuttaa.\n- Asiasta kannattaa kysyä myös, jos vuotosi on aiempaa runsaampaa eikä niukempaa tai jos kuukautisesi muuttuvat tavalla, joka huolestuttaa sinua.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Kuukautiskierto",
+      "aliases": [
+        "kierto",
+        "kuukautiskierto",
+        "kuukausikierto",
+        "kierron pituus",
+        "menkkakierto",
+        "säännöllinen kierto"
+      ],
+      "glance": "Kuukautiskierto on kuukausittainen rytmi, jonka mukaan kehosi valmistautuu mahdolliseen raskauteen.",
+      "overview": "Kuukautiskierto lasketaan kuukautisten ensimmäisestä päivästä – se on päivä 1 – seuraavien kuukautisten alkua edeltävään päivään. Sitä ohjaavat hormonit, jotka nousevat ja laskevat toistuvan kaavan mukaan joka kuukausi.\n\nKierto on usein noin 28 päivää, mutta se on vain keskiarvo. Mikä tahansa pituus noin 21 ja 35 päivän väliltä on normaali, ja oma kiertosi voi vaihdella hieman kuukaudesta toiseen. Oman kuviosi oppiminen on hyödyllisempää kuin sen vertaaminen johonkin lukuun.\n\nKierron aikana kehosi käy läpi muutaman vaiheen: kuukautiset, valmistautumisen munasolun irtoamiseen, itse irtoamisen (ovulaatio) ja sitä seuraavan jakson. Jokaista vaihetta muovaavat hormonit, pääasiassa estrogeeni ja progesteroni.",
+      "deep": "Koko kierto on aivojen ja munasarjojen välistä keskustelua, jota hormonit välittävät. Ensimmäisellä puoliskolla estrogeeni nousee, kun munasolun sisältävä munarakkula kypsyy munasarjassa ja kohdun limakalvo paksuuntuu. Suunnilleen kierron puolivälissä munasolu irtoaa. Toisella puoliskolla progesteroni auttaa pitämään limakalvon valmiina siltä varalta, että hedelmöittynyt munasolu saapuu.\n\nJos raskautta ei ala, estrogeeni ja progesteroni laskevat mataliksi, limakalvo irtoaa kuukautisina ja kaava alkaa alusta. Koska nämä hormonit vaikuttavat moniin elimistön järjestelmiin, saatat huomata kuukauden mittaan pieniä päivittäisiä muutoksia – se on kierron normaali rytmi, ei jotain, mikä pitäisi ”korjata”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Kuukautisvaihe (kuukautiset)",
+      "aliases": [
+        "kuukautiset",
+        "menkat",
+        "mensut",
+        "kuukautisvaihe",
+        "kuukautisvuoto",
+        "vuoto",
+        "menstruaatio"
+      ],
+      "glance": "Kuukautiset ovat ne muutamat vuotopäivät, joilla jokainen kierto alkaa, kun kohdun limakalvo irtoaa.",
+      "overview": "Kuukautisvaihe tarkoittaa kuukautisia – päiviä, jolloin vuodat. Se alkaa kierron päivänä 1, kun estrogeeni- ja progesteronipitoisuudet ovat laskeneet niin mataliksi, ettei kohdun sisälle kasvanutta limakalvoa enää ylläpidetä, ja se irtoaa ja poistuu elimistöstä emättimen kautta.\n\nKuukautiset kestävät yleensä noin 2–7 päivää, tyypillisesti noin 5 päivää. Vuoto on usein runsainta parina ensimmäisenä päivänä ja sen jälkeen niukempaa. Kuukautiset alkavat yleensä noin 12-vuotiaana, mutta myös aiemmin tai myöhemmin alkaminen on normaalia.\n\nSe, mikä on ”normaalia”, vaihtelee paljon ihmisestä toiseen. Omien kuukautistesi seuraaminen auttaa sinua huomaamaan, mikä on sinulle tavallista, ja se on paljon merkityksellisempää kuin mikään keskiarvo.",
+      "deep": "Kuukautisvuoto on kohdun limakalvon (endometriumin) irtoamista kierron jälkeen, jossa raskaus ei ole alkanut. Se merkitsee sekä yhden kierron loppua että seuraavan alkua, ja siksi kuukautisten päivä 1 lasketaan koko kierron päiväksi 1. Kuukautisten päättyessä estrogeeni alkaa taas nousta, ja keho alkaa rakentaa limakalvoa uudelleen tulevaa kiertoa varten.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Keskenmeno",
+      "aliases": [
+        "keskenmeno",
+        "raskauden menetys",
+        "alkuraskauden keskenmeno",
+        "raskauden menettäminen",
+        "keskenmenon oireet",
+        "vuoto alkuraskaudessa"
+      ],
+      "glance": "Keskenmeno tarkoittaa raskauden päättymistä ennen 24. raskausviikkoa – se on yleistä, eikä se lähes koskaan johdu mistään, mitä olisit tehnyt.",
+      "overview": "Keskenmeno tarkoittaa raskauden päättymistä ensimmäisten 24 raskausviikon aikana. Se on yleisempää kuin moni tietää, ja yksi tärkeimmistä asioista on tietää, että se ei lähes koskaan johdu mistään, mitä teit tai jätit tekemättä – se johtuu yleensä raskauden kehityksessä olleesta ongelmasta, johon kukaan ei voinut vaikuttaa.\n\nYleisimmät merkit ovat verenvuoto emättimestä sekä kouristelu tai kipu alavatsassa. Verenvuoto alkuraskaudessa ei aina tarkoita, että keskenmeno on käynnissä – monella on vähän vuotoa, ja raskaus jatkuu terveenä – mutta se pitää aina tarkistuttaa.\n\nTapahtuipa menetys miten tahansa, sen herättämät tunteet ovat todellisia ja oikeutettuja, ja suru on normaali reaktio. Sinun ei tarvitse käydä sitä läpi yksin – tukea on saatavilla kätilöltä tai omalääkäriltä sekä raskauden menettäneitä tukevilta järjestöiltä.",
+      "deep": null,
+      "when_to_see_doctor": "- Ota yhteyttä omalääkäriin, kätilöön tai alkuraskauden poliklinikalle (tai päivystävään lääkäriin), jos sinulla on **verenvuotoa tai tiputteluvuotoa raskauden aikana**, vaikka se olisi vähäistä ja kipua olisi vain vähän tai ei lainkaan – jotta tilanne voidaan tarkistaa.\n- Kysy lähimmästä **alkuraskauden poliklinikasta**, joka on tarkoitettu juuri tällaisia tilanteita varten.",
+      "red_flags": "- Soita **hätänumeroon {{emergency}} tai mene päivystykseen**, jos sinulla on raskauden aikana **voimakasta vatsakipua, kipua olkapään kärjessä, runsasta verenvuotoa tai pyörtymisen tunnetta tai olet hyvin huonovointinen**. Nämä voivat olla merkkejä vakavasta ongelmasta, kuten kohdunulkoisesta raskaudesta, joka vaatii kiireellistä hoitoa."
+    },
+    "morning-sickness": {
+      "title": "Raskauspahoinvointi",
+      "aliases": [
+        "raskauspahoinvointi",
+        "aamupahoinvointi",
+        "pahoinvointi raskaus",
+        "oksentelu raskaus",
+        "hyperemeesi",
+        "hyperemesis gravidarum",
+        "kuvotus raskaana"
+      ],
+      "glance": "Pahoinvointi ja oksentelu ovat alkuraskaudessa hyvin yleisiä, ja ne helpottavat yleensä noin raskausviikoilla 16–20.",
+      "overview": "Pahoinvointi tai oksentelu on alkuraskaudessa hyvin yleistä. Nimestä ”aamupahoinvointi” huolimatta sitä voi esiintyä mihin aikaan päivästä tai yöstä tahansa. Useimmilla se alkaa ensimmäisten viikkojen aikana ja rauhoittuu noin raskausviikoilla 16–20.\n\nSe on epämiellyttävää, ja joillakin se todella vaikuttaa arkeen – mutta tavallinen raskauspahoinvointi ei lisää vauvaan kohdistuvia riskejä. Pienten määrien syöminen usein ja itselle sopivien keinojen löytäminen voivat tehdä olosta siedettävämmän; kätilö, omalääkäri tai farmaseutti voi ehdottaa turvallisia vaihtoehtoja, jos sinulla on vaikeaa.\n\nPienellä osalla pahoinvointi muuttuu vaikeaksi (tätä kutsutaan nimellä hyperemesis gravidarum), ja siihen liittyy todellinen nestehukan vaara. Tämä muoto vaatii lääkärin hoitoa – katso merkit alta.",
+      "deep": null,
+      "when_to_see_doctor": "Ota yhteyttä kätilöön, omalääkäriin tai päivystävään lääkäriin, jos:\n\n- oksennat kaiken takaisin etkä pysty pitämään mitään ruokaa tai juomaa sisälläsi 24 tunnin ajan\n- virtsasi on hyvin tummaa tai et ole virtsannut yli 8 tuntiin\n- tunnet itsesi hyvin heikoksi, sinua huimaa tai tunnet pyörtyväsi noustessasi seisomaan\n- sinulla on vatsakipua tai kuumetta tai oksennat verta\n- painosi laskee",
+      "red_flags": "- Jos oksennat kaikki juomasi nesteet etkä pysty pitämään niitä sisälläsi ja virtsasi on hyvin tummaa tai sitä ei tule lainkaan, se voi tarkoittaa, että olet kuivumassa (vaikea raskauspahoinvointi) – **ota yhteyttä kätilöön, omalääkäriin tai päivystävään lääkäriin samana päivänä**, sillä saatat tarvita hoitoa, jotta tilanne ei pahene."
+    },
+    "ovulation": {
+      "title": "Ovulaatio",
+      "aliases": [
+        "ovulaatio",
+        "munasolun irtoaminen",
+        "hedelmällinen ikkuna",
+        "irtoaminen",
+        "ovulaatiokipu",
+        "milloin ovulaatio"
+      ],
+      "glance": "Ovulaatio tarkoittaa, että munasarja vapauttaa munasolun – se on kiertosi hedelmällisin hetki.",
+      "overview": "Ovulaatio on hetki, jolloin munasarja vapauttaa kypsän munasolun. Se on kierron käännekohta: ensimmäinen puolisko johtaa siihen, ja toinen puolisko seuraa sitä.\n\nNoin 28 päivän kierrossa ovulaatio tapahtuu usein noin päivänä 14 – mutta ajoitus vaihtelee. Hyödyllinen tapa ajatella asiaa on, että ovulaatio tapahtuu yleensä jossain vaiheessa 10–16 päivää ennen seuraavien kuukautisten alkua. Tarkkaa päivää voi olla vaikea määrittää.\n\nIrrottuaan munasolu voi hedelmöittyä vain noin 12–24 tunnin ajan. Siittiöt taas voivat säilyä elimistössä useita päiviä, joten ”hedelmällinen ikkuna” on yhtä päivää laajempi – suunnilleen ovulaatiota edeltävät muutamat päivät ja itse ovulaatiopäivä.",
+      "deep": "Munasolun irtoamisen käynnistää lyhyt, jyrkkä hormonien nousu kierron puolivälissä follikkelivaiheen estrogeenin kasvun jälkeen. Koska siittiöt voivat elää useita päiviä mutta munasolu alle vuorokauden, raskaus on todennäköisintä, jos yhdyntä tapahtuu juuri ovulaatiota edeltävinä päivinä. Ovulaatio voi siirtyä kierrosta toiseen esimerkiksi stressin tai sairauden vuoksi, minkä vuoksi sen tarkka ennustaminen on vaikeaa ja useamman kierron seuraaminen on luotettavampaa kuin mikään yksittäinen laskelma.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Kipu yhdynnässä",
+      "aliases": [
+        "kipu yhdynnässä",
+        "kivulias yhdyntä",
+        "yhdyntäkipu",
+        "dyspareunia",
+        "vaginismi",
+        "seksi sattuu",
+        "emättimen kouristus"
+      ],
+      "glance": "Kipu yhdynnässä on yleistä, sillä voi olla monia syitä, ja se kannattaa aina tarkistuttaa – apua on saatavilla.",
+      "overview": "Kipu yhdynnän aikana – jota kutsutaan joskus dyspareuniaksi – on yleisempää kuin moni tietää, eikä se ole koskaan jotain, mikä sinun pitäisi vain hyväksyä. Sillä voi olla monia syitä, ja oikean syyn löytäminen on avain sen helpottamiseen.\n\nJotkin syyt ovat fyysisiä. Emättimen kuivuus on yleinen syy, joka liittyy usein vaihdevuosien hormonimuutoksiin tai riittämättömään kiihottumiseen, ja se voi saada yhdynnän tuntumaan aralta tai epämukavalta. Myös infektiot, kuten hiivatulehdus, voivat aiheuttaa kipua. Toinen syy on vaginismi – tila, jossa emättimen ympärillä olevat lihakset jännittyvät itsestään, kun penetraatiota yritetään, mikä voi tehdä yhdynnästä kivuliaan tai saada sen tuntumaan mahdottomalta. Tämä on tahatonta, se ei ole ”korvien välissä”, ja sitä voidaan hoitaa.\n\nKoska syy voi olla fyysinen, hormonaalinen tai liittyä siihen, kuinka rentoutuneeksi tai kiihottuneeksi tunnet itsesi – ja usein kyse on näiden yhdistelmästä – hyödyllisintä on tarkistuttaa asia sen sijaan, että arvailisit tai sinnittelisit.",
+      "deep": null,
+      "when_to_see_doctor": "- Hakeudu omalääkärille tai seksuaaliterveysklinikalle, jos yhdyntä on kivuliasta – syystä riippumatta se kannattaa tarkistuttaa, ja yleisimpiin syihin on olemassa tehokasta apua.\n- Asian ottaminen puheeksi voi tuntua kiusalliselta, mutta ammattilaiset kohtaavat tätä usein ja ovat siellä auttamassa, eivät tuomitsemassa. Voit pyytää naislääkäriä, ottaa jonkun mukaasi ja keskustella siitä, mikä tekisi tutkimuksesta mukavamman.\n- Tarkistuta ehdottomasti mahdollinen yhdynnän jälkeinen verenvuoto. Jos kipu on voimakasta tai voit lisäksi huonosti, hakeudu vastaanotolle nopeammin äläkä jää odottamaan.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Kivunlievitys synnytyksessä",
+      "aliases": [
+        "kivunlievitys synnytys",
+        "synnytyksen kivunlievitys",
+        "epiduraali",
+        "ilokaasu",
+        "entonox",
+        "synnytyskipu",
+        "synnytysallas",
+        "tens"
+      ],
+      "glance": "Synnytyskipua voi lievittää monella tavalla – ei ole oikeaa tai väärää valintaa, ja voit pysyä joustavana.",
+      "overview": "Jokainen synnytys on erilainen, ja kivun kanssa pärjäämiseen on useita keinoja – yksinkertaisista mukavuutta lisäävistä keinoista lääketieteellisiin vaihtoehtoihin. Kun tiedät etukäteen, mitä on tarjolla, voit tuntea olosi valmistautuneemmaksi.\n\nVaihtoehtoja ovat **liikkeellä ja pystyasennossa pysyminen**, hengitys ja rentoutuminen, hieronta ja **vesi** (kylpy tai synnytysallas) sekä **TENS-laite**, **ilokaasu** (Entonox, jota hengität itse), **pistokset**, kuten petidiini, ja **epiduraalipuudutus** (jonka antaa anestesialääkäri ja joka poistaa synnytyskipua kattavammin).\n\n”Parasta” valintaa ei ole – se riippuu sinusta, synnytyksestäsi ja siitä, miltä sinusta sinä päivänä tuntuu. Toiveesi kannattaa kirjata **synnytyssuunnitelmaan** ja samalla pitää mieli avoimena: moni huomaa haluavansa enemmän tai vähemmän kivunlievitystä kuin odotti, ja se on täysin ok.",
+      "deep": null,
+      "when_to_see_doctor": "- **Kätilösi** (ja epiduraalin osalta anestesialääkäri) käy vaihtoehdot kanssasi läpi ja auttaa sinua päättämään, mikä sopii sinulle – raskauden aikana ja uudelleen itse synnytyksessä. Kaikkea ei tarvitse päättää etukäteen.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (monirakkulainen munasarjaoireyhtymä)",
+      "aliases": [
+        "pcos",
+        "monirakkulainen munasarjaoireyhtymä",
+        "munasarjojen monirakkulaisuus",
+        "pco",
+        "polykystiset munasarjat",
+        "epäsäännölliset kuukautiset",
+        "liikakarvoitus"
+      ],
+      "glance": "PCOS on yleinen hormonaalinen tila, joka voi vaikuttaa kuukautisiin, ovulaatioon, ihoon ja karvoitukseen.",
+      "overview": "PCOS – monirakkulainen munasarjaoireyhtymä – on yleinen tila, joka liittyy lisääntymishormonien tasapainoon. Arvioiden mukaan se koskettaa noin 1:tä 10:stä hedelmällisessä iässä olevasta naisesta, ja moni sitä sairastava ei koskaan saa diagnoosia.\n\nSe voi ilmetä eri tavoin, eikä kahdella ihmisellä ole aivan samanlaista kuvaa. Tavallisia piirteitä ovat epäsäännölliset, harvat tai puuttuvat kuukautiset; androgeeneiksi kutsuttujen hormonien korkeammat pitoisuudet, jotka voivat johtaa lisääntyneeseen karvankasvuun kasvoissa tai vartalossa, akneen tai hiusten ohenemiseen päälaella; sekä munasarjat, jotka eivät vapauta munasolua yhtä säännöllisesti kuin tavallisesti, mikä voi vaikeuttaa raskaaksi tulemista. Myös painon muutokset ja tummemmat ihoalueet ovat yleisiä.\n\nTarkkaa syytä ei täysin tunneta, eikä parantavaa hoitoa ole – mutta oireita voidaan hallita, ja sen ymmärtäminen, mistä on kyse, on ensimmäinen askel. PCOS on yleinen ja hallittavissa oleva tila, ei mitään hävettävää.",
+      "deep": "Koska PCOS liittyy elimistön hormoneihin ja siihen, miten elimistö käsittelee insuliinia, siihen liittyy pidemmällä aikavälillä myös insuliiniresistenssi ja suurempi tyypin 2 diabeteksen, kohonneen verenpaineen ja kolesterolimuutosten todennäköisyys – ja siksi ammattilaiset yleensä seuraavat näitä asioita ajan mittaan. Noin puolelle PCOS:ää sairastavista voi kehittyä diabetes tai esidiabetes nelikymppisiin mennessä, joten säännölliset tarkastukset ovat tärkeitä. Diagnoosia ei voi tehdä itse: ammattilainen tarkastelee kokonaiskuvaa – taustaasi ja kuukautisiasi, joskus hormonien verikokeita ja joskus munasarjojen ultraäänitutkimusta – ja sulkee pois muut syyt ennen kuin päätyy PCOS:ään.",
+      "when_to_see_doctor": "Omalääkärille kannattaa hakeutua, jos huomaat yllä kuvattuun sopivia asioita, etenkin jos ne vaikuttavat päivittäiseen vointiisi:\n\n- kuukautiset ovat epäsäännölliset, hyvin harvat tai ovat loppuneet\n- selvästi lisääntynyt karvankasvu kasvoissa tai vartalossa, pitkäaikainen akne tai hiusten oheneminen\n- vaikeus tulla raskaaksi, kun olet yrittänyt jonkin aikaa\n- vaikeasti laskeva painonnousu muiden oireiden ohella\n\nOmalääkäri voi selvittää, mistä on kyse, varmistaa, onko kyseessä PCOS vai jokin muu, ja käydä kanssasi läpi sinulle sopivan suunnitelman. PCOS:ään liittyy myös alakuloa ja ahdistusta – jos vointisi on raskas, kerro siitäkin omalääkärillesi; se on osa kokonaiskuvaa, ja tukea on saatavilla.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopaussi",
+      "aliases": [
+        "perimenopaussi",
+        "vaihdevuosien alku",
+        "vaihdevuosien kynnys",
+        "vaihdevuosiin siirtyminen",
+        "vaihdevuodet alkavat",
+        "kuumat aallot"
+      ],
+      "glance": "Perimenopaussi on menopaussia edeltävä siirtymävaihe, jolloin kuukautiset ja hormonit alkavat muuttua.",
+      "overview": "Perimenopaussi on menopaussia edeltävä ajanjakso – vuodet ”menopaussin ympärillä”. Se alkaa, kun huomaat ensimmäiset muutokset, ja kestää siihen asti, kun viimeisistä kuukautisistasi on kulunut kokonainen vuosi, jolloin olet saavuttanut menopaussin. Se voi kestää useita vuosia.\n\nTänä aikana munasarjat tuottavat vähitellen vähemmän estrogeenia, ja pitoisuudet nousevat ja laskevat aiempaa arvaamattomammin. Yleisin varhainen merkki on kuukautisten muuttuminen – ne tulevat tiheämmin tai harvemmin ja ovat niukempia tai runsaampia. Monet menopaussiin liitetyistä oireista, kuten kuumat aallot, unen muutokset tai mielialan vaihtelut, voivat alkaa jo nyt, kun sinulla on vielä kuukautiset.\n\nKoska perimenopaussi etenee vähitellen ja vaihtelee niin paljon, se voi tuntua hämmentävältä – muutokset eivät tule kaikille kerralla eivätkä samassa järjestyksessä. Kun tietää, että tällä vaiheella on nimi ja että se on normaali siirtymä, siitä voi olla helpompi saada selvää.",
+      "deep": null,
+      "when_to_see_doctor": "- Hakeudu omalääkärille, jos perimenopaussin oireet vaikuttavat arkeesi ja haluaisit keskustella siitä, mikä voisi auttaa.\n- Tarkistuta tilanne, jos kuukautisesi muuttuvat hyvin runsaiksi tai sinulla on verenvuotoa kuukautisten välillä tai yhdynnän jälkeen, jotta syy löydetään.\n- Muista, että raskaaksi voi yhä tulla perimenopaussin aikana, joten ehkäisystä kannattaa keskustella ammattilaisen kanssa, jos se koskee sinua.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Kuukautiskivut",
+      "aliases": [
+        "kuukautiskivut",
+        "menkkakivut",
+        "kuukautiskrampit",
+        "kramppaus",
+        "dysmenorrea",
+        "kivuliaat kuukautiset",
+        "alavatsakipu kuukautiset",
+        "kuukautiskipu",
+        "kuukautiskipuja",
+        "kivuliaat menkat"
+      ],
+      "glance": "Kuukautiskipu on kouristelua alavatsassa kuukautisten aikoihin – yleistä ja usein normaali osa kiertoa.",
+      "overview": "Kuukautiskipu on alavatsan kouristava, jomottava tunne, jota moni kokee kuukautistensa aikoihin. Se syntyy, kun kohdun lihasseinämä supistuu, ja se on usein normaali osa kuukautiskiertoa. Sen lääketieteellinen nimi on dysmenorrea.\n\nSe alkaa yleensä kuukautisten alussa tai juuri ennen niitä ja kestää tavallisesti enintään noin kolme päivää. Joillekin se on lievää painon tunnetta, toisilla kouristukset ovat voimakkaampia. Kipu voi myös muuttua elämän mittaan ja kierrosta toiseen.\n\nTätä tuttua kaavaa noudattava kuukautiskipu on yleistä ja yleensä hallittavissa. Moni käyttää arkisia keinoja ja tavallisia kipulääkkeitä, ja farmaseutti tai omalääkäri voi neuvoa, mikä voisi sopia sinulle. Tärkeintä on tuntea oma tavallinen kaavasi – jotta huomaat, jos jokin muuttuu.",
+      "deep": null,
+      "when_to_see_doctor": "Omalääkärin kanssa kannattaa keskustella, jos:\n\n- kuukautisesi muuttuvat tavallista kivuliaammiksi, runsaammiksi tai epäsäännöllisemmiksi\n- kipu estää sinua tekemästä arkisia asioita, kuten käymästä töissä tai koulussa\n- tavalliset kipulääkkeet eivät auta\n- sinulla on kipua yhdynnän aikana tai virtsatessa tai ulostaessa\n- sinulla on verenvuotoa kuukautisten välillä\n- kipua esiintyy muulloinkin kuin juuri ennen kuukautisia tai niiden aikana\n- vuodon mukana tulee kolikkoa suurempia verihyytymiä (suurempia kuin noin kahden euron kolikko)\n- huomaat lisäksi vatsan turvotusta, ruokahalun heikkenemistä tai selittämätöntä painon laskua\n\nNämä eivät tarkoita, että jokin olisi vialla, mutta ne kannattaa tarkistuttaa – uudella, erilaisella tai vaikeasti hallittavalla kuukautiskivulla voi olla syitä, joiden hoidossa ammattilainen voi auttaa.",
+      "red_flags": "- Pyydä **kiireellistä** aikaa omalääkärille tai ota yhteyttä **päivystävään lääkäriin**, jos kuukautis- tai lantiokipusi on **voimakasta tai tavallista pahempaa, eivätkä kipulääkkeet ole auttaneet.**"
+    },
+    "planning-pregnancy": {
+      "title": "Raskauden suunnittelu",
+      "aliases": [
+        "raskauden suunnittelu",
+        "raskautta edeltävä aika",
+        "raskaaksi yrittäminen",
+        "ennen raskautta",
+        "valmistautuminen raskauteen",
+        "vauvan yrittäminen",
+        "raskaaksi tuleminen"
+      ],
+      "glance": "Muutama yksinkertainen askel ennen yrittämistä – foolihappo, tupakoinnin ja alkoholin lopettaminen – antaa raskaudelle parhaan alun.",
+      "overview": "Jos harkitset lapsen yrittämistä, muutama etukäteen otettu askel voi antaa raskaudelle terveemmän alun – ja moni niistä vaikuttaa jo ennen kuin tulet raskaaksi.\n\nTärkeimmät: aloita **foolihappo** (ja D-vitamiini), **lopeta tupakointi** ja **vältä alkoholia**. Myös terveeseen painoon pyrkiminen auttaa, sillä huomattava ali- tai ylipaino voi vaikeuttaa raskaaksi tulemista. Kannattaa myös varmistaa, että **MPR-rokotuksesi** on ajan tasalla, koska jotkin infektiot voivat vaikuttaa raskauteen.\n\nMinkään tästä ei tarvitse olla täydellistä tai stressaavaa. Pienet, itseäsi kohtaan lempeät muutokset ajoissa ovat se, millä on merkitystä – ja pieni etumatka on yksi mukavimmista asioista, joita voit tehdä tulevan raskauden hyväksi.",
+      "deep": null,
+      "when_to_see_doctor": "- Jos sinulla on **pitkäaikaissairaus** tai käytät **säännöllistä lääkitystä**, käy omalääkärin vastaanotolla ennen kuin alat yrittää – jotkin sairaudet ja lääkkeet vaativat suunnittelua. **Älä lopeta mitään määrättyä lääkettä** keskustelematta ensin lääkärisi kanssa.\n- Omalääkäri voi myös neuvoa foolihapon käytössä (myös siinä, tarvitsetko suuremman annoksen) ja terveen painon saavuttamisessa ennen raskautta.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Synnytyksen jälkeinen masennus",
+      "aliases": [
+        "synnytyksen jälkeinen masennus",
+        "lapsivuodemasennus",
+        "baby blues",
+        "herkistymisvaihe",
+        "masennus synnytyksen jälkeen",
+        "pnd",
+        "alakulo vauvan syntymän jälkeen"
+      ],
+      "glance": "Synnytyksen jälkeinen masennus on yleinen ja hoidettavissa oleva mielialan lasku synnytyksen jälkeen – se ei ole sinun syytäsi, ja apua on saatavilla.",
+      "overview": "Alakulo, ahdistus tai ärtyneisyys parin ensimmäisen viikon aikana synnytyksen jälkeen on hyvin yleistä – tätä kutsutaan usein herkistymisvaiheeksi (”baby blues”), ja se menee yleensä itsestään ohi noin kahdessa viikossa.\n\nSynnytyksen jälkeinen masennus on eri asia: syvempi tai pidempään jatkuva mielialan lasku. Se on yleinen sairaus, se voi alkaa milloin tahansa ensimmäisen vuoden aikana, ja se voi koskettaa myös isiä ja kumppaneita. Merkkejä ovat pitkään jatkuva alakulo, vaikeus nauttia mistään, univaikeudet silloinkin, kun vauva nukkuu, ja joskus vaikeat tunteet vauvaan kiintymisestä.\n\nSe **ei** tarkoita, että olisit huono vanhempi tai ettet rakastaisi vauvaasi – se on sairaus, ei epäonnistuminen, ja se reagoi hyvin tukeen ja hoitoon. Varhainen avun hakeminen on vahva ja välittävä teko sekä itseäsi että vauvaasi kohtaan.",
+      "deep": null,
+      "when_to_see_doctor": "- Keskustele **omalääkärin, kätilön tai neuvolan terveydenhoitajan** kanssa, jos epäilet, että sinulla voi olla synnytyksen jälkeinen masennus, tai jos herkistymisvaihe ei ole hellittänyt kahden viikon jälkeen. He ovat nähneet sen monta kertaa ja voivat auttaa sinua löytämään oikean tuen.",
+      "red_flags": "- Jos sinulla on **ajatuksia itsesi tai vauvasi vahingoittamisesta** tai siitä, että perheesi pärjäisi paremmin ilman sinua, hae apua **heti**: soita **hätänumeroon {{emergency}}** tai mene päivystykseen tai soita kriisipuhelimeen. Nämä ajatukset voivat olla osa sairautta, ne eivät määritä sitä, kuka olet, ja kiireellistä apua on saatavilla."
+    },
+    "pre-eclampsia": {
+      "title": "Raskausmyrkytys (pre-eklampsia)",
+      "aliases": [
+        "raskausmyrkytys",
+        "pre-eklampsia",
+        "preeklampsia",
+        "korkea verenpaine raskaus",
+        "raskausajan verenpaine",
+        "valkuainen virtsassa",
+        "turvotus raskaus"
+      ],
+      "glance": "Raskausmyrkytys on raskauden aikana kohonnut verenpaine – usein aluksi oireeton, ja siksi neuvolatarkastukset ovat tärkeitä.",
+      "overview": "Raskausmyrkytys (pre-eklampsia) on raskauteen liittyvä tila, joka ilmenee pääasiassa korkeana verenpaineena ja valkuaisena virtsassa. Se ilmaantuu yleensä noin 20. raskausviikosta alkaen ja joskus synnytyksen jälkeen.\n\nYksi tärkeimmistä asioista on tietää, että alkuvaiheessa se ei usein aiheuta **mitään oireita** – voit voida täysin hyvin. Juuri siksi kätilö mittaa verenpaineesi ja tutkii virtsasi jokaisella neuvolan rutiinikäynnillä: näiden tarkastusten avulla se yleensä havaitaan ennen kuin itse huomaisit mitään.\n\nKun oireita tulee, ne on hyvä tuntea, sillä raskausmyrkytys voi muuttua vakavaksi sekä sinulle että vauvallesi. Sitä voidaan hoitaa hyvin, kun se löydetään ajoissa, ja neuvolakäynneistä huolehtiminen on paras yksittäinen keino havaita se varhain.",
+      "deep": null,
+      "when_to_see_doctor": "- Käy kaikilla **neuvolan rutiinikäynneillä** – verenpaineen ja virtsan tarkastukset ovat tapa, jolla raskausmyrkytys yleensä löydetään ennen oireiden alkamista.",
+      "red_flags": "Hakeudu hoitoon **välittömästi** – ota yhteyttä synnytysosastolle tai **päivystävään lääkäriin** – jos sinulla on jokin seuraavista (soita **hätänumeroon {{emergency}}**, jos olet vakavasti sairas, esimerkiksi jos sinulla on kouristuskohtaus):\n\n- **kovaa päänsärkyä**, joka ei helpota tavallisilla kipulääkkeillä\n- **näköhäiriöitä** – näön sumenemista tai valonvälähdyksiä\n- **äkillistä turvotusta** kasvoissa, käsissä tai jalkaterissä\n- **kipua juuri kylkiluiden alapuolella**\n- **oksentelua** tai äkillistä, voimakasta huonovointisuutta"
+    },
+    "pregnancy": {
+      "title": "Raskaus",
+      "aliases": [
+        "raskaus",
+        "raskaana",
+        "vauvan odotus",
+        "raskausviikot",
+        "raskauskolmannekset",
+        "laskettu aika",
+        "monennella viikolla",
+        "rv"
+      ],
+      "glance": "Raskaus kestää yleensä noin 40 viikkoa viimeisten kuukautisten ensimmäisestä päivästä laskettuna.",
+      "overview": "Raskaus on aika, jolloin kehosi kasvattaa ja kantaa vauvaa. Se kestää normaalisti noin 40 viikkoa – mikä tahansa kesto 37 ja 42 viikon väliltä katsotaan täysiaikaiseksi ja normaaliksi – ja, ehkä yllättäen, se lasketaan **viimeisten kuukautisten** ensimmäisestä päivästä eikä hedelmöityksestä. Se on vain vakiintunut tapa laskea päivämäärät.\n\n**Laskettu aika** on arvio, ei määräaika: vauvat syntyvät usein aivan hyvin vähän aiemmin tai myöhemmin. Alkuraskaudessa tehtävä niin sanottu ajoitusultraääni (yleensä noin 12. raskausviikolla) voi mitata vauvasi ja antaa tarkemman päivämäärän, mikä joskus muuttaa alkuperäistä arviota.\n\nRaskaudesta puhutaan usein kolmena vaiheena eli **raskauskolmanneksena**, joista jokaiseen kuuluu omat muutoksensa. Koko raskauden ajan sinusta huolehditaan säännöllisillä neuvolatarkastuksilla, joissa sinut tapaa kätilö (ja tarvittaessa lääkäri) – hoito, joka auttaa pitämään sinut ja vauvasi terveinä.",
+      "deep": "Koska raskausviikot lasketaan viimeisistä kuukautisista, raskauden katsotaan olevan noin neljännellä viikolla siinä vaiheessa, kun kuukautiset jäävät tulematta. Raskausviikkojen mukaan hoito järjestetään – ultraäänitutkimukset, seulonnat ja tarkastukset tarjotaan kaikki tietyillä viikoilla. Jos kuukautisesi ovat epäsäännölliset tai olet epävarma päivämääristä, ajoitusultraääni määrittää aikataulun. Tämä artikkeli on kartta koko matkasta; tarkemmilla aiheilla – raskauden merkit, neuvolaseuranta, hyvinvointi ja synnytys – on kullakin oma artikkelinsa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Raskaustesti",
+      "aliases": [
+        "raskaustesti",
+        "kotiraskaustesti",
+        "hcg-testi",
+        "raskauden testaus",
+        "positiivinen raskaustesti",
+        "negatiivinen raskaustesti",
+        "milloin raskaustesti"
+      ],
+      "glance": "Kotiraskaustesti tunnistaa virtsasta raskaushormoni hCG:n – luotettavin siitä päivästä alkaen, jolloin kuukautiset ovat myöhässä.",
+      "overview": "Kotiraskaustesti toimii tunnistamalla virtsastasi hCG-nimistä hormonia (istukkagonadotropiini). Elimistösi alkaa tuottaa sitä muutama päivä sen jälkeen, kun hedelmöittynyt munasolu on kiinnittynyt, ja sen määrä kasvaa alkuraskaudessa nopeasti.\n\nTesti on luotettavin **ensimmäisestä päivästä alkaen, jolloin kuukautiset ovat myöhässä** – noin kaksi viikkoa hedelmöityksen jälkeen. Jos kiertosi on epäsäännöllinen tai et ole varma, milloin kuukautisesi pitäisi alkaa, odottaminen vähintään 21 päivää suojaamattomasta yhdynnästä antaa luotettavamman tuloksen. Testiä ei tarvitse tehdä heti aamulla; mikä tahansa vuorokaudenaika käy.\n\n**Positiivinen** tulos on lähes varmasti oikea – hyvin harvat testit näyttävät positiivista, kun et ole raskaana. **Negatiivinen** tulos on hieman epävarmempi: jos kuukautisesi eivät vieläkään ala ja uskot, että saatat olla raskaana, odota muutama päivä ja testaa uudelleen.",
+      "deep": null,
+      "when_to_see_doctor": "- Jos saat positiivisen tuloksen, ota yhteyttä **kätilöön tai omalääkäriin**, jotta raskauden seuranta voi alkaa.\n- Jos testit ovat negatiivisia, mutta kuukautisesi ovat jääneet tulematta ja tunnet olevasi raskaana (tai voit huonosti), hakeudu omalääkärille selvittämään, mistä on kyse.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Ennenaikainen synnytys",
+      "aliases": [
+        "ennenaikainen synnytys",
+        "uhkaava ennenaikainen synnytys",
+        "keskosen syntymä",
+        "keskonen",
+        "ennenaikaiset supistukset",
+        "lapsivedet menivät aikaisin",
+        "ennenaikainen lapsivedenmeno"
+      ],
+      "glance": "Ennenaikainen synnytys tarkoittaa ennen 37. raskausviikkoa käynnistyvää synnytystä – toimi nopeasti, sillä varhainen hoito tekee todellisen eron.",
+      "overview": "Ennenaikainen synnytys on synnytys, joka käynnistyy ennen 37. raskausviikkoa. Näin käy noin 8 synnytyksessä 100:sta.\n\nEnnenaikaisesti syntyneet vauvat ovat haavoittuvampia, mutta monet heistä pärjäävät hyvin – etenkin vastasyntyneiden teho-osastojen tarjoaman erikoishoidon ansiosta. Tärkeintä on toimia nopeasti, jos epäilet synnytyksen olevan käynnistymässä, jotta sinut voidaan tutkia ja tarvittaessa antaa hoitoja, jotka auttavat suojaamaan vauvaa.\n\nMerkit ovat samankaltaisia kuin synnytyksessä missä vaiheessa tahansa, mutta ennen 37. raskausviikkoa niitä ei pidä koskaan jäädä odottelemaan – ne ovat aina syy ottaa yhteyttä heti.",
+      "deep": null,
+      "when_to_see_doctor": "- Soita **kätilölle tai synnytysosastolle** milloin tahansa, kun raskautesi on **alle 37 viikkoa** ja olet epävarma tai huolissasi – on aina ok tarkistaa.",
+      "red_flags": "Ota **välittömästi yhteyttä kätilöön tai synnytysosastolle** – päivällä tai yöllä – jos sinulla on **ennen 37. raskausviikkoa** jokin seuraavista:\n\n- säännöllisiä **supistuksia tai kiristyksiä** tai kuukautiskipujen kaltaisia kipuja\n- **nesteen purkautumista tai tihkumista** emättimestä (lapsivedet menevät)\n- **selkäkipua**, joka ei ole sinulle tavallista, tai painon tunnetta alhaalla"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (premenstruaalioireyhtymä)",
+      "aliases": [
+        "pms",
+        "premenstruaalioireyhtymä",
+        "kuukautisia edeltävä oireyhtymä",
+        "pms-oireet",
+        "pmdd",
+        "premenstruaalinen dysforinen häiriö",
+        "ärtyisyys ennen kuukautisia"
+      ],
+      "glance": "PMS on joukko fyysisiä ja henkisiä muutoksia, joita moni huomaa viikon tai kahden aikana ennen kuukautisia.",
+      "overview": "PMS – premenstruaalioireyhtymä – on nimitys muutoksille, joita moni tuntee kuukautisia edeltävinä päivinä tai parina viikkona. Se voi koskettaa ketä tahansa, jolla on kuukautiset, ja se yleensä helpottaa muutaman päivän kuluessa kuukautisten alkamisesta.\n\nMuutokset ovat monenlaisia. Fyysisesti saatat huomata turvotusta, arkoja tai kipeitä rintoja, kouristuksia, päänsärkyä tai tavallista suurempaa väsymystä. Henkisesti voi esiintyä mielialan vaihtelua, ärtyneisyyttä, ahdistusta tai alakuloa. Myös ruokahimot ja unen muutokset ovat yleisiä. Kaikilla ei ole PMS:ää, eikä niillä, joilla on, esiinny kaikkia oireita – oma kaavasi on se, millä on merkitystä.\n\nPMS on normaali, tunnustettu osa monen kiertoa, ja se liittyy kierron toisen puoliskon luonnollisiin hormonimuutoksiin. Kun huomaat, miten se ilmenee sinulla kierrosta toiseen, sen huomioiminen suunnitelmissa voi helpottua – ja on helpompi huomata, jos se joskus muuttuu.",
+      "deep": null,
+      "when_to_see_doctor": "Omalääkärin kanssa kannattaa keskustella, jos:\n\n- oireesi vaikuttavat arkeesi – työhön, opiskeluun tai ihmissuhteisiin\n- arkirutiinien muutokset eivät ole auttaneet\n- alakulosi, ahdistuksesi tai ärtyneisyytesi tuntuu voimakkaalta\n\nAmmattilainen voi keskustella kanssasi siitä, mikä voisi auttaa. Voimakkaampi muoto, premenstruaalinen dysforinen häiriö (PMDD), voi aiheuttaa paljon voimakkaampia mielialaoireita, ja siihen on saatavilla tukea.",
+      "red_flags": "- Jos sinulla on PMDD:n oireita ja **sinulla on itsetuhoisia ajatuksia tai pelkäät, että voisit vahingoittaa itseäsi**, hae apua heti: **soita hätänumeroon {{emergency}} tai mene päivystykseen.** Älä aja itse – pyydä jotakuta viemään sinut tai pyydä ambulanssi. Ansaitset tukea, ja apua on saatavilla."
+    },
+    "progesterone": {
+      "title": "Progesteroni",
+      "aliases": [
+        "progesteroni",
+        "keltarauhashormoni",
+        "progesteronitaso",
+        "progesteronin puute"
+      ],
+      "glance": "Progesteroni on kierron toisen puoliskon hormoni, joka valmistaa kohdun limakalvoa ovulaation jälkeen.",
+      "overview": "Progesteroni on yksi kuukautiskierron päähormoneista, ja se ottaa johtavan roolin toisella puoliskolla – sen jälkeen, kun munasolu on irronnut ovulaatiossa.\n\nSen päätehtävä on auttaa kohdun limakalvoa pysymään paksuna ja valmiina, jotta hedelmöittynyt munasolu voi kiinnittyä ja raskaus alkaa, jos sellainen saapuu. Näin progesteroni toimii estrogeenin parina – estrogeeni hoiti suuren osan limakalvon kasvattamisesta aiemmin kierrossa.\n\nJos raskaus ei ala, progesteronipitoisuus laskee. Tämä lasku saa limakalvon irtoamaan seuraavina kuukautisina. Progesteronin nousu ja lasku kierron toisella puoliskolla on normaali, odotettu rytmi.",
+      "deep": "Progesteronia tuottaa pääasiassa keltarauhanen – rakenne, jonka munasarja muodostaa munarakkulasta sen vapautettua munasolunsa. Siksi progesteroni nousee nimenomaan luteaalivaiheessa (ovulaation jälkeen). Kun keltarauhanen surkastuu, sekä progesteroni että estrogeeni laskevat, mikä merkitsee uuden kierron alkua. Sen luonnolliset vaihtelut ovat osasyy siihen, miksi jotkut huomaavat kuukautisia edeltäviä muutoksia päivinä ennen kuukautisia.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Minipilleri (pelkkää progestiinia sisältävä pilleri)",
+      "aliases": [
+        "minipilleri",
+        "progestiinipilleri",
+        "pop",
+        "pelkkä progestiini pilleri",
+        "desogestreelipilleri",
+        "estrogeeniton pilleri",
+        "imetysajan pilleri"
+      ],
+      "glance": "Minipilleri on päivittäin otettava pilleri, jossa on yksi hormoni ja joka sakeuttaa kohdunkaulan limaa estäen siittiöiden kulun.",
+      "overview": "Pelkkää progestiinia sisältävä pilleri – jota kutsutaan usein minipilleriksi – on päivittäin otettava tabletti, joka sisältää vain yhtä hormonia, progestiinia. Se on vaihtoehto niille, jotka eivät voi tai eivät halua käyttää estrogeenia.\n\nSen päävaikutus on kohdunkaulan liman sakeuttaminen, jolloin siittiöiden on vaikeampi päästä munasolun luo. Yksi yleinen tyyppi, desogestreelipilleri, estää lisäksi munasarjoja vapauttamasta munasolua (ovulaatio).\n\nOikein otettuna sen teho on yli 99 %; tavallisessa arkikäytössä noin 91 %. Kuten muidenkin pillereiden kohdalla, ajoitus on tärkeää, eikä se suojaa sukupuolitaudeilta.",
+      "deep": "Minipilleri eroaa yhdistelmäpilleristä siinä, ettei siinä ole estrogeenia, mikä vaikuttaa siihen, kenelle se voi sopia – tämän ammattilainen arvioi, kun hän määrää sen. Jotkin tyypit on otettava melko tarkan päivittäisen aikaikkunan sisällä, jotta ne pysyvät tehokkaina. Tämä artikkeli kertoo, mikä pilleri on ja miten se toimii; sen ottamisesta ja siitä, sopiiko se sinulle, kannattaa keskustella omalääkärin, hoitajan tai farmaseutin kanssa.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Väkivaltaisen parisuhteen tunnistaminen",
+      "aliases": [
+        "väkivallan tunnistaminen",
+        "väkivaltainen parisuhde",
+        "lähisuhdeväkivalta",
+        "parisuhdeväkivalta",
+        "perheväkivalta",
+        "väkivallan merkit",
+        "olenko väkivaltaisessa suhteessa",
+        "henkinen väkivalta"
+      ],
+      "glance": "Väkivalta voi olla fyysistä, seksuaalista, henkistä tai kontrolloivaa – eikä se ole koskaan sen kokijan syytä.",
+      "overview": "Väkivalta parisuhteessa ei ole vain fyysistä. Sillä voi olla useita muotoja, usein samanaikaisesti: fyysinen vahingoittaminen, seksuaalinen pakottaminen, henkinen tai psyykkinen vahingoittaminen ja kontrolloiva käyttäytyminen – kumppani päättää, minne menet, keitä tapaat tai mitä saat tehdä. Mikä tahansa näistä voi olla väkivaltaa, vaikka näkyviä vammoja ei olisi.\n\nSe on yleisempää kuin moni tietää. Maailmanlaajuisesti noin 1 nainen 3:sta kokee elämänsä aikana fyysistä tai seksuaalista väkivaltaa, useimmiten kumppaninsa taholta; Italiassa tilanne on samankaltainen. Jos tämä on osa elämääsi, et siis ole yksin, etkä ole itse aiheuttanut sitä.\n\nAsian nimeäminen voi olla vaikeaa – väkivallan lomassa on usein hyviä hetkiä, anteeksipyyntöjä tai lupauksia muuttua, ja se voi kehittyä niin hitaasti, että se tuntuu normaalilta. Oma tunteesi siitä, että jokin on vialla, on pätevä syy hakea apua. Sinun ei tarvitse olla varma tai odottaa, että tilanne muuttuu ”tarpeeksi pahaksi”, jotta voit puhua jonkun kanssa.",
+      "deep": "Eri muotojen taustalla väkivalta noudattaa yleensä kaavaa, jossa yksi ihminen tavoittelee valtaa ja kontrollia toiseen nähden, ja se voi pahentua ajan mittaan. Se kuormittaa terveyttä todella – siihen liittyy ahdistusta, masennusta, univaikeuksia ja pitkäaikaisia fyysisiä vaikutuksia. Mikään tästä ei tarkoita, että olisit heikko tai syyllinen; se tarkoittaa, että se, minkä kanssa elät, on vahingollista, ja tukea on olemassa, jotta voit miettiä tilannettasi turvallisesti ja omaan tahtiisi.",
+      "when_to_see_doctor": "- Voit puhua jonkun kanssa luottamuksellisesti heti, kun olet valmis – omalääkärin tai hoitajan, väkivaltaa kokeneiden tukikeskuksen tai auttavan puhelimen kanssa (Italiassa **1522**, maksuton ja avoinna aina). Et tarvitse ensin todisteita, suunnitelmaa tai päätöstä; he ovat siellä kuuntelemassa ja auttamassa sinua ymmärtämään vaihtoehtojasi.\n- Terveydenhuollon ammattilainen voi myös hoitaa mahdolliset vammat ja ohjata sinut huomaamattomasti erityistuen piiriin.",
+      "red_flags": "- Jos olet **välittömässä vaarassa**, ota heti yhteyttä hätäpalveluihin: **112** EU:ssa (myös Italiassa), **999** Isossa-Britanniassa, **911** Yhdysvalloissa ja Kanadassa.\n- Italiassa **1522** – maksuton valtakunnallinen väkivallan ja vainoamisen vastainen auttava puhelin – palvelee 24 tuntia vuorokaudessa nimettömästi puhelimitse tai chatissa useilla kielillä."
+    },
+    "respect-not-control": {
+      "title": "Kunnioitusta, ei kontrollia",
+      "aliases": [
+        "kontrolloiva käytös",
+        "pakottava kontrolli",
+        "terve parisuhde",
+        "varoitusmerkit",
+        "mistä apua",
+        "väkivalta",
+        "mustasukkaisuus",
+        "väkivallan katkaisu"
+      ],
+      "glance": "Rakkaus rakentuu kunnioitukselle ja vapaudelle – kontrolli, mustasukkaisuus ja painostus eivät ole rakkautta, ja apua on saatavilla.",
+      "overview": "Terve parisuhde perustuu kunnioitukseen, luottamukseen, tasa-arvoon ja vapauteen: kaksi ihmistä, joilla kummallakin on omat ystävyyssuhteensa, valintansa ja tilansa. Kontrolli on tämän vastakohta. Se kätkeytyy usein sanojen kuten rakkaus tai mustasukkaisuus taakse – ”Tarkistan puhelimesi, koska välitän”, ”En halua, että tapaat heitä, koska rakastan sinua” – mutta sen vaikutus on, että hänen maailmansa ja vapautensa kutistuvat.\n\nKontrolli alkaa harvoin väkivallalla. Yleensä se alkaa pienestä – arvostelusta, ylitetystä rajasta, ”vitsistä”, joka satuttaa – ja kasvaa. Sen nimeäminen varhain on tärkeää, koska pakottava kontrolli on itsessään väkivallan muoto ja varoitusmerkki pahemmasta. Tässä ei ole kyse syyllisyydestä vaan rehellisyydestä ja muutoksesta.",
+      "deep": "**Jos tunnistat itsessäsi joitakin näistä piirteistä, tämä tietoisuus on lähtökohta – ei elinkautinen tuomio.**\nIhmiset voivat muuttua todellisella yrityksellä ja oikealla avulla. Yhteydenotto ohjelmaan, joka on tarkoitettu miehille, jotka haluavat lopettaa kontrolloivan tai väkivaltaisen käytöksen, on vahvuuden eikä heikkouden merkki. Puhu ammattilaisen, lääkärin tai miesten väkivallan katkaisuun erikoistuneen palvelun kanssa.\n\nJos **hän** on se, joka on vaarassa, tai olet huolissasi jostakusta, kannusta ja tue häntä hakemaan apua – hänen ehdoillaan, ei koskaan ottamalla ohjia omiin käsiisi.\n\n**Mistä saa apua**\n- Hätätilanteessa tai jos joku on välittömässä vaarassa, soita paikalliseen hätänumeroon (**112** Italiassa ja suuressa osassa Eurooppaa; **911** Yhdysvalloissa).\n- **Italia – 1522**: valtakunnallinen väkivallan ja vainoamisen vastainen auttava puhelin. Maksuton, 24/7, nimetön ja monikielinen; sitä ylläpitää Italian hallituksen tasa-arvoasioiden osasto. Se myös ohjaa ihmisiä paikallisiin väkivaltaa kokeneiden tukikeskuksiin (centri antiviolenza).\n- Väkivaltaa kokeneiden tukikeskukset ja miesten väkivallan katkaisuohjelmat (Italiassa ”centri per uomini autori di violenza”) tarjoavat luottamuksellista tukea muutokseen.",
+      "when_to_see_doctor": null,
+      "red_flags": "Kontrolloivan tai väkivaltaisen käytöksen varoitusmerkit – jotka kannattaa ottaa vakavasti, niin itsessäsi kuin parisuhteessa:\n\n- **Valvominen tai eristäminen**: hänen puhelimensa tarkistaminen, hänen sijaintinsa seuraaminen tai hänen erottamisensa ystävistä ja perheestä.\n- **Valintojen kontrollointi**: raha, mitä hän pukee päälleen, minne hän menee, keitä hän tapaa.\n- **Rakkaudeksi naamioitu mustasukkaisuus**, jatkuvat syytökset tai tarve tietää koko ajan, missä hän on.\n- **Vähättely, syyttely tai pelon herättäminen hänessä**, syyllistäminen tai se, että hän joutuu kulkemaan ”kuin munankuorilla”.\n- **Painostus tai uhkailu**, joka liittyy seksiin, eroon tai itsensä vahingoittamiseen, jotta hän taipuisi.\n- **Mikä tahansa fyysinen voimankäyttö, pelottelu tai pelko.** Jos tätä esiintyy, kyse on väkivallasta – hae yllä mainittua apua. Sille ei ole koskaan tekosyytä, eikä se ole koskaan hänen syytään."
+    },
+    "safety-plan": {
+      "title": "Turvasuunnitelman tekeminen",
+      "aliases": [
+        "turvasuunnitelma",
+        "turvassa pysyminen",
+        "turvallisuus",
+        "turvasuunnittelu",
+        "lähteminen turvallisesti",
+        "eroaminen väkivaltaisesta",
+        "hätäkassi"
+      ],
+      "glance": "Turvasuunnitelma on muutama käytännön askel, joiden avulla voit olla turvallisemmin – ja koulutetut palvelut voivat auttaa sinua tekemään sellaisen.",
+      "overview": "Turvasuunnitelma tarkoittaa yksinkertaisesti ennakoivaa pohdintaa siitä, miten voit pitää itsesi (ja mahdolliset lapset) turvallisempana. Se ei ole päätös lähteä tai jäädä – kyse on siitä, että olet hieman paremmin valmistautunut, valitsitpa mitä tahansa.\n\nJoillekin on apua siitä, että muutama asia on huomaamattomasti valmiina: luotettu ihminen, joka tietää, mitä tapahtuu, tärkeät asiakirjat ja numerot paikassa, josta saat ne käsiisi, pieni laukku välttämättömiä tavaroita, käsitys turvallisimmista reiteistä ulos kotoa tai sana tai merkki, joka kertoo jollekulle, että tarvitset apua. Se, mikä on järkevää, riippuu täysin omasta tilanteestasi.\n\nSinun ei tarvitse miettiä tätä yksin, ja usein on turvallisempaa olla tekemättä sitä yksin. Väkivaltaa kokeneiden tukipalveluilla on kokemusta turvasuunnitelmien tekemisestä yhdessä ihmisten kanssa, luottamuksellisesti ja maksutta – myös lähtemisen ajankohtaa varten, joka voi olla tavallista riskialttiimpi hetki ja joka kannattaa suunnitella tuen kanssa eikä kiireessä.",
+      "deep": null,
+      "when_to_see_doctor": "- Ota yhteyttä väkivaltaa kokeneiden tukikeskukseen tai auttavaan puhelimeen (Italiassa **1522**) tehdäksesi tilanteeseesi sopivan suunnitelman – he tekevät tätä joka päivä, luottamuksellisesti, ja voivat auttaa käytännön, oikeudellisissa ja tunnetason asioissa.\n- Jos kirjaat ylös tapahtumia, säilytä muistiinpanot yksityisessä ja turvallisessa paikassa.",
+      "red_flags": "- Jos olet **välittömässä vaarassa**, ota heti yhteyttä hätäpalveluihin: **112** EU:ssa (myös Italiassa), **999** Isossa-Britanniassa, **911** Yhdysvalloissa ja Kanadassa.\n- Italiassa **1522** – maksuton, avoinna 24 tuntia vuorokaudessa, nimetön, monikielinen – voi auttaa puhelimitse tai chatissa, myös kiireellisen turvasuunnitelman tekemisessä."
+    },
+    "sex-during-your-period": {
+      "title": "Seksi kuukautisten aikana",
+      "aliases": [
+        "seksi kuukautisten aikana",
+        "seksi menkkojen aikana",
+        "kuukautisseksi",
+        "voiko tulla raskaaksi kuukautisten aikana",
+        "raskaaksi kuukautisten aikana",
+        "yhdyntä kuukautisten aikana",
+        "menkkaseksi"
+      ],
+      "glance": "Seksi kuukautisten aikana on ok, jos kumpikin haluaa sitä, mutta voit silti tulla raskaaksi tai saada tai tartuttaa sukupuolitaudin.",
+      "overview": "Seksi kuukautisten aikana on henkilökohtainen valinta. Jos te molemmat haluatte ja tunnette olonne mukavaksi, se on ok, eikä siinä ole mitään väärää tai epätavallista. Jotkut ovat tähän aikaan herkempiä tai heitä ei vain huvita, kun taas toiset nauttivat siitä. Tärkeintä on kuunnella kehoaan ja puhua avoimesti kumppanin kanssa.\n\nKuukautiset eivät kuitenkaan toimi ehkäisynä. Raskaaksi tulemisen todennäköisyys on pienempi kuin ovulaation aikoihin, mutta se ei ole nolla. Siittiöt voivat säilyä elimistössä jopa 7 päivää yhdynnän jälkeen, joten jos ovuloit aikaisin, mikä on todennäköisempää lyhyessä kierrossa, kuukautisten aikana tai heti niiden jälkeen tapahtuneesta yhdynnästä peräisin olevat siittiöt voivat yhä kohdata munasolun. Jos et halua tulla raskaaksi, tavallinen ehkäisysi on tärkeä myös näinä päivinä.\n\nKuukautiset eivät myöskään suojaa sukupuolitaudeilta. Infektiot voivat tarttua kumppanista toiseen seksissä ilman kondomia, ja niitä aiheuttavia taudinaiheuttajia voi olla veressä samoin kuin muissa kehon nesteissä. Kondomi on menetelmä, joka pienentää myös sukupuolitautien riskiä, HIV mukaan lukien, joten sitä kannattaa käyttää kuukauden ajankohdasta riippumatta.",
+      "deep": null,
+      "when_to_see_doctor": "- Jos olet ollut yhdynnässä **ilman ehkäisyä** tai ehkäisysi on voinut pettää etkä halua tulla raskaaksi, kysy jälkiehkäisystä farmaseutilta, omalääkäriltä tai seksuaaliterveysklinikalta **niin pian kuin voit**. Se on käytettävä muutaman päivän kuluessa, ja se toimii yleensä sitä paremmin, mitä pikemmin sitä käytetään.\n- Hae apua farmaseutilta, seksuaaliterveysklinikalta tai omalääkäriltä, jos **kondomi rikkoutuu tai irtoaa** yhdynnän aikana. Saatat tarvita jälkiehkäisyä tai sukupuolitautitestin.\n- Hakeudu omalääkärille tai seksuaaliterveysklinikalle, jos huomaat **verenvuotoa yhdynnän jälkeen, kun sinulla ei ole kuukautisia**. Se ei yleensä ole vakavaa, mutta se kannattaa aina tarkistuttaa.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Seksi raskauden aikana",
+      "aliases": [
+        "seksi raskauden aikana",
+        "seksi raskaana",
+        "yhdyntä raskaus",
+        "onko seksi turvallista raskaana",
+        "läheisyys raskaus",
+        "orgasmi raskaana",
+        "seksihalut raskaus"
+      ],
+      "glance": "Seksi on useimmissa raskauksissa turvallista eikä vahingoita vauvaa, ellei kätilösi tai lääkärisi ole neuvonut toisin.",
+      "overview": "Useimmille seksi raskauden aikana on turvallista, ellei kätilösi tai lääkärisi ole kieltänyt sitä. Vauva on hyvin suojassa kohdussa, eikä seksi vahingoita häntä.\n\nSinua voidaan neuvoa välttämään penetraatioon perustuvaa seksiä muutamassa tilanteessa: jos sinulla on **matalalla sijaitseva istukka (etinen istukka)** verenvuotoriskin vuoksi, jos **lapsivetesi ovat menneet** infektioriskin vuoksi tai jos sinulla on ollut **useita keskenmenoja**.\n\nSeksuaalinen halu muuttuu raskauden aikana usein – jotkut haluavat seksiä enemmän, jotkut vähemmän, jotkut eivät hetkeen lainkaan – ja taustalla vaikuttavat hormonit, kehon muutokset, väsymys, pahoinvointi ja huolet. Kaikki tämä on normaalia. Jos seksi ei huvita, suudelmat, halaaminen ja hieronta ovat muita tapoja pysyä lähellä toisianne.\n\nRaskausvatsan kasvaessa jotkin asennot muuttuvat epämukaviksi; kylkiasennot tuntuvat usein helpommilta. Hormonit voivat tehdä emättimestä kuivemman, ja vesipohjainen liukuvoide voi auttaa.\n\nLoppuraskaudessa seksi tai orgasmi voi käynnistää harjoitussupistuksia (Braxton Hicks), jolloin kohtu kovettuu hetkeksi. Se on normaalia eikä tarkoita synnytyksen alkamista – eikä ole näyttöä siitä, että seksi käynnistäisi synnytyksen.\n\nJos jommallakummalla teistä saattaa olla sukupuolitauti, käyttäkää kondomia, myös suuseksissä: hoitamaton infektio voi vahingoittaa vakavasti sinua ja vauvaa. Vältä suuseksiä, jos jommallakummalla on huuliherpes, sillä virus voi tarttua vauvaan.",
+      "deep": null,
+      "when_to_see_doctor": "- Keskustele **kätilön tai lääkärin** kanssa, jos et ole varma, onko seksi sinulle turvallista, tai jos seksiin tai parisuhteeseesi liittyvät huolet painavat mieltäsi.\n- Jos sinulla on raskauden aikana **mitä tahansa verenvuotoa**, tarkistuta se ennen kuin olet taas yhdynnässä – ota yhteyttä kätilöön, lääkäriin tai synnytysosastolle.\n- Hakeudu **seksuaaliterveysklinikalle**, jos sinulla tai kumppanillasi saattaa olla sukupuolitauti.",
+      "red_flags": "- Ota heti yhteyttä **synnytysosastolle**, jos epäilet, että **lapsivetesi ovat menneet**, äläkä ole yhdynnässä ennen kuin sinut on tutkittu.\n- Soita **hätänumeroon {{emergency}} tai mene päivystykseen**, jos sinulla on **runsasta verenvuotoa**, etenkin jos siihen liittyy **voimakasta vatsakipua** tai pyörtymisen tunnetta."
+    },
+    "sexual-violence": {
+      "title": "Seksuaalinen väkivalta ja suostumus",
+      "aliases": [
+        "seksuaalinen väkivalta",
+        "seksuaalirikos",
+        "raiskaus",
+        "suostumus",
+        "seksuaalinen hyväksikäyttö",
+        "ilman suostumusta",
+        "seksuaalinen ahdistelu",
+        "raiskauskriisikeskus"
+      ],
+      "glance": "Seksuaalinen väkivalta on mikä tahansa seksuaalinen teko ilman suostumusta – eikä se ole koskaan sen kokeneen syytä.",
+      "overview": "Seksuaalinen väkivalta tarkoittaa mitä tahansa seksuaalista tekoa tai sen yritystä ilman suostumusta tai pakottamalla. Siihen kuuluvat raiskaus ja kaikki ei-toivottu seksuaalinen kosketus, ja tekijä voi olla kuka tahansa – tuntematon, tuttava tai kumppani tai puoliso.\n\nSuostumus on asian ytimessä. Suostumus tarkoittaa vapaaehtoista myöntymistä, eikä se ole mahdollinen, kun ihminen nukkuu, on tajuton, humalassa tai huumattu, on lapsi tai häntä painostetaan tai uhataan tai hän pelkää. Suostumuksen voi perua milloin tahansa. Tämän vuoksi seksuaalinen väkivalta ei ole **koskaan** sen kokeneen syytä – ei sen vuoksi, mitä hänellä oli päällään, oliko hän juonut, jähmettyikö hän sen sijaan, että olisi taistellut vastaan, tai tunsiko hän tekijän.\n\nJos tämä on tapahtunut sinulle, tukea on saatavilla, tapahtuipa se hiljattain tai kauan sitten. Sinua uskotaan, ja se, mitä teet seuraavaksi, on sinun valintasi.",
+      "deep": null,
+      "when_to_see_doctor": "- Voit mennä **terveyspalveluun, sairaalaan tai seksuaaliväkivallan uhrien erityispalveluun**, jossa sinusta huolehditaan, mahdolliset vammat hoidetaan ja – jos haluat – sinua autetaan rikosilmoituksen tekemisessä ja todisteiden säilyttämisessä.\n- Jotkin terveyteen liittyvät toimet ovat **aikasidonnaisia** – esimerkiksi jälkiehkäisy tai infektioiden ehkäisy – joten yhteydenotto **pian** voi auttaa. Tuen hakemiselle ei kuitenkaan ole aikarajaa, ja on aina sinun valintasi, teetkö rikosilmoituksen.",
+      "red_flags": "- Jos olet **välittömässä vaarassa**, ota heti yhteyttä hätäpalveluihin: **112** EU:ssa (myös Italiassa), **999** Isossa-Britanniassa, **911** Yhdysvalloissa ja Kanadassa.\n- Äskettäisen seksuaalisen väkivallan jälkeen **sairaala tai erityispalvelu voi auttaa kiireellisesti**. Italiassa **1522** (maksuton, 24/7, nimetön, monikielinen – puhelin tai chat) voi ohjata sinut oikean hoidon piiriin."
+    },
+    "signs-of-labour": {
+      "title": "Synnytyksen merkit",
+      "aliases": [
+        "synnytyksen merkit",
+        "synnytys",
+        "synnytys käynnistyy",
+        "supistukset",
+        "lapsivedenmeno",
+        "limatulppa",
+        "latenssivaihe",
+        "avautumisvaihe"
+      ],
+      "glance": "Synnytyksen alkamisen merkkejä ovat säännölliset supistukset, limatulpan irtoaminen, selkäkipu tai lapsivesien meno.",
+      "overview": "Synnytyksen alkamisesta voi kertoa muutama merkki. Tärkein niistä on supistukset – raskausvatsan kiristymiset, jotka tulevat säännöllisesti ja voimistuvat. Muita ovat limatulpan irtoaminen (kohdunkaulan limatulppa irtoaa), jatkuva selkäkipu, vessahätä ja lapsivesien meno.\n\nEnnen aktiivista synnytystä on usein alkuvaihe (latenssivaihe), jolloin kohdunkaula pehmenee ja alkaa avautua. Tämä vaihe voi kestää tunteja tai jopa päiviä, ja monelle on ihan hyvä olla sen aikana mukavasti kotona, levätä ja juoda riittävästi.\n\nJokaisen synnytys alkaa hieman eri tavalla, joten kaikkia merkkejä ei tarvitse rastittaa. Kun uskot synnytyksen olevan käynnistymässä, kätilösi tai synnytysosasto neuvoo sinua siinä, mitä tehdä ja milloin tulla sairaalaan.",
+      "deep": null,
+      "when_to_see_doctor": "- Soita **kätilölle tai synnytysosastolle** saadaksesi ohjeita, kun uskot synnytyksen alkaneen tai kun supistukset ovat **säännöllisiä – noin 5 minuutin välein**. Jos et tavoita kätilöäsi, soita sairaalaan, jossa aiot synnyttää.",
+      "red_flags": "Soita **kätilölle tai synnytysosastolle välittömästi** – päivällä tai yöllä, älä odota – jos:\n\n- **lapsivetesi menevät** (etenkin jos neste on vihreää, ruskeaa tai pahanhajuista)\n- sinulla on **mitä tahansa verenvuotoa emättimestä**\n- **vauvasi liikkuu tavallista vähemmän**\n- sinulla on synnytyksen merkkejä ja **raskautesi on alle 37 viikkoa**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Raskauden merkit",
+      "aliases": [
+        "raskauden merkit",
+        "alkuraskauden oireet",
+        "olenko raskaana",
+        "raskausoireet",
+        "kuukautiset myöhässä",
+        "raskauden ensimmäiset merkit"
+      ],
+      "glance": "Poisjääneet kuukautiset ovat usein ensimmäinen raskauden merkki, joskus yhdessä pahoinvoinnin, väsymyksen tai arkojen rintojen kanssa.",
+      "overview": "Monelle ensimmäinen vihje raskaudesta on **kuukautisten jääminen pois**. Kehot kuitenkin vaihtelevat, ja jotkut huomaavat ensin muita varhaisia merkkejä – usein noin 4–6 viikon kohdalla.\n\nTavallisia varhaisia merkkejä ovat pahoinvointi tai oksentelu (mihin aikaan päivästä tahansa, ei vain aamuisin), suuremmilta tai aroilta tuntuvat rinnat, epätavallinen väsymys ja tihentynyt virtsaamisen tarve. Jotkut huomaavat myös metallisen maun suussa, uutta herkkyyttä tietyille hajuille tai sen, etteivät tavallisesti mieluisat ruoat enää maistu.\n\nMikään näistä ei yksinään tarkoita, että olisit varmasti raskaana – monet niistä muistuttavat kierron tavallisia vaihteluita – eikä kaikilla ole niitä. Varmasti asian saa selville raskaustestillä.",
+      "deep": null,
+      "when_to_see_doctor": "- Jos testi on positiivinen, ota yhteyttä **kätilöön tai omalääkäriin**, jotta raskauden seuranta (neuvola) voi alkaa ajoissa.\n- Jos kuukautisesi ovat myöhässä ja testit ovat negatiivisia, mutta oireet jatkuvat, kannattaa käydä omalääkärillä selvittämässä, mistä muusta voisi olla kyse.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Tupakointi raskauden aikana",
+      "aliases": [
+        "tupakointi raskaus",
+        "tupakoinnin lopettaminen raskaus",
+        "tupakointi raskaana",
+        "sähkötupakka raskaus",
+        "vapettaminen raskaana",
+        "nikotiini raskaus",
+        "nuuska raskaus"
+      ],
+      "glance": "Tupakoinnin lopettaminen on yksi parhaista asioista, joita voit tehdä vauvasi hyväksi – eikä se ole koskaan liian myöhäistä.",
+      "overview": "Tupakoinnin lopettaminen on yksi tehokkaimmista keinoista antaa vauvallesi terve alku. Jokainen savuke vähentää vauvasi saamaa happea, mikä saa hänen sydämensä työskentelemään kovemmin ja voi hidastaa hänen kasvuaan.\n\nTupakointi raskauden aikana lisää vakavien ongelmien riskiä, mukaan lukien keskenmeno, ennenaikainen synnytys, pieni syntymäpaino, kohtukuolema ja syntymän jälkeen kätkytkuolema (SIDS). Myös passiivinen tupakointi vaikuttaa, joten savuton koti auttaa.\n\nRohkaisevaa on, että se ei ole **koskaan liian myöhäistä**. Lopettaminen missä tahansa raskauden vaiheessa auttaa, ja varhain lopettaminen tuo suurimman hyödyn. Se voi olla todella vaikeaa, ja juuri siksi maksutonta apua on saatavilla – ja sen käyttäminen tekee onnistumisesta paljon todennäköisempää.",
+      "deep": null,
+      "when_to_see_doctor": "- Kysy **kätilöltäsi** **maksuttomasta tuesta tupakoinnin lopettamiseen** – koulutetut neuvojat (joista osa on erikoistunut raskauteen) voivat tukea sinua, ja monissa maissa on myös maksuton lopettamisen neuvontapuhelin. Avun hakeminen on merkki siitä, että huolehdit vauvastasi, ei epäonnistuminen.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Tiputteluvuoto ja kuukautisten välinen vuoto",
+      "aliases": [
+        "tiputteluvuoto",
+        "tiputtelu",
+        "vuoto kuukautisten välillä",
+        "välivuoto",
+        "läpäisyvuoto",
+        "vuoto yhdynnän jälkeen",
+        "pillerit tiputteluvuoto"
+      ],
+      "glance": "Tiputteluvuoto on vähäistä verenvuotoa kuukautisten välillä tai yhdynnän jälkeen – usein ei vakavaa, mutta se kannattaa aina tarkistuttaa.",
+      "overview": "Tiputteluvuoto tarkoittaa vähäistä verenvuotoa, jota esiintyy kuukautisten välillä tai yhdynnän jälkeen, tavallisen kuukautisvuodon ulkopuolella. Se on yleistä eikä yleensä ole mitään vakavaa – mutta koska sillä voi olla useita syitä, se on asia, jonka ammattilaisen kannattaa aina tarkistaa.\n\nSille on monia arkisia syitä. Hormonaalisen ehkäisyn aloittaminen tai käyttö on yleinen syy. Muita ovat pienet, vaarattomat kasvannaiset kohdussa tai sen ympärillä (polyypit tai myoomat), vaarattomat muutokset kohdunkaulan pinnassa, emättimen kuivuus tai infektio, kuten klamydia.\n\nKoska samalla oireella voi olla eri syitä – joista useimmat ovat vähäisiä – hyödyllisintä ei ole arvailla, vaan tarkistuttaa asia, jotta tiedät, mistä sinun kohdallasi on kyse.",
+      "deep": null,
+      "when_to_see_doctor": "- Hakeudu omalääkärille tai seksuaaliterveysklinikalle **aina, kun sinulla on verenvuotoa kuukautisten välillä tai yhdynnän jälkeen**, vaikka se olisi vähäistä. Se ei yleensä ole mitään vakavaa, mutta tarkistuttamalla syy löydetään – ja näin harvinaisemmat syyt voidaan sulkea pois ajoissa.",
+      "red_flags": "- Pyydä **kiireellistä** aikaa omalääkärille tai ota yhteyttä **päivystävään lääkäriin**, jos **kuukautisesi ovat jääneet tulematta ja sinulla on epätavallista verenvuotoa sekä vatsa- tai lantiokipua** – tämä vaatii nopeaa arviota, koska se voi olla merkki kohdunulkoisesta raskaudesta."
+    },
+    "stalking": {
+      "title": "Vainoaminen",
+      "aliases": [
+        "vainoaminen",
+        "vaino",
+        "stalkkaus",
+        "häirintä",
+        "ei-toivottu huomio",
+        "joku seuraa minua",
+        "verkkovainoaminen",
+        "nettihäirintä"
+      ],
+      "glance": "Vainoaminen on toistuvaa, ei-toivottua huomiota, joka saa sinut tuntemaan pelkoa tai turvattomuutta – ja se otetaan vakavasti.",
+      "overview": "Vainoaminen on jonkun toistuvaa, ei-toivottua käyttäytymistä, joka saa sinut pelkäämään tai tuntemaan olosi tarkkailluksi tai turvattomaksi. Se voi olla esimerkiksi seuraamista, sitä että joku ilmestyy paikkoihin, joissa olet, jatkuvia puheluita tai viestejä, ei-toivottuja lahjoja, sinun valvomistasi verkossa tai puhelimesi kautta tai uhkailua. Tekijä on usein entinen kumppani tai joku tuttu, mutta ei aina.\n\nSen aiheuttama pelko on oikeutettua, vaikka jokainen yksittäinen teko voisi muiden silmissä vaikuttaa ”pieneltä” – merkitystä on kokonaisuudella ja sillä, miltä se sinusta tuntuu. Vainoaminen tunnustetaan väkivallan muodoksi, ja monissa maissa se on rikos. Mikään siitä ei ole sinun syytäsi, eikä sinun tarvitse vain elää sen kanssa.\n\nJos se on turvallista, tapahtumien kirjaaminen voi auttaa myöhemmin: päivämäärät ja kellonajat, kuvakaappaukset viesteistä ja se, mitä tapahtui. Sinun ei tarvitse itse ratkaista, ”lasketaanko” se vainoamiseksi – tukipalvelut voivat auttaa sinua hahmottamaan tilannetta ja miettimään vaihtoehtojasi.",
+      "deep": null,
+      "when_to_see_doctor": "- Ota yhteyttä **poliisiin** ilmoittaaksesi vainoamisesta sekä väkivallan tai vainoamisen vastaiseen auttavaan puhelimeen saadaksesi tukea ja neuvoja (Italiassa **1522** on tarkoitettu väkivallan **ja** vainoamisen kokijoille).\n- Todisteiden säilyttäminen ja turvasuunnitelman tekeminen erityispalvelun avulla voivat kumpikin tehdä todellisen eron.",
+      "red_flags": "- Jos tunnet olevasi **välittömässä vaarassa**, ota heti yhteyttä hätäpalveluihin: **112** EU:ssa (myös Italiassa), **999** Isossa-Britanniassa, **911** Yhdysvalloissa ja Kanadassa.\n- Italiassa **1522** – maksuton, avoinna 24 tuntia vuorokaudessa, nimetön, monikielinen – voi auttaa puhelimitse tai chatissa."
+    },
+    "stillbirth": {
+      "title": "Kohtukuolema",
+      "aliases": [
+        "kohtukuolema",
+        "kuolleena syntynyt",
+        "kuolleena syntyminen",
+        "vauvan menetys",
+        "myöhäinen raskauden menetys",
+        "enkelivauva"
+      ],
+      "glance": "Kohtukuolema tarkoittaa vauvan menettämistä 24. raskausviikon jälkeen – se on harvinaista, ei koskaan sinun syytäsi, ja sen kohdanneita tuetaan aina.",
+      "overview": "Kohtukuolemasta puhutaan, kun vauva syntyy kuolleena 24 raskausviikon jälkeen. (Ennen 24. raskausviikkoa tapahtuvaa menetystä kutsutaan keskenmenoksi.) Se on harvinaista – noin 1 synnytyksessä 250:stä – mutta niille perheille, joita se koskettaa, se on syvä menetys, ja kaikki sitä seuraava hoito on tarkoitettu kannattelemaan sinua lempeästi sen läpi.\n\nJoskus syy löytyy – esimerkiksi istukan tai vauvan kehityksen ongelma tai jokin sairaus – ja joskus tutkimuksista huolimatta **syytä ei löydy lainkaan**. Syystä riippumatta kohtukuolema ei ole jotain, minkä vanhempi olisi aiheuttanut tai minkä hän olisi voinut tietää estää.\n\nYksi asia todella auttaa pienentämään riskiä, ja se on yksinkertainen: **kerro kätilölle heti, jos vauvasi liikkeet hidastuvat tai muuttuvat.** Sen lisäksi arkiset asiat – neuvolakäynneillä käyminen, tupakoimattomuus, alkoholin välttäminen ja kyljellään nukkuminen 28. raskausviikosta alkaen – ovat kaikki osa tätä.",
+      "deep": null,
+      "when_to_see_doctor": "- Ota **välittömästi yhteyttä kätilöön tai synnytysosastolle** – milloin tahansa, päivällä tai yöllä – jos **vauvasi liikkuu tavallista vähemmän tai hänen liikkeensä tuntuvat erilaisilta.** Älä koskaan jää odottamaan, meneekö se ohi; tarkistuttaminen on juuri oikea teko, eikä se ole koskaan vaivaksi.\n- Menetyksen jälkeen erikoistuneet kätilöt ja surutyön tukitiimit ovat tukenasi – päätöksissä, käytännön asioissa ja surussa. Sinun ei tarvitse kohdata mitään tästä yksin, ja vauvan menettäneiden vertaistukiryhmiä on saatavilla niin kauan kuin tarvitset.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stressi, elämä ja kuukautisesi",
+      "aliases": [
+        "stressi ja kuukautiset",
+        "stressi",
+        "kuukautiset jäivät tulematta",
+        "kuukautiset myöhässä",
+        "miksi kuukautiset ovat myöhässä",
+        "menkat myöhässä",
+        "poisjääneet kuukautiset"
+      ],
+      "glance": "Stressi, suuret painon muutokset tai runsas liikunta voivat viivästyttää tai pysäyttää kuukautiset – usein vain hetkeksi.",
+      "overview": "On tavallista, että kuukautiset tulevat myöhässä tai jäävät joskus kuukaudeksi kokonaan väliin, ja syy liittyy usein enemmän elämään kuin siihen, että jokin olisi vialla. Stressi on yleinen syy – sama järjestelmä, joka reagoi paineeseen, voi vaikuttaa kiertoasi ohjaaviin hormoneihin.\n\nMyös muut arkiset asiat voivat muuttaa kuukautisiasi: suuri painon muutos (ylös tai alas), runsas liikunta tai uupumus. Taustalla voivat olla myös hormonaaliset muutokset – kuten lähestyvä perimenopaussi tai PCOS:n kaltaiset tilat – samoin kuin raskaus ja jotkin ehkäisymenetelmät. Usein kuukautisten väli vain vaihtelee hieman ajoittain, ja se on normaalia.\n\nRauhoittavaa on, että yksittäiset myöhästyneet tai poisjääneet kuukautiset eivät yleensä ole syy huoleen, ja asiat usein tasaantuvat elämän tasaantuessa. Seurata kannattaa muutosten kaavaa eikä yksittäistä kuukautta.",
+      "deep": null,
+      "when_to_see_doctor": "Hakeudu omalääkärille, jos:\n\n- kuukautisesi ovat jääneet tulematta **kolme kertaa peräkkäin** tai ne ovat muuttuneet **epäsäännöllisiksi**\n- kuukautisesi **loppuvat** etkä tiedä miksi (ja jos raskaus on mahdollinen, tee ensin raskaustesti)\n- poisjääneisiin kuukautisiin liittyy muita muutoksia – kuten odottamattomia painon muutoksia, väsymystä, lisääntynyttä karvankasvua tai alakuloa\n\nNäiden tarkistusten tarkoitus on vain ymmärtää, mikä muutoksen taustalla on – ja yleensä se on jotain hallittavissa olevaa.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Hänen tukemisensa kuukautisten aikana",
+      "aliases": [
+        "auttaminen kuukautisten aikana",
+        "kuukautistuki kumppaneille",
+        "miten tukea kuukautisten aikana",
+        "kuukautiset kumppani",
+        "menkat kumppani",
+        "kuukautiskivut kumppani"
+      ],
+      "glance": "Kuukautisiin voi liittyä todellista kipua ja väsymystä – pieni, käytännöllinen huolenpito tekee suuren eron.",
+      "overview": "Kuukautiset eivät ole vain muutama vuotopäivä; monella niihin liittyy kouristuksia, selkäkipua, päänsärkyä, väsymystä ja vähäistä energiaa. Kuukautiskipu on yleistä ja voi olla todella uuvuttavaa – se ei ole liioittelua. Suhtaudu siihen niin kuin suhtautuisit kumppaniin, joka on sairaana: käytännöllisellä ystävällisyydellä.\n\nTee siitä myös normaalia. Kuukautiset eivät ole ällöttäviä, noloja tai tabu. Kun ostat siteitä tai tamponeja luontevasti, pidät niitä kotona tai ojennat hänelle lämpöpullon tekemättä siitä numeroa, hän tietää olevansa turvassa ja tuettu.",
+      "deep": "Yksinkertaisia asioita, jotka auttavat:\n\n- **Lämpöä ja lepoa.** Lämpöpullo tai lämpötyyny alavatsalla helpottaa kouristuksia; ehdota rauhallista iltaa kotona.\n- **Ota asioita hänen harteiltaan.** Laita ruokaa, siivoa, hoida asiointi, kyyditse häntä – käytännön apu merkitsee enemmän kuin sanat.\n- **Pidä tarvikkeita varastossa.** Tiedä, mitä hän käyttää, ja pidä niitä saatavilla, jotta runsasvuotoinen päivä ei koskaan ole kriisi.\n- **Kipulääkkeitä ja lohturuokaa**, jos hän haluaa; hänen valintansa.\n- **Älä painosta seksiin tai vaadi energiaa, jota hänellä ei ole.** Läheisyys voi olla halaus sohvalla.",
+      "when_to_see_doctor": "Kannusta häntä hakeutumaan lääkäriin (ja tarjoudu lähtemään mukaan), jos kuukautiskipu on **voimakasta, pahenee tai estää häntä elämästä arkeaan**, jos kuukautiset ovat **hyvin runsaat** (vuoto tulee suojan läpi tunnin välein, suuria hyytymiä) tai jos kipu on uutta ja epätavallista – nämä voivat viitata endometrioosin kaltaisiin sairauksiin, jotka ansaitsevat asianmukaista hoitoa.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Väkivaltaa kokevan tukeminen",
+      "aliases": [
+        "toisen tukeminen",
+        "ystävän auttaminen",
+        "miten auttaa",
+        "väkivaltaa kokeva läheinen",
+        "miten tukea",
+        "huoli ystävästä",
+        "läheisen tukeminen"
+      ],
+      "glance": "Jos joku tuttusi saattaa kokea väkivaltaa, auttaa, kun kuuntelet tuomitsematta – ja tiedät, mihin ohjata hänet.",
+      "overview": "On vaikeaa tajuta, että joku, josta välität, saattaa kokea väkivaltaa, ja halu auttaa on hyvä vaisto. Hyödyllisimmät asiat, joita voit tarjota, ovat usein yksinkertaisimpia.\n\nKuuntele ja usko häntä. Anna hänen puhua omaan tahtiinsa tuomitsematta, syyllistämättä tai kysymättä, mitä hän teki aiheuttaakseen sen. Sano suoraan, että se ei ole hänen syytään eikä hän ansaitse sitä. Yritä olla kertomatta hänelle, mitä tehdä, tai painostamatta häntä lähtemään: lähtemisestä päättää hän itse, ja kiireessä lähteminen voi jopa lisätä vaaraa – enemmän auttaa se, että hän tuntee olevansa tuettu eikä yksin.\n\nPidä se, mitä hän kertoo sinulle, omana tietonasi. Auta häntä lempeästi löytämään erityistukea, kun hän on valmis – esimerkiksi auttava puhelin, kuten Italiassa **1522**, tai paikallinen väkivaltaa kokeneiden tukikeskus – ja tarjoa käytännön apua, kuten numeroiden etsimistä yhdessä tai läsnäoloa, kun hän soittaa. Ja pidä huolta myös itsestäsi; toisen tukeminen tällaisessa tilanteessa voi olla raskasta.",
+      "deep": null,
+      "when_to_see_doctor": "- Kannusta häntä (painostamatta) ottamaan yhteyttä auttavaan puhelimeen tai väkivaltaa kokeneiden tukikeskukseen, josta voidaan neuvoa teitä molempia siinä, mitä tehdä seuraavaksi. Voit tarjoutua auttamaan häntä soittamaan tai etsimään numeron.\n- Jos hän on loukkaantunut, omalääkäri tai sairaala voi auttaa – ja ohjata hänet tukipalveluihin.",
+      "red_flags": "- Jos hän on **välittömässä vaarassa**, soita hätäpalveluihin: **112** EU:ssa (myös Italiassa), **999** Isossa-Britanniassa, **911** Yhdysvalloissa ja Kanadassa.\n- Italiassa **1522** (maksuton, 24/7, nimetön, monikielinen – puhelin tai chat) voi neuvoa myös sinua siinä, miten voit auttaa toista."
+    },
+    "the-coil": {
+      "title": "Kierukka (kuparikierukka ja hormonikierukka)",
+      "aliases": [
+        "kierukka",
+        "kuparikierukka",
+        "hormonikierukka",
+        "kohdunsisäinen ehkäisin",
+        "iud",
+        "ius",
+        "mirena",
+        "kyleena"
+      ],
+      "glance": "Kierukka on pieni kohtuun asetettava väline – kuparikierukka (IUD) tai hormonikierukka (IUS) – joka toimii vuosia.",
+      "overview": "Kierukka on pieni väline, jonka ammattilainen asettaa kohdun sisälle. Kierukoita on kahta tyyppiä, ja ne on hyvä erottaa toisistaan:\n\n- **Kuparikierukka** (IUD) ei sisällä hormoneja. Kupari muuttaa kohdun olosuhteita niin, etteivät siittiöt ja munasolut selviydy hyvin, ja se vaikuttaa myös kohdunkaulan limaan. Tyypistä riippuen se toimii noin 5–10 vuotta.\n- **Hormonikierukka** (IUS) vapauttaa kuparin sijaan progestiinia. Se sakeuttaa kohdunkaulan limaa ja ohentaa kohdun limakalvoa; joillakin se voi myös tehdä kuukautisista paljon niukemmat.\n\nMolemmat ovat ”asenna ja unohda” -menetelmiä, ja molempien teho on yli 99 %, eikä täydellisen ja tavallisen käytön välillä ole juuri eroa. Kumpikaan ei suojaa sukupuolitaudeilta.",
+      "deep": "Kierukat ovat pitkäaikaisia, palautuvia menetelmiä: asettamisen jälkeen ne toimivat vuosia, ja hedelmällisyys palautuu, kun ne poistetaan. Asettamisen ja poistamisen tekee koulutettu ammattilainen, ja ne vievät vain muutaman minuutin, vaikka jotkut kokevat asettamisen epämukavaksi. Yleinen syy valita näiden kahden välillä on niiden vaikutus kuukautisiin – kuparikierukka voi aluksi tehdä kuukautisista runsaammat, kun taas hormonikierukka tekee niistä usein niukemmat. Siitä, kumpi sopii sinulle, kannattaa keskustella ammattilaisen kanssa; tämä artikkeli vain selittää, miten kumpikin toimii.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Kuukautisia edeltävät päivät",
+      "aliases": [
+        "pms kumppaneille",
+        "tukeminen ennen kuukautisia",
+        "pms-tuki",
+        "luteaalivaiheen tuki",
+        "pms kumppani",
+        "ärtyisyys ennen menkkoja"
+      ],
+      "glance": "Kuukautisia edeltävinä päivinä hän voi olla väsyneempi, arempi tai alakuloisempi – kohtaa se kärsivällisyydellä, ei vitseillä.",
+      "overview": "Noin viikkoa ennen kuukautisia monella on kuukautisia edeltäviä oireita: mielialan muutoksia, ärtyneisyyttä tai alakuloa, väsymystä, arkoja rintoja, turvotusta, päänsärkyä tai univaikeuksia. Se on hyvin yleistä ja todellista – sitä ohjaa luteaalivaiheen luonnollinen hormonimuutos, ei se, että hän ”ylireagoisi”.\n\nPienemmällä osalla alakulo on vaikeaa (tilaa kutsutaan nimellä PMDD), ja se ansaitsee todellista tukea ja lääketieteellistä hoitoa. Kummassakin tapauksessa sinun tehtäväsi ei ole diagnosoida tai korjata häntä – vaan olla vakaa ja ystävällinen.\n\nKaikkein vahingollisin asia, jonka kumppani voi tässä tehdä, on käyttää sitä aseena: ”sulla on vaan PMS”, silmien pyörittely tai hänen tunteidensa mitätöinti päivämäärän perusteella. Se vähättelee häntä ja tuo lisää pahaa mieltä muutenkin vaikeaan viikkoon. Hänen tunteensa ovat silti tärkeitä, vaikka hormonit olisivat osa kuvaa.",
+      "deep": "Mikä näinä päivinä oikeasti auttaa:\n\n- **Kevennä hänen kuormaansa.** Ota hoitaaksesi kotityöt, ruoanlaitto tai arjen muistilista pyytämättä.\n- **Lohduta, älä korjaa.** Tarjoa lämpöä, lepoa, lämpöpulloa ja hänen lempiruokaansa – ja anna hänen tuntea, mitä hän tuntee.\n- **Kuuntele ensin.** Jos hän on pahalla mielellä, ”tuo kuulostaa tosi raskaalta” toimii aina paremmin kuin ”rauhoitu”.\n- **Älä pidä kirjaa.** Vaikeampi päivä ei ole velka, jonka hän on sinulle myöhemmin velkaa.\n- **Kysy, mitä hän tarvitsee** – jotkut haluavat läheisyyttä, jotkut tilaa. Kumpikin on ok; kunnioita hänen vastaustaan.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Kaksos- ja monisikiöraskaus",
+      "aliases": [
+        "kaksoset",
+        "kaksosraskaus",
+        "monisikiöraskaus",
+        "odotan kaksosia",
+        "identtiset kaksoset",
+        "epäidenttiset kaksoset",
+        "kolmoset"
+      ],
+      "glance": "Kaksosraskaus huomataan yleensä ensimmäisen kerran ajoitusultraäänessä, ja se tarkoittaa hieman tiiviimpää neuvolaseurantaa.",
+      "overview": "Useamman kuin yhden vauvan odotus huomataan yleensä ensimmäisen kerran **ajoitusultraäänessä** (noin 12. raskausviikolla), jossa voidaan myös nähdä, onko vauvoilla yhteinen istukka.\n\nPäätyyppejä on kaksi. **Identtiset** kaksoset syntyvät yhdestä hedelmöittyneestä munasolusta, joka jakautuu, joten heillä on samat geenit ja he ovat aina samaa sukupuolta. **Epäidenttiset** kaksoset syntyvät kahdesta erillisestä munasolusta, eivätkä he ole sen samankaltaisempia kuin muutkaan sisarukset; he ovat näistä kahdesta yleisempiä, ja heitä syntyy hieman todennäköisemmin äidin ollessa vanhempi, jos äidin suvussa on kaksosia tai hedelmöityshoitojen jälkeen.\n\nKaksosten tai useamman vauvan odottaminen on oma kokemuksensa, ja siihen liittyy yleensä **hieman tiiviimpi neuvolaseuranta** – ylimääräisiä käyntejä ja ultraäänitutkimuksia, jotta sinua ja vauvojasi voidaan seurata tarkasti. Kätilötiimisi kertoo, mitä on odotettavissa.",
+      "deep": null,
+      "when_to_see_doctor": "- Jos ultraäänessä näkyy kaksoset (tai useampia), **kätilösi** käy kanssasi läpi monisikiöraskauteen kuuluvat ylimääräiset tarkastukset ja ultraäänitutkimukset – kaikilla niillä käyminen on paras tapa varmistaa, että sinusta huolehditaan hyvin.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Hänen kiertonsa ymmärtäminen",
+      "aliases": [
+        "kumppanin opas kiertoon",
+        "kierto kumppaneille",
+        "miten hänen kiertonsa toimii",
+        "hänen kiertonsa tukeminen",
+        "kuukautiskierto kumppani",
+        "kierron vaiheet"
+      ],
+      "glance": "Hänen kehonsa käy läpi kuukausittaisen kierron, jossa on neljä vaihetta – perusasioiden tunteminen auttaa sinua tukemaan häntä arvailematta.",
+      "overview": "Kuukautiskierto on suunnilleen kuukauden mittainen rytmi, keskimäärin noin 28 päivää, mutta usein mitä tahansa 21 ja 35 päivän väliltä, ja normaalia hänelle on se, mikä on säännöllistä *hänelle*. Siinä on neljä vaihetta: **kuukautisvaihe** (hänen kuukautisensa), **follikkelivaihe**, **ovulaatio** suunnilleen puolivälissä ja **luteaalivaihe** ennen seuraavia kuukautisia.\n\nEnergia, mieliala, uni ja halu voivat vaihdella näiden vaiheiden aikana, koska hormonit nousevat ja laskevat – se on biologiaa, ei luonteenvika eikä asia, josta häntä pitäisi kiusoitella. Jotkut tuntevat selvän notkahduksen kuukautisia edeltävinä päivinä; toiset tuskin huomaavat mitään. Ei ole yhtä ”oikeaa” tapaa tuntea.\n\nSinun ei tarvitse tulla asiantuntijaksi. Eniten auttaa yksinkertainen: tiedä suunnilleen, missä vaiheessa kiertoaan hän on (tämä sovellus voi näyttää sen sinulle hänen luvallaan), varaudu siihen, että jotkin päivät ovat toisia vaikeampia, ja kysy häneltä, mikä *hänestä* tuntuu avulliselta, sen sijaan että olettaisit.",
+      "deep": "Muutama asia, jotka on hyvä tietää, jotta myytit eivät täytä aukkoja:\n\n- **”Hänellä on menkat” ei ole loukkaus eikä selitys sille, että hän on kanssasi eri mieltä.** Hänen kiertonsa käyttäminen hänen tunteidensa mitätöimiseen (”sä oot vaan hormonien vallassa”) on epäkunnioittavaa, ja se on yleensä väärin. Hänen syynsä ovat silti hänen syitään.\n- **Kierto vaikuttaa muuhunkin kuin kuukautisiin.** Kouristukset, päänsärky, arat rinnat, vähäinen energia tai matalampi mieliala voivat kaikki olla osa sitä. Käytännön apu on parempaa kuin neuvot.\n- **Seuranta on hänen.** Jos hän jakaa kiertonsa kanssasi, pidä sitä ikkunana siihen, miltä hänestä saattaa tuntua – kutsuna olla ystävällinen, ei koskaan välineenä valvoa tai kontrolloida häntä.\n- **Jos olet epävarma, kysy.** ”Miltä sinusta tänään tuntuu? Voinko tehdä jotain?” on arvokkaampaa kuin mikään kaavio.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Emättimen kuivuus",
+      "aliases": [
+        "emättimen kuivuus",
+        "kuivuus",
+        "limakalvojen kuivuus",
+        "emättimen limakalvojen oheneminen",
+        "atrofia",
+        "kuivuus yhdynnässä",
+        "liukuvoide"
+      ],
+      "glance": "Emättimen kuivuus on yleistä, liittyy usein hormoneihin ja voi aiheuttaa arkuutta tai epämukavuutta yhdynnässä.",
+      "overview": "Emättimen kuivuus on yleinen kokemus, joka monella on jossain vaiheessa. Se syntyy, kun emättimen mukavana pitävä tavallinen kosteus vähenee, ja se voi tuntua arkuutena, kutinana tai epämukavuutena – myös kipuna tai epämukavuutena yhdynnän aikana.\n\nSe liittyy usein hormoneihin, erityisesti estrogeenin laskuun. Siksi se on yleistä vaihdevuosien ja perimenopaussin aikoihin, mutta sitä voi esiintyä myös imetyksen aikana, joidenkin lääkkeiden (kuten tiettyjen ehkäisyvalmisteiden tai masennuslääkkeiden) käytön yhteydessä tai kun kiihottumista ennen yhdyntää ei ole riittävästi. Siinä ei ole mitään nolostuttavaa – se on fyysinen asia, ei kuva sinusta tai parisuhteestasi.\n\nHyvä lähtökohta on tietää, että se on yleistä ja yleensä hyvin hoidettavissa. On olemassa yksinkertaisia keinoja, jotka voivat auttaa, ja omalääkäri tai farmaseutti voi ohjata sinut sinulle sopivaan vaihtoehtoon.",
+      "deep": null,
+      "when_to_see_doctor": "Hakeudu omalääkärille, jos:\n\n- emättimen kuivuus vaivaa sinua tai ei helpota muutamassa viikossa\n- se vaikuttaa arkeesi tai seksielämääsi\n- sinulla on myös epätavallista valkovuotoa tai mitä tahansa verenvuotoa yhdynnän jälkeen, kuukautisten välillä tai vaihdevuosien jälkeen\n\nSen kanssa ei tarvitse vain sinnitellä – apua on saatavilla, ja ammattilainen voi selvittää, mistä se johtuu ja mikä voisi helpottaa.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Emättimen ja ulkosynnyttimien terveys",
+      "aliases": [
+        "emättimen terveys",
+        "intiimialueen terveys",
+        "intiimihygienia",
+        "alapesu",
+        "emättimen huuhtelu",
+        "valkovuoto",
+        "intiimipesu",
+        "häpy"
+      ],
+      "glance": "Emätin puhdistaa itse itsensä – ulkopuolelle riittää hellävarainen hoito, ja valkovuoto on normaalia.",
+      "overview": "Yksi rauhoittavimmista asioista tietää on, että emätin pitää huolen itsestään. Se puhdistuu luonnostaan itse, ja huomaamasi valkovuoto on osa tätä – eritettä, joka pitää emättimen puhtaana ja kosteana ja auttaa suojaamaan sitä infektioilta. Sen määrä ja koostumus muuttuvat kierron aikana, mikä on täysin normaalia.\n\nTämän vuoksi emätintä ei tarvitse pestä sisältä. Emättimen sisäpuolinen pesu eli huuhtelu voi itse asiassa järkyttää sen luonnollista tasapainoa. Ulkosynnyttimet (häpy) tarvitsevat vain hellävaraista hoitoa: lämmintä vettä ja halutessasi mietoa, hajusteetonta saippuaa. Hajustettuja saippuoita, geelejä, deodorantteja ja tuoksullisia pyyhkeitä on parasta välttää, koska ne voivat aiheuttaa ärsytystä.\n\nKun opit tuntemaan, mikä on sinulle normaalia – tavallisen valkovuotosi, alueen ulkonäön ja tuntuman – on helpompi huomata, jos jokin muuttuu ja saattaa vaatia tarkistusta.",
+      "deep": null,
+      "when_to_see_doctor": "Hakeudu omalääkärille tai seksuaaliterveysklinikalle, jos huomaat:\n\n- muutoksen valkovuodossasi – sen värissä, hajussa tai koostumuksessa – tai sitä on paljon tavallista enemmän\n- kutinaa, arkuutta tai ärsytystä emättimen tai ulkosynnyttimien alueella\n- verenvuotoa kuukautisten välillä tai yhdynnän jälkeen\n- kipua virtsatessa tai kipua alhaalla vatsan ja reisien välissä (lantion alueen kipua)\n\nNämä ovat yleisiä ja usein helposti hoidettavissa – valkovuodon muutos voi tarkoittaa yksinkertaisesti lievää infektiota, kuten hiivatulehdusta. Tarkistuttaminen on tapa saada varmuus arvailun sijaan.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Kierto ja sen vaiheet",
+      "summary": "Miten kiertosi etenee kuukautis-, follikkeli-, ovulaatio- ja luteaalivaiheen läpi."
+    },
+    "hormones": {
+      "title": "Hormonit",
+      "summary": "Kiertosi taustalla toimivat viestinviejät – estrogeeni, progesteroni, LH ja FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Hedelmällisyys ja ovulaatio",
+      "summary": "Hedelmällinen ikkuna, ovulaation merkit ja se, mikä vaikuttaa hedelmällisyyteen."
+    },
+    "contraception": {
+      "title": "Ehkäisy",
+      "summary": "Miten eri ehkäisymenetelmät toimivat – selkeästi kerrottuna."
+    },
+    "symptoms-and-signals": {
+      "title": "Oireet ja kehon viestit",
+      "summary": "Kipu, tiputteluvuoto, valkovuoto, mieliala – mitä kehosi saattaa yrittää kertoa."
+    },
+    "conditions": {
+      "title": "Sairaudet",
+      "summary": "PCOS, endometrioosi, myoomat ja muuta – selitettynä, lähteineen."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Seksuaali- ja intiimiterveys",
+      "summary": "Intiimi hyvinvointi, mukavuus ja yleiset kysymykset."
+    },
+    "life-stages": {
+      "title": "Elämänvaiheet",
+      "summary": "Ensimmäisistä kuukautisista perimenopaussiin ja vaihdevuosiin."
+    },
+    "wellbeing": {
+      "title": "Hyvinvointi ja kierto",
+      "summary": "Miten uni, stressi ja arki liittyvät kiertoosi."
+    },
+    "tests-and-exams": {
+      "title": "Testit ja tutkimukset",
+      "summary": "Rintojen omatarkastus, kohdunkaulan seulonta, ovulaatiotestit ja muuta."
+    },
+    "pregnancy": {
+      "title": "Raskaus",
+      "summary": "Varhaiset merkit, hyvinvointi raskauden aikana, varoitusmerkit ja raskauden menetys – selitettynä, lähteineen."
+    },
+    "for-partners": {
+      "title": "Kumppaneille",
+      "summary": "Hänen kiertonsa ymmärtäminen, hyvä tukeminen ja kunnioitukseen perustuva parisuhde."
+    },
+    "safety-and-support": {
+      "title": "Turvallisuus ja tuki",
+      "summary": "Väkivallan tunnistaminen, turvassa pysyminen ja avun löytäminen – hätänumeroineen."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Ymmärrä kiertosi 5 askeleessa",
+      "summary": "Rauhallinen kierros koko kierron ja sen neljän vaiheen läpi."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Tutustu ovulaatioon",
+      "summary": "Mitä ovulaatio on, mikä on hedelmällinen ikkuna ja millaisia merkkejä kehosi antaa."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Kiertosi taustalla olevat hormonit",
+      "summary": "Tutustu neljään viestinviejään, jotka ohjaavat kiertoa – ja siihen, mitä kukin niistä tekee."
+    }
+  }
+}

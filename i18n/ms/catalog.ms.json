@@ -1,0 +1,1442 @@
+{
+  "_meta": {
+    "lang": "ms",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohol semasa hamil",
+      "aliases": [
+        "alkohol semasa hamil",
+        "minum arak semasa mengandung",
+        "alkohol dan kehamilan",
+        "arak ketika hamil",
+        "sindrom alkohol janin",
+        "FASD"
+      ],
+      "glance": "Pendekatan paling selamat ialah tidak minum alkohol langsung semasa hamil atau ketika cuba untuk hamil.",
+      "overview": "Nasihat NHS jelas dan mudah: pendekatan paling selamat ialah **tidak minum alkohol langsung** jika anda\nhamil atau sedang cuba untuk hamil. Tidak minum alkohol memastikan sebarang risiko kepada bayi anda kekal\npada tahap paling minimum.\n\nSebabnya, alkohol mengalir dari darah anda, melalui uri, kepada bayi anda — yang hatinya belum cukup\nberkembang untuk memprosesnya. Minum alkohol semasa hamil boleh menyebabkan gangguan spektrum alkohol\njanin (FASD), iaitu pelbagai kesukaran sepanjang hayat dari segi pembelajaran, tingkah laku dan perkembangan.\n\nJika anda minum sebelum anda tahu anda hamil, cuba jangan terlalu risau: risiko kepada bayi daripada\njumlah yang sedikit pada awal kehamilan mungkin rendah. Perkara yang membantu ialah mengelakkan alkohol\nsepanjang baki kehamilan mulai sekarang.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika anda sukar berhenti minum, itu bukan sesuatu yang memalukan — beritahu bidan atau doktor klinik\n  anda. Mereka boleh memberi sokongan tanpa menghakimi, dan mendapatkan bantuan adalah baik untuk anda dan bayi anda.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Penjagaan antenatal",
+      "aliases": [
+        "penjagaan antenatal",
+        "pemeriksaan kehamilan",
+        "check up mengandung",
+        "temu janji bidan",
+        "klinik ibu mengandung",
+        "buku pink",
+        "temu janji pendaftaran"
+      ],
+      "glance": "Penjagaan antenatal ialah pemeriksaan berkala sepanjang kehamilan yang membantu memastikan anda dan bayi anda sihat.",
+      "overview": "Penjagaan antenatal ialah penjagaan yang anda terima semasa hamil untuk memastikan anda dan bayi anda\nsesihat mungkin. Biasanya anda akan berjumpa bidan, dan juga doktor jika perlu. Sebaiknya mulakan awal:\nhubungi bidan atau doktor klinik anda sebaik sahaja anda tahu anda hamil.\n\nTemu janji pertama anda yang sebenar — \"temu janji pendaftaran\" — biasanya pada usia kandungan 8 hingga\n12 minggu. Selepas itu anda akan ditawarkan pemeriksaan berkala: sekurang-kurangnya 10 temu janji dan\n2 imbasan ultrabunyi jika ini bayi pertama anda, atau kira-kira 7 jika anda pernah bersalin sebelum ini,\ndengan lebih banyak temu janji menjelang akhir kehamilan.\n\nSemasa lawatan ini, bidan akan memeriksa tekanan darah dan air kencing anda, mengukur perut anda untuk\nmemantau pertumbuhan bayi, menawarkan ujian saringan, dan berbincang dengan anda tentang pergerakan bayi\nserta perasaan anda. Banyak perkara penting — seperti pre-eklampsia atau diabetes semasa hamil — dikesan\ndi sini sebelum anda perasan apa-apa, dan itulah sebabnya temu janji ini sangat penting.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi **bidan atau doktor klinik sebaik sahaja anda mendapati anda hamil** supaya penjagaan anda\n  boleh bermula awal — sebaik-baiknya sempat untuk temu janji pertama itu sebelum kira-kira minggu ke-10 hingga ke-12.\n- Cuba hadiri **semua** temu janji antenatal anda, walaupun anda berasa sihat sepenuhnya — beberapa\n  pemeriksaan direka untuk mengesan masalah yang tidak menunjukkan gejala lebih awal.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Pergerakan bayi anda",
+      "aliases": [
+        "pergerakan bayi",
+        "tendangan bayi",
+        "bayi menendang",
+        "gerakan janin",
+        "bayi kurang bergerak",
+        "baby tak gerak",
+        "rasa bayi bergerak"
+      ],
+      "glance": "Merasai bayi anda bergerak ialah tanda dia sihat — jika pergerakannya berkurang atau berubah, hubungi bidan anda dengan segera.",
+      "overview": "Merasai bayi anda bergerak ialah salah satu tanda yang melegakan bahawa dia berada dalam keadaan baik.\nKebanyakan ibu mula merasai pergerakan antara minggu ke-16 hingga ke-24 kehamilan — selalunya lebih lewat\npada kehamilan pertama, jadi selepas 20 minggu adalah perkara biasa bagi kali pertama.\n\nTiada bilangan pergerakan tertentu yang \"sepatutnya\" anda rasa, dan tidak perlu mengira tendangan\nberdasarkan sasaran. Setiap bayi berbeza, dan yang penting ialah mengenali corak biasa bayi **anda**\nsendiri sepanjang hari — waktu dia aktif dan waktu dia senyap.\n\nSetelah anda tahu corak itu, sebarang perubahan daripadanya ialah perkara yang perlu diberi perhatian.\nPercayalah apa yang anda tahu tentang bayi anda sendiri.",
+      "deep": null,
+      "when_to_see_doctor": "Mengenali corak biasa bayi anda membolehkan anda perasan apabila ada perubahan. Jika anda tidak pasti\nsama ada pergerakannya telah berkurang atau berubah, memang wajar untuk menelefon dan bertanya — anda\ntidak akan sekali-kali membuang masa sesiapa.",
+      "red_flags": "- Jika bayi anda **kurang bergerak berbanding biasa, pergerakannya berubah, atau anda tidak dapat\n  merasakan dia bergerak**, **hubungi bidan atau unit bersalin anda dengan segera** — pada bila-bila masa,\n  siang atau malam. **Jangan tunggu hingga keesokan harinya**, walaupun ketika itu tengah malam.\n- Jangan bergantung pada alat pemantau degupan jantung di rumah (doppler) atau aplikasi untuk menenangkan\n  diri — dapatkan pemeriksaan secara bersemuka."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Sakit belakang semasa hamil",
+      "aliases": [
+        "sakit belakang semasa hamil",
+        "sakit pinggang mengandung",
+        "sakit belakang mengandung",
+        "sakit pinggang bawah hamil",
+        "sakit belakang kehamilan"
+      ],
+      "glance": "Sakit belakang sangat biasa semasa hamil kerana ligamen menjadi lembut dan perut anda membesar — biasanya tidak berbahaya.",
+      "overview": "Sakit belakang ialah antara perkara paling biasa semasa hamil. Ketika badan anda bersedia untuk\nbersalin, ligamen secara semula jadi menjadi lembut dan meregang, dan perut anda yang semakin membesar\nmengubah cara anda menampung berat badan — kedua-duanya memberi tekanan tambahan pada bahagian bawah\nbelakang dan pelvis anda.\n\nPerkara harian boleh melegakannya: menjaga postur ketika berdiri, duduk dan mengangkat barang; memakai\nkasut rata yang menyokong; tilam yang keras atau bantal yang menyokong; dan pergerakan lembut yang kerap\nseperti berjalan, yoga kehamilan, atau senaman dari kelas. Jika ia benar-benar mengganggu, ahli\nfisioterapi obstetrik boleh memberi nasihat yang disesuaikan untuk anda.\n\nKebanyakan sakit belakang semasa hamil tidak perlu dirisaukan — tetapi beberapa corak wajar diperiksa\ndengan segera, dan itulah tujuan panduan di bawah.",
+      "deep": null,
+      "when_to_see_doctor": "Hubungi **doktor klinik atau bidan** anda dengan segera jika sakit belakang anda:\n\n- **teruk**, atau bermula pada **trimester kedua atau ketiga** (kadangkala ia boleh menjadi tanda\n  bersalin awal)\n- disertai **demam, pendarahan faraj, atau sakit ketika kencing**\n- terasa **di bahagian sisi badan, di bawah tulang rusuk**",
+      "red_flags": "- Hubungi **{{emergency}} atau pergi ke jabatan kecemasan** jika anda **hilang rasa pada kaki, punggung,\n  atau kemaluan**, atau tidak dapat mengawal kencing atau buang air besar. Ini jarang berlaku, tetapi\n  memerlukan rawatan kecemasan."
+    },
+    "basal-body-temperature": {
+      "title": "Suhu badan basal",
+      "aliases": [
+        "bbt",
+        "suhu badan basal",
+        "suhu badan waktu pagi",
+        "suhu bangun tidur",
+        "kaedah suhu",
+        "suhu ovulasi"
+      ],
+      "glance": "Suhu badan basal ialah suhu badan anda ketika rehat pada waktu pagi, yang meningkat sedikit selepas ovulasi.",
+      "overview": "Suhu badan basal (BBT) ialah suhu badan anda ketika berehat sepenuhnya. Jika diukur dengan cara yang\nsama setiap hari, ia menunjukkan perubahan kecil tetapi bermakna sepanjang kitaran: selepas ovulasi,\nsuhu meningkat sedikit dan kekal tinggi sehingga haid anda yang seterusnya.\n\nPeningkatannya kecil — kira-kira 0.4 hingga 0.8°F (lebih kurang 0.2 hingga 0.4°C) — jadi ia dibaca\ndaripada corak selama beberapa hari, bukan satu bacaan sahaja. Untuk mengesannya, anda mengambil suhu\nsetiap pagi sebelum bangun dari katil, makan atau minum, sebaik-baiknya pada waktu yang sama. Kira-kira\ntiga hari selepas suhu mula meningkat, hampir semua orang sudah pun berovulasi.\n\nOleh sebab peningkatan itu berlaku *selepas* sel telur dilepaskan, BBT mengesahkan bahawa ovulasi telah\nberlaku dan bukannya meramalnya lebih awal. Selepas beberapa kitaran, ia boleh membantu anda melihat\nbentuk kitaran anda sendiri, walaupun jika digunakan sendirian ia bukan cara yang tepat untuk mengenal\npasti hari-hari subur.",
+      "deep": "BBT ialah salah satu tanda kesedaran kesuburan yang direkodkan setiap hari, bersama lendir serviks dan\npanjang kitaran. Ia sesuai digabungkan dengan pemantauan lendir: perubahan kepada lendir yang jernih dan\nlicin menandakan tempoh subur mungkin sedang bermula, manakala peningkatan suhu beberapa hari kemudian\nmengesahkan ovulasi telah berlalu. Banyak perkara boleh menjejaskan suhu ketika rehat — tidur yang tidak\nlena, sakit, alkohol, atau bangun lewat — jadi bacaan luar biasa sekali-sekala kurang penting berbanding\ntrend keseluruhan.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Pendarahan semasa hamil",
+      "aliases": [
+        "pendarahan semasa hamil",
+        "keluar darah masa mengandung",
+        "tompok darah semasa hamil",
+        "berdarah ketika hamil",
+        "pendarahan faraj hamil",
+        "bintik darah mengandung"
+      ],
+      "glance": "Pendarahan semasa hamil tidak semestinya serius — tompok darah ringan adalah biasa pada awal kehamilan — tetapi sentiasa minta doktor atau bidan memeriksanya.",
+      "overview": "Pendarahan dari faraj semasa hamil tidak semestinya tanda ada masalah. Pendarahan ringan atau tompok\ndarah agak biasa terutamanya pada awal kehamilan, dan banyak kehamilan berterusan dengan baik selepas itu.\n\nWalau bagaimanapun, pendarahan kadangkala boleh menjadi tanda masalah — seperti keguguran atau kehamilan\nektopik — jadi ia merupakan perkara yang **perlu sentiasa diperiksa**, walau sedikit mana pun jumlahnya.\nPemeriksaan membolehkan puncanya dikenal pasti dan anda mendapat rawatan yang betul dengan cepat jika perlu.\n\nOleh sebab gejala yang sama boleh membawa maksud yang sangat berbeza, langkah yang berguna bukanlah meneka —\ntetapi menghubungi pihak kesihatan dan diperiksa.",
+      "deep": null,
+      "when_to_see_doctor": "- **Sentiasa hubungi unit bersalin anda** (atau, jika kandungan anda kurang daripada 20 minggu atau anda\n  tiada nombor mereka, unit kehamilan awal atau **doktor di luar waktu pejabat**) jika anda mengalami\n  **sebarang** pendarahan faraj semasa hamil, walaupun tompok darah yang ringan — supaya puncanya dapat diperiksa.",
+      "red_flags": "- Hubungi **{{emergency}} atau pergi ke jabatan kecemasan** jika anda mengalami **pendarahan yang banyak** —\n  contohnya tuala wanita basah kuyup sejurus selepas dipakai — terutamanya jika disertai **sakit perut yang\n  teruk, sakit di hujung bahu, atau rasa loya, pengsan, pening, atau hilang kesedaran.** Ini memerlukan\n  rawatan kecemasan."
+    },
+    "breast-awareness": {
+      "title": "Kesedaran payudara",
+      "aliases": [
+        "kesedaran payudara",
+        "periksa payudara",
+        "pemeriksaan payudara sendiri",
+        "BSE",
+        "ketulan payudara",
+        "benjolan di payudara"
+      ],
+      "glance": "Kesedaran payudara bermaksud mengetahui rupa dan rasa biasa payudara anda, supaya anda perasan jika ada perubahan.",
+      "overview": "Kesedaran payudara bukanlah teknik khas — ia sekadar mengenali apa yang normal bagi anda, supaya sebarang\nperkara baharu mudah dikesan. Memeriksa payudara atau dada anda secara berkala membantu anda mengenali\nrupa dan rasanya yang biasa; sebulan sekali ialah rutin yang baik.\n\nTiada satu cara yang \"betul\". Ramai yang melihat di cermin dengan tangan diturunkan dan kemudian diangkat,\nlalu merasa setiap payudara hingga ke ketiak. Apa yang anda bina ialah rasa biasa, bukan diagnosis —\nmatlamatnya hanyalah untuk perasan perubahan lebih awal jika ia berlaku.\n\nPayudara juga berubah secara semula jadi sepanjang kitaran dan sepanjang hidup, jadi sesetengah perubahan\nadalah normal sepenuhnya. Tujuan kesedaran ini ialah mengenali keadaan normal anda sendiri dengan cukup\nbaik supaya dapat mengesan sesuatu yang luar biasa.",
+      "deep": null,
+      "when_to_see_doctor": "Berjumpa doktor klinik jika anda perasan sebarang perubahan yang tidak biasa bagi anda, seperti:\n\n- ketulan atau bengkak di payudara, dada, atau ketiak\n- perubahan pada kulit, seperti berlekuk (boleh kelihatan seperti kulit oren) atau kemerahan\n- perubahan saiz atau bentuk pada sebelah atau kedua-dua payudara\n- lelehan dari puting (jika anda tidak hamil atau menyusu), yang mungkin mengandungi darah\n- perubahan pada rupa puting, seperti puting tertarik ke dalam\n- sakit di payudara atau ketiak yang tidak hilang\n\nKebanyakan perubahan payudara bukan kanser dan ternyata tidak berbahaya — tetapi sentiasa berbaloi untuk meminta doktor memeriksa sebarang perubahan dengan segera, kerana jika memang ada sesuatu yang perlu diberi perhatian, mengesannya awal sangat membantu.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Penyusuan susu ibu",
+      "aliases": [
+        "penyusuan susu ibu",
+        "menyusu badan",
+        "susu ibu",
+        "susu badan",
+        "menyusukan bayi",
+        "dbf",
+        "breastfeeding"
+      ],
+      "glance": "Susu ibu melindungi bayi daripada jangkitan dan berubah mengikut pertumbuhannya — dan walau sedikit pun, ada manfaatnya.",
+      "overview": "Susu ibu ialah makanan semula jadi yang lengkap untuk bayi: ia membekalkan nutrisi, vitamin dan mineral\nyang diperlukannya, dan berubah dari semasa ke semasa mengikut peringkat perkembangannya. Ia juga membantu\nmelindungi daripada jangkitan dan penyakit, serta memberi beberapa manfaat kesihatan jangka panjang.\n\nAda juga manfaat bagi yang menyusukan — penyusuan susu ibu dikaitkan dengan risiko lebih rendah kanser\npayudara dan ovari, antara lainnya — dan secara umumnya, semakin kerap dan semakin lama anda menyusu,\nsemakin besar manfaatnya. Yang penting, **sebarang** jumlah susu ibu adalah berbaloi; ia bukan soal\nsemua atau tiada langsung.\n\nMenyusukan bayi juga boleh menjadi lebih sukar daripada yang dijangka pada mulanya, dan itu perkara biasa.\nBantuan sedia ada — daripada bidan, jururawat kesihatan, dan perkhidmatan sokongan penyusuan setempat —\njadi mendapatkan bantuan awal jika penyusuan tidak berjalan lancar ialah langkah yang baik.",
+      "deep": null,
+      "when_to_see_doctor": "- Minta bantuan **bidan atau jururawat kesihatan** anda lebih awal jika penyusuan terasa sakit atau sukar,\n  atau anda risau bayi anda tidak mendapat susu yang cukup — sokongan boleh membawa perubahan yang besar.\n- Cara anda memberi makan bayi ialah keputusan peribadi, dan sokongan sentiasa ada apa pun pilihan anda;\n  yang penting ialah anda dan bayi anda sihat.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Keputihan berwarna coklat",
+      "aliases": [
+        "keputihan coklat",
+        "keputihan perang",
+        "tompok darah coklat",
+        "darah coklat",
+        "darah lama",
+        "keputihan gelap",
+        "darah haid coklat"
+      ],
+      "glance": "Keputihan berwarna coklat biasanya ialah sedikit darah, selalunya pada hari-hari haid yang ringan. Tompok darah coklat pada waktu lain wajar diperiksa oleh doktor.",
+      "overview": "Keputihan berwarna coklat bermaksud sedikit darah atau cecair keperangan yang anda perasan pada seluar\ndalam atau tisu tandas. Ramai yang mengalaminya pada suatu ketika, dan selalunya ia hanyalah sebahagian\ndaripada haid.\n\nDarah haid tidak semestinya merah terang. Pada hari-hari paling banyak, ia biasanya merah, tetapi pada\nhari-hari yang lebih ringan ia boleh kelihatan merah jambu atau coklat. Jadi, warna keperangan pada\nhari-hari haid yang ringan adalah perkara biasa dan normal.\n\nWarna coklat juga boleh muncul pada waktu lain. Tompok darah bermaksud titisan kecil darah berwarna merah\njambu, merah atau coklat, dan tompok darah di antara haid mempunyai beberapa punca biasa. Kontraseptif\nhormon, seperti pil perancang, ialah punca yang kerap. Punca lain termasuk ketumbuhan kecil di dalam atau\ndi sekitar rahim (seperti polip atau fibroid) dan jangkitan seperti klamidia. Pada awal kehamilan,\nsesetengah wanita perasan sedikit tompok darah sekitar waktu haid sepatutnya datang. Ini dikenali sebagai\npendarahan implantasi.\n\nOleh sebab tompok darah coklat di luar waktu haid boleh berpunca daripada pelbagai sebab, kebanyakannya\nringan, langkah yang berguna bukanlah meneka. Sebaliknya, dapatkan pemeriksaan supaya anda tahu puncanya\ndalam kes anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Berjumpa doktor klinik atau klinik kesihatan seksual jika anda mengalami **tompok darah coklat atau\n  pendarahan di antara haid atau selepas hubungan seks**, walaupun sedikit. Ia biasanya tidak serius,\n  tetapi sentiasa berbaloi untuk diperiksa.\n- Jika anda **hamil, atau mungkin hamil**, hubungi unit bersalin, unit kehamilan awal atau\n  **doktor di luar waktu pejabat** tentang sebarang tompok darah, termasuk tompok darah coklat, supaya\n  puncanya dapat diperiksa.\n- Berjumpa doktor klinik jika anda perasan **sebarang keputihan berwarna coklat atau merah jambu atau\n  pendarahan selepas menopaus**, walaupun hanya sedikit atau baru berlaku sekali.\n- Dapatkan nasihat daripada doktor klinik, klinik kesihatan seksual atau doktor di luar waktu pejabat jika\n  keputihan anda **berubah warna, bau atau tekstur**, atau disertai gatal, pedih, sakit pelvis atau sakit\n  ketika kencing.",
+      "red_flags": "- Minta temu janji **segera** dengan doktor klinik, atau hubungi **doktor di luar waktu pejabat**, jika anda\n  **baru-baru ini terlepas haid dan mengalami pendarahan luar biasa bersama sakit perut atau pelvis**. Ini\n  perlu diperiksa dengan cepat, kerana ia boleh menjadi tanda kehamilan ektopik.\n- Jika anda hamil, hubungi **{{emergency}}** jika anda berdarah dan mengalami **sakit perut yang teruk, sakit\n  di bahu, rasa hendak pengsan, pening atau loya, atau pendarahan yang banyak** (tuala wanita basah kuyup\n  sejurus selepas dipakai)."
+    },
+    "cervical-mucus": {
+      "title": "Lendir serviks",
+      "aliases": [
+        "lendir serviks",
+        "keputihan",
+        "lelehan faraj",
+        "lendir subur",
+        "lendir seperti putih telur",
+        "cecair serviks"
+      ],
+      "glance": "Lendir serviks ialah keputihan semula jadi yang berubah sepanjang kitaran dan menandakan hari-hari subur anda.",
+      "overview": "Lendir serviks ialah cecair yang dihasilkan oleh serviks (leher rahim), yang mungkin anda perasan sebagai\nkeputihan. Ia normal, dan rupa serta rasanya berubah mengikut corak yang agak boleh dijangka sepanjang\nkitaran — itulah sebabnya ia menjadi salah satu tanda yang digunakan untuk mengenal pasti hari-hari subur.\n\nSejurus selepas haid, selalunya ada beberapa hari \"kering\" dengan sedikit lendir. Apabila sel telur mula\nmatang, lendir bertambah dan biasanya berwarna putih atau kekuningan, keruh dan melekit. Beberapa hari\nsebelum ovulasi, ia biasanya menjadi jernih, basah dan licin, boleh diregangkan di antara jari seperti\nputih telur mentah — inilah waktu paling subur. Selepas ovulasi, ia biasanya kembali melekit dan keruh,\natau menjadi kering.\n\nCorak setiap orang sedikit berbeza, dan mungkin mengambil beberapa kitaran pemerhatian untuk memahami\ncorak anda sendiri. Sesetengah perkara — seperti kontraseptif hormon, penyusuan susu ibu, atau jangkitan —\nboleh mengubah lendir, jadi ia bukan tanda kesuburan yang boleh dipercayai untuk semua orang.",
+      "deep": "Memerhati lendir serviks ialah salah satu tanda kesedaran kesuburan yang dipantau, bersama suhu badan\nketika rehat dan panjang kitaran; mempelajarinya biasanya mengambil masa dua hingga tiga kitaran. Tidak\nseperti peningkatan suhu, yang hanya mengesahkan ovulasi selepas ia berlaku, perubahan kepada lendir yang\njernih, licin dan seperti putih telur biasanya muncul *sebelum* ovulasi, dan itulah sebabnya ia digunakan\nuntuk menandakan tempoh subur ketika ia bermula dan bukannya selepas ia berakhir.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Saringan serviks (ujian Pap smear)",
+      "aliases": [
+        "saringan serviks",
+        "pap smear",
+        "ujian pap smear",
+        "ujian calitan",
+        "saringan kanser serviks",
+        "ujian HPV",
+        "smear test"
+      ],
+      "glance": "Saringan serviks ialah pemeriksaan rutin kesihatan serviks anda yang membantu mencegah kanser serviks.",
+      "overview": "Saringan serviks ialah ujian untuk memeriksa kesihatan serviks — iaitu bukaan ke rahim di bahagian atas\nfaraj. Ia bukan ujian untuk mengesan kanser. Sebaliknya, ia cara untuk mengesan perubahan lebih awal dan\nmembantu mencegah kanser serviks daripada berkembang sejak awal lagi.\n\nSemua orang yang mempunyai serviks dijemput dari umur 25 hingga 64 tahun. Anda akan dihantar jemputan\napabila tiba masanya, pada selang masa yang tetap, jadi anda tidak perlu ingat untuk menempahnya sendiri —\nwalaupun pergi atau tidak sentiasa pilihan anda.\n\nUjian itu sendiri cepat dan dilakukan oleh jururawat. Ramai yang berasa sedikit gementar mengenainya, dan\nitu sangat difahami; mengetahui tujuannya — pemeriksaan rutin untuk pencegahan — boleh membuatkannya\nterasa lebih mudah dihadapi.",
+      "deep": null,
+      "when_to_see_doctor": "- Saringan adalah untuk ketika anda **tidak** mempunyai gejala. Jika anda perasan sesuatu yang membimbangkan\n  di antara saringan — seperti pendarahan luar biasa (di antara haid, selepas hubungan seks, atau selepas\n  menopaus) — berjumpalah doktor klinik dan jangan tunggu jemputan seterusnya.\n- Jika anda telah dijemput dan anda tidak pasti atau berasa cemas untuk pergi, ada baiknya berbincang\n  dengan doktor klinik atau jururawat klinik anda, yang boleh menerangkan apa yang berlaku dan menjawab\n  soalan anda.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Penderaan kanak-kanak & melindungi kanak-kanak",
+      "aliases": [
+        "penderaan kanak-kanak",
+        "dera budak",
+        "keselamatan kanak-kanak",
+        "melindungi kanak-kanak",
+        "risau tentang kanak-kanak",
+        "pengabaian kanak-kanak",
+        "child abuse"
+      ],
+      "glance": "Jika anda risau seorang kanak-kanak mungkin dicederakan atau diabaikan, memang wajar untuk mendapatkan nasihat — anda tidak perlu pasti.",
+      "overview": "Penderaan kanak-kanak — atau penganiayaan kanak-kanak — ialah kemudaratan terhadap sesiapa yang berumur\nbawah 18 tahun. Ia termasuk penderaan fizikal, seksual dan emosi, serta pengabaian (tidak memenuhi\nkeperluan asas kanak-kanak). Malangnya ia kerap berlaku, boleh menyebabkan kemudaratan sepanjang hayat,\ndan ia tidak pernah salah kanak-kanak itu.\n\nAnda mungkin risau tentang seorang kanak-kanak dalam hidup anda, atau kanak-kanak yang anda perhatikan.\nAnda tidak perlu pasti, atau mempunyai bukti, untuk bertindak atas kebimbangan itu — mempercayainya dan\nmeminta nasihat ialah tindakan yang betul, dan ia boleh melindungi seorang kanak-kanak.\n\nDan jika anda sendiri pernah didera semasa kecil, ketahuilah bahawa kemudaratan itu bukan salah anda, dan\nsokongan juga tersedia untuk anda, pada usia berapa pun.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika anda risau tentang seorang kanak-kanak, anda boleh menghubungi **pihak perlindungan kanak-kanak /\n  perkhidmatan kebajikan masyarakat**, **talian bantuan perlindungan kanak-kanak** yang khusus, atau\n  **doktor klinik, jururawat kesihatan, atau sekolah kanak-kanak itu** untuk mendapatkan nasihat — secara sulit.\n- Anda tidak \"keterlaluan\" dengan bertanya. Lebih baik menyemak daripada menunggu.",
+      "red_flags": "- Jika seorang kanak-kanak berada dalam **bahaya serta-merta** atau cedera parah, hubungi perkhidmatan\n  kecemasan sekarang: **112** di EU (termasuk Itali), **999** di UK, **911** di AS dan Kanada."
+    },
+    "coercive-control": {
+      "title": "Kawalan paksaan",
+      "aliases": [
+        "kawalan paksaan",
+        "pasangan suka mengawal",
+        "tingkah laku mengawal",
+        "penderaan emosi",
+        "penderaan psikologi",
+        "penderaan kewangan",
+        "diasingkan",
+        "gaslighting"
+      ],
+      "glance": "Kawalan paksaan ialah corak tingkah laku mengawal — mengasingkan, memantau, mengugut — yang diiktiraf sebagai satu bentuk penderaan.",
+      "overview": "Kawalan paksaan ialah satu bentuk penderaan yang berlaku melalui kawalan, sama ada tanpa atau bersama\nkecederaan fizikal. Ia satu corak — bukan satu pertengkaran — di mana seseorang secara beransur-ansur\nmenyekat kebebasan dan jati diri orang lain.\n\nIa boleh berupa dipisahkan daripada kawan dan keluarga, telefon, pergerakan atau perbelanjaan anda\ndiperhati atau disekat, diberitahu apa yang perlu dipakai atau bagaimana untuk berkelakuan, atau hidup\ndengan kritikan, ugutan atau intimidasi yang berterusan. Oleh sebab mungkin tiada lebam, ia sukar untuk\ndinamakan, dan orang lain mungkin tidak nampak — tetapi ia diiktiraf sebagai penderaan, dan ia boleh sama\nmemudaratkan seperti keganasan fizikal.\n\nJika anda mengenali sebahagian daripada ini, itu bukan tanda anda terlalu sensitif atau anda yang\nmenyebabkannya. Tingkah laku mengawal ialah pilihan yang dibuat oleh orang itu. Memahaminya sebagaimana\nadanya boleh menjadi langkah pertama ke arah mendapatkan sokongan.",
+      "deep": "Kawalan paksaan selalunya berkembang perlahan-lahan, dan itulah antara sebab ia sukar dikesan dari dalam —\nkawalan kecil menjadi perkara biasa, dan keraguan terhadap diri sendiri bertambah. Lama-kelamaan ia\nmenjejaskan kesihatan mental. Berbincang dengan seseorang yang terlatih untuk memahami corak ini boleh\nmembantu anda melihat keadaan dengan lebih jelas dan memikirkan apa yang anda mahu lakukan seterusnya,\ntanpa tekanan.",
+      "when_to_see_doctor": "- Pusat anti-keganasan atau talian bantuan (di Itali, **1522**) boleh berbincang tentang apa yang anda\n  alami, secara sulit dan percuma, serta membantu anda memahami pilihan anda — anda tidak perlu berada\n  dalam bahaya fizikal untuk mendapatkan bantuan.\n- Doktor klinik atau kaunselor juga boleh menyokong anda dan membantu anda mendapatkan perkhidmatan pakar.",
+      "red_flags": "- Jika anda berada dalam **bahaya serta-merta**, hubungi perkhidmatan kecemasan sekarang: **112** di EU\n  (termasuk Itali), **999** di UK, **911** di AS dan Kanada.\n- Di Itali, **1522** adalah percuma, tersedia 24 jam sehari, tanpa nama, dan dalam pelbagai bahasa —\n  melalui telefon atau sembang dalam talian."
+    },
+    "combined-pill": {
+      "title": "Pil perancang kombinasi",
+      "aliases": [
+        "pil perancang kombinasi",
+        "pil perancang",
+        "pil kombinasi",
+        "pil pencegah hamil",
+        "kontraseptif oral kombinasi",
+        "COC",
+        "the pill"
+      ],
+      "glance": "Pil kombinasi ialah pil harian yang mengandungi dua hormon dan berfungsi terutamanya dengan menghalang ovulasi.",
+      "overview": "Pil kombinasi ialah tablet harian yang mengandungi dua hormon — versi estrogen dan progestogen, serupa\ndengan hormon yang dihasilkan oleh ovari. Ia antara bentuk kontraseptif yang paling dikenali.\n\nIa mencegah kehamilan melalui beberapa cara serentak. Terutamanya, ia menghalang ovari daripada\nmelepaskan sel telur (ovulasi). Ia juga memekatkan lendir di leher rahim, menyukarkan sperma untuk\nmelaluinya, dan menipiskan lapisan dinding rahim.\n\nKeberkesanannya bergantung pada pengambilan mengikut arahan: ia lebih 99% berkesan jika diambil dengan\nsempurna, tetapi dengan penggunaan harian yang biasa — apabila pil kadangkala tertinggal atau lewat\ndiambil — ia kira-kira 91% berkesan. Seperti kebanyakan kaedah, ia tidak melindungi daripada jangkitan\nkelamin (STI), jadi sesetengah orang turut menggunakan kondom.",
+      "deep": "Pil kombinasi biasanya diambil mengikut corak tertentu sepanjang bulan, dan cara mengambilnya, siapa\nyang sesuai, serta kesan sampingan dan risikonya ialah perkara yang akan diterangkan oleh doktor atau\njururawat ketika ia dipreskripsikan — ia tidak sesuai untuk semua orang. Oleh sebab ia kaedah harian,\nkeberkesanannya dalam kehidupan sebenar banyak bergantung pada rutin. Artikel ini menerangkan apa itu pil\nkombinasi dan cara ia berfungsi; butiran tentang cara memulakan, mengambil atau menghentikannya perlu\ndibincangkan dengan doktor klinik, jururawat atau ahli farmasi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Gejala biasa kehamilan",
+      "aliases": [
+        "gejala biasa kehamilan",
+        "ketidakselesaan semasa hamil",
+        "pedih ulu hati semasa hamil",
+        "sakit belakang semasa hamil",
+        "kaki bengkak mengandung",
+        "sembelit semasa hamil",
+        "buasir semasa hamil",
+        "lenguh badan mengandung"
+      ],
+      "glance": "Kehamilan membawa banyak rasa sakit dan perubahan kecil — kebanyakannya normal, walaupun beberapa wajar diperiksa oleh bidan atau doktor.",
+      "overview": "Kehamilan membawa banyak perubahan kepada badan anda, dan datang bersama senarai panjang ketidakselesaan\nharian. Kebanyakannya biasa dan bukan tanda ada yang tidak kena — ia hanyalah sebahagian daripada proses\nmembesarkan bayi.\n\nAntara yang biasa termasuk sakit belakang, pedih ulu hati dan senak, sembelit, buasir, buku lali, kaki dan\njari yang bengkak, keletihan dan tidur yang terganggu, kekejangan kaki, sakit kepala, rasa hendak pengsan,\ndan keputihan yang lebih banyak daripada biasa. Banyak yang reda dengan langkah-langkah kecil untuk\nkeselesaan, dan bidan anda boleh mencadangkan apa yang selamat jika sesuatu mengganggu anda.\n\nPerkara yang berguna ialah mengetahui perubahan mana yang biasa dan mana yang wajar dimaklumkan — kerana\nbeberapa gejala, walaupun kurang biasa, perlu diperiksa dan bukan sekadar ditunggu hingga reda.",
+      "deep": null,
+      "when_to_see_doctor": "Kebanyakan gejala ini normal, tetapi hubungi **bidan atau unit bersalin** anda dengan segera jika anda\nmengalami:\n\n- **pendarahan faraj**, atau cecair yang tiba-tiba memancut atau menitis keluar\n- **bayi anda kurang bergerak** berbanding biasa\n- **sakit kepala yang teruk, masalah penglihatan, atau bengkak secara tiba-tiba** pada muka, tangan atau\n  kaki (kemungkinan tanda pre-eklampsia)\n- **sakit perut yang teruk atau pada sebelah sahaja**, atau **suhu badan yang tinggi**\n- **gatal-gatal**, terutamanya pada tangan dan kaki atau yang lebih teruk pada waktu malam (ia boleh\n  menjadi tanda masalah hati semasa hamil yang perlu diperiksa)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Kondom",
+      "aliases": [
+        "kondom",
+        "kondom lelaki",
+        "kondom luaran",
+        "kondom wanita",
+        "kaedah halangan",
+        "condom"
+      ],
+      "glance": "Kondom ialah kaedah halangan — dan satu-satunya jenis kontraseptif yang juga melindungi daripada jangkitan kelamin (STI).",
+      "overview": "Kondom ialah lapisan halangan yang nipis — biasanya daripada lateks, atau alternatif plastik bagi mereka\nyang alah kepada lateks — yang dipakai pada zakar semasa hubungan seks. Cara ia berfungsi mudah: ia\nmenghalang sperma daripada memasuki faraj.\n\nApa yang menjadikan kondom istimewa berbanding kontraseptif lain ialah **ia satu-satunya kaedah yang juga\nmelindungi daripada jangkitan kelamin (STI), termasuk HIV.** Itulah sebabnya kondom sering digunakan\nbersama kaedah lain — satu untuk mencegah kehamilan, kedua-duanya bersama untuk perlindungan daripada\njangkitan.\n\nJika digunakan dengan betul setiap kali, kondom kira-kira 98% berkesan untuk mencegah kehamilan. Dengan\npenggunaan biasa — apabila kadangkala ia digunakan dengan salah atau tidak setiap kali — keberkesanannya\nmenurun kepada kira-kira 82%. Menggunakannya dengan betul dan secara konsisten ialah perkara yang\nmembezakannya.",
+      "deep": "Oleh sebab kondom digunakan pada saat itu dan bukannya lebih awal, keberkesanannya dalam kehidupan\nsebenar sangat bergantung pada penggunaan yang konsisten dan betul. Kondom dalaman (dipakai di dalam\nfaraj) ialah satu lagi pilihan halangan. Tidak seperti kebanyakan kaedah, kondom tidak memerlukan\npreskripsi dan mudah didapati, dan peranan gandanya — mencegah kehamilan dan melindungi daripada STI —\nialah sebab ia kerap disebut dalam perbincangan tentang seks yang lebih selamat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Persetujuan dan rasa hormat",
+      "aliases": [
+        "persetujuan",
+        "consent",
+        "hormati batasannya",
+        "persetujuan seksual",
+        "hak ke atas tubuh sendiri",
+        "kerelaan"
+      ],
+      "glance": "Persetujuan ialah \"ya\" yang jelas, bebas dan bersungguh-sungguh — setiap kali, dan ia boleh ditarik balik pada bila-bila masa.",
+      "overview": "Rasa hormat bermula dengan haknya untuk membuat keputusan tentang tubuhnya sendiri — sentiasa. Persetujuan\nuntuk keintiman bermaksud **ya** yang diberikan secara bebas, dengan penuh kefahaman, dan bersungguh-sungguh.\nDiam bukan persetujuan. \"Yalah\" yang diberi dengan berat hati bukan persetujuan. Seseorang yang sedang\ntidur, sangat mabuk, atau berada di bawah tekanan tidak boleh benar-benar memberi persetujuan. Dan ya\nuntuk satu perkara, atau pada satu hari, bukan ya untuk segala-galanya atau untuk kali seterusnya.\n\nPersetujuan boleh ditarik balik pada bila-bila masa, dan \"berhenti\" atau \"bukan malam ini\" ialah jawapan\nlengkap yang tidak perlu dijelaskan. Mendesak, membuatnya rasa bersalah, merajuk sehingga dia mengalah,\natau menganggap seks sebagai sesuatu yang dia wajib berikan kepada anda — semua itu tidak boleh diterima.\nHubungan bukan hutang.",
+      "deep": "Bagaimana rasa hormat kelihatan dalam amalan:\n\n- **Tanya, dan periksa semula.** \"Okey tak ni?\" dan beri perhatian kepada responsnya — kata-kata dan\n  bahasa badannya.\n- **Terima \"tidak\" dengan baik.** Jangan merajuk, mendesak, atau menghukum. Jawapannya adalah muktamad.\n- **Kerelaan itu penting.** Jika dia kelihatan tidak pasti, teragak-agak atau sekadar menurut, berhenti\n  dan tanya.\n- **Tubuhnya, keputusannya** — tentang keintiman, kontraseptif, kehamilan, kesihatannya, penampilannya,\n  pilihannya. Anda ada suara dalam kehidupan yang dikongsi bersama, tetapi tidak sekali-kali kuasa veto\n  ke atas tubuhnya.\n- **Rasa hormat ialah amalan setiap hari.** Cara anda bercakap dengannya, bercakap tentangnya, dan\n  menghormati batasannya dalam perkara kecil ialah asas bagi segala-galanya.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Kontraseptif",
+      "aliases": [
+        "kontraseptif",
+        "perancang keluarga",
+        "merancang keluarga",
+        "pencegah hamil",
+        "kaedah mencegah kehamilan",
+        "birth control"
+      ],
+      "glance": "Kontraseptif ialah pelbagai cara untuk mencegah kehamilan — dan terdapat banyak pilihan.",
+      "overview": "Kontraseptif — kadangkala disebut perancang keluarga — ialah pelbagai kaedah yang digunakan untuk mencegah\nkehamilan. Terdapat banyak kaedah, dan ia berfungsi dengan cara yang berbeza: ada yang menggunakan hormon,\nada yang bertindak sebagai halangan, ada yang diletakkan di dalam rahim, dan ada yang berdasarkan\npemantauan kitaran.\n\nKeberkesanan sesuatu kaedah banyak bergantung pada cara ia digunakan. Sesetengah kaedah — seperti implan\ndan IUD (alat dalam rahim) — jenis \"pasang dan lupakan\", dan lebih 99% berkesan. Yang lain, seperti pil\nperancang atau kondom, sangat berkesan jika digunakan dengan sempurna, tetapi kurang sedikit\nkeberkesanannya dengan penggunaan harian yang biasa, kerana lebih mudah terlupa makan pil atau tersalah\nguna kondom.\n\nSatu perkara yang wajar diketahui: **hanya kondom yang juga melindungi daripada jangkitan kelamin\n(STI)**. Kaedah lain mencegah kehamilan tetapi bukan jangkitan, dan itulah sebabnya kondom kadangkala\ndigunakan bersama kaedah lain.\n\nTiada satu kaedah yang \"terbaik\" — kaedah yang sesuai bergantung pada kesihatan anda, tubuh anda, dan apa\nyang sesuai dengan kehidupan anda. Doktor klinik atau klinik kesihatan seksual boleh menerangkan pilihan-\npilihan ini dan membantu anda memilih.",
+      "deep": "Oleh sebab kaedah-kaedah ini sangat berbeza, ada baiknya memikirkan apa yang penting bagi anda: sejauh\nmana keberkesanannya, sama ada perlu mengingati sesuatu setiap hari, berapa lama ia bertahan, sama ada\nanda mahu hormon atau tidak, dan sama ada perlindungan daripada STI penting dalam situasi anda. Ramai\norang menukar kaedah sepanjang hidup mereka apabila keperluan berubah. Pangkalan pengetahuan ini\nmenerangkan cara kaedah biasa berfungsi supaya pilihan terasa lebih jelas — tetapi keputusannya, serta\nsebarang preskripsi atau pemasangan, perlu dibuat bersama doktor atau jururawat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Kontraseptif dan berat badan",
+      "aliases": [
+        "adakah pil perancang buat gemuk",
+        "pil perancang naik berat badan",
+        "kontraseptif dan berat badan",
+        "berat badan naik makan pil",
+        "suntikan perancang gemuk",
+        "implan naik berat badan",
+        "perancang keluarga gemuk"
+      ],
+      "glance": "Tiada bukti bahawa pil kombinasi menyebabkan kenaikan berat badan, tetapi suntikan kontraseptif boleh. Ia bergantung pada kaedah.",
+      "overview": "Tertanya-tanya sama ada kontraseptif akan menyebabkan berat badan naik ialah soalan yang sangat biasa.\nJawapan jujurnya ialah ia bergantung pada kaedah.\n\nBagi pil kombinasi, buktinya melegakan: tiada bukti bahawa mengambilnya menyebabkan berat badan anda\nnaik. Perkara yang sama juga benar bagi tampalan kontraseptif dan cincin faraj.\n\nSuntikan kontraseptif berbeza. Kenaikan berat badan disenaraikan sebagai salah satu kesan sampingannya\nyang biasa, bersama perubahan pada haid anda.\n\nBagi pil progestogen sahaja (kadangkala dipanggil pil mini) dan implan kontraseptif, sesetengah orang\nmelaporkan berat badan mereka naik. Tetapi tidak cukup bukti untuk mengatakan sama ada kaedah itu sendiri\npuncanya.\n\nBerat badan hanyalah satu bahagian daripada keseluruhan gambaran. Setiap kaedah mempunyai senarai\nkemungkinan kesan sampingan dan risikonya sendiri, dan memilih kontraseptif ialah tentang mencari apa\nyang sesuai dengan tubuh, kesihatan dan kehidupan anda. Ahli farmasi, doktor klinik, jururawat atau\nklinik kesihatan seksual boleh membincangkan pilihan-pilihan ini bersama anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika kesan sampingan, termasuk perubahan berat badan, menjadi masalah bagi anda, berbincanglah dengan\n  ahli farmasi, doktor klinik, jururawat atau klinik kesihatan seksual. Dengan pil kombinasi, tampalan\n  atau cincin, sesetengah kesan sampingan boleh berlaku ketika anda mula-mula menggunakannya. Jika ia\n  masih mengganggu anda selepas kira-kira 3 bulan, doktor atau jururawat mungkin berbincang dengan anda\n  tentang pil lain atau jenis kontraseptif yang lain.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Implan kontraseptif",
+      "aliases": [
+        "implan kontraseptif",
+        "implan",
+        "implan perancang",
+        "implan di lengan",
+        "Nexplanon",
+        "Implanon"
+      ],
+      "glance": "Implan ialah rod kecil yang diletakkan di lengan atas dan membebaskan hormon selama beberapa tahun.",
+      "overview": "Implan kontraseptif ialah rod kecil yang lentur — kira-kira sebesar batang mancis — yang diletakkan tepat\ndi bawah kulit lengan atas oleh doktor atau jururawat terlatih. Setelah dipasang, ia membebaskan hormon\nprogestogen secara berterusan dan berkesan sehingga kira-kira tiga tahun.\n\nIa mencegah kehamilan terutamanya dengan menghalang ovari daripada melepaskan sel telur (ovulasi), dan\ndengan memekatkan lendir di leher rahim supaya sperma tidak dapat melaluinya. Oleh sebab tiada apa yang\nperlu diingat setiap hari, ia salah satu kaedah \"pasang dan lupakan\".\n\nItulah juga sebabnya ia antara pilihan yang paling boleh dipercayai: implan lebih 99% berkesan, dan\nkeberkesanannya hampir tidak berubah antara penggunaan sempurna dan penggunaan biasa. Seperti kaedah\nhormon yang lain, ia tidak melindungi daripada STI.",
+      "deep": "Implan ialah kaedah jangka panjang yang boleh dihentikan — ia terus berfungsi sehingga dikeluarkan, dan\nkesuburan kembali selepas ia dikeluarkan. Pemasangan dan pengeluarannya ialah prosedur ringkas yang\ndilakukan oleh doktor atau jururawat, yang juga akan menerangkan siapa yang sesuai dan kesan sampingannya.\nArtikel ini menerangkan apa itu implan dan cara ia berfungsi; keputusan untuk memasangnya perlu\ndibincangkan dengan doktor klinik, jururawat, atau klinik kesihatan seksual.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Kitaran & kesejahteraan anda",
+      "aliases": [
+        "kesejahteraan",
+        "kitaran dan kesihatan",
+        "kitaran haid dan kesihatan",
+        "haid dan kesihatan",
+        "tanda vital",
+        "haid tak teratur"
+      ],
+      "glance": "Kitaran anda umpama pemeriksaan bulanan tentang kesihatan anda — perubahan padanya wajar diberi perhatian.",
+      "overview": "Kitaran haid anda tidak terpisah daripada kesihatan anda yang lain — ia saling berkait. Kitaran yang\nteratur bagi anda secara amnya menandakan badan anda berfungsi sebagaimana sepatutnya. Itulah sebabnya\nada yang menganggap haid sebagai sejenis isyarat bulanan tentang kesejahteraan keseluruhan.\n\nKehidupan harian turut mempengaruhinya. Berat badan ialah satu contoh: berat badan yang terlalu rendah\natau terlalu tinggi dengan ketara boleh menjejaskan hormon yang mencetuskan ovulasi, dan ini boleh\nmenyebabkan haid tidak teratur. Ia berlaku dua hala — menjaga perkara asas, seperti pemakanan yang\nseimbang dan kekal aktif, menyokong kitaran, dan kitaran yang stabil ialah tanda perkara-perkara itu\nberada dalam keseimbangan yang munasabah.\n\nIni bukan tentang mengejar kitaran yang \"sempurna\" atau menyalahkan diri sendiri atas perubahan. Cuma,\nmemberi perhatian dengan lembut kepada kitaran anda boleh menjadi cara berguna untuk mengetahui keadaan\ndiri anda — dan dorongan untuk berjumpa doktor atau jururawat jika ada sesuatu yang berubah.",
+      "deep": null,
+      "when_to_see_doctor": "- Berjumpa doktor klinik jika haid anda menjadi tidak teratur, berhenti, atau berubah dengan cara yang\n  tidak biasa bagi anda — perubahan yang berterusan kadangkala boleh menunjukkan sesuatu yang wajar disiasat.\n- Ada baiknya juga berbincang jika masalah haid menjejaskan kehidupan harian anda, supaya anda boleh\n  mendapat sokongan dan bukan sekadar menahannya.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Penderaan ekonomi",
+      "aliases": [
+        "penderaan ekonomi",
+        "penderaan kewangan",
+        "kawalan wang",
+        "pasangan kawal duit",
+        "pasangan ambil gaji",
+        "hutang atas nama saya"
+      ],
+      "glance": "Penderaan ekonomi ialah mengawal akses seseorang kepada wang, pekerjaan atau sumber — satu bentuk penderaan yang diiktiraf.",
+      "overview": "Penderaan ekonomi berlaku apabila seseorang mengawal akses orang lain kepada wang dan perkara yang boleh\ndibeli dengan wang. Ia satu bentuk tingkah laku mengawal, dan sering berlaku bersama jenis penderaan yang\nlain.\n\nIa boleh berupa mengawal semua perbelanjaan atau memaksa anda menjelaskan setiap sen, mengambil gaji atau\nbantuan kewangan anda, membuat hutang atas nama anda, menyembunyikan akaun bank atau dokumen daripada\nanda, atau menghalang anda daripada bekerja atau belajar. Oleh sebab ia boleh menyebabkan seseorang tidak\nmempunyai cara untuk keluar daripada hubungan itu atau menguruskan kehidupan harian, ia salah satu cara\npenderaan boleh terasa seperti perangkap.\n\nJika sebahagian daripada ini terasa biasa, itu bukan tanda anda \"tidak pandai menguruskan wang\" atau anda\nyang bersalah. Mengawal sumber orang lain ialah pilihan yang dibuat oleh orang itu — dan ia diiktiraf\nsebagai penderaan.",
+      "deep": null,
+      "when_to_see_doctor": "- Perkhidmatan anti-keganasan juga boleh membantu dalam hal ini — bukan sahaja dari segi keselamatan,\n  tetapi juga langkah praktikal dan kewangan, secara sulit dan percuma (di Itali, talian bantuan **1522**\n  boleh menghubungkan anda dengan sokongan setempat).\n- Pelan keselamatan boleh termasuk menyimpan sedikit wang, dokumen penting, dan nombor telefon penting\n  secara diam-diam.",
+      "red_flags": "- Jika anda berada dalam **bahaya serta-merta**, hubungi perkhidmatan kecemasan sekarang: **112** di EU\n  (termasuk Itali), **999** di UK, **911** di AS dan Kanada.\n- Di Itali, **1522** — percuma, 24 jam sehari, tanpa nama, dalam pelbagai bahasa — boleh membantu melalui\n  telefon atau sembang dalam talian."
+    },
+    "ectopic-pregnancy": {
+      "title": "Kehamilan ektopik",
+      "aliases": [
+        "kehamilan ektopik",
+        "ektopik",
+        "hamil luar rahim",
+        "kehamilan luar rahim",
+        "kehamilan dalam tiub falopio",
+        "ectopic"
+      ],
+      "glance": "Kehamilan ektopik berkembang di luar rahim — ia tidak boleh diteruskan dan memerlukan rawatan perubatan segera.",
+      "overview": "Kehamilan ektopik berlaku apabila sel telur yang telah disenyawakan melekat di luar rahim, paling kerap\ndi salah satu tiub falopio. Malangnya, kehamilan di kedudukan ini tidak boleh berkembang menjadi bayi,\ndan tidak boleh dipindahkan ke dalam rahim — jadi ia sentiasa memerlukan rawatan.\n\nTanda-tandanya biasanya muncul antara kira-kira minggu ke-4 hingga ke-12, dan boleh termasuk sakit perut\ndi bahagian bawah pada sebelah sisi, pendarahan faraj atau lelehan berwarna coklat dan berair, sakit di\nhujung bahu, atau rasa tidak selesa ketika kencing atau buang air besar. Gabungan gejala berbeza-beza,\ndan sesetengahnya mudah disangka sebagai perkara kecil, dan itulah sebabnya penting untuk memeriksanya.\n\nIa keadaan yang jarang berlaku, tetapi berpotensi serius, jadi ia bukan sesuatu yang boleh ditunggu\nsahaja. Mendapatkan nasihat awal bermakna ia boleh dirawat dengan selamat.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi doktor klinik atau **doktor di luar waktu pejabat** jika anda mengalami gabungan gejala ini\n  **dan anda mungkin hamil** — walaupun anda belum mendapat keputusan ujian kehamilan yang positif.\n  Penting untuk mendapatkan nasihat dengan segera.",
+      "red_flags": "- Hubungi **{{emergency}} atau pergi ke jabatan kecemasan** jika anda mengalami **sakit perut yang\n  tiba-tiba, tajam dan amat kuat**, berasa **sangat pening atau hendak pengsan**, kelihatan **sangat\n  pucat**, atau berasa loya bersama gejala ini. Ini boleh bermakna tiub falopio telah pecah — kecemasan\n  perubatan yang memerlukan rawatan segera."
+    },
+    "emergency-contraception": {
+      "title": "Kontraseptif kecemasan",
+      "aliases": [
+        "kontraseptif kecemasan",
+        "pil kecemasan",
+        "pil perancang kecemasan",
+        "pil selepas seks",
+        "morning after pill",
+        "Postinor",
+        "ellaOne",
+        "Levonelle"
+      ],
+      "glance": "Kontraseptif kecemasan boleh mencegah kehamilan selepas hubungan seks tanpa perlindungan — dan lebih cepat, lebih baik.",
+      "overview": "Kontraseptif kecemasan ialah cara untuk mencegah kehamilan selepas hubungan seks tanpa kontraseptif,\natau apabila kaedah biasa anda mungkin gagal (terlupa makan pil, kondom koyak). Terdapat dua jenis, dan\nmasa amat penting bagi kedua-duanya.\n\nYang pertama ialah **pil kecemasan**. Terdapat dua jenis: satu (levonorgestrel) boleh diambil sehingga\n3 hari — 72 jam — selepas hubungan seks, dan satu lagi (ulipristal asetat, jenama ellaOne) sehingga 5 hari —\n120 jam. Pilihan kedua ialah **IUD tembaga (alat dalam rahim)**, yang boleh dipasang oleh doktor atau\njururawat sehingga 5 hari selepas hubungan seks; ia bentuk kontraseptif kecemasan yang paling berkesan,\ndan boleh terus dibiarkan sebagai kontraseptif berterusan jika anda mahu.\n\nBagi semua kaedah ini, **lebih cepat anda menggunakannya, lebih baik biasanya keberkesanannya** — jadi\nwajar bertindak segera dan bukannya menunggu. Anda boleh mendapatkan kontraseptif kecemasan dari\nfarmasi, doktor klinik, klinik kesihatan seksual, atau pusat rawatan tanpa temu janji, selalunya secara\npercuma.",
+      "deep": null,
+      "when_to_see_doctor": "- Oleh sebab ia bergantung pada masa, jangan tunggu — ahli farmasi boleh memberikan pil kecemasan dengan\n  cepat, dan klinik kesihatan seksual atau doktor klinik boleh memasang IUD.\n- Kontraseptif kecemasan adalah untuk mencegah kehamilan, bukan jangkitan. Jika ada sebarang kemungkinan\n  jangkitan kelamin, klinik kesihatan seksual boleh memberi nasihat tentang ujian.\n- Jika haid anda kemudiannya lewat lebih daripada beberapa hari, atau sangat berbeza daripada biasa,\n  wajar untuk membuat ujian kehamilan dan berbincang dengan doktor atau jururawat.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriosis",
+      "aliases": [
+        "endometriosis",
+        "endo",
+        "sista coklat",
+        "sakit haid teruk",
+        "sakit haid melampau",
+        "chocolate cyst"
+      ],
+      "glance": "Endometriosis ialah keadaan apabila tisu seperti lapisan dinding rahim tumbuh di luar rahim, dan selalunya menyebabkan kesakitan.",
+      "overview": "Endometriosis ialah keadaan jangka panjang apabila sel-sel yang serupa dengan lapisan dinding rahim\n(uterus) tumbuh di bahagian lain badan, seperti di sekitar ovari, pelvis, atau usus. Ia biasa berlaku —\ndianggarkan menjejaskan kira-kira 1 daripada 10 wanita dalam usia reproduktif di seluruh dunia.\n\nOleh sebab tisu ini berkelakuan sedikit seperti lapisan dinding rahim, ia boleh menyebabkan keradangan\ndan, lama-kelamaan, tisu parut. Tanda yang paling biasa ialah kesakitan: selalunya sakit haid yang teruk,\ntetapi juga sakit pelvis atau sakit belakang bahagian bawah pada waktu lain, sakit semasa atau selepas\nhubungan seks, dan sakit ketika kencing atau buang air besar. Haid yang sangat banyak, keletihan yang amat\nsangat, emosi yang murung, dan kesukaran untuk hamil juga biasa. Gejalanya sangat berbeza-beza — ada\nyang mengalami sakit teruk, ada yang sedikit sahaja.\n\nEndometriosis sering disalah faham dan boleh mengambil masa bertahun-tahun untuk dikenal pasti,\nsebahagiannya kerana sakit haid terlalu kerap dianggap \"normal\". Sakit teruk yang mengganggu kehidupan\nanda bukanlah sesuatu yang anda perlu tahan begitu sahaja — ia wajar diambil serius.",
+      "deep": "Punca sebenar endometriosis tidak diketahui, dan buat masa ini tiada penawarnya — tetapi rawatan boleh\nmembantu mengawal gejala, dan sokongan merangkumi ubat-ubatan hingga, bagi sesetengah orang, pembedahan,\nbersama bantuan untuk kesan fizikal dan emosinya. Salah satu cabaran terbesar ialah kelewatan: secara\npurata, ia boleh mengambil masa beberapa tahun, kadangkala bertahun-tahun, untuk mendapat diagnosis.\nItulah antara sebab menyimpan rekod gejala yang jelas, dan kembali berjumpa doktor jika anda tidak\ndidengari, boleh menjadi sangat penting.",
+      "when_to_see_doctor": "Wajar berjumpa doktor klinik jika:\n\n- anda mengalami sakit haid yang teruk sehingga menghalang anda melakukan aktiviti biasa\n- haid anda sangat banyak — contohnya, perlu menukar tuala wanita atau tampon setiap 1–2 jam\n- anda mengalami sakit pelvis atau sakit belakang bahagian bawah yang berterusan, sakit semasa atau\n  selepas hubungan seks, atau sakit ketika kencing atau buang air besar\n- anda sukar untuk hamil\n- rawatan yang telah anda terima tidak membantu, atau gejala anda bertambah teruk\n\nOleh sebab endometriosis boleh mengambil masa untuk didiagnosis, tidak mengapa untuk kembali berjumpa\ndoktor jika gejala anda tidak diambil serius — gambaran yang jelas tentang kesakitan anda dari semasa ke\nsemasa sangat membantu. Jika kesakitan atau pendarahan yang banyak turut menjejaskan emosi anda,\nberitahu doktor anda; itu sebahagian daripada gambaran keseluruhan, dan sokongan sedia ada.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogen",
+      "aliases": [
+        "estrogen",
+        "oestrogen",
+        "hormon estrogen",
+        "hormon wanita"
+      ],
+      "glance": "Estrogen ialah hormon utama yang membantu menyediakan badan anda untuk kemungkinan kehamilan dalam setiap kitaran.",
+      "overview": "Estrogen ialah salah satu hormon utama di sebalik kitaran haid. Pada separuh pertama kitaran (fasa\nfolikular), parasnya meningkat apabila folikel di dalam ovari matang. Peningkatan ini menebalkan lapisan\ndinding rahim dan membawa kepada ovulasi.\n\nEstrogen juga mempengaruhi perkara yang mungkin anda perasan setiap hari — tenaga, emosi, dan perubahan\nlendir serviks sekitar hari-hari subur anda. Selepas ovulasi, parasnya menurun dan kemudian berubah lagi,\nbekerjasama dengan satu lagi hormon, progesteron, sepanjang separuh kedua kitaran.\n\nParas hormon ini naik dan turun secara semula jadi dalam setiap kitaran, dan juga berubah mengikut\nperingkat kehidupan. Ini normal — ia irama badan anda, bukan sesuatu yang perlu \"dibaiki\".",
+      "deep": "Estrogen bukan satu bahan tunggal tetapi sekumpulan hormon yang berkaitan (yang paling aktif dalam\nkitaran ialah estradiol). Kebanyakannya dihasilkan oleh ovari, di dalam folikel yang sedang membesar.\nNaik turunnya secara berkitar — bersama progesteron, dan hormon isyarat dari otak iaitu LH dan FSH —\nialah apa yang menggerakkan fasa-fasa kitaran. Oleh sebab estrogen mempengaruhi banyak sistem, perubahan\nsemula jadinya boleh muncul dalam cara-cara kecil sepanjang bulan; pemantauan membantu anda mengenali\ncorak anda sendiri dan bukannya membandingkannya dengan \"purata\".",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Pergerakan & kitaran anda",
+      "aliases": [
+        "senaman",
+        "bersenam",
+        "aktiviti fizikal",
+        "senaman semasa haid",
+        "workout masa period",
+        "exercise"
+      ],
+      "glance": "Anda boleh kekal aktif sepanjang kitaran — dan pergerakan yang kerap boleh melegakan kekejangan dan PMS.",
+      "overview": "Anda boleh aktif secara fizikal pada bila-bila masa dalam kitaran anda. Sesetengah orang mendapati mereka\nlebih bertenaga dan boleh berusaha lebih sedikit pada waktu tertentu dalam sebulan, dan kurang pada waktu\nlain — kedua-duanya normal, dan kedua-duanya bukan alasan untuk berhenti bergerak.\n\nAktiviti yang kerap sebenarnya boleh membantu dengan sesetengah gejala berkaitan haid. Mereka yang kerap\nbersenam selalunya kurang mengalami kekejangan yang menyakitkan, dan kekal aktif juga boleh melegakan\ngejala pramenstruasi (PMS). Pada hari-hari yang kurang bertenaga, pergerakan yang lebih ringan tetap\ndikira — ia tidak perlu berat untuk mendatangkan manfaat.\n\nAnda tidak perlu merancang hidup mengikut kitaran, dan tiada satu cara \"betul\" untuk bergerak.\nMemerhatikan corak tenaga anda sendiri sepanjang bulan boleh membantu anda merancang dengan cara yang\nterasa selesa.",
+      "deep": null,
+      "when_to_see_doctor": "- Latihan yang sangat berat, atau bersenam terlalu banyak sehingga badan kekurangan tenaga, boleh\n  menyebabkan haid menjadi tidak teratur atau berhenti sama sekali. Kitaran yang teratur secara amnya\n  tanda badan berfungsi dengan baik, jadi wajar berbincang dengan doktor klinik jika haid anda menjadi\n  tidak teratur atau berhenti — ini boleh berkaitan dengan kesihatan tulang dan hormon dalam jangka panjang.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Senaman semasa hamil",
+      "aliases": [
+        "senaman semasa hamil",
+        "bersenam masa mengandung",
+        "senaman ibu mengandung",
+        "kekal aktif semasa hamil",
+        "yoga kehamilan",
+        "senaman kehamilan"
+      ],
+      "glance": "Kekal aktif adalah selamat dan baik dalam kebanyakan kehamilan — secara lembut, tanpa memenatkan diri.",
+      "overview": "Kekal aktif semasa hamil baik untuk anda dan tidak berbahaya kepada bayi anda — malah, kekal cergas boleh\nmembantu anda menghadapi perubahan yang bakal tiba dan proses bersalin. Anda tidak perlu memulakan apa-apa\nyang berat; meneruskan aktiviti harian yang biasa, selagi ia terasa selesa, ialah permulaan yang baik.\n\nPanduan mudah: anda sepatutnya masih boleh **berbual** semasa bergerak. Jika anda terlalu tercungap-cungap\nuntuk bercakap, perlahankan. Pilihan yang lembut seperti berjalan, berenang, kelas senaman dalam air untuk\nibu hamil, dan yoga kehamilan sesuai untuk kebanyakan orang. Jika anda tidak aktif sebelum ini, ini bukan\nmasanya untuk memulakan rutin baharu yang berat — sebaliknya, tingkatkan secara perlahan-lahan.\n\nBeberapa aktiviti sebaiknya dielakkan atau dilakukan dengan berhati-hati — seperti berbaring terlentang\nselepas kira-kira 16 minggu, sukan yang melibatkan pertembungan fizikal, menyelam skuba, dan apa-apa yang\nmempunyai risiko sebenar untuk terjatuh.",
+      "deep": null,
+      "when_to_see_doctor": "- Semak dengan **bidan** anda sebelum memulakan program senaman aerobik yang baharu, atau jika anda\n  mempunyai masalah kesihatan atau kebimbangan tentang kehamilan.\n- **Berhenti dan dapatkan nasihat** jika anda berasa tidak sihat, pening atau sangat sesak nafas, atau\n  jika anda mengalami sebarang kesakitan, pendarahan, atau kontraksi semasa bersenam.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Tempoh subur",
+      "aliases": [
+        "tempoh subur",
+        "hari subur",
+        "masa subur",
+        "hari paling subur",
+        "kira hari subur",
+        "fertile window"
+      ],
+      "glance": "Tempoh subur ialah beberapa hari dalam setiap kitaran apabila hubungan seks boleh menyebabkan kehamilan.",
+      "overview": "Tempoh subur ialah jangka masa singkat dalam kitaran apabila kehamilan boleh berlaku. Ia wujud kerana dua\npemasaan yang tidak sepenuhnya sejajar: sel telur hanya boleh disenyawakan selama kira-kira 12 hingga\n24 jam selepas ia dilepaskan, tetapi sperma boleh hidup di dalam badan selama beberapa hari — sehingga\nkira-kira seminggu — menunggu sel telur.\n\nJika digabungkan, ini bermakna tempoh subur bermula beberapa hari sebelum ovulasi dan berakhir kira-kira\nsehari selepasnya. Secara praktikal, anda paling subur dalam 2 hingga 3 hari menjelang ovulasi dan pada\nhari ovulasi itu sendiri, kerana sperma sudah boleh berada di situ apabila sel telur tiba.\n\nOleh sebab ovulasi boleh berubah dari satu kitaran ke kitaran yang lain, tempoh subur juga berubah.\nItulah sebabnya ia biasanya dianggap sebagai julat beberapa hari dan bukan satu tarikh tertentu, dan\nmengapa memantau tanda-tanda merentasi beberapa kitaran lebih boleh dipercayai daripada bergantung pada\nsatu pengiraan kalendar.",
+      "deep": "Hari-hari yang tepat berbeza antara individu dan dari bulan ke bulan, jadi tempoh subur paling baik\ndianggarkan berdasarkan isyarat badan sendiri dan bukannya formula tetap. Perubahan lendir serviks\nmenunjukkan tempoh subur sedang bermula apabila ovulasi hampir tiba, dan peningkatan suhu badan ketika\nrehat mengesahkan — selepas ia berlaku — bahawa ovulasi telah berlalu dan tempoh subur telah berakhir.\nKit peramal ovulasi berfungsi selangkah lebih awal, dengan mengesan lonjakan hormon luteinisasi (LH)\nyang berlaku sejurus sebelum sel telur dilepaskan.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Mula datang haid (haid pertama)",
+      "aliases": [
+        "haid pertama",
+        "datang bulan pertama kali",
+        "mula datang haid",
+        "menarke",
+        "period pertama",
+        "baligh"
+      ],
+      "glance": "Haid pertama anda biasanya datang sekitar umur 12 tahun — antara umur 8 hingga 17 tahun adalah normal.",
+      "overview": "Haid pertama anda — kadangkala dipanggil menarke — ialah ketika kitaran haid bermula buat kali pertama.\nKebanyakan orang mula datang haid sekitar umur 12 tahun, tetapi antara umur 8 hingga 17 tahun adalah\nnormal. Ia selalunya datang kira-kira dua tahun selepas payudara mula berkembang.\n\nBiasanya ada tanda-tanda sebelum itu: bulu ketiak dan bulu kemaluan mula tumbuh, dan sedikit keputihan\nyang jernih atau putih pada bulan-bulan sebelumnya. Mengetahui tanda-tanda ini boleh membuatkan haid\npertama terasa kurang mengejutkan.\n\nPada permulaannya, haid selalunya tidak teratur — jaraknya boleh panjang atau pendek, dan badan anda\nmungkin mengambil masa beberapa bulan, malah beberapa tahun, untuk mencapai irama yang lebih tetap.\nSetelah itu, haid biasanya datang setiap 23 hingga 35 hari dan berlangsung kira-kira 2 hingga 7 hari.\nKetidakteraturan pada peringkat awal adalah normal dan tidak perlu dirisaukan.",
+      "deep": null,
+      "when_to_see_doctor": "- Berjumpa doktor klinik jika haid **belum bermula pada umur 15 tahun**, atau pada umur **13 tahun jika\n  tiada tanda-tanda akil baligh yang lain** (seperti payudara berkembang atau bulu badan tumbuh). Ini hanya\n  untuk memastikan perkembangan berlaku seperti yang dijangka — biasanya semuanya baik.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Asid folik & vitamin semasa hamil",
+      "aliases": [
+        "asid folik",
+        "folat",
+        "vitamin D semasa hamil",
+        "vitamin ibu mengandung",
+        "suplemen semasa hamil",
+        "folic acid"
+      ],
+      "glance": "Asid folik sebelum dan pada awal kehamilan membantu melindungi bayi — ditambah vitamin D setiap hari.",
+      "overview": "Dua suplemen benar-benar penting semasa hamil, dan NHS mengesyorkan kedua-duanya.\n\n**Asid folik** ialah yang paling utama. Mengambil suplemen 400 mikrogram setiap hari — sebaik-baiknya sejak\nsebelum anda hamil (kira-kira tiga bulan lebih awal) dan sehingga akhir trimester pertama, iaitu pada\n12 minggu — membantu melindungi bayi daripada kecacatan tiub saraf seperti spina bifida. Oleh sebab ia\nberfungsi sangat awal, ia antara sedikit perkara yang wajar dimulakan *sebelum* hamil jika anda sedang\nmencuba.\n\n**Vitamin D** pula ialah yang satu lagi: suplemen 10 mikrogram setiap hari disyorkan sepanjang kehamilan\ndan semasa menyusu, untuk menyokong tulang dan perkembangan bayi.\n\nSelain dua ini, pemakanan sihat yang pelbagai memenuhi kebanyakan keperluan — anda tidak perlu banyak\nsuplemen tambahan. Satu yang perlu dielakkan ialah **vitamin A** (retinol): jangan ambil suplemen yang\nmengandunginya, dan elakkan hati haiwan, kerana vitamin A yang berlebihan boleh memudaratkan bayi.",
+      "deep": null,
+      "when_to_see_doctor": "- **Doktor klinik, bidan, atau ahli farmasi** boleh membantu anda memilih suplemen yang sesuai, dan\n  sesetengah orang dinasihatkan mengambil **dos asid folik yang lebih tinggi** (contohnya jika menghidap\n  diabetes, BMI yang lebih tinggi, mengambil ubat tertentu, atau pernah mengalami kehamilan yang terjejas\n  akibat kecacatan tiub saraf) — jadi wajar bertanya, terutamanya sebelum atau pada awal kehamilan.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Fasa folikular",
+      "aliases": [
+        "fasa folikular",
+        "separuh pertama kitaran",
+        "fasa selepas haid",
+        "fasa praovulasi"
+      ],
+      "glance": "Fasa folikular ialah separuh pertama kitaran, apabila sel telur matang dan lapisan dinding rahim menebal.",
+      "overview": "Fasa folikular ialah bahagian pertama kitaran. Ia bermula pada hari pertama haid anda dan berterusan\nhingga ovulasi. Namanya berasal daripada folikel — kantung kecil berisi cecair di dalam ovari yang\nmenyimpan dan mematangkan sel telur sepanjang tempoh ini.\n\nSepanjang fasa ini, hormon estrogen meningkat. Peningkatan estrogen ini melakukan dua perkara utama: ia\nmembantu folikel di dalam ovari menjadi matang, dan menebalkan lapisan dinding uterus (rahim), menyediakan\nbadan sekiranya kehamilan bermula kemudian dalam kitaran.\n\nOleh sebab estrogen sedang meningkat, sesetengah orang perasan tenaga yang lebih atau perubahan pada\nlendir serviks apabila hari-hari subur semakin hampir. Pengalaman setiap orang berbeza, dan semua ini\ntidak perlu \"diuruskan\" — ia hanyalah separuh pertama kitaran anda yang sedang menjalankan tugasnya.",
+      "deep": "Panjang fasa folikular boleh berbeza dari satu kitaran ke kitaran yang lain, dan itulah sebahagian sebab\nkeseluruhan kitaran berbeza antara individu dan dari bulan ke bulan. Ia berakhir apabila peningkatan\nestrogen membantu mencetuskan pelepasan sel telur (ovulasi). Oleh sebab hari-hari terakhirnya membawa\nkepada ovulasi, inilah waktu tempoh subur bermula — dan itulah sebabnya akhir fasa folikular penting bagi\nsesiapa yang memantau kesuburan.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Makanan yang perlu dielakkan semasa hamil",
+      "aliases": [
+        "makanan yang perlu dielakkan semasa hamil",
+        "pantang makan mengandung",
+        "apa tak boleh makan masa mengandung",
+        "makanan ibu hamil",
+        "pemakanan semasa hamil",
+        "kafein semasa hamil",
+        "listeria"
+      ],
+      "glance": "Kebanyakan makanan selamat semasa hamil — hanya beberapa wajar dielakkan, dan eloklah mengehadkan kafein.",
+      "overview": "Berita baiknya, kebanyakan makanan selamat sepenuhnya semasa hamil — hanya sebilangan kecil yang wajar\ndielakkan atau diambil dengan berhati-hati, kebanyakannya untuk mengelakkan kuman seperti listeria atau\nterlebih vitamin tertentu. Mengetahui senarai pendek ini membolehkan anda berasa tenang tentang makanan\nyang lain.\n\nNHS menasihatkan anda berhati-hati dengan:\n\n- **Sesetengah keju** — keju lembut yang diperam dengan kulat seperti brie dan camembert, dan keju biru\n  lembut, kecuali dimasak sehingga benar-benar panas berwap; dan apa-apa yang dibuat daripada susu\n  **tidak dipasteur**.\n- **Daging mentah atau tidak cukup masak**, daging awet sejuk, **pâté**, dan **hati** (yang sangat tinggi\n  kandungan vitamin A).\n- **Telur mentah atau separuh masak**, kecuali telur yang mempunyai cop British Lion.\n- **Sesetengah ikan** — elakkan ikan yu, ikan todak dan ikan marlin, hadkan tuna, dan jangan lebih daripada\n  dua hidangan ikan berminyak seminggu.\n- **Kafein** — hadkan di bawah kira-kira 200mg sehari (lebih kurang dua mug kopi segera), termasuk teh,\n  kola, minuman tenaga dan coklat juga.",
+      "deep": null,
+      "when_to_see_doctor": "- Ini panduan umum, bukan diet yang ketat — jika anda ada soalan tentang apa yang selamat untuk anda, atau\n  keperluan pemakanan khusus, **bidan** anda boleh membincangkannya.\n- Jika anda telah memakan sesuatu dalam senarai \"elakkan\", cuba jangan panik; beritahu bidan anda jika\n  anda risau atau berasa tidak sihat.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Hormon perangsang folikel (FSH)",
+      "aliases": [
+        "fsh",
+        "hormon perangsang folikel",
+        "hormon FSH",
+        "ujian FSH"
+      ],
+      "glance": "FSH ialah hormon dari otak yang merangsang folikel di dalam ovari untuk membesar pada awal setiap kitaran.",
+      "overview": "FSH — hormon perangsang folikel — ialah salah satu hormon pembawa mesej yang memulakan kitaran. Ia\ndihasilkan oleh kelenjar kecil di dalam otak (pituitari) dan, seperti namanya, ia merangsang folikel:\nkantung kecil berisi cecair di dalam ovari yang setiap satunya menyimpan sel telur.\n\nPada awal kitaran, FSH menggalakkan sekumpulan folikel ini untuk mula membesar. Apabila folikel\nberkembang, ia membebaskan lebih banyak estrogen, yang seterusnya menebalkan lapisan dinding uterus\n(rahim) sebagai persediaan untuk kemungkinan kehamilan. Biasanya satu folikel menjadi folikel dominan\nyang terus menuju ke arah ovulasi.\n\nFSH naik dan turun sebagai sebahagian daripada turun naik biasa kitaran. Anda tidak merasai FSH secara\nlangsung — ia bekerja secara senyap di latar belakang, menyediakan perubahan yang lebih ketara dalam\nfasa folikular.",
+      "deep": "FSH berfungsi secara berpasangan dengan hormon luteinisasi (LH); kedua-duanya dibebaskan oleh kelenjar\npituitari di dalam otak dan bersama-sama menggerakkan ovari sepanjang kitaran. FSH menerajui separuh\npertama, membesarkan folikel, manakala lonjakan LH kemudiannya menandakan pelepasan sel telur di\npertengahan kitaran. Perkongsian ini juga ialah sebab rawatan kesuburan menggunakan ubat berasaskan FSH:\nmemberikan FSH tambahan menggalakkan beberapa folikel matang serentak, dan bukannya satu seperti yang\nbiasanya dihasilkan oleh kitaran semula jadi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Diabetes semasa hamil",
+      "aliases": [
+        "diabetes semasa hamil",
+        "diabetes gestasi",
+        "kencing manis mengandung",
+        "gula tinggi semasa hamil",
+        "ujian gula mengandung",
+        "GDM",
+        "OGTT"
+      ],
+      "glance": "Diabetes semasa hamil ialah paras gula dalam darah yang meningkat ketika hamil — biasanya dikesan melalui saringan, dan selalunya pulih selepas bersalin.",
+      "overview": "Diabetes semasa hamil (diabetes gestasi) ialah paras gula (glukosa) dalam darah yang tinggi yang berlaku\nsemasa hamil, apabila badan tidak dapat memenuhi keperluan insulin yang bertambah. Bagi kebanyakan orang,\nia hilang semula selepas bayi dilahirkan.\n\nIa biasanya **tidak menunjukkan gejala**, jadi ia dikesan melalui ujian saringan yang ditawarkan semasa\nhamil (ujian toleransi glukosa, selalunya sekitar minggu ke-24 hingga ke-28), terutamanya jika anda\nmempunyai faktor yang meningkatkan kemungkinannya — seperti berat badan yang lebih tinggi, sejarah\ndiabetes dalam keluarga, pernah melahirkan bayi besar, atau latar belakang etnik tertentu.\n\nIa sangat boleh dikawal. Memastikan paras gula dalam darah berada dalam julat yang sihat — melalui\npemakanan, aktiviti fizikal, dan kadangkala ubat, semuanya dengan bimbingan pasukan penjagaan anda —\nmengurangkan kemungkinan komplikasi untuk anda dan bayi anda, dan itulah sebabnya ia wajar dipantau\ndengan teliti.",
+      "deep": null,
+      "when_to_see_doctor": "- Jalani **ujian saringan** jika ia ditawarkan — oleh sebab diabetes semasa hamil biasanya tidak\n  menunjukkan gejala, ujian ialah cara ia dikesan.\n- Jangan tunggu ujian jika anda perasan kemungkinan tanda gula darah tinggi — sangat dahaga, kerap\n  kencing, mulut kering, atau keletihan — beritahu bidan atau doktor anda.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Di mana untuk mendapatkan bantuan",
+      "aliases": [
+        "dapatkan bantuan",
+        "siapa perlu dihubungi",
+        "talian bantuan",
+        "nombor penting",
+        "nombor kecemasan",
+        "pusat anti-keganasan",
+        "talian kasih",
+        "1522"
+      ],
+      "glance": "Bantuan percuma dan sulit sedia ada — dalam kecemasan, hubungi nombor kecemasan tempatan anda; di Itali, 1522 pada bila-bila masa.",
+      "overview": "Jika anda mengalami penderaan, anda tidak perlu menghadapinya seorang diri, dan menghubungi seseorang\ntidak mengikat anda kepada apa-apa. Ada orang yang tugasnya adalah untuk mendengar dan membantu, secara\nsulit dan percuma.\n\nTerdapat beberapa jenis bantuan:\n\n- **Perkhidmatan kecemasan** — untuk bahaya serta-merta, hubungi nombor kecemasan tempatan anda (di bawah).\n- **Talian bantuan kebangsaan** — di Itali, **1522**, talian bantuan anti-keganasan dan anti-hendap yang\n  percuma: dibuka 24 jam sehari, tanpa nama, tersedia dalam beberapa bahasa, melalui telefon atau sembang\n  dalam talian.\n- **Pusat anti-keganasan** (di Itali, *centri antiviolenza*) — perkhidmatan setempat yang menawarkan\n  sokongan percuma dan sulit, perancangan keselamatan, serta bantuan undang-undang dan psikologi.\n- **Perkhidmatan kesihatan** — doktor klinik, atau jabatan kecemasan hospital, di mana kakitangan semakin\n  terlatih untuk mengenal pasti penderaan dan menghubungkan anda dengan sokongan.\n- **Orang yang anda percayai** — kawan atau ahli keluarga yang membuatkan anda berasa selamat.\n\nAnda boleh bermula dengan mana-mana yang terasa paling mungkin, dan anda tidak perlu membuat sebarang\nkeputusan terlebih dahulu.",
+      "deep": null,
+      "when_to_see_doctor": "- Anda boleh berbincang dengan **doktor klinik atau hospital** secara sulit tentang apa yang berlaku;\n  mereka boleh merawat sebarang kecederaan dan menghubungkan anda dengan perkhidmatan pakar.\n- Jika lebih mudah menulis daripada bercakap, **sembang 1522** ialah satu lagi cara.",
+      "red_flags": "- Jika anda berada dalam **bahaya serta-merta**, hubungi perkhidmatan kecemasan sekarang: **112** di EU\n  (termasuk Itali), **999** di UK, **911** di AS dan Kanada.\n- **Itali:** **1522** (percuma, 24/7, tanpa nama, pelbagai bahasa — telefon atau sembang).\n- Nombor talian bantuan berbeza dari negara ke negara. Aplikasi ini boleh menunjukkan nombor untuk negara\n  anda, dan **findahelpline.com** menyenaraikan talian bantuan anti-keganasan di seluruh dunia (ia\n  mengesan negara anda dan mempunyai butang keluar pantas). Jika anda berada di EU, **112** berfungsi di\n  mana-mana."
+    },
+    "group-b-strep": {
+      "title": "Streptokokus Kumpulan B (GBS)",
+      "aliases": [
+        "streptokokus kumpulan B",
+        "GBS",
+        "group B strep",
+        "strep B semasa hamil",
+        "kuman GBS",
+        "jangkitan GBS"
+      ],
+      "glance": "Streptokokus Kumpulan B ialah bakteria biasa yang biasanya tidak berbahaya — risiko kecilnya adalah kepada bayi semasa kelahiran, dan ia boleh dikawal.",
+      "overview": "Streptokokus Kumpulan B (GBS) ialah bakteria yang sangat biasa dan dibawa oleh ramai orang, biasanya di\ndalam faraj atau dubur, tanpa disedari dan tanpa menyebabkan sebarang kemudaratan. Ia bukan jangkitan\nkelamin, dan membawanya adalah perkara biasa.\n\nSemasa hamil, ia penting hanya kerana ada **kemungkinan kecil** ia boleh berjangkit kepada bayi sekitar\nwaktu kelahiran dan, walaupun jarang, menyebabkan bayi sakit — ini berlaku dalam kira-kira 1 daripada\n1,750 kehamilan. Ia sering dikesan secara kebetulan, contohnya melalui ujian air kencing atau calitan\nfaraj yang dibuat atas sebab lain (NHS tidak menjalankan saringan rutin untuk semua orang).\n\nYang melegakan, ia sangat boleh dikawal: jika GBS diketahui, pemberian **antibiotik melalui titisan\n(drip) semasa bersalin** sangat mengurangkan kemungkinan bayi jatuh sakit.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika anda diberitahu anda membawa streptokokus Kumpulan B — sekarang atau dalam kehamilan sebelumnya —\n  **maklumkan kepada bidan atau pasukan bersalin anda**, supaya antibiotik semasa bersalin dapat\n  dirancang. Ia langkah mudah yang membawa perbezaan sebenar.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Pedih ulu hati & senak semasa hamil",
+      "aliases": [
+        "pedih ulu hati semasa hamil",
+        "senak perut mengandung",
+        "gastrik semasa hamil",
+        "refluks asid mengandung",
+        "heartburn",
+        "reflux"
+      ],
+      "glance": "Pedih ulu hati sangat biasa semasa hamil — biasanya tidak berbahaya, dan selalunya boleh dilegakan dengan perubahan kecil dalam rutin harian.",
+      "overview": "Pedih ulu hati dan senak — rasa terbakar atau tidak selesa di dada, selalunya selepas makan — sangat\nbiasa semasa hamil. Ia berpunca daripada hormon kehamilan yang melonggarkan otot di bahagian atas perut,\ndan kemudiannya, bayi yang semakin membesar menekan ke atas. Ia tidak selesa, tetapi tidak berbahaya.\n\nPerubahan kecil selalunya membantu: makan dalam hidangan yang lebih kecil tetapi lebih kerap dan bukannya\nhidangan besar, duduk tegak semasa makan dan untuk seketika selepas itu, mengurangkan makanan pedas,\nberlemak atau berkafein, dan tidak makan lewat sebelum tidur. Sesetengah orang mendapati tidur dengan\nbadan disendal sedikit lebih tinggi terasa lebih selesa.\n\nJika itu tidak mencukupi, **ahli farmasi** boleh mencadangkan ubat antasid yang selamat digunakan semasa\nhamil — tempat pertama yang baik untuk mendapatkan bantuan sebelum ia menjadi lebih mengganggu.",
+      "deep": null,
+      "when_to_see_doctor": "- Berjumpa **doktor klinik atau bidan** anda jika perubahan mudah dan ubat dari farmasi tidak membantu,\n  atau jika anda **sukar menelan**, kerap memuntahkan semula makanan, berat badan turun tanpa sengaja,\n  atau mengalami sakit perut — perkara ini wajar diperiksa dan bukan sekadar dianggap pedih ulu hati biasa.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Haid yang banyak",
+      "aliases": [
+        "haid banyak",
+        "darah haid banyak",
+        "pendarahan haid yang banyak",
+        "menorrhagia",
+        "haid tembus",
+        "darah beku semasa haid",
+        "ketulan darah haid",
+        "period banyak"
+      ],
+      "glance": "Haid yang banyak bermaksud kehilangan banyak darah dalam setiap kitaran — biasa berlaku, tetapi wajar diperiksa oleh doktor jika ia menjejaskan anda.",
+      "overview": "Haid yang banyak — nama perubatannya menorrhagia — bermaksud kehilangan banyak darah semasa haid. Bagi\nsesetengah orang, pendarahan yang banyak memang normal bagi mereka, tetapi jika ia mengganggu kehidupan\nanda atau membuatkan anda keletihan, ia wajar disiasat.\n\nBeberapa tanda haid anda tergolong banyak: perlu menukar tuala wanita atau tampon setiap 1 hingga 2 jam,\nmenggunakan dua jenis produk haid serentak (seperti tampon dan tuala wanita), darah tembus ke pakaian atau\ncadar, keluar ketulan darah beku yang lebih besar daripada kira-kira 2.5cm (lebih kurang sebesar syiling\n10p UK), atau haid yang berlangsung lebih daripada 7 hari.\n\nKehilangan banyak darah bulan demi bulan boleh membuatkan anda letih atau sesak nafas, kerana ia boleh\nmenyebabkan kekurangan zat besi (anemia). Terdapat banyak kemungkinan punca — daripada fibroid atau\nkeadaan seperti endometriosis, adenomiosis atau PCOS, hinggalah sesetengah ubat — dan selalunya tiada\npunca serius ditemui. Walau apa pun, haid yang banyak biasanya boleh dirawat, jadi ia bukan sesuatu yang\nanda perlu tanggung begitu sahaja.",
+      "deep": null,
+      "when_to_see_doctor": "Berjumpa doktor klinik jika:\n\n- haid yang banyak menjejaskan kehidupan harian anda\n- anda berdarah banyak selama berjam-jam, atau haid anda berlangsung lama\n- anda juga mengalami sakit haid yang teruk, atau sakit semasa hubungan seks, kencing, atau buang air besar\n- anda mengalami pendarahan di antara haid atau selepas hubungan seks\n- anda kerap berasa letih atau sesak nafas (ini boleh menjadi tanda kekurangan zat besi)\n\nDoktor boleh mencari puncanya dan membincangkan apa yang mungkin membantu.",
+      "red_flags": "- Dapatkan bantuan perubatan **segera** — hubungi doktor atau **perkhidmatan luar waktu pejabat**, atau\n  hubungi **{{emergency}}** / pergi ke jabatan kecemasan jika keadaannya teruk — jika anda **berdarah\n  terlalu banyak sehingga tuala wanita basah kuyup, satu atau lebih setiap jam, selama beberapa jam\n  berturut-turut**, atau anda berasa **hendak pengsan, pening, atau sesak nafas**. Ini boleh menjadi tanda\n  kehilangan terlalu banyak darah."
+    },
+    "lh": {
+      "title": "Hormon luteinisasi (LH)",
+      "aliases": [
+        "lh",
+        "hormon luteinisasi",
+        "lonjakan LH",
+        "ujian LH",
+        "LH surge"
+      ],
+      "glance": "LH ialah hormon dari otak yang lonjakannya di pertengahan kitaran mencetuskan ovari untuk melepaskan sel telur.",
+      "overview": "LH — hormon luteinisasi — ialah pembawa mesej yang mencetuskan ovulasi. Seperti FSH, ia dihasilkan oleh\nkelenjar kecil di dalam otak (pituitari) dan ia memberitahu ovari bila untuk melepaskan sel telur.\n\nSepanjang sebahagian besar separuh pertama kitaran, paras LH kekal rendah. Kemudian, sekitar pertengahan\nkitaran, ia meningkat dengan mendadak dalam apa yang dipanggil lonjakan LH. Lonjakan ini ialah isyarat\nyang menyebabkan ovari melepaskan sel telurnya — ovulasi — biasanya kira-kira sehari kemudian.\n\nLonjakan ini ialah isyarat yang singkat dan tepat pada masanya, bukan sesuatu yang anda rasai. Oleh sebab\nia berlaku begitu hampir sebelum sel telur dilepaskan, masa peningkatan LH ialah penanda yang boleh\ndipercayai bagi bahagian paling subur dalam kitaran.",
+      "deep": "LH bekerjasama dengan FSH, iaitu hormon yang membesarkan folikel lebih awal dalam kitaran. Jika FSH\nmenerajui peringkat persediaan, lonjakan LH pula ialah titik perubahannya: parasnya mula meningkat\nkira-kira sehari setengah sebelum sel telur dilepaskan dan memuncak kira-kira setengah hari sebelumnya.\nSelepas lonjakan, kitaran memasuki separuh keduanya. Pemasaan yang tepat ini ialah sebab LH menjadi\npenanda yang sangat berguna bagi sesiapa yang memantau ovulasi, dan sebab ia menjadi teras dalam\nperancangan rawatan kesuburan.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Mendengar dan sokongan emosi",
+      "aliases": [
+        "cara mendengar",
+        "sokongan emosi untuk pasangan",
+        "komunikasi",
+        "berada di sisinya",
+        "cara sokong isteri",
+        "sokong pasangan"
+      ],
+      "glance": "Selalunya dia perlu didengari, bukan dibetulkan — dengar dahulu, dan tanya sebelum memberi nasihat.",
+      "overview": "Apabila orang yang kita sayangi sedang bergelut, naluri kita ialah terus masuk campur dan menyelesaikannya.\nTetapi selalunya, apa yang paling membantu ialah rasa benar-benar didengari: bahawa perasaannya munasabah\ndan dia tidak keseorangan menghadapinya. Terlalu cepat mahu membetulkan boleh ditafsirkan sebagai\n\"perasaan awak ialah masalah yang perlu ditutup\".\n\nMendengar dengan baik ialah kemahiran yang boleh dipelajari oleh sesiapa sahaja. Ia kebanyakannya soal\nperhatian: meletakkan telefon, menghadapnya, dan membiarkannya habis bercakap. Anda tidak perlu bersetuju\ndengan setiap perkara untuk membuatkannya rasa dihormati.",
+      "deep": "Cara praktikal untuk hadir untuknya:\n\n- **Dengar untuk memahami, bukan untuk membalas.** Biarkan dia bercakap tanpa mencelah atau merancang\n  pembelaan anda.\n- **Pantulkan semula.** \"Bunyinya memang tertekan\" atau \"Saya faham kenapa itu menyakitkan hati\" lebih\n  baik daripada \"tak payahlah risau\".\n- **Tanya sebelum menasihati.** \"Awak nak saya tolong fikirkan, atau awak cuma nak saya dengar?\"\n- **Jangan ambil hati** apabila harinya yang sukar bukan tentang anda. Ketenangan anda ialah satu hadiah.\n- **Akui kesilapan anda.** Jika anda tersilap, permohonan maaf yang ikhlas — tanpa \"tapi\" — membina\n  semula kepercayaan.\n- **Perhatikan gambaran yang lebih besar.** Jika dia kelihatan murung, cemas atau tidak seperti dirinya\n  secara berterusan, galakkan dia dengan lembut untuk mendapatkan sokongan dan tawarkan bantuan untuk\n  mendapatkannya. Anda rakan sepasukan, bukan ahli terapi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Fasa luteal",
+      "aliases": [
+        "fasa luteal",
+        "separuh kedua kitaran",
+        "fasa selepas ovulasi",
+        "fasa sebelum haid"
+      ],
+      "glance": "Fasa luteal ialah separuh kedua kitaran, selepas ovulasi, apabila progesteron meningkat.",
+      "overview": "Fasa luteal ialah bahagian kitaran yang menyusuli ovulasi dan berterusan sehingga haid anda yang\nseterusnya bermula. Ia dinamakan sempena korpus luteum — struktur kecil yang dibentuk oleh ovari daripada\nfolikel yang kosong selepas sel telur dilepaskan.\n\nDalam fasa ini, hormon progesteron meningkat. Tugasnya ialah memastikan lapisan dinding uterus (rahim)\nkekal tebal dan stabil, supaya jika sel telur yang disenyawakan tiba, ia mempunyai tempat untuk melekat.\nEstrogen juga masih memainkan peranan, bekerjasama dengan progesteron.\n\nJika kehamilan tidak berlaku, korpus luteum akan mengecut, paras progesteron dan estrogen menurun, dan\nlapisan dinding rahim tidak lagi dikekalkan — lalu membawa kepada haid seterusnya dan memulakan kitaran\nbaharu. Inilah juga tempoh apabila sesetengah orang perasan perubahan pramenstruasi pada emosi, tidur\natau badan.",
+      "deep": "Panjang fasa luteal cenderung lebih stabil berbanding separuh pertama kitaran, selalunya sekitar dua\nminggu, walaupun terdapat perbezaan biasa antara individu. Oleh sebab penghujungnya berkait dengan\npenurunan progesteron, kedatangan haid sebenarnya ialah tanda yang kelihatan bahawa paras hormon telah\nmenurun. Memantau perasaan anda sepanjang fasa luteal boleh membantu anda membezakan apa yang merupakan\ncorak biasa bagi anda daripada apa yang baharu atau wajar dibincangkan dengan doktor atau jururawat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopaus",
+      "aliases": [
+        "menopaus",
+        "putus haid",
+        "berhenti haid",
+        "monopos",
+        "menopause",
+        "hot flush"
+      ],
+      "glance": "Menopaus ialah apabila haid berhenti buat selama-lamanya — satu peringkat semula jadi, biasanya dicapai antara umur 45 hingga 55 tahun.",
+      "overview": "Menopaus ialah titik apabila haid anda berhenti secara kekal. Oleh sebab haid boleh datang dan pergi\nuntuk seketika sebelum itu, ia dikira telah dicapai apabila anda tidak datang haid selama 12 bulan\nberturut-turut. Ia biasanya berlaku antara umur 45 hingga 55 tahun, walaupun boleh lebih awal atau lebih\nlewat.\n\nIa sebahagian semula jadi daripada proses penuaan, bukan penyakit. Ia berlaku apabila ovari beransur-ansur\nberhenti berfungsi dan paras estrogen — hormon utama kitaran — menurun. Perubahan hormon itulah di\nsebalik perubahan yang ramai orang perasan: rasa panas badan secara tiba-tiba (hot flush) dan berpeluh\npada waktu malam, perubahan haid menjelang menopaus, sukar tidur, perubahan emosi atau kebimbangan,\nfikiran berkabut, faraj kering, dan sakit-sakit badan.\n\nPengalaman setiap orang sangat berbeza — ada yang melaluinya dengan mudah, ada yang mendapatinya sukar,\ndan gejala boleh berlarutan beberapa tahun. Semua ini tidak bermakna ada yang tidak kena dengan anda.\nSokongan dan pilihan sedia ada, dan memahami apa yang sedang berlaku ialah langkah pertama yang baik.",
+      "deep": "Tahun-tahun perubahan menjelang menopaus dipanggil perimenopaus; menopaus itu sendiri ialah satu titik\nmasa (tanda 12 bulan tanpa haid itu), dan tempoh selepasnya kadangkala dipanggil pascamenopaus. Oleh\nsebab estrogen juga mempengaruhi tulang dan jantung dalam jangka panjang, doktor turut memberi perhatian\nkepada perkara ini bersama gejala harian. Pelbagai pendekatan — daripada gaya hidup hingga rawatan bukan\nhormon dan hormon — boleh melegakan gejala, dan pilihan yang sesuai bergantung pada kesihatan, sejarah\nperubatan dan keutamaan anda, yang perlu dibincangkan dengan doktor.",
+      "when_to_see_doctor": "- Berjumpa doktor klinik jika gejala menopaus membimbangkan anda atau menjejaskan kehidupan harian, dan\n  anda ingin membincangkan pilihan anda.\n- **Sentiasa** berjumpa doktor klinik jika anda mengalami **sebarang pendarahan faraj selepas 12 bulan\n  tanpa haid** (pendarahan selepas menopaus). Selalunya ia tidak serius, tetapi ia mesti sentiasa diperiksa.\n- Wajar juga mendapatkan pemeriksaan jika pendarahan anda semakin banyak dan bukannya semakin berkurang\n  berbanding sebelum ini, atau haid anda berubah dengan cara yang membimbangkan anda.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Kitaran haid",
+      "aliases": [
+        "kitaran haid",
+        "kitaran",
+        "kitaran bulanan",
+        "kitaran period",
+        "kira kitaran haid",
+        "menstrual cycle"
+      ],
+      "glance": "Kitaran haid ialah irama bulanan badan anda untuk bersedia bagi kemungkinan kehamilan.",
+      "overview": "Kitaran haid dikira dari hari pertama haid anda — iaitu hari 1 — sehingga sehari sebelum haid anda yang\nseterusnya bermula. Ia digerakkan oleh hormon yang naik dan turun mengikut corak berulang setiap bulan.\n\nSatu kitaran selalunya sekitar 28 hari, tetapi itu hanya purata. Antara kira-kira 21 hingga 35 hari\nadalah normal, dan panjang kitaran anda sendiri boleh berbeza sedikit dari bulan ke bulan. Mengenali\ncorak anda sendiri lebih berguna daripada membandingkannya dengan satu angka.\n\nSepanjang kitaran, badan anda melalui beberapa peringkat: haid, persediaan untuk melepaskan sel telur,\npelepasan sel telur itu sendiri (ovulasi), dan tempoh selepasnya. Setiap peringkat dibentuk oleh hormon,\nterutamanya estrogen dan progesteron.",
+      "deep": "Keseluruhan kitaran ialah perbualan antara otak dan ovari, yang dibawa oleh hormon. Pada separuh pertama,\nestrogen meningkat apabila folikel yang mengandungi sel telur matang di dalam ovari dan lapisan dinding\nuterus (rahim) menebal. Sekitar pertengahan kitaran, sel telur dilepaskan. Pada separuh kedua,\nprogesteron membantu memastikan lapisan itu kekal bersedia sekiranya sel telur yang disenyawakan tiba.\n\nJika tiada kehamilan, estrogen dan progesteron menurun ke paras rendah, lapisan itu tertanggal sebagai\nhaid, dan corak itu bermula semula. Oleh sebab hormon-hormon ini mempengaruhi banyak sistem, anda mungkin\nperasan perubahan kecil dari hari ke hari sepanjang bulan — ini irama biasa kitaran, bukan sesuatu yang\nperlu \"dibaiki\".",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Fasa haid (datang bulan)",
+      "aliases": [
+        "haid",
+        "datang bulan",
+        "datang haid",
+        "period",
+        "menstruasi",
+        "fasa haid",
+        "pendarahan haid"
+      ],
+      "glance": "Haid ialah beberapa hari pendarahan yang memulakan setiap kitaran, apabila lapisan dinding rahim tertanggal.",
+      "overview": "Fasa haid ialah waktu anda datang haid — hari-hari anda berdarah. Ia bermula pada hari 1 kitaran, apabila\nparas estrogen dan progesteron telah menurun cukup rendah sehingga lapisan yang terbina di dalam uterus\n(rahim) tidak lagi dikekalkan lalu tertanggal, dan keluar dari badan melalui faraj.\n\nHaid biasanya berlangsung kira-kira 2 hingga 7 hari, dengan kira-kira 5 hari sebagai kebiasaan. Aliran\ndarah selalunya paling banyak pada dua hari pertama dan berkurang selepas itu. Haid biasanya bermula\nsekitar umur 12 tahun, walaupun bermula lebih awal atau lebih lewat juga normal.\n\nApa yang \"normal\" sangat berbeza antara individu. Memantau haid anda sendiri membantu anda mengenali apa\nyang biasa bagi anda, dan ini jauh lebih bermakna daripada sebarang purata.",
+      "deep": "Darah haid ialah lapisan dinding uterus (endometrium) yang tertanggal selepas satu kitaran tanpa\nkehamilan. Ia menandakan penghujung satu kitaran dan permulaan kitaran seterusnya, dan itulah sebabnya\nhari 1 haid anda dikira sebagai hari 1 bagi keseluruhan kitaran. Apabila haid anda berakhir, estrogen\nmula meningkat semula dan badan mula membina semula lapisan itu untuk kitaran seterusnya.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Keguguran",
+      "aliases": [
+        "keguguran",
+        "gugur kandungan",
+        "keguguran awal",
+        "kehilangan kandungan",
+        "keguguran janin",
+        "miscarriage"
+      ],
+      "glance": "Keguguran ialah kehilangan kandungan sebelum 24 minggu — ia biasa berlaku, dan hampir tidak pernah berpunca daripada perbuatan anda.",
+      "overview": "Keguguran ialah kehilangan kandungan dalam tempoh 24 minggu pertama. Ia lebih biasa daripada yang disangka\nramai, dan salah satu perkara paling penting untuk diketahui ialah ia hampir tidak pernah berpunca daripada\napa yang anda lakukan atau tidak lakukan — ia biasanya berlaku kerana masalah dalam perkembangan\nkehamilan itu, yang di luar kawalan sesiapa.\n\nTanda paling biasa ialah pendarahan faraj, dan kekejangan atau sakit di bahagian bawah perut. Pendarahan\npada awal kehamilan tidak semestinya bermakna keguguran sedang berlaku — ramai yang berdarah sedikit dan\nkemudiannya meneruskan kehamilan yang sihat — tetapi ia mesti sentiasa diperiksa.\n\nWalau bagaimana pun kehilangan itu berlaku, perasaan yang menyertainya adalah nyata dan wajar, dan\nkesedihan ialah reaksi yang normal. Anda tidak perlu melaluinya seorang diri — sokongan sedia ada,\ndaripada bidan atau doktor klinik anda dan daripada badan kebajikan yang khusus membantu mereka yang\nkehilangan kandungan.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi doktor klinik, bidan, atau unit kehamilan awal (atau doktor di luar waktu pejabat) jika anda\n  mengalami **pendarahan faraj atau tompok darah semasa hamil**, walaupun sedikit dan dengan sedikit atau\n  tanpa kesakitan — supaya ia dapat diperiksa.\n- Tanya tentang **unit kehamilan awal** yang terdekat, yang disediakan khusus untuk keadaan seperti ini.",
+      "red_flags": "- Hubungi **{{emergency}} atau pergi ke jabatan kecemasan** jika, semasa hamil, anda mengalami **sakit\n  perut yang teruk, sakit di hujung bahu, pendarahan yang banyak, atau anda berasa hendak pengsan atau\n  sangat tidak sihat**. Ini boleh menjadi tanda masalah serius seperti kehamilan ektopik yang memerlukan\n  rawatan segera."
+    },
+    "morning-sickness": {
+      "title": "Alahan semasa hamil",
+      "aliases": [
+        "alahan mengandung",
+        "morning sickness",
+        "loya semasa hamil",
+        "muntah semasa hamil",
+        "mabuk mengandung",
+        "hiperemesis",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "Rasa loya atau muntah sangat biasa pada awal kehamilan, dan biasanya reda sekitar minggu ke-16 hingga ke-20.",
+      "overview": "Rasa loya, atau muntah, sangat biasa pada awal kehamilan. Walaupun namanya dalam bahasa Inggeris ialah\n\"morning sickness\" (alahan pagi), ia boleh berlaku pada bila-bila masa, siang atau malam. Bagi kebanyakan\norang, ia bermula dalam beberapa minggu pertama dan reda sekitar 16 hingga 20 minggu.\n\nIa tidak menyenangkan, dan bagi sesetengah orang ia benar-benar menjejaskan kehidupan harian — tetapi\nalahan biasa tidak meningkatkan sebarang risiko kepada bayi anda. Makan sedikit-sedikit tetapi kerap, dan\nmencari apa yang membantu anda, boleh menjadikannya lebih mudah ditanggung; bidan, doktor klinik atau\nahli farmasi boleh mencadangkan pilihan yang selamat jika anda bergelut.\n\nBagi sebilangan kecil orang, alahan menjadi teruk (ini dipanggil hiperemesis gravidarum), dengan risiko\nsebenar mengalami dehidrasi. Keadaan ini memerlukan bantuan perubatan — lihat tanda-tandanya di bawah.",
+      "deep": null,
+      "when_to_see_doctor": "Hubungi bidan, doktor klinik, atau doktor di luar waktu pejabat jika anda:\n\n- memuntahkan semula setiap makanan atau minuman, sehingga tiada apa pun yang dapat bertahan dalam perut selama 24 jam\n- air kencing sangat gelap, atau tidak kencing lebih daripada 8 jam\n- berasa sangat lemah, pening, atau hendak pengsan apabila berdiri\n- mengalami sakit perut, suhu badan yang tinggi, atau muntah darah\n- berat badan semakin turun",
+      "red_flags": "- Asyik memuntahkan semula apa sahaja yang diminum sehingga cecair tidak dapat bertahan dalam perut, dengan air kencing yang sangat gelap atau tiada langsung, boleh bermakna anda mengalami dehidrasi (alahan kehamilan yang teruk) — **hubungi bidan, doktor klinik atau doktor di luar waktu pejabat pada hari yang sama**, kerana anda mungkin memerlukan rawatan untuk mengelakkannya bertambah teruk."
+    },
+    "ovulation": {
+      "title": "Ovulasi",
+      "aliases": [
+        "ovulasi",
+        "pelepasan sel telur",
+        "tempoh subur",
+        "bila ovulasi",
+        "tanda ovulasi",
+        "ovulation"
+      ],
+      "glance": "Ovulasi ialah ketika ovari melepaskan sel telur — titik paling subur dalam kitaran anda.",
+      "overview": "Ovulasi ialah saat ovari melepaskan sel telur yang matang. Ia titik perubahan kitaran: separuh pertama\nmembawa kepadanya, dan separuh kedua menyusulinya.\n\nDalam kitaran kira-kira 28 hari, ovulasi selalunya berlaku sekitar hari ke-14 — tetapi masanya\nberbeza-beza. Cara yang berguna untuk memahaminya ialah ovulasi biasanya berlaku antara 10 hingga 16 hari\nsebelum haid anda yang seterusnya bermula. Ia boleh sukar untuk menentukan hari yang tepat.\n\nSetelah dilepaskan, sel telur hanya boleh disenyawakan selama kira-kira 12 hingga 24 jam. Namun, sperma\nboleh hidup di dalam badan selama beberapa hari, jadi \"tempoh subur\" lebih luas daripada satu hari —\nkira-kira beberapa hari menjelang ovulasi dan hari ovulasi itu sendiri.",
+      "deep": "Pelepasan sel telur dicetuskan oleh peningkatan hormon yang singkat dan mendadak sekitar pertengahan\nkitaran, selepas peningkatan estrogen dalam fasa folikular. Oleh sebab sperma boleh hidup selama beberapa\nhari manakala sel telur hidup kurang daripada sehari, kehamilan paling mungkin berlaku daripada hubungan\nseks pada hari-hari sejurus sebelum ovulasi. Ovulasi boleh berubah dari satu kitaran ke kitaran yang lain\ndisebabkan perkara seperti tekanan atau sakit, dan itulah sebabnya sukar untuk meramalkannya dengan tepat\ndan mengapa memantau beberapa kitaran lebih boleh dipercayai daripada sebarang pengiraan tunggal.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Sakit semasa hubungan seks",
+      "aliases": [
+        "sakit semasa hubungan seks",
+        "sakit masa bersama",
+        "sakit ketika bersetubuh",
+        "seks menyakitkan",
+        "dispareunia",
+        "vaginismus"
+      ],
+      "glance": "Sakit semasa hubungan seks adalah biasa, mempunyai banyak kemungkinan punca, dan sentiasa wajar diperiksa oleh doktor — bantuan sedia ada.",
+      "overview": "Sakit semasa hubungan seks — kadangkala dipanggil dispareunia — lebih biasa daripada yang disangka ramai,\ndan ia bukan sesuatu yang anda perlu terima begitu sahaja. Ia boleh mempunyai banyak punca, dan mengenal\npasti punca yang betul ialah kunci untuk melegakannya.\n\nSesetengah punca bersifat fizikal. Faraj kering ialah punca yang kerap, selalunya berkaitan dengan hormon\nsekitar menopaus atau rangsangan yang tidak mencukupi, dan ia boleh membuatkan hubungan seks terasa pedih\natau tidak selesa. Jangkitan, seperti jangkitan yis faraj, juga boleh menyebabkan kesakitan. Satu lagi\npunca ialah vaginismus — apabila otot di sekitar faraj mengetat dengan sendirinya ketika penembusan\ndicuba, yang boleh menjadikan hubungan seks menyakitkan atau terasa mustahil. Ini berlaku di luar\nkawalan, ia bukan \"perasaan anda sahaja\", dan ia boleh dirawat.\n\nOleh sebab puncanya boleh jadi fizikal, hormon, atau berkaitan dengan sejauh mana anda berasa tenang atau\nterangsang — dan selalunya gabungan — langkah yang berguna ialah mendapatkan pemeriksaan dan bukannya\nmeneka atau terus menahannya.",
+      "deep": null,
+      "when_to_see_doctor": "- Berjumpa doktor klinik atau klinik kesihatan seksual jika hubungan seks menyakitkan — apa pun puncanya, ia wajar diperiksa, dan ada bantuan yang berkesan untuk punca-punca biasa.\n- Mungkin terasa janggal untuk membangkitkannya, tetapi doktor dan jururawat kerap menangani perkara ini dan mereka ada untuk membantu, bukan menghakimi. Anda boleh meminta doktor wanita, membawa seseorang bersama, dan membincangkan apa yang boleh membuatkan pemeriksaan terasa selesa.\n- Pastikan sebarang pendarahan selepas hubungan seks diperiksa oleh doktor, dan jangan tunggu — berjumpa doktor dengan lebih segera jika kesakitannya teruk atau anda juga berasa tidak sihat.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Melegakan sakit semasa bersalin",
+      "aliases": [
+        "melegakan sakit bersalin",
+        "ubat tahan sakit bersalin",
+        "epidural",
+        "gas ketawa",
+        "Entonox",
+        "kolam bersalin",
+        "TENS",
+        "pethidine"
+      ],
+      "glance": "Ada beberapa cara untuk melegakan sakit bersalin — tiada pilihan yang betul atau salah, dan anda boleh kekal fleksibel.",
+      "overview": "Proses bersalin berbeza bagi setiap orang, dan ada beberapa cara untuk menghadapi kesakitan — daripada\nlangkah keselesaan yang mudah hingga pilihan perubatan. Mengetahui apa yang tersedia lebih awal boleh\nmembantu anda berasa lebih bersedia.\n\nPilihan merangkumi **kekal aktif dan tegak**, teknik pernafasan dan relaksasi, urutan, dan berada di dalam\n**air** (tab mandi atau kolam bersalin), hinggalah **mesin TENS**, **gas dan udara** (Entonox, yang anda\nsedut sendiri), **suntikan** seperti pethidine, dan **epidural** (diberikan oleh pakar bius, yang\nmengebaskan kesakitan bersalin dengan lebih menyeluruh).\n\nTiada pilihan yang \"terbaik\" — ia bergantung pada anda, proses bersalin anda, dan perasaan anda pada hari\nitu. Wajar mencatat pilihan anda dalam **pelan kelahiran**, sambil berfikiran terbuka: ramai yang\nmendapati mereka mahukan lebih, atau kurang, ubat tahan sakit daripada yang dijangka, dan itu tidak\nmengapa sama sekali.",
+      "deep": null,
+      "when_to_see_doctor": "- **Bidan** anda (dan, untuk epidural, pakar bius) akan menerangkan pilihan-pilihan ini dan membantu anda\n  memutuskan apa yang sesuai untuk anda — semasa hamil dan sekali lagi semasa proses bersalin itu sendiri.\n  Anda tidak perlu memutuskan segala-galanya lebih awal.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (sindrom ovari polisistik)",
+      "aliases": [
+        "pcos",
+        "sindrom ovari polisistik",
+        "ovari polisistik",
+        "polisistik ovari",
+        "haid tak teratur",
+        "polycystic ovary syndrome"
+      ],
+      "glance": "PCOS ialah keadaan hormon yang biasa dan boleh menjejaskan haid, ovulasi, kulit dan rambut.",
+      "overview": "PCOS — sindrom ovari polisistik — ialah keadaan biasa yang berkaitan dengan keseimbangan hormon\nreproduktif. Anggaran menunjukkan ia menjejaskan kira-kira 1 daripada 10 wanita dalam usia reproduktif,\ndan ramai yang menghidapinya tidak pernah didiagnosis.\n\nIa boleh muncul dalam pelbagai cara, dan tiada dua orang yang benar-benar sama. Ciri-ciri biasa termasuk\nhaid yang tidak teratur, jarang, atau tidak datang langsung; paras hormon yang dipanggil androgen yang\nlebih tinggi, yang boleh menyebabkan pertumbuhan bulu berlebihan di muka atau badan, jerawat, atau rambut\nkepala yang menipis; dan ovari yang tidak melepaskan sel telur sekerap biasa, yang boleh menyukarkan untuk\nhamil. Perubahan berat badan dan tompok kulit yang lebih gelap juga biasa.\n\nPunca sebenarnya belum difahami sepenuhnya, dan tiada penawarnya — tetapi gejalanya boleh dikawal, dan\nmemahami apa yang sedang berlaku ialah langkah pertama. PCOS adalah biasa dan boleh dikawal, bukan\nsesuatu yang memalukan.",
+      "deep": "Oleh sebab PCOS melibatkan hormon badan dan cara badan mengendalikan insulin, ia juga dikaitkan dalam\njangka panjang dengan rintangan insulin dan kemungkinan lebih tinggi untuk menghidap diabetes jenis 2,\ntekanan darah tinggi, dan perubahan kolesterol — dan itulah sebabnya doktor cenderung memantau\nperkara-perkara ini dari semasa ke semasa. Kira-kira separuh daripada penghidap PCOS mungkin menghidap\ndiabetes atau pradiabetes menjelang usia empat puluhan, jadi pemeriksaan berkala adalah penting.\nDiagnosis bukanlah sesuatu yang boleh dinilai sendiri: doktor melihat gambaran keseluruhan — sejarah dan\nhaid anda, kadangkala ujian darah untuk hormon, dan kadangkala imbasan ultrabunyi ovari — dan menolak\npunca lain sebelum membuat kesimpulan PCOS.",
+      "when_to_see_doctor": "Wajar berjumpa doktor klinik jika anda perasan perkara yang sepadan dengan gambaran di atas, terutamanya\njika ia menjejaskan perasaan anda setiap hari:\n\n- haid yang tidak teratur, sangat jarang, atau telah berhenti\n- pertumbuhan bulu yang ketara lebih banyak di muka atau badan, jerawat yang berterusan, atau rambut\n  kepala yang menipis\n- sukar untuk hamil selepas mencuba untuk seketika\n- kenaikan berat badan yang sukar diturunkan, bersama gejala lain\n\nDoktor boleh menyiasat apa yang berlaku, mengesahkan sama ada ia PCOS atau sesuatu yang lain, dan\nmembincangkan pelan yang sesuai untuk anda. PCOS juga dikaitkan dengan emosi yang murung dan kebimbangan —\njika anda bergelut dengan perasaan anda, beritahu doktor anda juga; itu sebahagian daripada gambaran\nkeseluruhan dan sokongan sedia ada.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopaus",
+      "aliases": [
+        "perimenopaus",
+        "pramenopaus",
+        "peralihan menopaus",
+        "sebelum menopaus",
+        "haid tak menentu sebelum menopaus",
+        "perimenopause"
+      ],
+      "glance": "Perimenopaus ialah tempoh peralihan menjelang menopaus, apabila haid dan hormon mula berubah.",
+      "overview": "Perimenopaus ialah tempoh masa menjelang menopaus — tahun-tahun \"sekitar menopaus\". Ia bermula apabila\nanda mula perasan perubahan dan berterusan sehingga genap setahun selepas haid terakhir anda, dan pada\nketika itu anda telah mencapai menopaus. Ia boleh berlangsung beberapa tahun.\n\nSepanjang tempoh ini, ovari secara beransur-ansur menghasilkan kurang estrogen, dan parasnya naik turun\ndengan cara yang kurang dapat dijangka berbanding sebelum ini. Tanda awal yang paling biasa ialah\nperubahan haid — jaraknya menjadi lebih dekat atau lebih jauh, alirannya lebih sedikit atau lebih banyak.\nBanyak gejala yang dikaitkan dengan menopaus, seperti rasa panas badan secara tiba-tiba (hot flush),\nperubahan tidur, atau perubahan emosi, boleh bermula di sini ketika anda masih datang haid.\n\nOleh sebab ia berlaku secara beransur-ansur dan sangat berbeza-beza, perimenopaus boleh mengelirukan —\nperubahan tidak datang serentak atau dalam urutan yang sama bagi semua orang. Mengetahui bahawa fasa ini\nada namanya, dan bahawa ia peralihan yang normal, boleh memudahkan anda memahaminya.",
+      "deep": null,
+      "when_to_see_doctor": "- Berjumpa doktor klinik jika gejala perimenopaus menjejaskan kehidupan harian anda dan anda ingin\n  membincangkan apa yang mungkin membantu.\n- Wajar mendapatkan pemeriksaan jika haid anda menjadi sangat banyak, atau jika anda mengalami pendarahan\n  di antara haid atau selepas hubungan seks, supaya puncanya dapat dikenal pasti.\n- Ingat bahawa kehamilan masih boleh berlaku semasa perimenopaus, jadi wajar membincangkan kontraseptif\n  dengan doktor atau jururawat jika perkara itu berkaitan dengan anda.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Sakit haid",
+      "aliases": [
+        "sakit haid",
+        "senggugut",
+        "kekejangan haid",
+        "sakit perut masa haid",
+        "sakit period",
+        "cramp haid",
+        "dismenorea"
+      ],
+      "glance": "Sakit haid ialah kekejangan di bahagian bawah perut sekitar waktu haid — biasa berlaku, dan selalunya sebahagian normal daripada kitaran.",
+      "overview": "Sakit haid (senggugut) ialah rasa kejang dan sakit di bahagian bawah perut yang dialami ramai orang sekitar\nwaktu haid. Ia berlaku apabila dinding otot rahim mengecut, dan selalunya ia sebahagian normal daripada\nkitaran haid. Nama perubatannya ialah dismenorea.\n\nIa biasanya bermula pada awal haid, atau sejurus sebelumnya, dan cenderung berlarutan sehingga kira-kira\ntiga hari. Bagi sesetengah orang ia sekadar rasa berat yang ringan; bagi yang lain kekejangannya lebih\nkuat. Kesakitan juga boleh berubah sepanjang hidup dan dari satu kitaran ke kitaran yang lain.\n\nSakit haid yang mengikut corak biasa ini adalah lazim dan biasanya boleh dikawal. Langkah keselesaan\nharian dan ubat tahan sakit yang ringkas ialah apa yang digunakan oleh ramai orang, dan ahli farmasi atau\ndoktor klinik boleh menasihati apa yang mungkin sesuai untuk anda. Yang penting ialah mengetahui corak\nbiasa anda sendiri — supaya anda boleh perasan jika ada sesuatu yang berubah.",
+      "deep": null,
+      "when_to_see_doctor": "Wajar berbincang dengan doktor klinik jika:\n\n- haid anda menjadi lebih sakit, lebih banyak, atau lebih tidak teratur daripada biasa\n- kesakitan menghalang anda melakukan perkara harian seperti bekerja atau ke sekolah\n- ubat tahan sakit biasa tidak membantu\n- anda mengalami sakit semasa hubungan seks, atau ketika kencing atau buang air besar\n- anda berdarah di antara haid\n- kesakitan anda datang pada waktu selain sejurus sebelum atau semasa haid\n- anda mengeluarkan ketulan darah beku yang lebih besar daripada syiling (kira-kira sebesar syiling\n  quarter AS)\n- anda juga perasan perut membengkak, kurang selera makan, atau berat badan turun tanpa sebab yang jelas\n\nPerkara ini tidak bermakna ada yang tidak kena, tetapi ia wajar diperiksa — sakit haid yang baharu,\nberbeza, atau sukar dikawal boleh mempunyai punca yang boleh dibantu oleh doktor.",
+      "red_flags": "- Minta temu janji **segera** dengan doktor klinik, atau hubungi **doktor di luar waktu pejabat**, jika sakit\n  haid atau sakit pelvis anda **teruk, atau lebih teruk daripada biasa, dan ubat tahan sakit tidak\n  membantu.**"
+    },
+    "planning-pregnancy": {
+      "title": "Merancang kehamilan",
+      "aliases": [
+        "merancang kehamilan",
+        "persediaan hamil",
+        "cuba untuk hamil",
+        "nak mengandung",
+        "sebelum hamil",
+        "prakonsepsi",
+        "try for baby"
+      ],
+      "glance": "Beberapa langkah mudah sebelum mencuba — asid folik, berhenti merokok dan minum alkohol — memberi permulaan terbaik untuk kehamilan.",
+      "overview": "Jika anda sedang berfikir untuk cuba mendapatkan anak, beberapa langkah lebih awal boleh memberi\npermulaan yang lebih sihat untuk kehamilan — kebanyakannya memberi kesan sejak sebelum anda hamil lagi.\n\nLangkah utama: mula mengambil **asid folik** (dan vitamin D), **berhenti merokok**, dan **elakkan\nalkohol**. Mensasarkan berat badan yang sihat juga membantu, kerana berat badan yang terlalu rendah atau\nterlalu tinggi dengan ketara boleh menyukarkan untuk hamil. Wajar juga memastikan **vaksinasi MMR** anda\nterkini, kerana sesetengah jangkitan boleh menjejaskan kehamilan.\n\nSemua ini tidak perlu sempurna atau menimbulkan tekanan. Perubahan kecil yang baik untuk diri sendiri\nlebih awal adalah yang penting — dan bermula sedikit lebih awal ialah salah satu perkara terbaik yang\nboleh anda lakukan untuk kehamilan pada masa hadapan.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika anda mempunyai **masalah kesihatan jangka panjang** atau mengambil **ubat secara berkala**, berjumpa\n  doktor klinik sebelum anda mula mencuba — sesetengah keadaan dan ubat perlu dirancang. **Jangan hentikan\n  sebarang ubat yang dipreskripsikan** tanpa berbincang dengan doktor anda terlebih dahulu.\n- Doktor klinik juga boleh menasihati tentang asid folik (termasuk sama ada anda memerlukan dos yang lebih\n  tinggi) dan mencapai berat badan yang sihat sebelum hamil.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Kemurungan selepas bersalin",
+      "aliases": [
+        "kemurungan selepas bersalin",
+        "murung lepas bersalin",
+        "meroyan",
+        "sedih selepas bersalin",
+        "postpartum depression",
+        "baby blues",
+        "PND"
+      ],
+      "glance": "Kemurungan selepas bersalin ialah emosi murung selepas melahirkan yang biasa berlaku dan boleh dirawat — ia bukan salah anda, dan bantuan sedia ada.",
+      "overview": "Berasa sedih, cemas, atau mudah marah dalam dua minggu pertama selepas bersalin adalah sangat biasa — ini\nsering dipanggil \"baby blues\", dan ia biasanya hilang dengan sendirinya dalam kira-kira dua minggu.\n\nKemurungan selepas bersalin berbeza: emosi murung yang lebih mendalam atau berlarutan lebih lama. Ia\nkeadaan yang biasa berlaku, boleh bermula pada bila-bila masa dalam tahun pertama, dan boleh juga\nmenjejaskan bapa dan pasangan. Tanda-tandanya termasuk emosi murung yang berterusan, sukar menikmati\napa-apa, sukar tidur walaupun ketika bayi anda tidur, dan kadangkala perasaan yang sukar tentang ikatan\ndengan bayi anda.\n\nMengalaminya **tidak** bermakna anda ibu bapa yang teruk atau anda tidak menyayangi bayi anda — ia satu\npenyakit, bukan kegagalan, dan ia bertindak balas dengan baik terhadap sokongan dan rawatan. Mendapatkan\nbantuan awal ialah tindakan yang berani dan penyayang, untuk anda dan bayi anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Berbincang dengan **doktor klinik, bidan, atau jururawat kesihatan** anda jika anda fikir anda mungkin\n  mengalami kemurungan selepas bersalin, atau jika \"baby blues\" tidak hilang selepas dua minggu. Mereka\n  sudah biasa melihatnya dan boleh membantu anda mendapatkan sokongan yang sesuai.",
+      "red_flags": "- Jika anda mempunyai **fikiran untuk mencederakan diri sendiri atau bayi anda**, atau fikiran bahawa\n  keluarga anda lebih baik tanpa anda, dapatkan bantuan **dengan segera**: hubungi **{{emergency}}** atau\n  pergi ke jabatan kecemasan, atau hubungi talian bantuan krisis. Fikiran ini boleh menjadi sebahagian\n  daripada penyakit itu, ia bukan diri anda yang sebenar, dan bantuan segera sedia ada."
+    },
+    "pre-eclampsia": {
+      "title": "Pre-eklampsia",
+      "aliases": [
+        "pre-eklampsia",
+        "preeklampsia",
+        "darah tinggi semasa hamil",
+        "tekanan darah tinggi mengandung",
+        "toksemia",
+        "pre-eclampsia"
+      ],
+      "glance": "Pre-eklampsia ialah tekanan darah tinggi semasa hamil — selalunya tanpa gejala pada awalnya, dan itulah sebabnya pemeriksaan antenatal penting.",
+      "overview": "Pre-eklampsia ialah keadaan semasa hamil yang terutamanya muncul sebagai tekanan darah tinggi, bersama\nprotein dalam air kencing. Ia biasanya muncul dari kira-kira minggu ke-20, dan kadangkala selepas\nbersalin.\n\nSalah satu perkara paling penting untuk diketahui ialah pada peringkat awal ia selalunya **tidak\nmenunjukkan sebarang gejala** — anda mungkin berasa sihat sepenuhnya. Itulah sebabnya bidan memeriksa\ntekanan darah dan menguji air kencing anda pada setiap temu janji antenatal rutin: pemeriksaan inilah\ncara ia biasanya dikesan sebelum anda perasan apa-apa.\n\nApabila gejala muncul, ia wajar diketahui, kerana pre-eklampsia boleh menjadi serius untuk anda dan bayi\nanda. Ia boleh dirawat dengan baik jika dikesan tepat pada masanya, dan menghadiri temu janji antenatal\nialah cara terbaik untuk mengesannya awal.",
+      "deep": null,
+      "when_to_see_doctor": "- Hadiri semua **temu janji antenatal rutin** anda — pemeriksaan tekanan darah dan air kencing ialah cara\n  pre-eklampsia biasanya dikesan sebelum gejala bermula.",
+      "red_flags": "Dapatkan bantuan perubatan **dengan segera** — hubungi unit bersalin anda atau **doktor di luar waktu\npejabat** — jika anda mengalami mana-mana tanda ini (hubungi **{{emergency}}** jika anda sangat tidak\nsihat, contohnya sawan):\n\n- **sakit kepala yang teruk** yang tidak reda dengan ubat tahan sakit biasa\n- **masalah penglihatan** — kabur atau nampak cahaya berkelip\n- **bengkak secara tiba-tiba** pada muka, tangan, atau kaki\n- **sakit tepat di bawah tulang rusuk**\n- **muntah**, atau tiba-tiba berasa sangat tidak sihat"
+    },
+    "pregnancy": {
+      "title": "Kehamilan",
+      "aliases": [
+        "kehamilan",
+        "hamil",
+        "mengandung",
+        "berbadan dua",
+        "trimester",
+        "tarikh jangka bersalin",
+        "EDD",
+        "berapa minggu mengandung"
+      ],
+      "glance": "Kehamilan biasanya berlangsung kira-kira 40 minggu, dikira dari hari pertama haid terakhir anda.",
+      "overview": "Kehamilan ialah tempoh badan anda membesarkan dan mengandungkan bayi. Ia biasanya berlangsung kira-kira\n40 minggu — antara 37 hingga 42 minggu dianggap cukup bulan dan normal — dan, mungkin agak mengejutkan,\nia dikira dari hari pertama **haid terakhir** anda, bukan dari tarikh persenyawaan. Itu hanyalah cara\nstandard tarikh dikira.\n\n**Tarikh jangka bersalin** anda ialah anggaran, bukan tarikh akhir: bayi boleh sahaja lahir lebih awal\natau lebih lewat sedikit. Pada awal kehamilan, \"imbasan penentuan tarikh\" (biasanya sekitar 12 minggu)\nboleh mengukur bayi anda dan memberikan tarikh yang lebih tepat, yang kadangkala mengubah anggaran asal.\n\nKehamilan sering dibincangkan dalam tiga peringkat, atau **trimester**, masing-masing dengan perubahannya\nsendiri. Sepanjang tempoh itu, anda dijaga melalui pemeriksaan antenatal berkala oleh bidan (dan doktor\njika perlu) — penjagaan yang membantu memastikan anda dan bayi anda sihat.",
+      "deep": "Oleh sebab tarikh dikira dari haid terakhir, anda dianggap hamil kira-kira empat minggu apabila haid\nterlewat. Kiraan minggu kehamilan ialah cara penjagaan diatur — imbasan, saringan, dan pemeriksaan\nsemuanya ditawarkan pada minggu-minggu tertentu. Jika haid anda tidak teratur atau anda tidak pasti\ntentang tarikh, imbasan penentuan tarikh itulah yang menetapkan garis masa. Artikel ini ialah peta\nkeseluruhan perjalanan; topik-topik khusus — tanda-tanda kehamilan, penjagaan antenatal, kekal sihat,\ndan bersalin — masing-masing mempunyai artikel tersendiri.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Ujian kehamilan",
+      "aliases": [
+        "ujian kehamilan",
+        "ujian hamil di rumah",
+        "kit ujian kehamilan",
+        "UPT",
+        "ujian hCG",
+        "cara guna ujian kehamilan",
+        "pregnancy test"
+      ],
+      "glance": "Ujian kehamilan di rumah memeriksa air kencing anda untuk hormon kehamilan hCG — paling tepat mulai hari pertama haid terlewat.",
+      "overview": "Ujian kehamilan di rumah berfungsi dengan mengesan hormon yang dipanggil hCG (human chorionic\ngonadotrophin) dalam air kencing anda. Badan anda mula menghasilkannya beberapa hari selepas sel telur\nyang disenyawakan melekat, dan jumlahnya meningkat dengan cepat pada awal kehamilan.\n\nUjian ini paling tepat mulai **hari pertama haid terlewat** — kira-kira dua minggu selepas persenyawaan.\nJika kitaran anda tidak teratur atau anda tidak pasti bila haid anda sepatutnya datang, menunggu\nsekurang-kurangnya 21 hari selepas hubungan seks tanpa perlindungan memberikan keputusan yang lebih boleh\ndipercayai. Anda tidak perlu membuat ujian pada awal pagi; bila-bila masa sepanjang hari pun boleh.\n\nKeputusan **positif** hampir pasti betul — sangat sedikit ujian yang menunjukkan positif apabila anda\ntidak hamil. Keputusan **negatif** kurang sedikit kepastiannya: jika haid anda masih tidak datang dan anda\nfikir anda mungkin hamil, tunggu beberapa hari dan uji semula.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika anda mendapat keputusan positif, hubungi **bidan atau doktor klinik** untuk memulakan penjagaan\n  antenatal.\n- Jika ujian negatif tetapi haid anda tidak datang dan anda berasa seperti hamil (atau tidak sihat),\n  berjumpa doktor klinik untuk mengetahui apa yang berlaku.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Bersalin pramatang",
+      "aliases": [
+        "bersalin pramatang",
+        "bersalin awal",
+        "kelahiran pramatang",
+        "bayi pramatang",
+        "bayi lahir awal",
+        "air ketuban pecah awal",
+        "preterm"
+      ],
+      "glance": "Bersalin pramatang ialah proses bersalin sebelum 37 minggu — bertindak segera, kerana penjagaan awal membawa perbezaan yang besar.",
+      "overview": "Bersalin pramatang ialah proses bersalin yang bermula sebelum minggu ke-37 kehamilan. Ia berlaku dalam\nkira-kira 8 daripada 100 kelahiran.\n\nBayi yang lahir awal lebih mudah terdedah kepada risiko, tetapi ramai yang membesar dengan baik —\nterutamanya dengan penjagaan pakar yang disediakan oleh unit neonatal. Kuncinya ialah bertindak segera\njika anda fikir ia mungkin sedang bermula, supaya anda boleh diperiksa dan, jika perlu, diberi rawatan\nyang membantu melindungi bayi.\n\nTanda-tandanya serupa dengan proses bersalin pada mana-mana peringkat, tetapi sebelum 37 minggu ia tidak\nboleh sekali-kali ditunggu sahaja — ia sentiasa menjadi sebab untuk menghubungi pihak kesihatan dengan\nsegera.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi **bidan atau unit bersalin** anda pada bila-bila masa jika kandungan anda **kurang daripada\n  37 minggu** dan anda tidak pasti atau risau — memang sentiasa wajar untuk bertanya.",
+      "red_flags": "Hubungi **bidan atau unit bersalin anda dengan segera** — siang atau malam — jika, **sebelum 37 minggu**,\nanda mengalami mana-mana tanda ini:\n\n- **kontraksi atau rasa perut mengeras** yang berkala, atau sakit seperti sakit haid\n- **cecair memancut atau menitis keluar** dari faraj anda (air ketuban pecah)\n- **sakit belakang** yang tidak biasa bagi anda, atau rasa tekanan di bahagian bawah"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (sindrom pramenstruasi)",
+      "aliases": [
+        "pms",
+        "sindrom pramenstruasi",
+        "emosi sebelum haid",
+        "moody sebelum period",
+        "pmt",
+        "pmdd",
+        "gangguan disforik pramenstruasi"
+      ],
+      "glance": "PMS ialah gabungan perubahan fizikal dan emosi yang ramai orang perasan dalam seminggu atau dua minggu sebelum haid.",
+      "overview": "PMS — sindrom pramenstruasi — ialah nama bagi perubahan yang dirasai ramai orang dalam beberapa hari\natau dua minggu sebelum haid. Ia boleh menjejaskan sesiapa sahaja yang datang haid, dan biasanya reda\ndalam beberapa hari selepas haid bermula.\n\nPerubahannya datang dalam pelbagai bentuk. Dari segi fizikal, anda mungkin perasan perut kembung,\npayudara sakit atau sensitif, kekejangan, sakit kepala, atau berasa lebih letih. Dari segi emosi, mungkin\nada perubahan emosi yang mendadak, mudah marah, kebimbangan, atau berasa murung. Keinginan makan yang\nkuat dan perubahan tidur juga biasa. Tidak semua orang mengalami PMS, dan mereka yang mengalaminya tidak\nakan mendapat setiap gejala — corak anda sendiri itulah yang penting.\n\nPMS ialah bahagian yang normal dan diiktiraf dalam kitaran ramai orang, berkaitan dengan perubahan hormon\nsemula jadi pada separuh kedua kitaran. Memerhatikan bagaimana ia muncul bagi anda, dari kitaran ke\nkitaran, boleh memudahkan anda merancang — dan mengesan jika ia berubah.",
+      "deep": null,
+      "when_to_see_doctor": "Wajar berbincang dengan doktor klinik jika:\n\n- gejala anda menjejaskan kehidupan harian — kerja, pelajaran, hubungan\n- perubahan harian pada rutin anda tidak membantu\n- emosi murung, kebimbangan, atau rasa mudah marah anda terasa teruk\n\nDoktor boleh membincangkan apa yang mungkin membantu. Bentuk yang lebih teruk, dipanggil gangguan\ndisforik pramenstruasi (PMDD), boleh menyebabkan gejala emosi yang jauh lebih kuat, dan sokongan sedia\nada untuknya.",
+      "red_flags": "- Jika anda mempunyai gejala PMDD dan **berasa ingin membunuh diri atau berasa anda mungkin mencederakan diri sendiri**, dapatkan bantuan dengan segera: **hubungi {{emergency}} atau pergi ke jabatan kecemasan.** Jangan memandu sendiri — minta seseorang menghantar anda, atau minta ambulans. Anda layak mendapat sokongan, dan bantuan sedia ada."
+    },
+    "progesterone": {
+      "title": "Progesteron",
+      "aliases": [
+        "progesteron",
+        "progesterone",
+        "hormon progesteron",
+        "hormon kehamilan"
+      ],
+      "glance": "Progesteron ialah hormon separuh kedua kitaran, yang menyediakan lapisan dinding rahim selepas ovulasi.",
+      "overview": "Progesteron ialah salah satu hormon utama di sebalik kitaran haid, dan ia mengambil peranan utama pada\nseparuh kedua — selepas sel telur dilepaskan semasa ovulasi.\n\nPeranan utamanya ialah membantu lapisan dinding uterus (rahim) kekal tebal dan bersedia, supaya jika sel\ntelur yang disenyawakan tiba, ia boleh melekat dan kehamilan boleh bermula. Dengan cara ini, progesteron\nbekerja sebagai rakan kepada estrogen, yang melakukan kebanyakan kerja membina lapisan lebih awal dalam\nkitaran.\n\nJika kehamilan tidak berlaku, paras progesteron menurun. Penurunan itulah yang membolehkan lapisan itu\ntertanggal sebagai haid anda yang seterusnya. Naik turun progesteron sepanjang separuh kedua kitaran\nialah irama yang normal dan dijangka.",
+      "deep": "Progesteron dihasilkan terutamanya oleh korpus luteum — struktur yang dibentuk oleh ovari daripada\nfolikel selepas ia melepaskan sel telurnya. Itulah sebabnya progesteron meningkat khususnya dalam fasa\nluteal (selepas ovulasi). Apabila korpus luteum mengecut, progesteron dan estrogen kedua-duanya menurun,\nmenandakan permulaan kitaran baharu. Perubahan semula jadinya ialah sebahagian sebab sesetengah orang\nperasan perubahan pramenstruasi pada hari-hari sebelum haid.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Pil progestogen sahaja (pil mini)",
+      "aliases": [
+        "pil progestogen sahaja",
+        "pil mini",
+        "mini pil",
+        "pil perancang semasa menyusu",
+        "pil desogestrel",
+        "pil progesteron",
+        "POP"
+      ],
+      "glance": "Pil mini ialah pil harian dengan satu hormon yang memekatkan lendir serviks untuk menghalang sperma.",
+      "overview": "Pil progestogen sahaja — sering dipanggil pil mini — ialah tablet harian yang mengandungi hanya satu\nhormon, iaitu progestogen. Ia pilihan bagi mereka yang tidak boleh atau tidak mahu mengambil estrogen.\n\nTindakan utamanya ialah memekatkan lendir di leher rahim, supaya sperma lebih sukar sampai kepada sel\ntelur. Satu jenis yang biasa, pil desogestrel, juga menghalang ovari daripada melepaskan sel telur\n(ovulasi).\n\nJika diambil dengan betul, ia lebih 99% berkesan; dengan penggunaan harian yang biasa, kira-kira 91%.\nSeperti pil lain, masa pengambilan penting, dan ia tidak melindungi daripada STI.",
+      "deep": "Pil mini berbeza daripada pil kombinasi kerana tidak mengandungi estrogen, dan ini mengubah siapa yang\nmungkin sesuai menggunakannya — sesuatu yang akan dipertimbangkan oleh doktor atau jururawat ketika ia\ndipreskripsikan. Sesetengah jenis perlu diambil dalam julat masa harian yang agak ketat untuk kekal\nberkesan. Artikel ini menerangkan apa itu pil mini dan cara ia berfungsi; cara mengambilnya dan sama ada\nia sesuai untuk anda perlu dibincangkan dengan doktor klinik, jururawat, atau ahli farmasi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Mengenal pasti hubungan yang mendera",
+      "aliases": [
+        "mengenal pasti penderaan",
+        "hubungan yang mendera",
+        "keganasan rumah tangga",
+        "KRT",
+        "keganasan pasangan intim",
+        "tanda-tanda penderaan",
+        "adakah saya didera",
+        "dera isteri"
+      ],
+      "glance": "Penderaan boleh berbentuk fizikal, seksual, emosi atau kawalan — dan ia tidak pernah salah orang yang mengalaminya.",
+      "overview": "Penderaan dalam hubungan bukan hanya fizikal. Ia boleh berlaku dalam beberapa bentuk, selalunya serentak:\nkecederaan fizikal, paksaan seksual, kemudaratan emosi atau psikologi, dan tingkah laku mengawal —\npasangan menentukan ke mana anda pergi, siapa yang anda jumpa, atau apa yang boleh anda lakukan.\nMana-mana daripada ini boleh menjadi penderaan, walaupun tiada kecederaan yang kelihatan.\n\nIa lebih biasa daripada yang disangka ramai. Di seluruh dunia, kira-kira 1 daripada 3 wanita mengalami\nkeganasan fizikal atau seksual sepanjang hayat mereka, paling kerap daripada pasangan; keadaan di Itali\njuga serupa. Jadi, jika ini sebahagian daripada hidup anda, anda tidak keseorangan, dan ia bukan sesuatu\nyang anda sebabkan.\n\nMenamakannya boleh menjadi sukar — penderaan sering bercampur dengan saat-saat indah, permohonan maaf,\natau janji untuk berubah, dan ia boleh berkembang begitu perlahan sehingga terasa normal. Mempercayai\nnaluri anda sendiri bahawa ada sesuatu yang tidak kena ialah sebab yang sah untuk mendapatkan bantuan.\nAnda tidak perlu pasti, atau menunggu sehingga keadaan menjadi \"cukup teruk\", untuk berbincang dengan\nseseorang.",
+      "deep": "Di sebalik bentuk-bentuk yang berbeza, penderaan cenderung mengikut corak di mana seseorang cuba\nmendapatkan kuasa dan kawalan ke atas orang lain, dan ia boleh menjadi semakin teruk dari semasa ke\nsemasa. Ia memberi kesan sebenar kepada kesihatan — ia dikaitkan dengan kebimbangan, kemurungan, masalah\ntidur, dan kesan fizikal jangka panjang. Semua itu tidak bermakna anda lemah atau bersalah; ia bermakna\napa yang anda lalui adalah memudaratkan, dan sokongan sedia ada untuk membantu anda memikirkannya dengan\nselamat dan mengikut rentak anda sendiri.",
+      "when_to_see_doctor": "- Anda boleh berbincang dengan seseorang secara sulit bila-bila masa anda bersedia — doktor klinik atau\n  jururawat, pusat anti-keganasan, atau talian bantuan (di Itali, **1522**, percuma dan pada bila-bila\n  masa). Anda tidak memerlukan bukti, pelan, atau keputusan terlebih dahulu; mereka ada untuk mendengar\n  dan membantu anda memahami pilihan anda.\n- Petugas kesihatan juga boleh merawat sebarang kecederaan dan secara diam-diam menghubungkan anda dengan\n  sokongan pakar.",
+      "red_flags": "- Jika anda berada dalam **bahaya serta-merta**, hubungi perkhidmatan kecemasan sekarang: **112** di EU\n  (termasuk Itali), **999** di UK, **911** di AS dan Kanada.\n- Di Itali, **1522** — talian bantuan kebangsaan anti-keganasan dan anti-hendap yang percuma — tersedia\n  24 jam sehari, tanpa nama, melalui telefon atau sembang dalam talian, dalam beberapa bahasa."
+    },
+    "respect-not-control": {
+      "title": "Hormat, bukan kawalan",
+      "aliases": [
+        "tingkah laku mengawal",
+        "kawalan paksaan",
+        "hubungan yang sihat",
+        "tanda amaran",
+        "cemburu melampau",
+        "di mana dapatkan bantuan",
+        "penderaan"
+      ],
+      "glance": "Cinta dibina atas rasa hormat dan kebebasan — kawalan, cemburu dan desakan bukan cinta, dan bantuan sedia ada.",
+      "overview": "Hubungan yang sihat berasaskan rasa hormat, kepercayaan, kesaksamaan dan kebebasan: dua individu yang\nmasing-masing mengekalkan persahabatan, pilihan dan ruang sendiri. Kawalan adalah sebaliknya. Ia sering\nbersembunyi di sebalik kata-kata seperti cinta atau cemburu — \"Saya periksa telefon awak sebab saya ambil\nberat\", \"Saya tak nak awak jumpa mereka sebab saya sayang awak\" — tetapi kesannya ialah menyempitkan\ndunianya dan kebebasannya.\n\nKawalan jarang bermula dengan keganasan. Ia biasanya bermula kecil — satu kritikan, satu batasan yang\ndilanggar, satu \"gurauan\" yang menyakitkan — dan semakin membesar. Menamakannya awal adalah penting,\nkerana kawalan paksaan itu sendiri ialah satu bentuk penderaan dan tanda amaran kepada sesuatu yang lebih\nburuk. Ini bukan tentang rasa bersalah; ini tentang kejujuran dan perubahan.",
+      "deep": "**Jika anda mengenali sebahagian daripada ini dalam diri anda, kesedaran itu ialah titik permulaan — bukan hukuman seumur hidup.**\nManusia boleh berubah dengan usaha sebenar dan bantuan yang betul. Menghubungi program khusus untuk\nlelaki yang mahu berhenti bersikap mengawal atau ganas ialah tanda kekuatan, bukan kelemahan. Berbincanglah\ndengan pakar, doktor, atau perkhidmatan perubahan tingkah laku untuk lelaki.\n\nJika **dia** yang berada dalam bahaya, atau anda risau tentang seseorang, galakkan dan sokong dia untuk\nmendapatkan bantuan — mengikut kehendaknya, jangan sekali-kali dengan mengambil alih.\n\n**Di mana untuk mendapatkan bantuan**\n- Dalam kecemasan, atau jika sesiapa berada dalam bahaya serta-merta, hubungi nombor kecemasan tempatan\n  anda (**112** di Itali dan kebanyakan negara Eropah; **911** di AS).\n- **Itali — 1522**: talian bantuan kebangsaan anti-keganasan dan anti-hendap. Percuma, 24/7, tanpa nama,\n  dan dalam pelbagai bahasa, dikendalikan oleh Jabatan Peluang Sama Rata. Ia juga membimbing orang ke\n  pusat anti-keganasan setempat (centri antiviolenza).\n- Pusat anti-keganasan dan program perubahan tingkah laku untuk lelaki (di Itali, \"centri per uomini\n  autori di violenza\") menawarkan sokongan sulit untuk berubah.",
+      "when_to_see_doctor": null,
+      "red_flags": "Tanda amaran tingkah laku mengawal atau mendera — wajar diambil serius dalam diri anda atau dalam sesuatu\nhubungan:\n\n- **Memantau atau mengasingkan**: memeriksa telefonnya, menjejak lokasinya, atau memutuskan hubungannya\n  dengan kawan dan keluarga.\n- **Mengawal pilihannya**: wang, apa yang dia pakai, ke mana dia pergi, siapa yang dia jumpa.\n- **Cemburu yang dianggap sebagai cinta**, tuduhan yang berterusan, atau perlu tahu di mana dia berada\n  setiap masa.\n- **Merendah-rendahkan, menyalahkan, atau membuatnya berasa takut**, bersalah, atau sentiasa berhati-hati\n  kerana takut tersilap langkah.\n- **Desakan atau ugutan** tentang seks, berpisah, atau mencederakan diri sendiri untuk memaksanya menurut.\n- **Sebarang kekerasan fizikal, intimidasi, atau ketakutan.** Jika ini berlaku, ia adalah penderaan —\n  dapatkan bantuan di atas. Tiada alasan yang boleh diterima, dan ia tidak pernah salahnya."
+    },
+    "safety-plan": {
+      "title": "Membuat pelan keselamatan",
+      "aliases": [
+        "pelan keselamatan",
+        "kekal selamat",
+        "menjaga keselamatan diri",
+        "merancang keselamatan",
+        "keluar dengan selamat",
+        "lari dari pasangan ganas"
+      ],
+      "glance": "Pelan keselamatan ialah beberapa langkah praktikal untuk membantu anda kekal lebih selamat — dan perkhidmatan terlatih boleh membantu anda membuatnya.",
+      "overview": "Pelan keselamatan hanyalah memikirkan lebih awal cara untuk memastikan diri anda (dan anak-anak, jika ada)\nlebih selamat. Ia bukan keputusan untuk pergi atau kekal — ia tentang menjadi sedikit lebih bersedia, apa\npun pilihan anda.\n\nBagi sesetengah orang, ia membantu jika beberapa perkara disediakan secara diam-diam: seseorang yang\ndipercayai yang tahu apa yang berlaku, dokumen dan nombor telefon penting di tempat yang mudah dicapai,\nbeg kecil berisi barang keperluan, pengetahuan tentang jalan keluar paling selamat dari rumah, atau satu\nperkataan atau isyarat yang memberitahu seseorang bahawa anda memerlukan bantuan. Apa yang sesuai\nbergantung sepenuhnya pada situasi anda sendiri.\n\nAnda tidak perlu merancangnya seorang diri, dan selalunya lebih selamat jika tidak. Perkhidmatan\nanti-keganasan berpengalaman membantu orang membuat pelan keselamatan, secara sulit dan percuma —\ntermasuk untuk tempoh sekitar meninggalkan pasangan, yang boleh menjadi saat berisiko lebih tinggi dan\nwajar dirancang dengan sokongan, bukan secara tergesa-gesa.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi pusat anti-keganasan atau talian bantuan (di Itali, **1522**) untuk membuat pelan yang sesuai\n  dengan situasi anda — mereka melakukan ini setiap hari, secara sulit, dan boleh membantu dengan langkah\n  praktikal, undang-undang dan emosi.\n- Jika anda menyimpan sebarang rekod tentang apa yang berlaku, simpan di tempat yang peribadi dan selamat.",
+      "red_flags": "- Jika anda berada dalam **bahaya serta-merta**, hubungi perkhidmatan kecemasan sekarang: **112** di EU\n  (termasuk Itali), **999** di UK, **911** di AS dan Kanada.\n- Di Itali, **1522** — percuma, 24 jam sehari, tanpa nama, dalam pelbagai bahasa — boleh membantu melalui\n  telefon atau sembang dalam talian, termasuk dengan perancangan keselamatan yang segera."
+    },
+    "sex-during-your-period": {
+      "title": "Hubungan seks semasa haid",
+      "aliases": [
+        "seks semasa haid",
+        "hubungan seks ketika haid",
+        "bersama masa period",
+        "boleh hamil masa haid",
+        "hamil semasa haid",
+        "boleh mengandung ke masa period",
+        "period sex"
+      ],
+      "glance": "Hubungan seks semasa haid tidak mengapa jika kedua-dua anda mahukannya, tetapi anda masih boleh hamil atau mendapat jangkitan kelamin (STI).",
+      "overview": "Melakukan hubungan seks semasa haid ialah pilihan peribadi. Jika kedua-dua anda mahu dan berasa selesa,\nia tidak mengapa, dan tiada apa yang salah atau luar biasa mengenainya. Sesetengah orang berasa lebih\nsensitif atau sekadar tiada mood pada waktu ini, manakala yang lain menikmatinya. Mendengar badan anda dan\nberbincang secara terbuka dengan pasangan anda ialah perkara yang paling penting.\n\nApa yang haid tidak lakukan ialah berfungsi sebagai kontraseptif. Kemungkinan untuk hamil lebih rendah\nberbanding sekitar waktu ovulasi, tetapi bukan sifar. Sperma boleh hidup di dalam badan sehingga 7 hari\nselepas hubungan seks, jadi jika anda berovulasi awal, yang lebih mungkin berlaku dengan kitaran yang\nlebih pendek, sperma daripada hubungan seks semasa atau sejurus selepas haid masih boleh bertemu sel\ntelur. Jika anda tidak mahu hamil, kontraseptif biasa anda tetap penting pada hari-hari ini.\n\nHaid juga tidak melindungi daripada jangkitan kelamin (STI). Jangkitan boleh berpindah antara pasangan\nsemasa hubungan seks tanpa kondom, dan kuman penyebabnya boleh dibawa dalam darah serta dalam cecair badan\nyang lain. Kondom ialah kaedah yang juga mengurangkan risiko STI, termasuk HIV, jadi ia wajar digunakan\ntidak kira waktu mana dalam bulan itu.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika anda telah melakukan hubungan seks **tanpa kontraseptif**, atau kontraseptif anda mungkin gagal,\n  dan anda tidak mahu hamil, berbincang dengan ahli farmasi, doktor klinik atau klinik kesihatan seksual\n  **secepat mungkin** tentang kontraseptif kecemasan. Ia perlu digunakan dalam masa beberapa hari, dan\n  biasanya lebih berkesan jika digunakan lebih awal.\n- Dapatkan bantuan daripada ahli farmasi, klinik kesihatan seksual atau doktor klinik jika **kondom koyak\n  atau tertanggal** semasa hubungan seks. Anda mungkin memerlukan kontraseptif kecemasan atau ujian STI.\n- Berjumpa doktor klinik atau klinik kesihatan seksual jika anda perasan **pendarahan selepas hubungan\n  seks ketika anda tidak dalam haid**. Ia biasanya tidak serius, tetapi sentiasa berbaloi untuk diperiksa.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Hubungan seks semasa hamil",
+      "aliases": [
+        "seks semasa hamil",
+        "hubungan seks ketika hamil",
+        "bersama masa mengandung",
+        "selamatkah seks semasa hamil",
+        "keintiman semasa hamil",
+        "orgasma semasa hamil"
+      ],
+      "glance": "Hubungan seks selamat dalam kebanyakan kehamilan dan tidak akan mencederakan bayi, kecuali jika bidan atau doktor anda menasihatkan sebaliknya.",
+      "overview": "Bagi kebanyakan orang, hubungan seks semasa hamil adalah selamat, kecuali jika bidan atau doktor anda\nmemberitahu anda untuk tidak melakukannya. Bayi dilindungi dengan baik di dalam rahim, dan hubungan seks\ntidak akan mencederakannya.\n\nAnda mungkin dinasihatkan untuk mengelakkan hubungan seks penembusan dalam beberapa situasi: jika anda\nmempunyai **uri di kedudukan rendah (placenta praevia)**, kerana risiko pendarahan; jika **air ketuban\nanda telah pecah**, kerana risiko jangkitan; atau jika anda pernah mengalami **beberapa kali keguguran**.\n\nKeinginan seks sering berubah semasa hamil — ada yang lebih berkeinginan, ada yang kurang, ada yang\nlangsung tiada untuk seketika — dengan hormon, perubahan badan, keletihan, alahan dan kebimbangan\nsemuanya memainkan peranan. Semua ini normal. Jika anda tiada keinginan untuk hubungan seks, berciuman,\nberpelukan dan urutan ialah cara lain untuk kekal rapat.\n\nApabila perut anda semakin membesar, sesetengah posisi menjadi tidak selesa; posisi berbaring mengiring\nbersebelahan selalunya terasa lebih mudah. Hormon boleh membuatkan faraj lebih kering, dan pelincir\nberasaskan air boleh membantu.\n\nPada akhir kehamilan, hubungan seks atau orgasma boleh mencetuskan kontraksi Braxton Hicks, iaitu apabila\nrahim mengeras untuk seketika. Itu normal dan bukan tanda bersalin sudah bermula — dan tiada bukti bahawa\nhubungan seks mencetuskan proses bersalin.\n\nJika salah seorang daripada anda mungkin mempunyai jangkitan kelamin, gunakan kondom, termasuk untuk seks\noral: jangkitan yang tidak dirawat boleh memudaratkan anda dan bayi dengan serius. Elakkan seks oral jika\nsalah seorang daripada anda mempunyai kudis selesema (cold sore), kerana virus itu boleh berjangkit kepada\nbayi.",
+      "deep": null,
+      "when_to_see_doctor": "- Berbincang dengan **bidan atau doktor** anda jika anda tidak pasti sama ada hubungan seks selamat untuk\n  anda, atau jika kebimbangan tentang seks atau hubungan anda membebankan fikiran.\n- Jika anda mengalami **sebarang pendarahan** semasa hamil, dapatkan pemeriksaan sebelum melakukan\n  hubungan seks lagi — hubungi bidan, doktor atau unit bersalin anda.\n- Pergi ke **klinik kesihatan seksual** jika anda atau pasangan anda mungkin mempunyai STI.",
+      "red_flags": "- Hubungi **unit bersalin** anda dengan segera jika anda fikir **air ketuban anda telah pecah**, dan jangan\n  melakukan hubungan seks sehingga anda telah diperiksa.\n- Hubungi **{{emergency}} atau pergi ke jabatan kecemasan** jika anda mengalami **pendarahan yang banyak**,\n  terutamanya bersama **sakit perut yang teruk** atau rasa hendak pengsan."
+    },
+    "sexual-violence": {
+      "title": "Keganasan seksual & persetujuan",
+      "aliases": [
+        "keganasan seksual",
+        "serangan seksual",
+        "rogol",
+        "persetujuan",
+        "penderaan seksual",
+        "tanpa kerelaan",
+        "gangguan seksual",
+        "OSCC"
+      ],
+      "glance": "Keganasan seksual ialah sebarang perbuatan seksual tanpa persetujuan — dan ia tidak pernah salah orang yang mengalaminya.",
+      "overview": "Keganasan seksual bermaksud sebarang perbuatan seksual, atau cubaan untuk melakukannya, tanpa persetujuan\natau melalui paksaan. Ia termasuk rogol dan sebarang sentuhan seksual yang tidak diingini, dan ia boleh\ndilakukan oleh sesiapa sahaja — orang asing, kenalan, atau pasangan atau suami/isteri.\n\nPersetujuan ialah terasnya. Persetujuan bermaksud bersetuju secara bebas, dan ia tidak mungkin diberikan\napabila seseorang sedang tidur, tidak sedarkan diri, mabuk atau di bawah pengaruh dadah, masih\nkanak-kanak, atau didesak, diugut, atau berasa takut. Ia boleh ditarik balik pada bila-bila masa. Oleh\nsebab itu, keganasan seksual **tidak pernah** salah orang yang mengalaminya — bukan kerana apa yang\ndipakainya, sama ada dia telah minum, sama ada dia terkaku dan bukannya melawan, atau sama ada dia\nmengenali orang itu.\n\nJika ini berlaku kepada anda, sokongan sedia ada, sama ada ia baru berlaku atau sudah lama. Anda\ndipercayai, dan apa yang anda lakukan seterusnya ialah pilihan anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Anda boleh pergi ke **perkhidmatan kesihatan, hospital, atau perkhidmatan khusus untuk mangsa serangan\n  seksual**, yang boleh menjaga anda, merawat sebarang kecederaan, dan — jika anda mahu — membantu membuat\n  laporan dan menyimpan bukti.\n- Sesetengah langkah kesihatan **bergantung pada masa** — contohnya kontraseptif kecemasan, atau mencegah\n  jangkitan — jadi mendapatkan bantuan **segera** boleh membantu. Tetapi tiada had masa untuk mendapatkan\n  sokongan, dan membuat laporan atau tidak sentiasa pilihan anda.",
+      "red_flags": "- Jika anda berada dalam **bahaya serta-merta**, hubungi perkhidmatan kecemasan sekarang: **112** di EU\n  (termasuk Itali), **999** di UK, **911** di AS dan Kanada.\n- Selepas serangan yang baru berlaku, **hospital atau perkhidmatan khusus boleh membantu dengan segera**.\n  Di Itali, **1522** (percuma, 24/7, tanpa nama, pelbagai bahasa — telefon atau sembang) boleh membimbing\n  anda kepada penjagaan yang sesuai."
+    },
+    "signs-of-labour": {
+      "title": "Tanda-tanda bersalin",
+      "aliases": [
+        "tanda-tanda bersalin",
+        "tanda nak bersalin",
+        "sakit nak bersalin",
+        "kontraksi",
+        "air ketuban pecah",
+        "keluar lendir darah",
+        "tanda show",
+        "fasa laten"
+      ],
+      "glance": "Tanda-tanda proses bersalin bermula termasuk kontraksi yang berkala, \"show\", sakit belakang, atau air ketuban pecah.",
+      "overview": "Ada beberapa tanda bahawa proses bersalin mungkin sedang bermula. Tanda utama ialah kontraksi — rasa perut\nmengeras yang datang secara berkala dan semakin kuat. Tanda lain termasuk \"show\" (gumpalan lendir dari\nserviks yang tertanggal), sakit belakang yang berterusan, rasa ingin ke tandas, dan air ketuban pecah.\n\nSebelum fasa aktif bersalin, selalunya ada fasa awal (\"laten\"), apabila serviks menjadi lembut dan mula\nterbuka. Bahagian ini boleh mengambil masa berjam-jam atau bahkan berhari-hari, dan bagi ramai orang,\ntidak mengapa untuk kekal selesa di rumah sepanjang tempoh ini, berehat dan minum air secukupnya.\n\nProses bersalin setiap orang bermula sedikit berbeza, jadi anda tidak perlu mengalami setiap tanda.\nApabila anda fikir prosesnya sudah bermula, bidan atau unit bersalin anda sedia membimbing anda tentang\napa yang perlu dilakukan dan bila perlu datang ke hospital.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi **bidan atau unit bersalin** anda untuk mendapatkan panduan apabila anda fikir proses bersalin\n  sudah bermula, atau apabila kontraksi datang **secara berkala — kira-kira setiap 5 minit**. Jika anda\n  tidak dapat menghubungi bidan anda, hubungi hospital tempat anda merancang untuk bersalin.",
+      "red_flags": "Hubungi **bidan atau unit bersalin anda dengan segera** — siang atau malam, jangan tunggu — jika:\n\n- **air ketuban anda pecah** (terutamanya jika cecairnya berwarna hijau, coklat, atau berbau)\n- anda mengalami **sebarang pendarahan faraj**\n- **bayi anda kurang bergerak berbanding biasa**\n- anda mengalami tanda-tanda bersalin dan kandungan anda **kurang daripada 37 minggu**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Tanda-tanda kehamilan",
+      "aliases": [
+        "tanda-tanda kehamilan",
+        "tanda awal hamil",
+        "tanda mengandung",
+        "adakah saya hamil",
+        "gejala kehamilan",
+        "lewat datang haid",
+        "period lambat"
+      ],
+      "glance": "Haid yang terlewat selalunya tanda pertama kehamilan, kadangkala bersama rasa loya, keletihan atau payudara yang sensitif.",
+      "overview": "Bagi ramai orang, petanda pertama kehamilan ialah **haid yang terlewat**. Tetapi setiap badan berbeza, dan\nsesetengah orang perasan tanda awal lain terlebih dahulu — selalunya sekitar minggu ke-4 hingga ke-6.\n\nTanda awal yang biasa termasuk rasa loya atau muntah (pada bila-bila masa sepanjang hari, bukan hanya pada\nwaktu pagi), payudara yang terasa lebih besar atau sensitif, berasa letih luar biasa, dan lebih kerap\ningin kencing. Sesetengah orang juga perasan rasa seperti logam di mulut, lebih sensitif kepada bau\ntertentu, atau hilang selera terhadap makanan yang biasanya digemari.\n\nTiada satu pun tanda ini secara sendirian bermakna anda pasti hamil — banyak yang bertindih dengan turun\nnaik biasa kitaran — dan tidak semua orang mengalaminya. Cara untuk mengetahui dengan pasti ialah melalui\nujian kehamilan.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika ujian positif, hubungi **bidan atau doktor klinik** untuk memulakan penjagaan kehamilan (antenatal)\n  anda lebih awal.\n- Jika haid anda lewat dan ujian negatif tetapi gejala berterusan, wajar berjumpa doktor klinik untuk\n  melihat apa lagi yang mungkin berlaku.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Merokok semasa hamil",
+      "aliases": [
+        "merokok semasa hamil",
+        "berhenti merokok semasa hamil",
+        "rokok dan kehamilan",
+        "asap rokok mengandung",
+        "vape semasa hamil",
+        "berhenti rokok"
+      ],
+      "glance": "Berhenti merokok ialah antara perkara terbaik yang boleh anda lakukan untuk bayi anda — dan tidak pernah terlambat.",
+      "overview": "Berhenti merokok ialah antara perkara paling berkesan yang boleh anda lakukan untuk memberi bayi anda\npermulaan yang sihat. Setiap batang rokok mengurangkan oksigen yang diterima bayi anda, yang menyebabkan\njantungnya bekerja lebih keras dan boleh membantutkan pertumbuhannya.\n\nMerokok semasa hamil meningkatkan risiko masalah serius, termasuk keguguran, kelahiran pramatang, berat\nlahir rendah, kelahiran mati, dan sindrom kematian mengejut bayi (SIDS) selepas kelahiran. Asap rokok\nterpakai juga memberi kesan, jadi rumah yang bebas asap rokok membantu.\n\nYang menggalakkan: ia **tidak pernah terlambat**. Berhenti pada bila-bila masa semasa hamil membantu, dan\nberhenti awal memberi manfaat paling banyak. Ia boleh menjadi benar-benar sukar, dan itulah sebabnya\nbantuan percuma disediakan — dan menggunakannya menjadikan kejayaan jauh lebih mungkin.",
+      "deep": null,
+      "when_to_see_doctor": "- Tanya **bidan** anda tentang **sokongan percuma untuk berhenti merokok** — penasihat terlatih (sesetengahnya\n  pakar dalam kehamilan) boleh menyokong anda, dan banyak negara juga mempunyai talian bantuan berhenti\n  merokok percuma. Mendapatkan bantuan ialah tanda anda menjaga bayi anda, bukan kegagalan.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Tompok darah & pendarahan di antara haid",
+      "aliases": [
+        "tompok darah",
+        "bintik darah",
+        "spotting",
+        "pendarahan di antara haid",
+        "pendarahan luar waktu haid",
+        "pendarahan selepas seks",
+        "breakthrough bleeding"
+      ],
+      "glance": "Tompok darah ialah pendarahan ringan di antara haid atau selepas hubungan seks — selalunya tidak serius, tetapi sentiasa wajar diperiksa oleh doktor.",
+      "overview": "Tompok darah bermaksud pendarahan ringan yang berlaku di antara haid atau selepas hubungan seks, di luar\naliran haid biasa anda. Ia biasa berlaku, dan biasanya bukan sesuatu yang serius — tetapi oleh sebab ia\nboleh mempunyai beberapa punca, ia merupakan perkara yang sentiasa wajar diperiksa oleh doktor atau\njururawat.\n\nTerdapat banyak sebab harian. Memulakan atau menggunakan kontraseptif hormon ialah punca yang kerap.\nPunca lain termasuk ketumbuhan kecil yang tidak berbahaya di dalam atau di sekitar rahim (polip atau\nfibroid), perubahan tidak berbahaya pada permukaan serviks, faraj kering, atau jangkitan seperti klamidia.\n\nOleh sebab gejala yang sama boleh berpunca daripada pelbagai sebab — kebanyakannya ringan — langkah yang\nberguna bukanlah meneka, tetapi mendapatkan pemeriksaan supaya anda tahu puncanya dalam kes anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Berjumpa doktor klinik atau klinik kesihatan seksual **setiap kali anda mengalami pendarahan di antara\n  haid atau selepas hubungan seks**, walaupun sedikit. Ia biasanya tidak serius, tetapi pemeriksaan ialah\n  cara puncanya dikenal pasti — dan cara untuk menolak punca yang kurang biasa lebih awal.",
+      "red_flags": "- Minta temu janji **segera** dengan doktor klinik, atau hubungi **doktor di luar waktu pejabat**, jika anda\n  **terlepas haid dan mengalami pendarahan luar biasa bersama sakit perut atau pelvis** — ini memerlukan\n  penilaian segera, kerana ia boleh menjadi tanda kehamilan ektopik."
+    },
+    "stalking": {
+      "title": "Perbuatan menghendap",
+      "aliases": [
+        "menghendap",
+        "dihendap",
+        "diekori",
+        "gangguan",
+        "perhatian yang tidak diingini",
+        "ada orang ikut saya",
+        "hendap siber",
+        "stalking"
+      ],
+      "glance": "Menghendap ialah perhatian berulang yang tidak diingini yang membuatkan anda berasa takut atau tidak selamat — dan ia diambil serius.",
+      "overview": "Menghendap ialah corak tingkah laku berulang yang tidak diingini oleh seseorang yang membuatkan anda berasa\ntakut, diperhatikan, atau tidak selamat. Ia boleh termasuk diekori, seseorang muncul di tempat anda berada,\npanggilan atau mesej yang berterusan, hadiah yang tidak diingini, memantau anda dalam talian atau melalui\ntelefon anda, atau ugutan. Ia sering dilakukan oleh bekas pasangan atau seseorang yang anda kenali,\nwalaupun tidak semestinya.\n\nKetakutan yang ditimbulkannya adalah wajar, walaupun setiap perbuatan mungkin kelihatan \"kecil\" bagi orang\nlain — coraknya, dan bagaimana ia membuatkan anda berasa, itulah yang penting. Menghendap diiktiraf sebagai\nsatu bentuk penderaan, dan di banyak negara ia merupakan jenayah. Semua ini bukan salah anda, dan anda\ntidak perlu menanggungnya begitu sahaja.\n\nJika selamat untuk berbuat demikian, menyimpan rekod boleh membantu kemudian: tarikh dan masa, tangkapan\nskrin mesej, dan apa yang berlaku. Anda tidak perlu memutuskan sendiri sama ada ia \"dikira\" — perkhidmatan\nsokongan boleh membantu anda memahaminya dan memikirkan pilihan anda.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi **polis** untuk melaporkan perbuatan menghendap, dan talian bantuan anti-keganasan atau\n  anti-hendap untuk sokongan dan nasihat (di Itali, **1522** adalah untuk keganasan **dan** menghendap).\n- Menyimpan bukti dan membuat pelan keselamatan, dengan bantuan perkhidmatan pakar, kedua-duanya boleh\n  membawa perbezaan yang sebenar.",
+      "red_flags": "- Jika anda berasa dalam **bahaya serta-merta**, hubungi perkhidmatan kecemasan sekarang: **112** di EU\n  (termasuk Itali), **999** di UK, **911** di AS dan Kanada.\n- Di Itali, **1522** — percuma, 24 jam sehari, tanpa nama, dalam pelbagai bahasa — boleh membantu melalui\n  telefon atau sembang dalam talian."
+    },
+    "stillbirth": {
+      "title": "Kelahiran mati",
+      "aliases": [
+        "kelahiran mati",
+        "bayi lahir mati",
+        "bayi meninggal dalam kandungan",
+        "kematian bayi dalam kandungan",
+        "kehilangan bayi",
+        "kehilangan kandungan lewat",
+        "stillbirth"
+      ],
+      "glance": "Kelahiran mati ialah kehilangan bayi selepas 24 minggu — jarang berlaku, tidak pernah salah anda, dan sentiasa disertai sokongan.",
+      "overview": "Kelahiran mati ialah apabila bayi dilahirkan dalam keadaan telah meninggal dunia selepas 24 minggu\nkehamilan. (Kehilangan sebelum 24 minggu dipanggil keguguran.) Ia jarang berlaku — kira-kira 1 daripada\nsetiap 250 kelahiran — tetapi bagi keluarga yang mengalaminya, ia satu kehilangan yang amat mendalam, dan\nsegala penjagaan yang menyusul bertujuan untuk menemani anda dengan lembut melaluinya.\n\nKadangkala punca ditemui — contohnya masalah pada uri atau perkembangan bayi, atau masalah kesihatan — dan\nkadangkala, walaupun selepas ujian, **tiada punca ditemui langsung**. Walau apa pun sebabnya, kelahiran mati\nbukanlah sesuatu yang disebabkan oleh ibu bapa atau yang boleh mereka ketahui untuk dicegah.\n\nSatu perkara benar-benar membantu mengurangkan risikonya, dan ia mudah: **memberitahu bidan anda dengan\nsegera jika pergerakan bayi anda berkurang atau berubah.** Selain itu, perkara harian — menghadiri temu\njanji antenatal, tidak merokok, mengelakkan alkohol, dan tidur mengiring mulai 28 minggu — semuanya\nmemainkan peranan.",
+      "deep": null,
+      "when_to_see_doctor": "- Hubungi **bidan atau unit bersalin anda dengan segera** — pada bila-bila masa, siang atau malam — jika\n  **bayi anda kurang bergerak berbanding biasa atau pergerakannya terasa berbeza.** Jangan sekali-kali\n  tunggu untuk melihat sama ada ia akan berlalu; mendapatkan pemeriksaan ialah tindakan yang betul, dan ia\n  tidak pernah menyusahkan.\n- Selepas kehilangan, bidan pakar dan pasukan sokongan kematian ada untuk anda — untuk keputusan yang perlu\n  dibuat, langkah praktikal, dan kesedihan. Anda tidak perlu menghadapi semua ini seorang diri, dan\n  kumpulan sokongan untuk kehilangan bayi sedia ada selama mana anda memerlukannya.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Tekanan, kehidupan & haid anda",
+      "aliases": [
+        "tekanan dan haid",
+        "stres",
+        "haid terlepas",
+        "haid lewat",
+        "kenapa haid saya lewat",
+        "tak datang haid",
+        "period lambat"
+      ],
+      "glance": "Tekanan, perubahan berat badan yang besar, atau banyak bersenam boleh melewatkan atau menghentikan haid — selalunya hanya untuk seketika.",
+      "overview": "Adalah biasa untuk haid datang lewat, atau tidak datang untuk sebulan, dan sebabnya selalunya lebih\nberkaitan dengan kehidupan berbanding sesuatu yang tidak kena. Tekanan ialah punca yang kerap — sistem\nyang sama yang bertindak balas terhadap tekanan boleh menjejaskan hormon yang mengawal kitaran anda.\n\nPerkara harian lain juga boleh mengubah haid anda: perubahan besar pada berat badan (naik atau turun),\nbanyak bersenam, atau keletihan melampau. Perubahan hormon — seperti menjelang perimenopaus, atau keadaan\nseperti PCOS — juga boleh menjadi puncanya, begitu juga kehamilan dan sesetengah kontraseptif. Selalunya,\njarak antara haid hanya berbeza sedikit dari semasa ke semasa, dan itu normal.\n\nYang melegakan, haid yang lewat atau terlepas sekali sahaja biasanya tidak perlu dirisaukan, dan keadaan\nselalunya kembali stabil apabila kehidupan juga stabil. Apa yang wajar diperhatikan ialah corak perubahan\ndan bukannya satu bulan sahaja.",
+      "deep": null,
+      "when_to_see_doctor": "Berjumpa doktor klinik jika:\n\n- anda terlepas **tiga kali haid berturut-turut**, atau haid anda menjadi **tidak teratur**\n- haid anda **berhenti** dan anda tidak pasti mengapa (dan jika kehamilan mungkin berlaku, wajar membuat\n  ujian terlebih dahulu)\n- haid yang terlepas disertai perubahan lain — seperti perubahan berat badan yang tidak dijangka,\n  keletihan, pertumbuhan bulu berlebihan, atau berasa murung\n\nPemeriksaan ini hanya untuk memahami apa yang menyebabkan perubahan itu — yang biasanya sesuatu yang boleh\ndikawal.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Menyokongnya semasa haid",
+      "aliases": [
+        "membantu dia semasa haid",
+        "sokongan haid untuk pasangan",
+        "jaga isteri masa period",
+        "suami bantu isteri haid",
+        "penjagaan semasa haid"
+      ],
+      "glance": "Haid boleh membawa kesakitan dan keletihan yang sebenar — penjagaan kecil yang praktikal membawa perbezaan besar.",
+      "overview": "Haid bukan sekadar beberapa hari pendarahan; bagi ramai wanita ia datang bersama kekejangan, sakit belakang,\nsakit kepala, keletihan dan kurang tenaga. Sakit haid adalah biasa dan boleh benar-benar meletihkan — ia\nbukan dibesar-besarkan. Layan dia seperti anda melayan pasangan yang tidak sihat: dengan kebaikan yang\npraktikal.\n\nNormalkan juga perkara ini. Haid bukan sesuatu yang menjijikkan, memalukan atau pantang larang. Berasa\nselesa membeli tuala wanita atau tampon, menyimpan sedikit di rumah, atau menghulurkan botol air panas\nkepadanya tanpa kekecohan memberitahunya bahawa dia selamat dan disokong.",
+      "deep": "Perkara mudah yang membantu:\n\n- **Kehangatan dan rehat.** Botol air panas atau pad pemanas di bahagian bawah perut melegakan kekejangan;\n  tawarkan malam yang tenang di rumah.\n- **Ringankan bebannya.** Masak, kemas, uruskan urusan di luar, hantar dia — bantuan praktikal lebih\n  bermakna daripada kata-kata.\n- **Sentiasa ada bekalan.** Ketahui apa yang dia gunakan dan simpan stok, supaya hari yang banyak darahnya\n  tidak pernah menjadi krisis.\n- **Ubat tahan sakit dan makanan kegemaran** jika dia mahu; pilihannya.\n- **Jangan desak untuk seks atau tenaga yang dia tiada.** Kemesraan boleh jadi sekadar berpelukan di sofa.",
+      "when_to_see_doctor": "Galakkan dia berjumpa doktor (dan tawarkan untuk menemaninya) jika sakit haid **teruk, semakin teruk,\natau menghalangnya menjalani kehidupan harian**, jika haid **sangat banyak** (tuala wanita atau tampon\nbasah kuyup setiap jam, ketulan darah beku yang besar), atau jika kesakitan itu baharu dan luar biasa —\nini boleh menunjukkan keadaan seperti endometriosis yang memerlukan rawatan sewajarnya.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Menyokong seseorang yang mengalami keganasan",
+      "aliases": [
+        "menyokong seseorang",
+        "membantu kawan",
+        "cara membantu",
+        "kawan didera",
+        "seseorang yang didera",
+        "cara menyokong mangsa"
+      ],
+      "glance": "Jika seseorang yang anda kenali mungkin mengalami penderaan, mendengar tanpa menghakimi — dan tahu ke mana untuk merujuknya — sangat membantu.",
+      "overview": "Menyedari bahawa seseorang yang anda sayangi mungkin mengalami penderaan adalah sukar, dan keinginan untuk\nmembantu ialah naluri yang baik. Perkara paling berguna yang boleh anda tawarkan selalunya yang paling\nmudah.\n\nDengar, dan percayai mereka. Biarkan mereka bercakap mengikut rentak sendiri, tanpa menghakimi,\nmenyalahkan, atau bertanya apa yang mereka lakukan sehingga menyebabkannya. Katakan dengan jelas bahawa ia\nbukan salah mereka dan mereka tidak patut diperlakukan begitu. Cuba jangan memberitahu mereka apa yang\nperlu dilakukan atau mendesak mereka untuk pergi: keputusan untuk pergi adalah milik mereka, dan\nmelakukannya secara tergesa-gesa sebenarnya boleh meningkatkan bahaya — apa yang lebih membantu ialah\nmereka berasa disokong dan tidak keseorangan.\n\nRahsiakan apa yang mereka ceritakan kepada anda. Bantu mereka dengan lembut untuk mendapatkan sokongan\npakar apabila mereka bersedia — talian bantuan seperti **1522** di Itali, atau pusat anti-keganasan\nsetempat — dan tawarkan bantuan praktikal, seperti mencari nombor telefon bersama-sama atau berada di sisi\nmereka ketika mereka menelefon. Dan jaga diri anda juga; menyokong seseorang melalui perkara ini boleh\nmenjadi berat.",
+      "deep": null,
+      "when_to_see_doctor": "- Galakkan mereka (tanpa mendesak) untuk menghubungi talian bantuan atau pusat anti-keganasan, yang boleh\n  membimbing anda berdua tentang apa yang perlu dilakukan seterusnya. Anda boleh menawarkan untuk membantu\n  mereka membuat panggilan atau mencari nombornya.\n- Jika mereka cedera, doktor klinik atau hospital boleh membantu — dan menghubungkan mereka dengan\n  perkhidmatan sokongan.",
+      "red_flags": "- Jika mereka berada dalam **bahaya serta-merta**, hubungi perkhidmatan kecemasan: **112** di EU (termasuk\n  Itali), **999** di UK, **911** di AS dan Kanada.\n- Di Itali, **1522** (percuma, 24/7, tanpa nama, pelbagai bahasa — telefon atau sembang) juga boleh\n  menasihati anda tentang cara membantu seseorang."
+    },
+    "the-coil": {
+      "title": "Alat dalam rahim (IUD dan IUS)",
+      "aliases": [
+        "IUD",
+        "alat dalam rahim",
+        "pasang IUD",
+        "IUD tembaga",
+        "copper T",
+        "IUD hormon",
+        "IUS",
+        "Mirena"
+      ],
+      "glance": "Alat dalam rahim ialah alat kecil yang diletakkan di dalam rahim — jenis tembaga (IUD) atau hormon (IUS) — yang bertahan bertahun-tahun.",
+      "overview": "Alat dalam rahim ialah alat kecil yang diletakkan di dalam rahim oleh doktor atau jururawat. Terdapat dua\njenis, dan ada baiknya mengetahui perbezaannya:\n\n- **IUD**, atau IUD tembaga, tidak mengandungi hormon. Tembaga mengubah keadaan di dalam rahim supaya\n  sperma dan sel telur tidak dapat hidup dengan baik, dan ia juga menjejaskan lendir serviks. Bergantung\n  pada jenisnya, ia berkesan selama kira-kira 5 hingga 10 tahun.\n- **IUS**, atau IUD hormon, membebaskan progestogen dan bukannya menggunakan tembaga. Ia memekatkan lendir\n  di leher rahim dan menipiskan lapisan dinding rahim; bagi sesetengah orang ia juga boleh menjadikan haid\n  jauh lebih sedikit.\n\nKedua-duanya kaedah \"pasang dan lupakan\" dan kedua-duanya lebih 99% berkesan, dengan sedikit sahaja\nperbezaan antara penggunaan sempurna dan penggunaan biasa. Kedua-duanya tidak melindungi daripada STI.",
+      "deep": "Kedua-dua jenis alat dalam rahim ialah kaedah jangka panjang yang boleh dihentikan: setelah dipasang, ia\nterus berfungsi selama bertahun-tahun, dan kesuburan kembali selepas ia dikeluarkan. Pemasangan dan\npengeluarannya dilakukan oleh doktor atau jururawat terlatih dan hanya mengambil masa beberapa minit,\nwalaupun sesetengah orang berasa tidak selesa semasa pemasangan. Satu sebab biasa orang memilih antara\nkedua-duanya ialah kesannya terhadap haid — IUD tembaga boleh menjadikan haid lebih banyak pada mulanya,\nmanakala IUS hormon selalunya menjadikannya lebih sedikit. Yang mana sesuai untuk anda perlu dibincangkan\ndengan doktor atau jururawat; artikel ini hanya menerangkan cara setiap satu berfungsi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Hari-hari sebelum haid",
+      "aliases": [
+        "PMS untuk pasangan",
+        "sokong dia sebelum haid",
+        "sokongan pramenstruasi",
+        "isteri moody sebelum period",
+        "sokongan fasa luteal"
+      ],
+      "glance": "Pada hari-hari sebelum haid, dia mungkin berasa lebih letih, sensitif atau murung — hadapinya dengan kesabaran, bukan gurauan.",
+      "overview": "Dalam kira-kira seminggu sebelum haid, ramai wanita mengalami gejala pramenstruasi: perubahan emosi, mudah\nmarah atau berasa murung, keletihan, payudara sakit, perut kembung, sakit kepala, atau sukar tidur. Ia\nsangat biasa dan ia nyata — dicetuskan oleh perubahan hormon semula jadi dalam fasa luteal, bukan kerana\ndia \"terlebih emosi\".\n\nBagi sebilangan kecil wanita, emosi murung itu teruk (keadaan yang dipanggil PMDD) dan memerlukan sokongan\nsebenar serta rawatan perubatan. Walau apa pun, tugas anda bukan untuk mendiagnosis atau membetulkannya —\ntetapi untuk bersikap tenang dan baik.\n\nPerkara paling memudaratkan yang boleh dilakukan oleh pasangan di sini ialah menjadikannya senjata: \"awak\nni PMS je\", menjeling, atau menganggap perasaannya tidak sah kerana tarikh. Itu memperkecilkannya dan\nmenambah luka pada minggu yang sukar. Perasaannya tetap penting, walaupun hormon turut memainkan peranan.",
+      "deep": "Apa yang benar-benar membantu pada hari-hari ini:\n\n- **Ringankan bebannya.** Ambil alih kerja rumah, memasak, atau senarai tugasan dalam fikiran tanpa perlu\n  diminta.\n- **Keselesaan, bukan teguran.** Tawarkan kehangatan, rehat, botol air panas, makanan kegemarannya — dan\n  biarkan dia merasai apa yang dia rasa.\n- **Dengar dahulu.** Jika dia sedih atau marah, \"bunyinya memang susah\" sentiasa lebih baik daripada\n  \"bertenanglah\".\n- **Jangan berkira.** Hari yang lebih sukar bukan hutang yang perlu dia bayar kepada anda kemudian.\n- **Tanya apa yang dia perlukan** — ada yang mahu dekat, ada yang mahu ruang. Kedua-duanya tidak mengapa;\n  hormati jawapannya.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Kehamilan kembar & berganda",
+      "aliases": [
+        "kembar",
+        "hamil kembar",
+        "mengandung kembar",
+        "kehamilan berganda",
+        "kembar seiras",
+        "kembar tidak seiras",
+        "kembar tiga"
+      ],
+      "glance": "Kehamilan kembar biasanya pertama kali dikesan semasa imbasan penentuan tarikh, dan memerlukan sedikit lebih banyak penjagaan antenatal.",
+      "overview": "Mengandungkan lebih daripada seorang bayi biasanya pertama kali diketahui semasa **imbasan penentuan\ntarikh** (sekitar 12 minggu), yang juga boleh menunjukkan sama ada bayi-bayi itu berkongsi uri.\n\nTerdapat dua jenis utama. Kembar **seiras** berasal daripada satu sel telur yang disenyawakan lalu terbahagi\ndua, jadi mereka berkongsi gen yang sama dan sentiasa sama jantina. Kembar **tidak seiras** berasal daripada\ndua sel telur yang berasingan, dan tidak lebih serupa daripada adik-beradik lain; ia lebih biasa antara\nkedua-duanya, dan sedikit lebih mungkin berlaku pada usia yang lebih tua, jika ada sejarah keluarga di\nsebelah ibu, atau selepas rawatan kesuburan.\n\nMengandungkan kembar atau lebih ialah pengalaman yang tersendiri, dan biasanya bermakna **sedikit lebih\nbanyak penjagaan antenatal** — temu janji dan imbasan tambahan untuk memantau anda dan bayi-bayi anda\ndengan teliti. Pasukan bidan anda akan menerangkan apa yang boleh dijangkakan.",
+      "deep": null,
+      "when_to_see_doctor": "- Jika imbasan menunjukkan kembar (atau lebih), **bidan** anda akan menerangkan pemeriksaan dan imbasan\n  tambahan yang datang bersama kehamilan berganda — menghadiri kesemuanya ialah cara terbaik untuk kekal\n  dijaga dengan baik.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Memahami kitarannya",
+      "aliases": [
+        "panduan kitaran untuk pasangan",
+        "kitaran haid untuk suami",
+        "memahami haid isteri",
+        "bagaimana kitaran haid berfungsi",
+        "sokong kitarannya"
+      ],
+      "glance": "Tubuhnya melalui kitaran bulanan dengan empat fasa — mengetahui asasnya membantu anda menyokongnya tanpa meneka.",
+      "overview": "Kitaran haid ialah irama lebih kurang bulanan, secara purata kira-kira 28 hari tetapi selalunya antara 21\nhingga 35 hari, dan yang normal baginya ialah apa sahaja yang teratur bagi *dirinya*. Ia berjalan dalam\nempat fasa: fasa **haid** (waktu dia datang bulan), fasa **folikular**, **ovulasi** di pertengahan, dan\nfasa **luteal** sebelum haid seterusnya.\n\nTenaga, emosi, tidur dan keinginan boleh berubah merentasi fasa-fasa ini kerana hormon naik dan turun —\nitu biologi, bukan kelemahan peribadi dan bukan sesuatu untuk dijadikan bahan usikan. Sesetengah wanita\nmerasai penurunan yang ketara pada hari-hari sebelum haid; yang lain hampir tidak perasan. Tiada satu cara\nyang \"betul\" untuk berasa.\n\nAnda tidak perlu menjadi pakar. Apa yang paling membantu adalah mudah: ketahui secara kasar di fasa mana\ndia berada dalam kitarannya (aplikasi ini boleh menunjukkannya kepada anda, dengan izinnya), jangkakan\nbahawa sesetengah hari lebih sukar daripada yang lain, dan tanya dia apa yang *dia* rasa membantu dan\nbukannya membuat andaian.",
+      "deep": "Beberapa perkara yang wajar diketahui, supaya mitos tidak mengisi kekosongan:\n\n- **\"Dia tengah period\" bukan penghinaan atau alasan apabila anda tidak bersetuju dengannya.** Menggunakan\n  kitarannya untuk menolak perasaannya (\"awak ni cuma sebab hormon\") adalah tidak menghormati, dan biasanya\n  salah. Alasannya tetap alasannya.\n- **Kitaran mempengaruhi lebih daripada haid.** Kekejangan, sakit kepala, payudara sensitif, kurang tenaga,\n  atau emosi yang lebih murung semuanya boleh menjadi sebahagian daripadanya. Bantuan praktikal lebih baik\n  daripada nasihat.\n- **Pemantauan kitaran adalah miliknya.** Jika dia berkongsi kitarannya dengan anda, anggap ia sebagai\n  jendela untuk memahami perasaannya — satu jemputan untuk berbuat baik, bukan sekali-kali alat untuk\n  memantau atau mengawalnya.\n- **Jika ragu-ragu, tanya.** \"Awak rasa macam mana hari ni? Ada apa-apa saya boleh tolong?\" lebih bernilai\n  daripada sebarang carta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Faraj kering",
+      "aliases": [
+        "faraj kering",
+        "kekeringan faraj",
+        "vagina kering",
+        "atrofi faraj",
+        "sakit masa bersama sebab kering",
+        "pelincir"
+      ],
+      "glance": "Faraj kering adalah biasa, selalunya berkaitan dengan hormon, dan boleh menyebabkan rasa pedih atau tidak selesa semasa hubungan seks.",
+      "overview": "Faraj kering ialah pengalaman biasa yang dialami ramai orang pada suatu ketika. Ia berlaku apabila\nkelembapan biasa yang memastikan faraj selesa berkurangan, dan ia boleh terasa seperti pedih, gatal, atau\ntidak selesa — termasuk sakit atau tidak selesa semasa hubungan seks.\n\nIa selalunya berkaitan dengan hormon, terutamanya penurunan estrogen. Itulah sebabnya ia biasa berlaku\nsekitar menopaus dan perimenopaus, tetapi ia juga boleh berlaku semasa menyusu, dengan sesetengah ubat\n(seperti kontraseptif tertentu atau antidepresan), atau apabila rangsangan tidak mencukupi sebelum\nhubungan seks. Ia bukan sesuatu yang memalukan — ia perkara fizikal, bukan cerminan diri anda atau\nhubungan anda.\n\nMengetahui bahawa ia biasa, dan biasanya sangat boleh dirawat, ialah titik permulaan yang baik. Ada\npilihan mudah yang boleh membantu, dan doktor klinik atau ahli farmasi boleh mencadangkan apa yang sesuai\nuntuk anda.",
+      "deep": null,
+      "when_to_see_doctor": "Berjumpa doktor klinik jika:\n\n- faraj kering mengganggu anda atau tidak reda selepas beberapa minggu\n- ia menjejaskan kehidupan harian atau kehidupan seks anda\n- anda juga mengalami keputihan luar biasa, atau sebarang pendarahan selepas hubungan seks, di antara haid,\n  atau selepas menopaus\n\nAnda tidak perlu menahannya begitu sahaja — bantuan sedia ada, dan doktor boleh melihat apa puncanya dan\napa yang mungkin melegakannya.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Kesihatan faraj & vulva",
+      "aliases": [
+        "kesihatan faraj",
+        "kesihatan vulva",
+        "kebersihan intim",
+        "cara cuci kemaluan",
+        "menjaga kebersihan faraj",
+        "douching",
+        "keputihan"
+      ],
+      "glance": "Faraj membersihkan dirinya sendiri — penjagaan lembut di bahagian luar sudah memadai, dan keputihan adalah normal.",
+      "overview": "Salah satu perkara paling melegakan untuk diketahui ialah faraj menjaga dirinya sendiri. Ia secara semula\njadi membersihkan diri, dan keputihan yang anda perasan ialah sebahagian daripada proses itu — cecair yang\nmemastikannya bersih dan lembap serta membantu melindunginya daripada jangkitan. Jumlah dan teksturnya\nberubah sepanjang kitaran, dan itu normal sepenuhnya.\n\nOleh sebab itu, bahagian dalam faraj tidak perlu dicuci. Malah, mencuci bahagian dalamnya — \"douching\" —\nboleh mengganggu keseimbangan semula jadinya. Bahagian luar (vulva) hanya memerlukan penjagaan lembut: air\nsuam dan, jika anda mahu, sabun lembut yang tidak berpewangi. Sabun, gel, deodoran dan tisu basah yang\nberpewangi sebaiknya dielakkan, kerana ia boleh menyebabkan kerengsaan.\n\nMengenali apa yang normal bagi anda — keputihan, rupa dan rasa yang biasa — memudahkan anda perasan jika\nada sesuatu yang berubah dan mungkin perlu diperiksa.",
+      "deep": null,
+      "when_to_see_doctor": "Berjumpa doktor klinik atau klinik kesihatan seksual jika anda perasan:\n\n- perubahan pada keputihan anda — warna, bau, atau teksturnya, atau jumlahnya jauh lebih banyak daripada biasa\n- gatal, pedih, atau kerengsaan di sekitar faraj atau vulva\n- pendarahan di antara haid atau selepas hubungan seks\n- sakit ketika kencing, atau sakit di bahagian bawah antara perut dan peha (sakit pelvis)\n\nPerkara ini biasa dan selalunya mudah dirawat — perubahan keputihan mungkin hanya bermakna jangkitan\nringan seperti jangkitan yis faraj. Mendapatkan pemeriksaan ialah cara untuk mengetahuinya, dan bukannya\nmeneka.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Kitaran & fasanya",
+      "summary": "Bagaimana kitaran anda bergerak melalui fasa haid, folikular, ovulasi dan luteal."
+    },
+    "hormones": {
+      "title": "Hormon",
+      "summary": "Pembawa mesej di sebalik kitaran anda — estrogen, progesteron, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Kesuburan & ovulasi",
+      "summary": "Tempoh subur, tanda-tanda ovulasi, dan perkara yang mempengaruhi kesuburan."
+    },
+    "contraception": {
+      "title": "Kontraseptif",
+      "summary": "Cara pelbagai kaedah berfungsi, dalam bahasa yang mudah."
+    },
+    "symptoms-and-signals": {
+      "title": "Gejala & isyarat badan",
+      "summary": "Sakit, tompok darah, keputihan, emosi — apa yang mungkin cuba disampaikan oleh badan anda."
+    },
+    "conditions": {
+      "title": "Keadaan kesihatan",
+      "summary": "PCOS, endometriosis, fibroid dan banyak lagi — diterangkan, berserta sumber."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Kesihatan seksual & intim",
+      "summary": "Kesejahteraan intim, keselesaan, dan soalan lazim."
+    },
+    "life-stages": {
+      "title": "Peringkat kehidupan",
+      "summary": "Dari haid pertama hingga perimenopaus dan menopaus."
+    },
+    "wellbeing": {
+      "title": "Kesejahteraan & kitaran",
+      "summary": "Bagaimana tidur, tekanan dan kehidupan harian berkait dengan kitaran anda."
+    },
+    "tests-and-exams": {
+      "title": "Ujian & pemeriksaan",
+      "summary": "Pemeriksaan payudara sendiri, saringan serviks, ujian ovulasi dan banyak lagi."
+    },
+    "pregnancy": {
+      "title": "Kehamilan",
+      "summary": "Tanda awal, kekal sihat, tanda amaran, dan keguguran — diterangkan, berserta sumber."
+    },
+    "for-partners": {
+      "title": "Untuk pasangan",
+      "summary": "Memahami kitarannya, menyokongnya dengan baik, dan membina hubungan berasaskan rasa hormat."
+    },
+    "safety-and-support": {
+      "title": "Keselamatan & sokongan",
+      "summary": "Mengenal pasti penderaan, kekal selamat, dan cara mendapatkan bantuan — berserta nombor kecemasan."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Fahami kitaran anda dalam 5 langkah",
+      "summary": "Panduan tenang merentasi keseluruhan kitaran dan setiap satu daripada empat fasanya."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Mengenali ovulasi",
+      "summary": "Apa itu ovulasi, tempoh subur, dan tanda-tanda yang diberikan oleh badan anda."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormon di sebalik kitaran anda",
+      "summary": "Kenali empat pembawa mesej yang menggerakkan kitaran — dan peranan setiap satunya."
+    }
+  }
+}

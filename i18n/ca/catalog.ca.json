@@ -1,0 +1,1430 @@
+{
+  "_meta": {
+    "lang": "ca",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alcohol i embaràs",
+      "aliases": [
+        "alcohol i embaràs",
+        "beure alcohol embarassada",
+        "alcohol durant l'embaràs",
+        "síndrome alcohòlica fetal",
+        "teaf",
+        "vi embaràs",
+        "cervesa embaràs"
+      ],
+      "glance": "El més segur és no beure gens d'alcohol durant l'embaràs ni quan intentes quedar-te embarassada.",
+      "overview": "El consell de l'NHS és clar i senzill: el més segur és **no beure gens d'alcohol** si estàs embarassada o intentes quedar-te embarassada. No beure'n redueix al mínim qualsevol risc per al teu nadó.\n\nEl motiu és que l'alcohol passa de la teva sang, a través de la placenta, al nadó, que té el fetge massa poc desenvolupat per processar-lo. Beure durant l'embaràs pot provocar un trastorn de l'espectre alcohòlic fetal (TEAF), un conjunt de dificultats per a tota la vida relacionades amb l'aprenentatge, el comportament i el desenvolupament.\n\nSi vas beure abans de saber que estaves embarassada, intenta no preocupar-te: el risc per al nadó de petites quantitats al principi probablement és baix. El que ajuda és, simplement, evitar l'alcohol a partir d'ara durant la resta de l'embaràs.",
+      "deep": null,
+      "when_to_see_doctor": "- Si et costa deixar de beure, no és res de què t'hagis d'avergonyir: explica-ho a la teva llevadora o al metge de capçalera. Et poden donar suport sense jutjar-te, i demanar ajuda és bo per a tu i per al teu nadó.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Control prenatal",
+      "aliases": [
+        "control prenatal",
+        "atenció prenatal",
+        "seguiment de l'embaràs",
+        "visites amb la llevadora",
+        "primera visita embaràs",
+        "revisions de l'embaràs",
+        "ecografies embaràs"
+      ],
+      "glance": "El control prenatal són les revisions periòdiques durant l'embaràs que us ajuden a estar bé, a tu i al teu nadó.",
+      "overview": "El control prenatal és l'atenció que reps durant l'embaràs perquè tu i el teu nadó estigueu tan sans com sigui possible. Normalment et visitarà una llevadora, i també un metge si cal. Val la pena començar aviat: contacta amb la teva llevadora o el metge de capçalera tan bon punt sàpigues que estàs embarassada.\n\nLa primera visita completa (la visita d'inici del control de l'embaràs) sol ser entre les setmanes 8 i 12. Després se t'ofereixen revisions periòdiques: com a mínim 10 visites i 2 ecografies si és el teu primer fill, o unes 7 si ja has parit abans, amb més visites cap al final.\n\nEn aquestes visites, la llevadora et pren la pressió arterial i t'analitza l'orina, et mesura la panxa per seguir el creixement del nadó, t'ofereix proves de cribratge i parla amb tu sobre els moviments del nadó i sobre com et sents. Moltes coses importants, com la preeclàmpsia o la diabetis gestacional, es detecten aquí abans que tu notis res, i precisament per això les visites són importants.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta amb una **llevadora o el metge de capçalera tan bon punt sàpigues que estàs embarassada** perquè el seguiment pugui començar aviat, idealment a temps per fer aquesta primera visita abans de les 10 a 12 setmanes, aproximadament.\n- Intenta anar a **totes** les visites prenatals, encara que et trobis perfectament bé: diverses revisions estan pensades per detectar aviat problemes que no donen símptomes.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Els moviments del teu nadó",
+      "aliases": [
+        "moviments del nadó",
+        "moviments fetals",
+        "puntades",
+        "patades del nadó",
+        "notar el nadó",
+        "el nadó es mou menys",
+        "no noto el nadó"
+      ],
+      "glance": "Notar que el teu nadó es mou és senyal que està bé; si els moviments disminueixen o canvien, truca de seguida a la llevadora.",
+      "overview": "Notar els moviments del teu nadó és un dels signes tranquil·litzadors que està bé. La majoria de persones comencen a notar-los entre les setmanes 16 i 24 d'embaràs; sovint més tard en un primer embaràs, de manera que la primera vegada és habitual notar-los després de la setmana 20.\n\nNo hi ha un nombre fix de moviments que «hagis» de notar, ni cal comptar puntades per arribar a cap objectiu. Cada nadó és diferent, i el que importa és conèixer el patró habitual del **teu** nadó al llarg del dia: les estones en què està actiu i les estones en què està tranquil.\n\nUn cop coneixes aquest patró, el que cal vigilar és qualsevol canvi respecte a aquest patró. Confia en el que saps del teu propi nadó.",
+      "deep": null,
+      "when_to_see_doctor": "Conèixer el patró normal del teu nadó és el que et permet notar un canvi. Si mai no estàs segura de si els moviments han disminuït o han canviat, sempre fas bé de trucar per comprovar-ho: mai no faràs perdre el temps a ningú.",
+      "red_flags": "- Si el teu nadó **es mou menys que de costum, els moviments canvien o no el notes moure's**, **truca immediatament a la llevadora o a la unitat de maternitat**, a qualsevol hora del dia o de la nit. **No esperis a l'endemà**, encara que sigui enmig de la nit.\n- No et refiïs d'un monitor de batecs domèstic (doppler) ni d'una aplicació per quedar-te tranquil·la: fes-te revisar en persona."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Mal d'esquena a l'embaràs",
+      "aliases": [
+        "mal d'esquena embaràs",
+        "dolor d'esquena embaràs",
+        "dolor lumbar embarassada",
+        "lumbàlgia embaràs",
+        "mal de ronyons embaràs",
+        "dolor pelvià embaràs"
+      ],
+      "glance": "El mal d'esquena és molt freqüent a l'embaràs perquè els lligaments s'estoven i la panxa creix; normalment no és res greu.",
+      "overview": "El mal d'esquena és una de les molèsties més habituals de l'embaràs. A mesura que el cos es prepara per al part, els lligaments s'estoven i s'estiren de manera natural, i la panxa, que va creixent, canvia la manera com reparteixes el pes; totes dues coses sobrecarreguen la part baixa de l'esquena i la pelvis.\n\nCoses del dia a dia el poden alleujar: vigilar la postura quan estàs dreta, asseguda o aixeques pes; portar sabates planes que subjectin bé; un matalàs ferm o un coixí que et faci suport; i moviment suau i regular, com caminar, ioga per a embarassades o exercicis d'una classe. Si de debò t'està limitant, un fisioterapeuta especialitzat en obstetrícia et pot donar consells adaptats a tu.\n\nLa majoria de mals d'esquena de l'embaràs no són motiu de preocupació, però alguns patrons val la pena fer-los revisar aviat, i per a això serveixen les indicacions de més avall.",
+      "deep": null,
+      "when_to_see_doctor": "Contacta aviat amb el teu **metge de capçalera o la llevadora** si el mal d'esquena:\n\n- és **fort** o apareix en el **segon o tercer trimestre** (de vegades pot ser un signe que el part s'avança)\n- va acompanyat de **febre, sagnat vaginal o dolor en fer pipí**\n- és **al costat (o als costats), sota les costelles**",
+      "red_flags": "- Truca al **{{emergency}} o ves a urgències** si **perds la sensibilitat a les cames, les natges o els genitals**, o perds el control de la bufeta o de l'intestí. És poc freqüent, però necessita atenció d'urgència."
+    },
+    "basal-body-temperature": {
+      "title": "Temperatura basal",
+      "aliases": [
+        "temperatura basal",
+        "temperatura basal corporal",
+        "bbt",
+        "temperatura en despertar-se",
+        "mètode de la temperatura",
+        "gràfica de temperatura",
+        "termòmetre basal"
+      ],
+      "glance": "La temperatura basal és la temperatura del teu cos en repòs al matí, que puja lleugerament després de l'ovulació.",
+      "overview": "La temperatura basal corporal (BBT, per les sigles en anglès) és la temperatura del cos en repòs total. Si la mesures de la mateixa manera cada dia, mostra un canvi petit però revelador al llarg del cicle: després de l'ovulació puja una mica i es manté alta fins a la regla següent.\n\nLa pujada és petita, d'uns 0,4 a 0,8 °F (aproximadament de 0,2 a 0,4 °C), així que es llegeix a partir d'un patró de diversos dies, no d'una sola mesura. Per detectar-la, et prens la temperatura cada matí abans de llevar-te, menjar o beure, idealment a la mateixa hora. Uns tres dies després que la temperatura comenci a pujar, gairebé totes les persones ja han ovulat.\n\nCom que la pujada arriba *després* que s'alliberi l'òvul, la temperatura basal confirma que l'ovulació ja ha passat, més que no pas predir-la per endavant. Al cap d'uns quants cicles et pot ajudar a veure la forma del teu propi cicle, tot i que, per si sola, no és una manera precisa de detectar els dies fèrtils.",
+      "deep": "La temperatura basal és un dels signes de coneixement de la fertilitat que es registren cada dia, juntament amb el moc cervical i la durada del cicle. Combina de manera natural amb el seguiment del moc: el canvi a un moc transparent i relliscós indica que la finestra fèrtil s'està obrint, mentre que la pujada de temperatura uns dies més tard confirma que l'ovulació ja ha passat. Moltes coses poden alterar una mica la temperatura en repòs (dormir malament, estar malalta, l'alcohol o llevar-se més tard del normal), de manera que una mesura estranya aïllada importa menys que la tendència general.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Sagnat a l'embaràs",
+      "aliases": [
+        "sagnat a l'embaràs",
+        "sagnat vaginal embaràs",
+        "tacament a l'embaràs",
+        "taques de sang embaràs",
+        "pèrdues de sang embaràs",
+        "sang embarassada"
+      ],
+      "glance": "El sagnat a l'embaràs no sempre és greu (tacar una mica al principi és freqüent), però sempre cal fer-lo revisar.",
+      "overview": "Sagnar per la vagina durant l'embaràs no sempre és senyal que alguna cosa vagi malament. Un sagnat lleu o un tacament són força habituals, sobretot al principi de l'embaràs, i molts embarassos continuen perfectament bé després.\n\nDit això, el sagnat de vegades pot ser un signe d'un problema, com un avortament espontani o un embaràs ectòpic, de manera que és una cosa que cal **revisar sempre**, sigui quina sigui la quantitat. Fer-lo mirar és la manera de trobar-ne la causa i de rebre ràpidament l'atenció adequada si la necessites.\n\nCom que el mateix símptoma pot voler dir coses molt diferents, el pas útil no és endevinar-ho, sinó posar-te en contacte amb algú i que et visitin.",
+      "deep": null,
+      "when_to_see_doctor": "- **Contacta sempre amb la teva unitat de maternitat** (o, si estàs de menys de 20 setmanes o no en tens el número, amb una unitat d'embaràs inicial o amb un **metge de guàrdia**) si tens **qualsevol** sagnat vaginal durant l'embaràs, encara que sigui un tacament lleu, perquè en puguin revisar la causa.",
+      "red_flags": "- Truca al **{{emergency}} o ves a urgències** si tens un **sagnat abundant** (per exemple, si xopes una compresa poc després de posar-te-la), sobretot si va acompanyat de **dolor fort de panxa, dolor a la punta de l'espatlla, o si tens nàusees, sensació de desmai, mareig o perds el coneixement.** Això necessita atenció d'urgència."
+    },
+    "breast-awareness": {
+      "title": "Conèixer els teus pits",
+      "aliases": [
+        "conèixer els pits",
+        "autoexploració mamària",
+        "revisar-se els pits",
+        "exploració dels pits",
+        "bony al pit",
+        "palpar-se el pit",
+        "mames"
+      ],
+      "glance": "Conèixer els teus pits és, simplement, saber com són i com es noten normalment, perquè puguis detectar-hi canvis.",
+      "overview": "Conèixer els teus pits no és cap tècnica especial: és només saber què és normal per a tu, perquè qualsevol cosa nova destaqui. Revisar-te els pits (o el tòrax) regularment t'ajuda a aprendre com són i com es noten habitualment; un cop al mes és un bon ritme.\n\nNo hi ha una única manera «correcta». Moltes persones es miren al mirall amb els braços avall i després aixecats, i es palpen cada pit fins a l'aixella. El que construeixes és familiaritat, no un diagnòstic: l'objectiu és només notar aviat un canvi, si n'hi ha.\n\nEls pits també canvien de manera natural al llarg del cicle i de la vida, de manera que alguns canvis són del tot normals. La idea és conèixer prou bé què és normal per a tu per detectar allò que no ho és.",
+      "deep": null,
+      "when_to_see_doctor": "Ves al metge de capçalera si notes qualsevol canvi que no sigui normal per a tu, com ara:\n\n- un bony o una inflor al pit, al tòrax o a l'aixella\n- un canvi a la pell, com ara enfonsaments (pot semblar pell de taronja) o envermelliment\n- un canvi en la mida o la forma d'un pit o de tots dos\n- secreció pel mugró (si no estàs embarassada ni alletant), que pot contenir sang\n- un canvi en l'aspecte del mugró, per exemple que s'enfonsi cap endins\n- dolor al pit o a l'aixella que no desapareix\n\nLa majoria de canvis als pits no són càncer i resulten ser benignes, però sempre val la pena fer revisar aviat qualsevol canvi, perquè si alguna cosa necessita atenció, detectar-la aviat ajuda.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Lactància materna",
+      "aliases": [
+        "lactància materna",
+        "donar el pit",
+        "alletament",
+        "alletar",
+        "llet materna",
+        "lactància"
+      ],
+      "glance": "La llet materna protegeix el nadó de les infeccions i s'adapta a mesura que creix; qualsevol quantitat té beneficis.",
+      "overview": "La llet materna és un aliment natural i complet per al nadó: li aporta la nutrició, les vitamines i els minerals que necessita, i canvia amb el temps per adaptar-se a cada etapa. També ajuda a protegir-lo d'infeccions i malalties, i ofereix alguns beneficis per a la salut a llarg termini.\n\nTambé hi ha beneficis per a la persona que alleta (la lactància s'associa a un risc més baix de càncer de mama i d'ovari, entre altres coses), i, en general, com més i més temps alletis, més grans són els beneficis. És important saber que **qualsevol** quantitat de llet materna val la pena; no és tot o res.\n\nAlimentar un nadó també pot ser més difícil del que esperaves al principi, i això és habitual. Hi ha ajuda disponible (la teva llevadora, la infermera de pediatria i els grups locals de suport a la lactància), així que demanar ajuda aviat si les coses no van bé és una bona idea.",
+      "deep": null,
+      "when_to_see_doctor": "- Demana ajuda aviat a la **llevadora o a la infermera de pediatria** si alletar et fa mal o et costa, o si et preocupa que el nadó no mengi prou: el suport pot marcar una gran diferència.\n- Com alimentes el teu nadó és una decisió personal, i tens suport triïs el que triïs; el que importa és que tu i el teu nadó estigueu bé.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Flux marró",
+      "aliases": [
+        "flux marró",
+        "taques marrons",
+        "tacar marró",
+        "sang marró",
+        "sang vella",
+        "flux fosc",
+        "regla marró"
+      ],
+      "glance": "El flux marró sol ser una mica de sang, sovint els dies més lleugers de la regla. Si taques de color marró en altres moments, val la pena fer-ho revisar.",
+      "overview": "El flux marró és una petita quantitat de sang o de fluid de color marronós que notes a la roba interior o al paper higiènic. Molta gent el veu en algun moment, i molt sovint forma part, simplement, de la regla.\n\nLa sang de la regla no sempre és d'un vermell viu. Els dies de més flux sol ser vermella, però els dies més lleugers pot semblar rosada o marró. Per tant, un to marronós els dies més lleugers de la regla és una cosa habitual i normal.\n\nEl marró també pot aparèixer en altres moments. El tacament són petites taques de sang rosada, vermella o marró, i el tacament entre regles té diverses causes habituals. L'anticoncepció hormonal, com la píndola, n'és una de freqüent. D'altres són petits creixements a l'úter o al seu voltant (com pòlips o miomes) i infeccions com la clamídia. Al principi de l'embaràs, algunes persones noten un petit tacament cap al moment en què els hauria de venir la regla. És el que s'anomena sagnat d'implantació.\n\nCom que el tacament marró fora de la regla pot tenir causes diferents, la majoria sense importància, el pas útil no és endevinar-ho. És fer-ho mirar, perquè sàpigues què hi ha al darrere en el teu cas.",
+      "deep": null,
+      "when_to_see_doctor": "- Ves al metge de capçalera o a un centre de salut sexual si tens **taques marrons o sagnat entre regles o després de les relacions sexuals**, encara que sigui lleu. Normalment no és greu, però sempre val la pena fer-ho revisar.\n- Si **estàs embarassada, o ho podries estar**, contacta amb la unitat de maternitat, una unitat d'embaràs inicial o un **metge de guàrdia** per qualsevol tacament, també si és marró, perquè en puguin revisar la causa.\n- Ves al metge de capçalera si notes **qualsevol flux o sagnat marró o rosat després de la menopausa**, encara que sigui poca quantitat o només hagi passat una vegada.\n- Demana consell al metge de capçalera, a un centre de salut sexual o a un metge de guàrdia si el flux **canvia de color, d'olor o de textura**, o si va acompanyat de picor, irritació, dolor pèlvic o dolor en fer pipí.",
+      "red_flags": "- Demana una visita **urgent** al metge de capçalera, o contacta amb un **metge de guàrdia**, si **fa poc que no t'ha vingut la regla i tens un sagnat inusual juntament amb dolor de panxa o pèlvic**. Cal revisar-ho ràpidament, perquè pot ser un signe d'embaràs ectòpic.\n- Si estàs embarassada, truca al **{{emergency}}** si sagnes i tens **dolor fort de panxa, dolor a l'espatlla, sensació de desmai, mareig o nàusees, o si el sagnat és abundant** (xopes una compresa poc després de posar-te-la)."
+    },
+    "cervical-mucus": {
+      "title": "Moc cervical",
+      "aliases": [
+        "moc cervical",
+        "flux",
+        "flux vaginal",
+        "secrecions cervicals",
+        "moc com clara d'ou",
+        "moc fèrtil",
+        "mucositat vaginal"
+      ],
+      "glance": "El moc cervical és el flux natural que canvia al llarg del cicle i que assenyala els teus dies fèrtils.",
+      "overview": "El moc cervical és el fluid que produeix el coll de l'úter, i que pots notar com a flux vaginal. És normal, i el seu aspecte i la seva textura canvien seguint un patró força previsible al llarg del cicle; per això és un dels signes que es fan servir per detectar els dies fèrtils.\n\nJust després de la regla sovint hi ha uns quants dies «secs», amb poc moc. Quan un òvul comença a madurar, el moc augmenta i sol ser blanc o groguenc, tèrbol i enganxós. Els dies just abans de l'ovulació normalment es torna transparent, humit i relliscós, i s'estira entre els dits com la clara d'ou crua: és el moment més fèrtil. Després de l'ovulació, normalment torna a ser enganxós i tèrbol, o s'asseca.\n\nEl patró de cada persona és una mica diferent, i pot caldre fixar-s'hi durant uns quants cicles per conèixer el teu. Algunes coses, com l'anticoncepció hormonal, la lactància o una infecció, poden canviar el moc, de manera que no és un signe de fertilitat fiable per a tothom.",
+      "deep": "Observar el moc cervical és un dels signes de coneixement de la fertilitat que la gent registra, juntament amb la temperatura corporal en repòs i la durada del cicle; aprendre a interpretar-los sol portar de dos a tres cicles. A diferència de la pujada de temperatura, que confirma l'ovulació només quan ja ha passat, el canvi a un moc transparent, relliscós i semblant a la clara d'ou sol aparèixer *abans* de l'ovulació, i per això es fa servir per assenyalar la finestra fèrtil quan s'obre, i no quan ja s'ha tancat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Cribratge de coll d'úter (citologia)",
+      "aliases": [
+        "citologia",
+        "cribratge cervical",
+        "cribratge de càncer de coll d'úter",
+        "papanicolau",
+        "prova de papanicolau",
+        "test del vph",
+        "revisió ginecològica"
+      ],
+      "glance": "La citologia és una revisió rutinària de la salut del coll de l'úter que ajuda a prevenir el càncer de coll d'úter.",
+      "overview": "El cribratge de coll d'úter (la citologia) és una prova que revisa la salut del coll de l'úter, l'entrada de l'úter a la part superior de la vagina. No és una prova per detectar càncer. És, més aviat, una manera de detectar canvis aviat i ajudar a evitar que arribi a desenvolupar-se un càncer de coll d'úter.\n\nTotes les persones amb coll d'úter hi són convidades des dels 25 fins als 64 anys. Quan et toca, a intervals regulars, reps una invitació, de manera que no cal que et recordis de demanar-la pel teu compte, tot i que anar-hi sempre és decisió teva.\n\nLa prova en si és ràpida i la fa una infermera. Molta gent hi va una mica nerviosa, cosa del tot comprensible; saber per a què serveix (una revisió rutinària i preventiva) pot fer que sigui més fàcil de portar.",
+      "deep": null,
+      "when_to_see_doctor": "- El cribratge és per a quan **no** tens símptomes. Si entre una prova i la següent notes alguna cosa que et preocupa, com un sagnat inusual (entre regles, després de les relacions sexuals o després de la menopausa), ves al metge de capçalera en lloc d'esperar la propera invitació.\n- Si t'han convidat i dubtes o et fa angoixa anar-hi, val la pena parlar-ne amb el metge de capçalera o la infermera del centre de salut, que et poden explicar què es fa i respondre les teves preguntes.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Maltractament infantil i protecció dels infants",
+      "aliases": [
+        "maltractament infantil",
+        "abús infantil",
+        "protecció de menors",
+        "protegir un infant",
+        "preocupació per un infant",
+        "negligència infantil",
+        "maltractament de nens"
+      ],
+      "glance": "Si et preocupa que un infant pugui estar patint danys o negligència, fas bé de demanar consell: no cal que n'estiguis del tot segura.",
+      "overview": "El maltractament infantil és qualsevol dany a una persona menor de 18 anys. Inclou el maltractament físic, sexual i emocional, i la negligència (no cobrir les necessitats bàsiques d'un infant). Malauradament és freqüent, pot causar un dany per a tota la vida i mai no és culpa de l'infant.\n\nPotser tens una preocupació per un infant del teu entorn, o per un infant en qui t'has fixat. No cal que n'estiguis segura ni que en tinguis proves per actuar davant d'aquesta preocupació: fer-hi cas i demanar consell és exactament el que cal fer, i pot protegir un infant.\n\nI si tu mateixa vas patir maltractament de petita, has de saber que el dany mai no va ser culpa teva, i que també hi ha suport per a tu, a qualsevol edat.",
+      "deep": null,
+      "when_to_see_doctor": "- Si et preocupa un infant, pots contactar amb els **serveis de protecció de la infància / serveis socials**, amb una **línia d'atenció específica per a la infància** o amb el **metge de capçalera, la infermera de pediatria o l'escola de l'infant** per demanar consell, de manera confidencial.\n- No estàs «exagerant» per preguntar. És millor comprovar-ho que esperar.",
+      "red_flags": "- Si un infant està en **perill immediat** o greument ferit, contacta ara mateix amb els serveis d'emergència: **112** a la UE (inclosa Itàlia), **999** al Regne Unit, **911** als Estats Units i el Canadà."
+    },
+    "coercive-control": {
+      "title": "Control coercitiu",
+      "aliases": [
+        "control coercitiu",
+        "conducta controladora",
+        "maltractament psicològic",
+        "abús emocional",
+        "aïllament",
+        "violència econòmica",
+        "gaslighting",
+        "parella controladora"
+      ],
+      "glance": "El control coercitiu és un patró de conducta controladora (aïllar, vigilar, amenaçar) reconegut com una forma de maltractament.",
+      "overview": "El control coercitiu és una forma de maltractament que actua mitjançant el control en lloc del dany físic, o a més d'aquest. És un patró, no una discussió aïllada, en què una persona limita a poc a poc la llibertat i la identitat de l'altra.\n\nPot ser que et tallin el contacte amb amics i família, que et vigilin o et restringeixin el mòbil, els moviments o les despeses, que et diguin què t'has de posar o com t'has de comportar, o que visquis amb crítiques, amenaces o intimidació constants. Com que potser no hi ha blaus, pot costar posar-hi nom, i és possible que els altres no ho vegin, però està reconegut com a maltractament i pot fer tant de mal com la violència física.\n\nSi reconeixes una part d'això, no vol dir que siguis massa sensible ni que t'ho hagis buscat. La conducta controladora és una decisió que pren l'altra persona. Entendre-la pel que és pot ser el primer pas per trobar suport.",
+      "deep": "El control coercitiu sovint s'instal·la a poc a poc, i això és part del que fa que costi veure'l des de dins: els petits controls es tornen normals i els dubtes sobre tu mateixa creixen. Amb el temps, desgasta la salut mental. Parlar-ne amb algú format per entendre aquests patrons et pot ajudar a veure la situació amb més claredat i a pensar què vols fer a continuació, sense pressions.",
+      "when_to_see_doctor": "- Un centre o una línia d'atenció contra la violència (a Itàlia, el **1522**) pot parlar amb tu del que estàs vivint, de manera confidencial i gratuïta, i ajudar-te a entendre les teves opcions: no cal que estiguis en perill físic per demanar ajuda.\n- El metge de capçalera o un terapeuta també et poden donar suport i orientar-te cap a serveis especialitzats.",
+      "red_flags": "- Si estàs en **perill immediat**, contacta ara mateix amb els serveis d'emergència: **112** a la UE (inclosa Itàlia), **999** al Regne Unit, **911** als Estats Units i el Canadà.\n- A Itàlia, el **1522** és gratuït, està disponible les 24 hores del dia, és anònim i multilingüe, per telèfon o per xat."
+    },
+    "combined-pill": {
+      "title": "La píndola combinada",
+      "aliases": [
+        "píndola combinada",
+        "la píndola",
+        "pastilla anticonceptiva",
+        "anticonceptiu oral combinat",
+        "anticonceptius orals",
+        "aoc"
+      ],
+      "glance": "La píndola combinada és una pastilla diària amb dues hormones que actua principalment impedint l'ovulació.",
+      "overview": "La píndola combinada és un comprimit diari que conté dues hormones, versions de l'estrogen i del progestagen semblants a les que produeixen els ovaris. És una de les formes d'anticoncepció més conegudes.\n\nEvita l'embaràs de diverses maneres alhora. Principalment, impedeix que els ovaris alliberin un òvul (l'ovulació). També espesseix el moc del coll de l'úter, cosa que dificulta el pas dels espermatozoides, i aprima el revestiment de l'úter.\n\nLa seva eficàcia depèn de prendre-la tal com està indicat: és eficaç en més d'un 99% amb un ús perfecte, però amb l'ús típic del dia a dia (quan de vegades t'oblides alguna píndola o la prens tard) és eficaç al voltant d'un 91%. Com la majoria de mètodes, no protegeix de les ITS, per això algunes persones també fan servir preservatius.",
+      "deep": "La píndola combinada normalment es pren seguint una pauta al llarg del mes; com s'ha de prendre, a qui li va bé i quins efectes secundaris i riscos té són coses que un professional sanitari repassa amb tu quan te la prescriu, perquè no és adequada per a tothom. Com que és un mètode diari, la seva eficàcia real depèn molt de la rutina. Aquest article explica què és i com funciona; els detalls de com començar-la, prendre-la o deixar-la són una conversa per tenir amb el metge de capçalera, la infermera o el farmacèutic.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Molèsties habituals de l'embaràs",
+      "aliases": [
+        "símptomes habituals de l'embaràs",
+        "molèsties de l'embaràs",
+        "cremor d'estómac embaràs",
+        "mal d'esquena embaràs",
+        "turmells inflats",
+        "restrenyiment embaràs",
+        "hemorroides embaràs",
+        "cames inflades"
+      ],
+      "glance": "L'embaràs porta moltes petites molèsties i canvis; la majoria són normals, però alguns val la pena fer-los revisar.",
+      "overview": "L'embaràs suposa molts canvis per al teu cos, i porta una llarga llista de petites molèsties del dia a dia. La majoria són habituals i no són senyal que res vagi malament: simplement formen part de gestar un nadó.\n\nAlgunes de les més conegudes són el mal d'esquena, la cremor d'estómac i la indigestió, el restrenyiment, les hemorroides, la inflor dels turmells, els peus i els dits, el cansament i el son entretallat, les rampes a les cames, els mals de cap, la sensació de desmai i tenir més flux vaginal del normal. Moltes milloren amb petites mesures per estar més còmoda, i la llevadora et pot suggerir què és segur si alguna cosa et molesta.\n\nEl que és útil és saber quins canvis són dels normals i quins convé comentar, perquè alguns símptomes, tot i que són menys freqüents, cal revisar-los en lloc d'esperar que passin.",
+      "deep": null,
+      "when_to_see_doctor": "La majoria són normals, però contacta aviat amb la **llevadora o la unitat de maternitat** si tens:\n\n- **sagnat vaginal**, o una sortida sobtada de líquid, a raig o a degotall\n- el teu **nadó es mou menys** que de costum\n- un **mal de cap fort, problemes de visió o una inflor sobtada** de la cara, les mans o els peus (possibles signes de preeclàmpsia)\n- **dolor de panxa fort o només en un costat**, o **febre**\n- **picor**, sobretot a les mans i als peus o que empitjora a la nit (pot ser un signe d'una afecció del fetge durant l'embaràs que cal revisar)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Preservatius",
+      "aliases": [
+        "preservatiu",
+        "preservatius",
+        "condó",
+        "goma",
+        "preservatiu masculí",
+        "preservatiu femení",
+        "mètode barrera"
+      ],
+      "glance": "Els preservatius són un mètode barrera, i l'únic tipus d'anticoncepció que també protegeix de les ITS.",
+      "overview": "Un preservatiu és una barrera fina, normalment de làtex o d'un material plàstic alternatiu per a qui té al·lèrgia al làtex, que es posa al penis durant les relacions sexuals. Funciona de manera senzilla: impedeix que els espermatozoides entrin a la vagina.\n\nEl que fa especials els preservatius entre els anticonceptius és que són **l'únic mètode que també protegeix de les infeccions de transmissió sexual (ITS), inclòs el VIH.** Per això sovint es fan servir juntament amb un altre mètode: un per a l'embaràs, i tots dos junts per protegir-se de les infeccions.\n\nSi es fan servir correctament cada vegada, els preservatius són eficaços en un 98% aproximadament per prevenir l'embaràs. Amb l'ús típic (quan de vegades es fan servir malament o no cada vegada), aquesta xifra baixa al voltant d'un 82%. Fer-ne servir un correctament i sempre és el que marca la diferència.",
+      "deep": "Com que els preservatius es fan servir en el moment i no per endavant, la seva eficàcia real depèn molt d'un ús correcte i constant. Els preservatius interns (que es col·loquen dins la vagina) són una altra opció de barrera. A diferència de la majoria de mètodes, els preservatius no necessiten recepta i són fàcils d'aconseguir, i la seva doble funció (protecció contra l'embaràs i contra les ITS) és el motiu pel qual surten tan sovint quan es parla de sexe més segur.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Consentiment i respecte",
+      "aliases": [
+        "consentiment",
+        "respectar els seus límits",
+        "consentiment entusiasta",
+        "autonomia corporal",
+        "només sí és sí",
+        "respecte a la parella"
+      ],
+      "glance": "El consentiment és un sí clar, lliure i entusiasta, cada vegada, i es pot retirar en qualsevol moment.",
+      "overview": "El respecte comença pel seu dret a decidir sobre el seu propi cos, sempre. Consentir a la intimitat vol dir un **sí** lliure, informat i entusiasta. El silenci no és consentiment. Un «d'acord» a contracor no és consentiment. Una persona que dorm, que ha begut molt o que està sota pressió no pot consentir de veritat. I un sí a una cosa, o un dia concret, no és un sí a tot ni a la vegada següent.\n\nEl consentiment es pot retirar en qualsevol moment, i «para» o «avui no» són una resposta completa que no necessita cap justificació. Pressionar-la, fer-la sentir culpable, posar mala cara fins que cedeixi o tractar el sexe com una cosa que se't deu no està bé: una relació no és un deute.",
+      "deep": "Com es veu el respecte a la pràctica:\n\n- **Pregunta i comprova.** «Et va bé això?», i fixa't en com respon, amb paraules i amb el cos.\n- **Accepta un «no» amb elegància.** Res de morros, pressions ni càstigs. La seva resposta és el punt final.\n- **L'entusiasme importa.** Si sembla insegura, dubta o simplement s'hi deixa portar, para i pregunta.\n- **El seu cos, la seva decisió**: sobre la intimitat, l'anticoncepció, l'embaràs, la seva salut, el seu aspecte i les seves decisions. Tu tens veu en la vida que compartiu, però mai dret de veto sobre el seu cos.\n- **El respecte és de cada dia.** Com li parles, com parles d'ella i com respectes els seus límits en les coses petites és la base sobre la qual es construeix tota la resta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Anticoncepció",
+      "aliases": [
+        "anticoncepció",
+        "anticonceptius",
+        "mètodes anticonceptius",
+        "contracepció",
+        "control de natalitat",
+        "planificació familiar"
+      ],
+      "glance": "L'anticoncepció són les diferents maneres de prevenir l'embaràs, i n'hi ha moltes per triar.",
+      "overview": "L'anticoncepció, de vegades anomenada control de natalitat, és el conjunt de mètodes que es fan servir per prevenir l'embaràs. N'hi ha molts, i funcionen de maneres diferents: alguns fan servir hormones, alguns són de barrera, alguns es col·loquen dins l'úter i alguns es basen en el seguiment del cicle.\n\nL'eficàcia d'un mètode depèn molt de com es fa servir. Alguns mètodes, com l'implant i els DIU, són de «posar i oblidar», i són eficaços en més d'un 99%. D'altres, com la píndola o els preservatius, són molt eficaços quan es fan servir perfectament, però una mica menys amb l'ús típic del dia a dia, perquè és més fàcil oblidar una píndola o fer servir malament un preservatiu.\n\nUna cosa que val la pena saber: **només els preservatius protegeixen també de les infeccions de transmissió sexual (ITS)**. Els altres mètodes prevenen l'embaràs però no les infeccions, i per això de vegades els preservatius es fan servir juntament amb un altre mètode.\n\nNo hi ha un únic mètode «millor»: el més adequat depèn de la teva salut, del teu cos i del que encaixa amb la teva vida. El metge de capçalera o un centre de salut sexual et poden explicar les opcions i ajudar-te a triar.",
+      "deep": "Com que els mètodes són tan diferents, ajuda pensar què és important per a tu: quina eficàcia té, si implica recordar alguna cosa cada dia, quant de temps dura, si vols hormones o no, i si la protecció contra les ITS és important en la teva situació. Molta gent canvia de mètode al llarg de la vida a mesura que canvien les seves necessitats. Aquesta base de coneixement descriu com funcionen els mètodes habituals perquè les opcions siguin més clares, però la decisió, i qualsevol prescripció o col·locació, s'ha de prendre amb un professional sanitari.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Anticoncepció i pes",
+      "aliases": [
+        "la píndola fa engreixar",
+        "píndola i augment de pes",
+        "anticonceptius engreixen",
+        "anticoncepció i pes",
+        "engreixar-se amb la píndola",
+        "injecció anticonceptiva pes",
+        "implant i pes"
+      ],
+      "glance": "No hi ha proves que la píndola combinada faci augmentar de pes, però la injecció anticonceptiva sí que pot fer-ho. Depèn del mètode.",
+      "overview": "Preguntar-se si l'anticoncepció et farà augmentar de pes és molt habitual. La resposta sincera és que depèn del mètode.\n\nPel que fa a la píndola combinada, les dades són tranquil·litzadores: no hi ha proves que prendre-la faci augmentar de pes. El mateix passa amb el pegat anticonceptiu i l'anell vaginal.\n\nLa injecció anticonceptiva és diferent. Augmentar de pes figura com un dels seus efectes secundaris freqüents, juntament amb canvis en la regla.\n\nPel que fa a la píndola només de progestagen (de vegades anomenada minipíndola) i l'implant anticonceptiu, algunes persones diuen que han augmentat de pes. Però no hi ha prou proves per saber si el mètode en si n'és la causa.\n\nEl pes és només una part del conjunt. Cada mètode té la seva pròpia llista de possibles efectes secundaris i riscos, i triar un anticonceptiu consisteix a trobar el que s'adapta al teu cos, a la teva salut i a la teva vida. Un farmacèutic, el metge de capçalera, una infermera o un centre de salut sexual poden repassar les opcions amb tu.",
+      "deep": null,
+      "when_to_see_doctor": "- Si els efectes secundaris, inclosos els canvis de pes, són un problema per a tu, parla amb un farmacèutic, el metge de capçalera, una infermera o un centre de salut sexual. Amb la píndola combinada, el pegat o l'anell, alguns efectes secundaris poden aparèixer quan comences. Si al cap d'uns 3 mesos encara et molesten, un professional sanitari pot parlar amb tu d'una altra píndola o d'un altre tipus d'anticoncepció.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "L'implant anticonceptiu",
+      "aliases": [
+        "implant anticonceptiu",
+        "l'implant",
+        "implant al braç",
+        "implant subdèrmic",
+        "Nexplanon",
+        "vareta al braç"
+      ],
+      "glance": "L'implant és una vareta petita que es col·loca a la part superior del braç i allibera una hormona durant uns quants anys.",
+      "overview": "L'implant anticonceptiu és una vareta petita i flexible, més o menys de la mida d'un llumí, que un professional format col·loca just sota la pell de la part superior del braç. Un cop posat, allibera de manera constant una hormona, un progestagen, i funciona fins a uns tres anys.\n\nEvita l'embaràs principalment impedint que els ovaris alliberin un òvul (l'ovulació) i espessint el moc del coll de l'úter perquè els espermatozoides no hi puguin passar. Com que no s'ha de recordar res cada dia, és un dels mètodes de «posar i oblidar».\n\nPer això també és una de les opcions més fiables: l'implant és eficaç en més d'un 99%, i la seva eficàcia gairebé no canvia entre l'ús perfecte i el típic. Com altres mètodes hormonals, no protegeix de les ITS.",
+      "deep": "L'implant és un mètode reversible de llarga durada: continua funcionant fins que es retira, i la fertilitat torna després de retirar-lo. Col·locar-lo i treure'l són procediments ràpids que fa un professional sanitari, que també t'explica a qui li va bé i quins efectes secundaris té. Aquest article explica què és i com funciona; la decisió de posar-te'n un és una conversa per tenir amb el metge de capçalera, la infermera o un centre de salut sexual.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "El teu cicle i el teu benestar",
+      "aliases": [
+        "benestar",
+        "cicle i salut",
+        "cicle menstrual i salut",
+        "regla i salut",
+        "signe vital",
+        "regles irregulars"
+      ],
+      "glance": "El teu cicle és una mena de revisió mensual de la teva salut: val la pena fixar-se en els canvis.",
+      "overview": "El cicle menstrual no està separat de la resta de la teva salut: hi està connectat. Un cicle que és regular per a tu sol ser senyal que el cos funciona com cal. Per això hi ha qui considera la regla una mena de senyal mensual sobre el benestar general.\n\nLa vida quotidiana hi influeix. El pes corporal n'és un exemple: tenir un pes força per sota o per sobre del normal pot afectar les hormones que regulen l'ovulació, cosa que pot fer que les regles siguin irregulars. Això funciona en tots dos sentits: cuidar els aspectes bàsics, com menjar de manera equilibrada i mantenir-te activa, ajuda el cicle, i un cicle estable és senyal que aquestes coses estan raonablement equilibrades.\n\nNo es tracta de perseguir un cicle «perfecte» ni de culpar-te pels canvis. Senzillament, prestar una atenció tranquil·la al teu cicle pot ser una finestra útil per veure com estàs, i un recordatori per consultar un professional sanitari si alguna cosa canvia.",
+      "deep": null,
+      "when_to_see_doctor": "- Ves al metge de capçalera si les regles es tornen irregulars, s'aturen o canvien d'una manera que no és habitual per a tu: els canvis persistents de vegades poden indicar alguna cosa que val la pena investigar.\n- També val la pena parlar-ne si els problemes amb la regla afecten el teu dia a dia, perquè puguis rebre suport en lloc de simplement aguantar-los.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Violència econòmica",
+      "aliases": [
+        "violència econòmica",
+        "maltractament econòmic",
+        "abús financer",
+        "control dels diners",
+        "controlar les finances",
+        "deutes al meu nom",
+        "em controla els diners"
+      ],
+      "glance": "La violència econòmica és controlar l'accés d'una persona als diners, a la feina o als recursos, i és una forma reconeguda de maltractament.",
+      "overview": "La violència econòmica es produeix quan algú controla l'accés d'una altra persona als diners i a les coses que es compren amb diners. És una forma de conducta controladora, i sovint va de la mà d'altres tipus de maltractament.\n\nPot ser que et controli totes les despeses o que t'obligui a justificar cada cèntim, que et prengui el sou o les prestacions, que contregui deutes al teu nom, que t'amagui els comptes bancaris o els documents, o que t'impedeixi treballar o estudiar. Com que pot deixar una persona sense mitjans per marxar o per tirar endavant el dia a dia, és una de les maneres en què el maltractament pot semblar una trampa.\n\nSi alguna cosa d'això et resulta familiar, no vol dir que «no sàpigues gestionar els diners» ni que en tinguis la culpa. Controlar els recursos d'una altra persona és una decisió que pren l'altra persona, i està reconegut com a maltractament.",
+      "deep": null,
+      "when_to_see_doctor": "- Els serveis contra la violència també et poden ajudar amb això, no només amb la seguretat sinó també amb passos pràctics i econòmics, de manera confidencial i gratuïta (a Itàlia, la línia **1522** et pot orientar cap a suport local).\n- Un pla de seguretat pot incloure assegurar-te discretament l'accés a una mica de diners, als documents clau i als números importants.",
+      "red_flags": "- Si estàs en **perill immediat**, contacta ara mateix amb els serveis d'emergència: **112** a la UE (inclosa Itàlia), **999** al Regne Unit, **911** als Estats Units i el Canadà.\n- A Itàlia, el **1522** (gratuït, 24 hores al dia, anònim i multilingüe) et pot ajudar per telèfon o per xat."
+    },
+    "ectopic-pregnancy": {
+      "title": "Embaràs ectòpic",
+      "aliases": [
+        "embaràs ectòpic",
+        "ectòpic",
+        "embaràs extrauterí",
+        "embaràs tubàric",
+        "embaràs a la trompa"
+      ],
+      "glance": "Un embaràs ectòpic es desenvolupa fora de l'úter: no pot continuar i necessita atenció mèdica ràpida.",
+      "overview": "Un embaràs ectòpic es produeix quan un òvul fecundat s'implanta fora de l'úter, sovint en una de les trompes de Fal·lopi. Malauradament, un embaràs en aquesta posició no pot arribar a ser un nadó, i no es pot traslladar a l'úter, de manera que sempre s'ha de tractar.\n\nEls signes solen aparèixer aproximadament entre les setmanes 4 i 12, i poden incloure dolor a la part baixa de la panxa en un costat, sagnat vaginal o un flux marró i aigualit, dolor a la punta de l'espatlla, o molèsties en fer pipí o caca. La combinació de símptomes varia, i alguns es poden confondre fàcilment amb una cosa sense importància; per això és important fer-los revisar.\n\nÉs una situació poc freqüent, però potencialment greu, de manera que no és una cosa per esperar a veure què passa. Demanar consell aviat permet tractar-la amb seguretat.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta amb el metge de capçalera o amb un **metge de guàrdia** si tens una combinació d'aquests símptomes **i podries estar embarassada**, encara que no hagis tingut un test d'embaràs positiu. És important demanar consell de seguida.",
+      "red_flags": "- Truca al **{{emergency}} o ves a urgències** si tens un **dolor sobtat, agut i intens a la panxa**, et notes **molt marejada o a punt de desmaiar-te**, estàs **molt pàl·lida** o tens nàusees juntament amb això. Pot voler dir que la trompa de Fal·lopi s'ha trencat, una emergència mèdica que necessita tractament urgent."
+    },
+    "emergency-contraception": {
+      "title": "Anticoncepció d'emergència",
+      "aliases": [
+        "anticoncepció d'emergència",
+        "píndola de l'endemà",
+        "pastilla del dia després",
+        "píndola postcoital",
+        "pdd",
+        "Levonelle",
+        "ellaOne"
+      ],
+      "glance": "L'anticoncepció d'emergència pot evitar l'embaràs després d'unes relacions sexuals sense protecció, i com més aviat, millor.",
+      "overview": "L'anticoncepció d'emergència és una manera d'evitar l'embaràs després d'haver tingut relacions sexuals sense anticoncepció, o quan el teu mètode habitual pot haver fallat (una píndola oblidada, un preservatiu trencat). N'hi ha de dos tipus, i en tots dos casos el moment és important.\n\nLa primera opció és la **píndola d'emergència**. N'hi ha de dos tipus: una (el levonorgestrel) es pot prendre fins a 3 dies (72 hores) després de la relació sexual, i l'altra (l'acetat d'ulipristal, de marca ellaOne), fins a 5 dies (120 hores). La segona opció és el **DIU de coure (dispositiu intrauterí)**, que un professional sanitari pot col·locar fins a 5 dies després de la relació; és la forma d'anticoncepció d'emergència més eficaç, i després es pot quedar posat com a anticonceptiu habitual, si vols.\n\nEn tots els casos, **com més aviat els facis servir, millor solen funcionar**, així que val la pena actuar ràpidament en lloc d'esperar. Pots aconseguir anticoncepció d'emergència a la farmàcia, al metge de capçalera, en un centre de salut sexual o en un centre d'atenció sense cita prèvia, sovint gratuïtament.",
+      "deep": null,
+      "when_to_see_doctor": "- Com que el temps compta, no esperis: a la farmàcia et poden donar la píndola d'emergència ràpidament, i en un centre de salut sexual o el metge de capçalera et poden col·locar el DIU.\n- L'anticoncepció d'emergència serveix per prevenir l'embaràs, no les infeccions. Si hi ha qualsevol possibilitat d'una infecció de transmissió sexual, en un centre de salut sexual t'aconsellaran sobre les proves.\n- Si després la regla se't retarda més d'uns quants dies, o és molt diferent del normal, val la pena fer-te un test d'embaràs i parlar amb un professional sanitari.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriosi",
+      "aliases": [
+        "endometriosi",
+        "endo",
+        "regla molt dolorosa",
+        "dolor pèlvic crònic",
+        "endometrioma"
+      ],
+      "glance": "L'endometriosi és una afecció en què un teixit semblant al revestiment de l'úter creix fora de l'úter, i sovint causa dolor.",
+      "overview": "L'endometriosi és una afecció de llarga durada en què cèl·lules semblants a les del revestiment de l'úter (la matriu) creixen en altres parts del cos, com al voltant dels ovaris, a la pelvis o a l'intestí. És freqüent: s'estima que afecta aproximadament 1 de cada 10 dones en edat reproductiva a tot el món.\n\nCom que aquest teixit es comporta una mica com el revestiment de l'úter, pot causar inflamació i, amb el temps, teixit cicatricial. El signe més habitual és el dolor: sovint un dolor de regla fort, però també dolor pèlvic o a la part baixa de l'esquena en altres moments, dolor durant les relacions sexuals o després, i dolor en fer pipí o caca. També són freqüents les regles molt abundants, un cansament profund, l'estat d'ànim baix i la dificultat per quedar-se embarassada. Els símptomes varien molt: algunes persones tenen un dolor fort, i d'altres, poc.\n\nL'endometriosi sovint no s'entén bé i pot trigar anys a reconèixer-se, en part perquè el dolor de regla es considera massa sovint «normal». Un dolor fort que et trastoca la vida no és una cosa que simplement hagis d'aguantar: val la pena prendre-se'l seriosament.",
+      "deep": "No se sap la causa exacta de l'endometriosi i ara com ara no té cura, però els tractaments poden ajudar a controlar els símptomes, i el suport va des dels medicaments fins a, en alguns casos, la cirurgia, a més d'ajuda per a l'impacte físic i emocional. Un dels reptes més grans és el retard: de mitjana, arribar a un diagnòstic pot trigar diversos anys, de vegades molts. Per això, entre altres coses, portar un registre clar dels teus símptomes i tornar a consultar un professional si no se t'escolta pot ser tan important.",
+      "when_to_see_doctor": "Val la pena anar al metge de capçalera si:\n\n- tens un dolor de regla fort que t'impedeix fer les activitats normals\n- les regles són molt abundants; per exemple, necessites canviar-te la compresa o el tampó cada 1–2 hores\n- tens dolor pèlvic o a la part baixa de l'esquena persistent, dolor durant les relacions sexuals o després, o dolor en fer pipí o caca\n- et costa quedar-te embarassada\n- el tractament que ja has fet no t'ha ajudat, o els símptomes han empitjorat\n\nCom que l'endometriosi pot trigar a diagnosticar-se, està bé tornar-hi si no es prenen seriosament els teus símptomes: tenir una imatge clara del teu dolor al llarg del temps ajuda. Si el dolor o el sagnat abundant també t'afecten l'estat d'ànim, explica-ho al metge de capçalera; forma part del quadre, i hi ha suport disponible.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogen",
+      "aliases": [
+        "estrogen",
+        "estrògens",
+        "oestrogen",
+        "estradiol",
+        "hormones femenines"
+      ],
+      "glance": "L'estrogen és una hormona clau que ajuda a preparar el cos per a un possible embaràs a cada cicle.",
+      "overview": "L'estrogen és una de les principals hormones del cicle menstrual. A la primera meitat del cicle (la fase fol·licular), el seu nivell puja a mesura que madura un fol·licle a l'ovari. Aquesta pujada fa més gruixut el revestiment de l'úter i condueix a l'ovulació.\n\nL'estrogen també influeix en coses que potser notes en el dia a dia: l'energia, l'estat d'ànim i els canvis en el moc cervical al voltant dels dies fèrtils. Després de l'ovulació, el seu nivell baixa i després torna a variar, i actua juntament amb una altra hormona, la progesterona, durant la segona meitat del cicle.\n\nEls nivells pugen i baixen de manera natural al llarg de cada cicle, i també canvien en les diferents etapes de la vida. Això és normal: és el ritme amb què funciona el teu cos, no una cosa que calgui «arreglar».",
+      "deep": "L'estrogen no és una sola substància sinó un grup d'hormones relacionades (la més activa durant el cicle és l'estradiol). La major part la produeixen els ovaris, al fol·licle que creix. La seva pujada i baixada cíclica (juntament amb la progesterona i les hormones de senyalització del cervell, la LH i l'FSH) és el que impulsa les fases del cicle. Com que l'estrogen actua en molts sistemes del cos, els seus canvis naturals es poden notar de petites maneres al llarg del mes; fer-ne el seguiment t'ajuda a conèixer el teu propi patró en lloc de comparar-lo amb una «mitjana».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Moviment i cicle",
+      "aliases": [
+        "exercici",
+        "activitat física",
+        "fer esport",
+        "entrenar",
+        "moviment",
+        "exercici i regla",
+        "esport amb la regla"
+      ],
+      "glance": "Pots mantenir-te activa durant tot el cicle, i el moviment regular pot alleujar el dolor de regla i la SPM.",
+      "overview": "Pots fer activitat física en qualsevol moment del cicle. Algunes persones noten que tenen més energia i poden exigir-se una mica més en certs moments del mes, i menys en d'altres; totes dues coses són normals, i cap no és motiu per deixar de moure's.\n\nL'activitat regular fins i tot pot ajudar amb alguns símptomes relacionats amb la regla. Les persones que fan exercici regularment sovint tenen menys rampes doloroses, i mantenir-se activa també pot alleujar els símptomes premenstruals (SPM). Els dies de menys energia, el moviment més suau també compta: no cal que sigui intens perquè valgui la pena.\n\nNo cal que organitzis la vida al voltant del cicle, i no hi ha una única manera «correcta» de moure's. Fixar-te en el teu propi patró d'energia al llarg del mes simplement et pot ajudar a planificar-te d'una manera que et faci sentir bé.",
+      "deep": null,
+      "when_to_see_doctor": "- Un entrenament molt intens, o fer tant exercici que el cos es quedi sense prou energia, pot fer que les regles es tornin irregulars o que s'aturin del tot. Un cicle regular sol ser senyal que les coses funcionen bé, així que val la pena parlar amb el metge de capçalera si les regles es tornen irregulars o s'aturen: amb el temps, això pot estar relacionat amb la salut dels ossos i de les hormones.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Exercici a l'embaràs",
+      "aliases": [
+        "exercici a l'embaràs",
+        "esport embarassada",
+        "mantenir-se activa embaràs",
+        "exercici embaràs",
+        "estar en forma embaràs",
+        "caminar embaràs"
+      ],
+      "glance": "Mantenir-se activa és segur i beneficiós en la majoria d'embarassos, amb suavitat i sense esgotar-te.",
+      "overview": "Mantenir-te activa durant l'embaràs és bo per a tu i no és perillós per al nadó; de fet, estar en forma et pot ajudar a afrontar els canvis que vindran i el part. No cal que comencis res d'intens: continuar amb la teva activitat diària normal, sempre que et sentis còmoda, és un bon punt de partida.\n\nUna regla pràctica senzilla: mentre et mous, has de poder **mantenir una conversa**. Si et falta tant l'alè que no pots parlar, afluixa. Opcions suaus com caminar, nedar, classes d'aquagim per a embarassades i ioga per a embarassades van bé a la majoria de persones. Si abans no feies activitat, no és el moment de començar una rutina nova i intensa: millor anar augmentant a poc a poc.\n\nHi ha algunes activitats que és millor evitar o fer amb precaució, com ara estirar-se panxa enlaire a partir de les 16 setmanes aproximadament, els esports de contacte, el submarinisme i qualsevol activitat amb un risc real de caiguda.",
+      "deep": null,
+      "when_to_see_doctor": "- Consulta la **llevadora** abans de començar un programa nou d'exercici aeròbic, o si tens algun problema de salut o alguna preocupació sobre l'embaràs.\n- **Para i demana consell** si et trobes malament, marejada o molt ofegada, o si tens qualsevol dolor, sagnat o contraccions mentre fas exercici.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "La finestra fèrtil",
+      "aliases": [
+        "finestra fèrtil",
+        "dies fèrtils",
+        "dies més fèrtils",
+        "període fèrtil",
+        "quan soc fèrtil"
+      ],
+      "glance": "La finestra fèrtil són els pocs dies de cada cicle en què les relacions sexuals poden portar a un embaràs.",
+      "overview": "La finestra fèrtil és el curt tram del cicle en què és possible quedar-se embarassada. Existeix per dos terminis que no acaben de coincidir: un òvul només pot ser fecundat durant unes 12 a 24 hores després d'alliberar-se, però els espermatozoides poden sobreviure dins el cos diversos dies (fins a una setmana, aproximadament) esperant un òvul.\n\nTot plegat vol dir que la finestra s'obre uns quants dies abans de l'ovulació i es tanca aproximadament un dia després. A la pràctica, ets més fèrtil els 2 o 3 dies previs a l'ovulació i el mateix dia, perquè els espermatozoides ja hi poden ser quan arriba l'òvul.\n\nCom que l'ovulació pot variar d'un cicle a l'altre, la finestra fèrtil també es mou. Per això se sol pensar com un interval de dies més que no pas com una data concreta, i per això registrar els signes durant diversos cicles és més fiable que refiar-se d'un sol càlcul al calendari.",
+      "deep": "Els dies exactes varien d'una persona a una altra i d'un mes a l'altre, de manera que la finestra s'estima millor a partir dels senyals del mateix cos que no pas amb una fórmula fixa. Els canvis en el moc cervical indiquen que la finestra s'obre a mesura que s'acosta l'ovulació, i una pujada de la temperatura corporal en repòs confirma (a posteriori) que l'ovulació ja ha passat i que la finestra s'ha tancat. Els tests d'ovulació actuen un pas abans: detecten el pic d'hormona luteïnitzant (LH) que es produeix poc abans que s'alliberi l'òvul.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "La primera regla",
+      "aliases": [
+        "primera regla",
+        "menarquia",
+        "començar a tenir la regla",
+        "quan em vindrà la regla",
+        "la regla per primer cop",
+        "baixar la regla"
+      ],
+      "glance": "La primera regla sol arribar cap als 12 anys; qualsevol edat entre els 8 i els 17, aproximadament, és normal.",
+      "overview": "La primera regla, de vegades anomenada menarquia, és quan el cicle menstrual comença per primera vegada. La majoria de persones la tenen cap als 12 anys, però qualsevol edat entre els 8 i els 17, aproximadament, és normal. Sovint arriba uns dos anys després que els pits comencin a desenvolupar-se.\n\nNormalment hi ha senyals abans: comença a créixer pèl a les aixelles i al pubis, i els mesos previs apareix una mica de flux transparent o blanc. Saber que arribaran pot fer que la primera regla no agafi tan per sorpresa.\n\nAl principi, les regles sovint són irregulars: el temps entre una i altra pot ser llarg o curt, i el cos pot trigar uns quants mesos, fins i tot un parell d'anys, a agafar un ritme més estable. Quan ho fa, les regles solen venir cada 23 a 35 dies, més o menys, i duren uns 2 a 7 dies. La irregularitat dels primers temps és normal i no és motiu de preocupació.",
+      "deep": null,
+      "when_to_see_doctor": "- Ves al metge de capçalera si la regla **no ha començat als 15 anys**, o als **13 si no hi ha cap altre signe de pubertat** (com el desenvolupament dels pits o el pèl corporal). És només per comprovar que tot es desenvolupa com cal; normalment tot va bé.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Àcid fòlic i vitamines a l'embaràs",
+      "aliases": [
+        "àcid fòlic",
+        "folat",
+        "fòlic",
+        "vitamina D embaràs",
+        "vitamines embaràs",
+        "suplements embaràs"
+      ],
+      "glance": "L'àcid fòlic abans i al principi de l'embaràs ajuda a protegir el nadó, a més d'una dosi diària de vitamina D.",
+      "overview": "Hi ha dos suplements que són realment importants a l'embaràs, i l'NHS recomana tots dos.\n\n**L'àcid fòlic** és el principal. Prendre un suplement de 400 micrograms cada dia (idealment des d'abans de quedar-te embarassada, uns tres mesos abans, i fins al final del primer trimestre, a les 12 setmanes) ajuda a protegir el nadó dels defectes del tub neural, com l'espina bífida. Com que actua tan aviat, és una de les poques coses que val la pena començar *abans* de l'embaràs si ho estàs intentant.\n\nL'altre és la **vitamina D**: es recomana un suplement diari de 10 micrograms durant tot l'embaràs i mentre alletes, per afavorir els ossos i el desenvolupament del nadó.\n\nA part d'aquests dos, una alimentació sana i variada cobreix la majoria de necessitats: no cal prendre molts suplements addicionals. Un que cal evitar és la **vitamina A** (retinol): no prenguis suplements que en continguin i evita el fetge, perquè un excés de vitamina A pot perjudicar el nadó.",
+      "deep": null,
+      "when_to_see_doctor": "- El **metge de capçalera, la llevadora o el farmacèutic** et poden ajudar a triar els suplements adequats, i a algunes persones se'ls aconsella prendre una **dosi més alta d'àcid fòlic** (per exemple, si tenen diabetis, un IMC més alt, prenen certs medicaments o han tingut un embaràs anterior afectat per un defecte del tub neural), així que val la pena preguntar-ho, sobretot abans de l'embaràs o al principi.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Fase fol·licular",
+      "aliases": [
+        "fase fol·licular",
+        "fase folicular",
+        "primera meitat del cicle",
+        "fase preovulatòria"
+      ],
+      "glance": "La fase fol·licular és la primera meitat del cicle, quan madura un òvul i el revestiment de l'úter s'engruixeix.",
+      "overview": "La fase fol·licular és la primera part del cicle. Comença el primer dia de la regla i dura fins a l'ovulació. El seu nom ve del fol·licle, el petit sac ple de líquid de l'ovari que conté un òvul i el fa créixer durant aquest temps.\n\nAl llarg d'aquesta fase puja l'hormona estrogen. Aquesta pujada d'estrogen fa dues coses principals: ajuda a madurar un fol·licle de l'ovari i fa més gruixut el revestiment de l'úter (la matriu), de manera que prepara el cos per si més endavant en el cicle comença un embaràs.\n\nCom que l'estrogen va pujant, algunes persones noten més energia o canvis en el moc cervical a mesura que s'acosten els dies fèrtils. Cada persona ho viu de manera diferent, i res d'això s'ha de «gestionar»: és simplement la primera meitat del teu cicle fent la seva feina.",
+      "deep": "La durada de la fase fol·licular pot variar d'un cicle a l'altre, i això explica en part per què els cicles complets són diferents d'una persona a una altra i d'un mes a l'altre. Acaba quan la pujada d'estrogen ajuda a desencadenar l'alliberament d'un òvul (l'ovulació). Com que els seus últims dies condueixen a l'ovulació, és llavors quan s'obre la finestra fèrtil; per això el final de la fase fol·licular és important per a qualsevol persona que faci el seguiment de la fertilitat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Aliments que cal evitar a l'embaràs",
+      "aliases": [
+        "aliments a evitar embaràs",
+        "aliments prohibits embaràs",
+        "dieta embaràs",
+        "què no puc menjar embarassada",
+        "cafeïna embaràs",
+        "listèria",
+        "formatge embaràs"
+      ],
+      "glance": "La majoria d'aliments són segurs a l'embaràs; només uns quants val la pena evitar-los, i ajuda prendre poca cafeïna.",
+      "overview": "La bona notícia és que la majoria d'aliments són perfectament segurs a l'embaràs: només uns quants val la pena evitar-los o prendre'ls amb precaució, sobretot per esquivar microbis com la listèria o un excés de certes vitamines. Conèixer aquesta llista curta et permet estar tranquil·la amb la resta.\n\nL'NHS aconsella anar amb compte amb:\n\n- **Alguns formatges**: els formatges tous de pell florida com el brie i el camembert, i els formatges blaus tous, tret que es cuinin fins que estiguin ben calents i facin fum; i qualsevol cosa feta amb llet **no pasteuritzada**.\n- **La carn crua o poc cuita**, els embotits curats freds, el **paté** i el **fetge** (que té molta vitamina A).\n- **Els ous crus o poc fets**, tret que portin el segell britànic British Lion.\n- **Alguns peixos**: evita el tauró, el peix espasa i el marlin, limita la tonyina, i no mengis més de dues racions de peix blau a la setmana.\n- **La cafeïna**: mantén-la per sota d'uns 200 mg al dia (aproximadament dues tasses grans de cafè soluble), tenint en compte també el te, les begudes de cola, les begudes energètiques i la xocolata.",
+      "deep": null,
+      "when_to_see_doctor": "- Són indicacions generals, no una dieta estricta: si tens dubtes sobre què és segur per a tu, o una necessitat alimentària concreta, la **llevadora** te'n pot parlar.\n- Si has menjat alguna cosa de la llista d'«evitar», intenta no angoixar-te; comenta-ho a la llevadora si et preocupa o et trobes malament.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Hormona fol·liculoestimulant (FSH)",
+      "aliases": [
+        "fsh",
+        "hormona fol·liculoestimulant",
+        "hormona foliculoestimulant",
+        "hormona estimulant del fol·licle"
+      ],
+      "glance": "L'FSH és una hormona del cervell que fa créixer els fol·licles de l'ovari al principi de cada cicle.",
+      "overview": "L'FSH (hormona fol·liculoestimulant) és una de les hormones missatgeres que posen en marxa el cicle. La produeix una petita glàndula del cervell (la hipòfisi) i, com diu el seu nom, estimula els fol·licles: els petits sacs plens de líquid de l'ovari que contenen cadascun un òvul.\n\nAl principi del cicle, l'FSH fa que un grup d'aquests fol·licles comenci a créixer. A mesura que un fol·licle es desenvolupa, allibera més estrogen, que al seu torn fa més gruixut el revestiment de l'úter (la matriu) per preparar-lo per a un possible embaràs. Normalment un dels fol·licles es converteix en el dominant i continua cap a l'ovulació.\n\nL'FSH puja i baixa com a part del vaivé normal del cicle. No la notes directament: actua discretament en segon pla i prepara els canvis més visibles de la fase fol·licular.",
+      "deep": "L'FSH treballa en parella amb l'hormona luteïnitzant (LH); totes dues les allibera la hipòfisi, al cervell, i juntes fan avançar els ovaris al llarg del cicle. L'FSH lidera la primera meitat, fent créixer els fol·licles, mentre que el pic de LH, més endavant, marca l'alliberament d'un òvul a meitat del cicle. Aquesta col·laboració també explica per què els tractaments de fertilitat fan servir medicaments basats en l'FSH: administrar FSH addicional fa que diversos fol·licles madurin alhora, en lloc de l'únic que sol produir un cicle natural.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Diabetis gestacional",
+      "aliases": [
+        "diabetis gestacional",
+        "diabetis a l'embaràs",
+        "sucre alt embaràs",
+        "glucosa alta embaràs",
+        "corba de glucosa",
+        "test d'o'sullivan"
+      ],
+      "glance": "La diabetis gestacional és un augment del sucre a la sang durant l'embaràs; normalment es detecta amb proves de cribratge i sovint desapareix després del part.",
+      "overview": "La diabetis gestacional és un nivell alt de sucre (glucosa) a la sang que apareix durant l'embaràs, quan el cos no acaba de poder cobrir la demanda extra d'insulina. En la majoria de casos desapareix un cop ha nascut el nadó.\n\nNormalment **no dona símptomes**, així que es detecta amb una prova de cribratge que s'ofereix durant l'embaràs (una prova de tolerància a la glucosa, sovint cap a les setmanes 24 a 28), sobretot si tens factors que n'augmenten la probabilitat, com un pes més alt, antecedents familiars de diabetis, haver tingut abans un nadó gran o determinats orígens ètnics.\n\nEs pot controlar molt bé. Mantenir el sucre a la sang en un interval saludable (amb l'alimentació, l'activitat física i de vegades medicació, sempre amb l'orientació del teu equip sanitari) redueix la probabilitat de complicacions per a tu i per al nadó, i per això val la pena fer-ne un bon seguiment.",
+      "deep": null,
+      "when_to_see_doctor": "- Fes-te la **prova de cribratge** si te l'ofereixen: com que la diabetis gestacional normalment no dona símptomes, la prova és la manera de detectar-la.\n- No esperis a la prova si notes possibles signes de sucre alt (molta set, necessitat de fer pipí sovint, la boca seca o cansament): comenta-ho a la llevadora o al metge.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "On trobar ajuda",
+      "aliases": [
+        "demanar ajuda",
+        "a qui trucar",
+        "línies d'ajuda",
+        "telèfons útils",
+        "centre antiviolència",
+        "1522",
+        "016",
+        "números d'emergència"
+      ],
+      "glance": "Hi ha ajuda gratuïta i confidencial: en una emergència, truca al número d'emergències local; a Itàlia, al 1522 a qualsevol hora.",
+      "overview": "Si pateixes maltractament, no l'has d'afrontar sola, i demanar ajuda no et compromet a res. Hi ha persones que es dediquen precisament a escoltar i ajudar, de manera confidencial i gratuïta.\n\nHi ha diversos tipus d'ajuda alhora:\n\n- **Serveis d'emergència**: si estàs en perill immediat, truca al número d'emergències local (mira més avall).\n- **Una línia d'atenció nacional**: a Itàlia, el **1522**, la línia gratuïta contra la violència i l'assetjament: oberta les 24 hores del dia, anònima, disponible en diversos idiomes, per telèfon o per xat en línia.\n- **Centres antiviolència** (a Itàlia, *centri antiviolenza*): serveis locals que ofereixen suport gratuït i confidencial, ajuda per fer un pla de seguretat i assistència jurídica i psicològica.\n- **Serveis de salut**: el metge de capçalera o les urgències d'un hospital, on el personal cada cop està més format per reconèixer el maltractament i posar-te en contacte amb serveis de suport.\n- **Persones de confiança**: un amic o un familiar amb qui et sentis segura.\n\nPots començar per l'opció que et sembli més factible, i no cal que ja hagis decidit res.",
+      "deep": null,
+      "when_to_see_doctor": "- Pots parlar amb el **metge de capçalera o a l'hospital** de manera confidencial sobre el que t'està passant; et poden tractar les lesions i posar-te en contacte amb serveis especialitzats.\n- Si t'és més fàcil escriure que parlar, el **xat del 1522** és una altra manera de demanar ajuda.",
+      "red_flags": "- Si estàs en **perill immediat**, contacta ara mateix amb els serveis d'emergència: **112** a la UE (inclosa Itàlia), **999** al Regne Unit, **911** als Estats Units i el Canadà.\n- **Itàlia:** **1522** (gratuït, 24/7, anònim, multilingüe; per telèfon o per xat).\n- Els números de les línies d'ajuda varien d'un país a l'altre. L'aplicació et pot mostrar els números del teu país, i **findahelpline.com** recull línies d'ajuda contra la violència de tot el món (detecta el teu país i té un botó de sortida ràpida). Si ets a la UE, el **112** funciona a tot arreu."
+    },
+    "group-b-strep": {
+      "title": "Estreptococ del grup B (EGB)",
+      "aliases": [
+        "estreptococ del grup b",
+        "egb",
+        "gbs",
+        "estreptococ b embaràs",
+        "strep b",
+        "cultiu vaginal embaràs"
+      ],
+      "glance": "L'estreptococ del grup B és un bacteri comú i normalment inofensiu; el petit risc és per al nadó durant el part, i es pot controlar.",
+      "overview": "L'estreptococ del grup B (EGB) és un bacteri molt comú que porta molta gent, normalment a la vagina o al recte, sense saber-ho i sense que causi cap dany. No és una infecció de transmissió sexual, i portar-lo és normal.\n\nA l'embaràs només és important perquè hi ha una **petita probabilitat** que passi al nadó cap al moment del part i, en casos rars, el faci emmalaltir; això passa aproximadament en 1 de cada 1.750 embarassos. Sovint es troba per casualitat, per exemple en una anàlisi d'orina o en un frotis vaginal fet per un altre motiu (l'NHS no fa cribratge rutinari a totes les embarassades).\n\nEl més tranquil·litzador és que es pot controlar molt bé: si se sap que hi ha EGB, rebre **antibiòtics per via intravenosa (gota a gota) durant el part** redueix molt la probabilitat que el nadó es posi malalt.",
+      "deep": null,
+      "when_to_see_doctor": "- Si et diuen que portes estreptococ del grup B, ara o en un embaràs anterior, **fes-ho saber a la llevadora o a l'equip de maternitat**, perquè puguin planificar els antibiòtics durant el part. És un pas senzill que marca una diferència real.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Cremor d'estómac i indigestió a l'embaràs",
+      "aliases": [
+        "cremor d'estómac embaràs",
+        "ardor d'estómac embaràs",
+        "acidesa embaràs",
+        "indigestió embaràs",
+        "reflux àcid embaràs",
+        "reflux"
+      ],
+      "glance": "La cremor d'estómac és molt freqüent a l'embaràs; normalment és inofensiva i sovint millora amb petits canvis del dia a dia.",
+      "overview": "La cremor d'estómac i la indigestió (una sensació de cremor o molèstia al pit, sovint després de menjar) són molt freqüents a l'embaràs. Es deuen al fet que les hormones de l'embaràs relaxen el múscul de la part superior de l'estómac i, més endavant, a la pressió cap amunt del nadó, que va creixent. És molest, però no és perjudicial.\n\nEls petits canvis sovint ajuden: fer àpats més petits i més sovint en lloc d'àpats grans, seure ben dreta mentre menges i una estona després, reduir els menjars picants o greixosos i la cafeïna, i no menjar tard abans d'anar a dormir. A algunes persones els resulta més còmode dormir una mica incorporades.\n\nSi això no n'hi ha prou, un **farmacèutic** et pot suggerir antiàcids que siguin segurs durant l'embaràs; és un bon primer lloc on consultar abans que es converteixi en una molèstia més gran.",
+      "deep": null,
+      "when_to_see_doctor": "- Ves al **metge de capçalera o a la llevadora** si els canvis senzills i els remeis de farmàcia no t'ajuden, o si tens **dificultat per empassar**, tornes sovint el menjar, perds pes sense voler o tens dolor de panxa: val la pena fer-ho revisar en lloc d'atribuir-ho a una simple cremor d'estómac.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Regles abundants",
+      "aliases": [
+        "regles abundants",
+        "regla abundant",
+        "regla molt forta",
+        "menorràgia",
+        "sagnat menstrual abundant",
+        "coàguls a la regla",
+        "em taco la roba"
+      ],
+      "glance": "Tenir regles abundants vol dir perdre molta sang a cada cicle; és freqüent, però val la pena consultar-ho si t'afecta.",
+      "overview": "Tenir regles abundants (el nom mèdic és menorràgia) vol dir perdre molta sang durant la regla. Per a algunes persones, sagnar molt és simplement el seu normal, però si et trastoca la vida o et deixa esgotada, val la pena investigar-ho.\n\nAlguns signes que la regla és abundant: haver de canviar-te la compresa o el tampó cada 1 o 2 hores, fer servir dos tipus de producte menstrual alhora (com un tampó i una compresa), traspassar la sang a la roba o als llençols, expulsar coàguls de sang de més d'uns 2,5 cm (aproximadament com una moneda britànica de 10 penics), o regles que duren més de 7 dies.\n\nPerdre molta sang mes rere mes et pot deixar cansada o amb falta d'aire, perquè pot provocar un nivell baix de ferro (anèmia). Hi ha moltes causes possibles (des de miomes o afeccions com l'endometriosi, l'adenomiosi o la SOP fins a alguns medicaments), i sovint no es troba cap causa greu. En qualsevol cas, les regles abundants normalment es poden tractar, així que no és una cosa amb què hagis de conviure sense més.",
+      "deep": null,
+      "when_to_see_doctor": "Ves al metge de capçalera si:\n\n- les regles abundants t'afecten el dia a dia\n- sagnes molt durant moltes hores, o les regles et duren molt de temps\n- també tens un dolor de regla fort, o dolor durant les relacions sexuals o en fer pipí o caca\n- tens sagnat entre regles o després de les relacions sexuals\n- sovint et notes cansada o amb falta d'aire (pot ser un signe de ferro baix)\n\nEl metge de capçalera pot buscar-ne la causa i parlar amb tu del que et pot ajudar.",
+      "red_flags": "- Demana ajuda mèdica **urgent** (contacta amb un metge o amb un **servei de guàrdia**, o truca al **{{emergency}}** / ves a urgències si és greu) si **sagnes tant que xopes una compresa o més cada hora durant unes quantes hores seguides**, o et notes **a punt de desmaiar-te, marejada o amb falta d'aire**. Poden ser signes que estàs perdent massa sang."
+    },
+    "lh": {
+      "title": "Hormona luteïnitzant (LH)",
+      "aliases": [
+        "lh",
+        "hormona luteïnitzant",
+        "hormona luteinitzant",
+        "pic de lh",
+        "test d'ovulació"
+      ],
+      "glance": "La LH és l'hormona del cervell que, amb el seu pic a meitat del cicle, fa que l'ovari alliberi un òvul.",
+      "overview": "La LH (hormona luteïnitzant) és el missatger que desencadena l'ovulació. Com l'FSH, la produeix una petita glàndula del cervell (la hipòfisi) i indica a l'ovari quan ha d'alliberar un òvul.\n\nDurant gran part de la primera meitat del cicle, la LH es manté baixa. Després, cap a la meitat del cicle, puja bruscament en el que s'anomena el pic de LH. Aquest pic és el senyal que fa que l'ovari alliberi el seu òvul (l'ovulació), normalment un dia més tard, més o menys.\n\nEl pic és un senyal breu i ben sincronitzat, no una cosa que notis en com et sents. Com que arriba tan poc abans que s'alliberi l'òvul, el moment en què puja la LH és un indicador fiable de la part més fèrtil del cicle.",
+      "deep": "La LH treballa juntament amb l'FSH, l'hormona que fa créixer els fol·licles abans en el cicle. Mentre que l'FSH dirigeix la preparació, el pic de LH és el punt d'inflexió: els nivells comencen a pujar aproximadament un dia i mig abans que s'alliberi l'òvul i arriben al màxim aproximadament mig dia abans. Després del pic, el cicle passa a la segona meitat. Aquesta sincronització tan precisa és el motiu pel qual la LH és un indicador tan útil per a qualsevol persona que faci el seguiment de l'ovulació, i per què és clau a l'hora de planificar els tractaments de fertilitat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Escoltar i donar suport emocional",
+      "aliases": [
+        "com escoltar",
+        "suport emocional a la parella",
+        "comunicació",
+        "ser-hi per a ella",
+        "escolta activa",
+        "donar suport a la parella"
+      ],
+      "glance": "La majoria de vegades necessita que l'escoltis, no que li solucionis res: primer escolta, i pregunta abans d'aconsellar.",
+      "overview": "Quan algú que estimem ho està passant malament, l'instint és llançar-se a resoldre-ho. Però sovint el que més ajuda és que se senti escoltada de debò: que els seus sentiments tenen sentit i que no hi està sola. Voler-ho arreglar massa de pressa pot sonar com «els teus sentiments són un problema que cal tancar».\n\nSaber escoltar és una habilitat que tothom pot aprendre. És sobretot atenció: deixar el mòbil, mirar-la de cara i deixar-la acabar. No cal que estiguis d'acord amb tot el que diu perquè se senti respectada.",
+      "deep": "Maneres pràctiques de ser-hi:\n\n- **Escolta per entendre, no per respondre.** Deixa-la parlar sense interrompre-la ni preparar la teva defensa.\n- **Torna-li el que et diu.** «Sembla que ha estat molt estressant» o «entenc per què et va fer mal» és molt millor que «no t'hi amoïnis i prou».\n- **Pregunta abans d'aconsellar.** «Vols que t'ajudi a pensar-hi, o prefereixes que només t'escolti?»\n- **No t'ho prenguis com una cosa personal** quan un mal dia no té res a veure amb tu. La serenitat és un regal.\n- **Assumeix la teva part.** Si t'has equivocat, una disculpa de veritat, sense «però», refà la confiança.\n- **Fixa't en el panorama general.** Si sembla que està desanimada, angoixada o que no és ella mateixa de manera persistent, anima-la amb delicadesa a buscar suport i ofereix-te a ajudar-la a trobar-lo. Formes part del seu equip, no ets el seu terapeuta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Fase lútia",
+      "aliases": [
+        "fase lútia",
+        "fase lútea",
+        "fase lutea",
+        "segona meitat del cicle",
+        "fase postovulatòria"
+      ],
+      "glance": "La fase lútia és la segona meitat del cicle, després de l'ovulació, quan puja la progesterona.",
+      "overview": "La fase lútia és la part del cicle que segueix l'ovulació i dura fins que comença la regla següent. Deu el seu nom al cos luti, la petita estructura que forma l'ovari a partir del fol·licle buit un cop s'ha alliberat l'òvul.\n\nEn aquesta fase puja l'hormona progesterona. La seva funció és mantenir el revestiment de l'úter (la matriu) gruixut i estable, perquè si hi arriba un òvul fecundat tingui on implantar-se. L'estrogen també hi continua present i actua juntament amb la progesterona.\n\nSi no comença cap embaràs, el cos luti es desfà, la progesterona i l'estrogen baixen i el revestiment deixa de mantenir-se, cosa que provoca la regla següent i dona pas a un nou cicle. També és el període en què algunes persones noten canvis premenstruals en l'estat d'ànim, el son o el cos.",
+      "deep": "La fase lútia sol tenir una durada una mica més estable que la primera meitat del cicle, sovint d'unes dues setmanes, tot i que hi ha una variació normal d'una persona a una altra. Com que el seu final està lligat a la baixada de la progesterona, l'arribada de la regla és en realitat el signe visible que els nivells hormonals han baixat. Fer un seguiment de com et sents durant la fase lútia et pot ajudar a distingir què és un patró conegut per a tu i què és nou o val la pena comentar amb un professional sanitari.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopausa",
+      "aliases": [
+        "menopausa",
+        "el canvi",
+        "climateri",
+        "retirada de la regla",
+        "fogots",
+        "suors nocturnes"
+      ],
+      "glance": "La menopausa és quan la regla s'acaba per sempre; és una etapa natural que normalment arriba entre els 45 i els 55 anys, aproximadament.",
+      "overview": "La menopausa és el moment en què la regla s'atura de manera permanent. Com que abans la regla pot anar i venir durant un temps, es considera que hi has arribat quan fa 12 mesos seguits que no la tens. Normalment passa entre els 45 i els 55 anys, aproximadament, tot i que pot ser abans o després.\n\nÉs una part natural de l'envelliment, no una malaltia. Passa perquè els ovaris van reduint la seva activitat i baixa el nivell d'estrogen, una hormona clau del cicle. Aquest canvi hormonal és el que hi ha darrere dels canvis que nota molta gent: fogots i suors nocturnes, canvis en la regla durant els anys previs, problemes de son, canvis d'humor o ansietat, boira mental, sequedat vaginal i dolors.\n\nLes experiències varien moltíssim: algunes persones la travessen sense problemes, d'altres ho passen malament, i els símptomes poden durar diversos anys. Res d'això vol dir que et passi res de dolent. Hi ha suport i opcions, i entendre què està passant és un bon primer pas.",
+      "deep": "Els anys de canvis previs a la menopausa s'anomenen perimenopausa; la menopausa en si és un moment concret (aquesta fita dels 12 mesos sense regla), i el temps posterior de vegades s'anomena postmenopausa. Com que l'estrogen també afecta els ossos i el cor a llarg termini, els professionals sanitaris hi paren atenció a més dels símptomes del dia a dia. Diversos enfocaments (des de canvis en l'estil de vida fins a tractaments no hormonals i hormonals) poden alleujar els símptomes, i el més adequat depèn de la teva salut, els teus antecedents i les teves preferències, cosa que val la pena parlar amb un professional sanitari.",
+      "when_to_see_doctor": "- Ves al metge de capçalera si els símptomes de la menopausa et molesten o t'afecten el dia a dia, i vols parlar de les teves opcions.\n- Ves **sempre** al metge de capçalera si tens **qualsevol sagnat vaginal després de 12 mesos sense regla** (sagnat després de la menopausa). Sovint no és res greu, però sempre s'ha de revisar.\n- També val la pena consultar-ho si sagnes més que abans en lloc de menys, o si les regles et canvien d'una manera que et preocupa.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "El cicle menstrual",
+      "aliases": [
+        "cicle",
+        "cicle menstrual",
+        "cicle mensual",
+        "durada del cicle",
+        "dies del cicle"
+      ],
+      "glance": "El cicle menstrual és el ritme mensual amb què funciona el cos per preparar-se per a un possible embaràs.",
+      "overview": "El cicle menstrual es compta des del primer dia de la regla (el dia 1) fins al dia abans que comenci la regla següent. El regulen hormones que pugen i baixen seguint un patró que es repeteix cada mes.\n\nUn cicle sovint dura uns 28 dies, però això és només una mitjana. Qualsevol durada d'entre uns 21 i 35 dies és normal, i la teva pot variar una mica d'un mes a l'altre. Conèixer el teu propi patró és més útil que comparar-lo amb una xifra.\n\nAl llarg del cicle, el cos passa per unes quantes etapes: la regla, la preparació per alliberar un òvul, l'alliberament en si (l'ovulació) i el tram posterior. Cada etapa està determinada per les hormones, principalment l'estrogen i la progesterona.",
+      "deep": "Tot el cicle és una conversa entre el cervell i els ovaris, transmesa per les hormones. A la primera meitat, l'estrogen puja mentre un fol·licle que conté un òvul madura a l'ovari i el revestiment de l'úter (la matriu) s'engruixeix. Cap a la meitat del cicle s'allibera un òvul. A la segona meitat, la progesterona ajuda a mantenir aquest revestiment a punt per si hi arriba un òvul fecundat.\n\nSi no hi ha embaràs, l'estrogen i la progesterona baixen a nivells baixos, el revestiment es desprèn en forma de regla i el patró torna a començar. Com que aquestes hormones actuen en molts sistemes del cos, potser notes petits canvis del dia a dia al llarg del mes: és el ritme normal del cicle, no una cosa que calgui «arreglar».",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Fase menstrual (la regla)",
+      "aliases": [
+        "regla",
+        "menstruació",
+        "fase menstrual",
+        "tenir la regla",
+        "període",
+        "sagnat"
+      ],
+      "glance": "La regla són els pocs dies de sagnat amb què comença cada cicle, quan es desprèn el revestiment de l'úter.",
+      "overview": "La fase menstrual és la regla: els dies en què sagnes. Comença el dia 1 del cicle, quan els nivells d'estrogen i progesterona han baixat prou perquè el revestiment que s'ha format dins l'úter (la matriu) deixi de mantenir-se i es desprengui, i surti del cos per la vagina.\n\nUna regla sol durar entre 2 i 7 dies, aproximadament, i uns 5 dies és el més habitual. El flux sovint és més abundant els primers dos dies i més lleuger després. La regla normalment comença cap als 12 anys, tot i que començar abans o després també és normal.\n\nEl que és «normal» varia molt d'una persona a una altra. Fer el seguiment de les teves regles t'ajuda a notar què és habitual per a tu, cosa que té molt més sentit que qualsevol mitjana.",
+      "deep": "El sagnat de la regla és el revestiment de l'úter (l'endometri) que es desprèn després d'un cicle en què no ha començat cap embaràs. Marca alhora el final d'un cicle i el començament del següent, i per això el dia 1 de la regla es compta com el dia 1 de tot el cicle. Quan s'acaba la regla, l'estrogen torna a pujar i el cos comença a refer el revestiment per al cicle següent.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Avortament espontani",
+      "aliases": [
+        "avortament espontani",
+        "avortament natural",
+        "pèrdua de l'embaràs",
+        "pèrdua gestacional",
+        "pèrdua gestacional precoç",
+        "perdre un embaràs"
+      ],
+      "glance": "Un avortament espontani és la pèrdua d'un embaràs abans de les 24 setmanes; és freqüent i gairebé mai no és una cosa que hagis causat tu.",
+      "overview": "Un avortament espontani és la pèrdua d'un embaràs durant les primeres 24 setmanes. És més freqüent del que molta gent es pensa, i una de les coses més importants que cal saber és que gairebé mai no és causat per res que hagis fet o hagis deixat de fer: normalment passa per un problema en el desenvolupament de l'embaràs, que no estava a les mans de ningú.\n\nEls signes més habituals són el sagnat vaginal i les rampes o el dolor a la part baixa de la panxa. Sagnar al principi de l'embaràs no sempre vol dir que s'estigui produint un avortament (moltes persones sagnen una mica i després tenen un embaràs sa), però sempre s'ha de revisar.\n\nPassi com passi una pèrdua, els sentiments que l'acompanyen són reals i legítims, i el dol és una reacció normal. No ho has de passar sola: hi ha suport disponible, de la llevadora o del metge de capçalera, i d'entitats dedicades a la pèrdua gestacional.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta amb el metge de capçalera, la llevadora o una unitat d'embaràs inicial (o amb un metge de guàrdia) si tens **sagnat vaginal o tacament durant l'embaràs**, encara que sigui lleu i hi hagi poc dolor o gens, perquè ho puguin revisar.\n- Pregunta quina és la **unitat d'embaràs inicial** més propera, que està pensada precisament per a això.",
+      "red_flags": "- Truca al **{{emergency}} o ves a urgències** si, durant l'embaràs, tens **dolor fort de panxa, dolor a la punta de l'espatlla, un sagnat abundant, o et notes a punt de desmaiar-te o molt malament**. Poden ser signes d'un problema greu, com un embaràs ectòpic, que necessita atenció urgent."
+    },
+    "morning-sickness": {
+      "title": "Nàusees de l'embaràs",
+      "aliases": [
+        "nàusees del matí",
+        "nàusees embaràs",
+        "vòmits embaràs",
+        "marejos embaràs",
+        "ganes de vomitar embarassada",
+        "hiperèmesi",
+        "hiperèmesi gravídica"
+      ],
+      "glance": "Tenir nàusees o vomitar és molt freqüent al principi de l'embaràs, i normalment millora cap a les setmanes 16 a 20.",
+      "overview": "Tenir nàusees, o vomitar, és molt freqüent al principi de l'embaràs. Tot i que se'n diu «nàusees del matí», poden aparèixer a qualsevol hora del dia o de la nit. En la majoria de casos comencen durant les primeres setmanes i s'alleugen cap a les setmanes 16 a 20.\n\nSón desagradables, i a algunes persones els afecten molt el dia a dia, però les nàusees habituals de l'embaràs no augmenten cap risc per al nadó. Menjar petites quantitats sovint, i trobar el que et va bé, les pot fer més suportables; la llevadora, el metge de capçalera o el farmacèutic et poden suggerir opcions segures si ho estàs passant malament.\n\nEn un petit nombre de persones, les nàusees es tornen greus (és el que s'anomena hiperèmesi gravídica), amb un risc real de deshidratació. Aquesta forma necessita atenció mèdica: consulta els signes de més avall.",
+      "deep": null,
+      "when_to_see_doctor": "Contacta amb la llevadora, el metge de capçalera o un metge de guàrdia si:\n\n- no pots retenir cap aliment ni beguda (ho vomites tot) durant 24 hores\n- tens l'orina molt fosca, o no fas pipí durant més de 8 hores\n- et notes molt dèbil, marejada o a punt de desmaiar-te quan t'aixeques\n- tens dolor de panxa, febre o vomites sang\n- estàs perdent pes",
+      "red_flags": "- No poder retenir els líquids (vomitar tot el que beus), amb l'orina molt fosca o sense orinar, pot voler dir que t'estàs deshidratant (nàusees greus de l'embaràs): **contacta amb la llevadora, el metge de capçalera o un metge de guàrdia el mateix dia**, perquè potser necessites tractament per evitar que empitjori."
+    },
+    "ovulation": {
+      "title": "Ovulació",
+      "aliases": [
+        "ovulació",
+        "ovular",
+        "quan ovulo",
+        "alliberament de l'òvul",
+        "finestra fèrtil",
+        "dies fèrtils"
+      ],
+      "glance": "L'ovulació és quan un ovari allibera un òvul: el moment més fèrtil del teu cicle.",
+      "overview": "L'ovulació és el moment en què un ovari allibera un òvul madur. És el punt d'inflexió del cicle: la primera meitat s'hi prepara i la segona meitat ve després.\n\nEn un cicle d'uns 28 dies, l'ovulació sovint es produeix cap al dia 14, però el moment varia. Una manera útil de pensar-ho és que l'ovulació normalment es produeix entre 10 i 16 dies abans que comenci la regla següent. Pot ser difícil determinar-ne el dia exacte.\n\nUn cop alliberat, un òvul només pot ser fecundat durant unes 12 a 24 hores. Els espermatozoides, en canvi, poden sobreviure dins el cos diversos dies, de manera que la «finestra fèrtil» és més àmplia que un sol dia: aproximadament els pocs dies previs a l'ovulació i el mateix dia.",
+      "deep": "L'alliberament de l'òvul el desencadena una pujada hormonal breu i brusca cap a la meitat del cicle, després de l'augment d'estrogen de la fase fol·licular. Com que els espermatozoides poden viure uns quants dies mentre que l'òvul viu menys d'un dia, l'embaràs és més probable si hi ha relacions sexuals els dies just abans de l'ovulació. L'ovulació pot variar d'un cicle a l'altre per coses com l'estrès o una malaltia; per això és difícil predir-la exactament i per això fer el seguiment de diversos cicles és més fiable que qualsevol càlcul aïllat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Dolor durant les relacions sexuals",
+      "aliases": [
+        "dolor en les relacions sexuals",
+        "dolor durant el sexe",
+        "sexe dolorós",
+        "dispareunia",
+        "vaginisme",
+        "em fa mal quan tinc relacions"
+      ],
+      "glance": "El dolor durant les relacions sexuals és freqüent, pot tenir moltes causes i sempre val la pena fer-lo revisar: hi ha ajuda.",
+      "overview": "El dolor durant les relacions sexuals (de vegades anomenat dispareunia) és més freqüent del que molta gent es pensa, i mai no és una cosa que simplement hagis d'acceptar. Pot tenir moltes causes, i trobar la correcta és la clau per alleujar-lo.\n\nAlgunes causes són físiques. La sequedat vaginal n'és una de freqüent, sovint relacionada amb les hormones al voltant de la menopausa o amb una excitació insuficient, i pot fer que el sexe sigui dolorós o incòmode. Les infeccions, com la candidiasi vaginal, també poden causar dolor. Una altra causa és el vaginisme: quan els músculs del voltant de la vagina es contrauen per si sols en intentar la penetració, cosa que pot fer que el sexe sigui dolorós o sembli impossible. És involuntari, no és «cosa del cap» i es pot tractar.\n\nCom que la causa pot ser física, hormonal o relacionada amb com de relaxada o excitada et sents (i sovint una barreja de tot), el pas útil és fer-ho mirar en lloc d'endevinar-ho o d'aguantar-te.",
+      "deep": null,
+      "when_to_see_doctor": "- Ves al metge de capçalera o a un centre de salut sexual si les relacions sexuals et fan mal: sigui quina sigui la causa, val la pena fer-ho revisar, i hi ha ajuda eficaç per a les causes més habituals.\n- Pot fer vergonya treure el tema, però els professionals sanitaris hi estan acostumats i hi són per ajudar-te, no per jutjar-te. Pots demanar que t'atengui una metgessa, anar-hi acompanyada i parlar del que faria que l'exploració et resultés més còmoda.\n- Fes revisar qualsevol sagnat després de les relacions sexuals, i consulta-ho sense esperar si el dolor és fort o també et trobes malament.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Alleujament del dolor durant el part",
+      "aliases": [
+        "alleujament del dolor al part",
+        "dolor del part",
+        "epidural",
+        "òxid nitrós",
+        "Entonox",
+        "piscina de parts",
+        "TENS"
+      ],
+      "glance": "Hi ha diverses maneres d'alleujar el dolor del part; no hi ha cap opció bona o dolenta, i pots anar-ho decidint sobre la marxa.",
+      "overview": "Cada part és diferent, i hi ha diverses maneres d'afrontar el dolor, des de mesures senzilles de confort fins a opcions mèdiques. Saber què tens a l'abast amb antelació et pot ajudar a sentir-te més preparada.\n\nLes opcions van des de **mantenir-te activa i dreta**, la respiració i la relaxació, els massatges i estar dins l'**aigua** (una banyera o una piscina de parts), fins a **un aparell de TENS**, l'**òxid nitrós** (Entonox, que respires tu mateixa), les **injeccions** com la petidina, i l'**epidural** (que administra un anestesiòleg i que adorm de manera més completa el dolor del part).\n\nNo hi ha una opció «millor»: depèn de tu, del teu part i de com et sentis aquell dia. Val la pena apuntar les teves preferències en un **pla de part**, però mantenint la ment oberta: moltes persones descobreixen que volen més o menys alleujament del dolor del que esperaven, i això està perfectament bé.",
+      "deep": null,
+      "when_to_see_doctor": "- La **llevadora** (i, en el cas de l'epidural, un anestesiòleg) t'explicarà les opcions i t'ajudarà a decidir què et convé, durant l'embaràs i també durant el mateix part. No cal decidir-ho tot per endavant.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "SOP (síndrome de l'ovari poliquístic)",
+      "aliases": [
+        "sop",
+        "síndrome de l'ovari poliquístic",
+        "síndrome d'ovaris poliquístics",
+        "ovaris poliquístics",
+        "ovari poliquístic",
+        "pcos"
+      ],
+      "glance": "La SOP és una afecció hormonal freqüent que pot afectar la regla, l'ovulació, la pell i el pèl.",
+      "overview": "La SOP (síndrome de l'ovari poliquístic) és una afecció freqüent relacionada amb l'equilibri de les hormones reproductives. Les estimacions indiquen que afecta aproximadament 1 de cada 10 dones en edat reproductiva, i moltes persones que la tenen no reben mai un diagnòstic.\n\nEs pot manifestar de maneres diferents, i no hi ha dues persones iguals. Entre les característiques habituals hi ha regles irregulars, poc freqüents o absents; nivells més alts d'unes hormones anomenades andrògens, que poden provocar més pèl a la cara o al cos, acne o aprimament dels cabells; i ovaris que no alliberen un òvul tan regularment com és habitual, cosa que pot dificultar l'embaràs. També són freqüents els canvis de pes i les taques de pell més fosca.\n\nLa causa exacta no s'entén del tot i no té cura, però els símptomes es poden controlar, i entendre què passa és el primer pas. La SOP és freqüent i controlable, i no és res de què t'hagis d'avergonyir.",
+      "deep": "Com que la SOP implica les hormones del cos i la manera com gestiona la insulina, a llarg termini també s'associa a la resistència a la insulina i a una probabilitat més alta de diabetis tipus 2, pressió arterial alta i canvis en el colesterol; per això els professionals sanitaris solen vigilar aquests aspectes al llarg del temps. Aproximadament la meitat de les persones amb SOP poden desenvolupar diabetis o prediabetis cap als quaranta anys, així que les revisions periòdiques són importants. El diagnòstic no és una cosa per fer-se una mateixa: un professional sanitari valora el conjunt (els teus antecedents i les regles, de vegades una anàlisi de sang de les hormones i de vegades una ecografia dels ovaris) i descarta altres causes abans de concloure que és SOP.",
+      "when_to_see_doctor": "Val la pena anar al metge de capçalera si notes coses que encaixen amb el que s'ha descrit més amunt, sobretot si t'afecten en el dia a dia:\n\n- regles irregulars, molt espaiades o que s'han aturat\n- força més pèl a la cara o al cos, acne persistent o aprimament dels cabells\n- dificultat per quedar-te embarassada després d'intentar-ho durant un temps\n- augment de pes que costa de perdre, juntament amb altres símptomes\n\nEl metge de capçalera pot investigar què passa, confirmar si és SOP o una altra cosa, i parlar amb tu d'un pla que s'adapti a tu. La SOP també s'associa a l'estat d'ànim baix i l'ansietat: si t'està costant com et sents, explica-ho també al metge de capçalera; forma part del quadre i hi ha suport disponible.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopausa",
+      "aliases": [
+        "perimenopausa",
+        "premenopausa",
+        "transició menopàusica",
+        "el canvi",
+        "climateri"
+      ],
+      "glance": "La perimenopausa és la transició prèvia a la menopausa, quan la regla i les hormones comencen a canviar.",
+      "overview": "La perimenopausa és el període previ a la menopausa, els anys «al voltant de la menopausa». Comença quan notes els primers canvis i dura fins que ha passat un any sencer des de l'última regla, moment en què has arribat a la menopausa. Pot durar diversos anys.\n\nDurant aquest temps, els ovaris produeixen gradualment menys estrogen, i els nivells pugen i baixen de manera menys previsible que abans. El primer signe més habitual és que la regla canvia: ve més seguida o més espaiada, és més lleugera o més abundant. Molts dels símptomes associats a la menopausa, com els fogots, els canvis en el son o els canvis d'humor, poden començar en aquesta etapa, quan encara tens la regla.\n\nCom que és gradual i varia tant, la perimenopausa pot ser desconcertant: els canvis no arriben tots alhora ni en el mateix ordre per a tothom. Saber que aquesta etapa té un nom, i que és una transició normal, pot ajudar a entendre-la millor.",
+      "deep": null,
+      "when_to_see_doctor": "- Ves al metge de capçalera si els símptomes de la perimenopausa t'afecten el dia a dia i vols parlar del que et podria ajudar.\n- Val la pena fer-te revisar si les regles es tornen molt abundants, o si tens sagnat entre regles o després de les relacions sexuals, perquè se'n pugui trobar la causa.\n- Recorda que durant la perimenopausa encara et pots quedar embarassada, així que val la pena parlar d'anticoncepció amb un professional sanitari si és el teu cas.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Dolor de regla",
+      "aliases": [
+        "dolor de regla",
+        "dolor menstrual",
+        "rampes menstruals",
+        "rampes",
+        "dismenorrea",
+        "regla dolorosa",
+        "mal de panxa amb la regla"
+      ],
+      "glance": "El dolor de regla són rampes a la part baixa del ventre al voltant de la regla; és freqüent, i sovint és una part normal del cicle.",
+      "overview": "El dolor de regla és la sensació de rampes i de dolor a la part baixa del ventre que tenen moltes persones al voltant de la regla. Es produeix quan la paret muscular de l'úter es contrau, i sovint és una part normal del cicle menstrual. El nom mèdic és dismenorrea.\n\nNormalment apareix a l'inici de la regla, o just abans, i sol durar fins a uns tres dies. Per a algunes persones és una lleugera sensació de pesadesa; per a d'altres, les rampes són més fortes. El dolor també pot canviar al llarg de la vida i d'un cicle a l'altre.\n\nEl dolor de regla que segueix aquest patró conegut és freqüent i normalment es pot controlar. Moltes persones fan servir mesures de confort del dia a dia i analgèsics senzills, i un farmacèutic o el metge de capçalera et poden aconsellar què et pot anar bé. El que importa és conèixer el teu patró habitual, per poder notar si alguna cosa canvia.",
+      "deep": null,
+      "when_to_see_doctor": "Val la pena parlar amb el metge de capçalera si:\n\n- les regles es tornen més doloroses, més abundants o més irregulars del normal\n- el dolor t'impedeix fer coses del dia a dia com treballar o anar a classe\n- els analgèsics habituals no t'ajuden\n- tens dolor durant les relacions sexuals, o en fer pipí o caca\n- sagnes entre regles\n- el dolor apareix en altres moments, no només just abans o durant la regla\n- expulses coàguls de sang més grans que una moneda (més o menys com una moneda d'un euro)\n- també notes la panxa inflada, menys gana o una pèrdua de pes que no t'expliques\n\nAixò no vol dir que passi res de dolent, però val la pena fer-ho revisar: un dolor de regla nou, diferent o difícil de controlar pot tenir causes amb què un professional sanitari et pot ajudar.",
+      "red_flags": "- Demana una visita **urgent** al metge de capçalera, o contacta amb un **metge de guàrdia**, si el dolor de regla o pèlvic és **fort, o pitjor del normal, i els analgèsics no t'han ajudat.**"
+    },
+    "planning-pregnancy": {
+      "title": "Planificar un embaràs",
+      "aliases": [
+        "planificar un embaràs",
+        "preconcepció",
+        "buscar un embaràs",
+        "intentar quedar-me embarassada",
+        "abans de l'embaràs",
+        "preparar-se per a l'embaràs",
+        "buscar un nadó"
+      ],
+      "glance": "Uns quants passos senzills abans d'intentar-ho (àcid fòlic, deixar de fumar i l'alcohol) donen a l'embaràs el millor començament.",
+      "overview": "Si estàs pensant a buscar un nadó, uns quants passos previs poden donar a l'embaràs un començament més saludable; molts fan efecte fins i tot abans de quedar-te embarassada.\n\nEls principals: començar a prendre **àcid fòlic** (i vitamina D), **deixar de fumar** i **evitar l'alcohol**. Intentar tenir un pes saludable també ajuda, perquè tenir un pes força per sota o per sobre del normal pot dificultar l'embaràs. També val la pena comprovar que tens al dia la **vacuna triple vírica** (xarampió, galteres i rubèola), ja que algunes infeccions poden afectar l'embaràs.\n\nRes d'això ha de ser perfecte ni estressant. El que compta són petits canvis, fets amb temps i sense exigir-te massa, i avançar-te una mica és una de les coses més boniques que pots fer per a un futur embaràs.",
+      "deep": null,
+      "when_to_see_doctor": "- Si tens una **malaltia de llarga durada** o prens **medicació habitual**, ves al metge de capçalera abans de començar a intentar-ho: algunes malalties i medicaments requereixen planificació. **No deixis cap medicament prescrit** sense parlar-ne abans amb el metge.\n- El metge de capçalera també et pot aconsellar sobre l'àcid fòlic (inclòs si necessites una dosi més alta) i sobre com arribar a un pes saludable abans de l'embaràs.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Depressió postpart",
+      "aliases": [
+        "depressió postpart",
+        "depressió postnatal",
+        "depressió després del part",
+        "tristesa postpart",
+        "baby blues",
+        "dpp"
+      ],
+      "glance": "La depressió postpart és un estat d'ànim baix després del part, freqüent i tractable; no és culpa teva, i hi ha ajuda.",
+      "overview": "Sentir-se trista, angoixada o irritable les primeres dues setmanes després del part és molt habitual; sovint se'n diu «baby blues» o tristesa postpart, i normalment passa sola en unes dues setmanes.\n\nLa depressió postpart és diferent: un estat d'ànim baix més profund o que dura més. És una afecció freqüent, pot començar en qualsevol moment del primer any, i també pot afectar els pares i les parelles. Entre els signes hi ha un estat d'ànim baix persistent, dificultat per gaudir de res, problemes per dormir fins i tot quan el nadó dorm i, de vegades, sentiments difícils a l'hora de crear vincle amb el nadó.\n\nTenir-la **no** vol dir que siguis una mala mare o que no estimis el teu nadó: és una malaltia, no un fracàs, i respon bé al suport i al tractament. Demanar ajuda aviat és una cosa valenta i afectuosa, per a tu i per al teu nadó.",
+      "deep": null,
+      "when_to_see_doctor": "- Parla amb el **metge de capçalera, la llevadora o la infermera de pediatria** si creus que podries tenir depressió postpart, o si la tristesa dels primers dies («baby blues») no ha passat al cap de dues setmanes. Ho han vist moltes vegades i et poden ajudar a trobar el suport adequat.",
+      "red_flags": "- Si tens **pensaments de fer-te mal a tu o al teu nadó**, o penses que la teva família estaria millor sense tu, demana ajuda **de seguida**: truca al **{{emergency}}** o ves a urgències, o truca a una línia d'atenció en crisi. Aquests pensaments poden formar part de la malaltia, no són qui ets tu, i hi ha ajuda urgent disponible."
+    },
+    "pre-eclampsia": {
+      "title": "Preeclàmpsia",
+      "aliases": [
+        "preeclàmpsia",
+        "pre-eclàmpsia",
+        "pressió alta embaràs",
+        "tensió alta embarassada",
+        "hipertensió embaràs",
+        "toxèmia"
+      ],
+      "glance": "La preeclàmpsia és un augment de la pressió arterial durant l'embaràs; sovint al principi no dona símptomes, i per això són importants els controls prenatals.",
+      "overview": "La preeclàmpsia és una afecció de l'embaràs que es manifesta principalment amb la pressió arterial alta i proteïnes a l'orina. Normalment apareix a partir de les 20 setmanes, aproximadament, i de vegades després del part.\n\nUna de les coses més importants que cal saber és que al principi sovint **no dona cap símptoma**: et pots trobar perfectament bé. Precisament per això la llevadora et pren la pressió arterial i t'analitza l'orina a cada visita prenatal rutinària: aquestes revisions són la manera habitual de detectar-la abans que notis res.\n\nQuan apareixen símptomes, val la pena conèixer-los, perquè la preeclàmpsia pot arribar a ser greu tant per a tu com per al nadó. Es pot tractar bé quan es detecta a temps, i anar a totes les visites prenatals és la millor manera de detectar-la aviat.",
+      "deep": null,
+      "when_to_see_doctor": "- Ves a totes les **visites prenatals rutinàries**: les revisions de la pressió arterial i de l'orina són la manera habitual de detectar la preeclàmpsia abans que comencin els símptomes.",
+      "red_flags": "Demana atenció mèdica **immediatament** (contacta amb la unitat de maternitat o amb un **metge de guàrdia**) si tens qualsevol d'aquests signes (truca al **{{emergency}}** si et trobes molt malament, per exemple si tens una convulsió):\n\n- un **mal de cap fort** que no millora amb els analgèsics habituals\n- **problemes de visió**: visió borrosa o llums que parpellegen\n- **inflor sobtada** de la cara, les mans o els peus\n- **dolor just a sota de les costelles**\n- **vòmits**, o sentir-te molt malament de sobte"
+    },
+    "pregnancy": {
+      "title": "Embaràs",
+      "aliases": [
+        "embaràs",
+        "estar embarassada",
+        "esperar un nadó",
+        "gestació",
+        "trimestres",
+        "data prevista de part",
+        "de quantes setmanes estic"
+      ],
+      "glance": "L'embaràs sol durar unes 40 setmanes, comptades des del primer dia de l'última regla.",
+      "overview": "L'embaràs és el temps durant el qual el teu cos fa créixer i porta un nadó. Normalment dura unes 40 setmanes (qualsevol durada d'entre 37 i 42 setmanes es considera a terme i normal) i, potser sorprenentment, es compta des del primer dia de l'**última regla**, no des de la concepció. Simplement és la manera estàndard de calcular les dates.\n\nLa **data prevista de part** és una estimació, no un termini: els nadons sovint arriben una mica abans o una mica després. Al principi de l'embaràs, una «ecografia de datació» (normalment cap a les 12 setmanes) pot mesurar el nadó i donar una data més exacta, cosa que de vegades modifica l'estimació inicial.\n\nSovint es parla de l'embaràs en tres etapes, o **trimestres**, cadascuna amb els seus canvis. Durant tot l'embaràs et fan un seguiment amb controls prenatals periòdics amb una llevadora (i un metge si cal): l'atenció que ajuda que tu i el teu nadó estigueu bé.",
+      "deep": "Com que les dates es compten des de l'última regla, es considera que estàs d'unes quatre setmanes quan se't retarda la regla. El recompte de setmanes d'embaràs és la manera com s'organitza l'atenció: les ecografies, els cribratges i les revisions s'ofereixen en setmanes concretes. Si tens regles irregulars o no estàs segura de les dates, l'ecografia de datació és la que fixa el calendari. Aquest article és el mapa de tot el recorregut; els temes concrets (signes d'embaràs, control prenatal, cuidar-se i el part) tenen cadascun el seu propi article.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Test d'embaràs",
+      "aliases": [
+        "test d'embaràs",
+        "prova d'embaràs",
+        "predictor",
+        "test d'embaràs casolà",
+        "prova de l'hcg",
+        "fer-se un test"
+      ],
+      "glance": "Un test d'embaràs casolà detecta a l'orina l'hormona de l'embaràs, l'hCG; és més fiable a partir del primer dia de retard de la regla.",
+      "overview": "Un test d'embaràs casolà funciona detectant a l'orina una hormona anomenada hCG (gonadotropina coriònica humana). El cos comença a produir-la uns quants dies després que un òvul fecundat s'implanti, i la quantitat augmenta ràpidament al principi de l'embaràs.\n\nEl test és més fiable a partir del **primer dia de retard de la regla**, aproximadament dues setmanes després de la concepció. Si tens un cicle irregular o no saps segur quan t'ha de venir la regla, esperar almenys 21 dies després d'una relació sexual sense protecció dona un resultat més fiable. No cal fer el test a primera hora del matí; qualsevol hora del dia va bé.\n\nUn resultat **positiu** gairebé segur que és correcte: molt pocs tests donen positiu quan no estàs embarassada. Un resultat **negatiu** és una mica menys segur: si la regla continua sense arribar i creus que podries estar embarassada, espera uns quants dies i torna a fer el test.",
+      "deep": null,
+      "when_to_see_doctor": "- Si el resultat és positiu, contacta amb una **llevadora o el metge de capçalera** per començar el control prenatal.\n- Si els tests surten negatius però la regla no et ve i et sents embarassada (o et trobes malament), ves al metge de capçalera per saber què passa.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Part prematur",
+      "aliases": [
+        "part prematur",
+        "part preterme",
+        "naixement prematur",
+        "amenaça de part prematur",
+        "trencar aigües abans d'hora",
+        "contraccions abans d'hora"
+      ],
+      "glance": "El part prematur és el que comença abans de les 37 setmanes; actua ràpidament, perquè l'atenció precoç marca una diferència real.",
+      "overview": "El part prematur (o preterme) és el que comença abans de la setmana 37 d'embaràs. Passa aproximadament en 8 de cada 100 naixements.\n\nEls nadons que neixen abans d'hora són més vulnerables, però molts tiren endavant molt bé, sobretot amb l'atenció especialitzada que ofereixen les unitats neonatals. El més important és actuar ràpidament si creus que podria estar començant, perquè et puguin valorar i, si cal, donar-te tractaments que ajuden a protegir el nadó.\n\nEls signes són semblants als del part en qualsevol etapa, però abans de les 37 setmanes mai no s'ha d'esperar a veure què passa: sempre són motiu per trucar de seguida.",
+      "deep": null,
+      "when_to_see_doctor": "- Truca a la **llevadora o a la unitat de maternitat** sempre que estiguis de **menys de 37 setmanes** i tinguis dubtes o et preocupi alguna cosa: sempre està bé comprovar-ho.",
+      "red_flags": "Contacta **immediatament amb la llevadora o la unitat de maternitat**, de dia o de nit, si **abans de les 37 setmanes** tens qualsevol d'aquests signes:\n\n- **contraccions o enduriments de la panxa** regulars, o dolors com els de la regla\n- una **sortida de líquid a raig o a degotall** per la vagina (trencament d'aigües)\n- **mal d'esquena** que no és habitual en tu, o una sensació de pressió a la part baixa"
+    },
+    "premenstrual-syndrome": {
+      "title": "SPM (síndrome premenstrual)",
+      "aliases": [
+        "spm",
+        "síndrome premenstrual",
+        "tensió premenstrual",
+        "abans de la regla",
+        "pms",
+        "tdpm",
+        "trastorn disfòric premenstrual"
+      ],
+      "glance": "La SPM és el conjunt de canvis físics i emocionals que moltes persones noten una o dues setmanes abans de la regla.",
+      "overview": "La SPM (síndrome premenstrual) és el nom que es dona als canvis que moltes persones noten els dies o les dues setmanes abans de la regla. Pot afectar qualsevol persona que tingui la regla, i normalment millora pocs dies després que comenci la regla.\n\nEls canvis poden ser de moltes maneres. Físicament, pots notar inflor, els pits adolorits o sensibles, rampes, mals de cap o més cansament. Emocionalment, hi pot haver canvis d'humor, irritabilitat, ansietat o estat d'ànim baix. També són habituals els desigs de menjar i els canvis en el son. No tothom té SPM, i qui en té no té tots els símptomes: el que importa és el teu propi patró.\n\nLa SPM és una part normal i reconeguda del cicle de moltes persones, lligada als canvis hormonals naturals de la segona meitat. Fixar-te en com se't manifesta, cicle rere cicle, et pot ajudar a organitzar-te millor i a detectar si mai canvia.",
+      "deep": null,
+      "when_to_see_doctor": "Val la pena parlar amb el metge de capçalera si:\n\n- els símptomes t'afecten el dia a dia: la feina, els estudis, les relacions\n- els canvis en la teva rutina diària no t'han ajudat\n- l'estat d'ànim baix, l'ansietat o la irritabilitat són intensos\n\nUn professional sanitari pot parlar amb tu del que et pot ajudar. Una forma més intensa, anomenada trastorn disfòric premenstrual (TDPM), pot causar símptomes emocionals molt més forts, i també hi ha suport per a aquest trastorn.",
+      "red_flags": "- Si tens símptomes de TDPM i **tens pensaments de suïcidi o sents que no pots mantenir-te segura**, demana ajuda de seguida: **truca al {{emergency}} o ves a urgències.** No condueixis tu: demana a algú que t'hi porti, o demana una ambulància. Mereixes suport, i hi ha ajuda disponible."
+    },
+    "progesterone": {
+      "title": "Progesterona",
+      "aliases": [
+        "progesterona",
+        "nivells de progesterona",
+        "progesterona baixa"
+      ],
+      "glance": "La progesterona és l'hormona de la segona meitat del cicle, que prepara el revestiment de l'úter després de l'ovulació.",
+      "overview": "La progesterona és una de les principals hormones del cicle menstrual, i pren el protagonisme a la segona meitat, després que s'alliberi un òvul en l'ovulació.\n\nLa seva funció principal és ajudar que el revestiment de l'úter (la matriu) es mantingui gruixut i a punt, perquè si hi arriba un òvul fecundat s'hi pugui implantar i pugui començar un embaràs. Així, la progesterona fa equip amb l'estrogen, que s'havia encarregat de gran part de la preparació abans en el cicle.\n\nSi no comença cap embaràs, els nivells de progesterona baixen. Aquesta baixada és la que permet que el revestiment es desprengui en forma de la regla següent. La pujada i baixada de la progesterona al llarg de la segona meitat del cicle és un ritme normal i esperat.",
+      "deep": "La progesterona la produeix principalment el cos luti, l'estructura que forma l'ovari a partir del fol·licle després que hagi alliberat l'òvul. Per això la progesterona puja precisament a la fase lútia (després de l'ovulació). Quan el cos luti es desfà, la progesterona i l'estrogen baixen, cosa que marca l'inici d'un nou cicle. Els seus canvis naturals són en part el motiu pel qual algunes persones noten canvis premenstruals els dies abans de la regla.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "La píndola només de progestagen (minipíndola)",
+      "aliases": [
+        "minipíndola",
+        "píndola només de progestagen",
+        "píndola de progestagen",
+        "píndola de desogestrel",
+        "píndola sense estrògens",
+        "pop"
+      ],
+      "glance": "La minipíndola és una pastilla diària amb una sola hormona que espesseix el moc cervical per bloquejar els espermatozoides.",
+      "overview": "La píndola només de progestagen, sovint anomenada minipíndola, és un comprimit diari que conté una sola hormona, un progestagen. És una opció per a les persones que no poden prendre estrogen o que prefereixen no fer-ho.\n\nLa seva acció principal és espessir el moc del coll de l'úter, de manera que als espermatozoides els costa més arribar a un òvul. Un tipus habitual, la píndola de desogestrel, també impedeix que els ovaris alliberin un òvul (l'ovulació).\n\nPresa correctament, és eficaç en més d'un 99%; amb l'ús típic del dia a dia, al voltant d'un 91%. Com amb altres píndoles, l'horari és important, i no protegeix de les ITS.",
+      "deep": "La minipíndola es diferencia de la píndola combinada perquè no conté estrogen, cosa que canvia a qui li pot anar bé; és un aspecte que el professional sanitari valora quan la prescriu. Alguns tipus s'han de prendre dins d'una franja horària diària força estricta per continuar sent eficaços. Aquest article explica què és i com funciona; com s'ha de prendre i si és adequada per a tu són qüestions per al metge de capçalera, la infermera o el farmacèutic.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Reconèixer una relació abusiva",
+      "aliases": [
+        "reconèixer el maltractament",
+        "relació abusiva",
+        "relació tòxica",
+        "violència domèstica",
+        "violència masclista",
+        "violència de gènere",
+        "signes de maltractament",
+        "em maltracta"
+      ],
+      "glance": "El maltractament pot ser físic, sexual, emocional o de control, i mai no és culpa de la persona que el pateix.",
+      "overview": "El maltractament en una relació no és només físic. Pot adoptar diverses formes, sovint alhora: dany físic, coacció sexual, dany emocional o psicològic i conductes de control (que la parella decideixi on vas, amb qui et veus o què pots fer). Qualsevol d'aquestes coses pot ser maltractament, encara que no hi hagi cap lesió visible.\n\nÉs més freqüent del que molta gent es pensa. A tot el món, aproximadament 1 de cada 3 dones pateix violència física o sexual al llarg de la vida, la majoria de vegades per part d'una parella; la situació a Itàlia és semblant. Així que, si això forma part de la teva vida, no estàs sola, i no és una cosa que hagis provocat tu.\n\nPosar-hi nom pot costar: el maltractament sovint es barreja amb bons moments, disculpes o promeses de canviar, i pot anar creixent tan a poc a poc que sembla normal. Fer cas de la teva pròpia sensació que alguna cosa no va bé és un motiu vàlid per demanar ajuda. No cal que n'estiguis segura, ni que esperis que sigui «prou greu», per parlar amb algú.",
+      "deep": "Per sota de les diferents formes, el maltractament sol seguir un patró en què una persona busca poder i control sobre una altra, i pot anar a més amb el temps. Té un impacte real en la salut: s'associa a ansietat, depressió, problemes de son i efectes físics a llarg termini. Res d'això vol dir que siguis dèbil ni que en tinguis la culpa; vol dir que el que estàs vivint és perjudicial, i que hi ha suport per ajudar-te a pensar-hi amb seguretat i al teu ritme.",
+      "when_to_see_doctor": "- Pots parlar amb algú de manera confidencial quan estiguis preparada: el metge de capçalera o una infermera, un centre antiviolència o una línia d'atenció (a Itàlia, el **1522**, gratuït i a qualsevol hora). No necessites proves, un pla ni haver pres cap decisió abans; hi són per escoltar-te i ajudar-te a entendre les teves opcions.\n- Un professional sanitari també et pot tractar les lesions i posar-te discretament en contacte amb suport especialitzat.",
+      "red_flags": "- Si estàs en **perill immediat**, contacta ara mateix amb els serveis d'emergència: **112** a la UE (inclosa Itàlia), **999** al Regne Unit, **911** als Estats Units i el Canadà.\n- A Itàlia, el **1522**, la línia nacional gratuïta contra la violència i l'assetjament, està disponible les 24 hores del dia, de manera anònima, per telèfon o per xat, en diversos idiomes."
+    },
+    "respect-not-control": {
+      "title": "Respecte, no control",
+      "aliases": [
+        "conducta controladora",
+        "control coercitiu",
+        "relació sana",
+        "senyals d'alerta",
+        "on demanar ajuda",
+        "maltractament",
+        "gelosia"
+      ],
+      "glance": "L'amor es construeix sobre el respecte i la llibertat: el control, la gelosia i la pressió no són amor, i hi ha ajuda.",
+      "overview": "Una relació sana es basa en el respecte, la confiança, la igualtat i la llibertat: dues persones que mantenen cadascuna les seves amistats, les seves decisions i el seu espai. El control és el contrari. Sovint s'amaga darrere de paraules com amor o gelosia («et miro el mòbil perquè m'importes», «no vull que els vegis perquè t'estimo»), però el seu efecte és fer-li més petit el món i reduir-li la llibertat.\n\nEl control poques vegades comença amb violència. Normalment comença amb coses petites (una crítica, un límit que es traspassa, una «broma» que fa mal) i va creixent. Posar-hi nom aviat és important, perquè el control coercitiu ja és en si una forma de maltractament i un senyal d'alerta de coses pitjors. No es tracta de sentir-se culpable; es tracta d'honestedat i de canvi.",
+      "deep": "**Si reconeixes alguna d'aquestes coses en tu, adonar-te'n és un punt de partida, no una condemna per a tota la vida.**\nLes persones poden canviar amb un esforç real i l'ajuda adequada. Contactar amb un programa específic per a homes que volen deixar de ser controladors o violents és un signe de fortalesa, no de debilitat. Parla amb un professional, un metge o un servei de canvi de conducta per a homes.\n\nSi qui està en perill és **ella**, o et preocupa algú, anima-la i dona-li suport perquè demani ajuda, a la seva manera i al seu ritme, sense prendre mai el control.\n\n**On demanar ajuda**\n- En una emergència, o si algú està en perill immediat, truca al número d'emergències local (**112** a Itàlia i a gran part d'Europa; **911** als Estats Units).\n- **Itàlia — 1522**: la línia nacional contra la violència i l'assetjament. Gratuïta, 24/7, anònima i multilingüe, gestionada pel Departament per a la Igualtat d'Oportunitats. També orienta cap als centres antiviolència locals (centri antiviolenza).\n- Els centres antiviolència i els programes de canvi de conducta per a homes (a Itàlia, «centri per uomini autori di violenza») ofereixen suport confidencial per canviar.",
+      "when_to_see_doctor": null,
+      "red_flags": "Senyals d'alerta de conducta controladora o abusiva, que cal prendre's seriosament tant si els veus en tu com en una relació:\n\n- **Vigilar-la o aïllar-la**: mirar-li el mòbil, controlar-li la ubicació o allunyar-la dels amics i la família.\n- **Controlar les seves decisions**: els diners, com es vesteix, on va, amb qui es veu.\n- **Gelosia disfressada d'amor**, acusacions constants o necessitat de saber on és en tot moment.\n- **Menysprear-la, culpar-la o fer-li por**, fer-la sentir culpable o com si hagués d'anar «amb peus de plom».\n- **Pressions o amenaces** relacionades amb el sexe, amb deixar la relació o amb fer-se mal a un mateix per aconseguir que obeeixi.\n- **Qualsevol força física, intimidació o por.** Si hi és, és maltractament: busca l'ajuda indicada més amunt. Mai no hi ha excusa, i mai no és culpa seva."
+    },
+    "safety-plan": {
+      "title": "Fer un pla de seguretat",
+      "aliases": [
+        "pla de seguretat",
+        "estar segura",
+        "protegir-me",
+        "planificar la seguretat",
+        "marxar de casa amb seguretat",
+        "sortir d'una relació"
+      ],
+      "glance": "Un pla de seguretat són uns quants passos pràctics per ajudar-te a estar més segura, i els serveis especialitzats et poden ajudar a fer-ne un.",
+      "overview": "Un pla de seguretat és simplement pensar per endavant com protegir-te més a tu (i als infants, si n'hi ha). No és una decisió de marxar o de quedar-te: es tracta d'estar una mica més preparada, triïs el que triïs.\n\nA algunes persones els ajuda tenir unes quantes coses preparades discretament: una persona de confiança que sàpiga què passa, els documents i els números importants on els puguis trobar, una bossa petita amb el més imprescindible, una idea de les maneres més segures de sortir de casa, o una paraula o un senyal que indiqui a algú que necessites ajuda. El que té sentit depèn totalment de la teva situació.\n\nNo ho has de resoldre sola, i sovint és més segur no fer-ho. Els serveis contra la violència tenen experiència fent plans de seguretat amb les persones, de manera confidencial i gratuïta, també per al moment de marxar, que pot ser un moment de més risc i que val la pena planificar amb suport i no amb presses.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta amb un centre antiviolència o una línia d'atenció (a Itàlia, el **1522**) per fer un pla adaptat a la teva situació: ho fan cada dia, de manera confidencial, i et poden ajudar amb passos pràctics, legals i emocionals.\n- Si guardes algun registre del que està passant, guarda'l en un lloc privat i segur.",
+      "red_flags": "- Si estàs en **perill immediat**, contacta ara mateix amb els serveis d'emergència: **112** a la UE (inclosa Itàlia), **999** al Regne Unit, **911** als Estats Units i el Canadà.\n- A Itàlia, el **1522** (gratuït, 24 hores al dia, anònim i multilingüe) et pot ajudar per telèfon o per xat, també amb un pla de seguretat urgent."
+    },
+    "sex-during-your-period": {
+      "title": "Relacions sexuals durant la regla",
+      "aliases": [
+        "sexe amb la regla",
+        "relacions sexuals amb la regla",
+        "sexe durant la menstruació",
+        "fer-ho amb la regla",
+        "em puc quedar embarassada amb la regla",
+        "embaràs amb la regla"
+      ],
+      "glance": "Tenir relacions sexuals durant la regla està bé si tots dos ho voleu, però igualment et pots quedar embarassada o transmetre una ITS.",
+      "overview": "Tenir relacions sexuals durant la regla és una decisió personal. Si tots dos ho voleu i us sentiu còmodes, està bé, i no té res de dolent ni d'estrany. Algunes persones se senten més sensibles o simplement no en tenen ganes aquests dies, mentre que d'altres en gaudeixen. El més important és escoltar el teu cos i parlar-ne obertament amb la teva parella.\n\nEl que la regla no fa és funcionar com a anticonceptiu. La probabilitat de quedar-te embarassada és més baixa que al voltant de l'ovulació, però no és zero. Els espermatozoides poden sobreviure dins el cos fins a 7 dies després de la relació, de manera que, si ovules aviat (cosa més probable amb un cicle curt), els espermatozoides d'una relació durant la regla o just després encara podrien trobar un òvul. Si no et vols quedar embarassada, el teu anticonceptiu habitual continua sent important aquests dies.\n\nLa regla tampoc no protegeix de les infeccions de transmissió sexual (ITS). Les infeccions es poden transmetre entre la parella durant les relacions sense preservatiu, i els microbis que les causen poden ser a la sang i també en altres fluids corporals. Els preservatius són el mètode que també redueix el risc d'ITS, inclòs el VIH, així que val la pena fer-los servir sigui quin sigui el moment del mes.",
+      "deep": null,
+      "when_to_see_doctor": "- Si has tingut relacions sexuals **sense anticoncepció**, o el teu anticonceptiu pot haver fallat, i no et vols quedar embarassada, parla amb un farmacèutic, el metge de capçalera o un centre de salut sexual **tan aviat com puguis** sobre l'anticoncepció d'emergència. S'ha de fer servir en pocs dies, i normalment funciona millor com més aviat es fa servir.\n- Demana ajuda a un farmacèutic, un centre de salut sexual o el metge de capçalera si **el preservatiu es trenca o se surt** durant la relació. Potser necessites anticoncepció d'emergència o una prova d'ITS.\n- Ves al metge de capçalera o a un centre de salut sexual si notes **sagnat després de les relacions sexuals quan no tens la regla**. Normalment no és greu, però sempre val la pena fer-ho revisar.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Relacions sexuals a l'embaràs",
+      "aliases": [
+        "sexe a l'embaràs",
+        "relacions sexuals embarassada",
+        "sexe durant l'embaràs",
+        "és segur el sexe a l'embaràs",
+        "intimitat a l'embaràs",
+        "orgasme a l'embaràs"
+      ],
+      "glance": "El sexe és segur en la majoria d'embarassos i no fa mal al nadó, tret que la llevadora o el metge t'hagin aconsellat el contrari.",
+      "overview": "Per a la majoria de persones, tenir relacions sexuals durant l'embaràs és segur, tret que la llevadora o el metge t'hagin dit que no en tinguis. El nadó està ben protegit dins l'úter, i el sexe no li farà cap mal.\n\nÉs possible que t'aconsellin evitar la penetració en algunes situacions: si tens la **placenta baixa (placenta prèvia)**, pel risc de sagnat; si **has trencat aigües**, pel risc d'infecció; o si has tingut **diversos avortaments espontanis**.\n\nEl desig sovint canvia durant l'embaràs (algunes persones en volen més, d'altres menys, i d'altres gens durant un temps), i hi influeixen les hormones, els canvis del cos, el cansament, les nàusees i les preocupacions. Tot això és normal. Si no et ve de gust el sexe, els petons, les abraçades i els massatges són altres maneres de mantenir la proximitat.\n\nA mesura que la panxa creix, algunes postures es tornen incòmodes; les postures de costat sovint són més fàcils. Les hormones poden fer que la vagina estigui més seca, i un lubricant a base d'aigua hi pot ajudar.\n\nAl final de l'embaràs, el sexe o un orgasme poden provocar contraccions de Braxton Hicks, quan l'úter es posa dur durant una estona. És normal i no vol dir que comenci el part; a més, no hi ha proves que el sexe desencadeni el part.\n\nSi algun dels dos podria tenir una infecció de transmissió sexual, fes servir preservatiu, també per al sexe oral: una infecció no tractada us pot fer molt de mal a tu i al nadó. Evita el sexe oral si algun dels dos té una nafra d'herpes labial, perquè el virus es pot transmetre al nadó.",
+      "deep": null,
+      "when_to_see_doctor": "- Parla amb la **llevadora o el metge** si no saps segur si el sexe és segur per a tu, o si les preocupacions sobre el sexe o la teva relació et pesen.\n- Si tens **qualsevol sagnat** durant l'embaràs, fes-lo revisar abans de tornar a tenir relacions: contacta amb la llevadora, el metge o la unitat de maternitat.\n- Ves a un **centre de salut sexual** si tu o la teva parella podríeu tenir una ITS.",
+      "red_flags": "- Contacta de seguida amb la **unitat de maternitat** si creus que **has trencat aigües**, i no tinguis relacions fins que t'hagin visitat.\n- Truca al **{{emergency}} o ves a urgències** si tens un **sagnat abundant**, sobretot amb **dolor fort de panxa** o sensació de desmai."
+    },
+    "sexual-violence": {
+      "title": "Violència sexual i consentiment",
+      "aliases": [
+        "violència sexual",
+        "agressió sexual",
+        "violació",
+        "consentiment",
+        "abús sexual",
+        "sense consentiment",
+        "m'han violat"
+      ],
+      "glance": "La violència sexual és qualsevol acte sexual sense consentiment, i mai no és culpa de la persona que l'ha patit.",
+      "overview": "La violència sexual és qualsevol acte sexual, o intent d'aconseguir-ne un, sense consentiment o mitjançant la coacció. Inclou la violació i qualsevol contacte sexual no desitjat, i la pot cometre qualsevol persona: un desconegut, un conegut o la parella o el cònjuge.\n\nEl consentiment n'és el centre. Consentir vol dir estar-hi d'acord lliurement, i no és possible quan algú està adormit, inconscient, begut o drogat, és un infant, o està pressionat, amenaçat o té por. Es pot retirar en qualsevol moment. Per això, la violència sexual **mai** no és culpa de la persona que l'ha patit: ni per la roba que portava, ni per si havia begut, ni per si es va quedar paralitzada en lloc de resistir-se, ni per si coneixia la persona.\n\nSi t'ha passat a tu, hi ha suport, tant si ha estat fa poc com si fa molt de temps. Se't creu, i el que facis a partir d'ara és decisió teva.",
+      "deep": null,
+      "when_to_see_doctor": "- Pots anar a un **servei de salut, a un hospital o a un servei especialitzat en agressions sexuals**, on et poden atendre, tractar les lesions i, si vols, ajudar-te a denunciar i a conservar les proves.\n- Algunes mesures de salut **depenen del temps** (per exemple, l'anticoncepció d'emergència o la prevenció d'infeccions), així que demanar ajuda **aviat** pot ser útil. Però no hi ha cap termini per rebre suport, i denunciar o no sempre és decisió teva.",
+      "red_flags": "- Si estàs en **perill immediat**, contacta ara mateix amb els serveis d'emergència: **112** a la UE (inclosa Itàlia), **999** al Regne Unit, **911** als Estats Units i el Canadà.\n- Després d'una agressió recent, **un hospital o un servei especialitzat et pot ajudar amb urgència**. A Itàlia, el **1522** (gratuït, 24/7, anònim i multilingüe; per telèfon o per xat) et pot orientar cap a l'atenció adequada."
+    },
+    "signs-of-labour": {
+      "title": "Signes de part",
+      "aliases": [
+        "signes de part",
+        "part",
+        "posar-se de part",
+        "contraccions",
+        "trencar aigües",
+        "tap mucós",
+        "fase latent",
+        "com sé si estic de part"
+      ],
+      "glance": "Entre els signes que el part comença hi ha les contraccions regulars, l'expulsió del tap mucós, el mal d'esquena o el trencament d'aigües.",
+      "overview": "Hi ha alguns signes que indiquen que el part pot estar començant. El principal són les contraccions: enduriments de la panxa que arriben de manera regular i van augmentant. D'altres són l'expulsió del tap mucós (el tap de moc del coll de l'úter que es desprèn), un mal d'esquena persistent, la necessitat d'anar al lavabo i el trencament d'aigües.\n\nAbans del part actiu sovint hi ha una fase inicial («latent»), en què el coll de l'úter s'estova i comença a obrir-se. Aquesta part pot durar hores o fins i tot dies, i per a moltes persones està bé quedar-se a casa, còmodes, descansant i hidratant-se.\n\nCada part comença d'una manera una mica diferent, així que no cal que tinguis tots els signes. Quan creguis que les coses comencen, la llevadora o la unitat de maternitat et poden orientar sobre què has de fer i quan hi has d'anar.",
+      "deep": null,
+      "when_to_see_doctor": "- Truca a la **llevadora o a la unitat de maternitat** per demanar orientació quan creguis que el part ha començat, o quan les contraccions siguin **regulars, aproximadament cada 5 minuts**. Si no pots contactar amb la llevadora, truca a l'hospital on tens previst parir.",
+      "red_flags": "Truca **immediatament a la llevadora o a la unitat de maternitat** (de dia o de nit, no esperis) si:\n\n- **trenques aigües** (sobretot si el líquid és verd, marró o fa mala olor)\n- tens **qualsevol sagnat vaginal**\n- el teu **nadó es mou menys que de costum**\n- tens signes de part i **estàs de menys de 37 setmanes**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Signes d'embaràs",
+      "aliases": [
+        "signes d'embaràs",
+        "símptomes d'embaràs",
+        "primers símptomes d'embaràs",
+        "estic embarassada",
+        "com sé si estic embarassada",
+        "retard de la regla"
+      ],
+      "glance": "Un retard de la regla sovint és el primer signe d'embaràs, de vegades juntament amb nàusees, cansament o els pits sensibles.",
+      "overview": "Per a moltes persones, el primer indici d'embaràs és un **retard de la regla**. Però cada cos és diferent, i algunes noten primer altres signes precoços, sovint cap a les setmanes 4 a 6.\n\nEntre els signes precoços habituals hi ha les nàusees o els vòmits (a qualsevol hora del dia, no només al matí), els pits més grans o sensibles, un cansament fora del normal i necessitat de fer pipí més sovint. Algunes persones també noten un gust metàl·lic, una sensibilitat nova a certes olors o que deixen de venir-los de gust menjars que normalment els agraden.\n\nCap d'aquests signes per si sol vol dir que segur que estàs embarassada (molts coincideixen amb els alts i baixos normals del cicle), i no tothom els té. La manera de saber-ho segur és un test d'embaràs.",
+      "deep": null,
+      "when_to_see_doctor": "- Si el test és positiu, contacta amb una **llevadora o el metge de capçalera** per començar aviat el control de l'embaràs (control prenatal).\n- Si la regla se't retarda i els tests són negatius però els símptomes continuen, val la pena consultar el metge de capçalera per veure què més pot estar passant.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Tabac i embaràs",
+      "aliases": [
+        "fumar a l'embaràs",
+        "tabac embaràs",
+        "deixar de fumar embaràs",
+        "fumar embarassada",
+        "vapejar embaràs",
+        "cigarreta electrònica embaràs"
+      ],
+      "glance": "Deixar de fumar és una de les millors coses que pots fer pel teu nadó, i mai no és massa tard.",
+      "overview": "Deixar de fumar és una de les coses més eficaces que pots fer per donar al teu nadó un començament sa. Cada cigarreta redueix l'oxigen que rep el nadó, cosa que fa que el seu cor treballi més i pot frenar-ne el creixement.\n\nFumar durant l'embaràs augmenta el risc de problemes greus, com l'avortament espontani, el part prematur, el baix pes en néixer, la mort fetal i la síndrome de mort sobtada del lactant després del naixement. El fum passiu també compta, així que una casa sense fum ajuda.\n\nLa part encoratjadora: **mai no és massa tard**. Deixar-ho en qualsevol moment de l'embaràs ajuda, i deixar-ho aviat és el que aporta més beneficis. Pot ser realment difícil, i precisament per això hi ha ajuda gratuïta; fer-la servir fa que sigui molt més probable aconseguir-ho.",
+      "deep": null,
+      "when_to_see_doctor": "- Pregunta a la **llevadora** pel **suport gratuït per deixar de fumar**: professionals formats (alguns especialitzats en l'embaràs) et poden acompanyar, i molts països també tenen una línia telefònica gratuïta per deixar de fumar. Demanar ajuda és una manera de cuidar el teu nadó, no un fracàs.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Tacament i sagnat entre regles",
+      "aliases": [
+        "tacament",
+        "tacar entre regles",
+        "sagnat entre regles",
+        "sagnat intermenstrual",
+        "taques de sang",
+        "pèrdues entre regles",
+        "sagnat després de les relacions"
+      ],
+      "glance": "El tacament és un sagnat lleu entre regles o després de les relacions sexuals; sovint no és greu, però sempre val la pena fer-lo revisar.",
+      "overview": "El tacament és un sagnat lleu que es produeix entre regles o després de les relacions sexuals, fora del teu flux normal. És freqüent i normalment no és res greu, però com que pot tenir diverses causes, és el tipus de cosa que sempre val la pena que revisi un professional sanitari.\n\nHi ha moltes raons habituals. Començar o fer servir anticoncepció hormonal n'és una de freqüent. D'altres són petits creixements benignes a l'úter o al seu voltant (pòlips o miomes), canvis benignes a la superfície del coll de l'úter, la sequedat vaginal o una infecció com la clamídia.\n\nCom que el mateix símptoma pot tenir causes diferents (la majoria sense importància), el pas útil no és endevinar-ho, sinó fer-ho mirar, perquè sàpigues què hi ha al darrere en el teu cas.",
+      "deep": null,
+      "when_to_see_doctor": "- Ves al metge de capçalera o a un centre de salut sexual **sempre que tinguis sagnat entre regles o després de les relacions sexuals**, encara que sigui lleu. Normalment no és res greu, però fer-ho revisar és la manera de trobar-ne la causa, i de descartar aviat les causes menys habituals.",
+      "red_flags": "- Demana una visita **urgent** al metge de capçalera, o contacta amb un **metge de guàrdia**, si **no t'ha vingut la regla i tens un sagnat inusual juntament amb dolor de panxa o pèlvic**: cal valorar-ho ràpidament, perquè pot ser un signe d'embaràs ectòpic."
+    },
+    "stalking": {
+      "title": "Assetjament (stalking)",
+      "aliases": [
+        "assetjament",
+        "stalking",
+        "em persegueix",
+        "algú em segueix",
+        "ciberassetjament",
+        "atenció no desitjada",
+        "assetjament per internet"
+      ],
+      "glance": "L'assetjament és una atenció repetida i no desitjada que et fa sentir por o inseguretat, i es pren seriosament.",
+      "overview": "L'assetjament (stalking) és un patró de conductes repetides i no desitjades per part d'algú que et fa sentir por, vigilada o insegura. Pot incloure que et segueixin, que algú aparegui on ets, trucades o missatges constants, regals no desitjats, que et vigilin per internet o a través del mòbil, o amenaces. Sovint el fa una exparella o algú que coneixes, tot i que no sempre.\n\nLa por que provoca és legítima, encara que cada acte per separat pugui semblar «petit» als altres: el que importa és el patró i com et fa sentir. L'assetjament està reconegut com una forma de maltractament, i en molts països és un delicte. Res d'això és culpa teva, i no ho has d'aguantar i prou.\n\nSi és segur fer-ho, portar un registre et pot ajudar més endavant: dates i hores, captures de pantalla dels missatges i què va passar. No has d'esbrinar sola si «compta»: els serveis de suport et poden ajudar a entendre-ho i a pensar en les teves opcions.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta amb la **policia** per denunciar l'assetjament, i amb una línia d'atenció contra la violència o l'assetjament per rebre suport i consell (a Itàlia, el **1522** atén casos de violència **i** d'assetjament).\n- Conservar proves i fer un pla de seguretat, amb l'ajuda d'un servei especialitzat, pot marcar una diferència real.",
+      "red_flags": "- Si et sents en **perill immediat**, contacta ara mateix amb els serveis d'emergència: **112** a la UE (inclosa Itàlia), **999** al Regne Unit, **911** als Estats Units i el Canadà.\n- A Itàlia, el **1522** (gratuït, 24 hores al dia, anònim i multilingüe) et pot ajudar per telèfon o per xat."
+    },
+    "stillbirth": {
+      "title": "Mort fetal",
+      "aliases": [
+        "mort fetal",
+        "nadó nascut mort",
+        "mort perinatal",
+        "mort intrauterina",
+        "pèrdua del nadó",
+        "pèrdua gestacional tardana"
+      ],
+      "glance": "La mort fetal és la pèrdua d'un nadó després de les 24 setmanes; és poc freqüent, mai no és culpa teva, i sempre hi ha suport.",
+      "overview": "Parlem de mort fetal quan un nadó neix mort després de les 24 setmanes d'embaràs. (Una pèrdua abans de les 24 setmanes s'anomena avortament espontani.) És poc freqüent (aproximadament 1 de cada 250 naixements), però per a les famílies que la viuen és una pèrdua profunda, i tota l'atenció que ve després està pensada per acompanyar-te amb delicadesa durant aquest procés.\n\nDe vegades es troba una causa (per exemple, un problema de la placenta o del desenvolupament del nadó, o una malaltia) i de vegades, malgrat les proves, **no es troba cap causa**. Sigui quin sigui el motiu, una mort fetal no és una cosa que un pare o una mare hagi causat ni que hagués pogut saber com evitar.\n\nHi ha una cosa que realment ajuda a reduir el risc, i és senzilla: **dir-ho de seguida a la llevadora si els moviments del nadó disminueixen o canvien.** A més, les coses del dia a dia (anar a les visites prenatals, no fumar, evitar l'alcohol i dormir de costat a partir de les 28 setmanes) també hi contribueixen.",
+      "deep": null,
+      "when_to_see_doctor": "- Contacta **immediatament amb la llevadora o la unitat de maternitat**, a qualsevol hora, de dia o de nit, si el teu **nadó es mou menys que de costum o notes que els seus moviments són diferents.** No esperis mai a veure si passa; fer-te revisar és exactament el que cal fer, i mai no és cap molèstia.\n- Després d'una pèrdua, les llevadores especialitzades i els equips de suport al dol hi són per a tu: per a les decisions, els passos pràctics i el dol. No has d'afrontar res d'això sola, i hi ha grups de suport per a la pèrdua d'un nadó durant tot el temps que els necessitis.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Estrès, vida i regla",
+      "aliases": [
+        "estrès i regla",
+        "estrès",
+        "falta de la regla",
+        "retard de la regla",
+        "regla endarrerida",
+        "per què no em ve la regla",
+        "no em baixa la regla"
+      ],
+      "glance": "L'estrès, els canvis grans de pes o fer molt d'exercici poden endarrerir o aturar la regla, sovint només durant un temps.",
+      "overview": "És habitual que la regla arribi tard, o que se salti un mes, i sovint la raó té més a veure amb la vida que no pas amb que alguna cosa vagi malament. L'estrès n'és una de freqüent: el mateix sistema que respon a la pressió pot alterar les hormones que regulen el cicle.\n\nAltres coses del dia a dia també poden alterar la regla: un canvi gran de pes (tant si puges com si baixes), fer molt d'exercici o estar esgotada. Els canvis hormonals (com l'arribada de la perimenopausa, o afeccions com la SOP) també poden ser-ne la causa, igual que l'embaràs i alguns anticonceptius. Sovint el temps entre regles simplement varia una mica de tant en tant, i és normal.\n\nEl més tranquil·litzador és que un retard o una falta puntual de la regla normalment no és motiu de preocupació, i les coses sovint s'estabilitzen quan la vida també s'estabilitza. El que val la pena vigilar és un patró de canvis, més que un sol mes.",
+      "deep": null,
+      "when_to_see_doctor": "Ves al metge de capçalera si:\n\n- no t'ha vingut la regla **tres mesos seguits**, o les regles s'han tornat **irregulars**\n- la regla **s'atura** i no saps per què (i, si és possible que estiguis embarassada, val la pena fer primer un test)\n- les faltes de regla van acompanyades d'altres canvis, com canvis de pes inesperats, cansament, més pèl del normal o estat d'ànim baix\n\nAquestes revisions només serveixen per entendre què hi ha darrere del canvi, que normalment és una cosa que es pot controlar.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Acompanyar-la durant la regla",
+      "aliases": [
+        "ajudar-la amb la regla",
+        "suport durant la regla",
+        "cuidar-la amb la regla",
+        "regla i parella",
+        "dolor de regla parella"
+      ],
+      "glance": "La regla pot comportar dolor i cansament reals: petites atencions pràctiques marquen una gran diferència.",
+      "overview": "La regla no és només uns quants dies de sagnat; per a moltes persones va acompanyada de rampes, mal d'esquena, mals de cap, cansament i poca energia. El dolor de regla és freqüent i pot esgotar de debò: no és cap exageració. Tracta-ho com tractaries la teva parella si estigués malalta: amb una amabilitat pràctica.\n\nNormalitza-ho, també. La regla no és fastigosa, ni vergonyosa, ni un tabú. Comprar compreses o tampons amb naturalitat, tenir-ne a casa o donar-li una bossa d'aigua calenta sense fer-ne un drama li transmet que està segura i acompanyada.",
+      "deep": "Coses senzilles que ajuden:\n\n- **Calor i descans.** Una bossa d'aigua calenta o una manta tèrmica a la part baixa de la panxa alleugen les rampes; proposa-li una vetllada tranquil·la a casa.\n- **Treu-li feina de sobre.** Cuina, endreça, fes l'encàrrec, porta-la amb cotxe: l'ajuda pràctica arriba més que les paraules.\n- **Tingues reserves a casa.** Sàpigues què fa servir i tingues-ne sempre, perquè un dia de molt flux no sigui mai una crisi.\n- **Analgèsics i menjar reconfortant**, si en vol; ella decideix.\n- **No la pressionis per tenir sexe ni per tenir una energia que no té.** La proximitat pot ser una abraçada al sofà.",
+      "when_to_see_doctor": "Anima-la a anar al metge (i ofereix-te a acompanyar-la) si el dolor de regla és **fort, va a pitjor o li impedeix fer vida normal**, si les regles són **molt abundants** (xopa la protecció cada hora, coàguls grans) o si el dolor és nou i inusual: poden indicar afeccions com l'endometriosi, que mereixen una atenció adequada.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Donar suport a algú que pateix violència",
+      "aliases": [
+        "donar suport a algú",
+        "ajudar una amiga",
+        "com ajudar",
+        "com donar suport",
+        "algú que pateix maltractament",
+        "la meva amiga pateix maltractament"
+      ],
+      "glance": "Si algú que coneixes pot estar patint maltractament, escoltar sense jutjar, i saber on orientar-lo, ajuda.",
+      "overview": "Adonar-te que algú que t'importa pot estar patint maltractament és dur, i voler ajudar és un bon instint. Les coses més útils que pots oferir sovint són les més senzilles.\n\nEscolta i creu-te el que et diu. Deixa que parli al seu ritme, sense jutjar, sense culpabilitzar i sense preguntar què va fer per provocar-ho. Digues-li clarament que no és culpa seva i que no s'ho mereix. Intenta no dir-li què ha de fer ni pressionar-la perquè marxi: marxar és una decisió seva, i fer-ho amb presses de fet pot augmentar el perill; el que ajuda més és que se senti acompanyada i que no està sola.\n\nGuarda per a tu el que t'expliqui. Ajuda-la amb delicadesa a trobar suport especialitzat quan estigui preparada (una línia d'atenció com el **1522** a Itàlia, o un centre antiviolència local) i ofereix-li ajuda pràctica, com buscar els números juntes o ser-hi quan truqui. I cuida't també tu: acompanyar algú en una situació així pot ser feixuc.",
+      "deep": null,
+      "when_to_see_doctor": "- Anima-la (sense pressionar-la) a contactar amb una línia d'atenció o un centre antiviolència, que us poden orientar a totes dues sobre què fer a continuació. Pots oferir-te a ajudar-la a fer la trucada o a trobar el número.\n- Si està ferida, el metge de capçalera o un hospital la poden atendre i posar-la en contacte amb serveis de suport.",
+      "red_flags": "- Si està en **perill immediat**, truca als serveis d'emergència: **112** a la UE (inclosa Itàlia), **999** al Regne Unit, **911** als Estats Units i el Canadà.\n- A Itàlia, el **1522** (gratuït, 24/7, anònim i multilingüe; per telèfon o per xat) també et pot aconsellar sobre com ajudar algú."
+    },
+    "the-coil": {
+      "title": "El DIU (de coure i hormonal)",
+      "aliases": [
+        "diu",
+        "diu de coure",
+        "diu hormonal",
+        "dispositiu intrauterí",
+        "sistema intrauterí",
+        "siu",
+        "Mirena",
+        "espiral"
+      ],
+      "glance": "El DIU és un petit dispositiu que es col·loca dins l'úter, de coure o hormonal, i que dura anys.",
+      "overview": "El DIU (dispositiu intrauterí) és un petit dispositiu que un professional sanitari col·loca dins l'úter. N'hi ha de dos tipus, i és útil distingir-los:\n\n- El **DIU de coure** no conté hormones. El coure canvia les condicions dins l'úter de manera que els espermatozoides i els òvuls no hi poden sobreviure bé, i també afecta el moc cervical. Segons el tipus, funciona entre 5 i 10 anys, aproximadament.\n- El **DIU hormonal** (també anomenat SIU, sistema intrauterí) allibera un progestagen en lloc de fer servir coure. Espesseix el moc del coll de l'úter i aprima el revestiment de l'úter; en algunes persones també pot fer que la regla sigui molt més lleugera.\n\nTots dos són mètodes de «posar i oblidar» i tots dos són eficaços en més d'un 99%, amb poca diferència entre l'ús perfecte i el típic. Cap dels dos no protegeix de les ITS.",
+      "deep": "Els DIU són mètodes reversibles de llarga durada: un cop col·locats, continuen funcionant durant anys, i la fertilitat torna després de retirar-los. La col·locació i la retirada les fa un professional sanitari format i només duren uns minuts, tot i que a algunes persones la col·locació els resulta molesta. Un motiu habitual per triar entre tots dos és el seu efecte sobre la regla: el DIU de coure pot fer que la regla sigui més abundant al principi, mentre que el DIU hormonal sovint la fa més lleugera. Quin et convé és una conversa per tenir amb un professional sanitari; aquest article només explica com funciona cadascun.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Els dies premenstruals",
+      "aliases": [
+        "spm per a parelles",
+        "síndrome premenstrual parella",
+        "acompanyar-la abans de la regla",
+        "suport premenstrual",
+        "fase lútia parella"
+      ],
+      "glance": "Els dies abans de la regla pot estar més cansada, sensible o desanimada: respon-hi amb paciència, no amb bromes.",
+      "overview": "Durant la setmana, més o menys, abans de la regla, moltes persones tenen símptomes premenstruals: canvis d'humor, irritabilitat o desànim, cansament, pits adolorits, inflor, mals de cap o problemes per dormir. És molt freqüent i és real: ho provoca el canvi hormonal natural de la fase lútia, no el fet que ella «exageri».\n\nEn un nombre més petit de persones, el desànim és intens (una afecció anomenada TDPM, trastorn disfòric premenstrual) i mereix un suport real i atenció mèdica. En tot cas, la teva feina no és diagnosticar-la ni arreglar-la: és ser-hi, amb calma i amabilitat.\n\nEl que més mal pot fer una parella en aquests dies és fer-ho servir com a arma: «només és la síndrome premenstrual», posar els ulls en blanc o tractar els seus sentiments com si no fossin vàlids per la data del calendari. Això la menysprea i afegeix dolor a una setmana difícil. Els seus sentiments continuen comptant, encara que les hormones hi tinguin un paper.",
+      "deep": "El que ajuda de veritat aquests dies:\n\n- **Alleugereix-li la càrrega.** Encarrega't de les tasques de casa, de cuinar o de la llista mental de coses per fer sense que t'ho hagi de demanar.\n- **Consol, no correccions.** Ofereix-li escalf, descans, una bossa d'aigua calenta, el seu menjar preferit, i deixa que senti el que sent.\n- **Primer, escolta.** Si està trasbalsada, «sembla que és molt dur» és sempre millor que «calma't».\n- **No portis comptes.** Un dia més difícil no és un deute que et tornarà més endavant.\n- **Pregunta-li què necessita**: algunes persones volen proximitat, d'altres espai. Totes dues coses estan bé; respecta la seva resposta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Embaràs de bessons i múltiple",
+      "aliases": [
+        "bessons",
+        "embaràs de bessons",
+        "embaràs múltiple",
+        "espero bessons",
+        "bessons idèntics",
+        "bessons univitel·lins",
+        "bessons no idèntics",
+        "trigèmins"
+      ],
+      "glance": "Un embaràs de bessons normalment es detecta per primera vegada a l'ecografia de datació, i comporta una mica més de control prenatal.",
+      "overview": "Normalment es descobreix per primera vegada que esperes més d'un nadó a l'**ecografia de datació** (cap a les 12 setmanes), que també pot mostrar si els nadons comparteixen placenta.\n\nN'hi ha de dos tipus principals. Els bessons **idèntics** provenen d'un sol òvul fecundat que es divideix, de manera que comparteixen els mateixos gens i sempre són del mateix sexe. Els bessons **no idèntics** provenen de dos òvuls diferents i no s'assemblen més que qualsevol altre parell de germans; són els més freqüents dels dos tipus, i són una mica més probables a més edat, si hi ha antecedents familiars per part de la mare o després d'un tractament de fertilitat.\n\nEsperar bessons o més nadons és una experiència particular, i normalment implica una mica **més de control prenatal**: visites i ecografies addicionals per fer un seguiment de prop de tu i dels teus nadons. El teu equip de llevadores t'explicarà què pots esperar.",
+      "deep": null,
+      "when_to_see_doctor": "- Si una ecografia mostra bessons (o més), la **llevadora** t'explicarà les revisions i ecografies addicionals que comporta un embaràs múltiple; anar a totes és la millor manera d'estar ben atesa.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Entendre el seu cicle",
+      "aliases": [
+        "guia del cicle per a parelles",
+        "cicle per a parelles",
+        "com funciona el seu cicle",
+        "entendre la regla de la parella",
+        "acompanyar-la en el cicle"
+      ],
+      "glance": "El seu cos passa per un cicle mensual amb quatre fases: conèixer-ne els aspectes bàsics t'ajuda a donar-li suport sense haver d'endevinar.",
+      "overview": "El cicle menstrual és un ritme aproximadament mensual, de mitjana d'uns 28 dies però sovint d'entre 21 i 35, i el que és normal per a ella és el que és regular per a *ella*. Té quatre fases: la fase **menstrual** (la regla), la fase **fol·licular**, l'**ovulació** cap a la meitat i la fase **lútia** abans de la regla següent.\n\nL'energia, l'estat d'ànim, el son i el desig poden variar al llarg d'aquestes fases perquè les hormones pugen i baixen: és biologia, no un defecte de caràcter ni una cosa per fer-ne broma. Algunes persones noten una baixada important els dies abans de la regla; d'altres gairebé no ho noten. No hi ha una única manera «correcta» de sentir-se.\n\nNo cal que en sàpigues moltíssim. El que més ajuda és senzill: saber més o menys en quin moment del cicle és (aquesta aplicació t'ho pot mostrar, amb el seu permís), comptar que alguns dies seran més difícils que d'altres i preguntar-li què li va bé a *ella* en lloc de donar-ho per fet.",
+      "deep": "Algunes coses que val la pena saber, perquè els mites no omplin el buit:\n\n- **«Està amb la regla» no és un insult ni una explicació per no estar d'acord amb ella.** Fer servir el seu cicle per desqualificar els seus sentiments («només són les hormones») és una falta de respecte, i normalment és fals. Els seus motius continuen sent els seus motius.\n- **El cicle afecta més que la regla.** Les rampes, els mals de cap, els pits sensibles, la poca energia o un estat d'ànim més baix en poden formar part. L'ajuda pràctica és millor que els consells.\n- **El seguiment és seu.** Si comparteix el seu cicle amb tu, pren-t'ho com una finestra a com es podria sentir: una invitació a ser amable, mai una eina per vigilar-la o controlar-la.\n- **Si tens dubtes, pregunta.** «Com et trobes avui? Puc fer alguna cosa?» val més que qualsevol gràfic.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Sequedat vaginal",
+      "aliases": [
+        "sequedat vaginal",
+        "sequedat",
+        "vagina seca",
+        "atròfia vaginal",
+        "síndrome genitourinària",
+        "lubricació"
+      ],
+      "glance": "La sequedat vaginal és freqüent, sovint està relacionada amb les hormones i pot causar irritació o molèsties durant les relacions sexuals.",
+      "overview": "La sequedat vaginal és una experiència habitual que moltes persones tenen en algun moment. Es produeix quan disminueix la humitat habitual que manté la vagina còmoda, i es pot notar com a irritació, picor o molèstia, fins i tot dolor o molèsties durant les relacions sexuals.\n\nSovint està relacionada amb les hormones, sobretot amb una baixada de l'estrogen. Per això és freqüent al voltant de la menopausa i la perimenopausa, però també pot passar durant la lactància, amb alguns medicaments (com certs anticonceptius o antidepressius) o quan no hi ha prou excitació abans de les relacions. No és res de què t'hagis d'avergonyir: és una qüestió física, no un reflex de com ets tu ni de la teva relació.\n\nSaber que és freqüent, i que normalment es pot tractar molt bé, és un bon punt de partida. Hi ha opcions senzilles que poden ajudar, i el metge de capçalera o un farmacèutic et poden orientar cap a la que et vagi millor.",
+      "deep": null,
+      "when_to_see_doctor": "Ves al metge de capçalera si:\n\n- la sequedat vaginal et molesta o no millora al cap d'unes quantes setmanes\n- t'afecta el dia a dia o la vida sexual\n- també tens un flux inusual, o qualsevol sagnat després de les relacions sexuals, entre regles o després de la menopausa\n\nNo cal que simplement ho aguantis: hi ha ajuda, i un professional sanitari pot mirar què hi ha al darrere i què ho pot alleujar.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Salut de la vagina i la vulva",
+      "aliases": [
+        "salut vaginal",
+        "salut de la vulva",
+        "higiene íntima",
+        "rentar-se la vagina",
+        "dutxes vaginals",
+        "flux",
+        "flux vaginal"
+      ],
+      "glance": "La vagina es neteja sola: només necessita una cura suau per fora, i el flux vaginal és normal.",
+      "overview": "Una de les coses més tranquil·litzadores que cal saber és que la vagina es cuida sola. Es neteja de manera natural, i el flux que notes en forma part: és un fluid que la manté neta i humida i que ajuda a protegir-la de les infeccions. La quantitat i la textura canvien al llarg del cicle, cosa del tot normal.\n\nPer això, la vagina no s'ha de rentar per dins. De fet, rentar-la per dins (les «dutxes vaginals») en pot alterar l'equilibri natural. La part de fora (la vulva) només necessita una cura suau: aigua tèbia i, si vols, un sabó suau i sense perfum. És millor evitar els sabons perfumats, els gels, els desodorants i les tovalloletes perfumades, perquè poden causar irritació.\n\nConèixer què és normal per a tu (el teu flux habitual, l'aspecte i les sensacions) fa que sigui més fàcil notar si alguna cosa canvia i potser cal revisar-la.",
+      "deep": null,
+      "when_to_see_doctor": "Ves al metge de capçalera o a un centre de salut sexual si notes:\n\n- un canvi en el flux: el color, l'olor o la textura, o molt més flux del normal\n- picor, irritació o coïssor al voltant de la vagina o la vulva\n- sagnat entre regles o després de les relacions sexuals\n- dolor en fer pipí, o dolor a la part baixa, entre la panxa i les cuixes (dolor pèlvic)\n\nSón coses freqüents i sovint fàcils de tractar: un canvi en el flux pot voler dir simplement una infecció lleu, com una candidiasi vaginal. Fer-ho revisar és la manera de saber-ho, en lloc d'endevinar-ho.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "El cicle i les seves fases",
+      "summary": "Com avança el teu cicle per les fases menstrual, fol·licular, d'ovulació i lútia."
+    },
+    "hormones": {
+      "title": "Hormones",
+      "summary": "Els missatgers que hi ha darrere del teu cicle: estrogen, progesterona, LH i FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Fertilitat i ovulació",
+      "summary": "La finestra fèrtil, els signes de l'ovulació i allò que influeix en la fertilitat."
+    },
+    "contraception": {
+      "title": "Anticoncepció",
+      "summary": "Com funcionen els diferents mètodes, en paraules senzilles."
+    },
+    "symptoms-and-signals": {
+      "title": "Símptomes i senyals del cos",
+      "summary": "Dolor, tacament, flux vaginal, estat d'ànim: què et pot estar dient el teu cos."
+    },
+    "conditions": {
+      "title": "Afeccions",
+      "summary": "SOP, endometriosi, miomes i més: explicats i amb fonts."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Salut sexual i íntima",
+      "summary": "Benestar íntim, comoditat i preguntes freqüents."
+    },
+    "life-stages": {
+      "title": "Etapes de la vida",
+      "summary": "Des de la primera regla fins a la perimenopausa i la menopausa."
+    },
+    "wellbeing": {
+      "title": "Benestar i cicle",
+      "summary": "Com es relacionen el son, l'estrès i el dia a dia amb el teu cicle."
+    },
+    "tests-and-exams": {
+      "title": "Proves i revisions",
+      "summary": "Autoexploració mamària, citologia, tests d'ovulació i més."
+    },
+    "pregnancy": {
+      "title": "Embaràs",
+      "summary": "Primers signes, cuidar-se, senyals d'alarma i pèrdua de l'embaràs: explicats i amb fonts."
+    },
+    "for-partners": {
+      "title": "Per a parelles",
+      "summary": "Entendre el seu cicle, donar-li un bon suport i construir una relació basada en el respecte."
+    },
+    "safety-and-support": {
+      "title": "Seguretat i suport",
+      "summary": "Reconèixer el maltractament, estar segura i saber on trobar ajuda, amb números d'emergència."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Entén el teu cicle en 5 passos",
+      "summary": "Un recorregut tranquil per tot el cicle i per cadascuna de les seves quatre fases."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Conèixer l'ovulació",
+      "summary": "Què és l'ovulació, la finestra fèrtil i els signes que et dona el cos."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Les hormones del teu cicle",
+      "summary": "Coneix els quatre missatgers que mouen el cicle i què fa cadascun."
+    }
+  }
+}

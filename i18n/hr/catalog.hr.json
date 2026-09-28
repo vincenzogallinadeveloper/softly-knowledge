@@ -1,0 +1,1453 @@
+{
+  "_meta": {
+    "lang": "hr",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohol u trudnoći",
+      "aliases": [
+        "alkohol u trudnoći",
+        "pijenje u trudnoći",
+        "alkohol i trudnoća",
+        "fetalni alkoholni sindrom",
+        "FASD",
+        "vino u trudnoći",
+        "pivo u trudnoći"
+      ],
+      "glance": "Najsigurnije je ne piti nikakav alkohol u trudnoći ni dok pokušavaš zatrudnjeti.",
+      "overview": "Savjet NHS-a jasan je i jednostavan: najsigurnije je **uopće ne piti alkohol** ako si trudna ili pokušavaš zatrudnjeti. Kad ne piješ, rizik za tvoje dijete svodi se na najmanju moguću mjeru.\n\nRazlog je taj što alkohol iz tvoje krvi prolazi kroz posteljicu do djeteta, čija jetra još nije dovoljno razvijena da ga razgradi. Pijenje u trudnoći može dovesti do fetalnog alkoholnog spektra poremećaja (FASD), niza doživotnih teškoća s učenjem, ponašanjem i razvojem.\n\nAko si pila prije nego što si znala da si trudna, pokušaj se ne brinuti: rizik za dijete od malih količina u ranoj trudnoći vjerojatno je nizak. Ono što pomaže jest jednostavno izbjegavati alkohol od sada pa do kraja trudnoće.",
+      "deep": null,
+      "when_to_see_doctor": "- Ako ti je teško prestati piti, nemaš se čega sramiti. Reci to svojoj primalji ili obiteljskom liječniku. Mogu ti pružiti podršku bez osuđivanja, a traženje pomoći dobro je i za tebe i za tvoje dijete.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Prenatalna skrb",
+      "aliases": [
+        "prenatalna skrb",
+        "antenatalna skrb",
+        "praćenje trudnoće",
+        "pregledi u trudnoći",
+        "kontrola trudnoće",
+        "prvi pregled u trudnoći",
+        "primalja"
+      ],
+      "glance": "Prenatalna skrb su redoviti pregledi tijekom trudnoće koji pomažu da ti i tvoje dijete budete dobro.",
+      "overview": "Prenatalna skrb je skrb koju dobivaš tijekom trudnoće kako bi ti i tvoje dijete bili što zdraviji. Obično te prati primalja, a po potrebi i liječnik. Vrijedi početi rano: javi se primalji ili obiteljskom liječniku čim saznaš da si trudna.\n\nTvoj prvi pravi pregled, takozvani „prvi pregled u trudnoći“, obično je između 8. i 12. tjedna. Nakon toga nude ti se redoviti pregledi: najmanje 10 pregleda i 2 ultrazvuka ako ti je ovo prvo dijete, ili oko 7 ako si već rodila, s više pregleda prema kraju trudnoće.\n\nNa tim pregledima primalja ti mjeri krvni tlak i provjerava urin, mjeri trbuh kako bi pratila rast djeteta, nudi ti probirne pretrage i razgovara s tobom o pokretima djeteta i o tome kako se osjećaš. Mnoge važne stvari, poput preeklampsije ili gestacijskog dijabetesa, otkriju se upravo ovdje, prije nego što bi ti išta primijetila, i baš zato su ti pregledi važni.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se **primalji ili obiteljskom liječniku čim saznaš da si trudna** kako bi skrb mogla početi rano, idealno na vrijeme za onaj prvi pregled prije otprilike 10. do 12. tjedna.\n- Pokušaj doći na **sve** prenatalne preglede, čak i ako se osjećaš potpuno dobro: nekoliko pretraga osmišljeno je upravo zato da rano otkriju probleme koji nemaju simptoma.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Pokreti tvoje bebe",
+      "aliases": [
+        "pokreti bebe",
+        "pokreti djeteta",
+        "fetalni pokreti",
+        "udarci bebe",
+        "ritanje bebe",
+        "beba se manje miče",
+        "ne osjećam bebu",
+        "smanjeni pokreti"
+      ],
+      "glance": "Kad osjećaš da se beba miče, to je znak da je dobro. Ako se pokreti uspore ili promijene, odmah nazovi primalju.",
+      "overview": "Osjećaj bebinih pokreta jedan je od umirujućih znakova da je dobro. Većina trudnica pokrete počne osjećati negdje između 16. i 24. tjedna trudnoće, često kasnije u prvoj trudnoći, pa je u prvoj trudnoći uobičajeno da ih osjetiš tek nakon 20. tjedna.\n\nNe postoji određen broj pokreta koje bi „trebala“ osjetiti i ne moraš brojati udarce prema nekom cilju. Svaka je beba drukčija, a važno je upoznati uobičajeni obrazac **svoje** bebe tijekom dana: kada je aktivna, a kada mirna.\n\nKad upoznaš taj obrazac, obrati pozornost upravo na promjenu u njemu. Vjeruj onome što znaš o svojoj bebi.",
+      "deep": null,
+      "when_to_see_doctor": "Upoznavanje bebina uobičajenog obrasca omogućuje ti da primijetiš promjenu. Ako ikad nisi sigurna jesu li se pokreti usporili ili promijenili, uvijek je ispravno nazvati i provjeriti. Nikad nikome nećeš uzalud oduzimati vrijeme.",
+      "red_flags": "- Ako se beba **miče manje nego inače, ako se njezini pokreti promijene ili ako ne osjećaš da se miče**, **odmah nazovi primalju ili rodilište**, u bilo koje doba dana ili noći. **Ne čekaj sljedeći dan**, čak ni ako je sredina noći.\n- Ne oslanjaj se na kućni uređaj za slušanje otkucaja srca (dopler) ili aplikaciju da se umiriš. Neka te pregledaju osobno."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Bol u leđima u trudnoći",
+      "aliases": [
+        "bol u leđima u trudnoći",
+        "bolovi u križima u trudnoći",
+        "križobolja u trudnoći",
+        "bol u donjem dijelu leđa trudnoća",
+        "bole me leđa trudna",
+        "leđa u trudnoći"
+      ],
+      "glance": "Bol u leđima vrlo je česta u trudnoći jer ligamenti omekšaju, a trbuh raste. Obično je bezopasna.",
+      "overview": "Bol u leđima jedna je od najčešćih pojava u trudnoći. Dok se tijelo priprema za porod, ligamenti prirodno omekšaju i rastežu se, a trbuh koji raste mijenja način na koji nosiš svoju težinu. Oboje dodatno opterećuje donji dio leđa i zdjelicu.\n\nSvakodnevne stvari mogu je ublažiti: pazi na držanje kad stojiš, sjediš i podižeš nešto; nosi ravnu obuću koja dobro podupire stopalo; spavaj na čvrstom madracu ili uz jastuk za potporu; i redovito se lagano kreći, primjerice hodanjem, jogom za trudnice ili vježbama s tečaja. Ako ti bol stvarno otežava svakodnevicu, fizioterapeut specijaliziran za trudnoću može ti dati savjete prilagođene upravo tebi.\n\nVećina bolova u leđima u trudnoći nije razlog za brigu, ali neke je obrasce vrijedno bez odgađanja provjeriti, i tome služe smjernice u nastavku.",
+      "deep": null,
+      "when_to_see_doctor": "Javi se bez odgađanja **obiteljskom liječniku ili primalji** ako bol u leđima:\n\n- je **jaka** ili se pojavi u **drugom ili trećem tromjesečju** (ponekad može biti znak prijevremenog poroda)\n- dolazi uz **vrućicu, krvarenje iz rodnice ili bol pri mokrenju**\n- se osjeća **u boku (ili bokovima), ispod rebara**",
+      "red_flags": "- Nazovi **{{emergency}} ili idi na hitni prijam u bolnicu** ako **izgubiš osjet u nogama, stražnjici ili spolovilu** ili izgubiš kontrolu nad mjehurom ili crijevima. To je rijetko, ali zahtijeva hitnu skrb."
+    },
+    "basal-body-temperature": {
+      "title": "Bazalna tjelesna temperatura",
+      "aliases": [
+        "bbt",
+        "bazalna temperatura",
+        "bazalna tjelesna temperatura",
+        "jutarnja temperatura",
+        "temperaturna metoda",
+        "mjerenje temperature za ovulaciju"
+      ],
+      "glance": "Bazalna tjelesna temperatura je tvoja jutarnja temperatura u mirovanju, koja nakon ovulacije blago poraste.",
+      "overview": "Bazalna tjelesna temperatura (BBT) je temperatura tvog tijela u potpunom mirovanju. Kad je mjeriš svaki dan na isti način, pokazuje malu, ali značajnu promjenu tijekom ciklusa: nakon ovulacije malo poraste i ostaje povišena do sljedeće menstruacije.\n\nPorast je malen, oko 0,4 do 0,8 °F (otprilike 0,2 do 0,4 °C), pa se očitava iz obrasca tijekom nekoliko dana, a ne iz jednog mjerenja. Da bi ga uočila, mjeri temperaturu svako jutro prije ustajanja, jela ili pića, idealno u isto vrijeme. Otprilike tri dana nakon što temperatura počne rasti, ovulacija je gotovo kod svih već nastupila.\n\nBudući da porast dolazi *nakon* što se jajna stanica oslobodi, BBT potvrđuje da se ovulacija dogodila, a ne predviđa je unaprijed. Tijekom nekoliko ciklusa može ti pomoći da uočiš kako izgleda tvoj ciklus, iako sama po sebi nije precizan način za određivanje plodnih dana.",
+      "deep": "BBT je jedan od znakova plodnosti koji se bilježe svakodnevno, uz cervikalnu sluz i duljinu ciklusa. Prirodno se nadopunjuje s praćenjem sluzi: promjena u bistru, sklisku sluz upućuje na to da plodni dani počinju, a porast temperature nekoliko dana kasnije potvrđuje da je ovulacija prošla. Mnogo toga može malo pomaknuti temperaturu u mirovanju, poput lošeg sna, bolesti, alkohola ili duljeg spavanja ujutro, pa pojedinačna neobična mjerenja znače manje od ukupnog trenda.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Krvarenje u trudnoći",
+      "aliases": [
+        "krvarenje u trudnoći",
+        "krvarenje iz rodnice u trudnoći",
+        "oskudno krvarenje u trudnoći",
+        "točkasto krvarenje u trudnoći",
+        "smeđi iscjedak u trudnoći",
+        "krvarim a trudna sam"
+      ],
+      "glance": "Krvarenje u trudnoći nije uvijek ozbiljno i oskudno krvarenje često je u ranoj trudnoći, ali uvijek ga daj provjeriti.",
+      "overview": "Krvarenje iz rodnice tijekom trudnoće nije uvijek znak da nešto nije u redu. Lagano ili oskudno krvarenje prilično je često, osobito u ranoj trudnoći, a mnoge se trudnoće nakon toga nastave sasvim uredno.\n\nIpak, krvarenje ponekad može biti znak problema, poput spontanog pobačaja ili izvanmaternične trudnoće, pa ga treba **uvijek provjeriti**, bez obzira na količinu. Pregledom se otkriva uzrok i tako brzo dobivaš pravu skrb ako ti je potrebna.\n\nBudući da isti simptom može značiti vrlo različite stvari, korisno je ne nagađati, nego se javiti i otići na pregled.",
+      "deep": null,
+      "when_to_see_doctor": "- **Uvijek se javi rodilištu** (ili, ako si trudna manje od 20 tjedana ili nemaš njihov broj, ambulanti za ranu trudnoću ili **dežurnom liječniku**) ako imaš **bilo kakvo** krvarenje iz rodnice u trudnoći, čak i oskudno, kako bi se provjerio uzrok.",
+      "red_flags": "- Nazovi **{{emergency}} ili idi na hitni prijam u bolnicu** ako imaš **jako krvarenje**, primjerice ako potpuno natopiš uložak ubrzo nakon što ga staviš, osobito uz **jaku bol u trbuhu, bol u vrhu ramena, mučninu, osjećaj nesvjestice, vrtoglavicu ili gubitak svijesti.** To zahtijeva hitnu skrb."
+    },
+    "breast-awareness": {
+      "title": "Poznavanje svojih dojki",
+      "aliases": [
+        "samopregled dojki",
+        "pregled dojki",
+        "provjera dojki",
+        "kvržica u dojci",
+        "kako pregledati dojke",
+        "promjene na dojci"
+      ],
+      "glance": "Poznavati svoje dojke znači jednostavno znati kako inače izgledaju i kakve su na dodir, kako bi primijetila promjene.",
+      "overview": "Poznavanje svojih dojki nije posebna tehnika. Radi se samo o tome da upoznaš što je za tebe normalno, kako bi se sve novo istaknulo. Redovito pregledavanje dojki ili prsa pomaže ti da naučiš kako obično izgledaju i kakve su na dodir; jednom mjesečno dobar je ritam.\n\nNe postoji jedan „pravi“ način. Mnoge žene pogledaju se u ogledalu sa spuštenim, a zatim podignutim rukama te opipaju svaku dojku, sve do pazuha. Ono što stječeš jest poznavanje vlastitog tijela, a ne dijagnoza: cilj je samo rano primijetiti promjenu ako do nje dođe.\n\nDojke se prirodno mijenjaju i tijekom ciklusa i kroz život, pa su neke promjene potpuno normalne. Smisao je poznavati svoju normalu dovoljno dobro da uočiš nešto što nije uobičajeno.",
+      "deep": null,
+      "when_to_see_doctor": "Javi se obiteljskom liječniku ako primijetiš bilo kakvu promjenu koja za tebe nije uobičajena, primjerice:\n\n- kvržicu ili oteklinu u dojci, prsima ili pazuhu\n- promjenu na koži, poput uvlačenja (može izgledati kao narančina kora) ili crvenila\n- promjenu veličine ili oblika jedne ili obje dojke\n- iscjedak iz bradavice (ako nisi trudna i ne dojiš), u kojem može biti krvi\n- promjenu izgleda bradavice, primjerice ako se uvuče prema unutra\n- bol u dojci ili pazuhu koja ne prolazi\n\nVećina promjena na dojkama nije rak i pokaže se bezopasnima, ali uvijek vrijedi promjenu bez odgađanja dati provjeriti liječniku, jer ako nešto ipak zahtijeva pozornost, rano otkrivanje pomaže.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Dojenje",
+      "aliases": [
+        "dojenje",
+        "dojiti",
+        "majčino mlijeko",
+        "hranjenje bebe",
+        "problemi s dojenjem",
+        "savjetovalište za dojenje"
+      ],
+      "glance": "Majčino mlijeko štiti bebu od infekcija i prilagođava se kako raste, a korist ima bilo koja količina.",
+      "overview": "Majčino mlijeko prirodna je, potpuna hrana za bebu: daje joj hranjive tvari, vitamine i minerale koji su joj potrebni, a s vremenom se mijenja kako bi odgovaralo njezinu razvoju. Također pomaže u zaštiti od infekcija i bolesti te pruža i neke dugoročne zdravstvene koristi.\n\nKoristi ima i onaj tko doji: dojenje se, među ostalim, povezuje s manjim rizikom od raka dojke i jajnika. Općenito vrijedi da su koristi to veće što više i dulje dojiš. Važno je da je **bilo koja** količina majčina mlijeka vrijedna; nije sve ili ništa.\n\nHranjenje bebe na početku može biti i teže nego što očekuješ, i to je često. Pomoć je dostupna od primalje, patronažne sestre i lokalnih savjetovališta za dojenje, pa je dobro javiti se rano ako ne ide glatko.",
+      "deep": null,
+      "when_to_see_doctor": "- Zatraži rano pomoć od **primalje ili patronažne sestre** ako je hranjenje bolno ili teško ili se brineš da beba ne dobiva dovoljno. Podrška može mnogo promijeniti.\n- Način na koji hraniš bebu tvoja je osobna odluka i podrška ti je dostupna što god odabrala; važno je da ste ti i beba dobro.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Smeđi iscjedak",
+      "aliases": [
+        "smeđi iscjedak",
+        "smeđe oskudno krvarenje",
+        "smeđa krv",
+        "stara krv",
+        "tamni iscjedak",
+        "smeđa menstrualna krv",
+        "smeđi iscjedak prije menstruacije"
+      ],
+      "glance": "Smeđi iscjedak obično je malo krvi, često u slabijim danima menstruacije. Smeđe oskudno krvarenje u drugo vrijeme vrijedi dati provjeriti liječniku.",
+      "overview": "Smeđi iscjedak znači malu količinu smećkaste krvi ili tekućine koju primijetiš na donjem rublju ili toaletnom papiru. Mnoge ga žene u nekom trenutku vide, a vrlo je često jednostavno dio menstruacije.\n\nMenstrualna krv nije uvijek jarkocrvena. U najobilnijim danima obično je crvena, ali u slabijim danima može biti ružičasta ili smeđa. Zato je smećkasta nijansa u slabijim danima menstruacije česta i normalna pojava.\n\nSmeđa boja može se pojaviti i u drugo vrijeme. Oskudno krvarenje (spotting) znači male mrlje ružičaste, crvene ili smeđe krvi, a oskudno krvarenje između menstruacija ima nekoliko čestih uzroka. Hormonska kontracepcija, poput pilule, jedan je od najčešćih. Drugi uključuju male izrasline u maternici ili oko nje (poput polipa ili mioma) i infekcije poput klamidije. U vrlo ranoj trudnoći neke žene primijete malo oskudnog krvarenja otprilike u vrijeme kad bi trebala doći menstruacija. To se naziva implantacijsko krvarenje.\n\nBudući da smeđe oskudno krvarenje izvan menstruacije može imati različite uzroke, uglavnom bezazlene, korisno je ne nagađati, nego ga dati pregledati, kako bi znala što kod tebe stoji iza njega.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se obiteljskom liječniku ili u savjetovalište za spolno zdravlje ako imaš **smeđe oskudno krvarenje ili krvarenje između menstruacija ili nakon spolnog odnosa**, čak i ako je slabo. Obično nije ozbiljno, ali uvijek ga vrijedi dati provjeriti.\n- Ako si **trudna ili bi mogla biti**, javi se rodilištu, ambulanti za ranu trudnoću ili **dežurnom liječniku** zbog bilo kakvog oskudnog krvarenja, uključujući smeđe, kako bi se provjerio uzrok.\n- Javi se obiteljskom liječniku ako primijetiš **bilo kakav smeđi ili ružičasti iscjedak ili krvarenje nakon menopauze**, čak i ako je riječ o maloj količini ili se dogodilo samo jednom.\n- Potraži savjet obiteljskog liječnika, savjetovališta za spolno zdravlje ili dežurnog liječnika ako iscjedak **promijeni boju, miris ili konzistenciju** ili ga prate svrbež, bolnost, bol u zdjelici ili bol pri mokrenju.",
+      "red_flags": "- Zatraži **hitan** pregled kod obiteljskog liječnika ili se javi **dežurnom liječniku** ako ti je **nedavno izostala menstruacija, a imaš neuobičajeno krvarenje uz bol u trbuhu ili zdjelici**. To treba brzo provjeriti jer može biti znak izvanmaternične trudnoće.\n- Ako si trudna, nazovi **{{emergency}}** ako krvariš i imaš **jaku bol u trbuhu, bol u ramenu, osjećaš nesvjesticu, vrtoglavicu ili mučninu ili je krvarenje jako** (uložak se potpuno natopi ubrzo nakon što ga staviš)."
+    },
+    "cervical-mucus": {
+      "title": "Cervikalna sluz",
+      "aliases": [
+        "cervikalna sluz",
+        "iscjedak",
+        "vaginalni iscjedak",
+        "iscjedak iz rodnice",
+        "sluz poput bjelanjka",
+        "plodna sluz",
+        "sluz kod ovulacije"
+      ],
+      "glance": "Cervikalna sluz prirodni je iscjedak koji se mijenja tijekom ciklusa i pokazuje tvoje plodne dane.",
+      "overview": "Cervikalna sluz je tekućina koju stvara vrat maternice, a možeš je primijetiti kao iscjedak. Normalna je, a njezin izgled i osjećaj mijenjaju se prema prilično predvidljivom obrascu tijekom ciklusa, zbog čega je jedan od znakova po kojima se prepoznaju plodni dani.\n\nNeposredno nakon menstruacije često je nekoliko „suhih“ dana s malo sluzi. Kako jajna stanica počinje sazrijevati, sluzi je sve više i obično je bijela ili žućkasta, mutna i ljepljiva. U danima neposredno prije ovulacije obično postaje bistra, vlažna i skliska te se rasteže među prstima poput sirovog bjelanjka. To je najplodnije razdoblje. Nakon ovulacije obično ponovno postaje ljepljiva i mutna ili se posve smanji.\n\nSvačiji je obrazac malo drukčiji i može proći nekoliko ciklusa pažljivog praćenja dok ne upoznaš svoj. Neke stvari, poput hormonske kontracepcije, dojenja ili infekcije, mogu promijeniti sluz, pa ona nije svima pouzdan znak plodnosti.",
+      "deep": "Praćenje cervikalne sluzi jedan je od znakova plodnosti koje žene prate, uz temperaturu tijela u mirovanju i duljinu ciklusa; da ih naučiš prepoznavati obično treba dva do tri ciklusa. Za razliku od porasta temperature, koji potvrđuje ovulaciju tek nakon što se dogodila, prijelaz na bistru, sklisku sluz nalik bjelanjku obično se pojavljuje *prije* ovulacije. Zato se koristi da označi početak plodnih dana, a ne njihov kraj.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Papa test (probir raka vrata maternice)",
+      "aliases": [
+        "papa test",
+        "papa",
+        "probir raka vrata maternice",
+        "pap test",
+        "bris vrata maternice",
+        "papa nalaz",
+        "citološki bris"
+      ],
+      "glance": "Papa test je redovita provjera zdravlja vrata maternice koja pomaže spriječiti rak vrata maternice.",
+      "overview": "Probir raka vrata maternice (Papa test) je pretraga kojom se provjerava zdravlje vrata maternice, otvora maternice na vrhu rodnice. To nije test za rak. To je način da se promjene uoče rano i da se pomogne spriječiti da se rak vrata maternice uopće razvije.\n\nPozivaju se sve osobe koje imaju vrat maternice, od 25. do 64. godine života. Poziv dobivaš kad dođe vrijeme, u redovitim razmacima, pa ne moraš sama pamtiti kada se naručiti, iako je uvijek tvoj izbor hoćeš li otići.\n\nSama pretraga je brza i obavlja je medicinska sestra. Mnoge su žene pomalo nervozne zbog nje, što je sasvim razumljivo; kad znaš čemu služi, da je to rutinska, preventivna provjera, može ti biti lakše.",
+      "deep": null,
+      "when_to_see_doctor": "- Probir je namijenjen razdobljima kad **nemaš** simptome. Ako između dva probira primijetiš nešto što te brine, poput neuobičajenog krvarenja (između menstruacija, nakon spolnog odnosa ili nakon menopauze), javi se obiteljskom liječniku umjesto da čekaš sljedeći poziv.\n- Ako si pozvana, a nisi sigurna ili te je strah otići, vrijedi razgovarati s obiteljskim liječnikom ili medicinskom sestrom u ordinaciji, koji ti mogu objasniti što se događa i odgovoriti na tvoja pitanja.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Zlostavljanje djece i zaštita djece",
+      "aliases": [
+        "zlostavljanje djece",
+        "zlostavljanje djeteta",
+        "nasilje nad djecom",
+        "zaštita djece",
+        "brinem se za dijete",
+        "zanemarivanje djeteta",
+        "zanemarivanje"
+      ],
+      "glance": "Ako se brineš da bi dijete moglo biti zlostavljano ili zanemareno, ispravno je potražiti savjet. Ne moraš biti sigurna.",
+      "overview": "Zlostavljanje djece, odnosno zlostavljanje i zanemarivanje djeteta, jest nanošenje štete bilo kome mlađem od 18 godina. Uključuje fizičko, seksualno i emocionalno zlostavljanje te zanemarivanje (nezadovoljavanje djetetovih osnovnih potreba). Nažalost je često, može uzrokovati doživotnu štetu i nikad nije krivnja djeteta.\n\nMožda se brineš za neko dijete u svom životu ili za dijete koje si primijetila. Ne moraš biti sigurna niti imati dokaz da bi postupila na temelju te brige. Vjerovati joj i zatražiti savjet upravo je ispravno i može zaštititi dijete.\n\nA ako si i sama kao dijete doživjela zlostavljanje, znaj da ta šteta nikad nije bila tvoja krivnja i da je podrška dostupna i tebi, u bilo kojoj dobi.",
+      "deep": null,
+      "when_to_see_doctor": "- Ako se brineš za neko dijete, možeš se za savjet povjerljivo obratiti **službi za zaštitu djece / socijalnoj službi**, specijaliziranoj **telefonskoj liniji za zaštitu djece** ili **obiteljskom liječniku, patronažnoj sestri ili djetetovoj školi**.\n- Ne „pretjeruješ“ kad pitaš. Bolje je provjeriti nego čekati.",
+      "red_flags": "- Ako je dijete u **neposrednoj opasnosti** ili ozbiljno ozlijeđeno, odmah se obrati hitnim službama: **112** u EU-u (uključujući Italiju), **999** u Ujedinjenom Kraljevstvu, **911** u SAD-u i Kanadi."
+    },
+    "coercive-control": {
+      "title": "Prisilna kontrola",
+      "aliases": [
+        "prisilna kontrola",
+        "kontrolirajuće ponašanje",
+        "emocionalno zlostavljanje",
+        "psihičko zlostavljanje",
+        "psihičko nasilje",
+        "izolacija",
+        "ekonomsko nasilje",
+        "gaslighting"
+      ],
+      "glance": "Prisilna kontrola je obrazac kontrolirajućeg ponašanja, poput izoliranja, nadziranja i prijetnji, koji je priznati oblik zlostavljanja.",
+      "overview": "Prisilna kontrola je oblik zlostavljanja koji djeluje kroz kontrolu umjesto fizičkog nasilja ili uz njega. To je obrazac, a ne jedna svađa, u kojem jedna osoba postupno ograničava slobodu druge osobe i njezin osjećaj vlastitog identiteta.\n\nMože izgledati tako da si odsječena od prijatelja i obitelji, da ti netko nadzire ili ograničava mobitel, kretanje ili trošenje novca, da ti govori što obući ili kako se ponašati, ili da živiš uz stalne kritike, prijetnje ili zastrašivanje. Budući da možda nema modrica, teško je to imenovati, a drugi to možda ne vide. Ipak, to je priznati oblik zlostavljanja i može biti jednako štetno kao fizičko nasilje.\n\nAko u ovome prepoznaješ nešto od svog iskustva, to nije znak da si preosjetljiva ni da si si to sama izazvala. Kontrolirajuće ponašanje izbor je druge osobe. Razumjeti ga onakvim kakvo jest može biti prvi korak prema podršci.",
+      "deep": "Prisilna kontrola često se razvija polako, zbog čega ju je iznutra teško uočiti: male kontrole postaju normalne, a sumnja u sebe raste. S vremenom narušava mentalno zdravlje. Razgovor s nekim tko je osposobljen razumjeti takve obrasce može ti pomoći da jasnije sagledaš situaciju i razmisliš što želiš dalje, bez pritiska.",
+      "when_to_see_doctor": "- Savjetovalište za žrtve nasilja ili telefonska linija za pomoć (u Italiji **1522**) može s tobom razgovarati o onome što proživljavaš, povjerljivo i besplatno, te ti pomoći da razumiješ svoje mogućnosti. Ne moraš biti u fizičkoj opasnosti da bi se javila.\n- Obiteljski liječnik ili savjetnik također te može podržati i uputiti na specijalizirane službe.",
+      "red_flags": "- Ako si u **neposrednoj opasnosti**, odmah se obrati hitnim službama: **112** u EU-u (uključujući Italiju), **999** u Ujedinjenom Kraljevstvu, **911** u SAD-u i Kanadi.\n- U Italiji je **1522** besplatan, dostupan 24 sata dnevno, anoniman i višejezičan, telefonom ili putem chata."
+    },
+    "combined-pill": {
+      "title": "Kombinirana pilula",
+      "aliases": [
+        "kombinirana pilula",
+        "pilula",
+        "kontracepcijska pilula",
+        "kombinirana oralna kontracepcija",
+        "kontracepcijske tablete",
+        "antibebi pilula",
+        "KOK"
+      ],
+      "glance": "Kombinirana pilula je tableta koja se uzima svaki dan, sadrži dva hormona i djeluje uglavnom tako da sprječava ovulaciju.",
+      "overview": "Kombinirana pilula je tableta koja se uzima svaki dan i sadrži dva hormona, oblike estrogena i progestagena, slične onima koje stvaraju jajnici. Jedan je od najpoznatijih oblika kontracepcije.\n\nTrudnoću sprječava na nekoliko načina istodobno. Prije svega, sprječava da jajnici otpuste jajnu stanicu (ovulaciju). Osim toga zgušnjava sluz u vratu maternice, pa spermiji teže prolaze, i stanjuje sluznicu maternice.\n\nKoliko dobro djeluje ovisi o tome uzimaš li je prema uputama: uz savršeno korištenje učinkovita je više od 99 %, ali uz uobičajeno, svakodnevno korištenje, kada se tablete ponekad zaborave ili uzmu sa zakašnjenjem, učinkovita je oko 91 %. Kao i većina metoda, ne štiti od spolno prenosivih infekcija, pa neke žene uz nju koriste i prezervative.",
+      "deep": "Kombinirana pilula obično se uzima prema određenom rasporedu tijekom mjeseca, a kako je uzimati, kome odgovara te koje su joj nuspojave i rizici, liječnik prolazi s tobom kad ti je propisuje. Nije prikladna za svakoga. Budući da se uzima svaki dan, njezina stvarna učinkovitost uvelike ovisi o rutini. Ovaj članak objašnjava što je i kako djeluje; pojedinosti o tome kako je početi uzimati, kako je uzimati ili kako prestati tema su za razgovor s obiteljskim liječnikom, medicinskom sestrom ili ljekarnikom.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Česti simptomi u trudnoći",
+      "aliases": [
+        "simptomi trudnoće",
+        "tegobe u trudnoći",
+        "žgaravica u trudnoći",
+        "bol u leđima u trudnoći",
+        "otečeni gležnjevi",
+        "zatvor u trudnoći",
+        "hemoroidi u trudnoći",
+        "grčevi u nogama u trudnoći"
+      ],
+      "glance": "Trudnoća donosi mnogo malih bolova i promjena. Uglavnom su normalne, iako neke vrijedi dati provjeriti primalji ili liječniku.",
+      "overview": "Trudnoća donosi mnogo promjena za tvoje tijelo, a uz nju ide i dugačak popis svakodnevnih tegoba. Većina ih je česta i nisu znak da nešto nije u redu. Jednostavno su dio toga što u tebi raste beba.\n\nPoznate tegobe uključuju bol u leđima, žgaravicu i probavne smetnje, zatvor, hemoroide, otečene gležnjeve, stopala i prste, umor i isprekidan san, grčeve u nogama, glavobolje, osjećaj nesvjestice i više iscjetka nego inače. Mnoge se ublaže malim mjerama za ugodu, a primalja ti može predložiti što je sigurno ako te nešto muči.\n\nKorisno je znati koje su promjene uobičajene, a koje vrijedi prijaviti, jer neki simptomi, iako rjeđi, doista traže provjeru, a ne čekanje da prođu.",
+      "deep": null,
+      "when_to_see_doctor": "Većina ovoga je normalna, ali javi se bez odgađanja **primalji ili rodilištu** ako primijetiš:\n\n- **krvarenje iz rodnice** ili iznenadno istjecanje ili curenje tekućine\n- da se tvoja **beba miče manje** nego inače\n- **jaku glavobolju, probleme s vidom ili iznenadno oticanje** lica, šaka ili stopala (mogući znakovi preeklampsije)\n- **jaku ili jednostranu bol u trbuhu** ili **povišenu temperaturu (vrućicu)**\n- **svrbež**, osobito na šakama i stopalima ili ako je jači noću (može biti znak bolesti jetre u trudnoći koju treba provjeriti)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Prezervativi",
+      "aliases": [
+        "prezervativ",
+        "prezervativi",
+        "kondom",
+        "kondomi",
+        "muški prezervativ",
+        "barijerna metoda",
+        "zaštita od spolnih bolesti"
+      ],
+      "glance": "Prezervativi su barijerna metoda i jedina vrsta kontracepcije koja štiti i od spolno prenosivih infekcija.",
+      "overview": "Prezervativ je tanka barijera, obično od lateksa ili od plastične zamjene za osobe alergične na lateks, koja se tijekom spolnog odnosa nosi na penisu. Djeluje jednostavno: sprječava da spermiji uđu u rodnicu.\n\nOno što prezervative čini posebnima među kontraceptivima jest to što su **jedina metoda koja štiti i od spolno prenosivih infekcija (SPI), uključujući HIV.** Zato se često koriste uz drugu metodu: jedna štiti od trudnoće, a obje zajedno i od infekcija.\n\nAko se svaki put pravilno koriste, prezervativi su oko 98 % učinkoviti u sprječavanju trudnoće. Uz uobičajeno korištenje, kada se ponekad koriste nepravilno ili ne svaki put, učinkovitost pada na oko 82 %. Razliku čini pravilno i dosljedno korištenje.",
+      "deep": "Budući da se prezervativi koriste u trenutku, a ne unaprijed, njihova stvarna učinkovitost uvelike ovisi o dosljednom i pravilnom korištenju. Ženski prezervativi (koji se nose u rodnici) još su jedna barijerna mogućnost. Za razliku od većine metoda, za prezervative ne treba recept i lako su dostupni, a zbog svoje dvostruke uloge, zaštite od trudnoće i od SPI-ja, tako se često spominju u razgovorima o sigurnijem seksu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Pristanak i poštovanje",
+      "aliases": [
+        "pristanak",
+        "poštuj njezine granice",
+        "entuzijastični pristanak",
+        "tjelesna autonomija",
+        "pristanak na seks",
+        "ne znači ne",
+        "granice u vezi"
+      ],
+      "glance": "Pristanak je jasno, slobodno i oduševljeno „da“, svaki put, i može se povući u bilo kojem trenutku.",
+      "overview": "Poštovanje počinje njezinim pravom da uvijek sama odlučuje o svom tijelu. Pristanak na intimnost znači slobodno dano, informirano i oduševljeno **da**. Šutnja nije pristanak. Nevoljko „dobro“ nije pristanak. Osoba koja spava, jako je pijana ili je pod pritiskom ne može istinski pristati. A „da“ za jednu stvar ili jednog dana nije „da“ za sve ni za sljedeći put.\n\nPristanak se može povući u bilo kojem trenutku, a „stani“ ili „ne večeras“ potpun je odgovor koji ne treba opravdanje. Pritiskati je, izazivati joj osjećaj krivnje, duriti se dok ne popusti ili se prema seksu odnositi kao prema nečemu što ti pripada nije u redu. Veza nije dug.",
+      "deep": "Kako poštovanje izgleda u praksi:\n\n- **Pitaj i provjeravaj.** „Je li ovo u redu?“ i obraćaj pozornost na to kako reagira, riječima i tijelom.\n- **Prihvati „ne“ dostojanstveno.** Bez duranja, pritiska ili kažnjavanja. Njezin odgovor je kraj priče.\n- **Oduševljenje je važno.** Ako se čini nesigurnom, oklijeva ili se samo prepušta, stani i pitaj.\n- **Njezino tijelo, njezina odluka**, kad je riječ o intimnosti, kontracepciji, trudnoći, njezinu zdravlju, izgledu i izborima. Imaš pravo glasa u vašem zajedničkom životu, ali nikad pravo veta nad njezinim tijelom.\n- **Poštovanje je svakodnevno.** Način na koji razgovaraš s njom, kako govoriš o njoj i kako poštuješ njezine granice u malim stvarima temelj je na kojem počiva sve ostalo.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Kontracepcija",
+      "aliases": [
+        "kontracepcija",
+        "zaštita od trudnoće",
+        "planiranje obitelji",
+        "metode kontracepcije",
+        "kontracepcijska sredstva",
+        "kako se zaštititi od trudnoće"
+      ],
+      "glance": "Kontracepcija su različiti načini sprječavanja trudnoće, a na izbor ih je mnogo.",
+      "overview": "Kontracepcija, koja se ponekad naziva i zaštita od trudnoće, obuhvaća niz metoda kojima se sprječava trudnoća. Ima ih mnogo i djeluju na različite načine: neke koriste hormone, neke su barijere, neke se nalaze u maternici, a neke se temelje na praćenju ciklusa.\n\nKoliko dobro metoda djeluje uvelike ovisi o tome kako se koristi. Neke metode, poput implantata i spirala, jesu metode „postavi i zaboravi“ i učinkovite su više od 99 %. Druge, poput pilule ili prezervativa, vrlo su učinkovite kad se koriste savršeno, ali nešto manje uz svakodnevno, uobičajeno korištenje, jer je lakše zaboraviti pilulu ili nepravilno upotrijebiti prezervativ.\n\nJedno je vrijedno znati: **samo prezervativi štite i od spolno prenosivih infekcija (SPI)**. Ostale metode sprječavaju trudnoću, ali ne i infekcije, zbog čega se prezervativi ponekad koriste uz drugu metodu.\n\nNe postoji jedna „najbolja“ metoda. Prava ovisi o tvom zdravlju, tvom tijelu i onome što odgovara tvom životu. Obiteljski liječnik ili savjetovalište za spolno zdravlje mogu s tobom proći mogućnosti i pomoći ti da odabereš.",
+      "deep": "Budući da se metode toliko razlikuju, pomaže razmisliti o tome što je tebi važno: koliko je metoda učinkovita, moraš li se nečega sjetiti svaki dan, koliko dugo traje, želiš li hormone ili ne te je li u tvojoj situaciji važna zaštita od SPI-ja. Mnoge žene tijekom života mijenjaju metode kako im se mijenjaju potrebe. Ova baza znanja opisuje kako djeluju uobičajene metode kako bi ti izbori bili jasniji, ali odluku, kao i propisivanje ili postavljanje, treba donijeti s liječnikom.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Kontracepcija i tjelesna težina",
+      "aliases": [
+        "debljaš li se od pilule",
+        "pilula i debljanje",
+        "kontracepcija i debljanje",
+        "debljanje od kontracepcije",
+        "debljanje na piluli",
+        "kontracepcijska injekcija debljanje",
+        "implantat debljanje",
+        "dobivanje na težini od pilule"
+      ],
+      "glance": "Nema dokaza da kombinirana pilula uzrokuje debljanje, ali kontracepcijska injekcija može. Ovisi o metodi.",
+      "overview": "Hoće li te kontracepcija udebljati vrlo je često pitanje. Iskren odgovor jest da to ovisi o metodi.\n\nKad je riječ o kombiniranoj piluli, dokazi su umirujući: nema dokaza da se od nje debljaš. Isto vrijedi za kontracepcijski flaster i vaginalni prsten.\n\nKontracepcijska injekcija je drukčija. Dobivanje na težini navodi se kao jedna od njezinih čestih nuspojava, uz promjene menstruacije.\n\nKod pilule samo s progestagenom (koja se ponekad naziva i mini pilula) i kontracepcijskog implantata neke žene navode da su se udebljale. No nema dovoljno dokaza da bi se moglo reći je li uzrok sama metoda.\n\nTežina je samo jedan dio slike. Svaka metoda ima svoj popis mogućih nuspojava i rizika, a odabir kontracepcije znači pronaći ono što odgovara tvom tijelu, tvom zdravlju i tvom životu. Ljekarnik, obiteljski liječnik, medicinska sestra ili savjetovalište za spolno zdravlje mogu s tobom proći mogućnosti.",
+      "deep": null,
+      "when_to_see_doctor": "- Ako su ti nuspojave, uključujući promjene tjelesne težine, problem, razgovaraj s ljekarnikom, obiteljskim liječnikom, medicinskom sestrom ili savjetovalištem za spolno zdravlje. Kod kombinirane pilule, flastera ili prstena neke se nuspojave mogu javiti na početku korištenja. Ako te i dalje muče nakon otprilike 3 mjeseca, liječnik može s tobom razgovarati o drugoj piluli ili drugoj vrsti kontracepcije.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Kontracepcijski implantat",
+      "aliases": [
+        "kontracepcijski implantat",
+        "implantat",
+        "implantat u ruci",
+        "Nexplanon",
+        "štapić u ruci",
+        "hormonski implantat"
+      ],
+      "glance": "Implantat je mali štapić postavljen u nadlakticu koji nekoliko godina otpušta hormon.",
+      "overview": "Kontracepcijski implantat je mali, savitljivi štapić, otprilike veličine šibice, koji educirani zdravstveni djelatnik postavlja tik ispod kože nadlaktice. Kad je postavljen, ravnomjerno otpušta hormon progestagen i djeluje do otprilike tri godine.\n\nTrudnoću sprječava uglavnom tako da jajnicima ne dopušta otpuštanje jajne stanice (ovulaciju) i tako da zgušnjava sluz u vratu maternice, pa spermiji ne mogu proći. Budući da se ne moraš ničega sjećati iz dana u dan, jedna je od metoda „postavi i zaboravi“.\n\nZato je i jedna od najpouzdanijih mogućnosti: implantat je učinkovit više od 99 %, a njegova se učinkovitost gotovo ne razlikuje između savršenog i uobičajenog korištenja. Kao ni druge hormonske metode, ne štiti od SPI-ja.",
+      "deep": "Implantat je dugodjelujuća reverzibilna metoda: djeluje dok se ne izvadi, a plodnost se vraća nakon vađenja. Postavljanje i vađenje kratki su zahvati koje obavlja liječnik, koji s tobom razgovara i o tome kome odgovara i koje su mu nuspojave. Ovaj članak objašnjava što je implantat i kako djeluje; odluka o njemu tema je za razgovor s obiteljskim liječnikom, medicinskom sestrom ili savjetovalištem za spolno zdravlje.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Tvoj ciklus i tvoja dobrobit",
+      "aliases": [
+        "dobrobit",
+        "ciklus i zdravlje",
+        "menstrualni ciklus i zdravlje",
+        "vitalni znak",
+        "ciklus kao pokazatelj zdravlja",
+        "neredovit ciklus"
+      ],
+      "glance": "Tvoj je ciklus pomalo poput mjesečne provjere zdravlja. Promjene u njemu vrijedi primijetiti.",
+      "overview": "Tvoj menstrualni ciklus nije odvojen od ostatka tvog zdravlja, nego je s njim povezan. Ciklus koji je za tebe redovit općenito je znak da tijelo radi kako treba. Zato neki menstruaciju smatraju svojevrsnim mjesečnim signalom o općoj dobrobiti.\n\nSvakodnevni život utječe na to. Tjelesna težina je jedan primjer: znatno premala ili prevelika tjelesna težina može utjecati na hormone koji pokreću ovulaciju, a to može učiniti menstruacije neredovitima. To djeluje u oba smjera: briga o osnovama, poput uravnotežene prehrane i tjelesne aktivnosti, podupire ciklus, a stabilan ciklus znak je da su te stvari u razumnoj ravnoteži.\n\nNe radi se o težnji za „savršenim“ ciklusom ni o okrivljavanju sebe zbog promjena. Jednostavno, blaga pozornost prema ciklusu može ti dati koristan uvid u to kako si, i poticaj da se javiš liječniku ako se nešto promijeni.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se obiteljskom liječniku ako ti menstruacije postanu neredovite, izostanu ili se promijene na način koji za tebe nije uobičajen. Dugotrajne promjene ponekad mogu upućivati na nešto što vrijedi ispitati.\n- Vrijedi razgovarati i ako ti problemi s menstruacijom utječu na svakodnevni život, kako bi dobila podršku umjesto da ih samo trpiš.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Ekonomsko nasilje",
+      "aliases": [
+        "ekonomsko nasilje",
+        "financijsko zlostavljanje",
+        "kontrola novca",
+        "kontrola financija",
+        "dug na moje ime",
+        "ekonomsko zlostavljanje",
+        "uzima mi plaću"
+      ],
+      "glance": "Ekonomsko nasilje je kontroliranje nečijeg pristupa novcu, poslu ili sredstvima i priznati je oblik zlostavljanja.",
+      "overview": "Ekonomsko nasilje je kada netko kontrolira pristup druge osobe novcu i stvarima koje se novcem kupuju. To je oblik kontrolirajućeg ponašanja i često se javlja uz druge vrste zlostavljanja.\n\nMože izgledati tako da netko kontrolira sve troškove ili traži da polažeš račun za svaki cent, uzima tvoju plaću ili naknade, stvara dugove na tvoje ime, skriva od tebe bankovne račune ili dokumente ili te sprječava da radiš ili studiraš. Budući da osobu može ostaviti bez sredstava da ode ili da se snalazi u svakodnevici, to je jedan od načina na koji se zlostavljanje može doživjeti kao zamka.\n\nAko ti je nešto od ovoga poznato, to nije znak da „ne znaš s novcem“ niti da si ti kriva. Kontroliranje tuđih sredstava izbor je druge osobe i priznato je kao zlostavljanje.",
+      "deep": null,
+      "when_to_see_doctor": "- Službe za pomoć žrtvama nasilja mogu pomoći i u tome, ne samo oko sigurnosti nego i oko praktičnih i financijskih koraka, povjerljivo i besplatno (u Italiji te linija **1522** može uputiti na lokalnu podršku).\n- Sigurnosni plan može uključivati diskretno osiguravanje pristupa nešto novca, ključnim dokumentima i važnim brojevima.",
+      "red_flags": "- Ako si u **neposrednoj opasnosti**, odmah se obrati hitnim službama: **112** u EU-u (uključujući Italiju), **999** u Ujedinjenom Kraljevstvu, **911** u SAD-u i Kanadi.\n- U Italiji ti može pomoći linija **1522**, besplatna, dostupna 24 sata dnevno, anonimna i višejezična, telefonom ili putem chata."
+    },
+    "ectopic-pregnancy": {
+      "title": "Izvanmaternična trudnoća",
+      "aliases": [
+        "izvanmaternična trudnoća",
+        "vanmaternična trudnoća",
+        "ektopična trudnoća",
+        "trudnoća u jajovodu",
+        "tubarna trudnoća",
+        "izvanmaternična"
+      ],
+      "glance": "Izvanmaternična trudnoća razvija se izvan maternice. Ne može se nastaviti i zahtijeva brzu liječničku skrb.",
+      "overview": "Izvanmaternična trudnoća je kada se oplođena jajna stanica ugnijezdi izvan maternice, najčešće u jednom od jajovoda. Nažalost, trudnoća na tom mjestu ne može se razviti u bebu niti se može premjestiti u maternicu, pa je uvijek treba liječiti.\n\nZnakovi se obično javljaju otprilike između 4. i 12. tjedna i mogu uključivati bol nisko u trbuhu s jedne strane, krvarenje iz rodnice ili smeđi vodenasti iscjedak, bol u vrhu ramena ili nelagodu pri mokrenju ili pražnjenju crijeva. Kombinacija simptoma je različita, a neke je lako zamijeniti s nečim bezazlenim, zato ih je važno dati provjeriti.\n\nTo nije česta situacija, ali je potencijalno ozbiljna, pa nije nešto što treba pričekati da prođe. Rani savjet znači da se o njoj može sigurno pobrinuti.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se obiteljskom liječniku ili **dežurnom liječniku** ako imaš kombinaciju ovih simptoma **i mogla bi biti trudna**, čak i ako nisi imala pozitivan test na trudnoću. Važno je odmah potražiti savjet.",
+      "red_flags": "- Nazovi **{{emergency}} ili idi na hitni prijam u bolnicu** ako osjetiš **iznenadnu, oštru, jaku bol u trbuhu**, imaš **jaku vrtoglavicu ili osjećaj nesvjestice**, **jako si blijeda** ili ti je uz to mučno. To može značiti da je jajovod puknuo, što je hitno medicinsko stanje koje zahtijeva hitno liječenje."
+    },
+    "emergency-contraception": {
+      "title": "Hitna kontracepcija",
+      "aliases": [
+        "hitna kontracepcija",
+        "pilula za dan poslije",
+        "pilula za jutro poslije",
+        "tableta za dan poslije",
+        "ellaOne",
+        "Escapelle",
+        "levonorgestrel"
+      ],
+      "glance": "Hitna kontracepcija može spriječiti trudnoću nakon nezaštićenog spolnog odnosa, a najbolje djeluje što ranije.",
+      "overview": "Hitna kontracepcija je način sprječavanja trudnoće nakon spolnog odnosa bez kontracepcije ili kada tvoja uobičajena metoda možda nije uspjela (propuštena pilula, puknuti prezervativ). Postoje dvije vrste, a kod obje je važno vrijeme.\n\nPrva je **hitna pilula**. Postoje dvije vrste: jedna (levonorgestrel) može se uzeti do 3 dana, odnosno 72 sata, nakon spolnog odnosa, a druga (ulipristal acetat, zaštićeno ime ellaOne) do 5 dana, odnosno 120 sati. Druga je mogućnost **bakrena spirala (maternični uložak)**, koju liječnik može postaviti do 5 dana nakon spolnog odnosa; to je najučinkovitiji oblik hitne kontracepcije, a nakon toga može ostati kao trajna kontracepcija ako to želiš.\n\nZa sve njih vrijedi da **što ih prije upotrijebiš, to obično bolje djeluju**, pa vrijedi brzo djelovati, a ne čekati. Hitnu kontracepciju možeš dobiti u ljekarni, kod obiteljskog liječnika, u savjetovalištu za spolno zdravlje ili u ambulanti bez prethodnog naručivanja, često besplatno.",
+      "deep": null,
+      "when_to_see_doctor": "- Budući da je vrijeme važno, ne čekaj: ljekarnik ti može brzo izdati hitnu pilulu, a u savjetovalištu za spolno zdravlje ili kod obiteljskog liječnika mogu ti postaviti spiralu.\n- Hitna kontracepcija služi sprječavanju trudnoće, a ne infekcija. Ako postoji ikakva mogućnost spolno prenosive infekcije, u savjetovalištu za spolno zdravlje mogu te savjetovati o testiranju.\n- Ako ti menstruacija nakon toga kasni više od nekoliko dana ili je vrlo drukčija nego inače, vrijedi napraviti test na trudnoću i razgovarati s liječnikom.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometrioza",
+      "aliases": [
+        "endometrioza",
+        "endo",
+        "simptomi endometrioze",
+        "jaki menstrualni bolovi",
+        "kronična bol u zdjelici"
+      ],
+      "glance": "Endometrioza je stanje u kojem tkivo slično sluznici maternice raste izvan maternice i često uzrokuje bol.",
+      "overview": "Endometrioza je dugotrajno stanje u kojem stanice slične sluznici maternice rastu u drugim dijelovima tijela, primjerice oko jajnika, u zdjelici ili na crijevima. Česta je: procjenjuje se da u svijetu pogađa otprilike 1 od 10 žena reproduktivne dobi.\n\nBudući da se to tkivo ponaša pomalo kao sluznica maternice, može uzrokovati upalu i s vremenom ožiljkasto tkivo. Najčešći znak je bol: često jaka menstrualna bol, ali i bol u zdjelici ili donjem dijelu leđa u drugim razdobljima, bol tijekom ili nakon spolnog odnosa te bol pri mokrenju ili pražnjenju crijeva. Česte su i vrlo obilne menstruacije, velik umor, loše raspoloženje i teškoće sa začećem. Simptomi se jako razlikuju: neke žene imaju jaku bol, druge slabu.\n\nEndometrioza se često pogrešno shvaća i mogu proći godine dok se ne prepozna, dijelom zato što se menstrualna bol tako često odbacuje kao „normalna“. Jaka bol koja ti remeti život nije nešto što jednostavno moraš trpjeti. Vrijedi je shvatiti ozbiljno.",
+      "deep": "Točan uzrok endometrioze nije poznat i trenutačno nema lijeka koji je izliječi, ali liječenje može pomoći u ublažavanju simptoma, a podrška seže od lijekova do, kod nekih žena, operacije, uz pomoć u nošenju s tjelesnim i emocionalnim teretom. Jedan od najvećih izazova je kašnjenje: do dijagnoze u prosjeku može proći nekoliko godina, ponekad i mnogo više. Dijelom je i zato toliko važno jasno bilježiti simptome i ponovno se javiti liječniku ako te ne čuju.",
+      "when_to_see_doctor": "Vrijedi se javiti obiteljskom liječniku ako:\n\n- imaš jaku menstrualnu bol koja te sprječava u uobičajenim aktivnostima\n- su ti menstruacije vrlo obilne, primjerice moraš mijenjati uložak ili tampon svakih 1–2 sata\n- imaš dugotrajnu bol u zdjelici ili donjem dijelu leđa, bol tijekom ili nakon spolnog odnosa ili bol pri mokrenju ili pražnjenju crijeva\n- ti je teško zatrudnjeti\n- liječenje koje si već imala nije pomoglo ili su ti se simptomi pogoršali\n\nBudući da dijagnoza endometrioze može potrajati, u redu je ponovno se javiti ako tvoje simptome ne shvate ozbiljno. Pomaže jasna slika tvoje boli kroz vrijeme. Ako bol ili obilno krvarenje utječu i na tvoje raspoloženje, reci to obiteljskom liječniku; i to je dio slike, a podrška je dostupna.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogen",
+      "aliases": [
+        "estrogen",
+        "estrogeni",
+        "estradiol",
+        "ženski spolni hormon",
+        "razina estrogena"
+      ],
+      "glance": "Estrogen je ključni hormon koji u svakom ciklusu pomaže pripremiti tijelo za moguću trudnoću.",
+      "overview": "Estrogen je jedan od glavnih hormona menstrualnog ciklusa. U prvoj polovici ciklusa (folikularnoj fazi) njegova razina raste dok u jajniku sazrijeva folikul. Taj porast zadebljava sluznicu maternice i vodi do ovulacije.\n\nEstrogen utječe i na stvari koje možeš primijetiti iz dana u dan: energiju, raspoloženje i promjene cervikalne sluzi oko plodnih dana. Nakon ovulacije njegova razina pada, a zatim se ponovno mijenja, djelujući zajedno s drugim hormonom, progesteronom, tijekom druge polovice ciklusa.\n\nRazine prirodno rastu i padaju u svakom ciklusu, a mijenjaju se i kroz životna razdoblja. To je normalno: to je ritam po kojem tvoje tijelo radi, a ne nešto što treba „popraviti“.",
+      "deep": "Estrogen nije jedna tvar, nego skupina srodnih hormona (u ciklusu je najaktivniji estradiol). Većinu ga stvaraju jajnici, u folikulu koji raste. Njegov ciklični porast i pad, zajedno s progesteronom i signalnim hormonima iz mozga, LH-om i FSH-om, pokreću faze ciklusa. Budući da estrogen djeluje na mnoge sustave, njegove prirodne promjene mogu se na male načine pokazati tijekom cijelog mjeseca; praćenje ti pomaže da upoznaš vlastiti obrazac umjesto da ga uspoređuješ s „prosjekom“.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Kretanje i tvoj ciklus",
+      "aliases": [
+        "tjelovježba",
+        "vježbanje",
+        "tjelesna aktivnost",
+        "trening",
+        "kretanje",
+        "vježbanje i menstruacija",
+        "sport tijekom menstruacije"
+      ],
+      "glance": "Aktivna možeš biti tijekom cijelog ciklusa, a redovito kretanje može ublažiti grčeve i PMS.",
+      "overview": "Tjelesno aktivna možeš biti u bilo kojem dijelu ciklusa. Neke žene primijete da u određeno doba mjeseca imaju više energije i mogu se malo jače potruditi, a u drugo manje. Oboje je normalno i ni jedno nije razlog da se prestaneš kretati.\n\nRedovita aktivnost zapravo može pomoći kod nekih simptoma povezanih s menstruacijom. Žene koje redovito vježbaju često imaju manje bolnih grčeva, a aktivnost može ublažiti i predmenstrualne simptome (PMS). U danima s manje energije i nježnije kretanje se računa: ne mora biti intenzivno da bi vrijedilo.\n\nNe moraš planirati život prema ciklusu i ne postoji jedan „pravi“ način kretanja. Primjećivanje vlastitog obrasca energije tijekom mjeseca jednostavno ti može pomoći da planiraš na način koji ti odgovara.",
+      "deep": null,
+      "when_to_see_doctor": "- Vrlo naporan trening ili toliko vježbanja da tijelu ponestaje energije može učiniti menstruacije neredovitima ili ih potpuno zaustaviti. Redovit ciklus općenito je znak da sve teče kako treba, pa vrijedi razgovarati s obiteljskim liječnikom ako ti menstruacije postanu neredovite ili izostanu. To s vremenom može biti povezano sa zdravljem kostiju i hormona.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Tjelovježba u trudnoći",
+      "aliases": [
+        "tjelovježba u trudnoći",
+        "vježbanje u trudnoći",
+        "aktivnost u trudnoći",
+        "vježbe za trudnice",
+        "trudnička joga",
+        "sport u trudnoći"
+      ],
+      "glance": "Aktivnost je u većini trudnoća sigurna i korisna, nježno i bez iscrpljivanja.",
+      "overview": "Aktivnost u trudnoći dobra je za tebe i nije opasna za bebu. Zapravo, dobra kondicija može ti pomoći da se lakše nosiš s promjenama koje dolaze i s porodom. Ne moraš započinjati ništa intenzivno; nastaviti sa svojim uobičajenim svakodnevnim aktivnostima, dok god ti je ugodno, dobar je početak.\n\nJednostavno pravilo: dok se krećeš, trebala bi moći **voditi razgovor**. Ako se previše zadišeš da bi govorila, uspori. Nježne aktivnosti poput hodanja, plivanja, vježbi u vodi za trudnice i joge za trudnice odgovaraju većini žena. Ako prije nisi bila aktivna, sada nije vrijeme da započneš s napornim novim programom; umjesto toga postupno povećavaj aktivnost.\n\nNekih je aktivnosti bolje kloniti se ili im pristupiti oprezno, primjerice ležanja ravno na leđima nakon otprilike 16. tjedna, kontaktnih sportova, ronjenja s bocama i svega što nosi stvaran rizik od pada.",
+      "deep": null,
+      "when_to_see_doctor": "- Posavjetuj se s **primaljom** prije nego što započneš novi program aerobnih vježbi ili ako imaš neku zdravstvenu tegobu ili brigu vezanu uz trudnoću.\n- **Prestani i potraži savjet** ako se ne osjećaš dobro, ako ti se vrti u glavi ili se jako zadišeš, ili ako tijekom vježbanja osjetiš bilo kakvu bol, krvarenje ili trudove.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Plodni dani",
+      "aliases": [
+        "plodni dani",
+        "plodno razdoblje",
+        "najplodniji dani",
+        "kada sam plodna",
+        "plodni prozor",
+        "izračun plodnih dana"
+      ],
+      "glance": "Plodni dani su nekoliko dana u svakom ciklusu kada spolni odnos može dovesti do trudnoće.",
+      "overview": "Plodni dani su kratko razdoblje ciklusa kada je trudnoća moguća. Postoje zato što se dva vremenska okvira ne podudaraju posve: jajna stanica može biti oplođena samo otprilike 12 do 24 sata nakon što se oslobodi, ali spermiji u tijelu mogu preživjeti nekoliko dana, do otprilike tjedan dana, čekajući jajnu stanicu.\n\nKad se to spoji, plodno razdoblje počinje nekoliko dana prije ovulacije i završava otprilike dan nakon nje. U praksi si najplodnija 2 do 3 dana prije ovulacije i na sam dan ovulacije, jer spermiji već mogu biti ondje kad jajna stanica stigne.\n\nBudući da se ovulacija može pomicati od ciklusa do ciklusa, pomiču se i plodni dani. Zato se obično promatraju kao raspon dana, a ne kao jedan datum, i zato je praćenje znakova kroz nekoliko ciklusa pouzdanije od oslanjanja na jedan kalendarski izračun.",
+      "deep": "Točni dani razlikuju se od žene do žene i od mjeseca do mjeseca, pa je plodne dane najbolje procijeniti prema signalima vlastitog tijela, a ne prema stalnoj formuli. Promjene cervikalne sluzi upućuju na to da plodno razdoblje počinje kako se ovulacija približava, a porast temperature tijela u mirovanju naknadno potvrđuje da je ovulacija prošla i da je plodno razdoblje završilo. Ovulacijski testovi djeluju korak ranije: otkrivaju nagli porast luteinizirajućeg hormona (LH) koji nastupa neposredno prije nego što se jajna stanica oslobodi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Prva menstruacija",
+      "aliases": [
+        "prva menstruacija",
+        "menarha",
+        "prva mjesečnica",
+        "dobila sam menstruaciju",
+        "početak menstruacije",
+        "kad dolazi prva menstruacija"
+      ],
+      "glance": "Prva menstruacija obično dolazi oko 12. godine, a normalno je bilo kada otprilike od 8. do 17. godine.",
+      "overview": "Prva menstruacija, koja se ponekad naziva menarha, je kada menstrualni ciklus počinje prvi put. Većina djevojaka dobije je oko 12. godine, ali normalno je bilo kada otprilike od 8. do 17. godine. Često dolazi otprilike dvije godine nakon što se počnu razvijati grudi.\n\nObično postoje znakovi koji joj prethode: rast dlaka ispod pazuha i stidnih dlaka te malo bistrog ili bijelog iscjetka u mjesecima prije. Kad znaš da oni dolaze, prva menstruacija može djelovati manje iznenadno.\n\nNa početku su menstruacije često neredovite: razmaci mogu biti dugi ili kratki, a tijelu može trebati nekoliko mjeseci, čak i nekoliko godina, da uspostavi stabilniji ritam. Kad se to dogodi, menstruacije obično dolaze otprilike svakih 23 do 35 dana i traju oko 2 do 7 dana. Neredovitost na početku je normalna i nije razlog za brigu.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se obiteljskom liječniku ako menstruacija **nije počela do 15. godine** ili do **13. godine ako nema drugih znakova puberteta** (poput razvoja grudi ili dlačica na tijelu). To je samo da se provjeri razvija li se sve kako treba; obično je sve u redu.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Folna kiselina i vitamini u trudnoći",
+      "aliases": [
+        "folna kiselina",
+        "folat",
+        "vitamin D u trudnoći",
+        "vitamini u trudnoći",
+        "dodaci prehrani u trudnoći",
+        "folna prije trudnoće",
+        "Folacin"
+      ],
+      "glance": "Folna kiselina prije trudnoće i u ranoj trudnoći pomaže zaštititi bebu, uz svakodnevni vitamin D.",
+      "overview": "Dva su dodatka prehrani u trudnoći zaista važna i NHS preporučuje oba.\n\n**Folna kiselina** je najvažnija. Svakodnevno uzimanje dodatka od 400 mikrograma, idealno od prije začeća (otprilike tri mjeseca unaprijed) do kraja prvog tromjesečja, u 12. tjednu, pomaže zaštititi bebu od defekata neuralne cijevi poput spine bifide. Budući da djeluje tako rano, jedna je od rijetkih stvari koje vrijedi početi *prije* trudnoće ako pokušavaš zatrudnjeti.\n\n**Vitamin D** je drugi: preporučuje se svakodnevni dodatak od 10 mikrograma tijekom cijele trudnoće i dojenja, za podršku razvoju bebinih kostiju i općem razvoju.\n\nOsim ta dva, zdrava i raznolika prehrana pokriva većinu potreba; ne trebaš mnogo dodatnih pripravaka. Jedan kojeg se treba kloniti je **vitamin A** (retinol): ne uzimaj dodatke koji ga sadrže i izbjegavaj jetricu, jer previše vitamina A može naštetiti bebi.",
+      "deep": null,
+      "when_to_see_doctor": "- **Obiteljski liječnik, primalja ili ljekarnik** mogu ti pomoći odabrati prave dodatke, a nekim se ženama savjetuje **veća doza folne kiseline** (primjerice kod šećerne bolesti, višeg ITM-a, nekih lijekova ili prethodne trudnoće zahvaćene defektom neuralne cijevi), pa vrijedi pitati, osobito prije trudnoće ili u ranoj trudnoći.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Folikularna faza",
+      "aliases": [
+        "folikularna faza",
+        "folikulinska faza",
+        "prva polovica ciklusa",
+        "faza nakon menstruacije",
+        "proliferacijska faza"
+      ],
+      "glance": "Folikularna faza je prva polovica ciklusa, kada sazrijeva jajna stanica, a sluznica maternice zadebljava.",
+      "overview": "Folikularna faza je prvi dio ciklusa. Počinje prvog dana menstruacije i traje do ovulacije. Ime je dobila po folikulu, malom mjehuriću ispunjenom tekućinom u jajniku u kojem za to vrijeme raste jajna stanica.\n\nTijekom ove faze raste razina hormona estrogena. Taj porast estrogena ima dvije glavne uloge: pomaže folikulu u jajniku da sazrije i zadebljava sluznicu maternice, pripremajući tijelo za slučaj da kasnije u ciklusu nastupi trudnoća.\n\nBudući da estrogen raste, neke žene primijete više energije ili promjene cervikalne sluzi kako se plodni dani približavaju. Svačije je iskustvo drukčije i ništa od toga ne treba „kontrolirati“. To je jednostavno prva polovica tvog ciklusa koja obavlja svoj posao.",
+      "deep": "Folikularna faza može se po duljini razlikovati od ciklusa do ciklusa, što je dio razloga zašto se cijeli ciklusi razlikuju od žene do žene i od mjeseca do mjeseca. Završava kada porast estrogena pomogne potaknuti oslobađanje jajne stanice (ovulaciju). Budući da njezini posljednji dani vode u ovulaciju, tada počinju plodni dani, zbog čega je kraj folikularne faze važan svakome tko prati plodnost.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Hrana koju treba izbjegavati u trudnoći",
+      "aliases": [
+        "hrana koju treba izbjegavati u trudnoći",
+        "prehrana u trudnoći",
+        "što ne jesti u trudnoći",
+        "kofein u trudnoći",
+        "kava u trudnoći",
+        "listerija",
+        "sir u trudnoći",
+        "pršut u trudnoći"
+      ],
+      "glance": "Većina hrane u trudnoći je u redu. Nekih je namirnica bolje kloniti se, a korisno je ograničiti kofein.",
+      "overview": "Dobra vijest je da je većina hrane u trudnoći potpuno u redu. Samo mali broj namirnica vrijedi izbjegavati ili biti s njima oprezna, uglavnom da se izbjegnu bakterije poput listerije ili previše određenih vitamina. Kad znaš taj kratki popis, za sve ostalo možeš biti opuštena.\n\nNHS savjetuje oprez sa sljedećim:\n\n- **Neki sirevi**: meki sirevi s plemenitom plijesni na kori, poput briea i camemberta, te meki plavi sirevi, osim ako nisu zagrijani dok se iz njih ne počne dizati para; i sve što je napravljeno od **nepasteriziranog** mlijeka.\n- **Sirovo ili nedovoljno pečeno meso**, hladni suhomesnati proizvodi, **pašteta** i **jetrica** (koja su vrlo bogata vitaminom A).\n- **Sirova jaja ili jaja s tekućim žumanjkom**, osim ako nose oznaku British Lion.\n- **Neke ribe**: izbjegavaj morskog psa, iglana i marlina, ograniči tunu i jedi najviše dvije porcije masne ribe tjedno.\n- **Kofein**: ograniči ga na manje od otprilike 200 mg dnevno (otprilike dvije šalice instant kave), uključujući i čaj, kolu, energetska pića i čokoladu.",
+      "deep": null,
+      "when_to_see_doctor": "- Ovo su opće smjernice, a ne stroga dijeta. Ako imaš pitanja o tome što je sigurno za tebe ili imaš posebne prehrambene potrebe, **primalja** može to s tobom proći.\n- Ako si pojela nešto s popisa namirnica koje treba „izbjegavati“, pokušaj ne paničariti; spomeni to primalji ako se brineš ili se ne osjećaš dobro.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Folikulostimulirajući hormon (FSH)",
+      "aliases": [
+        "fsh",
+        "folikulostimulirajući hormon",
+        "folikul stimulirajući hormon",
+        "hormon FSH",
+        "razina FSH"
+      ],
+      "glance": "FSH je hormon iz mozga koji na početku svakog ciklusa potiče rast folikula u jajniku.",
+      "overview": "FSH, folikulostimulirajući hormon, jedan je od hormona glasnika koji pokreću ciklus. Stvara ga mala žlijezda u mozgu (hipofiza) i, kao što mu ime kaže, potiče folikule: sićušne mjehuriće ispunjene tekućinom u jajniku, od kojih svaki sadrži jajnu stanicu.\n\nNa početku ciklusa FSH potiče skupinu tih folikula da počnu rasti. Kako se folikul razvija, otpušta sve više estrogena, koji zadebljava sluznicu maternice i priprema je za moguću trudnoću. Obično jedan folikul postane vodeći i nastavlja razvoj prema ovulaciji.\n\nFSH raste i pada u sklopu normalnog izmjenjivanja hormona u ciklusu. FSH ne osjećaš izravno: tiho djeluje u pozadini i priprema vidljivije promjene folikularne faze.",
+      "deep": "FSH djeluje u paru s luteinizirajućim hormonom (LH); oba otpušta hipofiza u mozgu i zajedno vode jajnike kroz ciklus. FSH vodi prvu polovicu i potiče rast folikula, dok nagli porast LH-a kasnije označava oslobađanje jajne stanice sredinom ciklusa. Zbog tog se partnerstva u liječenju neplodnosti koriste lijekovi na bazi FSH-a: dodatni FSH potiče sazrijevanje nekoliko folikula odjednom, umjesto jednog koji obično sazrije u prirodnom ciklusu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Gestacijski dijabetes",
+      "aliases": [
+        "gestacijski dijabetes",
+        "šećerna bolest u trudnoći",
+        "dijabetes u trudnoći",
+        "povišen šećer u trudnoći",
+        "OGTT",
+        "test opterećenja glukozom"
+      ],
+      "glance": "Gestacijski dijabetes je povišen šećer u krvi tijekom trudnoće. Obično se otkrije probirom i često se povuče nakon poroda.",
+      "overview": "Gestacijski dijabetes je povišena razina šećera (glukoze) u krvi koja se razvije tijekom trudnoće, kada tijelo ne uspijeva posve pratiti povećanu potrebu za inzulinom. Kod većine žena ponovno nestane nakon što se beba rodi.\n\nObično **ne uzrokuje simptome**, pa se otkriva probirnim testom koji se nudi u trudnoći (test opterećenja glukozom, često otprilike između 24. i 28. tjedna), osobito ako imaš čimbenike koji povećavaju vjerojatnost za nj, poput veće tjelesne težine, šećerne bolesti u obitelji, ranije rođene krupne bebe ili određenog etničkog podrijetla.\n\nS njim se može dobro nositi. Održavanje šećera u krvi u zdravom rasponu, prehranom, aktivnošću i ponekad lijekovima, uz vodstvo tvog zdravstvenog tima, smanjuje vjerojatnost komplikacija za tebe i bebu, zbog čega ga vrijedi redovito pratiti.",
+      "deep": null,
+      "when_to_see_doctor": "- Odazovi se **probirnom testu** ako ti ga ponude. Budući da gestacijski dijabetes obično nema simptoma, otkriva se upravo testiranjem.\n- Ne čekaj test ako primijetiš moguće znakove povišenog šećera u krvi, poput jake žeđi, čestog mokrenja, suhih usta ili umora: spomeni ih primalji ili liječniku.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Gdje potražiti pomoć",
+      "aliases": [
+        "pomoć",
+        "koga kontaktirati",
+        "linije za pomoć",
+        "korisni brojevi",
+        "centar za žrtve nasilja",
+        "1522",
+        "brojevi za hitne slučajeve",
+        "SOS telefon"
+      ],
+      "glance": "Dostupna je besplatna i povjerljiva pomoć. U hitnom slučaju nazovi lokalni broj za hitne slučajeve; u Italiji 1522 u bilo koje doba.",
+      "overview": "Ako doživljavaš zlostavljanje, ne moraš se s tim suočiti sama, a to što se javiš ne obvezuje te ni na što. Postoje ljudi čiji je cijeli posao slušati i pomagati, povjerljivo i besplatno.\n\nPostoji nekoliko vrsta pomoći:\n\n- **Hitne službe**: u slučaju neposredne opasnosti nazovi lokalni broj za hitne slučajeve (u nastavku).\n- **Nacionalna linija za pomoć**: u Italiji je to **1522**, besplatna linija protiv nasilja i uhođenja, dostupna 24 sata dnevno, anonimna, na nekoliko jezika, telefonom ili putem chata.\n- **Centri za pomoć žrtvama nasilja** (u Italiji *centri antiviolenza*): lokalne službe koje nude besplatnu, povjerljivu podršku, izradu sigurnosnog plana te pravnu i psihološku pomoć.\n- **Zdravstvene službe**: obiteljski liječnik ili hitni bolnički prijam, gdje je osoblje sve češće osposobljeno prepoznati zlostavljanje i povezati te s podrškom.\n- **Osobe kojima vjeruješ**: prijateljica, prijatelj ili član obitelji uz koje se osjećaš sigurno.\n\nMožeš početi s onim što ti se čini najizvedivijim i ne moraš ništa unaprijed odlučiti.",
+      "deep": null,
+      "when_to_see_doctor": "- Možeš povjerljivo razgovarati s **obiteljskim liječnikom ili u bolnici** o onome što se događa; mogu zbrinuti ozljede i povezati te sa specijaliziranim službama.\n- Ako ti je lakše pisati nego govoriti, **chat linije 1522** još je jedan način da se javiš.",
+      "red_flags": "- Ako si u **neposrednoj opasnosti**, odmah se obrati hitnim službama: **112** u EU-u (uključujući Italiju), **999** u Ujedinjenom Kraljevstvu, **911** u SAD-u i Kanadi.\n- **Italija:** **1522** (besplatno, 24/7, anonimno, višejezično, poziv ili chat).\n- Brojevi linija za pomoć razlikuju se od zemlje do zemlje. Aplikacija ti može pokazati brojeve za tvoju zemlju, a **findahelpline.com** navodi linije za pomoć žrtvama nasilja diljem svijeta (prepoznaje tvoju zemlju i ima gumb za brzi izlaz). Ako si u EU-u, **112** radi svugdje."
+    },
+    "group-b-strep": {
+      "title": "Streptokok grupe B (GBS)",
+      "aliases": [
+        "streptokok grupe B",
+        "GBS",
+        "streptokok B u trudnoći",
+        "Streptococcus agalactiae",
+        "beta-hemolitički streptokok grupe B",
+        "bris na streptokok B"
+      ],
+      "glance": "Streptokok grupe B česta je i obično bezopasna bakterija. Mali rizik odnosi se na bebu tijekom poroda i s njim se može dobro nositi.",
+      "overview": "Streptokok grupe B (GBS) vrlo je česta bakterija koju mnoge osobe nose, obično u rodnici ili završnom dijelu crijeva, a da to ne znaju i bez ikakve štete. Nije spolno prenosiva infekcija i nošenje te bakterije je normalno.\n\nU trudnoći je važan samo zato što postoji **mala mogućnost** da se oko poroda prenese na bebu i da se beba, rijetko, razboli. To se događa u otprilike 1 od 1.750 trudnoća. Često se otkrije slučajno, primjerice u pretrazi urina ili brisu rodnice napravljenom iz drugog razloga (NHS ne provodi rutinski probir svih trudnica).\n\nUmirujuće je to što se s njim može dobro nositi: ako se zna za GBS, **antibiotici putem infuzije tijekom poroda** uvelike smanjuju vjerojatnost da se beba razboli.",
+      "deep": null,
+      "when_to_see_doctor": "- Ako ti kažu da nosiš streptokok grupe B, sada ili u nekoj prethodnoj trudnoći, **obavijesti primalju ili tim u rodilištu** kako bi se mogli planirati antibiotici tijekom poroda. To je jednostavan korak koji stvarno mijenja stvari.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Žgaravica i probavne smetnje u trudnoći",
+      "aliases": [
+        "žgaravica u trudnoći",
+        "probavne smetnje u trudnoći",
+        "refluks u trudnoći",
+        "refluks",
+        "gorušica",
+        "peče me u prsima"
+      ],
+      "glance": "Žgaravica je vrlo česta u trudnoći. Obično je bezopasna i često je ublaže male svakodnevne promjene.",
+      "overview": "Žgaravica i probavne smetnje, osjećaj pečenja ili nelagode u prsima, često nakon jela, vrlo su česte u trudnoći. Uzrok su hormoni trudnoće koji opuštaju mišić na vrhu želuca, a kasnije i beba koja raste i pritišće prema gore. Neugodno je, ali nije štetno.\n\nMale promjene često pomažu: jedi manje obroke češće umjesto velikih, sjedi uspravno dok jedeš i neko vrijeme nakon toga, smanji ljutu i masnu hranu te napitke s kofeinom i ne jedi kasno pred spavanje. Nekim je ženama ugodnije spavati s malo podignutim gornjim dijelom tijela.\n\nAko to nije dovoljno, **ljekarnik** ti može preporučiti antacide koji su sigurni u trudnoći. To je dobro prvo mjesto kamo se obratiti prije nego što tegoba postane veća.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se **obiteljskom liječniku ili primalji** ako jednostavne promjene i lijekovi iz ljekarne ne pomažu ili ako imaš **teškoće s gutanjem**, stalno vraćaš hranu, gubiš na težini bez namjere ili imaš bol u trbuhu. To vrijedi dati provjeriti, a ne pripisati običnoj žgaravici.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Obilne menstruacije",
+      "aliases": [
+        "obilna menstruacija",
+        "obilne menstruacije",
+        "menoragija",
+        "jako menstrualno krvarenje",
+        "jako krvarenje",
+        "ugrušci",
+        "krvni ugrušci u menstruaciji",
+        "krvarenje kroz uložak"
+      ],
+      "glance": "Obilne menstruacije znače gubitak velike količine krvi u svakom ciklusu. Česte su, ali ih vrijedi dati provjeriti liječniku ako utječu na tebe.",
+      "overview": "Obilne menstruacije, medicinskim nazivom menoragija, znače da tijekom menstruacije gubiš mnogo krvi. Kod nekih žena obilno krvarenje jednostavno je njihova normala, ali ako ti remeti život ili te iscrpljuje, vrijedi to ispitati.\n\nNeki znakovi da su menstruacije obilnije: potreba da mijenjaš uložak ili tampon svakih 1 do 2 sata, korištenje dvaju menstrualnih proizvoda zajedno (poput tampona i uloška), krv koja procuri na odjeću ili posteljinu, izlazak krvnih ugrušaka većih od otprilike 2,5 cm (otprilike kao britanska kovanica od 10 penija) ili menstruacije koje traju dulje od 7 dana.\n\nGubitak velike količine krvi iz mjeseca u mjesec može te učiniti umornom ili zadihanom, jer može dovesti do manjka željeza (anemije). Mogućih uzroka ima mnogo, od mioma ili stanja poput endometrioze, adenomioze ili PCOS-a do nekih lijekova, a često se ne pronađe nikakav ozbiljan uzrok. U svakom slučaju, obilnim menstruacijama obično se može pomoći, pa to nije nešto s čime jednostavno moraš živjeti.",
+      "deep": null,
+      "when_to_see_doctor": "Javi se obiteljskom liječniku ako:\n\n- ti obilne menstruacije utječu na svakodnevni život\n- obilno krvariš mnogo sati ili ti menstruacije dugo traju\n- imaš i jaku menstrualnu bol ili bol tijekom spolnog odnosa, mokrenja ili pražnjenja crijeva\n- krvariš između menstruacija ili nakon spolnog odnosa\n- se često osjećaš umorno ili zadihano (to može biti znak manjka željeza)\n\nObiteljski liječnik može potražiti uzrok i razgovarati s tobom o tome što bi moglo pomoći.",
+      "red_flags": "- Potraži **hitnu** liječničku pomoć (javi se liječniku ili **dežurnoj službi**, odnosno nazovi **{{emergency}}** / idi na hitni prijam ako je stanje ozbiljno) ako **krvariš toliko jako da nekoliko sati zaredom potpuno natopiš jedan ili više uložaka svakog sata** ili osjećaš **nesvjesticu, vrtoglavicu ili nedostatak zraka**. To mogu biti znakovi gubitka previše krvi."
+    },
+    "lh": {
+      "title": "Luteinizirajući hormon (LH)",
+      "aliases": [
+        "lh",
+        "luteinizirajući hormon",
+        "LH val",
+        "nagli porast LH",
+        "hormon LH",
+        "ovulacijski test LH"
+      ],
+      "glance": "LH je hormon iz mozga čiji nagli porast sredinom ciklusa potiče jajnik da oslobodi jajnu stanicu.",
+      "overview": "LH, luteinizirajući hormon, glasnik je koji pokreće ovulaciju. Kao i FSH, stvara ga mala žlijezda u mozgu (hipofiza), a on jajniku javlja kada treba osloboditi jajnu stanicu.\n\nVećim dijelom prve polovice ciklusa razina LH-a ostaje niska. Zatim, otprilike sredinom ciklusa, naglo poraste; to se naziva nagli porast LH-a (LH val). Taj je val signal zbog kojeg jajnik oslobađa jajnu stanicu, odnosno dolazi do ovulacije, obično otprilike dan kasnije.\n\nVal je kratak, precizno tempiran signal, a ne nešto što bi primijetila po tome kako se osjećaš. Budući da nastupa neposredno prije oslobađanja jajne stanice, vrijeme porasta LH-a pouzdan je pokazatelj najplodnijeg dijela ciklusa.",
+      "deep": "LH djeluje zajedno s FSH-om, hormonom koji ranije u ciklusu potiče rast folikula. Dok FSH vodi pripremu, nagli porast LH-a prijelomna je točka: razina počinje rasti otprilike dan i pol prije oslobađanja jajne stanice i doseže vrhunac otprilike pola dana prije toga. Nakon vala ciklus prelazi u drugu polovicu. Zbog tako preciznog vremena LH je iznimno koristan pokazatelj svakome tko prati ovulaciju i zato je ključan u planiranju liječenja neplodnosti.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Slušanje i emocionalna podrška",
+      "aliases": [
+        "kako slušati",
+        "emocionalna podrška partnerici",
+        "komunikacija u vezi",
+        "biti uz nju",
+        "kako je podržati",
+        "razgovor s partnericom"
+      ],
+      "glance": "Najčešće joj treba da je netko sasluša, a ne da je „popravlja“. Prvo slušaj i pitaj prije nego što daš savjet.",
+      "overview": "Kad se netko koga volimo muči, nagon nam je uskočiti i riješiti problem. No često najviše pomaže kad se ona osjeća istinski saslušanom: kad zna da njezini osjećaji imaju smisla i da nije sama s njima. Prebrzo rješavanje može zvučati kao „tvoji su osjećaji problem koji treba što prije ugasiti“.\n\nDobro slušanje vještina je koju svatko može naučiti. Uglavnom je riječ o pozornosti: odloži mobitel, okreni se prema njoj i pusti je da završi. Ne moraš se slagati sa svakom njezinom tvrdnjom da bi se osjećala poštovanom.",
+      "deep": "Praktični načini da budeš uz nju:\n\n- **Slušaj da razumiješ, a ne da odgovoriš.** Pusti je da govori bez prekidanja i bez smišljanja obrane.\n- **Ponovi joj što čuješ.** „Zvuči stvarno stresno“ ili „Shvaćam zašto te to povrijedilo“ bolje je od „ma samo se ne brini“.\n- **Pitaj prije nego što savjetuješ.** „Želiš li da ti pomognem razmisliti o tome ili želiš da te samo slušam?“\n- **Ne shvaćaj to osobno** kad težak dan nema veze s tobom. Smirenost je dar.\n- **Preuzmi svoj dio odgovornosti.** Ako je nešto pošlo krivo tvojom krivnjom, iskrena isprika, bez „ali“, ponovno gradi povjerenje.\n- **Uoči širu sliku.** Ako se čini da je dugotrajno potištena, tjeskobna ili nije svoja, nježno je potakni da potraži podršku i ponudi joj pomoć da do nje dođe. Ti si njezin suigrač, a ne terapeut.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Lutealna faza",
+      "aliases": [
+        "lutealna faza",
+        "druga polovica ciklusa",
+        "faza nakon ovulacije",
+        "žuto tijelo",
+        "sekretorna faza"
+      ],
+      "glance": "Lutealna faza je druga polovica ciklusa, nakon ovulacije, kada raste progesteron.",
+      "overview": "Lutealna faza je dio ciklusa koji slijedi nakon ovulacije i traje do početka sljedeće menstruacije. Ime je dobila po žutom tijelu (corpus luteum), maloj tvorbi koju jajnik stvara od praznog folikula nakon što se jajna stanica oslobodi.\n\nU ovoj fazi raste razina hormona progesterona. Njegova je zadaća održavati sluznicu maternice debelom i stabilnom, kako bi se oplođena jajna stanica, ako stigne, imala gdje ugnijezditi. I estrogen ostaje dio slike i djeluje zajedno s progesteronom.\n\nAko ne nastupi trudnoća, žuto tijelo se razgradi, razine progesterona i estrogena padnu i sluznica se više ne održava, što dovodi do sljedeće menstruacije i početka novog ciklusa. To je i razdoblje u kojem neke žene primijete predmenstrualne promjene raspoloženja, sna ili tijela.",
+      "deep": "Lutealna faza obično je nešto ujednačenije duljine od prve polovice ciklusa i često traje otprilike dva tjedna, iako postoje normalne razlike od žene do žene. Budući da je njezin kraj vezan uz pad progesterona, dolazak menstruacije zapravo je vidljiv znak da su razine hormona pale. Praćenje toga kako se osjećaš tijekom lutealne faze može ti pomoći razlikovati ono što je za tebe poznat obrazac od onoga što je novo ili vrijedi razgovora s liječnikom.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopauza",
+      "aliases": [
+        "menopauza",
+        "klimakterij",
+        "mijena",
+        "valunzi",
+        "prestanak menstruacije",
+        "klimaks"
+      ],
+      "glance": "Menopauza je trajni prestanak menstruacije, prirodno razdoblje koje obično nastupi otprilike između 45. i 55. godine.",
+      "overview": "Menopauza je trenutak kada menstruacije trajno prestanu. Budući da menstruacije neko vrijeme mogu dolaziti i izostajati, smatra se da je nastupila kad prođe 12 mjeseci zaredom bez menstruacije. Obično se dogodi otprilike između 45. i 55. godine, iako može biti ranije ili kasnije.\n\nTo je prirodan dio starenja, a ne bolest. Događa se kako jajnici postupno prestaju s radom i pada razina estrogena, ključnog hormona ciklusa. Ta hormonska promjena stoji iza promjena koje mnoge žene primijete: valunga i noćnog znojenja, promjena menstruacije u razdoblju prije menopauze, problema sa spavanjem, promjena raspoloženja ili tjeskobe, zamagljenog razmišljanja, suhoće rodnice i bolova.\n\nIskustva se jako razlikuju: neke žene prođu lako, drugima je teško, a simptomi mogu trajati nekoliko godina. Ništa od toga ne znači da s tobom nešto nije u redu. Podrška i mogućnosti postoje, a razumijevanje onoga što se događa dobar je prvi korak.",
+      "deep": "Godine promjena koje vode do menopauze nazivaju se perimenopauza; sama menopauza jedna je točka u vremenu (ona granica od 12 mjeseci bez menstruacije), a razdoblje nakon nje ponekad se naziva postmenopauza. Budući da estrogen dugoročno utječe i na kosti i srce, liječnici uz svakodnevne simptome obraćaju pozornost i na njih. Različiti pristupi, od promjena načina života do nehormonskog i hormonskog liječenja, mogu ublažiti simptome, a što je pravo za tebe ovisi o tvom zdravlju, povijesti bolesti i željama, o čemu treba razgovarati s liječnikom.",
+      "when_to_see_doctor": "- Javi se obiteljskom liječniku ako te simptomi menopauze muče ili utječu na svakodnevni život i želiš razgovarati o mogućnostima.\n- **Uvijek** se javi obiteljskom liječniku ako imaš **bilo kakvo krvarenje iz rodnice nakon 12 mjeseci bez menstruacije** (krvarenje nakon menopauze). Često nije ništa ozbiljno, ali uvijek ga treba provjeriti.\n- Vrijedi se javiti i ako krvariš više, a ne manje nego prije, ili ti se menstruacije mijenjaju na način koji te brine.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Menstrualni ciklus",
+      "aliases": [
+        "ciklus",
+        "menstrualni ciklus",
+        "mjesečni ciklus",
+        "duljina ciklusa",
+        "koliko traje ciklus",
+        "dan ciklusa"
+      ],
+      "glance": "Menstrualni ciklus je mjesečni ritam po kojem tvoje tijelo radi kako bi se pripremilo za moguću trudnoću.",
+      "overview": "Menstrualni ciklus računa se od prvog dana menstruacije, koji je 1. dan, do dana prije početka sljedeće menstruacije. Pokreću ga hormoni koji svaki mjesec rastu i padaju prema obrascu koji se ponavlja.\n\nCiklus često traje oko 28 dana, ali to je samo prosjek. Normalno je bilo što otprilike od 21 do 35 dana, a duljina tvog ciklusa može se malo razlikovati iz mjeseca u mjesec. Korisnije je upoznati vlastiti obrazac nego ga uspoređivati s brojem.\n\nTijekom ciklusa tijelo prolazi kroz nekoliko faza: menstruaciju, pripremu za oslobađanje jajne stanice, samo oslobađanje (ovulaciju) i razdoblje nakon toga. Svaku fazu oblikuju hormoni, uglavnom estrogen i progesteron.",
+      "deep": "Cijeli je ciklus razgovor između mozga i jajnika koji se odvija putem hormona. U prvoj polovici raste estrogen dok u jajniku sazrijeva folikul s jajnom stanicom, a sluznica maternice zadebljava. Otprilike sredinom ciklusa oslobađa se jajna stanica. U drugoj polovici progesteron pomaže da ta sluznica ostane spremna za slučaj da stigne oplođena jajna stanica.\n\nAko nema trudnoće, estrogen i progesteron padnu na niske razine, sluznica se odljušti kao menstruacija i obrazac počinje ispočetka. Budući da ti hormoni djeluju na mnoge sustave, tijekom mjeseca možeš primijetiti male svakodnevne promjene. To je normalan ritam ciklusa, a ne nešto što treba „popraviti“.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstrualna faza (menstruacija)",
+      "aliases": [
+        "menstruacija",
+        "mjesečnica",
+        "menga",
+        "menstrualna faza",
+        "krvarenje",
+        "trajanje menstruacije"
+      ],
+      "glance": "Menstruacija je nekoliko dana krvarenja kojima počinje svaki ciklus, dok se sluznica maternice ljušti.",
+      "overview": "Menstrualna faza je tvoja menstruacija, dani kada krvariš. Počinje 1. dana ciklusa, kada razine estrogena i progesterona padnu dovoljno nisko da se sluznica nakupljena u maternici više ne održava, pa se odvaja i izlazi iz tijela kroz rodnicu.\n\nMenstruacija obično traje otprilike 2 do 7 dana, a najčešće oko 5 dana. Krvarenje je često najjače prvih nekoliko dana, a nakon toga slabije. Menstruacije najčešće počinju oko 12. godine, iako je normalno i ranije ili kasnije.\n\nŠto je „normalno“ jako se razlikuje od žene do žene. Praćenje vlastitih menstruacija pomaže ti uočiti što je uobičajeno za tebe, a to je mnogo važnije od bilo kakvog prosjeka.",
+      "deep": "Menstrualno krvarenje je sluznica maternice (endometrij) koja se ljušti nakon ciklusa u kojem nije nastupila trudnoća. Označava i kraj jednog ciklusa i početak sljedećeg, zbog čega se 1. dan menstruacije računa kao 1. dan cijelog ciklusa. Kako menstruacija završava, estrogen ponovno počinje rasti i tijelo počinje obnavljati sluznicu za sljedeći ciklus.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Spontani pobačaj",
+      "aliases": [
+        "spontani pobačaj",
+        "pobačaj",
+        "spontani abortus",
+        "gubitak trudnoće",
+        "rani gubitak trudnoće",
+        "izgubila sam bebu"
+      ],
+      "glance": "Spontani pobačaj je gubitak trudnoće prije 24. tjedna. Čest je i gotovo nikad nije nešto što si ti uzrokovala.",
+      "overview": "Spontani pobačaj je gubitak trudnoće u prva 24 tjedna. Češći je nego što mnogi misle, a jedna od najvažnijih stvari koje treba znati jest da ga gotovo nikad ne uzrokuje nešto što si učinila ili nisi učinila. Obično se dogodi zbog problema u razvoju trudnoće, na koji nitko nije mogao utjecati.\n\nNajčešći znakovi su krvarenje iz rodnice i grčevi ili bol nisko u trbuhu. Krvarenje u ranoj trudnoći ne znači uvijek da se događa pobačaj, jer mnoge žene malo krvare, a trudnoća se nastavi zdravo, ali uvijek ga treba provjeriti.\n\nKako god se gubitak dogodio, osjećaji koji ga prate stvarni su i opravdani, a tuga je normalna reakcija. Ne moraš kroz to prolaziti sama: podrška je dostupna od primalje ili obiteljskog liječnika te od udruga posvećenih gubitku trudnoće.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se obiteljskom liječniku, primalji ili ambulanti za ranu trudnoću (ili dežurnom liječniku) ako imaš **krvarenje ili oskudno krvarenje iz rodnice u trudnoći**, čak i ako je slabo i nema boli ili je vrlo blaga, kako bi se to provjerilo.\n- Raspitaj se o najbližoj **ambulanti za ranu trudnoću**, koja postoji upravo za ovakve situacije.",
+      "red_flags": "- Nazovi **{{emergency}} ili idi na hitni prijam u bolnicu** ako u trudnoći imaš **jaku bol u trbuhu, bol u vrhu ramena, jako krvarenje ili osjećaš nesvjesticu ili ti je jako loše**. To mogu biti znakovi ozbiljnog problema, poput izvanmaternične trudnoće, koji zahtijeva hitnu skrb."
+    },
+    "morning-sickness": {
+      "title": "Jutarnja mučnina",
+      "aliases": [
+        "jutarnja mučnina",
+        "mučnina u trudnoći",
+        "mučnine u trudnoći",
+        "povraćanje u trudnoći",
+        "hiperemeza",
+        "hyperemesis gravidarum",
+        "hiperemeza gravidarum"
+      ],
+      "glance": "Mučnina ili povraćanje vrlo su česti u ranoj trudnoći i obično se ublaže otprilike između 16. i 20. tjedna.",
+      "overview": "Mučnina ili povraćanje vrlo su česti u ranoj trudnoći. Unatoč nazivu „jutarnja mučnina“, može se javiti u bilo koje doba dana ili noći. Kod većine žena počinje u prvih nekoliko tjedana i smiri se otprilike između 16. i 20. tjedna.\n\nNeugodna je i nekim ženama stvarno utječe na svakodnevni život, ali uobičajena jutarnja mučnina ne povećava rizik za tvoju bebu. Česti mali obroci i traženje onoga što tebi pomaže mogu je učiniti podnošljivijom; primalja, obiteljski liječnik ili ljekarnik mogu ti predložiti sigurne mogućnosti ako ti je teško.\n\nKod malog broja žena mučnina postane jaka (to se naziva hyperemesis gravidarum), uz stvaran rizik od dehidracije. Taj oblik zahtijeva liječničku pomoć; znakove potraži u nastavku.",
+      "deep": null,
+      "when_to_see_doctor": "Javi se primalji, obiteljskom liječniku ili dežurnom liječniku ako:\n\n- ne možeš zadržati nikakvu hranu ni piće 24 sata, nego sve povratiš\n- imaš vrlo taman urin ili ne mokriš dulje od 8 sati\n- se osjećaš jako slabo, vrti ti se u glavi ili osjećaš nesvjesticu kad ustaneš\n- imaš bol u trbuhu, povišenu temperaturu (vrućicu) ili povraćaš krv\n- gubiš na težini",
+      "red_flags": "- Ako ne možeš zadržati ni tekućinu, nego sve povratiš, a urin ti je vrlo taman ili ga nema, to može značiti da dehidriraš (teška mučnina u trudnoći). **Javi se primalji, obiteljskom liječniku ili dežurnom liječniku istoga dana**, jer ti možda treba liječenje kako se stanje ne bi pogoršalo."
+    },
+    "ovulation": {
+      "title": "Ovulacija",
+      "aliases": [
+        "ovulacija",
+        "oslobađanje jajne stanice",
+        "plodni dani",
+        "kada ovuliram",
+        "znakovi ovulacije",
+        "bol pri ovulaciji"
+      ],
+      "glance": "Ovulacija je trenutak kada jajnik oslobodi jajnu stanicu, najplodnija točka tvog ciklusa.",
+      "overview": "Ovulacija je trenutak kada jajnik oslobodi zrelu jajnu stanicu. To je prekretnica ciklusa: prva polovica vodi do nje, a druga slijedi nakon nje.\n\nU ciklusu od otprilike 28 dana ovulacija se često dogodi oko 14. dana, ali vrijeme se razlikuje. Korisno je znati da se ovulacija obično dogodi negdje 10 do 16 dana prije početka sljedeće menstruacije. Točan dan može biti teško odrediti.\n\nKad se oslobodi, jajna stanica može biti oplođena samo otprilike 12 do 24 sata. Spermiji, međutim, u tijelu mogu preživjeti nekoliko dana, pa su „plodni dani“ širi od jednog dana: otprilike nekoliko dana prije ovulacije i sam dan ovulacije.",
+      "deep": "Oslobađanje jajne stanice pokreće kratak, nagli porast hormona otprilike sredinom ciklusa, nakon što se u folikularnoj fazi nakupi estrogen. Budući da spermiji mogu živjeti nekoliko dana, a jajna stanica kraće od jednog dana, trudnoća je najvjerojatnija nakon spolnog odnosa u danima neposredno prije ovulacije. Ovulacija se može pomaknuti od ciklusa do ciklusa zbog stvari poput stresa ili bolesti, zbog čega ju je teško točno predvidjeti i zbog čega je praćenje nekoliko ciklusa pouzdanije od bilo kojeg pojedinačnog izračuna.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Bol tijekom spolnog odnosa",
+      "aliases": [
+        "bol tijekom spolnog odnosa",
+        "bolan spolni odnos",
+        "bol pri seksu",
+        "dispareunija",
+        "vaginizam",
+        "boli me seks"
+      ],
+      "glance": "Bol tijekom spolnog odnosa česta je, ima mnogo mogućih uzroka i uvijek je vrijedi dati provjeriti liječniku. Pomoć postoji.",
+      "overview": "Bol tijekom spolnog odnosa, koja se ponekad naziva dispareunija, češća je nego što mnogi misle i nikad nije nešto što jednostavno moraš prihvatiti. Može imati mnogo uzroka, a pronalaženje pravog ključ je za njezino ublažavanje.\n\nNeki su uzroci tjelesni. Suhoća rodnice čest je uzrok, često povezan s hormonima oko menopauze ili s nedovoljnim uzbuđenjem, a može učiniti da spolni odnos bude bolan ili neugodan. Bol mogu uzrokovati i infekcije, poput gljivične infekcije rodnice. Drugi je uzrok vaginizam, kada se mišići oko rodnice sami od sebe stegnu pri pokušaju penetracije, zbog čega spolni odnos može biti bolan ili se činiti nemogućim. To je nehotično, nije „samo u tvojoj glavi“ i može se liječiti.\n\nBudući da uzrok može biti tjelesni, hormonski ili povezan s tim koliko si opuštena ili uzbuđena, a često je riječ o kombinaciji, korisno je dati to pregledati umjesto nagađanja ili trpljenja.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se obiteljskom liječniku ili u savjetovalište za spolno zdravlje ako je spolni odnos bolan. Kakav god bio uzrok, vrijedi ga provjeriti, a za česte uzroke postoji učinkovita pomoć.\n- Možda ti je neugodno to spomenuti, ali liječnici se s tim često susreću i tu su da pomognu, a ne da osuđuju. Možeš zatražiti liječnicu, povesti nekoga sa sobom i razgovarati o tome što bi ti pregled učinilo ugodnijim.\n- Obavezno daj provjeriti svako krvarenje nakon spolnog odnosa i javi se bez odgađanja ako je bol jaka ili se uz to ne osjećaš dobro.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Ublažavanje boli tijekom poroda",
+      "aliases": [
+        "ublažavanje boli tijekom poroda",
+        "epiduralna",
+        "epiduralna anestezija",
+        "rajski plin",
+        "Entonox",
+        "porođajni bolovi",
+        "porod u vodi",
+        "TENS"
+      ],
+      "glance": "Postoji nekoliko načina ublažavanja porođajne boli. Nema pravog ili pogrešnog izbora i možeš ostati fleksibilna.",
+      "overview": "Porod je kod svake žene drukčiji, a postoji nekoliko načina da se nosiš s boli, od jednostavnih mjera za ugodu do medicinskih mogućnosti. Ako unaprijed znaš što je dostupno, možeš se osjećati spremnije.\n\nMogućnosti sežu od **kretanja i uspravnog položaja**, disanja i opuštanja, masaže i boravka u **vodi** (kadi ili bazenu za porod), do **TENS uređaja**, **plina za udisanje** (Entonox ili „rajski plin“, koji sama udišeš), **injekcija** poput petidina i **epiduralne anestezije** (daje je anesteziolog, a potpunije uklanja porođajnu bol).\n\nNe postoji „najbolji“ izbor: ovisi o tebi, tvom porodu i tome kako se taj dan osjećaš. Vrijedi zapisati svoje želje u **plan poroda**, ali ostati otvorena: mnoge žene otkriju da žele više ili manje ublažavanja boli nego što su očekivale, i to je potpuno u redu.",
+      "deep": null,
+      "when_to_see_doctor": "- **Primalja** (a za epiduralnu anesteziju i anesteziolog) proći će s tobom mogućnosti i pomoći ti da odlučiš što ti odgovara, tijekom trudnoće i ponovno tijekom samog poroda. Ne moraš sve odlučiti unaprijed.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (sindrom policističnih jajnika)",
+      "aliases": [
+        "pcos",
+        "sindrom policističnih jajnika",
+        "policistični jajnici",
+        "policistični ovariji",
+        "PCO",
+        "SPJ"
+      ],
+      "glance": "PCOS je često hormonsko stanje koje može utjecati na menstruaciju, ovulaciju, kožu i dlake.",
+      "overview": "PCOS, sindrom policističnih jajnika, često je stanje povezano s ravnotežom reproduktivnih hormona. Procjene govore da pogađa otprilike 1 od 10 žena reproduktivne dobi, a mnogim ženama koje ga imaju nikad se ne postavi dijagnoza.\n\nMože se očitovati na različite načine i ne postoje dvije žene kod kojih je posve isti. Česta obilježja uključuju neredovite, rijetke ili izostale menstruacije; povišene razine hormona koji se nazivaju androgeni, što može dovesti do pojačanog rasta dlaka na licu ili tijelu, akni ili stanjivanja kose na tjemenu; te jajnike koji ne oslobađaju jajnu stanicu redovito kao inače, što može otežati začeće. Česte su i promjene tjelesne težine i područja tamnije kože.\n\nTočan uzrok nije posve razjašnjen i nema lijeka koji ga izliječi, ali simptomi se mogu kontrolirati, a razumijevanje onoga što se događa prvi je korak. PCOS je čest i s njim se može živjeti; nije nešto čega se treba sramiti.",
+      "deep": "Budući da PCOS uključuje hormone i način na koji tijelo iskorištava inzulin, dugoročno je povezan i s inzulinskom rezistencijom te većom vjerojatnošću šećerne bolesti tipa 2, povišenog krvnog tlaka i promjena kolesterola, zbog čega liječnici te stvari obično prate kroz vrijeme. Otprilike polovica žena s PCOS-om može do četrdesetih godina razviti šećernu bolest ili predijabetes, pa su redovite kontrole važne. Dijagnozu ne treba postavljati sama: liječnik promatra cjelokupnu sliku, tvoju povijest bolesti i menstruacije, ponekad krvne pretrage hormona, a ponekad i ultrazvuk jajnika, te isključuje druge uzroke prije nego što zaključi da je riječ o PCOS-u.",
+      "when_to_see_doctor": "Vrijedi se javiti obiteljskom liječniku ako primijetiš nešto što odgovara gornjem opisu, osobito ako to utječe na to kako se osjećaš iz dana u dan:\n\n- neredovite, vrlo rijetke ili izostale menstruacije\n- primjetno pojačan rast dlaka na licu ili tijelu, dugotrajne akne ili stanjivanje kose na tjemenu\n- teškoće sa začećem nakon što neko vrijeme pokušavaš\n- debljanje koje je teško skinuti, uz druge simptome\n\nObiteljski liječnik može ispitati što se događa, potvrditi je li riječ o PCOS-u ili nečem drugom i razgovarati s tobom o planu koji ti odgovara. PCOS je povezan i s lošim raspoloženjem i tjeskobom. Ako ti je teško zbog toga kako se osjećaš, reci i to obiteljskom liječniku; i to je dio slike, a podrška je dostupna.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopauza",
+      "aliases": [
+        "perimenopauza",
+        "predmenopauza",
+        "prijelaz u menopauzu",
+        "mijena",
+        "klimakterij",
+        "neredovita menstruacija nakon četrdesete"
+      ],
+      "glance": "Perimenopauza je prijelazno razdoblje prije menopauze, kada se menstruacije i hormoni počinju mijenjati.",
+      "overview": "Perimenopauza je razdoblje koje vodi do menopauze, godine „oko menopauze“. Počinje kad prvi put primijetiš promjene i traje do punih godinu dana nakon posljednje menstruacije, kada je nastupila menopauza. Može trajati nekoliko godina.\n\nTijekom tog razdoblja jajnici postupno stvaraju manje estrogena, a razine rastu i padaju manje predvidljivo nego prije. Najčešći rani znak je promjena menstruacije: dolaze češće ili rjeđe, slabije su ili obilnije. Mnogi simptomi povezani s menopauzom, poput valunga, promjena sna ili raspoloženja, mogu početi upravo tada, dok još imaš menstruacije.\n\nBudući da je postupna i vrlo različita, perimenopauza može biti zbunjujuća: promjene ne dolaze sve odjednom ni istim redoslijedom kod svih. Kad znaš da ta faza ima ime i da je to normalan prijelaz, lakše ju je razumjeti.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se obiteljskom liječniku ako ti simptomi perimenopauze utječu na svakodnevni život i želiš razgovarati o tome što bi moglo pomoći.\n- Vrijedi se dati pregledati ako ti menstruacije postanu vrlo obilne ili ako krvariš između menstruacija ili nakon spolnog odnosa, kako bi se pronašao uzrok.\n- Imaj na umu da u perimenopauzi još uvijek možeš zatrudnjeti, pa vrijedi s liječnikom razgovarati o kontracepciji ako je to za tebe važno.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Menstrualna bol",
+      "aliases": [
+        "menstrualna bol",
+        "menstrualni grčevi",
+        "grčevi",
+        "dismenoreja",
+        "bolne menstruacije",
+        "bolovi za vrijeme menstruacije",
+        "boli me trbuh od menstruacije"
+      ],
+      "glance": "Menstrualna bol su grčevi u donjem dijelu trbuha oko menstruacije. Česta je i često normalan dio ciklusa.",
+      "overview": "Menstrualna bol je grčevit, tup osjećaj u donjem dijelu trbuha koji mnoge žene imaju oko menstruacije. Nastaje kad se mišićna stijenka maternice steže i često je normalan dio menstrualnog ciklusa. Medicinski naziv za nju je dismenoreja.\n\nObično se javi na početku menstruacije ili neposredno prije nje i traje do otprilike tri dana. Nekima je to blaga težina, a drugima su grčevi jači. Bol se može mijenjati i tijekom života i od ciklusa do ciklusa.\n\nMenstrualna bol koja prati ovaj poznati obrazac česta je i obično se može ublažiti. Mnoge žene koriste svakodnevne mjere za ugodu i obične lijekove protiv bolova, a ljekarnik ili obiteljski liječnik mogu te savjetovati što bi ti moglo odgovarati. Važno je poznavati svoj uobičajeni obrazac kako bi primijetila ako se nešto promijeni.",
+      "deep": null,
+      "when_to_see_doctor": "Vrijedi razgovarati s obiteljskim liječnikom ako:\n\n- ti menstruacije postanu bolnije, obilnije ili neredovitije nego inače\n- te bol sprječava u svakodnevnim stvarima poput posla ili škole\n- obični lijekovi protiv bolova ne pomažu\n- imaš bol tijekom spolnog odnosa ili pri mokrenju ili pražnjenju crijeva\n- krvariš između menstruacija\n- se bol javlja i u drugo vrijeme, a ne samo neposredno prije ili tijekom menstruacije\n- ti izlaze krvni ugrušci veći od kovanice (otprilike veličine kovanice od jednog eura)\n- primijetiš i natečen trbuh, slabiji apetit ili gubitak težine koji ne možeš objasniti\n\nTo ne znači da nešto nije u redu, ali vrijedi provjeriti: menstrualna bol koja je nova, drukčija ili ju je teško kontrolirati može imati uzroke u kojima ti liječnik može pomoći.",
+      "red_flags": "- Zatraži **hitan** pregled kod obiteljskog liječnika ili se javi **dežurnom liječniku** ako je menstrualna bol ili bol u zdjelici **jaka ili jača nego inače, a lijekovi protiv bolova nisu pomogli.**"
+    },
+    "planning-pregnancy": {
+      "title": "Planiranje trudnoće",
+      "aliases": [
+        "planiranje trudnoće",
+        "priprema za trudnoću",
+        "pokušavamo zatrudnjeti",
+        "prije trudnoće",
+        "kako zatrudnjeti",
+        "prekoncepcijska skrb"
+      ],
+      "glance": "Nekoliko jednostavnih koraka prije pokušaja, poput folne kiseline te prestanka pušenja i pijenja alkohola, daje trudnoći najbolji početak.",
+      "overview": "Ako razmišljaš o pokušaju začeća, nekoliko koraka unaprijed može trudnoći dati zdraviji početak, a mnogi od njih djeluju još prije samog začeća.\n\nNajvažniji su: počni uzimati **folnu kiselinu** (i vitamin D), **prestani pušiti** i **izbjegavaj alkohol**. Pomaže i težnja zdravoj tjelesnoj težini, jer znatno premala ili prevelika težina može otežati začeće. Vrijedi provjeriti i je li ti **cijepljenje protiv ospica, zaušnjaka i rubeole (MMR, MoPaRu)** ažurno, jer neke infekcije mogu utjecati na trudnoću.\n\nNišta od ovoga ne mora biti savršeno ni stresno. Važne su male, blage promjene unaprijed, a malo ranija priprema jedna je od najljepših stvari koje možeš učiniti za buduću trudnoću.",
+      "deep": null,
+      "when_to_see_doctor": "- Ako imaš **dugotrajnu bolest** ili **redovito uzimaš lijekove**, javi se obiteljskom liječniku prije nego što počneš pokušavati, jer neka stanja i lijekovi zahtijevaju planiranje. **Ne prestaj uzimati nijedan propisani lijek** a da prije toga ne razgovaraš s liječnikom.\n- Obiteljski liječnik može te savjetovati i o folnoj kiselini (uključujući trebaš li veću dozu) i o postizanju zdrave tjelesne težine prije trudnoće.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Postporođajna depresija",
+      "aliases": [
+        "postporođajna depresija",
+        "postpartalna depresija",
+        "depresija nakon poroda",
+        "baby blues",
+        "babinjska tuga",
+        "tuga nakon poroda",
+        "PPD"
+      ],
+      "glance": "Postporođajna depresija je često i izlječivo loše raspoloženje nakon poroda. Nisi ti kriva i pomoć je dostupna.",
+      "overview": "Osjećaj potištenosti, tjeskobe ili razdražljivosti u prvih nekoliko tjedana nakon poroda vrlo je čest. To se često naziva „baby blues“ ili babinjska tuga i obično prođe samo od sebe unutar otprilike dva tjedna.\n\nPostporođajna depresija je nešto drugo: loše raspoloženje koje je dublje ili dulje traje. To je često stanje, može početi bilo kada u prvoj godini, a može pogoditi i očeve i partnere. Znakovi uključuju dugotrajno loše raspoloženje, teškoće da u bilo čemu uživaš, probleme sa spavanjem čak i kad beba spava te ponekad teške osjećaje u vezi s povezivanjem s bebom.\n\nTo što je imaš **ne** znači da si loš roditelj niti da ne voliš svoju bebu. To je bolest, a ne neuspjeh, i dobro reagira na podršku i liječenje. Rano javljanje hrabar je i brižan korak, i za tebe i za tvoju bebu.",
+      "deep": null,
+      "when_to_see_doctor": "- Razgovaraj s **obiteljskim liječnikom, primaljom ili patronažnom sestrom** ako misliš da bi mogla imati postporođajnu depresiju ili ako se „baby blues“ nije povukao nakon dva tjedna. Oni su to vidjeli mnogo puta i mogu ti pomoći pronaći pravu podršku.",
+      "red_flags": "- Ako imaš **misli o tome da naudiš sebi ili svojoj bebi** ili misliš da bi tvojoj obitelji bilo bolje bez tebe, potraži pomoć **odmah**: nazovi **{{emergency}}** ili idi na hitni prijam u bolnicu ili nazovi kriznu liniju za pomoć. Te misli mogu biti dio bolesti, one nisu ono što ti jesi, a hitna pomoć je dostupna."
+    },
+    "pre-eclampsia": {
+      "title": "Preeklampsija",
+      "aliases": [
+        "preeklampsija",
+        "pre-eklampsija",
+        "visok tlak u trudnoći",
+        "povišen krvni tlak u trudnoći",
+        "gestoza",
+        "EPH gestoza",
+        "trudnička toksemija"
+      ],
+      "glance": "Preeklampsija je povišen krvni tlak u trudnoći. Na početku često nema simptoma, zato su prenatalni pregledi važni.",
+      "overview": "Preeklampsija je stanje u trudnoći koje se uglavnom očituje povišenim krvnim tlakom, uz bjelančevine u urinu. Obično se javlja otprilike od 20. tjedna, a ponekad i nakon poroda.\n\nJedna od najvažnijih stvari koje treba znati jest da na početku često **uopće nema simptoma**: možeš se osjećati potpuno dobro. Upravo zato ti primalja na svakom redovitom prenatalnom pregledu mjeri krvni tlak i provjerava urin: tim se pretragama preeklampsija obično otkrije prije nego što bi ti išta primijetila.\n\nKad se simptomi ipak jave, vrijedi ih poznavati, jer preeklampsija može postati ozbiljna i za tebe i za tvoju bebu. Može se dobro liječiti ako se otkrije na vrijeme, a redoviti odlasci na prenatalne preglede najbolji su način da se rano otkrije.",
+      "deep": null,
+      "when_to_see_doctor": "- Dolazi na sve **redovite prenatalne preglede**: mjerenjem krvnog tlaka i pretragom urina preeklampsija se obično otkrije prije nego što se jave simptomi.",
+      "red_flags": "Potraži liječničku pomoć **odmah** (javi se rodilištu ili **dežurnom liječniku**) ako imaš bilo što od sljedećeg (nazovi **{{emergency}}** ako ti je ozbiljno loše, primjerice ako imaš napadaj s grčevima):\n\n- **jaku glavobolju** koja ne prolazi uz obične lijekove protiv bolova\n- **probleme s vidom**, poput zamućenja ili bljeskanja pred očima\n- **iznenadno oticanje** lica, šaka ili stopala\n- **bol neposredno ispod rebara**\n- **povraćanje** ili iznenadan osjećaj da ti je jako loše"
+    },
+    "pregnancy": {
+      "title": "Trudnoća",
+      "aliases": [
+        "trudnoća",
+        "trudna",
+        "u drugom stanju",
+        "gestacija",
+        "tromjesečja",
+        "termin poroda",
+        "koliko sam tjedana trudna",
+        "tjedni trudnoće"
+      ],
+      "glance": "Trudnoća obično traje oko 40 tjedana, računajući od prvog dana posljednje menstruacije.",
+      "overview": "Trudnoća je vrijeme u kojem tvoje tijelo razvija i nosi bebu. Obično traje oko 40 tjedana, a sve od 37 do 42 tjedna smatra se donošenom i normalnom trudnoćom. Možda iznenađujuće, računa se od prvog dana **posljednje menstruacije**, a ne od začeća. To je jednostavno standardni način izračuna datuma.\n\nTvoj **termin poroda** je procjena, a ne rok: bebe sasvim normalno stižu malo ranije ili kasnije. U ranoj trudnoći ultrazvuk za određivanje trajanja trudnoće (obično oko 12. tjedna) može izmjeriti bebu i dati točniji datum, što ponekad pomakne prvotnu procjenu.\n\nO trudnoći se često govori kroz tri razdoblja, odnosno **tromjesečja**, a svako donosi svoje promjene. Cijelo vrijeme o tebi se brinu redovitim prenatalnim pregledima primalja (i liječnik po potrebi), a ta skrb pomaže da ti i tvoja beba budete dobro.",
+      "deep": "Budući da se datumi računaju od posljednje menstruacije, smatra se da si otprilike četiri tjedna trudna već u trenutku kad ti izostane menstruacija. Po broju tjedana trudnoće organizira se skrb: ultrazvuci, probirne pretrage i pregledi nude se u određenim tjednima. Ako su ti menstruacije neredovite ili nisi sigurna u datume, vremenski okvir određuje ultrazvuk za određivanje trajanja trudnoće. Ovaj je članak karta cijelog puta; posebne teme, poput znakova trudnoće, prenatalne skrbi, brige o sebi i poroda, imaju svaka svoj članak.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Test na trudnoću",
+      "aliases": [
+        "test na trudnoću",
+        "kućni test na trudnoću",
+        "hCG test",
+        "beta hCG",
+        "testiranje na trudnoću",
+        "pozitivan test",
+        "slaba crtica na testu"
+      ],
+      "glance": "Kućni test na trudnoću provjerava ima li u urinu hormona trudnoće hCG-a. Najpouzdaniji je od prvog dana izostanka menstruacije.",
+      "overview": "Kućni test na trudnoću djeluje tako da u urinu otkriva hormon hCG (humani korionski gonadotropin). Tijelo ga počinje stvarati nekoliko dana nakon što se oplođena jajna stanica ugnijezdi, a količina mu u ranoj trudnoći brzo raste.\n\nTest je najpouzdaniji od **prvog dana izostanka menstruacije**, otprilike dva tjedna nakon začeća. Ako ti je ciklus neredovit ili nisi sigurna kada bi ti trebala doći menstruacija, čekanje najmanje 21 dan nakon nezaštićenog spolnog odnosa daje pouzdaniji rezultat. Ne moraš testirati odmah ujutro; bilo koje doba dana je u redu.\n\n**Pozitivan** rezultat gotovo je sigurno točan: vrlo malo testova pokaže pozitivan rezultat kad nisi trudna. **Negativan** rezultat nešto je manje siguran: ako ti menstruacija i dalje ne dolazi, a misliš da bi mogla biti trudna, pričekaj nekoliko dana i ponovi test.",
+      "deep": null,
+      "when_to_see_doctor": "- Ako dobiješ pozitivan rezultat, javi se **primalji ili obiteljskom liječniku** kako bi započela prenatalna skrb.\n- Ako su testovi negativni, ali menstruacija izostaje, a osjećaš se kao da si trudna (ili ti nije dobro), javi se obiteljskom liječniku da se utvrdi što se događa.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Prijevremeni porod",
+      "aliases": [
+        "prijevremeni porod",
+        "prerani porod",
+        "preuranjeni porod",
+        "prijevremeni trudovi",
+        "nedonošče",
+        "prijevremeno puknuće vodenjaka",
+        "rano otjecanje plodne vode"
+      ],
+      "glance": "Prijevremeni porod je porod prije 37. tjedna. Djeluj brzo jer rana skrb stvarno mijenja stvari.",
+      "overview": "Prijevremeni (preuranjeni) porod je porod koji počne prije 37. tjedna trudnoće. Događa se u otprilike 8 od 100 poroda.\n\nBebe rođene prerano ranjivije su, ali mnoge se kasnije dobro razvijaju, osobito uz specijaliziranu skrb koju pružaju odjeli neonatalne intenzivne njege. Ključno je brzo djelovati ako misliš da porod možda počinje, kako bi te pregledali i, ako je potrebno, dali ti liječenje koje pomaže zaštititi bebu.\n\nZnakovi su slični porodu u bilo kojem stadiju trudnoće, ali prije 37. tjedna nikad ih ne treba čekati da prođu: uvijek su razlog da se odmah javiš.",
+      "deep": null,
+      "when_to_see_doctor": "- Nazovi **primalju ili rodilište** kad god si **trudna manje od 37 tjedana**, a nisi sigurna ili se brineš. Uvijek je u redu provjeriti.",
+      "red_flags": "Javi se **primalji ili rodilištu odmah**, danju ili noću, ako **prije 37. tjedna** imaš bilo što od sljedećeg:\n\n- redovite **trudove ili stezanja** ili bolove nalik menstrualnima\n- **naglo istjecanje ili curenje tekućine** iz rodnice (puknuće vodenjaka)\n- **bol u leđima** koja za tebe nije uobičajena ili osjećaj pritiska nisko dolje"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (predmenstrualni sindrom)",
+      "aliases": [
+        "pms",
+        "predmenstrualni sindrom",
+        "predmenstrualna napetost",
+        "pmdd",
+        "predmenstrualni disforični poremećaj",
+        "promjene raspoloženja prije menstruacije"
+      ],
+      "glance": "PMS je spoj tjelesnih i emocionalnih promjena koje mnoge žene primijete tjedan ili dva prije menstruacije.",
+      "overview": "PMS, predmenstrualni sindrom, naziv je za promjene koje mnoge žene osjećaju u danima ili tjednu-dva prije menstruacije. Može se javiti kod svake osobe koja ima menstruacije i obično se ublaži unutar nekoliko dana nakon početka menstruacije.\n\nPromjene imaju mnogo oblika. Tjelesno možeš primijetiti nadutost, bolne ili osjetljive dojke, grčeve, glavobolje ili veći umor. Emocionalno se mogu javiti promjene raspoloženja, razdražljivost, tjeskoba ili potištenost. Česte su i žudnja za hranom i promjene sna. Nemaju sve žene PMS, a one koje ga imaju neće imati sve simptome. Važan je tvoj vlastiti obrazac.\n\nPMS je normalan, priznat dio ciklusa mnogih žena, povezan s prirodnim hormonskim promjenama u drugoj polovici ciklusa. Ako primjećuješ kako se kod tebe javlja iz ciklusa u ciklus, lakše ćeš mu se prilagoditi i uočiti ako se ikad promijeni.",
+      "deep": null,
+      "when_to_see_doctor": "Vrijedi razgovarati s obiteljskim liječnikom ako:\n\n- ti simptomi utječu na svakodnevni život: posao, učenje, odnose\n- svakodnevne promjene u rutini nisu pomogle\n- ti se loše raspoloženje, tjeskoba ili razdražljivost čine jakima\n\nLiječnik može s tobom razgovarati o tome što bi moglo pomoći. Intenzivniji oblik, koji se naziva predmenstrualni disforični poremećaj (PMDD), može uzrokovati mnogo jače simptome vezane uz raspoloženje, a i za njega je dostupna podrška.",
+      "red_flags": "- Ako imaš simptome PMDD-a i **razmišljaš o samoubojstvu ili osjećaš da bi si mogla nauditi**, odmah potraži pomoć: **nazovi {{emergency}} ili idi na hitni prijam u bolnicu.** Ne vozi sama: zamoli nekoga da te odveze ili pozovi hitnu pomoć. Zaslužuješ podršku, a pomoć je dostupna."
+    },
+    "progesterone": {
+      "title": "Progesteron",
+      "aliases": [
+        "progesteron",
+        "hormon progesteron",
+        "razina progesterona",
+        "niski progesteron",
+        "hormon druge faze ciklusa"
+      ],
+      "glance": "Progesteron je hormon druge polovice ciklusa koji nakon ovulacije priprema sluznicu maternice.",
+      "overview": "Progesteron je jedan od glavnih hormona menstrualnog ciklusa i preuzima glavnu ulogu u drugoj polovici ciklusa, nakon što se jajna stanica oslobodi pri ovulaciji.\n\nNjegova je glavna zadaća pomoći da sluznica maternice ostane debela i spremna, kako bi se oplođena jajna stanica, ako stigne, mogla ugnijezditi i kako bi trudnoća mogla početi. Na taj način progesteron djeluje kao partner estrogenu, koji je obavio velik dio pripreme ranije u ciklusu.\n\nAko ne nastupi trudnoća, razina progesterona pada. Upravo taj pad omogućuje da se sluznica odljušti kao sljedeća menstruacija. Porast i pad progesterona tijekom druge polovice ciklusa normalan je, očekivan ritam.",
+      "deep": "Progesteron uglavnom stvara žuto tijelo (corpus luteum), tvorba koju jajnik oblikuje od folikula nakon što je oslobodio jajnu stanicu. Zato progesteron raste upravo u lutealnoj fazi (nakon ovulacije). Kad se žuto tijelo razgradi, padaju i progesteron i estrogen, što označava početak novog ciklusa. Njegove prirodne promjene dio su razloga zašto neke žene primijete predmenstrualne promjene u danima prije menstruacije.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Pilula samo s progestagenom (mini pilula)",
+      "aliases": [
+        "pilula samo s progestagenom",
+        "mini pilula",
+        "minipilula",
+        "progestagenska pilula",
+        "pilula s dezogestrelom",
+        "POP",
+        "pilula bez estrogena"
+      ],
+      "glance": "Mini pilula je tableta koja se uzima svaki dan, sadrži jedan hormon i zgušnjava cervikalnu sluz kako bi zaustavila spermije.",
+      "overview": "Pilula samo s progestagenom, često nazivana mini pilula, tableta je koja se uzima svaki dan i sadrži samo jedan hormon, progestagen. Mogućnost je za žene koje ne mogu ili ne žele uzimati estrogen.\n\nGlavni joj je učinak zgušnjavanje sluzi u vratu maternice, pa spermiji teže dolaze do jajne stanice. Jedna česta vrsta, pilula s dezogestrelom, također sprječava da jajnici oslobode jajnu stanicu (ovulaciju).\n\nKad se pravilno uzima, učinkovita je više od 99 %; uz uobičajeno svakodnevno korištenje učinkovitost je oko 91 %. Kao i kod drugih pilula, vrijeme uzimanja je važno, a ne štiti od SPI-ja.",
+      "deep": "Mini pilula razlikuje se od kombinirane po tome što ne sadrži estrogen, što mijenja to kome bi mogla odgovarati; to liječnik procjenjuje kad je propisuje. Neke se vrste moraju uzimati u prilično uskom vremenskom razmaku svaki dan kako bi ostale učinkovite. Ovaj članak objašnjava što je mini pilula i kako djeluje; kako je uzimati i je li prava za tebe pitanja su za obiteljskog liječnika, medicinsku sestru ili ljekarnika.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Kako prepoznati nasilnu vezu",
+      "aliases": [
+        "prepoznavanje zlostavljanja",
+        "nasilna veza",
+        "obiteljsko nasilje",
+        "nasilje u obitelji",
+        "nasilje u vezi",
+        "partnersko nasilje",
+        "znakovi zlostavljanja",
+        "jesam li žrtva nasilja"
+      ],
+      "glance": "Zlostavljanje može biti fizičko, seksualno, emocionalno ili kontrolirajuće i nikad nije krivnja osobe koja ga proživljava.",
+      "overview": "Zlostavljanje u vezi nije samo fizičko. Može imati nekoliko oblika, često istodobno: fizičko nanošenje ozljeda, seksualnu prisilu, emocionalno ili psihičko nanošenje štete i kontrolirajuća ponašanja, kada partner odlučuje kamo ideš, koga viđaš ili što smiješ raditi. Sve to može biti zlostavljanje, čak i kad nema vidljivih ozljeda.\n\nČešće je nego što mnogi misle. U svijetu otprilike 1 od 3 žene tijekom života doživi fizičko ili seksualno nasilje, najčešće od partnera; u Italiji je slika slična. Ako je to dio tvog života, nisi sama i to nije nešto što si ti prouzročila.\n\nImenovati to može biti teško: zlostavljanje se često izmjenjuje s lijepim trenucima, isprikama ili obećanjima da će se promijeniti, a može se razvijati tako polako da se čini normalnim. Vjerovati vlastitom osjećaju da nešto nije u redu opravdan je razlog da se javiš. Ne moraš biti sigurna niti čekati da postane „dovoljno loše“ da bi s nekim razgovarala.",
+      "deep": "Ispod različitih oblika zlostavljanje obično slijedi obrazac u kojem jedna osoba nastoji steći moć i kontrolu nad drugom, a s vremenom se može pogoršavati. Ostavlja stvaran trag na zdravlju: povezano je s tjeskobom, depresijom, problemima sa spavanjem i dugoročnim tjelesnim posljedicama. Ništa od toga ne znači da si slaba ili kriva; znači da je ono s čime živiš štetno, a podrška postoji kako bi ti pomogla da o tome razmisliš sigurno i svojim tempom.",
+      "when_to_see_doctor": "- Možeš povjerljivo razgovarati s nekim kad god budeš spremna: s obiteljskim liječnikom ili medicinskom sestrom, u centru za žrtve nasilja ili na liniji za pomoć (u Italiji **1522**, besplatno i u bilo koje doba). Ne trebaš prije toga imati dokaz, plan ni odluku; tu su da te saslušaju i pomognu ti razumjeti mogućnosti.\n- Zdravstveni djelatnik može zbrinuti i ozljede te te diskretno povezati sa specijaliziranom podrškom.",
+      "red_flags": "- Ako si u **neposrednoj opasnosti**, odmah se obrati hitnim službama: **112** u EU-u (uključujući Italiju), **999** u Ujedinjenom Kraljevstvu, **911** u SAD-u i Kanadi.\n- U Italiji je **1522**, besplatna nacionalna linija protiv nasilja i uhođenja, dostupna 24 sata dnevno, anonimno, telefonom ili putem chata, na nekoliko jezika."
+    },
+    "respect-not-control": {
+      "title": "Poštovanje, a ne kontrola",
+      "aliases": [
+        "kontrolirajuće ponašanje",
+        "prisilna kontrola",
+        "zdrava veza",
+        "znakovi upozorenja",
+        "gdje potražiti pomoć",
+        "zlostavljanje",
+        "ljubomora u vezi"
+      ],
+      "glance": "Ljubav se gradi na poštovanju i slobodi. Kontrola, ljubomora i pritisak nisu ljubav, a pomoć postoji.",
+      "overview": "Zdrava veza počiva na poštovanju, povjerenju, ravnopravnosti i slobodi: dvije osobe koje zadržavaju vlastita prijateljstva, izbore i prostor. Kontrola je suprotnost tome. Često se skriva iza riječi poput ljubavi ili ljubomore („Provjeravam ti mobitel jer mi je stalo“, „Ne želim da se viđaš s njima jer te volim“), ali njezin je učinak da sužava njezin svijet i njezinu slobodu.\n\nKontrola rijetko počinje nasiljem. Obično počinje sitnicama, kritikom, prijeđenom granicom, „šalom“ koja zaboli, i raste. Važno ju je rano imenovati, jer je prisilna kontrola sama po sebi oblik zlostavljanja i znak upozorenja za nešto gore. Ne radi se o krivnji, nego o iskrenosti i promjeni.",
+      "deep": "**Ako nešto od ovoga prepoznaješ u sebi, ta je svijest početna točka, a ne doživotna presuda.**\nLjudi se mogu promijeniti uz stvaran trud i pravu pomoć. Javiti se u specijalizirani program za muškarce koji žele prestati biti kontrolirajući ili nasilni znak je snage, a ne slabosti. Razgovaraj sa stručnjakom, liječnikom ili savjetovalištem za muškarce koji žele promijeniti svoje ponašanje.\n\nAko je **ona** ta koja je u opasnosti ili se brineš za nekoga, potakni je i podrži da potraži pomoć, na njezin način, nikad tako da preuzmeš kontrolu.\n\n**Gdje potražiti pomoć**\n- U hitnom slučaju ili ako je netko u neposrednoj opasnosti, nazovi lokalni broj za hitne slučajeve (**112** u Italiji i većem dijelu Europe; **911** u SAD-u).\n- **Italija, 1522**: nacionalna linija protiv nasilja i uhođenja. Besplatna, 24/7, anonimna i višejezična, a vodi je Odjel za jednake mogućnosti. Upućuje i na lokalne centre za žrtve nasilja (centri antiviolenza).\n- Centri za žrtve nasilja i programi za muškarce koji žele promijeniti svoje ponašanje (u Italiji „centri per uomini autori di violenza“) nude povjerljivu podršku za promjenu.",
+      "when_to_see_doctor": null,
+      "red_flags": "Znakovi upozorenja kontrolirajućeg ili nasilnog ponašanja, koje vrijedi shvatiti ozbiljno kod sebe ili u vezi:\n\n- **Nadziranje ili izoliranje**: provjeravanje njezina mobitela, praćenje njezine lokacije ili odvajanje od prijatelja i obitelji.\n- **Kontrola nad izborima**: novac, što nosi, kamo ide, koga viđa.\n- **Ljubomora predstavljena kao ljubav**, stalne optužbe ili potreba da u svakom trenutku znaš gdje je.\n- **Ponižavanje, okrivljavanje ili izazivanje straha**, krivnje ili osjećaja da mora „hodati po jajima“.\n- **Pritisak ili prijetnje** vezane uz seks, prekid ili samoozljeđivanje kako bi popustila.\n- **Bilo kakva fizička sila, zastrašivanje ili strah.** Ako je toga ima, to je zlostavljanje. Obrati se pomoći navedenoj gore. Za to nikad nema opravdanja i nikad nije njezina krivnja."
+    },
+    "safety-plan": {
+      "title": "Izrada sigurnosnog plana",
+      "aliases": [
+        "sigurnosni plan",
+        "plan sigurnosti",
+        "kako ostati sigurna",
+        "zaštita od nasilnika",
+        "sigurno napuštanje",
+        "kako otići od nasilnika"
+      ],
+      "glance": "Sigurnosni plan čini nekoliko praktičnih koraka koji ti pomažu da budeš sigurnija, a stručne službe mogu ti pomoći da ga izradiš.",
+      "overview": "Sigurnosni plan jednostavno znači unaprijed razmisliti kako zaštititi sebe (i djecu, ako ih imaš). To nije odluka da odeš ili ostaneš; radi se o tome da budeš malo spremnija, što god odabrala.\n\nNekima pomaže da nekoliko stvari diskretno pripreme: osobu od povjerenja koja zna što se događa, važne dokumente i brojeve na mjestu gdje ih možeš dohvatiti, malu torbu s osnovnim stvarima, predodžbu o najsigurnijim izlazima iz kuće ili riječ ili znak kojim nekome daješ do znanja da trebaš pomoć. Što ima smisla, ovisi isključivo o tvojoj situaciji.\n\nNe moraš to smišljati sama, a često je i sigurnije da ne radiš sama. Službe za pomoć žrtvama nasilja iskusne su u izradi sigurnosnih planova s ljudima, povjerljivo i besplatno, uključujući i za razdoblje oko odlaska, koje može biti rizičniji trenutak i koje je bolje planirati uz podršku nego u žurbi.",
+      "deep": null,
+      "when_to_see_doctor": "- Obrati se centru za žrtve nasilja ili liniji za pomoć (u Italiji **1522**) kako bi izradila plan koji odgovara tvojoj situaciji. Oni to rade svaki dan, povjerljivo, i mogu ti pomoći s praktičnim, pravnim i emocionalnim koracima.\n- Ako vodiš bilješke o onome što se događa, čuvaj ih na privatnom i sigurnom mjestu.",
+      "red_flags": "- Ako si u **neposrednoj opasnosti**, odmah se obrati hitnim službama: **112** u EU-u (uključujući Italiju), **999** u Ujedinjenom Kraljevstvu, **911** u SAD-u i Kanadi.\n- U Italiji ti **1522**, besplatna, dostupna 24 sata dnevno, anonimna i višejezična linija, može pomoći telefonom ili putem chata, uključujući i hitnu izradu sigurnosnog plana."
+    },
+    "sex-during-your-period": {
+      "title": "Seks tijekom menstruacije",
+      "aliases": [
+        "seks tijekom menstruacije",
+        "seks za vrijeme menstruacije",
+        "spolni odnos tijekom menstruacije",
+        "seks za vrijeme mjesečnice",
+        "mogu li zatrudnjeti tijekom menstruacije",
+        "trudnoća za vrijeme menstruacije"
+      ],
+      "glance": "Seks tijekom menstruacije je u redu ako ga oboje želite, ali i dalje možeš zatrudnjeti ili prenijeti SPI.",
+      "overview": "Spolni odnos tijekom menstruacije osobni je izbor. Ako to oboje želite i oboje vam je ugodno, u redu je i u tome nema ničeg lošeg ni neobičnog. Neke su žene u to vrijeme osjetljivije ili jednostavno nisu raspoložene, a druge u tome uživaju. Najvažnije je slušati svoje tijelo i otvoreno razgovarati s partnerom.\n\nOno što menstruacija ne radi jest da djeluje kao kontracepcija. Vjerojatnost trudnoće manja je nego oko ovulacije, ali nije nula. Spermiji u tijelu mogu preživjeti do 7 dana nakon spolnog odnosa, pa ako rano ovuliraš, što je vjerojatnije uz kraći ciklus, spermiji iz spolnog odnosa tijekom menstruacije ili neposredno nakon nje i dalje mogu susresti jajnu stanicu. Ako ne želiš zatrudnjeti, tvoja uobičajena kontracepcija važna je i tih dana.\n\nMenstruacija ne štiti ni od spolno prenosivih infekcija (SPI). Infekcije se između partnera mogu prenijeti tijekom spolnog odnosa bez prezervativa, a uzročnici se mogu nalaziti u krvi, kao i u drugim tjelesnim tekućinama. Prezervativi su metoda koja smanjuje i rizik od SPI-ja, uključujući HIV, pa ih vrijedi koristiti bez obzira na doba mjeseca.",
+      "deep": null,
+      "when_to_see_doctor": "- Ako si imala spolni odnos **bez kontracepcije** ili tvoja kontracepcija možda nije uspjela, a ne želiš zatrudnjeti, razgovaraj s ljekarnikom, obiteljskim liječnikom ili savjetovalištem za spolno zdravlje o hitnoj kontracepciji **što prije možeš**. Treba je upotrijebiti u roku od nekoliko dana, a obično djeluje bolje što se ranije upotrijebi.\n- Potraži pomoć ljekarnika, savjetovališta za spolno zdravlje ili obiteljskog liječnika ako **prezervativ pukne ili spadne** tijekom spolnog odnosa. Možda ti treba hitna kontracepcija ili test na SPI.\n- Javi se obiteljskom liječniku ili u savjetovalište za spolno zdravlje ako primijetiš **krvarenje nakon spolnog odnosa kad nemaš menstruaciju**. Obično nije ozbiljno, ali uvijek ga vrijedi dati provjeriti.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Seks u trudnoći",
+      "aliases": [
+        "seks u trudnoći",
+        "spolni odnos u trudnoći",
+        "seks tijekom trudnoće",
+        "je li seks siguran u trudnoći",
+        "intimnost u trudnoći",
+        "orgazam u trudnoći"
+      ],
+      "glance": "Seks je u većini trudnoća siguran i neće naštetiti bebi, osim ako ti primalja ili liječnik nisu savjetovali drukčije.",
+      "overview": "Za većinu žena spolni odnos tijekom trudnoće je siguran, osim ako ti primalja ili liječnik nisu rekli da ga izbjegavaš. Beba je u maternici dobro zaštićena i seks joj neće naštetiti.\n\nMožda će ti savjetovati da izbjegavaš spolni odnos s penetracijom u nekoliko situacija: ako imaš **nisko položenu posteljicu (placenta praevia)**, zbog rizika od krvarenja; ako ti je **puknuo vodenjak**, zbog rizika od infekcije; ili ako si imala **nekoliko spontanih pobačaja**.\n\nŽelja se u trudnoći često mijenja: neke žene žele seks više, neke manje, a neke neko vrijeme uopće ne, a ulogu imaju hormoni, promjene tijela, umor, mučnina i brige. Sve je to normalno. Ako nemaš želju za seksom, ljubljenje, maženje i masaža drugi su načini da ostanete bliski.\n\nKako trbuh raste, neki položaji postaju neudobni; položaji jedno uz drugo, na boku, često su lakši. Hormoni mogu učiniti rodnicu suhom, a lubrikant na bazi vode može pomoći.\n\nU kasnoj trudnoći seks ili orgazam mogu izazvati Braxton Hicksove kontrakcije, kada se maternica neko vrijeme stvrdne. To je normalno i nije početak poroda, a nema dokaza da seks potiče porod.\n\nAko bi netko od vas mogao imati spolno prenosivu infekciju, koristite prezervativ, i kod oralnog seksa: neliječena infekcija može ozbiljno naštetiti tebi i bebi. Izbjegavajte oralni seks ako netko od vas ima herpes na usni, jer se virus može prenijeti na bebu.",
+      "deep": null,
+      "when_to_see_doctor": "- Razgovaraj s **primaljom ili liječnikom** ako nisi sigurna je li seks za tebe siguran ili ako te opterećuju brige oko seksa ili veze.\n- Ako imaš **bilo kakvo krvarenje** u trudnoći, daj ga provjeriti prije nego što ponovno imaš spolni odnos: javi se primalji, liječniku ili rodilištu.\n- Javi se u **savjetovalište za spolno zdravlje** ako ti ili tvoj partner možda imate SPI.",
+      "red_flags": "- Odmah se javi **rodilištu** ako misliš da ti je **puknuo vodenjak** i nemoj imati spolni odnos dok te ne pregledaju.\n- Nazovi **{{emergency}} ili idi na hitni prijam u bolnicu** ako imaš **jako krvarenje**, osobito uz **jaku bol u trbuhu** ili osjećaj nesvjestice."
+    },
+    "sexual-violence": {
+      "title": "Seksualno nasilje i pristanak",
+      "aliases": [
+        "seksualno nasilje",
+        "seksualni napad",
+        "silovanje",
+        "pristanak",
+        "seksualno zlostavljanje",
+        "bez pristanka",
+        "spolno nasilje"
+      ],
+      "glance": "Seksualno nasilje je svaki seksualni čin bez pristanka i nikad nije krivnja osobe koja ga je doživjela.",
+      "overview": "Seksualno nasilje znači svaki seksualni čin ili pokušaj da se do njega dođe bez pristanka ili prisilom. Uključuje silovanje i svaki neželjeni seksualni kontakt, a može ga počiniti bilo tko: nepoznata osoba, poznanik, partner ili bračni drug.\n\nPristanak je u središtu toga. Pristanak znači slobodno pristati, a nije moguć kad osoba spava, bez svijesti je, pijana je ili drogirana, kad je riječ o djetetu ili kad je osoba pod pritiskom, prijetnjom ili u strahu. Može se povući u bilo kojem trenutku. Zbog toga seksualno nasilje **nikad** nije krivnja osobe kojoj se dogodilo: ni zbog onoga što je nosila, ni zbog toga je li pila, ni zbog toga što se ukočila umjesto da se brani, ni zbog toga je li poznavala tu osobu.\n\nAko ti se to dogodilo, podrška postoji, bez obzira na to je li se dogodilo nedavno ili davno. Vjerujemo ti, a što ćeš dalje učiniti tvoj je izbor.",
+      "deep": null,
+      "when_to_see_doctor": "- Možeš se obratiti **zdravstvenoj službi, bolnici ili specijaliziranoj službi za žrtve seksualnog nasilja**, gdje se mogu pobrinuti za tebe, zbrinuti ozljede i, ako to želiš, pomoći s prijavom i čuvanjem dokaza.\n- Neki su zdravstveni koraci **vremenski ograničeni**, primjerice hitna kontracepcija ili sprječavanje infekcije, pa može pomoći da se javiš **što prije**. Ali za traženje podrške ne postoji rok i uvijek je tvoj izbor hoćeš li podnijeti prijavu.",
+      "red_flags": "- Ako si u **neposrednoj opasnosti**, odmah se obrati hitnim službama: **112** u EU-u (uključujući Italiju), **999** u Ujedinjenom Kraljevstvu, **911** u SAD-u i Kanadi.\n- Nakon nedavnog napada **bolnica ili specijalizirana služba mogu hitno pomoći**. U Italiji te linija **1522** (besplatna, 24/7, anonimna, višejezična, telefonom ili putem chata) može uputiti na odgovarajuću skrb."
+    },
+    "signs-of-labour": {
+      "title": "Znakovi poroda",
+      "aliases": [
+        "znakovi poroda",
+        "porod",
+        "početak poroda",
+        "trudovi",
+        "puknuće vodenjaka",
+        "čep sluzi",
+        "latentna faza",
+        "kad ići u rodilište"
+      ],
+      "glance": "Znakovi da porod počinje uključuju redovite trudove, izlazak sluzavog čepa, bol u leđima ili puknuće vodenjaka.",
+      "overview": "Postoji nekoliko znakova da bi porod mogao početi. Glavni su trudovi, stezanja trbuha koja dolaze redovito i postaju sve jača. Drugi uključuju izlazak sluzavog čepa (čep sluzi iz vrata maternice odvoji se i izađe), dugotrajnu bol u leđima, potrebu za odlaskom na toalet i puknuće vodenjaka.\n\nPrije aktivnog poroda često postoji rana („latentna“) faza, kada vrat maternice omekšava i počinje se otvarati. Taj dio može trajati satima ili čak danima, a za mnoge je žene u redu da ga provedu ugodno kod kuće, odmarajući se i pijući dovoljno tekućine.\n\nPorod kod svake žene počinje malo drukčije, pa ne moraš primijetiti svaki znak. Kad misliš da nešto počinje, primalja ili rodilište tu su da te upute što učiniti i kada doći.",
+      "deep": null,
+      "when_to_see_doctor": "- Nazovi **primalju ili rodilište** za savjet kad misliš da je porod počeo ili kad su trudovi **redoviti, otprilike svakih 5 minuta**. Ako ne možeš dobiti primalju, nazovi bolnicu u kojoj planiraš roditi.",
+      "red_flags": "Nazovi **primalju ili rodilište odmah**, danju ili noću, ne čekaj, ako:\n\n- ti **pukne vodenjak** (osobito ako je tekućina zelena, smeđa ili neugodnog mirisa)\n- imaš **bilo kakvo krvarenje iz rodnice**\n- se tvoja **beba miče manje nego inače**\n- imaš znakove poroda, a **trudna si manje od 37 tjedana**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Znakovi trudnoće",
+      "aliases": [
+        "znakovi trudnoće",
+        "rani simptomi trudnoće",
+        "jesam li trudna",
+        "simptomi trudnoće",
+        "prvi znakovi trudnoće",
+        "kasni mi menstruacija"
+      ],
+      "glance": "Izostanak menstruacije često je prvi znak trudnoće, ponekad uz mučninu, umor ili osjetljive dojke.",
+      "overview": "Mnogim je ženama prvi nagovještaj trudnoće **izostanak menstruacije**. No tijela se razlikuju i neke najprije primijete druge rane znakove, često otprilike u 4. do 6. tjednu.\n\nČesti rani znakovi uključuju mučninu ili povraćanje (u bilo koje doba dana, ne samo ujutro), dojke koje se čine većima ili su osjetljive, neuobičajen umor i češću potrebu za mokrenjem. Neke žene primijete i metalni okus u ustima, novu osjetljivost na određene mirise ili odbojnost prema hrani koju inače vole.\n\nNišta od toga samo po sebi ne znači da si sigurno trudna, jer se mnogo toga preklapa s uobičajenim promjenama tijekom ciklusa, a nemaju ih sve žene. Sigurno ćeš znati tek kad napraviš test na trudnoću.",
+      "deep": null,
+      "when_to_see_doctor": "- Ako je test pozitivan, javi se **primalji ili obiteljskom liječniku** kako bi rano započela skrb u trudnoći (prenatalna skrb).\n- Ako ti menstruacija kasni, a testovi su negativni, ali simptomi ne prestaju, vrijedi se javiti obiteljskom liječniku da provjeri što bi se još moglo događati.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Pušenje u trudnoći",
+      "aliases": [
+        "pušenje u trudnoći",
+        "prestanak pušenja u trudnoći",
+        "kako prestati pušiti u trudnoći",
+        "e-cigarete u trudnoći",
+        "vejpanje u trudnoći",
+        "cigarete i trudnoća"
+      ],
+      "glance": "Prestanak pušenja jedna je od najboljih stvari koje možeš učiniti za svoju bebu, a nikad nije kasno.",
+      "overview": "Prestanak pušenja jedna je od najdjelotvornijih stvari koje možeš učiniti kako bi svojoj bebi dala zdrav početak. Svaka cigareta smanjuje količinu kisika koju beba dobiva, zbog čega joj srce mora jače raditi, a to može usporiti njezin rast.\n\nPušenje u trudnoći povećava rizik od ozbiljnih problema, uključujući spontani pobačaj, prijevremeni porod, nisku porođajnu težinu, mrtvorođenje i sindrom iznenadne dojenačke smrti (SIDS) nakon poroda. Važan je i pasivni dim, pa pomaže dom bez dima.\n\nOhrabrujuće je to što **nikad nije kasno**. Prestanak u bilo kojem trenutku trudnoće pomaže, a najviše koristi donosi rani prestanak. To može biti stvarno teško, i upravo zato postoji besplatna pomoć, a uz nju je uspjeh mnogo vjerojatniji.",
+      "deep": null,
+      "when_to_see_doctor": "- Pitaj **primalju** o **besplatnoj podršci za prestanak pušenja**: educirani savjetnici (neki specijalizirani za trudnoću) mogu te podržati, a mnoge zemlje imaju i besplatnu telefonsku liniju za prestanak pušenja. Traženje pomoći znak je brige za bebu, a ne neuspjeh.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Oskudno krvarenje i krvarenje između menstruacija",
+      "aliases": [
+        "oskudno krvarenje",
+        "točkasto krvarenje",
+        "spotting",
+        "krvarenje između menstruacija",
+        "međumenstrualno krvarenje",
+        "probojno krvarenje",
+        "krvarenje nakon spolnog odnosa",
+        "mrlje krvi na gaćicama"
+      ],
+      "glance": "Oskudno krvarenje je slabo krvarenje između menstruacija ili nakon spolnog odnosa. Često nije ozbiljno, ali ga uvijek vrijedi dati provjeriti liječniku.",
+      "overview": "Oskudno krvarenje (spotting) znači slabo krvarenje koje se javlja između menstruacija ili nakon spolnog odnosa, izvan tvog uobičajenog krvarenja. Često je i obično nije ništa ozbiljno, ali budući da može imati nekoliko uzroka, to je nešto što uvijek vrijedi dati provjeriti liječniku.\n\nPostoji mnogo svakodnevnih razloga za to. Početak ili korištenje hormonske kontracepcije jedan je od čestih. Drugi uključuju male, bezopasne izrasline u maternici ili oko nje (polipe ili miome), bezopasne promjene na površini vrata maternice, suhoću rodnice ili infekciju poput klamidije.\n\nBudući da isti simptom može imati različite uzroke, uglavnom bezazlene, korisno je ne nagađati, nego ga dati pregledati kako bi znala što kod tebe stoji iza njega.",
+      "deep": null,
+      "when_to_see_doctor": "- Javi se obiteljskom liječniku ili u savjetovalište za spolno zdravlje **svaki put kad krvariš između menstruacija ili nakon spolnog odnosa**, čak i ako je krvarenje slabo. Obično nije ništa ozbiljno, ali pregledom se otkriva uzrok, a tako se i rano isključuju rjeđi uzroci.",
+      "red_flags": "- Zatraži **hitan** pregled kod obiteljskog liječnika ili se javi **dežurnom liječniku** ako ti je **izostala menstruacija, a imaš neuobičajeno krvarenje uz bol u trbuhu ili zdjelici**. To treba brzo procijeniti jer može biti znak izvanmaternične trudnoće."
+    },
+    "stalking": {
+      "title": "Uhođenje",
+      "aliases": [
+        "uhođenje",
+        "netko me uhodi",
+        "proganjanje",
+        "uznemiravanje",
+        "neželjena pažnja",
+        "netko me prati",
+        "kibernetičko uhođenje",
+        "stalking"
+      ],
+      "glance": "Uhođenje je ponavljana, neželjena pažnja zbog koje se osjećaš uplašeno ili nesigurno, i shvaća se ozbiljno.",
+      "overview": "Uhođenje je obrazac neželjenog, ponavljanog ponašanja neke osobe zbog kojeg se osjećaš uplašeno, promatrano ili nesigurno. Može uključivati praćenje, pojavljivanje nekoga na mjestima gdje se nalaziš, stalne pozive ili poruke, neželjene darove, nadziranje na internetu ili putem mobitela ili prijetnje. Često to čini bivši partner ili netko koga poznaješ, iako ne uvijek.\n\nStrah koji uzrokuje opravdan je, čak i kad se svaki pojedini čin drugima može činiti „sitnim“: važan je obrazac i to kako se zbog njega osjećaš. Uhođenje je priznato kao oblik zlostavljanja i u mnogim je zemljama kazneno djelo. Ništa od toga nije tvoja krivnja i ne moraš s tim jednostavno živjeti.\n\nAko je sigurno, vođenje evidencije kasnije može pomoći: datumi i vremena, snimke zaslona poruka i opis onoga što se dogodilo. Ne moraš sama procjenjivati „računa“ li se to; službe za podršku mogu ti pomoći da to razumiješ i razmisliš o svojim mogućnostima.",
+      "deep": null,
+      "when_to_see_doctor": "- Obrati se **policiji** kako bi prijavila uhođenje te liniji za pomoć žrtvama nasilja ili uhođenja za podršku i savjet (u Italiji je **1522** namijenjena nasilju **i** uhođenju).\n- Čuvanje dokaza i izrada sigurnosnog plana, uz pomoć specijalizirane službe, mogu stvarno mnogo promijeniti.",
+      "red_flags": "- Ako se osjećaš u **neposrednoj opasnosti**, odmah se obrati hitnim službama: **112** u EU-u (uključujući Italiju), **999** u Ujedinjenom Kraljevstvu, **911** u SAD-u i Kanadi.\n- U Italiji ti **1522**, besplatna, dostupna 24 sata dnevno, anonimna i višejezična linija, može pomoći telefonom ili putem chata."
+    },
+    "stillbirth": {
+      "title": "Mrtvorođenje",
+      "aliases": [
+        "mrtvorođenje",
+        "mrtvorođeno dijete",
+        "gubitak bebe",
+        "kasni gubitak trudnoće",
+        "intrauterina smrt ploda",
+        "beba rođena bez života"
+      ],
+      "glance": "Mrtvorođenje je gubitak bebe nakon 24. tjedna. Rijetko je, nikad nije tvoja krivnja i uvijek je uz njega dostupna podrška.",
+      "overview": "Mrtvorođenje je kada se beba rodi mrtva nakon 24. tjedna trudnoće. (Gubitak prije 24. tjedna naziva se spontani pobačaj.) Nije često, događa se u otprilike 1 od 250 poroda, ali za obitelji koje pogodi to je dubok gubitak, a sva skrb koja slijedi ima za cilj nježno te provesti kroz to.\n\nPonekad se pronađe uzrok, primjerice problem s posteljicom ili razvojem bebe ili neka zdravstvena tegoba, a ponekad se, unatoč pretragama, **uzrok uopće ne pronađe**. Kakav god bio razlog, mrtvorođenje nije nešto što je roditelj prouzročio ili što je mogao znati spriječiti.\n\nJedna stvar zaista pomaže smanjiti rizik, a jednostavna je: **odmah reći primalji ako se bebini pokreti uspore ili promijene.** Uz to, svoj doprinos daju i svakodnevne stvari: odlasci na prenatalne preglede, nepušenje, izbjegavanje alkohola i spavanje na boku od 28. tjedna.",
+      "deep": null,
+      "when_to_see_doctor": "- **Odmah se javi primalji ili rodilištu**, u bilo koje doba, danju ili noću, ako se tvoja **beba miče manje nego inače ili ti se njezini pokreti čine drukčijima.** Nikad ne čekaj da vidiš hoće li proći; pregled je upravo ono što treba učiniti i nikad nikome ne smetaš.\n- Nakon gubitka tu su za tebe specijalizirane primalje i timovi za podršku u tugovanju: za odluke, praktične korake i tugu. Ni s čim od toga ne moraš se suočiti sama, a grupe podrške za roditelje koji su izgubili bebu dostupne su dokle god ti trebaju.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stres, život i tvoje menstruacije",
+      "aliases": [
+        "stres i menstruacija",
+        "stres",
+        "izostala menstruacija",
+        "menstruacija kasni",
+        "zašto mi kasni menstruacija",
+        "kasni mi mjesečnica",
+        "izostanak menstruacije"
+      ],
+      "glance": "Stres, velike promjene tjelesne težine ili mnogo tjelovježbe mogu odgoditi ili zaustaviti menstruaciju, često samo privremeno.",
+      "overview": "Često se dogodi da menstruacija kasni ili da jedan mjesec izostane, a razlog je češće vezan uz život nego uz to da nešto nije u redu. Stres je čest uzrok: isti sustav koji reagira na pritisak može utjecati na hormone koji upravljaju tvojim ciklusom.\n\nI druge svakodnevne stvari mogu pomaknuti menstruaciju: velika promjena tjelesne težine (povećanje ili smanjenje), mnogo tjelovježbe ili iscrpljenost. Iza toga mogu stajati i hormonske promjene, poput približavanja perimenopauze ili stanja poput PCOS-a, kao i trudnoća i neke vrste kontracepcije. Često se razmak između menstruacija jednostavno malo mijenja s vremena na vrijeme, i to je normalno.\n\nUmirujuće je to što jedna zakašnjela ili izostala menstruacija obično nije razlog za zabrinutost i stvari se često smire kako se smiri i život. Vrijedi pratiti obrazac promjena, a ne jedan mjesec.",
+      "deep": null,
+      "when_to_see_doctor": "Javi se obiteljskom liječniku ako:\n\n- su ti izostale **tri menstruacije zaredom** ili su ti menstruacije postale **neredovite**\n- su ti menstruacije **prestale**, a nisi sigurna zašto (ako je trudnoća moguća, najprije napravi test)\n- izostale menstruacije prate i druge promjene, poput neočekivanih promjena tjelesne težine, umora, pojačanog rasta dlaka ili potištenosti\n\nOve provjere služe samo tome da se razumije što stoji iza promjene, a to je obično nešto s čime se može dobro nositi.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Podrška njoj tijekom menstruacije",
+      "aliases": [
+        "pomoć tijekom njezine menstruacije",
+        "podrška partnerici tijekom menstruacije",
+        "briga tijekom menstruacije",
+        "kako joj pomoći kad ima menstruaciju",
+        "menstruacija partnerice"
+      ],
+      "glance": "Menstruacija može donijeti stvarnu bol i umor, a mala, praktična briga mnogo znači.",
+      "overview": "Menstruacija nije samo nekoliko dana krvarenja; kod mnogih žena dolazi s grčevima, bolovima u leđima, glavoboljama, umorom i manjkom energije. Menstrualna bol česta je i može stvarno iscrpljivati; to nije pretjerivanje. Pristupi tome kao i kad je tvoja partnerica bolesna: s praktičnom dobrotom.\n\nI normaliziraj to. Menstruacija nije odvratna, sramotna ni tabu. Kad ti nije neugodno kupiti uloške ili tampone, imati ih kod kuće ili joj bez puno priče dodati termofor, poručuješ joj da je sigurna i da ima podršku.",
+      "deep": "Jednostavne stvari koje pomažu:\n\n- **Toplina i odmor.** Termofor ili grijaći jastučić na donjem dijelu trbuha ublažava grčeve; predloži mirnu večer kod kuće.\n- **Preuzmi dio njezinih obaveza.** Skuhaj, pospremi, obavi nešto umjesto nje, odvezi je: praktična pomoć znači više od riječi.\n- **Imaj zalihe.** Znaj što koristi i drži zalihu kod kuće, kako obilan dan nikad ne bi postao kriza.\n- **Lijekovi protiv bolova i omiljena hrana** ako ih želi; njezin izbor.\n- **Ne vrši pritisak da ima seks ili energiju koju nema.** Bliskost može biti i maženje na kauču.",
+      "when_to_see_doctor": "Potakni je da se javi liječniku (i ponudi da pođeš s njom) ako je menstrualna bol **jaka, pogoršava se ili je sprječava u svakodnevnom životu**, ako su menstruacije **vrlo obilne** (zaštita se potpuno natopi svakog sata, veliki ugrušci) ili ako je bol nova i neuobičajena. To može upućivati na stanja poput endometrioze koja zaslužuju pravu skrb.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Kako podržati nekoga tko proživljava nasilje",
+      "aliases": [
+        "podrška nekome",
+        "kako pomoći prijateljici",
+        "kako pomoći",
+        "netko proživljava zlostavljanje",
+        "kako podržati žrtvu nasilja",
+        "prijateljica je žrtva nasilja"
+      ],
+      "glance": "Ako netko koga poznaješ možda proživljava zlostavljanje, pomaže slušati bez osuđivanja i znati kamo tu osobu uputiti.",
+      "overview": "Shvatiti da netko do koga ti je stalo možda proživljava zlostavljanje teško je, a želja da pomogneš dobar je nagon. Najkorisnije što možeš ponuditi često je i najjednostavnije.\n\nSlušaj i vjeruj. Pusti osobu da govori svojim tempom, bez osuđivanja, okrivljavanja ili pitanja čime je to izazvala. Jasno reci da to nije njezina krivnja i da to ne zaslužuje. Pokušaj joj ne govoriti što da radi i ne tjeraj je da ode: odlazak je njezina odluka, a nagli odlazak zapravo može povećati opasnost. Više pomaže da se osjeća podržano i da nije sama.\n\nOno što ti povjeri zadrži za sebe. Nježno joj pomozi pronaći specijaliziranu podršku kad bude spremna, poput linije za pomoć **1522** u Italiji ili lokalnog centra za žrtve nasilja, i ponudi praktičnu pomoć, primjerice da zajedno potražite brojeve ili da budeš uz nju dok zove. I pobrini se za sebe; podržavati nekoga kroz ovo može biti teško.",
+      "deep": null,
+      "when_to_see_doctor": "- Potakni tu osobu (bez pritiska) da se obrati liniji za pomoć ili centru za žrtve nasilja, gdje vas oboje mogu uputiti što dalje. Možeš joj ponuditi pomoć oko poziva ili traženja broja.\n- Ako je ozlijeđena, obiteljski liječnik ili bolnica mogu pomoći i povezati je sa službama podrške.",
+      "red_flags": "- Ako je osoba u **neposrednoj opasnosti**, nazovi hitne službe: **112** u EU-u (uključujući Italiju), **999** u Ujedinjenom Kraljevstvu, **911** u SAD-u i Kanadi.\n- U Italiji te i linija **1522** (besplatna, 24/7, anonimna, višejezična, telefonom ili putem chata) može savjetovati kako nekome pomoći."
+    },
+    "the-coil": {
+      "title": "Spirala (bakrena i hormonska)",
+      "aliases": [
+        "spirala",
+        "maternični uložak",
+        "IUD",
+        "IUS",
+        "bakrena spirala",
+        "hormonska spirala",
+        "intrauterini uložak",
+        "Mirena"
+      ],
+      "glance": "Spirala je mali uložak koji se postavlja u maternicu, bakreni (IUD) ili hormonski (IUS), i djeluje godinama.",
+      "overview": "Spirala je mali uložak koji liječnik postavlja u maternicu. Postoje dvije vrste i korisno ih je razlikovati:\n\n- **IUD**, odnosno bakrena spirala, ne sadrži hormone. Bakar mijenja uvjete u maternici tako da spermiji i jajne stanice ne mogu dobro preživjeti, a utječe i na cervikalnu sluz. Ovisno o vrsti, djeluje otprilike 5 do 10 godina.\n- **IUS**, odnosno hormonska spirala, umjesto bakra otpušta progestagen. Zgušnjava sluz u vratu maternice i stanjuje sluznicu maternice; kod nekih žena može i znatno smanjiti menstrualno krvarenje.\n\nObje su metode „postavi i zaboravi“ i obje su učinkovite više od 99 %, uz malu razliku između savršenog i uobičajenog korištenja. Nijedna ne štiti od SPI-ja.",
+      "deep": "Spirale su dugodjelujuće reverzibilne metode: nakon postavljanja djeluju godinama, a plodnost se vraća nakon vađenja. Postavljanje i vađenje obavlja educirani liječnik i traju samo nekoliko minuta, iako je nekim ženama postavljanje neugodno. Čest razlog zbog kojeg žene biraju između njih jest učinak na menstruaciju: bakrena spirala na početku može pojačati menstruacije, dok ih hormonska često učini slabijima. Što tebi odgovara tema je za razgovor s liječnikom; ovaj članak samo objašnjava kako svaka djeluje.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Dani prije menstruacije",
+      "aliases": [
+        "PMS za partnere",
+        "podrška prije menstruacije",
+        "predmenstrualna podrška",
+        "podrška u lutealnoj fazi",
+        "partnerica ima PMS",
+        "kako pomoći kod PMS-a"
+      ],
+      "glance": "U danima prije menstruacije možda je umornija, osjetljivija ili potištena. Dočekaj to strpljenjem, a ne šalama.",
+      "overview": "Otprilike tjedan dana prije menstruacije mnoge žene imaju predmenstrualne simptome: promjene raspoloženja, razdražljivost ili potištenost, umor, bolne dojke, nadutost, glavobolje ili probleme sa spavanjem. To je vrlo često i stvarno je, a pokreće ga prirodna hormonska promjena lutealne faze, a ne njezino „pretjerivanje“.\n\nKod manjeg broja žena loše je raspoloženje jako (stanje koje se naziva PMDD) i zaslužuje pravu podršku i liječničku skrb. U svakom slučaju, tvoj posao nije postavljati joj dijagnozu ni „popravljati“ je, nego pružiti joj mir i dobrotu.\n\nNajštetnije što partner ovdje može učiniti jest koristiti to kao oružje: „samo imaš PMS“, prevrtanje očima ili odbacivanje njezinih osjećaja zbog datuma. Time je omalovažavaš i dodaješ bol ionako teškom tjednu. Njezini osjećaji i dalje vrijede, čak i kad su hormoni dio slike.",
+      "deep": "Što u tim danima stvarno pomaže:\n\n- **Olakšaj joj teret.** Preuzmi kućanske poslove, kuhanje ili mentalni popis obaveza, a da te ne mora moliti.\n- **Utjeha, a ne ispravljanje.** Ponudi toplinu, odmor, termofor, njezinu omiljenu hranu i pusti je da osjeća ono što osjeća.\n- **Prvo slušaj.** Ako je uznemirena, „zvuči stvarno teško“ svaki je put bolje od „smiri se“.\n- **Ne vodi računicu.** Teži dan nije dug koji ti kasnije mora vratiti.\n- **Pitaj što joj treba**: neke žele bliskost, neke prostor. Oboje je u redu; poštuj njezin odgovor.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Blizanačka i višeplodna trudnoća",
+      "aliases": [
+        "blizanci",
+        "blizanačka trudnoća",
+        "višeplodna trudnoća",
+        "čekam blizance",
+        "jednojajčani blizanci",
+        "dvojajčani blizanci",
+        "trojke"
+      ],
+      "glance": "Blizanačka trudnoća obično se prvi put otkrije na ultrazvuku za određivanje trajanja trudnoće i znači nešto više prenatalne skrbi.",
+      "overview": "Da čekaš više od jedne bebe obično se prvi put otkrije na **ultrazvuku za određivanje trajanja trudnoće** (otprilike u 12. tjednu), koji može pokazati i dijele li bebe posteljicu.\n\nPostoje dvije glavne vrste. **Jednojajčani** blizanci nastaju iz jedne oplođene jajne stanice koja se podijeli, pa imaju iste gene i uvijek su istog spola. **Dvojajčani** blizanci nastaju iz dvije odvojene jajne stanice i nisu međusobno sličniji od bilo koje druge braće i sestara; češći su od jednojajčanih i nešto su vjerojatniji u starijoj dobi, kad ih ima u obitelji s majčine strane ili nakon liječenja neplodnosti.\n\nNošenje blizanaca ili više beba posebno je iskustvo i obično znači **nešto više prenatalne skrbi**: dodatne preglede i ultrazvuke kako bi se pomno pratilo tebe i tvoje bebe. Tvoj tim primalja objasnit će ti što možeš očekivati.",
+      "deep": null,
+      "when_to_see_doctor": "- Ako ultrazvuk pokaže blizance (ili više beba), **primalja** će s tobom proći dodatne preglede i ultrazvuke koji idu uz višeplodnu trudnoću. Odlazak na sve njih najbolji je način da budeš dobro zbrinuta.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Razumjeti njezin ciklus",
+      "aliases": [
+        "vodič kroz ciklus za partnere",
+        "ciklus za partnere",
+        "kako funkcionira njezin ciklus",
+        "podrška kroz njezin ciklus",
+        "menstrualni ciklus partnerice",
+        "faze ciklusa za partnere"
+      ],
+      "glance": "Njezino tijelo prolazi kroz mjesečni ciklus s četiri faze. Poznavanje osnova pomaže ti da je podržiš bez nagađanja.",
+      "overview": "Menstrualni ciklus je otprilike mjesečni ritam, u prosjeku oko 28 dana, ali često bilo gdje od 21 do 35, a normalno je za nju ono što je redovito kod *nje*. Odvija se u četiri faze: **menstrualna** faza (menstruacija), **folikularna** faza, **ovulacija** otprilike u sredini i **lutealna** faza prije sljedeće menstruacije.\n\nEnergija, raspoloženje, san i želja mogu se mijenjati kroz te faze jer hormoni rastu i padaju. To je biologija, a ne mana karaktera ni nešto zbog čega bi je trebalo zadirkivati. Neke žene osjete pravi pad u danima prije menstruacije, druge to jedva primijete. Ne postoji jedan „pravi“ način kako se osjećati.\n\nNe moraš postati stručnjak. Najviše pomaže nešto jednostavno: otprilike znaj u kojem je dijelu ciklusa (ova ti aplikacija to može pokazati, uz njezino dopuštenje), očekuj da će neki dani biti teži od drugih i pitaj je što *njoj* pomaže, umjesto da pretpostavljaš.",
+      "deep": "Nekoliko stvari koje vrijedi znati, kako prazninu ne bi popunili mitovi:\n\n- **„Ima menstruaciju“ nije uvreda ni objašnjenje za to što se s tobom ne slaže.** Korištenje njezina ciklusa za odbacivanje njezinih osjećaja („samo su ti hormoni“) izraz je nepoštovanja, a obično nije ni točno. Njezini razlozi i dalje su njezini razlozi.\n- **Ciklus utječe na više od same menstruacije.** Grčevi, glavobolje, osjetljive dojke, manjak energije ili lošije raspoloženje mogu biti dio toga. Praktična pomoć vrijedi više od savjeta.\n- **Praćenje ciklusa pripada njoj.** Ako s tobom dijeli svoj ciklus, gledaj na to kao na uvid u to kako bi se mogla osjećati, kao na poziv na dobrotu, a nikad kao na alat za nadziranje ili kontroliranje.\n- **Kad si u nedoumici, pitaj.** „Kako se danas osjećaš? Mogu li nešto učiniti?“ vrijedi više od bilo kakvog grafikona.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Suhoća rodnice",
+      "aliases": [
+        "suhoća rodnice",
+        "vaginalna suhoća",
+        "suhoća",
+        "atrofija rodnice",
+        "suha vagina",
+        "lubrikant",
+        "suhoća pri spolnom odnosu"
+      ],
+      "glance": "Suhoća rodnice česta je, često povezana s hormonima i može uzrokovati bolnost ili nelagodu tijekom spolnog odnosa.",
+      "overview": "Suhoća rodnice često je iskustvo koje mnoge žene u nekom trenutku imaju. Nastaje kad se smanji uobičajena vlažnost koja rodnicu održava ugodnom, a može se osjećati kao bolnost, svrbež ili nelagoda, uključujući bol ili nelagodu tijekom spolnog odnosa.\n\nČesto je povezana s hormonima, osobito s padom estrogena. Zato je česta oko menopauze i perimenopauze, ali može se javiti i tijekom dojenja, uz neke lijekove (poput određenih kontraceptiva ili antidepresiva) ili kad prije spolnog odnosa nema dovoljno uzbuđenja. Nema razloga za neugodu: to je tjelesna pojava, a ne odraz tebe ili tvoje veze.\n\nKad znaš da je česta i da se obično vrlo dobro liječi, imaš dobru polaznu točku. Postoje jednostavne mogućnosti koje mogu pomoći, a obiteljski liječnik ili ljekarnik mogu te uputiti na ono što ti odgovara.",
+      "deep": null,
+      "when_to_see_doctor": "Javi se obiteljskom liječniku ako:\n\n- te suhoća rodnice muči ili se ne smiri nakon nekoliko tjedana\n- utječe na tvoj svakodnevni ili spolni život\n- imaš i neuobičajen iscjedak ili bilo kakvo krvarenje nakon spolnog odnosa, između menstruacija ili nakon menopauze\n\nNe moraš to jednostavno trpjeti. Pomoć je dostupna, a liječnik može utvrditi što stoji iza toga i što bi to moglo ublažiti.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Zdravlje rodnice i stidnice",
+      "aliases": [
+        "zdravlje rodnice",
+        "zdravlje stidnice",
+        "intimna higijena",
+        "intimno pranje",
+        "ispiranje rodnice",
+        "iscjedak",
+        "vaginalno ispiranje"
+      ],
+      "glance": "Rodnica se sama čisti. Dovoljna joj je nježna njega izvana, a iscjedak je normalan.",
+      "overview": "Jedna od najumirujućih stvari koje treba znati jest da se rodnica brine sama za sebe. Prirodno se sama čisti, a iscjedak koji primjećuješ dio je toga: tekućina koja je održava čistom i vlažnom i pomaže je zaštititi od infekcija. Količina i konzistencija mijenjaju se tijekom ciklusa, što je potpuno normalno.\n\nZbog toga rodnicu ne treba prati iznutra. Zapravo, pranje iznutra, odnosno ispiranje rodnice, može poremetiti njezinu prirodnu ravnotežu. Vanjskom dijelu (stidnici) potrebna je samo nježna njega: topla voda i, ako želiš, blagi sapun bez mirisa. Mirisne sapune, gelove, dezodoranse i mirisne vlažne maramice bolje je izbjegavati jer mogu izazvati nadražaj.\n\nKad upoznaš što je za tebe normalno, svoj uobičajeni iscjedak, izgled i osjećaj, lakše ćeš primijetiti ako se nešto promijeni i možda treba provjeru.",
+      "deep": null,
+      "when_to_see_doctor": "Javi se obiteljskom liječniku ili u savjetovalište za spolno zdravlje ako primijetiš:\n\n- promjenu iscjetka: njegove boje, mirisa ili konzistencije, ili mnogo više iscjetka nego inače\n- svrbež, bolnost ili nadražaj oko rodnice ili stidnice\n- krvarenje između menstruacija ili nakon spolnog odnosa\n- bol pri mokrenju ili bol nisko dolje između trbuha i bedara (bol u zdjelici)\n\nTo je često i obično se lako liječi: promjena iscjetka može jednostavno značiti blagu infekciju poput gljivične infekcije rodnice. Pregled je način da to saznaš, umjesto da nagađaš.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Ciklus i njegove faze",
+      "summary": "Kako tvoj ciklus prolazi kroz menstrualnu, folikularnu, ovulacijsku i lutealnu fazu."
+    },
+    "hormones": {
+      "title": "Hormoni",
+      "summary": "Glasnici koji pokreću tvoj ciklus: estrogen, progesteron, LH i FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Plodnost i ovulacija",
+      "summary": "Plodni dani, znakovi ovulacije i ono što utječe na plodnost."
+    },
+    "contraception": {
+      "title": "Kontracepcija",
+      "summary": "Kako djeluju različite metode, jednostavnim riječima."
+    },
+    "symptoms-and-signals": {
+      "title": "Simptomi i signali tijela",
+      "summary": "Bol, oskudno krvarenje, iscjedak, raspoloženje: što ti tijelo možda poručuje."
+    },
+    "conditions": {
+      "title": "Stanja i bolesti",
+      "summary": "PCOS, endometrioza, miomi i drugo, objašnjeno uz izvore."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Spolno i intimno zdravlje",
+      "summary": "Intimna dobrobit, ugoda i česta pitanja."
+    },
+    "life-stages": {
+      "title": "Životna razdoblja",
+      "summary": "Od prve menstruacije do perimenopauze i menopauze."
+    },
+    "wellbeing": {
+      "title": "Dobrobit i ciklus",
+      "summary": "Kako su san, stres i svakodnevni život povezani s tvojim ciklusom."
+    },
+    "tests-and-exams": {
+      "title": "Pretrage i pregledi",
+      "summary": "Samopregled dojki, Papa test, ovulacijski testovi i drugo."
+    },
+    "pregnancy": {
+      "title": "Trudnoća",
+      "summary": "Rani znakovi, briga o sebi, znakovi upozorenja i gubitak trudnoće, objašnjeno uz izvore."
+    },
+    "for-partners": {
+      "title": "Za partnere",
+      "summary": "Razumjeti njezin ciklus, dobro je podržati i graditi vezu na poštovanju."
+    },
+    "safety-and-support": {
+      "title": "Sigurnost i podrška",
+      "summary": "Kako prepoznati zlostavljanje, zaštititi se i pronaći pomoć, uz brojeve za hitne slučajeve."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Upoznaj svoj ciklus u 5 koraka",
+      "summary": "Mirna šetnja kroz cijeli ciklus i svaku od njegove četiri faze."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Upoznavanje s ovulacijom",
+      "summary": "Objašnjenje ovulacije, plodnih dana i znakova koje ti tijelo daje."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormoni iza tvog ciklusa",
+      "summary": "Upoznaj četiri glasnika koji pokreću ciklus i saznaj što svaki od njih radi."
+    }
+  }
+}

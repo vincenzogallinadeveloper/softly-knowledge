@@ -1,0 +1,1459 @@
+{
+  "_meta": {
+    "lang": "vi",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Rượu bia khi mang thai",
+      "aliases": [
+        "rượu bia khi mang thai",
+        "uống rượu khi mang thai",
+        "bầu uống bia được không",
+        "rượu và thai kỳ",
+        "hội chứng rượu bào thai",
+        "FASD",
+        "bà bầu uống rượu"
+      ],
+      "glance": "Cách an toàn nhất là không uống bất kỳ loại rượu bia nào khi mang thai hoặc khi đang cố gắng có thai.",
+      "overview": "Lời khuyên của NHS rất rõ ràng và đơn giản: cách an toàn nhất là **hoàn toàn không uống rượu bia** nếu bạn đang mang thai hoặc đang cố gắng có thai. Không uống sẽ giữ mọi rủi ro cho em bé ở mức thấp nhất.\n\nLý do là rượu đi từ máu của bạn, qua nhau thai, đến em bé — mà gan của bé chưa phát triển đủ để xử lý rượu. Uống rượu bia khi mang thai có thể dẫn đến rối loạn phổ rượu ở thai nhi (FASD), một loạt khó khăn kéo dài suốt đời về học tập, hành vi và phát triển.\n\nNếu bạn đã uống trước khi biết mình có thai, đừng quá lo lắng: rủi ro cho em bé từ một lượng nhỏ trong giai đoạn đầu nhiều khả năng là thấp. Điều có ích đơn giản là tránh rượu bia trong suốt phần còn lại của thai kỳ, kể từ bây giờ.",
+      "deep": null,
+      "when_to_see_doctor": "- Nếu bạn thấy khó bỏ rượu bia, điều đó không có gì đáng xấu hổ — hãy nói với nữ hộ sinh hoặc bác sĩ gia đình. Họ có thể hỗ trợ bạn mà không phán xét, và việc tìm sự giúp đỡ là điều tốt cho cả bạn và em bé.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Chăm sóc trước sinh",
+      "aliases": [
+        "chăm sóc trước sinh",
+        "khám thai",
+        "khám thai định kỳ",
+        "lịch khám thai",
+        "khám thai lần đầu",
+        "hẹn gặp nữ hộ sinh",
+        "siêu âm thai"
+      ],
+      "glance": "Chăm sóc trước sinh là những lần khám định kỳ trong suốt thai kỳ, giúp bạn và em bé luôn khỏe mạnh.",
+      "overview": "Chăm sóc trước sinh là sự chăm sóc bạn nhận được trong thời gian mang thai để giữ cho bạn và em bé khỏe mạnh nhất có thể. Thông thường bạn sẽ gặp nữ hộ sinh, và cả bác sĩ nếu cần. Nên bắt đầu sớm: hãy liên hệ nữ hộ sinh hoặc bác sĩ gia đình ngay khi bạn biết mình có thai.\n\nBuổi hẹn chính thức đầu tiên — “buổi khám đăng ký” — thường vào khoảng tuần 8 đến tuần 12. Sau đó bạn sẽ được mời khám định kỳ: ít nhất 10 buổi hẹn và 2 lần siêu âm nếu đây là con đầu lòng, hoặc khoảng 7 buổi nếu bạn đã từng sinh con, với nhiều buổi hơn vào giai đoạn cuối.\n\nTrong các buổi khám này, nữ hộ sinh sẽ kiểm tra huyết áp và nước tiểu, đo bụng bầu để theo dõi sự phát triển của em bé, đề nghị các xét nghiệm sàng lọc, và trò chuyện với bạn về cử động của em bé cũng như cảm nhận của bạn. Nhiều vấn đề quan trọng — như tiền sản giật hay đái tháo đường thai kỳ — được phát hiện tại đây trước khi bạn nhận thấy bất cứ điều gì, và đó chính là lý do các buổi khám này quan trọng.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy liên hệ **nữ hộ sinh hoặc bác sĩ gia đình ngay khi bạn biết mình có thai** để việc chăm sóc được bắt đầu sớm — lý tưởng là kịp cho buổi hẹn đầu tiên trước khoảng tuần 10 đến tuần 12.\n- Cố gắng đi **đầy đủ** các buổi khám thai, kể cả khi bạn cảm thấy hoàn toàn khỏe — nhiều bước kiểm tra được thiết kế để phát hiện sớm những vấn đề thầm lặng.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Cử động của em bé",
+      "aliases": [
+        "thai máy",
+        "cử động thai",
+        "thai đạp",
+        "bé đạp",
+        "thai máy ít",
+        "đếm cử động thai",
+        "cảm nhận thai máy"
+      ],
+      "glance": "Cảm nhận em bé cử động là dấu hiệu bé khỏe — nếu cử động chậm lại hoặc thay đổi, hãy gọi cho nữ hộ sinh ngay lập tức.",
+      "overview": "Cảm nhận em bé cử động là một trong những dấu hiệu đáng yên tâm cho thấy bé đang khỏe. Hầu hết mọi người bắt đầu cảm nhận được cử động vào khoảng tuần 16 đến tuần 24 của thai kỳ — thường muộn hơn ở lần mang thai đầu, nên với lần đầu, việc cảm nhận được sau tuần 20 là chuyện thường gặp.\n\nKhông có con số cử động cố định nào mà bạn “phải” cảm nhận được, và cũng không cần đếm số cú đạp theo một mục tiêu nào. Mỗi em bé mỗi khác, và điều quan trọng là làm quen với nhịp cử động quen thuộc của **chính** em bé của bạn trong ngày — những lúc bé hiếu động và những lúc bé yên lặng.\n\nKhi đã biết nhịp đó, bất kỳ thay đổi nào so với nó chính là điều cần chú ý. Hãy tin vào những gì bạn biết về em bé của mình.",
+      "deep": null,
+      "when_to_see_doctor": "Làm quen với nhịp cử động bình thường của em bé giúp bạn nhận ra khi có thay đổi. Nếu có lúc nào bạn không chắc cử động của bé đã chậm lại hay thay đổi, gọi điện để kiểm tra luôn là việc đúng — bạn sẽ không bao giờ làm mất thời gian của bất kỳ ai.",
+      "red_flags": "- Nếu em bé **cử động ít hơn bình thường, cử động thay đổi, hoặc bạn không cảm nhận được bé cử động**, **hãy gọi ngay cho nữ hộ sinh hoặc khoa sản** — vào bất kỳ giờ nào, ngày hay đêm. **Đừng chờ đến hôm sau**, kể cả khi đang là nửa đêm.\n- Đừng dựa vào máy nghe tim thai tại nhà (doppler) hay một ứng dụng để tự trấn an — hãy đến để được kiểm tra trực tiếp."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Đau lưng khi mang thai",
+      "aliases": [
+        "đau lưng khi mang thai",
+        "đau lưng bầu",
+        "đau thắt lưng khi mang thai",
+        "bà bầu đau lưng",
+        "đau lưng dưới khi có thai",
+        "đau xương chậu khi mang thai"
+      ],
+      "glance": "Đau lưng rất thường gặp khi mang thai do dây chằng mềm ra và bụng bầu lớn dần — thường là vô hại.",
+      "overview": "Đau lưng là một trong những điều thường gặp nhất khi mang thai. Khi cơ thể chuẩn bị cho việc sinh nở, các dây chằng tự nhiên mềm ra và giãn ra, còn bụng bầu lớn dần làm thay đổi cách bạn mang trọng lượng cơ thể — cả hai điều này đều tạo thêm áp lực lên vùng lưng dưới và khung chậu.\n\nNhững điều đơn giản hằng ngày có thể giúp giảm đau: chú ý tư thế khi đứng, ngồi và nâng đồ; đi giày đế bằng, nâng đỡ tốt; dùng nệm chắc hoặc gối hỗ trợ; và vận động nhẹ nhàng, đều đặn như đi bộ, yoga bầu hoặc các bài tập trong lớp học. Nếu cơn đau thực sự gây trở ngại, một chuyên viên vật lý trị liệu sản khoa có thể đưa ra lời khuyên phù hợp riêng cho bạn.\n\nPhần lớn đau lưng khi mang thai không có gì đáng lo — nhưng có một vài dạng nên được kiểm tra sớm, và đó là mục đích của hướng dẫn bên dưới.",
+      "deep": null,
+      "when_to_see_doctor": "Hãy liên hệ sớm với **bác sĩ gia đình hoặc nữ hộ sinh** nếu cơn đau lưng của bạn:\n\n- **dữ dội**, hoặc xuất hiện trong **ba tháng giữa hoặc ba tháng cuối** của thai kỳ (đôi khi đây có thể là dấu hiệu chuyển dạ sớm)\n- kèm theo **sốt, ra máu âm đạo, hoặc đau khi đi tiểu**\n- **ở một hoặc hai bên hông, dưới xương sườn**",
+      "red_flags": "- Gọi **{{emergency}} hoặc đến khoa cấp cứu** nếu bạn **mất cảm giác ở chân, mông hoặc bộ phận sinh dục**, hoặc mất kiểm soát việc tiểu tiện hay đại tiện. Tình trạng này hiếm gặp nhưng cần được cấp cứu."
+    },
+    "basal-body-temperature": {
+      "title": "Nhiệt độ cơ thể cơ bản",
+      "aliases": [
+        "bbt",
+        "nhiệt độ cơ thể cơ bản",
+        "thân nhiệt cơ bản",
+        "nhiệt độ khi thức dậy",
+        "đo nhiệt độ rụng trứng",
+        "phương pháp đo thân nhiệt"
+      ],
+      "glance": "Nhiệt độ cơ thể cơ bản là thân nhiệt buổi sáng khi nghỉ ngơi, và nó tăng nhẹ sau khi rụng trứng.",
+      "overview": "Nhiệt độ cơ thể cơ bản (BBT) là thân nhiệt của bạn khi cơ thể hoàn toàn nghỉ ngơi. Nếu được đo theo cùng một cách mỗi ngày, nó cho thấy một thay đổi nhỏ nhưng có ý nghĩa trong suốt chu kỳ: sau khi rụng trứng, nhiệt độ tăng lên một chút và giữ ở mức đó cho đến kỳ kinh tiếp theo.\n\nMức tăng này nhỏ — khoảng 0,4 đến 0,8°F (xấp xỉ 0,2 đến 0,4°C) — nên cần đọc theo xu hướng trong nhiều ngày, không phải qua một lần đo. Để nhận ra nó, bạn đo nhiệt độ mỗi sáng trước khi ra khỏi giường, ăn hoặc uống, lý tưởng là vào cùng một giờ. Khoảng ba ngày sau khi nhiệt độ bắt đầu tăng, hầu như ai cũng đã rụng trứng.\n\nVì nhiệt độ tăng *sau khi* trứng được phóng ra, BBT giúp xác nhận rằng rụng trứng đã xảy ra chứ không dự đoán trước được. Qua vài chu kỳ, nó có thể giúp bạn thấy rõ hình dạng chu kỳ của chính mình, dù chỉ riêng nó thì không phải cách chính xác để xác định những ngày dễ thụ thai.",
+      "deep": "BBT là một trong những dấu hiệu nhận biết khả năng sinh sản được ghi lại hằng ngày, cùng với chất nhầy cổ tử cung và độ dài chu kỳ. Nó kết hợp tự nhiên với việc theo dõi chất nhầy: khi chất nhầy chuyển sang trong và trơn, đó là dấu hiệu cửa sổ thụ thai đang mở ra, còn việc nhiệt độ tăng vài ngày sau đó xác nhận rằng rụng trứng đã qua. Nhiều yếu tố có thể làm thay đổi nhẹ nhiệt độ khi nghỉ — ngủ không ngon, ốm, rượu bia hay ngủ nướng — nên từng kết quả bất thường riêng lẻ ít quan trọng hơn xu hướng chung.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Ra máu khi mang thai",
+      "aliases": [
+        "ra máu khi mang thai",
+        "chảy máu khi mang thai",
+        "ra máu âm đạo khi có thai",
+        "ra máu lấm tấm khi mang thai",
+        "bầu ra máu",
+        "ra huyết khi mang thai"
+      ],
+      "glance": "Ra máu khi mang thai không phải lúc nào cũng nghiêm trọng — ra máu lấm tấm nhẹ khá thường gặp ở giai đoạn đầu — nhưng luôn cần đi khám để được kiểm tra.",
+      "overview": "Ra máu từ âm đạo trong thai kỳ không phải lúc nào cũng là dấu hiệu có vấn đề. Ra máu nhẹ hoặc ra máu lấm tấm khá thường gặp, đặc biệt ở giai đoạn đầu thai kỳ, và nhiều thai kỳ vẫn tiếp tục hoàn toàn bình thường sau đó.\n\nDù vậy, ra máu đôi khi có thể là dấu hiệu của một vấn đề — như sảy thai hoặc mang thai ngoài tử cung — nên đây là điều **luôn cần được kiểm tra**, dù lượng máu nhiều hay ít. Được thăm khám là cách để tìm ra nguyên nhân và để bạn nhanh chóng nhận được sự chăm sóc phù hợp nếu cần.\n\nVì cùng một triệu chứng có thể mang những ý nghĩa rất khác nhau, việc nên làm không phải là tự đoán — mà là liên hệ và được khám.",
+      "deep": null,
+      "when_to_see_doctor": "- **Hãy luôn liên hệ khoa sản** (hoặc, nếu thai dưới 20 tuần hay bạn không có số của họ, hãy liên hệ phòng khám thai sớm hoặc **bác sĩ trực ngoài giờ**) nếu bạn có **bất kỳ** hiện tượng ra máu âm đạo nào khi mang thai, kể cả ra máu lấm tấm nhẹ — để được kiểm tra nguyên nhân.",
+      "red_flags": "- Gọi **{{emergency}} hoặc đến khoa cấp cứu** nếu bạn **ra máu nhiều** — ví dụ băng vệ sinh bị thấm đẫm máu ngay sau khi vừa thay — đặc biệt khi kèm theo **đau bụng dữ dội, đau ở đầu vai, hoặc cảm thấy buồn nôn, choáng như sắp ngất, chóng mặt hay mất ý thức.** Tình trạng này cần được cấp cứu."
+    },
+    "breast-awareness": {
+      "title": "Tự theo dõi bầu ngực",
+      "aliases": [
+        "tự khám vú",
+        "kiểm tra vú",
+        "tự kiểm tra ngực",
+        "khám vú tại nhà",
+        "u vú",
+        "nổi cục ở ngực",
+        "phát hiện sớm ung thư vú"
+      ],
+      "glance": "Tự theo dõi bầu ngực đơn giản là biết bầu ngực của bạn bình thường trông và cảm giác ra sao, để bạn nhận ra khi có thay đổi.",
+      "overview": "Tự theo dõi bầu ngực không phải là một kỹ thuật đặc biệt — mà chỉ là làm quen với những gì bình thường đối với bạn, để bất cứ điều gì mới lạ đều dễ nhận ra. Kiểm tra vú hoặc ngực thường xuyên giúp bạn biết hình dáng và cảm giác thông thường của chúng; mỗi tháng một lần là nhịp phù hợp.\n\nKhông có một cách “đúng” duy nhất. Nhiều người đứng trước gương, lúc thả tay xuống rồi lúc giơ tay lên, và sờ nắn từng bên vú, lên đến tận nách. Điều bạn đang xây dựng là sự quen thuộc, không phải chẩn đoán — mục tiêu chỉ là nhận ra thay đổi sớm nếu có.\n\nBầu ngực cũng thay đổi tự nhiên theo chu kỳ và qua các giai đoạn cuộc đời, nên có những thay đổi hoàn toàn bình thường. Ý nghĩa của việc tự theo dõi là hiểu rõ trạng thái bình thường của chính mình để nhận ra điều gì đó không bình thường.",
+      "deep": null,
+      "when_to_see_doctor": "Hãy đi khám bác sĩ gia đình nếu bạn nhận thấy bất kỳ thay đổi nào không bình thường với bạn, chẳng hạn như:\n\n- một khối u hoặc chỗ sưng ở vú, ngực hoặc nách\n- thay đổi trên da, như da bị lõm (có thể trông giống vỏ cam) hoặc ửng đỏ\n- thay đổi về kích thước hoặc hình dạng của một hoặc cả hai bên vú\n- tiết dịch ở núm vú (nếu bạn không mang thai hay cho con bú), có thể lẫn máu\n- thay đổi về hình dạng núm vú, chẳng hạn núm vú bị tụt vào trong\n- đau ở vú hoặc nách không hết\n\nPhần lớn các thay đổi ở vú không phải ung thư và hóa ra là vô hại — nhưng luôn nên đi kiểm tra sớm khi có thay đổi, vì nếu có điều gì cần chú ý thì phát hiện sớm sẽ có lợi.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Nuôi con bằng sữa mẹ",
+      "aliases": [
+        "cho con bú",
+        "nuôi con bằng sữa mẹ",
+        "sữa mẹ",
+        "bú mẹ",
+        "cho bé bú",
+        "nuôi con bằng sữa"
+      ],
+      "glance": "Sữa mẹ bảo vệ em bé khỏi nhiễm trùng và thay đổi theo sự lớn lên của bé — và bất kỳ lượng sữa nào cũng có lợi.",
+      "overview": "Sữa mẹ là nguồn thức ăn tự nhiên và đầy đủ cho em bé: nó cung cấp dinh dưỡng, vitamin và khoáng chất bé cần, và thay đổi theo thời gian để phù hợp với từng giai đoạn của bé. Sữa mẹ còn giúp bảo vệ bé khỏi nhiễm trùng và bệnh tật, đồng thời mang lại một số lợi ích sức khỏe lâu dài.\n\nNgười cho con bú cũng được hưởng lợi — cho con bú có liên quan đến việc giảm nguy cơ ung thư vú và ung thư buồng trứng, cùng nhiều lợi ích khác — và nhìn chung, bạn cho con bú càng nhiều và càng lâu thì lợi ích càng lớn. Quan trọng là, **bất kỳ** lượng sữa mẹ nào cũng đáng giá; đây không phải chuyện “được ăn cả, ngã về không”.\n\nLúc đầu, việc cho con bú có thể khó khăn hơn bạn nghĩ, và điều đó rất thường gặp. Luôn có sự giúp đỡ — từ nữ hộ sinh, điều dưỡng thăm khám tại nhà và các dịch vụ hỗ trợ nuôi con bằng sữa mẹ tại địa phương — nên hãy tìm sự hỗ trợ sớm nếu mọi việc không suôn sẻ.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy nhờ **nữ hộ sinh hoặc điều dưỡng thăm khám tại nhà** giúp đỡ sớm nếu việc cho bú gây đau hoặc khó khăn, hoặc bạn lo rằng bé không bú đủ — sự hỗ trợ có thể tạo ra khác biệt thực sự.\n- Cách bạn nuôi con là quyết định của riêng bạn, và bạn luôn được hỗ trợ dù chọn cách nào; điều quan trọng là bạn và em bé đều khỏe mạnh.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Khí hư màu nâu",
+      "aliases": [
+        "khí hư màu nâu",
+        "huyết trắng màu nâu",
+        "ra dịch màu nâu",
+        "ra máu nâu",
+        "máu kinh màu nâu",
+        "ra máu lấm tấm màu nâu",
+        "ra dịch nâu đen"
+      ],
+      "glance": "Khí hư màu nâu thường là một chút máu, hay gặp vào những ngày kinh ra ít. Ra máu lấm tấm màu nâu vào những thời điểm khác thì nên đi khám.",
+      "overview": "Khí hư màu nâu là một lượng nhỏ máu hoặc dịch có màu nâu mà bạn thấy trên quần lót hoặc trên giấy vệ sinh. Nhiều người gặp điều này vào một lúc nào đó, và rất thường thì nó đơn giản chỉ là một phần của kỳ kinh.\n\nMáu kinh không phải lúc nào cũng đỏ tươi. Vào những ngày ra nhiều nhất, máu thường có màu đỏ, nhưng vào những ngày ra ít, máu có thể có màu hồng hoặc nâu. Vì vậy, dịch hơi ngả nâu vào những ngày kinh ra ít là điều thường gặp và bình thường.\n\nMàu nâu cũng có thể xuất hiện vào những thời điểm khác. Ra máu lấm tấm là những đốm máu nhỏ màu hồng, đỏ hoặc nâu, và ra máu lấm tấm giữa các kỳ kinh có một số nguyên nhân thường gặp. Biện pháp tránh thai bằng nội tiết tố, như thuốc tránh thai hằng ngày, là một nguyên nhân phổ biến. Các nguyên nhân khác gồm những khối tăng sinh nhỏ trong hoặc quanh tử cung (như polyp hoặc u xơ tử cung) và các bệnh nhiễm trùng như chlamydia. Ở giai đoạn rất sớm của thai kỳ, một số người thấy ra chút máu lấm tấm vào khoảng thời gian lẽ ra đến kỳ kinh. Hiện tượng này được gọi là chảy máu báo thai (máu làm tổ).\n\nVì ra máu lấm tấm màu nâu ngoài kỳ kinh có thể do nhiều nguyên nhân khác nhau, phần lớn là nhẹ, nên việc có ích không phải là tự đoán. Mà là đi khám, để bạn biết nguyên nhân thực sự trong trường hợp của mình.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy đi khám bác sĩ gia đình hoặc phòng khám sức khỏe tình dục nếu bạn **ra máu lấm tấm hoặc ra máu màu nâu giữa các kỳ kinh hoặc sau khi quan hệ tình dục**, kể cả khi chỉ ra ít. Thường thì không nghiêm trọng, nhưng luôn nên đi kiểm tra.\n- Nếu bạn **đang mang thai, hoặc có thể đang mang thai**, hãy liên hệ khoa sản, phòng khám thai sớm hoặc **bác sĩ trực ngoài giờ** về bất kỳ hiện tượng ra máu lấm tấm nào, kể cả màu nâu, để được kiểm tra nguyên nhân.\n- Hãy đi khám bác sĩ gia đình nếu bạn thấy **bất kỳ dịch màu nâu hoặc hồng hay ra máu nào sau khi đã mãn kinh**, kể cả khi chỉ một lượng nhỏ hoặc chỉ xảy ra một lần.\n- Hãy hỏi ý kiến bác sĩ gia đình, phòng khám sức khỏe tình dục hoặc bác sĩ trực ngoài giờ nếu khí hư của bạn **thay đổi màu sắc, mùi hoặc độ đặc**, hoặc kèm theo ngứa, đau rát, đau vùng chậu hoặc đau khi đi tiểu.",
+      "red_flags": "- Hãy xin một buổi hẹn **khẩn** với bác sĩ gia đình, hoặc liên hệ **bác sĩ trực ngoài giờ**, nếu bạn **vừa bị trễ kinh và ra máu bất thường kèm theo đau bụng hoặc đau vùng chậu**. Tình trạng này cần được kiểm tra nhanh chóng, vì có thể là dấu hiệu của mang thai ngoài tử cung.\n- Nếu bạn đang mang thai, hãy gọi **{{emergency}}** nếu bạn ra máu và bị **đau bụng dữ dội, đau ở vai, cảm thấy choáng như sắp ngất, chóng mặt hoặc buồn nôn, hoặc ra máu nhiều** (băng vệ sinh bị thấm đẫm máu ngay sau khi vừa thay)."
+    },
+    "cervical-mucus": {
+      "title": "Chất nhầy cổ tử cung",
+      "aliases": [
+        "chất nhầy cổ tử cung",
+        "khí hư",
+        "huyết trắng",
+        "dịch âm đạo",
+        "dịch tiết cổ tử cung",
+        "chất nhầy lòng trắng trứng",
+        "dịch nhầy rụng trứng"
+      ],
+      "glance": "Chất nhầy cổ tử cung là dịch tiết tự nhiên thay đổi trong suốt chu kỳ và báo hiệu những ngày dễ thụ thai của bạn.",
+      "overview": "Chất nhầy cổ tử cung là dịch do cổ tử cung tạo ra, mà bạn có thể nhận thấy dưới dạng khí hư. Điều này bình thường, và hình dạng cũng như cảm giác của nó thay đổi theo một quy luật khá dễ đoán trong suốt chu kỳ — đó là lý do nó là một trong những dấu hiệu được dùng để nhận biết những ngày dễ thụ thai.\n\nNgay sau kỳ kinh thường có vài ngày “khô” với rất ít chất nhầy. Khi một trứng bắt đầu trưởng thành, chất nhầy tăng lên và thường có màu trắng hoặc vàng, đục và dính. Trong những ngày ngay trước khi rụng trứng, nó thường chuyển sang trong, ướt và trơn, kéo giãn được giữa các ngón tay như lòng trắng trứng sống — đây là thời điểm dễ thụ thai nhất. Sau khi rụng trứng, nó thường lại trở nên dính và đục, hoặc khô đi.\n\nQuy luật của mỗi người mỗi khác một chút, và có thể mất vài chu kỳ để ý mới nắm được quy luật của riêng bạn. Một số yếu tố — như biện pháp tránh thai bằng nội tiết tố, cho con bú, hoặc nhiễm trùng — có thể làm thay đổi chất nhầy, nên đây không phải là dấu hiệu khả năng sinh sản đáng tin cậy với tất cả mọi người.",
+      "deep": "Quan sát chất nhầy cổ tử cung là một trong những dấu hiệu nhận biết khả năng sinh sản mà mọi người theo dõi, cùng với thân nhiệt khi nghỉ ngơi và độ dài chu kỳ; thường mất hai đến ba chu kỳ để học cách đọc chúng. Khác với việc nhiệt độ tăng — chỉ xác nhận rụng trứng sau khi nó đã xảy ra — sự chuyển sang chất nhầy trong, trơn như lòng trắng trứng thường xuất hiện *trước* khi rụng trứng, đó là lý do nó được dùng để báo hiệu cửa sổ thụ thai khi vừa mở ra thay vì sau khi đã đóng lại.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Sàng lọc ung thư cổ tử cung (phết tế bào)",
+      "aliases": [
+        "sàng lọc ung thư cổ tử cung",
+        "tầm soát ung thư cổ tử cung",
+        "xét nghiệm phết tế bào cổ tử cung",
+        "phết tế bào",
+        "xét nghiệm pap",
+        "pap smear",
+        "xét nghiệm HPV"
+      ],
+      "glance": "Sàng lọc ung thư cổ tử cung là bước kiểm tra định kỳ sức khỏe của cổ tử cung, giúp phòng ngừa ung thư cổ tử cung.",
+      "overview": "Sàng lọc ung thư cổ tử cung là một xét nghiệm kiểm tra sức khỏe của cổ tử cung — phần mở vào tử cung nằm ở đỉnh âm đạo. Đây không phải là xét nghiệm chẩn đoán ung thư. Thay vào đó, nó là cách phát hiện sớm những thay đổi và giúp ngăn ung thư cổ tử cung hình thành ngay từ đầu.\n\nTất cả những ai có cổ tử cung đều được mời sàng lọc từ 25 tuổi đến 64 tuổi. Bạn sẽ nhận được thư mời khi đến hạn, theo những khoảng thời gian đều đặn, nên bạn không cần tự nhớ để đặt lịch — dù việc có đi hay không luôn là lựa chọn của bạn.\n\nBản thân xét nghiệm diễn ra nhanh và do một điều dưỡng thực hiện. Nhiều người cảm thấy hơi lo lắng, điều này hoàn toàn dễ hiểu; biết rõ mục đích của nó — một bước kiểm tra phòng ngừa định kỳ — có thể giúp bạn thấy nhẹ nhàng hơn.",
+      "deep": null,
+      "when_to_see_doctor": "- Sàng lọc dành cho khi bạn **không** có triệu chứng. Nếu giữa các lần sàng lọc bạn nhận thấy điều gì khiến bạn lo lắng — chẳng hạn ra máu bất thường (giữa các kỳ kinh, sau khi quan hệ tình dục, hoặc sau mãn kinh) — hãy đi khám bác sĩ gia đình thay vì chờ đến lần mời tiếp theo.\n- Nếu bạn đã được mời và còn phân vân hoặc lo lắng về việc đi sàng lọc, hãy trò chuyện với bác sĩ gia đình hoặc điều dưỡng tại phòng khám, họ có thể giải thích quy trình và trả lời các câu hỏi của bạn.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Xâm hại trẻ em & bảo vệ trẻ an toàn",
+      "aliases": [
+        "xâm hại trẻ em",
+        "bạo hành trẻ em",
+        "ngược đãi trẻ em",
+        "bảo vệ trẻ em",
+        "lo lắng cho một đứa trẻ",
+        "bỏ bê trẻ em",
+        "xâm hại tình dục trẻ em"
+      ],
+      "glance": "Nếu bạn lo rằng một đứa trẻ có thể đang bị tổn hại hoặc bị bỏ bê, tìm lời khuyên là việc đúng đắn — bạn không cần phải chắc chắn.",
+      "overview": "Xâm hại trẻ em — hay ngược đãi trẻ em — là mọi sự tổn hại đối với người dưới 18 tuổi. Nó bao gồm xâm hại về thể chất, tình dục và tinh thần, cũng như sự bỏ bê (không đáp ứng các nhu cầu cơ bản của trẻ). Đáng buồn là điều này khá phổ biến, có thể gây tổn hại suốt đời, và không bao giờ là lỗi của đứa trẻ.\n\nBạn có thể đang lo lắng về một đứa trẻ trong cuộc sống của mình, hoặc về một đứa trẻ mà bạn tình cờ để ý. Bạn không cần phải chắc chắn hay có bằng chứng mới hành động trước mối lo đó — tin vào nó và hỏi xin lời khuyên chính là điều đúng đắn, và điều đó có thể bảo vệ một đứa trẻ.\n\nVà nếu chính bạn từng bị xâm hại khi còn nhỏ, hãy biết rằng sự tổn hại đó không bao giờ là lỗi của bạn, và luôn có sự hỗ trợ dành cho bạn, ở bất kỳ độ tuổi nào.",
+      "deep": null,
+      "when_to_see_doctor": "- Nếu bạn lo lắng cho một đứa trẻ, bạn có thể liên hệ **cơ quan bảo vệ trẻ em / dịch vụ xã hội**, một **đường dây nóng bảo vệ trẻ em** chuyên biệt, hoặc **bác sĩ gia đình, điều dưỡng thăm khám tại nhà, hoặc trường học của trẻ** để được tư vấn — một cách bảo mật.\n- Bạn không hề “làm quá” khi hỏi. Kiểm tra vẫn tốt hơn là chờ đợi.",
+      "red_flags": "- Nếu một đứa trẻ đang gặp **nguy hiểm tức thời** hoặc bị thương nặng, hãy liên hệ dịch vụ khẩn cấp ngay: **112** ở EU (bao gồm Ý), **999** ở Vương quốc Anh, **911** ở Mỹ và Canada."
+    },
+    "coercive-control": {
+      "title": "Kiểm soát cưỡng ép",
+      "aliases": [
+        "kiểm soát cưỡng ép",
+        "hành vi kiểm soát",
+        "bạo hành tinh thần",
+        "bạo hành tâm lý",
+        "bị cô lập",
+        "bạo hành kinh tế",
+        "thao túng tâm lý",
+        "gaslighting"
+      ],
+      "glance": "Kiểm soát cưỡng ép là một chuỗi hành vi kiểm soát — cô lập, theo dõi, đe dọa — và được công nhận là một hình thức bạo hành.",
+      "overview": "Kiểm soát cưỡng ép là một hình thức bạo hành vận hành thông qua sự kiểm soát thay vì, hoặc cùng với, tổn hại thể chất. Đó là một chuỗi hành vi — không phải một trận cãi vã đơn lẻ — trong đó một người dần dần hạn chế sự tự do và ý thức về bản thân của người kia.\n\nNó có thể biểu hiện qua việc bạn bị cắt đứt liên lạc với bạn bè và gia đình, bị theo dõi hoặc hạn chế điện thoại, việc đi lại hay chi tiêu, bị bảo phải mặc gì hay cư xử thế nào, hoặc phải sống trong sự chỉ trích, đe dọa hay uy hiếp liên tục. Vì có thể không có vết bầm nào nên rất khó gọi tên, và người khác có thể không nhận ra — nhưng đây được công nhận là bạo hành, và có thể gây tổn hại không kém bạo lực thể chất.\n\nNếu bạn nhận ra một vài điều trong số này, đó không phải là dấu hiệu bạn quá nhạy cảm hay bạn tự chuốc lấy. Hành vi kiểm soát là lựa chọn của người kia. Hiểu đúng bản chất của nó có thể là bước đầu tiên để tìm đến sự hỗ trợ.",
+      "deep": "Kiểm soát cưỡng ép thường hình thành từ từ, và đó là một phần lý do khiến người trong cuộc khó nhận ra — những sự kiểm soát nhỏ dần trở thành bình thường, và sự nghi ngờ bản thân lớn dần. Theo thời gian, nó bào mòn sức khỏe tinh thần. Trò chuyện với một người được đào tạo để hiểu những hành vi này có thể giúp bạn nhìn nhận tình huống rõ ràng hơn và suy nghĩ về điều bạn muốn làm tiếp theo, mà không bị áp lực.",
+      "when_to_see_doctor": "- Một trung tâm chống bạo lực hoặc đường dây hỗ trợ (ở Ý là **1522**) có thể lắng nghe những gì bạn đang trải qua, bảo mật và miễn phí, và giúp bạn hiểu các lựa chọn của mình — bạn không cần phải đang gặp nguy hiểm về thể chất mới được liên hệ.\n- Bác sĩ gia đình hoặc chuyên viên tư vấn tâm lý cũng có thể hỗ trợ bạn và giới thiệu bạn đến các dịch vụ chuyên biệt.",
+      "red_flags": "- Nếu bạn đang gặp **nguy hiểm tức thời**, hãy liên hệ dịch vụ khẩn cấp ngay: **112** ở EU (bao gồm Ý), **999** ở Vương quốc Anh, **911** ở Mỹ và Canada.\n- Ở Ý, **1522** miễn phí, hoạt động 24 giờ mỗi ngày, ẩn danh và hỗ trợ nhiều ngôn ngữ — qua điện thoại hoặc trò chuyện trực tuyến."
+    },
+    "combined-pill": {
+      "title": "Thuốc tránh thai kết hợp",
+      "aliases": [
+        "thuốc tránh thai kết hợp",
+        "thuốc tránh thai",
+        "thuốc tránh thai hằng ngày",
+        "viên uống tránh thai",
+        "thuốc ngừa thai",
+        "COC"
+      ],
+      "glance": "Thuốc tránh thai kết hợp là viên uống hằng ngày chứa hai loại nội tiết tố, chủ yếu có tác dụng ngăn rụng trứng.",
+      "overview": "Thuốc tránh thai kết hợp là viên uống hằng ngày chứa hai loại nội tiết tố — các dạng estrogen và progestogen, tương tự những nội tiết tố do buồng trứng tạo ra. Đây là một trong những biện pháp tránh thai quen thuộc nhất.\n\nThuốc ngăn mang thai theo nhiều cách cùng lúc. Chủ yếu, nó ngăn buồng trứng phóng thích trứng (rụng trứng). Nó cũng làm đặc chất nhầy ở cổ tử cung, khiến tinh trùng khó đi qua hơn, và làm mỏng niêm mạc tử cung.\n\nHiệu quả của thuốc phụ thuộc vào việc uống đúng hướng dẫn: hiệu quả trên 99% nếu dùng hoàn hảo, nhưng với cách dùng thông thường hằng ngày — khi đôi lúc quên uống hoặc uống muộn — hiệu quả vào khoảng 91%. Như hầu hết các biện pháp khác, thuốc không bảo vệ khỏi các bệnh lây truyền qua đường tình dục, nên một số người dùng thêm bao cao su.",
+      "deep": "Thuốc tránh thai kết hợp thường được uống theo một lịch cố định trong tháng, và cách uống, ai phù hợp, cũng như tác dụng phụ và rủi ro là những điều nhân viên y tế sẽ trao đổi khi kê đơn — thuốc không phù hợp với tất cả mọi người. Vì là biện pháp dùng hằng ngày, hiệu quả thực tế của nó phụ thuộc nhiều vào thói quen. Bài viết này giải thích thuốc là gì và hoạt động ra sao; còn chi tiết về việc bắt đầu, cách uống hay ngừng thuốc là điều cần trao đổi với bác sĩ gia đình, điều dưỡng hoặc dược sĩ.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Các triệu chứng thường gặp khi mang thai",
+      "aliases": [
+        "triệu chứng khi mang thai",
+        "khó chịu khi mang thai",
+        "ợ nóng khi mang thai",
+        "đau lưng khi mang thai",
+        "phù chân khi mang thai",
+        "táo bón khi mang thai",
+        "chuột rút khi mang thai",
+        "mệt mỏi khi mang thai"
+      ],
+      "glance": "Mang thai đi kèm nhiều cơn đau nhức và thay đổi nhỏ — phần lớn là bình thường, dù có một vài điều nên đi khám.",
+      "overview": "Mang thai là rất nhiều thay đổi đối với cơ thể bạn, và đi kèm với đó là một danh sách dài những khó chịu hằng ngày. Phần lớn đều thường gặp và không phải dấu hiệu có gì bất ổn — chúng chỉ là một phần của quá trình nuôi dưỡng em bé.\n\nNhững khó chịu quen thuộc gồm đau lưng, ợ nóng và khó tiêu, táo bón, trĩ, sưng phù mắt cá chân, bàn chân và ngón tay, mệt mỏi và giấc ngủ chập chờn, chuột rút ở chân, đau đầu, cảm giác choáng, và ra nhiều khí hư hơn bình thường. Nhiều điều trong số này dịu đi nhờ những biện pháp nhỏ giúp dễ chịu hơn, và nữ hộ sinh có thể gợi ý những cách an toàn nếu có điều gì làm bạn khó chịu.\n\nĐiều hữu ích là biết thay đổi nào là bình thường và thay đổi nào nên báo lại — vì một vài triệu chứng, dù ít gặp hơn, thực sự cần được kiểm tra thay vì chờ cho qua.",
+      "deep": null,
+      "when_to_see_doctor": "Phần lớn những điều này là bình thường, nhưng hãy liên hệ sớm với **nữ hộ sinh hoặc khoa sản** nếu bạn có:\n\n- **ra máu âm đạo**, hoặc dịch đột ngột trào ra hay rỉ ra\n- **em bé cử động ít hơn** bình thường\n- **đau đầu dữ dội, rối loạn thị giác, hoặc sưng phù đột ngột** ở mặt, tay hoặc chân (có thể là dấu hiệu của tiền sản giật)\n- **đau bụng dữ dội hoặc đau một bên**, hoặc **sốt**\n- **ngứa**, đặc biệt ở lòng bàn tay và bàn chân hoặc ngứa nặng hơn vào ban đêm (có thể là dấu hiệu của một bệnh lý gan trong thai kỳ cần được kiểm tra)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Bao cao su",
+      "aliases": [
+        "bao cao su",
+        "bcs",
+        "áo mưa",
+        "bao cao su nam",
+        "bao cao su nữ",
+        "biện pháp rào cản"
+      ],
+      "glance": "Bao cao su là một biện pháp rào cản — và là loại biện pháp tránh thai duy nhất đồng thời bảo vệ khỏi các bệnh lây truyền qua đường tình dục.",
+      "overview": "Bao cao su là một lớp màng chắn mỏng — thường làm bằng latex, hoặc bằng chất liệu nhựa thay thế cho những người dị ứng latex — được đeo vào dương vật khi quan hệ tình dục. Cách hoạt động rất đơn giản: nó ngăn tinh trùng đi vào âm đạo.\n\nĐiều khiến bao cao su đặc biệt trong số các biện pháp tránh thai là chúng là **biện pháp duy nhất đồng thời bảo vệ khỏi các bệnh lây truyền qua đường tình dục (STI), bao gồm HIV.** Đó là lý do bao cao su thường được dùng cùng với một biện pháp khác — một biện pháp để tránh thai, còn dùng cả hai cùng lúc để phòng nhiễm trùng.\n\nNếu được dùng đúng cách mọi lần, bao cao su có hiệu quả tránh thai khoảng 98%. Với cách dùng thông thường — khi đôi lúc dùng sai hoặc không phải lần nào cũng dùng — hiệu quả giảm xuống còn khoảng 82%. Dùng đúng cách và đều đặn chính là điều tạo nên khác biệt.",
+      "deep": "Vì bao cao su được dùng ngay lúc quan hệ chứ không phải từ trước, hiệu quả thực tế của chúng phụ thuộc rất nhiều vào việc dùng đúng và đều đặn. Bao cao su nữ (đặt bên trong âm đạo) là một lựa chọn rào cản khác. Không giống hầu hết các biện pháp khác, bao cao su không cần đơn thuốc và dễ mua ở nhiều nơi, và vai trò kép của chúng — tránh thai và phòng bệnh lây truyền qua đường tình dục — là lý do chúng thường được nhắc đến trong các cuộc trò chuyện về tình dục an toàn.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Sự đồng thuận và tôn trọng",
+      "aliases": [
+        "đồng thuận",
+        "sự đồng ý",
+        "tôn trọng ranh giới của cô ấy",
+        "đồng thuận trong tình dục",
+        "đồng ý quan hệ",
+        "quyền tự quyết về cơ thể"
+      ],
+      "glance": "Đồng thuận là một lời “đồng ý” rõ ràng, tự nguyện và hào hứng — mỗi lần, và có thể được rút lại bất cứ lúc nào.",
+      "overview": "Sự tôn trọng bắt đầu từ quyền của cô ấy được tự quyết định về cơ thể mình — luôn luôn. Đồng thuận cho sự thân mật nghĩa là một lời **đồng ý** được đưa ra tự nguyện, có hiểu biết và hào hứng. Im lặng không phải là đồng thuận. Một câu “thôi cũng được” miễn cưỡng không phải là đồng thuận. Người đang ngủ, say xỉn nặng hoặc đang bị ép buộc không thể thực sự đồng thuận. Và một lời đồng ý cho một việc, hay vào một ngày, không phải là đồng ý cho mọi việc hay cho lần sau.\n\nSự đồng thuận có thể được rút lại vào bất kỳ lúc nào, và “dừng lại” hay “tối nay thì không” là một câu trả lời trọn vẹn, không cần giải thích. Gây áp lực, khiến cô ấy cảm thấy tội lỗi, hờn dỗi cho đến khi cô ấy chiều theo, hay coi tình dục là thứ bạn đương nhiên được hưởng đều là không ổn — một mối quan hệ không phải là một món nợ.",
+      "deep": "Sự tôn trọng trong thực tế trông như thế nào:\n\n- **Hãy hỏi, và hỏi lại trong lúc đó.** “Như thế này có ổn không?” và chú ý đến cách cô ấy phản hồi — cả lời nói lẫn cơ thể.\n- **Đón nhận lời “không” một cách tử tế.** Không phụng phịu, không gây áp lực, không trừng phạt. Câu trả lời của cô ấy là dấu chấm hết.\n- **Sự hào hứng rất quan trọng.** Nếu cô ấy có vẻ không chắc chắn, ngập ngừng hoặc chỉ đang chiều theo, hãy dừng lại và hỏi.\n- **Cơ thể của cô ấy, quyết định của cô ấy** — về sự thân mật, tránh thai, mang thai, sức khỏe, ngoại hình và những lựa chọn của cô ấy. Bạn có tiếng nói trong cuộc sống chung, nhưng không bao giờ có quyền phủ quyết đối với cơ thể cô ấy.\n- **Tôn trọng là điều của mỗi ngày.** Cách bạn nói chuyện với cô ấy, nói về cô ấy, và tôn trọng ranh giới của cô ấy trong những điều nhỏ nhặt là nền tảng cho mọi thứ khác.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Tránh thai",
+      "aliases": [
+        "tránh thai",
+        "biện pháp tránh thai",
+        "ngừa thai",
+        "kế hoạch hóa gia đình",
+        "các cách tránh thai",
+        "phòng tránh thai"
+      ],
+      "glance": "Tránh thai là những cách khác nhau để ngăn mang thai — và có rất nhiều lựa chọn.",
+      "overview": "Tránh thai — đôi khi còn gọi là ngừa thai — là tập hợp các biện pháp dùng để ngăn mang thai. Có rất nhiều biện pháp, và chúng hoạt động theo những cách khác nhau: một số dùng nội tiết tố, một số là rào cản, một số được đặt bên trong tử cung, và một số dựa trên việc theo dõi chu kỳ.\n\nHiệu quả của một biện pháp phụ thuộc nhiều vào cách sử dụng. Một số biện pháp — như que cấy tránh thai và các loại vòng tránh thai (dụng cụ tử cung) — thuộc loại “đặt xong là yên tâm”, và có hiệu quả trên 99%. Những biện pháp khác, như thuốc tránh thai hằng ngày hay bao cao su, rất hiệu quả khi được dùng hoàn hảo, nhưng kém hơn một chút với cách dùng thông thường hằng ngày, vì rất dễ quên uống một viên thuốc hoặc dùng bao cao su sai cách.\n\nMột điều nên biết: **chỉ có bao cao su là đồng thời bảo vệ khỏi các bệnh lây truyền qua đường tình dục (STI)**. Các biện pháp khác ngăn mang thai nhưng không ngăn nhiễm trùng, đó là lý do đôi khi bao cao su được dùng cùng với một biện pháp khác.\n\nKhông có biện pháp nào “tốt nhất” cho tất cả — biện pháp phù hợp tùy thuộc vào sức khỏe, cơ thể và nhịp sống của bạn. Bác sĩ gia đình hoặc phòng khám sức khỏe tình dục có thể giải thích các lựa chọn và giúp bạn chọn.",
+      "deep": "Vì các biện pháp khác nhau rất nhiều, sẽ hữu ích nếu bạn nghĩ xem điều gì quan trọng với mình: hiệu quả đến đâu, có cần nhớ làm gì đó hằng ngày không, tác dụng kéo dài bao lâu, bạn có muốn dùng nội tiết tố hay không, và việc phòng bệnh lây truyền qua đường tình dục có quan trọng trong hoàn cảnh của bạn không. Nhiều người thay đổi biện pháp trong suốt cuộc đời khi nhu cầu thay đổi. Kho kiến thức này mô tả cách các biện pháp phổ biến hoạt động để các lựa chọn trở nên rõ ràng hơn — nhưng quyết định, cũng như việc kê đơn hay đặt dụng cụ, là điều cần làm cùng nhân viên y tế.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Tránh thai và cân nặng",
+      "aliases": [
+        "thuốc tránh thai có gây tăng cân không",
+        "uống thuốc tránh thai bị tăng cân",
+        "tránh thai tăng cân",
+        "tăng cân do thuốc tránh thai",
+        "tiêm tránh thai tăng cân",
+        "que cấy tránh thai tăng cân",
+        "ngừa thai có béo không"
+      ],
+      "glance": "Không có bằng chứng thuốc tránh thai kết hợp gây tăng cân, nhưng mũi tiêm tránh thai thì có thể. Điều này tùy vào từng biện pháp.",
+      "overview": "Liệu biện pháp tránh thai có làm bạn tăng cân không là một câu hỏi rất thường gặp. Câu trả lời thật lòng là: điều đó tùy thuộc vào từng biện pháp.\n\nVới thuốc tránh thai kết hợp, bằng chứng khá đáng yên tâm: không có bằng chứng nào cho thấy uống thuốc làm bạn tăng cân. Điều tương tự cũng đúng với miếng dán tránh thai và vòng đặt âm đạo.\n\nMũi tiêm tránh thai thì khác. Tăng cân được liệt kê là một trong những tác dụng phụ thường gặp của nó, cùng với những thay đổi về kỳ kinh.\n\nVới thuốc tránh thai chỉ chứa progestogen (đôi khi được gọi là viên thuốc mini) và que cấy tránh thai, một số người cho biết họ bị tăng cân. Nhưng chưa có đủ bằng chứng để nói liệu chính biện pháp đó có phải là nguyên nhân hay không.\n\nCân nặng chỉ là một phần của bức tranh. Mỗi biện pháp đều có danh sách tác dụng phụ và rủi ro riêng, và chọn biện pháp tránh thai là tìm ra điều phù hợp với cơ thể, sức khỏe và cuộc sống của bạn. Dược sĩ, bác sĩ gia đình, điều dưỡng hoặc phòng khám sức khỏe tình dục có thể cùng bạn xem xét các lựa chọn.",
+      "deep": null,
+      "when_to_see_doctor": "- Nếu các tác dụng phụ, kể cả thay đổi cân nặng, gây phiền toái cho bạn, hãy trao đổi với dược sĩ, bác sĩ gia đình, điều dưỡng hoặc phòng khám sức khỏe tình dục. Với thuốc tránh thai kết hợp, miếng dán hoặc vòng đặt âm đạo, một số tác dụng phụ có thể xuất hiện khi bạn mới bắt đầu dùng. Nếu sau khoảng 3 tháng chúng vẫn làm bạn khó chịu, nhân viên y tế có thể trao đổi với bạn về một loại thuốc khác hoặc một loại biện pháp tránh thai khác.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Que cấy tránh thai",
+      "aliases": [
+        "que cấy tránh thai",
+        "cấy que tránh thai",
+        "que cấy",
+        "cấy tránh thai ở tay",
+        "Nexplanon",
+        "Implanon"
+      ],
+      "glance": "Que cấy là một que nhỏ được đặt dưới da cánh tay trên, giải phóng nội tiết tố trong vài năm.",
+      "overview": "Que cấy tránh thai là một que nhỏ, mềm dẻo — cỡ bằng que diêm — được nhân viên y tế đã qua đào tạo đặt ngay dưới da cánh tay trên. Sau khi được đặt, nó giải phóng đều đặn một loại nội tiết tố progestogen và có tác dụng trong tối đa khoảng ba năm.\n\nQue cấy ngăn mang thai chủ yếu bằng cách ngăn buồng trứng phóng thích trứng (rụng trứng), và làm đặc chất nhầy ở cổ tử cung để tinh trùng không thể đi qua. Vì không có gì phải nhớ hằng ngày, đây là một trong những biện pháp “đặt xong là yên tâm”.\n\nĐó cũng là lý do nó là một trong những lựa chọn đáng tin cậy nhất: que cấy có hiệu quả trên 99%, và hiệu quả hầu như không khác biệt giữa cách dùng hoàn hảo và cách dùng thông thường. Giống các biện pháp nội tiết khác, nó không bảo vệ khỏi các bệnh lây truyền qua đường tình dục.",
+      "deep": "Que cấy là một biện pháp tác dụng kéo dài và có thể hồi phục — nó tiếp tục có tác dụng cho đến khi được tháo ra, và khả năng sinh sản trở lại sau khi tháo. Việc đặt và tháo que đều là thủ thuật nhanh do nhân viên y tế thực hiện, người cũng sẽ trao đổi với bạn về việc ai phù hợp và các tác dụng phụ. Bài viết này giải thích que cấy là gì và hoạt động ra sao; quyết định có đặt que hay không là điều cần trao đổi với bác sĩ gia đình, điều dưỡng hoặc phòng khám sức khỏe tình dục.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Chu kỳ & sức khỏe tổng thể của bạn",
+      "aliases": [
+        "sức khỏe tổng thể",
+        "chu kỳ và sức khỏe",
+        "kinh nguyệt và sức khỏe",
+        "kinh nguyệt nói gì về sức khỏe",
+        "cân nặng và kinh nguyệt",
+        "dấu hiệu sinh tồn"
+      ],
+      "glance": "Chu kỳ của bạn giống như một lần “kiểm tra sức khỏe” hằng tháng — những thay đổi trong đó có thể đáng để ý.",
+      "overview": "Chu kỳ kinh nguyệt không tách rời khỏi phần còn lại của sức khỏe — nó gắn liền với sức khỏe của bạn. Một chu kỳ đều đặn đối với bạn thường là dấu hiệu cho thấy cơ thể đang vận hành đúng như mong đợi. Đó là lý do một số người xem kỳ kinh như một kiểu tín hiệu hằng tháng về sức khỏe tổng thể.\n\nCuộc sống hằng ngày cũng ảnh hưởng đến nó. Cân nặng là một ví dụ: thiếu cân hoặc thừa cân đáng kể có thể ảnh hưởng đến các nội tiết tố điều khiển sự rụng trứng, khiến kỳ kinh không đều. Điều này tác động theo cả hai chiều — chăm lo những điều cơ bản, như ăn uống cân bằng và duy trì vận động, sẽ hỗ trợ chu kỳ, và một chu kỳ ổn định là dấu hiệu những điều đó đang ở mức cân bằng hợp lý.\n\nĐiều này không phải là chạy theo một chu kỳ “hoàn hảo” hay tự trách mình khi có thay đổi. Đơn giản là việc nhẹ nhàng để ý đến chu kỳ có thể là một cửa sổ hữu ích để hiểu tình trạng của bạn — và là lời nhắc để trao đổi với nhân viên y tế nếu có điều gì thay đổi.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy đi khám bác sĩ gia đình nếu kỳ kinh trở nên không đều, ngừng hẳn, hoặc thay đổi theo cách không bình thường với bạn — những thay đổi kéo dài đôi khi có thể cho thấy điều gì đó cần tìm hiểu.\n- Bạn cũng nên trao đổi với bác sĩ nếu các vấn đề về kinh nguyệt đang ảnh hưởng đến cuộc sống hằng ngày, để bạn được hỗ trợ thay vì chỉ cố chịu đựng.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Bạo hành kinh tế",
+      "aliases": [
+        "bạo hành kinh tế",
+        "bạo lực kinh tế",
+        "kiểm soát tiền bạc",
+        "bị giữ tiền",
+        "kiểm soát tài chính",
+        "nợ đứng tên tôi",
+        "bị cấm đi làm"
+      ],
+      "glance": "Bạo hành kinh tế là việc kiểm soát khả năng tiếp cận tiền bạc, công việc hay tài sản của một người — một hình thức bạo hành đã được công nhận.",
+      "overview": "Bạo hành kinh tế là khi một người kiểm soát khả năng tiếp cận tiền bạc, và những thứ tiền có thể mua, của người khác. Đây là một dạng hành vi kiểm soát, và thường đi kèm với những hình thức bạo hành khác.\n\nNó có thể biểu hiện qua việc kiểm soát mọi khoản chi tiêu hoặc bắt bạn giải trình từng đồng, lấy tiền lương hoặc trợ cấp của bạn, gây nợ đứng tên bạn, giữ tài khoản ngân hàng hoặc giấy tờ không cho bạn tiếp cận, hoặc ngăn cản bạn đi làm hay đi học. Vì nó có thể khiến một người không còn phương tiện để rời đi hay xoay xở cuộc sống hằng ngày, đây là một trong những cách khiến bạo hành giống như một cái bẫy.\n\nNếu bạn thấy quen thuộc với một vài điều trong số này, đó không phải là dấu hiệu bạn “kém trong chuyện tiền bạc” hay bạn có lỗi. Kiểm soát nguồn lực của người khác là lựa chọn của người kia — và điều đó được công nhận là bạo hành.",
+      "deep": null,
+      "when_to_see_doctor": "- Các dịch vụ chống bạo lực cũng có thể giúp về vấn đề này — không chỉ về an toàn, mà cả những bước thực tế và tài chính, một cách bảo mật và miễn phí (ở Ý, đường dây **1522** có thể giới thiệu bạn đến nơi hỗ trợ tại địa phương).\n- Một kế hoạch an toàn có thể bao gồm việc âm thầm đảm bảo bạn có thể tiếp cận một khoản tiền, các giấy tờ quan trọng và những số điện thoại cần thiết.",
+      "red_flags": "- Nếu bạn đang gặp **nguy hiểm tức thời**, hãy liên hệ dịch vụ khẩn cấp ngay: **112** ở EU (bao gồm Ý), **999** ở Vương quốc Anh, **911** ở Mỹ và Canada.\n- Ở Ý, **1522** — miễn phí, 24 giờ mỗi ngày, ẩn danh, hỗ trợ nhiều ngôn ngữ — có thể giúp bạn qua điện thoại hoặc trò chuyện trực tuyến."
+    },
+    "ectopic-pregnancy": {
+      "title": "Mang thai ngoài tử cung",
+      "aliases": [
+        "mang thai ngoài tử cung",
+        "thai ngoài tử cung",
+        "chửa ngoài tử cung",
+        "thai ở vòi trứng",
+        "chửa ngoài dạ con",
+        "vỡ thai ngoài tử cung"
+      ],
+      "glance": "Mang thai ngoài tử cung là khi thai phát triển bên ngoài tử cung — thai không thể tiếp tục và cần được chăm sóc y tế kịp thời.",
+      "overview": "Mang thai ngoài tử cung là khi trứng đã thụ tinh làm tổ bên ngoài tử cung, thường gặp nhất là ở một trong hai vòi trứng. Đáng buồn là thai ở vị trí này không thể phát triển thành em bé, và cũng không thể chuyển vào tử cung — vì vậy luôn cần được điều trị.\n\nCác dấu hiệu thường xuất hiện vào khoảng tuần 4 đến tuần 12, và có thể gồm đau bụng dưới ở một bên, ra máu âm đạo hoặc dịch loãng màu nâu, đau ở đầu vai, hoặc khó chịu khi đi tiểu hay đi đại tiện. Các triệu chứng kết hợp khác nhau ở mỗi người, và một số rất dễ bị nhầm với vấn đề nhỏ, đó là lý do việc đi kiểm tra rất quan trọng.\n\nĐây là tình huống không phổ biến, nhưng có thể nghiêm trọng, nên không phải điều để chờ xem sao. Được tư vấn sớm nghĩa là tình trạng này có thể được xử trí an toàn.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy liên hệ bác sĩ gia đình hoặc **bác sĩ trực ngoài giờ** nếu bạn có một số triệu chứng kể trên **và bạn có thể đang mang thai** — kể cả khi bạn chưa có kết quả thử thai dương tính. Điều quan trọng là được tư vấn ngay lập tức.",
+      "red_flags": "- Gọi **{{emergency}} hoặc đến khoa cấp cứu** nếu bạn bị **đau bụng đột ngột, dữ dội như dao đâm**, cảm thấy **rất chóng mặt hoặc như sắp ngất**, trông **rất nhợt nhạt**, hoặc buồn nôn kèm theo những dấu hiệu này. Đây có thể là dấu hiệu vòi trứng đã bị vỡ — một tình trạng cấp cứu y tế cần điều trị khẩn cấp."
+    },
+    "emergency-contraception": {
+      "title": "Tránh thai khẩn cấp",
+      "aliases": [
+        "tránh thai khẩn cấp",
+        "thuốc tránh thai khẩn cấp",
+        "thuốc uống sau khi quan hệ",
+        "thuốc tránh thai 72 giờ",
+        "thuốc tránh thai 120 giờ",
+        "Postinor",
+        "ellaOne",
+        "Levonelle"
+      ],
+      "glance": "Tránh thai khẩn cấp có thể ngăn mang thai sau khi quan hệ không được bảo vệ — và càng sớm càng tốt.",
+      "overview": "Tránh thai khẩn cấp là cách ngăn mang thai sau khi quan hệ tình dục mà không dùng biện pháp tránh thai, hoặc khi biện pháp thường dùng của bạn có thể đã thất bại (quên uống thuốc, bao cao su bị rách). Có hai loại, và với cả hai thì thời điểm đều quan trọng.\n\nLoại thứ nhất là **thuốc tránh thai khẩn cấp**. Có hai dạng: một dạng (levonorgestrel) có thể uống trong vòng 3 ngày — 72 giờ — sau khi quan hệ, và dạng còn lại (ulipristal acetate, tên thương mại ellaOne) trong vòng 5 ngày — 120 giờ. Lựa chọn thứ hai là **vòng tránh thai bằng đồng (dụng cụ tử cung, IUD)**, được nhân viên y tế đặt trong vòng 5 ngày sau khi quan hệ; đây là hình thức tránh thai khẩn cấp hiệu quả nhất, và sau đó có thể giữ lại để tránh thai lâu dài nếu bạn muốn.\n\nVới tất cả các biện pháp này, **dùng càng sớm thì hiệu quả thường càng cao** — nên hãy hành động nhanh thay vì chờ đợi. Bạn có thể nhận biện pháp tránh thai khẩn cấp tại nhà thuốc, bác sĩ gia đình, phòng khám sức khỏe tình dục hoặc cơ sở y tế không cần hẹn trước, thường là miễn phí.",
+      "deep": null,
+      "when_to_see_doctor": "- Vì phụ thuộc vào thời gian, đừng chờ đợi — dược sĩ có thể cung cấp thuốc tránh thai khẩn cấp nhanh chóng, còn phòng khám sức khỏe tình dục hoặc bác sĩ gia đình có thể đặt vòng tránh thai (IUD).\n- Tránh thai khẩn cấp là để ngăn mang thai, không phải để phòng nhiễm trùng. Nếu có bất kỳ khả năng nào mắc bệnh lây truyền qua đường tình dục, phòng khám sức khỏe tình dục có thể tư vấn về việc xét nghiệm.\n- Nếu sau đó kỳ kinh của bạn trễ hơn vài ngày, hoặc rất khác so với bình thường, bạn nên thử thai và trao đổi với nhân viên y tế.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Lạc nội mạc tử cung",
+      "aliases": [
+        "lạc nội mạc tử cung",
+        "lạc nội mạc",
+        "endometriosis",
+        "endo",
+        "u lạc nội mạc tử cung",
+        "đau bụng kinh dữ dội"
+      ],
+      "glance": "Lạc nội mạc tử cung là bệnh lý trong đó mô giống niêm mạc tử cung phát triển bên ngoài tử cung, thường gây đau.",
+      "overview": "Lạc nội mạc tử cung là một bệnh lý lâu dài, trong đó các tế bào giống lớp niêm mạc tử cung phát triển ở những nơi khác trong cơ thể, như quanh buồng trứng, vùng chậu hoặc ruột. Bệnh khá phổ biến — ước tính ảnh hưởng đến khoảng 1 trên 10 phụ nữ trong độ tuổi sinh sản trên toàn thế giới.\n\nVì mô này hoạt động phần nào giống niêm mạc tử cung, nó có thể gây viêm và, theo thời gian, hình thành mô sẹo. Dấu hiệu phổ biến nhất là đau: thường là đau bụng kinh dữ dội, nhưng cũng có thể đau vùng chậu hoặc thắt lưng vào những thời điểm khác, đau trong hoặc sau khi quan hệ tình dục, và đau khi đi tiểu hoặc đi đại tiện. Kinh nguyệt ra rất nhiều, mệt mỏi kiệt sức, tâm trạng sa sút và khó có thai cũng thường gặp. Triệu chứng rất khác nhau — có người đau dữ dội, có người đau ít.\n\nLạc nội mạc tử cung thường bị hiểu sai và có thể mất nhiều năm mới được nhận ra, một phần vì đau bụng kinh thường bị xem nhẹ là “bình thường”. Cơn đau dữ dội làm xáo trộn cuộc sống của bạn không phải là điều bạn chỉ đơn giản phải chịu đựng — nó đáng được coi trọng.",
+      "deep": "Nguyên nhân chính xác của lạc nội mạc tử cung vẫn chưa được biết, và hiện chưa có cách chữa khỏi — nhưng các phương pháp điều trị có thể giúp kiểm soát triệu chứng, và sự hỗ trợ bao gồm từ thuốc cho đến, với một số người, phẫu thuật, cùng với sự giúp đỡ về gánh nặng thể chất và tinh thần. Một trong những thách thức lớn nhất là sự chậm trễ: trung bình có thể mất vài năm, đôi khi rất nhiều năm, mới được chẩn đoán. Đó là một phần lý do vì sao việc ghi chép rõ ràng các triệu chứng, và quay lại gặp nhân viên y tế nếu bạn chưa được lắng nghe, có thể quan trọng đến vậy.",
+      "when_to_see_doctor": "Bạn nên đi khám bác sĩ gia đình nếu:\n\n- bạn bị đau bụng kinh dữ dội khiến bạn không thể sinh hoạt bình thường\n- kinh nguyệt ra rất nhiều — ví dụ, phải thay băng vệ sinh hoặc tampon cứ mỗi 1–2 giờ\n- bạn bị đau vùng chậu hoặc thắt lưng kéo dài, đau trong hoặc sau khi quan hệ tình dục, hoặc đau khi đi tiểu hay đi đại tiện\n- bạn gặp khó khăn khi cố gắng có thai\n- phương pháp điều trị bạn đã dùng không có tác dụng, hoặc triệu chứng trở nên nặng hơn\n\nVì lạc nội mạc tử cung có thể mất thời gian để chẩn đoán, bạn hoàn toàn có thể quay lại khám nếu triệu chứng của mình không được coi trọng — một bức tranh rõ ràng về cơn đau theo thời gian sẽ giúp ích. Nếu cơn đau hoặc ra máu nhiều cũng đang ảnh hưởng đến tâm trạng, hãy nói với bác sĩ gia đình; đó là một phần của bức tranh, và luôn có sự hỗ trợ dành cho bạn.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogen",
+      "aliases": [
+        "estrogen",
+        "oestrogen",
+        "nội tiết tố nữ",
+        "hormone estrogen",
+        "nội tiết tố estrogen",
+        "estradiol"
+      ],
+      "glance": "Estrogen là một nội tiết tố quan trọng giúp chuẩn bị cơ thể bạn cho khả năng mang thai trong mỗi chu kỳ.",
+      "overview": "Estrogen là một trong những nội tiết tố chính đứng sau chu kỳ kinh nguyệt. Trong nửa đầu chu kỳ (giai đoạn nang noãn), nồng độ estrogen tăng lên khi một nang noãn trong buồng trứng trưởng thành. Sự gia tăng này làm dày niêm mạc tử cung và dẫn đến rụng trứng.\n\nEstrogen cũng ảnh hưởng đến những điều bạn có thể nhận thấy hằng ngày — năng lượng, tâm trạng, và những thay đổi của chất nhầy cổ tử cung quanh những ngày dễ thụ thai. Sau khi rụng trứng, nồng độ của nó giảm xuống rồi lại thay đổi, phối hợp cùng một nội tiết tố khác là progesterone trong suốt nửa sau của chu kỳ.\n\nNồng độ này tự nhiên tăng giảm trong mỗi chu kỳ, và cũng thay đổi qua các giai đoạn cuộc đời. Điều này là bình thường — đó là nhịp điệu mà cơ thể bạn vận hành theo, không phải điều cần “sửa chữa”.",
+      "deep": "Estrogen không phải là một chất đơn lẻ mà là một nhóm nội tiết tố có liên quan với nhau (loại hoạt động mạnh nhất trong chu kỳ là estradiol). Phần lớn estrogen được tạo ra bởi buồng trứng, trong nang noãn đang phát triển. Sự tăng giảm theo chu kỳ của nó — cùng với progesterone và các nội tiết tố truyền tín hiệu của não là LH và FSH — chính là điều điều khiển các giai đoạn của chu kỳ. Vì estrogen tác động đến nhiều hệ cơ quan, những thay đổi tự nhiên của nó có thể biểu hiện theo những cách nhỏ trong suốt tháng; việc theo dõi giúp bạn hiểu quy luật của riêng mình thay vì so sánh với một mức “trung bình”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Vận động & chu kỳ của bạn",
+      "aliases": [
+        "tập thể dục",
+        "vận động",
+        "hoạt động thể chất",
+        "tập luyện",
+        "tập thể dục khi đến kỳ kinh",
+        "tập gym khi có kinh",
+        "thể thao và kinh nguyệt"
+      ],
+      "glance": "Bạn có thể duy trì vận động suốt chu kỳ — và vận động đều đặn có thể giúp giảm đau bụng kinh và hội chứng tiền kinh nguyệt.",
+      "overview": "Bạn có thể vận động thể chất vào bất kỳ thời điểm nào trong chu kỳ. Một số người thấy mình có nhiều năng lượng hơn và có thể tập nặng hơn một chút vào những thời điểm nhất định trong tháng, và ít hơn vào những lúc khác — cả hai đều bình thường, và không điều nào là lý do để ngừng vận động.\n\nHoạt động đều đặn thực ra có thể giúp giảm một số triệu chứng liên quan đến kỳ kinh. Những người tập thể dục thường xuyên thường ít bị đau bụng kinh hơn, và duy trì vận động cũng có thể làm dịu các triệu chứng tiền kinh nguyệt (PMS). Vào những ngày ít năng lượng, vận động nhẹ nhàng hơn vẫn có giá trị — không cần phải cường độ cao mới đáng làm.\n\nKhông cần phải sắp xếp cuộc sống theo chu kỳ, và cũng không có một cách vận động “đúng” duy nhất. Để ý quy luật năng lượng của chính bạn trong tháng đơn giản có thể giúp bạn lên kế hoạch theo cách khiến bạn thấy dễ chịu.",
+      "deep": null,
+      "when_to_see_doctor": "- Tập luyện quá nặng, hoặc tập nhiều đến mức cơ thể thiếu hụt năng lượng, có thể khiến kỳ kinh trở nên không đều hoặc ngừng hẳn. Một chu kỳ đều đặn thường là dấu hiệu mọi thứ đang vận hành tốt, vì vậy bạn nên trao đổi với bác sĩ gia đình nếu kỳ kinh trở nên không đều hoặc mất kinh — theo thời gian, điều này có thể liên quan đến sức khỏe xương và nội tiết tố.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Vận động khi mang thai",
+      "aliases": [
+        "tập thể dục khi mang thai",
+        "vận động khi mang thai",
+        "bà bầu tập thể dục",
+        "yoga bầu",
+        "bơi khi mang thai",
+        "giữ dáng khi mang thai"
+      ],
+      "glance": "Duy trì vận động là an toàn và tốt trong hầu hết các thai kỳ — nhẹ nhàng, không làm bản thân kiệt sức.",
+      "overview": "Duy trì vận động khi mang thai tốt cho bạn và không nguy hiểm cho em bé — thực tế, giữ cơ thể khỏe mạnh có thể giúp bạn thích nghi với những thay đổi sắp tới và với quá trình chuyển dạ. Bạn không cần bắt đầu môn nào cường độ cao; tiếp tục các hoạt động hằng ngày bình thường, miễn là bạn thấy thoải mái, là một điểm khởi đầu tốt.\n\nMột nguyên tắc đơn giản: bạn nên có thể **vừa vận động vừa trò chuyện được**. Nếu bạn thở dốc đến mức không nói được, hãy giảm cường độ. Những lựa chọn nhẹ nhàng như đi bộ, bơi lội, các lớp thể dục dưới nước cho bà bầu và yoga bầu phù hợp với hầu hết mọi người. Nếu trước đây bạn không vận động nhiều, đây không phải lúc bắt đầu một chế độ tập mới vất vả — thay vào đó, hãy tăng dần một cách nhẹ nhàng.\n\nMột vài hoạt động nên tránh hoặc cần thận trọng — như nằm ngửa thẳng lưng sau khoảng tuần 16, các môn thể thao đối kháng, lặn có bình dưỡng khí, và bất kỳ hoạt động nào có nguy cơ té ngã thực sự.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy hỏi ý kiến **nữ hộ sinh** trước khi bắt đầu một chương trình tập aerobic mới, hoặc nếu bạn có bệnh lý hay có lo lắng về thai kỳ.\n- **Hãy dừng lại và hỏi ý kiến chuyên môn** nếu bạn cảm thấy không khỏe, chóng mặt hoặc rất khó thở, hoặc nếu bạn bị đau, ra máu, hay có cơn co thắt trong khi tập.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Cửa sổ thụ thai",
+      "aliases": [
+        "cửa sổ thụ thai",
+        "ngày dễ thụ thai",
+        "ngày dễ có thai",
+        "thời điểm dễ thụ thai nhất",
+        "ngày nguy hiểm",
+        "ngày rụng trứng"
+      ],
+      "glance": "Cửa sổ thụ thai là vài ngày trong mỗi chu kỳ mà quan hệ tình dục có thể dẫn đến mang thai.",
+      "overview": "Cửa sổ thụ thai là khoảng thời gian ngắn trong chu kỳ khi có thể mang thai. Nó tồn tại vì hai mốc thời gian không hoàn toàn trùng khớp: trứng chỉ có thể được thụ tinh trong khoảng 12 đến 24 giờ sau khi được phóng ra, nhưng tinh trùng có thể sống bên trong cơ thể vài ngày — lên đến khoảng một tuần — để chờ trứng.\n\nKết hợp lại, điều đó có nghĩa là cửa sổ mở ra vài ngày trước khi rụng trứng và đóng lại khoảng một ngày sau đó. Trên thực tế, bạn dễ thụ thai nhất trong 2 đến 3 ngày trước khi rụng trứng và vào chính ngày rụng trứng, vì tinh trùng có thể đã ở sẵn đó khi trứng đến.\n\nVì ngày rụng trứng có thể xê dịch giữa các chu kỳ, cửa sổ thụ thai cũng dịch chuyển theo. Đó là lý do nó thường được hiểu là một khoảng ngày chứ không phải một ngày cố định, và vì sao theo dõi các dấu hiệu qua nhiều chu kỳ đáng tin cậy hơn là dựa vào một phép tính lịch duy nhất.",
+      "deep": "Những ngày cụ thể khác nhau giữa người này với người khác và giữa tháng này với tháng khác, nên cửa sổ thụ thai được ước tính tốt nhất dựa trên chính các tín hiệu của cơ thể thay vì một công thức cố định. Những thay đổi của chất nhầy cổ tử cung cho thấy cửa sổ đang mở khi sắp rụng trứng, và việc thân nhiệt khi nghỉ tăng lên xác nhận — sau khi sự việc đã xảy ra — rằng rụng trứng đã qua và cửa sổ đã đóng. Que thử rụng trứng hoạt động sớm hơn một bước, bằng cách phát hiện đỉnh tăng của nội tiết tố hoàng thể hóa (LH) xuất hiện ngay trước khi trứng được phóng ra.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Bắt đầu có kinh (kỳ kinh đầu tiên)",
+      "aliases": [
+        "kỳ kinh đầu tiên",
+        "có kinh lần đầu",
+        "hành kinh lần đầu",
+        "lần đầu đến tháng",
+        "bắt đầu có kinh nguyệt",
+        "dậy thì"
+      ],
+      "glance": "Kỳ kinh đầu tiên thường đến vào khoảng 12 tuổi — bất kỳ lúc nào từ khoảng 8 đến 17 tuổi đều bình thường.",
+      "overview": "Kỳ kinh đầu tiên — đôi khi gọi là hành kinh lần đầu — là khi chu kỳ kinh nguyệt bắt đầu lần đầu tiên. Hầu hết mọi người bắt đầu vào khoảng 12 tuổi, nhưng bất kỳ lúc nào từ khoảng 8 đến 17 tuổi đều bình thường. Nó thường đến khoảng hai năm sau khi ngực bắt đầu phát triển.\n\nThường có những dấu hiệu báo trước: lông nách và lông mu mọc nhiều hơn, và ra một ít khí hư trong hoặc trắng trong những tháng trước đó. Biết trước những điều này có thể giúp kỳ kinh đầu tiên bớt đột ngột.\n\nLúc đầu, kỳ kinh thường không đều — khoảng cách giữa các kỳ có thể dài hoặc ngắn, và cơ thể có thể mất vài tháng, thậm chí một hai năm, để đi vào nhịp ổn định hơn. Khi đã ổn định, kỳ kinh thường đến khoảng mỗi 23 đến 35 ngày và kéo dài khoảng 2 đến 7 ngày. Việc không đều trong thời gian đầu là bình thường và không có gì đáng lo.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy đi khám bác sĩ gia đình nếu **đến 15 tuổi vẫn chưa có kinh**, hoặc **đến 13 tuổi mà chưa có dấu hiệu dậy thì nào khác** (như ngực phát triển hoặc mọc lông trên cơ thể). Việc này chỉ để kiểm tra rằng mọi thứ đang phát triển như mong đợi — thường thì mọi thứ đều ổn.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Axit folic & vitamin khi mang thai",
+      "aliases": [
+        "axit folic",
+        "acid folic",
+        "folate",
+        "vitamin D khi mang thai",
+        "vitamin cho bà bầu",
+        "bổ sung khi mang thai",
+        "uống gì trước khi mang thai"
+      ],
+      "glance": "Axit folic trước và trong giai đoạn đầu thai kỳ giúp bảo vệ em bé — cùng với vitamin D mỗi ngày.",
+      "overview": "Có hai loại thực phẩm bổ sung thực sự quan trọng khi mang thai, và NHS khuyến nghị cả hai.\n\n**Axit folic** là quan trọng nhất. Uống bổ sung 400 microgam mỗi ngày — lý tưởng là từ trước khi thụ thai (khoảng ba tháng trước) cho đến hết ba tháng đầu thai kỳ, tức tuần thứ 12 — giúp bảo vệ em bé khỏi các dị tật ống thần kinh như tật nứt đốt sống. Vì nó phát huy tác dụng từ rất sớm, đây là một trong số ít điều nên bắt đầu *trước* khi mang thai nếu bạn đang cố gắng có con.\n\n**Vitamin D** là loại còn lại: nên bổ sung 10 microgam mỗi ngày trong suốt thai kỳ và trong thời gian cho con bú, để hỗ trợ xương và sự phát triển của em bé.\n\nNgoài hai loại này, một chế độ ăn lành mạnh, đa dạng đáp ứng hầu hết nhu cầu — bạn không cần uống nhiều thực phẩm bổ sung khác. Một loại nên tránh là **vitamin A** (retinol): đừng uống thực phẩm bổ sung có chứa vitamin A, và tránh ăn gan, vì quá nhiều vitamin A có thể gây hại cho em bé.",
+      "deep": null,
+      "when_to_see_doctor": "- **Bác sĩ gia đình, nữ hộ sinh hoặc dược sĩ** có thể giúp bạn chọn thực phẩm bổ sung phù hợp, và một số người được khuyên dùng **axit folic liều cao hơn** (ví dụ khi bị đái tháo đường, có chỉ số BMI cao hơn, dùng một số loại thuốc, hoặc từng có thai kỳ bị ảnh hưởng bởi dị tật ống thần kinh) — vì vậy bạn nên hỏi, đặc biệt là trước khi mang thai hoặc trong giai đoạn đầu thai kỳ.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Giai đoạn nang noãn",
+      "aliases": [
+        "giai đoạn nang noãn",
+        "pha nang noãn",
+        "nửa đầu chu kỳ",
+        "giai đoạn tăng sinh",
+        "pha nang"
+      ],
+      "glance": "Giai đoạn nang noãn là nửa đầu của chu kỳ, khi một trứng chín dần và niêm mạc tử cung dày lên.",
+      "overview": "Giai đoạn nang noãn là phần đầu tiên của chu kỳ. Nó bắt đầu từ ngày đầu tiên của kỳ kinh và kéo dài đến khi rụng trứng. Tên gọi của nó bắt nguồn từ nang noãn — túi nhỏ chứa dịch trong buồng trứng, nơi chứa và nuôi lớn một trứng trong thời gian này.\n\nTrong suốt giai đoạn này, nội tiết tố estrogen tăng lên. Lượng estrogen tăng dần đó làm hai việc chính: giúp một nang noãn trong buồng trứng trưởng thành, và làm dày niêm mạc tử cung, chuẩn bị cho cơ thể trong trường hợp có thai vào cuối chu kỳ.\n\nVì estrogen đang tăng, một số người nhận thấy mình có nhiều năng lượng hơn hoặc chất nhầy cổ tử cung thay đổi khi những ngày dễ thụ thai đến gần. Trải nghiệm của mỗi người mỗi khác, và không điều gì trong đó cần phải “kiểm soát” — đơn giản đó là nửa đầu chu kỳ đang làm đúng việc của nó.",
+      "deep": "Độ dài của giai đoạn nang noãn có thể thay đổi giữa các chu kỳ, và đó là một phần lý do vì sao độ dài cả chu kỳ khác nhau giữa người này với người khác và giữa tháng này với tháng khác. Giai đoạn này kết thúc khi lượng estrogen tăng cao giúp kích hoạt việc phóng thích trứng (rụng trứng). Vì những ngày cuối của nó dẫn đến rụng trứng, đây là lúc cửa sổ thụ thai mở ra — đó là lý do phần cuối của giai đoạn nang noãn quan trọng với bất kỳ ai đang theo dõi khả năng sinh sản.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Thực phẩm nên tránh khi mang thai",
+      "aliases": [
+        "thực phẩm nên tránh khi mang thai",
+        "bà bầu kiêng ăn gì",
+        "mang thai không nên ăn gì",
+        "chế độ ăn khi mang thai",
+        "cà phê khi mang thai",
+        "caffeine khi mang thai",
+        "listeria"
+      ],
+      "glance": "Hầu hết thực phẩm đều ổn khi mang thai — chỉ một vài loại nên tránh, và nên hạn chế caffeine.",
+      "overview": "Tin vui là hầu hết thực phẩm đều hoàn toàn ổn khi mang thai — chỉ một số ít loại nên tránh hoặc cần cẩn thận, chủ yếu để tránh các vi khuẩn như listeria hoặc tránh nạp quá nhiều một số loại vitamin. Nắm được danh sách ngắn này, bạn có thể yên tâm với phần còn lại.\n\nNHS khuyên nên cẩn thận với:\n\n- **Một số loại phô mai** — phô mai mềm có lớp mốc trắng như brie và camembert, và phô mai xanh loại mềm, trừ khi được nấu chín đến khi nóng bốc hơi; và bất kỳ thứ gì làm từ sữa **chưa thanh trùng**.\n- **Thịt sống hoặc chưa chín kỹ**, các loại thịt nguội ướp muối, **pa tê**, và **gan** (rất giàu vitamin A).\n- **Trứng sống hoặc lòng đào**, trừ khi có dấu British Lion (chứng nhận an toàn của Anh).\n- **Một số loại cá** — tránh cá mập, cá kiếm và cá cờ, hạn chế cá ngừ, và ăn không quá hai phần cá béo mỗi tuần.\n- **Caffeine** — giữ dưới khoảng 200mg mỗi ngày (khoảng hai cốc cà phê hòa tan), tính cả trà, nước ngọt cola, nước tăng lực và sô-cô-la.",
+      "deep": null,
+      "when_to_see_doctor": "- Đây là hướng dẫn chung, không phải chế độ ăn kiêng nghiêm ngặt — nếu bạn có thắc mắc về điều gì là an toàn cho mình, hoặc có nhu cầu ăn uống đặc biệt, **nữ hộ sinh** có thể trao đổi cùng bạn.\n- Nếu bạn đã lỡ ăn thứ gì đó trong danh sách “nên tránh”, đừng hoảng sợ; hãy nói với nữ hộ sinh nếu bạn lo lắng hoặc cảm thấy không khỏe.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Nội tiết tố kích thích nang noãn (FSH)",
+      "aliases": [
+        "fsh",
+        "hormone kích thích nang noãn",
+        "nội tiết tố kích thích nang noãn",
+        "xét nghiệm FSH",
+        "chỉ số FSH"
+      ],
+      "glance": "FSH là nội tiết tố do não tiết ra, thúc đẩy các nang noãn trong buồng trứng phát triển vào đầu mỗi chu kỳ.",
+      "overview": "FSH — nội tiết tố kích thích nang noãn — là một trong những nội tiết tố “sứ giả” khởi động chu kỳ. Nó được tạo ra bởi một tuyến nhỏ trong não (tuyến yên) và, đúng như tên gọi, nó kích thích các nang noãn: những túi nhỏ chứa dịch trong buồng trứng, mỗi túi chứa một trứng.\n\nVào đầu chu kỳ, FSH thúc đẩy một nhóm nang noãn bắt đầu phát triển. Khi một nang noãn phát triển, nó tiết ra nhiều estrogen hơn, từ đó làm dày niêm mạc tử cung để sẵn sàng cho khả năng mang thai. Thường thì một nang noãn sẽ trở thành nang vượt trội và tiếp tục tiến tới rụng trứng.\n\nFSH tăng và giảm như một phần của sự điều tiết qua lại bình thường trong chu kỳ. Bạn không cảm nhận FSH một cách trực tiếp — nó hoạt động âm thầm phía sau, chuẩn bị cho những thay đổi dễ thấy hơn của giai đoạn nang noãn.",
+      "deep": "FSH hoạt động theo cặp với nội tiết tố hoàng thể hóa (LH); cả hai đều được tuyến yên trong não tiết ra và cùng nhau điều khiển buồng trứng trong suốt chu kỳ. FSH dẫn dắt nửa đầu, làm các nang noãn phát triển, còn đỉnh LH sau đó đánh dấu việc phóng thích trứng vào giữa chu kỳ. Sự phối hợp này cũng là lý do các phương pháp điều trị hiếm muộn dùng thuốc có chứa FSH: bổ sung thêm FSH thúc đẩy nhiều nang noãn cùng trưởng thành một lúc, thay vì chỉ một nang như chu kỳ tự nhiên thường tạo ra.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Đái tháo đường thai kỳ",
+      "aliases": [
+        "đái tháo đường thai kỳ",
+        "tiểu đường thai kỳ",
+        "tiểu đường khi mang thai",
+        "đường huyết cao khi mang thai",
+        "xét nghiệm dung nạp glucose",
+        "nghiệm pháp dung nạp đường"
+      ],
+      "glance": "Đái tháo đường thai kỳ là tình trạng đường huyết tăng cao khi mang thai — thường được phát hiện qua sàng lọc, và thường ổn định lại sau khi sinh.",
+      "overview": "Đái tháo đường thai kỳ là tình trạng đường huyết (glucose) cao xuất hiện trong thời gian mang thai, khi cơ thể không đáp ứng kịp nhu cầu insulin tăng thêm. Với hầu hết mọi người, tình trạng này sẽ hết sau khi em bé chào đời.\n\nNó thường **không gây triệu chứng**, nên được phát hiện qua một xét nghiệm sàng lọc trong thai kỳ (nghiệm pháp dung nạp glucose, thường vào khoảng tuần 24 đến tuần 28), đặc biệt nếu bạn có những yếu tố làm tăng khả năng mắc — như cân nặng cao hơn, tiền sử gia đình có người bị đái tháo đường, từng sinh con to, hoặc thuộc một số nhóm sắc tộc nhất định.\n\nTình trạng này hoàn toàn có thể kiểm soát tốt. Giữ đường huyết trong ngưỡng khỏe mạnh — thông qua ăn uống, vận động và đôi khi dùng thuốc, tất cả theo hướng dẫn của đội ngũ chăm sóc — giúp giảm nguy cơ biến chứng cho bạn và em bé, đó là lý do nên theo dõi sát sao.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy làm **xét nghiệm sàng lọc** nếu được đề nghị — vì đái tháo đường thai kỳ thường không có triệu chứng, xét nghiệm là cách để phát hiện.\n- Đừng chờ đến lúc xét nghiệm nếu bạn nhận thấy các dấu hiệu có thể do đường huyết cao — rất khát nước, đi tiểu nhiều, khô miệng hoặc mệt mỏi — hãy nói với nữ hộ sinh hoặc bác sĩ.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Tìm sự giúp đỡ ở đâu",
+      "aliases": [
+        "tìm sự giúp đỡ",
+        "liên hệ ai",
+        "đường dây nóng",
+        "số điện thoại hữu ích",
+        "trung tâm chống bạo lực",
+        "1522",
+        "số khẩn cấp",
+        "đường dây hỗ trợ bạo lực gia đình"
+      ],
+      "glance": "Luôn có sự giúp đỡ miễn phí, bảo mật — trong trường hợp khẩn cấp, hãy gọi số khẩn cấp tại nơi bạn ở; ở Ý, gọi 1522 bất cứ lúc nào.",
+      "overview": "Nếu bạn đang bị bạo hành, bạn không phải đối mặt một mình, và việc tìm đến sự giúp đỡ không ràng buộc bạn vào bất cứ điều gì. Có những người mà công việc của họ là lắng nghe và giúp đỡ, một cách bảo mật và miễn phí.\n\nCó một vài hình thức hỗ trợ song song với nhau:\n\n- **Dịch vụ khẩn cấp** — khi gặp nguy hiểm tức thời, hãy gọi số khẩn cấp tại nơi bạn ở (bên dưới).\n- **Đường dây nóng quốc gia** — ở Ý là **1522**, đường dây miễn phí chống bạo lực và đeo bám: hoạt động 24 giờ mỗi ngày, ẩn danh, hỗ trợ nhiều ngôn ngữ, qua điện thoại hoặc trò chuyện trực tuyến.\n- **Trung tâm chống bạo lực** (ở Ý là *centri antiviolenza*) — các dịch vụ tại địa phương cung cấp hỗ trợ miễn phí, bảo mật, lập kế hoạch an toàn, cùng trợ giúp pháp lý và tâm lý.\n- **Dịch vụ y tế** — bác sĩ gia đình hoặc khoa cấp cứu của bệnh viện, nơi nhân viên ngày càng được đào tạo để nhận biết bạo hành và kết nối bạn với sự hỗ trợ.\n- **Những người bạn tin tưởng** — một người bạn hoặc người thân mà bạn cảm thấy an toàn khi ở bên.\n\nBạn có thể bắt đầu với bất kỳ cách nào bạn thấy khả thi nhất, và bạn không cần phải quyết định trước điều gì.",
+      "deep": null,
+      "when_to_see_doctor": "- Bạn có thể nói chuyện với **bác sĩ gia đình hoặc bệnh viện** một cách bảo mật về những gì đang xảy ra; họ có thể điều trị các vết thương và kết nối bạn với các dịch vụ chuyên biệt.\n- Nếu viết dễ hơn nói, **kênh chat 1522** là một cách khác để bắt đầu.",
+      "red_flags": "- Nếu bạn đang gặp **nguy hiểm tức thời**, hãy liên hệ dịch vụ khẩn cấp ngay: **112** ở EU (bao gồm Ý), **999** ở Vương quốc Anh, **911** ở Mỹ và Canada.\n- **Ý:** **1522** (miễn phí, 24/7, ẩn danh, nhiều ngôn ngữ — gọi điện hoặc chat).\n- Số đường dây hỗ trợ khác nhau tùy theo quốc gia. Ứng dụng có thể hiển thị các số điện thoại cho quốc gia của bạn, và **findahelpline.com** liệt kê các đường dây hỗ trợ chống bạo lực trên toàn thế giới (trang này tự nhận diện quốc gia của bạn và có nút thoát nhanh). Nếu bạn ở EU, **112** hoạt động ở mọi nơi."
+    },
+    "group-b-strep": {
+      "title": "Liên cầu khuẩn nhóm B (GBS)",
+      "aliases": [
+        "liên cầu khuẩn nhóm B",
+        "liên cầu nhóm B",
+        "GBS",
+        "strep B",
+        "streptococcus nhóm B",
+        "xét nghiệm liên cầu B khi mang thai"
+      ],
+      "glance": "Liên cầu khuẩn nhóm B là một loại vi khuẩn phổ biến, thường vô hại — rủi ro nhỏ là với em bé trong lúc sinh, và điều này có thể kiểm soát được.",
+      "overview": "Liên cầu khuẩn nhóm B (GBS) là một loại vi khuẩn rất phổ biến mà nhiều người mang, thường ở âm đạo hoặc hậu môn, mà không hề biết và không gây hại gì. Đây không phải là bệnh lây truyền qua đường tình dục, và việc mang vi khuẩn này là bình thường.\n\nKhi mang thai, nó chỉ đáng lưu ý vì có một **khả năng nhỏ** vi khuẩn truyền sang em bé vào khoảng thời gian sinh và, hiếm khi, khiến bé bị bệnh — điều này xảy ra ở khoảng 1 trên 1.750 thai kỳ. Nó thường được phát hiện tình cờ, ví dụ qua xét nghiệm nước tiểu hoặc lấy mẫu dịch âm đạo vì một lý do khác (NHS không sàng lọc thường quy cho tất cả mọi người).\n\nĐiều đáng yên tâm là tình trạng này hoàn toàn có thể kiểm soát: nếu biết có GBS, việc **truyền kháng sinh qua đường tĩnh mạch trong lúc chuyển dạ** giúp giảm đáng kể khả năng em bé bị bệnh.",
+      "deep": null,
+      "when_to_see_doctor": "- Nếu bạn được cho biết mình mang liên cầu khuẩn nhóm B — ở thai kỳ này hay một thai kỳ trước — **hãy báo cho nữ hộ sinh hoặc đội ngũ sản khoa**, để việc dùng kháng sinh trong lúc chuyển dạ được lên kế hoạch. Đây là một bước đơn giản nhưng tạo ra khác biệt thực sự.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Ợ nóng & khó tiêu khi mang thai",
+      "aliases": [
+        "ợ nóng khi mang thai",
+        "khó tiêu khi mang thai",
+        "trào ngược dạ dày khi mang thai",
+        "trào ngược axit",
+        "ợ chua khi mang thai",
+        "nóng rát thượng vị bà bầu"
+      ],
+      "glance": "Ợ nóng rất thường gặp khi mang thai — thường vô hại, và thường dịu đi nhờ những thay đổi nhỏ hằng ngày.",
+      "overview": "Ợ nóng và khó tiêu — cảm giác nóng rát hoặc khó chịu ở ngực, thường sau khi ăn — rất thường gặp khi mang thai. Nguyên nhân là do nội tiết tố thai kỳ làm giãn cơ ở phần trên dạ dày, và về sau, em bé lớn dần đẩy lên phía trên. Tình trạng này khó chịu nhưng không gây hại.\n\nNhững thay đổi nhỏ thường giúp ích: ăn các bữa nhỏ hơn và nhiều lần hơn thay vì các bữa lớn, ngồi thẳng khi ăn và một lúc sau khi ăn, giảm đồ cay, nhiều dầu mỡ hoặc có caffeine, và không ăn khuya ngay trước khi đi ngủ. Một số người thấy dễ chịu hơn khi ngủ kê cao đầu một chút.\n\nNếu vẫn chưa đủ, **dược sĩ** có thể gợi ý các loại thuốc kháng axit an toàn khi mang thai — một nơi tốt để hỏi đầu tiên trước khi tình trạng trở nên phiền toái hơn.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy đi khám **bác sĩ gia đình hoặc nữ hộ sinh** nếu những thay đổi đơn giản và thuốc mua ở nhà thuốc không giúp ích, hoặc nếu bạn bị **khó nuốt**, thường xuyên bị trớ thức ăn lên, sụt cân dù không cố ý, hoặc đau bụng — những điều này nên được kiểm tra thay vì cho rằng đó chỉ là ợ nóng thông thường.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Kinh nguyệt ra nhiều",
+      "aliases": [
+        "kinh nguyệt ra nhiều",
+        "cường kinh",
+        "rong kinh",
+        "ra máu kinh nhiều",
+        "kinh ra ồ ạt",
+        "máu cục khi hành kinh",
+        "ra máu nhiều"
+      ],
+      "glance": "Kinh nguyệt ra nhiều là mất nhiều máu trong mỗi chu kỳ — thường gặp, nhưng nên đi khám nếu nó ảnh hưởng đến bạn.",
+      "overview": "Kinh nguyệt ra nhiều — tên y khoa là cường kinh (menorrhagia) — là tình trạng mất nhiều máu trong các kỳ kinh. Với một số người, ra máu nhiều đơn giản là bình thường với họ, nhưng nếu nó làm xáo trộn cuộc sống hoặc khiến bạn kiệt sức, thì nên tìm hiểu.\n\nMột số dấu hiệu cho thấy kinh ra nhiều: phải thay băng vệ sinh hoặc tampon cứ mỗi 1 đến 2 giờ, dùng cùng lúc hai loại sản phẩm (như tampon và băng vệ sinh), máu thấm ra quần áo hoặc ga giường, ra cục máu đông lớn hơn khoảng 2,5 cm (cỡ đồng xu 10 pence của Anh), hoặc kỳ kinh kéo dài hơn 7 ngày.\n\nMất nhiều máu tháng này qua tháng khác có thể khiến bạn mệt mỏi hoặc hụt hơi, vì có thể dẫn đến thiếu sắt (thiếu máu). Có nhiều nguyên nhân có thể xảy ra — từ u xơ tử cung hoặc các bệnh lý như lạc nội mạc tử cung, lạc nội mạc trong cơ tử cung (adenomyosis) hay buồng trứng đa nang (PCOS), đến một số loại thuốc — và thường không tìm thấy nguyên nhân nghiêm trọng nào. Dù thế nào, kinh nguyệt ra nhiều thường có thể được điều trị, nên đó không phải điều bạn chỉ đành sống chung.",
+      "deep": null,
+      "when_to_see_doctor": "Hãy đi khám bác sĩ gia đình nếu:\n\n- kinh nguyệt ra nhiều đang ảnh hưởng đến cuộc sống hằng ngày của bạn\n- bạn ra máu nhiều trong nhiều giờ liền, hoặc kỳ kinh kéo dài lâu\n- bạn còn bị đau bụng kinh dữ dội, hoặc đau khi quan hệ tình dục, khi đi tiểu hay đi đại tiện\n- bạn ra máu giữa các kỳ kinh hoặc sau khi quan hệ tình dục\n- bạn thường cảm thấy mệt mỏi hoặc hụt hơi (đây có thể là dấu hiệu thiếu sắt)\n\nBác sĩ gia đình có thể tìm nguyên nhân và trao đổi với bạn về những cách có thể giúp ích.",
+      "red_flags": "- Hãy tìm trợ giúp y tế **khẩn cấp** — liên hệ bác sĩ hoặc **dịch vụ y tế ngoài giờ**, hoặc gọi **{{emergency}}** / đến khoa cấp cứu nếu tình trạng nghiêm trọng — nếu bạn **ra máu nhiều đến mức thấm đẫm một miếng băng vệ sinh trở lên mỗi giờ, liên tục trong vài giờ**, hoặc bạn cảm thấy **choáng như sắp ngất, chóng mặt hoặc hụt hơi**. Đây có thể là dấu hiệu mất quá nhiều máu."
+    },
+    "lh": {
+      "title": "Nội tiết tố hoàng thể hóa (LH)",
+      "aliases": [
+        "lh",
+        "hormone lh",
+        "nội tiết tố hoàng thể hóa",
+        "hormone hoàng thể hóa",
+        "đỉnh LH",
+        "que thử LH"
+      ],
+      "glance": "LH là nội tiết tố do não tiết ra, với đỉnh tăng vọt giữa chu kỳ kích hoạt buồng trứng phóng thích trứng.",
+      "overview": "LH — nội tiết tố hoàng thể hóa — là “sứ giả” khởi phát sự rụng trứng. Giống như FSH, nó được tạo ra bởi một tuyến nhỏ trong não (tuyến yên) và báo cho buồng trứng biết khi nào cần phóng thích trứng.\n\nTrong phần lớn nửa đầu chu kỳ, LH ở mức thấp. Sau đó, vào khoảng giữa chu kỳ, nó tăng vọt trong hiện tượng gọi là đỉnh LH. Đỉnh này là tín hiệu khiến buồng trứng phóng thích trứng — tức rụng trứng — thường khoảng một ngày sau đó.\n\nĐỉnh LH là một tín hiệu ngắn, đúng thời điểm, chứ không phải điều bạn cảm nhận được qua cơ thể. Vì nó xuất hiện ngay trước khi trứng được phóng ra, thời điểm LH tăng là một dấu hiệu đáng tin cậy cho giai đoạn dễ thụ thai nhất của chu kỳ.",
+      "deep": "LH phối hợp với FSH, nội tiết tố làm các nang noãn phát triển ở giai đoạn sớm hơn của chu kỳ. Nếu FSH dẫn dắt giai đoạn chuẩn bị, thì đỉnh LH là bước ngoặt: nồng độ bắt đầu tăng khoảng một ngày rưỡi trước khi trứng được phóng ra và đạt đỉnh khoảng nửa ngày trước đó. Sau đỉnh LH, chu kỳ chuyển sang nửa sau. Thời điểm chính xác này là lý do LH là dấu hiệu rất hữu ích cho bất kỳ ai theo dõi rụng trứng, và vì sao nó đóng vai trò trung tâm trong việc lên kế hoạch điều trị hiếm muộn.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Lắng nghe và hỗ trợ tinh thần",
+      "aliases": [
+        "cách lắng nghe",
+        "hỗ trợ tinh thần cho người yêu",
+        "giao tiếp trong tình yêu",
+        "ở bên cô ấy",
+        "an ủi vợ",
+        "an ủi bạn gái",
+        "chia sẻ cảm xúc"
+      ],
+      "glance": "Phần lớn thời gian, cô ấy cần được lắng nghe chứ không cần được “sửa chữa” — hãy lắng nghe trước, và hỏi trước khi khuyên.",
+      "overview": "Khi người mình thương đang gặp khó khăn, bản năng là lao vào giải quyết. Nhưng thường thì điều giúp ích nhất là cảm giác được lắng nghe thật sự: rằng cảm xúc của cô ấy là có lý do và cô ấy không phải một mình đối diện với chúng. Vội vàng “sửa chữa” có thể khiến cô ấy cảm thấy như cảm xúc của mình là “một vấn đề cần dập tắt”.\n\nLắng nghe tốt là một kỹ năng ai cũng học được. Chủ yếu đó là sự chú tâm: đặt điện thoại xuống, quay về phía cô ấy, và để cô ấy nói hết. Bạn không cần đồng ý với mọi điều để khiến cô ấy cảm thấy được tôn trọng.",
+      "deep": "Những cách thiết thực để ở bên cô ấy:\n\n- **Lắng nghe để hiểu, không phải để đáp lại.** Để cô ấy nói mà không ngắt lời hay tính trước cách tự bào chữa.\n- **Phản hồi lại điều cô ấy nói.** “Chuyện đó nghe thật căng thẳng” hay “Hiểu rồi, chuyện đó đúng là đáng buồn thật” tốt hơn nhiều so với “thôi đừng lo nữa”.\n- **Hỏi trước khi khuyên.** “Muốn cùng nghĩ cách giải quyết, hay chỉ muốn được lắng nghe thôi?”\n- **Đừng để bụng** khi một ngày khó khăn của cô ấy không liên quan đến bạn. Sự điềm tĩnh là một món quà.\n- **Nhận phần lỗi của mình.** Nếu bạn làm sai điều gì, một lời xin lỗi thật lòng — không kèm chữ “nhưng” — sẽ xây dựng lại niềm tin.\n- **Để ý bức tranh lớn hơn.** Nếu cô ấy có vẻ buồn bã, lo âu kéo dài hoặc không còn là chính mình, hãy nhẹ nhàng khuyến khích cô ấy tìm sự hỗ trợ và đề nghị giúp cô ấy tiếp cận. Bạn là người đồng đội, không phải nhà trị liệu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Giai đoạn hoàng thể",
+      "aliases": [
+        "giai đoạn hoàng thể",
+        "pha hoàng thể",
+        "nửa sau chu kỳ",
+        "giai đoạn sau rụng trứng",
+        "thể vàng"
+      ],
+      "glance": "Giai đoạn hoàng thể là nửa sau của chu kỳ, sau khi rụng trứng, khi progesterone tăng lên.",
+      "overview": "Giai đoạn hoàng thể là phần của chu kỳ diễn ra sau khi rụng trứng và kéo dài cho đến khi kỳ kinh tiếp theo bắt đầu. Nó được đặt theo tên của hoàng thể (thể vàng) — cấu trúc nhỏ mà buồng trứng hình thành từ nang noãn rỗng sau khi trứng đã được phóng ra.\n\nTrong giai đoạn này, nội tiết tố progesterone tăng lên. Nhiệm vụ của nó là giữ cho niêm mạc tử cung dày và ổn định, để nếu có trứng đã thụ tinh đến thì trứng có nơi để làm tổ. Estrogen vẫn góp mặt, phối hợp cùng progesterone.\n\nNếu không có thai, hoàng thể sẽ thoái hóa, progesterone và estrogen giảm xuống, và niêm mạc không còn được duy trì — điều này dẫn đến kỳ kinh tiếp theo và bắt đầu một chu kỳ mới. Đây cũng là khoảng thời gian một số người nhận thấy những thay đổi tiền kinh nguyệt về tâm trạng, giấc ngủ hoặc cơ thể.",
+      "deep": "Độ dài giai đoạn hoàng thể thường ổn định hơn một chút so với nửa đầu chu kỳ, thường vào khoảng hai tuần, dù có sự khác biệt bình thường giữa mỗi người. Vì thời điểm kết thúc gắn với sự sụt giảm progesterone, việc kỳ kinh đến thực chất là dấu hiệu dễ thấy cho thấy nồng độ nội tiết tố đã giảm. Theo dõi cảm nhận của bạn trong suốt giai đoạn hoàng thể có thể giúp bạn phân biệt đâu là quy luật quen thuộc với mình và đâu là điều mới hoặc đáng để trao đổi với nhân viên y tế.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Mãn kinh",
+      "aliases": [
+        "mãn kinh",
+        "tuổi mãn kinh",
+        "thời kỳ mãn kinh",
+        "tắt kinh",
+        "hết kinh",
+        "bốc hỏa",
+        "sau mãn kinh"
+      ],
+      "glance": "Mãn kinh là khi kinh nguyệt ngừng hẳn — một giai đoạn tự nhiên, thường đến vào khoảng 45 đến 55 tuổi.",
+      "overview": "Mãn kinh là thời điểm kinh nguyệt ngừng hẳn vĩnh viễn. Vì trước đó kinh nguyệt có thể lúc có lúc không trong một thời gian, nên mãn kinh được tính là đã đến khi bạn không có kinh 12 tháng liên tiếp. Nó thường xảy ra vào khoảng 45 đến 55 tuổi, dù có thể sớm hơn hoặc muộn hơn.\n\nĐây là một phần tự nhiên của quá trình lão hóa, không phải bệnh. Nó xảy ra khi buồng trứng dần ngừng hoạt động và nồng độ estrogen — một nội tiết tố chủ chốt của chu kỳ — giảm xuống. Sự thay đổi nội tiết này là nguyên nhân đằng sau những thay đổi mà nhiều người nhận thấy: bốc hỏa và đổ mồ hôi đêm, thay đổi kinh nguyệt trong giai đoạn trước đó, khó ngủ, thay đổi tâm trạng hoặc lo âu, đầu óc mơ hồ kém tập trung, khô âm đạo, và đau nhức.\n\nTrải nghiệm của mỗi người khác nhau rất nhiều — có người trải qua nhẹ nhàng, có người thấy khó khăn, và các triệu chứng có thể kéo dài vài năm. Không điều nào trong đó có nghĩa là bạn có vấn đề gì. Luôn có sự hỗ trợ và các lựa chọn, và hiểu điều gì đang diễn ra là bước khởi đầu tốt.",
+      "deep": "Những năm thay đổi dẫn đến mãn kinh được gọi là tiền mãn kinh; bản thân mãn kinh là một thời điểm duy nhất (mốc 12 tháng không có kinh), và khoảng thời gian sau đó đôi khi được gọi là hậu mãn kinh. Vì về lâu dài estrogen còn ảnh hưởng đến xương và tim, nhân viên y tế sẽ chú ý đến những điều này bên cạnh các triệu chứng hằng ngày. Nhiều cách tiếp cận — từ thay đổi lối sống đến các phương pháp điều trị không dùng nội tiết và có dùng nội tiết — có thể làm dịu triệu chứng, và cách nào phù hợp tùy thuộc vào sức khỏe, tiền sử và mong muốn của bạn, đó là điều cần trao đổi với nhân viên y tế.",
+      "when_to_see_doctor": "- Hãy đi khám bác sĩ gia đình nếu các triệu chứng mãn kinh làm bạn khó chịu hoặc ảnh hưởng đến cuộc sống hằng ngày, và bạn muốn trao đổi về các lựa chọn.\n- **Luôn luôn** đi khám bác sĩ gia đình nếu bạn có **bất kỳ hiện tượng ra máu âm đạo nào sau 12 tháng không có kinh** (ra máu sau mãn kinh). Thường thì không có gì nghiêm trọng, nhưng luôn cần được kiểm tra.\n- Bạn cũng nên đi kiểm tra nếu lượng máu ra nhiều hơn chứ không ít đi so với trước, hoặc kỳ kinh thay đổi theo cách khiến bạn lo lắng.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Chu kỳ kinh nguyệt",
+      "aliases": [
+        "chu kỳ kinh nguyệt",
+        "chu kỳ",
+        "chu kỳ hằng tháng",
+        "vòng kinh",
+        "chu kỳ kinh bao nhiêu ngày",
+        "cách tính chu kỳ kinh"
+      ],
+      "glance": "Chu kỳ kinh nguyệt là nhịp điệu hằng tháng mà cơ thể bạn vận hành theo để chuẩn bị cho khả năng mang thai.",
+      "overview": "Chu kỳ kinh nguyệt được tính từ ngày đầu tiên của kỳ kinh — đó là ngày 1 — cho đến ngày trước khi kỳ kinh tiếp theo bắt đầu. Nó được điều khiển bởi các nội tiết tố tăng và giảm theo một quy luật lặp lại mỗi tháng.\n\nMột chu kỳ thường vào khoảng 28 ngày, nhưng đó chỉ là con số trung bình. Bất kỳ độ dài nào từ khoảng 21 đến 35 ngày đều bình thường, và độ dài chu kỳ của bạn có thể thay đổi một chút giữa các tháng. Hiểu quy luật của riêng bạn hữu ích hơn là so sánh với một con số.\n\nTrong suốt chu kỳ, cơ thể bạn đi qua một vài giai đoạn: kỳ kinh, giai đoạn chuẩn bị phóng thích trứng, chính sự phóng thích trứng (rụng trứng), và khoảng thời gian sau đó. Mỗi giai đoạn được định hình bởi các nội tiết tố, chủ yếu là estrogen và progesterone.",
+      "deep": "Toàn bộ chu kỳ là một cuộc “trò chuyện” giữa não và buồng trứng, được truyền đi bởi các nội tiết tố. Trong nửa đầu, estrogen tăng lên khi một nang noãn chứa trứng trưởng thành trong buồng trứng và niêm mạc tử cung dày lên. Khoảng giữa chu kỳ, một trứng được phóng ra. Trong nửa sau, progesterone giúp giữ cho lớp niêm mạc đó sẵn sàng trong trường hợp có trứng đã thụ tinh đến.\n\nNếu không có thai, estrogen và progesterone giảm xuống mức thấp, lớp niêm mạc bong ra thành kỳ kinh, và quy luật lại bắt đầu từ đầu. Vì các nội tiết tố này tác động đến nhiều hệ cơ quan, bạn có thể nhận thấy những thay đổi nhỏ hằng ngày trong suốt tháng — đây là nhịp điệu bình thường của chu kỳ, không phải điều cần “sửa chữa”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Giai đoạn hành kinh (kỳ kinh)",
+      "aliases": [
+        "kỳ kinh",
+        "kinh nguyệt",
+        "hành kinh",
+        "đến tháng",
+        "giai đoạn hành kinh",
+        "ra máu kinh",
+        "đèn đỏ"
+      ],
+      "glance": "Kỳ kinh là vài ngày ra máu mở đầu mỗi chu kỳ, khi niêm mạc tử cung bong ra.",
+      "overview": "Giai đoạn hành kinh chính là kỳ kinh của bạn — những ngày bạn ra máu. Nó bắt đầu vào ngày 1 của chu kỳ, khi nồng độ estrogen và progesterone đã giảm đủ thấp đến mức lớp niêm mạc được xây dựng bên trong tử cung không còn được duy trì và bong ra, rời khỏi cơ thể qua âm đạo.\n\nMột kỳ kinh thường kéo dài khoảng 2 đến 7 ngày, trong đó khoảng 5 ngày là phổ biến. Lượng máu thường nhiều nhất trong một hai ngày đầu và ít dần sau đó. Kinh nguyệt thường bắt đầu vào khoảng 12 tuổi, dù bắt đầu sớm hơn hay muộn hơn cũng đều bình thường.\n\nThế nào là “bình thường” khác nhau rất nhiều giữa mỗi người. Theo dõi kỳ kinh của chính mình giúp bạn nhận ra điều gì là bình thường với bạn, điều này có ý nghĩa hơn nhiều so với bất kỳ con số trung bình nào.",
+      "deep": "Máu kinh là lớp niêm mạc tử cung (nội mạc tử cung) bong ra sau một chu kỳ không có thai. Nó đánh dấu cả sự kết thúc của một chu kỳ lẫn sự bắt đầu của chu kỳ tiếp theo, đó là lý do ngày 1 của kỳ kinh được tính là ngày 1 của cả chu kỳ. Khi kỳ kinh kết thúc, estrogen bắt đầu tăng trở lại và cơ thể bắt đầu xây dựng lại lớp niêm mạc cho chu kỳ sắp tới.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Sảy thai",
+      "aliases": [
+        "sảy thai",
+        "sẩy thai",
+        "mất thai",
+        "sảy thai sớm",
+        "hư thai",
+        "dọa sảy thai"
+      ],
+      "glance": "Sảy thai là mất thai trước tuần 24 — điều này thường gặp, và hầu như không bao giờ do bạn gây ra.",
+      "overview": "Sảy thai là mất thai trong 24 tuần đầu. Điều này phổ biến hơn nhiều người nghĩ, và một trong những điều quan trọng nhất cần biết là sảy thai hầu như không bao giờ do bất cứ điều gì bạn đã làm hay không làm — nó thường xảy ra vì có vấn đề trong quá trình phát triển của thai, điều nằm ngoài tầm kiểm soát của bất kỳ ai.\n\nDấu hiệu phổ biến nhất là ra máu âm đạo, và đau quặn hoặc đau ở bụng dưới. Ra máu trong giai đoạn đầu thai kỳ không phải lúc nào cũng có nghĩa là đang sảy thai — nhiều người ra một chút máu và vẫn tiếp tục có một thai kỳ khỏe mạnh — nhưng luôn cần được kiểm tra.\n\nDù mất thai xảy ra như thế nào, những cảm xúc đi kèm đều thật và chính đáng, và đau buồn là phản ứng bình thường. Bạn không phải trải qua điều đó một mình — luôn có sự hỗ trợ, từ nữ hộ sinh hoặc bác sĩ gia đình và từ các tổ chức từ thiện chuyên hỗ trợ những người mất thai.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy liên hệ bác sĩ gia đình, nữ hộ sinh hoặc phòng khám thai sớm (hoặc bác sĩ trực ngoài giờ) nếu bạn **ra máu hoặc ra máu lấm tấm âm đạo khi mang thai**, kể cả khi chỉ ra ít và đau ít hoặc không đau — để được kiểm tra.\n- Hãy hỏi về **phòng khám thai sớm** gần nhất, nơi được thiết lập chính cho những trường hợp như thế này.",
+      "red_flags": "- Gọi **{{emergency}} hoặc đến khoa cấp cứu** nếu, khi đang mang thai, bạn bị **đau bụng dữ dội, đau ở đầu vai, ra máu nhiều, hoặc cảm thấy như sắp ngất hay rất không khỏe**. Đây có thể là dấu hiệu của một vấn đề nghiêm trọng như mang thai ngoài tử cung, cần được chăm sóc khẩn cấp."
+    },
+    "morning-sickness": {
+      "title": "Ốm nghén",
+      "aliases": [
+        "ốm nghén",
+        "nghén",
+        "buồn nôn khi mang thai",
+        "nôn khi mang thai",
+        "nghén nặng",
+        "nôn nghén nặng",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "Buồn nôn hoặc nôn rất thường gặp trong giai đoạn đầu thai kỳ, và thường giảm vào khoảng tuần 16 đến tuần 20.",
+      "overview": "Buồn nôn hoặc nôn rất thường gặp trong giai đoạn đầu thai kỳ. Dù thường được gọi là “ốm nghén buổi sáng”, nó có thể xảy ra vào bất kỳ lúc nào trong ngày hay đêm. Với hầu hết mọi người, nó bắt đầu trong vài tuần đầu và dịu đi vào khoảng tuần 16 đến tuần 20.\n\nỐm nghén rất khó chịu, và với một số người nó thực sự ảnh hưởng đến cuộc sống hằng ngày — nhưng ốm nghén thông thường không làm tăng bất kỳ nguy cơ nào cho em bé. Ăn từng ít một nhưng nhiều lần, và tìm ra điều giúp ích cho bạn, có thể khiến nó dễ chịu hơn; nữ hộ sinh, bác sĩ gia đình hoặc dược sĩ có thể gợi ý các lựa chọn an toàn nếu bạn thấy quá vất vả.\n\nVới một số ít người, tình trạng nôn trở nên nghiêm trọng (gọi là chứng nôn nghén nặng — hyperemesis gravidarum), với nguy cơ thực sự bị mất nước. Dạng này cần được hỗ trợ y tế — xem các dấu hiệu bên dưới.",
+      "deep": null,
+      "when_to_see_doctor": "Hãy liên hệ nữ hộ sinh, bác sĩ gia đình hoặc bác sĩ trực ngoài giờ nếu bạn:\n\n- ăn hay uống bất cứ thứ gì cũng nôn ra hết suốt 24 giờ\n- nước tiểu rất sẫm màu, hoặc không đi tiểu trong hơn 8 giờ\n- cảm thấy rất yếu, chóng mặt hoặc như sắp ngất khi đứng dậy\n- bị đau bụng, sốt, hoặc nôn ra máu\n- đang bị sụt cân",
+      "red_flags": "- Uống gì cũng nôn ra hết, kèm nước tiểu rất sẫm màu hoặc không đi tiểu, có thể có nghĩa là bạn đang bị mất nước (nôn nghén nặng) — **hãy liên hệ nữ hộ sinh, bác sĩ gia đình hoặc bác sĩ trực ngoài giờ ngay trong ngày**, vì bạn có thể cần được điều trị để tình trạng không nặng thêm."
+    },
+    "ovulation": {
+      "title": "Rụng trứng",
+      "aliases": [
+        "rụng trứng",
+        "ngày rụng trứng",
+        "phóng noãn",
+        "dấu hiệu rụng trứng",
+        "cách tính ngày rụng trứng",
+        "cửa sổ thụ thai"
+      ],
+      "glance": "Rụng trứng là khi buồng trứng phóng thích một trứng — thời điểm dễ thụ thai nhất trong chu kỳ của bạn.",
+      "overview": "Rụng trứng là thời điểm buồng trứng phóng thích một trứng đã trưởng thành. Đây là bước ngoặt của chu kỳ: nửa đầu chu kỳ chuẩn bị cho nó, và nửa sau diễn ra sau nó.\n\nTrong một chu kỳ khoảng 28 ngày, rụng trứng thường xảy ra vào khoảng ngày 14 — nhưng thời điểm này có thể thay đổi. Một cách hữu ích để hình dung là rụng trứng thường xảy ra vào khoảng 10 đến 16 ngày trước khi kỳ kinh tiếp theo bắt đầu. Rất khó xác định chính xác ngày rụng trứng.\n\nSau khi được phóng ra, trứng chỉ có thể được thụ tinh trong khoảng 12 đến 24 giờ. Tuy nhiên, tinh trùng có thể sống trong cơ thể vài ngày, nên “cửa sổ thụ thai” rộng hơn một ngày — khoảng vài ngày trước khi rụng trứng và chính ngày rụng trứng.",
+      "deep": "Việc phóng thích trứng được kích hoạt bởi một đợt tăng nội tiết tố ngắn và mạnh vào khoảng giữa chu kỳ, tiếp nối sự gia tăng estrogen của giai đoạn nang noãn. Vì tinh trùng có thể sống nhiều ngày trong khi trứng sống chưa đến một ngày, khả năng mang thai cao nhất là khi quan hệ vào những ngày ngay trước khi rụng trứng. Thời điểm rụng trứng có thể xê dịch giữa các chu kỳ do những yếu tố như căng thẳng hay ốm đau, đó là lý do rất khó dự đoán chính xác và vì sao theo dõi qua nhiều chu kỳ đáng tin cậy hơn bất kỳ phép tính đơn lẻ nào.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Đau khi quan hệ tình dục",
+      "aliases": [
+        "đau khi quan hệ",
+        "đau khi quan hệ tình dục",
+        "giao hợp đau",
+        "đau khi giao hợp",
+        "rát khi quan hệ",
+        "co thắt âm đạo",
+        "vaginismus"
+      ],
+      "glance": "Đau khi quan hệ tình dục là điều thường gặp, có nhiều nguyên nhân, và luôn nên đi khám — luôn có cách giúp đỡ.",
+      "overview": "Đau khi quan hệ tình dục — đôi khi gọi là chứng giao hợp đau — phổ biến hơn nhiều người nghĩ, và đó không bao giờ là điều bạn chỉ đơn giản phải chấp nhận. Nó có thể có nhiều nguyên nhân, và tìm ra đúng nguyên nhân là chìa khóa để giảm đau.\n\nMột số nguyên nhân là về thể chất. Khô âm đạo là nguyên nhân thường gặp, thường liên quan đến nội tiết tố quanh thời kỳ mãn kinh hoặc do chưa đủ hưng phấn, và có thể khiến quan hệ bị rát hoặc khó chịu. Các bệnh nhiễm trùng, như nấm âm đạo, cũng có thể gây đau. Một nguyên nhân khác là co thắt âm đạo (vaginismus) — khi các cơ quanh âm đạo tự co thắt lại lúc có sự thâm nhập, có thể khiến quan hệ bị đau hoặc dường như không thể thực hiện được. Điều này là không tự chủ, không phải “do bạn tưởng tượng”, và có thể điều trị được.\n\nVì nguyên nhân có thể là thể chất, nội tiết, hoặc liên quan đến mức độ thư giãn hay hưng phấn của bạn — và thường là sự kết hợp — nên bước hữu ích là đi khám thay vì tự đoán hoặc cố chịu đựng.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy đi khám bác sĩ gia đình hoặc phòng khám sức khỏe tình dục nếu quan hệ tình dục gây đau — dù nguyên nhân là gì, cũng nên đi kiểm tra, và có những cách giúp đỡ hiệu quả cho các nguyên nhân thường gặp.\n- Có thể bạn thấy ngại khi nói ra, nhưng nhân viên y tế thường xuyên gặp vấn đề này và họ ở đó để giúp đỡ, không phải để phán xét. Bạn có thể yêu cầu gặp bác sĩ nữ, đưa ai đó đi cùng, và trao đổi về điều gì sẽ giúp việc thăm khám thoải mái hơn.\n- Hãy đi kiểm tra nếu có bất kỳ hiện tượng ra máu nào sau khi quan hệ, và đi khám sớm hơn nếu cơn đau dữ dội hoặc bạn còn cảm thấy không khỏe.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Giảm đau khi chuyển dạ",
+      "aliases": [
+        "giảm đau khi chuyển dạ",
+        "gây tê ngoài màng cứng",
+        "đẻ không đau",
+        "sinh không đau",
+        "khí cười",
+        "Entonox",
+        "sinh trong nước",
+        "máy TENS"
+      ],
+      "glance": "Có nhiều cách giúp giảm đau khi chuyển dạ — không có lựa chọn nào đúng hay sai, và bạn có thể linh hoạt thay đổi.",
+      "overview": "Chuyển dạ mỗi người mỗi khác, và có nhiều cách để đối phó với cơn đau — từ những biện pháp đơn giản giúp dễ chịu hơn đến các lựa chọn y tế. Biết trước những gì có sẵn có thể giúp bạn cảm thấy được chuẩn bị tốt hơn.\n\nCác lựa chọn bao gồm từ **duy trì vận động và giữ tư thế thẳng đứng**, hít thở và thư giãn, xoa bóp, ngâm mình trong **nước** (bồn tắm hoặc bể sinh), cho đến **máy TENS**, **khí cười** (Entonox, loại khí bạn tự hít), **thuốc tiêm** như pethidine, và **gây tê ngoài màng cứng** (do bác sĩ gây mê thực hiện, giúp làm mất cảm giác đau chuyển dạ đầy đủ hơn).\n\nKhông có lựa chọn nào là “tốt nhất” — điều đó tùy thuộc vào bạn, cuộc chuyển dạ của bạn và cảm nhận của bạn vào hôm đó. Bạn nên ghi lại mong muốn của mình trong **kế hoạch sinh**, đồng thời giữ tinh thần cởi mở: nhiều người nhận ra họ muốn giảm đau nhiều hơn, hoặc ít hơn, so với dự tính, và điều đó hoàn toàn bình thường.",
+      "deep": null,
+      "when_to_see_doctor": "- **Nữ hộ sinh** (và, với gây tê ngoài màng cứng, bác sĩ gây mê) sẽ giải thích các lựa chọn và giúp bạn quyết định điều gì phù hợp với mình — trong thai kỳ và một lần nữa ngay trong lúc chuyển dạ. Không cần phải quyết định mọi thứ từ trước.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (hội chứng buồng trứng đa nang)",
+      "aliases": [
+        "pcos",
+        "buồng trứng đa nang",
+        "hội chứng buồng trứng đa nang",
+        "đa nang buồng trứng",
+        "đa nang",
+        "kinh không đều do đa nang"
+      ],
+      "glance": "PCOS là một bệnh lý nội tiết phổ biến có thể ảnh hưởng đến kinh nguyệt, sự rụng trứng, làn da và lông tóc.",
+      "overview": "PCOS — hội chứng buồng trứng đa nang — là một bệnh lý phổ biến liên quan đến sự cân bằng của các nội tiết tố sinh sản. Các ước tính cho thấy bệnh ảnh hưởng đến khoảng 1 trên 10 phụ nữ trong độ tuổi sinh sản, và nhiều người mắc bệnh chưa bao giờ được chẩn đoán.\n\nBệnh có thể biểu hiện theo nhiều cách khác nhau, và không ai giống ai hoàn toàn. Các đặc điểm thường gặp gồm kinh nguyệt không đều, thưa hoặc mất kinh; nồng độ cao hơn của các nội tiết tố gọi là androgen, có thể dẫn đến mọc nhiều lông trên mặt hoặc cơ thể, mụn trứng cá, hoặc tóc trên da đầu thưa mỏng; và buồng trứng không phóng thích trứng đều đặn như bình thường, có thể khiến việc thụ thai khó khăn hơn. Thay đổi cân nặng và những mảng da sẫm màu cũng thường gặp.\n\nNguyên nhân chính xác vẫn chưa được hiểu đầy đủ, và chưa có cách chữa khỏi — nhưng các triệu chứng có thể được kiểm soát, và hiểu điều gì đang xảy ra là bước đầu tiên. PCOS phổ biến và có thể kiểm soát được, không phải điều gì đáng xấu hổ.",
+      "deep": "Vì PCOS liên quan đến nội tiết tố của cơ thể và cách cơ thể xử lý insulin, về lâu dài nó còn liên quan đến tình trạng kháng insulin và nguy cơ cao hơn mắc đái tháo đường type 2, tăng huyết áp và thay đổi cholesterol — đó là lý do nhân viên y tế thường theo dõi những yếu tố này theo thời gian. Khoảng một nửa số người mắc PCOS có thể bị đái tháo đường hoặc tiền đái tháo đường khi bước vào tuổi bốn mươi, nên việc kiểm tra định kỳ rất quan trọng. Chẩn đoán không phải điều bạn tự đánh giá được: nhân viên y tế sẽ xem xét bức tranh tổng thể — tiền sử và kinh nguyệt của bạn, đôi khi xét nghiệm máu để đo nội tiết tố, và đôi khi siêu âm buồng trứng — và loại trừ các nguyên nhân khác trước khi kết luận là PCOS.",
+      "when_to_see_doctor": "Bạn nên đi khám bác sĩ gia đình nếu nhận thấy những điều phù hợp với mô tả trên, đặc biệt nếu chúng ảnh hưởng đến cảm nhận hằng ngày của bạn:\n\n- kinh nguyệt không đều, rất thưa, hoặc đã ngừng\n- lông mọc nhiều hơn rõ rệt trên mặt hoặc cơ thể, mụn trứng cá dai dẳng, hoặc tóc trên da đầu thưa dần\n- khó có thai sau khi đã cố gắng một thời gian\n- tăng cân khó giảm, kèm theo các triệu chứng khác\n\nBác sĩ gia đình có thể tìm hiểu điều gì đang xảy ra, xác nhận đó có phải là PCOS hay nguyên nhân khác, và trao đổi về một kế hoạch phù hợp với bạn. PCOS cũng liên quan đến tâm trạng sa sút và lo âu — nếu bạn đang gặp khó khăn với cảm xúc của mình, hãy nói với bác sĩ gia đình; đó là một phần của bức tranh và luôn có sự hỗ trợ.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Tiền mãn kinh",
+      "aliases": [
+        "tiền mãn kinh",
+        "giai đoạn chuyển tiếp mãn kinh",
+        "quanh mãn kinh",
+        "dấu hiệu tiền mãn kinh",
+        "kinh không đều tuổi 40",
+        "bốc hỏa"
+      ],
+      "glance": "Tiền mãn kinh là giai đoạn chuyển tiếp dẫn đến mãn kinh, khi kinh nguyệt và nội tiết tố bắt đầu thay đổi.",
+      "overview": "Tiền mãn kinh là khoảng thời gian dẫn đến mãn kinh — những năm “quanh mãn kinh”. Nó bắt đầu khi bạn lần đầu nhận thấy những thay đổi và kéo dài cho đến tròn một năm sau kỳ kinh cuối cùng, là thời điểm bạn đã đến mãn kinh. Giai đoạn này có thể kéo dài vài năm.\n\nTrong thời gian này, buồng trứng dần tạo ra ít estrogen hơn, và nồng độ tăng giảm khó đoán hơn trước. Dấu hiệu sớm phổ biến nhất là kinh nguyệt thay đổi — các kỳ kinh gần nhau hơn hoặc cách xa nhau hơn, ra ít hơn hoặc nhiều hơn. Nhiều triệu chứng gắn với mãn kinh, như bốc hỏa, thay đổi giấc ngủ hay thay đổi tâm trạng, có thể bắt đầu từ đây khi bạn vẫn còn có kinh.\n\nVì diễn ra từ từ và khác nhau rất nhiều, tiền mãn kinh có thể gây bối rối — những thay đổi không đến cùng một lúc hay theo cùng một thứ tự ở mọi người. Biết rằng giai đoạn này có tên gọi riêng, và đó là một quá trình chuyển tiếp bình thường, có thể giúp bạn dễ hiểu hơn những gì đang xảy ra.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy đi khám bác sĩ gia đình nếu các triệu chứng tiền mãn kinh đang ảnh hưởng đến cuộc sống hằng ngày và bạn muốn trao đổi về những điều có thể giúp ích.\n- Bạn nên đi khám nếu kinh nguyệt trở nên ra rất nhiều, hoặc nếu bạn ra máu giữa các kỳ kinh hoặc sau khi quan hệ tình dục, để tìm ra nguyên nhân.\n- Hãy nhớ rằng vẫn có thể mang thai trong giai đoạn tiền mãn kinh, vì vậy bạn nên trao đổi với nhân viên y tế về biện pháp tránh thai nếu điều đó liên quan đến bạn.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Đau bụng kinh",
+      "aliases": [
+        "đau bụng kinh",
+        "đau bụng khi hành kinh",
+        "đau bụng khi đến tháng",
+        "thống kinh",
+        "chuột rút khi có kinh",
+        "đau quặn bụng dưới",
+        "đau kinh nguyệt"
+      ],
+      "glance": "Đau bụng kinh là cảm giác co thắt ở bụng dưới quanh thời gian hành kinh — thường gặp, và thường là một phần bình thường của chu kỳ.",
+      "overview": "Đau bụng kinh là cảm giác co thắt, âm ỉ ở bụng dưới mà nhiều người gặp phải quanh kỳ kinh. Nó xảy ra khi thành cơ tử cung co thắt lại, và thường là một phần bình thường của chu kỳ kinh nguyệt. Tên y khoa của nó là thống kinh.\n\nCơn đau thường xuất hiện khi bắt đầu kỳ kinh, hoặc ngay trước đó, và thường kéo dài đến khoảng ba ngày. Với một số người, đó chỉ là cảm giác nặng nề nhẹ; với những người khác, cơn co thắt mạnh hơn. Cơn đau cũng có thể thay đổi theo thời gian trong cuộc đời và giữa các chu kỳ.\n\nĐau bụng kinh theo quy luật quen thuộc này là điều thường gặp và thường có thể kiểm soát được. Nhiều người dùng các biện pháp giúp dễ chịu hằng ngày và thuốc giảm đau thông thường, và dược sĩ hoặc bác sĩ gia đình có thể tư vấn điều gì phù hợp với bạn. Điều quan trọng là biết quy luật thông thường của chính mình — để bạn có thể nhận ra khi có gì đó thay đổi.",
+      "deep": null,
+      "when_to_see_doctor": "Bạn nên trao đổi với bác sĩ gia đình nếu:\n\n- kỳ kinh trở nên đau hơn, ra nhiều hơn hoặc không đều hơn bình thường\n- cơn đau khiến bạn không thể làm những việc hằng ngày như đi làm hay đi học\n- thuốc giảm đau thông thường không có tác dụng\n- bạn bị đau khi quan hệ tình dục, hoặc khi đi tiểu hay đi đại tiện\n- bạn ra máu giữa các kỳ kinh\n- cơn đau xuất hiện vào những thời điểm khác, không chỉ ngay trước hoặc trong kỳ kinh\n- bạn ra cục máu đông lớn hơn một đồng xu (cỡ khoảng đồng quarter của Mỹ)\n- bạn còn nhận thấy bụng chướng, ăn kém ngon miệng, hoặc sụt cân không rõ lý do\n\nNhững điều này không có nghĩa là có gì đó không ổn, nhưng nên đi khám để kiểm tra — đau bụng kinh mới xuất hiện, khác lạ hoặc khó kiểm soát có thể có những nguyên nhân mà nhân viên y tế có thể giúp xử lý.",
+      "red_flags": "- Hãy xin một buổi hẹn **khẩn** với bác sĩ gia đình, hoặc liên hệ **bác sĩ trực ngoài giờ**, nếu cơn đau bụng kinh hoặc đau vùng chậu của bạn **dữ dội, hoặc nặng hơn bình thường, và thuốc giảm đau không có tác dụng.**"
+    },
+    "planning-pregnancy": {
+      "title": "Chuẩn bị mang thai",
+      "aliases": [
+        "chuẩn bị mang thai",
+        "kế hoạch mang thai",
+        "trước khi mang thai",
+        "muốn có con",
+        "cố gắng có thai",
+        "khám tiền thai sản",
+        "chuẩn bị có em bé"
+      ],
+      "glance": "Một vài bước đơn giản trước khi thử có thai — axit folic, bỏ thuốc lá và rượu bia — giúp thai kỳ có khởi đầu tốt nhất.",
+      "overview": "Nếu bạn đang nghĩ đến chuyện có em bé, một vài bước chuẩn bị trước có thể giúp thai kỳ có khởi đầu khỏe mạnh hơn — nhiều bước trong số đó phát huy tác dụng từ trước cả khi bạn thụ thai.\n\nNhững bước chính: bắt đầu uống **axit folic** (và vitamin D), **bỏ thuốc lá**, và **tránh rượu bia**. Hướng tới cân nặng khỏe mạnh cũng có ích, vì thiếu cân hoặc thừa cân đáng kể có thể khiến việc thụ thai khó khăn hơn. Bạn cũng nên đảm bảo đã tiêm **vắc-xin MMR (sởi, quai bị, rubella)** đầy đủ, vì một số bệnh nhiễm trùng có thể ảnh hưởng đến thai kỳ.\n\nKhông điều nào trong số này cần phải hoàn hảo hay gây căng thẳng. Những thay đổi nhỏ, nhẹ nhàng từ trước mới là điều quan trọng — và chuẩn bị sớm một chút là một trong những điều tuyệt vời nhất bạn có thể làm cho thai kỳ tương lai.",
+      "deep": null,
+      "when_to_see_doctor": "- Nếu bạn có **bệnh lý mạn tính** hoặc đang **dùng thuốc thường xuyên**, hãy gặp bác sĩ gia đình trước khi bắt đầu cố gắng có thai — một số bệnh lý và loại thuốc cần được lên kế hoạch phù hợp. **Đừng tự ý ngừng bất kỳ loại thuốc được kê đơn nào** khi chưa trao đổi với bác sĩ.\n- Bác sĩ gia đình cũng có thể tư vấn về axit folic (bao gồm việc bạn có cần liều cao hơn hay không) và cách đạt cân nặng khỏe mạnh trước khi mang thai.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Trầm cảm sau sinh",
+      "aliases": [
+        "trầm cảm sau sinh",
+        "trầm cảm sau khi sinh",
+        "buồn sau sinh",
+        "baby blues",
+        "PND",
+        "khủng hoảng sau sinh",
+        "stress sau sinh"
+      ],
+      "glance": "Trầm cảm sau sinh là tình trạng tâm trạng sa sút thường gặp sau khi sinh và có thể điều trị được — đó không phải lỗi của bạn, và luôn có sự giúp đỡ.",
+      "overview": "Cảm thấy buồn, lo âu hoặc dễ cáu gắt trong một hai tuần đầu sau sinh là rất thường gặp — tình trạng này thường được gọi là “baby blues” (buồn sau sinh), và thường tự qua đi trong khoảng hai tuần.\n\nTrầm cảm sau sinh thì khác: đó là tâm trạng sa sút sâu hơn hoặc kéo dài hơn. Đây là một bệnh lý phổ biến, có thể bắt đầu vào bất kỳ lúc nào trong năm đầu tiên, và cũng có thể ảnh hưởng đến người cha và người bạn đời. Các dấu hiệu gồm tâm trạng sa sút kéo dài, khó cảm thấy vui với bất cứ điều gì, khó ngủ ngay cả khi em bé đang ngủ, và đôi khi có những cảm xúc khó khăn trong việc gắn bó với em bé.\n\nMắc bệnh **không** có nghĩa là bạn là cha mẹ tồi hay bạn không yêu con — đó là một căn bệnh, không phải sự thất bại, và đáp ứng tốt với sự hỗ trợ và điều trị. Tìm đến sự giúp đỡ sớm là một việc làm mạnh mẽ và đầy yêu thương, cho cả bạn và em bé.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy nói chuyện với **bác sĩ gia đình, nữ hộ sinh hoặc điều dưỡng thăm khám tại nhà** nếu bạn nghĩ mình có thể bị trầm cảm sau sinh, hoặc nếu tình trạng “baby blues” chưa dịu đi sau hai tuần. Họ đã gặp điều này rất nhiều lần và có thể giúp bạn tìm được sự hỗ trợ phù hợp.",
+      "red_flags": "- Nếu bạn có **ý nghĩ làm hại bản thân hoặc em bé**, hoặc nghĩ rằng gia đình sẽ tốt hơn khi không có bạn, hãy tìm sự giúp đỡ **ngay lập tức**: gọi **{{emergency}}** hoặc đến khoa cấp cứu, hoặc gọi một đường dây hỗ trợ khủng hoảng. Những ý nghĩ này có thể là một phần của căn bệnh, chúng không phải con người thật của bạn, và luôn có sự giúp đỡ khẩn cấp dành cho bạn."
+    },
+    "pre-eclampsia": {
+      "title": "Tiền sản giật",
+      "aliases": [
+        "tiền sản giật",
+        "huyết áp cao khi mang thai",
+        "cao huyết áp thai kỳ",
+        "nhiễm độc thai nghén",
+        "sản giật",
+        "protein niệu khi mang thai"
+      ],
+      "glance": "Tiền sản giật là tình trạng huyết áp tăng cao khi mang thai — lúc đầu thường không có biểu hiện, đó là lý do các lần khám thai rất quan trọng.",
+      "overview": "Tiền sản giật là một bệnh lý của thai kỳ, chủ yếu biểu hiện bằng huyết áp cao, kèm theo protein trong nước tiểu. Bệnh thường xuất hiện từ khoảng tuần 20, và đôi khi sau khi sinh.\n\nMột trong những điều quan trọng nhất cần biết là giai đoạn đầu bệnh thường **hoàn toàn không có triệu chứng** — bạn có thể cảm thấy hoàn toàn khỏe. Đó chính là lý do nữ hộ sinh đo huyết áp và xét nghiệm nước tiểu của bạn trong mỗi lần khám thai định kỳ: những bước kiểm tra đó là cách bệnh thường được phát hiện trước khi bạn nhận thấy bất cứ điều gì.\n\nKhi triệu chứng xuất hiện, bạn nên biết chúng, vì tiền sản giật có thể trở nên nghiêm trọng cho cả bạn và em bé. Bệnh có thể được điều trị tốt khi được phát hiện kịp thời, và đi khám thai đầy đủ là cách tốt nhất để phát hiện sớm.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy đi đầy đủ các **buổi khám thai định kỳ** — việc đo huyết áp và xét nghiệm nước tiểu là cách tiền sản giật thường được phát hiện trước khi có triệu chứng.",
+      "red_flags": "Hãy tìm trợ giúp y tế **ngay lập tức** — liên hệ khoa sản hoặc **bác sĩ trực ngoài giờ** — nếu bạn có bất kỳ dấu hiệu nào sau đây (gọi **{{emergency}}** nếu bạn rất không khỏe, ví dụ lên cơn co giật):\n\n- **đau đầu dữ dội** không đỡ khi dùng thuốc giảm đau thông thường\n- **rối loạn thị giác** — nhìn mờ hoặc thấy chớp sáng\n- **sưng phù đột ngột** ở mặt, tay hoặc chân\n- **đau ngay dưới xương sườn**\n- **nôn**, hoặc đột nhiên cảm thấy rất không khỏe"
+    },
+    "pregnancy": {
+      "title": "Mang thai",
+      "aliases": [
+        "mang thai",
+        "có thai",
+        "có bầu",
+        "thai kỳ",
+        "tam cá nguyệt",
+        "ngày dự sinh",
+        "thai bao nhiêu tuần",
+        "cách tính tuổi thai"
+      ],
+      "glance": "Thai kỳ thường kéo dài khoảng 40 tuần, tính từ ngày đầu tiên của kỳ kinh cuối cùng.",
+      "overview": "Mang thai là khoảng thời gian cơ thể bạn nuôi dưỡng và mang một em bé. Thai kỳ thường kéo dài khoảng 40 tuần — bất kỳ lúc nào từ 37 đến 42 tuần đều được coi là đủ tháng và bình thường — và, có lẽ hơi bất ngờ, nó được tính từ ngày đầu tiên của **kỳ kinh cuối cùng**, chứ không phải từ lúc thụ thai. Đó đơn giản là cách tính ngày tiêu chuẩn.\n\n**Ngày dự sinh** là một ước tính, không phải hạn chót: em bé hoàn toàn có thể chào đời sớm hơn hoặc muộn hơn một chút. Ở giai đoạn đầu thai kỳ, một lần “siêu âm xác định tuổi thai” (thường vào khoảng tuần 12) có thể đo em bé và đưa ra ngày chính xác hơn, đôi khi làm thay đổi ước tính ban đầu.\n\nThai kỳ thường được chia thành ba giai đoạn, hay **tam cá nguyệt** (mỗi giai đoạn khoảng ba tháng), mỗi giai đoạn có những thay đổi riêng. Trong suốt hành trình, bạn được chăm sóc qua các lần khám thai định kỳ với nữ hộ sinh (và bác sĩ nếu cần) — sự chăm sóc giúp bạn và em bé luôn khỏe mạnh.",
+      "deep": "Vì ngày được tính từ kỳ kinh cuối, khi bị trễ kinh thì bạn đã được tính là mang thai khoảng bốn tuần. Số tuần thai là cơ sở để sắp xếp việc chăm sóc — siêu âm, sàng lọc và các lần khám đều được thực hiện vào những tuần nhất định. Nếu kinh nguyệt không đều hoặc bạn không chắc về ngày, lần siêu âm xác định tuổi thai sẽ là mốc thời gian chuẩn. Bài viết này là tấm bản đồ của cả hành trình; các chủ đề cụ thể — dấu hiệu mang thai, chăm sóc trước sinh, giữ gìn sức khỏe và chuyển dạ — đều có bài riêng.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Thử thai",
+      "aliases": [
+        "thử thai",
+        "que thử thai",
+        "thử thai tại nhà",
+        "test thai",
+        "xét nghiệm hCG",
+        "que thử 2 vạch",
+        "khi nào nên thử thai"
+      ],
+      "glance": "Que thử thai tại nhà kiểm tra nội tiết tố thai kỳ hCG trong nước tiểu — đáng tin cậy nhất từ ngày đầu tiên trễ kinh.",
+      "overview": "Que thử thai tại nhà hoạt động bằng cách phát hiện một nội tiết tố gọi là hCG (human chorionic gonadotrophin) trong nước tiểu. Cơ thể bạn bắt đầu tạo ra nó vài ngày sau khi trứng đã thụ tinh làm tổ, và lượng hCG tăng nhanh trong giai đoạn đầu thai kỳ.\n\nKết quả đáng tin cậy nhất từ **ngày đầu tiên trễ kinh** — khoảng hai tuần sau khi thụ thai. Nếu chu kỳ của bạn không đều hoặc bạn không chắc khi nào sẽ có kinh, hãy đợi ít nhất 21 ngày sau lần quan hệ không được bảo vệ để có kết quả đáng tin cậy hơn. Bạn không cần thử vào sáng sớm ngay khi thức dậy; bất kỳ lúc nào trong ngày cũng được.\n\nKết quả **dương tính** gần như chắc chắn là đúng — rất ít que thử cho kết quả dương tính khi bạn không mang thai. Kết quả **âm tính** thì kém chắc chắn hơn một chút: nếu kinh nguyệt vẫn chưa đến và bạn nghĩ mình có thể đang mang thai, hãy đợi vài ngày rồi thử lại.",
+      "deep": null,
+      "when_to_see_doctor": "- Nếu kết quả dương tính, hãy liên hệ **nữ hộ sinh hoặc bác sĩ gia đình** để bắt đầu chăm sóc trước sinh.\n- Nếu que thử âm tính nhưng bạn vẫn chưa có kinh và cảm thấy như đang mang thai (hoặc thấy không khỏe), hãy đi khám bác sĩ gia đình để tìm hiểu điều gì đang xảy ra.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Chuyển dạ sinh non",
+      "aliases": [
+        "chuyển dạ sinh non",
+        "sinh non",
+        "đẻ non",
+        "dọa sinh non",
+        "chuyển dạ sớm",
+        "vỡ ối sớm"
+      ],
+      "glance": "Chuyển dạ sinh non là chuyển dạ trước tuần 37 — hãy hành động nhanh, vì được chăm sóc sớm tạo ra khác biệt thực sự.",
+      "overview": "Chuyển dạ sinh non (hay chuyển dạ non tháng) là chuyển dạ bắt đầu trước tuần thứ 37 của thai kỳ. Tình trạng này xảy ra ở khoảng 8 trên 100 ca sinh.\n\nTrẻ sinh non dễ tổn thương hơn, nhưng nhiều bé vẫn phát triển tốt — đặc biệt khi được chăm sóc chuyên sâu tại các khoa sơ sinh. Điều quan trọng là hành động nhanh nếu bạn nghĩ chuyển dạ có thể đang bắt đầu, để bạn được đánh giá và, nếu cần, được điều trị giúp bảo vệ em bé.\n\nCác dấu hiệu tương tự như chuyển dạ ở bất kỳ giai đoạn nào, nhưng trước tuần 37 thì không bao giờ được chờ cho qua — chúng luôn là lý do để liên hệ ngay lập tức.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy gọi cho **nữ hộ sinh hoặc khoa sản** bất cứ lúc nào nếu thai của bạn **chưa đến 37 tuần** và bạn không chắc chắn hoặc lo lắng — việc gọi để kiểm tra luôn là điều nên làm.",
+      "red_flags": "Hãy liên hệ **ngay lập tức với nữ hộ sinh hoặc khoa sản** — dù ngày hay đêm — nếu, **trước tuần 37**, bạn có bất kỳ dấu hiệu nào sau đây:\n\n- **cơn co thắt hoặc cơn gò** đều đặn, hoặc đau giống như đau bụng kinh\n- **dịch trào ra hoặc rỉ ra** từ âm đạo (vỡ ối)\n- **đau lưng** khác với bình thường, hoặc cảm giác bị đè nặng ở vùng bụng dưới"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (hội chứng tiền kinh nguyệt)",
+      "aliases": [
+        "pms",
+        "hội chứng tiền kinh nguyệt",
+        "tiền kinh nguyệt",
+        "căng thẳng trước kỳ kinh",
+        "cáu gắt trước kỳ kinh",
+        "pmdd",
+        "rối loạn tâm trạng tiền kinh nguyệt",
+        "đau ngực trước kỳ kinh"
+      ],
+      "glance": "PMS là tổng hợp những thay đổi về thể chất và cảm xúc mà nhiều người nhận thấy trong một hai tuần trước kỳ kinh.",
+      "overview": "PMS — hội chứng tiền kinh nguyệt — là tên gọi cho những thay đổi mà nhiều người cảm nhận trong vài ngày hoặc một hai tuần trước kỳ kinh. Nó có thể ảnh hưởng đến bất kỳ ai có kinh nguyệt, và thường dịu đi trong vòng vài ngày sau khi kỳ kinh bắt đầu.\n\nNhững thay đổi này có nhiều dạng. Về thể chất, bạn có thể thấy đầy bụng, căng hoặc đau ngực, co thắt bụng, đau đầu, hoặc mệt mỏi hơn. Về cảm xúc, có thể có tâm trạng thất thường, dễ cáu gắt, lo âu hoặc buồn bã. Thèm ăn và thay đổi giấc ngủ cũng thường gặp. Không phải ai cũng bị PMS, và người bị cũng sẽ không gặp tất cả các triệu chứng — quy luật của riêng bạn mới là điều quan trọng.\n\nPMS là một phần bình thường, đã được công nhận trong chu kỳ của nhiều người, gắn với những thay đổi nội tiết tự nhiên của nửa sau chu kỳ. Để ý xem nó biểu hiện thế nào ở bạn qua từng chu kỳ có thể giúp bạn dễ lên kế hoạch hơn — và nhận ra nếu có lúc nó thay đổi.",
+      "deep": null,
+      "when_to_see_doctor": "Bạn nên trao đổi với bác sĩ gia đình nếu:\n\n- các triệu chứng đang ảnh hưởng đến cuộc sống hằng ngày — công việc, học tập, các mối quan hệ\n- những thay đổi trong thói quen hằng ngày không giúp ích\n- tâm trạng sa sút, lo âu hoặc cáu gắt của bạn trở nên nghiêm trọng\n\nNhân viên y tế có thể trao đổi với bạn về những điều có thể giúp ích. Một dạng nặng hơn, gọi là rối loạn tâm trạng tiền kinh nguyệt (PMDD), có thể gây ra các triệu chứng về tâm trạng mạnh hơn nhiều, và luôn có sự hỗ trợ cho tình trạng này.",
+      "red_flags": "- Nếu bạn có triệu chứng PMDD và **có ý nghĩ tự tử hoặc cảm thấy mình có thể tự làm hại bản thân**, hãy tìm sự giúp đỡ ngay lập tức: **gọi {{emergency}} hoặc đến khoa cấp cứu.** Đừng tự lái xe — hãy nhờ ai đó đưa bạn đi, hoặc gọi xe cấp cứu. Bạn xứng đáng được hỗ trợ, và luôn có sự giúp đỡ dành cho bạn."
+    },
+    "progesterone": {
+      "title": "Progesterone",
+      "aliases": [
+        "progesterone",
+        "nội tiết tố progesterone",
+        "hormone progesterone",
+        "xét nghiệm progesterone",
+        "nội tiết tố nửa sau chu kỳ"
+      ],
+      "glance": "Progesterone là nội tiết tố của nửa sau chu kỳ, chuẩn bị niêm mạc tử cung sau khi rụng trứng.",
+      "overview": "Progesterone là một trong những nội tiết tố chính đứng sau chu kỳ kinh nguyệt, và nó giữ vai trò chủ đạo trong nửa sau — sau khi trứng được phóng ra lúc rụng trứng.\n\nVai trò chính của nó là giúp niêm mạc tử cung luôn dày và sẵn sàng, để nếu có trứng đã thụ tinh đến thì trứng có thể làm tổ và thai kỳ có thể bắt đầu. Theo cách này, progesterone hoạt động như một người cộng sự của estrogen, nội tiết tố đã đảm nhận phần lớn việc xây dựng niêm mạc ở giai đoạn trước của chu kỳ.\n\nNếu không có thai, nồng độ progesterone giảm xuống. Chính sự sụt giảm đó cho phép lớp niêm mạc bong ra thành kỳ kinh tiếp theo. Sự tăng giảm của progesterone trong nửa sau chu kỳ là một nhịp điệu bình thường, như dự kiến.",
+      "deep": "Progesterone chủ yếu được tạo ra bởi hoàng thể — cấu trúc mà buồng trứng hình thành từ nang noãn sau khi nang đã phóng thích trứng. Đó là lý do progesterone tăng lên đặc biệt trong giai đoạn hoàng thể (sau rụng trứng). Khi hoàng thể thoái hóa, cả progesterone và estrogen đều giảm, báo hiệu sự bắt đầu của một chu kỳ mới. Những thay đổi tự nhiên của nó là một phần lý do khiến một số người nhận thấy những thay đổi tiền kinh nguyệt trong những ngày trước kỳ kinh.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Thuốc tránh thai chỉ chứa progestogen (viên thuốc mini)",
+      "aliases": [
+        "thuốc tránh thai chỉ chứa progestogen",
+        "viên thuốc mini",
+        "thuốc tránh thai progestin",
+        "thuốc tránh thai cho con bú",
+        "POP",
+        "thuốc tránh thai desogestrel"
+      ],
+      "glance": "Viên thuốc mini là thuốc uống hằng ngày chứa một loại nội tiết tố, làm đặc chất nhầy cổ tử cung để ngăn tinh trùng.",
+      "overview": "Thuốc tránh thai chỉ chứa progestogen — thường được gọi là viên thuốc mini — là viên uống hằng ngày chỉ chứa một loại nội tiết tố là progestogen. Đây là lựa chọn cho những người không thể hoặc không muốn dùng estrogen.\n\nTác dụng chính của nó là làm đặc chất nhầy ở cổ tử cung, khiến tinh trùng khó tiếp cận trứng hơn. Một loại phổ biến, thuốc chứa desogestrel, còn ngăn buồng trứng phóng thích trứng (rụng trứng).\n\nNếu uống đúng cách, hiệu quả trên 99%; với cách dùng thông thường hằng ngày, hiệu quả vào khoảng 91%. Giống như các loại thuốc tránh thai khác, thời điểm uống rất quan trọng, và thuốc không bảo vệ khỏi các bệnh lây truyền qua đường tình dục.",
+      "deep": "Viên thuốc mini khác với thuốc tránh thai kết hợp ở chỗ không chứa estrogen, điều này thay đổi việc ai có thể phù hợp với nó — nhân viên y tế sẽ cân nhắc điều này khi kê đơn. Một số loại cần được uống trong một khung giờ khá cố định mỗi ngày để giữ hiệu quả. Bài viết này giải thích thuốc là gì và hoạt động ra sao; cách uống và liệu thuốc có phù hợp với bạn hay không là điều cần trao đổi với bác sĩ gia đình, điều dưỡng hoặc dược sĩ.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Nhận biết một mối quan hệ bạo hành",
+      "aliases": [
+        "nhận biết bạo hành",
+        "mối quan hệ bạo hành",
+        "bạo lực gia đình",
+        "bạo lực từ bạn đời",
+        "dấu hiệu bạo hành",
+        "tôi có đang bị bạo hành không",
+        "chồng đánh vợ",
+        "bị người yêu đánh"
+      ],
+      "glance": "Bạo hành có thể là thể chất, tình dục, tinh thần hoặc kiểm soát — và không bao giờ là lỗi của người phải chịu đựng.",
+      "overview": "Bạo hành trong một mối quan hệ không chỉ là bạo lực thể chất. Nó có thể có nhiều hình thức, thường đi cùng nhau: gây tổn hại thể chất, ép buộc tình dục, tổn hại về tinh thần hoặc tâm lý, và các hành vi kiểm soát — người bạn đời quyết định bạn được đi đâu, gặp ai, hay được làm gì. Bất kỳ điều nào trong số này đều có thể là bạo hành, ngay cả khi không có thương tích nhìn thấy được.\n\nĐiều này phổ biến hơn nhiều người nghĩ. Trên toàn thế giới, khoảng 1 trên 3 phụ nữ từng trải qua bạo lực thể chất hoặc tình dục trong đời, phần lớn là từ bạn đời; tình hình ở Ý cũng tương tự. Vì vậy, nếu điều này là một phần trong cuộc sống của bạn, bạn không đơn độc, và đó không phải điều bạn gây ra.\n\nGọi tên nó có thể rất khó — bạo hành thường xen lẫn với những khoảng thời gian tốt đẹp, những lời xin lỗi hay hứa hẹn thay đổi, và nó có thể tăng dần chậm đến mức trở nên như bình thường. Tin vào cảm giác của chính mình rằng có điều gì đó không ổn là một lý do chính đáng để tìm sự giúp đỡ. Bạn không cần phải chắc chắn, hay chờ đến khi nó trở nên “đủ tệ”, mới được nói chuyện với ai đó.",
+      "deep": "Bên dưới các hình thức khác nhau, bạo hành thường theo một khuôn mẫu: một người tìm cách giành quyền lực và kiểm soát người kia, và nó có thể leo thang theo thời gian. Bạo hành gây tổn hại thực sự cho sức khỏe — nó liên quan đến lo âu, trầm cảm, khó ngủ và những ảnh hưởng thể chất lâu dài. Không điều nào trong đó có nghĩa là bạn yếu đuối hay có lỗi; nó có nghĩa là điều bạn đang phải sống cùng là có hại, và luôn có sự hỗ trợ giúp bạn suy nghĩ thấu đáo một cách an toàn, theo nhịp độ của riêng bạn.",
+      "when_to_see_doctor": "- Bạn có thể nói chuyện bảo mật với ai đó bất cứ khi nào bạn sẵn sàng — bác sĩ gia đình hoặc điều dưỡng, trung tâm chống bạo lực, hoặc đường dây hỗ trợ (ở Ý là **1522**, miễn phí và hoạt động mọi lúc). Bạn không cần có bằng chứng, kế hoạch hay quyết định trước; họ ở đó để lắng nghe và giúp bạn hiểu các lựa chọn của mình.\n- Nhân viên y tế cũng có thể điều trị các vết thương và âm thầm kết nối bạn với sự hỗ trợ chuyên biệt.",
+      "red_flags": "- Nếu bạn đang gặp **nguy hiểm tức thời**, hãy liên hệ dịch vụ khẩn cấp ngay: **112** ở EU (bao gồm Ý), **999** ở Vương quốc Anh, **911** ở Mỹ và Canada.\n- Ở Ý, **1522** — đường dây quốc gia miễn phí chống bạo lực và đeo bám — hoạt động 24 giờ mỗi ngày, ẩn danh, qua điện thoại hoặc trò chuyện trực tuyến, bằng nhiều ngôn ngữ."
+    },
+    "respect-not-control": {
+      "title": "Tôn trọng, không kiểm soát",
+      "aliases": [
+        "hành vi kiểm soát",
+        "kiểm soát cưỡng ép",
+        "mối quan hệ lành mạnh",
+        "dấu hiệu cảnh báo",
+        "tìm sự giúp đỡ ở đâu",
+        "bạo hành",
+        "ghen tuông kiểm soát",
+        "bạo lực gia đình"
+      ],
+      "glance": "Tình yêu được xây dựng trên sự tôn trọng và tự do — kiểm soát, ghen tuông và ép buộc không phải là tình yêu, và luôn có sự giúp đỡ.",
+      "overview": "Một mối quan hệ lành mạnh dựa trên sự tôn trọng, tin tưởng, bình đẳng và tự do: hai người mà mỗi người vẫn giữ những mối quan hệ bạn bè, lựa chọn và không gian riêng của mình. Kiểm soát thì ngược lại. Nó thường núp bóng dưới những từ như tình yêu hay ghen tuông — “Anh kiểm tra điện thoại của em vì anh quan tâm”, “Anh không muốn em gặp họ vì anh yêu em” — nhưng tác động của nó là thu hẹp thế giới và sự tự do của cô ấy.\n\nKiểm soát hiếm khi bắt đầu bằng bạo lực. Nó thường bắt đầu từ những điều nhỏ — một lời chỉ trích, một ranh giới bị vượt qua, một câu “đùa” gây tổn thương — rồi lớn dần. Gọi tên nó sớm là điều quan trọng, vì kiểm soát cưỡng ép tự nó đã là một hình thức bạo hành và là dấu hiệu cảnh báo cho những điều tồi tệ hơn. Đây không phải là chuyện cảm thấy tội lỗi; mà là chuyện trung thực và thay đổi.",
+      "deep": "**Nếu bạn nhận ra một vài điều trong số này ở chính mình, sự nhận thức đó là điểm khởi đầu — không phải bản án chung thân.**\nCon người có thể thay đổi bằng nỗ lực thực sự và sự giúp đỡ phù hợp. Tìm đến một chương trình chuyên biệt dành cho nam giới muốn ngừng hành vi kiểm soát hoặc bạo lực là dấu hiệu của sức mạnh, không phải yếu đuối. Hãy nói chuyện với chuyên gia, bác sĩ, hoặc một dịch vụ hỗ trợ thay đổi hành vi dành cho nam giới.\n\nNếu **cô ấy** là người đang gặp nguy hiểm, hoặc bạn lo lắng cho ai đó, hãy khuyến khích và hỗ trợ cô ấy tìm đến sự giúp đỡ — theo cách của cô ấy, không bao giờ bằng cách giành quyền quyết định thay cô ấy.\n\n**Tìm sự giúp đỡ ở đâu**\n- Trong trường hợp khẩn cấp, hoặc nếu có ai đó đang gặp nguy hiểm tức thời, hãy gọi số khẩn cấp tại nơi bạn ở (**112** ở Ý và phần lớn châu Âu; **911** ở Mỹ).\n- **Ý — 1522**: đường dây quốc gia chống bạo lực và đeo bám. Miễn phí, 24/7, ẩn danh và hỗ trợ nhiều ngôn ngữ, do Ban Bình đẳng Cơ hội điều hành. Đường dây cũng hướng dẫn mọi người đến các trung tâm chống bạo lực tại địa phương (centri antiviolenza).\n- Các trung tâm chống bạo lực và chương trình thay đổi hành vi dành cho nam giới (ở Ý là “centri per uomini autori di violenza”) cung cấp hỗ trợ bảo mật để thay đổi.",
+      "when_to_see_doctor": null,
+      "red_flags": "Những dấu hiệu cảnh báo của hành vi kiểm soát hoặc bạo hành — đáng được coi trọng, dù ở chính bạn hay trong một mối quan hệ:\n\n- **Theo dõi hoặc cô lập**: kiểm tra điện thoại của cô ấy, theo dõi vị trí, hoặc cắt đứt cô ấy khỏi bạn bè và gia đình.\n- **Kiểm soát các lựa chọn**: tiền bạc, cô ấy mặc gì, đi đâu, gặp ai.\n- **Ghen tuông được khoác áo tình yêu**, buộc tội liên tục, hoặc lúc nào cũng phải biết cô ấy đang ở đâu.\n- **Hạ thấp, đổ lỗi, hoặc khiến cô ấy sợ hãi**, cảm thấy tội lỗi, hay lúc nào cũng phải “dè chừng từng bước”.\n- **Gây áp lực hoặc đe dọa** về tình dục, chia tay, hoặc tự làm hại bản thân để ép cô ấy phải nghe theo.\n- **Bất kỳ hành vi dùng vũ lực, đe dọa uy hiếp hay gây sợ hãi nào.** Nếu có điều này, đó là bạo hành — hãy tìm đến sự giúp đỡ nêu trên. Không bao giờ có lý do bào chữa, và đó không bao giờ là lỗi của cô ấy."
+    },
+    "safety-plan": {
+      "title": "Lập kế hoạch an toàn",
+      "aliases": [
+        "kế hoạch an toàn",
+        "lập kế hoạch an toàn",
+        "giữ an toàn",
+        "bảo vệ bản thân",
+        "rời đi an toàn",
+        "thoát khỏi bạo lực gia đình"
+      ],
+      "glance": "Kế hoạch an toàn là một vài bước thực tế giúp bạn an toàn hơn — và các dịch vụ chuyên môn có thể giúp bạn lập kế hoạch.",
+      "overview": "Kế hoạch an toàn đơn giản là suy nghĩ trước về cách giữ cho bản thân (và con cái, nếu có) an toàn hơn. Đó không phải là quyết định rời đi hay ở lại — mà là việc chuẩn bị kỹ hơn một chút, dù bạn chọn điều gì.\n\nVới một số người, sẽ có ích nếu âm thầm chuẩn bị sẵn vài điều: một người đáng tin cậy biết chuyện gì đang xảy ra, giấy tờ quan trọng và số điện thoại để ở nơi bạn có thể lấy được, một túi nhỏ đựng đồ thiết yếu, nắm rõ những lối ra an toàn nhất khỏi nhà, hoặc một từ hay tín hiệu để báo cho ai đó biết bạn cần giúp đỡ. Điều gì hợp lý hoàn toàn tùy thuộc vào hoàn cảnh của riêng bạn.\n\nBạn không phải tự mình tính toán mọi thứ, và thường thì không làm một mình sẽ an toàn hơn. Các dịch vụ chống bạo lực có nhiều kinh nghiệm cùng mọi người lập kế hoạch an toàn, một cách bảo mật và miễn phí — kể cả cho khoảng thời gian rời đi, vốn có thể là thời điểm nguy cơ cao hơn và nên được lên kế hoạch với sự hỗ trợ thay vì vội vàng.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy liên hệ một trung tâm chống bạo lực hoặc đường dây hỗ trợ (ở Ý là **1522**) để lập một kế hoạch phù hợp với hoàn cảnh của bạn — họ làm việc này hằng ngày, một cách bảo mật, và có thể giúp bạn về các bước thực tế, pháp lý và tinh thần.\n- Nếu bạn đang lưu giữ bất kỳ ghi chép nào về những gì đang xảy ra, hãy cất ở nơi riêng tư và an toàn.",
+      "red_flags": "- Nếu bạn đang gặp **nguy hiểm tức thời**, hãy liên hệ dịch vụ khẩn cấp ngay: **112** ở EU (bao gồm Ý), **999** ở Vương quốc Anh, **911** ở Mỹ và Canada.\n- Ở Ý, **1522** — miễn phí, 24 giờ mỗi ngày, ẩn danh, hỗ trợ nhiều ngôn ngữ — có thể giúp bạn qua điện thoại hoặc trò chuyện trực tuyến, kể cả việc lập kế hoạch an toàn khẩn cấp."
+    },
+    "sex-during-your-period": {
+      "title": "Quan hệ tình dục trong kỳ kinh",
+      "aliases": [
+        "quan hệ khi đến tháng",
+        "quan hệ trong kỳ kinh",
+        "quan hệ khi có kinh",
+        "quan hệ lúc hành kinh",
+        "đến tháng quan hệ có thai không",
+        "có kinh có thai được không",
+        "quan hệ ngày đèn đỏ"
+      ],
+      "glance": "Quan hệ tình dục trong kỳ kinh không sao nếu cả hai cùng muốn, nhưng bạn vẫn có thể mang thai hoặc lây truyền bệnh qua đường tình dục.",
+      "overview": "Quan hệ tình dục trong kỳ kinh là lựa chọn cá nhân. Nếu cả hai cùng muốn và cùng cảm thấy thoải mái thì điều đó hoàn toàn ổn, và không có gì sai trái hay bất thường. Một số người cảm thấy nhạy cảm hơn hoặc đơn giản là không có hứng vào thời điểm này, trong khi những người khác lại thích. Lắng nghe cơ thể và trò chuyện cởi mở với bạn đời là điều quan trọng nhất.\n\nĐiều mà kỳ kinh không làm được là tránh thai. Khả năng mang thai thấp hơn so với thời điểm quanh ngày rụng trứng, nhưng không phải bằng không. Tinh trùng có thể sống trong cơ thể đến 7 ngày sau khi quan hệ, nên nếu bạn rụng trứng sớm, điều dễ xảy ra hơn khi chu kỳ ngắn, thì tinh trùng từ lần quan hệ trong hoặc ngay sau kỳ kinh vẫn có thể gặp trứng. Nếu bạn không muốn mang thai, biện pháp tránh thai thường dùng của bạn vẫn quan trọng trong những ngày này.\n\nKỳ kinh cũng không bảo vệ khỏi các bệnh lây truyền qua đường tình dục (STI). Nhiễm trùng có thể lây giữa hai người khi quan hệ không dùng bao cao su, và mầm bệnh có thể có trong máu cũng như trong các dịch cơ thể khác. Bao cao su là biện pháp đồng thời làm giảm nguy cơ mắc các bệnh lây truyền qua đường tình dục, bao gồm HIV, vì vậy nên dùng bao cao su dù vào thời điểm nào trong tháng.",
+      "deep": null,
+      "when_to_see_doctor": "- Nếu bạn đã quan hệ **không dùng biện pháp tránh thai**, hoặc biện pháp tránh thai có thể đã thất bại, và bạn không muốn mang thai, hãy trao đổi với dược sĩ, bác sĩ gia đình hoặc phòng khám sức khỏe tình dục **càng sớm càng tốt** về biện pháp tránh thai khẩn cấp. Biện pháp này cần được dùng trong vòng vài ngày, và thường hiệu quả hơn khi được dùng càng sớm.\n- Hãy tìm sự giúp đỡ từ dược sĩ, phòng khám sức khỏe tình dục hoặc bác sĩ gia đình nếu **bao cao su bị rách hoặc bị tuột** khi quan hệ. Bạn có thể cần dùng biện pháp tránh thai khẩn cấp hoặc xét nghiệm bệnh lây truyền qua đường tình dục.\n- Hãy đi khám bác sĩ gia đình hoặc phòng khám sức khỏe tình dục nếu bạn thấy **ra máu sau khi quan hệ khi không trong kỳ kinh**. Thường thì không nghiêm trọng, nhưng luôn nên đi kiểm tra.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Quan hệ tình dục khi mang thai",
+      "aliases": [
+        "quan hệ khi mang thai",
+        "quan hệ khi có bầu",
+        "bầu quan hệ được không",
+        "quan hệ khi mang thai có an toàn không",
+        "chuyện chăn gối khi mang thai",
+        "cực khoái khi mang thai"
+      ],
+      "glance": "Quan hệ tình dục an toàn trong hầu hết các thai kỳ và không làm hại em bé, trừ khi nữ hộ sinh hoặc bác sĩ khuyên khác.",
+      "overview": "Với hầu hết mọi người, quan hệ tình dục khi mang thai là an toàn, trừ khi nữ hộ sinh hoặc bác sĩ đã dặn bạn không nên. Em bé được bảo vệ tốt bên trong tử cung, và quan hệ tình dục không làm hại bé.\n\nBạn có thể được khuyên tránh quan hệ có thâm nhập trong một vài trường hợp: nếu bạn bị **nhau bám thấp (nhau tiền đạo)**, vì nguy cơ chảy máu; nếu bạn đã **vỡ ối**, vì nguy cơ nhiễm trùng; hoặc nếu bạn đã từng **sảy thai nhiều lần**.\n\nHam muốn thường thay đổi khi mang thai — có người muốn nhiều hơn, có người ít hơn, có người không muốn chút nào trong một thời gian — do nội tiết tố, thay đổi cơ thể, mệt mỏi, ốm nghén và những nỗi lo đều góp phần. Tất cả điều này đều bình thường. Nếu bạn không muốn quan hệ, hôn, ôm ấp và xoa bóp là những cách khác để giữ sự gần gũi.\n\nKhi bụng bầu lớn dần, một số tư thế trở nên không thoải mái; các tư thế nằm nghiêng cạnh nhau thường dễ chịu hơn. Nội tiết tố có thể khiến âm đạo khô hơn, và chất bôi trơn gốc nước có thể giúp ích.\n\nVào cuối thai kỳ, quan hệ tình dục hoặc cực khoái có thể gây ra cơn gò Braxton Hicks, khi tử cung cứng lại trong một lúc. Điều đó là bình thường và không phải chuyển dạ đang bắt đầu — và không có bằng chứng nào cho thấy quan hệ tình dục gây chuyển dạ.\n\nNếu một trong hai người có thể mắc bệnh lây truyền qua đường tình dục, hãy dùng bao cao su, kể cả khi quan hệ bằng miệng: nhiễm trùng không được điều trị có thể gây hại nghiêm trọng cho bạn và em bé. Tránh quan hệ bằng miệng nếu một trong hai người bị mụn rộp ở môi, vì virus có thể lây sang em bé.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy trao đổi với **nữ hộ sinh hoặc bác sĩ** nếu bạn không chắc quan hệ tình dục có an toàn với mình không, hoặc nếu những lo lắng về chuyện chăn gối hay mối quan hệ đang đè nặng lên bạn.\n- Nếu bạn có **bất kỳ hiện tượng ra máu nào** khi mang thai, hãy đi kiểm tra trước khi quan hệ lại — liên hệ nữ hộ sinh, bác sĩ hoặc khoa sản.\n- Hãy đến **phòng khám sức khỏe tình dục** nếu bạn hoặc bạn đời có thể mắc bệnh lây truyền qua đường tình dục.",
+      "red_flags": "- Hãy liên hệ **khoa sản** ngay lập tức nếu bạn nghĩ mình đã **vỡ ối**, và đừng quan hệ cho đến khi bạn đã được khám.\n- Gọi **{{emergency}} hoặc đến khoa cấp cứu** nếu bạn **ra máu nhiều**, đặc biệt khi kèm theo **đau bụng dữ dội** hoặc cảm giác như sắp ngất."
+    },
+    "sexual-violence": {
+      "title": "Bạo lực tình dục & sự đồng thuận",
+      "aliases": [
+        "bạo lực tình dục",
+        "tấn công tình dục",
+        "hiếp dâm",
+        "cưỡng hiếp",
+        "xâm hại tình dục",
+        "đồng thuận",
+        "không đồng thuận",
+        "quấy rối tình dục"
+      ],
+      "glance": "Bạo lực tình dục là bất kỳ hành vi tình dục nào không có sự đồng thuận — và không bao giờ là lỗi của người đã phải trải qua.",
+      "overview": "Bạo lực tình dục là bất kỳ hành vi tình dục nào, hoặc hành vi cố gắng đạt được điều đó, mà không có sự đồng thuận hoặc thông qua ép buộc. Nó bao gồm hiếp dâm và mọi tiếp xúc tình dục không mong muốn, và có thể do bất kỳ ai gây ra — một người lạ, một người quen, hay bạn đời hoặc vợ/chồng.\n\nSự đồng thuận là cốt lõi. Đồng thuận nghĩa là tự nguyện đồng ý, và không thể có đồng thuận khi một người đang ngủ, bất tỉnh, say rượu hoặc bị chuốc thuốc, là trẻ em, hoặc bị gây áp lực, đe dọa hay đang sợ hãi. Sự đồng thuận có thể được rút lại bất cứ lúc nào. Vì vậy, bạo lực tình dục **không bao giờ** là lỗi của người bị hại — không phải vì họ đã mặc gì, họ có uống rượu hay không, họ đã đông cứng người thay vì chống cự, hay họ có quen biết người đó hay không.\n\nNếu điều này đã xảy ra với bạn, luôn có sự hỗ trợ, dù chuyện mới xảy ra hay đã từ lâu. Bạn được tin tưởng, và việc bạn làm gì tiếp theo là lựa chọn của bạn.",
+      "deep": null,
+      "when_to_see_doctor": "- Bạn có thể đến **cơ sở y tế, bệnh viện, hoặc dịch vụ chuyên hỗ trợ nạn nhân bị tấn công tình dục**, nơi có thể chăm sóc bạn, điều trị các vết thương, và — nếu bạn muốn — giúp bạn trình báo và lưu giữ bằng chứng.\n- Một số bước chăm sóc sức khỏe **phụ thuộc vào thời gian** — ví dụ tránh thai khẩn cấp, hoặc phòng ngừa nhiễm trùng — nên tìm đến sự giúp đỡ **sớm** có thể có ích. Nhưng không có giới hạn thời gian nào cho việc nhận hỗ trợ, và việc có trình báo hay không luôn là lựa chọn của bạn.",
+      "red_flags": "- Nếu bạn đang gặp **nguy hiểm tức thời**, hãy liên hệ dịch vụ khẩn cấp ngay: **112** ở EU (bao gồm Ý), **999** ở Vương quốc Anh, **911** ở Mỹ và Canada.\n- Sau một vụ tấn công vừa xảy ra, **bệnh viện hoặc dịch vụ chuyên biệt có thể giúp đỡ khẩn cấp**. Ở Ý, **1522** (miễn phí, 24/7, ẩn danh, nhiều ngôn ngữ — điện thoại hoặc chat) có thể hướng dẫn bạn đến nơi chăm sóc phù hợp."
+    },
+    "signs-of-labour": {
+      "title": "Dấu hiệu chuyển dạ",
+      "aliases": [
+        "dấu hiệu chuyển dạ",
+        "chuyển dạ",
+        "sắp sinh",
+        "cơn gò",
+        "cơn co tử cung",
+        "vỡ ối",
+        "bong nút nhầy",
+        "chuyển dạ tiềm thời"
+      ],
+      "glance": "Dấu hiệu chuyển dạ bắt đầu gồm cơn co đều đặn, bong “nút nhầy”, đau lưng, hoặc vỡ ối.",
+      "overview": "Có một vài dấu hiệu cho thấy chuyển dạ có thể đang bắt đầu. Dấu hiệu chính là cơn co tử cung — những cơn gò thắt khắp bụng bầu đến đều đặn và mạnh dần lên. Các dấu hiệu khác gồm bong “nút nhầy” (nút nhầy ở cổ tử cung bong ra), đau lưng dai dẳng, cảm giác mắc đi vệ sinh, và vỡ ối.\n\nTrước giai đoạn chuyển dạ tích cực thường có một giai đoạn sớm (giai đoạn “tiềm thời”), khi cổ tử cung mềm ra và bắt đầu mở. Giai đoạn này có thể kéo dài nhiều giờ, thậm chí vài ngày, và với nhiều người, ở nhà cho thoải mái trong thời gian này là hoàn toàn ổn, nghỉ ngơi và uống đủ nước.\n\nChuyển dạ của mỗi người bắt đầu hơi khác nhau, nên bạn không cần có đủ mọi dấu hiệu. Khi bạn nghĩ mọi thứ đang bắt đầu, nữ hộ sinh hoặc khoa sản luôn sẵn sàng hướng dẫn bạn nên làm gì và khi nào nên đến viện.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy gọi cho **nữ hộ sinh hoặc khoa sản** để được hướng dẫn khi bạn nghĩ chuyển dạ đã bắt đầu, hoặc khi các cơn co **đều đặn — khoảng mỗi 5 phút một lần**. Nếu không liên lạc được với nữ hộ sinh, hãy gọi cho bệnh viện nơi bạn dự định sinh.",
+      "red_flags": "Hãy gọi **ngay lập tức cho nữ hộ sinh hoặc khoa sản** — dù ngày hay đêm, đừng chờ đợi — nếu:\n\n- bạn bị **vỡ ối** (đặc biệt nếu nước ối có màu xanh, nâu hoặc có mùi hôi)\n- bạn có **bất kỳ hiện tượng ra máu âm đạo nào**\n- **em bé cử động ít hơn bình thường**\n- bạn có dấu hiệu chuyển dạ khi **thai chưa đến 37 tuần**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Dấu hiệu mang thai",
+      "aliases": [
+        "dấu hiệu mang thai",
+        "dấu hiệu có thai sớm",
+        "triệu chứng mang thai sớm",
+        "dấu hiệu có bầu",
+        "tôi có thai không",
+        "trễ kinh có phải có thai"
+      ],
+      "glance": "Trễ kinh thường là dấu hiệu đầu tiên của việc mang thai, đôi khi kèm buồn nôn, mệt mỏi hoặc căng ngực.",
+      "overview": "Với nhiều người, gợi ý đầu tiên của việc mang thai là **trễ kinh**. Nhưng cơ thể mỗi người mỗi khác, và một số người nhận thấy những dấu hiệu sớm khác trước — thường vào khoảng tuần 4 đến tuần 6.\n\nCác dấu hiệu sớm thường gặp gồm buồn nôn hoặc nôn (vào bất kỳ lúc nào trong ngày, không chỉ buổi sáng), ngực to hơn hoặc căng đau, cảm thấy mệt mỏi bất thường, và đi tiểu nhiều lần hơn. Một số người còn thấy có vị kim loại trong miệng, trở nên nhạy cảm với một số mùi, hoặc chán những món bình thường vẫn thích.\n\nKhông dấu hiệu nào trong số này, nếu chỉ đứng riêng, có nghĩa là bạn chắc chắn đã mang thai — nhiều dấu hiệu trùng với những thay đổi thông thường của chu kỳ — và không phải ai cũng gặp chúng. Cách để biết chắc chắn là thử thai.",
+      "deep": null,
+      "when_to_see_doctor": "- Nếu que thử cho kết quả dương tính, hãy liên hệ **nữ hộ sinh hoặc bác sĩ gia đình** để sớm bắt đầu chăm sóc thai kỳ (trước sinh).\n- Nếu bạn bị trễ kinh và thử thai âm tính nhưng các triệu chứng vẫn tiếp diễn, bạn nên đi khám bác sĩ gia đình để xem có điều gì khác đang xảy ra.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Hút thuốc khi mang thai",
+      "aliases": [
+        "hút thuốc khi mang thai",
+        "bỏ thuốc lá khi mang thai",
+        "cai thuốc lá khi có thai",
+        "thuốc lá điện tử khi mang thai",
+        "bà bầu hút thuốc",
+        "khói thuốc thụ động"
+      ],
+      "glance": "Bỏ thuốc lá là một trong những điều tốt nhất bạn có thể làm cho em bé — và không bao giờ là quá muộn.",
+      "overview": "Bỏ thuốc lá là một trong những việc có tác động mạnh mẽ nhất bạn có thể làm để em bé có khởi đầu khỏe mạnh. Mỗi điếu thuốc làm giảm lượng oxy em bé nhận được, khiến tim bé phải làm việc vất vả hơn và có thể kìm hãm sự phát triển của bé.\n\nHút thuốc khi mang thai làm tăng nguy cơ gặp các vấn đề nghiêm trọng, bao gồm sảy thai, sinh non, nhẹ cân khi sinh, thai chết lưu, và hội chứng đột tử ở trẻ sơ sinh (SIDS) sau khi sinh. Khói thuốc thụ động cũng ảnh hưởng, vì vậy một ngôi nhà không khói thuốc sẽ giúp ích.\n\nĐiều đáng khích lệ là: **không bao giờ là quá muộn**. Bỏ thuốc vào bất kỳ thời điểm nào trong thai kỳ đều có ích, và bỏ sớm mang lại nhiều lợi ích nhất. Việc này có thể thực sự khó khăn, và đó chính là lý do có sự hỗ trợ miễn phí — sử dụng sự hỗ trợ đó giúp bạn có khả năng thành công cao hơn nhiều.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy hỏi **nữ hộ sinh** về **hỗ trợ cai thuốc lá miễn phí** — các chuyên viên tư vấn đã qua đào tạo (một số chuyên về thai kỳ) có thể hỗ trợ bạn, và nhiều quốc gia cũng có đường dây hỗ trợ cai thuốc lá miễn phí. Tìm sự giúp đỡ là dấu hiệu bạn đang chăm lo cho em bé, không phải là sự thất bại.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Ra máu lấm tấm & ra máu giữa kỳ kinh",
+      "aliases": [
+        "ra máu lấm tấm",
+        "ra máu giữa kỳ kinh",
+        "ra máu giữa chu kỳ",
+        "rong huyết",
+        "ra máu khi đang dùng thuốc tránh thai",
+        "ra máu sau quan hệ",
+        "ra máu bất thường"
+      ],
+      "glance": "Ra máu lấm tấm là ra máu nhẹ giữa các kỳ kinh hoặc sau khi quan hệ — thường không nghiêm trọng, nhưng luôn nên đi khám.",
+      "overview": "Ra máu lấm tấm là ra máu nhẹ xảy ra giữa các kỳ kinh hoặc sau khi quan hệ tình dục, ngoài lượng kinh bình thường của bạn. Điều này thường gặp, và thường không nghiêm trọng — nhưng vì có thể có nhiều nguyên nhân, đây là điều luôn nên được nhân viên y tế kiểm tra.\n\nCó nhiều lý do thường gặp. Bắt đầu dùng hoặc đang dùng biện pháp tránh thai bằng nội tiết tố là một lý do phổ biến. Các lý do khác gồm những khối tăng sinh nhỏ, lành tính trong hoặc quanh tử cung (polyp hoặc u xơ tử cung), những thay đổi lành tính trên bề mặt cổ tử cung, khô âm đạo, hoặc nhiễm trùng như chlamydia.\n\nVì cùng một triệu chứng có thể do nhiều nguyên nhân khác nhau — phần lớn là nhẹ — nên việc hữu ích không phải là tự đoán, mà là đi khám để bạn biết nguyên nhân thực sự trong trường hợp của mình.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy đi khám bác sĩ gia đình hoặc phòng khám sức khỏe tình dục **bất cứ khi nào bạn ra máu giữa các kỳ kinh hoặc sau khi quan hệ tình dục**, kể cả khi chỉ ra ít. Thường thì không có gì nghiêm trọng, nhưng đi kiểm tra là cách tìm ra nguyên nhân — và là cách để sớm loại trừ những nguyên nhân ít gặp hơn.",
+      "red_flags": "- Hãy xin một buổi hẹn **khẩn** với bác sĩ gia đình, hoặc liên hệ **bác sĩ trực ngoài giờ**, nếu bạn **bị trễ kinh và ra máu bất thường kèm theo đau bụng hoặc đau vùng chậu** — tình trạng này cần được đánh giá kịp thời, vì có thể là dấu hiệu của mang thai ngoài tử cung."
+    },
+    "stalking": {
+      "title": "Bị đeo bám (stalking)",
+      "aliases": [
+        "đeo bám",
+        "bị đeo bám",
+        "bị theo dõi",
+        "quấy rối",
+        "bị theo dõi trên mạng",
+        "có người theo dõi tôi",
+        "quấy rối qua tin nhắn",
+        "stalking"
+      ],
+      "glance": "Đeo bám là sự chú ý lặp đi lặp lại, không mong muốn khiến bạn cảm thấy sợ hãi hoặc không an toàn — và điều này được coi là nghiêm trọng.",
+      "overview": "Đeo bám là một chuỗi hành vi lặp đi lặp lại, không mong muốn của một người khiến bạn cảm thấy sợ hãi, bị theo dõi hoặc không an toàn. Nó có thể bao gồm bị bám theo, có người xuất hiện ở nơi bạn đang ở, liên tục gọi điện hoặc nhắn tin, tặng quà không mong muốn, theo dõi bạn trên mạng hoặc qua điện thoại, hoặc đe dọa. Người đeo bám thường là người yêu cũ hoặc người bạn quen biết, dù không phải lúc nào cũng vậy.\n\nNỗi sợ hãi mà nó gây ra là chính đáng, ngay cả khi từng hành động riêng lẻ có vẻ “nhỏ nhặt” trong mắt người khác — điều quan trọng là chuỗi hành vi đó, và cảm giác nó gây ra cho bạn. Đeo bám được công nhận là một hình thức bạo hành, và ở nhiều quốc gia đây là tội phạm. Không điều gì trong đó là lỗi của bạn, và bạn không phải cứ thế mà chịu đựng.\n\nNếu có thể làm một cách an toàn, việc ghi chép lại có thể giúp ích về sau: ngày giờ, ảnh chụp màn hình tin nhắn, và những gì đã xảy ra. Bạn không phải tự mình xác định xem điều đó có “được tính” hay không — các dịch vụ hỗ trợ có thể giúp bạn hiểu rõ tình hình và cân nhắc các lựa chọn.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy liên hệ **công an/cảnh sát** để trình báo hành vi đeo bám, và liên hệ một đường dây hỗ trợ chống bạo lực hoặc chống đeo bám để được hỗ trợ và tư vấn (ở Ý, **1522** dành cho cả bạo lực **và** đeo bám).\n- Lưu giữ bằng chứng và lập kế hoạch an toàn, với sự giúp đỡ của một dịch vụ chuyên biệt, đều có thể tạo ra khác biệt thực sự.",
+      "red_flags": "- Nếu bạn cảm thấy đang gặp **nguy hiểm tức thời**, hãy liên hệ dịch vụ khẩn cấp ngay: **112** ở EU (bao gồm Ý), **999** ở Vương quốc Anh, **911** ở Mỹ và Canada.\n- Ở Ý, **1522** — miễn phí, 24 giờ mỗi ngày, ẩn danh, hỗ trợ nhiều ngôn ngữ — có thể giúp bạn qua điện thoại hoặc trò chuyện trực tuyến."
+    },
+    "stillbirth": {
+      "title": "Thai chết lưu",
+      "aliases": [
+        "thai chết lưu",
+        "thai lưu",
+        "mất con",
+        "mất thai muộn",
+        "em bé mất khi sinh",
+        "sinh con đã mất"
+      ],
+      "glance": "Thai chết lưu là mất em bé sau tuần 24 — hiếm gặp, không bao giờ là lỗi của bạn, và luôn có sự hỗ trợ.",
+      "overview": "Thai chết lưu là khi em bé được sinh ra đã mất sau 24 tuần thai. (Mất thai trước 24 tuần được gọi là sảy thai.) Điều này không phổ biến — khoảng 1 trên mỗi 250 ca sinh — nhưng với những gia đình phải trải qua, đó là một mất mát vô cùng lớn, và mọi sự chăm sóc sau đó đều nhằm nhẹ nhàng nâng đỡ bạn vượt qua.\n\nĐôi khi nguyên nhân được tìm ra — ví dụ vấn đề ở nhau thai hoặc sự phát triển của em bé, hoặc một bệnh lý sức khỏe — và đôi khi, dù đã làm xét nghiệm, **hoàn toàn không tìm ra nguyên nhân**. Dù lý do là gì, thai chết lưu không phải điều cha mẹ đã gây ra hay có thể biết trước để ngăn chặn.\n\nCó một điều thực sự giúp giảm nguy cơ, và nó rất đơn giản: **báo ngay cho nữ hộ sinh nếu cử động của em bé chậm lại hoặc thay đổi.** Bên cạnh đó, những việc hằng ngày — đi khám thai đầy đủ, không hút thuốc, tránh rượu bia, và nằm ngủ nghiêng từ tuần 28 — đều góp phần.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy liên hệ **ngay lập tức với nữ hộ sinh hoặc khoa sản** — bất cứ lúc nào, ngày hay đêm — nếu **em bé cử động ít hơn bình thường hoặc cử động của bé có cảm giác khác lạ.** Đừng bao giờ chờ xem nó có qua đi không; đi khám chính là việc đúng đắn cần làm, và không bao giờ là phiền phức.\n- Sau mất mát, các nữ hộ sinh chuyên trách và đội ngũ hỗ trợ người mất người thân luôn ở bên bạn — cho những quyết định, các bước thực tế, và nỗi đau buồn. Bạn không phải đối mặt với bất kỳ điều gì trong số đó một mình, và các nhóm hỗ trợ dành cho cha mẹ mất con luôn sẵn sàng bao lâu tùy bạn cần.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Căng thẳng, cuộc sống & kỳ kinh",
+      "aliases": [
+        "căng thẳng và kinh nguyệt",
+        "stress",
+        "trễ kinh",
+        "chậm kinh",
+        "mất kinh",
+        "tại sao tôi bị trễ kinh",
+        "stress có làm chậm kinh không"
+      ],
+      "glance": "Căng thẳng, thay đổi cân nặng lớn, hoặc tập luyện nhiều có thể làm chậm hoặc ngưng kỳ kinh — thường chỉ trong một thời gian.",
+      "overview": "Kỳ kinh đến muộn hoặc bị bỏ qua một tháng là điều thường gặp, và lý do thường liên quan đến cuộc sống nhiều hơn là do có gì bất ổn. Căng thẳng là một lý do phổ biến — chính hệ thống phản ứng với áp lực cũng có thể tác động đến các nội tiết tố điều khiển chu kỳ của bạn.\n\nNhững điều thường ngày khác cũng có thể làm xê dịch kỳ kinh: thay đổi cân nặng lớn (tăng hoặc giảm), tập luyện nhiều, hoặc cơ thể bị suy kiệt. Những thay đổi nội tiết — như khi sắp bước vào tiền mãn kinh, hoặc các bệnh lý như buồng trứng đa nang (PCOS) — cũng có thể là nguyên nhân, cũng như mang thai và một số biện pháp tránh thai. Thường thì khoảng cách giữa các kỳ kinh đơn giản là thay đổi một chút theo thời gian, và điều đó là bình thường.\n\nĐiều đáng yên tâm là trễ kinh hoặc mất kinh một lần thường không phải lý do để lo lắng, và mọi thứ thường ổn định lại khi cuộc sống ổn định. Điều đáng theo dõi là một chuỗi thay đổi chứ không phải chỉ một tháng.",
+      "deep": null,
+      "when_to_see_doctor": "Hãy đi khám bác sĩ gia đình nếu:\n\n- bạn đã mất kinh **ba kỳ liên tiếp**, hoặc kỳ kinh trở nên **không đều**\n- kỳ kinh **ngừng lại** mà bạn không rõ lý do (và nếu có khả năng mang thai, nên thử thai trước)\n- mất kinh đi kèm những thay đổi khác — như thay đổi cân nặng bất thường, mệt mỏi, lông mọc nhiều hơn, hoặc tâm trạng sa sút\n\nNhững lần kiểm tra này chỉ để hiểu điều gì đứng sau sự thay đổi — thường là điều có thể kiểm soát được.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Hỗ trợ cô ấy trong kỳ kinh",
+      "aliases": [
+        "giúp cô ấy khi đến kỳ kinh",
+        "hỗ trợ người yêu khi đến tháng",
+        "chăm sóc vợ khi hành kinh",
+        "chăm sóc bạn gái khi đến tháng",
+        "hỗ trợ kỳ kinh cho bạn đời",
+        "bạn gái đau bụng kinh"
+      ],
+      "glance": "Kỳ kinh có thể mang đến những cơn đau và sự mệt mỏi thực sự — sự quan tâm nhỏ, thiết thực tạo nên khác biệt lớn.",
+      "overview": "Kỳ kinh không chỉ là vài ngày ra máu; với nhiều người, nó đi kèm đau bụng, đau lưng, đau đầu, mệt mỏi và thiếu năng lượng. Đau bụng kinh là điều thường gặp và có thể thực sự làm kiệt sức — đó không phải là sự phóng đại. Hãy đối xử với nó như cách bạn chăm sóc người bạn đời đang không khỏe: bằng sự tử tế thiết thực.\n\nHãy coi đó là chuyện bình thường. Kinh nguyệt không bẩn thỉu, không đáng xấu hổ và cũng không phải điều cấm kỵ. Thoải mái đi mua băng vệ sinh hay tampon, để sẵn một ít ở nhà, hoặc đưa cho cô ấy túi chườm nóng mà không làm to chuyện sẽ cho cô ấy thấy mình được an toàn và được ủng hộ.",
+      "deep": "Những điều đơn giản giúp ích:\n\n- **Hơi ấm và nghỉ ngơi.** Túi chườm nóng hoặc miếng dán nhiệt đặt ở bụng dưới giúp giảm đau bụng kinh; hãy gợi ý một buổi tối yên tĩnh ở nhà.\n- **San sẻ bớt việc cho cô ấy.** Nấu ăn, dọn dẹp, chạy việc vặt, đưa đón cô ấy — sự giúp đỡ thiết thực có sức nặng hơn lời nói.\n- **Luôn có sẵn đồ dùng.** Biết cô ấy dùng loại gì và để sẵn một ít, để một ngày ra nhiều không bao giờ trở thành chuyện khẩn cấp.\n- **Thuốc giảm đau và món ăn yêu thích** nếu cô ấy muốn; đó là lựa chọn của cô ấy.\n- **Đừng ép cô ấy chuyện chăn gối hay đòi hỏi năng lượng mà cô ấy không có.** Sự gần gũi có thể chỉ là một cái ôm trên ghế sofa.",
+      "when_to_see_doctor": "Hãy khuyến khích cô ấy đi khám bác sĩ (và đề nghị đi cùng) nếu cơn đau bụng kinh **dữ dội, ngày càng nặng hơn, hoặc cản trở sinh hoạt hằng ngày**, nếu kinh nguyệt **ra rất nhiều** (băng vệ sinh bị thấm đẫm mỗi giờ, có cục máu đông lớn), hoặc nếu cơn đau mới xuất hiện và bất thường — đây có thể là dấu hiệu của những bệnh lý như lạc nội mạc tử cung, cần được chăm sóc đúng cách.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Hỗ trợ người đang bị bạo hành",
+      "aliases": [
+        "hỗ trợ người khác",
+        "giúp một người bạn",
+        "cách giúp đỡ",
+        "người đang bị bạo hành",
+        "cách hỗ trợ",
+        "bạn tôi bị bạo hành",
+        "giúp nạn nhân bạo lực gia đình"
+      ],
+      "glance": "Nếu người bạn quen biết có thể đang bị bạo hành, lắng nghe không phán xét — và biết nơi để giới thiệu họ — sẽ giúp ích.",
+      "overview": "Nhận ra rằng một người bạn quan tâm có thể đang bị bạo hành là điều khó khăn, và muốn giúp đỡ là một bản năng tốt. Những điều hữu ích nhất bạn có thể làm thường là những điều đơn giản nhất.\n\nHãy lắng nghe, và tin họ. Để họ nói theo nhịp độ của mình, không phán xét, không đổ lỗi, không hỏi họ đã làm gì để gây ra chuyện đó. Hãy nói rõ ràng rằng đó không phải lỗi của họ và họ không đáng phải chịu điều đó. Cố gắng đừng bảo họ phải làm gì hay thúc ép họ rời đi: rời đi là quyết định của họ, và làm điều đó một cách vội vàng thực sự có thể làm tăng nguy hiểm — điều giúp ích hơn là họ cảm thấy được ủng hộ và không đơn độc.\n\nHãy giữ kín những gì họ kể với bạn. Nhẹ nhàng giúp họ tìm đến sự hỗ trợ chuyên biệt khi họ sẵn sàng — một đường dây hỗ trợ như **1522** ở Ý, hoặc một trung tâm chống bạo lực tại địa phương — và đề nghị giúp đỡ thiết thực, như cùng tìm số điện thoại hoặc ở bên khi họ gọi. Và hãy chăm sóc cả bản thân mình nữa; đồng hành cùng ai đó qua chuyện này có thể rất nặng nề.",
+      "deep": null,
+      "when_to_see_doctor": "- Hãy khuyến khích họ (không gây áp lực) liên hệ một đường dây hỗ trợ hoặc trung tâm chống bạo lực, nơi có thể hướng dẫn cả hai bạn nên làm gì tiếp theo. Bạn có thể đề nghị giúp họ gọi điện hoặc tìm số điện thoại.\n- Nếu họ bị thương, bác sĩ gia đình hoặc bệnh viện có thể giúp — và kết nối họ với các dịch vụ hỗ trợ.",
+      "red_flags": "- Nếu họ đang gặp **nguy hiểm tức thời**, hãy gọi dịch vụ khẩn cấp: **112** ở EU (bao gồm Ý), **999** ở Vương quốc Anh, **911** ở Mỹ và Canada.\n- Ở Ý, **1522** (miễn phí, 24/7, ẩn danh, nhiều ngôn ngữ — điện thoại hoặc chat) cũng có thể tư vấn cho bạn cách giúp đỡ một người khác."
+    },
+    "the-coil": {
+      "title": "Vòng tránh thai (IUD và IUS)",
+      "aliases": [
+        "vòng tránh thai",
+        "đặt vòng",
+        "dụng cụ tử cung",
+        "IUD",
+        "IUS",
+        "vòng tránh thai bằng đồng",
+        "vòng tránh thai nội tiết",
+        "Mirena"
+      ],
+      "glance": "Vòng tránh thai là một dụng cụ nhỏ được đặt trong tử cung — loại bằng đồng (IUD) hoặc loại nội tiết (IUS) — có tác dụng trong nhiều năm.",
+      "overview": "Vòng tránh thai là một dụng cụ nhỏ được nhân viên y tế đặt vào bên trong tử cung. Có hai loại, và sẽ hữu ích nếu phân biệt được chúng:\n\n- **IUD**, hay vòng tránh thai bằng đồng, không chứa nội tiết tố. Đồng làm thay đổi môi trường trong tử cung khiến tinh trùng và trứng khó tồn tại, đồng thời cũng ảnh hưởng đến chất nhầy cổ tử cung. Tùy loại, vòng có tác dụng trong khoảng 5 đến 10 năm.\n- **IUS**, hay vòng tránh thai nội tiết, giải phóng progestogen thay vì dùng đồng. Nó làm đặc chất nhầy ở cổ tử cung và làm mỏng niêm mạc tử cung; với một số người, nó còn có thể làm kinh nguyệt ra ít hơn nhiều.\n\nCả hai đều là biện pháp “đặt xong là yên tâm” và đều có hiệu quả trên 99%, với rất ít khác biệt giữa cách dùng hoàn hảo và cách dùng thông thường. Không loại nào bảo vệ khỏi các bệnh lây truyền qua đường tình dục.",
+      "deep": "Vòng tránh thai là biện pháp tác dụng kéo dài và có thể hồi phục: sau khi được đặt, vòng tiếp tục có tác dụng trong nhiều năm, và khả năng sinh sản trở lại sau khi tháo vòng. Việc đặt và tháo vòng do nhân viên y tế đã qua đào tạo thực hiện và chỉ mất vài phút, dù một số người thấy khó chịu khi đặt. Một lý do phổ biến khiến mọi người cân nhắc giữa hai loại là tác động lên kinh nguyệt — vòng đồng IUD có thể làm kinh ra nhiều hơn trong thời gian đầu, trong khi vòng nội tiết IUS thường làm kinh ra ít hơn. Loại nào phù hợp với bạn là điều cần trao đổi với nhân viên y tế; bài viết này chỉ giải thích cách hoạt động của từng loại.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Những ngày trước kỳ kinh",
+      "aliases": [
+        "PMS dành cho bạn đời",
+        "hỗ trợ cô ấy trước kỳ kinh",
+        "hỗ trợ tiền kinh nguyệt",
+        "bạn gái cáu gắt trước kỳ kinh",
+        "vợ khó chịu trước kỳ kinh",
+        "hỗ trợ giai đoạn hoàng thể"
+      ],
+      "glance": "Trong những ngày trước kỳ kinh, cô ấy có thể mệt mỏi, nhạy cảm hoặc buồn hơn — hãy đón nhận bằng sự kiên nhẫn, không phải những câu đùa.",
+      "overview": "Trong khoảng một tuần trước kỳ kinh, nhiều người gặp các triệu chứng tiền kinh nguyệt: thay đổi tâm trạng, dễ cáu gắt hoặc buồn bã, mệt mỏi, đau ngực, đầy bụng, đau đầu, hoặc khó ngủ. Điều này rất phổ biến và là có thật — do sự thay đổi nội tiết tự nhiên của giai đoạn hoàng thể, chứ không phải do cô ấy “phản ứng thái quá”.\n\nVới một số ít người, tâm trạng sa sút trở nên nghiêm trọng (một tình trạng gọi là PMDD) và cần được hỗ trợ thực sự cùng chăm sóc y tế. Dù thế nào, việc của bạn không phải là chẩn đoán hay “sửa chữa” cô ấy — mà là vững vàng và tử tế.\n\nĐiều gây tổn thương nhất mà người bạn đời có thể làm lúc này là biến nó thành vũ khí: “lại đến kỳ nên khó ở chứ gì”, những cái đảo mắt, hoặc coi cảm xúc của cô ấy là vô giá trị chỉ vì thời điểm trong tháng. Điều đó phủ nhận cô ấy và thêm tổn thương vào một tuần vốn đã khó khăn. Cảm xúc của cô ấy vẫn đáng được coi trọng, ngay cả khi nội tiết tố là một phần của câu chuyện.",
+      "deep": "Điều thực sự giúp ích trong những ngày này:\n\n- **San sẻ gánh nặng với cô ấy.** Nhận làm việc nhà, nấu ăn, hoặc lo những việc cần nhớ mà không cần đợi nhờ.\n- **An ủi, không phải chỉnh sửa.** Mang đến sự ấm áp, nghỉ ngơi, túi chườm nóng, món ăn cô ấy thích — và để cô ấy được cảm nhận những gì cô ấy đang cảm nhận.\n- **Lắng nghe trước.** Nếu cô ấy buồn bực, câu “nghe có vẻ vất vả thật” lúc nào cũng tốt hơn “bình tĩnh đi”.\n- **Đừng tính toán thiệt hơn.** Một ngày khó khăn hơn không phải là món nợ cô ấy phải trả bạn sau này.\n- **Hỏi xem cô ấy cần gì** — có người muốn gần gũi, có người muốn không gian riêng. Cả hai đều ổn; hãy tôn trọng câu trả lời của cô ấy.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Mang thai đôi & đa thai",
+      "aliases": [
+        "song thai",
+        "mang thai đôi",
+        "sinh đôi",
+        "đa thai",
+        "mang song thai",
+        "sinh đôi cùng trứng",
+        "sinh đôi khác trứng",
+        "sinh ba"
+      ],
+      "glance": "Mang thai đôi thường được phát hiện lần đầu khi siêu âm xác định tuổi thai, và cần được chăm sóc trước sinh nhiều hơn một chút.",
+      "overview": "Việc mang thai nhiều hơn một em bé thường được phát hiện lần đầu qua **siêu âm xác định tuổi thai** (khoảng tuần 12), lần siêu âm này cũng có thể cho biết các bé có dùng chung bánh nhau hay không.\n\nCó hai loại chính. Sinh đôi **cùng trứng** hình thành từ một trứng đã thụ tinh rồi tách đôi, nên các bé có cùng gen và luôn cùng giới tính. Sinh đôi **khác trứng** hình thành từ hai trứng riêng biệt, và không giống nhau hơn bất kỳ anh chị em ruột nào khác; đây là loại phổ biến hơn, và dễ xảy ra hơn một chút khi người mẹ lớn tuổi, có tiền sử gia đình phía người mẹ, hoặc sau điều trị hiếm muộn.\n\nMang song thai hoặc đa thai là một trải nghiệm riêng, và thường có nghĩa là cần **chăm sóc trước sinh nhiều hơn một chút** — thêm các buổi khám và lần siêu âm để theo dõi sát bạn và các bé. Đội ngũ nữ hộ sinh sẽ giải thích cho bạn những gì cần chuẩn bị.",
+      "deep": null,
+      "when_to_see_doctor": "- Nếu siêu âm cho thấy song thai (hoặc nhiều hơn), **nữ hộ sinh** sẽ giải thích cho bạn các buổi khám và lần siêu âm bổ sung đi kèm với đa thai — đi khám đầy đủ tất cả là cách tốt nhất để bạn được chăm sóc chu đáo.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Hiểu chu kỳ của cô ấy",
+      "aliases": [
+        "hướng dẫn chu kỳ cho bạn đời",
+        "chu kỳ dành cho bạn đời",
+        "chu kỳ của cô ấy hoạt động thế nào",
+        "hỗ trợ chu kỳ của cô ấy",
+        "hiểu kinh nguyệt của vợ",
+        "hiểu kỳ kinh của bạn gái"
+      ],
+      "glance": "Cơ thể cô ấy trải qua một chu kỳ hằng tháng với bốn giai đoạn — nắm những điều cơ bản giúp bạn hỗ trợ cô ấy mà không phải đoán mò.",
+      "overview": "Chu kỳ kinh nguyệt là một nhịp điệu khoảng một tháng, trung bình khoảng 28 ngày nhưng thường dao động từ 21 đến 35 ngày, và điều bình thường với cô ấy là bất cứ điều gì đều đặn với *chính cô ấy*. Chu kỳ gồm bốn giai đoạn: giai đoạn **hành kinh** (kỳ kinh), giai đoạn **nang noãn**, **rụng trứng** vào khoảng giữa chu kỳ, và giai đoạn **hoàng thể** trước kỳ kinh tiếp theo.\n\nNăng lượng, tâm trạng, giấc ngủ và ham muốn có thể thay đổi qua các giai đoạn này vì nội tiết tố tăng và giảm — đó là sinh học, không phải khuyết điểm tính cách và không phải điều để trêu chọc cô ấy. Một số người thấy mình sa sút rõ rệt trong những ngày trước kỳ kinh; người khác hầu như không nhận thấy. Không có một cách cảm nhận “đúng” duy nhất.\n\nBạn không cần trở thành chuyên gia. Điều giúp ích nhất rất đơn giản: biết đại khái cô ấy đang ở đâu trong chu kỳ (ứng dụng này có thể cho bạn thấy, khi có sự cho phép của cô ấy), chuẩn bị tinh thần rằng có những ngày khó khăn hơn những ngày khác, và hỏi xem *cô ấy* thấy điều gì hữu ích thay vì tự cho là mình biết.",
+      "deep": "Một vài điều nên biết, để những lời đồn không lấp chỗ trống:\n\n- **“Đang đến tháng” không phải là lời xúc phạm hay lời giải thích cho việc bạn bất đồng với cô ấy.** Dùng chu kỳ của cô ấy để gạt đi cảm xúc của cô ấy (“chỉ là do nội tiết thôi”) là thiếu tôn trọng, và thường là sai. Lý do của cô ấy vẫn là lý do của cô ấy.\n- **Chu kỳ ảnh hưởng đến nhiều thứ hơn kỳ kinh.** Đau bụng, đau đầu, căng ngực, thiếu năng lượng hoặc tâm trạng sa sút đều có thể là một phần của nó. Giúp đỡ thiết thực tốt hơn lời khuyên.\n- **Việc theo dõi chu kỳ là của cô ấy.** Nếu cô ấy chia sẻ chu kỳ với bạn, hãy xem đó là một cánh cửa để hiểu cô ấy có thể đang cảm thấy thế nào — một lời mời để tử tế, không bao giờ là công cụ để theo dõi hay kiểm soát cô ấy.\n- **Khi còn phân vân, hãy hỏi.** “Hôm nay thấy trong người thế nào? Có việc gì mình làm được không?” đáng giá hơn bất kỳ biểu đồ nào.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Khô âm đạo",
+      "aliases": [
+        "khô âm đạo",
+        "âm đạo khô",
+        "khô rát vùng kín",
+        "teo âm đạo",
+        "thiếu chất nhờn",
+        "khô khi quan hệ"
+      ],
+      "glance": "Khô âm đạo là tình trạng thường gặp, thường liên quan đến nội tiết tố, và có thể gây đau rát hoặc khó chịu khi quan hệ tình dục.",
+      "overview": "Khô âm đạo là trải nghiệm thường gặp mà nhiều người gặp phải vào một lúc nào đó. Nó xảy ra khi độ ẩm bình thường giúp âm đạo dễ chịu bị giảm đi, và có thể gây cảm giác rát, ngứa hoặc khó chịu — bao gồm đau hoặc khó chịu khi quan hệ tình dục.\n\nTình trạng này thường liên quan đến nội tiết tố, đặc biệt là sự sụt giảm estrogen. Đó là lý do nó thường gặp quanh thời kỳ mãn kinh và tiền mãn kinh, nhưng cũng có thể xảy ra khi đang cho con bú, khi dùng một số loại thuốc (như một số biện pháp tránh thai hoặc thuốc chống trầm cảm), hoặc khi chưa đủ hưng phấn trước khi quan hệ. Đây không phải điều gì đáng xấu hổ — đó là vấn đề thể chất, không phản ánh con người bạn hay mối quan hệ của bạn.\n\nBiết rằng tình trạng này thường gặp, và thường rất dễ điều trị, là một khởi đầu tốt. Có những lựa chọn đơn giản có thể giúp ích, và bác sĩ gia đình hoặc dược sĩ có thể chỉ cho bạn điều gì phù hợp.",
+      "deep": null,
+      "when_to_see_doctor": "Hãy đi khám bác sĩ gia đình nếu:\n\n- khô âm đạo gây phiền toái cho bạn hoặc không đỡ sau vài tuần\n- nó ảnh hưởng đến cuộc sống hằng ngày hoặc đời sống tình dục của bạn\n- bạn còn có khí hư bất thường, hoặc bất kỳ hiện tượng ra máu nào sau khi quan hệ, giữa các kỳ kinh, hoặc sau mãn kinh\n\nKhông cần phải cố chịu đựng — luôn có sự giúp đỡ, và nhân viên y tế có thể tìm hiểu nguyên nhân và điều gì có thể giúp giảm nhẹ.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Sức khỏe âm đạo & âm hộ",
+      "aliases": [
+        "sức khỏe âm đạo",
+        "sức khỏe vùng kín",
+        "vệ sinh vùng kín",
+        "vệ sinh phụ nữ",
+        "thụt rửa âm đạo",
+        "khí hư",
+        "huyết trắng",
+        "dung dịch vệ sinh phụ nữ"
+      ],
+      "glance": "Âm đạo tự làm sạch — chỉ cần chăm sóc nhẹ nhàng bên ngoài, và khí hư là điều bình thường.",
+      "overview": "Một trong những điều đáng yên tâm nhất cần biết là âm đạo tự chăm sóc chính nó. Âm đạo có khả năng tự làm sạch một cách tự nhiên, và khí hư mà bạn nhận thấy là một phần của quá trình đó — một loại dịch giữ cho âm đạo sạch sẽ, đủ ẩm và giúp bảo vệ khỏi nhiễm trùng. Lượng khí hư và độ đặc loãng thay đổi theo chu kỳ, điều này hoàn toàn bình thường.\n\nVì vậy, âm đạo không cần được rửa bên trong. Thực tế, rửa bên trong âm đạo — “thụt rửa” — có thể làm xáo trộn sự cân bằng tự nhiên của nó. Phần bên ngoài (âm hộ) chỉ cần được chăm sóc nhẹ nhàng: nước ấm và, nếu bạn muốn, một loại xà phòng dịu nhẹ, không mùi. Tốt nhất nên tránh xà phòng có hương thơm, gel, chất khử mùi và khăn ướt có mùi thơm, vì chúng có thể gây kích ứng.\n\nHiểu rõ điều gì là bình thường với bạn — khí hư, hình dáng và cảm giác thông thường — giúp bạn dễ nhận ra khi có gì đó thay đổi và có thể cần được kiểm tra.",
+      "deep": null,
+      "when_to_see_doctor": "Hãy đi khám bác sĩ gia đình hoặc phòng khám sức khỏe tình dục nếu bạn nhận thấy:\n\n- khí hư thay đổi — về màu sắc, mùi hoặc độ đặc, hoặc ra nhiều hơn bình thường\n- ngứa, đau rát hoặc kích ứng quanh âm đạo hoặc âm hộ\n- ra máu giữa các kỳ kinh hoặc sau khi quan hệ tình dục\n- đau khi đi tiểu, hoặc đau ở vùng thấp giữa bụng dưới và đùi (đau vùng chậu)\n\nNhững điều này thường gặp và thường dễ điều trị — khí hư thay đổi có thể đơn giản chỉ là một bệnh nhiễm trùng nhẹ như nấm âm đạo. Đi kiểm tra là cách để biết rõ, thay vì tự đoán.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Chu kỳ & các giai đoạn",
+      "summary": "Chu kỳ của bạn lần lượt đi qua các giai đoạn hành kinh, nang noãn, rụng trứng và hoàng thể như thế nào."
+    },
+    "hormones": {
+      "title": "Nội tiết tố",
+      "summary": "Những “sứ giả” đứng sau chu kỳ của bạn — estrogen, progesterone, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Khả năng sinh sản & rụng trứng",
+      "summary": "Cửa sổ thụ thai, dấu hiệu rụng trứng và những yếu tố ảnh hưởng đến khả năng sinh sản."
+    },
+    "contraception": {
+      "title": "Tránh thai",
+      "summary": "Các biện pháp khác nhau hoạt động ra sao, bằng lời lẽ dễ hiểu."
+    },
+    "symptoms-and-signals": {
+      "title": "Triệu chứng & tín hiệu cơ thể",
+      "summary": "Đau, ra máu lấm tấm, khí hư, tâm trạng — những điều cơ thể có thể đang muốn nói với bạn."
+    },
+    "conditions": {
+      "title": "Bệnh lý",
+      "summary": "Buồng trứng đa nang (PCOS), lạc nội mạc tử cung, u xơ tử cung và nhiều bệnh khác — được giải thích rõ, kèm nguồn tham khảo."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Sức khỏe tình dục & vùng kín",
+      "summary": "Sự khỏe mạnh trong đời sống thân mật, cảm giác thoải mái và những câu hỏi thường gặp."
+    },
+    "life-stages": {
+      "title": "Các giai đoạn cuộc đời",
+      "summary": "Từ kỳ kinh đầu tiên cho đến tiền mãn kinh và mãn kinh."
+    },
+    "wellbeing": {
+      "title": "Sống khỏe & chu kỳ",
+      "summary": "Giấc ngủ, căng thẳng và cuộc sống hằng ngày liên quan đến chu kỳ của bạn như thế nào."
+    },
+    "tests-and-exams": {
+      "title": "Xét nghiệm & thăm khám",
+      "summary": "Tự khám vú, sàng lọc ung thư cổ tử cung, que thử rụng trứng và nhiều hơn nữa."
+    },
+    "pregnancy": {
+      "title": "Mang thai",
+      "summary": "Dấu hiệu sớm, giữ gìn sức khỏe, dấu hiệu cảnh báo và mất thai — được giải thích rõ, kèm nguồn tham khảo."
+    },
+    "for-partners": {
+      "title": "Dành cho bạn đời",
+      "summary": "Hiểu chu kỳ của cô ấy, hỗ trợ cô ấy thật chu đáo và xây dựng mối quan hệ dựa trên sự tôn trọng."
+    },
+    "safety-and-support": {
+      "title": "An toàn & hỗ trợ",
+      "summary": "Nhận biết bạo hành, giữ an toàn và cách tìm sự giúp đỡ — kèm số điện thoại khẩn cấp."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Hiểu chu kỳ của bạn qua 5 bước",
+      "summary": "Một hành trình nhẹ nhàng qua toàn bộ chu kỳ và từng giai đoạn trong bốn giai đoạn của nó."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Tìm hiểu về rụng trứng",
+      "summary": "Rụng trứng là gì, cửa sổ thụ thai và những dấu hiệu mà cơ thể bạn cho thấy."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Các nội tiết tố đứng sau chu kỳ của bạn",
+      "summary": "Làm quen với bốn “sứ giả” điều khiển chu kỳ — và vai trò của từng loại."
+    }
+  }
+}

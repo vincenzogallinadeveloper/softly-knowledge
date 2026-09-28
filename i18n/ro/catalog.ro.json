@@ -1,0 +1,1459 @@
+{
+  "_meta": {
+    "lang": "ro",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alcoolul în sarcină",
+      "aliases": [
+        "alcool în sarcină",
+        "băutură în sarcină",
+        "alcool și sarcină",
+        "pot bea alcool însărcinată",
+        "sindrom alcoolic fetal",
+        "TSAF",
+        "FASD"
+      ],
+      "glance": "Cea mai sigură alegere este să nu bei deloc alcool în timpul sarcinii sau când încerci să rămâi însărcinată.",
+      "overview": "Recomandarea NHS, serviciul public de sănătate britanic, este clară și simplă: cea mai sigură abordare este **să nu bei deloc alcool** dacă ești însărcinată sau încerci să rămâi însărcinată. Dacă nu bei, riscul pentru copilul tău rămâne cât mai mic.\n\nMotivul este că alcoolul trece din sângele tău, prin placentă, la copil, al cărui ficat nu este suficient de dezvoltat ca să-l proceseze. Consumul de alcool în sarcină poate duce la tulburări din spectrul alcoolismului fetal (TSAF, în engleză FASD), un ansamblu de dificultăți pe viață legate de învățare, comportament și dezvoltare.\n\nDacă ai băut înainte să afli că ești însărcinată, încearcă să nu te îngrijorezi: riscul pentru copil din cauza unor cantități mici la început este probabil scăzut. Cel mai util lucru este pur și simplu să eviți alcoolul de acum înainte, pentru tot restul sarcinii.",
+      "deep": null,
+      "when_to_see_doctor": "- Dacă îți este greu să renunți la alcool, nu ai de ce să te rușinezi: spune-i moașei sau medicului de familie. Te pot sprijini fără să te judece, iar să ceri ajutor este bine pentru tine și pentru copilul tău.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Îngrijirea prenatală",
+      "aliases": [
+        "îngrijire prenatală",
+        "controale în sarcină",
+        "consult prenatal",
+        "monitorizarea sarcinii",
+        "programare la moașă",
+        "luarea în evidență a sarcinii",
+        "prima vizită în sarcină"
+      ],
+      "glance": "Îngrijirea prenatală înseamnă controalele regulate din timpul sarcinii, care vă ajută pe tine și pe copil să fiți bine.",
+      "overview": "Îngrijirea prenatală este îngrijirea pe care o primești în timpul sarcinii, ca tu și copilul tău să fiți cât mai sănătoși. De obicei te vei vedea cu o moașă și, dacă este nevoie, și cu un medic. Merită să începi devreme: contactează moașa sau medicul de familie imediat ce afli că ești însărcinată.\n\nPrima programare propriu-zisă, cea de „luare în evidență”, are loc de obicei între săptămânile 8 și 12. După aceea ți se oferă controale regulate: cel puțin 10 consultații și 2 ecografii dacă este primul copil, sau în jur de 7 dacă ai mai născut, cu mai multe spre final.\n\nLa aceste vizite, moașa îți verifică tensiunea arterială și urina, îți măsoară burtica pentru a urmări creșterea copilului, îți oferă teste de screening și vorbește cu tine despre mișcările copilului și despre cum te simți. Multe lucruri importante, cum ar fi preeclampsia sau diabetul gestațional, sunt depistate aici înainte să observi tu ceva, și tocmai de aceea contează aceste consultații.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactează **o moașă sau medicul de familie imediat ce afli că ești însărcinată**, ca îngrijirea să înceapă devreme, ideal la timp pentru prima programare, înainte de aproximativ 10–12 săptămâni.\n- Încearcă să mergi la **toate** consultațiile prenatale, chiar dacă te simți perfect: mai multe controale sunt gândite să depisteze din timp probleme care nu dau simptome.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Mișcările copilului",
+      "aliases": [
+        "mișcările bebelușului",
+        "mișcări fetale",
+        "lovituri bebeluș",
+        "simt bebelușul mișcând",
+        "bebelușul nu se mai mișcă",
+        "mișcări fetale reduse",
+        "șuturi bebeluș"
+      ],
+      "glance": "Când îți simți copilul mișcându-se, este un semn că este bine; dacă mișcările încetinesc sau se schimbă, sună imediat la moașă.",
+      "overview": "Să-ți simți copilul mișcându-se este unul dintre semnele liniștitoare că este bine. Majoritatea femeilor încep să simtă mișcările undeva între săptămânile 16 și 24 de sarcină, adesea mai târziu la prima sarcină, așa că prima dată este ceva obișnuit să le simți abia după 20 de săptămâni.\n\nNu există un număr fix de mișcări pe care „ar trebui” să le simți și nici nevoia de a număra loviturile ca să atingi o țintă. Fiecare copil este diferit, iar ce contează este să cunoști tiparul obișnuit al copilului **tău** de-a lungul zilei: momentele în care este activ și cele în care este liniștit.\n\nOdată ce cunoști acest tipar, o schimbare față de el este lucrul la care trebuie să fii atentă. Ai încredere în ceea ce știi despre propriul copil.",
+      "deep": null,
+      "when_to_see_doctor": "Când cunoști tiparul normal al copilului tău, poți observa o schimbare. Dacă vreodată nu ești sigură că mișcările au încetinit sau s-au schimbat, este întotdeauna corect să suni și să verifici: nu vei răpi niciodată timpul nimănui.",
+      "red_flags": "- Dacă copilul tău **se mișcă mai puțin decât de obicei, mișcările i se schimbă sau nu-l mai simți mișcându-se**, **sună imediat la moașă sau la maternitate**, la orice oră din zi sau din noapte. **Nu aștepta până a doua zi**, chiar dacă este mijlocul nopții.\n- Nu te baza pe un aparat de ascultat bătăile inimii acasă (doppler) sau pe o aplicație ca să te liniștești: mergi să fii verificată în persoană."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Durerea de spate în sarcină",
+      "aliases": [
+        "durere de spate în sarcină",
+        "dureri lombare sarcină",
+        "mă doare spatele însărcinată",
+        "durere de spate gravidă",
+        "durere de mijloc sarcină",
+        "lombalgie sarcină"
+      ],
+      "glance": "Durerea de spate este foarte frecventă în sarcină, pe măsură ce ligamentele se înmoaie și burtica crește; de obicei este inofensivă.",
+      "overview": "Durerea de spate este una dintre cele mai frecvente probleme ale sarcinii. Pe măsură ce corpul se pregătește pentru naștere, ligamentele se înmoaie și se întind în mod natural, iar burtica în creștere schimbă felul în care îți porți greutatea; ambele pun o presiune suplimentară pe partea de jos a spatelui și pe bazin.\n\nLucrurile de zi cu zi o pot ameliora: să fii atentă la postură când stai în picioare, când stai jos și când ridici ceva; să porți pantofi fără toc, care susțin bine piciorul; o saltea fermă sau o pernă de susținere; și mișcare blândă și regulată, cum ar fi mersul pe jos, yoga pentru gravide sau exercițiile de la un curs. Dacă te încurcă cu adevărat, un kinetoterapeut specializat în sarcină îți poate da sfaturi adaptate.\n\nCele mai multe dureri de spate din sarcină nu sunt motiv de îngrijorare, dar câteva tipare merită verificate repede, iar pentru asta sunt recomandările de mai jos.",
+      "deep": null,
+      "when_to_see_doctor": "Contactează repede **medicul de familie sau moașa** dacă durerea de spate:\n\n- este **puternică** sau apare în **al doilea sau al treilea trimestru** (uneori poate fi un semn de travaliu precoce)\n- vine împreună cu **febră, sângerare vaginală sau durere când faci pipi**\n- este **într-o parte sau în ambele părți, sub coaste**",
+      "red_flags": "- Sună la **{{emergency}} sau mergi la urgențe** dacă **îți pierzi sensibilitatea în picioare, în fese sau în zona genitală** ori nu îți mai poți controla vezica sau intestinul. Este ceva rar, dar necesită îngrijire de urgență."
+    },
+    "basal-body-temperature": {
+      "title": "Temperatura bazală",
+      "aliases": [
+        "temperatura bazală",
+        "bbt",
+        "temperatura de dimineață",
+        "metoda temperaturii",
+        "temperatura la trezire",
+        "grafic temperatură bazală"
+      ],
+      "glance": "Temperatura bazală este temperatura ta de dimineață, în repaus, care crește ușor după ovulație.",
+      "overview": "Temperatura bazală este temperatura corpului tău în repaus complet. Măsurată în același fel în fiecare zi, arată o schimbare mică, dar grăitoare, de-a lungul ciclului: după ovulație crește puțin și rămâne ridicată până la următoarea menstruație.\n\nCreșterea este mică, de aproximativ 0,2–0,4 °C (în jur de 0,4–0,8 °F), așa că se interpretează dintr-un tipar de mai multe zile, nu dintr-o singură măsurătoare. Ca s-o surprinzi, îți iei temperatura în fiecare dimineață înainte să te ridici din pat, să mănânci sau să bei, ideal la aceeași oră. Cam la trei zile după ce temperatura începe să urce, aproape toate femeile au ovulat deja.\n\nPentru că această creștere apare *după* eliberarea ovulului, temperatura bazală confirmă că ovulația a avut loc, nu o prezice dinainte. De-a lungul câtorva cicluri te poate ajuta să vezi forma propriului ciclu, deși singură nu este o metodă precisă de a identifica zilele fertile.",
+      "deep": "Temperatura bazală este unul dintre semnele de conștientizare a fertilității care se notează zilnic, alături de mucusul cervical și de lungimea ciclului. Se potrivește în mod natural cu urmărirea mucusului: trecerea la un mucus limpede și alunecos sugerează că fereastra fertilă se deschide, iar creșterea temperaturii câteva zile mai târziu confirmă că ovulația a trecut. Multe lucruri pot influența temperatura în repaus, cum ar fi somnul prost, o boală, alcoolul sau o dimineață în care dormi mai mult, așa că valorile ciudate izolate contează mai puțin decât tendința de ansamblu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Sângerarea în sarcină",
+      "aliases": [
+        "sângerare în sarcină",
+        "sângerare vaginală sarcină",
+        "spotting în sarcină",
+        "pierderi de sânge în sarcină",
+        "sângerez și sunt însărcinată",
+        "pete de sânge sarcină"
+      ],
+      "glance": "Sângerarea în sarcină nu este întotdeauna gravă (sângerările ușoare sunt frecvente la început), dar trebuie verificată de fiecare dată de un medic sau de o moașă.",
+      "overview": "Sângerarea din vagin în timpul sarcinii nu este întotdeauna un semn că ceva nu este în regulă. Sângerările ușoare sau spottingul (pete de sânge) sunt destul de frecvente mai ales la începutul sarcinii, iar multe sarcini continuă perfect normal după aceea.\n\nCu toate acestea, sângerarea poate fi uneori semnul unei probleme, cum ar fi un avort spontan sau o sarcină extrauterină, așa că este genul de lucru care trebuie **verificat întotdeauna**, indiferent de cantitate. Un consult este felul în care se află cauza și în care primești repede îngrijirea potrivită, dacă ai nevoie de ea.\n\nPentru că același simptom poate însemna lucruri foarte diferite, pasul util nu este să ghicești, ci să iei legătura cu cineva și să fii consultată.",
+      "deep": null,
+      "when_to_see_doctor": "- **Contactează întotdeauna maternitatea** (sau, dacă ești sub 20 de săptămâni ori nu ai numărul lor, un serviciu pentru sarcina incipientă sau un **medic de gardă**) dacă ai **orice** sângerare vaginală în sarcină, chiar și un spotting ușor, ca să se poată verifica cauza.",
+      "red_flags": "- Sună la **{{emergency}} sau mergi la urgențe** dacă ai o **sângerare abundentă**, de exemplu îți îmbibi absorbantul la scurt timp după ce l-ai pus, mai ales dacă ai și **durere puternică de burtă, durere în vârful umărului sau dacă ți-e rău, simți că leșini, ai amețeli sau îți pierzi cunoștința.** Este nevoie de îngrijire de urgență."
+    },
+    "breast-awareness": {
+      "title": "Cunoașterea sânilor",
+      "aliases": [
+        "autoexaminarea sânilor",
+        "autopalpare sân",
+        "verificarea sânilor",
+        "cum îmi verific sânii",
+        "nodul la sân",
+        "control sân"
+      ],
+      "glance": "Să-ți cunoști sânii înseamnă pur și simplu să știi cum arată și cum îi simți în mod normal, ca să observi schimbările.",
+      "overview": "Cunoașterea sânilor nu este o tehnică specială: înseamnă doar să afli ce este normal pentru tine, ca orice lucru nou să iasă în evidență. Dacă îți verifici regulat sânii sau pieptul, înveți cum arată și cum îi simți de obicei; o dată pe lună este un ritm bun.\n\nNu există un singur mod „corect”. Multe femei se uită în oglindă cu brațele coborâte și apoi ridicate și palpează fiecare sân, până sus în axilă. Ce construiești este familiaritatea, nu un diagnostic: scopul este doar să observi din timp o schimbare, dacă apare.\n\nSânii se schimbă și în mod natural pe parcursul ciclului și de-a lungul vieții, așa că unele schimbări sunt complet normale. Rostul acestei atenții este să-ți cunoști propriul normal suficient de bine încât să observi ceva ce nu se încadrează în el.",
+      "deep": null,
+      "when_to_see_doctor": "Mergi la medicul de familie dacă observi orice schimbare care nu este normală pentru tine, cum ar fi:\n\n- un nodul sau o umflătură în sân, în piept sau în axilă\n- o schimbare a pielii, cum ar fi adâncituri (poate arăta ca o coajă de portocală) sau înroșire\n- o schimbare a mărimii sau a formei unuia sau ambilor sâni\n- secreții din mamelon (dacă nu ești însărcinată și nu alăptezi), care pot conține sânge\n- o schimbare a aspectului mamelonului, de exemplu dacă se retrage spre interior\n- durere în sân sau în axilă care nu trece\n\nCele mai multe schimbări ale sânilor nu sunt cancer și se dovedesc inofensive, dar merită întotdeauna ca o schimbare să fie verificată repede de un medic, pentru că, dacă ceva are nevoie de atenție, depistarea din timp ajută.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Alăptarea",
+      "aliases": [
+        "alăptare",
+        "alăptat",
+        "lapte matern",
+        "lapte de mamă",
+        "hrănirea bebelușului",
+        "probleme la alăptare"
+      ],
+      "glance": "Laptele matern protejează copilul de infecții și se adaptează pe măsură ce crește, iar orice cantitate aduce beneficii.",
+      "overview": "Laptele matern este un aliment natural și complet pentru un bebeluș: îi oferă nutrienții, vitaminele și mineralele de care are nevoie și se schimbă în timp ca să se potrivească etapei în care se află. De asemenea, ajută la protecția împotriva infecțiilor și bolilor și aduce unele beneficii pentru sănătate pe termen lung.\n\nExistă beneficii și pentru cea care alăptează: alăptarea este asociată, printre altele, cu un risc mai mic de cancer de sân și de cancer ovarian, iar regula generală este că, cu cât alăptezi mai des și mai mult timp, cu atât beneficiile sunt mai mari. Important este că **orice** cantitate de lapte matern contează; nu este totul sau nimic.\n\nHrănirea unui bebeluș poate fi la început mai grea decât te așteptai, și asta se întâmplă des. Există ajutor: de la moașă, de la asistenta medicală comunitară și de la serviciile locale de sprijin pentru alăptare, așa că este o idee bună să ceri ajutor devreme dacă lucrurile nu merg ușor.",
+      "deep": null,
+      "when_to_see_doctor": "- Cere din timp ajutorul **moașei sau al asistentei medicale comunitare** dacă alăptarea este dureroasă sau dificilă ori dacă ești îngrijorată că bebelușul nu primește destul lapte; sprijinul poate face o diferență reală.\n- Felul în care îți hrănești copilul este o decizie personală, iar sprijinul există orice ai alege; ce contează este ca tu și copilul tău să fiți bine.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Secreții maronii",
+      "aliases": [
+        "secreții maronii",
+        "scurgeri maro",
+        "spotting maro",
+        "sânge maro",
+        "sânge vechi",
+        "secreții închise la culoare",
+        "menstruație maro",
+        "pierderi maronii"
+      ],
+      "glance": "Secrețiile maronii sunt de obicei o cantitate mică de sânge, adesea în zilele mai ușoare ale menstruației. Petele maronii de sânge (spottingul maro) apărute în alte momente merită verificate de un medic.",
+      "overview": "Secrețiile maronii înseamnă o cantitate mică de sânge sau de lichid maroniu pe care o observi pe lenjerie sau pe hârtia igienică. Multe femei le observă la un moment dat și, foarte des, sunt pur și simplu parte din menstruație.\n\nSângele menstrual nu este întotdeauna roșu aprins. În zilele cele mai abundente tinde să fie roșu, dar în zilele mai ușoare poate arăta roz sau maroniu. Așa că o nuanță maronie în zilele mai ușoare ale menstruației este ceva obișnuit și normal.\n\nCuloarea maro poate apărea și în alte momente. Spottingul înseamnă pete mici de sânge roz, roșu sau maro, iar spottingul între menstruații are mai multe cauze frecvente. Contracepția hormonală, cum ar fi pilula, este una dintre cele mai des întâlnite. Printre altele se numără mici formațiuni în uter sau în jurul lui (cum ar fi polipii sau fibroamele) și infecții precum chlamydia. La începutul sarcinii, unele femei observă puțin spotting în jurul datei la care ar fi trebuit să vină menstruația. Aceasta se numește sângerare de implantare.\n\nPentru că spottingul maro în afara menstruației poate avea cauze diferite, cele mai multe minore, pasul util nu este să ghicești. Este să te consulte cineva, ca să știi ce se află în spatele lui în cazul tău.",
+      "deep": null,
+      "when_to_see_doctor": "- Mergi la medicul de familie sau la un cabinet de sănătate sexuală dacă ai **spotting maro sau sângerare între menstruații ori după sex**, chiar dacă este ușoară. De obicei nu este ceva grav, dar merită întotdeauna verificat.\n- Dacă **ești însărcinată sau ai putea fi**, contactează maternitatea, un serviciu pentru sarcina incipientă sau un **medic de gardă** pentru orice spotting, inclusiv spottingul maro, ca să se poată verifica cauza.\n- Mergi la medicul de familie dacă observi **orice secreții maronii sau roz ori sângerare după menopauză**, chiar dacă este doar o cantitate mică sau s-a întâmplat o singură dată.\n- Cere sfatul medicului de familie, al unui cabinet de sănătate sexuală sau al unui medic de gardă dacă secrețiile tale **își schimbă culoarea, mirosul sau consistența** ori sunt însoțite de mâncărime, iritație, durere pelviană sau durere când faci pipi.",
+      "red_flags": "- Cere o programare **urgentă** la medicul de familie sau contactează un **medic de gardă** dacă **recent nu ți-a venit menstruația și ai o sângerare neobișnuită împreună cu durere de burtă sau pelviană**. Trebuie verificat repede, pentru că poate fi semnul unei sarcini extrauterine.\n- Dacă ești însărcinată, sună la **{{emergency}}** dacă sângerezi și ai **durere puternică de burtă, durere în umăr, simți că leșini, ai amețeli sau greață ori sângerarea este abundentă** (îți îmbibi absorbantul la scurt timp după ce l-ai pus)."
+    },
+    "cervical-mucus": {
+      "title": "Mucusul cervical",
+      "aliases": [
+        "mucus cervical",
+        "secreții vaginale",
+        "scurgeri vaginale",
+        "secreții cervicale",
+        "mucus ca albușul de ou",
+        "glera cervicală",
+        "secreții la ovulație"
+      ],
+      "glance": "Mucusul cervical este secreția naturală care se schimbă pe parcursul ciclului și îți semnalează zilele fertile.",
+      "overview": "Mucusul cervical este lichidul produs de colul uterin, pe care îl poți observa sub formă de secreții vaginale. Este normal, iar aspectul și consistența lui se schimbă după un tipar destul de previzibil de-a lungul ciclului; de aceea este unul dintre semnele folosite pentru a identifica zilele fertile.\n\nImediat după menstruație există adesea câteva zile „uscate”, cu puțin mucus. Pe măsură ce un ovul începe să se maturizeze, mucusul devine mai abundent și tinde să fie alb sau gălbui, tulbure și lipicios. În zilele de chiar dinaintea ovulației devine de obicei limpede, umed și alunecos și se întinde între degete ca albușul de ou crud; acesta este momentul cel mai fertil. După ovulație, de regulă, devine din nou lipicios și tulbure sau se usucă.\n\nTiparul fiecărei femei este puțin diferit și pot fi necesare câteva cicluri de atenție până să-l înveți pe al tău. Unele lucruri, cum ar fi contracepția hormonală, alăptarea sau o infecție, pot schimba mucusul, așa că nu este un semn de fertilitate de încredere pentru oricine.",
+      "deep": "Observarea mucusului cervical este unul dintre semnele de conștientizare a fertilității pe care femeile le urmăresc, alături de temperatura corpului în repaus și de lungimea ciclului; de obicei sunt necesare două-trei cicluri ca să le înveți. Spre deosebire de creșterea temperaturii, care confirmă ovulația abia după ce a avut loc, trecerea la un mucus limpede și alunecos, ca albușul de ou, tinde să apară *înainte* de ovulație; de aceea este folosit pentru a semnala fereastra fertilă când se deschide, nu după ce s-a închis.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Screeningul cancerului de col uterin (testul Babeș-Papanicolau)",
+      "aliases": [
+        "screening col uterin",
+        "test babeș-papanicolau",
+        "babeș",
+        "papanicolau",
+        "test pap",
+        "frotiu cervical",
+        "citologie cervicală",
+        "test HPV"
+      ],
+      "glance": "Screeningul cancerului de col uterin este un control de rutină al sănătății colului uterin, care ajută la prevenirea cancerului de col uterin.",
+      "overview": "Screeningul cancerului de col uterin este un test care verifică sănătatea colului uterin, adică deschiderea uterului aflată în partea de sus a vaginului. Nu este un test pentru cancer. Este, în schimb, o modalitate de a depista din timp schimbările și de a ajuta la prevenirea apariției cancerului de col uterin.\n\nToate persoanele care au col uterin sunt invitate de la vârsta de 25 de ani până la 64 de ani. Primești o invitație când îți vine rândul, la intervale regulate, așa că nu trebuie să ții tu minte să te programezi din senin, deși este întotdeauna alegerea ta dacă mergi sau nu.\n\nTestul în sine este rapid și îl face o asistentă medicală. Multe femei sunt puțin emoționate, ceea ce este complet de înțeles; să știi la ce folosește, un control de rutină, preventiv, te poate ajuta să-l privești mai ușor.",
+      "deep": null,
+      "when_to_see_doctor": "- Screeningul este pentru momentele în care **nu** ai simptome. Dacă între două screeninguri observi ceva care te îngrijorează, cum ar fi o sângerare neobișnuită (între menstruații, după sex sau după menopauză), mergi la medicul de familie în loc să aștepți următoarea invitație.\n- Dacă ai fost invitată și nu ești sigură sau ești neliniștită în legătură cu testul, merită să vorbești cu medicul de familie sau cu asistenta de la cabinet, care îți pot explica ce se întâmplă și îți pot răspunde la întrebări.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Abuzul asupra copiilor și protecția lor",
+      "aliases": [
+        "abuz asupra copilului",
+        "copil abuzat",
+        "maltratarea copilului",
+        "protecția copilului",
+        "siguranța copilului",
+        "sunt îngrijorată pentru un copil",
+        "neglijarea copilului",
+        "violență asupra copiilor"
+      ],
+      "glance": "Dacă ești îngrijorată că un copil ar putea fi rănit sau neglijat, este corect să ceri sfatul cuiva; nu trebuie să fii sigură.",
+      "overview": "Abuzul asupra copiilor, sau maltratarea copiilor, înseamnă orice rău făcut cuiva sub 18 ani. Include abuzul fizic, sexual și emoțional, precum și neglijarea (când nevoile de bază ale unui copil nu sunt satisfăcute). Din păcate este frecvent, poate lăsa urme pe viață și nu este niciodată vina copilului.\n\nPoate ai o îngrijorare legată de un copil din viața ta sau de un copil pe care l-ai observat. Nu trebuie să fii sigură sau să ai dovezi ca să acționezi pe baza acestei îngrijorări: să ai încredere în ea și să ceri sfatul cuiva este exact lucrul potrivit și poate proteja un copil.\n\nIar dacă tu însăți ai trăit abuzuri în copilărie, să știi că răul acela nu a fost niciodată vina ta și că există sprijin și pentru tine, la orice vârstă.",
+      "deep": null,
+      "when_to_see_doctor": "- Dacă ești îngrijorată pentru un copil, poți contacta **protecția copilului / serviciile sociale**, o **linie telefonică dedicată protecției copilului** sau **medicul de familie, asistenta medicală comunitară ori școala copilului** pentru sfaturi, în mod confidențial.\n- Nu „exagerezi” dacă întrebi. E mai bine să verifici decât să aștepți.",
+      "red_flags": "- Dacă un copil este în **pericol imediat** sau grav rănit, contactează acum serviciile de urgență: **112** în UE (inclusiv în Italia), **999** în Regatul Unit, **911** în SUA și Canada."
+    },
+    "coercive-control": {
+      "title": "Controlul coercitiv",
+      "aliases": [
+        "control coercitiv",
+        "comportament controlant",
+        "partener posesiv",
+        "abuz emoțional",
+        "abuz psihologic",
+        "izolare",
+        "abuz financiar",
+        "gaslighting"
+      ],
+      "glance": "Controlul coercitiv este un tipar de comportament controlant (izolare, supraveghere, amenințări), recunoscut ca formă de abuz.",
+      "overview": "Controlul coercitiv este o formă de abuz care se exercită prin control în loc de, sau pe lângă, vătămarea fizică. Este un tipar, nu o singură ceartă, în care o persoană îi limitează treptat celeilalte libertatea și sentimentul de sine.\n\nPoate însemna să fii izolată de prieteni și de familie, să ți se supravegheze sau să ți se restricționeze telefonul, deplasările sau cheltuielile, să ți se spună cum să te îmbraci sau cum să te comporți ori să trăiești cu critici, amenințări sau intimidări constante. Pentru că s-ar putea să nu existe vânătăi, poate fi greu de numit, iar alții s-ar putea să nu-l vadă, dar este recunoscut ca abuz și poate face la fel de mult rău ca violența fizică.\n\nDacă recunoști o parte din toate acestea, nu înseamnă că ești prea sensibilă sau că tu ai provocat situația. Comportamentul controlant este o alegere pe care o face cealaltă persoană. Să-l înțelegi drept ceea ce este poate fi primul pas spre sprijin.",
+      "deep": "Controlul coercitiv se construiește adesea încet, și tocmai de aceea este greu de observat din interior: micile forme de control devin normale, iar îndoiala de sine crește. Cu timpul, îți afectează sănătatea mintală. Să vorbești despre el cu cineva pregătit să înțeleagă aceste tipare te poate ajuta să vezi situația mai clar și să te gândești la ce vrei să faci mai departe, fără presiune.",
+      "when_to_see_doctor": "- Un centru sau o linie telefonică împotriva violenței (în Italia, **1522**) poate vorbi cu tine despre ce trăiești, confidențial și gratuit, și te poate ajuta să-ți înțelegi opțiunile; nu trebuie să fii în pericol fizic ca să ceri ajutor.\n- Și medicul de familie sau un consilier te pot sprijini și te pot îndruma către servicii specializate.",
+      "red_flags": "- Dacă ești în **pericol imediat**, contactează acum serviciile de urgență: **112** în UE (inclusiv în Italia), **999** în Regatul Unit, **911** în SUA și Canada.\n- În Italia, **1522** este gratuit, disponibil 24 de ore din 24, anonim și în mai multe limbi, prin telefon sau chat."
+    },
+    "combined-pill": {
+      "title": "Pilula combinată",
+      "aliases": [
+        "pilula combinată",
+        "pilula",
+        "anticoncepționale",
+        "pastile anticoncepționale",
+        "contraceptiv oral combinat",
+        "COC"
+      ],
+      "glance": "Pilula combinată este o pastilă zilnică cu doi hormoni, care acționează în principal prin oprirea ovulației.",
+      "overview": "Pilula combinată este o pastilă zilnică ce conține doi hormoni, variante de estrogen și progestativ, asemănătoare cu cei produși de ovare. Este una dintre cele mai cunoscute forme de contracepție.\n\nPrevine sarcina în mai multe moduri în același timp. În principal, împiedică ovarele să elibereze un ovul (ovulația). De asemenea, îngroașă mucusul de la colul uterin, îngreunând trecerea spermatozoizilor, și subțiază mucoasa uterului.\n\nCât de bine funcționează depinde de felul în care o iei: are o eficiență de peste 99% cu utilizare perfectă, dar în utilizarea obișnuită, de zi cu zi, când pastilele sunt uneori uitate sau luate cu întârziere, eficiența este de aproximativ 91%. Ca majoritatea metodelor, nu protejează împotriva infecțiilor cu transmitere sexuală (ITS), așa că unele femei folosesc și prezervativul.",
+      "deep": "Pilula combinată se ia de obicei după o schemă de-a lungul lunii, iar modul de administrare, cui i se potrivește, efectele secundare și riscurile sunt lucruri pe care un medic le discută cu tine când ți-o prescrie; nu este potrivită pentru oricine. Fiind o metodă zilnică, eficiența ei în viața reală depinde mult de rutină. Acest articol explică ce este și cum funcționează; detaliile despre cum să o începi, cum să o iei sau cum să o oprești sunt o discuție de purtat cu medicul de familie, cu asistenta medicală sau cu farmacistul.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Simptome frecvente în sarcină",
+      "aliases": [
+        "simptome frecvente în sarcină",
+        "disconfort în sarcină",
+        "arsuri în sarcină",
+        "durere de spate în sarcină",
+        "glezne umflate",
+        "constipație în sarcină",
+        "dureri în sarcină",
+        "hemoroizi sarcină"
+      ],
+      "glance": "Sarcina aduce multe dureri mărunte și schimbări, cele mai multe normale, deși câteva merită verificate.",
+      "overview": "Sarcina înseamnă multe schimbări pentru corpul tău și vine cu o listă lungă de mici neplăceri de zi cu zi. Cele mai multe sunt frecvente și nu înseamnă că ceva nu este în regulă; fac pur și simplu parte din creșterea unui bebeluș.\n\nPrintre cele cunoscute se numără durerea de spate, arsurile și indigestia, constipația, hemoroizii, umflarea gleznelor, a picioarelor și a degetelor, oboseala și somnul întrerupt, crampele la picioare, durerile de cap, senzația de leșin și mai multe secreții vaginale decât de obicei. Multe se ameliorează cu mici măsuri de confort, iar moașa îți poate sugera ce este sigur dacă te deranjează ceva.\n\nUtil este să știi care schimbări sunt obișnuite și pe care merită să le semnalezi, pentru că unele simptome, deși mai rare, trebuie verificate, nu așteptat să treacă.",
+      "deep": null,
+      "when_to_see_doctor": "Cele mai multe sunt normale, dar contactează repede **moașa sau maternitatea** dacă ai sau observi:\n\n- **sângerare vaginală** sau o scurgere bruscă de lichid, în jet sau picătură cu picătură\n- că **bebelușul se mișcă mai puțin** decât de obicei\n- **durere de cap puternică, probleme de vedere sau umflare bruscă** a feței, a mâinilor sau a picioarelor (posibile semne de preeclampsie)\n- **durere de burtă puternică sau pe o singură parte** ori **febră**\n- **mâncărime**, mai ales pe mâini și pe tălpi sau care se agravează noaptea (poate fi semnul unei afecțiuni a ficatului în sarcină, care trebuie verificată)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Prezervativele",
+      "aliases": [
+        "prezervativ",
+        "prezervative",
+        "prezervativ masculin",
+        "condom",
+        "metodă de barieră",
+        "contracepție de barieră",
+        "protecție la sex"
+      ],
+      "glance": "Prezervativele sunt o metodă de barieră și singurul tip de contracepție care protejează și împotriva ITS.",
+      "overview": "Prezervativul este o barieră subțire, de obicei din latex sau dintr-un material plastic alternativ pentru cei cu alergie la latex, care se poartă pe penis în timpul actului sexual. Funcționează simplu: împiedică spermatozoizii să ajungă în vagin.\n\nCe face prezervativele speciale printre metodele contraceptive este că sunt **singura metodă care protejează și împotriva infecțiilor cu transmitere sexuală (ITS), inclusiv HIV.** De aceea sunt folosite adesea împreună cu o altă metodă: una pentru sarcină, iar amândouă împreună pentru protecția împotriva infecțiilor.\n\nFolosite corect de fiecare dată, prezervativele au o eficiență de aproximativ 98% în prevenirea sarcinii. În utilizarea obișnuită, când sunt uneori folosite greșit sau nu de fiecare dată, eficiența scade la aproximativ 82%. Diferența o face folosirea lor corectă și constantă.",
+      "deep": "Pentru că prezervativele se folosesc pe loc, nu dinainte, eficiența lor în viața reală depinde mult de folosirea constantă și corectă. Prezervativele interne (purtate în interiorul vaginului) sunt o altă opțiune de barieră. Spre deosebire de majoritatea metodelor, prezervativele nu necesită rețetă și se găsesc ușor, iar rolul lor dublu, protecție împotriva sarcinii și a ITS, este motivul pentru care apar atât de des în discuțiile despre sexul protejat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Consimțământ și respect",
+      "aliases": [
+        "consimțământ",
+        "acord",
+        "respectă-i limitele",
+        "consimțământ entuziast",
+        "autonomie corporală",
+        "nu înseamnă nu",
+        "da înseamnă da"
+      ],
+      "glance": "Consimțământul este un „da” clar, liber și entuziast, de fiecare dată, și poate fi retras în orice moment.",
+      "overview": "Respectul începe cu dreptul ei de a decide asupra propriului corp, întotdeauna. Consimțământul la intimitate înseamnă un **da** dat liber, informat și entuziast. Tăcerea nu este consimțământ. Un „bine” spus fără chef nu este consimțământ. O persoană care doarme, care a băut foarte mult sau care este pusă sub presiune nu își poate da cu adevărat consimțământul. Iar un da pentru un lucru, sau într-o anumită zi, nu este un da pentru orice sau pentru data viitoare.\n\nConsimțământul poate fi retras în orice moment, iar „oprește-te” sau „nu în seara asta” sunt un răspuns complet, care nu are nevoie de nicio justificare. Să faci presiuni, să o faci să se simtă vinovată, să te bosumfli până cedează sau să tratezi sexul ca pe ceva ce ți se cuvine nu este în regulă: o relație nu este o datorie.",
+      "deep": "Cum arată respectul în practică:\n\n- **Întreabă și verifică pe parcurs.** „E în regulă așa?” și atenție la cum răspunde ea, prin cuvinte și prin limbajul corpului.\n- **Acceptă un „nu” cu eleganță.** Fără bosumflare, presiuni sau pedepse. Răspunsul ei încheie discuția.\n- **Entuziasmul contează.** Dacă pare nesigură, ezitantă sau doar se lasă dusă de val, oprește-te și întreab-o.\n- **Corpul ei, decizia ei**: despre intimitate, contracepție, sarcină, sănătatea ei, înfățișarea ei, alegerile ei. Ai un cuvânt de spus în viața voastră comună, dar niciodată un drept de veto asupra corpului ei.\n- **Respectul se arată zilnic.** Felul în care vorbești cu ea, felul în care vorbești despre ea și felul în care îi respecți limitele în lucrurile mărunte sunt temelia pe care se sprijină tot restul.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Contracepția",
+      "aliases": [
+        "contracepție",
+        "metode contraceptive",
+        "anticoncepționale",
+        "planificare familială",
+        "controlul nașterilor",
+        "cum să nu rămân însărcinată",
+        "protecție împotriva sarcinii"
+      ],
+      "glance": "Contracepția înseamnă diferitele moduri de a preveni o sarcină, iar opțiunile sunt numeroase.",
+      "overview": "Contracepția, numită uneori și controlul nașterilor, cuprinde toate metodele folosite pentru a preveni o sarcină. Sunt multe și funcționează în moduri diferite: unele folosesc hormoni, altele sunt bariere, altele stau în interiorul uterului, iar altele se bazează pe urmărirea ciclului.\n\nCât de bine funcționează o metodă depinde mult de felul în care este folosită. Unele metode, cum ar fi implantul și sterileturile, sunt de tipul „le pui și uiți de ele” și au o eficiență de peste 99%. Altele, cum ar fi pilula sau prezervativele, sunt foarte eficiente când sunt folosite perfect, dar puțin mai puțin în utilizarea obișnuită, de zi cu zi, pentru că e mai ușor să uiți o pastilă sau să folosești greșit un prezervativ.\n\nUn lucru bun de știut: **doar prezervativele protejează și împotriva infecțiilor cu transmitere sexuală (ITS)**. Celelalte metode previn sarcina, dar nu și infecțiile, și de aceea prezervativele sunt uneori folosite împreună cu o altă metodă.\n\nNu există o singură metodă „cea mai bună”: cea potrivită depinde de sănătatea ta, de corpul tău și de ce se potrivește vieții tale. Medicul de familie sau un cabinet de sănătate sexuală îți pot prezenta opțiunile și te pot ajuta să alegi.",
+      "deep": "Pentru că metodele diferă atât de mult, ajută să te gândești la ce contează pentru tine: cât de eficientă este, dacă presupune să îți amintești ceva zilnic, cât timp durează, dacă vrei hormoni sau nu și dacă protecția împotriva ITS contează în situația ta. Multe femei schimbă metoda de-a lungul vieții, pe măsură ce li se schimbă nevoile. Această bază de cunoștințe descrie cum funcționează metodele obișnuite, ca alegerile să pară mai clare, dar decizia, precum și orice rețetă sau montare, se iau împreună cu un medic.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Contracepția și greutatea",
+      "aliases": [
+        "pilula îngrașă",
+        "mă îngraș de la pilulă",
+        "anticoncepționalele îngrașă",
+        "creștere în greutate anticoncepționale",
+        "kilograme în plus de la pilulă",
+        "injecția contraceptivă îngrașă",
+        "implantul îngrașă"
+      ],
+      "glance": "Nu există dovezi că pilula combinată duce la creștere în greutate, dar injecția contraceptivă poate duce. Depinde de metodă.",
+      "overview": "Să te întrebi dacă o metodă de contracepție te va face să iei în greutate este ceva foarte des întâlnit. Răspunsul sincer este că depinde de metodă.\n\nÎn cazul pilulei combinate, dovezile sunt liniștitoare: nu există dovezi că ar duce la creștere în greutate. Același lucru este valabil și pentru plasturele contraceptiv și pentru inelul vaginal.\n\nInjecția contraceptivă este diferită. Creșterea în greutate este trecută printre efectele ei secundare frecvente, alături de schimbări ale menstruației.\n\nÎn cazul pilulei doar cu progestativ (numită uneori minipilulă) și al implantului contraceptiv, unele femei spun că au luat în greutate. Dar nu există suficiente dovezi pentru a spune dacă metoda în sine este cauza.\n\nGreutatea este doar o parte din imagine. Fiecare metodă are propria listă de posibile efecte secundare și riscuri, iar alegerea contracepției înseamnă să găsești ce se potrivește corpului tău, sănătății tale și vieții tale. Un farmacist, medicul de familie, o asistentă medicală sau un cabinet de sănătate sexuală pot trece împreună cu tine prin opțiuni.",
+      "deep": null,
+      "when_to_see_doctor": "- Dacă efectele secundare, inclusiv schimbările de greutate, sunt o problemă pentru tine, vorbește cu un farmacist, cu medicul de familie, cu o asistentă medicală sau cu un cabinet de sănătate sexuală. În cazul pilulei combinate, al plasturelui sau al inelului, unele efecte secundare pot apărea la început. Dacă te deranjează în continuare după aproximativ 3 luni, un medic poate discuta cu tine despre o altă pilulă sau despre alt tip de contracepție.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Implantul contraceptiv",
+      "aliases": [
+        "implant contraceptiv",
+        "implantul",
+        "implant în braț",
+        "Nexplanon",
+        "implant subdermic",
+        "bețișor contraceptiv"
+      ],
+      "glance": "Implantul este un bețișor mic, plasat în partea de sus a brațului, care eliberează un hormon timp de câțiva ani.",
+      "overview": "Implantul contraceptiv este un bețișor mic și flexibil, cam de mărimea unui chibrit, pe care un medic instruit îl plasează chiar sub pielea din partea de sus a brațului. Odată pus, eliberează constant un hormon progestativ și funcționează până la aproximativ trei ani.\n\nPrevine sarcina în principal împiedicând ovarele să elibereze un ovul (ovulația) și îngroșând mucusul de la colul uterin, astfel încât spermatozoizii să nu poată trece. Pentru că nu trebuie să îți amintești nimic de la o zi la alta, este una dintre metodele de tipul „îl pui și uiți de el”.\n\nTot de aceea este una dintre cele mai de încredere opțiuni: implantul are o eficiență de peste 99%, iar eficiența lui aproape nu diferă între utilizarea perfectă și cea obișnuită. Ca și alte metode hormonale, nu protejează împotriva ITS.",
+      "deep": "Implantul este o metodă reversibilă cu durată lungă de acțiune: funcționează până când este scos, iar fertilitatea revine după scoatere. Punerea și scoaterea lui sunt proceduri rapide, făcute de un medic, care discută cu tine și cui i se potrivește și ce efecte secundare are. Acest articol explică ce este și cum funcționează; decizia de a-l pune este o discuție cu medicul de familie, cu o asistentă medicală sau cu un cabinet de sănătate sexuală.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Ciclul și starea ta de bine",
+      "aliases": [
+        "stare de bine",
+        "ciclul și sănătatea",
+        "ciclul menstrual și sănătatea",
+        "semn vital",
+        "menstruație neregulată și greutate",
+        "sănătate generală"
+      ],
+      "glance": "Ciclul tău este un fel de control lunar al sănătății, iar schimbările lui merită observate.",
+      "overview": "Ciclul menstrual nu este separat de restul sănătății tale, ci este legat de ea. Un ciclu regulat pentru tine este, în general, un semn că organismul funcționează cum trebuie. De aceea, unele femei privesc menstruația ca pe un fel de semnal lunar despre starea generală de bine.\n\nViața de zi cu zi are și ea un rol. Greutatea corporală este un exemplu: o greutate mult sub sau mult peste normal poate afecta hormonii care declanșează ovulația, ceea ce poate face menstruațiile neregulate. Lucrurile funcționează în ambele sensuri: grija pentru lucrurile de bază, cum ar fi o alimentație echilibrată și mișcarea, susține ciclul, iar un ciclu constant este un semn că aceste lucruri sunt într-un echilibru rezonabil.\n\nNu este vorba despre a urmări un ciclu „perfect” sau despre a te învinovăți pentru schimbări. Pur și simplu, o atenție blândă la ciclul tău poate fi o fereastră utilă spre felul în care te simți și un imbold să vorbești cu un medic dacă ceva se schimbă.",
+      "deep": null,
+      "when_to_see_doctor": "- Mergi la medicul de familie dacă menstruațiile devin neregulate, se opresc sau se schimbă într-un fel care nu este obișnuit pentru tine: schimbările care persistă pot indica uneori ceva ce merită investigat.\n- Merită o discuție și dacă problemele legate de menstruație îți afectează viața de zi cu zi, ca să primești sprijin în loc să le suporți pur și simplu.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Abuzul economic",
+      "aliases": [
+        "abuz economic",
+        "abuz financiar",
+        "control asupra banilor",
+        "îmi controlează banii",
+        "controlul finanțelor",
+        "datorii pe numele meu",
+        "nu mă lasă să lucrez"
+      ],
+      "glance": "Abuzul economic înseamnă controlul accesului cuiva la bani, la muncă sau la resurse și este o formă recunoscută de abuz.",
+      "overview": "Abuzul economic înseamnă că cineva controlează accesul altei persoane la bani și la lucrurile care se cumpără cu bani. Este o formă de comportament controlant și apare adesea alături de alte tipuri de abuz.\n\nPoate însemna să ți se controleze toate cheltuielile sau să fii pusă să dai socoteală pentru fiecare bănuț, să ți se ia salariul sau ajutoarele sociale, să se facă datorii pe numele tău, să ți se ascundă conturile bancare sau documentele ori să fii împiedicată să lucrezi sau să studiezi. Pentru că poate lăsa o persoană fără mijloacele de a pleca sau de a se descurca de la o zi la alta, este unul dintre felurile în care abuzul poate părea o capcană.\n\nDacă o parte din toate acestea îți sună cunoscut, nu înseamnă că „nu te pricepi la bani” sau că tu ești de vină. Controlul resurselor altei persoane este o alegere pe care o face cealaltă persoană și este recunoscut ca abuz.",
+      "deep": null,
+      "when_to_see_doctor": "- Serviciile împotriva violenței te pot ajuta și în această privință, nu doar cu siguranța, ci și cu pași practici și financiari, confidențial și gratuit (în Italia, linia **1522** te poate îndruma către sprijin local).\n- Un plan de siguranță poate include să îți asiguri discret accesul la niște bani, la documentele esențiale și la numerele de telefon importante.",
+      "red_flags": "- Dacă ești în **pericol imediat**, contactează acum serviciile de urgență: **112** în UE (inclusiv în Italia), **999** în Regatul Unit, **911** în SUA și Canada.\n- În Italia, **1522**, gratuit, disponibil 24 de ore din 24, anonim și în mai multe limbi, te poate ajuta prin telefon sau chat."
+    },
+    "ectopic-pregnancy": {
+      "title": "Sarcina extrauterină",
+      "aliases": [
+        "sarcină extrauterină",
+        "sarcină ectopică",
+        "ectopică",
+        "sarcină tubară",
+        "sarcină în trompă"
+      ],
+      "glance": "O sarcină extrauterină se dezvoltă în afara uterului; nu poate continua și are nevoie rapid de îngrijire medicală.",
+      "overview": "O sarcină extrauterină (ectopică) apare când un ovul fecundat se implantează în afara uterului, cel mai des într-una dintre trompele uterine. Din păcate, o sarcină în această poziție nu se poate dezvolta într-un copil și nu poate fi mutată în uter, așa că trebuie întotdeauna tratată.\n\nSemnele apar de obicei cam între săptămânile 4 și 12 și pot include durere de burtă jos, pe o parte, sângerare vaginală sau secreții maronii apoase, durere în vârful umărului ori disconfort când urinezi sau ai scaun. Combinația de simptome variază, iar unele pot fi ușor confundate cu ceva minor, de aceea este important să fie verificate.\n\nEste o situație rară, dar potențial gravă, așa că nu este ceva la care să aștepți să treacă. Dacă ceri sfatul devreme, situația poate fi gestionată în siguranță.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactează medicul de familie sau un **medic de gardă** dacă ai o combinație dintre aceste simptome **și ai putea fi însărcinată**, chiar dacă nu ai avut un test de sarcină pozitiv. Este important să ceri sfatul imediat.",
+      "red_flags": "- Sună la **{{emergency}} sau mergi la urgențe** dacă ai o **durere bruscă, ascuțită și intensă de burtă**, ai **amețeli puternice sau simți că leșini**, ești **foarte palidă** sau ți-e rău pe lângă acestea. Poate însemna că trompa uterină s-a rupt, o urgență medicală care are nevoie de tratament imediat."
+    },
+    "emergency-contraception": {
+      "title": "Contracepția de urgență",
+      "aliases": [
+        "contracepție de urgență",
+        "pilula de a doua zi",
+        "pastila de a doua zi",
+        "pilula de urgență",
+        "Levonelle",
+        "ellaOne",
+        "Escapelle",
+        "Postinor"
+      ],
+      "glance": "Contracepția de urgență poate preveni o sarcină după un contact sexual neprotejat, iar cu cât mai repede, cu atât mai bine.",
+      "overview": "Contracepția de urgență este o modalitate de a preveni o sarcină după un contact sexual fără contracepție sau când metoda obișnuită s-ar putea să nu fi funcționat (o pastilă uitată, un prezervativ rupt). Există două tipuri și, pentru amândouă, momentul contează.\n\nPrimul este **pilula de urgență** (pilula de a doua zi). Există două variante: una (levonorgestrel) poate fi luată până la 3 zile, adică 72 de ore, după contactul sexual, iar cealaltă (acetat de ulipristal, denumire comercială ellaOne) până la 5 zile, adică 120 de ore. A doua opțiune este **steriletul de cupru (DIU)**, pe care un medic îl poate monta până la 5 zile după contactul sexual; este cea mai eficientă formă de contracepție de urgență și, dacă vrei, poate rămâne apoi pe loc ca metodă de contracepție pe termen lung.\n\nÎn toate aceste cazuri, **cu cât le folosești mai repede, cu atât funcționează de obicei mai bine**, așa că merită să acționezi repede, nu să aștepți. Poți obține contracepție de urgență de la o farmacie, de la medicul de familie, de la un cabinet de sănătate sexuală sau de la un centru medical fără programare, adesea gratuit.",
+      "deep": null,
+      "when_to_see_doctor": "- Pentru că timpul contează, nu aștepta: un farmacist îți poate da repede pilula de urgență, iar un cabinet de sănătate sexuală sau medicul de familie îți pot monta steriletul.\n- Contracepția de urgență previne sarcina, nu infecțiile. Dacă există orice risc de infecție cu transmitere sexuală, un cabinet de sănătate sexuală te poate sfătui în privința testării.\n- Dacă apoi menstruația întârzie mai mult de câteva zile sau este foarte diferită de cum e de obicei, merită să faci un test de sarcină și să vorbești cu un medic.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometrioza",
+      "aliases": [
+        "endometrioză",
+        "endo",
+        "dureri menstruale foarte puternice",
+        "durere pelviană cronică",
+        "chist endometriozic",
+        "simptome endometrioză"
+      ],
+      "glance": "Endometrioza este o afecțiune în care un țesut asemănător mucoasei uterine crește în afara uterului, provocând adesea durere.",
+      "overview": "Endometrioza este o afecțiune de lungă durată în care celule asemănătoare celor din mucoasa uterului cresc în alte părți ale corpului, cum ar fi în jurul ovarelor, în bazin sau pe intestin. Este frecventă: se estimează că afectează aproximativ 1 din 10 femei de vârstă reproductivă din întreaga lume.\n\nPentru că acest țesut se comportă oarecum ca mucoasa uterului, poate provoca inflamație și, cu timpul, țesut cicatricial. Cel mai frecvent semn este durerea: adesea dureri menstruale puternice, dar și durere pelviană sau în partea de jos a spatelui în alte momente, durere în timpul sau după actul sexual și durere când urinezi sau ai scaun. Sunt frecvente și menstruațiile foarte abundente, oboseala profundă, starea de spirit scăzută și dificultatea de a rămâne însărcinată. Simptomele variază mult: unele femei au dureri puternice, altele foarte puține.\n\nEndometrioza este adesea înțeleasă greșit și pot trece ani până să fie recunoscută, în parte pentru că durerea menstruală este atât de des considerată „normală”. Durerea puternică, care îți dă viața peste cap, nu este ceva ce trebuie pur și simplu să suporți; merită luată în serios.",
+      "deep": "Cauza exactă a endometriozei nu se cunoaște și în prezent nu există vindecare, dar tratamentele pot ajuta la controlul simptomelor, iar sprijinul variază de la medicamente până la, pentru unele femei, intervenție chirurgicală, alături de ajutor pentru povara fizică și emoțională. Una dintre cele mai mari provocări este întârzierea: în medie pot trece câțiva ani, uneori mulți, până la un diagnostic. Și de aceea poate conta atât de mult să ții o evidență clară a simptomelor și să revii la medic dacă nu ești ascultată.",
+      "when_to_see_doctor": "Merită să mergi la medicul de familie dacă:\n\n- ai dureri menstruale puternice care te împiedică să îți desfășori activitățile obișnuite\n- menstruațiile tale sunt foarte abundente, de exemplu trebuie să schimbi absorbantul sau tamponul la fiecare 1–2 ore\n- ai durere pelviană sau în partea de jos a spatelui care persistă, durere în timpul sau după actul sexual ori durere când urinezi sau ai scaun\n- îți este greu să rămâi însărcinată\n- tratamentul pe care l-ai avut deja nu a ajutat sau simptomele s-au agravat\n\nPentru că diagnosticul de endometrioză poate dura, este în regulă să revii dacă simptomele tale nu sunt luate în serios; o imagine clară a durerii tale în timp ajută. Dacă durerea sau sângerarea abundentă îți afectează și starea de spirit, spune-i medicului de familie; și asta face parte din tablou, iar sprijinul există.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogenul",
+      "aliases": [
+        "estrogen",
+        "estrogeni",
+        "estradiol",
+        "hormon feminin",
+        "oestrogen"
+      ],
+      "glance": "Estrogenul este un hormon-cheie care îți ajută corpul să se pregătească, în fiecare ciclu, pentru o posibilă sarcină.",
+      "overview": "Estrogenul este unul dintre principalii hormoni din spatele ciclului menstrual. În prima jumătate a ciclului (faza foliculară), nivelul lui crește pe măsură ce un folicul din ovar se maturizează. Această creștere îngroașă mucoasa uterului și pregătește ovulația.\n\nEstrogenul influențează și lucruri pe care le poți observa de la o zi la alta: energia, starea de spirit și schimbările mucusului cervical în jurul zilelor fertile. După ovulație, nivelul lui scade și apoi se modifică din nou, lucrând împreună cu un alt hormon, progesteronul, în a doua jumătate a ciclului.\n\nNivelurile cresc și scad în mod natural în fiecare ciclu și se schimbă și de la o etapă a vieții la alta. Este normal: este ritmul după care funcționează corpul tău, nu ceva ce trebuie „reparat”.",
+      "deep": "Estrogenul nu este o singură substanță, ci un grup de hormoni înrudiți (cel mai activ în timpul ciclului este estradiolul). Cea mai mare parte este produsă de ovare, în foliculul care crește. Creșterea și scăderea lui ciclică, împreună cu progesteronul și cu hormonii de semnalizare ai creierului, LH și FSH, sunt cele care conduc fazele ciclului. Pentru că estrogenul influențează multe sisteme, variațiile lui naturale se pot face simțite în mici feluri de-a lungul lunii; urmărirea te ajută să-ți cunoști propriul tipar în loc să-l compari cu o „medie”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Mișcarea și ciclul tău",
+      "aliases": [
+        "sport",
+        "exerciții fizice",
+        "activitate fizică",
+        "antrenament",
+        "mișcare",
+        "sport la menstruație",
+        "sală în timpul menstruației"
+      ],
+      "glance": "Poți rămâne activă pe tot parcursul ciclului, iar mișcarea regulată poate ameliora crampele și sindromul premenstrual.",
+      "overview": "Poți face activitate fizică în orice moment al ciclului. Unele femei observă că au mai multă energie și pot trage puțin mai tare în anumite momente ale lunii, și mai puțină în altele; ambele situații sunt normale și niciuna nu este un motiv să renunți la mișcare.\n\nActivitatea regulată poate chiar ajuta la unele simptome legate de menstruație. Femeile care fac mișcare regulat au adesea mai puține crampe dureroase, iar activitatea poate ameliora și simptomele premenstruale (sindromul premenstrual, SPM). În zilele cu mai puțină energie, și mișcarea mai blândă contează; nu trebuie să fie intensă ca să merite.\n\nNu e nevoie să-ți organizezi viața în funcție de ciclu și nu există un singur mod „corect” de a te mișca. Să-ți observi propriul tipar de energie de-a lungul lunii te poate ajuta pur și simplu să-ți planifici lucrurile într-un fel care îți face bine.",
+      "deep": null,
+      "when_to_see_doctor": "- Antrenamentele foarte intense sau atâta mișcare încât corpul rămâne fără suficientă energie pot face ca menstruațiile să devină neregulate sau să se oprească de tot. Un ciclu regulat este în general un semn că lucrurile merg bine, așa că merită să vorbești cu medicul de familie dacă menstruațiile devin neregulate sau se opresc; cu timpul, acest lucru poate avea legătură cu sănătatea oaselor și a hormonilor.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Mișcarea în sarcină",
+      "aliases": [
+        "sport în sarcină",
+        "exerciții în sarcină",
+        "activitate fizică gravidă",
+        "pot face sport însărcinată",
+        "yoga pentru gravide",
+        "înot în sarcină"
+      ],
+      "glance": "Să rămâi activă este sigur și benefic în majoritatea sarcinilor, cu blândețe și fără să te epuizezi.",
+      "overview": "Să rămâi activă în sarcină îți face bine și nu este periculos pentru copil; de fapt, o condiție fizică bună te poate ajuta să faci față schimbărilor care urmează și travaliului. Nu trebuie să te apuci de ceva intens; să continui activitățile obișnuite de zi cu zi, atâta timp cât te simți confortabil, este un bun punct de plecare.\n\nO regulă simplă: ar trebui să poți **purta o conversație** în timp ce te miști. Dacă îți lipsește prea mult aerul ca să vorbești, încetinește. Opțiunile blânde, cum ar fi mersul pe jos, înotul, cursurile de aqua-gym pentru gravide și yoga pentru gravide, se potrivesc majorității femeilor. Dacă nu erai activă înainte, acum nu este momentul să începi o rutină nouă și solicitantă; crește efortul treptat și cu blândețe.\n\nUnele activități e mai bine să fie evitate sau abordate cu grijă, cum ar fi statul întinsă pe spate după aproximativ 16 săptămâni, sporturile de contact, scufundările cu butelie și orice activitate cu un risc real de cădere.",
+      "deep": null,
+      "when_to_see_doctor": "- Întreab-o pe **moașă** înainte să începi un program nou de exerciții aerobice sau dacă ai o problemă de sănătate ori o îngrijorare legată de sarcină.\n- **Oprește-te și cere sfatul** dacă nu te simți bine, ai amețeli sau îți lipsește mult aerul ori dacă ai orice durere, sângerare sau contracții în timp ce faci mișcare.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Fereastra fertilă",
+      "aliases": [
+        "fereastra fertilă",
+        "zile fertile",
+        "zilele cele mai fertile",
+        "perioada fertilă",
+        "când pot rămâne însărcinată",
+        "calcul zile fertile"
+      ],
+      "glance": "Fereastra fertilă înseamnă cele câteva zile din fiecare ciclu în care un contact sexual poate duce la o sarcină.",
+      "overview": "Fereastra fertilă este intervalul scurt din ciclu în care o sarcină este posibilă. Există din cauza a două intervale de timp care nu se suprapun chiar perfect: un ovul poate fi fecundat doar timp de aproximativ 12–24 de ore după ce este eliberat, dar spermatozoizii pot supraviețui în corp câteva zile, până la aproximativ o săptămână, așteptând un ovul.\n\nPuse laolaltă, asta înseamnă că fereastra se deschide cu câteva zile înainte de ovulație și se închide la aproximativ o zi după ea. În practică, ești cel mai fertilă în cele 2–3 zile dinaintea ovulației și în ziua ovulației, pentru că spermatozoizii pot fi deja acolo când ajunge ovulul.\n\nPentru că ovulația se poate muta de la un ciclu la altul, se mută și fereastra fertilă. De aceea este privită de obicei ca un interval de zile, nu ca o singură dată, și de aceea urmărirea semnelor pe parcursul mai multor cicluri este mai de încredere decât un singur calcul în calendar.",
+      "deep": "Zilele exacte diferă de la o femeie la alta și de la o lună la alta, așa că fereastra se estimează cel mai bine pe baza semnalelor propriului corp, nu după o formulă fixă. Schimbările mucusului cervical arată că fereastra se deschide pe măsură ce se apropie ovulația, iar creșterea temperaturii corpului în repaus confirmă, ulterior, că ovulația a trecut și fereastra s-a închis. Testele de ovulație acționează cu un pas mai devreme, detectând creșterea bruscă a hormonului luteinizant (LH), care are loc cu puțin timp înainte de eliberarea ovulului.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Începutul menstruației (prima menstruație)",
+      "aliases": [
+        "prima menstruație",
+        "menarha",
+        "primul ciclu",
+        "mi-a venit ciclul prima dată",
+        "când vine prima menstruație",
+        "pubertate"
+      ],
+      "glance": "Prima menstruație vine de obicei în jurul vârstei de 12 ani; oricând între aproximativ 8 și 17 ani este normal.",
+      "overview": "Prima menstruație, numită uneori menarhă, este momentul în care ciclul menstrual începe pentru prima dată. Cele mai multe fete încep în jurul vârstei de 12 ani, dar oricând între aproximativ 8 și 17 ani este normal. Vine adesea cam la doi ani după ce sânii încep să se dezvolte.\n\nDe obicei există semne înainte: începe să crească părul la subraț și în zona pubiană, iar în lunile de dinainte apar puține secreții limpezi sau albe. Dacă știi că vor veni, prima menstruație poate părea mai puțin bruscă.\n\nLa început, menstruațiile sunt adesea neregulate: pauzele dintre ele pot fi lungi sau scurte, iar corpul tău poate avea nevoie de câteva luni, chiar și de vreo doi ani, ca să intre într-un ritm mai constant. Odată ce se întâmplă asta, menstruațiile tind să vină cam la fiecare 23–35 de zile și să dureze aproximativ 2–7 zile. Neregularitatea de la început este normală și nu este un motiv de îngrijorare.",
+      "deep": null,
+      "when_to_see_doctor": "- Mergi la medicul de familie dacă menstruația **nu a început până la 15 ani** sau până la **13 ani dacă nu există alte semne de pubertate** (cum ar fi dezvoltarea sânilor sau părul pe corp). Este doar ca să verifici că totul se dezvoltă cum trebuie; de obicei totul este în regulă.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Acidul folic și vitaminele în sarcină",
+      "aliases": [
+        "acid folic",
+        "folat",
+        "vitamina D în sarcină",
+        "vitamine pentru sarcină",
+        "suplimente în sarcină",
+        "vitamine prenatale",
+        "acid folic înainte de sarcină"
+      ],
+      "glance": "Acidul folic înainte de sarcină și la începutul ei ajută la protejarea copilului, plus vitamina D în fiecare zi.",
+      "overview": "Două suplimente contează cu adevărat în sarcină, iar NHS, serviciul public de sănătate britanic, le recomandă pe amândouă.\n\n**Acidul folic** este cel mai important. Un supliment de 400 de micrograme luat în fiecare zi, ideal de dinainte să rămâi însărcinată (cu aproximativ trei luni înainte) și până la sfârșitul primului trimestru, la 12 săptămâni, ajută la protejarea copilului împotriva defectelor de tub neural, cum ar fi spina bifida. Pentru că acționează atât de devreme, este unul dintre puținele lucruri care merită începute *înainte* de sarcină, dacă încerci să rămâi însărcinată.\n\n**Vitamina D** este celălalt: se recomandă un supliment zilnic de 10 micrograme pe toată durata sarcinii și în timpul alăptării, pentru a susține oasele și dezvoltarea copilului.\n\nPe lângă acestea două, o alimentație sănătoasă și variată acoperă majoritatea nevoilor; nu ai nevoie de multe suplimente în plus. Unul de care să te ferești este **vitamina A** (retinolul): nu lua suplimente care o conțin și evită ficatul, pentru că prea multă vitamină A poate face rău copilului.",
+      "deep": null,
+      "when_to_see_doctor": "- **Medicul de familie, moașa sau farmacistul** te pot ajuta să alegi suplimentele potrivite, iar unor femei li se recomandă o **doză mai mare de acid folic** (de exemplu în caz de diabet, un IMC mai mare, anumite medicamente sau o sarcină anterioară afectată de un defect de tub neural), așa că merită să întrebi, mai ales înainte de sarcină sau la începutul ei.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Faza foliculară",
+      "aliases": [
+        "faza foliculară",
+        "prima jumătate a ciclului",
+        "prima parte a ciclului",
+        "după menstruație",
+        "faza proliferativă"
+      ],
+      "glance": "Faza foliculară este prima jumătate a ciclului, când un ovul se maturizează și mucoasa uterului se îngroașă.",
+      "overview": "Faza foliculară este prima parte a ciclului. Începe în prima zi a menstruației și durează până la ovulație. Numele vine de la folicul, micul săculeț plin cu lichid din ovar care găzduiește și dezvoltă un ovul în acest timp.\n\nÎn această fază crește nivelul de estrogen. Acest estrogen în creștere face două lucruri principale: ajută un folicul din ovar să se maturizeze și îngroașă mucoasa uterului, pregătind corpul pentru cazul în care o sarcină începe mai târziu în ciclu.\n\nPentru că estrogenul crește, unele femei observă mai multă energie sau schimbări ale mucusului cervical pe măsură ce se apropie zilele fertile. Fiecare femeie trăiește asta diferit și nimic din toate acestea nu trebuie „gestionat”: este pur și simplu prima jumătate a ciclului tău care își face treaba.",
+      "deep": "Faza foliculară poate avea lungimi diferite de la un ciclu la altul, și acesta este unul dintre motivele pentru care ciclurile întregi diferă de la o femeie la alta și de la o lună la alta. Se încheie când estrogenul în creștere ajută la declanșarea eliberării unui ovul (ovulația). Pentru că ultimele ei zile duc spre ovulație, atunci se deschide fereastra fertilă; de aceea sfârșitul fazei foliculare contează pentru oricine își urmărește fertilitatea.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Alimente de evitat în sarcină",
+      "aliases": [
+        "alimente interzise în sarcină",
+        "ce nu am voie să mănânc însărcinată",
+        "alimentația în sarcină",
+        "cafeină în sarcină",
+        "cafea în sarcină",
+        "listeria",
+        "brânzeturi în sarcină"
+      ],
+      "glance": "Cele mai multe alimente sunt în regulă în sarcină; câteva merită evitate și e bine să limitezi cafeina.",
+      "overview": "Vestea bună este că cele mai multe alimente sunt perfect în regulă în sarcină; doar câteva merită evitate sau consumate cu grijă, în mare parte pentru a te feri de microbi precum listeria sau de prea mult din anumite vitamine. Dacă știi lista scurtă, poți fi liniștită în privința restului.\n\nNHS, serviciul public de sănătate britanic, recomandă grijă la:\n\n- **Unele brânzeturi**: brânzeturile moi cu mucegai, cum ar fi brie și camembert, și brânzeturile moi cu mucegai albastru, cu excepția cazului în care sunt gătite până devin fierbinți și scot aburi; și orice produs făcut din lapte **nepasteurizat**.\n- **Carnea crudă sau insuficient gătită**, mezelurile crude-uscate, **pateul** și **ficatul** (care are foarte multă vitamină A).\n- **Ouăle crude sau moi**, cu excepția celor care poartă marca britanică British Lion.\n- **Unele tipuri de pește**: evită rechinul, peștele-spadă și marlinul, limitează tonul și nu mânca mai mult de două porții de pește gras pe săptămână.\n- **Cafeina**: păstreaz-o sub aproximativ 200 mg pe zi (cam două căni de cafea instant), socotind și ceaiul, cola, băuturile energizante și ciocolata.",
+      "deep": null,
+      "when_to_see_doctor": "- Acestea sunt recomandări generale, nu o dietă strictă; dacă ai întrebări despre ce este sigur pentru tine sau o nevoie alimentară anume, **moașa** poate discuta cu tine.\n- Dacă ai mâncat ceva de pe lista „de evitat”, încearcă să nu te panichezi; spune-i moașei dacă ești îngrijorată sau nu te simți bine.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Hormonul foliculostimulant (FSH)",
+      "aliases": [
+        "fsh",
+        "hormon foliculostimulant",
+        "hormonul foliculostimulant",
+        "hormon folicul stimulant",
+        "analize fsh"
+      ],
+      "glance": "FSH este un hormon produs în creier care determină creșterea foliculilor din ovar la începutul fiecărui ciclu.",
+      "overview": "FSH, hormonul foliculostimulant, este unul dintre hormonii-mesageri care pun ciclul în mișcare. Este produs de o glandă mică din creier (hipofiza) și, așa cum îi spune și numele, stimulează foliculii: săculeții minusculi plini cu lichid din ovar, care conțin fiecare câte un ovul.\n\nLa începutul ciclului, FSH determină un grup de foliculi să înceapă să crească. Pe măsură ce un folicul se dezvoltă, eliberează mai mult estrogen, care la rândul lui îngroașă mucoasa uterului, pregătind-o pentru o posibilă sarcină. De obicei, un folicul devine dominant și merge mai departe spre ovulație.\n\nFSH crește și scade ca parte din dinamica normală a ciclului. Nu simți FSH în mod direct: lucrează discret în fundal, pregătind schimbările mai vizibile ale fazei foliculare.",
+      "deep": "FSH lucrează în pereche cu hormonul luteinizant (LH); amândoi sunt eliberați de hipofiză, în creier, și împreună conduc ovarele de-a lungul ciclului. FSH conduce prima jumătate, făcând foliculii să crească, în timp ce creșterea bruscă a LH marchează mai târziu eliberarea unui ovul la mijlocul ciclului. Acest parteneriat explică și de ce tratamentele de fertilitate folosesc medicamente pe bază de FSH: un plus de FSH încurajează maturizarea mai multor foliculi în același timp, în loc de unul singur, cât produce de obicei un ciclu natural.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Diabetul gestațional",
+      "aliases": [
+        "diabet gestațional",
+        "diabet în sarcină",
+        "glicemie mare în sarcină",
+        "zahăr mare în sarcină",
+        "test de toleranță la glucoză",
+        "TTGO"
+      ],
+      "glance": "Diabetul gestațional înseamnă glicemie crescută în timpul sarcinii; de obicei este depistat prin screening și adesea dispare după naștere.",
+      "overview": "Diabetul gestațional înseamnă un nivel ridicat al zahărului din sânge (glucoza) care apare în timpul sarcinii, când organismul nu reușește să țină pasul cu nevoia crescută de insulină. La cele mai multe femei dispare după nașterea copilului.\n\nDe obicei **nu dă simptome**, așa că este depistat printr-un test de screening oferit în sarcină (un test de toleranță la glucoză, adesea în jurul săptămânilor 24–28), mai ales dacă ai factori care cresc șansa de a-l face, cum ar fi o greutate mai mare, diabet în familie, un copil anterior mare la naștere sau anumite origini etnice.\n\nSe poate ține foarte bine sub control. Menținerea glicemiei în limite sănătoase, prin alimentație, mișcare și uneori medicamente, totul sub îndrumarea echipei medicale, scade riscul de complicații pentru tine și pentru copil; de aceea merită să fii atentă la el.",
+      "deep": null,
+      "when_to_see_doctor": "- Fă **testul de screening** dacă ți se oferă: pentru că diabetul gestațional nu dă de obicei simptome, testarea este modul în care se depistează.\n- Nu aștepta testul dacă observi posibile semne de glicemie mare, cum ar fi senzația de sete foarte mare, nevoia de a urina des, gura uscată sau oboseala: spune-le moașei sau medicului.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Unde găsești ajutor",
+      "aliases": [
+        "unde cer ajutor",
+        "pe cine sun",
+        "linii de ajutor",
+        "numere utile",
+        "centru antiviolență",
+        "1522",
+        "numere de urgență",
+        "ajutor violență domestică"
+      ],
+      "glance": "Există ajutor gratuit și confidențial: în caz de urgență sună la numărul local de urgență; în Italia, la 1522, oricând.",
+      "overview": "Dacă treci printr-un abuz, nu trebuie să faci față singură, iar faptul că ceri ajutor nu te obligă la nimic. Există oameni a căror meserie este tocmai să asculte și să ajute, confidențial și gratuit.\n\nExistă mai multe tipuri de ajutor, unele lângă altele:\n\n- **Serviciile de urgență**: în caz de pericol imediat, sună la numărul local de urgență (mai jos).\n- **O linie telefonică națională**: în Italia, **1522**, linia gratuită împotriva violenței și a hărțuirii (stalking): deschisă 24 de ore din 24, anonimă, disponibilă în mai multe limbi, prin telefon sau chat online.\n- **Centrele antiviolență** (în Italia, *centri antiviolenza*): servicii locale care oferă sprijin gratuit și confidențial, ajutor la planul de siguranță și asistență juridică și psihologică.\n- **Serviciile medicale**: medicul de familie sau urgențele unui spital, unde personalul este tot mai des pregătit să recunoască abuzul și să te pună în legătură cu cei care te pot sprijini.\n- **Oamenii în care ai încredere**: un prieten sau o rudă alături de care te simți în siguranță.\n\nPoți începe cu ce ți se pare cel mai la îndemână și nu trebuie să fi hotărât deja nimic.",
+      "deep": null,
+      "when_to_see_doctor": "- Poți vorbi confidențial cu **medicul de familie sau la un spital** despre ce se întâmplă; îți pot trata eventualele răni și te pot pune în legătură cu servicii specializate.\n- Dacă îți este mai ușor să scrii decât să vorbești, **chatul 1522** este o altă cale.",
+      "red_flags": "- Dacă ești în **pericol imediat**, contactează acum serviciile de urgență: **112** în UE (inclusiv în Italia), **999** în Regatul Unit, **911** în SUA și Canada.\n- **Italia:** **1522** (gratuit, 24/7, anonim, în mai multe limbi; apel sau chat).\n- Numerele liniilor de ajutor diferă de la o țară la alta. Aplicația îți poate arăta numerele pentru țara ta, iar **findahelpline.com** listează linii de ajutor împotriva violenței din întreaga lume (îți detectează țara și are un buton de ieșire rapidă). Dacă ești în UE, **112** funcționează peste tot."
+    },
+    "group-b-strep": {
+      "title": "Streptococul de grup B (SGB)",
+      "aliases": [
+        "streptococ de grup B",
+        "strep B",
+        "SGB",
+        "GBS",
+        "streptococ în sarcină",
+        "exudat vaginal streptococ"
+      ],
+      "glance": "Streptococul de grup B este o bacterie frecventă, de obicei inofensivă; riscul mic este pentru copil în timpul nașterii și poate fi gestionat.",
+      "overview": "Streptococul de grup B (SGB) este o bacterie foarte frecventă pe care multe persoane o poartă, de obicei în vagin sau în zona anală, fără să știe și fără să le facă vreun rău. Nu este o infecție cu transmitere sexuală, iar faptul că o porți este normal.\n\nÎn sarcină contează doar pentru că există o **șansă mică** să treacă la copil în jurul momentului nașterii și, rar, să-l îmbolnăvească; acest lucru se întâmplă în aproximativ 1 din 1.750 de sarcini. Este adesea descoperit întâmplător, de exemplu la un test de urină sau la un exudat vaginal făcut din alt motiv (NHS, serviciul public de sănătate britanic, nu face screening de rutină pentru toate femeile).\n\nPartea liniștitoare este că se poate gestiona foarte bine: dacă se știe despre SGB, **antibioticele administrate prin perfuzie în timpul travaliului** reduc mult șansa ca bebelușul să se îmbolnăvească.",
+      "deep": null,
+      "when_to_see_doctor": "- Dacă ți se spune că ești purtătoare de streptococ de grup B, acum sau într-o sarcină anterioară, **anunță-ți moașa sau echipa de la maternitate**, ca antibioticele din timpul travaliului să poată fi planificate. Este un pas simplu care face o diferență reală.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Arsurile și indigestia în sarcină",
+      "aliases": [
+        "arsuri în sarcină",
+        "arsuri gastrice sarcină",
+        "indigestie în sarcină",
+        "reflux în sarcină",
+        "aciditate în sarcină",
+        "pirozis"
+      ],
+      "glance": "Arsurile sunt foarte frecvente în sarcină; de obicei sunt inofensive și se ameliorează adesea cu mici schimbări de zi cu zi.",
+      "overview": "Arsurile și indigestia, o senzație de arsură sau disconfort în piept, adesea după masă, sunt foarte frecvente în sarcină. Se datorează hormonilor de sarcină, care relaxează mușchiul din partea de sus a stomacului, și, mai târziu, copilului care crește și apasă în sus. Sunt neplăcute, dar nu sunt periculoase.\n\nMici schimbări ajută adesea: mese mai mici și mai dese în loc de mese mari, să stai dreaptă în timp ce mănânci și o vreme după aceea, să reduci mâncărurile picante, grase sau cu cafeină și să nu mănânci târziu, înainte de culcare. Unele femei se simt mai bine dacă dorm cu partea de sus a corpului puțin ridicată.\n\nDacă nu este suficient, un **farmacist** îți poate recomanda antiacide sigure în sarcină; este un bun prim pas înainte ca problema să devină mai supărătoare.",
+      "deep": null,
+      "when_to_see_doctor": "- Mergi la **medicul de familie sau la moașă** dacă schimbările simple și remediile din farmacie nu ajută sau dacă ai **dificultăți la înghițire**, vomiți în mod repetat mâncarea, slăbești fără să vrei sau ai dureri de burtă; acestea merită verificate, nu puse pe seama unor arsuri obișnuite.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Menstruațiile abundente",
+      "aliases": [
+        "menstruație abundentă",
+        "menoragie",
+        "sângerare menstruală abundentă",
+        "sângerez foarte mult la ciclu",
+        "cheaguri de sânge",
+        "cheaguri la menstruație",
+        "ciclu abundent"
+      ],
+      "glance": "Menstruațiile abundente înseamnă pierderea unei cantități mari de sânge la fiecare ciclu; sunt frecvente, dar merită verificate dacă te afectează.",
+      "overview": "Menstruațiile abundente, al căror nume medical este menoragie, înseamnă că pierzi mult sânge în timpul menstruației. Pentru unele femei, sângerarea abundentă este pur și simplu normalul lor, dar dacă îți dă viața peste cap sau te lasă fără puteri, merită investigată.\n\nCâteva semne că menstruațiile sunt mai abundente: trebuie să schimbi absorbantul sau tamponul la fiecare 1–2 ore, folosești două tipuri de produse menstruale în același timp (de exemplu un tampon și un absorbant), sângele trece pe haine sau pe lenjeria de pat, elimini cheaguri de sânge mai mari de aproximativ 2,5 cm (cam cât o monedă britanică de 10 pence) sau menstruația durează mai mult de 7 zile.\n\nPierderea unei cantități mari de sânge lună de lună te poate lăsa obosită sau fără suflu, pentru că poate duce la lipsa fierului (anemie). Există multe cauze posibile, de la fibroame sau afecțiuni precum endometrioza, adenomioza sau sindromul ovarelor polichistice (SOPC) până la unele medicamente, și adesea nu se găsește nicio cauză gravă. Oricum ar fi, menstruațiile abundente pot fi de obicei ameliorate, așa că nu sunt ceva cu care trebuie pur și simplu să trăiești.",
+      "deep": null,
+      "when_to_see_doctor": "Mergi la medicul de familie dacă:\n\n- menstruațiile abundente îți afectează viața de zi cu zi\n- sângerezi abundent timp de multe ore sau menstruațiile durează mult\n- ai și dureri menstruale puternice sau durere în timpul actului sexual, când urinezi sau când ai scaun\n- ai sângerări între menstruații sau după actul sexual\n- te simți des obosită sau fără suflu (poate fi un semn de lipsă de fier)\n\nMedicul de familie poate căuta o cauză și poate discuta cu tine ce te-ar putea ajuta.",
+      "red_flags": "- Cere ajutor medical **urgent** (contactează un medic sau un **serviciu de gardă** ori sună la **{{emergency}}** / mergi la urgențe dacă situația este gravă) dacă **sângerezi atât de abundent încât îmbibi un absorbant sau mai mult în fiecare oră, câteva ore la rând** ori dacă simți că **leșini, ai amețeli sau îți lipsește aerul**. Acestea pot fi semne că pierzi prea mult sânge."
+    },
+    "lh": {
+      "title": "Hormonul luteinizant (LH)",
+      "aliases": [
+        "lh",
+        "hormon luteinizant",
+        "hormonul luteinizant",
+        "vârf de LH",
+        "test LH",
+        "analize lh"
+      ],
+      "glance": "LH este hormonul produs în creier a cărui creștere bruscă la mijlocul ciclului determină ovarul să elibereze un ovul.",
+      "overview": "LH, hormonul luteinizant, este mesagerul care declanșează ovulația. La fel ca FSH, este produs de o glandă mică din creier (hipofiza) și îi transmite ovarului când să elibereze un ovul.\n\nÎn cea mai mare parte a primei jumătăți a ciclului, LH rămâne scăzut. Apoi, cam la mijlocul ciclului, crește brusc, în ceea ce se numește vârful de LH. Acest vârf este semnalul care face ovarul să-și elibereze ovulul (ovulația), de obicei cam o zi mai târziu.\n\nVârful este un semnal scurt și bine sincronizat, nu ceva ce ai observa în felul în care te simți. Pentru că apare atât de aproape de eliberarea ovulului, momentul creșterii LH este un indicator de încredere pentru partea cea mai fertilă a ciclului.",
+      "deep": "LH lucrează împreună cu FSH, hormonul care face foliculii să crească mai devreme în ciclu. Dacă FSH conduce etapa de pregătire, vârful de LH este punctul de cotitură: nivelurile încep să crească cu aproximativ o zi și jumătate înainte de eliberarea ovulului și ating maximul cu aproximativ o jumătate de zi înainte de aceasta. După vârf, ciclul trece în a doua jumătate. Această sincronizare precisă este motivul pentru care LH este un indicator atât de util pentru oricine urmărește ovulația și pentru care are un rol central în planificarea tratamentelor de fertilitate.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Ascultare și sprijin emoțional",
+      "aliases": [
+        "cum să o ascult",
+        "sprijin emoțional pentru parteneri",
+        "comunicare în cuplu",
+        "să fiu alături de ea",
+        "cum o susțin",
+        "ascultare activă"
+      ],
+      "glance": "De cele mai multe ori are nevoie să fie ascultată, nu „reparată”: ascultă mai întâi și întreab-o înainte să dai sfaturi.",
+      "overview": "Când cineva drag trece printr-un moment greu, instinctul este să sari să rezolvi problema. Dar adesea ce ajută cel mai mult este sentimentul că este cu adevărat ascultată: că ce simte are sens și că nu este singură cu asta. Dacă te grăbești să rezolvi, mesajul poate ajunge la ea ca „sentimentele tale sunt o problemă care trebuie închisă”.\n\nA asculta bine este o abilitate pe care o poate învăța oricine. Înseamnă mai ales atenție: să lași telefonul jos, să stai cu fața spre ea și să o lași să termine. Nu trebuie să fii de acord cu fiecare lucru ca să o faci să se simtă respectată.",
+      "deep": "Moduri practice de a fi alături de ea:\n\n- **Ascultă ca să înțelegi, nu ca să răspunzi.** Las-o să vorbească fără să o întrerupi și fără să-ți pregătești apărarea.\n- **Arată-i că ai înțeles.** „Sună foarte stresant” sau „Înțeleg de ce te-a durut” e mai bine decât „las-o, nu-ți mai face griji”.\n- **Întreabă înainte să dai sfaturi.** „Vrei să ne gândim împreună la o soluție sau vrei doar să te ascult?”\n- **Nu lua personal** o zi grea care nu are legătură cu tine. Calmul tău este un dar.\n- **Asumă-ți partea ta.** Dacă ai greșit ceva, o scuză sinceră, fără „dar”, reconstruiește încrederea.\n- **Observă imaginea de ansamblu.** Dacă pare mereu abătută, anxioasă sau nu mai este ea însăși, încurajeaz-o cu blândețe să caute sprijin și oferă-te să o ajuți să-l găsească. Ești coechipierul ei, nu terapeutul ei.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Faza luteală",
+      "aliases": [
+        "faza luteală",
+        "a doua jumătate a ciclului",
+        "după ovulație",
+        "faza secretorie",
+        "corp galben"
+      ],
+      "glance": "Faza luteală este a doua jumătate a ciclului, după ovulație, când crește progesteronul.",
+      "overview": "Faza luteală este partea ciclului care urmează după ovulație și durează până începe următoarea menstruație. Își ia numele de la corpul galben (corpus luteum), mica structură pe care ovarul o formează din foliculul rămas gol după eliberarea ovulului.\n\nÎn această fază crește hormonul progesteron. Rolul lui este să mențină mucoasa uterului groasă și stabilă, astfel încât, dacă ajunge un ovul fecundat, acesta să aibă unde să se implanteze. Și estrogenul rămâne în joc, lucrând alături de progesteron.\n\nDacă nu începe o sarcină, corpul galben se degradează, progesteronul și estrogenul scad, iar mucoasa nu mai este menținută, ceea ce declanșează următoarea menstruație și pornește un nou ciclu. Acesta este și intervalul în care unele femei observă schimbări premenstruale ale stării de spirit, ale somnului sau ale corpului.",
+      "deep": "Faza luteală tinde să aibă o lungime puțin mai constantă decât prima jumătate a ciclului, durând adesea în jur de două săptămâni, deși există variații normale de la o femeie la alta. Pentru că sfârșitul ei este legat de scăderea progesteronului, venirea menstruației este de fapt semnul vizibil că nivelurile hormonale au scăzut. Să urmărești cum te simți în faza luteală te poate ajuta să deosebești ce este un tipar cunoscut pentru tine de ce este nou sau merită discutat cu un medic.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopauza",
+      "aliases": [
+        "menopauză",
+        "climacteriu",
+        "bufeuri",
+        "valuri de căldură",
+        "ultima menstruație",
+        "schimbarea vieții"
+      ],
+      "glance": "Menopauza este momentul în care menstruația se oprește definitiv, o etapă naturală, atinsă de obicei între aproximativ 45 și 55 de ani.",
+      "overview": "Menopauza este momentul în care menstruația se oprește definitiv. Pentru că menstruațiile pot veni și dispărea o vreme înainte, se consideră că ai ajuns la menopauză după 12 luni la rând fără menstruație. De obicei apare între aproximativ 45 și 55 de ani, deși poate fi mai devreme sau mai târziu.\n\nEste o parte naturală a îmbătrânirii, nu o boală. Se întâmplă pe măsură ce ovarele își încetinesc activitatea și scade nivelul de estrogen, un hormon-cheie al ciclului. Această schimbare hormonală stă în spatele modificărilor pe care le observă multe femei: bufeurile și transpirațiile nocturne, schimbările menstruației în anii dinainte, problemele de somn, schimbările de dispoziție sau anxietatea, ceața mentală, uscăciunea vaginală și durerile.\n\nExperiențele variază enorm: unele femei trec prin ea fără probleme, altora le este greu, iar simptomele pot dura câțiva ani. Nimic din toate acestea nu înseamnă că ceva nu este în regulă cu tine. Există sprijin și opțiuni, iar să înțelegi ce se întâmplă este un prim pas bun.",
+      "deep": "Anii de schimbare dinaintea menopauzei se numesc perimenopauză; menopauza în sine este un singur moment în timp (pragul acela de 12 luni fără menstruație), iar anii de după se numesc uneori postmenopauză. Pentru că estrogenul influențează pe termen lung și oasele și inima, medicii le urmăresc și pe acestea, pe lângă simptomele de zi cu zi. O serie de abordări, de la stilul de viață până la tratamente nehormonale și hormonale, pot ameliora simptomele, iar ce este potrivit depinde de sănătatea, istoricul și preferințele tale; este o discuție de purtat cu un medic.",
+      "when_to_see_doctor": "- Mergi la medicul de familie dacă simptomele menopauzei te deranjează sau îți afectează viața de zi cu zi și vrei să discuți despre opțiuni.\n- Mergi **întotdeauna** la medicul de familie dacă ai **orice sângerare vaginală după 12 luni fără menstruație** (sângerare după menopauză). Adesea nu este nimic grav, dar trebuie verificată de fiecare dată.\n- Merită să mergi și dacă sângerezi mai mult, nu mai puțin decât înainte, sau dacă menstruațiile se schimbă într-un fel care te îngrijorează.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Ciclul menstrual",
+      "aliases": [
+        "ciclu",
+        "ciclul menstrual",
+        "ciclu lunar",
+        "cât durează ciclul",
+        "zilele ciclului",
+        "calcul ciclu"
+      ],
+      "glance": "Ciclul menstrual este ritmul lunar după care funcționează corpul tău ca să se pregătească pentru o posibilă sarcină.",
+      "overview": "Ciclul menstrual se numără din prima zi a menstruației, adică ziua 1, până în ziua dinaintea începerii următoarei menstruații. Este condus de hormoni care cresc și scad după un tipar care se repetă în fiecare lună.\n\nUn ciclu are adesea în jur de 28 de zile, dar aceasta este doar o medie. Oricât între aproximativ 21 și 35 de zile este normal, iar lungimea ciclului tău poate varia puțin de la o lună la alta. Să-ți cunoști propriul tipar este mai util decât să-l compari cu un număr.\n\nDe-a lungul ciclului, corpul tău trece prin câteva etape: menstruația, pregătirea pentru eliberarea unui ovul, eliberarea propriu-zisă (ovulația) și intervalul de după. Fiecare etapă este modelată de hormoni, în principal de estrogen și progesteron.",
+      "deep": "Întregul ciclu este un dialog între creier și ovare, purtat prin hormoni. În prima jumătate, estrogenul crește pe măsură ce un folicul care conține un ovul se maturizează în ovar, iar mucoasa uterului se îngroașă. Cam la mijlocul ciclului este eliberat un ovul. În a doua jumătate, progesteronul ajută la menținerea mucoasei pregătite, în cazul în care ajunge un ovul fecundat.\n\nDacă nu există o sarcină, estrogenul și progesteronul scad la niveluri mici, mucoasa se elimină sub forma menstruației, iar tiparul începe din nou. Pentru că acești hormoni influențează multe sisteme, poți observa mici schimbări de la o zi la alta de-a lungul lunii; acesta este ritmul normal al ciclului, nu ceva ce trebuie „reparat”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Faza menstruală (menstruația)",
+      "aliases": [
+        "menstruație",
+        "menstrua",
+        "ciclu",
+        "am ciclul",
+        "faza menstruală",
+        "sângerare",
+        "zilele de menstruație"
+      ],
+      "glance": "Menstruația înseamnă cele câteva zile de sângerare cu care începe fiecare ciclu, când mucoasa uterului se elimină.",
+      "overview": "Faza menstruală este menstruația ta, zilele în care sângerezi. Începe în ziua 1 a ciclului, când nivelurile de estrogen și progesteron au scăzut suficient de mult încât mucoasa formată în interiorul uterului nu mai este menținută și se desprinde, ieșind din corp prin vagin.\n\nO menstruație durează de obicei între 2 și 7 zile, cel mai des în jur de 5 zile. Fluxul este adesea mai abundent în primele două zile și mai slab după aceea. Menstruațiile încep de obicei în jurul vârstei de 12 ani, deși este normal să înceapă și mai devreme sau mai târziu.\n\nCe este „normal” variază mult de la o femeie la alta. Să-ți urmărești propriile menstruații te ajută să observi ce este obișnuit pentru tine, lucru mult mai grăitor decât orice medie.",
+      "deep": "Sângerarea menstruală este mucoasa uterului (endometrul) care se elimină după un ciclu în care nu a început o sarcină. Marchează atât sfârșitul unui ciclu, cât și începutul următorului; de aceea ziua 1 a menstruației este considerată ziua 1 a întregului ciclu. Pe măsură ce menstruația se termină, estrogenul începe să crească din nou, iar corpul începe să refacă mucoasa pentru ciclul următor.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Avortul spontan",
+      "aliases": [
+        "avort spontan",
+        "pierderea sarcinii",
+        "pierdere de sarcină",
+        "am pierdut sarcina",
+        "pierdere timpurie a sarcinii",
+        "sarcină oprită în evoluție",
+        "iminență de avort"
+      ],
+      "glance": "Avortul spontan este pierderea unei sarcini înainte de 24 de săptămâni; este frecvent și aproape niciodată nu este ceva provocat de tine.",
+      "overview": "Un avort spontan este pierderea unei sarcini în primele 24 de săptămâni. Este mai frecvent decât își dau seama mulți oameni, iar unul dintre cele mai importante lucruri de știut este că aproape niciodată nu este cauzat de ceva ce ai făcut sau n-ai făcut: de obicei se întâmplă din cauza unei probleme în felul în care se dezvolta sarcina, ceva ce nu stătea în puterea nimănui.\n\nCele mai frecvente semne sunt sângerarea vaginală și crampele sau durerea în partea de jos a burții. Sângerarea la începutul sarcinii nu înseamnă întotdeauna că are loc un avort spontan (multe femei sângerează puțin și au apoi o sarcină sănătoasă), dar trebuie verificată de fiecare dată.\n\nOricum s-ar produce pierderea, sentimentele care o însoțesc sunt reale și îndreptățite, iar doliul este o reacție normală. Nu trebuie să treci singură prin asta: există sprijin, de la moașă sau de la medicul de familie și de la organizațiile dedicate pierderii sarcinii.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactează medicul de familie, moașa sau un serviciu pentru sarcina incipientă (ori un medic de gardă) dacă ai **sângerare vaginală sau spotting (pete de sânge) în sarcină**, chiar dacă este ușoară și ai puțină durere sau deloc, ca să poată fi verificată.\n- Întreabă care este cel mai apropiat **serviciu pentru sarcina incipientă**, care este organizat exact pentru astfel de situații.",
+      "red_flags": "- Sună la **{{emergency}} sau mergi la urgențe** dacă, în sarcină, ai **durere puternică de burtă, durere în vârful umărului, sângerare abundentă sau simți că leșini ori te simți foarte rău**. Acestea pot fi semnele unei probleme grave, cum ar fi o sarcină extrauterină, care are nevoie de îngrijire urgentă."
+    },
+    "morning-sickness": {
+      "title": "Greața de dimineață",
+      "aliases": [
+        "greață de sarcină",
+        "greață în sarcină",
+        "grețuri matinale",
+        "vărsături în sarcină",
+        "rău de sarcină",
+        "hiperemeză",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "Greața sau vărsăturile sunt foarte frecvente la începutul sarcinii și de obicei se ameliorează în jurul săptămânilor 16–20.",
+      "overview": "Greața sau vărsăturile sunt foarte frecvente la începutul sarcinii. În ciuda numelui de „greață de dimineață”, pot apărea în orice moment al zilei sau al nopții. La cele mai multe femei încep în primele săptămâni și se liniștesc în jurul săptămânilor 16–20.\n\nSunt neplăcute și, pentru unele femei, chiar afectează viața de zi cu zi, dar greața obișnuită de sarcină nu crește riscul pentru copil. Să mănânci puțin și des și să descoperi ce te ajută pe tine le poate face mai suportabile; moașa, medicul de familie sau farmacistul îți pot sugera opțiuni sigure dacă îți este greu.\n\nLa un număr mic de femei, greața devine severă (aceasta se numește hyperemesis gravidarum), cu un risc real de deshidratare. Această formă are nevoie de ajutor medical; vezi semnele de mai jos.",
+      "deep": null,
+      "when_to_see_doctor": "Contactează moașa, medicul de familie sau un medic de gardă dacă:\n\n- nu poți ține nimic în stomac (vomiți orice mâncare sau băutură) timp de 24 de ore\n- ai urina foarte închisă la culoare sau nu ai urinat de mai mult de 8 ore\n- te simți foarte slăbită, amețită sau simți că leșini când te ridici în picioare\n- ai dureri de burtă, febră sau vomiți sânge\n- slăbești",
+      "red_flags": "- Dacă vomiți tot ce bei și nu poți ține lichidele în stomac, iar urina este foarte închisă la culoare sau lipsește, s-ar putea să te deshidratezi (greață și vărsături severe de sarcină): **contactează moașa, medicul de familie sau un medic de gardă chiar în aceeași zi**, pentru că s-ar putea să ai nevoie de tratament ca situația să nu se agraveze."
+    },
+    "ovulation": {
+      "title": "Ovulația",
+      "aliases": [
+        "ovulație",
+        "ovulația",
+        "eliberarea ovulului",
+        "fereastra fertilă",
+        "când ovulez",
+        "zile fertile",
+        "calcul ovulație"
+      ],
+      "glance": "Ovulația este momentul în care un ovar eliberează un ovul, cel mai fertil punct al ciclului tău.",
+      "overview": "Ovulația este momentul în care un ovar eliberează un ovul matur. Este punctul de cotitură al ciclului: prima jumătate duce spre ea, iar a doua jumătate urmează după ea.\n\nÎntr-un ciclu de aproximativ 28 de zile, ovulația are loc adesea în jurul zilei 14, dar momentul variază. Un mod util de a te gândi la asta este că ovulația are loc de obicei cu 10–16 zile înainte de începerea următoarei menstruații. Poate fi greu să stabilești ziua exactă.\n\nOdată eliberat, un ovul poate fi fecundat doar timp de aproximativ 12–24 de ore. Spermatozoizii însă pot supraviețui în corp câteva zile, așa că „fereastra fertilă” este mai largă decât o singură zi: aproximativ zilele dinaintea ovulației și ziua ovulației.",
+      "deep": "Eliberarea ovulului este declanșată de o creștere scurtă și bruscă a hormonilor în jurul mijlocului ciclului, după acumularea de estrogen din faza foliculară. Pentru că spermatozoizii pot trăi mai multe zile, în timp ce ovulul trăiește mai puțin de o zi, sarcina este cel mai probabilă după un contact sexual în zilele de chiar dinaintea ovulației. Ovulația se poate muta de la un ciclu la altul din cauza unor lucruri precum stresul sau o boală; de aceea este greu de prezis exact și de aceea urmărirea mai multor cicluri este mai de încredere decât orice calcul izolat.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Durerea în timpul actului sexual",
+      "aliases": [
+        "durere la sex",
+        "durere în timpul actului sexual",
+        "contact sexual dureros",
+        "dispareunie",
+        "vaginism",
+        "mă doare la contact",
+        "durere la penetrare"
+      ],
+      "glance": "Durerea în timpul actului sexual este frecventă, are multe cauze posibile și merită întotdeauna verificată de un medic: există ajutor.",
+      "overview": "Durerea în timpul actului sexual, numită uneori dispareunie, este mai frecventă decât își dau seama mulți oameni și nu este niciodată ceva ce trebuie pur și simplu să accepți. Poate avea multe cauze, iar găsirea celei potrivite este cheia pentru a o ameliora.\n\nUnele cauze sunt fizice. Uscăciunea vaginală este una frecventă, legată adesea de hormoni în jurul menopauzei sau de o excitare insuficientă, și poate face actul sexual iritant sau neplăcut. Și infecțiile, cum ar fi candidoza vaginală, pot provoca durere. O altă cauză este vaginismul, când mușchii din jurul vaginului se contractă singuri atunci când se încearcă penetrarea, ceea ce poate face actul sexual dureros sau îl poate face să pară imposibil. Este involuntar, nu este „doar în capul tău” și se poate trata.\n\nPentru că, de la caz la caz, cauza poate fi fizică, hormonală sau legată de cât de relaxată sau excitată te simți, și adesea este o combinație, pasul util este să te consulte cineva, nu să ghicești sau să rabzi în continuare.",
+      "deep": null,
+      "when_to_see_doctor": "- Mergi la medicul de familie sau la un cabinet de sănătate sexuală dacă actul sexual este dureros: oricare ar fi cauza, merită verificată, iar pentru cauzele frecvente există ajutor eficient.\n- Poate fi jenant să aduci vorba, dar medicii se confruntă des cu asta și sunt acolo ca să ajute, nu ca să judece. Poți cere să te consulte o doamnă doctor, poți veni însoțită și poți discuta ce anume ar face examinarea mai confortabilă.\n- Cere neapărat un consult medical pentru orice sângerare după actul sexual și mergi mai repede la medic dacă durerea este puternică sau dacă te simți și rău.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Ameliorarea durerii la naștere",
+      "aliases": [
+        "ameliorarea durerii la naștere",
+        "epidurală",
+        "anestezie epidurală",
+        "gaz ilariant",
+        "Entonox",
+        "durere la naștere",
+        "cadă de naștere",
+        "TENS"
+      ],
+      "glance": "Există mai multe moduri de a ameliora durerea travaliului; nu există alegere corectă sau greșită și poți rămâne flexibilă.",
+      "overview": "Travaliul este diferit pentru fiecare femeie și există mai multe moduri de a face față durerii, de la măsuri simple de confort până la opțiuni medicale. Dacă știi dinainte ce opțiuni ai, te poți simți mai pregătită.\n\nOpțiunile variază de la **a rămâne activă și în poziție verticală**, respirație și relaxare, masaj și **apă** (o cadă sau o piscină de naștere), până la **un aparat TENS**, **gazul ilariant** (Entonox, pe care îl inhalezi singură), **injecții** precum petidina și **anestezia epidurală** (făcută de un medic anestezist, care amorțește mai complet durerea travaliului).\n\nNu există o alegere „cea mai bună”: depinde de tine, de travaliul tău și de cum te simți în ziua respectivă. Merită să-ți notezi preferințele într-un **plan de naștere**, păstrând totuși o minte deschisă: multe femei descoperă că vor mai multă sau mai puțină ameliorare a durerii decât se așteptau, și este complet în regulă.",
+      "deep": null,
+      "when_to_see_doctor": "- **Moașa** (și, pentru epidurală, un medic anestezist) îți va prezenta opțiunile și te va ajuta să decizi ce ți se potrivește, în timpul sarcinii și din nou în timpul travaliului. Nu e nevoie să hotărăști totul dinainte.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "SOPC (sindromul ovarelor polichistice)",
+      "aliases": [
+        "sopc",
+        "pcos",
+        "sindromul ovarelor polichistice",
+        "ovare polichistice",
+        "ovar polichistic",
+        "sindrom ovarian polichistic"
+      ],
+      "glance": "SOPC este o afecțiune hormonală frecventă care poate afecta menstruația, ovulația, pielea și părul.",
+      "overview": "SOPC, sindromul ovarelor polichistice, este o afecțiune frecventă legată de echilibrul hormonilor reproductivi. Estimările arată că afectează aproximativ 1 din 10 femei de vârstă reproductivă, iar multe dintre cele care îl au nu sunt diagnosticate niciodată.\n\nSe poate manifesta în moduri diferite și nu există două femei la fel. Printre semnele frecvente se numără menstruațiile neregulate, rare sau absente; niveluri mai mari ale unor hormoni numiți androgeni, care pot duce la creșterea excesivă a părului pe față sau pe corp, acnee sau subțierea părului de pe scalp; și ovare care nu eliberează un ovul la fel de regulat ca de obicei, ceea ce poate îngreuna obținerea unei sarcini. Sunt frecvente și schimbările de greutate și zonele de piele mai închisă la culoare.\n\nCauza exactă nu este pe deplin înțeleasă și nu există vindecare, dar simptomele pot fi ținute sub control, iar să înțelegi ce se întâmplă este primul pas. SOPC este frecvent și gestionabil, nu ceva de care să-ți fie rușine.",
+      "deep": "Pentru că SOPC implică hormonii corpului și felul în care acesta folosește insulina, este legat pe termen lung și de rezistența la insulină și de un risc mai mare de diabet de tip 2, tensiune arterială crescută și modificări ale colesterolului; de aceea medicii tind să urmărească aceste lucruri în timp. Aproximativ jumătate dintre femeile cu SOPC pot face diabet sau prediabet până în jurul vârstei de patruzeci de ani, așa că verificările regulate contează. Diagnosticul nu este ceva ce îți poți pune singură: un medic analizează tabloul de ansamblu (istoricul și menstruațiile tale, uneori analize de sânge pentru hormoni și uneori o ecografie a ovarelor) și exclude alte cauze înainte de a ajunge la SOPC.",
+      "when_to_see_doctor": "Merită să mergi la medicul de familie dacă observi lucruri care se potrivesc cu descrierea de mai sus, mai ales dacă îți afectează starea de zi cu zi:\n\n- menstruații neregulate, foarte rare sau care s-au oprit\n- păr vizibil mai mult pe față sau pe corp, acnee persistentă sau subțierea părului de pe scalp\n- dificultăți în a rămâne însărcinată după ce ai încercat o vreme\n- creștere în greutate greu de controlat, alături de alte simptome\n\nMedicul de familie poate investiga ce se întâmplă, poate confirma dacă este SOPC sau altceva și poate discuta cu tine un plan potrivit pentru tine. SOPC este asociat și cu starea de spirit scăzută și cu anxietatea; dacă îți este greu cu felul în care te simți, spune-i și asta medicului: face parte din tablou și există sprijin.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopauza",
+      "aliases": [
+        "perimenopauză",
+        "premenopauză",
+        "tranziția menopauzală",
+        "climacteriu",
+        "primele semne ale menopauzei",
+        "bufeuri"
+      ],
+      "glance": "Perimenopauza este tranziția spre menopauză, când menstruația și hormonii încep să se schimbe.",
+      "overview": "Perimenopauza este intervalul de timp care duce spre menopauză, anii „din jurul menopauzei”. Începe când observi primele schimbări și durează până la un an întreg după ultima menstruație, moment în care ai ajuns la menopauză. Poate dura câțiva ani.\n\nÎn acest timp, ovarele produc treptat mai puțin estrogen, iar nivelurile cresc și scad mai puțin previzibil decât înainte. Cel mai frecvent semn timpuriu este schimbarea menstruației: menstruațiile vin mai des sau mai rar, sunt mai slabe sau mai abundente. Multe dintre simptomele asociate cu menopauza, cum ar fi bufeurile, schimbările de somn sau de dispoziție, pot începe acum, cât încă ai menstruație.\n\nPentru că este treptată și variază atât de mult, perimenopauza poate fi derutantă: schimbările nu apar toate deodată și nici în aceeași ordine la toate femeile. Să știi că această etapă are un nume și că este o tranziție normală te poate ajuta să o înțelegi mai ușor.",
+      "deep": null,
+      "when_to_see_doctor": "- Mergi la medicul de familie dacă simptomele perimenopauzei îți afectează viața de zi cu zi și vrei să discuți ce te-ar putea ajuta.\n- Merită să mergi la control dacă menstruațiile devin foarte abundente sau dacă ai sângerări între menstruații ori după actul sexual, ca să se poată găsi cauza.\n- Nu uita că în perimenopauză poți încă rămâne însărcinată, așa că merită să discuți despre contracepție cu un medic, dacă este cazul pentru tine.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Durerea menstruală",
+      "aliases": [
+        "durere menstruală",
+        "dureri la menstruație",
+        "crampe menstruale",
+        "crampe",
+        "dismenoree",
+        "menstruație dureroasă",
+        "mă doare burta la ciclu",
+        "dureri menstruale",
+        "dureri la ciclu"
+      ],
+      "glance": "Durerea menstruală înseamnă crampe în partea de jos a burții în jurul menstruației; este frecventă și adesea o parte normală a ciclului.",
+      "overview": "Durerea menstruală este senzația de crampe și de durere surdă în partea de jos a burții pe care o au multe femei în jurul menstruației. Apare când peretele muscular al uterului se contractă și este adesea o parte normală a ciclului menstrual. Numele ei medical este dismenoree.\n\nDe obicei apare la începutul menstruației sau chiar înainte și tinde să dureze până la aproximativ trei zile. Pentru unele femei este o greutate ușoară; pentru altele crampele sunt mai puternice. Durerea se poate schimba și de-a lungul vieții și de la un ciclu la altul.\n\nDurerea menstruală care urmează acest tipar cunoscut este frecventă și de obicei se poate ține sub control. Măsurile de confort de zi cu zi și calmantele simple sunt ce folosesc multe femei, iar un farmacist sau medicul de familie te pot sfătui ce ți s-ar potrivi. Important este să-ți cunoști propriul tipar obișnuit, ca să poți observa dacă ceva se schimbă.",
+      "deep": null,
+      "when_to_see_doctor": "Merită să vorbești cu medicul de familie dacă:\n\n- menstruațiile devin mai dureroase, mai abundente sau mai neregulate decât de obicei\n- durerea te împiedică să faci lucruri obișnuite, cum ar fi să mergi la serviciu sau la școală\n- calmantele obișnuite nu ajută\n- ai durere în timpul actului sexual sau când urinezi ori ai scaun\n- sângerezi între menstruații\n- durerea apare și în alte momente decât chiar înainte de menstruație sau în timpul ei\n- elimini cheaguri de sânge mai mari decât o monedă (cam cât o monedă mare)\n- observi și o umflare a burții, poftă de mâncare scăzută sau o scădere în greutate pe care nu ți-o poți explica\n\nAcestea nu înseamnă că ceva nu este în regulă, dar merită verificate: o durere menstruală nouă, diferită sau greu de ținut sub control poate avea cauze la care un medic te poate ajuta.",
+      "red_flags": "- Cere o programare **urgentă** la medicul de familie sau contactează un **medic de gardă** dacă durerea menstruală sau pelviană este **puternică sau mai rea decât de obicei, iar calmantele nu au ajutat.**"
+    },
+    "planning-pregnancy": {
+      "title": "Planificarea unei sarcini",
+      "aliases": [
+        "planificarea sarcinii",
+        "pregătirea pentru sarcină",
+        "vreau să rămân însărcinată",
+        "încercăm un copil",
+        "înainte de sarcină",
+        "consult preconcepțional",
+        "analize înainte de sarcină"
+      ],
+      "glance": "Câțiva pași simpli înainte să încerci (acid folic, renunțarea la fumat și la alcool) îi dau sarcinii cel mai bun început.",
+      "overview": "Dacă te gândești să încerci să ai un copil, câțiva pași făcuți dinainte pot da sarcinii un început mai sănătos; mulți dintre ei acționează chiar de dinainte să rămâi însărcinată.\n\nCei mai importanți: începe să iei **acid folic** (și vitamina D), **renunță la fumat** și **evită alcoolul**. Ajută și să tinzi spre o greutate sănătoasă, pentru că o greutate mult sub sau mult peste normal poate îngreuna obținerea unei sarcini. Merită să te asiguri și că **vaccinarea ROR** (rujeolă, oreion, rubeolă) este la zi, pentru că unele infecții pot afecta o sarcină.\n\nNimic din toate acestea nu trebuie să fie perfect sau stresant. Contează schimbările mici, făcute cu blândețe, din timp, iar să ai un mic avans este unul dintre cele mai frumoase lucruri pe care le poți face pentru o viitoare sarcină.",
+      "deep": null,
+      "when_to_see_doctor": "- Dacă ai o **afecțiune cronică** sau iei **medicamente în mod regulat**, mergi la medicul de familie înainte să începi să încerci: unele afecțiuni și medicamente necesită planificare. **Nu întrerupe niciun medicament prescris** fără să vorbești mai întâi cu medicul.\n- Medicul de familie te poate sfătui și în privința acidului folic (inclusiv dacă ai nevoie de o doză mai mare) și a atingerii unei greutăți sănătoase înainte de sarcină.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Depresia postnatală",
+      "aliases": [
+        "depresie postnatală",
+        "depresie postpartum",
+        "depresie post-partum",
+        "baby blues",
+        "depresie după naștere",
+        "tristețe după naștere"
+      ],
+      "glance": "Depresia postnatală este o stare de spirit scăzută după naștere, frecventă și tratabilă; nu este vina ta și există ajutor.",
+      "overview": "Să te simți tristă, anxioasă sau iritabilă în primele două săptămâni după naștere este foarte frecvent; aceasta este numită adesea „baby blues” și de obicei trece de la sine în aproximativ două săptămâni.\n\nDepresia postnatală este altceva: o stare de spirit scăzută mai profundă sau care durează mai mult. Este o afecțiune frecventă, poate începe oricând în primul an și îi poate afecta și pe tați și pe parteneri. Printre semne se numără o stare de spirit scăzută care persistă, dificultatea de a te bucura de ceva, problemele de somn chiar și când bebelușul doarme și, uneori, sentimente dificile legate de atașamentul față de copil.\n\nFaptul că o ai **nu** înseamnă că ești un părinte rău sau că nu-ți iubești copilul: este o boală, nu un eșec, și răspunde bine la sprijin și tratament. Să ceri ajutor devreme este un gest puternic și plin de grijă, pentru tine și pentru copilul tău.",
+      "deep": null,
+      "when_to_see_doctor": "- Vorbește cu **medicul de familie, moașa sau asistenta medicală comunitară** dacă crezi că ai putea avea depresie postnatală sau dacă „baby blues” nu a trecut după două săptămâni. Au mai întâlnit asta de multe ori și te pot ajuta să găsești sprijinul potrivit.",
+      "red_flags": "- Dacă ai **gânduri să-ți faci rău ție sau copilului tău** sau gânduri că familiei tale i-ar fi mai bine fără tine, cere ajutor **imediat**: sună la **{{emergency}}** sau mergi la urgențe ori sună la o linie de criză. Aceste gânduri pot face parte din boală, nu te definesc și există ajutor urgent."
+    },
+    "pre-eclampsia": {
+      "title": "Preeclampsia",
+      "aliases": [
+        "preeclampsie",
+        "pre-eclampsie",
+        "tensiune mare în sarcină",
+        "hipertensiune în sarcină",
+        "toxemie gravidică",
+        "proteine în urină sarcină"
+      ],
+      "glance": "Preeclampsia înseamnă tensiune arterială crescută în sarcină; la început adesea nu dă semne, de aceea contează controalele prenatale.",
+      "overview": "Preeclampsia este o afecțiune a sarcinii care se manifestă în principal prin tensiune arterială mare, împreună cu proteine în urină. De obicei apare după aproximativ 20 de săptămâni și, uneori, după naștere.\n\nUnul dintre cele mai importante lucruri de știut este că la început adesea **nu dă niciun simptom**: te poți simți perfect bine. Tocmai de aceea moașa îți măsoară tensiunea și îți verifică urina la fiecare consultație prenatală de rutină: aceste controale sunt modul în care este depistată de obicei, înainte să observi tu ceva.\n\nCând apar simptome, merită să le cunoști, pentru că preeclampsia poate deveni gravă atât pentru tine, cât și pentru copil. Poate fi tratată bine dacă este depistată la timp, iar să mergi la toate consultațiile prenatale este cel mai bun mod de a o prinde devreme.",
+      "deep": null,
+      "when_to_see_doctor": "- Mergi la toate **consultațiile prenatale de rutină**: controalele tensiunii și ale urinei sunt modul în care preeclampsia este depistată de obicei înainte să apară simptomele.",
+      "red_flags": "Cere ajutor medical **imediat** (contactează maternitatea sau un **medic de gardă**) dacă ai oricare dintre acestea (sună la **{{emergency}}** dacă starea ta este gravă, de exemplu dacă ai o criză convulsivă):\n\n- o **durere de cap puternică** care nu trece cu calmantele obișnuite\n- **probleme de vedere**: vedere încețoșată sau lumini intermitente\n- **umflare bruscă** a feței, a mâinilor sau a picioarelor\n- **durere chiar sub coaste**\n- **vărsături** sau senzația bruscă că îți este foarte rău"
+    },
+    "pregnancy": {
+      "title": "Sarcina",
+      "aliases": [
+        "sarcină",
+        "însărcinată",
+        "gravidă",
+        "sarcina pe săptămâni",
+        "trimestrele sarcinii",
+        "data probabilă a nașterii",
+        "DPN",
+        "câte săptămâni de sarcină am"
+      ],
+      "glance": "Sarcina durează de obicei aproximativ 40 de săptămâni, socotite din prima zi a ultimei menstruații.",
+      "overview": "Sarcina este timpul în care corpul tău crește și poartă un copil. Durează în mod normal aproximativ 40 de săptămâni (oricât între 37 și 42 de săptămâni este considerat la termen și normal) și, poate surprinzător, se socotește din prima zi a **ultimei menstruații**, nu de la concepție. Acesta este pur și simplu modul standard în care se calculează datele.\n\n**Data probabilă a nașterii** este o estimare, nu un termen-limită: bebelușii vin liniștit și puțin mai devreme sau mai târziu. La începutul sarcinii, o „ecografie de datare” (de obicei în jurul săptămânii 12) poate măsura copilul și poate da o dată mai exactă, care uneori schimbă estimarea inițială.\n\nDespre sarcină se vorbește adesea în trei etape, sau **trimestre**, fiecare cu schimbările ei. Pe tot parcursul ei ești îngrijită prin controale prenatale regulate la o moașă (și la un medic, dacă este nevoie), îngrijirea care vă ajută pe tine și pe copil să fiți bine.",
+      "deep": "Pentru că datele se socotesc de la ultima menstruație, se consideră că ești însărcinată de aproximativ patru săptămâni în momentul în care îți lipsește o menstruație. Numărătoarea săptămânilor de sarcină este modul în care se organizează îngrijirea: ecografiile, screeningurile și controalele se oferă toate la anumite săptămâni. Dacă menstruațiile tale sunt neregulate sau nu ești sigură de date, ecografia de datare stabilește calendarul. Acest articol este harta întregii călătorii; subiectele specifice (semnele sarcinii, îngrijirea prenatală, cum să te menții bine și travaliul) au fiecare articolul lor.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Testul de sarcină",
+      "aliases": [
+        "test de sarcină",
+        "test de sarcină acasă",
+        "test hCG",
+        "beta hCG",
+        "când fac testul de sarcină",
+        "test de sarcină negativ"
+      ],
+      "glance": "Un test de sarcină făcut acasă caută în urină hormonul de sarcină hCG; este cel mai de încredere din prima zi în care îți întârzie menstruația.",
+      "overview": "Un test de sarcină pentru acasă funcționează detectând în urină un hormon numit hCG (gonadotropina corionică umană). Corpul începe să-l producă la câteva zile după ce un ovul fecundat se implantează, iar cantitatea crește repede la începutul sarcinii.\n\nTestul este cel mai de încredere începând din **prima zi în care îți întârzie menstruația**, cam la două săptămâni după concepție. Dacă ciclul tău este neregulat sau nu știi sigur când ar trebui să vină menstruația, dacă aștepți cel puțin 21 de zile după un contact sexual neprotejat obții un rezultat mai de încredere. Nu trebuie să faci testul neapărat dimineața la prima oră; orice moment al zilei este bun.\n\nUn rezultat **pozitiv** este aproape sigur corect: foarte puține teste arată pozitiv când nu ești însărcinată. Un rezultat **negativ** este puțin mai nesigur: dacă menstruația tot nu vine și crezi că ai putea fi însărcinată, mai așteaptă câteva zile și refă testul.",
+      "deep": null,
+      "when_to_see_doctor": "- Dacă obții un rezultat pozitiv, contactează **o moașă sau medicul de familie** ca să începi îngrijirea prenatală.\n- Dacă testele sunt negative, dar menstruația lipsește și te simți însărcinată (sau nu te simți bine), mergi la medicul de familie ca să afli ce se întâmplă.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Travaliul prematur",
+      "aliases": [
+        "travaliu prematur",
+        "naștere prematură",
+        "naștere înainte de termen",
+        "contracții premature",
+        "ruperea prematură a apei",
+        "mi s-a rupt apa devreme"
+      ],
+      "glance": "Travaliul prematur înseamnă travaliu înainte de 37 de săptămâni; acționează repede, pentru că îngrijirea timpurie face o diferență reală.",
+      "overview": "Travaliul prematur (sau înainte de termen) este travaliul care începe înainte de săptămâna 37 de sarcină. Apare la aproximativ 8 din 100 de nașteri.\n\nBebelușii născuți mai devreme sunt mai vulnerabili, dar mulți se descurcă bine, mai ales cu îngrijirea specializată oferită de secțiile de neonatologie. Esențial este să acționezi repede dacă crezi că ar putea începe, ca să poți fi evaluată și, dacă este nevoie, să primești tratamente care ajută la protejarea copilului.\n\nSemnele sunt asemănătoare cu cele ale travaliului în orice moment, dar înainte de 37 de săptămâni nu trebuie niciodată să aștepți să treacă: sunt întotdeauna un motiv să iei legătura imediat cu cineva.",
+      "deep": null,
+      "when_to_see_doctor": "- Sună la **moașă sau la maternitate** oricând ai **sub 37 de săptămâni** și nu ești sigură sau ești îngrijorată: este întotdeauna în regulă să verifici.",
+      "red_flags": "Contactează **imediat moașa sau maternitatea**, zi sau noapte, dacă, **înainte de 37 de săptămâni**, ai oricare dintre acestea:\n\n- **contracții sau întăriri ale burții** regulate ori dureri ca cele menstruale\n- o **scurgere de lichid din vagin, în jet sau picătură cu picătură** (ruperea apei)\n- **durere de spate** care nu este obișnuită pentru tine sau o senzație de presiune jos, în bazin"
+    },
+    "premenstrual-syndrome": {
+      "title": "SPM (sindromul premenstrual)",
+      "aliases": [
+        "spm",
+        "sindrom premenstrual",
+        "tensiune premenstruală",
+        "pms",
+        "tdpm",
+        "pmdd",
+        "tulburare disforică premenstruală"
+      ],
+      "glance": "SPM înseamnă amestecul de schimbări fizice și emoționale pe care multe femei le observă cu una-două săptămâni înainte de menstruație.",
+      "overview": "SPM, sindromul premenstrual, este numele schimbărilor pe care le simt multe femei în zilele sau în cele două săptămâni dinaintea menstruației. Poate afecta pe oricine are menstruație și de obicei se ameliorează în câteva zile după ce începe menstruația.\n\nSchimbările iau multe forme. Fizic, poți observa balonare, sâni sensibili sau dureroși, crampe, dureri de cap sau mai multă oboseală. Emoțional, pot apărea schimbări bruște de dispoziție, iritabilitate, anxietate sau tristețe. Poftele alimentare și schimbările de somn sunt și ele frecvente. Nu toate femeile au SPM, iar cele care au nu vor avea toate simptomele; contează propriul tău tipar.\n\nSPM este o parte normală și recunoscută a ciclului multor femei, legată de schimbările hormonale naturale din a doua jumătate a ciclului. Să observi cum se manifestă la tine, de la un ciclu la altul, te poate ajuta să-ți planifici lucrurile ținând cont de el și să observi dacă se schimbă vreodată.",
+      "deep": null,
+      "when_to_see_doctor": "Merită să vorbești cu medicul de familie dacă:\n\n- simptomele îți afectează viața de zi cu zi: munca, studiile, relațiile\n- schimbările din rutina zilnică nu au ajutat\n- starea de spirit scăzută, anxietatea sau iritabilitatea par severe\n\nUn medic poate discuta cu tine ce te-ar putea ajuta. O formă mai intensă, numită tulburare disforică premenstruală (TDPM, în engleză PMDD), poate provoca simptome emoționale mult mai puternice, iar pentru ea există sprijin.",
+      "red_flags": "- Dacă ai simptome de TDPM și **ai gânduri de sinucidere sau simți că ai putea să-ți faci rău**, cere ajutor imediat: **sună la {{emergency}} sau mergi la urgențe.** Nu conduce singură: roagă pe cineva să te ducă sau cere o ambulanță. Meriți sprijin și există ajutor."
+    },
+    "progesterone": {
+      "title": "Progesteronul",
+      "aliases": [
+        "progesteron",
+        "progesteronul",
+        "progesteron scăzut",
+        "hormon de sarcină",
+        "analize progesteron"
+      ],
+      "glance": "Progesteronul este hormonul celei de-a doua jumătăți a ciclului, care pregătește mucoasa uterului după ovulație.",
+      "overview": "Progesteronul este unul dintre principalii hormoni din spatele ciclului menstrual și preia conducerea în a doua jumătate a ciclului, după ce un ovul este eliberat la ovulație.\n\nRolul lui principal este să ajute mucoasa uterului să rămână groasă și pregătită, astfel încât, dacă ajunge un ovul fecundat, acesta să se poată implanta și să poată începe o sarcină. Astfel, progesteronul lucrează ca partener al estrogenului, care s-a ocupat de mare parte din pregătire mai devreme în ciclu.\n\nDacă nu începe o sarcină, nivelul de progesteron scade. Această scădere este cea care permite eliminarea mucoasei sub forma următoarei menstruații. Creșterea și scăderea progesteronului în a doua jumătate a ciclului sunt un ritm normal, așteptat.",
+      "deep": "Progesteronul este produs în principal de corpul galben, structura pe care ovarul o formează din folicul după ce acesta și-a eliberat ovulul. De aceea progesteronul crește tocmai în faza luteală (de după ovulație). Când corpul galben se degradează, scad atât progesteronul, cât și estrogenul, semnalând începutul unui nou ciclu. Variațiile lui naturale sunt unul dintre motivele pentru care unele femei observă schimbări premenstruale în zilele dinaintea menstruației.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Pilula doar cu progestativ (minipilula)",
+      "aliases": [
+        "pilula doar cu progestativ",
+        "minipilula",
+        "mini pilula",
+        "POP",
+        "pilula cu progesteron",
+        "pilula cu desogestrel",
+        "anticoncepționale fără estrogen"
+      ],
+      "glance": "Minipilula este o pastilă zilnică cu un singur hormon, care îngroașă mucusul cervical ca să blocheze spermatozoizii.",
+      "overview": "Pilula doar cu progestativ, numită adesea minipilulă, este o pastilă zilnică ce conține un singur hormon, un progestativ. Este o opțiune pentru femeile care nu pot sau preferă să nu ia estrogen.\n\nAcțiunea ei principală este să îngroașe mucusul de la colul uterin, astfel încât spermatozoizilor să le fie mai greu să ajungă la un ovul. Un tip frecvent, pilula cu desogestrel, împiedică și ovarele să elibereze un ovul (ovulația).\n\nLuată corect, are o eficiență de peste 99%; în utilizarea obișnuită, de zi cu zi, eficiența este de aproximativ 91%. Ca și la alte pilule, ora la care o iei contează și nu protejează împotriva ITS.",
+      "deep": "Minipilula diferă de pilula combinată prin faptul că nu conține estrogen, ceea ce schimbă cui i se poate potrivi, lucru pe care medicul îl cântărește când o prescrie. Unele tipuri trebuie luate într-un interval zilnic destul de strict ca să rămână eficiente. Acest articol explică ce este și cum funcționează; cum se ia și dacă este potrivită pentru tine sunt întrebări pentru medicul de familie, pentru o asistentă medicală sau pentru farmacist.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Cum recunoști o relație abuzivă",
+      "aliases": [
+        "recunoașterea abuzului",
+        "relație abuzivă",
+        "violență domestică",
+        "violență în cuplu",
+        "semne de abuz",
+        "sunt abuzată",
+        "partener violent"
+      ],
+      "glance": "Abuzul poate fi fizic, sexual, emoțional sau prin control și nu este niciodată vina persoanei care îl trăiește.",
+      "overview": "Abuzul într-o relație nu este doar fizic. Poate lua mai multe forme, adesea împreună: vătămare fizică, constrângere sexuală, rău emoțional sau psihologic și comportamente de control, când un partener decide unde mergi, pe cine vezi sau ce ai voie să faci. Oricare dintre acestea poate fi abuz, chiar și atunci când nu există nicio rană vizibilă.\n\nEste mai frecvent decât își dau seama mulți oameni. La nivel mondial, aproximativ 1 din 3 femei trăiește violență fizică sau sexuală de-a lungul vieții, cel mai des din partea unui partener; situația din Italia este asemănătoare. Așa că, dacă asta face parte din viața ta, nu ești singură și nu este ceva ce ai provocat tu.\n\nPoate fi greu să-i spui pe nume: abuzul vine adesea amestecat cu momente bune, scuze sau promisiuni de schimbare și se poate instala atât de încet încât pare normal. Să ai încredere în propria senzație că ceva nu este în regulă este un motiv întemeiat să ceri ajutor. Nu trebuie să fii sigură sau să aștepți să devină „destul de grav” ca să vorbești cu cineva.",
+      "deep": "Dincolo de formele diferite, abuzul tinde să urmeze un tipar în care o persoană caută putere și control asupra alteia și se poate agrava în timp. Are un cost real asupra sănătății: este legat de anxietate, depresie, probleme de somn și efecte fizice pe termen lung. Nimic din toate acestea nu înseamnă că ești slabă sau vinovată; înseamnă că ce trăiești îți face rău și că există sprijin care să te ajute să te gândești la toate acestea în siguranță și în ritmul tău.",
+      "when_to_see_doctor": "- Poți vorbi confidențial cu cineva oricând ești pregătită: cu medicul de familie sau cu o asistentă medicală, cu un centru antiviolență sau cu o linie de ajutor (în Italia, **1522**, gratuit și oricând). Nu ai nevoie mai întâi de dovezi, de un plan sau de o decizie; ei sunt acolo ca să te asculte și să te ajute să-ți înțelegi opțiunile.\n- Un cadru medical îți poate trata și eventualele răni și te poate pune discret în legătură cu servicii specializate de sprijin.",
+      "red_flags": "- Dacă ești în **pericol imediat**, contactează acum serviciile de urgență: **112** în UE (inclusiv în Italia), **999** în Regatul Unit, **911** în SUA și Canada.\n- În Italia, **1522**, linia națională gratuită împotriva violenței și a hărțuirii (stalking), este disponibilă 24 de ore din 24, anonim, prin telefon sau chat, în mai multe limbi."
+    },
+    "respect-not-control": {
+      "title": "Respect, nu control",
+      "aliases": [
+        "comportament controlant",
+        "control coercitiv",
+        "relație sănătoasă",
+        "semne de avertizare",
+        "gelozie",
+        "unde găsesc ajutor",
+        "abuz"
+      ],
+      "glance": "Iubirea se construiește pe respect și libertate; controlul, gelozia și presiunea nu sunt iubire, iar ajutorul există.",
+      "overview": "O relație sănătoasă se sprijină pe respect, încredere, egalitate și libertate: doi oameni care își păstrează fiecare prieteniile, alegerile și spațiul propriu. Controlul este opusul. Se ascunde adesea în spatele unor cuvinte precum iubire sau gelozie („Îți verific telefonul pentru că țin la tine”, „Nu vreau să te vezi cu ei pentru că te iubesc”), dar efectul lui este să-i micșoreze ei lumea și libertatea.\n\nControlul începe rareori cu violența. De obicei începe cu lucruri mici (o critică, o limită încălcată, o „glumă” care înțeapă) și crește. Contează să-l numești din timp, pentru că controlul coercitiv este el însuși o formă de abuz și un semn de avertizare pentru lucruri mai grave. Nu este vorba despre vinovăție, ci despre sinceritate și schimbare.",
+      "deep": "**Dacă recunoști unele dintre aceste lucruri la tine, această conștientizare este un punct de plecare, nu o condamnare pe viață.**\nOamenii se pot schimba cu efort real și cu ajutorul potrivit. Să apelezi la un program dedicat bărbaților care vor să nu mai fie controlanți sau violenți este un semn de putere, nu de slăbiciune. Vorbește cu un specialist, cu un medic sau cu un serviciu pentru schimbarea comportamentului la bărbați.\n\nDacă **ea** este cea în pericol sau dacă îți faci griji pentru cineva, încurajeaz-o și sprijin-o să ceară ajutor, în condițiile ei, niciodată preluând tu controlul.\n\n**Unde găsești ajutor**\n- În caz de urgență sau dacă cineva este în pericol imediat, sună la numărul local de urgență (**112** în Italia și în mare parte din Europa; **911** în SUA).\n- **Italia — 1522**: linia națională împotriva violenței și a hărțuirii (stalking). Gratuită, 24/7, anonimă și în mai multe limbi, administrată de Departamentul pentru Egalitate de Șanse. Îndrumă oamenii și către centrele antiviolență locale (centri antiviolenza).\n- Centrele antiviolență și programele de schimbare a comportamentului pentru bărbați (în Italia, „centri per uomini autori di violenza”) oferă sprijin confidențial pentru schimbare.",
+      "when_to_see_doctor": null,
+      "red_flags": "Semne de avertizare ale unui comportament controlant sau abuziv, care merită luate în serios, la tine sau într-o relație:\n\n- **Supravegherea sau izolarea**: să-i verifici telefonul, să-i urmărești locația sau să o izolezi de prieteni și de familie.\n- **Controlul asupra alegerilor ei**: banii, ce poartă, unde merge, pe cine vede.\n- **Gelozia prezentată drept iubire**, acuzațiile constante sau nevoia de a ști tot timpul unde este.\n- **Umilirea, învinovățirea sau faptul că o faci să se simtă speriată**, vinovată sau să simtă că trebuie să calce mereu ca pe ouă.\n- **Presiunile sau amenințările** legate de sex, de despărțire sau de autovătămare, ca să obții ce vrei.\n- **Orice formă de forță fizică, intimidare sau frică.** Dacă există așa ceva, este abuz: apelează la ajutorul de mai sus. Nu există niciodată o scuză și nu este niciodată vina ei."
+    },
+    "safety-plan": {
+      "title": "Cum faci un plan de siguranță",
+      "aliases": [
+        "plan de siguranță",
+        "să rămân în siguranță",
+        "siguranță personală",
+        "planificarea siguranței",
+        "cum plec în siguranță",
+        "geantă de urgență",
+        "vreau să plec de acasă"
+      ],
+      "glance": "Un plan de siguranță înseamnă câțiva pași practici care te ajută să fii mai în siguranță, iar serviciile specializate te pot ajuta să-l faci.",
+      "overview": "Un plan de siguranță înseamnă pur și simplu să te gândești dinainte cum să te ții mai în siguranță (pe tine și pe eventualii copii). Nu este o decizie de a pleca sau de a rămâne; este vorba despre a fi puțin mai pregătită, orice ai alege.\n\nUnor femei le este de ajutor să aibă câteva lucruri pregătite discret: o persoană de încredere care știe ce se întâmplă, documentele și numerele importante într-un loc la îndemână, o geantă mică cu strictul necesar, o idee despre cele mai sigure căi de ieșire din casă sau un cuvânt ori un semnal care îi spune cuiva că ai nevoie de ajutor. Ce are sens depinde în întregime de situația ta.\n\nNu trebuie să te descurci singură cu asta și adesea este mai sigur să nu o faci singură. Serviciile împotriva violenței au experiență în a face planuri de siguranță împreună cu femeile, confidențial și gratuit, inclusiv pentru momentul plecării, care poate fi un moment cu risc mai mare și merită planificat cu sprijin, nu în grabă.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactează un centru antiviolență sau o linie de ajutor (în Italia, **1522**) ca să faci un plan potrivit situației tale: fac asta în fiecare zi, confidențial, și te pot ajuta cu pași practici, juridici și emoționali.\n- Dacă ții o evidență a ceea ce se întâmplă, păstreaz-o într-un loc privat și sigur.",
+      "red_flags": "- Dacă ești în **pericol imediat**, contactează acum serviciile de urgență: **112** în UE (inclusiv în Italia), **999** în Regatul Unit, **911** în SUA și Canada.\n- În Italia, **1522**, gratuit, disponibil 24 de ore din 24, anonim și în mai multe limbi, te poate ajuta prin telefon sau chat, inclusiv cu un plan de siguranță urgent."
+    },
+    "sex-during-your-period": {
+      "title": "Sexul în timpul menstruației",
+      "aliases": [
+        "sex la menstruație",
+        "sex în timpul menstruației",
+        "sex pe ciclu",
+        "contact sexual în timpul menstruației",
+        "pot rămâne însărcinată la menstruație",
+        "sarcină în timpul menstruației",
+        "pot rămâne gravidă pe ciclu"
+      ],
+      "glance": "Sexul în timpul menstruației este în regulă dacă amândoi vreți, dar poți totuși rămâne însărcinată sau poți transmite o ITS.",
+      "overview": "Să faci sex în timpul menstruației este o alegere personală. Dacă amândoi vreți și vă simțiți confortabil, este în regulă și nu este nimic greșit sau neobișnuit în asta. Unele femei se simt mai sensibile sau pur și simplu nu au chef în aceste zile, în timp ce altora le place. Cel mai important este să-ți asculți corpul și să vorbești deschis cu partenerul.\n\nCe nu face menstruația este să funcționeze ca metodă contraceptivă. Șansa de a rămâne însărcinată este mai mică decât în jurul ovulației, dar nu este zero. Spermatozoizii pot supraviețui în corp până la 7 zile după contactul sexual, așa că, dacă ovulezi devreme, lucru mai probabil când ai un ciclu mai scurt, spermatozoizii de la un contact din timpul menstruației sau imediat după pot întâlni totuși un ovul. Dacă nu vrei să rămâi însărcinată, contracepția obișnuită contează și în aceste zile.\n\nNici de infecțiile cu transmitere sexuală (ITS) nu te protejează menstruația. Infecțiile pot trece de la un partener la altul în timpul sexului fără prezervativ, iar microbii care le provoacă pot fi prezenți în sânge, ca și în alte fluide ale corpului. Prezervativul este metoda care reduce și riscul de ITS, inclusiv HIV, așa că merită folosit indiferent de momentul lunii.",
+      "deep": null,
+      "when_to_see_doctor": "- Dacă ai făcut sex **fără contracepție** sau contracepția s-ar putea să fi dat greș și nu vrei să rămâi însărcinată, vorbește **cât mai repede** cu un farmacist, cu medicul de familie sau cu un cabinet de sănătate sexuală despre contracepția de urgență. Trebuie folosită în câteva zile și de obicei funcționează mai bine cu cât este folosită mai repede.\n- Cere ajutorul unui farmacist, al unui cabinet de sănătate sexuală sau al medicului de familie dacă un **prezervativ se rupe sau alunecă** în timpul sexului. S-ar putea să ai nevoie de contracepție de urgență sau de un test pentru ITS.\n- Mergi la medicul de familie sau la un cabinet de sănătate sexuală dacă observi **sângerare după sex când nu ai menstruație**. De obicei nu este ceva grav, dar merită întotdeauna verificată.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Sexul în sarcină",
+      "aliases": [
+        "sex în sarcină",
+        "sex în timpul sarcinii",
+        "sex când ești însărcinată",
+        "e sigur sexul în sarcină",
+        "intimitate în sarcină",
+        "orgasm în sarcină",
+        "contact sexual gravidă"
+      ],
+      "glance": "Sexul este sigur în majoritatea sarcinilor și nu îi face rău copilului, cu excepția cazului în care moașa sau medicul ți-a recomandat altceva.",
+      "overview": "Pentru cele mai multe femei, sexul în timpul sarcinii este sigur, cu excepția cazului în care moașa sau medicul ți-a spus să-l eviți. Copilul este bine protejat în uter, iar sexul nu îi face rău.\n\nS-ar putea să ți se recomande să eviți sexul cu penetrare în câteva situații: dacă ai **placenta jos inserată (placenta praevia)**, din cauza riscului de sângerare; dacă **ți s-a rupt apa**, din cauza riscului de infecție; sau dacă ai avut **mai multe avorturi spontane**.\n\nDorința se schimbă adesea în sarcină: unele femei își doresc sex mai mult, altele mai puțin, altele deloc pentru o vreme, iar hormonii, schimbările corpului, oboseala, greața și grijile au toate un rol. Toate acestea sunt normale. Dacă nu ai chef de sex, sărutările, îmbrățișările și masajul sunt alte moduri de a rămâne apropiați.\n\nPe măsură ce burtica crește, unele poziții devin incomode; pozițiile pe o parte, unul lângă altul, sunt adesea mai ușoare. Hormonii pot face vaginul mai uscat, iar un lubrifiant pe bază de apă poate ajuta.\n\nSpre finalul sarcinii, sexul sau un orgasm pot declanșa contracțiile Braxton Hicks, când uterul se întărește pentru o vreme. Este normal și nu înseamnă că începe travaliul; nu există dovezi că sexul declanșează travaliul.\n\nDacă oricare dintre voi ar putea avea o infecție cu transmitere sexuală, folosiți prezervativul, inclusiv la sexul oral: o infecție netratată îți poate face rău serios ție și copilului. Evitați sexul oral dacă oricare dintre voi are herpes la buză, pentru că virusul poate fi transmis copilului.",
+      "deep": null,
+      "when_to_see_doctor": "- Vorbește cu **moașa sau medicul** dacă nu ești sigură că sexul este sigur pentru tine sau dacă grijile legate de sex ori de relație te apasă.\n- Dacă ai **orice sângerare** în sarcină, cere să fie verificată înainte să faci din nou sex: contactează moașa, medicul sau maternitatea.\n- Mergi la un **cabinet de sănătate sexuală** dacă tu sau partenerul tău ați putea avea o ITS.",
+      "red_flags": "- Contactează imediat **maternitatea** dacă crezi că **ți s-a rupt apa** și nu face sex până nu ai fost consultată.\n- Sună la **{{emergency}} sau mergi la urgențe** dacă ai o **sângerare abundentă**, mai ales însoțită de **durere puternică de burtă** sau de senzația de leșin."
+    },
+    "sexual-violence": {
+      "title": "Violența sexuală și consimțământul",
+      "aliases": [
+        "violență sexuală",
+        "agresiune sexuală",
+        "viol",
+        "consimțământ",
+        "abuz sexual",
+        "fără consimțământ",
+        "am fost violată"
+      ],
+      "glance": "Violența sexuală înseamnă orice act sexual fără consimțământ și nu este niciodată vina persoanei care a trăit-o.",
+      "overview": "Violența sexuală înseamnă orice act sexual, sau orice încercare de a obține unul, fără consimțământ sau prin constrângere. Include violul și orice contact sexual nedorit și poate fi comisă de oricine: un străin, o cunoștință, un partener sau un soț.\n\nConsimțământul este în centrul ei. Consimțământul înseamnă un acord dat liber și nu este posibil atunci când cineva doarme, este inconștient, este sub influența alcoolului sau a drogurilor, este copil ori este pus sub presiune, amenințat sau îi este frică. Poate fi retras în orice moment. De aceea, violența sexuală nu este **niciodată** vina persoanei căreia i s-a întâmplat: nici din cauza hainelor pe care le purta, nici pentru că băuse, nici pentru că a înlemnit în loc să se lupte, nici pentru că îl cunoștea pe agresor.\n\nDacă ți s-a întâmplat asta, există sprijin, fie că a fost recent, fie demult. Ești crezută, iar ce faci mai departe este alegerea ta.",
+      "deep": null,
+      "when_to_see_doctor": "- Poți merge la **un serviciu medical, la un spital sau la un serviciu specializat pentru victimele agresiunilor sexuale**, unde te pot îngriji, îți pot trata eventualele răni și, dacă vrei, te pot ajuta să faci o sesizare și să păstrezi dovezile.\n- Unii pași medicali **depind de timp** (de exemplu contracepția de urgență sau prevenirea infecțiilor), așa că, dacă ceri ajutor **curând**, asta poate conta. Dar nu există o limită de timp pentru a primi sprijin și este întotdeauna alegerea ta dacă depui sau nu o plângere.",
+      "red_flags": "- Dacă ești în **pericol imediat**, contactează acum serviciile de urgență: **112** în UE (inclusiv în Italia), **999** în Regatul Unit, **911** în SUA și Canada.\n- După o agresiune recentă, **un spital sau un serviciu specializat te poate ajuta de urgență**. În Italia, **1522** (gratuit, 24/7, anonim, în mai multe limbi; telefon sau chat) te poate îndruma spre îngrijirea potrivită."
+    },
+    "signs-of-labour": {
+      "title": "Semnele travaliului",
+      "aliases": [
+        "semnele travaliului",
+        "travaliu",
+        "intru în travaliu",
+        "contracții",
+        "ruperea apei",
+        "dopul gelatinos",
+        "eliminarea dopului",
+        "faza latentă"
+      ],
+      "glance": "Semnele că începe travaliul includ contracțiile regulate, eliminarea dopului gelatinos, durerea de spate sau ruperea apei.",
+      "overview": "Există câteva semne că travaliul ar putea începe. Principalul sunt contracțiile, întăriri ale burticii care vin regulat și se intensifică. Printre altele se numără eliminarea dopului gelatinos (dopul de mucus de la colul uterin care se desprinde), o durere de spate persistentă, nevoia de a merge la toaletă și ruperea apei.\n\nÎnainte de travaliul activ există adesea o fază timpurie („latentă”), în care colul uterin se înmoaie și începe să se deschidă. Această parte poate dura ore sau chiar zile și, pentru multe femei, este în regulă să stea confortabil acasă în acest timp, odihnindu-se și hidratându-se.\n\nTravaliul începe puțin diferit la fiecare femeie, așa că nu trebuie să bifezi fiecare semn. Când crezi că lucrurile încep, moașa sau maternitatea sunt acolo ca să te îndrume ce să faci și când să vii.",
+      "deep": null,
+      "when_to_see_doctor": "- Sună la **moașă sau la maternitate** ca să primești îndrumări când crezi că a început travaliul sau când contracțiile sunt **regulate, cam la fiecare 5 minute**. Dacă nu reușești să dai de moașă, sună la spitalul unde plănuiești să naști.",
+      "red_flags": "Sună **imediat la moașă sau la maternitate**, zi sau noapte, fără să aștepți, dacă:\n\n- **ți se rupe apa** (mai ales dacă lichidul este verde, maro sau urât mirositor)\n- ai **orice sângerare vaginală**\n- **bebelușul se mișcă mai puțin decât de obicei**\n- ai semne de travaliu și ești **însărcinată în mai puțin de 37 de săptămâni**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Semnele sarcinii",
+      "aliases": [
+        "semne de sarcină",
+        "simptome de sarcină",
+        "primele semne de sarcină",
+        "sunt însărcinată",
+        "oare sunt gravidă",
+        "simptome sarcină primele zile"
+      ],
+      "glance": "Lipsa menstruației este adesea primul semn de sarcină, uneori împreună cu greața, oboseala sau sânii sensibili.",
+      "overview": "Pentru multe femei, primul indiciu al unei sarcini este **o menstruație care nu vine**. Dar corpurile diferă, iar unele observă mai întâi alte semne timpurii, adesea cam în săptămânile 4–6.\n\nSemnele timpurii frecvente includ greața sau vărsăturile (în orice moment al zilei, nu doar dimineața), sânii care par mai mari sau sensibili, o oboseală neobișnuită și nevoia de a urina mai des. Unele femei observă și un gust metalic, o sensibilitate nouă la anumite mirosuri sau faptul că nu mai suportă alimente care de obicei le plac.\n\nNiciunul dintre aceste semne, luat separat, nu înseamnă că ești sigur însărcinată (multe se suprapun cu schimbările obișnuite ale ciclului) și nu toate femeile le au. Singurul mod de a ști sigur este un test de sarcină.",
+      "deep": null,
+      "when_to_see_doctor": "- Dacă testul este pozitiv, contactează **o moașă sau medicul de familie** ca să începi din timp îngrijirea de sarcină (prenatală).\n- Dacă menstruația întârzie și testele sunt negative, dar simptomele continuă, merită să vorbești cu medicul de familie ca să vedeți ce altceva s-ar putea întâmpla.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Fumatul în sarcină",
+      "aliases": [
+        "fumat în sarcină",
+        "renunțarea la fumat în sarcină",
+        "să mă las de fumat însărcinată",
+        "țigări în sarcină",
+        "țigară electronică în sarcină",
+        "vape în sarcină"
+      ],
+      "glance": "Renunțarea la fumat este unul dintre cele mai bune lucruri pe care le poți face pentru copilul tău și nu este niciodată prea târziu.",
+      "overview": "Renunțarea la fumat este unul dintre cele mai puternice lucruri pe care le poți face ca să-i dai copilului tău un început sănătos. Fiecare țigară reduce oxigenul pe care îl primește copilul, ceea ce îi face inima să lucreze mai greu și îi poate încetini creșterea.\n\nFumatul în sarcină crește riscul unor probleme grave, printre care avortul spontan, nașterea prematură, greutatea mică la naștere, nașterea unui copil fără viață și sindromul morții subite a sugarului după naștere. Contează și fumatul pasiv, așa că o casă fără fum ajută.\n\nPartea încurajatoare: nu este **niciodată prea târziu**. Renunțarea în orice moment al sarcinii ajută, iar dacă renunți devreme beneficiile sunt cele mai mari. Poate fi cu adevărat greu, și tocmai de aceea există ajutor gratuit, iar dacă îl folosești, șansele de reușită cresc mult.",
+      "deep": null,
+      "when_to_see_doctor": "- Întreab-o pe **moașă** despre **sprijinul gratuit pentru renunțarea la fumat**: consilieri instruiți (unii specializați în sarcină) te pot sprijini, iar multe țări au și o linie telefonică gratuită pentru renunțarea la fumat. Să ceri ajutor este un semn că ai grijă de copilul tău, nu un eșec.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Spottingul și sângerările între menstruații",
+      "aliases": [
+        "spotting",
+        "sângerare între menstruații",
+        "sângerare intermenstruală",
+        "pătare",
+        "sângerare după sex",
+        "pete de sânge între cicluri",
+        "sângerare de întrerupere"
+      ],
+      "glance": "Spottingul înseamnă o sângerare ușoară între menstruații sau după sex; adesea nu este grav, dar merită întotdeauna verificat de un medic.",
+      "overview": "Spottingul înseamnă o sângerare ușoară care apare între menstruații sau după sex, în afara fluxului menstrual normal. Este frecvent și de obicei nu este ceva grav, dar, pentru că poate avea mai multe cauze, este genul de lucru care merită întotdeauna verificat de un medic.\n\nExistă multe motive obișnuite. Începerea sau folosirea contracepției hormonale este unul frecvent. Printre altele se numără mici formațiuni inofensive în uter sau în jurul lui (polipi sau fibroame), modificări inofensive ale suprafeței colului uterin, uscăciunea vaginală sau o infecție precum chlamydia.\n\nPentru că același simptom poate avea cauze diferite, cele mai multe minore, pasul util nu este să ghicești, ci să te consulte cineva, ca să știi ce se află în spatele lui în cazul tău.",
+      "deep": null,
+      "when_to_see_doctor": "- Mergi la medicul de familie sau la un cabinet de sănătate sexuală **de fiecare dată când ai sângerări între menstruații sau după sex**, chiar dacă sunt ușoare. De obicei nu este nimic grav, dar verificarea este modul în care se găsește cauza și în care se pot exclude din timp cauzele mai rare.",
+      "red_flags": "- Cere o programare **urgentă** la medicul de familie sau contactează un **medic de gardă** dacă **nu ți-a venit menstruația și ai o sângerare neobișnuită împreună cu durere de burtă sau pelviană**: trebuie evaluată repede, pentru că poate fi semnul unei sarcini extrauterine."
+    },
+    "stalking": {
+      "title": "Hărțuirea (stalkingul)",
+      "aliases": [
+        "stalking",
+        "hărțuire",
+        "sunt urmărită",
+        "mă urmărește cineva",
+        "atenție nedorită",
+        "hărțuire online",
+        "cyberstalking",
+        "fostul mă hărțuiește"
+      ],
+      "glance": "Stalkingul înseamnă atenție repetată și nedorită care te face să te simți speriată sau în nesiguranță și este luat în serios.",
+      "overview": "Stalkingul este un tipar de comportament nedorit și repetat al cuiva, care te face să te simți speriată, urmărită sau în nesiguranță. Poate include să fii urmărită, ca cineva să apară acolo unde ești, apeluri sau mesaje constante, cadouri nedorite, supravegherea ta online sau prin telefon ori amenințări. Este adesea făcut de un fost partener sau de cineva pe care îl cunoști, deși nu întotdeauna.\n\nFrica pe care o provoacă este îndreptățită, chiar și atunci când fiecare gest luat separat ar putea părea „mărunt” altora: contează tiparul și felul în care te face să te simți. Stalkingul este recunoscut ca o formă de abuz și în multe țări este infracțiune. Nimic din toate acestea nu este vina ta și nu trebuie pur și simplu să trăiești cu asta.\n\nDacă poți face asta în siguranță, o evidență te poate ajuta mai târziu: date și ore, capturi de ecran ale mesajelor și ce s-a întâmplat. Nu trebuie să-ți dai seama singură dacă „se pune”: serviciile de sprijin te pot ajuta să înțelegi situația și să te gândești la opțiunile tale.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactează **poliția** ca să raportezi stalkingul și o linie de ajutor împotriva violenței sau a hărțuirii pentru sprijin și sfaturi (în Italia, **1522** este pentru violență **și** stalking).\n- Păstrarea dovezilor și realizarea unui plan de siguranță, cu ajutorul unui serviciu specializat, pot face amândouă o diferență reală.",
+      "red_flags": "- Dacă te simți în **pericol imediat**, contactează acum serviciile de urgență: **112** în UE (inclusiv în Italia), **999** în Regatul Unit, **911** în SUA și Canada.\n- În Italia, **1522**, gratuit, disponibil 24 de ore din 24, anonim și în mai multe limbi, te poate ajuta prin telefon sau chat."
+    },
+    "stillbirth": {
+      "title": "Nașterea unui copil fără viață",
+      "aliases": [
+        "copil născut mort",
+        "făt mort",
+        "moarte fetală intrauterină",
+        "pierderea bebelușului",
+        "pierdere de sarcină târzie",
+        "deces fetal"
+      ],
+      "glance": "Nașterea unui copil fără viață înseamnă pierderea copilului după 24 de săptămâni; este rară, nu este niciodată vina ta și este întotdeauna însoțită de sprijin.",
+      "overview": "Vorbim despre nașterea unui copil fără viață atunci când un copil se naște după ce a murit după 24 de săptămâni de sarcină. (O pierdere înainte de 24 de săptămâni se numește avort spontan.) Este rară, aproximativ 1 din 250 de nașteri, dar pentru familiile pe care le atinge este o pierdere profundă, iar întreaga îngrijire care urmează este menită să te sprijine cu blândețe prin ea.\n\nUneori se găsește o cauză, de exemplu o problemă cu placenta sau cu dezvoltarea copilului ori o afecțiune medicală, și uneori, în ciuda analizelor, **nu se găsește nicio cauză**. Oricare ar fi motivul, nașterea unui copil fără viață nu este ceva ce un părinte a provocat sau ar fi putut ști să prevină.\n\nUn lucru ajută cu adevărat la scăderea riscului și este simplu: **să-i spui imediat moașei dacă mișcările copilului încetinesc sau se schimbă.** Pe lângă asta, lucrurile de zi cu zi (mersul la consultațiile prenatale, renunțarea la fumat, evitarea alcoolului și dormitul pe o parte începând cu săptămâna 28) au toate un rol.",
+      "deep": null,
+      "when_to_see_doctor": "- Contactează **imediat moașa sau maternitatea**, oricând, zi sau noapte, dacă **bebelușul se mișcă mai puțin decât de obicei sau mișcările lui par diferite.** Nu aștepta niciodată să vezi dacă trece; să fii consultată este exact lucrul potrivit și nu deranjezi niciodată pe nimeni.\n- După o pierdere, moașele specializate și echipele de sprijin pentru doliu sunt acolo pentru tine: pentru decizii, pentru pașii practici și pentru durere. Nu trebuie să treci singură prin nimic din toate acestea, iar grupurile de sprijin pentru pierderea unui copil sunt disponibile atât timp cât ai nevoie de ele.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stresul, viața și menstruația",
+      "aliases": [
+        "stres și menstruație",
+        "stres",
+        "menstruație întârziată",
+        "nu mi-a venit ciclul",
+        "mi-a întârziat menstruația",
+        "de ce îmi întârzie menstruația",
+        "amenoree"
+      ],
+      "glance": "Stresul, schimbările mari de greutate sau mult sport pot întârzia sau opri menstruația, adesea doar pentru o vreme.",
+      "overview": "Este frecvent ca menstruația să vină mai târziu sau să sară o lună, iar motivul are adesea mai mult de-a face cu viața decât cu vreo problemă. Stresul este unul frecvent: același sistem care reacționează la presiune poate influența hormonii care îți conduc ciclul.\n\nȘi alte lucruri de zi cu zi îți pot schimba menstruația: o schimbare mare de greutate (în plus sau în minus), mult sport sau epuizarea. Schimbările hormonale, cum ar fi apropierea perimenopauzei, sau afecțiuni precum SOPC pot fi și ele cauza, la fel ca sarcina și unele metode de contracepție. Adesea, intervalul dintre menstruații variază pur și simplu puțin de la o dată la alta, și este normal.\n\nPartea liniștitoare este că o singură menstruație întârziată sau care nu vine nu este de obicei un motiv de îngrijorare, iar lucrurile se liniștesc adesea odată cu viața. Ce merită urmărit este un tipar de schimbare, nu o singură lună.",
+      "deep": null,
+      "when_to_see_doctor": "Mergi la medicul de familie dacă:\n\n- nu ți-a venit menstruația **trei luni la rând** sau menstruațiile au devenit **neregulate**\n- menstruația **se oprește** și nu știi sigur de ce (iar dacă o sarcină este posibilă, merită să faci mai întâi un test)\n- lipsa menstruației vine împreună cu alte schimbări, cum ar fi schimbări neașteptate de greutate, oboseală, creșterea excesivă a părului sau o stare de spirit scăzută\n\nAceste verificări sunt doar ca să se înțeleagă ce se află în spatele schimbării, care de obicei este ceva ce se poate gestiona.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Cum o sprijini în timpul menstruației",
+      "aliases": [
+        "cum o ajut la menstruație",
+        "sprijin la menstruație pentru parteneri",
+        "grijă în timpul menstruației",
+        "partenera are menstruație",
+        "dureri menstruale partenera"
+      ],
+      "glance": "Menstruația poate aduce durere și oboseală reale; grija mică și practică face o diferență mare.",
+      "overview": "Menstruația nu înseamnă doar câteva zile de sângerare; pentru multe femei vine cu crampe, dureri de spate, dureri de cap, oboseală și lipsă de energie. Durerea menstruală este frecventă și poate fi cu adevărat epuizantă; nu este o exagerare. Poartă-te cu ea cum te-ai purta cu orice partener care nu se simte bine: cu bunătate practică.\n\nȘi tratează subiectul ca pe ceva normal. Menstruația nu este dezgustătoare, jenantă sau tabu. Să cumperi fără jenă absorbante sau tampoane, să ai câteva acasă sau să-i întinzi o sticlă cu apă caldă fără să faci din asta o poveste îi arată că este în siguranță și sprijinită.",
+      "deep": "Lucruri simple care ajută:\n\n- **Căldură și odihnă.** O sticlă cu apă caldă sau o pernă electrică pe partea de jos a burții ameliorează crampele; propune-i o seară liniștită acasă.\n- **Ia de pe umerii ei o parte din treburi.** Gătește, fă ordine, rezolvă comisioanele, du-o cu mașina: ajutorul practic contează mai mult decât vorbele.\n- **Ai grijă să existe mereu provizii.** Află ce folosește și ține o rezervă, ca o zi abundentă să nu devină niciodată o criză.\n- **Calmante și mâncare care îi face bine**, dacă le vrea; alegerea este a ei.\n- **Nu insista pentru sex sau pentru o energie pe care nu o are.** Apropierea poate însemna și o îmbrățișare pe canapea.",
+      "when_to_see_doctor": "Încurajeaz-o să meargă la medic (și oferă-te să o însoțești) dacă durerea menstruală este **puternică, se agravează sau o împiedică să-și trăiască viața de zi cu zi**, dacă menstruațiile sunt **foarte abundente** (îmbibă protecția în fiecare oră, cheaguri mari) sau dacă durerea este nouă și neobișnuită: acestea pot indica afecțiuni precum endometrioza, care merită îngrijite cum trebuie.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Cum sprijini pe cineva care trăiește violență",
+      "aliases": [
+        "cum ajut pe cineva",
+        "ajutor pentru o prietenă",
+        "cum pot ajuta",
+        "cineva care trece prin abuz",
+        "cum sprijin o victimă",
+        "prietena mea este abuzată"
+      ],
+      "glance": "Dacă cineva cunoscut ar putea trăi un abuz, ajută să asculți fără să judeci și să știi unde să-l îndrumi.",
+      "overview": "Să-ți dai seama că cineva la care ții ar putea trăi un abuz este greu, iar dorința de a ajuta este un instinct bun. Cele mai utile lucruri pe care le poți oferi sunt adesea cele mai simple.\n\nAscultă și crede-o pe persoana respectivă. Las-o să vorbească în ritmul ei, fără să judeci, fără să învinovățești și fără să întrebi ce a făcut ca să provoace asta. Spune-i clar că nu este vina ei și că nu merită asta. Încearcă să nu-i spui ce să facă și să nu o împingi să plece: plecarea este decizia ei, iar dacă se face în grabă poate chiar să crească pericolul; ajută mai mult să se simtă sprijinită și să nu se simtă singură.\n\nPăstrează confidențial ce îți spune. Ajut-o cu blândețe să găsească sprijin specializat când este pregătită (o linie de ajutor precum **1522** în Italia sau un centru antiviolență local) și oferă ajutor practic, cum ar fi să căutați numerele împreună sau să fii lângă ea când sună. Și ai grijă și de tine; să sprijini pe cineva prin așa ceva poate fi greu.",
+      "deep": null,
+      "when_to_see_doctor": "- Încurajeaz-o (fără presiune) să contacteze o linie de ajutor sau un centru antiviolență, unde vă pot spune amândurora ce să faceți mai departe. Te poți oferi să o ajuți să sune sau să găsească numărul.\n- Dacă este rănită, medicul de familie sau spitalul o pot ajuta și o pot pune în legătură cu serviciile de sprijin.",
+      "red_flags": "- Dacă persoana este în **pericol imediat**, sună la serviciile de urgență: **112** în UE (inclusiv în Italia), **999** în Regatul Unit, **911** în SUA și Canada.\n- În Italia, **1522** (gratuit, 24/7, anonim, în mai multe limbi; telefon sau chat) te poate sfătui și pe tine cum să ajuți pe cineva."
+    },
+    "the-coil": {
+      "title": "Steriletul (de cupru sau hormonal)",
+      "aliases": [
+        "sterilet",
+        "steriletul",
+        "DIU",
+        "SIU",
+        "sterilet de cupru",
+        "sterilet hormonal",
+        "dispozitiv intrauterin",
+        "sistem intrauterin",
+        "Mirena"
+      ],
+      "glance": "Steriletul este un dispozitiv mic plasat în uter, de cupru (DIU) sau hormonal (SIU), care funcționează ani de zile.",
+      "overview": "Steriletul este un dispozitiv mic pe care un medic îl plasează în interiorul uterului. Există două tipuri și e bine să știi să le deosebești:\n\n- **DIU**, sau steriletul de cupru, nu conține hormoni. Cuprul schimbă condițiile din uter astfel încât spermatozoizii și ovulele să nu poată supraviețui bine și influențează și mucusul cervical. În funcție de tip, funcționează aproximativ 5–10 ani.\n- **SIU**, sau steriletul hormonal (sistemul intrauterin), eliberează un progestativ în loc să folosească cupru. Îngroașă mucusul de la colul uterin și subțiază mucoasa uterului; la unele femei poate face și menstruațiile mult mai ușoare.\n\nAmândouă sunt metode de tipul „îl pui și uiți de el” și amândouă au o eficiență de peste 99%, cu o diferență mică între utilizarea perfectă și cea obișnuită. Niciunul nu protejează împotriva ITS.",
+      "deep": "Sterileturile sunt metode reversibile cu durată lungă de acțiune: odată montate, funcționează ani de zile, iar fertilitatea revine după ce sunt scoase. Montarea și scoaterea sunt făcute de un medic instruit și durează doar câteva minute, deși unele femei simt montarea ca fiind neplăcută. Un motiv frecvent pentru care femeile aleg între cele două este efectul asupra menstruației: steriletul de cupru poate face menstruațiile mai abundente la început, în timp ce steriletul hormonal le face adesea mai ușoare. Care ți se potrivește este o discuție cu un medic; acest articol explică doar cum funcționează fiecare.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Zilele premenstruale",
+      "aliases": [
+        "SPM pentru parteneri",
+        "cum o sprijin înainte de menstruație",
+        "sprijin premenstrual",
+        "sprijin în faza luteală",
+        "e nervoasă înainte de ciclu",
+        "sindrom premenstrual partenera"
+      ],
+      "glance": "În zilele dinaintea menstruației poate fi mai obosită, mai sensibilă sau mai tristă; răspunde cu răbdare, nu cu glume.",
+      "overview": "În săptămâna de dinaintea menstruației, multe femei au simptome premenstruale: schimbări de dispoziție, iritabilitate sau tristețe, oboseală, sâni dureroși, balonare, dureri de cap sau probleme de somn. Este foarte frecvent și este real: este provocat de schimbarea hormonală naturală din faza luteală, nu de faptul că ea „exagerează”.\n\nLa un număr mai mic de femei, starea de spirit scăzută este severă (o afecțiune numită TDPM, tulburare disforică premenstruală) și merită sprijin real și îngrijire medicală. Oricum ar fi, rolul tău nu este să o diagnostichezi sau să o „repari”, ci să fii un sprijin stabil și blând.\n\nCel mai dăunător lucru pe care îl poate face un partener aici este să folosească asta ca armă: „ești doar în SPM”, datul ochilor peste cap sau tratarea sentimentelor ei ca nevalide din cauza datei din calendar. Asta o desconsideră și adaugă durere unei săptămâni grele. Sentimentele ei contează în continuare, chiar și atunci când hormonii fac parte din tablou.",
+      "deep": "Ce ajută cu adevărat în aceste zile:\n\n- **Ușurează-i povara.** Preia treburile casei, gătitul sau lista de lucruri de făcut, fără să ți se ceară.\n- **Alinare, nu corectare.** Oferă-i căldură, odihnă, o sticlă cu apă caldă, mâncarea ei preferată și las-o să simtă ce simte.\n- **Ascultă mai întâi.** Dacă e supărată, „sună foarte greu” e de fiecare dată mai bine decât „calmează-te”.\n- **Nu ține socoteala.** O zi mai grea nu este o datorie pe care ți-o plătește mai târziu.\n- **Întreab-o de ce are nevoie**: unele vor apropiere, altele vor spațiu. Ambele sunt în regulă; respectă-i răspunsul.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Sarcina gemelară și multiplă",
+      "aliases": [
+        "gemeni",
+        "sarcină gemelară",
+        "sarcină multiplă",
+        "aștept gemeni",
+        "gemeni identici",
+        "gemeni neidentici",
+        "tripleți"
+      ],
+      "glance": "O sarcină cu gemeni este descoperită de obicei la ecografia de datare și înseamnă puțin mai multă îngrijire prenatală.",
+      "overview": "Faptul că aștepți mai mult de un copil se descoperă de obicei la **ecografia de datare** (în jurul săptămânii 12), care poate arăta și dacă bebelușii împart o placentă.\n\nExistă două tipuri principale. Gemenii **identici** provin dintr-un singur ovul fecundat care se divide, așa că au aceleași gene și sunt întotdeauna de același sex. Gemenii **neidentici** provin din două ovule separate și nu seamănă mai mult decât oricare alți frați; sunt cei mai frecvenți dintre cele două tipuri și sunt ceva mai probabili la o vârstă mai înaintată, când există cazuri în familie pe linie maternă sau după un tratament de fertilitate.\n\nO sarcină cu gemeni sau mai mulți copii este o experiență aparte și înseamnă de obicei **puțin mai multă îngrijire prenatală**: consultații și ecografii suplimentare, ca să fiți urmăriți îndeaproape tu și bebelușii. Echipa de moașe îți va explica la ce să te aștepți.",
+      "deep": null,
+      "when_to_see_doctor": "- Dacă o ecografie arată gemeni (sau mai mulți), **moașa** îți va explica controalele și ecografiile suplimentare care vin cu o sarcină multiplă; să mergi la toate este cel mai bun mod de a fi bine îngrijită.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Să-i înțelegi ciclul",
+      "aliases": [
+        "ghid despre ciclu pentru parteneri",
+        "ciclul pentru parteneri",
+        "cum funcționează ciclul ei",
+        "cum o susțin pe parcursul ciclului",
+        "ciclul partenerei",
+        "fazele ciclului"
+      ],
+      "glance": "Corpul ei trece printr-un ciclu lunar cu patru faze; dacă știi elementele de bază, o poți sprijini fără să ghicești.",
+      "overview": "Ciclul menstrual este un ritm aproximativ lunar, în medie de aproximativ 28 de zile, dar adesea oriunde între 21 și 35, iar normal pentru ea este ce este regulat pentru *ea*. Are patru faze: faza **menstruală** (menstruația), faza **foliculară**, **ovulația**, cam la mijloc, și faza **luteală**, înainte de următoarea menstruație.\n\nEnergia, starea de spirit, somnul și dorința se pot schimba de-a lungul acestor faze pentru că hormonii cresc și scad: este biologie, nu un defect de caracter și nici un motiv să o tachinezi. Unele femei simt o scădere reală în zilele dinaintea menstruației; altele abia observă ceva. Nu există un singur mod „corect” de a te simți.\n\nNu trebuie să devii expert. Ce ajută cel mai mult este simplu: să știi aproximativ în ce moment al ciclului se află (aplicația aceasta ți-l poate arăta, cu permisiunea ei), să te aștepți ca unele zile să fie mai grele decât altele și să o întrebi ce îi este *ei* de ajutor, în loc să presupui.",
+      "deep": "Câteva lucruri bune de știut, ca miturile să nu umple golurile:\n\n- **„Are ciclul” nu este o insultă și nici o explicație pentru că nu ești de acord cu ea.** Să folosești ciclul ei ca să-i desconsideri sentimentele („ești doar pe hormoni”) este lipsit de respect și de obicei este greșit. Motivele ei rămân motivele ei.\n- **Ciclul afectează mai mult decât menstruația.** Crampele, durerile de cap, sânii sensibili, energia scăzută sau starea de spirit mai proastă pot face toate parte din el. Ajutorul practic e mai bun decât sfaturile.\n- **Urmărirea ciclului îi aparține ei.** Dacă îți împărtășește ciclul, privește-l ca pe o fereastră spre cum s-ar putea simți: o invitație la blândețe, niciodată un instrument ca s-o supraveghezi sau s-o controlezi.\n- **Când ai dubii, întreab-o.** „Cum te simți azi? Pot să fac ceva?” valorează mai mult decât orice grafic.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Uscăciunea vaginală",
+      "aliases": [
+        "uscăciune vaginală",
+        "uscăciune",
+        "atrofie vaginală",
+        "lipsă de lubrifiere",
+        "uscăciune la contact sexual",
+        "uscăciune vaginală menopauză"
+      ],
+      "glance": "Uscăciunea vaginală este frecventă, legată adesea de hormoni, și poate provoca iritație sau disconfort în timpul actului sexual.",
+      "overview": "Uscăciunea vaginală este o experiență frecventă, pe care multe femei o au la un moment dat. Apare atunci când umiditatea obișnuită care menține vaginul confortabil scade și se poate simți ca o iritație, mâncărime sau disconfort, inclusiv durere sau disconfort în timpul actului sexual.\n\nEste legată adesea de hormoni, mai ales de scăderea estrogenului. De aceea este frecventă în jurul menopauzei și perimenopauzei, dar poate apărea și în timpul alăptării, din cauza unor medicamente (cum ar fi anumite contraceptive sau antidepresive) ori când nu există suficientă excitare înainte de actul sexual. Nu este nimic de care să te jenezi: este ceva fizic, nu o oglindă a ta sau a relației tale.\n\nSă știi că este frecventă și, de obicei, foarte ușor de tratat este un bun punct de plecare. Există opțiuni simple care pot ajuta, iar medicul de familie sau farmacistul te pot îndruma spre ce ți se potrivește.",
+      "deep": null,
+      "when_to_see_doctor": "Mergi la medicul de familie dacă:\n\n- uscăciunea vaginală te deranjează sau nu trece după câteva săptămâni\n- îți afectează viața de zi cu zi sau viața sexuală\n- ai și secreții neobișnuite sau orice sângerare după actul sexual, între menstruații sau după menopauză\n\nNu trebuie pur și simplu să o suporți: există ajutor, iar un medic poate vedea ce se află în spatele ei și ce ar putea-o ameliora.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Sănătatea vaginului și a vulvei",
+      "aliases": [
+        "sănătate vaginală",
+        "sănătatea vulvei",
+        "igienă intimă",
+        "cum mă spăl intim",
+        "dușuri vaginale",
+        "secreții vaginale",
+        "scurgeri vaginale",
+        "miros vaginal"
+      ],
+      "glance": "Vaginul se curăță singur: are nevoie doar de o îngrijire blândă la exterior, iar secrețiile sunt normale.",
+      "overview": "Unul dintre cele mai liniștitoare lucruri de știut este că vaginul are grijă de el însuși. Se curăță singur în mod natural, iar secrețiile pe care le observi fac parte din acest proces: un lichid care îl menține curat și umed și îl ajută să se protejeze de infecții. Cantitatea și consistența lor se schimbă de-a lungul ciclului, lucru complet normal.\n\nDe aceea, vaginul nu trebuie spălat în interior. De fapt, spălarea în interiorul lui, „dușurile vaginale”, îi poate strica echilibrul natural. Exteriorul (vulva) are nevoie doar de o îngrijire blândă: apă caldă și, dacă vrei, un săpun delicat, fără parfum. E mai bine să eviți săpunurile, gelurile, deodorantele și șervețelele umede parfumate, pentru că pot provoca iritații.\n\nSă afli ce este normal pentru tine (secrețiile tale obișnuite, cum arată și cum le simți) te ajută să observi mai ușor dacă ceva se schimbă și ar putea avea nevoie de un control.",
+      "deep": null,
+      "when_to_see_doctor": "Mergi la medicul de familie sau la un cabinet de sănătate sexuală dacă observi:\n\n- o schimbare a secrețiilor: culoarea, mirosul sau consistența lor ori o cantitate mult mai mare decât de obicei\n- mâncărime, usturime sau iritație în jurul vaginului sau al vulvei\n- sângerare între menstruații sau după actul sexual\n- durere când urinezi sau durere jos, între burtă și coapse (durere pelviană)\n\nAcestea sunt frecvente și adesea se tratează ușor: o schimbare a secrețiilor poate însemna pur și simplu o infecție ușoară, cum ar fi candidoza vaginală. Un control este modul în care afli sigur, în loc să ghicești.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Ciclul și fazele lui",
+      "summary": "Cum trece ciclul tău prin faza menstruală, foliculară, ovulație și faza luteală."
+    },
+    "hormones": {
+      "title": "Hormoni",
+      "summary": "Mesagerii din spatele ciclului tău: estrogenul, progesteronul, LH și FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Fertilitate și ovulație",
+      "summary": "Fereastra fertilă, semnele ovulației și ce influențează fertilitatea."
+    },
+    "contraception": {
+      "title": "Contracepție",
+      "summary": "Cum funcționează diferitele metode, pe înțelesul tuturor."
+    },
+    "symptoms-and-signals": {
+      "title": "Simptome și semnale ale corpului",
+      "summary": "Durere, sângerări mici între menstruații, secreții, stări de spirit: ce încearcă să-ți spună corpul."
+    },
+    "conditions": {
+      "title": "Afecțiuni",
+      "summary": "Sindromul ovarelor polichistice (SOPC), endometrioza, fibroamele și altele, explicate, cu surse."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Sănătate sexuală și intimă",
+      "summary": "Starea de bine intimă, confortul și întrebările frecvente."
+    },
+    "life-stages": {
+      "title": "Etapele vieții",
+      "summary": "De la prima menstruație până la perimenopauză și menopauză."
+    },
+    "wellbeing": {
+      "title": "Starea de bine și ciclul",
+      "summary": "Cum se leagă somnul, stresul și viața de zi cu zi de ciclul tău."
+    },
+    "tests-and-exams": {
+      "title": "Teste și controale",
+      "summary": "Autoexaminarea sânilor, screeningul cancerului de col uterin, testele de ovulație și altele."
+    },
+    "pregnancy": {
+      "title": "Sarcina",
+      "summary": "Primele semne, cum să te menții sănătoasă, semnele de alarmă și pierderea sarcinii, explicate, cu surse."
+    },
+    "for-partners": {
+      "title": "Pentru parteneri",
+      "summary": "Să-i înțelegi ciclul, să o sprijini cum trebuie și să construiești o relație bazată pe respect."
+    },
+    "safety-and-support": {
+      "title": "Siguranță și sprijin",
+      "summary": "Cum recunoști abuzul, cum rămâi în siguranță și cum găsești ajutor, cu numere de urgență."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Înțelege-ți ciclul în 5 pași",
+      "summary": "O plimbare liniștită prin întregul ciclu și prin fiecare dintre cele patru faze ale lui."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Să cunoști ovulația",
+      "summary": "Ce este ovulația, fereastra fertilă și semnele pe care ți le dă corpul."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormonii din spatele ciclului tău",
+      "summary": "Cunoaște cei patru mesageri care conduc ciclul și ce face fiecare dintre ei."
+    }
+  }
+}

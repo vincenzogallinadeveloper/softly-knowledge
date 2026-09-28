@@ -1,0 +1,1470 @@
+{
+  "_meta": {
+    "lang": "cs",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohol v těhotenství",
+      "aliases": [
+        "alkohol v těhotenství",
+        "pití alkoholu v těhotenství",
+        "alkohol a těhotenství",
+        "fetální alkoholový syndrom",
+        "FAS",
+        "FASD",
+        "víno v těhotenství",
+        "pivo v těhotenství"
+      ],
+      "glance": "Nejbezpečnější je v těhotenství a při snaze otěhotnět nepít vůbec žádný alkohol.",
+      "overview": "Doporučení NHS je jasné a jednoduché: pokud jste těhotná nebo se snažíte otěhotnět, nejbezpečnější je **nepít alkohol vůbec**. Když nepijete, udržíte jakékoli riziko pro miminko na minimu.\n\nDůvodem je, že alkohol přechází z vaší krve přes placentu k miminku, jehož játra ještě nejsou dost vyvinutá, aby ho dokázala zpracovat. Pití alkoholu v těhotenství může vést k poruchám fetálního alkoholového spektra (FASD) – celé řadě celoživotních obtíží s učením, chováním a vývojem.\n\nPokud jste pila alkohol dřív, než jste věděla, že jste těhotná, snažte se netrápit: riziko pro miminko z malého množství na začátku těhotenství je pravděpodobně nízké. Pomůže prostě se od této chvíle alkoholu po zbytek těhotenství vyhýbat.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud je pro vás těžké s pitím přestat, není se za co stydět – řekněte to své porodní asistentce nebo praktickému lékaři. Nabídnou vám podporu bez odsuzování a vyhledat pomoc je dobré pro vás i pro vaše miminko.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Prenatální péče",
+      "aliases": [
+        "prenatální péče",
+        "péče v těhotenství",
+        "těhotenské prohlídky",
+        "těhotenská poradna",
+        "prohlídky u porodní asistentky",
+        "první těhotenská prohlídka",
+        "kontroly v těhotenství"
+      ],
+      "glance": "Prenatální péče jsou pravidelné prohlídky během těhotenství, které pomáhají udržet vás i miminko v dobrém zdraví.",
+      "overview": "Prenatální péče je péče, kterou dostáváte během těhotenství, aby vy i vaše miminko byli co nejzdravější. Obvykle vás bude sledovat porodní asistentka, a pokud je to potřeba, také lékař. Vyplatí se začít brzy: jakmile zjistíte, že jste těhotná, kontaktujte porodní asistentku nebo praktického lékaře.\n\nVaše první skutečná prohlídka – takzvaná vstupní prohlídka – bývá obvykle mezi 8. a 12. týdnem. Poté vám budou nabídnuty pravidelné kontroly: u prvního miminka alespoň 10 prohlídek a 2 ultrazvuková vyšetření, pokud jste už rodila, zhruba 7, přičemž ke konci těhotenství jich přibývá.\n\nPři těchto návštěvách vám porodní asistentka změří krevní tlak, zkontroluje moč, změří bříško, aby sledovala růst miminka, nabídne screeningová vyšetření a promluví si s vámi o pohybech miminka a o tom, jak se cítíte. Mnoho důležitých věcí – například preeklampsie nebo těhotenská cukrovka – se zde zachytí dřív, než byste cokoli poznala sama, a právě proto na prohlídkách tolik záleží.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontaktujte **porodní asistentku nebo praktického lékaře, jakmile zjistíte, že jste těhotná**, aby péče mohla začít včas – ideálně tak, abyste stihla první prohlídku zhruba do 10. až 12. týdne.\n- Snažte se dodržet **všechny** prenatální prohlídky, i když se cítíte úplně dobře – několik vyšetření je určeno k tomu, aby včas zachytilo problémy, které se navenek nijak neprojevují.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "Pohyby miminka",
+      "aliases": [
+        "pohyby miminka",
+        "pohyby plodu",
+        "pohyby dítěte v břiše",
+        "kopání miminka",
+        "miminko kope",
+        "méně pohybů",
+        "miminko se nehýbe"
+      ],
+      "glance": "Pohyby miminka jsou známkou, že je v pořádku – pokud se zpomalí nebo změní, ihned volejte porodní asistentce.",
+      "overview": "Cítit, jak se miminko hýbe, je jednou z uklidňujících známek, že se mu daří dobře. Většina těhotných začne pohyby cítit někdy mezi 16. a 24. týdnem těhotenství – v prvním těhotenství často později, takže napoprvé je běžné až po 20. týdnu.\n\nNeexistuje žádný stanovený počet pohybů, které byste „měla“ cítit, a není potřeba počítat kopnutí podle nějakého cíle. Každé miminko je jiné a důležité je poznat obvyklý denní rytmus **vašeho** miminka – kdy bývá aktivní a kdy je v klidu.\n\nJakmile tento rytmus znáte, všímejte si hlavně změny oproti němu. Důvěřujte tomu, co o svém miminku víte.",
+      "deep": null,
+      "when_to_see_doctor": "Když znáte normální rytmus svého miminka, můžete si všimnout změny. Pokud si někdy nejste jistá, zda se pohyby zpomalily nebo změnily, je vždy správné zavolat a nechat se zkontrolovat – nikdy tím nikoho zbytečně neobtěžujete.",
+      "red_flags": "- Pokud se vaše miminko **hýbe méně než obvykle, jeho pohyby se změní nebo je vůbec necítíte**, **okamžitě volejte porodní asistentce nebo do porodnice** – v kteroukoli denní i noční dobu. **Nečekejte do druhého dne**, ani když je uprostřed noci.\n- Nespoléhejte na domácí monitor srdeční akce (doppler) ani na aplikaci, abyste se uklidnila – nechte se vyšetřit osobně."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Bolest zad v těhotenství",
+      "aliases": [
+        "bolest zad v těhotenství",
+        "bolí mě záda v těhotenství",
+        "bolest v kříži v těhotenství",
+        "bolest beder těhotná",
+        "těhotenská bolest zad",
+        "bolest pánve v těhotenství"
+      ],
+      "glance": "Bolest zad je v těhotenství velmi častá, protože vazy měknou a bříško roste – obvykle je neškodná.",
+      "overview": "Bolest zad patří k nejčastějším průvodním jevům těhotenství. Jak se tělo připravuje na porod, vazy přirozeně měknou a natahují se a rostoucí bříško mění způsob, jakým nesete svou váhu – obojí více zatěžuje dolní část zad a pánev.\n\nUlevit mohou běžné každodenní věci: dbát na držení těla při stání, sezení a zvedání; nosit ploché boty, které dobře podpírají nohu; pevná matrace nebo podpůrný polštář; a mírný, pravidelný pohyb, jako je chůze, jóga pro těhotné nebo cvičení v kurzu. Pokud vás bolest opravdu omezuje, fyzioterapeut specializovaný na těhotenství vám může poradit na míru.\n\nVětšina bolestí zad v těhotenství není důvodem k obavám – několik projevů je ale dobré nechat bez odkladu zkontrolovat, a k tomu slouží pokyny níže.",
+      "deep": null,
+      "when_to_see_doctor": "Bez odkladu kontaktujte svého **praktického lékaře nebo porodní asistentku**, pokud bolest zad:\n\n- je **silná** nebo se objeví ve **druhém či třetím trimestru** (někdy může být známkou předčasného porodu)\n- je doprovázena **horečkou, krvácením z pochvy nebo bolestí při močení**\n- je **v boku (bocích), pod žebry**",
+      "red_flags": "- Volejte **{{emergency}} nebo jeďte na pohotovost**, pokud **ztratíte cit v nohou, hýždích nebo v oblasti genitálií**, nebo přestanete ovládat močení či stolici. Je to vzácné, ale vyžaduje to neodkladnou péči."
+    },
+    "basal-body-temperature": {
+      "title": "Bazální teplota",
+      "aliases": [
+        "bbt",
+        "bazální teplota",
+        "bazální tělesná teplota",
+        "ranní teplota",
+        "teplota po probuzení",
+        "teplotní metoda",
+        "měření bazální teploty"
+      ],
+      "glance": "Bazální teplota je vaše ranní klidová teplota, která po ovulaci mírně stoupne.",
+      "overview": "Bazální tělesná teplota (BBT) je teplota těla v úplném klidu. Pokud ji měříte každý den stejným způsobem, ukáže během cyklu malou, ale výmluvnou změnu: po ovulaci mírně stoupne a zůstane zvýšená až do další menstruace.\n\nVzestup je malý – zhruba o 0,2 až 0,4 °C (asi 0,4 až 0,8 °F) – proto se odečítá z průběhu za několik dní, ne z jednoho měření. Abyste ho zachytila, měřte si teplotu každé ráno dřív, než vstanete, budete jíst nebo pít, ideálně ve stejnou dobu. Zhruba tři dny poté, co teplota začne stoupat, už téměř u všech ovulace proběhla.\n\nProtože vzestup přichází *až po* uvolnění vajíčka, bazální teplota ovulaci spíše potvrzuje, než aby ji předem předpovídala. Během několika cyklů vám může pomoci poznat průběh vašeho vlastního cyklu, sama o sobě však není přesným způsobem, jak zachytit plodné dny.",
+      "deep": "Bazální teplota patří k příznakům, které se při metodách přirozeného plánování rodičovství zaznamenávají každý den, spolu s cervikálním hlenem a délkou cyklu. Přirozeně se doplňuje se sledováním hlenu: změna na čirý, kluzký hlen naznačuje, že se otevírá plodné okno, zatímco vzestup teploty o několik dní později potvrzuje, že ovulace proběhla. Klidovou teplotu může ovlivnit mnoho věcí – špatný spánek, nemoc, alkohol nebo delší spaní – proto na jednotlivých neobvyklých hodnotách záleží méně než na celkovém trendu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Krvácení v těhotenství",
+      "aliases": [
+        "krvácení v těhotenství",
+        "krvácení z pochvy v těhotenství",
+        "špinění v těhotenství",
+        "krvácím a jsem těhotná",
+        "krev v těhotenství",
+        "hnědý výtok v těhotenství"
+      ],
+      "glance": "Krvácení v těhotenství nemusí být vždy vážné – slabé špinění je v začátcích běžné – vždy se ale nechte vyšetřit.",
+      "overview": "Krvácení z pochvy během těhotenství nemusí vždy znamenat, že je něco v nepořádku. Zejména v raném těhotenství je slabé krvácení nebo špinění poměrně běžné a mnoho těhotenství po něm pokračuje úplně v pořádku.\n\nKrvácení ale někdy může být známkou problému – například potratu nebo mimoděložního těhotenství – proto je to něco, co je potřeba **vždy nechat zkontrolovat**, ať je ho jakkoli málo. Díky vyšetření se zjistí příčina a v případě potřeby rychle dostanete správnou péči.\n\nProtože stejný příznak může znamenat velmi odlišné věci, užitečným krokem není hádat – ale ozvat se a nechat se vyšetřit.",
+      "deep": null,
+      "when_to_see_doctor": "- **Vždy kontaktujte porodnici** (nebo, pokud jste před 20. týdnem nebo nemáte jejich číslo, ambulanci pro časné těhotenství či **lékařskou pohotovostní službu**), pokud máte v těhotenství **jakékoli** krvácení z pochvy, i slabé špinění – aby bylo možné zjistit příčinu.",
+      "red_flags": "- Volejte **{{emergency}} nebo jeďte na pohotovost**, pokud máte **silné krvácení** – například když vložka krátce po výměně úplně prosákne – zvláště pokud ho doprovází **silná bolest břicha, bolest ve špičce ramene nebo pocit na zvracení, na omdlení, závrať či ztráta vědomí.** To vyžaduje neodkladnou péči."
+    },
+    "breast-awareness": {
+      "title": "Znát svá prsa",
+      "aliases": [
+        "samovyšetření prsou",
+        "samovyšetření prsu",
+        "kontrola prsou",
+        "vyšetření prsou",
+        "bulka v prsu",
+        "hrudka v prsu",
+        "změny na prsou"
+      ],
+      "glance": "Znát svá prsa znamená jednoduše vědět, jak normálně vypadají a jaká jsou na dotek, abyste si všimla změn.",
+      "overview": "Znát svá prsa není žádná zvláštní technika – jde jen o to poznat, co je pro vás normální, aby cokoli nového vyniklo. Pravidelná kontrola prsou nebo hrudníku vám pomůže naučit se, jak obvykle vypadají a jaká jsou na dotek; dobrým rytmem je jednou za měsíc.\n\nNeexistuje jediný „správný“ způsob. Mnoho lidí se podívá do zrcadla s rukama dole a pak zdviženýma a prohmatá každý prs až do podpaží. Budujete si tím obeznámenost, ne diagnózu – cílem je jen včas si všimnout změny, pokud nějaká nastane.\n\nPrsa se také přirozeně mění během cyklu i v průběhu života, takže některé změny jsou úplně normální. Smyslem je znát svůj vlastní normál natolik dobře, abyste poznala, když něco normální není.",
+      "deep": null,
+      "when_to_see_doctor": "Navštivte praktického lékaře, pokud si všimnete jakékoli změny, která pro vás není normální, například:\n\n- bulka nebo otok v prsu, na hrudníku nebo v podpaží\n- změna kůže, například důlky (mohou připomínat pomerančovou kůru) nebo zarudnutí\n- změna velikosti nebo tvaru jednoho či obou prsou\n- výtok z bradavky (pokud nejste těhotná ani nekojíte), který může obsahovat krev\n- změna vzhledu bradavky, například její vtažení dovnitř\n- bolest v prsu nebo v podpaží, která neustupuje\n\nVětšina změn na prsou není rakovina a ukáže se, že jsou neškodné – vždy se ale vyplatí nechat změnu bez odkladu zkontrolovat, protože pokud něco pozornost vyžaduje, včasné odhalení pomáhá.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Kojení",
+      "aliases": [
+        "kojení",
+        "mateřské mléko",
+        "kojit",
+        "krmení miminka",
+        "přikládání k prsu",
+        "laktace",
+        "laktační poradkyně"
+      ],
+      "glance": "Mateřské mléko chrání miminko před infekcemi a mění se, jak roste – a přínos má jakékoli množství.",
+      "overview": "Mateřské mléko je přirozená a plnohodnotná strava pro miminko: poskytuje mu živiny, vitaminy a minerály, které potřebuje, a v průběhu času se mění podle toho, v jaké fázi vývoje je. Pomáhá také chránit před infekcemi a nemocemi a přináší i některé dlouhodobější zdravotní výhody.\n\nPřínosy má kojení i pro toho, kdo kojí – mimo jiné je spojeno s nižším rizikem rakoviny prsu a vaječníků – a obecně platí, že čím víc a déle kojíte, tím větší přínos. Důležité je, že **jakékoli** množství mateřského mléka má smysl; není to „všechno, nebo nic“.\n\nKrmení miminka také může být zpočátku těžší, než jste čekala, a to je běžné. Pomoc je k dispozici – od porodní asistentky, patronážní sestry a místních laktačních poradkyň – takže pokud to nejde hladce, je dobré ozvat se brzy.",
+      "deep": null,
+      "when_to_see_doctor": "- Požádejte **porodní asistentku nebo patronážní sestru** o pomoc včas, pokud je kojení bolestivé nebo obtížné, nebo se obáváte, že miminko nedostává dost – podpora může mít opravdu velký význam.\n- Jak budete miminko krmit, je vaše osobní rozhodnutí a podporu dostanete, ať se rozhodnete jakkoli; důležité je, abyste vy i miminko byli v pořádku.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Hnědý výtok",
+      "aliases": [
+        "hnědý výtok",
+        "hnědé špinění",
+        "hnědá krev",
+        "stará krev",
+        "tmavý výtok",
+        "hnědá menstruační krev",
+        "hnědý výtok před menstruací"
+      ],
+      "glance": "Hnědý výtok je obvykle trocha krve, často ve slabších dnech menstruace. Hnědé špinění v jiných dnech je dobré nechat zkontrolovat.",
+      "overview": "Hnědý výtok znamená malé množství nahnědlé krve nebo tekutiny, kterého si všimnete na spodním prádle nebo na toaletním papíře. Mnoho žen se s ním někdy setká a velmi často je prostě součástí menstruace.\n\nMenstruační krev není vždy jasně červená. V nejsilnějších dnech bývá červená, ve slabších dnech ale může vypadat růžově nebo hnědě. Nahnědlý nádech ve slabších dnech menstruace je tedy běžný a normální.\n\nHnědá barva se může objevit i jindy. Špinění znamená drobné skvrny růžové, červené nebo hnědé krve a špinění mezi menstruacemi má několik častých příčin. Častou příčinou je hormonální antikoncepce, například pilulka. K dalším patří drobné výrůstky v děloze nebo v jejím okolí (například polypy nebo myomy) a infekce, jako jsou chlamydie. Ve velmi raném těhotenství si některé ženy všimnou slabého špinění zhruba v době, kdy by měla přijít menstruace. Říká se mu implantační krvácení.\n\nProtože hnědé špinění mimo menstruaci může mít různé příčiny, z nichž většina je nezávažná, užitečným krokem není hádat. Je lepší nechat se vyšetřit, abyste věděla, co za ním u vás stojí.",
+      "deep": null,
+      "when_to_see_doctor": "- Navštivte praktického lékaře nebo poradnu pro sexuální zdraví, pokud máte **hnědé špinění nebo krvácení mezi menstruacemi nebo po sexu**, i když je slabé. Obvykle nejde o nic vážného, ale vždy se vyplatí nechat to zkontrolovat.\n- Pokud **jste těhotná nebo byste mohla být**, kontaktujte kvůli jakémukoli špinění, včetně hnědého, porodnici, ambulanci pro časné těhotenství nebo **lékařskou pohotovostní službu**, aby bylo možné zjistit příčinu.\n- Navštivte praktického lékaře, pokud si všimnete **jakéhokoli hnědého nebo růžového výtoku či krvácení po menopauze**, i když jde jen o malé množství nebo se to stalo jen jednou.\n- Poraďte se s praktickým lékařem, v poradně pro sexuální zdraví nebo s lékařskou pohotovostní službou, pokud výtok **změní barvu, zápach nebo konzistenci**, nebo ho doprovází svědění, bolestivost, bolest v pánvi či bolest při močení.",
+      "red_flags": "- Požádejte o **neodkladnou** návštěvu u praktického lékaře nebo kontaktujte **lékařskou pohotovostní službu**, pokud vám **nedávno vynechala menstruace a máte neobvyklé krvácení spolu s bolestí břicha nebo pánve**. Je potřeba to rychle zkontrolovat, protože to může být známka mimoděložního těhotenství.\n- Pokud jste těhotná, volejte **{{emergency}}**, jestliže krvácíte a máte **silnou bolest břicha, bolest v rameni, pocit na omdlení, závratě nebo nevolnost, nebo je krvácení silné** (vložka krátce po výměně úplně prosákne)."
+    },
+    "cervical-mucus": {
+      "title": "Cervikální hlen",
+      "aliases": [
+        "cervikální hlen",
+        "hlen",
+        "výtok",
+        "poševní výtok",
+        "vaginální výtok",
+        "hlen z děložního čípku",
+        "plodný hlen",
+        "hlen jako vaječný bílek"
+      ],
+      "glance": "Cervikální hlen je přirozený výtok, který se během cyklu mění a ukazuje vaše plodné dny.",
+      "overview": "Cervikální hlen je tekutina, kterou tvoří děložní čípek a které si můžete všimnout jako výtoku. Je normální a jeho vzhled i konzistence se během cyklu mění podle poměrně předvídatelného vzorce – proto patří k příznakům, podle kterých se rozpoznávají plodné dny.\n\nHned po menstruaci bývá několik „suchých“ dní s malým množstvím hlenu. Jak začne dozrávat vajíčko, hlenu přibývá a bývá bílý nebo nažloutlý, kalný a lepivý. Ve dnech těsně před ovulací obvykle zprůhlední, je vlhký a kluzký a mezi prsty se táhne jako syrový vaječný bílek – to je nejplodnější období. Po ovulaci se obvykle znovu stává lepivým a kalným, nebo úplně vymizí.\n\nVzorec je u každé ženy trochu jiný a naučit se ten svůj může trvat několik cyklů pozorování. Některé věci – například hormonální antikoncepce, kojení nebo infekce – mohou hlen změnit, takže není pro každou spolehlivým ukazatelem plodnosti.",
+      "deep": "Sledování cervikálního hlenu patří k příznakům, které si ženy zaznamenávají při metodách přirozeného plánování rodičovství, spolu s klidovou tělesnou teplotou a délkou cyklu; naučit se je obvykle trvá dva až tři cykly. Na rozdíl od vzestupu teploty, který ovulaci potvrdí až poté, co proběhla, se změna na čirý, kluzký hlen podobný vaječnému bílku obvykle objeví *před* ovulací – proto se používá k tomu, aby upozornila na plodné okno, když se otevírá, a ne až poté, co se uzavře.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Cervikální screening (cytologický stěr)",
+      "aliases": [
+        "cervikální screening",
+        "cytologie",
+        "stěr z čípku",
+        "cytologický stěr",
+        "pap test",
+        "screening rakoviny děložního hrdla",
+        "preventivní prohlídka u gynekologa",
+        "hpv test"
+      ],
+      "glance": "Cervikální screening je pravidelná kontrola zdraví děložního čípku, která pomáhá předcházet rakovině děložního hrdla.",
+      "overview": "Cervikální screening je vyšetření, které kontroluje zdraví děložního čípku – vstupu do dělohy v horní části pochvy. Nejde o test na rakovinu. Je to způsob, jak včas odhalit změny a pomoci zabránit tomu, aby se rakovina děložního hrdla vůbec rozvinula.\n\nNa vyšetření jsou zváni všichni, kdo mají děložní čípek, ve věku od 25 do 64 let. Pozvánka vám přijde v pravidelných intervalech, když je vyšetření na řadě, takže si nemusíte sama hlídat, kdy se objednat – i když je vždy na vás, zda půjdete.\n\nSamotné vyšetření je rychlé a provádí ho zdravotní sestra. Mnoho žen z něj bývá trochu nervózních, což je naprosto pochopitelné; když víte, k čemu slouží – je to běžná preventivní kontrola –, může to být snazší.",
+      "deep": null,
+      "when_to_see_doctor": "- Screening je určen pro dobu, kdy **nemáte** žádné příznaky. Pokud si mezi screeningy všimnete něčeho, co vás znepokojuje – například neobvyklého krvácení (mezi menstruacemi, po sexu nebo po menopauze) –, navštivte praktického lékaře a nečekejte na další pozvánku.\n- Pokud jste pozvánku dostala a nejste si jistá nebo máte z vyšetření obavy, vyplatí se promluvit si s praktickým lékařem nebo se sestrou v ordinaci, kteří vám vysvětlí, co vyšetření obnáší, a odpoví na vaše otázky.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Týrání dětí a jejich ochrana",
+      "aliases": [
+        "týrání dětí",
+        "zneužívání dětí",
+        "zanedbávání dítěte",
+        "ochrana dětí",
+        "bezpečí dětí",
+        "bojím se o dítě",
+        "OSPOD",
+        "sociálka"
+      ],
+      "glance": "Pokud máte obavy, že dítěti někdo ubližuje nebo ho zanedbává, je správné vyhledat radu – nemusíte si být jistá.",
+      "overview": "Týrání dětí – neboli špatné zacházení s dětmi – je ubližování komukoli mladšímu 18 let. Zahrnuje fyzické, sexuální a emoční týrání a zanedbávání (nenaplňování základních potřeb dítěte). Je bohužel časté, může způsobit celoživotní újmu a nikdy to není vina dítěte.\n\nMůžete mít obavy o dítě ve svém okolí nebo o dítě, kterého jste si všimla. Abyste podle svých obav jednala, nemusíte si být jistá ani mít důkazy – důvěřovat jim a požádat o radu je přesně to správné a může to dítě ochránit.\n\nA pokud jste sama jako dítě zažila týrání nebo zneužívání, vězte, že to nikdy nebyla vaše vina a že podpora je k dispozici i pro vás, v jakémkoli věku.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud máte obavy o dítě, můžete se důvěrně obrátit o radu na **orgán sociálně-právní ochrany dětí (OSPOD) / sociální odbor**, na specializovanou **linku pro ochranu dětí**, nebo na **praktického lékaře, patronážní sestru či školu dítěte**.\n- Tím, že se zeptáte, „nepřeháníte“. Je lepší to prověřit než čekat.",
+      "red_flags": "- Pokud je dítě v **bezprostředním nebezpečí** nebo vážně zraněné, kontaktujte hned tísňové služby: **112** v EU (včetně Itálie), **999** ve Spojeném království, **911** v USA a Kanadě."
+    },
+    "coercive-control": {
+      "title": "Donucující kontrola",
+      "aliases": [
+        "donucující kontrola",
+        "kontrolující chování",
+        "kontrolující partner",
+        "psychické týrání",
+        "psychické násilí",
+        "izolace",
+        "ekonomické násilí",
+        "gaslighting"
+      ],
+      "glance": "Donucující kontrola je vzorec kontrolujícího chování – izolování, sledování, vyhrožování – a je uznávanou formou násilí.",
+      "overview": "Donucující kontrola je forma násilí, která působí prostřednictvím kontroly namísto fyzického ubližování, nebo spolu s ním. Jde o vzorec – ne o jednu hádku –, v němž jeden člověk postupně omezuje svobodu druhého a jeho pocit vlastního já.\n\nMůže to vypadat tak, že jste odříznutá od přátel a rodiny, že někdo sleduje nebo omezuje váš telefon, pohyb či výdaje, že vám říká, co si máte obléct nebo jak se chovat, nebo že žijete pod neustálou kritikou, výhrůžkami či zastrašováním. Protože nemusí být vidět žádné modřiny, může být těžké to pojmenovat a ostatní si toho nemusí všimnout – je to však uznávaná forma násilí a může být stejně škodlivá jako fyzické násilí.\n\nPokud v tom něco poznáváte, neznamená to, že jste příliš citlivá nebo že jste si to způsobila sama. Kontrolující chování je volba, kterou dělá ten druhý. Pochopit, o co ve skutečnosti jde, může být prvním krokem k podpoře.",
+      "deep": "Donucující kontrola se často vyvíjí pomalu, a i proto je těžké ji rozpoznat zevnitř – drobná omezení se stanou normálem a přibývá pochybností o sobě samé. Postupně to vyčerpává duševní zdraví. Probrat to s někým, kdo je vyškolený těmto vzorcům rozumět, vám může pomoci vidět situaci jasněji a bez nátlaku promyslet, co chcete udělat dál.",
+      "when_to_see_doctor": "- Centrum proti násilí nebo linka pomoci (v Itálii **1522**) s vámi mohou důvěrně a zdarma probrat, co prožíváte, a pomoci vám pochopit, jaké máte možnosti – abyste se ozvala, nemusíte být ve fyzickém nebezpečí.\n- Podpořit vás a nasměrovat na specializované služby může také praktický lékař nebo psychologický poradce.",
+      "red_flags": "- Pokud jste v **bezprostředním nebezpečí**, kontaktujte hned tísňové služby: **112** v EU (včetně Itálie), **999** ve Spojeném království, **911** v USA a Kanadě.\n- V Itálii je linka **1522** zdarma, dostupná 24 hodin denně, anonymní a vícejazyčná – po telefonu nebo přes chat."
+    },
+    "combined-pill": {
+      "title": "Kombinovaná pilulka",
+      "aliases": [
+        "kombinovaná pilulka",
+        "antikoncepční pilulka",
+        "antikoncepce",
+        "prášky",
+        "hormonální antikoncepce",
+        "HAK",
+        "kombinovaná perorální antikoncepce"
+      ],
+      "glance": "Kombinovaná pilulka je tableta užívaná každý den se dvěma hormony, která účinkuje hlavně tím, že zastaví ovulaci.",
+      "overview": "Kombinovaná pilulka je tableta užívaná každý den, která obsahuje dva hormony – obdoby estrogenu a gestagenu, podobné těm, které tvoří vaječníky. Patří k nejznámějším formám antikoncepce.\n\nTěhotenství brání několika způsoby najednou. Především zabraňuje tomu, aby vaječníky uvolnily vajíčko (ovulace). Také zahušťuje hlen v děložním hrdle, takže jím spermie hůře proniknou, a ztenčuje děložní sliznici.\n\nJak dobře funguje, závisí na tom, zda ji užíváte podle pokynů: při dokonalém užívání je účinná na více než 99 %, ale při běžném, každodenním užívání – kdy se tableta občas vynechá nebo vezme později – je účinná přibližně na 91 %. Stejně jako většina metod nechrání před pohlavně přenosnými infekcemi, takže někteří lidé používají navíc kondom.",
+      "deep": "Kombinovaná pilulka se obvykle užívá podle určitého schématu během měsíce. Jak ji užívat, komu vyhovuje, jaké má nežádoucí účinky a rizika – to vše s vámi probere zdravotník při předepsání; není vhodná pro každou. Protože jde o metodu užívanou každý den, její skutečná účinnost do velké míry závisí na pravidelnosti. Tento článek vysvětluje, co to je a jak funguje; podrobnosti o zahájení, užívání nebo vysazení je třeba probrat s praktickým lékařem, zdravotní sestrou nebo lékárníkem.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Běžné těhotenské potíže",
+      "aliases": [
+        "běžné příznaky těhotenství",
+        "těhotenské potíže",
+        "pálení žáhy v těhotenství",
+        "bolest zad v těhotenství",
+        "oteklé kotníky",
+        "zácpa v těhotenství",
+        "hemoroidy v těhotenství",
+        "křeče v nohou v těhotenství"
+      ],
+      "glance": "Těhotenství přináší spoustu drobných bolestí a změn – většinou normálních, některé je však dobré nechat zkontrolovat.",
+      "overview": "Těhotenství znamená pro vaše tělo spoustu změn a přináší s sebou dlouhý seznam každodenních drobných potíží. Většina z nich je běžná a neznamená, že by bylo něco v nepořádku – prostě patří k tomu, že v sobě nosíte miminko.\n\nMezi ty známé patří bolest zad, pálení žáhy a zažívací potíže, zácpa, hemoroidy, oteklé kotníky, chodidla a prsty, únava a přerušovaný spánek, křeče v nohou, bolesti hlavy, pocit na omdlení a víc výtoku než obvykle. Mnohé z nich zmírní drobná opatření pro pohodlí a porodní asistentka vám poradí, co je bezpečné, pokud vás něco trápí.\n\nUžitečné je vědět, které změny jsou běžné a na které je dobré upozornit – protože několik příznaků, i když jsou méně časté, je potřeba nechat zkontrolovat, a ne jen čekat, až přejdou.",
+      "deep": null,
+      "when_to_see_doctor": "Většina z nich je normální, ale bez odkladu kontaktujte **porodní asistentku nebo porodnici**, pokud máte:\n\n- **krvácení z pochvy** nebo náhlý výron či prosakování tekutiny z pochvy\n- pocit, že se **miminko hýbe méně** než obvykle\n- **silnou bolest hlavy, potíže se zrakem nebo náhlý otok** obličeje, rukou nebo nohou (možné známky preeklampsie)\n- **silnou nebo jednostrannou bolest břicha** nebo **horečku**\n- **svědění**, zejména na dlaních a chodidlech, nebo takové, které se v noci zhoršuje (může být známkou onemocnění jater v těhotenství, které je potřeba vyšetřit)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Kondomy",
+      "aliases": [
+        "kondom",
+        "kondomy",
+        "prezervativ",
+        "guma",
+        "gumy",
+        "bariérová metoda",
+        "ženský kondom"
+      ],
+      "glance": "Kondomy jsou bariérovou metodou – a jediným druhem antikoncepce, který chrání i před pohlavně přenosnými infekcemi.",
+      "overview": "Kondom je tenká bariéra – obvykle z latexu, nebo z plastové alternativy pro ty, kdo mají alergii na latex –, která se při sexu nasazuje na penis. Funguje jednoduše: brání spermiím proniknout do pochvy.\n\nMezi antikoncepčními metodami jsou kondomy výjimečné tím, že jsou **jedinou metodou, která chrání také před pohlavně přenosnými infekcemi (STI), včetně HIV.** Proto se často používají spolu s jinou metodou – jedna chrání před otěhotněním a obě dohromady před infekcí.\n\nPokud se kondomy pokaždé použijí správně, jsou účinné asi na 98 % v prevenci těhotenství. Při běžném používání – kdy se někdy použijí nesprávně nebo ne pokaždé – účinnost klesá zhruba na 82 %. Rozdíl dělá správné a důsledné používání.",
+      "deep": "Protože se kondomy používají přímo v danou chvíli, a ne předem, jejich skutečná účinnost do velké míry závisí na důsledném a správném používání. Další bariérovou možností jsou vnitřní (ženské) kondomy, které se zavádějí do pochvy. Na rozdíl od většiny metod nepotřebují kondomy předpis a jsou snadno dostupné; a jejich dvojí role – ochrana před otěhotněním i před pohlavně přenosnými infekcemi – je důvodem, proč se o nich tak často mluví v souvislosti s bezpečnějším sexem.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Souhlas a respekt",
+      "aliases": [
+        "souhlas",
+        "souhlas se sexem",
+        "respektovat její hranice",
+        "nadšený souhlas",
+        "tělesná autonomie",
+        "ne znamená ne",
+        "hranice ve vztahu"
+      ],
+      "glance": "Souhlas je jasné, svobodné a nadšené ano – pokaždé, a může být kdykoli odvolán.",
+      "overview": "Respekt začíná jejím právem rozhodovat o vlastním těle – vždy. Souhlas s intimitou znamená svobodně vyslovené, informované a nadšené **ano**. Mlčení není souhlas. Neochotné „tak jo“ není souhlas. Kdo spí, je hodně opilý nebo je pod tlakem, nemůže skutečně souhlasit. A ano k jedné věci nebo v jeden den neznamená ano ke všemu ani příště.\n\nSouhlas lze kdykoli odvolat a „přestaň“ nebo „dnes ne“ je úplná odpověď, která nepotřebuje žádné zdůvodnění. Nátlak, vyvolávání pocitu viny, trucování, dokud neustoupí, nebo chápání sexu jako něčeho, na co máte nárok, nejsou v pořádku – vztah není dluh.",
+      "deep": "Jak respekt vypadá v praxi:\n\n- **Ptejte se a průběžně si ověřujte.** „Je to v pořádku?“ – a všímejte si, jak reaguje, slovy i tělem.\n- **Přijměte „ne“ s grácií.** Žádné trucování, nátlak ani trestání. Její odpověď je konečná.\n- **Na nadšení záleží.** Pokud se zdá nejistá, váhá nebo jen přitakává, přestaňte a zeptejte se.\n- **Její tělo, její rozhodnutí** – o intimitě, antikoncepci, těhotenství, jejím zdraví, vzhledu i jejích volbách. Ve vašem společném životě máte hlas, nikdy ale právo veta nad jejím tělem.\n- **Respekt je každodenní.** Jak s ní mluvíte, jak o ní mluvíte a jak respektujete její hranice v maličkostech – to je základ, na kterém stojí všechno ostatní.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Antikoncepce",
+      "aliases": [
+        "antikoncepce",
+        "ochrana před otěhotněním",
+        "plánování rodičovství",
+        "jak neotěhotnět",
+        "druhy antikoncepce",
+        "metody antikoncepce"
+      ],
+      "glance": "Antikoncepce zahrnuje různé způsoby, jak zabránit otěhotnění – a je z čeho vybírat.",
+      "overview": "Antikoncepce – někdy se jí říká ochrana před otěhotněním – je soubor metod, které slouží k zabránění těhotenství. Je jich mnoho a fungují různě: některé využívají hormony, jiné jsou bariérové, některé se zavádějí do dělohy a jiné jsou založené na sledování cyklu.\n\nJak dobře metoda funguje, velmi záleží na tom, jak se používá. Některé metody – jako implantát a nitroděložní tělíska – jsou typu „zavést a zapomenout“ a jsou účinné na více než 99 %. Jiné, jako pilulka nebo kondomy, jsou při dokonalém používání velmi účinné, ale při běžném každodenním používání o něco méně, protože je snazší zapomenout na pilulku nebo použít kondom nesprávně.\n\nJedna věc, kterou je dobré vědět: **jen kondomy chrání také před pohlavně přenosnými infekcemi (STI)**. Ostatní metody brání otěhotnění, ale ne infekci, a proto se kondomy někdy používají spolu s jinou metodou.\n\nNeexistuje jediná „nejlepší“ metoda – ta správná závisí na vašem zdraví, vašem těle a na tom, co vyhovuje vašemu životu. Praktický lékař nebo poradna pro sexuální zdraví s vámi mohou možnosti probrat a pomoci vám vybrat.",
+      "deep": "Protože se metody tolik liší, pomáhá zamyslet se nad tím, na čem vám záleží: jak je metoda účinná, zda vyžaduje, abyste si na něco každý den vzpomněla, jak dlouho vydrží, zda chcete hormony, nebo ne, a zda je ve vaší situaci důležitá ochrana před pohlavně přenosnými infekcemi. Mnoho žen během života metodu mění, jak se mění jejich potřeby. Tato znalostní databáze popisuje, jak běžné metody fungují, aby byla volba přehlednější – rozhodnutí a případný předpis nebo zavedení je ale potřeba udělat společně se zdravotníkem.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Antikoncepce a hmotnost",
+      "aliases": [
+        "přibírání z antikoncepce",
+        "tloustne se z prášků",
+        "pilulka a přibírání na váze",
+        "antikoncepce a váha",
+        "přibrala jsem z antikoncepce",
+        "antikoncepční injekce přibírání",
+        "implantát přibírání"
+      ],
+      "glance": "Neexistují důkazy, že by kombinovaná pilulka způsobovala přibírání na váze, antikoncepční injekce ale může. Záleží na metodě.",
+      "overview": "Otázka, zda po antikoncepci přiberete, je velmi častá. Upřímná odpověď zní, že záleží na metodě.\n\nU kombinované pilulky jsou důkazy uklidňující: neexistují důkazy, že by její užívání vedlo k přibírání na váze. Totéž platí pro antikoncepční náplast a vaginální kroužek.\n\nAntikoncepční injekce je jiný případ. Přibírání na váze je uváděno jako jeden z jejích častých nežádoucích účinků, spolu se změnami menstruace.\n\nU pilulky obsahující pouze gestagen (někdy se jí říká minipilulka) a u antikoncepčního implantátu někteří lidé uvádějí, že přibrali. Není však dost důkazů, abychom mohli říct, zda je příčinou samotná metoda.\n\nHmotnost je jen jednou částí celkového obrazu. Každá metoda má svůj vlastní seznam možných nežádoucích účinků a rizik a volba antikoncepce je o tom najít to, co vyhovuje vašemu tělu, zdraví a životu. Lékárník, praktický lékař, zdravotní sestra nebo poradna pro sexuální zdraví s vámi mohou možnosti projít.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud jsou pro vás nežádoucí účinky, včetně změn hmotnosti, problémem, promluvte si s lékárníkem, praktickým lékařem, zdravotní sestrou nebo v poradně pro sexuální zdraví. U kombinované pilulky, náplasti nebo kroužku se některé nežádoucí účinky mohou objevit na začátku užívání. Pokud vás trápí i zhruba po 3 měsících, zdravotník s vámi může probrat jinou pilulku nebo jiný typ antikoncepce.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "Antikoncepční implantát",
+      "aliases": [
+        "antikoncepční implantát",
+        "implantát",
+        "tyčinka v paži",
+        "implantát do ruky",
+        "podkožní antikoncepce",
+        "Nexplanon"
+      ],
+      "glance": "Implantát je malá tyčinka zavedená do paže, která po několik let uvolňuje hormon.",
+      "overview": "Antikoncepční implantát je malá ohebná tyčinka – zhruba velikosti sirky –, kterou vyškolený zdravotník zavede těsně pod kůži v horní části paže. Po zavedení postupně uvolňuje hormon gestagen a účinkuje až zhruba tři roky.\n\nTěhotenství brání hlavně tím, že zabraňuje vaječníkům uvolnit vajíčko (ovulace), a tím, že zahušťuje hlen v děložním hrdle, takže jím spermie neproniknou. Protože si nemusíte nic každý den pamatovat, patří k metodám typu „zavést a zapomenout“.\n\nProto je také jednou z nejspolehlivějších možností: implantát je účinný na více než 99 % a jeho účinnost se mezi dokonalým a běžným používáním téměř neliší. Stejně jako jiné hormonální metody nechrání před pohlavně přenosnými infekcemi.",
+      "deep": "Implantát je dlouhodobě působící vratná metoda – účinkuje, dokud se nevyjme, a po vyjmutí se plodnost vrací. Zavedení i vyjmutí jsou rychlé zákroky, které provádí zdravotník; ten s vámi také probere, komu implantát vyhovuje a jaké má nežádoucí účinky. Tento článek vysvětluje, co to je a jak funguje; rozhodnutí o jeho zavedení je potřeba probrat s praktickým lékařem, zdravotní sestrou nebo v poradně pro sexuální zdraví.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "Váš cyklus a vaše pohoda",
+      "aliases": [
+        "pohoda",
+        "cyklus a zdraví",
+        "menstruační cyklus a zdraví",
+        "životní funkce",
+        "nepravidelný cyklus",
+        "menstruace a váha"
+      ],
+      "glance": "Váš cyklus je tak trochu jako měsíční kontrola vašeho zdraví – jeho změny mohou stát za pozornost.",
+      "overview": "Váš menstruační cyklus není oddělený od zbytku vašeho zdraví – je s ním propojený. Cyklus, který je u vás pravidelný, je obecně známkou, že tělo funguje, jak má. Proto někteří lidé vnímají menstruaci jako jakýsi měsíční signál o celkové pohodě.\n\nRoli v tom hraje každodenní život. Příkladem je tělesná hmotnost: výrazná podváha nebo nadváha může ovlivnit hormony, které řídí ovulaci, a menstruace pak může být nepravidelná. Funguje to oběma směry – péče o základy, jako je vyvážené stravování a pohyb, podporuje cyklus a stabilní cyklus je známkou, že tyto věci jsou v rozumné rovnováze.\n\nNejde o to honit se za „dokonalým“ cyklem ani si vyčítat změny. Jde jen o to, že jemná pozornost k vlastnímu cyklu může být užitečným oknem do toho, jak se vám daří – a podnětem obrátit se na zdravotníka, pokud se něco změní.",
+      "deep": null,
+      "when_to_see_doctor": "- Navštivte praktického lékaře, pokud se vaše menstruace stane nepravidelnou, přestane nebo se změní způsobem, který pro vás není obvyklý – přetrvávající změny mohou někdy ukazovat na něco, co stojí za to prověřit.\n- Promluvit si o tom se vyplatí i tehdy, když problémy s menstruací ovlivňují váš každodenní život – abyste dostala podporu a nemusela je jen snášet.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Ekonomické násilí",
+      "aliases": [
+        "ekonomické násilí",
+        "finanční zneužívání",
+        "kontrola peněz",
+        "kontrola financí",
+        "partner mi bere peníze",
+        "dluhy na moje jméno",
+        "finanční kontrola"
+      ],
+      "glance": "Ekonomické násilí je ovládání přístupu druhého člověka k penězům, práci nebo zdrojům – uznávaná forma násilí.",
+      "overview": "Ekonomické násilí je situace, kdy někdo ovládá přístup jiného člověka k penězům a k tomu, co se za peníze kupuje. Je to forma kontrolujícího chování a často se vyskytuje spolu s jinými druhy násilí.\n\nMůže to vypadat tak, že někdo kontroluje veškeré výdaje nebo po vás chce vyúčtovat každou korunu, bere vám mzdu nebo dávky, zadlužuje se na vaše jméno, zatajuje před vámi bankovní účty nebo doklady, nebo vám brání pracovat či studovat. Protože člověk pak nemusí mít prostředky na to, aby odešel nebo zvládal běžný den, je to jeden ze způsobů, jak se násilí může stát pastí.\n\nPokud je vám něco z toho povědomé, neznamená to, že „neumíte s penězi“ nebo že je to vaše vina. Ovládat zdroje druhého člověka je volba, kterou dělá ten druhý – a je to uznávaná forma násilí.",
+      "deep": null,
+      "when_to_see_doctor": "- Služby pro oběti násilí mohou pomoci i s tímto – nejen s bezpečím, ale i s praktickými a finančními kroky, důvěrně a zdarma (v Itálii vás linka **1522** nasměruje na místní pomoc).\n- Bezpečnostní plán může zahrnovat nenápadné zajištění přístupu k nějakým penězům, důležitým dokladům a důležitým telefonním číslům.",
+      "red_flags": "- Pokud jste v **bezprostředním nebezpečí**, kontaktujte hned tísňové služby: **112** v EU (včetně Itálie), **999** ve Spojeném království, **911** v USA a Kanadě.\n- V Itálii vám linka **1522** – zdarma, 24 hodin denně, anonymní a vícejazyčná – může pomoci po telefonu nebo přes chat."
+    },
+    "ectopic-pregnancy": {
+      "title": "Mimoděložní těhotenství",
+      "aliases": [
+        "mimoděložní těhotenství",
+        "mimoděložní",
+        "těhotenství ve vejcovodu",
+        "ektopické těhotenství",
+        "extrauterinní gravidita",
+        "EUG"
+      ],
+      "glance": "Mimoděložní těhotenství se vyvíjí mimo dělohu – nemůže pokračovat a vyžaduje rychlou lékařskou péči.",
+      "overview": "Mimoděložní těhotenství vzniká, když se oplozené vajíčko uhnízdí mimo dělohu, nejčastěji v jednom z vejcovodů. Bohužel se těhotenství v tomto místě nemůže vyvinout v miminko a nelze ho přesunout do dělohy – proto vždy vyžaduje léčbu.\n\nPříznaky se obvykle objeví zhruba mezi 4. a 12. týdnem a mohou zahrnovat bolest v podbřišku na jedné straně, krvácení z pochvy nebo hnědý vodnatý výtok, bolest ve špičce ramene nebo nepříjemné pocity při močení či vyprazdňování. Kombinace příznaků se liší a některé lze snadno zaměnit za něco nezávažného, proto je důležité nechat je zkontrolovat.\n\nJe to neobvyklá, ale potenciálně vážná situace, takže to není nic, s čím byste měla čekat. Když se poradíte včas, lze o vás bezpečně pečovat.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontaktujte praktického lékaře nebo **lékařskou pohotovostní službu**, pokud máte kombinaci těchto příznaků **a mohla byste být těhotná** – i když jste neměla pozitivní těhotenský test. Je důležité poradit se okamžitě.",
+      "red_flags": "- Volejte **{{emergency}} nebo jeďte na pohotovost**, pokud máte **náhlou, ostrou a intenzivní bolest břicha**, máte **silné závratě nebo pocit na omdlení**, jste **velmi bledá** nebo se k tomu přidává nevolnost. Může to znamenat, že vejcovod praskl – jde o náhlou příhodu, která vyžaduje neodkladnou léčbu."
+    },
+    "emergency-contraception": {
+      "title": "Nouzová antikoncepce",
+      "aliases": [
+        "nouzová antikoncepce",
+        "postkoitální antikoncepce",
+        "pilulka po",
+        "tabletka po",
+        "prášek po",
+        "ellaOne",
+        "Escapelle"
+      ],
+      "glance": "Nouzová antikoncepce může zabránit otěhotnění po nechráněném sexu – a čím dřív, tím lépe.",
+      "overview": "Nouzová antikoncepce je způsob, jak zabránit otěhotnění po sexu bez antikoncepce nebo tehdy, když vaše obvyklá metoda mohla selhat (vynechaná pilulka, prasklý kondom). Existují dva druhy a u obou záleží na načasování.\n\nPrvním je **nouzová pilulka** („pilulka po“). Existují dva typy: jeden (levonorgestrel) lze užít do 3 dnů – 72 hodin – po sexu, druhý (ulipristal acetát, obchodní název ellaOne) do 5 dnů – 120 hodin. Druhou možností je **měděné nitroděložní tělísko (IUD)**, které zdravotník může zavést do 5 dnů po sexu; je to nejúčinnější forma nouzové antikoncepce a pokud chcete, může pak zůstat zavedené jako průběžná antikoncepce.\n\nU všech těchto metod platí, že **čím dřív je použijete, tím lépe obvykle fungují** – proto se vyplatí jednat rychle a nečekat. Nouzovou antikoncepci můžete získat v lékárně, u praktického lékaře, v poradně pro sexuální zdraví nebo v ambulanci bez objednání, často zdarma.",
+      "deep": null,
+      "when_to_see_doctor": "- Protože záleží na čase, nečekejte – lékárník vám nouzovou pilulku může vydat rychle a v poradně pro sexuální zdraví nebo u praktického lékaře vám mohou zavést nitroděložní tělísko.\n- Nouzová antikoncepce slouží k zabránění otěhotnění, ne infekci. Pokud existuje jakákoli možnost pohlavně přenosné infekce, v poradně pro sexuální zdraví vám poradí ohledně testů.\n- Pokud se vám pak menstruace opozdí o víc než pár dní nebo bude velmi odlišná od obvyklé, vyplatí se udělat si těhotenský test a promluvit si se zdravotníkem.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometrióza",
+      "aliases": [
+        "endometrióza",
+        "endometrioza",
+        "endo",
+        "ložiska endometriózy",
+        "bolestivá menstruace",
+        "bolest při sexu"
+      ],
+      "glance": "Endometrióza je onemocnění, při kterém tkáň podobná děložní sliznici roste mimo dělohu a často způsobuje bolest.",
+      "overview": "Endometrióza je dlouhodobé onemocnění, při kterém buňky podobné výstelce dělohy rostou v jiných částech těla, například v okolí vaječníků, v pánvi nebo na střevě. Je častá – odhaduje se, že celosvětově postihuje zhruba 1 z 10 žen v reprodukčním věku.\n\nProtože se tato tkáň chová trochu jako děložní sliznice, může způsobovat zánět a časem i jizvy. Nejčastějším příznakem je bolest: často silná menstruační bolest, ale také bolest v pánvi nebo v kříži v jiných dnech, bolest při sexu nebo po něm a bolest při močení nebo vyprazdňování. Časté jsou také velmi silné menstruace, hluboká únava, skleslá nálada a potíže s otěhotněním. Příznaky se velmi liší – některé ženy mají silné bolesti, jiné jen malé.\n\nEndometrióza je často nepochopená a její rozpoznání může trvat roky, mimo jiné proto, že menstruační bolest bývá tak často odbyta jako „normální“. Silná bolest, která vám narušuje život, není něco, co musíte prostě snášet – stojí za to ji brát vážně.",
+      "deep": "Přesná příčina endometriózy není známa a v současnosti neexistuje způsob, jak ji vyléčit – léčba ale může pomoci zvládat příznaky a podpora sahá od léků až po, u některých žen, operaci, spolu s pomocí při fyzické a emoční zátěži. Jednou z největších potíží je zdržení: stanovení diagnózy může v průměru trvat několik let, někdy i mnoho let. I proto může tolik záležet na tom, abyste si vedla jasné záznamy o svých příznacích a vrátila se ke zdravotníkovi, pokud vám nenaslouchá.",
+      "when_to_see_doctor": "Navštivte praktického lékaře, pokud:\n\n- máte silnou menstruační bolest, která vám brání v běžných činnostech\n- máte velmi silnou menstruaci – například potřebujete měnit vložku nebo tampon každé 1–2 hodiny\n- máte přetrvávající bolest v pánvi nebo v kříži, bolest při sexu nebo po něm, nebo bolest při močení či vyprazdňování\n- nedaří se vám otěhotnět\n- léčba, kterou jste už podstoupila, nepomohla, nebo se vaše příznaky zhoršily\n\nProtože stanovení diagnózy endometriózy může trvat, je v pořádku vrátit se, pokud vaše příznaky nejsou brány vážně – pomůže jasný přehled o vaší bolesti v průběhu času. Pokud bolest nebo silné krvácení ovlivňují i vaši náladu, řekněte to praktickému lékaři; i to patří k celkovému obrazu a podpora je k dispozici.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Estrogen",
+      "aliases": [
+        "estrogen",
+        "estrogeny",
+        "oestrogen",
+        "estradiol",
+        "ženské hormony"
+      ],
+      "glance": "Estrogen je klíčový hormon, který v každém cyklu pomáhá připravit tělo na možné těhotenství.",
+      "overview": "Estrogen je jedním z hlavních hormonů, které řídí menstruační cyklus. V první polovině cyklu (folikulární fázi) jeho hladina stoupá, jak ve vaječníku dozrává folikul. Tento vzestup zesiluje děložní sliznici a vede k ovulaci.\n\nEstrogen ovlivňuje také věci, kterých si můžete všimnout v každodenním životě – energii, náladu a změny cervikálního hlenu kolem plodných dnů. Po ovulaci jeho hladina klesne a pak se znovu změní, přičemž v druhé polovině cyklu spolupracuje s dalším hormonem, progesteronem.\n\nHladiny v každém cyklu přirozeně stoupají a klesají a mění se také v různých životních etapách. To je normální – je to rytmus, podle kterého vaše tělo funguje, ne něco, co je potřeba „opravovat“.",
+      "deep": "Estrogen není jediná látka, ale skupina příbuzných hormonů (v cyklu je nejaktivnější estradiol). Většinu ho tvoří vaječníky, v rostoucím folikulu. Jeho cyklické stoupání a klesání – spolu s progesteronem a signálními hormony mozku LH a FSH – je tím, co pohání jednotlivé fáze cyklu. Protože estrogen ovlivňuje mnoho systémů v těle, jeho přirozené výkyvy se mohou během měsíce projevovat drobnými způsoby; sledování vám pomůže poznat váš vlastní vzorec, místo abyste ho srovnávala s nějakým „průměrem“.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Pohyb a váš cyklus",
+      "aliases": [
+        "cvičení",
+        "pohyb",
+        "fyzická aktivita",
+        "sport",
+        "cvičení při menstruaci",
+        "sport a menstruace",
+        "cvičení a cyklus"
+      ],
+      "glance": "Aktivní můžete být během celého cyklu – a pravidelný pohyb může zmírnit křeče i PMS.",
+      "overview": "Fyzicky aktivní můžete být v kterékoli fázi cyklu. Někteří lidé zjišťují, že v určitých dnech měsíce mají víc energie a mohou trochu přidat, a v jiných méně – obojí je normální a ani jedno není důvod přestat se hýbat.\n\nPravidelná aktivita může dokonce pomoci s některými příznaky spojenými s menstruací. Ženy, které pravidelně cvičí, mívají méně bolestivých křečí a pohyb může zmírnit i příznaky předmenstruačního syndromu (PMS). Ve dnech s menší energií se počítá i jemnější pohyb – nemusí být intenzivní, aby měl smysl.\n\nNení potřeba plánovat celý život podle cyklu a neexistuje jediný „správný“ způsob pohybu. Když si všimnete, jak se vaše energie během měsíce mění, může vám to prostě pomoci plánovat tak, aby vám bylo dobře.",
+      "deep": null,
+      "when_to_see_doctor": "- Velmi náročný trénink nebo tolik cvičení, že tělu začne docházet energie, může způsobit, že menstruace bude nepravidelná nebo úplně přestane. Pravidelný cyklus je obecně známkou, že vše funguje dobře, proto se vyplatí promluvit si s praktickým lékařem, pokud se vaše menstruace stane nepravidelnou nebo přestane – v průběhu času to může souviset se zdravím kostí a hormonů.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Pohyb v těhotenství",
+      "aliases": [
+        "cvičení v těhotenství",
+        "pohyb v těhotenství",
+        "sport v těhotenství",
+        "těhotenské cvičení",
+        "jóga pro těhotné",
+        "plavání v těhotenství",
+        "můžu cvičit těhotná"
+      ],
+      "glance": "Pohyb je ve většině těhotenství bezpečný a prospěšný – s mírou, bez vyčerpání.",
+      "overview": "Zůstat v těhotenství aktivní vám prospívá a pro miminko to není nebezpečné – naopak, dobrá kondice vám může pomoci zvládnout změny, které vás čekají, i samotný porod. Nemusíte začínat s ničím náročným; dobrým výchozím bodem je pokračovat v běžných každodenních činnostech, pokud jsou vám příjemné.\n\nJednoduché pravidlo: při pohybu byste měla být schopná **vést rozhovor**. Pokud jste příliš zadýchaná na to, abyste mohla mluvit, zpomalte. Většině žen vyhovují mírné aktivity, jako je chůze, plavání, cvičení ve vodě pro těhotné a jóga pro těhotné. Pokud jste předtím aktivní nebyla, teď není vhodná doba začínat s novým náročným režimem – přidávejte raději postupně.\n\nNěkterým aktivitám je lepší se vyhnout nebo k nim přistupovat opatrně – například ležení na zádech zhruba po 16. týdnu, kontaktním sportům, potápění s přístrojem a všemu, u čeho hrozí skutečné riziko pádu.",
+      "deep": null,
+      "when_to_see_doctor": "- Než začnete s novým aerobním cvičebním programem, nebo pokud máte nějaké zdravotní potíže či obavy týkající se těhotenství, poraďte se s **porodní asistentkou**.\n- **Přestaňte a poraďte se**, pokud se při cvičení necítíte dobře, máte závrať nebo jste velmi zadýchaná, nebo pokud máte jakoukoli bolest, krvácení či stahy.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "Plodné okno",
+      "aliases": [
+        "plodné okno",
+        "plodné dny",
+        "nejplodnější dny",
+        "plodné období",
+        "kdy můžu otěhotnět",
+        "neplodné dny"
+      ],
+      "glance": "Plodné okno je několik dní v každém cyklu, kdy může sex vést k otěhotnění.",
+      "overview": "Plodné okno je krátký úsek cyklu, kdy je možné otěhotnět. Existuje proto, že se dvě časová období úplně nepřekrývají: vajíčko lze oplodnit jen asi 12 až 24 hodin po jeho uvolnění, spermie ale mohou v těle přežít několik dní – až zhruba týden – a čekat na vajíčko.\n\nDohromady to znamená, že se okno otevírá několik dní před ovulací a zavírá se zhruba den po ní. V praxi jste nejplodnější 2 až 3 dny před ovulací a v den ovulace, protože spermie už mohou být na místě, když vajíčko dorazí.\n\nProtože se ovulace může cyklus od cyklu posouvat, posouvá se i plodné okno. Proto se o něm obvykle uvažuje jako o rozmezí dní, a ne o jednom datu, a proto je sledování příznaků během několika cyklů spolehlivější než spoléhat na jeden kalendářní výpočet.",
+      "deep": "Přesné dny se liší od člověka k člověku i od měsíce k měsíci, proto je nejlepší odhadovat okno podle vlastních signálů těla, a ne podle pevného vzorce. Změny cervikálního hlenu ukazují, že se okno s blížící se ovulací otevírá, a vzestup klidové tělesné teploty dodatečně potvrzuje, že ovulace proběhla a okno se zavřelo. Ovulační testy fungují o krok dřív – zachycují vzestup luteinizačního hormonu (LH), který přichází krátce před uvolněním vajíčka.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Začátek menstruace (první menstruace)",
+      "aliases": [
+        "první menstruace",
+        "první mens",
+        "menarche",
+        "první krvácení",
+        "první perioda",
+        "začátek menstruace",
+        "kdy dostanu menstruaci"
+      ],
+      "glance": "První menstruace obvykle přichází kolem 12 let – normální je cokoli zhruba mezi 8 a 17 lety.",
+      "overview": "První menstruace – někdy se jí říká menarche – je chvíle, kdy menstruační cyklus začíná poprvé. Většina dívek začne menstruovat kolem 12 let, ale normální je cokoli zhruba mezi 8 a 17 lety. Často přichází přibližně dva roky poté, co se začnou vyvíjet prsa.\n\nPředtím se obvykle objevují známky: začnou růst chloupky v podpaží a na ohanbí a v měsících předtím se objevuje trochu čirého nebo bílého výtoku. Když víte, že tyto věci přijdou, nemusí vás první menstruace tolik zaskočit.\n\nNa začátku bývá menstruace často nepravidelná – přestávky mohou být dlouhé i krátké a tělu může trvat několik měsíců, dokonce i pár let, než se ustálí v pravidelnějším rytmu. Jakmile se to stane, menstruace obvykle přichází zhruba každých 23 až 35 dní a trvá asi 2 až 7 dní. Počáteční nepravidelnost je normální a není důvod se jí obávat.",
+      "deep": null,
+      "when_to_see_doctor": "- Navštivte praktického lékaře, pokud menstruace **nezačala do 15 let**, nebo do **13 let, pokud se neobjevují žádné jiné známky puberty** (například vývoj prsou nebo ochlupení). Jde jen o kontrolu, že vývoj probíhá podle očekávání – obvykle je všechno v pořádku.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Kyselina listová a vitaminy v těhotenství",
+      "aliases": [
+        "kyselina listová",
+        "folát",
+        "vitamin D v těhotenství",
+        "vitaminy v těhotenství",
+        "těhotenské vitaminy",
+        "doplňky stravy v těhotenství",
+        "folacin"
+      ],
+      "glance": "Kyselina listová před těhotenstvím a na jeho začátku pomáhá chránit miminko – a k tomu každý den vitamin D.",
+      "overview": "V těhotenství jsou opravdu důležité dva doplňky stravy a NHS doporučuje oba.\n\n**Kyselina listová** je ten hlavní. Užívání doplňku se 400 mikrogramy každý den – ideálně už před početím (zhruba tři měsíce předem) a až do konce prvního trimestru, tedy do 12. týdne – pomáhá chránit miminko před vadami neurální trubice, jako je rozštěp páteře. Protože působí tak brzy, patří k těm několika věcem, se kterými se vyplatí začít *ještě před* těhotenstvím, pokud se o miminko snažíte.\n\nTím druhým je **vitamin D**: doplněk s 10 mikrogramy denně se doporučuje po celé těhotenství a během kojení, na podporu kostí a vývoje miminka.\n\nKromě těchto dvou pokryje většinu potřeb zdravá a pestrá strava – nepotřebujete spoustu dalších doplňků. Jeden, kterému je lepší se vyhnout, je **vitamin A** (retinol): neužívejte doplňky, které ho obsahují, a vyhýbejte se játrům, protože příliš mnoho vitaminu A může miminku uškodit.",
+      "deep": null,
+      "when_to_see_doctor": "- **Praktický lékař, porodní asistentka nebo lékárník** vám pomohou vybrat správné doplňky a některým ženám se doporučuje **vyšší dávka kyseliny listové** (například při cukrovce, vyšším BMI, užívání některých léků nebo po předchozím těhotenství, ve kterém se vyskytla vada neurální trubice) – proto se vyplatí zeptat, zvláště před těhotenstvím nebo na jeho začátku.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Folikulární fáze",
+      "aliases": [
+        "folikulární fáze",
+        "první polovina cyklu",
+        "proliferační fáze",
+        "fáze po menstruaci",
+        "dozrávání vajíčka"
+      ],
+      "glance": "Folikulární fáze je první polovina cyklu, kdy dozrává vajíčko a zesiluje se děložní sliznice.",
+      "overview": "Folikulární fáze je první část cyklu. Začíná prvním dnem menstruace a trvá až do ovulace. Její název pochází od folikulu – malého váčku naplněného tekutinou ve vaječníku, ve kterém v této době roste a dozrává vajíčko.\n\nBěhem této fáze stoupá hladina hormonu estrogenu. Stoupající estrogen má dva hlavní úkoly: pomáhá dozrát folikulu ve vaječníku a zesiluje sliznici dělohy, čímž připravuje tělo pro případ, že by později v cyklu začalo těhotenství.\n\nProtože estrogen stoupá, někteří lidé si s blížícími se plodnými dny všimnou víc energie nebo změn cervikálního hlenu. Každá žena to prožívá jinak a nic z toho není potřeba „řídit“ – je to prostě první polovina vašeho cyklu, která dělá svou práci.",
+      "deep": "Délka folikulární fáze se může cyklus od cyklu lišit, a i proto se celé cykly liší od člověka k člověku i od měsíce k měsíci. Končí, když stoupající estrogen pomůže spustit uvolnění vajíčka (ovulaci). Protože její poslední dny vedou k ovulaci, v této době se otevírá plodné okno – proto je konec folikulární fáze důležitý pro každého, kdo sleduje plodnost.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Potraviny, kterým se v těhotenství vyhnout",
+      "aliases": [
+        "co nejíst v těhotenství",
+        "zakázané potraviny v těhotenství",
+        "strava v těhotenství",
+        "kofein v těhotenství",
+        "káva v těhotenství",
+        "listerie",
+        "sýry v těhotenství",
+        "sushi v těhotenství"
+      ],
+      "glance": "Většina potravin je v těhotenství v pořádku – několika je dobré se vyhnout a pomáhá omezit kofein.",
+      "overview": "Dobrá zpráva je, že většina potravin je v těhotenství naprosto v pořádku – jen několika málo je lepší se vyhnout nebo s nimi být opatrná, hlavně kvůli bakteriím, jako jsou listerie, nebo kvůli příliš velkému množství některých vitaminů. Když znáte ten krátký seznam, můžete být u všeho ostatního v klidu.\n\nNHS doporučuje opatrnost u:\n\n- **Některých sýrů** – měkkých sýrů zrajících s plísní na povrchu, jako je brie a camembert, a měkkých sýrů s modrou plísní, pokud nejsou tepelně upravené tak, aby byly úplně horké; a čehokoli vyrobeného z **nepasterizovaného** mléka.\n- **Syrového nebo nedostatečně tepelně upraveného masa**, studených sušených uzenin, **paštik** a **jater** (která obsahují velmi mnoho vitaminu A).\n- **Syrových nebo naměkko uvařených vajec**, pokud nenesou britské označení British Lion.\n- **Některých ryb** – vyhněte se žralokovi, mečounovi a marlínovi, omezte tuňáka a nejezte víc než dvě porce tučných ryb týdně.\n- **Kofeinu** – držte ho pod zhruba 200 mg denně (přibližně dva hrnky instantní kávy) a započítejte i čaj, kolu, energetické nápoje a čokoládu.",
+      "deep": null,
+      "when_to_see_doctor": "- Jde o obecná doporučení, ne o přísnou dietu – pokud máte otázky, co je pro vás bezpečné, nebo máte specifické stravovací potřeby, můžete to probrat s **porodní asistentkou**.\n- Pokud jste snědla něco ze seznamu „vyhnout se“, snažte se nepanikařit; pokud máte obavy nebo se necítíte dobře, zmiňte to porodní asistentce.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Folikuly stimulující hormon (FSH)",
+      "aliases": [
+        "fsh",
+        "folikuly stimulující hormon",
+        "folikulostimulační hormon",
+        "hormon fsh",
+        "hladina fsh"
+      ],
+      "glance": "FSH je hormon z mozku, který na začátku každého cyklu podněcuje růst folikulů ve vaječníku.",
+      "overview": "FSH – folikuly stimulující hormon – je jedním z hormonů-poslů, které uvádějí cyklus do pohybu. Tvoří ho malá žláza v mozku (hypofýza) a jak už název napovídá, stimuluje folikuly: drobné váčky naplněné tekutinou ve vaječníku, z nichž každý obsahuje vajíčko.\n\nNa začátku cyklu FSH podněcuje skupinu těchto folikulů k růstu. Jak se folikul vyvíjí, uvolňuje víc estrogenu, který zase zesiluje sliznici dělohy a připravuje ji na možné těhotenství. Obvykle se jeden folikul stane dominantním a pokračuje k ovulaci.\n\nFSH stoupá a klesá v rámci běžného střídání během cyklu. Přímo FSH necítíte – pracuje tiše v pozadí a připravuje viditelnější změny folikulární fáze.",
+      "deep": "FSH funguje v páru s luteinizačním hormonem (LH); oba uvolňuje hypofýza v mozku a společně provádějí vaječníky cyklem. FSH vede první polovinu a nechává růst folikuly, zatímco pozdější vzestup LH ohlašuje uvolnění vajíčka v polovině cyklu. Toto partnerství je také důvodem, proč léčba neplodnosti využívá léky na bázi FSH: podání dalšího FSH podněcuje k dozrání několik folikulů najednou, místo jediného, který obvykle vznikne v přirozeném cyklu.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Těhotenská cukrovka",
+      "aliases": [
+        "těhotenská cukrovka",
+        "gestační diabetes",
+        "cukrovka v těhotenství",
+        "těhotenský diabetes",
+        "vysoký cukr v těhotenství",
+        "ogtt",
+        "glukózový test"
+      ],
+      "glance": "Těhotenská cukrovka je zvýšená hladina cukru v krvi během těhotenství – obvykle se zjistí screeningem a po porodu často odezní.",
+      "overview": "Těhotenská cukrovka je vysoká hladina cukru (glukózy) v krvi, která se objeví během těhotenství, když tělo nestíhá pokrýt zvýšenou potřebu inzulinu. U většiny žen po narození miminka zase odezní.\n\nObvykle **nezpůsobuje žádné příznaky**, a proto se zachytí pomocí screeningového testu nabízeného v těhotenství (glukózového tolerančního testu, často kolem 24. až 28. týdne), zvláště pokud máte faktory, které její pravděpodobnost zvyšují – například vyšší hmotnost, cukrovku v rodině, dříve narozené velké miminko nebo určitý etnický původ.\n\nDá se velmi dobře zvládat. Udržování hladiny cukru ve zdravém rozmezí – stravou, pohybem a někdy i léky, vždy pod vedením vašeho zdravotnického týmu – snižuje riziko komplikací pro vás i miminko, a proto se vyplatí mít ji pod kontrolou.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud vám **screeningový test** nabídnou, podstupte ho – protože těhotenská cukrovka obvykle nemá žádné příznaky, testování je způsob, jak ji odhalit.\n- Pokud si všimnete možných známek vysokého cukru v krvi – velké žízně, častého močení, sucha v ústech nebo únavy –, nečekejte na test a řekněte o nich porodní asistentce nebo lékaři.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Kde hledat pomoc",
+      "aliases": [
+        "kde hledat pomoc",
+        "na koho se obrátit",
+        "linky pomoci",
+        "užitečná čísla",
+        "centrum proti násilí",
+        "1522",
+        "tísňová čísla",
+        "Bílý kruh bezpečí"
+      ],
+      "glance": "K dispozici je bezplatná a důvěrná pomoc – v nouzi volejte místní tísňové číslo; v Itálii kdykoli 1522.",
+      "overview": "Pokud zažíváte násilí, nemusíte na to být sama, a když se ozvete, k ničemu se tím nezavazujete. Existují lidé, jejichž prací je naslouchat a pomáhat – důvěrně a zdarma.\n\nExistuje několik druhů pomoci vedle sebe:\n\n- **Tísňové služby** – při bezprostředním nebezpečí volejte místní tísňové číslo (viz níže).\n- **Celostátní linka pomoci** – v Itálii **1522**, bezplatná linka proti násilí a pronásledování (stalkingu): otevřená 24 hodin denně, anonymní, dostupná v několika jazycích, po telefonu nebo přes online chat.\n- **Centra proti násilí** (v Itálii *centri antiviolenza*) – místní služby, které nabízejí bezplatnou a důvěrnou podporu, bezpečnostní plánování a právní i psychologickou pomoc.\n- **Zdravotnické služby** – praktický lékař nebo nemocniční pohotovost, kde je personál stále častěji vyškolen rozpoznat násilí a propojit vás s podporou.\n- **Lidé, kterým důvěřujete** – přítelkyně, přítel nebo člen rodiny, se kterým se cítíte v bezpečí.\n\nMůžete začít tím, co vám připadá nejschůdnější, a nemusíte mít nic rozhodnuto.",
+      "deep": null,
+      "when_to_see_doctor": "- O tom, co se děje, můžete důvěrně mluvit s **praktickým lékařem nebo v nemocnici**; mohou ošetřit případná zranění a propojit vás se specializovanými službami.\n- Pokud je pro vás snazší psát než mluvit, další možností je **chat linky 1522**.",
+      "red_flags": "- Pokud jste v **bezprostředním nebezpečí**, kontaktujte hned tísňové služby: **112** v EU (včetně Itálie), **999** ve Spojeném království, **911** v USA a Kanadě.\n- **Itálie:** **1522** (zdarma, 24/7, anonymní, vícejazyčná – volejte nebo pište do chatu).\n- Čísla linek pomoci se v jednotlivých zemích liší. Aplikace vám může zobrazit čísla pro vaši zemi a **findahelpline.com** uvádí linky proti násilí po celém světě (rozpozná vaši zemi a má tlačítko pro rychlé opuštění stránky). Pokud jste v EU, číslo **112** funguje všude."
+    },
+    "group-b-strep": {
+      "title": "Streptokok skupiny B (GBS)",
+      "aliases": [
+        "streptokok skupiny B",
+        "GBS",
+        "streptokok B",
+        "strep B v těhotenství",
+        "stěr na streptokoka",
+        "streptococcus agalactiae"
+      ],
+      "glance": "Streptokok skupiny B je běžná, obvykle neškodná bakterie – malé riziko se týká miminka při porodu a dá se dobře zvládnout.",
+      "overview": "Streptokok skupiny B (GBS) je velmi běžná bakterie, kterou nosí mnoho lidí, obvykle v pochvě nebo v konečníku, aniž by o tom věděli a aniž by jim škodila. Nejde o pohlavně přenosnou infekci a být jejím nosičem je normální.\n\nV těhotenství je důležitý jen proto, že existuje **malá pravděpodobnost**, že se kolem porodu přenese na miminko a vzácně mu způsobí onemocnění – k tomu dochází zhruba v 1 ze 1 750 těhotenství. Často se zjistí náhodou, například z vyšetření moči nebo z poševního stěru provedeného z jiného důvodu (NHS rutinně nevyšetřuje všechny).\n\nUklidňující je, že se to dá velmi dobře zvládnout: pokud se o GBS ví, podání **antibiotik do žíly během porodu** výrazně snižuje pravděpodobnost, že miminko onemocní.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud vám řeknou, že jste nosičkou streptokoka skupiny B – nyní nebo v předchozím těhotenství –, **dejte vědět porodní asistentce nebo porodnickému týmu**, aby bylo možné naplánovat antibiotika během porodu. Je to jednoduchý krok, který má opravdu velký význam.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Pálení žáhy a zažívací potíže v těhotenství",
+      "aliases": [
+        "pálení žáhy v těhotenství",
+        "pálení žáhy",
+        "zažívací potíže v těhotenství",
+        "reflux v těhotenství",
+        "reflux",
+        "kyselé říhání",
+        "trávicí potíže"
+      ],
+      "glance": "Pálení žáhy je v těhotenství velmi časté – obvykle neškodné a často mu uleví drobné každodenní změny.",
+      "overview": "Pálení žáhy a zažívací potíže – pálivý pocit nebo nepříjemný tlak na hrudi, často po jídle – jsou v těhotenství velmi časté. Způsobují je těhotenské hormony, které uvolňují sval v horní části žaludku, a později také rostoucí miminko, které tlačí směrem nahoru. Je to nepříjemné, ale neškodné.\n\nČasto pomohou drobné změny: jíst menší porce častěji místo velkých jídel, sedět při jídle vzpřímeně a ještě chvíli po něm, omezit kořeněná a tučná jídla a nápoje s kofeinem a nejíst pozdě před spaním. Některým ženám je příjemnější spát s trochu podloženou horní částí těla.\n\nPokud to nestačí, **lékárník** vám může doporučit antacida, která jsou v těhotenství bezpečná – je to dobrá první zastávka dřív, než se potíže zhorší.",
+      "deep": null,
+      "when_to_see_doctor": "- Navštivte **praktického lékaře nebo porodní asistentku**, pokud jednoduché změny a přípravky z lékárny nepomáhají, nebo pokud máte **potíže s polykáním**, opakovaně se vám jídlo vrací zpátky nahoru, nechtěně hubnete nebo máte bolesti břicha – to vše je dobré nechat zkontrolovat, a ne to svádět na obyčejné pálení žáhy.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Silná menstruace",
+      "aliases": [
+        "silná menstruace",
+        "silné krvácení",
+        "hojná menstruace",
+        "menoragie",
+        "sraženiny při menstruaci",
+        "protékání",
+        "silná perioda"
+      ],
+      "glance": "Silná menstruace znamená ztrátu velkého množství krve v každém cyklu – je častá, ale pokud vás omezuje, stojí za to ji nechat vyšetřit.",
+      "overview": "Silná menstruace – odborně menoragie – znamená, že během menstruace ztrácíte hodně krve. Pro některé ženy je silné krvácení prostě jejich normál, ale pokud vám narušuje život nebo vás vyčerpává, stojí za to ji prověřit.\n\nNěkteré známky, že je menstruace spíše silná: potřebujete měnit vložku nebo tampon každé 1 až 2 hodiny, používáte dva menstruační prostředky najednou (například tampon a vložku), krev prosakuje na oblečení nebo povlečení, odcházejí krevní sraženiny větší než asi 2,5 cm (zhruba jako mince 10 Kč) nebo menstruace trvá déle než 7 dní.\n\nZtráta velkého množství krve měsíc co měsíc vás může unavovat nebo způsobovat dušnost, protože může vést k nedostatku železa (chudokrevnosti). Možných příčin je mnoho – od myomů či onemocnění, jako je endometrióza, adenomyóza nebo PCOS, až po některé léky – a často se žádná vážná příčina nenajde. V každém případě se silné menstruaci obvykle dá pomoci, takže to není něco, s čím musíte prostě žít.",
+      "deep": null,
+      "when_to_see_doctor": "Navštivte praktického lékaře, pokud:\n\n- silná menstruace ovlivňuje váš každodenní život\n- silně krvácíte mnoho hodin nebo vaše menstruace trvá dlouho\n- máte také silnou menstruační bolest nebo bolest při sexu, močení či vyprazdňování\n- krvácíte mezi menstruacemi nebo po sexu\n- se často cítíte unavená nebo zadýchaná (může to být známka nedostatku železa)\n\nPraktický lékař může hledat příčinu a probrat s vámi, co by mohlo pomoci.",
+      "red_flags": "- Vyhledejte **neodkladnou** lékařskou pomoc – kontaktujte lékaře nebo **lékařskou pohotovostní službu**, nebo pokud je to vážné, volejte **{{emergency}}** / jeďte na pohotovost –, pokud **krvácíte tak silně, že vložku nebo víc promočíte každou hodinu několik hodin po sobě**, nebo máte **pocit na omdlení, závrať nebo jste dušná**. Mohou to být známky ztráty příliš velkého množství krve."
+    },
+    "lh": {
+      "title": "Luteinizační hormon (LH)",
+      "aliases": [
+        "lh",
+        "luteinizační hormon",
+        "luteinizacni hormon",
+        "vrchol lh",
+        "vzestup lh",
+        "lh test"
+      ],
+      "glance": "LH je hormon z mozku, jehož prudký vzestup v polovině cyklu spouští uvolnění vajíčka z vaječníku.",
+      "overview": "LH – luteinizační hormon – je posel, který spouští ovulaci. Stejně jako FSH ho tvoří malá žláza v mozku (hypofýza) a dává vaječníku pokyn, kdy má uvolnit vajíčko.\n\nPo většinu první poloviny cyklu zůstává hladina LH nízká. Pak kolem poloviny cyklu prudce stoupne – tomu se říká vrchol LH. Tento vzestup je signálem, který způsobí, že vaječník uvolní vajíčko – ovulace –, obvykle zhruba o den později.\n\nVzestup je krátký, přesně načasovaný signál, a ne něco, co byste poznala podle toho, jak se cítíte. Protože přichází tak těsně před uvolněním vajíčka, je načasování vzestupu LH spolehlivým ukazatelem nejplodnější části cyklu.",
+      "deep": "LH spolupracuje s FSH, hormonem, který dříve v cyklu nechává růst folikuly. Zatímco FSH vede přípravnou fázi, vrchol LH je zlomovým bodem: hladiny začínají stoupat zhruba den a půl před uvolněním vajíčka a vrcholí asi půl dne před ním. Po vrcholu přechází cyklus do své druhé poloviny. Díky tomuto přesnému načasování je LH tak užitečným ukazatelem pro každého, kdo sleduje ovulaci, a proto je také klíčový při plánování léčby neplodnosti.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Naslouchání a emoční podpora",
+      "aliases": [
+        "jak naslouchat",
+        "emoční podpora pro partnery",
+        "komunikace",
+        "komunikace ve vztahu",
+        "být jí oporou",
+        "jak ji podpořit"
+      ],
+      "glance": "Většinou potřebuje být vyslechnuta, ne opravena – nejdřív naslouchejte, a než poradíte, zeptejte se.",
+      "overview": "Když se někdo, koho milujeme, trápí, instinktivně do toho chceme skočit a vyřešit to. Často ale nejvíc pomůže, když se cítí opravdu vyslechnutá: že její pocity dávají smysl a že na ně není sama. Příliš rychlé řešení může vyznít jako „tvoje pocity jsou problém, který je potřeba uzavřít“.\n\nDobře naslouchat je dovednost, kterou se může naučit každý. Jde hlavně o pozornost: odložit telefon, otočit se k ní a nechat ji domluvit. Nemusíte souhlasit s každým jejím slovem, aby se cítila respektovaná.",
+      "deep": "Praktické způsoby, jak při ní stát:\n\n- **Naslouchejte, abyste porozuměli, ne abyste odpověděli.** Nechte ji mluvit, nepřerušujte ji a nechystejte si mezitím obhajobu.\n- **Zrcadlete, co slyšíte.** „To musí být opravdu stresující“ nebo „Chápu, proč tě to zranilo“ je lepší než „prostě si s tím nedělej hlavu“.\n- **Než poradíte, zeptejte se.** „Chceš pomoct to promyslet, nebo mám jen poslouchat?“\n- **Neberte si to osobně**, když těžký den není o vás. Klid a stabilita jsou dar.\n- **Přiznejte svůj podíl.** Pokud se vám něco nepovedlo, skutečná omluva – bez „ale“ – obnovuje důvěru.\n- **Všímejte si širších souvislostí.** Pokud se zdá dlouhodobě skleslá, úzkostná nebo není sama sebou, jemně ji povzbuďte, aby vyhledala podporu, a nabídněte, že jí s tím pomůžete. Jste spoluhráč, ne terapeut.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Luteální fáze",
+      "aliases": [
+        "luteální fáze",
+        "druhá polovina cyklu",
+        "fáze po ovulaci",
+        "fáze žlutého tělíska",
+        "sekreční fáze"
+      ],
+      "glance": "Luteální fáze je druhá polovina cyklu po ovulaci, kdy stoupá progesteron.",
+      "overview": "Luteální fáze je část cyklu, která následuje po ovulaci a trvá až do začátku další menstruace. Je pojmenovaná podle žlutého tělíska (corpus luteum) – malého útvaru, který vaječník vytvoří z prázdného folikulu poté, co se uvolní vajíčko.\n\nV této fázi stoupá hladina hormonu progesteronu. Jeho úkolem je udržet sliznici dělohy silnou a stabilní, aby se oplozené vajíčko, pokud dorazí, mělo kde uhnízdit. Součástí obrazu zůstává i estrogen, který s progesteronem spolupracuje.\n\nPokud těhotenství nezačne, žluté tělísko zanikne, progesteron a estrogen klesnou a sliznice už není udržována – to vyvolá další menstruaci a začne nový cyklus. V tomto období si také někteří lidé všímají předmenstruačních změn nálady, spánku nebo těla.",
+      "deep": "Délka luteální fáze bývá o něco stálejší než délka první poloviny cyklu a často trvá zhruba dva týdny, i když se mezi jednotlivými lidmi normálně liší. Protože její konec souvisí s poklesem progesteronu, je příchod menstruace vlastně viditelnou známkou toho, že hladiny hormonů klesly. Sledování toho, jak se během luteální fáze cítíte, vám může pomoci rozlišit, co je u vás známý vzorec a co je nové nebo stojí za rozhovor se zdravotníkem.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopauza",
+      "aliases": [
+        "menopauza",
+        "přechod",
+        "klimakterium",
+        "návaly horka",
+        "konec menstruace",
+        "příznaky menopauzy"
+      ],
+      "glance": "Menopauza je chvíle, kdy menstruace natrvalo skončí – přirozená etapa, obvykle mezi 45 a 55 lety.",
+      "overview": "Menopauza je okamžik, kdy menstruace natrvalo ustane. Protože menstruace může ještě nějakou dobu přicházet a vynechávat, počítá se menopauza za dosaženou, když 12 měsíců po sobě nemáte menstruaci. Obvykle nastává zhruba mezi 45 a 55 lety, může ale přijít i dříve nebo později.\n\nJe přirozenou součástí stárnutí, ne nemocí. Dochází k ní, když vaječníky utlumují svou činnost a klesá hladina estrogenu – klíčového hormonu cyklu. Tato hormonální změna stojí za změnami, kterých si mnoho žen všimne: návaly horka a noční pocení, změny menstruace v období před menopauzou, potíže se spánkem, výkyvy nálady nebo úzkost, mlhavé myšlení, suchost pochvy a bolesti.\n\nZkušenosti se nesmírně liší – některé ženy projdou menopauzou snadno, jiné to mají těžké a příznaky mohou trvat několik let. Nic z toho neznamená, že je s vámi něco v nepořádku. Podpora i možnosti existují a pochopit, co se děje, je dobrý první krok.",
+      "deep": "Roky změn, které menopauze předcházejí, se nazývají perimenopauza; samotná menopauza je jediný okamžik (ona hranice 12 měsíců bez menstruace) a období po ní se někdy nazývá postmenopauza. Protože estrogen dlouhodobě ovlivňuje také kosti a srdce, zdravotníci jim věnují pozornost spolu s každodenními příznaky. Příznaky může zmírnit řada přístupů – od úprav životního stylu až po nehormonální a hormonální léčbu – a co je pro vás vhodné, závisí na vašem zdraví, anamnéze a preferencích; to je potřeba probrat se zdravotníkem.",
+      "when_to_see_doctor": "- Navštivte praktického lékaře, pokud vás příznaky menopauzy trápí nebo ovlivňují každodenní život a chtěla byste probrat své možnosti.\n- **Vždy** navštivte praktického lékaře, pokud máte **jakékoli krvácení z pochvy po 12 měsících bez menstruace** (krvácení po menopauze). Často nejde o nic vážného, ale vždy by se to mělo zkontrolovat.\n- Vyplatí se ozvat i tehdy, když krvácíte víc, a ne méně než dřív, nebo se vaše menstruace mění způsobem, který vás znepokojuje.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "Menstruační cyklus",
+      "aliases": [
+        "cyklus",
+        "menstruační cyklus",
+        "menstruacni cyklus",
+        "měsíční cyklus",
+        "ženský cyklus",
+        "délka cyklu"
+      ],
+      "glance": "Menstruační cyklus je měsíční rytmus, podle kterého se vaše tělo připravuje na možné těhotenství.",
+      "overview": "Menstruační cyklus se počítá od prvního dne menstruace – to je 1. den – do dne před začátkem další menstruace. Řídí ho hormony, které každý měsíc stoupají a klesají v opakujícím se vzorci.\n\nCyklus mívá často kolem 28 dní, to je ale jen průměr. Normální je cokoli zhruba mezi 21 a 35 dny a vaše vlastní délka se může měsíc od měsíce trochu lišit. Poznat svůj vlastní vzorec je užitečnější než ho srovnávat s nějakým číslem.\n\nBěhem cyklu tělo prochází několika fázemi: menstruací, přípravou na uvolnění vajíčka, samotným uvolněním (ovulací) a obdobím po něm. Každou fázi utvářejí hormony, především estrogen a progesteron.",
+      "deep": "Celý cyklus je rozhovor mezi mozkem a vaječníky, který zprostředkovávají hormony. V první polovině stoupá estrogen, jak ve vaječníku dozrává folikul s vajíčkem a zesiluje se sliznice dělohy. Kolem poloviny cyklu se uvolní vajíčko. V druhé polovině pomáhá progesteron udržet sliznici připravenou pro případ, že dorazí oplozené vajíčko.\n\nPokud k těhotenství nedojde, estrogen a progesteron klesnou na nízké hladiny, sliznice se odloučí jako menstruace a celý vzorec začíná znovu. Protože tyto hormony ovlivňují mnoho systémů v těle, můžete si během měsíce všimnout drobných každodenních změn – to je normální rytmus cyklu, ne něco, co je potřeba „opravovat“.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstruační fáze (menstruace)",
+      "aliases": [
+        "menstruace",
+        "mens",
+        "perioda",
+        "měsíčky",
+        "krámy",
+        "menstruační fáze",
+        "krvácení"
+      ],
+      "glance": "Menstruace je několik dní krvácení na začátku každého cyklu, kdy se odlučuje děložní sliznice.",
+      "overview": "Menstruační fáze je vaše menstruace – dny, kdy krvácíte. Začíná 1. dnem cyklu, kdy hladiny estrogenu a progesteronu klesly natolik, že sliznice vybudovaná uvnitř dělohy už není udržována, odlučuje se a odchází z těla pochvou.\n\nMenstruace obvykle trvá asi 2 až 7 dní, typicky zhruba 5 dní. Krvácení bývá nejsilnější v prvních dvou dnech a potom slábne. Menstruace obvykle začíná kolem 12 let, ale normální je i dřívější nebo pozdější začátek.\n\nCo je „normální“, se mezi jednotlivými ženami velmi liší. Sledování vlastní menstruace vám pomůže poznat, co je obvyklé pro vás, a to má mnohem větší význam než jakýkoli průměr.",
+      "deep": "Menstruační krvácení je odlučování děložní sliznice (endometria) po cyklu, ve kterém nezačalo těhotenství. Označuje konec jednoho cyklu a zároveň začátek dalšího, a proto se 1. den menstruace počítá jako 1. den celého cyklu. Když menstruace končí, estrogen začne znovu stoupat a tělo začne sliznici obnovovat pro další cyklus.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Samovolný potrat",
+      "aliases": [
+        "samovolný potrat",
+        "potrat",
+        "spontánní potrat",
+        "ztráta těhotenství",
+        "zamlklý potrat",
+        "krvácení a potrat"
+      ],
+      "glance": "Samovolný potrat je ztráta těhotenství před 24. týdnem – je častý a téměř nikdy není způsobený vámi.",
+      "overview": "Samovolný potrat je ztráta těhotenství během prvních 24 týdnů. Je častější, než si mnoho lidí uvědomuje, a jednou z nejdůležitějších věcí, které je dobré vědět, je, že téměř nikdy není způsoben ničím, co jste udělala nebo neudělala – obvykle k němu dojde kvůli problému ve vývoji těhotenství, který nikdo nemohl ovlivnit.\n\nNejčastějšími známkami jsou krvácení z pochvy a křeče nebo bolest v podbřišku. Krvácení v raném těhotenství nemusí vždy znamenat, že dochází k potratu – mnoho žen trochu krvácí a těhotenství pak pokračuje zdravě –, vždy by se ale mělo nechat zkontrolovat.\n\nAť už ke ztrátě dojde jakkoli, pocity, které ji provázejí, jsou skutečné a oprávněné a smutek je normální reakcí. Nemusíte tím procházet sama – podporu vám může poskytnout porodní asistentka nebo praktický lékař i organizace, které se věnují ztrátě těhotenství.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontaktujte praktického lékaře, porodní asistentku nebo ambulanci pro časné těhotenství (případně lékařskou pohotovostní službu), pokud máte **krvácení z pochvy nebo špinění v těhotenství**, i když je slabé a bolest je malá nebo žádná – aby to bylo možné zkontrolovat.\n- Zeptejte se na nejbližší **ambulanci pro časné těhotenství**, která je určená právě pro takové situace.",
+      "red_flags": "- Volejte **{{emergency}} nebo jeďte na pohotovost**, pokud máte v těhotenství **silnou bolest břicha, bolest ve špičce ramene, silné krvácení nebo pocit na omdlení či se cítíte velmi špatně**. Mohou to být známky vážného problému, jako je mimoděložní těhotenství, který vyžaduje neodkladnou péči."
+    },
+    "morning-sickness": {
+      "title": "Ranní nevolnost",
+      "aliases": [
+        "ranní nevolnost",
+        "nevolnost v těhotenství",
+        "těhotenská nevolnost",
+        "zvracení v těhotenství",
+        "hyperemeze",
+        "hyperemesis gravidarum",
+        "je mi zle v těhotenství"
+      ],
+      "glance": "Nevolnost nebo zvracení jsou v raném těhotenství velmi časté a obvykle ustoupí zhruba mezi 16. a 20. týdnem.",
+      "overview": "Nevolnost nebo zvracení jsou v raném těhotenství velmi časté. Navzdory názvu „ranní nevolnost“ se mohou objevit v kteroukoli denní i noční dobu. U většiny žen začínají v prvních týdnech a ustupují zhruba mezi 16. a 20. týdnem.\n\nJe to nepříjemné a některým ženám to opravdu ovlivňuje každodenní život – běžná ranní nevolnost ale pro miminko nepředstavuje žádné zvýšené riziko. Jíst často malé porce a najít, co pomáhá právě vám, může nevolnost udělat snesitelnější; porodní asistentka, praktický lékař nebo lékárník vám mohou doporučit bezpečné možnosti, pokud se trápíte.\n\nU malého počtu žen se nevolnost stane závažnou (nazývá se hyperemesis gravidarum) a hrozí skutečné riziko dehydratace. Tato forma vyžaduje lékařskou pomoc – viz známky níže.",
+      "deep": null,
+      "when_to_see_doctor": "Kontaktujte porodní asistentku, praktického lékaře nebo lékařskou pohotovostní službu, pokud:\n\n- 24 hodin v sobě neudržíte žádné jídlo ani pití\n- máte velmi tmavou moč nebo jste víc než 8 hodin nemočila\n- se cítíte velmi slabá, máte závrať nebo pocit na omdlení, když se postavíte\n- máte bolest břicha, horečku nebo zvracíte krev\n- hubnete",
+      "red_flags": "- Pokud v sobě neudržíte tekutiny a máte velmi tmavou moč nebo nemočíte vůbec, může to znamenat, že se dehydratujete (závažná těhotenská nevolnost) – **kontaktujte porodní asistentku, praktického lékaře nebo lékařskou pohotovostní službu ještě týž den**, protože můžete potřebovat léčbu, aby se stav nezhoršil."
+    },
+    "ovulation": {
+      "title": "Ovulace",
+      "aliases": [
+        "ovulace",
+        "uvolnění vajíčka",
+        "plodné okno",
+        "kdy ovuluji",
+        "příznaky ovulace",
+        "ovulační den"
+      ],
+      "glance": "Ovulace je chvíle, kdy vaječník uvolní vajíčko – nejplodnější bod vašeho cyklu.",
+      "overview": "Ovulace je okamžik, kdy vaječník uvolní zralé vajíčko. Je to zlomový bod cyklu: první polovina k ní směřuje a druhá po ní následuje.\n\nV cyklu dlouhém zhruba 28 dní často nastává kolem 14. dne – načasování se ale liší. Užitečné je představit si, že ovulace obvykle proběhne někdy 10 až 16 dní před začátkem další menstruace. Přesný den může být těžké určit.\n\nPo uvolnění lze vajíčko oplodnit jen asi 12 až 24 hodin. Spermie ale mohou v těle přežít několik dní, takže „plodné okno“ je širší než jeden den – zhruba několik dní před ovulací a samotný den ovulace.",
+      "deep": "Uvolnění vajíčka spouští krátký a prudký vzestup hormonů kolem poloviny cyklu, který následuje po nárůstu estrogenu ve folikulární fázi. Protože spermie mohou žít řadu dní, zatímco vajíčko méně než den, k otěhotnění dojde nejspíš po sexu ve dnech těsně před ovulací. Ovulace se může cyklus od cyklu posouvat vlivem věcí, jako je stres nebo nemoc, a proto je těžké ji přesně předpovědět a sledování několika cyklů je spolehlivější než jakýkoli jednotlivý výpočet.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Bolest při sexu",
+      "aliases": [
+        "bolest při sexu",
+        "bolestivý sex",
+        "bolestivý pohlavní styk",
+        "bolest při styku",
+        "dyspareunie",
+        "vaginismus",
+        "bolí mě sex"
+      ],
+      "glance": "Bolest při sexu je častá, má mnoho možných příčin a vždy stojí za to ji nechat vyšetřit – pomoc existuje.",
+      "overview": "Bolest při sexu – někdy se jí říká dyspareunie – je častější, než si mnoho lidí uvědomuje, a nikdy to není něco, co musíte prostě přijmout. Může mít mnoho příčin a nalezení té správné je klíčem k úlevě.\n\nNěkteré příčiny jsou fyzické. Častou příčinou je suchost pochvy, často spojená s hormony kolem menopauzy nebo s nedostatečným vzrušením, kvůli níž může být sex bolestivý nebo nepříjemný. Bolest mohou způsobovat i infekce, například poševní kvasinková infekce (mykóza). Další příčinou je vaginismus – kdy se svaly kolem pochvy při pokusu o průnik samovolně stáhnou, takže sex může být bolestivý nebo se může zdát nemožný. Je to mimovolní, není to „jen v hlavě“ a dá se to léčit.\n\nProtože příčina může být fyzická, hormonální nebo může souviset s tím, jak jste uvolněná nebo vzrušená – a často jde o kombinaci –, užitečným krokem je nechat se vyšetřit, a ne hádat nebo to statečně snášet.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud je sex bolestivý, navštivte praktického lékaře nebo poradnu pro sexuální zdraví – ať je příčina jakákoli, vyplatí se to prověřit a na běžné příčiny existuje účinná pomoc.\n- Může být nepříjemné o tom mluvit, ale zdravotníci se s tím setkávají často a jsou tu proto, aby pomohli, ne aby soudili. Můžete požádat o lékařku, vzít si někoho s sebou a probrat, co by vám vyšetření usnadnilo.\n- Jakékoli krvácení po sexu si nechte zkontrolovat a vyhledejte pomoc bez odkladu, pokud je bolest silná nebo se zároveň necítíte dobře.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Tlumení bolesti při porodu",
+      "aliases": [
+        "tlumení bolesti při porodu",
+        "bolest při porodu",
+        "epidurál",
+        "epidurální analgezie",
+        "rajský plyn",
+        "Entonox",
+        "porod do vody",
+        "TENS"
+      ],
+      "glance": "Bolest při porodu lze zmírnit několika způsoby – neexistuje správná ani špatná volba a můžete zůstat flexibilní.",
+      "overview": "Porod je u každé ženy jiný a existuje několik způsobů, jak bolest zvládat – od jednoduchých úlevových opatření až po lékařské možnosti. Když předem víte, co je k dispozici, můžete se cítit lépe připravená.\n\nMožnosti sahají od **aktivního pohybu a vzpřímené polohy**, dýchání a relaxace, masáže a pobytu ve **vodě** (ve vaně nebo porodním bazénu) až po **přístroj TENS**, **rajský plyn** (Entonox, který vdechujete sama), **injekce**, jako je pethidin, a **epidurální analgezii** (podává ji anesteziolog a tlumí porodní bolest výrazněji).\n\nNeexistuje „nejlepší“ volba – záleží na vás, na průběhu porodu a na tom, jak se ten den cítíte. Vyplatí se zapsat si své preference do **porodního plánu**, ale zároveň zůstat otevřená: mnoho žen zjistí, že chtějí víc nebo méně tlumení bolesti, než čekaly, a to je naprosto v pořádku.",
+      "deep": null,
+      "when_to_see_doctor": "- Vaše **porodní asistentka** (a v případě epidurální analgezie anesteziolog) s vámi možnosti probere a pomůže vám rozhodnout, co vám vyhovuje – během těhotenství i znovu přímo při porodu. Není potřeba mít všechno rozhodnuté předem.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (syndrom polycystických ovarií)",
+      "aliases": [
+        "pcos",
+        "syndrom polycystických ovarií",
+        "syndrom polycystických vaječníků",
+        "polycystické vaječníky",
+        "polycystická ovaria",
+        "pco"
+      ],
+      "glance": "PCOS je časté hormonální onemocnění, které může ovlivnit menstruaci, ovulaci, pleť a vlasy.",
+      "overview": "PCOS – syndrom polycystických ovarií – je časté onemocnění spojené s rovnováhou reprodukčních hormonů. Odhady uvádějí, že postihuje zhruba 1 z 10 žen v reprodukčním věku, a mnoho z nich se diagnózu nikdy nedozví.\n\nMůže se projevovat různě a žádné dvě ženy nejsou úplně stejné. K častým projevům patří nepravidelná, řídká nebo chybějící menstruace; vyšší hladiny hormonů zvaných androgeny, které mohou vést k nadměrnému růstu chloupků na obličeji nebo těle, akné nebo řídnutí vlasů na hlavě; a vaječníky, které neuvolňují vajíčko tak pravidelně jako obvykle, což může ztížit otěhotnění. Časté jsou také změny hmotnosti a tmavší skvrny na kůži.\n\nPřesná příčina není zcela objasněna a neexistuje způsob, jak PCOS vyléčit – příznaky se ale dají zvládat a pochopit, co se děje, je prvním krokem. PCOS je časté a zvládnutelné, není to nic, za co byste se měla stydět.",
+      "deep": "Protože PCOS souvisí s hormony a s tím, jak tělo zachází s inzulinem, je z dlouhodobého hlediska spojeno také s inzulinovou rezistencí a vyšší pravděpodobností cukrovky 2. typu, zvýšeného krevního tlaku a změn cholesterolu – proto tyto věci zdravotníci v průběhu času obvykle sledují. Zhruba u poloviny lidí s PCOS se může do čtyřiceti let rozvinout cukrovka nebo prediabetes, proto jsou pravidelné kontroly důležité. Diagnózu si nelze stanovit sama: zdravotník posoudí celkový obraz – vaši anamnézu a menstruaci, někdy krevní testy na hormony a někdy ultrazvuk vaječníků – a než dospěje k PCOS, vyloučí jiné příčiny.",
+      "when_to_see_doctor": "Vyplatí se navštívit praktického lékaře, pokud si všimnete věcí, které odpovídají popisu výše, zvláště pokud ovlivňují, jak se každý den cítíte:\n\n- menstruace, která je nepravidelná, velmi řídká nebo ustala\n- výrazně zvýšený růst chloupků na obličeji nebo těle, přetrvávající akné nebo řídnutí vlasů\n- potíže s otěhotněním po nějaké době snažení\n- přibývání na váze, které je těžké zvrátit, spolu s dalšími příznaky\n\nPraktický lékař může zjistit, co se děje, potvrdit, zda jde o PCOS nebo něco jiného, a probrat s vámi plán, který vám bude vyhovovat. PCOS je také spojeno se skleslou náladou a úzkostí – pokud se trápíte tím, jak se cítíte, řekněte to praktickému lékaři také; i to patří k celkovému obrazu a podpora je k dispozici.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopauza",
+      "aliases": [
+        "perimenopauza",
+        "přechod",
+        "menopauzální přechod",
+        "premenopauza",
+        "klimakterium",
+        "před menopauzou",
+        "nepravidelná menstruace po čtyřicítce"
+      ],
+      "glance": "Perimenopauza je přechodné období před menopauzou, kdy se začíná měnit menstruace a hormony.",
+      "overview": "Perimenopauza je období, které vede k menopauze – roky „kolem menopauzy“. Začíná, když si poprvé všimnete změn, a trvá do doby, kdy uplyne celý rok od poslední menstruace; v tu chvíli jste dosáhla menopauzy. Může trvat několik let.\n\nBěhem této doby tvoří vaječníky postupně méně estrogenu a jeho hladiny stoupají a klesají méně předvídatelně než dřív. Nejčastější časnou známkou je změna menstruace – přichází v kratších nebo delších intervalech, je slabší nebo silnější. Mnoho příznaků spojovaných s menopauzou, jako jsou návaly horka, změny spánku nebo výkyvy nálady, může začít už v této době, kdy ještě menstruujete.\n\nProtože perimenopauza probíhá postupně a velmi se liší, může být matoucí – změny nepřicházejí všechny najednou ani u všech ve stejném pořadí. Když víte, že tato fáze má svůj název a že je to normální přechod, může být snazší se v ní vyznat.",
+      "deep": null,
+      "when_to_see_doctor": "- Navštivte praktického lékaře, pokud příznaky perimenopauzy ovlivňují váš každodenní život a chtěla byste probrat, co by mohlo pomoci.\n- Vyplatí se nechat se vyšetřit, pokud je vaše menstruace velmi silná nebo pokud krvácíte mezi menstruacemi či po sexu, aby se zjistila příčina.\n- Pamatujte, že i během perimenopauzy můžete otěhotnět, proto se vyplatí probrat se zdravotníkem antikoncepci, pokud se vás to týká.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Menstruační bolest",
+      "aliases": [
+        "menstruační bolest",
+        "bolestivá menstruace",
+        "menstruační křeče",
+        "křeče",
+        "bolest při menstruaci",
+        "bolest břicha při menstruaci",
+        "dysmenorea"
+      ],
+      "glance": "Menstruační bolest jsou křeče v podbřišku kolem menstruace – jsou časté a často jsou normální součástí cyklu.",
+      "overview": "Menstruační bolest je křečovitá, tupá bolest v podbřišku, kterou mnoho žen pociťuje kolem menstruace. Vzniká, když se svalová stěna dělohy stahuje, a často je normální součástí menstruačního cyklu. Odborně se nazývá dysmenorea.\n\nObvykle přichází na začátku menstruace nebo těsně před ní a trvá zhruba do tří dnů. Pro některé je to mírný pocit tíhy, u jiných jsou křeče silnější. Bolest se také může měnit v průběhu života i cyklus od cyklu.\n\nMenstruační bolest, která odpovídá tomuto známému vzorci, je častá a obvykle zvládnutelná. Mnoho žen si pomáhá běžnými úlevovými opatřeními a jednoduchými léky proti bolesti a lékárník nebo praktický lékař vám poradí, co by vám mohlo vyhovovat. Důležité je znát svůj vlastní obvyklý vzorec – abyste si všimla, pokud se něco změní.",
+      "deep": null,
+      "when_to_see_doctor": "Vyplatí se promluvit si s praktickým lékařem, pokud:\n\n- je vaše menstruace bolestivější, silnější nebo nepravidelnější než obvykle\n- vám bolest brání v běžných činnostech, jako je práce nebo škola\n- běžné léky proti bolesti nepomáhají\n- máte bolest při sexu nebo při močení či vyprazdňování\n- krvácíte mezi menstruacemi\n- bolest přichází i jindy než těsně před menstruací nebo během ní\n- vám odcházejí krevní sraženiny větší než mince (zhruba velikosti desetikoruny)\n- si všimnete také oteklého břicha, snížené chuti k jídlu nebo úbytku hmotnosti, který si nedokážete vysvětlit\n\nTo neznamená, že je něco v nepořádku, ale stojí za to to prověřit – menstruační bolest, která je nová, jiná nebo těžko zvládnutelná, může mít příčiny, se kterými vám zdravotník může pomoci.",
+      "red_flags": "- Požádejte o **neodkladnou** návštěvu u praktického lékaře nebo kontaktujte **lékařskou pohotovostní službu**, pokud je vaše menstruační nebo pánevní bolest **silná nebo horší než obvykle a léky proti bolesti nepomohly.**"
+    },
+    "planning-pregnancy": {
+      "title": "Plánování těhotenství",
+      "aliases": [
+        "plánování těhotenství",
+        "snaha o miminko",
+        "jak otěhotnět",
+        "příprava na těhotenství",
+        "před otěhotněním",
+        "chceme miminko",
+        "prekoncepční péče"
+      ],
+      "glance": "Několik jednoduchých kroků předem – kyselina listová, konec kouření a alkoholu – dá těhotenství ten nejlepší start.",
+      "overview": "Pokud uvažujete o miminku, několik kroků předem může těhotenství dopřát zdravější začátek – a mnohé z nich působí už před samotným početím.\n\nTy hlavní: začněte užívat **kyselinu listovou** (a vitamin D), **přestaňte kouřit** a **vyhýbejte se alkoholu**. Pomáhá také usilovat o zdravou hmotnost, protože výrazná podváha nebo nadváha může otěhotnění ztížit. Vyplatí se také ověřit, že máte aktuální **očkování MMR** (proti spalničkám, příušnicím a zarděnkám), protože některé infekce mohou těhotenství ovlivnit.\n\nNic z toho nemusí být dokonalé ani stresující. Důležité jsou malé, laskavé změny s předstihem – a mít malý náskok je jedna z nejhezčích věcí, které pro budoucí těhotenství můžete udělat.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud máte **dlouhodobé onemocnění** nebo užíváte **pravidelně léky**, navštivte praktického lékaře dřív, než se začnete o miminko snažit – některá onemocnění a léky vyžadují plánování. **Nepřestávejte užívat žádné předepsané léky**, aniž byste to nejdřív probrala s lékařem.\n- Praktický lékař vám také poradí ohledně kyseliny listové (včetně toho, zda potřebujete vyšší dávku) a dosažení zdravé hmotnosti před těhotenstvím.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Poporodní deprese",
+      "aliases": [
+        "poporodní deprese",
+        "postpartální deprese",
+        "deprese po porodu",
+        "baby blues",
+        "poporodní blues",
+        "smutek po porodu",
+        "PPD"
+      ],
+      "glance": "Poporodní deprese je častá a léčitelná skleslost po porodu – není to vaše vina a pomoc je k dispozici.",
+      "overview": "Cítit se v prvních dvou týdnech po porodu smutná, úzkostná nebo podrážděná je velmi časté – často se tomu říká „baby blues“ a obvykle to samo přejde zhruba do dvou týdnů.\n\nPoporodní deprese je něco jiného: skleslost, která je hlubší nebo trvá déle. Je to časté onemocnění, může začít kdykoli během prvního roku a může postihnout i otce a partnery. Mezi známky patří přetrvávající skleslá nálada, neschopnost se z čehokoli radovat, potíže se spánkem, i když miminko spí, a někdy těžké pocity ohledně citového pouta s miminkem.\n\nTo, že ji máte, **neznamená**, že jste špatný rodič nebo že své miminko nemilujete – je to nemoc, ne selhání, a dobře reaguje na podporu a léčbu. Ozvat se včas je silný a starostlivý krok, pro vás i pro vaše miminko.",
+      "deep": null,
+      "when_to_see_doctor": "- Promluvte si s **praktickým lékařem, porodní asistentkou nebo patronážní sestrou**, pokud si myslíte, že byste mohla mít poporodní depresi, nebo pokud „baby blues“ neustoupilo ani po dvou týdnech. Setkali se s tím už mnohokrát a pomohou vám najít správnou podporu.",
+      "red_flags": "- Pokud máte **myšlenky na to, že byste ublížila sobě nebo svému miminku**, nebo že by vaší rodině bylo bez vás lépe, vyhledejte pomoc **okamžitě**: volejte **{{emergency}}** nebo jeďte na pohotovost, případně zavolejte na krizovou linku. Takové myšlenky mohou být součástí nemoci, nejsou tím, kým jste, a neodkladná pomoc je k dispozici."
+    },
+    "pre-eclampsia": {
+      "title": "Preeklampsie",
+      "aliases": [
+        "preeklampsie",
+        "pre-eklampsie",
+        "vysoký tlak v těhotenství",
+        "gestóza",
+        "toxémie",
+        "bílkovina v moči v těhotenství"
+      ],
+      "glance": "Preeklampsie je zvýšený krevní tlak v těhotenství – zpočátku často bez příznaků, a proto jsou prenatální prohlídky tak důležité.",
+      "overview": "Preeklampsie je onemocnění v těhotenství, které se projevuje hlavně vysokým krevním tlakem spolu s bílkovinou v moči. Obvykle se objevuje zhruba od 20. týdne a někdy i po porodu.\n\nJednou z nejdůležitějších věcí, které je dobré vědět, je, že zpočátku často **nezpůsobuje vůbec žádné příznaky** – můžete se cítit úplně dobře. Právě proto vám porodní asistentka při každé běžné prenatální prohlídce měří krevní tlak a vyšetřuje moč: díky těmto kontrolám se preeklampsie obvykle odhalí dřív, než byste si čehokoli všimla.\n\nPokud se příznaky objeví, je dobré je znát, protože preeklampsie může být vážná pro vás i pro miminko. Pokud se zachytí včas, dá se dobře léčit, a dodržování prenatálních prohlídek je tím nejlepším způsobem, jak ji včas odhalit.",
+      "deep": null,
+      "when_to_see_doctor": "- Choďte na všechny **běžné prenatální prohlídky** – měření krevního tlaku a vyšetření moči jsou způsob, jak se preeklampsie obvykle odhalí dřív, než se objeví příznaky.",
+      "red_flags": "Vyhledejte lékařskou pomoc **okamžitě** – kontaktujte porodnici nebo **lékařskou pohotovostní službu** –, pokud máte kterýkoli z těchto příznaků (volejte **{{emergency}}**, pokud je vám vážně zle, například při záchvatu křečí):\n\n- **silná bolest hlavy**, která neustupuje po běžných lécích proti bolesti\n- **potíže se zrakem** – rozmazané vidění nebo záblesky světla\n- **náhlý otok** obličeje, rukou nebo nohou\n- **bolest těsně pod žebry**\n- **zvracení** nebo náhlý pocit, že je vám velmi zle"
+    },
+    "pregnancy": {
+      "title": "Těhotenství",
+      "aliases": [
+        "těhotenství",
+        "být těhotná",
+        "čekám miminko",
+        "gravidita",
+        "trimestry",
+        "termín porodu",
+        "kolikátý týden těhotenství",
+        "těhotenský týden"
+      ],
+      "glance": "Těhotenství obvykle trvá asi 40 týdnů, počítáno od prvního dne poslední menstruace.",
+      "overview": "Těhotenství je doba, kdy vaše tělo vytváří a nosí miminko. Obvykle trvá asi 40 týdnů – za donošené a normální se považuje cokoli mezi 37 a 42 týdny – a možná překvapivě se počítá od prvního dne vaší **poslední menstruace**, ne od početí. Je to prostě standardní způsob, jak se data určují.\n\nVáš **termín porodu** je odhad, ne pevná lhůta: miminka klidně přicházejí o něco dřív nebo později. V raném těhotenství lze při „datovacím ultrazvuku“ (obvykle kolem 12. týdne) změřit miminko a určit přesnější termín, který někdy původní odhad posune.\n\nO těhotenství se často mluví jako o třech obdobích neboli **trimestrech**, z nichž každý přináší své vlastní změny. Po celou dobu o vás pečují pravidelnými prenatálními prohlídkami porodní asistentka (a v případě potřeby lékař) – je to péče, která pomáhá udržet vás i miminko v dobrém zdraví.",
+      "deep": "Protože se data počítají od poslední menstruace, ve chvíli, kdy vám menstruace vynechá, jste podle tohoto výpočtu těhotná zhruba čtyři týdny. Podle počtu týdnů těhotenství je organizovaná péče – ultrazvuky, screeningy i prohlídky se nabízejí v určitých týdnech. Pokud máte nepravidelnou menstruaci nebo si nejste jistá daty, časovou osu určí datovací ultrazvuk. Tento článek je mapou celé cesty; konkrétní témata – známky těhotenství, prenatální péče, péče o zdraví a porod – mají každé svůj vlastní.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Těhotenský test",
+      "aliases": [
+        "těhotenský test",
+        "domácí těhotenský test",
+        "test na těhotenství",
+        "hcg test",
+        "hcg",
+        "kdy si udělat test",
+        "pozitivní test",
+        "negativní test"
+      ],
+      "glance": "Domácí těhotenský test zjišťuje v moči těhotenský hormon hCG – nejspolehlivější je od prvního dne vynechané menstruace.",
+      "overview": "Domácí těhotenský test funguje tak, že v moči zachytí hormon zvaný hCG (lidský choriový gonadotropin). Tělo ho začne tvořit několik dní poté, co se oplozené vajíčko uhnízdí, a jeho množství v raném těhotenství rychle stoupá.\n\nTest je nejspolehlivější od **prvního dne vynechané menstruace** – zhruba dva týdny po početí. Pokud máte nepravidelný cyklus nebo si nejste jistá, kdy by měla přijít menstruace, spolehlivější výsledek získáte, když počkáte alespoň 21 dní po nechráněném sexu. Test nemusíte dělat hned ráno; vhodná je kterákoli denní doba.\n\n**Pozitivní** výsledek je téměř jistě správný – jen velmi málo testů ukáže pozitivní výsledek, když těhotná nejste. **Negativní** výsledek je o něco méně jistý: pokud menstruace stále nepřichází a myslíte si, že byste mohla být těhotná, počkejte pár dní a test zopakujte.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud máte pozitivní výsledek, kontaktujte **porodní asistentku nebo praktického lékaře**, abyste mohla začít s prenatální péčí.\n- Pokud jsou testy negativní, ale menstruace vám chybí a cítíte se těhotná (nebo se necítíte dobře), navštivte praktického lékaře, abyste zjistila, co se děje.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Předčasný porod",
+      "aliases": [
+        "předčasný porod",
+        "hrozící předčasný porod",
+        "předčasné narození",
+        "nedonošené miminko",
+        "předčasný odtok plodové vody",
+        "předčasné stahy"
+      ],
+      "glance": "Předčasný porod je porod před 37. týdnem – jednejte rychle, protože včasná péče má opravdu velký význam.",
+      "overview": "Předčasný porod je porod, který začne před 37. týdnem těhotenství. Dochází k němu přibližně u 8 ze 100 porodů.\n\nMiminka narozená předčasně jsou zranitelnější, ale mnohým se pak daří dobře – zvláště díky specializované péči, kterou poskytují neonatologická oddělení. Klíčové je jednat rychle, pokud si myslíte, že by porod mohl začínat, aby vás mohli vyšetřit a v případě potřeby vám podat léčbu, která pomáhá miminko chránit.\n\nZnámky jsou podobné jako u porodu v jakékoli fázi, ale před 37. týdnem se na ně nikdy nesmí čekat – jsou vždy důvodem ozvat se okamžitě.",
+      "deep": null,
+      "when_to_see_doctor": "- Zavolejte **porodní asistentce nebo do porodnice** kdykoli, když jste **před 37. týdnem** a nejste si jistá nebo máte obavy – ověřit si to je vždy v pořádku.",
+      "red_flags": "Kontaktujte **porodní asistentku nebo porodnici okamžitě** – ve dne i v noci –, pokud **před 37. týdnem** máte kterýkoli z těchto příznaků:\n\n- pravidelné **stahy nebo tvrdnutí břicha**, nebo bolesti podobné menstruačním\n- **výron nebo prosakování tekutiny** z pochvy (odtok plodové vody)\n- **bolest zad**, která pro vás není obvyklá, nebo pocit tlaku v podbřišku"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (předmenstruační syndrom)",
+      "aliases": [
+        "pms",
+        "předmenstruační syndrom",
+        "premenstruační syndrom",
+        "předmenstruační napětí",
+        "pmdd",
+        "premenstruační dysforická porucha",
+        "nálady před menstruací"
+      ],
+      "glance": "PMS je soubor tělesných a emočních změn, kterých si mnoho žen všimne týden či dva před menstruací.",
+      "overview": "PMS – předmenstruační syndrom – je název pro změny, které mnoho žen pociťuje ve dnech nebo týdnech před menstruací. Může postihnout kohokoli, kdo menstruuje, a obvykle odezní během několika dní po začátku menstruace.\n\nZměny mají mnoho podob. Tělesně si můžete všimnout nadýmání, bolestivých nebo citlivých prsou, křečí, bolestí hlavy nebo větší únavy. Emočně se mohou objevit výkyvy nálad, podrážděnost, úzkost nebo skleslost. Časté jsou také chutě na jídlo a změny spánku. Ne každá žena má PMS a ty, které ho mají, nemají všechny příznaky – důležitý je váš vlastní vzorec.\n\nPMS je normální, uznávanou součástí cyklu mnoha žen, spojenou s přirozenými hormonálními změnami v jeho druhé polovině. Když si všimnete, jak se u vás cyklus od cyklu projevuje, může být snazší s ním počítat – a poznat, kdyby se někdy změnil.",
+      "deep": null,
+      "when_to_see_doctor": "Vyplatí se promluvit si s praktickým lékařem, pokud:\n\n- vaše příznaky ovlivňují váš každodenní život – práci, studium, vztahy\n- každodenní změny režimu nepomohly\n- vaše skleslost, úzkost nebo podrážděnost je velmi silná\n\nZdravotník s vámi může probrat, co by mohlo pomoci. Intenzivnější forma, zvaná premenstruační dysforická porucha (PMDD), může způsobovat mnohem silnější změny nálady a i pro ni je podpora k dispozici.",
+      "red_flags": "- Pokud máte příznaky PMDD a **máte sebevražedné myšlenky nebo pocit, že se neubráníte tomu, abyste si ublížila**, vyhledejte pomoc okamžitě: **volejte {{emergency}} nebo jeďte na pohotovost.** Neřiďte sama – požádejte někoho, aby vás odvezl, nebo si zavolejte sanitku. Zasloužíte si podporu a pomoc je k dispozici."
+    },
+    "progesterone": {
+      "title": "Progesteron",
+      "aliases": [
+        "progesteron",
+        "hladina progesteronu",
+        "nízký progesteron",
+        "hormon progesteron",
+        "gestagen"
+      ],
+      "glance": "Progesteron je hormon druhé poloviny cyklu, který po ovulaci připravuje děložní sliznici.",
+      "overview": "Progesteron je jedním z hlavních hormonů, které řídí menstruační cyklus, a vedoucí roli přebírá v jeho druhé polovině – poté, co se při ovulaci uvolní vajíčko.\n\nJeho hlavním úkolem je pomoci sliznici dělohy zůstat silná a připravená, aby se oplozené vajíčko, pokud dorazí, mohlo uhnízdit a mohlo začít těhotenství. Progesteron tak funguje jako partner estrogenu, který dříve v cyklu odvedl velkou část přípravné práce.\n\nPokud těhotenství nezačne, hladina progesteronu klesne. Právě tento pokles umožní, aby se sliznice odloučila jako vaše další menstruace. Stoupání a klesání progesteronu v druhé polovině cyklu je normální, očekávaný rytmus.",
+      "deep": "Progesteron tvoří hlavně žluté tělísko (corpus luteum) – útvar, který vaječník vytvoří z folikulu poté, co uvolnil vajíčko. Proto progesteron stoupá právě v luteální fázi (po ovulaci). Když žluté tělísko zanikne, klesne progesteron i estrogen, což signalizuje začátek nového cyklu. Jeho přirozené výkyvy jsou jedním z důvodů, proč si někteří lidé ve dnech před menstruací všímají předmenstruačních změn.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "Pilulka pouze s gestagenem (minipilulka)",
+      "aliases": [
+        "minipilulka",
+        "gestagenní pilulka",
+        "pilulka bez estrogenu",
+        "progestinová pilulka",
+        "POP",
+        "desogestrel"
+      ],
+      "glance": "Minipilulka je tableta užívaná každý den s jedním hormonem, který zahušťuje hlen v děložním hrdle a zadržuje spermie.",
+      "overview": "Pilulka obsahující pouze gestagen – často se jí říká minipilulka – je tableta užívaná každý den, která obsahuje jen jeden hormon, gestagen. Je to možnost pro ty, kdo estrogen užívat nemohou nebo nechtějí.\n\nJejím hlavním účinkem je zahuštění hlenu v děložním hrdle, takže se spermie k vajíčku dostanou hůře. Jeden běžný typ, pilulka s desogestrelem, navíc brání vaječníkům uvolnit vajíčko (ovulace).\n\nPři správném užívání je účinná na více než 99 %; při běžném každodenním užívání přibližně na 91 %. Stejně jako u jiných pilulek záleží na načasování a nechrání před pohlavně přenosnými infekcemi.",
+      "deep": "Minipilulka se od kombinované pilulky liší tím, že neobsahuje estrogen, což mění, komu může vyhovovat – to zdravotník zvažuje při jejím předepsání. Některé typy je nutné užívat v poměrně úzkém denním časovém okně, aby zůstaly účinné. Tento článek popisuje, co to je a jak funguje; jak ji užívat a zda je pro vás vhodná, je potřeba probrat s praktickým lékařem, zdravotní sestrou nebo lékárníkem.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "Jak rozpoznat násilný vztah",
+      "aliases": [
+        "rozpoznání násilí",
+        "násilný vztah",
+        "domácí násilí",
+        "partnerské násilí",
+        "známky násilí",
+        "jsem oběť násilí",
+        "týrání ve vztahu"
+      ],
+      "glance": "Násilí může být fyzické, sexuální, emoční nebo kontrolující – a nikdy nejde o vinu toho, kdo ho zažívá.",
+      "overview": "Násilí ve vztahu není jen fyzické. Může mít několik podob, často současně: fyzické ubližování, sexuální nátlak, emoční či psychické ubližování a kontrolující chování – partner rozhoduje o tom, kam chodíte, s kým se vídáte nebo co smíte dělat. Kterékoli z toho může být násilím, i když nejsou vidět žádná zranění.\n\nJe častější, než si mnoho lidí uvědomuje. Celosvětově zažije během života fyzické nebo sexuální násilí zhruba 1 ze 3 žen, nejčastěji od partnera; v Itálii je situace podobná. Pokud je to tedy součástí vašeho života, nejste sama a není to nic, co byste způsobila.\n\nPojmenovat to může být těžké – násilí se často střídá s hezkými chvílemi, omluvami nebo sliby změny a může narůstat tak pomalu, že vám připadá normální. Důvěřovat vlastnímu pocitu, že něco není v pořádku, je dostatečný důvod se ozvat. Abyste si s někým promluvila, nemusíte si být jistá ani čekat, až to bude „dost zlé“.",
+      "deep": "Pod různými podobami se násilí obvykle řídí vzorcem, kdy jeden člověk usiluje o moc a kontrolu nad druhým, a v průběhu času se může stupňovat. Na zdraví si vybírá skutečnou daň – je spojeno s úzkostí, depresí, potížemi se spánkem a dlouhodobými tělesnými následky. Nic z toho neznamená, že jste slabá nebo že je to vaše vina; znamená to, že to, s čím žijete, je škodlivé, a existuje podpora, která vám pomůže si to v bezpečí a vlastním tempem promyslet.",
+      "when_to_see_doctor": "- Důvěrně si můžete s někým promluvit, kdykoli budete připravená – s praktickým lékařem nebo zdravotní sestrou, v centru proti násilí nebo na lince pomoci (v Itálii **1522**, zdarma a kdykoli). Nepotřebujete předem důkazy, plán ani rozhodnutí; jsou tu proto, aby vám naslouchali a pomohli vám pochopit vaše možnosti.\n- Zdravotník také může ošetřit případná zranění a nenápadně vás propojit se specializovanou pomocí.",
+      "red_flags": "- Pokud jste v **bezprostředním nebezpečí**, kontaktujte hned tísňové služby: **112** v EU (včetně Itálie), **999** ve Spojeném království, **911** v USA a Kanadě.\n- V Itálii je linka **1522** – bezplatná celostátní linka proti násilí a pronásledování – dostupná 24 hodin denně, anonymně, po telefonu nebo přes chat, v několika jazycích."
+    },
+    "respect-not-control": {
+      "title": "Respekt, ne kontrola",
+      "aliases": [
+        "kontrolující chování",
+        "donucující kontrola",
+        "zdravý vztah",
+        "varovné signály",
+        "žárlivost",
+        "kde hledat pomoc",
+        "násilí ve vztahu",
+        "násilí"
+      ],
+      "glance": "Láska stojí na respektu a svobodě – kontrola, žárlivost a nátlak nejsou láska, a pomoc existuje.",
+      "overview": "Zdravý vztah stojí na respektu, důvěře, rovnosti a svobodě: dva lidé, z nichž si každý zachovává vlastní přátele, rozhodnutí a prostor. Kontrola je opakem. Často se skrývá za slova jako láska nebo žárlivost – „kontroluju ti telefon, protože mi na tobě záleží“, „nechci, aby ses s nimi vídala, protože tě miluju“ –, jejím účinkem je ale zmenšovat její svět a její svobodu.\n\nKontrola málokdy začíná násilím. Obvykle začíná nenápadně – kritikou, překročenou hranicí, „vtipem“, který zabolí – a sílí. Pojmenovat ji včas je důležité, protože donucující kontrola je sama o sobě formou násilí a varovným signálem, že může přijít něco horšího. Nejde o vinu; jde o upřímnost a změnu.",
+      "deep": "**Pokud v sobě něco z toho poznáváte, je toto uvědomění výchozím bodem – ne doživotním rozsudkem.**\nLidé se mohou změnit, když vynaloží skutečné úsilí a mají správnou pomoc. Obrátit se na specializovaný program pro muže, kteří chtějí přestat kontrolovat nebo se chovat násilně, je projevem síly, ne slabosti. Promluvte si s odborníkem, lékařem nebo se službou zaměřenou na změnu chování mužů.\n\nPokud je v nebezpečí **ona** nebo máte o někoho obavy, povzbuzujte ji a podporujte, aby vyhledala pomoc – podle jejích podmínek, nikdy tak, že to převezmete za ni.\n\n**Kde hledat pomoc**\n- V nouzi nebo pokud je kdokoli v bezprostředním nebezpečí, volejte místní tísňové číslo (**112** v Itálii a ve velké části Evropy; **911** v USA).\n- **Itálie – 1522**: celostátní linka proti násilí a pronásledování. Zdarma, 24/7, anonymní a vícejazyčná, provozovaná Odborem pro rovné příležitosti. Také lidi nasměruje do místních center proti násilí (centri antiviolenza).\n- Centra proti násilí a programy na změnu chování pro muže (v Itálii „centri per uomini autori di violenza“) nabízejí důvěrnou podporu při změně.",
+      "when_to_see_doctor": null,
+      "red_flags": "Varovné signály kontrolujícího nebo násilného chování – stojí za to je brát vážně u sebe i ve vztahu:\n\n- **Sledování nebo izolování**: kontrola jejího telefonu, sledování její polohy nebo odříznutí od přátel a rodiny.\n- **Kontrola nad rozhodnutími**: peníze, co nosí, kam chodí, s kým se vídá.\n- **Žárlivost vydávaná za lásku**, neustálé obviňování nebo potřeba vědět v každou chvíli, kde je.\n- **Ponižování, obviňování nebo vyvolávání strachu**, pocitu viny nebo pocitu, že musí „chodit po špičkách“.\n- **Nátlak nebo výhrůžky** týkající se sexu, rozchodu nebo sebepoškození, aby vyhověla.\n- **Jakákoli fyzická síla, zastrašování nebo strach.** Pokud je něco z toho přítomno, jde o násilí – vyhledejte pomoc uvedenou výše. Nikdy pro to neexistuje omluva a nikdy to není její vina."
+    },
+    "safety-plan": {
+      "title": "Jak připravit bezpečnostní plán",
+      "aliases": [
+        "bezpečnostní plán",
+        "zůstat v bezpečí",
+        "jak být v bezpečí",
+        "plánování bezpečí",
+        "jak bezpečně odejít",
+        "odchod od násilníka",
+        "nouzová taška"
+      ],
+      "glance": "Bezpečnostní plán je několik praktických kroků, které vám pomohou být ve větším bezpečí – a vyškolené služby vám ho pomohou vytvořit.",
+      "overview": "Bezpečnostní plán znamená prostě promyslet dopředu, jak udržet sebe (a případně děti) ve větším bezpečí. Není to rozhodnutí odejít nebo zůstat – jde o to být o něco lépe připravená, ať se rozhodnete jakkoli.\n\nNěkterým lidem pomáhá mít nenápadně připraveno pár věcí: důvěryhodného člověka, který ví, co se děje, důležité doklady a čísla na dosah, malou tašku s nezbytnostmi, představu o nejbezpečnějších cestách ven z domu nebo slovo či signál, kterým někomu dáte najevo, že potřebujete pomoc. Co dává smysl, závisí zcela na vaší situaci.\n\nNemusíte na to přijít sama a často je bezpečnější to sama nedělat. Služby pro oběti násilí mají s tvorbou bezpečnostních plánů bohaté zkušenosti a pomohou vám důvěrně a zdarma – i s obdobím kolem odchodu, které může být rizikovější chvílí a vyplatí se ho plánovat s podporou, a ne ve spěchu.",
+      "deep": null,
+      "when_to_see_doctor": "- Obraťte se na centrum proti násilí nebo linku pomoci (v Itálii **1522**) a vytvořte si plán, který odpovídá vaší situaci – dělají to každý den, důvěrně, a mohou pomoci s praktickými, právními i emočními kroky.\n- Pokud si vedete nějaké záznamy o tom, co se děje, uchovávejte je na soukromém a bezpečném místě.",
+      "red_flags": "- Pokud jste v **bezprostředním nebezpečí**, kontaktujte hned tísňové služby: **112** v EU (včetně Itálie), **999** ve Spojeném království, **911** v USA a Kanadě.\n- V Itálii vám linka **1522** – zdarma, 24 hodin denně, anonymní a vícejazyčná – může pomoci po telefonu nebo přes chat, a to i s naléhavým bezpečnostním plánováním."
+    },
+    "sex-during-your-period": {
+      "title": "Sex během menstruace",
+      "aliases": [
+        "sex při menstruaci",
+        "sex během menstruace",
+        "sex na menstruaci",
+        "sex při krámech",
+        "můžu otěhotnět při menstruaci",
+        "otěhotnění při menstruaci",
+        "sex v době menstruace"
+      ],
+      "glance": "Sex během menstruace je v pořádku, pokud ho oba chcete, ale stále můžete otěhotnět nebo přenést pohlavně přenosnou infekci.",
+      "overview": "Sex během menstruace je osobní volba. Pokud ho oba chcete a oba se cítíte dobře, je to v pořádku a není na tom nic špatného ani neobvyklého. Někteří lidé jsou v této době citlivější nebo prostě nemají náladu, jiní si to užívají. Nejdůležitější je naslouchat svému tělu a otevřeně mluvit s partnerem.\n\nMenstruace ale nefunguje jako antikoncepce. Pravděpodobnost otěhotnění je nižší než kolem ovulace, ale není nulová. Spermie mohou v těle přežít až 7 dní po sexu, takže pokud ovulujete brzy, což je pravděpodobnější při kratším cyklu, spermie ze sexu během menstruace nebo těsně po ní se stále mohou setkat s vajíčkem. Pokud nechcete otěhotnět, vaše obvyklá antikoncepce je i v těchto dnech důležitá.\n\nMenstruace nechrání ani před pohlavně přenosnými infekcemi (STI). Infekce se mohou mezi partnery přenést při sexu bez kondomu a původci, kteří je způsobují, mohou být v krvi i v jiných tělních tekutinách. Kondomy jsou metodou, která také snižuje riziko pohlavně přenosných infekcí včetně HIV, proto se vyplatí je používat bez ohledu na to, v jaké části měsíce jste.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud jste měla sex **bez antikoncepce** nebo vaše antikoncepce mohla selhat a nechcete otěhotnět, promluvte si **co nejdříve** s lékárníkem, praktickým lékařem nebo v poradně pro sexuální zdraví o nouzové antikoncepci. Je potřeba ji použít během několika dní a obvykle funguje tím lépe, čím dříve se použije.\n- Vyhledejte pomoc u lékárníka, v poradně pro sexuální zdraví nebo u praktického lékaře, pokud **kondom při sexu praskne nebo sklouzne**. Možná budete potřebovat nouzovou antikoncepci nebo test na pohlavně přenosné infekce.\n- Navštivte praktického lékaře nebo poradnu pro sexuální zdraví, pokud si všimnete **krvácení po sexu mimo menstruaci**. Obvykle nejde o nic vážného, ale vždy se vyplatí nechat to zkontrolovat.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Sex v těhotenství",
+      "aliases": [
+        "sex v těhotenství",
+        "sex během těhotenství",
+        "sex těhotná",
+        "je sex v těhotenství bezpečný",
+        "intimita v těhotenství",
+        "orgasmus v těhotenství",
+        "milování v těhotenství"
+      ],
+      "glance": "Sex je ve většině těhotenství bezpečný a miminku neublíží, pokud vám porodní asistentka nebo lékař neřekli jinak.",
+      "overview": "Pro většinu žen je sex během těhotenství bezpečný, pokud jim porodní asistentka nebo lékař neřekli, že ho mají vynechat. Miminko je uvnitř dělohy dobře chráněné a sex mu neublíží.\n\nMůže vám být doporučeno vyhnout se sexu s průnikem v několika situacích: pokud máte **nízko uloženou placentu (placenta praevia)**, kvůli riziku krvácení; pokud vám **odtekla plodová voda**, kvůli riziku infekce; nebo pokud jste prodělala **několik samovolných potratů**.\n\nChuť na sex se v těhotenství často mění – některé ženy mají chuť větší, některé menší, jiné na nějakou dobu vůbec žádnou – a roli v tom hrají hormony, změny těla, únava, nevolnost i obavy. To vše je normální. Pokud na sex nemáte chuť, jinými způsoby, jak zůstat blízko, jsou polibky, mazlení a masáže.\n\nJak bříško roste, některé polohy začnou být nepohodlné; polohy vleže na boku bývají často snazší. Hormony mohou způsobit suchost pochvy a pomoci může lubrikační gel na vodní bázi.\n\nKe konci těhotenství může sex nebo orgasmus vyvolat Braxton-Hicksovy kontrakce, kdy děloha na chvíli ztvrdne. To je normální a neznamená to začátek porodu – a neexistují důkazy, že by sex porod vyvolal.\n\nPokud by kdokoli z vás mohl mít pohlavně přenosnou infekci, používejte kondom, a to i při orálním sexu: neléčená infekce může vážně poškodit vás i miminko. Vyhněte se orálnímu sexu, pokud má kdokoli z vás opar, protože virus se může přenést na miminko.",
+      "deep": null,
+      "when_to_see_doctor": "- Promluvte si s **porodní asistentkou nebo lékařem**, pokud si nejste jistá, zda je pro vás sex bezpečný, nebo pokud vás tíží obavy týkající se sexu či vašeho vztahu.\n- Pokud máte v těhotenství **jakékoli krvácení**, nechte ho zkontrolovat dřív, než budete mít znovu sex – kontaktujte porodní asistentku, lékaře nebo porodnici.\n- Pokud byste vy nebo váš partner mohli mít pohlavně přenosnou infekci, navštivte **poradnu pro sexuální zdraví**.",
+      "red_flags": "- Pokud si myslíte, že vám **odtekla plodová voda**, ihned kontaktujte **porodnici** a nemějte sex, dokud vás nevyšetří.\n- Volejte **{{emergency}} nebo jeďte na pohotovost**, pokud máte **silné krvácení**, zvláště se **silnou bolestí břicha** nebo pocitem na omdlení."
+    },
+    "sexual-violence": {
+      "title": "Sexuální násilí a souhlas",
+      "aliases": [
+        "sexuální násilí",
+        "sexuální napadení",
+        "znásilnění",
+        "souhlas",
+        "sexuální zneužívání",
+        "sex bez souhlasu",
+        "sexuální obtěžování"
+      ],
+      "glance": "Sexuální násilí je jakýkoli sexuální akt bez souhlasu – a nikdy to není vina toho, kdo ho zažil.",
+      "overview": "Sexuální násilí znamená jakýkoli sexuální akt nebo pokus o něj bez souhlasu nebo pod nátlakem. Zahrnuje znásilnění a jakýkoli nechtěný sexuální kontakt a může se ho dopustit kdokoli – cizí člověk, známý nebo partner či manžel.\n\nJádrem je souhlas. Souhlas znamená svobodně s něčím souhlasit a není možný, když člověk spí, je v bezvědomí, je opilý nebo pod vlivem drog, je to dítě, nebo je pod tlakem, je mu vyhrožováno nebo má strach. Lze ho kdykoli odvolat. Proto sexuální násilí **nikdy** není vinou toho, komu se stalo – nezáleží na oblečení, na tom, zda předtím pil alkohol, zda ztuhl, místo aby se bránil, ani na tom, zda útočníka znal.\n\nPokud se vám to stalo, podpora je k dispozici, ať už se to stalo nedávno, nebo dávno. Věříme vám a co uděláte dál, je vaše volba.",
+      "deep": null,
+      "when_to_see_doctor": "- Můžete se obrátit na **zdravotnické zařízení, nemocnici nebo specializovanou službu pro oběti sexuálního násilí**, kde se o vás postarají, ošetří případná zranění a – pokud si to přejete – pomohou s oznámením a se zajištěním důkazů.\n- Některé zdravotní kroky **závisí na čase** – například nouzová antikoncepce nebo prevence infekce –, proto může pomoci ozvat se **brzy**. Pro vyhledání podpory ale neexistuje žádná časová lhůta a zda čin oznámíte, je vždy vaše volba.",
+      "red_flags": "- Pokud jste v **bezprostředním nebezpečí**, kontaktujte hned tísňové služby: **112** v EU (včetně Itálie), **999** ve Spojeném království, **911** v USA a Kanadě.\n- Po nedávném napadení vám **nemocnice nebo specializovaná služba mohou neodkladně pomoci**. V Itálii vás linka **1522** (zdarma, 24/7, anonymní, vícejazyčná – telefon nebo chat) nasměruje ke správné péči."
+    },
+    "signs-of-labour": {
+      "title": "Známky porodu",
+      "aliases": [
+        "známky porodu",
+        "porod",
+        "začátek porodu",
+        "kontrakce",
+        "stahy",
+        "odtok plodové vody",
+        "odchod hlenové zátky",
+        "latentní fáze"
+      ],
+      "glance": "Známkami začínajícího porodu jsou pravidelné kontrakce, odchod hlenové zátky, bolest zad nebo odtok plodové vody.",
+      "overview": "Existuje několik známek, že porod možná začíná. Hlavní jsou kontrakce – stahy bříška, které přicházejí pravidelně a sílí. Dalšími jsou odchod hlenové zátky (hlenu, který uzavírá děložní hrdlo), přetrvávající bolest zad, nucení na toaletu a odtok plodové vody.\n\nPřed aktivním porodem často probíhá počáteční („latentní“) fáze, kdy děložní hrdlo měkne a začíná se otevírat. Tato část může trvat hodiny, nebo i dny, a pro mnoho žen je v pořádku strávit ji pohodlně doma, odpočívat a pít dost tekutin.\n\nPorod začíná u každé ženy trochu jinak, takže nemusíte odškrtat všechny známky. Když si myslíte, že to začíná, porodní asistentka nebo porodnice vám poradí, co dělat a kdy přijet.",
+      "deep": null,
+      "when_to_see_doctor": "- Když si myslíte, že porod začal, nebo když jsou kontrakce **pravidelné – zhruba každých 5 minut**, zavolejte **porodní asistentce nebo do porodnice** a nechte si poradit. Pokud se nemůžete dovolat porodní asistentce, zavolejte do nemocnice, kde plánujete rodit.",
+      "red_flags": "Zavolejte **porodní asistentce nebo do porodnice okamžitě** – ve dne i v noci, nečekejte –, pokud:\n\n- vám **odtekla plodová voda** (zvláště pokud je zelená, hnědá nebo zapáchá)\n- máte **jakékoli krvácení z pochvy**\n- se vaše **miminko hýbe méně než obvykle**\n- máte známky porodu a jste **před 37. týdnem těhotenství**"
+    },
+    "signs-of-pregnancy": {
+      "title": "Známky těhotenství",
+      "aliases": [
+        "známky těhotenství",
+        "příznaky těhotenství",
+        "první příznaky těhotenství",
+        "rané příznaky těhotenství",
+        "jsem těhotná",
+        "jak poznám, že jsem těhotná",
+        "vynechaná menstruace"
+      ],
+      "glance": "Vynechaná menstruace je často první známkou těhotenství, někdy spolu s nevolností, únavou nebo citlivými prsy.",
+      "overview": "Pro mnoho žen je prvním náznakem těhotenství **vynechaná menstruace**. Každé tělo je ale jiné a některé ženy si nejdřív všimnou jiných časných známek – často zhruba ve 4. až 6. týdnu.\n\nMezi časté rané známky patří nevolnost nebo zvracení (v kteroukoli denní dobu, nejen ráno), prsa, která se zdají větší nebo citlivá, neobvyklá únava a častější nucení na močení. Některé ženy si také všimnou kovové chuti v ústech, nové citlivosti na určité pachy nebo toho, že jim přestanou chutnat jídla, která mají normálně rády.\n\nNic z toho samo o sobě neznamená, že jste určitě těhotná – mnohé se překrývá s běžnými výkyvy během cyklu – a ne každá žena tyto známky má. Jistotu vám dá těhotenský test.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud je test pozitivní, kontaktujte **porodní asistentku nebo praktického lékaře**, abyste mohla včas začít s těhotenskou (prenatální) péčí.\n- Pokud se vám menstruace opožďuje a testy jsou negativní, ale příznaky přetrvávají, vyplatí se zajít k praktickému lékaři a zjistit, co dalšího by za tím mohlo být.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Kouření v těhotenství",
+      "aliases": [
+        "kouření v těhotenství",
+        "přestat kouřit v těhotenství",
+        "odvykání kouření v těhotenství",
+        "cigarety v těhotenství",
+        "vaping v těhotenství",
+        "elektronická cigareta v těhotenství",
+        "pasivní kouření"
+      ],
+      "glance": "Přestat kouřit je jedna z nejlepších věcí, které můžete pro miminko udělat – a nikdy není pozdě.",
+      "overview": "Přestat kouřit je jedna z nejúčinnějších věcí, které můžete udělat, abyste miminku dopřála zdravý start. Každá cigareta omezuje přísun kyslíku k miminku, takže jeho srdce musí pracovat usilovněji a jeho růst se může zpomalit.\n\nKouření v těhotenství zvyšuje riziko vážných problémů, včetně samovolného potratu, předčasného porodu, nízké porodní hmotnosti, narození mrtvého dítěte a syndromu náhlého úmrtí kojence (SIDS) po porodu. Záleží i na pasivním kouření, takže pomáhá domov bez kouře.\n\nPovzbudivé je, že **nikdy není pozdě**. Přestat kdykoli během těhotenství pomáhá a přestat brzy přináší největší užitek. Může to být opravdu těžké, a právě proto existuje bezplatná pomoc – a když ji využijete, je úspěch mnohem pravděpodobnější.",
+      "deep": null,
+      "when_to_see_doctor": "- Zeptejte se **porodní asistentky** na **bezplatnou podporu při odvykání kouření** – vyškolení poradci (někteří se specializují na těhotenství) vás mohou podpořit a v mnoha zemích existuje také bezplatná linka pro odvykání kouření. Vyhledat pomoc je projevem péče o miminko, ne selháním.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Špinění a krvácení mezi menstruacemi",
+      "aliases": [
+        "špinění",
+        "krvácení mezi menstruacemi",
+        "intermenstruační krvácení",
+        "krvácení z antikoncepce",
+        "krvácení po sexu",
+        "špinění mimo menstruaci",
+        "slabé krvácení"
+      ],
+      "glance": "Špinění je slabé krvácení mezi menstruacemi nebo po sexu – často nejde o nic vážného, ale vždy stojí za to ho nechat zkontrolovat.",
+      "overview": "Špinění znamená slabé krvácení, ke kterému dochází mezi menstruacemi nebo po sexu, mimo vaše běžné krvácení. Je časté a obvykle nejde o nic vážného – ale protože může mít několik příčin, je to něco, co se vždy vyplatí nechat zkontrolovat zdravotníkem.\n\nBěžných důvodů je mnoho. Častým je zahájení nebo užívání hormonální antikoncepce. Dalšími jsou drobné neškodné výrůstky v děloze nebo v jejím okolí (polypy nebo myomy), neškodné změny na povrchu děložního čípku, suchost pochvy nebo infekce, jako jsou chlamydie.\n\nProtože stejný příznak může mít různé příčiny – většinou nezávažné –, užitečným krokem není hádat, ale nechat se vyšetřit, abyste věděla, co za ním u vás stojí.",
+      "deep": null,
+      "when_to_see_doctor": "- Navštivte praktického lékaře nebo poradnu pro sexuální zdraví **pokaždé, když krvácíte mezi menstruacemi nebo po sexu**, i když je krvácení slabé. Obvykle nejde o nic vážného, ale vyšetření je způsob, jak zjistit příčinu – a jak včas vyloučit méně časté příčiny.",
+      "red_flags": "- Požádejte o **neodkladnou** návštěvu u praktického lékaře nebo kontaktujte **lékařskou pohotovostní službu**, pokud vám **vynechala menstruace a máte neobvyklé krvácení spolu s bolestí břicha nebo pánve** – je potřeba rychlé vyšetření, protože může jít o známku mimoděložního těhotenství."
+    },
+    "stalking": {
+      "title": "Stalking (pronásledování)",
+      "aliases": [
+        "stalking",
+        "pronásledování",
+        "nebezpečné pronásledování",
+        "někdo mě sleduje",
+        "obtěžování",
+        "nechtěná pozornost",
+        "kyberstalking"
+      ],
+      "glance": "Stalking je opakovaná, nechtěná pozornost, kvůli které máte strach nebo se necítíte v bezpečí – a bere se vážně.",
+      "overview": "Stalking je vzorec nechtěného, opakovaného chování ze strany někoho, kvůli kterému máte strach, cítíte se sledovaná nebo v ohrožení. Může zahrnovat to, že vás někdo sleduje, objevuje se tam, kde jste, neustále volá nebo píše zprávy, posílá nechtěné dárky, sleduje vás online nebo přes váš telefon, nebo vám vyhrožuje. Často ho páchá bývalý partner nebo někdo, koho znáte, i když ne vždy.\n\nStrach, který vyvolává, je oprávněný, i když se jednotlivé činy mohou ostatním zdát „malé“ – důležitý je vzorec a to, jak se kvůli němu cítíte. Stalking je uznávanou formou násilí a v mnoha zemích je trestným činem. Nic z toho není vaše vina a nemusíte s tím prostě žít.\n\nPokud je to bezpečné, může vám později pomoci vést si záznamy: data a časy, snímky obrazovky se zprávami a popis toho, co se stalo. Nemusíte sama zjišťovat, zda se to „počítá“ – služby podpory vám pomohou se v tom vyznat a promyslet vaše možnosti.",
+      "deep": null,
+      "when_to_see_doctor": "- Stalking oznamte **policii** a obraťte se na linku pomoci pro oběti násilí nebo pronásledování, kde vám poskytnou podporu a radu (v Itálii je linka **1522** určena pro násilí **i** stalking).\n- Uchovávání důkazů i vytvoření bezpečnostního plánu s pomocí specializované služby mohou mít opravdu velký význam.",
+      "red_flags": "- Pokud se cítíte v **bezprostředním nebezpečí**, kontaktujte hned tísňové služby: **112** v EU (včetně Itálie), **999** ve Spojeném království, **911** v USA a Kanadě.\n- V Itálii vám linka **1522** – zdarma, 24 hodin denně, anonymní a vícejazyčná – může pomoci po telefonu nebo přes chat."
+    },
+    "stillbirth": {
+      "title": "Narození mrtvého dítěte",
+      "aliases": [
+        "narození mrtvého dítěte",
+        "mrtvě narozené dítě",
+        "ztráta miminka",
+        "pozdní ztráta těhotenství",
+        "odumření plodu",
+        "perinatální ztráta",
+        "andělské miminko"
+      ],
+      "glance": "Narození mrtvého dítěte je ztráta miminka po 24. týdnu – je neobvyklé, nikdy to není vaše vina a vždy se vám dostane podpory.",
+      "overview": "O narození mrtvého dítěte mluvíme, když se miminko narodí mrtvé po 24. týdnu těhotenství. (Ztráta před 24. týdnem se nazývá samovolný potrat.) Je to neobvyklé – zhruba 1 z každých 250 porodů –, ale pro rodiny, kterých se to týká, je to hluboká ztráta a veškerá péče, která následuje, vás má touto dobou jemně provést.\n\nNěkdy se příčina najde – například problém s placentou nebo s vývojem miminka, nebo zdravotní potíže – a někdy se navzdory vyšetřením **žádná příčina nenajde**. Ať je důvod jakýkoli, narození mrtvého dítěte není nic, co by rodič způsobil nebo mohl předvídat a odvrátit.\n\nJedna věc riziko opravdu pomáhá snížit, a je jednoduchá: **ihned říct porodní asistentce, pokud se pohyby miminka zpomalí nebo změní.** Spolu s tím hrají roli i každodenní věci – chodit na prenatální prohlídky, nekouřit, vyhýbat se alkoholu a od 28. týdne spát na boku.",
+      "deep": null,
+      "when_to_see_doctor": "- Kontaktujte **porodní asistentku nebo porodnici okamžitě** – kdykoli, ve dne i v noci –, pokud se vaše **miminko hýbe méně než obvykle nebo jsou jeho pohyby jiné.** Nikdy nečekejte, jestli to přejde; nechat se zkontrolovat je přesně to správné a nikdy tím nikoho neobtěžujete.\n- Po ztrátě jsou tu pro vás specializované porodní asistentky a týmy pro podporu pozůstalých – pro rozhodování, praktické kroky i pro smutek. Nemusíte tím procházet sama a podpůrné skupiny pro rodiče po ztrátě miminka jsou k dispozici, jak dlouho je budete potřebovat.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stres, život a vaše menstruace",
+      "aliases": [
+        "stres a menstruace",
+        "stres",
+        "vynechaná menstruace",
+        "opožděná menstruace",
+        "zpožděná menstruace",
+        "nepřišla mi menstruace",
+        "proč mi nejde menstruace"
+      ],
+      "glance": "Stres, velké změny hmotnosti nebo hodně cvičení mohou menstruaci opozdit nebo zastavit – často jen na nějakou dobu.",
+      "overview": "Je běžné, že menstruace přijde pozdě nebo jeden měsíc vynechá, a důvod má často víc společného se životem než s tím, že by bylo něco v nepořádku. Častým důvodem je stres – stejný systém, který reaguje na tlak, může ovlivnit hormony, které řídí váš cyklus.\n\nMenstruaci mohou posunout i jiné každodenní věci: velká změna hmotnosti (nahoru či dolů), hodně cvičení nebo vyčerpání. Za tím mohou být také hormonální změny – například blížící se perimenopauza nebo onemocnění, jako je PCOS –, stejně jako těhotenství a některé druhy antikoncepce. Často se interval mezi menstruacemi prostě čas od času trochu liší, a to je normální.\n\nUklidňující je, že jednorázově opožděná nebo vynechaná menstruace obvykle není důvodem k obavám a věci se často ustálí, jak se ustálí život. Pozornost si zaslouží spíše opakující se změna než jeden měsíc.",
+      "deep": null,
+      "when_to_see_doctor": "Navštivte praktického lékaře, pokud:\n\n- vám vynechaly **tři menstruace po sobě** nebo se vaše menstruace stala **nepravidelnou**\n- vaše menstruace **přestala** a nevíte proč (a pokud je možné těhotenství, vyplatí se nejdřív udělat test)\n- vynechaná menstruace přichází spolu s dalšími změnami – například nečekanou změnou hmotnosti, únavou, nadměrným růstem chloupků nebo skleslostí\n\nTato vyšetření slouží jen k tomu, abyste pochopila, co za změnou stojí – obvykle je to něco, co se dá zvládnout.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Jak ji podpořit během menstruace",
+      "aliases": [
+        "pomoc během její menstruace",
+        "podpora při menstruaci pro partnery",
+        "péče při menstruaci",
+        "partnerka má menstruaci",
+        "přítelkyně má menstruaci",
+        "jak pomoct při menstruaci"
+      ],
+      "glance": "Menstruace může přinášet skutečnou bolest a únavu – drobná praktická péče má velký význam.",
+      "overview": "Menstruace není jen pár dní krvácení; pro mnoho žen s sebou přináší křeče, bolest zad, bolesti hlavy, únavu a nedostatek energie. Menstruační bolest je běžná a může být opravdu vyčerpávající – není to přehánění. Berte to stejně, jako když je partnerka nemocná: s praktickou laskavostí.\n\nBerte to také jako normální věc. Menstruace není nechutná, trapná ani tabu. Když vám nedělá problém koupit vložky nebo tampony, mít je doma nebo jí bez okolků podat termofor, dáváte jí najevo, že je v bezpečí a má vaši podporu.",
+      "deep": "Jednoduché věci, které pomáhají:\n\n- **Teplo a odpočinek.** Termofor nebo nahřívací polštářek na podbřišek zmírní křeče; nabídněte klidný večer doma.\n- **Uberte jí povinností.** Uvařte, uklizte, vyřiďte pochůzku, odvezte ji – praktická pomoc zapůsobí víc než slova.\n- **Mějte zásoby.** Vězte, co používá, a mějte to doma, aby silnější den nikdy nebyl krizí.\n- **Léky proti bolesti a oblíbené jídlo**, pokud o ně stojí; je to její volba.\n- **Netlačte na sex ani na energii, kterou nemá.** Blízkost může být i mazlení na gauči.",
+      "when_to_see_doctor": "Povzbuďte ji, aby navštívila lékaře (a nabídněte, že půjdete s ní), pokud je menstruační bolest **silná, zhoršuje se nebo jí brání v běžném životě**, pokud je menstruace **velmi silná** (ochrana každou hodinu prosákne, velké sraženiny), nebo pokud je bolest nová a neobvyklá – mohou to být známky onemocnění, jako je endometrióza, které si zaslouží náležitou péči.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Jak podpořit někoho, kdo zažívá násilí",
+      "aliases": [
+        "podpora blízkého",
+        "jak pomoct kamarádce",
+        "jak pomoci",
+        "někdo zažívá násilí",
+        "kamarádka zažívá násilí",
+        "jak podpořit oběť násilí"
+      ],
+      "glance": "Pokud někdo, koho znáte, možná zažívá násilí, pomůže naslouchat bez odsuzování – a vědět, kam ho nasměrovat.",
+      "overview": "Uvědomit si, že někdo, na kom vám záleží, možná zažívá násilí, je těžké a chtít pomoci je dobrý instinkt. To nejužitečnější, co můžete nabídnout, bývá často to nejjednodušší.\n\nNaslouchejte a věřte mu. Nechte ho mluvit vlastním tempem, neodsuzujte, neobviňujte a neptejte se, čím to způsobil. Řekněte jasně, že to není jeho vina a že si to nezaslouží. Snažte se mu neříkat, co má dělat, a netlačte ho k odchodu: o odchodu musí rozhodnout on sám a odchod ve spěchu může nebezpečí dokonce zvýšit – víc pomáhá, když cítí podporu a ví, že na to není sám.\n\nCo vám svěří, si nechte pro sebe. Až na to bude připravený, jemně mu pomozte najít specializovanou pomoc – linku, jako je **1522** v Itálii, nebo místní centrum proti násilí – a nabídněte praktickou pomoc, například společně vyhledat čísla nebo být u toho, když bude volat. A pečujte také o sebe; podporovat někoho v takové situaci může být náročné.",
+      "deep": null,
+      "when_to_see_doctor": "- Povzbuďte ho (bez nátlaku), aby se obrátil na linku pomoci nebo centrum proti násilí, kde vám oběma poradí, co dělat dál. Můžete nabídnout, že mu pomůžete zavolat nebo najít číslo.\n- Pokud je zraněný, může pomoci praktický lékař nebo nemocnice – a propojit ho se službami podpory.",
+      "red_flags": "- Pokud je v **bezprostředním nebezpečí**, volejte tísňové služby: **112** v EU (včetně Itálie), **999** ve Spojeném království, **911** v USA a Kanadě.\n- V Itálii vám linka **1522** (zdarma, 24/7, anonymní, vícejazyčná – telefon nebo chat) může také poradit, jak někomu pomoci."
+    },
+    "the-coil": {
+      "title": "Nitroděložní tělísko (IUD a IUS)",
+      "aliases": [
+        "nitroděložní tělísko",
+        "tělísko",
+        "IUD",
+        "IUS",
+        "měděné tělísko",
+        "hormonální tělísko",
+        "nitroděložní systém",
+        "Mirena"
+      ],
+      "glance": "Nitroděložní tělísko je malé zařízení zavedené do dělohy – měděné (IUD) nebo hormonální (IUS) –, které vydrží roky.",
+      "overview": "Nitroděložní tělísko je malé zařízení, které zdravotník zavede do dělohy. Existují dva druhy a je dobré je rozlišovat:\n\n- **IUD**, neboli měděné tělísko, neobsahuje žádné hormony. Měď mění prostředí v děloze tak, že spermie a vajíčka v něm nemohou dobře přežít, a ovlivňuje také cervikální hlen. Podle typu účinkuje zhruba 5 až 10 let.\n- **IUS**, neboli hormonální tělísko, místo mědi uvolňuje gestagen. Zahušťuje hlen v děložním hrdle a ztenčuje děložní sliznici; u některých žen může také menstruaci výrazně zeslabit.\n\nObě jsou metody typu „zavést a zapomenout“ a obě jsou účinné na více než 99 %, s malým rozdílem mezi dokonalým a běžným používáním. Ani jedno nechrání před pohlavně přenosnými infekcemi.",
+      "deep": "Nitroděložní tělíska jsou dlouhodobě působící vratné metody: po zavedení účinkují roky a po vyjmutí se plodnost vrací. Zavedení i vyjmutí provádí vyškolený zdravotník a trvá jen pár minut, i když někomu může být zavedení nepříjemné. Častým důvodem, proč se lidé rozhodují mezi oběma druhy, je jejich vliv na menstruaci – měděné IUD může menstruaci zpočátku zesílit, zatímco hormonální IUS ji často zeslabí. Co vám bude vyhovovat, je potřeba probrat se zdravotníkem; tento článek jen vysvětluje, jak které funguje.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "Dny před menstruací",
+      "aliases": [
+        "PMS pro partnery",
+        "podpora před menstruací",
+        "předmenstruační podpora",
+        "podpora v luteální fázi",
+        "partnerka má PMS",
+        "nálady před menstruací"
+      ],
+      "glance": "Ve dnech před menstruací může být unavenější, citlivější nebo skleslá – reagujte trpělivostí, ne vtipy.",
+      "overview": "Zhruba týden před menstruací má mnoho žen předmenstruační příznaky: změny nálady, podrážděnost nebo skleslost, únavu, citlivá prsa, nadýmání, bolesti hlavy nebo potíže se spánkem. Je to velmi časté a skutečné – způsobuje to přirozená hormonální změna luteální fáze, ne to, že by „přeháněla“.\n\nU menšího počtu žen je skleslost závažná (jde o stav zvaný PMDD) a zaslouží si skutečnou podporu a lékařskou péči. Tak či tak vaším úkolem není stanovit jí diagnózu ani ji „opravit“ – ale být jí klidnou oporou a projevovat laskavost.\n\nTo nejškodlivější, co může partner v této situaci udělat, je použít to jako zbraň: „to máš jen z PMS“, protočené oči nebo zlehčování jejích pocitů kvůli datu v kalendáři. Tím ji odbydete a v už tak těžkém týdnu jí přidáte další bolest. Její pocity se počítají, i když hormony hrají svou roli.",
+      "deep": "Co v těchto dnech opravdu pomáhá:\n\n- **Ulehčete jí.** Převezměte domácí práce, vaření nebo seznam věcí k zařízení, aniž by vás musela žádat.\n- **Útěcha, ne poučování.** Nabídněte teplo, odpočinek, termofor, její oblíbené jídlo – a nechte ji cítit to, co cítí.\n- **Nejdřív naslouchejte.** Když je rozrušená, „to zní opravdu těžce“ je vždy lepší než „uklidni se“.\n- **Nepočítejte si body.** Těžší den není dluh, který vám později musí splatit.\n- **Zeptejte se, co potřebuje** – některé ženy chtějí blízkost, jiné prostor. Obojí je v pořádku; respektujte její odpověď.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Dvojčata a vícečetné těhotenství",
+      "aliases": [
+        "dvojčata",
+        "těhotenství s dvojčaty",
+        "vícečetné těhotenství",
+        "čekám dvojčata",
+        "jednovaječná dvojčata",
+        "dvouvaječná dvojčata",
+        "trojčata"
+      ],
+      "glance": "Dvojčata se obvykle poprvé zjistí při datovacím ultrazvuku a znamenají o něco víc prenatální péče.",
+      "overview": "To, že čekáte víc než jedno miminko, se obvykle poprvé zjistí při **datovacím ultrazvuku** (kolem 12. týdne), který také může ukázat, zda miminka sdílejí placentu.\n\nExistují dva hlavní druhy. **Jednovaječná** dvojčata vznikají z jednoho oplozeného vajíčka, které se rozdělí, takže mají stejné geny a jsou vždy stejného pohlaví. **Dvouvaječná** dvojčata vznikají ze dvou samostatných vajíček a nejsou si podobnější než jiní sourozenci; jsou z obou druhů častější a o něco pravděpodobnější jsou ve vyšším věku, pokud se dvojčata vyskytují v rodině z matčiny strany nebo po léčbě neplodnosti.\n\nTěhotenství s dvojčaty nebo více miminky je zvláštní zkušenost a obvykle znamená **o něco víc prenatální péče** – další prohlídky a ultrazvuky, aby vás i vaše miminka mohli pečlivě sledovat. Tým porodních asistentek vám vysvětlí, co můžete očekávat.",
+      "deep": null,
+      "when_to_see_doctor": "- Pokud ultrazvuk ukáže dvojčata (nebo více miminek), vaše **porodní asistentka** s vámi probere další prohlídky a ultrazvuky, které k vícečetnému těhotenství patří – chodit na všechny je nejlepší způsob, jak zůstat v dobré péči.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Jak porozumět jejímu cyklu",
+      "aliases": [
+        "průvodce cyklem pro partnery",
+        "cyklus pro partnery",
+        "jak funguje její cyklus",
+        "podpora během jejího cyklu",
+        "ženský cyklus pro muže",
+        "fáze cyklu partnerky"
+      ],
+      "glance": "Její tělo prochází měsíčním cyklem se čtyřmi fázemi – znalost základů vám pomůže ji podporovat bez dohadů.",
+      "overview": "Menstruační cyklus je přibližně měsíční rytmus, v průměru trvá asi 28 dní, často ale cokoli mezi 21 a 35 dny, a normální je pro ni to, co je pravidelné právě *pro ni*. Probíhá ve čtyřech fázích: **menstruační** fáze (menstruace), **folikulární** fáze, **ovulace** zhruba uprostřed a **luteální** fáze před další menstruací.\n\nEnergie, nálada, spánek i chuť na sex se mohou během těchto fází měnit, protože hormony stoupají a klesají – to je biologie, ne povahová vada, a rozhodně ne důvod ji škádlit. Některé ženy pociťují ve dnech před menstruací skutečný propad, jiné si toho téměř nevšimnou. Neexistuje jediný „správný“ způsob, jak se cítit.\n\nNemusíte se stát odborníkem. Nejvíc pomáhá něco jednoduchého: zhruba vědět, v jaké fázi cyklu se nachází (tato aplikace vám to s jejím svolením může ukázat), počítat s tím, že některé dny jsou těžší než jiné, a místo domněnek se jí zeptat, co pomáhá právě *jí*.",
+      "deep": "Pár věcí, které stojí za to vědět, aby mezery nezaplnily mýty:\n\n- **„Má svoje dny“ není urážka ani vysvětlení toho, že s vámi nesouhlasí.** Používat její cyklus k odbytí jejích pocitů („to jsou jen hormony“) je neuctivé a většinou to ani není pravda. Její důvody jsou pořád její důvody.\n- **Cyklus ovlivňuje víc než jen menstruaci.** Součástí mohou být křeče, bolesti hlavy, citlivá prsa, nedostatek energie nebo horší nálada. Praktická pomoc je lepší než rady.\n- **Sledování cyklu patří jí.** Pokud s vámi svůj cyklus sdílí, berte to jako okno do toho, jak se možná cítí – jako pozvání k laskavosti, nikdy jako nástroj k jejímu sledování nebo kontrole.\n- **V případě pochybností se zeptejte.** „Jak se dnes cítíš? Můžu pro tebe něco udělat?“ má větší cenu než jakýkoli graf.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Suchost pochvy",
+      "aliases": [
+        "suchost pochvy",
+        "suchá pochva",
+        "poševní suchost",
+        "vaginální suchost",
+        "atrofie pochvy",
+        "suchost při sexu",
+        "lubrikace"
+      ],
+      "glance": "Suchost pochvy je častá, často souvisí s hormony a může způsobovat bolestivost nebo nepříjemné pocity při sexu.",
+      "overview": "Suchost pochvy je častá zkušenost, kterou mnoho žen v určitém období zažije. Dochází k ní, když se sníží běžná vlhkost, díky které je pochva v pohodlí, a může se projevovat jako bolestivost, svědění nebo nepříjemné pocity – včetně bolesti nebo nepohodlí při sexu.\n\nČasto souvisí s hormony, zejména s poklesem estrogenu. Proto je častá kolem menopauzy a perimenopauzy, může se ale objevit i během kojení, při užívání některých léků (například určité antikoncepce nebo antidepresiv) nebo když před sexem chybí dostatečné vzrušení. Není to nic, za co byste se měla stydět – je to tělesná záležitost, ne odraz vás nebo vašeho vztahu.\n\nVědět, že je častá a obvykle velmi dobře léčitelná, je dobrý začátek. Existují jednoduché možnosti, které mohou pomoci, a praktický lékař nebo lékárník vám poradí, co vám bude vyhovovat.",
+      "deep": null,
+      "when_to_see_doctor": "Navštivte praktického lékaře, pokud:\n\n- vás suchost pochvy obtěžuje nebo neustoupí ani po několika týdnech\n- ovlivňuje váš každodenní nebo sexuální život\n- máte také neobvyklý výtok nebo jakékoli krvácení po sexu, mezi menstruacemi nebo po menopauze\n\nNení nutné to jen snášet – pomoc je k dispozici a zdravotník může zjistit, co za tím stojí a co by mohlo ulevit.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "Zdraví pochvy a vulvy",
+      "aliases": [
+        "zdraví pochvy",
+        "zdraví vulvy",
+        "intimní hygiena",
+        "hygiena pochvy",
+        "výplach pochvy",
+        "výtok",
+        "intimní mycí gel"
+      ],
+      "glance": "Pochva se čistí sama – stačí jí šetrná péče zvenku a výtok je normální.",
+      "overview": "Jednou z nejuklidňujících věcí, které je dobré vědět, je, že pochva se o sebe stará sama. Přirozeně se sama čistí a výtok, kterého si všímáte, je součástí tohoto procesu – je to tekutina, která ji udržuje čistou a vlhkou a pomáhá ji chránit před infekcí. Jeho množství a konzistence se během cyklu mění, což je naprosto normální.\n\nProto pochvu není potřeba mýt zevnitř. Mytí uvnitř – „výplachy“ – může dokonce narušit její přirozenou rovnováhu. Vnější části (vulvě) stačí šetrná péče: teplá voda a, pokud chcete, jemné mýdlo bez parfemace. Parfémovaným mýdlům, gelům, deodorantům a vonným ubrouskům je lepší se vyhnout, protože mohou způsobit podráždění.\n\nKdyž poznáte, co je pro vás normální – váš obvyklý výtok, vzhled a pocit –, snáz si všimnete, pokud se něco změní a mělo by se to zkontrolovat.",
+      "deep": null,
+      "when_to_see_doctor": "Navštivte praktického lékaře nebo poradnu pro sexuální zdraví, pokud si všimnete:\n\n- změny výtoku – jeho barvy, zápachu nebo konzistence, nebo mnohem většího množství než obvykle\n- svědění, bolestivosti nebo podráždění v oblasti pochvy či vulvy\n- krvácení mezi menstruacemi nebo po sexu\n- bolesti při močení nebo bolesti nízko v podbřišku, mezi břichem a stehny (bolest v pánvi)\n\nTyto potíže jsou časté a často se snadno léčí – změna výtoku může znamenat jen mírnou infekci, jako je poševní kvasinková infekce (mykóza). Nechat se vyšetřit je způsob, jak to zjistit, místo abyste hádala.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "Cyklus a jeho fáze",
+      "summary": "Jak váš cyklus prochází menstruační, folikulární, ovulační a luteální fází."
+    },
+    "hormones": {
+      "title": "Hormony",
+      "summary": "Poslové, kteří řídí váš cyklus – estrogen, progesteron, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Plodnost a ovulace",
+      "summary": "Plodné okno, známky ovulace a to, co plodnost ovlivňuje."
+    },
+    "contraception": {
+      "title": "Antikoncepce",
+      "summary": "Jak jednotlivé metody fungují – srozumitelně a jednoduše."
+    },
+    "symptoms-and-signals": {
+      "title": "Příznaky a signály těla",
+      "summary": "Bolest, špinění, výtok, nálada – co vám možná tělo sděluje."
+    },
+    "conditions": {
+      "title": "Onemocnění",
+      "summary": "PCOS, endometrióza, myomy a další – vysvětlené, se zdroji."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Sexuální a intimní zdraví",
+      "summary": "Intimní pohoda, pohodlí a časté otázky."
+    },
+    "life-stages": {
+      "title": "Životní etapy",
+      "summary": "Od první menstruace přes perimenopauzu až po menopauzu."
+    },
+    "wellbeing": {
+      "title": "Pohoda a cyklus",
+      "summary": "Jak spánek, stres a každodenní život souvisejí s vaším cyklem."
+    },
+    "tests-and-exams": {
+      "title": "Testy a vyšetření",
+      "summary": "Samovyšetření prsů, cervikální screening, ovulační testy a další."
+    },
+    "pregnancy": {
+      "title": "Těhotenství",
+      "summary": "První známky, péče o sebe, varovné příznaky a ztráta těhotenství – vysvětlené, se zdroji."
+    },
+    "for-partners": {
+      "title": "Pro partnery",
+      "summary": "Jak porozumět jejímu cyklu, dobře ji podporovat a budovat vztah na respektu."
+    },
+    "safety-and-support": {
+      "title": "Bezpečí a podpora",
+      "summary": "Jak rozpoznat násilí, zůstat v bezpečí a kde hledat pomoc – s tísňovými čísly."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Porozumějte svému cyklu v 5 krocích",
+      "summary": "Klidná procházka celým cyklem a každou z jeho čtyř fází."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Seznamte se s ovulací",
+      "summary": "Co je ovulace, plodné okno a jaké signály vám tělo dává."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "Hormony, které řídí váš cyklus",
+      "summary": "Poznejte čtyři posly, kteří cyklus pohánějí – a co každý z nich dělá."
+    }
+  }
+}

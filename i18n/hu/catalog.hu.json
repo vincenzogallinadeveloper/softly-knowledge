@@ -1,0 +1,1463 @@
+{
+  "_meta": {
+    "lang": "hu",
+    "is_source": false,
+    "source_content_checksum": "424d31f25536ce8fe0fb31d201e84686c633cc01cf4934a513ee49803c880de2",
+    "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
+  },
+  "atoms": {
+    "alcohol-in-pregnancy": {
+      "title": "Alkohol a terhesség alatt",
+      "aliases": [
+        "alkohol terhesség alatt",
+        "ivás terhesen",
+        "alkohol és terhesség",
+        "magzati alkoholszindróma",
+        "FASD",
+        "szabad inni terhesen",
+        "bor sör terhesség"
+      ],
+      "glance": "A legbiztonságosabb, ha a terhesség alatt és akkor, amikor teherbe szeretnél esni, egyáltalán nem iszol alkoholt.",
+      "overview": "A brit NHS tanácsa világos és egyszerű: ha várandós vagy, vagy teherbe szeretnél esni, a legbiztonságosabb, ha **egyáltalán nem iszol alkoholt**. Ha nem iszol, a babádat érő kockázat a lehető legkisebb marad.\n\nEnnek az az oka, hogy az alkohol a véredből a méhlepényen keresztül eljut a babához, akinek a mája még nem elég fejlett ahhoz, hogy lebontsa. A terhesség alatti alkoholfogyasztás magzati alkoholspektrum-zavarhoz (FASD) vezethet, amely a tanulást, a viselkedést és a fejlődést érintő, egész életen át tartó nehézségek sorát jelenti.\n\nHa ittál, mielőtt tudtad volna, hogy várandós vagy, próbálj meg nem aggódni: a korai szakaszban elfogyasztott kis mennyiség valószínűleg csak kis kockázatot jelent a babára. A legjobb, amit tehetsz, hogy mostantól a terhesség hátralévő részében kerülöd az alkoholt.",
+      "deep": null,
+      "when_to_see_doctor": "- Ha nehezedre esik abbahagyni az ivást, azt nem kell szégyellned – mondd el a szülésznődnek vagy a háziorvosodnak. Ítélkezés nélkül tudnak támogatást nyújtani, és a segítségkérés jót tesz neked és a babádnak is.",
+      "red_flags": null
+    },
+    "antenatal-care": {
+      "title": "Várandósgondozás",
+      "aliases": [
+        "várandósgondozás",
+        "terhesgondozás",
+        "terhesség alatti vizsgálatok",
+        "szülésznő vizsgálat",
+        "védőnő",
+        "első terhesgondozási vizsgálat",
+        "terhességi ultrahang"
+      ],
+      "glance": "A várandósgondozás a terhesség alatti rendszeres ellenőrzéseket jelenti, amelyek segítenek, hogy te és a babád is jól legyetek.",
+      "overview": "A várandósgondozás az az ellátás, amelyet a terhesség alatt kapsz, hogy te és a babád a lehető legegészségesebbek legyetek. Általában szülésznővel találkozol, és ha szükséges, orvossal is. Érdemes korán elkezdeni: amint tudod, hogy várandós vagy, vedd fel a kapcsolatot a szülésznőddel vagy a háziorvosoddal.\n\nAz első igazi vizsgálat – az úgynevezett „felvételi” vizsgálat – általában a 8. és a 12. hét között van. Ezután rendszeres ellenőrzéseket ajánlanak: első babánál legalább 10 vizsgálatot és 2 ultrahangvizsgálatot, ha pedig már szültél, nagyjából 7 vizsgálatot, a terhesség vége felé sűrűbben.\n\nEzeken az alkalmakon a szülésznő megméri a vérnyomásodat, ellenőrzi a vizeletedet, megméri a pocakodat, hogy kövesse a baba növekedését, szűrővizsgálatokat ajánl, és beszélget veled a baba mozgásáról és arról, hogy érzed magad. Sok fontos dolgot – például a preeclampsiát vagy a terhességi cukorbetegséget – itt vesznek észre, még mielőtt te bármit is érzékelnél, és éppen ezért fontosak ezek a vizsgálatok.",
+      "deep": null,
+      "when_to_see_doctor": "- **Amint kiderül, hogy várandós vagy, vedd fel a kapcsolatot szülésznővel vagy háziorvossal**, hogy a gondozásod korán elkezdődhessen – ideális esetben még időben ahhoz az első vizsgálathoz, nagyjából a 10–12. hét előtt.\n- Próbálj meg **minden** várandósgondozási vizsgálaton részt venni, akkor is, ha teljesen jól érzed magad – több ellenőrzés kifejezetten arra szolgál, hogy a tünetet nem okozó problémákat korán kiszűrje.",
+      "red_flags": null
+    },
+    "babys-movements": {
+      "title": "A baba mozgásai",
+      "aliases": [
+        "baba mozgása",
+        "magzatmozgás",
+        "rúgások",
+        "baba rugdos",
+        "érzem a babát mozogni",
+        "kevesebb magzatmozgás",
+        "nem mozog a baba"
+      ],
+      "glance": "Ha érzed, hogy a babád mozog, az annak a jele, hogy jól van – ha a mozgások ritkulnak vagy megváltoznak, azonnal hívd a szülésznődet.",
+      "overview": "A baba mozgásának érzése az egyik megnyugtató jele annak, hogy jól van. A legtöbben a terhesség 16. és 24. hete között kezdik érezni a mozgásokat – első terhességnél gyakran később, ezért első alkalommal az is gyakori, ha csak a 20. hét után.\n\nNincs meghatározott szám, ahány mozgást „kellene” érezned, és nem kell a rúgásokat egy célszámhoz mérve számolnod. Minden baba más, és az a fontos, hogy megismerd a **saját** babád szokásos napi ritmusát – mikor aktív, és mikor csendesebb.\n\nHa már ismered ezt a ritmust, akkor az ettől való eltérésre kell figyelned. Bízz abban, amit a saját babádról tudsz.",
+      "deep": null,
+      "when_to_see_doctor": "Ha megismered a babád szokásos mozgási ritmusát, észre fogod venni, ha változik. Ha valaha is bizonytalan vagy abban, hogy a mozgások ritkultak-e vagy megváltoztak, mindig helyes, ha telefonálsz és rákérdezel – soha senkinek nem rabolod feleslegesen az idejét.",
+      "red_flags": "- Ha a babád **a szokásosnál kevesebbet mozog, megváltozik a mozgása, vagy nem érzed, hogy mozog**, **azonnal hívd a szülésznődet vagy a szülészeti osztályt** – a nap vagy az éjszaka bármely szakában. **Ne várj másnapig**, akkor sem, ha éjszaka van.\n- Ne hagyatkozz otthoni magzati szívhangfigyelőre (dopplerre) vagy egy alkalmazásra, hogy megnyugtasd magad – menj el, és vizsgáltasd meg magad személyesen."
+    },
+    "back-pain-in-pregnancy": {
+      "title": "Hátfájás a terhesség alatt",
+      "aliases": [
+        "hátfájás terhesség alatt",
+        "derékfájás terhesen",
+        "terhességi hátfájás",
+        "deréktáji fájdalom terhesség",
+        "medencefájdalom terhesség",
+        "keresztcsonti fájdalom"
+      ],
+      "glance": "A hátfájás nagyon gyakori a terhesség alatt, mert a szalagok fellazulnak és nő a pocakod – általában ártalmatlan.",
+      "overview": "A hátfájás a terhesség egyik leggyakoribb kísérője. Ahogy a tested felkészül a szülésre, a szalagok természetes módon fellazulnak és megnyúlnak, a növekvő pocak pedig megváltoztatja, hogyan viseled a testsúlyodat – mindkettő extra terhelést jelent a derekadra és a medencédre.\n\nHétköznapi dolgok is enyhíthetik: figyelj a testtartásodra álláskor, üléskor és emeléskor; viselj lapos, jól tartó cipőt; használj kemény matracot vagy megtámasztó párnát; és mozogj rendszeresen, kíméletesen, például sétálj, járj kismamajógára, vagy végezz tanfolyamon tanult gyakorlatokat. Ha tényleg akadályoz a mindennapokban, egy várandós nőkre szakosodott gyógytornász személyre szabott tanácsokat adhat.\n\nA terhesség alatti hátfájás többnyire nem ad okot aggodalomra – de néhány esetben érdemes mielőbb kivizsgáltatni, erről szól az alábbi útmutató.",
+      "deep": null,
+      "when_to_see_doctor": "Fordulj mielőbb a **háziorvosodhoz vagy a szülésznődhöz**, ha a hátfájásod:\n\n- **erős**, vagy a **második vagy a harmadik trimeszterben** kezdődik (néha a korai vajúdás jele lehet)\n- **lázzal, hüvelyi vérzéssel vagy vizeléskor jelentkező fájdalommal** jár együtt\n- **oldalt (az egyik vagy mindkét oldalon), a bordáid alatt** jelentkezik",
+      "red_flags": "- **Hívd a {{emergency}} segélyhívó számot, vagy menj a sürgősségi osztályra**, ha **elveszíted az érzést a lábadban, a fenekedben vagy a nemi szerveid környékén**, vagy nem tudod irányítani a hólyagodat vagy a beleidet. Ez ritka, de sürgősségi ellátást igényel."
+    },
+    "basal-body-temperature": {
+      "title": "Bazális testhőmérséklet",
+      "aliases": [
+        "bbt",
+        "bazális testhőmérséklet",
+        "bazális hőmérséklet",
+        "reggeli hőmérséklet",
+        "ébredési hőmérséklet",
+        "hőmérőzés",
+        "hőmérséklet módszer"
+      ],
+      "glance": "A bazális testhőmérséklet a reggeli, nyugalmi testhőmérsékleted, amely az ovuláció után kissé megemelkedik.",
+      "overview": "A bazális testhőmérséklet (BBT) a tested hőmérséklete teljes nyugalomban. Ha minden nap ugyanúgy méred, a ciklus során egy kicsi, de beszédes változást mutat: az ovuláció után kissé megemelkedik, és a következő menstruációdig magasabb marad.\n\nAz emelkedés kicsi – nagyjából 0,2–0,4 °C (körülbelül 0,4–0,8 °F) –, ezért több nap mintázatából olvasható ki, nem egyetlen mérésből. Hogy észrevedd, minden reggel mérd meg a hőmérsékletedet, mielőtt felkelsz, eszel vagy iszol, lehetőleg ugyanabban az időpontban. A hőmérséklet emelkedésének kezdete után nagyjából három nappal szinte mindenki túl van már az ovuláción.\n\nMivel az emelkedés a petesejt kilökődése *után* következik be, a BBT azt erősíti meg, hogy az ovuláció már lezajlott, nem pedig előre jelzi. Néhány ciklus alatt segíthet meglátni a saját ciklusod alakját, bár önmagában nem pontos módszer a termékeny napok elkapására.",
+      "deep": "A BBT a termékenységtudatossági módszer egyik jele, amelyet naponta feljegyzel, a méhnyaknyák és a ciklushossz mellett. Természetes párost alkot a nyák követésével: a tiszta, csúszós nyák megjelenése arra utal, hogy kezdődik a termékeny időszak, a néhány nappal későbbi hőmérséklet-emelkedés pedig megerősíti, hogy az ovuláció lezajlott. Sok minden befolyásolhatja a nyugalmi hőmérsékletet – a rossz alvás, a betegség, az alkohol vagy a szokásosnál hosszabb alvás –, ezért az egyes kiugró mérések kevésbé számítanak, mint az általános tendencia.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "bleeding-in-pregnancy": {
+      "title": "Vérzés a terhesség alatt",
+      "aliases": [
+        "vérzés terhesség alatt",
+        "hüvelyi vérzés terhesség",
+        "pecsételés terhesség alatt",
+        "vérzés terhesen",
+        "barna folyás terhesség",
+        "vérzik terhesen"
+      ],
+      "glance": "A terhesség alatti vérzés nem mindig súlyos – a korai szakaszban gyakori az enyhe pecsételés –, de mindig vizsgáltasd ki.",
+      "overview": "A terhesség alatti hüvelyi vérzés nem mindig jelenti azt, hogy valami baj van. Különösen a terhesség elején elég gyakori az enyhe vérzés vagy pecsételés, és sok terhesség utána is teljesen rendben folytatódik.\n\nUgyanakkor a vérzés néha probléma jele is lehet – például vetélésé vagy méhen kívüli terhességé –, ezért az ilyesmit **mindig ki kell vizsgáltatni**, bármilyen kevés is. A vizsgálat során derül ki az ok, és így kaphatod meg gyorsan a megfelelő ellátást, ha szükséged van rá.\n\nMivel ugyanaz a tünet nagyon különböző dolgokat jelenthet, nem a találgatás a hasznos lépés, hanem az, hogy felvedd a kapcsolatot valakivel, és megvizsgáljanak.",
+      "deep": null,
+      "when_to_see_doctor": "- **Mindig keresd meg a szülészeti osztályt** (vagy ha még nem tartasz a 20. hétnél, illetve nincs meg a számuk, egy korai terhességi ambulanciát vagy egy **ügyeletes orvost**), ha a terhesség alatt **bármilyen** hüvelyi vérzésed van, akár csak enyhe pecsételés is – hogy kiderüljön az oka.",
+      "red_flags": "- **Hívd a {{emergency}} segélyhívó számot, vagy menj a sürgősségi osztályra**, ha **erős vérzésed** van – például ha egy betét nem sokkal a felhelyezése után átázik –, különösen, ha **erős hasi fájdalom, vállcsúcsi fájdalom, hányinger, ájulásérzés, szédülés vagy eszméletvesztés is kíséri.** Ez sürgősségi ellátást igényel."
+    },
+    "breast-awareness": {
+      "title": "Ismerd meg a melleidet",
+      "aliases": [
+        "mell önvizsgálat",
+        "mellvizsgálat",
+        "melltapintás",
+        "mellek ellenőrzése",
+        "csomó a mellben",
+        "emlő önvizsgálat",
+        "mellrákszűrés"
+      ],
+      "glance": "Ismerni a melleidet egyszerűen annyit jelent, hogy tudod, hogyan néznek ki és milyen a tapintásuk normálisan, így észreveszed, ha változnak.",
+      "overview": "A mellek ismerete nem valami különleges technika – egyszerűen annyi, hogy megismered, mi a normális nálad, így minden új dolog feltűnik. Ha rendszeresen ellenőrzöd a melledet vagy a mellkasodat, megtanulod, hogyan néznek ki és milyen a tapintásuk általában; havonta egyszer jó ritmus.\n\nNincs egyetlen „helyes” módszer. Sokan tükör előtt megnézik magukat leengedett, majd felemelt karral, és végigtapintják mindkét mellüket, egészen fel a hónaljig. Amit így építesz, az a jártasság, nem diagnózis – a cél csupán az, hogy korán észrevedd, ha változás történik.\n\nA mellek a ciklus során és az élet folyamán is természetes módon változnak, így bizonyos változások teljesen normálisak. A lényeg az, hogy elég jól ismerd a saját normálisodat ahhoz, hogy észrevedd, ha valami nem az.",
+      "deep": null,
+      "when_to_see_doctor": "Fordulj háziorvoshoz, ha bármilyen olyan változást észlelsz, amely nálad nem szokásos, például:\n\n- csomó vagy duzzanat a mellben, a mellkason vagy a hónaljban\n- bőrelváltozás, például behúzódás (narancsbőrhöz hasonlíthat) vagy bőrpír\n- az egyik vagy mindkét mell méretének vagy alakjának megváltozása\n- váladékozás a mellbimbóból (ha nem vagy várandós és nem szoptatsz), amely véres is lehet\n- a mellbimbó kinézetének megváltozása, például ha befelé fordul\n- fájdalom a mellben vagy a hónaljban, amely nem múlik el\n\nA mellekben észlelt változások többsége nem rák, és ártalmatlannak bizonyul – de mindig érdemes egy változást mielőbb kivizsgáltatni, mert ha valóban kezelést igényel, a korai felismerés segít.",
+      "red_flags": null
+    },
+    "breastfeeding": {
+      "title": "Szoptatás",
+      "aliases": [
+        "szoptatás",
+        "anyatej",
+        "anyatejes táplálás",
+        "baba etetése",
+        "mellre tétel",
+        "szoptatási tanácsadó",
+        "tejszaporítás"
+      ],
+      "glance": "Az anyatej védi a babát a fertőzésekkel szemben, és a növekedésével együtt változik – és bármilyen mennyiség előnyös.",
+      "overview": "Az anyatej természetes, teljes értékű táplálék a baba számára: megadja a szükséges tápanyagokat, vitaminokat és ásványi anyagokat, és idővel változik, hogy megfeleljen a baba fejlődési szakaszának. Emellett segít megvédeni a fertőzésekkel és betegségekkel szemben, és bizonyos hosszabb távú egészségügyi előnyökkel is jár.\n\nA szoptatónak is vannak előnyei – a szoptatás többek között a mell- és a petefészekrák kisebb kockázatával jár együtt –, és általánosságban minél többet és minél tovább szoptatsz, annál nagyobbak az előnyök. Fontos, hogy **bármilyen** mennyiségű anyatej megéri; ez nem „mindent vagy semmit” kérdése.\n\nA baba etetése eleinte nehezebb is lehet a vártnál, és ez gyakori. Van segítség – a szülésznődtől, a védőnődtől és a helyi szoptatástámogató szolgáltatásoktól –, ezért ha nem megy gördülékenyen, érdemes korán segítséget kérni.",
+      "deep": null,
+      "when_to_see_doctor": "- Kérj korán segítséget a **szülésznődtől vagy a védőnődtől**, ha fájdalmas vagy nehéz az etetés, vagy aggódsz, hogy a babád nem kap eleget – a támogatás valóban sokat számíthat.\n- Az, hogy hogyan eteted a babádat, személyes döntés, és bármit választasz, számíthatsz támogatásra; az a fontos, hogy te és a babád jól legyetek.",
+      "red_flags": null
+    },
+    "brown-discharge": {
+      "title": "Barna folyás",
+      "aliases": [
+        "barna folyás",
+        "barna pecsételés",
+        "barna vér",
+        "régi vér",
+        "sötét folyás",
+        "barna menstruációs vér",
+        "barna váladék"
+      ],
+      "glance": "A barna folyás általában egy kevés vér, gyakran a menstruáció gyengébb napjain. Ha máskor jelentkezik barna pecsételés, érdemes kivizsgáltatni.",
+      "overview": "Barna folyásnak azt a kis mennyiségű barnás vért vagy váladékot nevezzük, amelyet a fehérneműdön vagy a vécépapíron veszel észre. Sokan tapasztalják valamikor, és nagyon gyakran egyszerűen a menstruáció része.\n\nA menstruációs vér nem mindig élénkpiros. A legerősebb napokon általában piros, de a gyengébb napokon inkább rózsaszínnek vagy barnának is tűnhet. Így a menstruációd gyengébb napjain megjelenő barnás árnyalat gyakori és normális.\n\nA barna szín máskor is megjelenhet. A pecsételés rózsaszín, piros vagy barna vér apró foltjait jelenti, és a menstruációk közötti pecsételésnek több gyakori oka is van. Gyakori ok például a hormonális fogamzásgátlás, mint a fogamzásgátló tabletta. További okok lehetnek a méhben vagy a méh körül lévő kis növedékek (például polipok vagy miómák) és a fertőzések, például a chlamydia. Nagyon korai terhességben egyesek egy kis pecsételést észlelnek nagyjából akkor, amikor a menstruációjuk esedékes lenne. Ezt beágyazódási vérzésnek nevezik.\n\nMivel a menstruáción kívüli barna pecsételésnek különböző okai lehetnek, és többségük enyhe, nem a találgatás a hasznos lépés, hanem az, hogy megvizsgáltasd, így megtudod, mi áll mögötte nálad.",
+      "deep": null,
+      "when_to_see_doctor": "- Fordulj háziorvoshoz vagy szexuális egészségügyi rendelőhöz, ha **barna pecsételést vagy vérzést észlelsz a menstruációid között vagy szex után**, még ha enyhe is. Általában nem súlyos, de mindig érdemes kivizsgáltatni.\n- Ha **várandós vagy, vagy lehetséges, hogy az vagy**, bármilyen pecsételés – a barna pecsételést is beleértve – miatt keresd meg a szülészeti osztályt, egy korai terhességi ambulanciát vagy egy **ügyeletes orvost**, hogy kiderüljön az oka.\n- Fordulj háziorvoshoz, ha **a menopauza után bármilyen barna vagy rózsaszín folyást vagy vérzést** észlelsz, még ha csak kis mennyiségről van szó, vagy csak egyszer fordult elő.\n- Kérj tanácsot háziorvostól, szexuális egészségügyi rendelőtől vagy ügyeletes orvostól, ha a hüvelyi folyásod **színe, szaga vagy állaga megváltozik**, vagy viszketés, sajgás, kismedencei fájdalom vagy vizeléskor jelentkező fájdalom kíséri.",
+      "red_flags": "- Kérj **sürgős** időpontot a háziorvosodtól, vagy keress fel egy **ügyeletes orvost**, ha **nemrég kimaradt a menstruációd, és szokatlan vérzésed van hasi vagy kismedencei fájdalommal együtt**. Ezt gyorsan ki kell vizsgálni, mert méhen kívüli terhesség jele lehet.\n- Ha várandós vagy, hívd a **{{emergency}}** segélyhívó számot, ha vérzel, és **erős hasi fájdalmad van, fáj a vállad, ájulásérzésed van, szédülsz vagy hányingered van, vagy erős a vérzés** (egy betét nem sokkal a felhelyezése után átázik)."
+    },
+    "cervical-mucus": {
+      "title": "Méhnyaknyák",
+      "aliases": [
+        "méhnyaknyák",
+        "hüvelyi folyás",
+        "folyás",
+        "méhnyak váladék",
+        "tojásfehérje állagú nyák",
+        "termékeny nyák",
+        "cervix nyák"
+      ],
+      "glance": "A méhnyaknyák az a természetes hüvelyi folyás, amely a ciklus során változik, és jelzi a termékeny napjaidat.",
+      "overview": "A méhnyaknyák a méhnyak által termelt váladék, amelyet hüvelyi folyásként vehetsz észre. Ez normális, és a kinézete, tapintása a ciklus során elég jól előre jelezhető mintázat szerint változik – ezért ez az egyik jel, amellyel a termékeny napok felismerhetők.\n\nKözvetlenül a menstruáció után gyakran van néhány „száraz” nap, kevés nyákkal. Ahogy egy petesejt érni kezd, a nyák mennyisége nő, és általában fehér vagy sárgás, zavaros és ragacsos. Az ovuláció előtti napokban általában tisztává, nedvessé és csúszóssá válik, és a nyers tojásfehérjéhez hasonlóan nyúlik az ujjaid között – ez a legtermékenyebb időszak. Az ovuláció után jellemzően ismét ragacsos és zavaros lesz, vagy elapad.\n\nMindenkinek kicsit más a mintázata, és néhány ciklusnyi odafigyelés kellhet ahhoz, hogy megismerd a sajátodat. Bizonyos dolgok – például a hormonális fogamzásgátlás, a szoptatás vagy egy fertőzés – megváltoztathatják a nyákot, ezért nem mindenkinél megbízható termékenységi jel.",
+      "deep": "A méhnyaknyák megfigyelése a termékenységtudatossági jelek egyike, amelyet a nyugalmi testhőmérséklet és a ciklushossz mellett szokás követni; ezek megtanulása általában két-három ciklust vesz igénybe. A hőmérséklet-emelkedéssel ellentétben, amely csak utólag erősíti meg az ovulációt, a tiszta, csúszós, tojásfehérje-szerű nyák megjelenése jellemzően az ovuláció *előtt* következik be, ezért arra használják, hogy jelezze a termékeny időszak kezdetét, nem pedig azt, amikor már véget ért.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cervical-screening": {
+      "title": "Méhnyakszűrés (citológia)",
+      "aliases": [
+        "méhnyakszűrés",
+        "citológia",
+        "kenet",
+        "rákszűrés",
+        "pap teszt",
+        "pap kenet",
+        "nőgyógyászati szűrés",
+        "hpv szűrés"
+      ],
+      "glance": "A méhnyakszűrés a méhnyak egészségének rutinszerű ellenőrzése, amely segít megelőzni a méhnyakrákot.",
+      "overview": "A méhnyakszűrés olyan vizsgálat, amely a méhnyak – a hüvely felső részén lévő méhszáj – egészségét ellenőrzi. Nem a rák kimutatására szolgáló teszt. Ehelyett arra való, hogy korán észrevegyék a változásokat, és segítsen eleve megelőzni a méhnyakrák kialakulását.\n\nMindenkit, akinek méhnyaka van, 25 és 64 éves kor között hívnak be. Amikor esedékes, rendszeres időközönként meghívót kapsz, így nem kell magadtól észben tartanod, hogy időpontot foglalj – bár mindig a te döntésed, hogy elmész-e.\n\nMaga a vizsgálat gyors, és egy ápoló végzi. Sokan kicsit izgulnak miatta, ami teljesen érthető; ha tudod, mire való – egy rutinszerű, megelőző ellenőrzés –, könnyebben kezelhetőnek érezheted.",
+      "deep": null,
+      "when_to_see_doctor": "- A szűrés arra az esetre szól, amikor **nincsenek** tüneteid. Ha két szűrés között valami aggasztót észlelsz – például szokatlan vérzést (menstruációk között, szex után vagy a menopauza után) –, fordulj háziorvoshoz, ahelyett hogy a következő meghívóra várnál.\n- Ha kaptál meghívót, de bizonytalan vagy, vagy szorongsz amiatt, hogy elmenj, érdemes beszélned a háziorvosoddal vagy a rendelő ápolójával, aki elmagyarázza, mi történik, és válaszol a kérdéseidre.",
+      "red_flags": null
+    },
+    "child-abuse": {
+      "title": "Gyermekbántalmazás és a gyerekek védelme",
+      "aliases": [
+        "gyermekbántalmazás",
+        "gyerek bántalmazása",
+        "gyermekvédelem",
+        "gyerek védelme",
+        "aggódom egy gyerekért",
+        "elhanyagolás",
+        "gyermekvédelmi segélyvonal"
+      ],
+      "glance": "Ha aggódsz, hogy egy gyereket bántanak vagy elhanyagolnak, helyes, ha tanácsot kérsz – nem kell biztosnak lenned benne.",
+      "overview": "A gyermekbántalmazás – más néven a gyermekkel szembeni rossz bánásmód – bármely 18 év alatti személynek okozott ártalom. Ide tartozik a fizikai, a szexuális és az érzelmi bántalmazás, valamint az elhanyagolás (amikor nem gondoskodnak a gyerek alapvető szükségleteiről). Sajnos gyakori, egész életre szóló károkat okozhat, és soha nem a gyerek hibája.\n\nLehet, hogy egy gyerek miatt aggódsz a környezetedben, vagy egy olyan gyerek miatt, akire felfigyeltél. Nem kell biztosnak lenned, és bizonyítékra sincs szükséged ahhoz, hogy az aggodalmad alapján cselekedj – ha komolyan veszed, és tanácsot kérsz, pontosan helyesen jársz el, és ezzel megvédhetsz egy gyereket.\n\nÉs ha te magad éltél át bántalmazást gyerekként, tudd, hogy az ártalom soha nem a te hibád volt, és számodra is elérhető támogatás, bármilyen életkorban.",
+      "deep": null,
+      "when_to_see_doctor": "- Ha egy gyerek miatt aggódsz, tanácsért bizalmasan fordulhatsz a **gyermekvédelemhez / szociális szolgálathoz**, egy erre szakosodott **gyermekvédelmi segélyvonalhoz**, vagy egy **háziorvoshoz, védőnőhöz vagy a gyerek iskolájához**.\n- Nem „reagálod túl”, ha kérdezel. Jobb rákérdezni, mint várni.",
+      "red_flags": "- Ha egy gyerek **közvetlen veszélyben van**, vagy súlyosan megsérült, most azonnal hívd a segélyhívó szolgálatot – az EU-ban (Olaszországot is beleértve) a **112**, az Egyesült Királyságban a **999**, az Egyesült Államokban és Kanadában a **911** a szám."
+    },
+    "coercive-control": {
+      "title": "Kényszerítő kontroll",
+      "aliases": [
+        "kényszerítő kontroll",
+        "kontrolláló viselkedés",
+        "érzelmi bántalmazás",
+        "lelki bántalmazás",
+        "elszigetelés",
+        "anyagi bántalmazás",
+        "gaslighting",
+        "párkapcsolati erőszak"
+      ],
+      "glance": "A kényszerítő kontroll az irányító viselkedés mintázata – elszigetelés, megfigyelés, fenyegetés –, amely a bántalmazás elismert formája.",
+      "overview": "A kényszerítő kontroll a bántalmazás olyan formája, amely a fizikai ártalom helyett – vagy amellett – az irányításon keresztül hat. Egy mintázatról van szó – nem egyetlen veszekedésről –, amelyben az egyik ember fokozatosan korlátozza a másik szabadságát és önazonosságát.\n\nMegnyilvánulhat úgy, hogy elszakítanak a barátaidtól és a családodtól, figyelik vagy korlátozzák a telefonodat, a mozgásodat vagy a költéseidet, megmondják, mit viselj vagy hogyan viselkedj, vagy állandó kritikával, fenyegetésekkel, megfélemlítéssel kell együtt élned. Mivel lehet, hogy nincsenek zúzódások, nehéz lehet megnevezni, és mások sem biztos, hogy látják – de bántalmazásnak számít, és ugyanolyan ártalmas lehet, mint a fizikai erőszak.\n\nHa ezekből felismersz valamit, az nem annak a jele, hogy túl érzékeny vagy, vagy hogy magad idézted elő. Az irányító viselkedés a másik ember döntése. Ha felismered, hogy valójában mi történik, az lehet az első lépés a segítség felé.",
+      "deep": "A kényszerítő kontroll gyakran lassan épül fel, és részben ezért nehéz belülről észrevenni – az apró korlátozások normálissá válnak, az önmagadban való kételkedés pedig egyre nő. Idővel felőrli a lelki egészséget. Ha átbeszéled valakivel, aki képzett arra, hogy megértse ezeket a mintázatokat, az segíthet tisztábban látni a helyzetet, és nyomás nélkül végiggondolni, mit szeretnél tenni ezután.",
+      "when_to_see_doctor": "- Egy erőszak elleni központ vagy segélyvonal (Olaszországban az **1522**) bizalmasan és ingyenesen átbeszéli veled, amit átélsz, és segít megérteni a lehetőségeidet – nem kell fizikai veszélyben lenned ahhoz, hogy segítséget kérj.\n- Egy háziorvos vagy tanácsadó szintén támogathat, és szakszolgálatokhoz irányíthat.",
+      "red_flags": "- Ha **közvetlen veszélyben vagy**, most azonnal hívd a segélyhívó szolgálatot – az EU-ban (Olaszországot is beleértve) a **112**, az Egyesült Királyságban a **999**, az Egyesült Államokban és Kanadában a **911** a szám.\n- Olaszországban az **1522** ingyenes, a nap 24 órájában elérhető, névtelen és többnyelvű – telefonon vagy chaten."
+    },
+    "combined-pill": {
+      "title": "A kombinált fogamzásgátló tabletta",
+      "aliases": [
+        "kombinált tabletta",
+        "fogamzásgátló tabletta",
+        "tabletta",
+        "kombinált orális fogamzásgátló",
+        "fogamzásgátló",
+        "COC",
+        "antibébi tabletta"
+      ],
+      "glance": "A kombinált tabletta egy naponta szedett, kétféle hormont tartalmazó tabletta, amely elsősorban az ovuláció megakadályozásával hat.",
+      "overview": "A kombinált tabletta egy naponta szedett tabletta, amely kétféle hormont tartalmaz – az ösztrogén és a progesztogén egy-egy változatát, amelyek hasonlóak a petefészkek által termelt hormonokhoz. Ez a fogamzásgátlás egyik legismertebb formája.\n\nEgyszerre több módon is megakadályozza a terhességet. Elsősorban meggátolja, hogy a petefészkek petesejtet bocsássanak ki (ovuláció). Emellett besűríti a méhnyak nyákját, így a spermiumok nehezebben jutnak át rajta, és elvékonyítja a méh nyálkahártyáját.\n\nHogy mennyire hatékony, az attól függ, hogy előírás szerint szeded-e: tökéletes használat mellett több mint 99%-ban hatékony, de a szokásos, hétköznapi használat során – amikor egy-egy tabletta néha kimarad vagy késik – körülbelül 91%-ban. A legtöbb módszerhez hasonlóan nem véd a nemi úton terjedő fertőzések (STI) ellen, ezért egyesek óvszert is használnak mellette.",
+      "deep": "A kombinált tablettát általában a hónap során egy meghatározott rend szerint kell szedni, és azt, hogy hogyan kell szedni, kinek való, valamint milyen mellékhatásai és kockázatai vannak, a felíráskor egy egészségügyi szakember veszi át veled – nem mindenkinek megfelelő. Mivel naponta kell szedni, a valós hatékonysága nagyban függ a rutintól. Ez a cikk elmagyarázza, mi ez és hogyan működik; az elkezdés, a szedés vagy az abbahagyás részleteiről háziorvossal, ápolóval vagy gyógyszerésszel érdemes beszélni.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "common-pregnancy-symptoms": {
+      "title": "Gyakori terhességi panaszok",
+      "aliases": [
+        "gyakori terhességi tünetek",
+        "terhességi panaszok",
+        "gyomorégés terhesség alatt",
+        "hátfájás terhesség alatt",
+        "dagadt boka",
+        "székrekedés terhesség alatt",
+        "aranyér terhesség",
+        "lábgörcs terhesség"
+      ],
+      "glance": "A terhesség sok apró fájdalommal és változással jár – ezek többnyire normálisak, bár néhányat érdemes ellenőriztetni.",
+      "overview": "A terhesség sok változást hoz a testedben, és rengeteg apró, hétköznapi kellemetlenséggel jár. A legtöbb gyakori, és nem jelenti azt, hogy valami baj van – egyszerűen a babavárás része.\n\nIsmerős panasz például a hátfájás, a gyomorégés és az emésztési zavar, a székrekedés, az aranyér, a bokák, a lábfejek és az ujjak duzzanata, a fáradtság és a megszakított alvás, a lábikragörcs, a fejfájás, az ájulásérzés, és a szokásosnál több hüvelyi folyás. Sok közülük apró, komfortot javító lépésekkel enyhül, és ha valami zavar, a szülésznőd meg tudja mondani, mi biztonságos.\n\nA hasznos az, ha tudod, mely változások tartoznak a hétköznapi fajtához, és melyeket érdemes jelezni – mert néhány tünetet, bár ritkábbak, ki kell vizsgálni, és nem szabad kivárni.",
+      "deep": null,
+      "when_to_see_doctor": "Ezek többsége normális, de mielőbb keresd meg a **szülésznődet vagy a szülészeti osztályt**, ha:\n\n- **hüvelyi vérzésed** van, vagy hirtelen folyadék ömlik vagy szivárog a hüvelyedből\n- a **babád a szokásosnál kevesebbet mozog**\n- **erős fejfájásod, látászavarod vagy hirtelen duzzanatod** van az arcodon, a kezeden vagy a lábfejeden (a preeclampsia lehetséges jelei)\n- **erős vagy egyoldali hasi fájdalmad** vagy **lázad** van\n- **viszketsz**, különösen a tenyereden és a talpadon, vagy éjszaka rosszabb a viszketés (ez egy kivizsgálást igénylő terhességi májbetegség jele lehet)",
+      "red_flags": null
+    },
+    "condoms": {
+      "title": "Óvszer",
+      "aliases": [
+        "óvszer",
+        "óvszerek",
+        "gumi",
+        "kondom",
+        "külső óvszer",
+        "barrier módszer",
+        "gumióvszer"
+      ],
+      "glance": "Az óvszer mechanikai (barrier) módszer – és az egyetlen fogamzásgátlási forma, amely a nemi úton terjedő fertőzések ellen is véd.",
+      "overview": "Az óvszer egy vékony védőréteg – általában latexből, latexallergia esetén pedig műanyag alternatívából –, amelyet szex közben a péniszre húznak. Egyszerűen működik: megakadályozza, hogy a spermiumok a hüvelybe jussanak.\n\nAz óvszert az teszi különlegessé a fogamzásgátlók között, hogy **ez az egyetlen módszer, amely a nemi úton terjedő fertőzések (STI), köztük a HIV ellen is véd.** Ezért gyakran egy másik módszer mellett használják – az egyik a terhesség ellen véd, a kettő együtt pedig a fertőzések ellen is.\n\nHa minden alkalommal helyesen használják, az óvszer körülbelül 98%-ban hatékony a terhesség megelőzésében. Szokásos használat mellett – amikor néha helytelenül vagy nem minden alkalommal használják – ez körülbelül 82%-ra csökken. A megfelelő és következetes használat jelenti a különbséget.",
+      "deep": "Mivel az óvszert az adott pillanatban használják, nem előre, a valós hatékonysága nagyban függ a következetes, helyes használattól. A belső óvszer (amelyet a hüvelybe helyeznek) egy másik mechanikai lehetőség. A legtöbb módszerrel ellentétben az óvszerhez nem kell recept, és széles körben kapható; kettős szerepe – a terhesség és a nemi úton terjedő fertőzések elleni védelem – miatt kerül szóba olyan gyakran a biztonságosabb szexről szóló beszélgetésekben.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "consent-and-respect": {
+      "title": "Beleegyezés és tisztelet",
+      "aliases": [
+        "beleegyezés",
+        "tiszteld a határait",
+        "lelkes beleegyezés",
+        "testi önrendelkezés",
+        "nem az nem",
+        "határok a kapcsolatban"
+      ],
+      "glance": "A beleegyezés egy világos, szabad, lelkes igen – minden alkalommal, és bármikor visszavonható.",
+      "overview": "A tisztelet azzal kezdődik, hogy ő maga dönthet a saját testéről – mindig. Az intimitásba való beleegyezés szabadon adott, tájékozott, lelkes **igent** jelent. A hallgatás nem beleegyezés. Egy kelletlen „jó, legyen” nem beleegyezés. Aki alszik, nagyon részeg vagy nyomás alatt van, nem tud valóban beleegyezni. És ha valamire vagy egy adott napon igent mondott, az nem jelent igent mindenre vagy a következő alkalomra.\n\nA beleegyezés bármikor visszavonható, és a „hagyd abba” vagy a „ma este nem” teljes válasz, amelyet nem kell megindokolni. A nyomásgyakorlás, a bűntudatkeltés, a duzzogás addig, amíg végül enged, vagy ha úgy kezeled a szexet, mint ami jár neked, nem elfogadható – a kapcsolat nem adósság.",
+      "deep": "Így néz ki a tisztelet a gyakorlatban:\n\n- **Kérdezz, és figyelj rá menet közben is.** „Így jó?” – és figyeld, hogyan reagál, szavakkal és a testével.\n- **Fogadd el méltósággal a „nemet”.** Semmi durcáskodás, nyomás vagy büntetés. Az ő válasza lezárja a kérdést.\n- **A lelkesedés számít.** Ha bizonytalannak, tétovának tűnik, vagy csak belemegy, állj meg, és kérdezz.\n- **Az ő teste, az ő döntése** – az intimitásról, a fogamzásgátlásról, a terhességről, az egészségéről, a külsejéről, a döntéseiről. A közös életetekbe van beleszólásod, de a teste felett soha nincs vétójogod.\n- **A tisztelet mindennapos.** Az, ahogyan beszélsz vele, ahogyan beszélsz róla, és ahogyan az apró dolgokban tiszteletben tartod a határait, az az alap, amelyre minden más épül.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception": {
+      "title": "Fogamzásgátlás",
+      "aliases": [
+        "fogamzásgátlás",
+        "fogamzásgátló",
+        "védekezés",
+        "születésszabályozás",
+        "családtervezés",
+        "fogamzásgátlási módszerek"
+      ],
+      "glance": "A fogamzásgátlás a terhesség megelőzésének különböző módjait jelenti – és sok közül választhatsz.",
+      "overview": "A fogamzásgátlás – amelyet néha születésszabályozásnak is neveznek – a terhesség megelőzésére használt módszerek összessége. Sokféle létezik, és különbözőképpen működnek: egyesek hormonokat használnak, mások mechanikai akadályt képeznek, vannak, amelyek a méhen belül helyezkednek el, és vannak, amelyek a ciklus követésén alapulnak.\n\nHogy egy módszer mennyire hatékony, az nagyban függ attól, hogyan használják. Egyes módszerek – például a fogamzásgátló implantátum és a spirálok (méhen belüli eszközök) – a „felhelyezed és elfelejted” típusba tartoznak, és több mint 99%-ban hatékonyak. Mások, például a tabletta vagy az óvszer, tökéletes használat mellett nagyon hatékonyak, de a hétköznapi, szokásos használat során valamivel kevésbé, mert könnyebb elfelejteni egy tablettát vagy helytelenül használni egy óvszert.\n\nEgy dolgot érdemes tudni: **csak az óvszer véd a nemi úton terjedő fertőzések (STI) ellen is**. A többi módszer megelőzi a terhességet, de a fertőzést nem, ezért az óvszert néha egy másik módszer mellett használják.\n\nNincs egyetlen „legjobb” módszer – hogy melyik a megfelelő, az az egészségedtől, a testedtől és attól függ, mi illik az életedbe. Egy háziorvos vagy egy szexuális egészségügyi rendelő végigveszi veled a lehetőségeket, és segít választani.",
+      "deep": "Mivel a módszerek nagyon különböznek, segít, ha átgondolod, mi fontos neked: mennyire hatékony, kell-e naponta emlékezned valamire, mennyi ideig tart, szeretnél-e hormonokat vagy sem, és a te helyzetedben számít-e a nemi úton terjedő fertőzések elleni védelem. Sokan életük során többször is módszert váltanak, ahogy az igényeik változnak. Ez a tudástár leírja, hogyan működnek a gyakori módszerek, hogy világosabbak legyenek a lehetőségek – de a döntést, és minden felírást vagy felhelyezést, egy egészségügyi szakemberrel együtt érdemes meghozni.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "contraception-and-weight": {
+      "title": "Fogamzásgátlás és testsúly",
+      "aliases": [
+        "hízlal a fogamzásgátló tabletta",
+        "tabletta és hízás",
+        "fogamzásgátló hízás",
+        "súlygyarapodás tablettától",
+        "hízás a tablettától",
+        "fogamzásgátló injekció hízás",
+        "implantátum hízás"
+      ],
+      "glance": "Nincs bizonyíték arra, hogy a kombinált tabletta hízást okozna, a fogamzásgátló injekció viszont okozhat. A módszertől függ.",
+      "overview": "Nagyon gyakori kérdés, hogy a fogamzásgátlástól vajon hízni fogsz-e. Az őszinte válasz az, hogy a módszertől függ.\n\nA kombinált tablettával kapcsolatban megnyugtatóak az adatok: nincs bizonyíték arra, hogy a szedése hízást okozna. Ugyanez igaz a fogamzásgátló tapaszra és a hüvelygyűrűre is.\n\nA fogamzásgátló injekció más. A súlygyarapodás a gyakori mellékhatásai között szerepel, a menstruáció változásai mellett.\n\nA csak progesztogént tartalmazó tabletta (amelyet néha minitablettának is neveznek) és a fogamzásgátló implantátum esetében egyesek hízásról számolnak be. Arra azonban nincs elég bizonyíték, hogy eldönthető legyen, maga a módszer-e az oka.\n\nA testsúly csak egy része a képnek. Minden módszernek megvannak a maga lehetséges mellékhatásai és kockázatai, és a fogamzásgátlás kiválasztása arról szól, hogy megtaláld, mi illik a testedhez, az egészségedhez és az életedhez. Egy gyógyszerész, háziorvos, ápoló vagy szexuális egészségügyi rendelő végigveheti veled a lehetőségeket.",
+      "deep": null,
+      "when_to_see_doctor": "- Ha a mellékhatások, köztük a testsúlyod változásai, gondot okoznak, beszélj egy gyógyszerésszel, háziorvossal, ápolóval vagy szexuális egészségügyi rendelővel. A kombinált tablettánál, a tapasznál vagy a gyűrűnél egyes mellékhatások a kezdéskor jelentkezhetnek. Ha körülbelül 3 hónap után is zavarnak, egy egészségügyi szakember megbeszélheti veled egy másik tabletta vagy egy másik fogamzásgátlási módszer lehetőségét.",
+      "red_flags": null
+    },
+    "contraceptive-implant": {
+      "title": "A fogamzásgátló implantátum",
+      "aliases": [
+        "fogamzásgátló implantátum",
+        "implantátum",
+        "Nexplanon",
+        "fogamzásgátló pálcika",
+        "karba ültetett fogamzásgátló",
+        "implant"
+      ],
+      "glance": "Az implantátum egy apró pálcika, amelyet a felkarba helyeznek, és néhány évig hormont bocsát ki.",
+      "overview": "A fogamzásgátló implantátum egy kicsi, hajlékony pálcika – nagyjából egy gyufaszál méretű –, amelyet egy képzett egészségügyi szakember közvetlenül a felkar bőre alá helyez. Behelyezés után egyenletesen bocsát ki egy progesztogén hormont, és legfeljebb körülbelül három évig hatékony.\n\nA terhességet főként azzal előzi meg, hogy megakadályozza, hogy a petefészkek petesejtet bocsássanak ki (ovuláció), valamint besűríti a méhnyak nyákját, így a spermiumok nem tudnak átjutni. Mivel nap mint nap semmire nem kell emlékezni, a „felhelyezed és elfelejted” típusú módszerek közé tartozik.\n\nEzért is az egyik legmegbízhatóbb lehetőség: az implantátum több mint 99%-ban hatékony, és a hatékonysága alig különbözik tökéletes és szokásos használat mellett. Más hormonális módszerekhez hasonlóan nem véd a nemi úton terjedő fertőzések ellen.",
+      "deep": "Az implantátum hosszú hatású, visszafordítható módszer – addig hat, amíg el nem távolítják, és az eltávolítás után a termékenység visszatér. A felhelyezése és az eltávolítása is gyors beavatkozás, amelyet egészségügyi szakember végez, aki azt is megbeszéli veled, kinek való és milyen mellékhatásai vannak. Ez a cikk elmagyarázza, mi ez és hogyan működik; arról, hogy legyen-e implantátumod, háziorvossal, ápolóval vagy szexuális egészségügyi rendelővel érdemes beszélni.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "cycle-and-your-wellbeing": {
+      "title": "A ciklusod és a jólléted",
+      "aliases": [
+        "jóllét",
+        "ciklus és egészség",
+        "menstruációs ciklus és egészség",
+        "életjel",
+        "testsúly és menstruáció",
+        "rendszertelen menstruáció"
+      ],
+      "glance": "A ciklusod olyan, mint egy havi egészségügyi állapotjelentés – érdemes odafigyelni, ha változik.",
+      "overview": "A menstruációs ciklusod nem különül el az egészséged többi részétől – összefügg vele. Egy nálad szabályos ciklus általában azt jelzi, hogy a tested rendben működik. Ezért egyesek úgy tekintenek a menstruációra, mint egyfajta havi jelzésre az általános jóllétről.\n\nA mindennapi élet is hatással van rá. A testsúly például ilyen: a jelentős alul- vagy túlsúly befolyásolhatja az ovulációt irányító hormonokat, ami rendszertelenné teheti a menstruációt. Ez mindkét irányban működik – az alapokra való odafigyelés, például a kiegyensúlyozott étkezés és a rendszeres mozgás, támogatja a ciklust, az egyenletes ciklus pedig annak a jele, hogy ezek a dolgok ésszerű egyensúlyban vannak.\n\nNem arról van szó, hogy egy „tökéletes” ciklust kellene hajszolnod, vagy magadat hibáztatnod a változásokért. Egyszerűen arról, hogy ha szelíden figyelsz a ciklusodra, az hasznos ablakot nyithat arra, hogyan vagy – és jelezheti, hogy érdemes egy egészségügyi szakemberhez fordulnod, ha valami megváltozik.",
+      "deep": null,
+      "when_to_see_doctor": "- Fordulj háziorvoshoz, ha a menstruációd rendszertelenné válik, elmarad, vagy nálad szokatlan módon változik meg – a tartós változások néha olyasmire utalhatnak, amit érdemes kivizsgálni.\n- Akkor is érdemes beszélni róla, ha a menstruációs problémák a mindennapi életedet is befolyásolják, hogy támogatást kaphass, és ne csak elviseld őket.",
+      "red_flags": null
+    },
+    "economic-abuse": {
+      "title": "Anyagi bántalmazás",
+      "aliases": [
+        "anyagi bántalmazás",
+        "gazdasági erőszak",
+        "pénzügyi kontroll",
+        "elveszi a pénzemet",
+        "nem enged dolgozni",
+        "adósság a nevemen",
+        "pénzügyi bántalmazás"
+      ],
+      "glance": "Az anyagi bántalmazás azt jelenti, hogy valaki kontrollálja, hogyan jut hozzá a másik pénzhez, munkához vagy erőforrásokhoz – ez a bántalmazás elismert formája.",
+      "overview": "Anyagi bántalmazásról akkor beszélünk, ha valaki kontrollálja, hogy a másik ember hogyan juthat hozzá a pénzhez és ahhoz, amit pénzen megvehet. Ez az irányító viselkedés egyik formája, és gyakran a bántalmazás más fajtái mellett jelenik meg.\n\nMegnyilvánulhat úgy, hogy ő irányít minden kiadást, vagy minden egyes fillérrel el kell számolnod, elveszi a fizetésedet vagy a juttatásaidat, adósságot halmoz fel a nevedre, elzárja előled a bankszámlákat vagy az iratokat, vagy megakadályozza, hogy dolgozz vagy tanulj. Mivel az ember így anyagi eszközök nélkül maradhat ahhoz, hogy elmenjen, vagy boldoguljon a mindennapokban, ez az egyik módja annak, hogy a bántalmazás csapdának tűnjön.\n\nHa ezekből valami ismerős, az nem annak a jele, hogy „nem tudsz bánni a pénzzel”, vagy hogy te vagy a hibás. Egy másik ember erőforrásainak kontrollálása annak a döntése, aki ezt teszi – és bántalmazásnak számít.",
+      "deep": null,
+      "when_to_see_doctor": "- Az erőszak elleni szolgálatok ebben is segíthetnek – nemcsak a biztonságban, hanem gyakorlati és pénzügyi lépésekben is, bizalmasan és ingyenesen (Olaszországban az **1522** számú segélyvonal helyi segítséghez irányíthat).\n- A biztonsági terv része lehet, hogy csendben biztosítod a hozzáférést egy kis pénzhez, a fontos iratokhoz és a fontos telefonszámokhoz.",
+      "red_flags": "- Ha **közvetlen veszélyben vagy**, most azonnal hívd a segélyhívó szolgálatot – az EU-ban (Olaszországot is beleértve) a **112**, az Egyesült Királyságban a **999**, az Egyesült Államokban és Kanadában a **911** a szám.\n- Olaszországban az **1522** – ingyenes, a nap 24 órájában elérhető, névtelen, többnyelvű – telefonon vagy chaten segíthet."
+    },
+    "ectopic-pregnancy": {
+      "title": "Méhen kívüli terhesség",
+      "aliases": [
+        "méhen kívüli terhesség",
+        "extrauterin terhesség",
+        "EUG",
+        "petevezetékben lévő terhesség",
+        "ektópiás terhesség",
+        "méhen kívüli"
+      ],
+      "glance": "Méhen kívüli terhesség esetén a terhesség a méhen kívül fejlődik – nem folytatódhat, és mielőbbi orvosi ellátást igényel.",
+      "overview": "Méhen kívüli terhességről akkor beszélünk, ha a megtermékenyített petesejt a méhen kívül ágyazódik be, leggyakrabban az egyik petevezetékben. Sajnos az ilyen helyen lévő terhességből nem fejlődhet baba, és nem lehet áthelyezni a méhbe – ezért mindig kezelni kell.\n\nA jelek általában nagyjából a 4. és a 12. hét között jelentkeznek, és lehet köztük egyoldali alhasi fájdalom, hüvelyi vérzés vagy barna, vizes folyás, fájdalom a vállcsúcsban, vagy kellemetlen érzés vizeléskor vagy székeléskor. A tünetek összetétele változó, és némelyiket könnyű valami apróságnak vélni, ezért fontos kivizsgáltatni őket.\n\nEz nem gyakori helyzet, de potenciálisan súlyos, ezért nem szabad kivárni. Ha korán tanácsot kérsz, biztonságosan elláthatják.",
+      "deep": null,
+      "when_to_see_doctor": "- Keresd meg a háziorvosodat vagy egy **ügyeletes orvost**, ha ezeknek a tüneteknek valamilyen kombinációja jelentkezik nálad, **és lehetséges, hogy várandós vagy** – akkor is, ha nem volt pozitív terhességi teszted. Fontos, hogy azonnal tanácsot kérj.",
+      "red_flags": "- **Hívd a {{emergency}} segélyhívó számot, vagy menj a sürgősségi osztályra**, ha **hirtelen, éles, intenzív fájdalmat érzel a hasadban**, **nagyon szédülsz vagy ájulásérzésed van**, **nagyon sápadt** vagy, vagy ezek mellett hányingered van. Ez azt jelentheti, hogy megrepedt a petevezeték – ez orvosi vészhelyzet, amely sürgős kezelést igényel."
+    },
+    "emergency-contraception": {
+      "title": "Sürgősségi fogamzásgátlás",
+      "aliases": [
+        "sürgősségi fogamzásgátlás",
+        "esemény utáni tabletta",
+        "másnapi tabletta",
+        "tabletta szex után",
+        "Escapelle",
+        "ellaOne",
+        "Levonelle",
+        "elszakadt az óvszer"
+      ],
+      "glance": "A sürgősségi fogamzásgátlás védekezés nélküli szex után is megelőzheti a terhességet – és minél hamarabb, annál jobb.",
+      "overview": "A sürgősségi fogamzásgátlás a terhesség megelőzésének egy módja olyan szex után, amikor nem védekeztél, vagy amikor a szokásos módszered esetleg nem működött (kimaradt egy tabletta, elszakadt az óvszer). Kétféle létezik, és mindkettőnél számít az időzítés.\n\nAz első az **esemény utáni tabletta**. Ennek két típusa van: az egyik (levonorgesztrel) a szex után legfeljebb 3 napon – 72 órán – belül, a másik (ulipriszál-acetát, márkanév: ellaOne) legfeljebb 5 napon – 120 órán – belül vehető be. A második lehetőség a **rézspirál (méhen belüli eszköz)**, amelyet egy egészségügyi szakember a szex után legfeljebb 5 napon belül felhelyezhet; ez a sürgősségi fogamzásgátlás leghatékonyabb formája, és utána, ha szeretnéd, benn maradhat folyamatos fogamzásgátlásként.\n\nMindegyiknél igaz, hogy **minél hamarabb használod, annál jobban szokott hatni** – ezért érdemes gyorsan cselekedni, és nem várni. Sürgősségi fogamzásgátlást kaphatsz gyógyszertárban, háziorvostól, szexuális egészségügyi rendelőben vagy előzetes bejelentkezés nélkül fogadó ellátóhelyen, gyakran ingyen.",
+      "deep": null,
+      "when_to_see_doctor": "- Mivel az idő fontos, ne várj – a gyógyszerész gyorsan kiadhatja az esemény utáni tablettát, a spirált pedig szexuális egészségügyi rendelőben vagy a háziorvosnál helyezhetik fel.\n- A sürgősségi fogamzásgátlás a terhesség megelőzésére szolgál, nem a fertőzésekére. Ha van bármi esély nemi úton terjedő fertőzésre, egy szexuális egészségügyi rendelő tanácsot adhat a szűrővizsgálatokról.\n- Ha ezután a menstruációd néhány napnál többet késik, vagy nagyon eltér a szokásostól, érdemes terhességi tesztet csinálnod, és beszélned egy egészségügyi szakemberrel.",
+      "red_flags": null
+    },
+    "endometriosis": {
+      "title": "Endometriózis",
+      "aliases": [
+        "endometriózis",
+        "endo",
+        "endometriosis",
+        "erős menstruációs fájdalom",
+        "méhnyálkahártya a méhen kívül"
+      ],
+      "glance": "Az endometriózis olyan betegség, amelyben a méh nyálkahártyájához hasonló szövet a méhen kívül nő, és gyakran fájdalmat okoz.",
+      "overview": "Az endometriózis hosszan tartó betegség, amelyben a méh nyálkahártyájához hasonló sejtek a test más részein nőnek, például a petefészkek körül, a kismedencében vagy a belekben. Gyakori – becslések szerint világszerte a termékeny korú nők körülbelül 10-ből 1-ét érinti.\n\nMivel ez a szövet kicsit úgy viselkedik, mint a méh nyálkahártyája, gyulladást és idővel hegszövetet okozhat. A leggyakoribb jel a fájdalom: gyakran erős menstruációs fájdalom, de más időszakokban is jelentkező kismedencei vagy derékfájás, szex közbeni vagy utáni fájdalom, valamint vizeléskor vagy székeléskor jelentkező fájdalom. Gyakori a nagyon erős menstruációs vérzés, a mély fáradtság, a lehangoltság és a teherbeesés nehézsége is. A tünetek nagyon változatosak – van, akinek erős fájdalmai vannak, másnak alig.\n\nAz endometriózist gyakran félreértik, és évekbe telhet felismerni, részben azért, mert a menstruációs fájdalmat olyan gyakran intézik el „normálisként”. Az életedet felborító erős fájdalmat nem kell egyszerűen elviselned – érdemes komolyan venni.",
+      "deep": "Az endometriózis pontos oka nem ismert, és jelenleg nincs rá gyógymód – de a kezelések segíthetnek a tünetek kordában tartásában, és a lehetőségek a gyógyszerektől egyeseknél a műtétig terjednek, a testi és lelki megterhelés kezeléséhez nyújtott segítség mellett. Az egyik legnagyobb kihívás a késlekedés: átlagosan több évbe, néha sok évbe is telhet, mire diagnózis születik. Részben ezért lehet annyira fontos, hogy világosan vezesd a tüneteidet, és visszamenj egy egészségügyi szakemberhez, ha nem hallgatnak meg.",
+      "when_to_see_doctor": "Érdemes háziorvoshoz fordulnod, ha:\n\n- olyan erős a menstruációs fájdalmad, hogy nem tudod végezni a szokásos tevékenységeidet\n- nagyon erős a menstruációs vérzésed – például 1–2 óránként betétet vagy tampont kell cserélned\n- tartós kismedencei vagy derékfájásod, szex közbeni vagy utáni fájdalmad, illetve vizeléskor vagy székeléskor jelentkező fájdalmad van\n- nehezen esel teherbe\n- a már kapott kezelés nem segített, vagy a tüneteid rosszabbodtak\n\nMivel az endometriózis diagnosztizálása időbe telhet, nyugodtan menj vissza, ha a tüneteidet nem veszik komolyan – segít, ha világos képet tudsz adni arról, hogyan alakult a fájdalmad az idő során. Ha a fájdalom vagy az erős vérzés a hangulatodra is hatással van, mondd el a háziorvosodnak; ez is a kép része, és elérhető támogatás.",
+      "red_flags": null
+    },
+    "estrogen": {
+      "title": "Ösztrogén",
+      "aliases": [
+        "ösztrogén",
+        "oestrogen",
+        "estrogen",
+        "ösztradiol",
+        "női hormon"
+      ],
+      "glance": "Az ösztrogén kulcsfontosságú hormon, amely minden ciklusban segít felkészíteni a testedet egy lehetséges terhességre.",
+      "overview": "Az ösztrogén a menstruációs ciklus mögött álló egyik fő hormon. A ciklus első felében (a follikuláris szakaszban) a szintje emelkedik, ahogy a petefészekben egy tüsző érik. Ez az emelkedés megvastagítja a méh nyálkahártyáját, és elvezet az ovulációig.\n\nAz ösztrogén olyan dolgokat is befolyásol, amelyeket nap mint nap észrevehetsz – az energiát, a hangulatot és a méhnyaknyák változásait a termékeny napjaid körül. Az ovuláció után a szintje lecsökken, majd újra változik, és a ciklus második felében egy másik hormonnal, a progeszteronnal együtt működik.\n\nA szintje minden ciklusban természetes módon emelkedik és csökken, és az életszakaszok során is változik. Ez normális – ez az a ritmus, amely szerint a tested működik, nem valami, amit „helyre kellene hozni”.",
+      "deep": "Az ösztrogén nem egyetlen anyag, hanem egymással rokon hormonok csoportja (a ciklusban a legaktívabb az ösztradiol). A legnagyobb részét a petefészkek termelik, a növekvő tüszőben. Ciklikus emelkedése és csökkenése – a progeszteronnal és az agy jelzőhormonjaival, az LH-val és az FSH-val együtt – hajtja a ciklus szakaszait. Mivel az ösztrogén sok szervrendszerre hat, természetes ingadozásai apró jelekben is megmutatkozhatnak a hónap során; a követés segít megismerni a saját mintázatodat ahelyett, hogy egy „átlaghoz” hasonlítanád.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "exercise-and-your-cycle": {
+      "title": "Mozgás és a ciklusod",
+      "aliases": [
+        "mozgás",
+        "sport",
+        "testmozgás",
+        "edzés",
+        "edzés menstruáció alatt",
+        "sport és menstruáció",
+        "fizikai aktivitás"
+      ],
+      "glance": "A ciklusod egész ideje alatt aktív maradhatsz – és a rendszeres mozgás enyhítheti a görcsöket és a PMS-t.",
+      "overview": "A ciklusod bármely szakaszában végezhetsz testmozgást. Egyesek úgy érzik, hogy a hónap bizonyos szakaszaiban több energiájuk van, és kicsit jobban meg tudják hajtani magukat, máskor pedig kevesebb – mindkettő normális, és egyik sem ok arra, hogy abbahagyd a mozgást.\n\nA rendszeres mozgás valójában segíthet bizonyos menstruációval kapcsolatos tüneteken. Akik rendszeresen sportolnak, gyakran ritkábban szenvednek fájdalmas görcsöktől, és az aktivitás a premenstruációs tüneteket (PMS) is enyhítheti. Az alacsonyabb energiájú napokon a kíméletesebb mozgás is számít – nem kell intenzívnek lennie ahhoz, hogy megérje.\n\nNem kell a ciklusodhoz igazítanod az életedet, és nincs egyetlen „helyes” mozgásforma. Ha megfigyeled, hogyan alakul az energiaszinted a hónap során, az egyszerűen segíthet úgy tervezni, hogy jól érezd magad.",
+      "deep": null,
+      "when_to_see_doctor": "- A nagyon megterhelő edzés, vagy ha annyit mozogsz, hogy a tested energiahiányba kerül, a menstruáció rendszertelenné válásához vagy teljes elmaradásához vezethet. A szabályos ciklus általában annak a jele, hogy minden rendben működik, ezért érdemes háziorvoshoz fordulnod, ha a menstruációd rendszertelenné válik vagy elmarad – ez idővel a csontok és a hormonok egészségével is összefügghet.",
+      "red_flags": null
+    },
+    "exercise-in-pregnancy": {
+      "title": "Mozgás a terhesség alatt",
+      "aliases": [
+        "mozgás terhesség alatt",
+        "sport terhesen",
+        "kismamatorna",
+        "terhességi edzés",
+        "aktív maradni terhesen",
+        "kismamajóga"
+      ],
+      "glance": "A legtöbb terhességben biztonságos és jó, ha aktív maradsz – kíméletesen, kimerülés nélkül.",
+      "overview": "A terhesség alatti aktivitás jót tesz neked, és nem veszélyes a babádra – sőt, ha fitt maradsz, az segíthet megbirkózni az előtted álló változásokkal és a szüléssel. Nem kell semmi megerőltetőbe belekezdened; jó kiindulópont, ha folytatod a szokásos napi tevékenységeidet, amíg kényelmesnek érzed őket.\n\nEgy egyszerű ökölszabály: mozgás közben **tudnod kell beszélgetni**. Ha annyira kifulladsz, hogy nem tudsz beszélni, lassíts. A kíméletes lehetőségek, például a séta, az úszás, a kismama vízitorna és a kismamajóga a legtöbb embernek megfelelnek. Ha korábban nem voltál aktív, most nincs itt az ideje egy megerőltető új edzésprogram elkezdésének – inkább fokozatosan építkezz.\n\nNéhány tevékenységet jobb kerülni, vagy óvatosan végezni – például a hanyatt fekvést nagyjából a 16. hét után, a kontaktsportokat, a búvárkodást, és mindent, ami valódi elesési kockázattal jár.",
+      "deep": null,
+      "when_to_see_doctor": "- Egyeztess a **szülésznőddel**, mielőtt új aerob edzésprogramba kezdesz, vagy ha valamilyen egészségügyi problémád vagy a terhességgel kapcsolatos aggodalmad van.\n- **Hagyd abba, és kérj tanácsot**, ha mozgás közben rosszul érzed magad, szédülsz vagy nagyon kifulladsz, illetve ha bármilyen fájdalmat, vérzést vagy méhösszehúzódásokat tapasztalsz.",
+      "red_flags": null
+    },
+    "fertile-window": {
+      "title": "A termékeny időszak",
+      "aliases": [
+        "termékeny időszak",
+        "termékeny napok",
+        "legtermékenyebb napok",
+        "mikor lehet teherbe esni",
+        "termékeny ablak",
+        "peteérés napjai"
+      ],
+      "glance": "A termékeny időszak az a néhány nap minden ciklusban, amikor a szex terhességhez vezethet.",
+      "overview": "A termékeny időszak a ciklus rövid szakasza, amikor lehetséges a teherbeesés. Azért létezik, mert két időtartam nem egészen esik egybe: a petesejt a kilökődése után csak körülbelül 12–24 óráig termékenyíthető meg, a spermiumok viszont több napig – akár körülbelül egy hétig – is életben maradhatnak a testben, a petesejtre várva.\n\nMindezt összevetve az időszak néhány nappal az ovuláció előtt kezdődik, és körülbelül egy nappal utána zárul. A gyakorlatban az ovuláció előtti 2–3 napban és magán az ovuláció napján vagy a legtermékenyebb, mert a spermiumok már ott lehetnek, amikor a petesejt megérkezik.\n\nMivel az ovuláció ciklusról ciklusra eltolódhat, a termékeny időszak is vándorol. Ezért általában napok tartományaként gondolnak rá, nem egyetlen dátumként, és ezért megbízhatóbb több cikluson át követni a jeleket, mint egyetlen naptári számításra hagyatkozni.",
+      "deep": "A pontos napok emberről emberre és hónapról hónapra eltérnek, ezért az időszakot a legjobb a test saját jelzései alapján becsülni, nem pedig egy rögzített képlettel. A méhnyaknyák változásai arra utalnak, hogy az ovuláció közeledtével nyílik az időszak, a nyugalmi testhőmérséklet emelkedése pedig – utólag – megerősíti, hogy az ovuláció lezajlott, és az időszak véget ért. Az ovulációs tesztek egy lépéssel korábban jeleznek: a luteinizáló hormon (LH) hirtelen megugrását mutatják ki, amely nem sokkal a petesejt kilökődése előtt következik be.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "first-period": {
+      "title": "Az első menstruáció",
+      "aliases": [
+        "első menstruáció",
+        "első menzesz",
+        "menarche",
+        "megjött először",
+        "mikor jön meg először",
+        "első vérzés"
+      ],
+      "glance": "Az első menstruáció általában 12 éves kor körül jön meg – körülbelül 8 és 17 éves kor között bármikor normális.",
+      "overview": "Az első menstruáció – amelyet néha menarchénak is neveznek – az, amikor a menstruációs ciklus először elindul. A legtöbbeknél 12 éves kor körül kezdődik, de körülbelül 8 és 17 éves kor között bármikor normális. Gyakran nagyjából két évvel azután jön meg, hogy a mellek fejlődni kezdtek.\n\nElőtte általában vannak jelek: megjelenik a hónalj- és a fanszőrzet, és az azt megelőző hónapokban egy kis tiszta vagy fehér hüvelyi folyás. Ha tudod, hogy ezek várhatók, az első menstruáció kevésbé tűnhet váratlannak.\n\nAz elején a menstruáció gyakran rendszertelen – a szünetek lehetnek hosszúak vagy rövidek, és több hónapba, akár néhány évbe is telhet, mire a tested egyenletesebb ritmusra áll be. Ha ez megtörtént, a menstruáció általában nagyjából 23–35 naponta jön, és körülbelül 2–7 napig tart. A kezdeti rendszertelenség normális, és nem kell miatta aggódni.",
+      "deep": null,
+      "when_to_see_doctor": "- Fordulj háziorvoshoz, ha a menstruáció **15 éves korig nem kezdődött meg**, vagy **13 éves korig, ha a pubertásnak nincsenek más jelei** (például a mellek fejlődése vagy a testszőrzet). Ez csak annak ellenőrzésére szolgál, hogy minden a várt módon fejlődik-e – általában minden rendben van.",
+      "red_flags": null
+    },
+    "folic-acid": {
+      "title": "Folsav és vitaminok a terhesség alatt",
+      "aliases": [
+        "folsav",
+        "folát",
+        "D-vitamin terhesség alatt",
+        "terhességi vitaminok",
+        "terhesvitamin",
+        "étrend-kiegészítők terhesség",
+        "vitaminok terhesen"
+      ],
+      "glance": "A terhesség előtt és a korai terhességben szedett folsav segít megvédeni a babát – emellett napi D-vitamin is ajánlott.",
+      "overview": "Két étrend-kiegészítő igazán fontos a terhesség alatt, és a brit NHS mindkettőt javasolja.\n\nA **folsav** a legfontosabb. Ha naponta 400 mikrogrammos kiegészítőt szedsz – ideális esetben már a fogantatás előtt (körülbelül három hónappal korábban) elkezdve, egészen az első trimeszter végéig, a 12. hétig –, az segít megvédeni a babát az idegcső-záródási rendellenességektől, például a nyitott gerinctől (spina bifida). Mivel ilyen korán hat, ez azon kevés dolgok egyike, amelyeket érdemes már a terhesség *előtt* elkezdeni, ha próbálkozol.\n\nA másik a **D-vitamin**: napi 10 mikrogrammos kiegészítő ajánlott a terhesség teljes ideje alatt és a szoptatás idején is, a baba csontjainak és fejlődésének támogatására.\n\nE kettőn túl egy egészséges, változatos étrend fedezi a legtöbb szükségletet – nincs szükséged sok további kiegészítőre. Amit viszont érdemes elkerülni, az az **A-vitamin** (retinol): ne szedj olyan kiegészítőt, amely tartalmazza, és kerüld a májat, mert a túl sok A-vitamin árthat a babának.",
+      "deep": null,
+      "when_to_see_doctor": "- Egy **háziorvos, szülésznő vagy gyógyszerész** segíthet kiválasztani a megfelelő kiegészítőket, és egyeseknek **nagyobb adag folsav** szedését javasolják (például cukorbetegség, magasabb BMI, bizonyos gyógyszerek szedése, vagy ha egy korábbi terhességet idegcső-záródási rendellenesség érintett) – ezért érdemes rákérdezni, különösen a terhesség előtt vagy annak korai szakaszában.",
+      "red_flags": null
+    },
+    "follicular-phase": {
+      "title": "Follikuláris szakasz",
+      "aliases": [
+        "follikuláris szakasz",
+        "follikuláris fázis",
+        "tüszőérési szakasz",
+        "a ciklus első fele",
+        "tüszőérés"
+      ],
+      "glance": "A follikuláris szakasz a ciklus első fele, amikor egy petesejt érik, és a méh nyálkahártyája megvastagszik.",
+      "overview": "A follikuláris szakasz a ciklus első része. A menstruációd első napján kezdődik, és az ovulációig tart. A nevét a follikulusról, vagyis a tüszőről kapta – arról a kis, folyadékkal teli hólyagról a petefészekben, amely ebben az időszakban egy petesejtet tart és érlel.\n\nEbben a szakaszban az ösztrogén hormon szintje emelkedik. Az emelkedő ösztrogén két fő dolgot tesz: segíti egy tüsző érését a petefészekben, és megvastagítja a méh nyálkahártyáját, felkészítve a testet arra az esetre, ha a ciklus későbbi részében terhesség kezdődne.\n\nMivel az ösztrogén szintje emelkedik, egyesek több energiát vagy a méhnyaknyák változását észlelik, ahogy közelednek a termékeny napok. Mindenki másként éli meg, és semmit nem kell ezzel kapcsolatban „kezelni” – egyszerűen a ciklusod első fele végzi a dolgát.",
+      "deep": "A follikuláris szakasz hossza ciklusról ciklusra változhat, részben ezért különbözik a teljes ciklus emberről emberre és hónapról hónapra. Akkor ér véget, amikor az emelkedő ösztrogén segít kiváltani egy petesejt kilökődését (ovuláció). Mivel az utolsó napjai az ovulációba vezetnek, ekkor nyílik a termékeny időszak – ezért fontos a follikuláris szakasz vége mindenkinek, aki a termékenységét követi.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "foods-to-avoid": {
+      "title": "Kerülendő ételek a terhesség alatt",
+      "aliases": [
+        "kerülendő ételek terhesség alatt",
+        "terhességi étrend",
+        "mit nem ehetek terhesen",
+        "koffein terhesség alatt",
+        "listeria",
+        "kávé terhesen",
+        "sajt terhesen"
+      ],
+      "glance": "A legtöbb étel rendben van a terhesség alatt – néhányat érdemes kerülni, és jó, ha kevés koffeint fogyasztasz.",
+      "overview": "A jó hír az, hogy a legtöbb étel teljesen rendben van a terhesség alatt – csak kevés olyan van, amelyet érdemes kerülni vagy óvatosan fogyasztani, főleg azért, hogy elkerüld az olyan kórokozókat, mint a listeria, vagy bizonyos vitaminok túlzott bevitelét. Ha ismered ezt a rövid listát, a többi miatt nyugodt lehetsz.\n\nA brit NHS azt tanácsolja, hogy légy óvatos a következőkkel:\n\n- **Egyes sajtok** – a penésszel érlelt lágy sajtok, mint a brie és a camembert, valamint a lágy kéksajtok, hacsak nem gőzölgően forróra főzöd őket; és minden, ami **pasztörizálatlan** tejből készült.\n- **Nyers vagy nem teljesen átsütött hús**, hideg, pácolt húsáruk, **pástétom** és **máj** (amely nagyon sok A-vitamint tartalmaz).\n- **Nyers vagy folyós tojás**, hacsak nem viseli a brit „British Lion” minőségi jelzést.\n- **Egyes halak** – kerüld a cápát, a kardhalat és a marlint, korlátozd a tonhalat, és hetente legfeljebb két adag olajos halat egyél.\n- **Koffein** – maradj napi körülbelül 200 mg alatt (ez nagyjából két bögre instant kávé), és számold bele a teát, a kólát, az energiaitalokat és a csokoládét is.",
+      "deep": null,
+      "when_to_see_doctor": "- Ez általános útmutató, nem szigorú diéta – ha kérdésed van arról, mi biztonságos számodra, vagy különleges étrendi igényed van, a **szülésznőddel** átbeszélheted.\n- Ha ettél valamit a „kerülendő” listáról, próbálj meg nem pánikba esni; szólj a szülésznődnek, ha aggódsz, vagy rosszul érzed magad.",
+      "red_flags": null
+    },
+    "fsh": {
+      "title": "Tüszőstimuláló hormon (FSH)",
+      "aliases": [
+        "fsh",
+        "tüszőstimuláló hormon",
+        "follikulusstimuláló hormon",
+        "tüszőérést serkentő hormon",
+        "fsh szint"
+      ],
+      "glance": "Az FSH egy agyi hormon, amely minden ciklus elején tüszők növekedésére ösztönzi a petefészket.",
+      "overview": "Az FSH – tüszőstimuláló hormon – az egyik olyan hírvivő hormon, amely beindítja a ciklust. Az agyban lévő kis mirigy (az agyalapi mirigy) termeli, és ahogy a neve is mondja, a tüszőket serkenti: a petefészekben lévő apró, folyadékkal teli hólyagokat, amelyek mindegyike egy-egy petesejtet tartalmaz.\n\nA ciklus elején az FSH arra ösztönzi ezeknek a tüszőknek egy csoportját, hogy növekedni kezdjenek. Ahogy egy tüsző fejlődik, egyre több ösztrogént bocsát ki, ami pedig megvastagítja a méh nyálkahártyáját egy lehetséges terhességre készülve. Általában egy tüsző válik dominánssá, és ez halad tovább az ovuláció felé.\n\nAz FSH szintje a ciklus normális oda-vissza játékának részeként emelkedik és csökken. Az FSH-t közvetlenül nem érzed – csendben dolgozik a háttérben, és előkészíti a follikuláris szakasz látványosabb változásait.",
+      "deep": "Az FSH párban működik a luteinizáló hormonnal (LH); mindkettőt az agyalapi mirigy bocsátja ki, és együtt vezetik végig a petefészkeket a cikluson. Az FSH vezeti az első felet, a tüszőket növesztve, míg később az LH-csúcs jelzi a petesejt ciklus közepi kilökődését. Ez az együttműködés az oka annak is, hogy a meddőségi kezelések FSH-alapú gyógyszereket használnak: a plusz FSH több tüsző egyidejű érését segíti elő, szemben azzal az eggyel, amelyet egy természetes ciklus általában létrehoz.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "gestational-diabetes": {
+      "title": "Terhességi cukorbetegség",
+      "aliases": [
+        "terhességi cukorbetegség",
+        "terhességi diabétesz",
+        "gesztációs diabétesz",
+        "magas vércukor terhesség alatt",
+        "cukorterheléses vizsgálat",
+        "OGTT",
+        "terhességi cukor"
+      ],
+      "glance": "A terhességi cukorbetegség a terhesség alatt megemelkedett vércukorszint – általában szűréssel derül ki, és a szülés után gyakran rendeződik.",
+      "overview": "A terhességi cukorbetegség a terhesség alatt kialakuló magas vércukorszint (glükózszint), amikor a szervezet nem tud teljesen lépést tartani az inzulin iránti megnövekedett igénnyel. A legtöbbeknél a baba születése után ismét elmúlik.\n\nÁltalában **nem okoz tüneteket**, ezért a terhesség alatt felajánlott szűrővizsgálattal derül ki (cukorterheléses vizsgálattal, gyakran a 24. és 28. hét körül), különösen, ha vannak olyan tényezők, amelyek növelik a kialakulásának esélyét – például magasabb testsúly, cukorbetegség a családban, egy korábbi nagy súlyú baba, vagy bizonyos etnikai háttér.\n\nNagyon jól kezelhető. Ha a vércukorszintet egészséges tartományban tartod – étrenddel, mozgással és néha gyógyszerrel, mindezt az ellátó csapatod útmutatása szerint –, csökken a szövődmények esélye nálad és a babádnál is, ezért érdemes odafigyelni rá.",
+      "deep": null,
+      "when_to_see_doctor": "- Vegyél részt a **szűrővizsgálaton**, ha felajánlják – mivel a terhességi cukorbetegségnek általában nincsenek tünetei, a vizsgálat az, amivel kiderül.\n- Ne várj a vizsgálatig, ha a magas vércukorszint lehetséges jeleit észleled – nagyon szomjas vagy, sokat kell pisilned, száraz a szád, vagy fáradt vagy –, szólj róluk a szülésznődnek vagy az orvosodnak.",
+      "red_flags": null
+    },
+    "getting-help": {
+      "title": "Hol kérhetsz segítséget",
+      "aliases": [
+        "segítségkérés",
+        "kihez forduljak",
+        "segélyvonalak",
+        "hasznos telefonszámok",
+        "erőszak elleni központ",
+        "1522",
+        "segélyhívó számok",
+        "családon belüli erőszak"
+      ],
+      "glance": "Ingyenes, bizalmas segítség érhető el – vészhelyzetben hívd a helyi segélyhívó számot; Olaszországban az 1522 bármikor hívható.",
+      "overview": "Ha bántalmazást élsz át, nem kell egyedül szembenézned vele, és ha segítséget kérsz, azzal semmire sem kötelezed el magad. Vannak emberek, akiknek épp az a munkájuk, hogy meghallgassanak és segítsenek, bizalmasan és ingyen.\n\nTöbbféle segítség létezik egymás mellett:\n\n- **Segélyhívó szolgálatok** – közvetlen veszély esetén hívd a helyi segélyhívó számot (lásd lent).\n- **Országos segélyvonal** – Olaszországban az **1522**, az ingyenes, erőszak és zaklatás elleni segélyvonal: a nap 24 órájában elérhető, névtelen, több nyelven, telefonon vagy online chaten.\n- **Erőszak elleni központok** (Olaszországban *centri antiviolenza*) – helyi szolgálatok, amelyek ingyenes, bizalmas támogatást, biztonsági tervezést, valamint jogi és pszichológiai segítséget nyújtanak.\n- **Egészségügyi szolgáltatások** – a háziorvos vagy a kórház sürgősségi osztálya, ahol a személyzet egyre inkább fel van készülve a bántalmazás felismerésére és arra, hogy támogatáshoz irányítson.\n- **Akikben megbízol** – egy barát vagy családtag, akinek a közelében biztonságban érzed magad.\n\nKezdheted azzal, amelyik a leginkább járhatónak tűnik, és nem kell még semmit eldöntened.",
+      "deep": null,
+      "when_to_see_doctor": "- Bizalmasan beszélhetsz egy **háziorvossal vagy a kórházban** arról, ami történik; ellátják a sérüléseidet, és szakszolgálatokhoz irányíthatnak.\n- Ha könnyebb írni, mint beszélni, az **1522 chat** egy másik lehetőség.",
+      "red_flags": "- Ha **közvetlen veszélyben vagy**, most azonnal hívd a segélyhívó szolgálatot – az EU-ban (Olaszországot is beleértve) a **112**, az Egyesült Királyságban a **999**, az Egyesült Államokban és Kanadában a **911** a szám.\n- **Olaszország:** **1522** (ingyenes, 24/7, névtelen, többnyelvű – hívás vagy chat).\n- A segélyvonalak száma országonként eltér. Az alkalmazás meg tudja mutatni a te országod számait, a **findahelpline.com** pedig világszerte felsorolja az erőszak elleni segélyvonalakat (felismeri, melyik országban vagy, és van rajta egy gyors kilépés gomb). Ha az EU-ban vagy, a **112** mindenhol működik."
+    },
+    "group-b-strep": {
+      "title": "B csoportú streptococcus (GBS)",
+      "aliases": [
+        "B csoportú streptococcus",
+        "GBS",
+        "GBS szűrés",
+        "strep B terhesség",
+        "streptococcus terhesség",
+        "B streptococcus"
+      ],
+      "glance": "A B csoportú streptococcus gyakori, általában ártalmatlan baktérium – a kis kockázat a babát érinti a szülés során, és jól kezelhető.",
+      "overview": "A B csoportú streptococcus (GBS) egy nagyon gyakori baktérium, amelyet sokan hordoznak, általában a hüvelyben vagy a végbél környékén, anélkül hogy tudnának róla, és anélkül hogy bármilyen kárt okozna. Nem nemi úton terjedő fertőzés, és a hordozása normális.\n\nA terhesség alatt csak azért számít, mert van egy **kis esély** arra, hogy a szülés körüli időben átterjed a babára, és ritkán megbetegítheti – ez nagyjából 1 750 terhességből 1 esetben fordul elő. Gyakran véletlenül derül ki, például egy más okból végzett vizeletvizsgálat vagy hüvelyi kenet során (a brit NHS nem szűr rá rutinszerűen mindenkit).\n\nA megnyugtató, hogy nagyon jól kezelhető: ha a GBS ismert, a **vajúdás alatt infúzióban adott antibiotikum** jelentősen csökkenti annak esélyét, hogy a baba megbetegedjen.",
+      "deep": null,
+      "when_to_see_doctor": "- Ha azt mondják, hogy B csoportú streptococcust hordozol – most vagy egy korábbi terhességed során –, **szólj a szülésznődnek vagy a szülészeti csapatnak**, hogy megtervezhessék a vajúdás alatti antibiotikum-kezelést. Egyszerű lépés, amely valódi különbséget jelent.",
+      "red_flags": null
+    },
+    "heartburn-in-pregnancy": {
+      "title": "Gyomorégés és emésztési zavar a terhesség alatt",
+      "aliases": [
+        "gyomorégés terhesség alatt",
+        "emésztési zavar terhesség alatt",
+        "savas reflux terhesség",
+        "reflux",
+        "savtúltengés terhesen",
+        "égő érzés a mellkasban"
+      ],
+      "glance": "A gyomorégés nagyon gyakori a terhesség alatt – általában ártalmatlan, és apró hétköznapi változtatásokkal gyakran enyhíthető.",
+      "overview": "A gyomorégés és az emésztési zavar – égő érzés vagy kellemetlenség a mellkasban, gyakran evés után – nagyon gyakori a terhesség alatt. Ennek oka, hogy a terhességi hormonok ellazítják a gyomor felső részén lévő záróizmot, később pedig a növekvő baba felfelé nyom. Kellemetlen, de nem ártalmas.\n\nGyakran segítenek az apró változtatások: nagy étkezések helyett gyakrabban egyél kisebb adagokat, evés közben és utána még egy ideig ülj egyenesen, fogd vissza a fűszeres, zsíros vagy koffeintartalmú dolgokat, és ne egyél későn, közvetlenül lefekvés előtt. Egyesek kényelmesebbnek találják, ha kissé megemelt felsőtesttel alszanak.\n\nHa ez nem elég, egy **gyógyszerész** javasolhat olyan savlekötő szereket, amelyek a terhesség alatt biztonságosan használhatók – jó első lépés, mielőtt nagyobb gonddá válna.",
+      "deep": null,
+      "when_to_see_doctor": "- Fordulj a **háziorvosodhoz vagy a szülésznődhöz**, ha az egyszerű változtatások és a gyógyszertári szerek nem segítenek, vagy ha **nyelési nehézséged** van, újra meg újra visszajön az étel, szándékod ellenére fogysz, vagy hasi fájdalmad van – ezeket érdemes kivizsgáltatni, ahelyett hogy egyszerű gyomorégésnek tulajdonítanád.",
+      "red_flags": null
+    },
+    "heavy-periods": {
+      "title": "Erős menstruációs vérzés",
+      "aliases": [
+        "erős menstruáció",
+        "erős vérzés",
+        "menorrhagia",
+        "bő menstruáció",
+        "átvérzés",
+        "alvadékok",
+        "vérrögök menstruáció alatt"
+      ],
+      "glance": "Erős menstruációról akkor beszélünk, ha minden ciklusban sok vért veszítesz – ez gyakori, de érdemes kivizsgáltatni, ha hatással van rád.",
+      "overview": "Az erős menstruáció – orvosi nevén menorrhagia – azt jelenti, hogy a menstruációd alatt sok vért veszítesz. Egyeseknél az erős vérzés egyszerűen a normális, de ha felborítja az életedet, vagy kimerültnek érzed magad tőle, érdemes utánajárni.\n\nNéhány jel, hogy a menstruáció az erősebb fajtából való: 1–2 óránként betétet vagy tampont kell cserélned, kétféle menstruációs terméket kell egyszerre használnod (például tampont és betétet), átvérzel a ruhádon vagy az ágyneműn, körülbelül 2,5 cm-nél (nagyjából egy 10 pennys brit érménél) nagyobb vérrögök távoznak, vagy a menstruáció 7 napnál tovább tart.\n\nHa hónapról hónapra sok vért veszítesz, fáradt lehetsz, vagy könnyen kifulladhatsz, mert ez vashiányhoz (vérszegénységhez) vezethet. Sok lehetséges oka van – a miómáktól vagy olyan betegségektől, mint az endometriózis, az adenomiózis vagy a PCOS, egészen bizonyos gyógyszerekig –, és gyakran nem találnak súlyos okot. Akárhogy is, az erős menstruáción általában lehet segíteni, így nem kell egyszerűen együtt élned vele.",
+      "deep": null,
+      "when_to_see_doctor": "Fordulj háziorvoshoz, ha:\n\n- az erős menstruáció hatással van a mindennapi életedre\n- sok órán át erősen vérzel, vagy hosszú ideig tart a menstruációd\n- erős menstruációs fájdalmad is van, vagy fájdalmat érzel szex, vizelés vagy székelés közben\n- a menstruációid között vagy szex után vérzel\n- gyakran érzed magad fáradtnak, vagy könnyen kifulladsz (ez vashiány jele lehet)\n\nA háziorvos megkeresheti az okát, és megbeszélheti veled, mi segíthet.",
+      "red_flags": "- Kérj **sürgős** orvosi segítséget – fordulj orvoshoz vagy egy **ügyeleti szolgálathoz**, súlyos esetben pedig hívd a **{{emergency}}** segélyhívó számot / menj a sürgősségi osztályra –, ha **olyan erősen vérzel, hogy több órán át óránként egy vagy több betétet átáztatsz**, vagy **ájulásérzésed van, szédülsz, vagy kifulladsz**. Ezek a túl nagy vérveszteség jelei lehetnek."
+    },
+    "lh": {
+      "title": "Luteinizáló hormon (LH)",
+      "aliases": [
+        "lh",
+        "luteinizáló hormon",
+        "lh csúcs",
+        "lh teszt",
+        "ovulációs hormon"
+      ],
+      "glance": "Az LH az az agyi hormon, amelynek ciklus közepi hirtelen emelkedése kiváltja, hogy a petefészek petesejtet bocsásson ki.",
+      "overview": "Az LH – luteinizáló hormon – az a hírvivő, amely elindítja az ovulációt. Az FSH-hoz hasonlóan az agyban lévő kis mirigy (az agyalapi mirigy) termeli, és ez jelzi a petefészeknek, mikor bocsásson ki petesejtet.\n\nA ciklus első felének nagy részében az LH szintje alacsony marad. Aztán a ciklus közepe táján meredeken megemelkedik – ezt nevezik LH-csúcsnak. Ez a csúcs az a jel, amelynek hatására a petefészek kibocsátja a petesejtet – ez az ovuláció –, általában nagyjából egy nappal később.\n\nA csúcs rövid, pontosan időzített jelzés, nem pedig valami, amit a közérzetedben észrevennél. Mivel nem sokkal a petesejt kilökődése előtt következik be, az LH-emelkedés időzítése megbízhatóan jelzi a ciklus legtermékenyebb részét.",
+      "deep": "Az LH az FSH-val együtt működik, azzal a hormonnal, amely a ciklus korábbi szakaszában a tüszőket növeszti. Míg az FSH vezeti a felépülést, az LH-csúcs a fordulópont: a szintje nagyjából másfél nappal a petesejt kilökődése előtt kezd emelkedni, és körülbelül fél nappal előtte éri el a csúcsát. A csúcs után a ciklus a második felébe lép. Ez a szoros időzítés az oka annak, hogy az LH olyan hasznos jelző mindenkinek, aki az ovulációját követi, és annak is, hogy központi szerepet játszik a meddőségi kezelések tervezésében.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "listening-and-support": {
+      "title": "Meghallgatás és érzelmi támogatás",
+      "aliases": [
+        "hogyan hallgassam meg",
+        "érzelmi támogatás partnereknek",
+        "kommunikáció",
+        "ott lenni neki",
+        "támogatni a párom",
+        "hogyan segítsek a páromnak"
+      ],
+      "glance": "Legtöbbször arra van szüksége, hogy meghallgassák, nem arra, hogy megjavítsák – először hallgasd meg, és kérdezz, mielőtt tanácsot adsz.",
+      "overview": "Amikor valaki, akit szeretünk, nehézségekkel küzd, az ösztönünk azt súgja, hogy ugorjunk be és oldjuk meg. Gyakran azonban az segít a legtöbbet, ha valóban meghallgatva érzi magát: hogy az érzései érthetők, és nincs egyedül velük. A túl gyors megoldás úgy is hathat, mintha azt mondanád: „az érzéseid egy probléma, amit le kell zárni”.\n\nA jó meghallgatás olyan készség, amelyet bárki megtanulhat. Leginkább figyelemről szól: letenni a telefont, felé fordulni, és hagyni, hogy végigmondja. Nem kell minden pontban egyetértened vele ahhoz, hogy tiszteletet érezzen.",
+      "deep": "Gyakorlati módok arra, hogy ott legyél mellette:\n\n- **Azért hallgasd meg, hogy megértsd, ne azért, hogy válaszolj.** Hagyd beszélni, anélkül hogy félbeszakítanád, vagy közben a védekezésedet terveznéd.\n- **Tükrözd vissza.** Az „Ez nagyon megterhelőnek hangzik” vagy az „Értem, miért fájt ez” sokkal jobb, mint a „Ne is foglalkozz vele”.\n- **Kérdezz, mielőtt tanácsot adsz.** „Szeretnéd, hogy segítsek végiggondolni, vagy csak azt, hogy meghallgassalak?”\n- **Ne vedd magadra**, ha egy nehéz nap nem rólad szól. A kiegyensúlyozottság ajándék.\n- **Vállald a saját részedet.** Ha valamit elrontottál, egy őszinte bocsánatkérés – „de” nélkül – újjáépíti a bizalmat.\n- **Lásd a tágabb képet.** Ha tartósan levertnek, szorongónak tűnik, vagy nem önmaga, finoman bátorítsd, hogy kérjen segítséget, és ajánld fel, hogy segítesz neki elérni. Csapattárs vagy, nem terapeuta.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "luteal-phase": {
+      "title": "Luteális szakasz",
+      "aliases": [
+        "luteális szakasz",
+        "luteális fázis",
+        "sárgatestes szakasz",
+        "a ciklus második fele",
+        "ovuláció utáni szakasz"
+      ],
+      "glance": "A luteális szakasz a ciklus második fele, az ovuláció után, amikor a progeszteron szintje emelkedik.",
+      "overview": "A luteális szakasz a ciklusnak az a része, amely az ovulációt követi, és a következő menstruációd kezdetéig tart. A nevét a corpus luteumról, vagyis a sárgatestről kapta – arról a kis képletről, amelyet a petefészek a petesejt kilökődése után az üres tüszőből alakít ki.\n\nEbben a szakaszban a progeszteron hormon szintje emelkedik. A feladata az, hogy a méh nyálkahártyáját vastagon és stabilan tartsa, hogy ha egy megtermékenyített petesejt érkezik, legyen hová beágyazódnia. Az ösztrogén is szerepet játszik, a progeszteronnal együtt működve.\n\nHa nem kezdődik terhesség, a sárgatest lebomlik, a progeszteron és az ösztrogén szintje csökken, és a nyálkahártya fenntartása megszűnik – ez indítja el a következő menstruációdat és egy új ciklust. Ez az az időszak is, amikor egyesek premenstruációs változásokat észlelnek a hangulatukban, az alvásukban vagy a testükben.",
+      "deep": "A luteális szakasz hossza általában kicsit egyenletesebb, mint a ciklus első feléé, gyakran nagyjából két hét körül alakul, bár emberenként normális eltérések vannak. Mivel a vége a progeszteronszint csökkenéséhez kötődik, a menstruáció megérkezése valójában annak látható jele, hogy a hormonszintek leestek. Ha követed, hogyan érzed magad a luteális szakasz során, az segíthet elkülöníteni azt, ami nálad megszokott mintázat, attól, ami új, vagy amiről érdemes beszélni egy egészségügyi szakemberrel.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menopause": {
+      "title": "Menopauza",
+      "aliases": [
+        "menopauza",
+        "változókor",
+        "klimax",
+        "klimaktérium",
+        "változás kora",
+        "hőhullámok"
+      ],
+      "glance": "A menopauza az, amikor a menstruáció végleg megszűnik – ez természetes életszakasz, amely általában körülbelül 45 és 55 éves kor között következik be.",
+      "overview": "A menopauza az az időpont, amikor a menstruációd véglegesen megszűnik. Mivel előtte a menstruáció egy ideig jöhet-mehet, akkor tekintjük bekövetkezettnek, ha 12 egymást követő hónapon át nem volt menstruációd. Általában körülbelül 45 és 55 éves kor között következik be, bár lehet korábban vagy később is.\n\nAz öregedés természetes része, nem betegség. Akkor következik be, amikor a petefészkek működése lelassul, és az ösztrogén – a ciklus egyik kulcshormonja – szintje csökken. Ez a hormonális változás áll azok mögött a változások mögött, amelyeket sokan észlelnek: hőhullámok és éjszakai izzadás, a menstruáció változásai az azt megelőző időszakban, alvási nehézségek, hangulatváltozások vagy szorongás, ködös gondolkodás, hüvelyszárazság és fájdalmak.\n\nA tapasztalatok rendkívül eltérőek – van, aki könnyedén átvészeli, másoknak nehéz, és a tünetek több évig is eltarthatnak. Egyik sem jelenti azt, hogy valami baj van veled. Létezik támogatás és számos lehetőség, és ha megérted, mi történik, az jó első lépés.",
+      "deep": "A menopauzát megelőző változások éveit perimenopauzának nevezik; maga a menopauza egyetlen időpont (az a bizonyos 12 hónap menstruáció nélkül), az utána következő időszakot pedig néha posztmenopauzának hívják. Mivel az ösztrogén hosszú távon a csontokra és a szívre is hatással van, az egészségügyi szakemberek a mindennapi tünetek mellett ezekre is figyelnek. Sokféle megközelítés – az életmódtól a nem hormonális és hormonális kezelésekig – enyhítheti a tüneteket, és hogy mi a megfelelő, az az egészségedtől, a kórtörténetedtől és a preferenciáidtól függ; erről egy egészségügyi szakemberrel érdemes beszélni.",
+      "when_to_see_doctor": "- Fordulj háziorvoshoz, ha a menopauza tünetei zavarnak vagy a mindennapi életedet befolyásolják, és szeretnéd átbeszélni a lehetőségeidet.\n- **Mindig** fordulj háziorvoshoz, ha **12 hónap menstruációmentes időszak után bármilyen hüvelyi vérzésed** van (menopauza utáni vérzés). Gyakran nem súlyos, de mindig ki kell vizsgálni.\n- Akkor is érdemes felkeresned a háziorvosodat, ha a korábbinál nem kevesebbet, hanem többet vérzel, vagy a menstruációd olyan módon változik, ami aggaszt.",
+      "red_flags": null
+    },
+    "menstrual-cycle": {
+      "title": "A menstruációs ciklus",
+      "aliases": [
+        "ciklus",
+        "menstruációs ciklus",
+        "havi ciklus",
+        "ciklushossz",
+        "hány napos a ciklus",
+        "női ciklus"
+      ],
+      "glance": "A menstruációs ciklus az a havi ritmus, amely szerint a tested felkészül egy lehetséges terhességre.",
+      "overview": "A menstruációs ciklust a menstruációd első napjától – ez az 1. nap – a következő menstruációd kezdete előtti napig számoljuk. Hormonok irányítják, amelyek minden hónapban ismétlődő mintázat szerint emelkednek és csökkennek.\n\nEgy ciklus gyakran körülbelül 28 napos, de ez csak átlag. Körülbelül 21 és 35 nap között bármi normális, és a saját ciklusod hossza is változhat kicsit hónapról hónapra. Hasznosabb megismerni a saját mintázatodat, mint egy számhoz hasonlítani.\n\nA ciklus során a tested néhány szakaszon halad át: a menstruáció, a petesejt kibocsátására való felkészülés, maga a kibocsátás (ovuláció), és az azt követő időszak. Minden szakaszt hormonok alakítanak, főként az ösztrogén és a progeszteron.",
+      "deep": "Az egész ciklus egy hormonok által közvetített párbeszéd az agy és a petefészkek között. Az első felében az ösztrogén szintje emelkedik, ahogy a petefészekben egy petesejtet tartalmazó tüsző érik, és a méh nyálkahártyája megvastagszik. A ciklus közepe táján kilökődik egy petesejt. A második felében a progeszteron segít készenlétben tartani a nyálkahártyát arra az esetre, ha egy megtermékenyített petesejt érkezne.\n\nHa nem jön létre terhesség, az ösztrogén és a progeszteron szintje alacsonyra esik, a nyálkahártya menstruáció formájában leválik, és a mintázat újrakezdődik. Mivel ezek a hormonok sok szervrendszerre hatnak, a hónap során apró, napról napra jelentkező változásokat észlelhetsz – ez a ciklus normális ritmusa, nem valami, amit „helyre kellene hozni”.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "menstrual-phase": {
+      "title": "Menstruációs szakasz (a menstruáció)",
+      "aliases": [
+        "menstruáció",
+        "menzesz",
+        "havi vérzés",
+        "menstruációs szakasz",
+        "vérzés",
+        "mens",
+        "megjött"
+      ],
+      "glance": "A menstruáció az a néhány napos vérzés, amely minden ciklust elindít, amikor a méh nyálkahártyája leválik.",
+      "overview": "A menstruációs szakasz maga a menstruáció – azok a napok, amikor vérzel. A ciklus 1. napján kezdődik, amikor az ösztrogén és a progeszteron szintje annyira lecsökkent, hogy a méhen belül felépült nyálkahártya fenntartása megszűnik, a nyálkahártya leválik, és a hüvelyen keresztül távozik a testből.\n\nA menstruáció általában körülbelül 2–7 napig tart, jellemzően nagyjából 5 napig. A vérzés gyakran az első egy-két napban a legerősebb, utána gyengébb. A menstruáció általában 12 éves kor körül kezdődik, bár a korábbi vagy későbbi kezdés is normális.\n\nHogy mi a „normális”, az emberenként nagyon eltérő. Ha követed a saját menstruációidat, könnyebben észreveszed, mi szokásos nálad, és ez sokkal többet mond bármilyen átlagnál.",
+      "deep": "A menstruációs vérzés a méh nyálkahártyájának (az endometriumnak) a leválása egy olyan ciklus után, amelyben nem kezdődött terhesség. Egyszerre jelzi az egyik ciklus végét és a következő kezdetét, ezért számít a menstruációd 1. napja az egész ciklus 1. napjának. Ahogy a menstruáció véget ér, az ösztrogén szintje újra emelkedni kezd, és a test elkezdi újraépíteni a nyálkahártyát a következő ciklusra.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "miscarriage": {
+      "title": "Vetélés",
+      "aliases": [
+        "vetélés",
+        "spontán vetélés",
+        "elvetélés",
+        "terhesség elvesztése",
+        "korai vetélés",
+        "baba elvesztése",
+        "missed ab"
+      ],
+      "glance": "A vetélés a terhesség elvesztése a 24. hét előtt – gyakori, és szinte soha nem te okozod.",
+      "overview": "A vetélés a terhesség elvesztése az első 24 hétben. Gyakoribb, mint sokan gondolnák, és az egyik legfontosabb tudnivaló, hogy szinte soha nem olyasmi okozza, amit tettél vagy nem tettél – általában a terhesség fejlődésében fellépő probléma miatt következik be, amely senki befolyásán nem múlt.\n\nA leggyakoribb jelek a hüvelyi vérzés, valamint az alhasi görcsök vagy fájdalom. A korai terhességben jelentkező vérzés nem mindig jelenti azt, hogy vetélés zajlik – sokan véreznek egy kicsit, és utána egészséges terhességük lesz –, de mindig ki kell vizsgálni.\n\nBárhogyan is következik be a veszteség, az ezzel járó érzések valódiak és jogosak, a gyász pedig normális reakció. Nem kell egyedül végigcsinálnod – elérhető támogatás a szülésznődtől vagy a háziorvosodtól, valamint a terhességi veszteséggel foglalkozó segítő szervezetektől.",
+      "deep": null,
+      "when_to_see_doctor": "- Keresd meg a háziorvosodat, a szülésznődet vagy egy korai terhességi ambulanciát (vagy egy ügyeletes orvost), ha **hüvelyi vérzésed vagy pecsételésed van a terhesség alatt**, még ha enyhe is, és alig vagy egyáltalán nem fáj – hogy ki lehessen vizsgálni.\n- Érdeklődj a legközelebbi **korai terhességi ambulanciáról**, amely pontosan erre szolgál.",
+      "red_flags": "- **Hívd a {{emergency}} segélyhívó számot, vagy menj a sürgősségi osztályra**, ha terhesség alatt **erős hasi fájdalmad, vállcsúcsi fájdalmad vagy erős vérzésed van, ájulásérzésed van, vagy nagyon rosszul vagy**. Ezek súlyos probléma, például méhen kívüli terhesség jelei lehetnek, amely sürgős ellátást igényel."
+    },
+    "morning-sickness": {
+      "title": "Terhességi hányinger (reggeli rosszullét)",
+      "aliases": [
+        "reggeli rosszullét",
+        "terhességi hányinger",
+        "hányinger terhesség alatt",
+        "hányás terhesség alatt",
+        "terhességi hányás",
+        "hyperemesis",
+        "hyperemesis gravidarum"
+      ],
+      "glance": "A hányinger és a hányás nagyon gyakori a korai terhességben, és általában a 16–20. hét körül enyhül.",
+      "overview": "A hányinger vagy a hányás nagyon gyakori a korai terhességben. A „reggeli rosszullét” elnevezés ellenére a nap vagy az éjszaka bármely szakában jelentkezhet. A legtöbbeknél az első néhány hétben kezdődik, és nagyjából a 16–20. hétre elmúlik.\n\nKellemetlen, és egyeseknél valóban befolyásolja a mindennapi életet – de a szokásos reggeli rosszullét nem jelent fokozott kockázatot a babádra. Ha gyakran eszel kis mennyiségeket, és megtalálod, mi segít neked, könnyebben elviselhetővé válhat; ha nehezen bírod, egy szülésznő, háziorvos vagy gyógyszerész biztonságos lehetőségeket javasolhat.\n\nKevés embernél a rosszullét súlyossá válik (ezt hyperemesis gravidarumnak nevezik), és valós a kiszáradás veszélye. Ez a forma orvosi segítséget igényel – lásd az alábbi jeleket.",
+      "deep": null,
+      "when_to_see_doctor": "Keresd meg a szülésznődet, a háziorvosodat vagy egy ügyeletes orvost, ha:\n\n- 24 órán át semmilyen étel vagy ital nem marad meg benned (mindent kihánysz)\n- nagyon sötét a vizeleted, vagy több mint 8 órája nem pisiltél\n- nagyon gyengének érzed magad, szédülsz, vagy ájulásérzésed van, amikor felállsz\n- hasi fájdalmad vagy lázad van, vagy vért hánysz\n- fogysz",
+      "red_flags": "- Ha még a folyadékot is kihányod, és nagyon sötét a vizeleted, vagy egyáltalán nincs, az kiszáradást jelenthet (súlyos terhességi hányás) – **még aznap keresd meg a szülésznődet, a háziorvosodat vagy egy ügyeletes orvost**, mert kezelésre lehet szükséged, hogy ne romoljon tovább az állapotod."
+    },
+    "ovulation": {
+      "title": "Ovuláció",
+      "aliases": [
+        "ovuláció",
+        "peteérés",
+        "tüszőrepedés",
+        "petesejt kilökődése",
+        "termékeny időszak",
+        "mikor van az ovuláció"
+      ],
+      "glance": "Az ovuláció az, amikor a petefészek kibocsát egy petesejtet – ez a ciklusod legtermékenyebb pontja.",
+      "overview": "Az ovuláció az a pillanat, amikor a petefészek kibocsát egy érett petesejtet. Ez a ciklus fordulópontja: az első fele erre épül fel, a második fele pedig ezt követi.\n\nEgy körülbelül 28 napos ciklusban az ovuláció gyakran a 14. nap körül következik be – de az időzítése változó. Hasznos úgy gondolni rá, hogy az ovuláció általában valamikor 10–16 nappal a következő menstruációd kezdete előtt zajlik le. A pontos napot nehéz lehet meghatározni.\n\nA kibocsátás után a petesejt csak körülbelül 12–24 óráig termékenyíthető meg. A spermiumok azonban több napig is életben maradhatnak a testben, így a „termékeny időszak” egyetlen napnál hosszabb – nagyjából az ovulációt megelőző néhány nap és maga az ovuláció napja.",
+      "deep": "A petesejt kibocsátását a hormonok rövid, meredek emelkedése váltja ki a ciklus közepe táján, a follikuláris szakasz ösztrogén-felfutását követően. Mivel a spermiumok több napig is élhetnek, a petesejt viszont egy napnál rövidebb ideig, a terhesség leginkább az ovulációt közvetlenül megelőző napokban történt szexből jön létre. Az ovuláció ciklusról ciklusra eltolódhat például stressz vagy betegség miatt, ezért nehéz pontosan előre jelezni, és ezért megbízhatóbb több ciklust követni, mint bármilyen egyszeri számításra hagyatkozni.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pain-during-sex": {
+      "title": "Fájdalom szex közben",
+      "aliases": [
+        "fájdalom szex közben",
+        "fájdalmas szex",
+        "fájdalmas közösülés",
+        "dyspareunia",
+        "vaginizmus",
+        "fáj a szex",
+        "hüvelygörcs"
+      ],
+      "glance": "A szex közbeni fájdalom gyakori, sokféle oka lehet, és mindig érdemes kivizsgáltatni – van segítség.",
+      "overview": "A szex közbeni fájdalom – orvosi nevén dyspareunia – gyakoribb, mint sokan gondolnák, és soha nem olyasmi, amit egyszerűen el kell fogadnod. Sokféle oka lehet, és a megfelelő ok megtalálása a kulcs az enyhítéséhez.\n\nEgyes okok testiek. Gyakori a hüvelyszárazság, amely sokszor a menopauza körüli hormonális változásokhoz vagy az elégtelen izgalomhoz kapcsolódik, és sajgóvá vagy kellemetlenné teheti a szexet. A fertőzések, például a hüvelyi gombás fertőzés, szintén okozhatnak fájdalmat. Egy másik ok a vaginizmus – amikor a hüvely körüli izmok maguktól megfeszülnek a behatolás kísérletekor, ami fájdalmassá vagy lehetetlennek tűnővé teheti a szexet. Ez akaratlan, nem „csak a fejedben van”, és kezelhető.\n\nMivel az ok lehet testi, hormonális, vagy összefügghet azzal, mennyire vagy ellazult vagy izgalmi állapotban – és gyakran ezek keveréke –, a hasznos lépés az, hogy megvizsgáltasd, ahelyett hogy találgatnál vagy összeszorított foggal tűrnéd.",
+      "deep": null,
+      "when_to_see_doctor": "- Fordulj háziorvoshoz vagy szexuális egészségügyi rendelőhöz, ha fájdalmas a szex – bármi is az oka, érdemes kivizsgáltatni, és a gyakori okokra van hatékony segítség.\n- Kínos lehet szóba hozni, de az egészségügyi szakemberek gyakran találkoznak ezzel, és azért vannak, hogy segítsenek, nem azért, hogy ítélkezzenek. Kérhetsz női orvost, vihetsz magaddal valakit, és megbeszélheted, mi tenné kényelmessé a vizsgálatot.\n- A szex utáni vérzést mindenképp vizsgáltasd ki, és ne várj, fordulj mielőbb orvoshoz, ha erős a fájdalom, vagy rosszul is érzed magad.",
+      "red_flags": null
+    },
+    "pain-relief-in-labour": {
+      "title": "Fájdalomcsillapítás szülés közben",
+      "aliases": [
+        "fájdalomcsillapítás szülésnél",
+        "epidurál",
+        "epidurális érzéstelenítés",
+        "kéjgáz",
+        "Entonox",
+        "vajúdási fájdalom",
+        "vizes szülés",
+        "TENS"
+      ],
+      "glance": "A szülési fájdalom enyhítésére többféle mód létezik – nincs jó vagy rossz választás, és rugalmas maradhatsz.",
+      "overview": "A szülés mindenkinél más, és a fájdalommal többféleképpen is meg lehet birkózni – az egyszerű komfortot javító módszerektől az orvosi lehetőségekig. Ha előre tudod, mi áll rendelkezésre, felkészültebbnek érezheted magad.\n\nA lehetőségek a **mozgásban és függőleges testhelyzetben maradástól**, a légzéstől és a relaxációtól, a masszázstól és a **vízben** töltött időtől (kád vagy szülőmedence) egészen a **TENS-készülékig**, a **kéjgázig** (Entonox, amelyet te magad lélegzel be), az olyan **injekciókig**, mint a petidin, és az **epidurális érzéstelenítésig** terjednek (ezt aneszteziológus adja be, és teljesebben csillapítja a szülési fájdalmat).\n\nNincs „legjobb” választás – ez rajtad, a szülésed lefolyásán és azon múlik, hogyan érzed magad az adott napon. Érdemes a kívánságaidat egy **szülési tervben** rögzíteni, miközben nyitott maradsz: sokan azt tapasztalják, hogy több vagy kevesebb fájdalomcsillapításra van szükségük, mint amire számítottak, és ez teljesen rendben van.",
+      "deep": null,
+      "when_to_see_doctor": "- A **szülésznőd** (epidurális érzéstelenítés esetén pedig egy aneszteziológus) végigveszi veled a lehetőségeket, és segít eldönteni, mi illik hozzád – a terhesség alatt, majd magában a vajúdásban is. Nem kell mindent előre eldöntened.",
+      "red_flags": null
+    },
+    "pcos": {
+      "title": "PCOS (policisztás ovárium szindróma)",
+      "aliases": [
+        "pcos",
+        "policisztás ovárium szindróma",
+        "policisztás petefészek",
+        "policisztás petefészek szindróma",
+        "PCO",
+        "cisztás petefészek"
+      ],
+      "glance": "A PCOS gyakori hormonális állapot, amely hatással lehet a menstruációra, az ovulációra, a bőrre és a hajra.",
+      "overview": "A PCOS – policisztás ovárium szindróma – gyakori állapot, amely a reproduktív hormonok egyensúlyával függ össze. Becslések szerint a termékeny korú nők nagyjából 10-ből 1-ét érinti, és sokan, akiknek van, soha nem kapnak diagnózist.\n\nTöbbféleképpen jelentkezhet, és nincs két egyforma eset. Gyakori jellemzői a rendszertelen, ritka vagy elmaradó menstruáció; az androgéneknek nevezett hormonok magasabb szintje, ami fokozott arc- vagy testszőrzethez, pattanásokhoz vagy a fejbőrön ritkuló hajhoz vezethet; valamint az, hogy a petefészkek nem bocsátanak ki olyan rendszeresen petesejtet, mint általában, ami megnehezítheti a teherbeesést. Gyakori a testsúly változása és a sötétebb bőrfoltok megjelenése is.\n\nA pontos oka nem teljesen ismert, és nincs rá gyógymód – de a tünetek kezelhetők, és az első lépés annak megértése, mi történik. A PCOS gyakori és kezelhető, nem olyasmi, amit szégyellni kellene.",
+      "deep": "Mivel a PCOS a test hormonjait és az inzulin kezelésének módját érinti, hosszabb távon összefügg az inzulinrezisztenciával és a 2-es típusú cukorbetegség, a magas vérnyomás és a koleszterinszint-változások nagyobb esélyével is – ezért az egészségügyi szakemberek idővel figyelemmel kísérik ezeket. A PCOS-sel élők nagyjából fele negyvenes éveire cukorbetegséget vagy prediabéteszt alakíthat ki, ezért fontosak a rendszeres ellenőrzések. A diagnózist nem magadnak kell felállítanod: egy egészségügyi szakember az összképet nézi – a kórtörténetedet és a menstruációidat, néha hormonszint-vizsgálatot vérből, néha a petefészkek ultrahangvizsgálatát –, és kizárja az egyéb okokat, mielőtt PCOS-t állapítana meg.",
+      "when_to_see_doctor": "Érdemes háziorvoshoz fordulnod, ha a fenti képhez illő dolgokat észlelsz, különösen, ha befolyásolják, hogyan érzed magad a mindennapokban:\n\n- rendszertelen, nagyon ritka vagy elmaradó menstruáció\n- észrevehetően fokozott szőrnövekedés az arcon vagy a testen, tartós pattanások vagy ritkuló haj a fejbőrön\n- nehézség a teherbeeséssel egy ideje tartó próbálkozás után\n- nehezen leadható súlygyarapodás, más tünetek mellett\n\nA háziorvos utánajárhat, mi történik, megerősítheti, hogy PCOS-ről vagy valami másról van-e szó, és megbeszélheti veled a hozzád illő tervet. A PCOS a lehangoltsággal és a szorongással is összefügg – ha nehezen boldogulsz az érzéseiddel, ezt is mondd el a háziorvosodnak; ez is a kép része, és elérhető támogatás.",
+      "red_flags": null
+    },
+    "perimenopause": {
+      "title": "Perimenopauza",
+      "aliases": [
+        "perimenopauza",
+        "menopauza előtti időszak",
+        "változókor kezdete",
+        "premenopauza",
+        "klimax",
+        "változás kora"
+      ],
+      "glance": "A perimenopauza a menopauzához vezető átmeneti időszak, amikor a menstruáció és a hormonok változni kezdenek.",
+      "overview": "A perimenopauza a menopauzához vezető időszak – a „menopauza körüli” évek. Akkor kezdődik, amikor először észleled a változásokat, és egészen az utolsó menstruációd utáni egy teljes évig tart, ekkor érted el a menopauzát. Több évig is eltarthat.\n\nEbben az időszakban a petefészkek fokozatosan kevesebb ösztrogént termelnek, és a szintje kevésbé kiszámíthatóan emelkedik és csökken, mint korábban. A leggyakoribb korai jel, hogy a menstruáció megváltozik – sűrűbben vagy ritkábban jön, gyengébb vagy erősebb lesz. A menopauzával összefüggő tünetek közül sok, például a hőhullámok, az alvás változásai vagy a hangulatingadozások, már ekkor elkezdődhetnek, amikor még van menstruációd.\n\nMivel fokozatos és nagyon változatos, a perimenopauza zavarba ejtő lehet – a változások nem egyszerre és nem mindenkinél ugyanabban a sorrendben jelentkeznek. Ha tudod, hogy ennek a szakasznak neve van, és hogy normális átmenetről van szó, könnyebb lehet megérteni, mi történik.",
+      "deep": null,
+      "when_to_see_doctor": "- Fordulj háziorvoshoz, ha a perimenopauza tünetei befolyásolják a mindennapi életedet, és szeretnéd megbeszélni, mi segíthet.\n- Érdemes kivizsgáltatni, ha a menstruációd nagyon erőssé válik, vagy ha a menstruációk között vagy szex után vérzel, hogy kiderüljön az oka.\n- Ne feledd, hogy a perimenopauza alatt még teherbe eshetsz, ezért érdemes a fogamzásgátlást szóba hozni egy egészségügyi szakembernél, ha ez rád vonatkozik.",
+      "red_flags": null
+    },
+    "period-pain": {
+      "title": "Menstruációs fájdalom",
+      "aliases": [
+        "menstruációs fájdalom",
+        "menstruációs görcs",
+        "görcsök",
+        "dysmenorrhoea",
+        "fájdalmas menstruáció",
+        "hasfájás menstruáció alatt",
+        "menzeszgörcs",
+        "fáj a menstruáció",
+        "fájdalmas menzesz",
+        "menstruációs fájdalmak"
+      ],
+      "glance": "A menstruációs fájdalom görcsös fájdalom az alhasban a menstruáció körül – gyakori, és sokszor a ciklus normális része.",
+      "overview": "A menstruációs fájdalom az a görcsös, sajgó érzés az alhasban, amelyet sokan tapasztalnak a menstruációjuk körül. Akkor jelentkezik, amikor a méh izmos fala összehúzódik, és gyakran a menstruációs ciklus normális része. Orvosi neve dysmenorrhoea.\n\nÁltalában a menstruáció kezdetén vagy közvetlenül előtte jelentkezik, és legfeljebb körülbelül három napig tart. Van, akinél ez enyhe nehézségérzés, másoknál erősebbek a görcsök. A fájdalom az élet során és ciklusról ciklusra is változhat.\n\nAz ezt a megszokott mintát követő menstruációs fájdalom gyakori, és általában kezelhető. Sokan hétköznapi, komfortot javító módszereket és egyszerű fájdalomcsillapítókat használnak, és egy gyógyszerész vagy háziorvos tanácsot adhat, mi lehet jó neked. Az a fontos, hogy ismerd a saját szokásos mintádat – így észreveheted, ha valami megváltozik.",
+      "deep": null,
+      "when_to_see_doctor": "Érdemes beszélned egy háziorvossal, ha:\n\n- a menstruációd a szokásosnál fájdalmasabbá, erősebbé vagy rendszertelenebbé válik\n- a fájdalom miatt nem tudod végezni a hétköznapi dolgaidat, például a munkát vagy az iskolát\n- a szokásos fájdalomcsillapítók nem segítenek\n- fájdalmat érzel szex közben, vizeléskor vagy székeléskor\n- a menstruációid között vérzel\n- a fájdalmad nemcsak közvetlenül a menstruáció előtt vagy alatt jelentkezik\n- egy pénzérménél (nagyjából egy százforintosnál) nagyobb vérrögök távoznak\n- puffadt hasat, csökkent étvágyat vagy megmagyarázhatatlan fogyást is észlelsz\n\nEzek nem jelentik azt, hogy valami baj van, de érdemes kivizsgáltatni őket – az új, szokatlan vagy nehezen kezelhető menstruációs fájdalomnak olyan okai lehetnek, amelyekben egy egészségügyi szakember segíteni tud.",
+      "red_flags": "- Kérj **sürgős** időpontot a háziorvosodtól, vagy keress fel egy **ügyeletes orvost**, ha a menstruációs vagy kismedencei fájdalmad **erős vagy a szokásosnál rosszabb, és a fájdalomcsillapítók nem segítettek.**"
+    },
+    "planning-pregnancy": {
+      "title": "A terhesség tervezése",
+      "aliases": [
+        "terhesség tervezése",
+        "babatervezés",
+        "fogantatás előtt",
+        "teherbe szeretnék esni",
+        "felkészülés a terhességre",
+        "babaprojekt"
+      ],
+      "glance": "Néhány egyszerű lépés a próbálkozás előtt – folsav, a dohányzás és az alkohol elhagyása – a lehető legjobb kezdetet adja a terhességnek.",
+      "overview": "Ha azon gondolkodsz, hogy babát szeretnél, néhány előzetes lépés egészségesebb kezdetet adhat a terhességnek – közülük sok már a fogantatás előtt kifejti a hatását.\n\nA legfontosabbak: kezdd el szedni a **folsavat** (és a D-vitamint), **hagyd abba a dohányzást**, és **kerüld az alkoholt**. Az egészséges testsúlyra való törekvés is segít, mert a jelentős alul- vagy túlsúly megnehezítheti a teherbeesést. Érdemes arról is meggyőződni, hogy az **MMR-oltásod** (kanyaró, mumpsz, rubeola) naprakész, mert egyes fertőzések hatással lehetnek a terhességre.\n\nMindennek nem kell tökéletesnek vagy megterhelőnek lennie. Az előre megtett apró, kedves változtatások számítanak – és egy kis előny az egyik legszebb dolog, amit egy jövőbeli terhességért tehetsz.",
+      "deep": null,
+      "when_to_see_doctor": "- Ha **hosszú távú betegséged** van, vagy **rendszeresen szedsz gyógyszert**, fordulj a háziorvosodhoz, mielőtt elkezdenél próbálkozni – egyes betegségek és gyógyszerek esetében előzetes tervezésre van szükség. **Ne hagyd abba egyetlen felírt gyógyszer szedését se** anélkül, hogy előbb beszélnél az orvosoddal.\n- A háziorvos a folsavval kapcsolatban (azt is beleértve, hogy szükséged van-e nagyobb adagra) és az egészséges testsúly terhesség előtti elérésében is tanácsot adhat.",
+      "red_flags": null
+    },
+    "postnatal-depression": {
+      "title": "Szülés utáni depresszió",
+      "aliases": [
+        "szülés utáni depresszió",
+        "posztpartum depresszió",
+        "PND",
+        "baby blues",
+        "gyermekágyi depresszió",
+        "depresszió szülés után",
+        "szülés utáni lehangoltság"
+      ],
+      "glance": "A szülés utáni depresszió gyakori, kezelhető lehangoltság a szülés után – nem a te hibád, és van segítség.",
+      "overview": "Nagyon gyakori, hogy a szülés utáni első egy-két hétben levertnek, szorongónak vagy ingerlékenynek érzed magad – ezt gyakran „baby bluesnak” nevezik, és általában magától elmúlik nagyjából két héten belül.\n\nA szülés utáni depresszió más: mélyebb vagy tovább tartó lehangoltság. Gyakori állapot, az első év során bármikor kezdődhet, és az apákat és a partnereket is érintheti. Jelei lehetnek a tartós lehangoltság, az, hogy nehezen tudsz bárminek örülni, az alvási nehézségek akkor is, amikor a babád alszik, és néha nehéz érzések a babáddal való kötődés kapcsán.\n\nHa ez érint, az **nem** jelenti azt, hogy rossz szülő vagy, vagy hogy nem szereted a babádat – ez betegség, nem kudarc, és jól reagál a támogatásra és a kezelésre. Ha korán segítséget kérsz, az erős és gondoskodó lépés, magadért és a babádért.",
+      "deep": null,
+      "when_to_see_doctor": "- Beszélj a **háziorvosoddal, a szülésznőddel vagy a védőnőddel**, ha úgy gondolod, hogy szülés utáni depressziód lehet, vagy ha a „baby blues” két hét után sem múlt el. Sokszor láttak már ilyet, és segíthetnek megtalálni a megfelelő támogatást.",
+      "red_flags": "- Ha **arra gondolsz, hogy ártasz magadnak vagy a babádnak**, vagy hogy a családodnak jobb lenne nélküled, kérj segítséget **azonnal**: hívd a **{{emergency}}** segélyhívó számot, menj a sürgősségi osztályra, vagy hívj fel egy krízis-segélyvonalat. Ezek a gondolatok a betegség részei lehetnek, nem ezek határoznak meg téged, és sürgős segítség érhető el."
+    },
+    "pre-eclampsia": {
+      "title": "Preeclampsia",
+      "aliases": [
+        "preeclampsia",
+        "praeeclampsia",
+        "pre-eclampsia",
+        "terhességi magas vérnyomás",
+        "terhességi toxémia",
+        "gesztózis",
+        "fehérje a vizeletben terhesség"
+      ],
+      "glance": "A preeclampsia a terhesség alatti megemelkedett vérnyomás – kezdetben gyakran tünetmentes, ezért fontosak a várandósgondozási vizsgálatok.",
+      "overview": "A preeclampsia olyan terhességi állapot, amely főként magas vérnyomásban és a vizeletben megjelenő fehérjében nyilvánul meg. Általában a 20. hét környékétől jelentkezik, és néha a szülés után.\n\nAz egyik legfontosabb tudnivaló, hogy a korai szakaszban gyakran **egyáltalán nem okoz tüneteket** – teljesen jól érezheted magad. Pontosan ezért méri meg a szülésznőd a vérnyomásodat, és vizsgálja meg a vizeletedet minden rutinszerű várandósgondozási vizsgálaton: általában ezekkel az ellenőrzésekkel derül ki, még mielőtt bármit észrevennél.\n\nHa mégis jelentkeznek tünetek, érdemes ismerni őket, mert a preeclampsia súlyossá válhat neked és a babádnak is. Jól kezelhető, ha időben felismerik, és a várandósgondozási vizsgálatokon való részvétel a legjobb módja a korai felismerésnek.",
+      "deep": null,
+      "when_to_see_doctor": "- Menj el minden **rutinszerű várandósgondozási vizsgálatra** – a vérnyomás- és vizeletvizsgálatokkal általában még a tünetek megjelenése előtt kiderül a preeclampsia.",
+      "red_flags": "Kérj **azonnal** orvosi segítséget – keresd meg a szülészeti osztályt vagy egy **ügyeletes orvost** –, ha az alábbiak bármelyikét tapasztalod (hívd a **{{emergency}}** segélyhívó számot, ha súlyosan rosszul vagy, például görcsrohamod van):\n\n- **erős fejfájás**, amely a szokásos fájdalomcsillapítókra sem enyhül\n- **látászavarok** – homályos látás vagy fényvillanások\n- **hirtelen duzzanat** az arcodon, a kezeden vagy a lábfejeden\n- **fájdalom közvetlenül a bordáid alatt**\n- **hányás**, vagy hirtelen nagyon rossz közérzet"
+    },
+    "pregnancy": {
+      "title": "Terhesség",
+      "aliases": [
+        "terhesség",
+        "várandósság",
+        "terhes vagyok",
+        "babát várok",
+        "trimeszterek",
+        "szülés várható időpontja",
+        "hányadik hetes terhes vagyok",
+        "terhességi hét"
+      ],
+      "glance": "A terhesség általában körülbelül 40 hétig tart, az utolsó menstruációd első napjától számítva.",
+      "overview": "A terhesség az az időszak, amikor a tested kihordja és növeli a babát. Általában körülbelül 40 hétig tart – 37 és 42 hét között bármi érett, normális terhességnek számít –, és talán meglepő módon nem a fogantatástól, hanem az **utolsó menstruációd** első napjától számolják. Egyszerűen ez a dátumok kiszámításának bevett módja.\n\nA **szülés várható időpontja** becslés, nem határidő: a babák nyugodtan érkezhetnek kicsit korábban vagy később. A terhesség elején egy terhességi kort meghatározó ultrahang (általában a 12. hét körül) megmérheti a babát, és pontosabb dátumot adhat, ami néha módosítja az eredeti becslést.\n\nA terhességről gyakran három szakaszban, **trimeszterben** beszélnek, mindegyik saját változásokkal. Végig rendszeres várandósgondozási vizsgálatokon gondoskodik rólad egy szülésznő (és szükség esetén orvos) – ez az ellátás segít, hogy te és a babád jól legyetek.",
+      "deep": "Mivel a dátumokat az utolsó menstruációtól számolják, mire kimarad egy menstruáció, már nagyjából négyhetes terhesnek számítasz. A terhességi hetek számolása szerint szervezik az ellátást – az ultrahangokat, a szűréseket és az ellenőrzéseket mind meghatározott heteken ajánlják fel. Ha rendszertelen a menstruációd, vagy bizonytalan vagy a dátumokban, a terhességi kort meghatározó ultrahang rögzíti az idővonalat. Ez a cikk az egész út térképe; az egyes témáknak – a terhesség jeleinek, a várandósgondozásnak, az egészség megőrzésének és a szülésnek – külön cikkük van.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "pregnancy-test": {
+      "title": "Terhességi teszt",
+      "aliases": [
+        "terhességi teszt",
+        "otthoni terhességi teszt",
+        "hCG teszt",
+        "mikor csináljak tesztet",
+        "pozitív teszt",
+        "két csík",
+        "terhesteszt"
+      ],
+      "glance": "Az otthoni terhességi teszt a vizeletedben keresi a hCG terhességi hormont – a kimaradt menstruáció első napjától a legmegbízhatóbb.",
+      "overview": "Az otthoni terhességi teszt úgy működik, hogy a vizeletedben kimutat egy hCG-nek (humán koriongonadotropin) nevezett hormont. A tested néhány nappal azután kezdi termelni, hogy egy megtermékenyített petesejt beágyazódott, és a mennyisége a korai terhességben gyorsan nő.\n\nA teszt a **kimaradt menstruáció első napjától** a legmegbízhatóbb – ez nagyjából két héttel a fogantatás után van. Ha rendszertelen a ciklusod, vagy nem vagy biztos benne, mikor esedékes a menstruációd, megbízhatóbb eredményt kapsz, ha a védekezés nélküli szex után legalább 21 napot vársz. Nem kell reggel elsőként tesztelned; a nap bármely szakában megfelelő.\n\nA **pozitív** eredmény szinte biztosan helyes – nagyon kevés teszt mutat pozitívat, ha nem vagy várandós. A **negatív** eredmény kicsit kevésbé biztos: ha a menstruációd továbbra sem jön meg, és úgy gondolod, hogy várandós lehetsz, várj néhány napot, és csinálj újabb tesztet.",
+      "deep": null,
+      "when_to_see_doctor": "- Ha pozitív az eredmény, vedd fel a kapcsolatot egy **szülésznővel vagy háziorvossal**, hogy elkezdődhessen a várandósgondozás.\n- Ha a tesztek negatívak, de elmaradt a menstruációd, és terhesnek (vagy rosszul) érzed magad, fordulj háziorvoshoz, hogy kiderüljön, mi történik.",
+      "red_flags": null
+    },
+    "premature-labour": {
+      "title": "Koraszülés",
+      "aliases": [
+        "koraszülés",
+        "koraszülés jelei",
+        "korai vajúdás",
+        "idő előtti szülés",
+        "korai burokrepedés",
+        "elfolyt a magzatvíz",
+        "fenyegető koraszülés"
+      ],
+      "glance": "Koraszülésről a 37. hét előtt meginduló vajúdás esetén beszélünk – cselekedj gyorsan, mert a korai ellátás valódi különbséget jelent.",
+      "overview": "A koraszülés (idő előtti vajúdás) olyan vajúdás, amely a terhesség 37. hete előtt indul meg. A szülések nagyjából 100-ból 8 esetében fordul elő.\n\nA korán született babák sérülékenyebbek, de sokan közülük jól fejlődnek – különösen az újszülött-intenzív osztályok szakszerű ellátásával. A kulcs az, hogy gyorsan cselekedj, ha úgy gondolod, hogy elkezdődhetett, hogy megvizsgálhassanak, és szükség esetén olyan kezelést kaphass, amely segít megvédeni a babát.\n\nA jelek hasonlóak a bármely szakaszban meginduló vajúdáséhoz, de a 37. hét előtt soha nem szabad kivárni – mindig okot adnak arra, hogy azonnal felvedd a kapcsolatot.",
+      "deep": null,
+      "when_to_see_doctor": "- Hívd a **szülésznődet vagy a szülészeti osztályt** bármikor, ha **még nem vagy 37 hetes**, és bizonytalan vagy, vagy aggódsz – mindig rendben van, ha utánakérdezel.",
+      "red_flags": "**Azonnal keresd meg a szülésznődet vagy a szülészeti osztályt** – éjjel vagy nappal –, ha **a 37. hét előtt** az alábbiak bármelyikét tapasztalod:\n\n- rendszeres **méhösszehúzódások vagy keményedések**, vagy menstruációszerű fájdalmak\n- **hirtelen folyadékömlés vagy szivárgás** a hüvelyedből (elfolyik a magzatvíz)\n- nálad szokatlan **hátfájás**, vagy nyomásérzés alul"
+    },
+    "premenstrual-syndrome": {
+      "title": "PMS (premenstruációs szindróma)",
+      "aliases": [
+        "pms",
+        "premenstruációs szindróma",
+        "premenstruációs feszültség",
+        "menstruáció előtti tünetek",
+        "pmdd",
+        "premenstruációs diszfóriás zavar",
+        "menzesz előtti hangulatingadozás"
+      ],
+      "glance": "A PMS azoknak a testi és érzelmi változásoknak az összessége, amelyeket sokan a menstruáció előtti egy-két hétben tapasztalnak.",
+      "overview": "A PMS – premenstruációs szindróma – azoknak a változásoknak a neve, amelyeket sokan a menstruációjuk előtti napokban vagy egy-két hétben éreznek. Bárkit érinthet, akinek menstruációja van, és általában néhány nappal a menstruáció kezdete után enyhül.\n\nA változások sokféle formában jelentkeznek. Testileg puffadást, fájó vagy érzékeny melleket, görcsöket, fejfájást vagy fokozott fáradtságot észlelhetsz. Érzelmileg hangulatingadozások, ingerlékenység, szorongás vagy lehangoltság jelentkezhet. Gyakori a sóvárgás bizonyos ételek után és az alvás változása is. Nem mindenkinek van PMS-e, és akinek van, annál sem jelentkezik minden tünet – a saját mintázatod számít.\n\nA PMS sokak ciklusának normális, elismert része, amely a ciklus második felének természetes hormonális változásaihoz kötődik. Ha megfigyeled, hogyan jelentkezik nálad ciklusról ciklusra, könnyebb lehet tervezni vele – és észrevenni, ha valaha megváltozik.",
+      "deep": null,
+      "when_to_see_doctor": "Érdemes beszélned egy háziorvossal, ha:\n\n- a tüneteid befolyásolják a mindennapi életedet – a munkát, a tanulást, a kapcsolataidat\n- a napi rutinod hétköznapi megváltoztatása nem segített\n- a lehangoltságod, a szorongásod vagy az ingerlékenységed súlyosnak tűnik\n\nEgy egészségügyi szakember megbeszélheti veled, mi segíthet. Egy intenzívebb formája, a premenstruációs diszfóriás zavar (PMDD), sokkal erősebb hangulati tüneteket okozhat, és erre is elérhető támogatás.",
+      "red_flags": "- Ha a PMDD tüneteit tapasztalod, és **öngyilkossági gondolataid vannak, vagy úgy érzed, hogy kárt tehetsz magadban**, kérj segítséget azonnal: **hívd a {{emergency}} segélyhívó számot, vagy menj a sürgősségi osztályra.** Ne vezess magad – kérj meg valakit, hogy vigyen el, vagy hívj mentőt. Megérdemled a támogatást, és van segítség."
+    },
+    "progesterone": {
+      "title": "Progeszteron",
+      "aliases": [
+        "progeszteron",
+        "progesterone",
+        "sárgatesthormon",
+        "progeszteronszint",
+        "terhességvédő hormon"
+      ],
+      "glance": "A progeszteron a ciklus második felének hormonja, amely az ovuláció után felkészíti a méh nyálkahártyáját.",
+      "overview": "A progeszteron a menstruációs ciklus mögött álló egyik fő hormon, és a második felében veszi át a vezetést – miután az ovulációkor kilökődött egy petesejt.\n\nA fő szerepe az, hogy segítsen a méh nyálkahártyáját vastagon és készenlétben tartani, hogy ha egy megtermékenyített petesejt érkezik, beágyazódhasson, és terhesség kezdődhessen. Így a progeszteron az ösztrogén partnereként működik, amely a ciklus korábbi szakaszában a felépítés nagy részét végezte.\n\nHa nem kezdődik terhesség, a progeszteron szintje csökken. Ez a csökkenés teszi lehetővé, hogy a nyálkahártya a következő menstruációd formájában leváljon. A progeszteron emelkedése és csökkenése a ciklus második felében normális, várható ritmus.",
+      "deep": "A progeszteront főként a sárgatest (corpus luteum) termeli – az a képlet, amelyet a petefészek a tüszőből alakít ki, miután az kibocsátotta a petesejtet. Ezért emelkedik a progeszteron szintje kifejezetten a luteális (ovuláció utáni) szakaszban. Amikor a sárgatest lebomlik, a progeszteron és az ösztrogén szintje is csökken, ami egy új ciklus kezdetét jelzi. Természetes ingadozásai részben megmagyarázzák, miért észlelnek egyesek premenstruációs változásokat a menstruáció előtti napokban.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "progestogen-only-pill": {
+      "title": "A csak progesztogént tartalmazó tabletta (minitabletta)",
+      "aliases": [
+        "csak progesztogént tartalmazó tabletta",
+        "minitabletta",
+        "mini pill",
+        "POP",
+        "progeszteron tabletta",
+        "dezogesztrel tabletta",
+        "Cerazette"
+      ],
+      "glance": "A minitabletta egy naponta szedett, egyetlen hormont tartalmazó tabletta, amely besűríti a méhnyaknyákot, hogy feltartóztassa a spermiumokat.",
+      "overview": "A csak progesztogént tartalmazó tabletta – amelyet gyakran minitablettának hívnak – egy naponta szedett tabletta, amely csak egyetlen hormont, egy progesztogént tartalmaz. Olyanok számára jelent lehetőséget, akik nem szedhetnek ösztrogént, vagy inkább nem szeretnének.\n\nFő hatása, hogy besűríti a méhnyak nyákját, így a spermiumok nehezebben jutnak el a petesejthez. Egyik gyakori típusa, a dezogesztrel tartalmú tabletta, azt is megakadályozza, hogy a petefészkek petesejtet bocsássanak ki (ovuláció).\n\nHelyesen szedve több mint 99%-ban hatékony; szokásos, hétköznapi használat mellett körülbelül 91%-ban. Más tablettákhoz hasonlóan számít az időzítés, és nem véd a nemi úton terjedő fertőzések ellen.",
+      "deep": "A minitabletta abban különbözik a kombinált tablettától, hogy nem tartalmaz ösztrogént, ami befolyásolja, kinek lehet megfelelő – ezt egy egészségügyi szakember mérlegeli a felíráskor. Egyes típusokat viszonylag szűk napi időablakon belül kell bevenni ahhoz, hogy hatékonyak maradjanak. Ez a cikk azt mutatja be, mi ez és hogyan működik; hogy hogyan kell szedni, és hogy neked megfelelő-e, azt háziorvossal, ápolóval vagy gyógyszerésszel érdemes megbeszélni.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "recognising-abuse": {
+      "title": "A bántalmazó kapcsolat felismerése",
+      "aliases": [
+        "bántalmazás felismerése",
+        "bántalmazó kapcsolat",
+        "családon belüli erőszak",
+        "párkapcsolati erőszak",
+        "bántalmazás jelei",
+        "bántalmaz a párom",
+        "bántalmaznak"
+      ],
+      "glance": "A bántalmazás lehet fizikai, szexuális, érzelmi vagy kontrolláló – és soha nem annak a hibája, aki átéli.",
+      "overview": "A párkapcsolati bántalmazás nem csak fizikai lehet. Többféle formát ölthet, gyakran egyszerre: fizikai bántalmazás, szexuális kényszerítés, érzelmi vagy lelki bántalmazás, és kontrolláló viselkedés – amikor a partner dönti el, hová mehetsz, kivel találkozhatsz, vagy mit tehetsz. Ezek bármelyike lehet bántalmazás, akkor is, ha nincs látható sérülés.\n\nGyakoribb, mint sokan gondolnák. Világszerte a nők nagyjából 3-ból 1-e él át élete során fizikai vagy szexuális erőszakot, leggyakrabban a partnerétől; Olaszországban hasonló a helyzet. Ha tehát ez az életed része, nem vagy egyedül, és nem te okoztad.\n\nNehéz lehet kimondani – a bántalmazás gyakran keveredik jó időszakokkal, bocsánatkérésekkel vagy a változás ígéreteivel, és olyan lassan épülhet fel, hogy normálisnak tűnik. Ha a saját megérzésed azt súgja, hogy valami nincs rendben, az elég ok arra, hogy segítséget kérj. Nem kell biztosnak lenned, vagy megvárnod, amíg „elég rossz” lesz, ahhoz, hogy beszélj valakivel.",
+      "deep": "A különböző formák mögött a bántalmazás jellemzően egy mintázatot követ: az egyik ember hatalmat és kontrollt akar gyakorolni a másik felett, és ez idővel eszkalálódhat. Valódi árat követel az egészségtől – összefügg a szorongással, a depresszióval, az alvászavarokkal és hosszú távú testi hatásokkal. Mindez nem jelenti azt, hogy gyenge vagy, vagy hogy te vagy a hibás; azt jelenti, hogy ártalmas az, amiben élsz, és van támogatás, amely segít biztonságosan és a saját tempódban végiggondolni.",
+      "when_to_see_doctor": "- Bizalmasan beszélhetsz valakivel, amikor csak készen állsz – háziorvossal vagy ápolóval, egy erőszak elleni központtal vagy egy segélyvonallal (Olaszországban az **1522**, ingyenes és bármikor hívható). Nem kell hozzá bizonyíték, terv vagy előzetes döntés; azért vannak, hogy meghallgassanak, és segítsenek megérteni a lehetőségeidet.\n- Egy egészségügyi szakember a sérüléseidet is elláthatja, és diszkréten szakszerű támogatáshoz irányíthat.",
+      "red_flags": "- Ha **közvetlen veszélyben vagy**, most azonnal hívd a segélyhívó szolgálatot – az EU-ban (Olaszországot is beleértve) a **112**, az Egyesült Királyságban a **999**, az Egyesült Államokban és Kanadában a **911** a szám.\n- Olaszországban az **1522** – az ingyenes országos erőszak és zaklatás elleni segélyvonal – a nap 24 órájában, névtelenül elérhető telefonon vagy chaten, több nyelven."
+    },
+    "respect-not-control": {
+      "title": "Tisztelet, nem kontroll",
+      "aliases": [
+        "kontrolláló viselkedés",
+        "kényszerítő kontroll",
+        "egészséges párkapcsolat",
+        "figyelmeztető jelek",
+        "hol kérhetek segítséget",
+        "bántalmazás",
+        "féltékenység"
+      ],
+      "glance": "A szeretet tiszteletre és szabadságra épül – a kontroll, a féltékenység és a nyomásgyakorlás nem szeretet, és van segítség.",
+      "overview": "Az egészséges párkapcsolat alapja a tisztelet, a bizalom, az egyenlőség és a szabadság: két ember, akik mindketten megtartják a saját barátságaikat, döntéseiket és terüket. A kontroll ennek az ellentéte. Gyakran olyan szavak mögé bújik, mint a szeretet vagy a féltékenység – „Azért nézem meg a telefonodat, mert törődöm veled”, „Azért nem akarom, hogy találkozz velük, mert szeretlek” –, de a hatása az, hogy szűkíti a nő világát és szabadságát.\n\nA kontroll ritkán kezdődik erőszakkal. Általában apróságokkal indul – egy kritika, egy átlépett határ, egy „vicc”, ami fáj –, és egyre nő. Fontos korán megnevezni, mert a kényszerítő kontroll már önmagában is a bántalmazás egyik formája, és rosszabb dolgok figyelmeztető jele. Ez nem a bűntudatról szól, hanem az őszinteségről és a változásról.",
+      "deep": "**Ha ezek közül néhányat magadon is felismersz, ez a felismerés kiindulópont – nem életfogytiglani ítélet.**\nAz emberek valódi erőfeszítéssel és megfelelő segítséggel képesek változni. Ha felveszed a kapcsolatot egy olyan programmal, amely azoknak a férfiaknak szól, akik abba akarják hagyni a kontrolláló vagy erőszakos viselkedést, az az erő jele, nem a gyengeségé. Beszélj egy szakemberrel, egy orvossal vagy egy férfiaknak szóló viselkedésváltoztató szolgálattal.\n\nHa **ő** van veszélyben, vagy valaki miatt aggódsz, bátorítsd és támogasd abban, hogy segítséget kérjen – az ő feltételei szerint, soha nem úgy, hogy átveszed az irányítást.\n\n**Hol kérhetsz segítséget**\n- Vészhelyzetben, vagy ha bárki közvetlen veszélyben van, hívd a helyi segélyhívó számot (Olaszországban és Európa nagy részén **112**; az Egyesült Államokban **911**).\n- **Olaszország – 1522**: az országos erőszak és zaklatás elleni segélyvonal. Ingyenes, 24/7, névtelen és többnyelvű, az olasz kormány Esélyegyenlőségi Főosztálya működteti. A helyi erőszak elleni központokhoz (centri antiviolenza) is eligazít.\n- Az erőszak elleni központok és a férfiaknak szóló viselkedésváltoztató programok (Olaszországban „centri per uomini autori di violenza”) bizalmas támogatást nyújtanak a változáshoz.",
+      "when_to_see_doctor": null,
+      "red_flags": "A kontrolláló vagy bántalmazó viselkedés figyelmeztető jelei – érdemes komolyan venni őket, akár magadon, akár egy kapcsolatban veszed észre:\n\n- **Megfigyelés vagy elszigetelés**: ellenőrzöd a telefonját, követed, hol tartózkodik, vagy elszakítod a barátaitól és a családjától.\n- **Kontroll a döntései felett**: a pénz, hogy mit visel, hová megy, kivel találkozik.\n- **Szeretetnek álcázott féltékenység**, állandó vádaskodás, vagy az, hogy mindig tudnod kell, hol van.\n- **Lekicsinylés, hibáztatás, vagy ha félelmet keltesz benne**, bűntudatot ébresztesz benne, vagy úgy érzi, hogy „tojáshéjakon kell járnia”.\n- **Nyomásgyakorlás vagy fenyegetőzés** – szexszel, szakítással vagy azzal, hogy kárt teszel magadban –, hogy engedelmességre bírd.\n- **Bármilyen fizikai erőszak, megfélemlítés vagy félelem.** Ha ez jelen van, az bántalmazás – kérj segítséget a fent említett helyeken. Soha nincs rá mentség, és soha nem az ő hibája."
+    },
+    "safety-plan": {
+      "title": "Biztonsági terv készítése",
+      "aliases": [
+        "biztonsági terv",
+        "biztonságban maradni",
+        "biztonság",
+        "biztonsági tervezés",
+        "biztonságos távozás",
+        "hogyan menjek el",
+        "menekülési terv"
+      ],
+      "glance": "A biztonsági terv néhány gyakorlati lépés, amely segít nagyobb biztonságban maradni – és képzett szolgálatok segíthetnek elkészíteni.",
+      "overview": "A biztonsági terv egyszerűen annak előre végiggondolása, hogyan őrizheted meg a saját (és a gyerekeid) biztonságát. Nem döntés arról, hogy elmész vagy maradsz – arról szól, hogy egy kicsit felkészültebb legyél, bármit is választasz.\n\nEgyeseknek segít, ha csendben előkészítenek néhány dolgot: egy megbízható személyt, aki tudja, mi történik; a fontos iratokat és telefonszámokat olyan helyen, ahol elérheted őket; egy kis táskát a legszükségesebbekkel; tudni, melyek a lakásból való kijutás legbiztonságosabb módjai; vagy egy szót vagy jelet, amellyel jelezheted valakinek, hogy segítségre van szükséged. Hogy mi ésszerű, az teljes mértékben a saját helyzetedtől függ.\n\nNem kell egyedül kitalálnod, és gyakran biztonságosabb is, ha nem egyedül teszed. Az erőszak elleni szolgálatok tapasztaltak abban, hogy az érintettekkel együtt biztonsági tervet készítsenek, bizalmasan és ingyen – a távozás körüli időszakra is, ami nagyobb kockázatú pillanat lehet, és ezért érdemes támogatással megtervezni, nem pedig kapkodva.",
+      "deep": null,
+      "when_to_see_doctor": "- Keress meg egy erőszak elleni központot vagy segélyvonalat (Olaszországban az **1522**), hogy a helyzetedhez illő tervet készíts – ezt minden nap csinálják, bizalmasan, és segíthetnek a gyakorlati, jogi és érzelmi lépésekben.\n- Ha bármilyen feljegyzést vezetsz arról, ami történik, tartsd egy privát, biztonságos helyen.",
+      "red_flags": "- Ha **közvetlen veszélyben vagy**, most azonnal hívd a segélyhívó szolgálatot – az EU-ban (Olaszországot is beleértve) a **112**, az Egyesült Királyságban a **999**, az Egyesült Államokban és Kanadában a **911** a szám.\n- Olaszországban az **1522** – ingyenes, a nap 24 órájában elérhető, névtelen, többnyelvű – telefonon vagy chaten segíthet, a sürgős biztonsági tervezésben is."
+    },
+    "sex-during-your-period": {
+      "title": "Szex menstruáció alatt",
+      "aliases": [
+        "szex menstruáció alatt",
+        "szex menzesz alatt",
+        "menstruációs szex",
+        "teherbe eshetek menstruáció alatt",
+        "terhes lehetek menzesz alatt",
+        "szeretkezés menstruáció alatt",
+        "védekezés menstruáció alatt"
+      ],
+      "glance": "A menstruáció alatti szex rendben van, ha mindketten szeretnétek, de ilyenkor is teherbe eshetsz, vagy átadhattok egymásnak nemi úton terjedő fertőzést.",
+      "overview": "A menstruáció alatti szex személyes döntés. Ha mindketten szeretnétek, és mindketten jól érzitek magatokat, akkor rendben van, és nincs benne semmi rossz vagy szokatlan. Egyesek ilyenkor érzékenyebbek, vagy egyszerűen nincs kedvük hozzá, mások viszont élvezik. A legfontosabb, hogy figyelj a testedre, és nyíltan beszélj a partnereddel.\n\nAmit a menstruáció nem tesz: nem működik fogamzásgátlásként. A teherbeesés esélye kisebb, mint az ovuláció körül, de nem nulla. A spermiumok a szex után akár 7 napig is életben maradhatnak a testben, így ha korán ovulálsz – ami rövidebb ciklus esetén valószínűbb –, a menstruáció alatti vagy közvetlenül utáni szexből származó spermiumok még találkozhatnak egy petesejttel. Ha nem szeretnél teherbe esni, ezeken a napokon is számít a szokásos fogamzásgátlásod.\n\nA menstruáció a nemi úton terjedő fertőzések (STI) ellen sem véd. A fertőzések óvszer nélküli szex során átterjedhetnek a partnerek között, és az őket okozó kórokozókat a vér is hordozhatja, nem csak a többi testnedv. Az óvszer az a módszer, amely a nemi úton terjedő fertőzések, köztük a HIV kockázatát is csökkenti, ezért érdemes használni, a hónap bármely szakaszában.",
+      "deep": null,
+      "when_to_see_doctor": "- Ha **fogamzásgátlás nélkül** szexeltél, vagy a fogamzásgátlásod esetleg nem működött, és nem szeretnél teherbe esni, beszélj egy gyógyszerésszel, háziorvossal vagy szexuális egészségügyi rendelővel **amint tudsz** a sürgősségi fogamzásgátlásról. Néhány napon belül kell alkalmazni, és általában annál jobban hat, minél hamarabb használják.\n- Kérj segítséget gyógyszerésztől, szexuális egészségügyi rendelőtől vagy háziorvostól, ha az **óvszer elszakad vagy lecsúszik** szex közben. Szükséged lehet sürgősségi fogamzásgátlásra vagy nemi úton terjedő fertőzésekre irányuló szűrésre.\n- Fordulj háziorvoshoz vagy szexuális egészségügyi rendelőhöz, ha **szex utáni vérzést észlelsz, amikor nem menstruálsz**. Általában nem súlyos, de mindig érdemes kivizsgáltatni.",
+      "red_flags": null
+    },
+    "sex-in-pregnancy": {
+      "title": "Szex a terhesség alatt",
+      "aliases": [
+        "szex terhesség alatt",
+        "szex terhesen",
+        "szeretkezés terhesség alatt",
+        "biztonságos a szex terhesen",
+        "intimitás terhesség alatt",
+        "orgazmus terhesség alatt",
+        "árthat a szex a babának"
+      ],
+      "glance": "A legtöbb terhességben a szex biztonságos, és nem árt a babának, hacsak a szülésznőd vagy az orvosod mást nem tanácsolt.",
+      "overview": "A legtöbbek számára a terhesség alatti szex biztonságos, hacsak a szülésznőd vagy az orvosod nem mondta, hogy kerüld. A baba jól védve van a méhben, és a szex nem árt neki.\n\nNéhány helyzetben azt tanácsolhatják, hogy kerüld a behatolással járó szexet: ha **mélyen tapadó méhlepényed (placenta praevia)** van, a vérzés kockázata miatt; ha **elfolyt a magzatvized**, a fertőzés kockázata miatt; vagy ha **több vetélésed** is volt.\n\nA vágy gyakran megváltozik a terhesség alatt – van, aki többször kívánja a szexet, van, aki ritkábban, és van, aki egy ideig egyáltalán nem –, és ebben a hormonok, a testi változások, a fáradtság, a hányinger és az aggodalmak mind szerepet játszanak. Mindez normális. Ha nincs kedved a szexhez, a csók, az ölelés és a masszázs más módjai annak, hogy közel maradjatok egymáshoz.\n\nAhogy nő a pocakod, egyes pózok kényelmetlenné válnak; az egymás mellett, oldalt fekvő pózok gyakran könnyebbek. A hormonok szárazabbá tehetik a hüvelyt, ilyenkor egy vízbázisú síkosító segíthet.\n\nA terhesség végén a szex vagy az orgazmus Braxton Hicks-összehúzódásokat (jósló fájásokat) válthat ki, amikor a méh egy időre megkeményedik. Ez normális, és nem a vajúdás kezdete – és nincs bizonyíték arra, hogy a szex beindítaná a szülést.\n\nHa bármelyikőtöknek nemi úton terjedő fertőzése lehet, használjatok óvszert, az orális szexnél is: egy kezeletlen fertőzés súlyosan árthat neked és a babának. Kerüljétek az orális szexet, ha bármelyikőtöknek ajakherpesze van, mert a vírus átterjedhet a babára.",
+      "deep": null,
+      "when_to_see_doctor": "- Beszélj a **szülésznőddel vagy az orvosoddal**, ha nem vagy biztos benne, hogy számodra biztonságos-e a szex, vagy ha a szexszel vagy a kapcsolatotokkal kapcsolatos aggodalmak nyomasztanak.\n- Ha a terhesség alatt **bármilyen vérzésed** van, vizsgáltasd ki, mielőtt újra szexelnél – keresd meg a szülésznődet, az orvosodat vagy a szülészeti osztályt.\n- Menj **szexuális egészségügyi rendelőbe**, ha neked vagy a partnerednek nemi úton terjedő fertőzése lehet.",
+      "red_flags": "- Azonnal keresd meg a **szülészeti osztályt**, ha úgy gondolod, hogy **elfolyt a magzatvized**, és ne szexelj, amíg meg nem vizsgáltak.\n- **Hívd a {{emergency}} segélyhívó számot, vagy menj a sürgősségi osztályra**, ha **erős vérzésed** van, különösen, ha **erős hasi fájdalommal** vagy ájulásérzéssel jár."
+    },
+    "sexual-violence": {
+      "title": "Szexuális erőszak és beleegyezés",
+      "aliases": [
+        "szexuális erőszak",
+        "szexuális zaklatás",
+        "nemi erőszak",
+        "megerőszakolás",
+        "beleegyezés",
+        "szexuális bántalmazás",
+        "beleegyezés nélkül"
+      ],
+      "glance": "Szexuális erőszak minden beleegyezés nélküli szexuális cselekmény – és soha nem annak a hibája, aki átélte.",
+      "overview": "Szexuális erőszaknak számít minden szexuális cselekmény, vagy annak megszerzésére irányuló kísérlet, amely beleegyezés nélkül vagy kényszerítéssel történik. Ide tartozik a nemi erőszak és bármilyen nem kívánt szexuális érintkezés, és bárki elkövetheti – egy idegen, egy ismerős, vagy egy partner, házastárs.\n\nA lényege a beleegyezés. A beleegyezés szabad hozzájárulást jelent, és nem lehetséges, ha valaki alszik, eszméletlen, részeg vagy drogok hatása alatt áll, gyerek, vagy ha nyomás alatt van, megfenyegették, vagy fél. Bármikor visszavonható. Emiatt a szexuális erőszak **soha** nem annak a hibája, akivel megtörtént – sem amiatt, amit viselt, sem amiatt, hogy ivott-e, hogy lefagyott-e ahelyett, hogy védekezett volna, sem amiatt, hogy ismerte-e az elkövetőt.\n\nHa ez történt veled, van támogatás, akár nemrég történt, akár régen. Hisznek neked, és az, hogy mit teszel ezután, a te döntésed.",
+      "deep": null,
+      "when_to_see_doctor": "- Fordulhatsz **egészségügyi szolgálathoz, kórházhoz vagy szexuális erőszak áldozataival foglalkozó szakszolgálathoz**, ahol ellátnak, kezelik a sérüléseidet, és – ha szeretnéd – segítenek a feljelentésben és a bizonyítékok megőrzésében.\n- Egyes egészségügyi lépések **időérzékenyek** – például a sürgősségi fogamzásgátlás vagy a fertőzések megelőzése –, ezért segíthet, ha **mielőbb** segítséget kérsz. A támogatás kérésének azonban nincs határideje, és mindig a te döntésed, hogy teszel-e feljelentést.",
+      "red_flags": "- Ha **közvetlen veszélyben vagy**, most azonnal hívd a segélyhívó szolgálatot – az EU-ban (Olaszországot is beleértve) a **112**, az Egyesült Királyságban a **999**, az Egyesült Államokban és Kanadában a **911** a szám.\n- Egy nemrég történt támadás után **egy kórház vagy szakszolgálat sürgősen segíteni tud**. Olaszországban az **1522** (ingyenes, 24/7, névtelen, többnyelvű – telefon vagy chat) eligazíthat a megfelelő ellátáshoz."
+    },
+    "signs-of-labour": {
+      "title": "A szülés megindulásának jelei",
+      "aliases": [
+        "szülés jelei",
+        "vajúdás",
+        "megindul a szülés",
+        "fájások",
+        "méhösszehúzódások",
+        "elfolyik a magzatvíz",
+        "nyákdugó távozása",
+        "latens szakasz"
+      ],
+      "glance": "A szülés megindulásának jelei lehetnek a rendszeres fájások, a nyákdugó távozása, a hátfájás vagy a magzatvíz elfolyása.",
+      "overview": "Néhány jel arra utalhat, hogy megindul a szülés. A legfontosabb a méhösszehúzódások, vagyis a fájások – a pocakodon végigfutó keményedések, amelyek rendszeresen jönnek és erősödnek. További jelek a nyákdugó távozása (a méhnyakat elzáró nyák leválik), a tartós hátfájás, a vécére járás ingere és a magzatvíz elfolyása.\n\nAz aktív vajúdás előtt gyakran van egy korai („latens”) szakasz, amikor a méhnyak megpuhul, és elkezd megnyílni. Ez a szakasz órákig, akár napokig is tarthat, és sokan ezalatt nyugodtan maradhatnak otthon kényelmesen, pihenve és elegendő folyadékot fogyasztva.\n\nMindenkinél kicsit másképp indul a szülés, így nem kell minden jelet kipipálnod. Amikor úgy gondolod, hogy elkezdődött, a szülésznőd vagy a szülészeti osztály eligazít, mit tegyél, és mikor menj be.",
+      "deep": null,
+      "when_to_see_doctor": "- Hívd a **szülésznődet vagy a szülészeti osztályt** útmutatásért, amikor úgy gondolod, hogy megindult a szülés, vagy amikor a fájások **rendszeresek – nagyjából 5 percenként jönnek**. Ha nem éred el a szülésznődet, hívd azt a kórházat, ahol szülni tervezel.",
+      "red_flags": "**Azonnal hívd a szülésznődet vagy a szülészeti osztályt** – éjjel vagy nappal, ne várj –, ha:\n\n- **elfolyik a magzatvized** (különösen, ha a folyadék zöld, barna vagy kellemetlen szagú)\n- **bármilyen hüvelyi vérzésed** van\n- **a babád a szokásosnál kevesebbet mozog**\n- a szülés jeleit tapasztalod, és **még nem vagy 37 hetes terhes**"
+    },
+    "signs-of-pregnancy": {
+      "title": "A terhesség jelei",
+      "aliases": [
+        "terhesség jelei",
+        "korai terhességi tünetek",
+        "terhes vagyok",
+        "terhes vagyok-e",
+        "terhességi tünetek",
+        "késik a menstruáció",
+        "terhesség első jelei"
+      ],
+      "glance": "A kimaradt menstruáció gyakran a terhesség első jele, néha hányingerrel, fáradtsággal vagy érzékeny mellekkel együtt.",
+      "overview": "Sokaknál a terhesség első jele a **kimaradt menstruáció**. A testek azonban különbözőek, és egyesek előbb más korai jeleket vesznek észre – gyakran a 4–6. hét körül.\n\nGyakori korai jelek a hányinger vagy a hányás (a nap bármely szakában, nem csak reggel), a nagyobbnak vagy érzékenynek tűnő mellek, a szokatlan fáradtság és a gyakoribb vizelési inger. Egyesek fémes ízt is éreznek a szájukban, bizonyos szagokra érzékenyebbé válnak, vagy megundorodnak olyan ételektől, amelyeket egyébként szeretnek.\n\nEzek egyike sem jelenti önmagában azt, hogy biztosan várandós vagy – sok közülük a ciklus szokásos hullámzásaival is egybeesik –, és nem mindenkinél jelentkeznek. A biztos választ a terhességi teszt adja.",
+      "deep": null,
+      "when_to_see_doctor": "- Ha pozitív a teszt, vedd fel a kapcsolatot egy **szülésznővel vagy háziorvossal**, hogy korán elkezdődhessen a várandósgondozásod.\n- Ha késik a menstruációd, és a tesztek negatívak, de a tünetek továbbra is fennállnak, érdemes háziorvoshoz fordulnod, hogy megnézze, mi más állhat a háttérben.",
+      "red_flags": null
+    },
+    "smoking-in-pregnancy": {
+      "title": "Dohányzás a terhesség alatt",
+      "aliases": [
+        "dohányzás terhesség alatt",
+        "leszokás a dohányzásról terhesen",
+        "cigaretta terhesen",
+        "dohányzás abbahagyása terhesség",
+        "e-cigi terhesség alatt",
+        "vape terhesség"
+      ],
+      "glance": "A dohányzás abbahagyása az egyik legjobb dolog, amit a babádért tehetsz – és soha nem késő.",
+      "overview": "A dohányzás abbahagyása az egyik leghatásosabb dolog, amit tehetsz azért, hogy a babád egészségesen induljon. Minden cigaretta csökkenti a babádhoz jutó oxigén mennyiségét, ami miatt a szívének keményebben kell dolgoznia, és visszafoghatja a növekedését.\n\nA terhesség alatti dohányzás növeli a súlyos problémák kockázatát, köztük a vetélését, a koraszülését, az alacsony születési súlyét, a halvaszülését, valamint a születés után a hirtelen csecsemőhalál szindrómáét (SIDS). A passzív dohányzás is számít, ezért segít a füstmentes otthon.\n\nA biztató rész: **soha nem késő**. A terhesség bármely szakaszában segít, ha abbahagyod, és a korai leszokás hozza a legtöbb előnyt. Valóban nehéz lehet, és éppen ezért létezik ingyenes segítség – ha igénybe veszed, sokkal valószínűbb a siker.",
+      "deep": null,
+      "when_to_see_doctor": "- Kérdezd meg a **szülésznődet** az **ingyenes leszokástámogatásról** – képzett tanácsadók (akik közül néhányan a várandósokra szakosodtak) támogathatnak, és sok országban ingyenes leszokást segítő telefonvonal is működik. A segítségkérés annak a jele, hogy gondoskodsz a babádról, nem kudarc.",
+      "red_flags": null
+    },
+    "spotting": {
+      "title": "Pecsételés és vérzés a menstruációk között",
+      "aliases": [
+        "pecsételés",
+        "pecsételő vérzés",
+        "vérzés menstruációk között",
+        "köztes vérzés",
+        "áttöréses vérzés",
+        "vérzés szex után",
+        "barna pecsételés"
+      ],
+      "glance": "A pecsételés enyhe vérzés a menstruációk között vagy szex után – gyakran nem súlyos, de mindig érdemes kivizsgáltatni.",
+      "overview": "A pecsételés olyan enyhe vérzés, amely a menstruációk között vagy szex után jelentkezik, a szokásos menstruációs vérzéseden kívül. Gyakori, és általában nem súlyos – de mivel több oka is lehet, olyasmi, amit mindig érdemes egy egészségügyi szakemberrel kivizsgáltatni.\n\nSok hétköznapi oka lehet. Gyakori ok a hormonális fogamzásgátlás elkezdése vagy használata. További okok lehetnek a méhben vagy a méh körül lévő kis, ártalmatlan növedékek (polipok vagy miómák), a méhnyak felszínének ártalmatlan elváltozásai, a hüvelyszárazság, vagy egy fertőzés, például a chlamydia.\n\nMivel ugyanannak a tünetnek különböző okai lehetnek – többségük enyhe –, nem a találgatás a hasznos lépés, hanem az, hogy megvizsgáltasd, így megtudod, mi áll mögötte nálad.",
+      "deep": null,
+      "when_to_see_doctor": "- Fordulj háziorvoshoz vagy szexuális egészségügyi rendelőhöz **minden alkalommal, amikor a menstruációid között vagy szex után vérzel**, még ha enyhe is. Általában nem súlyos, de a kivizsgálás során derül ki az oka – és így lehet korán kizárni a ritkább okokat.",
+      "red_flags": "- Kérj **sürgős** időpontot a háziorvosodtól, vagy keress fel egy **ügyeletes orvost**, ha **kimaradt a menstruációd, és szokatlan vérzésed van hasi vagy kismedencei fájdalommal együtt** – ezt mielőbb ki kell vizsgálni, mert méhen kívüli terhesség jele lehet."
+    },
+    "stalking": {
+      "title": "Zaklatás (stalking)",
+      "aliases": [
+        "zaklatás",
+        "stalking",
+        "követnek",
+        "nem kívánt figyelem",
+        "valaki követ",
+        "online zaklatás",
+        "cyberstalking"
+      ],
+      "glance": "A zaklatás ismétlődő, nem kívánt figyelem, amely miatt félsz vagy nem érzed magad biztonságban – és komolyan veszik.",
+      "overview": "A zaklatás (stalking) valakinek a nem kívánt, ismétlődő viselkedése, amely miatt félsz, megfigyelve vagy nem biztonságban érzed magad. Ide tartozhat, ha követnek, ha valaki felbukkan ott, ahol vagy, az állandó hívások vagy üzenetek, a nem kívánt ajándékok, ha online vagy a telefonodon keresztül figyelnek, vagy a fenyegetések. Gyakran egy volt partner vagy valaki, akit ismersz, követi el, bár nem mindig.\n\nA félelem, amelyet kivált, jogos, még akkor is, ha az egyes cselekedetek mások számára „apróságnak” tűnhetnek – a mintázat számít, és az, hogy milyen érzéseket kelt benned. A zaklatás a bántalmazás elismert formája, és sok országban bűncselekmény. Semmi sem a te hibád, és nem kell egyszerűen együtt élned vele.\n\nHa biztonságosan megteheted, később segíthet, ha feljegyzéseket vezetsz: dátumokat és időpontokat, képernyőképeket az üzenetekről, és hogy mi történt. Nem kell egyedül eldöntened, hogy „számít-e” – a segítő szolgálatok segítenek értelmezni a helyzetet és végiggondolni a lehetőségeidet.",
+      "deep": null,
+      "when_to_see_doctor": "- Fordulj a **rendőrséghez**, hogy feljelentést tegyél zaklatás miatt, és egy erőszak vagy zaklatás elleni segélyvonalhoz támogatásért és tanácsért (Olaszországban az **1522** az erőszak **és** a zaklatás esetén is segít).\n- A bizonyítékok megőrzése és egy biztonsági terv elkészítése egy szakszolgálat segítségével valódi különbséget jelenthet.",
+      "red_flags": "- Ha úgy érzed, hogy **közvetlen veszélyben vagy**, most azonnal hívd a segélyhívó szolgálatot – az EU-ban (Olaszországot is beleértve) a **112**, az Egyesült Királyságban a **999**, az Egyesült Államokban és Kanadában a **911** a szám.\n- Olaszországban az **1522** – ingyenes, a nap 24 órájában elérhető, névtelen, többnyelvű – telefonon vagy chaten segíthet."
+    },
+    "stillbirth": {
+      "title": "Halvaszülés",
+      "aliases": [
+        "halvaszülés",
+        "halva született baba",
+        "a baba elvesztése",
+        "késői terhességi veszteség",
+        "magzati elhalás",
+        "angyalbaba",
+        "csillagbaba"
+      ],
+      "glance": "Halvaszülésről a baba 24. hét utáni elvesztése esetén beszélünk – ritka, soha nem a te hibád, és mindig támogatás kíséri.",
+      "overview": "Halvaszülésről akkor beszélünk, ha a baba a terhesség 24. hete után hunyt el, és halva születik. (A 24. hét előtti veszteséget vetélésnek nevezik.) Ritka – nagyjából 250 születésből 1 –, de az érintett családok számára mély veszteség, és az utána következő ellátás minden eleme arra szolgál, hogy gyengéden átsegítsen rajta.\n\nNéha kiderül az ok – például a méhlepény vagy a baba fejlődésének problémája, vagy egy egészségi állapot –, és néha a vizsgálatok ellenére **egyáltalán nem találnak okot**. Bármi is az ok, a halvaszülést nem a szülő okozta, és nem is tudhatta volna, hogyan előzze meg.\n\nEgy dolog valóban segít csökkenteni a kockázatot, és egyszerű: **azonnal szólj a szülésznődnek, ha a babád mozgása ritkul vagy megváltozik.** Emellett a hétköznapi dolgok – a várandósgondozási vizsgálatokra való eljárás, a dohányzás mellőzése, az alkohol kerülése és a 28. héttől az oldalt fekve alvás – mind szerepet játszanak.",
+      "deep": null,
+      "when_to_see_doctor": "- **Azonnal keresd meg a szülésznődet vagy a szülészeti osztályt** – bármikor, éjjel vagy nappal –, ha **a babád a szokásosnál kevesebbet mozog, vagy a mozgása másnak tűnik.** Soha ne várd meg, hátha elmúlik; a kivizsgálás pontosan a helyes lépés, és soha nem teher senkinek.\n- Egy veszteség után szakképzett szülésznők és gyászt kísérő csapatok állnak melletted – a döntésekben, a gyakorlati teendőkben és a gyászban. Egyiket sem kell egyedül végigcsinálnod, és a baba elvesztését átélők támogató csoportjai addig állnak rendelkezésedre, ameddig szükséged van rájuk.",
+      "red_flags": null
+    },
+    "stress-and-your-periods": {
+      "title": "Stressz, életmód és a menstruáció",
+      "aliases": [
+        "stressz és menstruáció",
+        "stressz",
+        "kimaradt menstruáció",
+        "késik a menstruáció",
+        "miért késik a menzeszem",
+        "elmaradt menzesz",
+        "késik a menzesz"
+      ],
+      "glance": "A stressz, a testsúly nagy változásai vagy a sok mozgás késleltetheti vagy leállíthatja a menstruációt – gyakran csak egy időre.",
+      "overview": "Gyakori, hogy a menstruáció késik, vagy egy hónapban kimarad, és ennek oka gyakran inkább az élethez kapcsolódik, mint valamilyen betegséghez. A stressz gyakori ok – ugyanaz a rendszer, amely a megterhelésre reagál, befolyásolhatja a ciklusodat irányító hormonokat is.\n\nMás hétköznapi dolgok is eltolhatják a menstruációt: a testsúly nagy változása (fel vagy le), a sok mozgás, vagy ha kimerült, legyengült állapotban vagy. Hormonális változások – például a perimenopauza közeledte vagy olyan állapotok, mint a PCOS – is állhatnak a háttérben, csakúgy, mint a terhesség és egyes fogamzásgátlók. A menstruációk közötti idő gyakran egyszerűen kicsit változik időről időre, és ez normális.\n\nA megnyugtató, hogy egy egyszeri késés vagy kimaradás általában nem ad okot aggodalomra, és a dolgok gyakran rendeződnek, ahogy az élet is. Érdemes inkább a változás mintázatára figyelni, mint egyetlen hónapra.",
+      "deep": null,
+      "when_to_see_doctor": "Fordulj háziorvoshoz, ha:\n\n- **három egymást követő menstruációd kimaradt**, vagy a menstruációd **rendszertelenné** vált\n- a menstruációd **elmarad**, és nem tudod, miért (ha terhesség lehetséges, érdemes előbb tesztet csinálni)\n- a kimaradó menstruáció más változásokkal jár együtt – például váratlan testsúlyváltozással, fáradtsággal, fokozott szőrnövekedéssel vagy lehangoltsággal\n\nEzek az ellenőrzések csak azt szolgálják, hogy megértsd, mi áll a változás mögött – ami általában kezelhető dolog.",
+      "red_flags": null
+    },
+    "supporting-her-period": {
+      "title": "Támogasd a menstruációja alatt",
+      "aliases": [
+        "segítség a menstruációja alatt",
+        "menstruációs támogatás partnereknek",
+        "gondoskodás menstruáció alatt",
+        "hogyan segítsek a menzesze alatt",
+        "párom menstruál"
+      ],
+      "glance": "A menstruáció valódi fájdalommal és fáradtsággal járhat – az apró, gyakorlati gondoskodás sokat számít.",
+      "overview": "A menstruáció nem csupán néhány napnyi vérzés; sokaknál görcsökkel, hátfájással, fejfájással, fáradtsággal és energiahiánnyal jár. A menstruációs fájdalom gyakori, és valóban kimerítő lehet – nem túlzás. Úgy bánj vele, ahogy bármelyik beteg partnerrel bánnál: gyakorlatias kedvességgel.\n\nKezeld természetesként is. A menstruáció nem gusztustalan, nem kínos, és nem tabu. Ha nyugodtan veszel betétet vagy tampont, tartasz belőle otthon, vagy felhajtás nélkül a kezébe adsz egy melegvizes palackot, azzal azt üzened neki, hogy biztonságban van, és számíthat rád.",
+      "deep": "Egyszerű dolgok, amelyek segítenek:\n\n- **Meleg és pihenés.** Az alhasra tett melegvizes palack vagy melegítőpárna enyhíti a görcsöket; ajánlj fel egy nyugodt otthoni estét.\n- **Vegyél le terhet a válláról.** Főzz, takaríts, intézd el helyette a dolgokat, vidd el autóval – a gyakorlati segítség többet ér a szavaknál.\n- **Legyen otthon készlet.** Tudd, mit használ, és tarts belőle, hogy egy erősebb vérzéses nap soha ne legyen vészhelyzet.\n- **Fájdalomcsillapító és kedvenc falatok**, ha kéri; az ő döntése.\n- **Ne erőltesd a szexet, és ne várj tőle olyan energiát, amilyen nincs neki.** A közelség lehet egy ölelés is a kanapén.",
+      "when_to_see_doctor": "Bátorítsd, hogy forduljon orvoshoz (és ajánld fel, hogy elkíséred), ha a menstruációs fájdalma **erős, egyre rosszabb, vagy akadályozza a mindennapi életben**, ha a menstruációja **nagyon erős** (óránként átázik a betét vagy a tampon, nagy vérrögök távoznak), vagy ha a fájdalom új és szokatlan – ezek olyan betegségekre utalhatnak, mint az endometriózis, amelyek megfelelő ellátást érdemelnek.",
+      "red_flags": null
+    },
+    "supporting-someone": {
+      "title": "Támogatás erőszakot átélő embernek",
+      "aliases": [
+        "valaki támogatása",
+        "segíteni egy barátnak",
+        "hogyan segíthetek",
+        "bántalmazott barátnő",
+        "bántalmazást átélő ismerős",
+        "hogyan támogassam"
+      ],
+      "glance": "Ha egy ismerősöd bántalmazást élhet át, segít, ha ítélkezés nélkül meghallgatod – és tudod, hová irányíthatod.",
+      "overview": "Nehéz ráébredni, hogy valaki, akit szeretsz, bántalmazást élhet át, és jó ösztön, ha segíteni szeretnél. Gyakran a legegyszerűbb dolgok a leghasznosabbak.\n\nHallgasd meg, és higgy neki. Hagyd, hogy a saját tempójában beszéljen, ítélkezés és hibáztatás nélkül, és ne kérdezd, mit tett, amivel kiváltotta. Mondd ki egyértelműen, hogy nem az ő hibája, és nem érdemli ezt. Próbáld meg nem megmondani neki, mit tegyen, és ne sürgesd, hogy elmenjen: a távozásról neki kell döntenie, és ha elhamarkodottan teszi, az valójában növelheti a veszélyt – az segít többet, ha úgy érzi, támogatják, és nincs egyedül.\n\nTartsd meg magadnak, amit elmond. Finoman segíts neki szakszerű támogatást találni, amikor készen áll – egy segélyvonalat, például Olaszországban az **1522** számot, vagy egy helyi erőszak elleni központot –, és ajánlj fel gyakorlati segítséget, például hogy együtt kikeresitek a telefonszámokat, vagy ott leszel, amikor telefonál. És vigyázz magadra is; nehéz lehet valakit ezen végigkísérni.",
+      "deep": null,
+      "when_to_see_doctor": "- Bátorítsd (nyomás nélkül), hogy keressen meg egy segélyvonalat vagy egy erőszak elleni központot, ahol mindkettőtöknek tanácsot adhatnak a következő lépésekről. Felajánlhatod, hogy segítesz neki telefonálni, vagy megkeresni a számot.\n- Ha megsérült, egy háziorvos vagy kórház segíthet – és támogató szolgálatokhoz is irányíthatja.",
+      "red_flags": "- Ha **közvetlen veszélyben van**, hívd a segélyhívó szolgálatot – az EU-ban (Olaszországot is beleértve) a **112**, az Egyesült Királyságban a **999**, az Egyesült Államokban és Kanadában a **911** a szám.\n- Olaszországban az **1522** (ingyenes, 24/7, névtelen, többnyelvű – telefon vagy chat) abban is tanácsot adhat neked, hogyan segíthetsz valakinek."
+    },
+    "the-coil": {
+      "title": "A spirál (IUD és IUS)",
+      "aliases": [
+        "spirál",
+        "méhen belüli eszköz",
+        "IUD",
+        "IUS",
+        "rézspirál",
+        "hormonális spirál",
+        "hormonspirál",
+        "Mirena",
+        "méhen belüli rendszer"
+      ],
+      "glance": "A spirál egy kis eszköz, amelyet a méhbe helyeznek – réz (IUD) vagy hormonális (IUS) –, és évekig hat.",
+      "overview": "A spirál egy kis eszköz, amelyet egy egészségügyi szakember a méh belsejébe helyez. Két fajtája van, és érdemes megkülönböztetni őket:\n\n- Az **IUD**, vagyis a rézspirál, nem tartalmaz hormont. A réz úgy változtatja meg a méhen belüli viszonyokat, hogy a spermiumok és a petesejtek nem tudnak jól életben maradni, és a méhnyaknyákra is hatással van. Típustól függően körülbelül 5–10 évig hat.\n- Az **IUS**, vagyis a hormonális spirál, réz helyett progesztogént bocsát ki. Besűríti a méhnyak nyákját, és elvékonyítja a méh nyálkahártyáját; egyeseknél a menstruációt is jóval gyengébbé teheti.\n\nMindkettő a „felhelyezed és elfelejted” típusú módszerek közé tartozik, és mindkettő több mint 99%-ban hatékony, alig van különbség a tökéletes és a szokásos használat között. Egyik sem véd a nemi úton terjedő fertőzések ellen.",
+      "deep": "A spirálok hosszú hatású, visszafordítható módszerek: felhelyezés után évekig hatnak, és eltávolításuk után a termékenység visszatér. A felhelyezést és az eltávolítást képzett egészségügyi szakember végzi, és csak néhány percig tart, bár egyesek kellemetlennek érzik a felhelyezést. Gyakori szempont a kettő közötti választásnál a menstruációra gyakorolt hatásuk – a rézspirál eleinte erősebbé teheti a menstruációt, míg a hormonális spirál gyakran gyengébbé. Hogy melyik illik hozzád, azt egy egészségügyi szakemberrel érdemes megbeszélni; ez a cikk csak azt magyarázza el, hogyan működnek.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "the-premenstrual-days": {
+      "title": "A menstruáció előtti napok",
+      "aliases": [
+        "PMS partnereknek",
+        "támogatás a menstruációja előtt",
+        "premenstruációs támogatás",
+        "luteális szakasz támogatás",
+        "ingerlékeny a párom menzesz előtt",
+        "PMS a párkapcsolatban"
+      ],
+      "glance": "A menstruációja előtti napokban fáradtabb, érzékenyebb vagy levertebb lehet – türelemmel reagálj, ne viccelődéssel.",
+      "overview": "A menstruáció előtti nagyjából egy hétben sokan tapasztalnak premenstruációs tüneteket: hangulatváltozásokat, ingerlékenységet vagy lehangoltságot, fáradtságot, fájó melleket, puffadást, fejfájást vagy alvászavart. Ez nagyon gyakori és valódi – a luteális szakasz természetes hormonális változásai okozzák, nem az, hogy „túlreagálja”.\n\nKevesebbeknél a lehangoltság súlyos (ezt az állapotot PMDD-nek nevezik), és valódi támogatást és orvosi ellátást érdemel. Akárhogy is, nem a te dolgod diagnosztizálni vagy megjavítani őt – hanem az, hogy kiegyensúlyozott és kedves légy.\n\nA legártalmasabb, amit egy partner ilyenkor tehet, ha fegyverként használja: „csak PMS-ed van”, szemforgatás, vagy ha a dátum miatt érvénytelennek tekinti az érzéseit. Ezzel lekicsinyli őt, és még több fájdalmat okoz egy amúgy is nehéz héten. Az érzései akkor is számítanak, ha a hormonok is szerepet játszanak.",
+      "deep": "Ami ezekben a napokban tényleg segít:\n\n- **Könnyíts a terhein.** Vállald át a házimunkát, a főzést vagy a fejben tartott teendőlistát, anélkül hogy kérnie kellene.\n- **Vigasztalás, nem kioktatás.** Kínáld fel a meleget, a pihenést, egy melegvizes palackot, a kedvenc ételét – és hagyd, hogy azt érezze, amit érez.\n- **Először hallgasd meg.** Ha fel van zaklatva, az „ez nagyon nehéznek hangzik” mindig jobb, mint a „nyugodj meg”.\n- **Ne vezess számlát.** Egy nehezebb nap nem adósság, amit később vissza kell fizetnie neked.\n- **Kérdezd meg, mire van szüksége** – van, aki közelséget szeretne, van, aki teret. Mindkettő rendben van; tiszteld a válaszát.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "twin-pregnancy": {
+      "title": "Iker- és többes terhesség",
+      "aliases": [
+        "ikrek",
+        "ikerterhesség",
+        "többes terhesség",
+        "ikreket várok",
+        "egypetéjű ikrek",
+        "kétpetéjű ikrek",
+        "hármasikrek"
+      ],
+      "glance": "Az ikerterhesség általában először a terhességi kort meghatározó ultrahangon derül ki, és valamivel több várandósgondozással jár.",
+      "overview": "Az, hogy egynél több babát vársz, általában először a **terhességi kort meghatározó ultrahangon** (a 12. hét körül) derül ki, amely azt is megmutathatja, hogy a babáknak közös-e a méhlepényük.\n\nKét fő típusa van. Az **egypetéjű** ikrek egyetlen megtermékenyített petesejtből jönnek létre, amely kettéválik, így ugyanazok a génjeik, és mindig azonos neműek. A **kétpetéjű** ikrek két külön petesejtből jönnek létre, és nem hasonlítanak jobban egymásra, mint bármely más testvérek; ez a gyakoribb a kettő közül, és valamivel valószínűbb idősebb korban, anyai ágon előforduló családi halmozódás esetén, vagy meddőségi kezelés után.\n\nIkrek vagy több baba kihordása egészen sajátos élmény, és általában **valamivel több várandósgondozással** jár – további vizsgálatokkal és ultrahangokkal, hogy közelről figyelemmel kísérjenek téged és a babáidat. A szülésznői csapatod elmagyarázza, mire számíthatsz.",
+      "deep": null,
+      "when_to_see_doctor": "- Ha az ultrahang ikreket (vagy több babát) mutat, a **szülésznőd** végigveszi veled a többes terhességgel járó további ellenőrzéseket és ultrahangokat – ha mindegyikre elmész, az a legjobb módja annak, hogy jó ellátásban részesülj.",
+      "red_flags": null
+    },
+    "understanding-her-cycle": {
+      "title": "Értsd meg a ciklusát",
+      "aliases": [
+        "ciklus útmutató partnereknek",
+        "ciklus partnereknek",
+        "hogyan működik a ciklusa",
+        "támogatni a ciklusában",
+        "női ciklus férfiaknak",
+        "párom ciklusa"
+      ],
+      "glance": "A teste egy négy szakaszból álló havi cikluson halad végig – ha ismered az alapokat, találgatás nélkül tudod támogatni.",
+      "overview": "A menstruációs ciklus nagyjából havi ritmus, átlagosan körülbelül 28 nap, de gyakran bárhol 21 és 35 nap között, és az a normális nála, ami *neki* szabályos. Négy szakaszból áll: a **menstruációs** szakaszból (a menstruációja), a **follikuláris** szakaszból, a nagyjából középen lévő **ovulációból**, és a következő menstruáció előtti **luteális** szakaszból.\n\nAz energia, a hangulat, az alvás és a vágy változhat ezekben a szakaszokban, mert a hormonok szintje emelkedik és csökken – ez biológia, nem jellemhiba, és nem is olyasmi, amivel ugratni kellene. Egyesek a menstruáció előtti napokban valódi mélypontot élnek meg; mások alig vesznek észre valamit. Nincs egyetlen „helyes” módja annak, hogyan kell éreznie magát.\n\nNem kell szakértővé válnod. Ami a legtöbbet segít, az egyszerű: tudd nagyjából, a ciklusa melyik részében jár (ez az alkalmazás az ő engedélyével megmutathatja neked), számíts arra, hogy egyes napok nehezebbek, mint mások, és kérdezd meg őt, mi segít *neki*, ahelyett hogy feltételezésekbe bocsátkoznál.",
+      "deep": "Néhány dolog, amit érdemes tudni, hogy ne tévhitek töltsék ki a hézagot:\n\n- **A „megjött neki” nem sértés, és nem magyarázat arra, ha nem értetek egyet.** Ha a ciklusára hivatkozva söpröd le az érzéseit („csak a hormonjaid”), az tiszteletlen, és általában nem is igaz. Az ő érvei attól még az ő érvei.\n- **A ciklus nemcsak a menstruációt érinti.** Görcsök, fejfájás, érzékeny mellek, energiahiány vagy levertebb hangulat mind hozzátartozhat. A gyakorlati segítség többet ér a tanácsnál.\n- **A ciklus követése az övé.** Ha megosztja veled a ciklusát, tekints rá úgy, mint egy ablakra arra, hogyan érezheti magát – meghívásra, hogy kedves légy, soha nem eszközre, amellyel megfigyeled vagy irányítod őt.\n- **Ha kétségeid vannak, kérdezz.** A „Hogy érzed magad ma? Tehetek valamit?” többet ér bármilyen grafikonnál.",
+      "when_to_see_doctor": null,
+      "red_flags": null
+    },
+    "vaginal-dryness": {
+      "title": "Hüvelyszárazság",
+      "aliases": [
+        "hüvelyszárazság",
+        "szárazság",
+        "hüvelyi atrófia",
+        "száraz hüvely",
+        "hüvelyszárazság szex közben",
+        "síkosító"
+      ],
+      "glance": "A hüvelyszárazság gyakori, sokszor hormonális okai vannak, és sajgást vagy kellemetlenséget okozhat szex közben.",
+      "overview": "A hüvelyszárazság gyakori jelenség, amelyet sokan tapasztalnak valamikor. Akkor jelentkezik, amikor csökken az a szokásos nedvesség, amely a hüvelyt kényelmesen tartja, és sajgásként, viszketésként vagy kellemetlen érzésként jelentkezhet – szex közbeni fájdalomként vagy kellemetlenségként is.\n\nGyakran hormonális okai vannak, különösen az ösztrogénszint csökkenése. Ezért gyakori a menopauza és a perimenopauza idején, de előfordulhat szoptatás alatt, egyes gyógyszerek (például bizonyos fogamzásgátlók vagy antidepresszánsok) mellett, vagy ha a szex előtt nincs elég izgalom. Nincs miért szégyenkezni miatta – testi jelenség, nem rólad vagy a kapcsolatodról árulkodik.\n\nJó kiindulópont tudni, hogy gyakori, és általában nagyon jól kezelhető. Vannak egyszerű lehetőségek, amelyek segíthetnek, és egy háziorvos vagy gyógyszerész megmutatja, mi illik hozzád.",
+      "deep": null,
+      "when_to_see_doctor": "Fordulj háziorvoshoz, ha:\n\n- a hüvelyszárazság zavar, vagy néhány hét után sem múlik el\n- hatással van a mindennapi életedre vagy a szexuális életedre\n- szokatlan hüvelyi folyásod is van, vagy bármilyen vérzésed szex után, a menstruációid között vagy a menopauza után\n\nNem kell egyszerűen elviselned – van segítség, és egy egészségügyi szakember megnézheti, mi áll a háttérben, és mi enyhítheti.",
+      "red_flags": null
+    },
+    "vaginal-health": {
+      "title": "A hüvely és a szeméremtest egészsége",
+      "aliases": [
+        "hüvely egészsége",
+        "szeméremtest egészsége",
+        "intim higiénia",
+        "intim tisztálkodás",
+        "hüvelyöblítés",
+        "hüvelyi folyás",
+        "folyás",
+        "intim mosakodás"
+      ],
+      "glance": "A hüvely öntisztító – kívülről elég a kíméletes ápolás, és a hüvelyi folyás normális.",
+      "overview": "Az egyik legmegnyugtatóbb tudnivaló, hogy a hüvely gondoskodik magáról. Természetes módon öntisztító, és az a hüvelyi folyás, amelyet észlelsz, ennek a része – olyan váladék, amely tisztán és nedvesen tartja, és segít megvédeni a fertőzésektől. A mennyisége és az állaga a ciklus során változik, ami teljesen normális.\n\nEmiatt a hüvelyt belülről nem kell mosni. Sőt, a belső mosás – a hüvelyöblítés – felboríthatja a természetes egyensúlyát. A külső részt (a szeméremtestet) elég kíméletesen ápolni: langyos vízzel és, ha szeretnéd, enyhe, illatanyagmentes szappannal. Az illatosított szappanokat, tusfürdőket, dezodorokat és illatosított törlőkendőket jobb kerülni, mert irritációt okozhatnak.\n\nHa megismered, mi a normális nálad – a szokásos hüvelyi folyásodat, a kinézetet és az érzést –, könnyebben észreveszed, ha valami megváltozik, és esetleg ki kell vizsgálni.",
+      "deep": null,
+      "when_to_see_doctor": "Fordulj háziorvoshoz vagy szexuális egészségügyi rendelőhöz, ha a következőket észleled:\n\n- megváltozik a hüvelyi folyásod – a színe, a szaga vagy az állaga, vagy a szokásosnál jóval több lesz\n- viszketés, sajgás vagy irritáció a hüvely vagy a szeméremtest környékén\n- vérzés a menstruációk között vagy szex után\n- vizeléskor jelentkező fájdalom, vagy fájdalom alul, a has és a combok között (kismedencei fájdalom)\n\nEzek gyakoriak, és sokszor könnyen kezelhetők – a hüvelyi folyás változása egyszerűen egy enyhe fertőzést, például hüvelyi gombás fertőzést is jelenthet. Hogy mi az oka, azt a kivizsgálás mutatja meg, nem a találgatás.",
+      "red_flags": null
+    }
+  },
+  "categories": {
+    "cycle-and-phases": {
+      "title": "A ciklus és szakaszai",
+      "summary": "Hogyan halad végig a ciklusod a menstruációs, a follikuláris, az ovulációs és a luteális szakaszon."
+    },
+    "hormones": {
+      "title": "Hormonok",
+      "summary": "A ciklusod mögött álló hírvivők: ösztrogén, progeszteron, LH, FSH."
+    },
+    "fertility-and-ovulation": {
+      "title": "Termékenység és ovuláció",
+      "summary": "A termékeny időszak, az ovuláció jelei, és mi befolyásolja a termékenységet."
+    },
+    "contraception": {
+      "title": "Fogamzásgátlás",
+      "summary": "Hogyan működnek a különböző módszerek, közérthetően."
+    },
+    "symptoms-and-signals": {
+      "title": "Tünetek és testi jelzések",
+      "summary": "Fájdalom, pecsételő vérzés, hüvelyi folyás, hangulat: mit üzenhet a tested."
+    },
+    "conditions": {
+      "title": "Betegségek és állapotok",
+      "summary": "PCOS, endometriózis, miómák és még sok más, érthetően elmagyarázva, forrásokkal."
+    },
+    "sexual-and-intimate-health": {
+      "title": "Szexuális és intim egészség",
+      "summary": "Intim jóllét, komfortérzet és gyakori kérdések."
+    },
+    "life-stages": {
+      "title": "Életszakaszok",
+      "summary": "Az első menstruációtól a perimenopauzán át a menopauzáig."
+    },
+    "wellbeing": {
+      "title": "Jóllét és a ciklus",
+      "summary": "Hogyan függ össze az alvás, a stressz és a mindennapi élet a ciklusoddal."
+    },
+    "tests-and-exams": {
+      "title": "Tesztek és vizsgálatok",
+      "summary": "Mell-önvizsgálat, méhnyakszűrés, ovulációs tesztek és még sok más."
+    },
+    "pregnancy": {
+      "title": "Terhesség",
+      "summary": "Korai jelek, egészség a várandósság alatt, figyelmeztető jelek és a baba elvesztése, érthetően elmagyarázva, forrásokkal."
+    },
+    "for-partners": {
+      "title": "Partnereknek",
+      "summary": "Hogyan értsd meg a ciklusát, hogyan támogasd jól, és hogyan építs tiszteleten alapuló kapcsolatot."
+    },
+    "safety-and-support": {
+      "title": "Biztonság és segítség",
+      "summary": "A bántalmazás felismerése, a biztonságod megőrzése és a segítségkérés módja, segélyhívó számokkal."
+    }
+  },
+  "paths": {
+    "understand-your-cycle": {
+      "title": "Értsd meg a ciklusodat 5 lépésben",
+      "summary": "Nyugodt séta az egész cikluson és mind a négy szakaszán át."
+    },
+    "getting-to-know-ovulation": {
+      "title": "Ismerkedés az ovulációval",
+      "summary": "Mi az ovuláció, mi a termékeny időszak, és milyen jeleket ad a tested."
+    },
+    "the-hormones-behind-your-cycle": {
+      "title": "A ciklusod mögött álló hormonok",
+      "summary": "Ismerd meg a ciklust irányító négy hírvivőt, és hogy mit csinál mindegyik."
+    }
+  }
+}
