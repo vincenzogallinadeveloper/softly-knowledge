@@ -40,6 +40,8 @@ def collect_urls(corpus) -> dict:
         dv = h.get("dv_helpline") or {}
         if dv.get("url"):
             urls.setdefault(dv["url"], set()).add(f"helpline:{h.get('code')}")
+        if h.get("medical_source"):
+            urls.setdefault(h["medical_source"], set()).add(f"medical:{h.get('code')}")
     return {u: sorted(ids) for u, ids in sorted(urls.items())}
 
 

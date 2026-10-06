@@ -529,6 +529,31 @@ class HelplineTests(unittest.TestCase):
             self.assertTrue(any("duplicate country code" in e for e in errs))
             self.assertTrue(any("emergency" in e for e in errs))
 
+    def test_medical_number_needs_digits_and_an_https_source(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            fx = self._fx(tmp, textwrap.dedent("""
+                helplines:
+                  - code: BR
+                    country: Brazil
+                    emergency: "190"
+                    medical: "192"
+                    medical_source: https://www.gov.br/saude/pt-br/composicao/saes/samu-192
+                  - code: MX
+                    country: Mexico
+                    emergency: "911"
+                    medical: "911"
+                  - code: CL
+                    country: Chile
+                    emergency: "133"
+                    medical: 131
+                    medical_source: http://example.org/
+            """))
+            errs = fx.report().errors
+            self.assertFalse(any("(BR)" in e for e in errs))
+            self.assertTrue(any("(MX)" in e and "medical_source" in e for e in errs))
+            self.assertTrue(any("(CL)" in e and "digits" in e for e in errs))
+            self.assertTrue(any("(CL)" in e and "medical_source" in e for e in errs))
+
 
 if __name__ == "__main__":
     unittest.main()

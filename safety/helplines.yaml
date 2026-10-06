@@ -16,6 +16,24 @@
 #   dv_helpline:              optional national domestic-abuse / anti-violence line
 #     name, number, hours (only when confirmed), languages, url (https), chat
 #
+# MEDICAL numbers (added 2026-10-06). The app's emergency button is for heavy bleeding,
+# fainting or sudden intense pain, so it dials an AMBULANCE, which is not always the
+# `emergency` line (110 in Japan, 112 in Norway and San Marino are the police):
+#   medical           the number the app dials for a medical emergency, from a mobile
+#   medical_source    the official page it was checked against on 2026-10-06: the
+#                     country's government / health ministry / emergency service, the
+#                     EU's 112 page for EU members, else a foreign ministry's travel advice
+#                     (GOV.UK FCDO "Getting help", Canada's travel.gc.ca)
+#   medical_notes     caveats
+# The app does NOT read this column from the compiled database: iOS
+# `MedicalEmergencyNumbers` (SoftlyKnowledge package) and Android
+# `EmergencyNumbers.MEDICAL_EMERGENCY` carry the same table in code, with tests that
+# pin it. Change a number here AND in both apps, or nowhere.
+# Left out because official sources disagree or only one weak source exists (the app
+# falls back to 112 there): Bolivia (118 / 165 / 168), Peru (106 is not nationwide vs
+# 116), Nicaragua (128 vs 911), Morocco (15 vs 150), Afghanistan (102, one source),
+# Cameroon (112 vs 119), Namibia, Angola (116 vs 112), Mozambique.
+#
 # Countries with only an emergency number (no single verified national dv line):
 # RU and CA — no clear single national anti-violence line, so the app should fall
 # back to the findahelpline directory for these.
@@ -29,6 +47,8 @@ helplines:
   - code: IT
     country: Italy
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Numero antiviolenza e stalking (1522)
       number: "1522"
@@ -41,6 +61,9 @@ helplines:
     country: United Kingdom
     emergency: "999"
     emergency_notes: 112 also reaches emergency services in the UK.
+    medical: "999"
+    medical_source: https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
+    medical_notes: "112 also works."
     dv_helpline:
       name: National Domestic Abuse Helpline (Refuge)
       number: "0808 2000 247"
@@ -52,6 +75,8 @@ helplines:
     country: Ireland
     emergency: "112"
     emergency_notes: 999 also works in Ireland.
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Women's Aid 24hr National Freephone Helpline
       number: "1800 341 900"
@@ -61,6 +86,8 @@ helplines:
   - code: US
     country: United States
     emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/usa/getting-help
     dv_helpline:
       name: National Domestic Violence Hotline
       number: "1-800-799-7233"
@@ -71,10 +98,14 @@ helplines:
   - code: CA
     country: Canada
     emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/canada/getting-help
 
   - code: AU
     country: Australia
     emergency: "000"
+    medical: "000"
+    medical_source: https://www.gov.uk/foreign-travel-advice/australia/getting-help
     dv_helpline:
       name: 1800RESPECT
       number: "1800 737 732"
@@ -85,6 +116,8 @@ helplines:
   - code: NZ
     country: New Zealand
     emergency: "111"
+    medical: "111"
+    medical_source: https://www.gov.uk/foreign-travel-advice/new-zealand/getting-help
     dv_helpline:
       name: Women's Refuge Crisisline
       number: "0800 733 843"
@@ -94,6 +127,8 @@ helplines:
   - code: DE
     country: Germany
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Hilfetelefon "Gewalt gegen Frauen"
       number: "116 016"
@@ -104,6 +139,8 @@ helplines:
   - code: FR
     country: France
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Violences Femmes Info (3919)
       number: "3919"
@@ -113,6 +150,8 @@ helplines:
   - code: ES
     country: Spain
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Teléfono 016
       number: "016"
@@ -122,6 +161,8 @@ helplines:
   - code: PT
     country: Portugal
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Serviço de Informação a Vítimas de Violência Doméstica
       number: "800 202 148"
@@ -131,6 +172,8 @@ helplines:
   - code: NL
     country: Netherlands
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Veilig Thuis
       number: "0800 2000"
@@ -139,6 +182,8 @@ helplines:
   - code: BE
     country: Belgium
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: 1712 (hulplijn geweld, misbruik en kindermishandeling — Flanders)
       number: "1712"
@@ -149,6 +194,8 @@ helplines:
   - code: AT
     country: Austria
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Frauenhelpline gegen Gewalt
       number: "0800 222 555"
@@ -158,6 +205,8 @@ helplines:
   - code: PL
     country: Poland
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Niebieska Linia
       number: "800 120 002"
@@ -166,6 +215,8 @@ helplines:
   - code: DK
     country: Denmark
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Lev Uden Vold (national hotline)
       number: "1888"
@@ -174,6 +225,8 @@ helplines:
   - code: SE
     country: Sweden
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Kvinnofridslinjen
       number: "116 016"
@@ -183,6 +236,8 @@ helplines:
   - code: FI
     country: Finland
     emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
     dv_helpline:
       name: Nollalinja
       number: "080 005 005"
@@ -193,6 +248,9 @@ helplines:
     country: Norway
     emergency: "112"
     emergency_notes: 112 is police; the ambulance number is 113.
+    medical: "113"
+    medical_source: https://www.helsenorge.no/forstehjelp/ring-113/
+    medical_notes: "112 is the police."
     dv_helpline:
       name: VO-linjen (Vold- og overgrepslinjen)
       number: "116 006"
@@ -201,6 +259,8 @@ helplines:
   - code: TR
     country: Türkiye
     emergency: "112"
+    medical: "112"
+    medical_source: https://www.icisleri.gov.tr/tum-acil-numaralar-112de-toplandi
     dv_helpline:
       name: ALO 183 Sosyal Destek Hattı
       number: "183"
@@ -210,10 +270,16 @@ helplines:
   - code: RU
     country: Russia
     emergency: "112"
+    medical: "103"
+    medical_source: https://mchs.gov.ru/deyatelnost/bezopasnost-grazhdan/kak-pravilno-vyzvat-skoruyu_5
+    medical_notes: "112 also works (unified number)."
 
   - code: UA
     country: Ukraine
     emergency: "112"
+    medical: "103"
+    medical_source: https://www.gov.uk/foreign-travel-advice/ukraine/getting-help
+    medical_notes: "112 also works."
     dv_helpline:
       name: La Strada National Hotline
       number: "116 123"
@@ -222,6 +288,9 @@ helplines:
   - code: ID
     country: Indonesia
     emergency: "112"
+    medical: "119"
+    medical_source: https://kemkes.go.id/eng/%20layanan-119-terobosan-baru-layanan-kegawatdaruratan-medik-di-indonesia
+    medical_notes: "Ministry of Health SPGDT 119, free from mobile and landline; GOV.UK still lists 118."
     dv_helpline:
       name: SAPA 129 (Kemen PPPA)
       number: "129"
@@ -233,6 +302,8 @@ helplines:
     country: Japan
     emergency: "110"
     emergency_notes: 110 is police; fire and ambulance are 119.
+    medical: "119"
+    medical_source: https://www.gov.uk/foreign-travel-advice/japan/getting-help
     dv_helpline:
       # DV相談＋ (Cabinet Office): toll-free, 24/7, chat, 10 languages. Preferred over DV Consultation
       # Navi "#8008", which routes to the prefectural centre in its office hours only — and iOS never
@@ -247,6 +318,8 @@ helplines:
     country: South Korea
     emergency: "112"
     emergency_notes: 112 is police; fire and ambulance are 119.
+    medical: "119"
+    medical_source: https://www.gov.uk/foreign-travel-advice/south-korea/getting-help
     dv_helpline:
       name: Women's Emergency Hotline 1366
       number: "1366"
@@ -257,6 +330,8 @@ helplines:
     country: China (mainland)
     emergency: "110"
     emergency_notes: 110 is police; ambulance is 120.
+    medical: "120"
+    medical_source: https://www.gov.uk/foreign-travel-advice/china/getting-help
     dv_helpline:
       name: All-China Women's Federation women's rights hotline (12338)
       number: "12338"
@@ -267,6 +342,8 @@ helplines:
     country: Taiwan
     emergency: "110"
     emergency_notes: 110 is police; fire and ambulance are 119.
+    medical: "119"
+    medical_source: https://www.gov.uk/foreign-travel-advice/taiwan/getting-help
     dv_helpline:
       name: 113 Protection Hotline
       number: "113"
@@ -276,8 +353,540 @@ helplines:
   - code: HK
     country: Hong Kong
     emergency: "999"
+    medical: "999"
+    medical_source: https://www.gov.uk/foreign-travel-advice/hong-kong/getting-help
     dv_helpline:
       name: Harmony House 24-hour Woman Hotline
       number: "2522 0434"
       hours: "24/7"
       url: https://www.harmonyhousehk.org/en/
+
+  # ── Added 2026-10-06: the medical (ambulance) number for every country the app's
+  # 50 languages plausibly reach. emergency = general/police line from the same sources.
+
+  - code: DZ
+    country: Algeria
+    emergency: "17"
+    emergency_notes: "Police."
+    medical: "1021"
+    medical_source: https://www.gov.uk/foreign-travel-advice/algeria/getting-help
+    medical_notes: "Protection civile, also reachable on 14."
+
+  - code: AD
+    country: Andorra
+    emergency: "110"
+    emergency_notes: "Police; 112 is mountain rescue."
+    medical: "116"
+    medical_source: https://www.gov.uk/foreign-travel-advice/andorra/getting-help
+    medical_notes: "112 is mountain rescue."
+
+  - code: AR
+    country: Argentina
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.argentina.gob.ar/tema/emergencias
+    medical_notes: "107 (SAME) only in Buenos Aires city and province."
+
+  - code: BH
+    country: Bahrain
+    emergency: "999"
+    medical: "999"
+    medical_source: https://www.gov.uk/foreign-travel-advice/bahrain/getting-help
+
+  - code: BD
+    country: Bangladesh
+    emergency: "999"
+    medical: "999"
+    medical_source: https://www.gov.uk/foreign-travel-advice/bangladesh/getting-help
+
+  - code: BY
+    country: Belarus
+    emergency: "102"
+    emergency_notes: "Police."
+    medical: "103"
+    medical_source: https://www.gov.uk/foreign-travel-advice/belarus/getting-help
+
+  - code: BA
+    country: Bosnia and Herzegovina
+    emergency: "122"
+    emergency_notes: "Police."
+    medical: "124"
+    medical_source: https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/getting-help
+
+  - code: BR
+    country: Brazil
+    emergency: "190"
+    emergency_notes: "Police."
+    medical: "192"
+    medical_source: https://www.gov.br/saude/pt-br/composicao/saes/samu-192
+    medical_notes: "190 is the police."
+
+  - code: BN
+    country: Brunei
+    emergency: "993"
+    emergency_notes: "Police."
+    medical: "991"
+    medical_source: https://www.gov.uk/foreign-travel-advice/brunei/getting-help
+
+  - code: BG
+    country: Bulgaria
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: CL
+    country: Chile
+    emergency: "133"
+    emergency_notes: "Police."
+    medical: "131"
+    medical_source: https://www.gov.uk/foreign-travel-advice/chile/getting-help
+
+  - code: CO
+    country: Colombia
+    emergency: "123"
+    medical: "123"
+    medical_source: https://www.gov.uk/foreign-travel-advice/colombia/getting-help
+
+  - code: CR
+    country: Costa Rica
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/costa-rica/getting-help
+
+  - code: HR
+    country: Croatia
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: CU
+    country: Cuba
+    emergency: "106"
+    emergency_notes: "Police."
+    medical: "104"
+    medical_source: https://www.gov.uk/foreign-travel-advice/cuba/getting-help
+
+  - code: CY
+    country: Cyprus
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: CZ
+    country: Czechia
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: CI
+    country: "Côte d'Ivoire"
+    emergency: "185"
+    emergency_notes: "Ambulance (SAMU); sources disagree on the police number."
+    medical: "185"
+    medical_source: https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/getting-help
+
+  - code: DO
+    country: Dominican Republic
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/dominican-republic/getting-help
+    medical_notes: "911 does not yet cover every province."
+
+  - code: EC
+    country: Ecuador
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/ecuador/getting-help
+
+  - code: EG
+    country: Egypt
+    emergency: "122"
+    emergency_notes: "Police."
+    medical: "123"
+    medical_source: https://www.gov.uk/foreign-travel-advice/egypt/getting-help
+
+  - code: SV
+    country: El Salvador
+    emergency: "911"
+    medical: "132"
+    medical_source: https://www.presidencia.gob.sv/el-sistema-de-emergencias-medicas-del-gobierno-responde-las-24-horas-con-protocolos-de-accion-rapida/
+    medical_notes: "911 also reaches SEM 132."
+
+  - code: EE
+    country: Estonia
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: GH
+    country: Ghana
+    emergency: "112"
+    medical: "112"
+    medical_source: https://nas.gov.gh/
+
+  - code: GR
+    country: Greece
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: GT
+    country: Guatemala
+    emergency: "110"
+    emergency_notes: "Police."
+    medical: "122"
+    medical_source: https://www.gov.uk/foreign-travel-advice/guatemala/getting-help
+    medical_notes: "122 and 123 are the two fire brigades, both run ambulances."
+
+  - code: HN
+    country: Honduras
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/honduras/getting-help
+
+  - code: HU
+    country: Hungary
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: IS
+    country: Iceland
+    emergency: "112"
+    medical: "112"
+    medical_source: https://www.gov.uk/foreign-travel-advice/iceland/getting-help
+
+  - code: IN
+    country: India
+    emergency: "112"
+    medical: "112"
+    medical_source: https://www.gov.uk/foreign-travel-advice/india/getting-help
+    medical_notes: "ERSS 112 is pan-India; 108 is state-run."
+
+  - code: IR
+    country: Iran
+    emergency: "110"
+    emergency_notes: "Police."
+    medical: "115"
+    medical_source: https://www.gov.uk/foreign-travel-advice/iran/getting-help
+
+  - code: IQ
+    country: Iraq
+    emergency: "911"
+    emergency_notes: "Police."
+    medical: "122"
+    medical_source: https://www.gov.uk/foreign-travel-advice/iraq/getting-help
+    medical_notes: "Canada notes there is no centralised number."
+
+  - code: IL
+    country: Israel
+    emergency: "100"
+    emergency_notes: "Police."
+    medical: "101"
+    medical_source: https://www.gov.uk/foreign-travel-advice/israel/getting-help
+
+  - code: JM
+    country: Jamaica
+    emergency: "119"
+    emergency_notes: "Police."
+    medical: "110"
+    medical_source: https://www.gov.uk/foreign-travel-advice/jamaica/getting-help
+
+  - code: JO
+    country: Jordan
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/jordan/getting-help
+
+  - code: KZ
+    country: Kazakhstan
+    emergency: "112"
+    medical: "103"
+    medical_source: https://www.gov.uk/foreign-travel-advice/kazakhstan/getting-help
+    medical_notes: "Some phones forward 103 to 112."
+
+  - code: KE
+    country: Kenya
+    emergency: "999"
+    emergency_notes: "999 and 112 reach the police."
+    medical: "922"
+    medical_source: https://www.president.go.ke/wp-content/uploads/1.pdf
+    medical_notes: "SHA 922 Lifeline, launched 5 Aug 2026: free on every network, routed to the National Ambulance Dispatch Centre."
+
+  - code: KW
+    country: Kuwait
+    emergency: "112"
+    medical: "112"
+    medical_source: https://www.moi.gov.kw/
+
+  - code: KG
+    country: Kyrgyzstan
+    emergency: "112"
+    medical: "103"
+    medical_source: https://www.gov.uk/foreign-travel-advice/kyrgyzstan/getting-help
+
+  - code: LV
+    country: Latvia
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: LB
+    country: Lebanon
+    emergency: "112"
+    emergency_notes: "Police."
+    medical: "140"
+    medical_source: https://www.redcross.org.lb/ems-article/
+
+  - code: LI
+    country: Liechtenstein
+    emergency: "112"
+    medical: "144"
+    medical_source: https://www.gov.uk/foreign-travel-advice/liechtenstein/getting-help
+    medical_notes: "112 also works."
+
+  - code: LT
+    country: Lithuania
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: LU
+    country: Luxembourg
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: MO
+    country: Macao
+    emergency: "999"
+    medical: "999"
+    medical_source: https://www.gov.uk/foreign-travel-advice/macao/getting-help
+
+  - code: MY
+    country: Malaysia
+    emergency: "999"
+    medical: "999"
+    medical_source: https://www.gov.uk/foreign-travel-advice/malaysia/getting-help
+
+  - code: MT
+    country: Malta
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: MX
+    country: Mexico
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/mexico/getting-help
+
+  - code: MD
+    country: Moldova
+    emergency: "112"
+    medical: "112"
+    medical_source: https://www.gov.uk/foreign-travel-advice/moldova/getting-help
+
+  - code: MC
+    country: Monaco
+    emergency: "112"
+    medical: "112"
+    medical_source: https://www.gov.uk/foreign-travel-advice/monaco/getting-help
+
+  - code: ME
+    country: Montenegro
+    emergency: "112"
+    medical: "124"
+    medical_source: https://www.hitna.me/
+    medical_notes: "National ambulance service, all municipalities; 112 also reaches it."
+
+  - code: NG
+    country: Nigeria
+    emergency: "112"
+    medical: "112"
+    medical_source: https://www.gov.uk/foreign-travel-advice/nigeria/getting-help
+    medical_notes: "National Emergency Medical Service (NEMSAS), not yet in every state."
+
+  - code: OM
+    country: Oman
+    emergency: "9999"
+    medical: "9999"
+    medical_source: https://www.gov.uk/foreign-travel-advice/oman/getting-help
+
+  - code: PK
+    country: Pakistan
+    emergency: "15"
+    emergency_notes: "Police."
+    medical: "1122"
+    medical_source: https://www.gov.uk/foreign-travel-advice/pakistan/getting-help
+    medical_notes: "Rescue 1122 is run by each province."
+
+  - code: PA
+    country: Panama
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/panama/getting-help
+
+  - code: PY
+    country: Paraguay
+    emergency: "911"
+    medical: "911"
+    medical_source: https://travel.gc.ca/destinations/paraguay
+    medical_notes: "Health calls to 911 go to SEME 141."
+
+  - code: PH
+    country: Philippines
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/philippines/getting-help
+
+  - code: PR
+    country: Puerto Rico
+    emergency: "911"
+    medical: "911"
+    medical_source: https://dsp.pr.gov/lineas-de-emergencia
+
+  - code: QA
+    country: Qatar
+    emergency: "999"
+    medical: "999"
+    medical_source: https://www.gov.uk/foreign-travel-advice/qatar/getting-help
+
+  - code: RO
+    country: Romania
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: SM
+    country: San Marino
+    emergency: "112"
+    emergency_notes: "112 is the police."
+    medical: "118"
+    medical_source: https://www.gov.uk/foreign-travel-advice/san-marino/getting-help
+    medical_notes: "112 is the police; from a mobile 118 may reach an Italian centre that passes the call on."
+
+  - code: SA
+    country: Saudi Arabia
+    emergency: "911"
+    emergency_notes: "Unified number; 112 without a Saudi SIM."
+    medical: "997"
+    medical_source: https://travel.gc.ca/destinations/saudi-arabia
+    medical_notes: "Saudi Red Crescent; the unified 911 is not live in every region."
+
+  - code: SN
+    country: Senegal
+    emergency: "17"
+    emergency_notes: "Police."
+    medical: "1515"
+    medical_source: https://www.sante.gouv.sn/
+    medical_notes: "SAMU national; GOV.UK lists 15."
+
+  - code: RS
+    country: Serbia
+    emergency: "112"
+    medical: "194"
+    medical_source: https://www.gov.uk/foreign-travel-advice/serbia/getting-help
+    medical_notes: "112 not confirmed to dispatch ambulances."
+
+  - code: SG
+    country: Singapore
+    emergency: "999"
+    emergency_notes: "Police."
+    medical: "995"
+    medical_source: https://www.gov.uk/foreign-travel-advice/singapore/getting-help
+    medical_notes: "999 is the police."
+
+  - code: SK
+    country: Slovakia
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: SI
+    country: Slovenia
+    emergency: "112"
+    medical: "112"
+    medical_source: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/index_en.htm
+
+  - code: ZA
+    country: South Africa
+    emergency: "112"
+    emergency_notes: "From a mobile; police 10111."
+    medical: "112"
+    medical_source: https://www.westerncape.gov.za/know-who-you-can-call-emergency
+    medical_notes: "112 from a mobile; 10177 is the ambulance number."
+
+  - code: LK
+    country: Sri Lanka
+    emergency: "119"
+    emergency_notes: "Police."
+    medical: "1990"
+    medical_source: https://www.gov.uk/foreign-travel-advice/sri-lanka/getting-help
+
+  - code: CH
+    country: Switzerland
+    emergency: "112"
+    medical: "144"
+    medical_source: https://www.gov.uk/foreign-travel-advice/switzerland/getting-help
+    medical_notes: "112 also works."
+
+  - code: TZ
+    country: Tanzania
+    emergency: "112"
+    medical: "112"
+    medical_source: https://www.gov.uk/foreign-travel-advice/tanzania/getting-help
+
+  - code: TH
+    country: Thailand
+    emergency: "191"
+    emergency_notes: "Police / general."
+    medical: "1669"
+    medical_source: https://www.gov.uk/foreign-travel-advice/thailand/getting-help
+    medical_notes: "191 is the police / general line."
+
+  - code: TT
+    country: Trinidad and Tobago
+    emergency: "999"
+    emergency_notes: "Police."
+    medical: "811"
+    medical_source: https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/getting-help
+
+  - code: TN
+    country: Tunisia
+    emergency: "197"
+    emergency_notes: "Police in towns and cities; 193 (National Guard) in rural areas."
+    medical: "190"
+    medical_source: https://www.gov.uk/foreign-travel-advice/tunisia/getting-help
+
+  - code: UG
+    country: Uganda
+    emergency: "999"
+    medical: "999"
+    medical_source: https://www.gov.uk/foreign-travel-advice/uganda/getting-help
+
+  - code: AE
+    country: United Arab Emirates
+    emergency: "999"
+    emergency_notes: "Police."
+    medical: "998"
+    medical_source: https://www.gov.uk/foreign-travel-advice/united-arab-emirates/getting-help
+
+  - code: UY
+    country: Uruguay
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/uruguay/getting-help
+
+  - code: VE
+    country: Venezuela
+    emergency: "911"
+    medical: "911"
+    medical_source: https://www.gov.uk/foreign-travel-advice/venezuela/getting-help
+
+  - code: VN
+    country: Vietnam
+    emergency: "113"
+    emergency_notes: "Police."
+    medical: "115"
+    medical_source: https://www.gov.uk/foreign-travel-advice/vietnam/getting-help

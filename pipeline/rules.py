@@ -84,7 +84,8 @@ def check(corpus: Corpus, schema: dict, path_schema: dict | None = None,
 def _check_helplines(corpus: Corpus, report: Report) -> None:
     """Emergency/anti-violence numbers are safety-critical: each needs a country
     code and an emergency number, codes are unique, and any dv_helpline URL is
-    https."""
+    https. A `medical` (ambulance) number is digits only and must cite an https
+    `medical_source`."""
     seen = set()
     for i, h in enumerate(corpus.helplines):
         where = f"helplines.yaml[{i}] ({h.get('code', '?')})"
@@ -97,6 +98,13 @@ def _check_helplines(corpus: Corpus, report: Report) -> None:
             seen.add(code)
         if not isinstance(h.get("emergency"), str) or not h.get("emergency"):
             report.error(f"{where}: missing 'emergency' number (must be a string)")
+        medical = h.get("medical")
+        if medical is not None:
+            if not isinstance(medical, str) or not medical.isdigit():
+                report.error(f"{where}: 'medical' must be a quoted string of digits")
+            src = h.get("medical_source")
+            if not isinstance(src, str) or not src.startswith("https://"):
+                report.error(f"{where}: 'medical' needs an https 'medical_source'")
         dv = h.get("dv_helpline")
         if dv is not None:
             if not dv.get("number"):
