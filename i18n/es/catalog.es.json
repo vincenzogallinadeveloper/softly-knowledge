@@ -11,8 +11,9 @@
       "aliases": [
         "el alcohol durante el embarazo",
         "el consumo de alcohol durante el embarazo",
-        "El alcohol y el embarazo",
-        "álcool fetal",
+        "alcohol y embarazo",
+        "síndrome alcohólico fetal",
+        "TEAF",
         "FASD"
       ],
       "glance": "Lo más seguro es no beber alcohol durante el embarazo ni cuando se está intentando concebir.",
@@ -25,10 +26,10 @@
       "title": "Atención prenatal",
       "aliases": [
         "atención prenatal",
-        "atención prenatal",
-        "atención durante el embarazo",
-        "citas con la comadrona",
-        "concertar una cita",
+        "control prenatal",
+        "control del embarazo",
+        "citas con la matrona",
+        "primera visita del embarazo",
         "visitas prenatales"
       ],
       "glance": "La atención prenatal consiste en las revisiones periódicas que se realizan durante el embarazo y que contribuyen a que tanto tú como tu bebé estéis bien.",
@@ -57,9 +58,9 @@
       "title": "Dolor de espalda durante el embarazo",
       "aliases": [
         "dolor de espalda durante el embarazo",
-        "dolor de espalda durante el embarazo",
         "dolor lumbar durante el embarazo",
-        "dolor de espalda durante el embarazo"
+        "lumbalgia en el embarazo",
+        "dolor de espalda embarazada"
       ],
       "glance": "El dolor de espalda es muy frecuente durante el embarazo, ya que los ligamentos se ablandan y la barriga crece; por lo general, no supone ningún riesgo.",
       "overview": "El dolor de espalda es uno de los síntomas más habituales del embarazo. A medida que tu cuerpo se prepara para el parto, los\nligamentos se ablandan y se estiran de forma natural, y tu barriga en crecimiento cambia la forma en que distribuyes tu peso,\nlo que supone una tensión adicional en la zona lumbar y la pelvis.\n\nHay gestos cotidianos que pueden aliviarlo: prestar atención a la postura al estar de pie, sentada o al levantar objetos;\nllevar calzado plano que ofrezca buen soporte; utilizar un colchón firme o una almohada que proporcione buen apoyo; y realizar movimientos suaves y regulares,\ncomo caminar, practicar yoga para embarazadas o hacer los ejercicios de una clase. Si te está resultando realmente molesto, un\nfisioterapeuta obstétrico puede ofrecerte consejos personalizados.\n\nLa mayoría de los dolores de espalda durante el embarazo no son motivo de preocupación, pero hay algunos casos en los que conviene acudir al médico\nsin demora, y para eso sirven las siguientes recomendaciones.",
@@ -98,11 +99,12 @@
     "breast-awareness": {
       "title": "Conocer tus mamas",
       "aliases": [
-        "concienciación sobre el cáncer de mama",
+        "conocer tus mamas",
         "cómo revisarse las mamas",
         "autoexploración mamaria",
-        "autoexploración mamaria",
-        "revisión mamaria"
+        "autoexamen de mamas",
+        "revisarse los pechos",
+        "bulto en el pecho"
       ],
       "glance": "La concienciación sobre las mamas consiste simplemente en conocer el aspecto y el tacto normales de tus mamas, para que puedas detectar cualquier cambio.",
       "overview": "La autoexploración mamaria no es una técnica especial, sino simplemente familiarizarse con lo que es normal en tu caso, para\nque cualquier cambio te llame la atención. Revisarte las mamas o el pecho con regularidad te ayuda a conocer su aspecto\ny tacto habituales; una vez al mes es una buena frecuencia.\n\nNo hay una única forma «correcta» de hacerlo. Muchas personas se miran en el espejo con los brazos bajados y luego levantados, y\npalpan cada mama, hasta la axila. Lo que se busca es familiarizarse con ellas, no hacer un diagnóstico: el\nobjetivo es simplemente detectar un cambio a tiempo si se produce.\n\nLos pechos también cambian de forma natural a lo largo del ciclo menstrual y a lo largo de la vida, por lo que algunos cambios son completamente\nnormales. El objetivo de la concienciación es conocer lo suficientemente bien tu propia normalidad como para detectar algo que no lo sea.",
@@ -114,10 +116,11 @@
       "title": "Lactancia materna",
       "aliases": [
         "lactancia materna",
-        "enfermería",
+        "amamantar",
+        "dar el pecho",
+        "dar de mamar",
         "leche materna",
-        "lactancia materna",
-        "La alimentación de tu bebé"
+        "la alimentación de tu bebé"
       ],
       "glance": "La leche materna protege al bebé de las infecciones y se adapta a medida que crece; además, cualquier cantidad que se le dé aporta beneficios.",
       "overview": "La leche materna es un alimento natural y completo para el bebé: le aporta los nutrientes, las vitaminas y los minerales\nque necesita, y va cambiando con el tiempo para adaptarse a su etapa de desarrollo. Además, ayuda a protegerlo frente a infecciones\ny enfermedades, y ofrece algunos beneficios para la salud a largo plazo.\n\nTambién hay beneficios para la madre: la lactancia materna se asocia a un menor riesgo de cáncer de mama\ny de ovario, entre otras cosas, y, en general, cuanto más y durante más tiempo\nse amamante, mayores serán los beneficios. Es importante destacar que **cualquier** cantidad de leche materna es beneficiosa; no se trata\nde «todo o nada».\n\nAlimentar a un bebé también puede resultar más difícil de lo esperado al principio, y eso es habitual. Hay ayuda disponible —por parte de\ntu comadrona, tu enfermera de pediatría y los servicios locales de apoyo a la lactancia—, por lo que pedir ayuda cuanto antes si las cosas no van\nbien es una buena idea.",
@@ -162,9 +165,11 @@
       "aliases": [
         "cribado cervical",
         "citología",
-        "mancha",
+        "citología cervical",
         "prueba de Papanicolaou",
-        "citología cervical"
+        "Papanicolaou",
+        "prueba del VPH",
+        "cribado de cáncer de cuello uterino"
       ],
       "glance": "La prueba de detección del cáncer de cuello uterino es un control rutinario del estado de salud del cuello uterino que ayuda a prevenir el cáncer de cuello uterino.",
       "overview": "La prueba de detección cervical es un examen que evalúa el estado de salud del cuello uterino —la abertura del útero situada en la\nparte superior de la vagina—. No es una prueba para detectar cáncer. Se trata, más bien, de una forma de detectar cambios de forma precoz y ayudar a\nprevenir que se desarrolle el cáncer de cuello uterino.\n\nSe invita a todas las personas con cuello uterino a partir de los 25 años y hasta los 64. Se te envía una invitación cuando\nte toca, a intervalos regulares, por lo que no tienes que acordarte de pedir cita de improviso,\naunque siempre es decisión tuya acudir o no.\n\nLa prueba en sí es rápida y la realiza una enfermera. Muchas personas se sienten un poco nerviosas al respecto, lo cual es\ntotalmente comprensible; saber para qué sirve —un control rutinario y preventivo— puede hacer que resulte\nmás llevadero.",
@@ -241,8 +246,9 @@
       "aliases": [
         "preservativo",
         "preservativos",
+        "condón",
         "condón externo",
-        "caucho",
+        "preservativo masculino",
         "método de barrera"
       ],
       "glance": "Los preservativos son un método de barrera y el único método anticonceptivo que también protege contra las ITS.",
@@ -313,7 +319,7 @@
       "title": "Tu ciclo y tu bienestar",
       "aliases": [
         "bienestar",
-        "el ciclismo y la salud",
+        "ciclo y salud",
         "el ciclo menstrual y la salud",
         "signo vital"
       ],
@@ -328,8 +334,9 @@
       "aliases": [
         "maltrato económico",
         "abuso económico",
+        "violencia económica",
         "control del dinero",
-        "gestión de las finanzas",
+        "control de las finanzas",
         "deuda a mi nombre"
       ],
       "glance": "El abuso económico consiste en controlar el acceso de una persona al dinero, al trabajo o a los recursos; se trata de una forma reconocida de abuso.",
@@ -356,8 +363,9 @@
       "aliases": [
         "anticoncepción de emergencia",
         "píldora del día después",
-        "píldora del día después",
-        "píldora del día después",
+        "píldora del día siguiente",
+        "píldora postcoital",
+        "anticonceptivo de emergencia",
         "Levonelle",
         "ellaOne"
       ],
@@ -563,11 +571,11 @@
       "title": "Menstruaciones abundantes",
       "aliases": [
         "menstruaciones abundantes",
+        "reglas abundantes",
         "menorragia",
         "sangrado menstrual abundante",
-        "inundaciones",
         "sangrado abundante",
-        "coágulos"
+        "coágulos en la regla"
       ],
       "glance": "Las menstruaciones abundantes implican una gran pérdida de sangre en cada ciclo; es algo habitual, pero conviene consultarlo si te afecta.",
       "overview": "Las menstruaciones abundantes —el término médico es «menorragia»— consisten en perder mucha sangre durante la menstruación.\nPara algunas personas, el sangrado abundante es simplemente lo normal, pero si te está afectando a tu vida o te deja\nagotada, merece la pena investigarlo.\n\nAlgunos indicios de que la menstruación es abundante: tener que cambiarte una compresa o un tampón cada 1 o 2 horas,\nutilizar dos tipos de productos para la menstruación a la vez (como un tampón y una compresa), manchar la\nropa o la ropa de cama, expulsar coágulos de sangre de más de 2,5 cm (aproximadamente el tamaño de una moneda de 10 peniques) o tener menstruaciones\nque duran más de 7 días.\n\nPerder mucha sangre mes tras mes puede dejarte cansada o con dificultad para respirar, ya que puede provocar\nuna falta de hierro (anemia). Hay muchas causas posibles —desde miomas o afecciones como\nla endometriosis, la adenomiosis o el síndrome de ovario poliquístico (SOP), hasta ciertos medicamentos— y, a menudo, no se encuentra ninguna causa grave. En cualquier\ncaso, normalmente se puede hacer algo para aliviar la menstruación abundante, por lo que no es algo con lo que simplemente tengas que aprender a vivir.",
@@ -592,9 +600,10 @@
       "title": "Escucha y apoyo emocional",
       "aliases": [
         "cómo escuchar",
-        "apoyo emocional a los socios",
+        "apoyo emocional a la pareja",
         "comunicación",
-        "estar ahí para ella"
+        "estar ahí para ella",
+        "escucha activa"
       ],
       "glance": "La mayoría de las veces necesita que la escuchen, no que la arreglen; escucha primero y pregunta antes de aconsejar.",
       "overview": "Cuando alguien a quien amamos tiene dificultades, el instinto es intervenir y resolverlo. Pero a menudo lo que más ayuda\nes que se sienta escuchada de verdad: que sus sentimientos tienen sentido y que no está sola con ellos. Querer arreglarlo demasiado\nrápido puede sonar a \"tus sentimientos son un problema que hay que zanjar\".\n\nEscuchar bien es una habilidad que cualquiera puede aprender. Es principalmente atención: dejar el móvil, mirarla,\ny dejarla terminar. No es necesario que estés de acuerdo con todos los puntos para que ella se sienta respetada.",
@@ -618,7 +627,9 @@
       "title": "Menopausia",
       "aliases": [
         "menopausia",
-        "el cambio"
+        "climaterio",
+        "retirada de la regla",
+        "sofocos"
       ],
       "glance": "La menopausia es el momento en el que dejan de aparecer las menstruaciones de forma definitiva; se trata de una etapa natural que suele producirse entre los 45 y los 55 años, aproximadamente.",
       "overview": "La menopausia es el momento en el que dejan de aparecer las menstruaciones de forma definitiva. Dado que las menstruaciones pueden aparecer y desaparecer de forma intermitente durante un\ntiempo al principio, se considera que se ha alcanzado la menopausia cuando han pasado 12 meses consecutivos sin tener ninguna. Suele\nocurrir entre los 45 y los 55 años, aproximadamente, aunque puede ser antes o después.\n\nEs una parte natural del envejecimiento, no una enfermedad. Se produce a medida que los ovarios van dejando de funcionar y el nivel de\nestrógeno —una hormona clave del ciclo— disminuye. Ese cambio hormonal es el responsable de los cambios que muchas\npersonas notan: sofocos y sudores nocturnos, alteraciones en la menstruación durante el periodo previo, problemas para dormir,\ncambios de humor o ansiedad, confusión mental, sequedad vaginal y dolores.\n\nLas experiencias varían enormemente: algunas personas lo superan sin problemas, a otras les resulta difícil, y los síntomas pueden durar\nvarios años. Nada de esto significa que te pase algo malo. Existen recursos de apoyo y opciones, y\nentender lo que está ocurriendo es un buen primer paso.",
@@ -641,10 +652,11 @@
     "menstrual-phase": {
       "title": "Fase menstrual (la regla)",
       "aliases": [
+        "regla",
         "período",
         "menstruación",
         "fase menstrual",
-        "hemorragia"
+        "sangrado"
       ],
       "glance": "La menstruación son los pocos días de sangrado que marcan el inicio de cada ciclo, cuando se desprende el revestimiento del útero.",
       "overview": "La fase menstrual es la regla: los días en los que sangras. Comienza el primer día del ciclo,\ncuando los niveles de estrógeno y progesterona han descendido lo suficiente como para que el revestimiento que se ha formado\nen el interior del útero ya no se mantenga y se desprenda, saliendo del cuerpo a través de la\nvagina.\n\nLa menstruación suele durar entre 2 y 7 días, siendo lo habitual unos 5 días. El flujo suele ser\nmás abundante durante los dos primeros días y más ligero a partir de entonces. La menstruación suele comenzar alrededor de los 12 años,\naunque también es normal que comience antes o después.\n\nLo que se considera «normal» varía mucho de una persona a otra. Llevar un registro de tus propios periodos te ayuda a darte cuenta de\nlo que es habitual en tu caso, lo cual es mucho más significativo que cualquier media.",
@@ -656,8 +668,9 @@
       "title": "Aborto espontáneo",
       "aliases": [
         "aborto espontáneo",
-        "aborto espontáneo",
-        "aborto espontáneo temprano",
+        "aborto natural",
+        "pérdida del embarazo",
+        "pérdida gestacional temprana",
         "sufrir un aborto"
       ],
       "glance": "Un aborto espontáneo es la pérdida de un embarazo antes de las 24 semanas; es algo habitual y casi nunca es culpa tuya.",
@@ -715,10 +728,10 @@
       "aliases": [
         "alivio del dolor durante el parto",
         "epidural",
-        "gas y aire",
+        "óxido nitroso",
+        "gas de la risa",
         "Entonox",
-        "alivio del dolor durante el parto",
-        "piscina de parto",
+        "parto en el agua",
         "TENS"
       ],
       "glance": "Hay varias formas de aliviar los dolores del parto; no hay una opción correcta o incorrecta, y puedes mantenerte abierta a diferentes opciones.",
@@ -746,7 +759,8 @@
       "aliases": [
         "perimenopausia",
         "transición a la menopausia",
-        "el cambio"
+        "premenopausia",
+        "climaterio"
       ],
       "glance": "La perimenopausia es la etapa de transición previa a la menopausia, en la que la menstruación y las hormonas empiezan a cambiar.",
       "overview": "La perimenopausia es el periodo que precede a la menopausia, es decir, los años «en torno a la menopausia».\nComienza cuando empiezas a notar los primeros cambios y se prolonga hasta un año después de tu última menstruación, momento\nen el que se considera que has llegado a la menopausia. Puede durar varios años.\n\nDurante este tiempo, los ovarios producen cada vez menos estrógenos, y los niveles suben y bajan de forma menos\nprevisible que antes. El primer síntoma más común es que los periodos menstruales cambian: se vuelven más\nfrecuentes o más espaciados, más ligeros o más abundantes. Muchos de los síntomas relacionados con la menopausia, como\nlos sofocos, los cambios en el sueño o las fluctuaciones en el estado de ánimo, pueden aparecer ya en esta etapa, mientras aún tienes periodos.\n\nDado que es un proceso gradual y varía mucho, la perimenopausia puede resultar confusa: los cambios no se producen\ntodos a la vez ni en el mismo orden para todas las mujeres. Saber que esta fase tiene un nombre y que se trata de una\ntransición normal puede ayudar a comprenderla mejor.",
@@ -759,8 +773,8 @@
       "aliases": [
         "dolor menstrual",
         "dolores menstruales",
-        "calambres",
-        "dismenorrea",
+        "cólicos menstruales",
+        "dolor de regla",
         "dismenorrea",
         "menstruaciones dolorosas"
       ],
@@ -774,10 +788,12 @@
       "title": "Planificar un embarazo",
       "aliases": [
         "planificar un embarazo",
-        "prejuicio",
-        "intentando quedarme embarazada",
+        "preconcepción",
+        "consulta preconcepcional",
+        "buscar un embarazo",
+        "intentar quedarme embarazada",
         "antes del embarazo",
-        "Prepararse para el embarazo"
+        "prepararse para el embarazo"
       ],
       "glance": "Unos sencillos pasos antes de intentarlo —tomar ácido fólico y dejar de fumar y de beber alcohol— ayudan a que el embarazo tenga el mejor comienzo posible.",
       "overview": "Si estás pensando en intentar tener un bebé, hay una serie de medidas que puedes tomar de antemano para que el embarazo tenga un\ncomienzo más saludable; muchas de ellas surten efecto incluso antes de la concepción.\n\nLos más importantes son: empezar a tomar **ácido fólico** (y vitamina D), **dejar de fumar** y **evitar el alcohol**.\nIntentar mantener un peso saludable también ayuda, ya que tener un peso significativamente inferior o superior al normal puede hacer que\nresulte más difícil concebir. También conviene asegurarte de que tu **vacuna triple vírica** esté al día, ya que algunas\ninfecciones pueden afectar al embarazo.\n\nNada de esto tiene por qué ser perfecto ni estresante. Lo que importa son los pequeños cambios positivos que se hagan con antelación —\ny adelantarse un poco es una de las mejores cosas que puedes hacer para un futuro embarazo.",
@@ -789,10 +805,12 @@
       "title": "Depresión posparto",
       "aliases": [
         "depresión posparto",
-        "depresión posparto",
-        "PND",
-        "depresión posparto",
-        "depresión posparto"
+        "depresión postparto",
+        "depresión puerperal",
+        "depresión después del parto",
+        "tristeza posparto",
+        "baby blues",
+        "PND"
       ],
       "glance": "La depresión posparto es un estado de desánimo frecuente y tratable que se produce tras el parto; no es culpa tuya y hay ayuda disponible.",
       "overview": "Es muy habitual sentirse decaída, ansiosa o irritable durante las primeras semanas tras el parto; esto\nse conoce a menudo como «tristeza posparto» y suele desaparecer por sí solo en unas dos semanas.\n\nLa depresión posparto es diferente: se trata de un estado de ánimo bajo más intenso o que dura más tiempo. Es un trastorno frecuente,\npuede aparecer en cualquier momento durante el primer año y también puede afectar a los padres y a las parejas. Entre los síntomas se incluyen un\nestado de ánimo bajo y persistente, dificultad para disfrutar de cualquier cosa, problemas para dormir incluso cuando el bebé duerme,\ny, en ocasiones, sentimientos conflictivos a la hora de crear un vínculo con el bebé.\n\nSufrirla **no** significa que seas un mal padre o madre ni que no quieras a tu bebé: es una enfermedad,\nno un fracaso, y responde bien al apoyo y al tratamiento. Pedir ayuda cuanto antes es un gesto de gran fortaleza y cariño\n, tanto para ti como para tu bebé.",
@@ -819,11 +837,11 @@
       "aliases": [
         "embarazo",
         "estar embarazada",
-        "esperando",
+        "esperar un bebé",
         "gestación",
         "trimestres",
-        "fecha de vencimiento",
-        "¿De cuántas semanas estás embarazada?"
+        "fecha probable de parto",
+        "de cuántas semanas estoy"
       ],
       "glance": "El embarazo suele durar unas 40 semanas, contadas a partir del primer día de la última menstruación.",
       "overview": "El embarazo es el periodo en el que tu cuerpo crece y gesta a un bebé. Normalmente dura unas 40 semanas —\nse considera un embarazo completo y normal entre las 37 y las 42 semanas— y, aunque pueda sorprender, se cuenta\na partir del primer día de tu **última menstruación**, no desde la concepción. Esa es simplemente la forma habitual de\ncalcular las fechas.\n\nTu **fecha prevista de parto** es una estimación, no una fecha límite: es normal que los bebés lleguen un poco antes o un poco después. Al principio\ndel embarazo, una «ecografía de datación» (normalmente alrededor de las 12 semanas) puede medir a tu bebé y dar una fecha más precisa,\nlo que a veces modifica la estimación original.\n\nA menudo se habla del embarazo en tres etapas, o **trimestres**, cada una con sus propios cambios. Durante\ntodo el proceso, recibirás atención mediante revisiones prenatales periódicas realizadas por una comadrona (y un médico si\nes necesario), una atención que te ayuda a mantenerte a ti y a tu bebé sanos.",
@@ -835,9 +853,10 @@
       "title": "Prueba de embarazo",
       "aliases": [
         "prueba de embarazo",
+        "test de embarazo",
         "prueba de embarazo casera",
-        "hCG prueba",
-        "prueba de embarazo"
+        "prueba de hCG",
+        "predictor"
       ],
       "glance": "Una prueba de embarazo casera analiza la orina para detectar la hormona del embarazo, la hCG; es más fiable a partir de la primera falta de la menstruación.",
       "overview": "Una prueba de embarazo casera funciona detectando una hormona llamada «hCG» (gonadotropina coriónica humana) en\nla orina. El cuerpo comienza a producirla unos días después de que el óvulo fecundado se implante, y su nivel\naumenta rápidamente al inicio del embarazo.\n\nLa prueba es más fiable a partir del **primer día de retraso en la menstruación**, aproximadamente dos semanas después de\nla concepción. Si tu ciclo es irregular o no estás segura de cuándo te debería bajar la regla, esperar hasta\nal menos 21 días después de haber mantenido relaciones sexuales sin protección te dará un resultado más fiable. No es necesario que te hagas la prueba a primera\nhora de la mañana; cualquier momento del día es válido.\n\nUn resultado **positivo** es casi con toda seguridad correcto: muy pocas pruebas dan positivo cuando no\nestás embarazada. Un resultado **negativo** es un poco menos seguro: si tu periodo sigue sin llegar y\ncrees que podrías estar embarazada, espera unos días y vuelve a hacerte la prueba.",
@@ -849,11 +868,11 @@
       "title": "Parto prematuro",
       "aliases": [
         "parto prematuro",
-        "parto prematuro",
-        "parto prematuro",
-        "parto prematuro",
-        "parto prematuro",
-        "rotura prematura de la bolsa amniótica"
+        "parto pretérmino",
+        "nacimiento prematuro",
+        "amenaza de parto prematuro",
+        "contracciones antes de tiempo",
+        "rotura prematura de la bolsa"
       ],
       "glance": "El parto prematuro es aquel que se produce antes de las 37 semanas: actúa con rapidez, ya que la atención temprana marca una gran diferencia.",
       "overview": "El parto prematuro (o antes de término) es aquel que se inicia antes de la semana 37 de embarazo. Se produce en\naproximadamente 8 de cada 100 partos.\n\nLos bebés que nacen antes de tiempo son más vulnerables, pero muchos evolucionan bien, sobre todo con la\natención especializada que ofrecen las unidades neonatales. La clave está en actuar con rapidez si crees que podría estar empezando, para que\nte puedan evaluar y, si es necesario, administrarte tratamientos que ayuden a proteger al bebé.\n\nLos síntomas son similares a los del parto en cualquier etapa, pero antes de las 37 semanas nunca se debe esperar a que pasen por sí solos:\nsiempre son motivo para ponerse en contacto de inmediato.",
@@ -893,10 +912,11 @@
       "title": "La píldora que solo contiene progestágeno (minipíldora)",
       "aliases": [
         "píldora solo de progestágeno",
-        "píldora mini",
+        "minipíldora",
         "POP",
         "píldora que solo contiene progesterona",
-        "píldora de desogestrel"
+        "píldora de desogestrel",
+        "píldora sin estrógenos"
       ],
       "glance": "La minipíldora es una píldora de toma diaria que contiene una sola hormona y que espesa el moco cervical para impedir el paso de los espermatozoides.",
       "overview": "La píldora solo de progestágeno —a menudo denominada «minipíldora»— es un comprimido diario que contiene únicamente una\nhormona: un progestágeno. Es una opción para aquellas personas que no pueden tomar estrógenos o que prefieren no hacerlo.\n\nSu principal mecanismo de acción consiste en espesar el moco del cuello del útero, lo que dificulta que los espermatozoides alcancen el\nóvulo. Un tipo común, la píldora de desogestrel, también impide que los ovarios liberen un óvulo\n(ovulación).\n\nSi se toma correctamente, tiene una eficacia superior al 99 %; con un uso diario típico, ronda el 91 %. Al igual que con otras\npíldoras, es importante respetar los horarios, y no protege contra las ITS.",
@@ -1006,11 +1026,12 @@
       "title": "Síntomas del parto",
       "aliases": [
         "signos de parto",
-        "trabajo",
-        "entrar en trabajo de parto",
+        "trabajo de parto",
+        "ponerse de parto",
         "contracciones",
         "romper aguas",
-        "el programa",
+        "tapón mucoso",
+        "expulsión del tapón mucoso",
         "fase latente"
       ],
       "glance": "Entre los signos que indican que está empezando el parto se encuentran las contracciones regulares, la «expulsión del tapón mucoso», el dolor de espalda o la rotura de la bolsa.",
@@ -1067,10 +1088,11 @@
       "aliases": [
         "acoso",
         "ser acosada",
-        "acoso",
+        "acecho",
+        "stalking",
         "atención no deseada",
-        "alguien que me sigue",
-        "acoso cibernético"
+        "alguien me sigue",
+        "ciberacoso"
       ],
       "glance": "El acoso consiste en una atención repetida y no deseada que te hace sentir miedo o inseguridad, y se toma muy en serio.",
       "overview": "El acoso es un patrón de comportamiento no deseado y repetido por parte de alguien que te hace sentir miedo, vigilada o insegura. Puede consistir en que te sigan, en que alguien aparezca donde estés, en llamadas o mensajes constantes, en regalos no deseados, en que te vigilen por Internet o a través de tu móvil, o en amenazas. A menudo lo lleva a cabo una expareja o alguien que conoces, aunque no siempre es así.\n\nEl miedo que provoca es legítimo, aunque cada acto por sí solo pueda parecer «insignificante» para los demás: lo que importa es el patrón y cómo te hace sentir. El acoso se reconoce como una forma de maltrato y, en muchos países, constituye un delito. Nada de esto es culpa tuya, y no tienes por qué conformarte con soportarlo.\n\nSi es seguro hacerlo, llevar un registro puede ser de ayuda más adelante: fechas y horas, capturas de pantalla de los mensajes y lo que ocurrió. No tienes por qué decidir por tu cuenta si «cuenta» o no; los servicios de apoyo pueden ayudarte a entenderlo y a valorar tus opciones.",
@@ -1083,8 +1105,9 @@
       "aliases": [
         "muerte fetal",
         "nacido muerto",
+        "muerte fetal intrauterina",
+        "muerte perinatal",
         "pérdida de un bebé",
-        "aborto tardío",
         "bebé nacido sin vida"
       ],
       "glance": "El nacimiento de un feto muerto es la pérdida de un bebé tras las 24 semanas de gestación: es poco frecuente, nunca es culpa tuya y siempre recibirás apoyo.",
@@ -1098,8 +1121,9 @@
       "aliases": [
         "el estrés y la menstruación",
         "estrés",
-        "falta de la menstruación",
-        "período tardío",
+        "falta de la regla",
+        "retraso de la regla",
+        "regla atrasada",
         "¿Por qué se me retrasa la regla?"
       ],
       "glance": "El estrés, los cambios importantes de peso o hacer mucho ejercicio pueden retrasar o interrumpir la menstruación, a menudo solo durante un tiempo.",
@@ -1111,9 +1135,10 @@
     "supporting-her-period": {
       "title": "Cómo apoyarla durante la regla",
       "aliases": [
-        "ayudando durante su periodo",
-        "soporte de período para socios",
-        "cuidado del periodo"
+        "ayudarla durante la regla",
+        "apoyo a la pareja durante la regla",
+        "acompañarla durante la regla",
+        "cuidarla durante la regla"
       ],
       "glance": "La menstruación puede provocar dolor y cansancio reales; unos cuidados pequeños y prácticos marcan una gran diferencia.",
       "overview": "Un período no son sólo unos días de sangrado; para muchos viene con calambres, dolor de espalda, dolores de cabeza,\ncansancio y poca energía. El dolor menstrual es común y puede ser realmente agotador; no es una\nexageración. Trátalo como tratarías a cualquier pareja que no se encuentre bien: con amabilidad práctica.\n\nNormalízalo también. La menstruación no es asquerosa, vergonzosa ni tabú. Sentirse cómodo comprando toallas sanitarias o\ntampones, tener algunos en casa o entregarle una bolsa de agua caliente sin problemas le dice que está segura y\napoyada.",
@@ -1159,9 +1184,9 @@
       "title": "Los días premenstruales",
       "aliases": [
         "SPM para la pareja",
-        "apoyándola antes de su período",
+        "apoyarla antes de la regla",
         "apoyo premenstrual",
-        "soporte de fase lútea"
+        "apoyo en la fase lútea"
       ],
       "glance": "En los días previos a su período, es posible que se sienta más cansada, sensible o deprimida; acompáñala con paciencia, no con bromas.",
       "overview": "Aproximadamente una semana antes del período, muchas personas presentan síntomas premenstruales: cambios de humor, irritabilidad\no sensación de desánimo, cansancio, dolor en los senos, hinchazón, dolores de cabeza o dificultad para dormir. Es muy común\ny es real: se debe al cambio hormonal natural de la fase lútea, no a que ella \"exagere\".\n\nPara un número menor de personas, el bajo estado de ánimo es grave (un trastorno llamado TDPM) y merece un apoyo\nreal y atención médica. En cualquier caso, tu papel no es diagnosticarla ni arreglarla, sino ser estable y\namable.\n\nLo más dañino que puede hacer una pareja aquí es convertirlo en un arma: \"solo estás padeciendo el síndrome premenstrual\", poner los ojos en blanco,\no tratar sus sentimientos como inválidos debido a la fecha. Eso la menosprecia y suma dolor a una\nsemana dura. Sus sentimientos todavía cuentan, incluso cuando las hormonas son parte del panorama.",
@@ -1190,9 +1215,9 @@
       "title": "Entender su ciclo",
       "aliases": [
         "guía del ciclo para la pareja",
-        "ciclo para socios",
+        "el ciclo para la pareja",
         "cómo funciona su ciclo",
-        "apoyando su ciclo"
+        "apoyarla en su ciclo"
       ],
       "glance": "Su cuerpo avanza a través de un ciclo mensual con cuatro fases; conocer los conceptos básicos te ayudará a apoyarla sin tener que adivinar.",
       "overview": "El ciclo menstrual tiene un ritmo aproximadamente mensual, con una duración media de unos 28 días, aunque a menudo oscila entre 21\ny 35, y lo normal para ella es lo que sea regular para *ella*. Se desarrolla en cuatro fases: la **menstrual**\n(su período), la fase **folicular**, la **ovulación** alrededor de la mitad y la fase **lútea**\nantes del siguiente período.\n\nLa energía, el estado de ánimo, el sueño y el deseo pueden cambiar a través de estas fases porque las hormonas suben y bajan: es\nbiología, no un defecto de carácter y no algo por lo que burlarse de ella. Algunas personas sienten un verdadero bajón en los\ndías antes de su período; otros apenas lo notan. No existe una única forma \"correcta\" de sentir.\n\nNo es necesario convertirse en un experto. Lo que más ayuda es simple: saber aproximadamente en qué etapa de su ciclo se encuentra\n(esta aplicación puede mostrártelo, con su permiso), espera que algunos días sean más difíciles que otros y pregúntale\nqué le resulta útil a *ella* en lugar de suponerlo.",
@@ -1219,8 +1244,8 @@
         "salud vaginal",
         "salud de la vulva",
         "higiene íntima",
-        "mantener la limpieza",
-        "lavado vaginal",
+        "limpieza íntima",
+        "duchas vaginales",
         "flujo vaginal"
       ],
       "glance": "La vagina se limpia por sí sola: solo necesita unos cuidados suaves en la parte exterior, y el flujo es normal.",

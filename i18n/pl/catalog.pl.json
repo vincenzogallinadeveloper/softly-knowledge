@@ -12,7 +12,8 @@
         "alkohol w ciąży",
         "picie alkoholu w ciąży",
         "alkohol a ciąża",
-        "alkohol płodowy",
+        "płodowy zespół alkoholowy",
+        "FAS",
         "FASD"
       ],
       "glance": "Najbezpieczniej jest całkowicie unikać spożywania alkoholu w czasie ciąży oraz podczas starań o dziecko.",
@@ -24,12 +25,12 @@
     "antenatal-care": {
       "title": "Opieka przedporodowa",
       "aliases": [
-        "opieka przedporodowa",
         "opieka prenatalna",
-        "opieka nad kobietami w ciąży",
+        "prowadzenie ciąży",
+        "badania w ciąży",
         "wizyty u położnej",
-        "umówienie wizyty",
-        "wizyty przedporodowe"
+        "pierwsza wizyta w ciąży",
+        "wizyty kontrolne w ciąży"
       ],
       "glance": "Opieka prenatalna to regularne badania kontrolne przeprowadzane w trakcie ciąży, które pomagają zadbać o zdrowie Twoje i Twojego dziecka.",
       "overview": "Opieka przedporodowa to opieka, z której korzystasz w czasie ciąży, aby zapewnić sobie i dziecku jak najlepszy\nstan zdrowia. Zazwyczaj spotykasz się z położną, a w razie potrzeby również z lekarzem. Warto zacząć jak najwcześniej:\nskontaktuj się z położną lub lekarzem rodzinnym, gdy tylko dowiesz się, że jesteś w ciąży.\n\nPierwsza właściwa wizyta — tzw. „wizyta rejestracyjna” — odbywa się zazwyczaj między 8. a 12. tygodniem ciąży. Następnie\nzaproponowane zostaną Ci regularne wizyty kontrolne: co najmniej 10 wizyt i 2 badania USG, jeśli jest to Twoje\npierwsze dziecko, lub około 7, jeśli rodziłaś już wcześniej, przy czym pod koniec ciąży wizyt będzie więcej.\n\nPodczas tych wizyt położna sprawdza ciśnienie krwi i mocz, mierzy obwód brzucha, aby śledzić\nwzrost dziecka, proponuje badania przesiewowe oraz rozmawia z tobą o ruchach dziecka i o tym, jak się\nczujesz. Wiele ważnych problemów — takich jak stan przedrzucawkowy czy cukrzyca ciążowa — jest wykrywanych właśnie na tym etapie,\nzanim sama cokolwiek zauważysz, i właśnie dlatego te wizyty są tak ważne.",
@@ -41,11 +42,11 @@
       "title": "Ruchy Twojego dziecka",
       "aliases": [
         "ruchy dziecka",
-        "ruchy dziecka",
         "ruchy płodu",
         "kopnięcia",
         "odczuwanie ruchów dziecka",
-        "ograniczone ruchy"
+        "mniej ruchów dziecka",
+        "dziecko mniej się rusza"
       ],
       "glance": "Odczuwanie ruchów dziecka to znak, że wszystko z nim w porządku — jeśli ruchy te osłabną lub ulegną zmianie, natychmiast skontaktuj się ze swoją położną.",
       "overview": "Odczuwanie ruchów dziecka jest jednym z uspokajających znaków, że wszystko z nim w porządku. Większość kobiet zaczyna\nodczuwać ruchy między 16. a 24. tygodniem ciąży — często później w przypadku pierwszej ciąży, więc\nprzy pierwszym porodzie często dzieje się to po 20. tygodniu.\n\nNie ma ustalonej liczby ruchów, które „powinnaś” odczuwać, i nie ma potrzeby liczenia kopnięć w celu osiągnięcia jakiejś liczby.\nKażde dziecko jest inne, a liczy się poznanie **własnego**, typowego rytmu **Twojego** dziecka\nw ciągu dnia — momentów, kiedy jest aktywne, i momentów, kiedy jest spokojne.\n\nKiedy już poznasz ten rytm, warto zwrócić uwagę na wszelkie od niego odstępstwa. Zaufaj temu, co wiesz\no swoim dziecku.",
@@ -57,9 +58,9 @@
       "title": "Ból pleców w ciąży",
       "aliases": [
         "ból pleców w ciąży",
-        "ból pleców w ciąży",
-        "ból w dolnej części pleców u kobiet w ciąży",
-        "ból pleców w ciąży"
+        "ból krzyża w ciąży",
+        "ból lędźwiowy w ciąży",
+        "ból w dolnej części pleców w ciąży"
       ],
       "glance": "Ból pleców jest bardzo częstym objawem w czasie ciąży, ponieważ więzadła stają się bardziej elastyczne, a brzuch powiększa się — zazwyczaj nie stanowi to zagrożenia.",
       "overview": "Ból pleców to jedna z najczęstszych dolegliwości związanych z ciążą. Gdy organizm przygotowuje się do porodu,\nwięzadła w naturalny sposób miękną i rozciągają się, a rosnący brzuch zmienia sposób rozkładu ciężaru ciała —\noba te czynniki powodują dodatkowe obciążenie dolnej części pleców i miednicy.\n\nPomóc mogą proste, codzienne czynności: zwracanie uwagi na postawę podczas stania, siedzenia i podnoszenia przedmiotów;\nnoszenie płaskich butów zapewniających odpowiednie wsparcie; twardy materac lub poduszka zapewniająca odpowiednie podparcie; oraz delikatna, regularna aktywność fizyczna,\ntaka jak spacery, joga dla kobiet w ciąży lub ćwiczenia z zajęć. Jeśli ból naprawdę przeszkadza,\nfizjoterapeuta położniczy może udzielić indywidualnych porad.\n\nW większości przypadków ból pleców w ciąży nie stanowi powodu do niepokoju — jednak niektóre objawy warto\nniezwłocznie zbadać, i właśnie temu służą poniższe wskazówki.",
@@ -86,7 +87,7 @@
       "aliases": [
         "krwawienie w ciąży",
         "krwawienie z pochwy w ciąży",
-        "krwawienie w ciąży",
+        "plamienie w ciąży",
         "krwawienie w czasie ciąży"
       ],
       "glance": "Krwawienie w ciąży nie zawsze jest poważne — na początku ciąży często występują niewielkie plamienia — ale zawsze należy to sprawdzić u lekarza.",
@@ -114,9 +115,9 @@
       "title": "Karmienie piersią",
       "aliases": [
         "karmienie piersią",
-        "pielęgniarstwo",
+        "karmienie naturalne",
+        "laktacja",
         "mleko matki",
-        "karmienie piersią",
         "karmienie dziecka"
       ],
       "glance": "Mleko matki chroni dziecko przed infekcjami i dostosowuje się do jego rozwoju — a każda jego ilość przynosi korzyści.",
@@ -161,10 +162,11 @@
       "title": "Badania przesiewowe szyjki macicy (badanie cytologiczne)",
       "aliases": [
         "badania przesiewowe szyjki macicy",
+        "cytologia",
         "badanie cytologiczne",
-        "plama",
-        "badanie cytologiczne",
-        "badanie cytologiczne"
+        "wymaz cytologiczny",
+        "test Papanicolaou",
+        "test HPV"
       ],
       "glance": "Badanie przesiewowe szyjki macicy to rutynowa kontrola stanu zdrowia szyjki macicy, która pomaga zapobiegać rakowi szyjki macicy.",
       "overview": "Badanie przesiewowe szyjki macicy to badanie sprawdzające stan zdrowia szyjki macicy — ujścia macicy znajdującego się w\ngórnej części pochwy. Nie jest to badanie na raka. Stanowi natomiast sposób na wczesne wykrycie zmian i pomaga\nzapobiegać rozwojowi raka szyjki macicy.\n\nDo badania zapraszane są wszystkie osoby posiadające szyjkę macicy w wieku od 25 do 64 lat. Zaproszenie jest wysyłane w\nodpowiednim terminie, w regularnych odstępach czasu, więc nie musisz pamiętać o umówieniu się na badanie z własnej inicjatywy —\nchociaż decyzja o tym, czy się na nie udać, zawsze należy do Ciebie.\n\nSam badanie jest szybkie i przeprowadza je pielęgniarka. Wiele osób odczuwa w związku z tym pewną tremę, co jest\ncałkowicie zrozumiałe; świadomość, czemu służy — rutynowa kontrola profilaktyczna — może sprawić, że\nbędzie łatwiej to znieść.",
@@ -176,7 +178,8 @@
       "title": "Przemoc wobec dzieci i zapewnienie im bezpieczeństwa",
       "aliases": [
         "przemoc wobec dzieci",
-        "przemoc wobec dzieci",
+        "krzywdzenie dzieci",
+        "maltretowanie dzieci",
         "bezpieczeństwo dzieci",
         "ochrona dziecka",
         "martwię się o dziecko",
@@ -241,8 +244,8 @@
       "aliases": [
         "prezerwatywa",
         "prezerwatywy",
+        "kondom",
         "prezerwatywa zewnętrzna",
-        "guma",
         "metoda barierowa"
       ],
       "glance": "Prezerwatywy to metoda barierowa — i jedyna metoda antykoncepcyjna, która zapewnia również ochronę przed chorobami przenoszonymi drogą płciową.",
@@ -269,7 +272,8 @@
       "title": "Antykoncepcja",
       "aliases": [
         "antykoncepcja",
-        "antykoncepcja",
+        "zapobieganie ciąży",
+        "środki antykoncepcyjne",
         "planowanie rodziny"
       ],
       "glance": "Antykoncepcja to różne metody zapobiegania ciąży — a do wyboru jest ich wiele.",
@@ -313,7 +317,7 @@
       "title": "Twój cykl i Twoje samopoczucie",
       "aliases": [
         "dobre samopoczucie",
-        "rower i zdrowie",
+        "cykl i zdrowie",
         "cykl miesiączkowy i zdrowie",
         "parametr życiowy"
       ],
@@ -328,8 +332,8 @@
       "aliases": [
         "przemoc ekonomiczna",
         "przemoc finansowa",
-        "zarządzanie finansami",
-        "zarządzanie finansami",
+        "kontrolowanie pieniędzy",
+        "kontrola nad finansami",
         "zadłużenie na moje nazwisko"
       ],
       "glance": "Przemoc ekonomiczna polega na kontrolowaniu dostępu danej osoby do pieniędzy, pracy lub zasobów — jest to uznana forma przemocy.",
@@ -395,9 +399,10 @@
       "aliases": [
         "ćwiczenia",
         "aktywność fizyczna",
-        "ćwiczenia",
+        "trening",
         "ruch",
-        "ćwiczenia i okresy"
+        "sport a miesiączka",
+        "ćwiczenia podczas okresu"
       ],
       "glance": "Możesz pozostać aktywna przez cały cykl — a regularna aktywność fizyczna może złagodzić skurcze i PMS.",
       "overview": "Możesz być aktywna fizycznie w dowolnym momencie cyklu. Niektóre osoby zauważają, że mają więcej energii i\nmogą dać z siebie nieco więcej w pewnych okresach miesiąca, a mniej w innych — obie te sytuacje są normalne i\nżadna z nich nie stanowi powodu, by przestać się ruszać.\n\nRegularna aktywność fizyczna może faktycznie pomóc w łagodzeniu niektórych objawów związanych z miesiączką. Osoby, które regularnie ćwiczą,\nczęsto odczuwają mniej bolesnych skurczów, a aktywność fizyczna może również złagodzić objawy przedmiesiączkowe (PMS). W\ndniach, kiedy masz mniej energii, łagodniejsze ruchy też się liczą — aktywność nie musi być intensywna, żeby przynosiła korzyści.\n\nNie ma potrzeby planowania życia w oparciu o cykl menstruacyjny i nie ma jednego „właściwego” sposobu na ruch. Obserwowanie\nwłasnych zmian poziomu energii w ciągu miesiąca może po prostu pomóc w planowaniu w sposób, który jest dla Ciebie komfortowy.",
@@ -450,7 +455,7 @@
       "title": "Kwas foliowy i witaminy w ciąży",
       "aliases": [
         "kwas foliowy",
-        "kwas foliowy",
+        "foliany",
         "witamina D w ciąży",
         "witaminy dla kobiet w ciąży",
         "suplementy w czasie ciąży"
@@ -505,8 +510,9 @@
       "title": "Cukrzyca ciążowa",
       "aliases": [
         "cukrzyca ciążowa",
-        "cukrzyca ciążowa",
-        "wysoki poziom cukru we krwi w ciąży"
+        "cukrzyca w ciąży",
+        "wysoki poziom cukru we krwi w ciąży",
+        "krzywa cukrowa"
       ],
       "glance": "Cukrzyca ciążowa to podwyższony poziom cukru we krwi w czasie ciąży — zazwyczaj wykrywana jest podczas badań przesiewowych i często ustępuje po porodzie.",
       "overview": "Cukrzyca ciążowa to podwyższony poziom cukru we krwi (glukozy), który pojawia się w czasie ciąży, gdy organizm\nnie jest w stanie w pełni zaspokoić zwiększonego zapotrzebowania na insulinę. U większości kobiet ustępuje ona po\nurodzeniu dziecka.\n\nZazwyczaj nie powoduje **żadnych objawów**, dlatego wykrywa się ją za pomocą badania przesiewowego przeprowadzanego w czasie ciąży\n(test tolerancji glukozy, często przeprowadzany między 24. a 28. tygodniem), zwłaszcza jeśli występują czynniki zwiększające\nryzyko jej wystąpienia — takie jak nadwaga, cukrzyca w rodzinie, urodzenie wcześniej dużego dziecka lub przynależność do niektórych\ngrup etnicznych.\n\nChoroba ta jest łatwa do opanowania. Utrzymywanie poziomu cukru we krwi w zdrowym zakresie — poprzez dietę, aktywność fizyczną, a czasem\nleki, wszystko pod nadzorem zespołu opieki — zmniejsza ryzyko powikłań zarówno dla Ciebie, jak i dla Twojego dziecka,\ndlatego warto mieć to pod kontrolą.",
@@ -565,7 +571,6 @@
         "obfite miesiączki",
         "krwotok miesiączkowy",
         "obfite krwawienia miesiączkowe",
-        "powódź",
         "obfite krwawienie",
         "skrzepy"
       ],
@@ -594,7 +599,8 @@
         "jak słuchać",
         "wsparcie emocjonalne dla partnerów",
         "komunikacja",
-        "bycie tam dla niej"
+        "bycie przy niej",
+        "aktywne słuchanie"
       ],
       "glance": "W większości przypadków należy ją wysłuchać, a nie naprawić — najpierw wysłuchaj i zapytaj, zanim doradzisz.",
       "overview": "Kiedy ktoś, kogo kochamy, przechodzi trudny czas, odruchowo chcemy wkroczyć i rozwiązać problem. Ale często najbardziej pomaga\njej poczucie, że została naprawdę wysłuchana: że jej uczucia mają sens i że nie jest z nimi sama. Zbyt szybkie\nnaprawianie może zabrzmieć jak „twoje uczucia to problem, który trzeba szybko zamknąć”.\n\nDobre słuchanie to umiejętność, której każdy może się nauczyć. To przede wszystkim uwaga: odłożyć telefon, zwrócić się twarzą do niej\ni pozwolić jej dokończyć. Nie musisz zgadzać się z każdym jej zdaniem, żeby czuła się szanowana.",
@@ -618,7 +624,9 @@
       "title": "Menopauza",
       "aliases": [
         "menopauza",
-        "zmiana"
+        "przekwitanie",
+        "klimakterium",
+        "uderzenia gorąca"
       ],
       "glance": "Menopauza to okres, w którym miesiączki ustają na stałe — jest to naturalny etap, który zwykle następuje między 45. a 55. rokiem życia.",
       "overview": "Menopauza to moment, w którym miesiączki ustają na stałe. Ponieważ miesiączki mogą początkowo pojawiać się i znikać przez\npewien czas, za moment osiągnięcia menopauzy uznaje się okres 12 kolejnych miesięcy bez miesiączki. Zazwyczaj\nwystępuje ona między 45. a 55. rokiem życia, choć może nastąpić wcześniej lub później.\n\nJest to naturalny element procesu starzenia się, a nie choroba. Następuje w wyniku zmniejszania się aktywności jajników i spadku poziomu\nestrogenu — kluczowego hormonu cyklu miesiączkowego. Ta zmiana hormonalna jest przyczyną zmian, które wiele\nosób zauważa: uderzeń gorąca i nocnych potów, zmian w przebiegu miesiączek w okresie poprzedzającym menopauzę, trudności z zasypianiem,\nwahania nastroju lub niepokoju, mgły umysłowej, suchości pochwy oraz bólów.\n\nDoświadczenia są bardzo zróżnicowane — niektórym kobietom przechodzi to bez problemu, dla innych jest to trudny okres, a objawy mogą utrzymywać się\nprzez kilka lat. Żadna z tych sytuacji nie oznacza, że coś jest z tobą nie tak. Istnieje wsparcie i różne możliwości, a\nzrozumienie tego, co się dzieje, jest dobrym pierwszym krokiem.",
@@ -656,9 +664,10 @@
       "title": "Poronienie",
       "aliases": [
         "poronienie",
-        "poronienie",
         "wczesna utrata ciąży",
-        "przerwanie ciąży"
+        "utrata ciąży",
+        "strata ciąży",
+        "poronienie samoistne"
       ],
       "glance": "Poronienie to utrata ciąży przed 24. tygodniem — jest to częste zjawisko i prawie nigdy nie wynika z winy kobiety.",
       "overview": "Poronienie to utrata ciąży w ciągu pierwszych 24 tygodni. Zdarza się to częściej, niż wiele osób\nsobie wyobraża, a jedną z najważniejszych rzeczy, o których należy wiedzieć, jest to, że prawie nigdy nie jest to spowodowane czymś,\nco zrobiłaś lub czego nie zrobiłaś — zazwyczaj dzieje się to z powodu problemów z przebiegiem ciąży,\nna które nikt nie ma wpływu.\n\nNajczęstszymi objawami są krwawienie z pochwy oraz skurcze lub ból w dolnej części brzucha. Krwawienie we\nwczesnej ciąży nie zawsze oznacza, że dochodzi do poronienia — wiele kobiet ma niewielkie krwawienia, a następnie\ndonosi ciążę do końca — jednak zawsze należy to zbadać.\n\nNiezależnie od tego, jak dochodzi do utraty ciąży, towarzyszące jej uczucia są prawdziwe i uzasadnione, a żal jest normalną\nreakcją. Nie musisz przechodzić przez to sama — możesz liczyć na wsparcie ze strony położnej lub lekarza pierwszego kontaktu, a także\nspecjalistycznych organizacji charytatywnych zajmujących się pomocą w przypadku utraty ciąży.",
@@ -686,7 +695,8 @@
       "title": "Owulacja",
       "aliases": [
         "owulacja",
-        "wydalenie komórki jajowej",
+        "jajeczkowanie",
+        "uwolnienie komórki jajowej",
         "okres płodności"
       ],
       "glance": "Owulacja to moment, w którym jajnik uwalnia komórkę jajową — jest to najbardziej płodny moment cyklu.",
@@ -714,11 +724,13 @@
       "title": "Łagodzenie bólu podczas porodu",
       "aliases": [
         "łagodzenie bólu podczas porodu",
-        "zewnątrzoponowy",
-        "gaz i powietrze",
+        "znieczulenie zewnątrzoponowe",
+        "zewnątrzoponówka",
+        "gaz rozweselający",
+        "podtlenek azotu",
         "Entonox",
         "łagodzenie bólu porodowego",
-        "baza danych urodzeń",
+        "poród w wodzie",
         "TENS"
       ],
       "glance": "Istnieje kilka sposobów na złagodzenie bólu porodowego — nie ma tu dobrych ani złych wyborów, więc możesz zachować elastyczność.",
@@ -732,8 +744,8 @@
       "aliases": [
         "PCOS",
         "zespół policystycznych jajników",
-        "zespół policystycznych jajników",
-        "zespół policystycznych jajników"
+        "policystyczne jajniki",
+        "PCO"
       ],
       "glance": "PCOS jest powszechną zaburzeniem hormonalnym, które może wpływać na miesiączki, owulację, skórę i włosy.",
       "overview": "PCOS — zespół policystycznych jajników — to powszechna dolegliwość związana z równowagą\nhormonów rozrodczych. Szacuje się, że dotyka ona około 1 na 10 kobiet w wieku rozrodczym, a u wielu\nosób cierpiących na tę dolegliwość nigdy nie zostaje ona zdiagnozowana.\n\nMoże ona objawiać się na różne sposoby i u każdej osoby przebieg jest nieco inny. Do typowych objawów należą:\nnieregularne, rzadkie lub brak miesiączki; podwyższony poziom hormonów zwanych androgenami,\nco może prowadzić do nadmiernego owłosienia na twarzy lub ciele, trądziku lub przerzedzania się włosów na głowie; oraz\njajniki, które nie uwalniają komórki jajowej tak regularnie jak zwykle, co może utrudniać poczęcie.\nCzęsto występują również wahania wagi i ciemniejsze plamy na skórze.\n\nDokładna przyczyna nie jest w pełni poznana i nie ma lekarstwa — jednak objawy można łagodzić, a\nzrozumienie tego, co się dzieje, jest pierwszym krokiem. Zespół policystycznych jajników (PCOS) jest powszechny i można sobie z nim radzić; nie jest to coś, czego\nnależy się wstydzić.",
@@ -746,7 +758,9 @@
       "aliases": [
         "okres okołomenopauzalny",
         "okres przejściowy menopauzy",
-        "zmiana"
+        "perimenopauza",
+        "premenopauza",
+        "przekwitanie"
       ],
       "glance": "Okres okołomenopauzalny to faza przejściowa poprzedzająca menopauzę, w której dochodzi do zmian w cyklu miesiączkowym i poziomie hormonów.",
       "overview": "Okres okołomenopauzalny to czas poprzedzający menopauzę — lata „wokół menopauzy”. Rozpoczyna się\nw momencie, gdy po raz pierwszy zauważysz zmiany, i trwa do upływu pełnego roku od ostatniej miesiączki, kiedy to\nnastępuje menopauza. Może trwać kilka lat.\n\nW tym czasie jajniki stopniowo wytwarzają mniej estrogenu, a jego poziom waha się w sposób mniej\nprzewidywalny niż wcześniej. Najczęstszym wczesnym objawem są zmiany w cyklu miesiączkowym — miesiączki stają się częstsze\nlub rzadsze, mniej obfite lub bardziej obfite. Wiele objawów związanych z menopauzą, takich jak\nuderzenia gorąca, zaburzenia snu lub wahania nastroju, może pojawić się już w tym okresie, kiedy nadal występują miesiączki.\n\nPonieważ proces ten przebiega stopniowo i jest bardzo zróżnicowany, okres okołomenopauzalny może budzić dezorientację — zmiany nie pojawiają się\nnaraz ani w tej samej kolejności u wszystkich kobiet. Świadomość, że ta faza ma swoją nazwę i że jest to\nnormalny proces przejściowy, może pomóc w jej zrozumieniu.",
@@ -759,10 +773,10 @@
       "aliases": [
         "bóle menstruacyjne",
         "skurcze menstruacyjne",
-        "skurcze",
-        "bóle menstruacyjne",
+        "bolesne miesiączkowanie",
+        "dysmenorrhoea",
         "bolesne miesiączki",
-        "bolesne miesiączki"
+        "ból brzucha przy okresie"
       ],
       "glance": "Bóle menstruacyjne to skurcze w dolnej części brzucha występujące w okresie miesiączki — są one powszechne i często stanowią normalną część cyklu.",
       "overview": "Ból menstruacyjny to skurcze i uczucie bólu w dolnej części brzucha, które odczuwa wiele osób w okresie\nmiesiączki. Pojawia się on, gdy mięśniowa ściana macicy napina się, i często stanowi normalną część\ncyklu miesiączkowego. Jego medyczna nazwa to dysmenorrhea.\n\nZazwyczaj pojawia się na początku miesiączki lub tuż przed nią i trwa zazwyczaj do około\ntrzech dni. Dla niektórych jest to łagodne uczucie ciężkości, dla innych skurcze są silniejsze. Ból może również\nzmieniać się w ciągu życia oraz z cyklu na cykl.\n\nBóle menstruacyjne o tym typowym przebiegu są powszechne i zazwyczaj można je złagodzić. Wiele osób stosuje codzienne środki\nzwiększające komfort oraz proste leki przeciwbólowe, a farmaceuta lub lekarz rodzinny może doradzić, co\nmoże być dla Ciebie odpowiednie. Ważne jest, abyś znała swój typowy przebieg cyklu — dzięki temu będziesz w stanie zauważyć, jeśli coś\nsię zmieni.",
@@ -774,7 +788,8 @@
       "title": "Planowanie ciąży",
       "aliases": [
         "planowanie ciąży",
-        "przedstawienie",
+        "okres przedkoncepcyjny",
+        "staranie się o dziecko",
         "próby zajścia w ciążę",
         "przed ciążą",
         "przygotowania do ciąży"
@@ -789,10 +804,10 @@
       "title": "Depresja poporodowa",
       "aliases": [
         "depresja poporodowa",
-        "depresja poporodowa",
-        "PND",
-        "depresja poporodowa",
-        "depresja poporodowa"
+        "depresja po porodzie",
+        "baby blues",
+        "smutek poporodowy",
+        "PND"
       ],
       "glance": "Depresja poporodowa to powszechne, uleczalne obniżenie nastroju występujące po porodzie — to nie twoja wina, a pomoc jest dostępna.",
       "overview": "Złe samopoczucie, niepokój lub drażliwość w pierwszych kilku tygodniach po porodzie to zjawisko bardzo powszechne — często\nnazywa się to „baby blues” i zazwyczaj mija samoistnie w ciągu około dwóch tygodni.\n\nDepresja poporodowa to coś innego: gorszy nastrój, który jest głębszy lub trwa dłużej. Jest to powszechny stan,\nktóry może pojawić się w dowolnym momencie pierwszego roku życia dziecka i może dotknąć również ojców oraz partnerów. Objawy obejmują\nutrzymujące się obniżenie nastroju, trudności w czerpaniu radości z czegokolwiek, problemy ze snem nawet wtedy, gdy dziecko śpi,\na czasem również trudne odczucia związane z nawiązywaniem więzi z dzieckiem.\n\nCierpienie na tę dolegliwość **nie** oznacza, że jesteś złym rodzicem ani że nie kochasz swojego dziecka — to choroba,\na nie porażka, i dobrze reaguje na wsparcie oraz leczenie. Wczesne zwrócenie się o pomoc to mądry i troskliwy\nkrok, zarówno dla ciebie, jak i dla twojego dziecka.",
@@ -804,9 +819,10 @@
       "title": "Stan przedrzucawkowy",
       "aliases": [
         "stan przedrzucawkowy",
-        "stan przedrzucawkowy",
+        "preeklampsja",
+        "zatrucie ciążowe",
         "nadciśnienie tętnicze w ciąży",
-        "toksemia"
+        "gestoza"
       ],
       "glance": "Stan przedrzucawkowy to podwyższone ciśnienie krwi w ciąży — często początkowo przebiegające bezobjawowo, dlatego tak ważne są badania prenatalne.",
       "overview": "Stan przedrzucawkowy to schorzenie występujące w ciąży, objawiające się głównie wysokim ciśnieniem krwi oraz\nobecnością białka w moczu. Zazwyczaj pojawia się od około 20. tygodnia ciąży, a czasami dopiero po porodzie.\n\nJedną z najważniejszych rzeczy, o których należy wiedzieć, jest to, że we wczesnym stadium często nie powoduje ona **żadnych objawów** —\nmożesz czuć się zupełnie dobrze. Właśnie dlatego położna sprawdza ciśnienie krwi i bada\nmocz podczas każdej rutynowej wizyty przedporodowej: dzięki tym badaniom zwykle wykrywa się ten stan,\nzanim sama cokolwiek zauważysz.\n\nWarto znać objawy, gdy już się pojawią, ponieważ stan przedrzucawkowy może stać się poważny zarówno dla Ciebie,\njak i dla Twojego dziecka. Jest on bardzo uleczalny, jeśli zostanie wcześnie wykryty, a regularne wizyty prenatalne to\nnajlepszy sposób, aby wykryć go na czas.",
@@ -819,10 +835,10 @@
       "aliases": [
         "ciąża",
         "bycie w ciąży",
-        "oczekując",
-        "ciąża",
+        "spodziewam się dziecka",
         "trymestry",
-        "termin płatności",
+        "termin porodu",
+        "który tydzień ciąży",
         "w którym tygodniu ciąży"
       ],
       "glance": "Ciąża trwa zazwyczaj około 40 tygodni, licząc od pierwszego dnia ostatniej miesiączki.",
@@ -836,8 +852,9 @@
       "aliases": [
         "test ciążowy",
         "domowy test ciążowy",
-        "hCG test",
-        "test ciążowy"
+        "test hCG",
+        "beta hCG",
+        "zrobić test ciążowy"
       ],
       "glance": "Domowy test ciążowy bada mocz pod kątem obecności hormonu ciążowego (hCG) — jest on najbardziej wiarygodny od momentu pierwszej opóźnionej miesiączki.",
       "overview": "Domowy test ciążowy działa na zasadzie wykrywania hormonu zwanego hCG (ludzka gonadotropina kosmówkowa) w\nmoczu. Organizm zaczyna go wytwarzać kilka dni po zagnieżdżeniu się zapłodnionej komórki jajowej, a jego stężenie\nszybko rośnie we wczesnej ciąży.\n\nTest jest najbardziej wiarygodny od **pierwszego dnia opóźnienia miesiączki** — mniej więcej dwa tygodnie po\npoczęciu. Jeśli cykl jest nieregularny lub nie masz pewności, kiedy powinna pojawić się miesiączka, poczekanie co\nnajmniej 21 dni od stosunku bez zabezpieczenia zapewni bardziej wiarygodny wynik. Nie musisz wykonywać testu\nzaraz rano; można to zrobić o dowolnej porze dnia.\n\nWynik **pozytywny** jest prawie na pewno prawidłowy — bardzo rzadko zdarza się, by test wykazał wynik pozytywny, gdy nie\njesteś w ciąży. Wynik **negatywny** jest nieco mniej pewny: jeśli miesiączka nadal nie nadchodzi, a\nsądzisz, że możesz być w ciąży, poczekaj kilka dni i wykonaj test ponownie.",
@@ -849,10 +866,10 @@
       "title": "Przedwczesny poród",
       "aliases": [
         "przedwczesny poród",
-        "przedwczesny poród",
         "poród przedwczesny",
-        "poród przedwczesny",
-        "wczesna faza porodu",
+        "przedwczesne skurcze",
+        "wcześniactwo",
+        "zagrażający poród przedwczesny",
         "przedwczesne pęknięcie wód płodowych"
       ],
       "glance": "Poród przedwczesny to poród przed 37. tygodniem ciąży — należy działać szybko, ponieważ wczesna opieka ma ogromne znaczenie.",
@@ -927,7 +944,7 @@
         "zdrowy związek",
         "znaki ostrzegawcze",
         "gdzie uzyskać pomoc",
-        "nadużycie"
+        "przemoc"
       ],
       "glance": "Miłość opiera się na szacunku i wolności — kontrola, zazdrość i presja nie są miłością, a pomoc istnieje.",
       "overview": "Zdrowy związek opiera się na szacunku, zaufaniu, równości i wolności: to dwoje ludzi, z których każde zachowuje swoje\nprzyjaźnie, wybory i przestrzeń. Kontrola jest tego przeciwieństwem. Często kryje się za słowami o miłości lub\nzazdrości – „Sprawdzam twój telefon, bo mi zależy”, „Nie chcę, żebyś się z nimi spotykała, bo cię kocham” – ale\nw efekcie zawęża jej świat i ogranicza jej wolność.\n\nKontrola rzadko zaczyna się od przemocy. Zwykle zaczyna się od drobiazgów — krytyki, przekroczonej granicy,\n„żartu”, który rani — i narasta. Ważne jest, by nazwać ją wcześnie, ponieważ kontrola przymusowa sama w sobie jest formą\nprzemocy i sygnałem ostrzegawczym, że może być gorzej. Nie chodzi tu o poczucie winy; chodzi o szczerość i zmianę.",
@@ -939,10 +956,10 @@
       "title": "Opracowanie planu bezpieczeństwa",
       "aliases": [
         "plan bezpieczeństwa",
-        "dbaj o bezpieczeństwo",
-        "dbaj o bezpieczeństwo",
+        "jak zachować bezpieczeństwo",
+        "jak się chronić",
         "planowanie bezpieczeństwa",
-        "bezpieczne opuszczenie"
+        "bezpieczne odejście"
       ],
       "glance": "Plan bezpieczeństwa to kilka praktycznych kroków, które pomogą Ci zapewnić sobie większe bezpieczeństwo — a wykwalifikowani specjaliści mogą pomóc Ci go opracować.",
       "overview": "Plan bezpieczeństwa to po prostu przemyślenie z wyprzedzeniem, jak zapewnić sobie (i ewentualnym dzieciom) większe bezpieczeństwo. Nie chodzi tu o decyzję, czy odejść, czy zostać — chodzi o to, by być nieco lepiej przygotowaną, niezależnie od tego, co wybierzesz.\n\nNiektórym osobom pomaga dyskretne przygotowanie kilku rzeczy: zaufana osoba, która wie, co się dzieje, ważne dokumenty i numery kontaktowe, mała torba z niezbędnymi rzeczami, wiedza o najbezpieczniejszych drogach ucieczki z domu lub słowo lub sygnał, które poinformują kogoś, że potrzebujesz pomocy. To, co ma sens, zależy całkowicie od Twojej własnej sytuacji.\n\nNie musisz radzić sobie z tym sama, a często bezpieczniej jest tego nie robić. Organizacje zajmujące się przeciwdziałaniem przemocy mają doświadczenie w opracowywaniu planów bezpieczeństwa wraz z osobami dotkniętymi przemocą – w sposób poufny i bezpłatny – w tym planów dotyczących okresu przed odejściem i tuż po nim, który może wiązać się z większym ryzykiem i warto go zaplanować z pomocą, a nie w pośpiechu.",
@@ -1005,11 +1022,12 @@
       "title": "Objawy porodu",
       "aliases": [
         "objawy porodu",
-        "praca",
+        "początek porodu",
         "rozpoczęcie porodu",
-        "skurcze",
-        "odchodzenie wód płodowych",
-        "program",
+        "skurcze porodowe",
+        "odejście wód płodowych",
+        "czop śluzowy",
+        "odejście czopu śluzowego",
         "faza utajona"
       ],
       "glance": "Oznaki rozpoczynającego się porodu to między innymi regularne skurcze, pojawienie się śluzu, ból pleców lub pęknięcie błon płodowych.",
@@ -1064,9 +1082,10 @@
     "stalking": {
       "title": "Prześladowanie",
       "aliases": [
-        "prześladowanie",
+        "stalking",
+        "uporczywe nękanie",
+        "nękanie",
         "bycie prześladowaną",
-        "molestowanie",
         "niechciana uwaga",
         "ktoś mnie śledzi",
         "cyberstalking"
@@ -1098,7 +1117,8 @@
         "stres i miesiączki",
         "stres",
         "brak miesiączki",
-        "późny okres",
+        "spóźniony okres",
+        "opóźnienie miesiączki",
         "dlaczego mam opóźnienie w miesiączce"
       ],
       "glance": "Stres, znaczne wahania wagi lub intensywne ćwiczenia fizyczne mogą opóźnić lub zatrzymać miesiączkę — często tylko na jakiś czas.",
@@ -1110,9 +1130,9 @@
     "supporting-her-period": {
       "title": "Wspieranie jej podczas okresu",
       "aliases": [
-        "pomaga podczas okresu",
-        "wsparcie okresowe dla partnerów",
-        "opieka okresowa"
+        "pomoc podczas jej okresu",
+        "wsparcie partnera podczas miesiączki",
+        "jak jej pomóc podczas okresu"
       ],
       "glance": "Miesiączka może wiązać się z prawdziwym bólem i zmęczeniem – niewielka, praktyczna pielęgnacja robi dużą różnicę.",
       "overview": "Okres to nie tylko kilka dni krwawienia; u wielu kobiet wiąże się ze skurczami, bólem pleców, bólami głowy,\nzmęczeniem i brakiem energii. Ból miesiączkowy jest częsty i może naprawdę wyczerpywać – to nie jest\nprzesada. Traktuj to tak, jak traktowałbyś partnerkę, która źle się czuje: z praktyczną życzliwością.\n\nTraktuj to też jako coś normalnego. Miesiączka nie jest obrzydliwa, wstydliwa ani nie jest tematem tabu. Swobodne kupowanie podpasek czy\ntamponów, trzymanie ich zapasu w domu albo podanie jej termoforu bez robienia z tego problemu pokazuje jej, że jest bezpieczna i\nmoże liczyć na Twoje wsparcie.",
@@ -1158,9 +1178,9 @@
       "title": "Dni przedmiesiączkowe",
       "aliases": [
         "PMS dla partnerów",
-        "wspierając ją przed okresem",
+        "wspieranie jej przed okresem",
         "wsparcie przedmiesiączkowe",
-        "wsparcie fazy lutealnej"
+        "wsparcie w fazie lutealnej"
       ],
       "glance": "W dniach poprzedzających okres może czuć się bardziej zmęczona, rozdrażniona lub przygnębiona – traktuj to cierpliwie, a nie żartując.",
       "overview": "Mniej więcej na tydzień przed miesiączką wiele osób odczuwa objawy napięcia przedmiesiączkowego: zmiany nastroju, drażliwość\nlub przygnębienie, zmęczenie, ból piersi, wzdęcia, bóle głowy lub problemy ze snem. To bardzo częste\ni całkowicie realne — wynika z naturalnych zmian hormonalnych w fazie lutealnej, a nie z tego, że ona „przesadza”.\n\nU mniejszej liczby osób obniżony nastrój jest bardzo nasilony (stan zwany PMDD) i wymaga prawdziwego\nwsparcia oraz opieki medycznej. Tak czy inaczej, Twoim zadaniem nie jest diagnozowanie jej ani „naprawianie” – masz być spokojny i\nżyczliwy.\n\nNajbardziej krzywdzące, co partner może zrobić, to używać tego przeciwko niej: „to tylko twój PMS”, przewracanie oczami\nczy uznawanie jej uczuć za nieważne z powodu dnia cyklu. To ją lekceważy i dokłada bólu w i tak trudnym\ntygodniu. Jej uczucia nadal się liczą, nawet jeśli hormony odgrywają tu pewną rolę.",
@@ -1172,11 +1192,12 @@
       "title": "Ciąża bliźniacza i wielokrotna",
       "aliases": [
         "bliźniaki",
+        "bliźnięta",
         "ciąża bliźniacza",
         "ciąża mnogowa",
         "spodziewam się bliźniąt",
         "bliźniaki jednojajowe",
-        "bliźniaki nieidentyczne",
+        "bliźniaki dwujajowe",
         "trojaczki"
       ],
       "glance": "Ciąża bliźniacza jest zazwyczaj wykrywana po raz pierwszy podczas badania USG w ramach ustalenia wieku ciążowego i wiąże się z nieco większym nakładem opieki prenatalnej.",
@@ -1218,8 +1239,8 @@
         "zdrowie pochwy",
         "zdrowie sromu",
         "higiena intymna",
-        "utrzymywanie czystości",
-        "płukanie pochwy",
+        "higiena okolic intymnych",
+        "irygacja pochwy",
         "upławy"
       ],
       "glance": "Pochwa sama się oczyszcza — wystarczy delikatna pielęgnacja zewnętrzna, a wydzielina jest zjawiskiem normalnym.",

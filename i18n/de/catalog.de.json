@@ -12,7 +12,8 @@
         "Alkohol in der Schwangerschaft",
         "Alkoholkonsum in der Schwangerschaft",
         "Alkohol und Schwangerschaft",
-        "fötaler Alkohol",
+        "fetales Alkoholsyndrom",
+        "FAS",
         "FASD"
       ],
       "glance": "Am sichersten ist es, während der Schwangerschaft oder bei der Planung einer Schwangerschaft ganz auf Alkohol zu verzichten.",
@@ -25,10 +26,10 @@
       "title": "Schwangerschaftsvorsorge",
       "aliases": [
         "Schwangerschaftsvorsorge",
-        "Schwangerschaftsvorsorge",
-        "Schwangerschaftsvorsorge",
+        "Vorsorgeuntersuchungen in der Schwangerschaft",
         "Termine bei der Hebamme",
-        "Termin vereinbaren",
+        "Erstuntersuchung Schwangerschaft",
+        "Mutterpass",
         "Schwangerschaftsvorsorgetermine"
       ],
       "glance": "Die Schwangerschaftsvorsorge umfasst regelmäßige Vorsorgeuntersuchungen während der Schwangerschaft, die dazu beitragen, dass es Ihnen und Ihrem Baby gut geht.",
@@ -41,11 +42,11 @@
       "title": "Die Bewegungen Ihres Babys",
       "aliases": [
         "Bewegungen des Babys",
-        "Bewegungen des Babys",
         "Kindsbewegungen",
         "Tritte",
         "spüren, wie sich das Baby bewegt",
-        "eingeschränkte Bewegungsfähigkeit"
+        "weniger Kindsbewegungen",
+        "Baby bewegt sich weniger"
       ],
       "glance": "Wenn Sie spüren, wie sich Ihr Baby bewegt, ist das ein Zeichen dafür, dass es ihm gut geht – sollten die Bewegungen nachlassen oder sich verändern, rufen Sie sofort Ihre Hebamme an.",
       "overview": "Die Bewegungen Ihres Babys zu spüren, ist eines der beruhigenden Anzeichen dafür, dass es ihm gut geht. Die meisten Frauen beginnen,\ndie Bewegungen irgendwo zwischen der 16. und 24. Schwangerschaftswoche zu spüren – bei einer ersten Schwangerschaft oft erst später, sodass\nes bei der ersten Schwangerschaft häufig erst nach der 20. Woche der Fall ist.\n\nEs gibt keine festgelegte Anzahl von Bewegungen, die man „spüren sollte“, und es ist nicht nötig, die Tritte anhand einer Zielvorgabe zu zählen.\nJedes Baby ist anders, und wichtig ist, dass Sie das für **Ihr** Baby typische Verhaltensmuster\nim Laufe des Tages kennenlernen – die Zeiten, in denen es aktiv ist, und die Zeiten, in denen es ruhig ist.\n\nSobald Sie dieses Muster kennen, sollten Sie auf Abweichungen davon achten. Vertrauen Sie auf das, was Sie\nüber Ihr eigenes Baby wissen.",
@@ -57,9 +58,9 @@
       "title": "Rückenschmerzen in der Schwangerschaft",
       "aliases": [
         "Rückenschmerzen in der Schwangerschaft",
-        "Rückenschmerzen in der Schwangerschaft",
-        "Rückenschmerzen in der Schwangerschaft",
-        "Rückenschmerzen in der Schwangerschaft"
+        "Kreuzschmerzen in der Schwangerschaft",
+        "Schmerzen im unteren Rücken schwanger",
+        "Rückenschmerzen schwanger"
       ],
       "glance": "Rückenschmerzen treten in der Schwangerschaft sehr häufig auf, da sich die Bänder lockern und der Bauch wächst – in der Regel sind sie harmlos.",
       "overview": "Rückenschmerzen gehören zu den häufigsten Begleiterscheinungen einer Schwangerschaft. Während sich Ihr Körper auf die Geburt vorbereitet,\nwerden die Bänder auf natürliche Weise weicher und dehnen sich aus, und Ihr wachsender Bauch verändert die Gewichtsverteilung –\nbeides belastet Ihren unteren Rücken und Ihr Becken zusätzlich.\n\nAlltägliche Maßnahmen können Abhilfe schaffen: Achten Sie auf Ihre Körperhaltung beim Stehen, Sitzen und Heben;\ntragen Sie flache, stützende Schuhe; nutzen Sie eine feste Matratze oder ein stützendes Kissen; und sorgen Sie für sanfte, regelmäßige Bewegung\nwie Spazierengehen, Schwangerschaftsyoga oder Übungen aus einem Kurs. Wenn die Beschwerden wirklich störend sind, kann ein\ngeburtshilflicher Physiotherapeut Ihnen maßgeschneiderte Ratschläge geben.\n\nDie meisten Rückenschmerzen während der Schwangerschaft sind kein Grund zur Sorge – doch bei einigen Symptomen lohnt es sich,\nunverzüglich einen Arzt aufzusuchen, wozu die folgenden Hinweise dienen.",
@@ -73,7 +74,8 @@
         "bbt",
         "Basaltemperatur",
         "Temperatur beim Aufwachen",
-        "Temperaturverfahren"
+        "Temperaturmethode",
+        "Aufwachtemperatur"
       ],
       "glance": "Die Basaltemperatur ist Ihre morgendliche Ruhe-Körpertemperatur, die nach dem Eisprung leicht ansteigt.",
       "overview": "Die Basaltemperatur (BBT) ist die Temperatur Ihres Körpers im Zustand völliger Ruhe. Wird sie jeden\nTag auf die gleiche Weise gemessen, zeigt sie im Verlauf des Zyklus eine kleine, aber aussagekräftige Veränderung: Nach dem Eisprung steigt sie leicht an und\nbleibt bis zu Ihrer nächsten Periode erhöht.\n\nDer Anstieg ist gering – etwa 0,4 bis 0,8 °F (etwa 0,2 bis 0,4 °C) –, daher lässt er sich erst anhand eines Musters über\nmehrere Tage hinweg erkennen, nicht anhand eines einzelnen Messwerts. Um ihn zu erkennen, messen Sie Ihre Temperatur jeden Morgen, bevor\nSie aufstehen, etwas essen oder trinken, idealerweise immer zur gleichen Zeit. Bei fast allen Frauen hat der Eisprung spätestens etwa\ndrei Tage nach Beginn des Temperaturanstiegs bereits stattgefunden.\n\nDa der Anstieg *nach* der Freisetzung der Eizelle eintritt, bestätigt „BBT“, dass der Eisprung stattgefunden hat,\nanstatt ihn im Voraus vorherzusagen. Über mehrere Zyklen hinweg kann es dir helfen, den Verlauf deines eigenen Zyklus zu erkennen,\nauch wenn es für sich genommen keine präzise Methode ist, um die fruchtbaren Tage zu bestimmen.",
@@ -86,7 +88,7 @@
       "aliases": [
         "Blutungen in der Schwangerschaft",
         "Vaginalblutungen während der Schwangerschaft",
-        "Blutungen in der Schwangerschaft",
+        "Schmierblutung in der Schwangerschaft",
         "Blutungen während der Schwangerschaft"
       ],
       "glance": "Blutungen während der Schwangerschaft sind nicht immer ernst zu nehmen – leichte Schmierblutungen treten zu Beginn häufig auf –, doch lassen Sie dies auf jeden Fall untersuchen.",
@@ -114,10 +116,10 @@
       "title": "Stillen",
       "aliases": [
         "Stillen",
-        "Pflege",
+        "Brust geben",
         "Muttermilch",
-        "Stillen",
-        "Das Füttern Ihres Babys"
+        "Stillzeit",
+        "das Baby füttern"
       ],
       "glance": "Muttermilch schützt ein Baby vor Infektionen und passt sich seinem Wachstum an – und jede Menge davon hat Vorteile.",
       "overview": "Muttermilch ist eine natürliche, vollwertige Nahrung für Babys: Sie liefert die Nährstoffe, Vitamine und Mineralstoffe,\ndie sie benötigen, und passt sich im Laufe der Zeit an die jeweilige Entwicklungsphase des Kindes an. Außerdem schützt sie vor Infektionen\nund Krankheiten und bietet einige langfristige gesundheitliche Vorteile.\n\nAuch für die stillende Mutter gibt es Vorteile – Stillen wird unter anderem mit einem geringeren Risiko für Brust-\nund Eierstockkrebs in Verbindung gebracht – und generell gilt: Je häufiger und länger Sie\nstillen, desto größer sind die Vorteile. Wichtig ist, dass **jede** Menge Muttermilch wertvoll ist; es ist\nkein „Alles-oder-Nichts“.\n\nDas Stillen eines Babys kann anfangs auch schwieriger sein als erwartet, und das ist ganz normal. Es gibt Hilfe – von\nIhrer Hebamme, Ihrem Gesundheitsberater und Stillberatungsangeboten vor Ort – daher ist es ratsam, frühzeitig Kontakt aufzunehmen, wenn es nicht\nreibungslos läuft.",
@@ -162,9 +164,11 @@
       "aliases": [
         "Gebärmutterhalskrebs-Früherkennung",
         "Abstrich",
-        "Schmierfleck",
+        "Krebsabstrich",
         "Pap-Test",
-        "Pap-Abstrich"
+        "Pap-Abstrich",
+        "HPV-Test",
+        "Krebsvorsorge beim Frauenarzt"
       ],
       "glance": "Die Gebärmutterhalskrebsvorsorge ist eine routinemäßige Untersuchung zur Überprüfung der Gesundheit Ihres Gebärmutterhalses, die dazu beiträgt, Gebärmutterhalskrebs vorzubeugen.",
       "overview": "Die Gebärmutterhalskrebsvorsorge ist eine Untersuchung, bei der der Gesundheitszustand des Gebärmutterhalses – der Öffnung zur Gebärmutter am\noberen Ende der Scheide – überprüft wird. Es handelt sich dabei nicht um einen Krebs-Test. Vielmehr dient die Untersuchung dazu, Veränderungen frühzeitig zu erkennen und so\ndie Entstehung von Gebärmutterhalskrebs von vornherein zu verhindern.\n\nAlle Personen mit einem Gebärmutterhals im Alter von 25 bis 64 Jahren werden dazu eingeladen. Sie erhalten in regelmäßigen Abständen eine Einladung, wenn\nder Termin ansteht, sodass Sie nicht daran denken müssen, spontan einen Termin zu vereinbaren –\nobwohl es immer Ihre Entscheidung ist, ob Sie hingehen möchten.\n\nDie Untersuchung selbst ist schnell und wird von einer Krankenschwester durchgeführt. Viele Menschen sind dabei etwas nervös, was\nvöllig verständlich ist; wenn man weiß, wozu sie dient – eine routinemäßige Vorsorgeuntersuchung –, fällt es einem vielleicht\nleichter, damit umzugehen.",
@@ -177,10 +181,10 @@
       "aliases": [
         "Kindesmissbrauch",
         "Kindesmisshandlung",
-        "Kindersicherheit",
+        "Kinderschutz",
         "Schutz eines Kindes",
         "Sorgen um ein Kind",
-        "vernachlässigen"
+        "Vernachlässigung"
       ],
       "glance": "Wenn Sie befürchten, dass einem Kind Schaden zugefügt wird oder es vernachlässigt wird, ist es richtig, Rat einzuholen – Sie müssen sich nicht sicher sein.",
       "overview": "Kindesmissbrauch – oder Kindesmisshandlung – ist die Schädigung von Personen unter 18 Jahren. Dazu gehören körperlicher, sexueller und seelischer Missbrauch sowie Vernachlässigung (die Nichtbefriedigung der Grundbedürfnisse eines Kindes). Leider kommt dies häufig vor, kann lebenslange Schäden verursachen und ist niemals die Schuld des Kindes.\n\nVielleicht machst du dir Sorgen um ein Kind in deinem Umfeld oder um ein Kind, das dir aufgefallen ist. Du musst dir nicht sicher sein oder Beweise haben, um auf diese Sorge zu reagieren – darauf zu vertrauen und um Rat zu fragen, ist genau das Richtige, und es kann ein Kind schützen.\n\nUnd falls du selbst als Kind Missbrauch erlebt hast: Sei dir bewusst, dass das, was dir widerfahren ist, niemals deine Schuld war und dass auch für dich Unterstützung verfügbar ist – egal in welchem Alter.",
@@ -242,8 +246,9 @@
         "Kondom",
         "Kondome",
         "externes Kondom",
-        "Gummi",
-        "Barriere-Methode"
+        "Präservativ",
+        "Pariser",
+        "Barrieremethode"
       ],
       "glance": "Kondome sind eine Barriereverhütungsmethode – und die einzige Verhütungsmethode, die gleichzeitig vor sexuell übertragbaren Infektionen schützt.",
       "overview": "Ein Kondom ist eine dünne Barriere – in der Regel aus Latex oder, für Menschen mit einer Latexallergie, aus einem Kunststoffersatzmaterial\n–, die beim Geschlechtsverkehr über den Penis gezogen wird. Die Funktionsweise ist einfach: Es verhindert, dass Spermien in die Scheide gelangen.\n\nDas Besondere an Kondomen unter den Verhütungsmitteln ist, dass sie **die einzige Methode sind, die auch\nvor sexuell übertragbaren Infektionen (STIs), einschließlich HIV, schützt.** Deshalb werden sie oft\nzusammen mit einer anderen Methode verwendet – eine zur Schwangerschaftsverhütung, beide zusammen zum Schutz vor Infektionen.\n\nBei korrekter Anwendung bei jedem Geschlechtsverkehr sind Kondome zu etwa 98 % wirksam bei der Verhütung einer Schwangerschaft. Bei typischer\nAnwendung – bei der sie manchmal falsch oder nicht jedes Mal verwendet werden – sinkt die Wirksamkeit auf etwa 82 %. Die\nkorrekte und konsequente Verwendung macht den Unterschied aus.",
@@ -313,7 +318,7 @@
       "title": "Dein Zyklus und dein Wohlbefinden",
       "aliases": [
         "Wohlbefinden",
-        "Radfahren und Gesundheit",
+        "Zyklus und Gesundheit",
         "Menstruationszyklus und Gesundheit",
         "Vitalzeichen"
       ],
@@ -327,9 +332,10 @@
       "title": "Ökonomische Gewalt",
       "aliases": [
         "ökonomische Gewalt",
+        "wirtschaftliche Gewalt",
         "finanzieller Missbrauch",
-        "Finanzmanagement",
-        "Finanzen im Griff behalten",
+        "Kontrolle über das Geld",
+        "finanzielle Kontrolle",
         "Schulden auf meinen Namen"
       ],
       "glance": "Wirtschaftliche Gewalt bedeutet, den Zugang einer Person zu Geld, Arbeit oder Ressourcen zu kontrollieren – eine anerkannte Form von Missbrauch.",
@@ -343,7 +349,8 @@
       "aliases": [
         "Eileiterschwangerschaft",
         "ektopisch",
-        "Eileiterschwangerschaft"
+        "Extrauteringravidität",
+        "Bauchhöhlenschwangerschaft"
       ],
       "glance": "Eine Eileiterschwangerschaft entwickelt sich außerhalb der Gebärmutter – sie kann nicht weiterbestehen und erfordert sofortige medizinische Versorgung.",
       "overview": "Eine Eileiterschwangerschaft liegt vor, wenn sich eine befruchtete Eizelle außerhalb der Gebärmutter einnistet, meist in einem der\nEileiter. Leider kann sich eine Schwangerschaft an dieser Stelle nicht zu einem Baby entwickeln und sie kann auch nicht\nin die Gebärmutter verlagert werden – daher muss sie immer behandelt werden.\n\nDie Anzeichen treten in der Regel zwischen der 4. und 12. Woche auf und können unter anderem Schmerzen im Unterbauch auf einer Seite,\nVaginalblutungen oder einen braunen, wässrigen Ausfluss, Schmerzen in der Schulterspitze oder Beschwerden beim\nUrinieren oder Stuhlgang umfassen. Die Kombination der Symptome ist unterschiedlich, und manche lassen sich leicht mit einer harmlosen Erkrankung verwechseln,\nweshalb eine Untersuchung wichtig ist.\n\nEs handelt sich um eine seltene, aber potenziell schwerwiegende Situation, daher sollte man nicht abwarten. Eine\nfrühzeitige Beratung ermöglicht eine sichere Behandlung.",
@@ -356,8 +363,8 @@
       "aliases": [
         "Notfallverhütung",
         "Pille danach",
-        "Pille danach",
-        "Pille danach",
+        "Notfallkontrazeption",
+        "Notfallpille",
         "Levonelle",
         "ellaOne"
       ],
@@ -450,7 +457,7 @@
       "title": "Folsäure und Vitamine in der Schwangerschaft",
       "aliases": [
         "Folsäure",
-        "Folsäure",
+        "Folat",
         "Vitamin D in der Schwangerschaft",
         "Vitamine für Schwangere",
         "Nahrungsergänzungsmittel in der Schwangerschaft"
@@ -505,8 +512,10 @@
       "title": "Schwangerschaftsdiabetes",
       "aliases": [
         "Schwangerschaftsdiabetes",
-        "Schwangerschaftsdiabetes",
-        "Hoher Blutzucker in der Schwangerschaft"
+        "Gestationsdiabetes",
+        "Diabetes in der Schwangerschaft",
+        "Hoher Blutzucker in der Schwangerschaft",
+        "Zuckertest Schwangerschaft"
       ],
       "glance": "Schwangerschaftsdiabetes ist ein erhöhter Blutzuckerspiegel während der Schwangerschaft – er wird in der Regel durch Vorsorgeuntersuchungen festgestellt und klingt oft nach der Geburt wieder ab.",
       "overview": "Schwangerschaftsdiabetes ist ein erhöhter Blutzucker (Glukose), der während der Schwangerschaft auftritt, wenn der Körper\nden zusätzlichen Insulinbedarf nicht ganz decken kann. Bei den meisten Betroffenen verschwindet er wieder, nachdem das\nBaby geboren wurde.\n\nEr verursacht in der Regel **keine Symptome**, sodass er durch einen im Rahmen der Schwangerschaft angebotenen Vorsorge-Test\n(ein Glukosetoleranztest, oft zwischen der 24. und 28. Woche) erkannt wird, insbesondere wenn bei Ihnen Faktoren vorliegen, die das\nRisiko erhöhen – wie Übergewicht, Diabetes in der Familie, ein zuvor geborenes großes Baby oder bestimmte\nethnische Hintergründe.\n\nDie Erkrankung ist sehr gut behandelbar. Wenn Sie Ihren Blutzucker in einem gesunden Bereich halten – durch Ernährung, Bewegung und manchmal\nMedikamente, alles unter Anleitung Ihres Betreuungsteams –, senken Sie das Risiko von Komplikationen für sich und Ihr Baby,\nweshalb es sich lohnt, dies im Auge zu behalten.",
@@ -550,7 +559,7 @@
       "aliases": [
         "Sodbrennen in der Schwangerschaft",
         "Verdauungsbeschwerden in der Schwangerschaft",
-        "Sodbrennen in der Schwangerschaft",
+        "saures Aufstoßen in der Schwangerschaft",
         "Reflux"
       ],
       "glance": "Sodbrennen tritt in der Schwangerschaft sehr häufig auf – es ist in der Regel harmlos und lässt sich oft durch kleine Änderungen im Alltag lindern.",
@@ -564,8 +573,8 @@
       "aliases": [
         "starke Regelblutungen",
         "Menorrhagie",
+        "Hypermenorrhö",
         "starke Menstruationsblutungen",
-        "Überschwemmung",
         "starke Blutungen",
         "Blutgerinnsel"
       ],
@@ -618,7 +627,8 @@
       "title": "Wechseljahre",
       "aliases": [
         "Wechseljahre",
-        "die Veränderung"
+        "Klimakterium",
+        "Hitzewallungen"
       ],
       "glance": "Die Menopause ist der Zeitpunkt, an dem die Menstruation endgültig ausbleibt – eine natürliche Lebensphase, die in der Regel im Alter zwischen etwa 45 und 55 Jahren eintritt.",
       "overview": "Die Menopause ist der Zeitpunkt, an dem Ihre Regelblutungen endgültig ausbleiben. Da die Regelblutungen zunächst noch eine\nWeile lang unregelmäßig auftreten können, gilt die Menopause als erreicht, sobald Sie 12 Monate in Folge keine Regelblutung mehr hatten. Sie tritt in der Regel\nim Alter zwischen etwa 45 und 55 Jahren ein, kann jedoch auch früher oder später eintreten.\n\nSie ist ein natürlicher Teil des Alterungsprozesses und keine Krankheit. Sie tritt ein, wenn die Eierstöcke ihre Funktion einstellen und der Spiegel von\nÖstrogen – einem Schlüsselhormon des Zyklus – sinkt. Diese hormonelle Umstellung ist der Grund für die Veränderungen, die viele\nMenschen bemerken: Hitzewallungen und nächtliches Schwitzen, Veränderungen der Periode im Vorfeld, Schlafstörungen,\nStimmungsschwankungen oder Ängste, „Brain Fog“, vaginale Trockenheit und Schmerzen.\n\nDie Erfahrungen variieren enorm – manche Menschen kommen problemlos damit zurecht, andere empfinden es als schwer, und die Symptome können\nmehrere Jahre andauern. Nichts davon bedeutet, dass etwas mit Ihnen nicht stimmt. Es gibt Unterstützung und Möglichkeiten, und\nzu verstehen, was vor sich geht, ist ein guter erster Schritt.",
@@ -656,9 +666,10 @@
       "title": "Fehlgeburt",
       "aliases": [
         "Fehlgeburt",
-        "Fehlgeburt",
+        "Frühabort",
+        "Schwangerschaftsverlust",
         "Frühschwangerschaftsverlust",
-        "eine Fehlgeburt"
+        "eine Schwangerschaft verlieren"
       ],
       "glance": "Eine Fehlgeburt ist der Verlust einer Schwangerschaft vor der 24. Woche – das kommt häufig vor und ist fast nie Ihre Schuld.",
       "overview": "Eine Fehlgeburt ist der Verlust einer Schwangerschaft in den ersten 24 Wochen. Sie kommt häufiger vor, als viele Menschen\nglauben, und eines der wichtigsten Dinge, die man wissen sollte, ist, dass sie fast nie durch etwas verursacht wird,\nwas Sie getan oder unterlassen haben – sie geschieht in der Regel aufgrund eines Problems bei der Entwicklung der Schwangerschaft,\nauf das niemand Einfluss hatte.\n\nDie häufigsten Anzeichen sind vaginale Blutungen sowie Krämpfe oder Schmerzen im Unterbauch. Blutungen in der\nfrühen Schwangerschaft bedeuten nicht immer, dass eine Fehlgeburt vorliegt – viele Frauen haben leichte Blutungen und\nerleben anschließend eine gesunde Schwangerschaft –, aber sie sollten immer abgeklärt werden.\n\nWie auch immer ein Verlust zustande kommt: Die damit verbundenen Gefühle sind echt und berechtigt, und Trauer ist eine normale\nReaktion. Du musst das nicht alleine durchstehen – es gibt Unterstützung, sei es durch deine Hebamme oder deinen Hausarzt oder\ndurch spezielle Hilfsorganisationen für Schwangerschaftsverluste.",
@@ -686,7 +697,8 @@
       "title": "Eisprung",
       "aliases": [
         "Eisprung",
-        "ein Ei freisetzen",
+        "Ovulation",
+        "Freisetzung der Eizelle",
         "fruchtbares Zeitfenster"
       ],
       "glance": "Der Eisprung ist der Zeitpunkt, an dem ein Eierstock eine Eizelle freisetzt – dies ist der fruchtbarste Zeitpunkt Ihres Zyklus.",
@@ -714,11 +726,12 @@
       "title": "Schmerzlinderung während der Wehen",
       "aliases": [
         "Schmerzlinderung während der Wehen",
-        "epidural",
-        "Gas und Luft",
+        "PDA",
+        "Periduralanästhesie",
+        "Lachgas",
         "Entonox",
         "Linderung von Wehenschmerzen",
-        "Geburtswanne",
+        "Wassergeburt",
         "TENS"
       ],
       "glance": "Es gibt verschiedene Möglichkeiten, die Wehenschmerzen zu lindern – es gibt keine richtige oder falsche Wahl, und Sie können flexibel bleiben.",
@@ -746,7 +759,8 @@
       "aliases": [
         "Perimenopause",
         "Wechseljahre",
-        "die Veränderung"
+        "Prämenopause",
+        "Klimakterium"
       ],
       "glance": "Die Perimenopause ist die Übergangsphase vor der Menopause, in der sich der Menstruationszyklus und der Hormonhaushalt allmählich verändern.",
       "overview": "Die Perimenopause ist der Zeitraum vor der Menopause – die Jahre „rund um die Menopause“. Sie\nbeginnt, sobald Sie die ersten Veränderungen bemerken, und dauert bis ein ganzes Jahr nach Ihrer letzten Periode an;\nab diesem Zeitpunkt haben Sie die Menopause erreicht. Sie kann mehrere Jahre andauern.\n\nWährend dieser Zeit produzieren die Eierstöcke nach und nach weniger Östrogen, und die Spiegel schwanken weniger\nvorhersehbar als zuvor. Das häufigste frühe Anzeichen ist, dass sich die Perioden verändern – sie treten\nhäufiger oder seltener auf, sind schwächer oder stärker. Viele der mit der Menopause verbundenen Symptome, wie\nHitzewallungen, Schlafstörungen oder Stimmungsschwankungen, können bereits in dieser Phase auftreten, während Sie noch Ihre Periode haben.\n\nDa dieser Prozess schrittweise verläuft und sehr unterschiedlich ist, kann die Perimenopause verwirrend sein – die Veränderungen treten nicht\nauf einmal oder bei allen Frauen in derselben Reihenfolge auf. Zu wissen, dass diese Phase einen Namen hat und dass es sich um einen\nnormalen Übergang handelt, kann helfen, sie besser einzuordnen.",
@@ -759,8 +773,8 @@
       "aliases": [
         "Regelschmerzen",
         "Regelbeschwerden",
-        "Krämpfe",
-        "Dysmenorrhö",
+        "Periodenkrämpfe",
+        "Unterleibskrämpfe",
         "Dysmenorrhö",
         "schmerzhafte Regelblutungen"
       ],
@@ -774,7 +788,8 @@
       "title": "Eine Schwangerschaft planen",
       "aliases": [
         "eine Schwangerschaft planen",
-        "Vorurteil",
+        "Kinderwunsch",
+        "präkonzeptionelle Beratung",
         "versuchen, schwanger zu werden",
         "vor der Schwangerschaft",
         "Vorbereitung auf die Schwangerschaft"
@@ -789,10 +804,10 @@
       "title": "Postnatale Depression",
       "aliases": [
         "postpartale Depression",
-        "postpartale Depression",
-        "PND",
+        "Wochenbettdepression",
+        "Depression nach der Geburt",
         "Baby-Blues",
-        "Geburtsdepression"
+        "PND"
       ],
       "glance": "Eine postnatale Depression ist eine häufige, behandelbare Niedergeschlagenheit nach der Geburt – es ist nicht Ihre Schuld, und es gibt Hilfe.",
       "overview": "In den ersten Wochen nach der Geburt ist es ganz normal, sich niedergeschlagen, ängstlich oder gereizt zu fühlen – dies\nwird oft als „Baby-Blues“ bezeichnet und verschwindet in der Regel von selbst innerhalb von etwa zwei Wochen.\n\nEine postnatale Depression ist etwas anderes: eine tiefere oder länger anhaltende Niedergeschlagenheit. Es handelt sich um eine häufige Erkrankung,\ndie zu jedem Zeitpunkt im ersten Jahr auftreten kann und auch Väter und Partner betreffen kann. Zu den Anzeichen gehören eine\nanhaltend gedrückte Stimmung, die Schwierigkeit, Freude an irgendetwas zu finden, Schlafstörungen, selbst wenn Ihr Baby schläft,\nund manchmal auch schwierige Gefühle hinsichtlich der Bindung zu Ihrem Baby.\n\nWenn Sie davon betroffen sind, bedeutet das **nicht**, dass Sie schlechte Eltern sind oder Ihr Baby nicht lieben – es ist eine Krankheit,\nkein Versagen, und sie lässt sich gut durch Unterstützung und Behandlung bewältigen. Frühzeitig Hilfe zu suchen, ist eine starke und fürsorgliche\nEntscheidung – für Sie und Ihr Baby.",
@@ -804,9 +819,9 @@
       "title": "Präeklampsie",
       "aliases": [
         "Präeklampsie",
-        "Präeklampsie",
-        "Bluthochdruck in der Schwangerschaft",
-        "Toxämie"
+        "Schwangerschaftsvergiftung",
+        "Gestose",
+        "Bluthochdruck in der Schwangerschaft"
       ],
       "glance": "Präeklampsie ist ein erhöhter Blutdruck in der Schwangerschaft – oft zunächst ohne Symptome, weshalb Vorsorgeuntersuchungen so wichtig sind.",
       "overview": "Eine Präeklampsie ist eine Schwangerschaftserkrankung, die sich vor allem durch Bluthochdruck sowie\nEiweiß im Urin äußert. Sie tritt in der Regel ab der 20. Woche auf, manchmal auch erst nach der Geburt.\n\nBesonders wichtig zu wissen ist, dass sie im Frühstadium oft **überhaupt keine Symptome** verursacht –\nSie können sich vollkommen wohl fühlen. Genau aus diesem Grund misst Ihre Hebamme Ihren Blutdruck und untersucht\nIhren Urin bei jedem routinemäßigen Schwangerschaftstermin: Durch diese Untersuchungen wird die Erkrankung in der Regel erkannt,\nbevor Sie selbst etwas bemerken.\n\nWenn doch Symptome auftreten, ist es wichtig, diese zu kennen, denn eine Präeklampsie kann sowohl für Sie\nals auch für Ihr Baby schwerwiegende Folgen haben. Sie ist sehr gut behandelbar, wenn sie rechtzeitig erkannt wird, und die regelmäßige Teilnahme an Ihren Schwangerschaftsterminen ist\nder beste Weg, ihr zuvorzukommen.",
@@ -819,11 +834,12 @@
       "aliases": [
         "Schwangerschaft",
         "schwanger sein",
-        "in Erwartung",
-        "Tragzeit",
+        "ein Baby erwarten",
+        "Schwangerschaftsdauer",
         "Trimester",
-        "Fälligkeitstermin",
-        "In welcher Schwangerschaftswoche"
+        "Geburtstermin",
+        "errechneter Termin",
+        "in welcher Schwangerschaftswoche"
       ],
       "glance": "Die Schwangerschaft dauert in der Regel etwa 40 Wochen, gerechnet ab dem ersten Tag Ihrer letzten Periode.",
       "overview": "Die Schwangerschaft ist die Zeit, in der Ihr Körper wächst und ein Baby austrägt. Sie dauert normalerweise etwa 40 Wochen –\nein Zeitraum zwischen 37 und 42 Wochen gilt als voll ausgetragen und normal – und wird, was vielleicht überraschend ist,\nab dem ersten Tag Ihrer **letzten Periode** gezählt, nicht ab der Empfängnis. Das ist einfach die übliche Art und Weise, wie Termine\nberechnet werden.\n\nDein **Geburtstermin** ist eine Schätzung, kein festes Datum: Babys kommen gerne etwas früher oder später zur Welt. Zu Beginn\nder Schwangerschaft kann ein „Termin-Ultraschall“ (normalerweise um die 12. Woche) die Größe deines Babys messen und ein genaueres\nDatum angeben, wodurch sich die ursprüngliche Schätzung manchmal verschiebt.\n\nDie Schwangerschaft wird oft in drei Phasen oder **Trimester** unterteilt, von denen jedes seine eigenen Veränderungen mit sich bringt. Während der\ngesamten Zeit wirst du durch regelmäßige Vorsorgeuntersuchungen von einer Hebamme (und bei Bedarf von einem Arzt)\nbetreut – eine Betreuung, die dazu beiträgt, dass es dir und deinem Baby gut geht.",
@@ -836,8 +852,8 @@
       "aliases": [
         "Schwangerschaftstest",
         "Schwangerschaftstest für zu Hause",
-        "hCG Test",
-        "Schwangerschaftstest"
+        "hCG-Test",
+        "Schwangerschaftstest machen"
       ],
       "glance": "Ein Schwangerschaftstest für zu Hause untersucht Ihren Urin auf das Schwangerschaftshormon „hCG“ – am zuverlässigsten ab der ersten ausgebliebenen Periode.",
       "overview": "Ein Schwangerschaftstest für zu Hause funktioniert, indem er ein Hormon namens „hCG“ (humanes Choriongonadotropin) in\nIhrem Urin nachweist. Ihr Körper beginnt einige Tage nach der Einnistung einer befruchteten Eizelle mit der Produktion dieses Hormons, und dessen Konzentration\nsteigt in der Frühschwangerschaft schnell an.\n\nDer Test ist ab dem **ersten Tag einer ausgebliebenen Periode** am zuverlässigsten – etwa zwei Wochen nach der\nBefruchtung. Wenn Ihr Zyklus unregelmäßig ist oder Sie sich nicht sicher sind, wann Ihre Periode fällig ist, erhalten Sie ein zuverlässigeres Ergebnis, wenn Sie bis mindestens\n21 Tage nach ungeschütztem Geschlechtsverkehr warten. Sie müssen den Test nicht gleich\nmorgens als Erstes durchführen; jede Tageszeit ist geeignet.\n\nEin **positives** Ergebnis ist mit ziemlicher Sicherheit richtig – nur sehr wenige Tests zeigen ein positives Ergebnis an, wenn du nicht\nschwanger bist. Ein **negatives** Ergebnis ist etwas weniger sicher: Wenn deine Periode immer noch nicht einsetzt und du\nglaubst, schwanger zu sein, warte ein paar Tage und teste erneut.",
@@ -849,10 +865,9 @@
       "title": "Vorzeitige Wehen",
       "aliases": [
         "vorzeitige Wehen",
-        "vorzeitige Wehen",
         "Frühgeburt",
-        "Frühgeburt",
-        "frühe Wehen",
+        "drohende Frühgeburt",
+        "zu frühe Geburt",
         "vorzeitiger Blasensprung"
       ],
       "glance": "Eine Frühgeburt liegt vor, wenn die Wehen vor der 37. Woche einsetzen – handeln Sie schnell, denn eine frühzeitige Versorgung macht einen großen Unterschied.",
@@ -940,10 +955,10 @@
       "title": "Erstellung eines Sicherheitsplans",
       "aliases": [
         "Sicherheitsplan",
-        "Sicherheit",
-        "Sicherheit",
+        "sich in Sicherheit bringen",
+        "Notfallplan bei Gewalt",
         "Sicherheitsplanung",
-        "Sicheres Verlassen"
+        "sicher verlassen"
       ],
       "glance": "Ein Sicherheitsplan besteht aus einigen praktischen Schritten, die dir helfen, sicherer zu leben – und geschulte Fachkräfte können dir dabei helfen, einen solchen Plan zu erstellen.",
       "overview": "Ein Sicherheitsplan bedeutet einfach, im Voraus darüber nachzudenken, wie du dich (und eventuelle Kinder) besser schützen kannst. Es geht nicht um die Entscheidung, zu gehen oder zu bleiben – es geht darum, ein wenig besser vorbereitet zu sein, egal, wofür du dich entscheidest.\n\nManchen Menschen hilft es, wenn ein paar Dinge unauffällig bereitstehen: eine Vertrauensperson, die weiß, was vor sich geht, wichtige Dokumente und Telefonnummern griffbereit, eine kleine Tasche mit dem Nötigsten, ein Überblick über die sichersten Fluchtwege aus der Wohnung oder ein Wort bzw. ein Signal, das jemandem signalisiert, dass man Hilfe braucht. Was sinnvoll ist, hängt ganz von der jeweiligen Situation ab.\n\nSie müssen das nicht alleine bewältigen, und oft ist es sicherer, es nicht zu tun. Anti-Gewalt-Einrichtungen haben Erfahrung darin, gemeinsam mit Betroffenen Sicherheitspläne zu erstellen – vertraulich und kostenlos –, auch für die Zeit rund um den Auszug, die ein besonders risikoreicher Moment sein kann und die es wert ist, mit Unterstützung und ohne Eile geplant zu werden.",
@@ -1006,12 +1021,13 @@
       "title": "Anzeichen einer Geburt",
       "aliases": [
         "Anzeichen einer Geburt",
-        "Arbeit",
+        "Geburtsbeginn",
         "Wehen setzen ein",
         "Wehen",
-        "das Fruchtwasser bricht",
-        "die Sendung",
-        "latente Phase"
+        "Blasensprung",
+        "Schleimpfropf",
+        "Zeichnungsblutung",
+        "Latenzphase"
       ],
       "glance": "Zu den Anzeichen dafür, dass die Wehen einsetzen, gehören regelmäßige Wehen, der Abgang des Schleimpfropfs, Rückenschmerzen oder das Platzen der Fruchtblase.",
       "overview": "Es gibt einige Anzeichen dafür, dass die Wehen einsetzen könnten. Das wichtigste Anzeichen sind Wehen – Anspannungen im\nBauch, die regelmäßig auftreten und an Stärke zunehmen. Weitere Anzeichen sind das „Zeichnen“ (das Ablösen des Schleimpfropfens aus dem\nGebärmutterhals), anhaltende Rückenschmerzen, Harndrang und das Platzen der Fruchtblase.\n\nVor der aktiven Geburtsphase gibt es oft eine frühe („latente“) Phase, in der sich der Gebärmutterhals aufweicht und sich zu\nöffnen beginnt. Dieser Abschnitt kann Stunden oder sogar Tage dauern, und für viele Frauen ist es völlig in Ordnung, währenddessen gemütlich zu\nHause zu bleiben, sich auszuruhen und ausreichend zu trinken.\n\nDie Wehen beginnen bei jeder Frau ein wenig anders, daher müssen Sie nicht jedes Anzeichen abhaken. Wenn Sie\nden Eindruck haben, dass es losgeht, steht Ihnen Ihre Hebamme oder die Entbindungsstation zur Seite und berät Sie, was zu tun ist und\nwann Sie sich einfinden sollten.",
@@ -1052,8 +1068,8 @@
       "aliases": [
         "Schmierblutung",
         "Zwischenblutungen",
-        "Zwischenblutungen",
-        "Zwischenblutungen",
+        "Durchbruchblutung",
+        "Blutungen zwischen den Perioden",
         "Blutungen nach dem Geschlechtsverkehr"
       ],
       "glance": "Als Schmierblutung bezeichnet man leichte Blutungen zwischen den Perioden oder nach dem Geschlechtsverkehr – oft nichts Ernstes, aber es lohnt sich immer, dies untersuchen zu lassen.",
@@ -1066,10 +1082,11 @@
       "title": "Stalking",
       "aliases": [
         "Stalking",
-        "Stalking",
+        "Nachstellung",
+        "gestalkt werden",
         "Belästigung",
         "unerwünschte Aufmerksamkeit",
-        "Jemand, der mir folgt",
+        "jemand verfolgt mich",
         "Cyberstalking"
       ],
       "glance": "Stalking ist wiederholte, unerwünschte Aufmerksamkeit, die Angst auslöst oder ein Gefühl der Unsicherheit hervorruft – und es wird ernst genommen.",
@@ -1083,9 +1100,11 @@
       "aliases": [
         "Totgeburt",
         "totgeboren",
+        "intrauteriner Fruchttod",
+        "Sternenkind",
+        "still geboren",
         "Verlust eines Babys",
-        "Später Schwangerschaftsverlust",
-        "Baby, das schlafend geboren wurde"
+        "später Schwangerschaftsverlust"
       ],
       "glance": "Eine Totgeburt ist der Verlust eines Babys nach der 24. Woche – ein seltenes Ereignis, das niemals Ihre Schuld ist und bei dem Sie stets Unterstützung erhalten.",
       "overview": "Von einer Totgeburt spricht man, wenn ein Baby nach der 24. Schwangerschaftswoche tot zur Welt kommt. (Ein Verlust vor der 24. Woche\nwird als Fehlgeburt bezeichnet.) Es kommt selten vor – etwa bei einer von 250 Geburten –, aber für die betroffenen Familien\nist es ein schwerer Verlust, und die gesamte anschließende Betreuung zielt darauf ab, Sie\nsanft durch diese Zeit zu begleiten.\n\nManchmal lässt sich eine Ursache feststellen – zum Beispiel ein Problem mit der Plazenta oder der Entwicklung des Babys oder eine\nErkrankung – und manchmal wird trotz aller Untersuchungen **überhaupt keine Ursache gefunden**. Was auch immer der Grund sein mag: Eine\nTotgeburt ist nichts, was Eltern verursacht haben oder hätten verhindern können.\n\nEine Sache trägt jedoch wirklich dazu bei, das Risiko zu senken, und sie ist ganz einfach: **Informieren Sie Ihre Hebamme sofort,\nwenn die Bewegungen Ihres Babys nachlassen oder sich verändern.** Daneben spielen auch die alltäglichen Dinge eine Rolle – der Besuch von\nSchwangerschaftsvorsorgeterminen, Nichtrauchen, der Verzicht auf Alkohol und das Schlafen in Seitenlage ab der 28. Woche – all das\nträgt dazu bei.",
@@ -1099,7 +1118,8 @@
         "Stress und Periode",
         "Stress",
         "ausgebliebene Periode",
-        "Spätphase",
+        "Periode verspätet",
+        "Periode zu spät",
         "Warum bleibt meine Periode aus?"
       ],
       "glance": "Stress, starke Gewichtsschwankungen oder viel Sport können die Periode verzögern oder ausbleiben lassen – oft nur vorübergehend.",
@@ -1112,8 +1132,8 @@
       "title": "Deine Partnerin während der Periode unterstützen",
       "aliases": [
         "während ihrer Periode helfen",
-        "Zeitliche Unterstützung für Partner",
-        "Periodenpflege"
+        "Unterstützung für Partner während der Periode",
+        "für sie da sein während der Periode"
       ],
       "glance": "Die Periode kann echte Schmerzen und Müdigkeit mit sich bringen – kleine, praktische Pflege macht einen großen Unterschied.",
       "overview": "Eine Periode bedeutet nicht nur ein paar Tage Blutung; bei vielen kommen Krämpfe, Rückenschmerzen, Kopfschmerzen, Müdigkeit und Energielosigkeit dazu. Regelschmerzen sind häufig und können wirklich zermürbend sein – das ist keine Übertreibung. Gehen Sie damit so um, wie Sie mit Ihrer Partnerin umgehen würden, wenn es ihr nicht gut geht: mit praktischer Freundlichkeit.\n\nMachen Sie es auch zu etwas Normalem. Die Periode ist nicht eklig, peinlich oder ein Tabu. Wenn Sie ganz selbstverständlich Binden oder Tampons kaufen, welche zu Hause vorrätig haben oder ihr ohne großes Aufheben eine Wärmflasche reichen, zeigt ihr das, dass sie sich sicher und unterstützt fühlen kann.",
@@ -1159,9 +1179,9 @@
       "title": "Die prämenstruellen Tage",
       "aliases": [
         "PMS für Partner",
-        "unterstützt sie vor ihrer Periode",
+        "sie vor ihrer Periode unterstützen",
         "prämenstruelle Unterstützung",
-        "Unterstützung der Lutealphase"
+        "Unterstützung in der Lutealphase"
       ],
       "glance": "In den Tagen vor ihrer Periode kann es sein, dass sie sich müder, empfindlicher oder niedergeschlagener fühlt – begegnen Sie dem mit Geduld, nicht mit Scherzen.",
       "overview": "In der Woche vor der Periode haben viele prämenstruelle Beschwerden: Stimmungsschwankungen, Reizbarkeit oder Niedergeschlagenheit, Müdigkeit, schmerzende Brüste, Blähungen, Kopfschmerzen oder Schlafprobleme. Das ist sehr häufig und es ist real – ausgelöst durch die natürliche Hormonumstellung der Lutealphase, nicht dadurch, dass sie „überreagiert“.\n\nBei einem kleineren Teil der Betroffenen ist die gedrückte Stimmung schwer (eine Erkrankung namens PMDS, prämenstruelle dysphorische Störung) und verdient echte Unterstützung und ärztliche Behandlung. So oder so ist es nicht Ihre Aufgabe, eine Diagnose zu stellen oder sie zu „reparieren“ – sondern verlässlich und liebevoll zu sein.\n\nDas Schädlichste, was ein Partner hier tun kann, ist, die Beschwerden als Waffe gegen sie einzusetzen: „Du hast doch nur PMS“, Augenrollen oder ihre Gefühle wegen des Datums nicht ernst zu nehmen. Das wertet sie ab und macht eine ohnehin schwere Woche noch schmerzhafter. Auch wenn Hormone eine Rolle spielen, zählen ihre Gefühle trotzdem.",
@@ -1177,7 +1197,7 @@
         "Mehrlingsschwangerschaft",
         "Zwillinge erwarten",
         "eineiige Zwillinge",
-        "nicht identische Zwillinge",
+        "zweieiige Zwillinge",
         "Drillinge"
       ],
       "glance": "Eine Zwillingsschwangerschaft wird in der Regel erst bei der Ultraschalluntersuchung zur Feststellung des Schwangerschaftsalters festgestellt und erfordert etwas mehr Schwangerschaftsvorsorge.",
@@ -1219,9 +1239,9 @@
         "Vaginalgesundheit",
         "Gesundheit der Vulva",
         "Intimhygiene",
-        "Sauberhalten",
-        "Spülung",
-        "Ausfluss"
+        "Intimpflege",
+        "Scheidenspülung",
+        "vaginaler Ausfluss"
       ],
       "glance": "Die Scheide reinigt sich von selbst – eine sanfte Pflege von außen reicht völlig aus, und Ausfluss ist ganz normal.",
       "overview": "Es ist sehr beruhigend zu wissen, dass die Scheide sich selbst versorgt. Sie ist von Natur aus\nselbstreinigend, und der Ausfluss, den du bemerkst, ist Teil davon – eine Flüssigkeit, die sie sauber und feucht hält\nund dabei hilft, sie vor Infektionen zu schützen. Die Menge und Konsistenz ändern sich im Laufe des Zyklus, was\nvöllig normal ist.\n\nAus diesem Grund muss die Vagina im Inneren nicht gewaschen werden. Tatsächlich kann das Waschen im Inneren –\ndas „Spülen“ – ihr natürliches Gleichgewicht stören. Der äußere Bereich (die Vulva) benötigt lediglich sanfte Pflege: warmes\nWasser und, wenn du möchtest, eine milde, unparfümierte Seife. Parfümierte Seifen, Gels, Deodorants und duftende\nFeuchttücher sollten am besten vermieden werden, da sie Reizungen verursachen können.\n\nWenn du weißt, was für dich normal ist – dein üblicher Ausfluss, das Aussehen und das Gefühl –, fällt es dir leichter,\nzu bemerken, wenn sich etwas verändert und möglicherweise eine Untersuchung erforderlich ist.",

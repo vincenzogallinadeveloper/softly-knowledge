@@ -182,8 +182,7 @@
         "irtosolunäyte",
         "kohdunkaulan syövän seulonta",
         "gynekologinen irtosolututkimus",
-        "hpv-testi",
-        "seulonta"
+        "hpv-testi"
       ],
       "glance": "Kohdunkaulan seulonta on rutiinitarkastus, jossa tutkitaan kohdunkaulasi terveyttä ja joka auttaa ehkäisemään kohdunkaulan syöpää.",
       "overview": "Kohdunkaulan seulonta on testi, jolla tutkitaan kohdunkaulan – emättimen yläpäässä olevan kohdun suuaukon – terveyttä. Se ei ole syöpätesti. Sen sijaan se on keino havaita muutokset varhain ja auttaa estämään kohdunkaulan syövän kehittyminen ylipäätään.\n\nKaikki, joilla on kohdunkaula, kutsutaan seulontaan 25-vuotiaasta 64-vuotiaaksi. Saat kutsun säännöllisin väliajoin, kun on vuorosi, joten sinun ei tarvitse itse muistaa varata aikaa – mutta on aina oma valintasi, osallistutko.\n\nItse testi on nopea, ja sen tekee hoitaja. Moni jännittää sitä hieman, mikä on täysin ymmärrettävää; kun tietää, mitä varten testi on – rutiininomainen, ennaltaehkäisevä tarkastus – se voi tuntua helpommalta.",
@@ -796,7 +795,6 @@
         "ovulaatio",
         "munasolun irtoaminen",
         "hedelmällinen ikkuna",
-        "irtoaminen",
         "ovulaatiokipu",
         "milloin ovulaatio"
       ],
@@ -1086,7 +1084,6 @@
       "aliases": [
         "turvasuunnitelma",
         "turvassa pysyminen",
-        "turvallisuus",
         "turvasuunnittelu",
         "lähteminen turvallisesti",
         "eroaminen väkivaltaisesta",

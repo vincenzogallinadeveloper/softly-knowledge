@@ -115,10 +115,10 @@
       "title": "Menyusui",
       "aliases": [
         "menyusui",
-        "keperawatan",
         "ASI",
-        "menyusui",
-        "memberi makan bayi Anda"
+        "memberi ASI",
+        "air susu ibu",
+        "menyusui bayi"
       ],
       "glance": "ASI melindungi bayi dari infeksi dan menyesuaikan diri seiring pertumbuhannya — dan berapa pun jumlahnya, tetap memberikan manfaat.",
       "overview": "ASI adalah makanan alami dan lengkap bagi bayi: ASI menyediakan nutrisi, vitamin, dan mineral\nyang mereka butuhkan, serta komposisinya berubah seiring waktu agar sesuai dengan tahap perkembangannya. ASI juga membantu melindungi bayi dari infeksi\ndan penyakit, serta memberikan sejumlah manfaat kesehatan jangka panjang.\n\nAda manfaat juga bagi ibu yang menyusui — menyusui dikaitkan dengan risiko lebih rendah terkena kanker payudara\ndan ovarium, di antara manfaat lainnya — dan secara umum, semakin sering dan lama Anda\nmenyusui, semakin besar manfaatnya. Yang penting, **berapa pun** jumlah ASI yang diberikan tetap bermanfaat; ini\nbukanlah masalah “semua atau tidak sama sekali”.\n\nMemberi ASI pada bayi juga bisa terasa lebih sulit dari yang diharapkan pada awalnya, dan hal itu wajar. Bantuan tersedia — dari\nbidan, petugas kesehatan, dan layanan dukungan menyusui setempat — jadi, sebaiknya segera meminta bantuan jika prosesnya tidak berjalan\nlancar.",
@@ -163,9 +163,10 @@
       "aliases": [
         "pemeriksaan leher rahim",
         "tes pap smear",
-        "noda",
+        "pap smear",
         "tes Pap",
-        "pap smear"
+        "skrining kanker serviks",
+        "tes IVA"
       ],
       "glance": "Pemeriksaan serviks adalah pemeriksaan rutin untuk memantau kesehatan serviks Anda yang membantu mencegah kanker serviks.",
       "overview": "Pemeriksaan serviks adalah tes yang memeriksa kesehatan serviks — lubang menuju rahim di\nbagian atas vagina. Tes ini bukanlah tes untuk mendeteksi kanker. Sebaliknya, ini adalah cara untuk mendeteksi perubahan sejak dini dan membantu\nmencegah kanker serviks berkembang sejak awal.\n\nSetiap orang yang memiliki serviks diundang untuk mengikuti tes ini mulai usia 25 hingga 64 tahun. Anda akan menerima undangan saat\nwaktunya tiba, dengan interval yang teratur, sehingga Anda tidak perlu repot-repot mengingat untuk membuat janji secara mendadak —\nmeskipun keputusan untuk mengikuti tes tetap ada di tangan Anda.\n\nTes ini sendiri berlangsung cepat dan dilakukan oleh seorang perawat. Banyak orang merasa sedikit gugup menjelang tes ini, yang\nsangat bisa dimengerti; mengetahui tujuan tes ini — pemeriksaan rutin dan preventif — dapat membuatnya terasa\nlebih mudah dihadapi.",
@@ -177,11 +178,11 @@
       "title": "Kekerasan terhadap anak & menjaga keselamatan anak-anak",
       "aliases": [
         "kekerasan terhadap anak",
-        "kekerasan terhadap anak",
+        "penganiayaan anak",
         "keselamatan anak",
         "melindungi anak",
         "khawatir tentang seorang anak",
-        "mengabaikan"
+        "penelantaran anak"
       ],
       "glance": "Jika Anda khawatir ada anak yang mungkin mengalami kekerasan atau penelantaran, adalah hal yang tepat untuk mencari nasihat — Anda tidak perlu yakin terlebih dahulu.",
       "overview": "Kekerasan terhadap anak — atau penganiayaan terhadap anak — adalah tindakan yang merugikan siapa pun yang berusia di bawah 18 tahun. Hal ini mencakup kekerasan fisik, seksual, dan emosional, serta pengabaian (tidak memenuhi kebutuhan dasar anak). Sayangnya, hal ini sering terjadi, dapat menyebabkan dampak seumur hidup, dan bukan merupakan kesalahan anak.\n\nMungkin Anda merasa khawatir tentang seorang anak dalam kehidupan Anda, atau tentang seorang anak yang Anda perhatikan. Anda tidak perlu yakin atau memiliki bukti untuk menindaklanjuti kekhawatiran tersebut — mempercayai insting Anda dan meminta saran adalah hal yang tepat untuk dilakukan, dan hal itu dapat melindungi seorang anak.\n\nDan jika Anda sendiri pernah mengalami kekerasan saat masih anak-anak, ketahuilah bahwa penderitaan tersebut bukanlah kesalahan Anda, dan bahwa dukungan juga tersedia untuk Anda, di usia berapa pun.",
@@ -192,11 +193,12 @@
     "coercive-control": {
       "title": "Kontrol koersif",
       "aliases": [
+        "kontrol koersif",
         "kontrol paksa",
         "perilaku mengontrol",
         "kekerasan emosional",
         "kekerasan psikologis",
-        "isolasi",
+        "dijauhkan dari keluarga dan teman",
         "kekerasan finansial",
         "gaslighting"
       ],
@@ -225,7 +227,7 @@
       "aliases": [
         "gejala kehamilan yang umum",
         "gejala tidak nyaman selama kehamilan",
-        "mulas saat kehamilan",
+        "nyeri ulu hati saat hamil",
         "nyeri punggung selama kehamilan",
         "pergelangan kaki bengkak",
         "sembelit selama kehamilan",
@@ -241,9 +243,8 @@
       "title": "Kondom",
       "aliases": [
         "kondom",
-        "kondom",
+        "kondom pria",
         "kondom eksternal",
-        "karet",
         "metode penghalang"
       ],
       "glance": "Kondom merupakan metode penghalang — dan satu-satunya jenis alat kontrasepsi yang juga melindungi dari IMS.",
@@ -270,8 +271,10 @@
       "title": "Kontrasepsi",
       "aliases": [
         "kontrasepsi",
-        "kontrasepsi",
-        "keluarga berencana"
+        "alat kontrasepsi",
+        "KB",
+        "keluarga berencana",
+        "pencegah kehamilan"
       ],
       "glance": "Kontrasepsi adalah berbagai cara untuk mencegah kehamilan — dan ada banyak pilihan yang bisa dipilih.",
       "overview": "Kontrasepsi — kadang-kadang disebut pengendalian kelahiran — adalah berbagai metode yang digunakan untuk mencegah kehamilan.\nAda banyak metode, dan masing-masing bekerja dengan cara yang berbeda: ada yang menggunakan hormon, ada yang berupa penghalang, ada yang\ndipasang di dalam rahim, dan ada yang didasarkan pada pemantauan siklus menstruasi.\n\nSeberapa efektif suatu metode sangat bergantung pada cara penggunaannya. Beberapa metode — seperti implan dan\nspiral — bersifat \"pasang dan lupakan,\" serta memiliki efektivitas lebih dari 99%. Metode lain, seperti pil KB atau kondom,\nsangat efektif jika digunakan dengan sempurna, tetapi efektivitasnya sedikit berkurang dalam penggunaan sehari-hari yang biasa, karena\nlebih mudah lupa minum pil atau menggunakan kondom secara tidak benar.\n\nSatu hal yang perlu diketahui: **hanya kondom yang juga melindungi dari infeksi menular seksual\n(IMS)**. Metode lainnya mencegah kehamilan tetapi tidak mencegah infeksi, itulah sebabnya kondom terkadang\ndigunakan bersamaan dengan metode lain.\n\nTidak ada satu pun metode yang “terbaik” — metode yang tepat bergantung pada kesehatan Anda, tubuh Anda, dan apa yang sesuai\ndengan gaya hidup Anda. Seorang dokter umum atau klinik kesehatan seksual dapat menjelaskan berbagai pilihan kepada Anda dan membantu Anda memilih.",
@@ -300,7 +303,8 @@
       "title": "Implan kontrasepsi",
       "aliases": [
         "implan kontrasepsi",
-        "implan tersebut",
+        "KB implan",
+        "susuk KB",
         "Nexplanon",
         "implan"
       ],
@@ -313,9 +317,10 @@
     "cycle-and-your-wellbeing": {
       "title": "Siklus menstruasi Anda & kesehatan Anda",
       "aliases": [
-        "kesejahteraan",
-        "bersepeda dan kesehatan",
+        "siklus dan kesehatan",
         "siklus menstruasi dan kesehatan",
+        "haid dan kesehatan",
+        "kesejahteraan diri",
         "tanda vital"
       ],
       "glance": "Siklus menstruasi Anda bisa diibaratkan sebagai pemeriksaan kesehatan bulanan — perubahan yang terjadi pada siklus tersebut patut diperhatikan.",
@@ -329,8 +334,8 @@
       "aliases": [
         "kekerasan ekonomi",
         "kekerasan finansial",
-        "pengelolaan keuangan",
-        "mengelola keuangan",
+        "uang dikontrol pasangan",
+        "mengontrol keuangan",
         "utang atas nama saya"
       ],
       "glance": "Kekerasan ekonomi adalah tindakan mengendalikan akses seseorang terhadap uang, pekerjaan, atau sumber daya — suatu bentuk kekerasan yang diakui.",
@@ -356,7 +361,7 @@
       "title": "Kontrasepsi darurat",
       "aliases": [
         "kontrasepsi darurat",
-        "pil kontrasepsi darurat",
+        "pil KB darurat",
         "pil kontrasepsi darurat",
         "pil darurat",
         "Levonelle",
@@ -397,7 +402,7 @@
         "olahraga",
         "aktivitas fisik",
         "berolahraga",
-        "gerakan",
+        "olahraga saat haid",
         "olahraga dan siklus menstruasi"
       ],
       "glance": "Anda bisa tetap aktif sepanjang siklus menstruasi Anda — dan berolahraga secara teratur dapat meredakan kram dan PMS.",
@@ -549,8 +554,10 @@
     "heartburn-in-pregnancy": {
       "title": "Mulas & gangguan pencernaan selama kehamilan",
       "aliases": [
-        "mulas saat kehamilan",
+        "nyeri ulu hati saat hamil",
+        "heartburn saat hamil",
         "gangguan pencernaan saat kehamilan",
+        "asam lambung naik saat hamil",
         "refluks asam pada kehamilan",
         "refluks"
       ],
@@ -566,9 +573,9 @@
         "haid berlebihan",
         "menoragia",
         "perdarahan menstruasi yang berat",
-        "banjir",
+        "haid banyak",
         "pendarahan hebat",
-        "gumpalan"
+        "gumpalan darah haid"
       ],
       "glance": "Haid yang berat berarti kehilangan banyak darah setiap siklus — hal ini umum terjadi, tetapi sebaiknya diperiksa jika hal ini memengaruhi Anda.",
       "overview": "Haid yang berat — istilah medisnya adalah menorrhagia — berarti kehilangan banyak darah saat haid. Bagi sebagian orang, perdarahan yang berat memang merupakan hal yang normal, tetapi jika hal ini mengganggu kehidupan Anda atau membuat Anda kelelahan, sebaiknya Anda memeriksakannya.\n\nBeberapa tanda bahwa menstruasi tergolong berat: perlu mengganti pembalut atau tampon setiap 1 hingga 2 jam, menggunakan dua jenis produk menstruasi sekaligus (seperti tampon dan pembalut), darah menembus pakaian atau seprai, mengeluarkan gumpalan darah yang ukurannya lebih besar dari sekitar 2,5 cm (kira-kira sebesar koin 10p), atau menstruasi yang berlangsung lebih dari 7 hari.\n\nKehilangan banyak darah setiap bulan dapat membuat Anda lelah atau sesak napas, karena hal ini dapat menyebabkan kekurangan zat besi (anemia). Ada banyak kemungkinan penyebabnya — mulai dari fibroid atau kondisi seperti endometriosis, adenomiosis, atau PCOS, hingga beberapa jenis obat — dan seringkali tidak ditemukan penyebab yang serius. Bagaimanapun juga, menstruasi yang berat biasanya dapat diatasi, sehingga hal ini bukanlah sesuatu yang harus Anda terima begitu saja.",
@@ -595,7 +602,7 @@
         "bagaimana cara mendengarkan",
         "dukungan emosional untuk pasangan",
         "komunikasi",
-        "berada di sana untuknya"
+        "mendampinginya"
       ],
       "glance": "Seringkali dia perlu didengarkan, bukan diperbaiki — dengarkan dulu, dan tanyakan sebelum Anda memberi nasihat.",
       "overview": "Ketika seseorang yang kita cintai sedang berjuang, naluri kita adalah untuk terjun dan menyelesaikannya. Namun seringkali yang paling membantu\nadalah membuatnya merasa benar-benar didengarkan: bahwa perasaannya masuk akal dan dia tidak sendirian dengan perasaan itu. Terlalu cepat\nmencari solusi bisa terdengar seperti \"perasaanmu adalah masalah yang harus segera dibereskan\".\n\nMendengarkan dengan baik adalah keterampilan yang dapat dipelajari siapa pun. Yang paling utama adalah perhatian: meletakkan telepon, menghadapnya,\ndan membiarkannya menyelesaikannya. Anda tidak harus menyetujui setiap hal untuk membuatnya merasa dihormati.",
@@ -619,7 +626,8 @@
       "title": "Menopause",
       "aliases": [
         "menopause",
-        "perubahan"
+        "mati haid",
+        "berhenti haid"
       ],
       "glance": "Menopause adalah saat haid berhenti selamanya — sebuah tahap alami yang biasanya terjadi pada usia antara 45 hingga 55 tahun.",
       "overview": "Menopause adalah masa ketika menstruasi Anda berhenti secara permanen. Karena menstruasi mungkin masih datang dan pergi untuk sementara waktu, menopause dianggap telah tercapai setelah Anda tidak mengalami menstruasi selama 12 bulan berturut-turut. Hal ini biasanya terjadi antara usia 45 hingga 55 tahun, meskipun bisa lebih awal atau lebih lambat.\n\nIni adalah bagian alami dari proses penuaan, bukan penyakit. Hal ini terjadi seiring dengan berkurangnya fungsi ovarium dan turunnya kadar estrogen — hormon utama dalam siklus tersebut. Perubahan hormonal tersebut menjadi penyebab berbagai gejala yang dirasakan banyak orang: rasa panas mendadak (hot flushes) dan keringat malam, perubahan pola menstruasi menjelang masa menopause, kesulitan tidur, perubahan suasana hati atau kecemasan, kesulitan berkonsentrasi, kekeringan vagina, dan nyeri.\n\nPengalaman setiap orang sangat bervariasi — ada yang melewatinya dengan lancar, ada pula yang merasa sulit, dan gejalanya bisa berlangsung selama beberapa tahun. Semua itu tidak berarti ada yang salah dengan Anda. Dukungan dan berbagai pilihan tersedia, dan memahami apa yang sedang terjadi adalah langkah awal yang baik.",
@@ -657,9 +665,9 @@
       "title": "Keguguran",
       "aliases": [
         "keguguran",
-        "keguguran",
+        "kehilangan kehamilan",
         "keguguran dini",
-        "keguguran"
+        "abortus spontan"
       ],
       "glance": "Keguguran adalah hilangnya kehamilan sebelum usia kehamilan 24 minggu — hal ini umum terjadi, dan hampir tidak pernah disebabkan oleh Anda.",
       "overview": "Keguguran adalah hilangnya kehamilan pada 24 minggu pertama. Hal ini lebih umum terjadi daripada yang disadari banyak orang, dan salah satu hal terpenting yang perlu diketahui adalah bahwa keguguran hampir tidak pernah disebabkan oleh sesuatu yang Anda lakukan atau tidak lakukan — keguguran biasanya terjadi karena adanya masalah dalam perkembangan kehamilan, yang berada di luar kendali siapa pun.\n\nTanda-tanda yang paling umum adalah perdarahan vagina, serta kram atau nyeri di bagian bawah perut. Perdarahan pada awal kehamilan tidak selalu berarti terjadi keguguran — banyak orang mengalami perdarahan ringan dan kemudian menjalani kehamilan yang sehat — tetapi hal ini harus selalu diperiksa.\n\nBagaimanapun cara kehilangan itu terjadi, perasaan yang menyertainya adalah nyata dan wajar, dan kesedihan adalah respons yang normal. Anda tidak perlu menghadapinya sendirian — dukungan tersedia, baik dari bidan atau dokter umum Anda maupun dari lembaga amal yang khusus menangani kehilangan kehamilan.",
@@ -716,9 +724,9 @@
       "aliases": [
         "penghilang rasa sakit saat persalinan",
         "epidural",
-        "gas dan udara",
+        "gas tawa",
         "Entonox",
-        "penghilang rasa sakit saat persalinan",
+        "persalinan tanpa rasa sakit",
         "kolam persalinan",
         "TENS"
       ],
@@ -747,7 +755,7 @@
       "aliases": [
         "perimenopause",
         "masa transisi menopause",
-        "perubahan"
+        "pramenopause"
       ],
       "glance": "Perimenopause adalah masa transisi menjelang menopause, saat siklus menstruasi dan hormon mulai mengalami perubahan.",
       "overview": "Perimenopause adalah periode menjelang menopause — tahun-tahun “sekitar menopause”. Periode ini dimulai saat Anda pertama kali menyadari adanya perubahan dan berlangsung hingga satu tahun penuh setelah menstruasi terakhir Anda, saat itulah Anda telah mencapai menopause. Periode ini dapat berlangsung selama beberapa tahun.\n\nSelama masa ini, ovarium secara bertahap memproduksi lebih sedikit estrogen, dan kadarnya naik turun dengan pola yang kurang dapat diprediksi dibandingkan sebelumnya. Tanda awal yang paling umum adalah perubahan siklus menstruasi — menjadi lebih sering atau lebih jarang, lebih ringan atau lebih berat. Banyak gejala yang terkait dengan menopause, seperti rasa panas mendadak (hot flushes), perubahan pola tidur, atau perubahan suasana hati, dapat mulai muncul saat Anda masih mengalami menstruasi.\n\nKarena berlangsung secara bertahap dan sangat bervariasi, masa perimenopause bisa membingungkan — perubahan-perubahan tersebut tidak terjadi sekaligus atau dalam urutan yang sama bagi setiap orang. Mengetahui bahwa fase ini memiliki nama, dan bahwa ini merupakan transisi yang normal, dapat membantu Anda memahaminya dengan lebih mudah.",
@@ -819,11 +827,12 @@
       "title": "Kehamilan",
       "aliases": [
         "kehamilan",
-        "kehamilan",
         "hamil",
-        "kehamilan",
+        "sedang hamil",
+        "usia kehamilan",
         "trimester",
-        "tanggal jatuh tempo",
+        "HPL",
+        "hari perkiraan lahir",
         "berapa minggu kehamilan"
       ],
       "glance": "Kehamilan biasanya berlangsung sekitar 40 minggu, dihitung sejak hari pertama haid terakhir Anda.",
@@ -850,11 +859,11 @@
       "title": "Persalinan prematur",
       "aliases": [
         "persalinan prematur",
-        "persalinan prematur",
         "kelahiran prematur",
-        "kelahiran prematur",
-        "tahap awal persalinan",
-        "air ketuban pecah lebih awal"
+        "bayi prematur",
+        "melahirkan sebelum waktunya",
+        "air ketuban pecah lebih awal",
+        "ketuban pecah dini"
       ],
       "glance": "Persalinan prematur adalah persalinan yang terjadi sebelum usia kehamilan 37 minggu — bertindaklah cepat, karena perawatan dini benar-benar membuat perbedaan.",
       "overview": "Persalinan prematur (atau persalinan sebelum waktunya) adalah persalinan yang dimulai sebelum minggu ke-37 kehamilan. Hal ini terjadi pada sekitar 8 dari setiap 100 kelahiran.\n\nBayi yang lahir prematur memang lebih rentan, tetapi banyak di antaranya yang kemudian tumbuh dengan baik — terutama dengan perawatan khusus yang diberikan oleh unit neonatal. Kuncinya adalah bertindak cepat jika Anda menduga persalinan mungkin sudah dimulai, sehingga Anda dapat diperiksa dan, jika diperlukan, diberikan perawatan yang membantu melindungi bayi.\n\nGejala-gejalanya mirip dengan persalinan pada tahap mana pun, tetapi sebelum usia kehamilan 37 minggu, gejala tersebut tidak boleh diabaikan — gejala tersebut selalu menjadi alasan untuk segera menghubungi bidan atau unit bersalin.",
@@ -928,7 +937,7 @@
         "hubungan yang sehat",
         "tanda-tanda peringatan",
         "di mana mendapatkan bantuan",
-        "penyalahgunaan"
+        "kekerasan"
       ],
       "glance": "Cinta dibangun atas dasar rasa hormat dan kebebasan — kendali, kecemburuan, dan tekanan bukanlah cinta, dan pertolongan itu ada.",
       "overview": "Hubungan yang sehat bertumpu pada rasa hormat, kepercayaan, kesetaraan, dan kebebasan: dua orang yang masing-masing tetap memiliki\npersahabatan, pilihan, dan ruang pribadinya sendiri. Kontrol justru sebaliknya. Seringkali bersembunyi di balik kata-kata seperti cinta atau\nkecemburuan — \"Aku memeriksa ponselmu karena aku peduli\", \"Aku tidak ingin kamu bertemu mereka karena aku mencintaimu\" — tapi\ndampaknya adalah menyusutkan dunia dan kebebasannya.\n\nPengendalian jarang dimulai dengan kekerasan. Biasanya dimulai dari hal yang kecil - sebuah kritik, batas yang dilanggar, sebuah\n\"lelucon\" yang menyakitkan — lalu terus berkembang. Menyebutnya sejak awal sangatlah penting, karena kontrol koersif itu sendiri merupakan salah satu bentuk\nkekerasan dan tanda peringatan akan hal yang lebih buruk. Ini bukan tentang rasa bersalah; ini tentang kejujuran dan perubahan.",
@@ -989,10 +998,10 @@
       "title": "Kekerasan seksual & persetujuan",
       "aliases": [
         "kekerasan seksual",
-        "kekerasan seksual",
+        "serangan seksual",
         "pemerkosaan",
         "persetujuan",
-        "kekerasan seksual",
+        "pelecehan seksual",
         "tanpa persetujuan"
       ],
       "glance": "Kekerasan seksual adalah setiap tindakan seksual tanpa persetujuan — dan hal itu tidak pernah menjadi kesalahan orang yang mengalaminya.",
@@ -1007,9 +1016,10 @@
         "tanda-tanda persalinan",
         "persalinan",
         "akan melahirkan",
+        "tanda mau melahirkan",
         "kontraksi",
         "air ketuban pecah",
-        "acara tersebut",
+        "keluar lendir bercampur darah",
         "fase laten"
       ],
       "glance": "Tanda-tanda dimulainya persalinan antara lain kontraksi yang teratur, \"show,\" sakit punggung, atau ketuban pecah.",
@@ -1065,7 +1075,8 @@
       "title": "Penguntitan",
       "aliases": [
         "stalking",
-        "dikejar-kejar",
+        "penguntitan",
+        "dikuntit",
         "pelecehan",
         "perhatian yang tidak diinginkan",
         "seseorang yang mengikuti saya",
@@ -1081,9 +1092,9 @@
       "title": "Bayi lahir mati",
       "aliases": [
         "bayi lahir mati",
-        "bayi lahir mati",
-        "keguguran",
-        "keguguran pada trimester akhir",
+        "kematian janin",
+        "kematian janin dalam kandungan",
+        "kehilangan bayi",
         "bayi lahir dalam keadaan meninggal"
       ],
       "glance": "Kematian janin adalah kehilangan bayi setelah usia kehamilan 24 minggu — hal ini jarang terjadi, bukan kesalahan Anda, dan selalu disertai dukungan.",
@@ -1095,10 +1106,11 @@
     "stress-and-your-periods": {
       "title": "Stres, kehidupan, dan siklus menstruasi Anda",
       "aliases": [
-        "Stres dan menstruasi",
-        "tekanan",
+        "stres dan menstruasi",
+        "stres",
         "tidak haid",
         "haid terlambat",
+        "telat haid",
         "mengapa menstruasi saya terlambat"
       ],
       "glance": "Stres, perubahan berat badan yang drastis, atau olahraga yang berlebihan dapat menunda atau menghentikan menstruasi — seringkali hanya untuk sementara waktu.",
@@ -1111,8 +1123,9 @@
       "title": "Mendukungnya selama menstruasi",
       "aliases": [
         "membantu selama menstruasinya",
-        "dukungan periode untuk mitra",
-        "perawatan periode"
+        "dukungan haid untuk pasangan",
+        "mendampingi pasangan saat haid",
+        "perawatan saat haid"
       ],
       "glance": "Menstruasi dapat menimbulkan rasa sakit dan kelelahan yang nyata — perawatan kecil dan praktis akan membawa perbedaan besar.",
       "overview": "Suatu menstruasi bukan hanya pendarahan yang terjadi selama beberapa hari; bagi banyak orang, menstruasi disertai dengan kram, sakit punggung, sakit kepala,\nkelelahan dan energi rendah. Nyeri haid adalah hal yang umum dan bisa sangat menguras tenaga — ini\nbukan dilebih-lebihkan. Perlakukan seperti Anda memperlakukan pasangan mana pun yang sedang tidak sehat: dengan kebaikan yang nyata.\n\nNormalisasikan juga. Menstruasi bukanlah hal yang menjijikkan, memalukan, atau tabu. Menjadi nyaman membeli pembalut atau\ntampon, menyimpannya di rumah, atau memberinya botol air panas tanpa ribut-ribut menunjukkan bahwa dia aman dan\ndidukung.",
@@ -1189,7 +1202,7 @@
       "title": "Memahami siklusnya",
       "aliases": [
         "panduan siklus untuk pasangan",
-        "siklus untuk mitra",
+        "siklus untuk pasangan",
         "bagaimana siklusnya bekerja",
         "mendukung siklusnya"
       ],
@@ -1203,7 +1216,7 @@
       "title": "Kekeringan vagina",
       "aliases": [
         "kekeringan vagina",
-        "kekeringan",
+        "vagina kering",
         "atrofi vagina"
       ],
       "glance": "Kekeringan vagina adalah hal yang umum, sering kali terkait dengan hormon, dan dapat menyebabkan rasa nyeri atau ketidaknyamanan saat berhubungan seks.",

@@ -114,7 +114,6 @@
         "vyšetrenie prsníkov",
         "hrčka v prsníku",
         "bulka v prsníku",
-        "prsia",
         "rakovina prsníka"
       ],
       "glance": "Poznať svoje prsníky jednoducho znamená vedieť, ako bežne vyzerajú a aké sú na dotyk, aby si si všimla zmeny.",
@@ -231,10 +230,8 @@
       "aliases": [
         "kombinovaná tabletka",
         "antikoncepčné tabletky",
-        "antikoncepcia",
         "hormonálna antikoncepcia",
         "kombinovaná hormonálna antikoncepcia",
-        "tabletky",
         "COC"
       ],
       "glance": "Kombinovaná tabletka je tabletka s dvoma hormónmi, ktorá sa užíva denne a účinkuje hlavne tak, že zastaví ovuláciu.",
@@ -267,7 +264,6 @@
         "kondóm",
         "kondómy",
         "prezervatív",
-        "gumka",
         "ženský kondóm",
         "bariérová antikoncepcia",
         "ochrana pri sexe"
@@ -284,7 +280,6 @@
         "súhlas",
         "súhlas so sexom",
         "rešpektovať jej hranice",
-        "hranice",
         "nadšený súhlas",
         "telesná autonómia",
         "nie znamená nie"
@@ -350,7 +345,7 @@
         "pohoda",
         "cyklus a zdravie",
         "menštruačný cyklus a zdravie",
-        "vitálny znak",
+        "cyklus ako ukazovateľ zdravia",
         "nepravidelná menštruácia",
         "zdravý cyklus"
       ],
@@ -416,9 +411,7 @@
         "endometrióza",
         "endo",
         "príznaky endometriózy",
-        "silná bolesť pri menštruácii",
-        "bolestivá menštruácia",
-        "bolesť pri sexe"
+        "bolesť pri endometrióze"
       ],
       "glance": "Endometrióza je ochorenie, pri ktorom tkanivo podobné sliznici maternice rastie mimo maternice a často spôsobuje bolesť.",
       "overview": "Endometrióza je dlhodobé ochorenie, pri ktorom bunky podobné sliznici maternice rastú v iných častiach tela, napríklad okolo vaječníkov, v panve alebo na črevách. Je častá: odhaduje sa, že na celom svete postihuje približne 1 z 10 žien v reprodukčnom veku.\n\nKeďže sa toto tkanivo správa trochu ako sliznica maternice, môže spôsobovať zápal a časom aj jazvovité tkanivo. Najčastejším príznakom je bolesť: často silná menštruačná bolesť, ale aj bolesť v panve alebo v dolnej časti chrbta v iných obdobiach, bolesť počas sexu alebo po ňom a bolesť pri močení či stolici. Časté sú aj veľmi silné menštruácie, hlboká únava, skleslá nálada a ťažkosti s otehotnením. Príznaky sa veľmi líšia: niektoré ženy majú silné bolesti, iné len malé.\n\nEndometrióza je často nepochopená a jej rozpoznanie môže trvať roky, čiastočne preto, že menštruačná bolesť sa tak často odbíja ako „normálna“. Silná bolesť, ktorá narúša tvoj život, nie je niečo, čo musíš jednoducho znášať: oplatí sa brať ju vážne.",
@@ -743,8 +736,7 @@
         "krámy",
         "mens",
         "menštruačná fáza",
-        "krvácanie",
-        "dni"
+        "krvácanie"
       ],
       "glance": "Menštruácia je niekoľko dní krvácania na začiatku každého cyklu, keď sa odlučuje sliznica maternice.",
       "overview": "Menštruačná fáza je tvoja menštruácia, teda dni, keď krvácaš. Začína sa 1. dňom cyklu, keď hladiny estrogénu a progesterónu klesnú natoľko, že sliznica vybudovaná vo vnútri maternice sa už neudržiava, odlúči sa a odchádza z tela cez pošvu.\n\nMenštruácia zvyčajne trvá asi 2 až 7 dní, pričom typických je približne 5 dní. Krvácanie býva najsilnejšie v prvých dvoch dňoch a potom slabne. Menštruácia sa zvyčajne začína okolo 12. roku, hoci aj skorší alebo neskorší začiatok je normálny.\n\nTo, čo je „normálne“, sa od ženy k žene veľmi líši. Sledovanie vlastnej menštruácie ti pomôže všimnúť si, čo je obvyklé pre teba, a to má oveľa väčší význam ako akýkoľvek priemer.",
@@ -1070,7 +1062,6 @@
       "aliases": [
         "bezpečnostný plán",
         "zostať v bezpečí",
-        "bezpečie",
         "plán bezpečia",
         "bezpečný odchod",
         "ako odísť od násilníka"
@@ -1122,7 +1113,7 @@
         "súhlas",
         "sexuálne zneužívanie",
         "sex bez súhlasu",
-        "obťažovanie"
+        "sexuálne obťažovanie"
       ],
       "glance": "Sexuálne násilie je akýkoľvek sexuálny akt bez súhlasu a nikdy nie je vinou toho, kto ho zažil.",
       "overview": "Sexuálne násilie znamená akýkoľvek sexuálny akt alebo pokus o jeho získanie bez súhlasu alebo nátlakom. Zahŕňa znásilnenie a akýkoľvek nechcený sexuálny kontakt a môže sa ho dopustiť ktokoľvek: cudzí človek, známy, ale aj partner alebo manžel.\n\nV jeho jadre je súhlas. Súhlas znamená slobodne s niečím súhlasiť a nie je možný, keď niekto spí, je v bezvedomí, je opitý alebo pod vplyvom drog, je dieťa alebo je pod tlakom, ohrozovaný či vystrašený. Dá sa kedykoľvek odvolať. Preto sexuálne násilie **nikdy** nie je vinou toho, komu sa stalo: nie kvôli tomu, čo mal na sebe, či pil alkohol, či stuhol namiesto toho, aby sa bránil, ani kvôli tomu, či toho človeka poznal.\n\nAk sa ti to stalo, podpora je tu pre teba, či už sa to stalo nedávno, alebo dávno. Veríme ti a to, čo urobíš ďalej, je tvoje rozhodnutie.",

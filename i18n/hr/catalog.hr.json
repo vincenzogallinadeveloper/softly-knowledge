@@ -32,7 +32,7 @@
         "pregledi u trudnoći",
         "kontrola trudnoće",
         "prvi pregled u trudnoći",
-        "primalja"
+        "pregledi kod primalje"
       ],
       "glance": "Prenatalna skrb su redoviti pregledi tijekom trudnoće koji pomažu da ti i tvoje dijete budete dobro.",
       "overview": "Prenatalna skrb je skrb koju dobivaš tijekom trudnoće kako bi ti i tvoje dijete bili što zdraviji. Obično te prati primalja, a po potrebi i liječnik. Vrijedi početi rano: javi se primalji ili obiteljskom liječniku čim saznaš da si trudna.\n\nTvoj prvi pravi pregled, takozvani „prvi pregled u trudnoći“, obično je između 8. i 12. tjedna. Nakon toga nude ti se redoviti pregledi: najmanje 10 pregleda i 2 ultrazvuka ako ti je ovo prvo dijete, ili oko 7 ako si već rodila, s više pregleda prema kraju trudnoće.\n\nNa tim pregledima primalja ti mjeri krvni tlak i provjerava urin, mjeri trbuh kako bi pratila rast djeteta, nudi ti probirne pretrage i razgovara s tobom o pokretima djeteta i o tome kako se osjećaš. Mnoge važne stvari, poput preeklampsije ili gestacijskog dijabetesa, otkriju se upravo ovdje, prije nego što bi ti išta primijetila, i baš zato su ti pregledi važni.",
@@ -349,7 +349,6 @@
         "dobrobit",
         "ciklus i zdravlje",
         "menstrualni ciklus i zdravlje",
-        "vitalni znak",
         "ciklus kao pokazatelj zdravlja",
         "neredovit ciklus"
       ],
@@ -415,7 +414,6 @@
         "endometrioza",
         "endo",
         "simptomi endometrioze",
-        "jaki menstrualni bolovi",
         "kronična bol u zdjelici"
       ],
       "glance": "Endometrioza je stanje u kojem tkivo slično sluznici maternice raste izvan maternice i često uzrokuje bol.",
@@ -588,7 +586,7 @@
     "getting-help": {
       "title": "Gdje potražiti pomoć",
       "aliases": [
-        "pomoć",
+        "gdje potražiti pomoć",
         "koga kontaktirati",
         "linije za pomoć",
         "korisni brojevi",

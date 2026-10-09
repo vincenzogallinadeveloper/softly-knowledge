@@ -25,10 +25,11 @@
       "title": "Doğum öncesi bakım",
       "aliases": [
         "doğum öncesi bakım",
-        "doğum öncesi bakım",
+        "gebelik takibi",
+        "hamilelik kontrolleri",
         "gebelik bakımı",
-        "ebelik muayeneleri",
-        "randevu alma",
+        "ebe muayenesi",
+        "ilk gebelik muayenesi",
         "doğum öncesi muayeneler"
       ],
       "glance": "Doğum öncesi bakım, hamilelik boyunca sizin ve bebeğinizin sağlığını korumaya yardımcı olan düzenli kontrollerden oluşur.",
@@ -41,9 +42,10 @@
       "title": "Bebeğinizin hareketleri",
       "aliases": [
         "bebeğin hareketleri",
-        "bebeğin hareketleri",
+        "bebek hareketleri",
         "fetal hareketler",
-        "tekmeler",
+        "bebeğin tekmeleri",
+        "bebeğin kıpırdaması",
         "bebeğin hareketlerini hissetmek",
         "hareketlerin azalması"
       ],
@@ -72,8 +74,9 @@
       "aliases": [
         "bbt",
         "bazal vücut ısısı",
-        "uyanma sıcaklığı",
-        "sıcaklık yöntemi"
+        "bazal vücut sıcaklığı",
+        "sabah vücut ısısı",
+        "bazal ısı yöntemi"
       ],
       "glance": "Bazal vücut ısısı, sabahları dinlenme halindeyken ölçülen vücut ısısıdır ve yumurtlamadan sonra hafifçe yükselir.",
       "overview": "Bazal vücut ısısı (BBT), vücudunuzun tamamen dinlenme halindeki ısısıdır. Her gün aynı şekilde ölçüldüğünde,\ndöngü boyunca küçük ama anlamlı bir değişiklik gösterir: yumurtlamadan sonra biraz yükselir ve\nbir sonraki adet döneminize kadar yüksek seviyede kalır.\n\nBu artış küçüktür — yaklaşık 0,4 ila 0,8°F (yaklaşık 0,2 ila 0,4°C) — bu nedenle tek bir ölçümden değil,\nbirkaç gün boyunca izlenen bir eğilimden anlaşılır. Bunu tespit etmek için, her sabah yataktan kalkmadan,\nyiyip içmeden önce, ideal olarak her gün aynı saatte ateşinizi ölçmelisiniz. Hemen hemen herkes,\nısı yükselmeye başladıktan sonraki yaklaşık üç gün içinde yumurtlamış olur.\n\nBu artış, yumurtanın salınmasından *sonra* meydana geldiği için, BBT yumurtlamanın gerçekleştiğini teyit eder,\nönceden tahmin etmez. Birkaç adet döngüsü boyunca kendi döngünüzün seyrini anlamanıza yardımcı olabilir,\nancak tek başına doğurgan günleri tespit etmek için kesin bir yöntem değildir.",
@@ -84,10 +87,10 @@
     "bleeding-in-pregnancy": {
       "title": "Hamilelikte kanama",
       "aliases": [
-        "Hamilelikte kanama",
+        "hamilelikte kanama",
         "gebelikte vajinal kanama",
-        "Hamilelikte kanama",
-        "hamilelikte kanama"
+        "hamilelikte lekelenme",
+        "gebelikte kanama"
       ],
       "glance": "Hamilelikte kanama her zaman ciddi bir durum değildir — hamileliğin ilk dönemlerinde hafif lekelenme sık görülür — ancak mutlaka bir doktora danışın.",
       "overview": "Hamilelik sırasında vajinadan kanama olması her zaman bir sorunun işareti değildir. Hafif\nkanama veya lekelenme özellikle hamileliğin erken dönemlerinde oldukça yaygındır ve birçok hamilelik bu durumdan sonra da\nsorunsuz bir şekilde devam eder.\n\nBununla birlikte, kanama bazen bir sorunun belirtisi olabilir — örneğin düşük veya dış gebelik\ngibi — bu nedenle miktarı ne olursa olsun **her zaman kontrol ettirilmesi** gereken bir durumdur. Bir\nuzmana muayene olmak, sorunun nedenini bulmanın ve gerekirse hızlı bir şekilde doğru tedaviye ulaşmanın yoludur.\n\nAynı belirti çok farklı anlamlara gelebileceğinden, yapılacak en doğru şey tahminde bulunmak değil,\nbir uzmana başvurup muayene olmaktır.",
@@ -114,10 +117,10 @@
       "title": "Emzirme",
       "aliases": [
         "emzirme",
-        "hemşirelik",
         "anne sütü",
         "anne sütüyle besleme",
-        "bebeğinizi beslemek"
+        "bebeğinizi beslemek",
+        "bebeği emzirmek"
       ],
       "glance": "Anne sütü, bebeği enfeksiyonlardan korur ve bebeğin büyümesine göre kendini uyarlar; ne kadar az olursa olsun faydaları vardır.",
       "overview": "Anne sütü, bebekler için doğal ve tam bir besindir: bebeklerin ihtiyaç duyduğu besinleri, vitaminleri ve mineralleri sağlar\nve zamanla bebeğin gelişim aşamasına uyum sağlamak üzere değişir. Ayrıca enfeksiyonlara\nve hastalıklara karşı koruma sağlar ve bazı uzun vadeli sağlık faydaları sunar.\n\nEmziren kişi için de faydaları vardır — emzirme, diğer şeylerin yanı sıra meme\nve yumurtalık kanseri riskinin azalmasıyla ilişkilidir — ve genel olarak, ne kadar çok ve ne kadar uzun süre\nemzirirseniz, faydalar o kadar artar. Önemli olan, **herhangi bir** miktarda anne sütünün faydalı olmasıdır; bu\n“ya hep ya hiç” durumu değildir.\n\nBir bebeği emzirmek ilk başta beklenenden daha zor olabilir ve bu yaygın bir durumdur. Yardım alabilirsiniz —\nebenizden, sağlık ziyaretçinizden ve yerel emzirme destek hizmetlerinden — bu nedenle işler\nsorunsuz gitmiyorsa erken yardım istemek iyi bir adımdır.",
@@ -149,7 +152,7 @@
         "akıntı",
         "vajinal akıntı",
         "rahim ağzı salgıları",
-        "yumurta akı mukusu"
+        "yumurta akı kıvamında akıntı"
       ],
       "glance": "Servikal mukus, adet döngüsü boyunca değişen ve doğurgan günlerinizi gösteren doğal akıntıdır.",
       "overview": "Servikal mukus, rahim ağzının ürettiği ve akıntı olarak fark edebileceğiniz sıvıdır. Bu normaldir ve\ngörünümü ile dokusu, adet döngüsü boyunca oldukça öngörülebilir bir şekilde değişir — işte bu nedenle bu,\ndoğurgan günleri tespit etmek için kullanılan belirtilerden biridir.\n\nAdet döneminden hemen sonra genellikle mukus miktarının az olduğu birkaç “kuru” gün olur. Yumurta\nolgunlaşmaya başladıkça mukus miktarı artar ve genellikle beyaz veya sarı, bulanık ve yapışkan bir hal alır. Yumurtlamadan hemen\nönceki günlerde genellikle berrak, ıslak ve kaygan hale gelir; parmaklar arasında çiğ\nyumurta akı gibi uzar — bu, en doğurgan dönemdir. Yumurtlamadan sonra genellikle tekrar yapışkan ve bulanık\nhal alır ya da kurur.\n\nHerkesin düzeni biraz farklıdır ve kendinizinkini öğrenmek için birkaç döngü boyunca dikkat etmeniz gerekebilir.\nHormonal doğum kontrolü, emzirme veya enfeksiyon gibi bazı faktörler\nmukusu değiştirebilir, bu nedenle bu herkes için güvenilir bir doğurganlık belirtisi değildir.",
@@ -162,9 +165,10 @@
       "aliases": [
         "rahim ağzı taraması",
         "smear testi",
-        "leke",
+        "smear",
         "Pap testi",
-        "Pap smear"
+        "Pap smear",
+        "rahim ağzı kanseri taraması"
       ],
       "glance": "Rahim ağzı taraması, rahim ağzınızın sağlığını kontrol eden ve rahim ağzı kanserini önlemeye yardımcı olan rutin bir muayenedir.",
       "overview": "Rahim ağzı taraması, vajinanın\nen üst kısmında bulunan rahim ağzının sağlığını kontrol eden bir testtir. Bu, bir kanser testi değildir. Aksine, değişiklikleri erken aşamada tespit etmenin ve\nrahim ağzı kanserinin ortaya çıkmasını en başından önlemeye yardımcı olmanın bir yoludur.\n\nRahim ağzı olan herkes, 25 yaşından 64 yaşına kadar bu taramaya davet edilir. Sıra size geldiğinde\ndüzenli aralıklarla bir davet gönderilir; bu sayede aniden randevu almayı hatırlamanız gerekmez —\nancak taramaya gitmek her zaman sizin tercihinizdir.\n\nTestin kendisi hızlıdır ve bir hemşire tarafından yapılır. Birçok kişi bu konuda biraz gergin hisseder, ki bu\ntamamen anlaşılabilir bir durumdur; bunun ne için olduğunu bilmek — rutin, önleyici bir kontrol — bu durumu\ndaha kolay atlatmanıza yardımcı olabilir.",
@@ -176,11 +180,11 @@
       "title": "Çocuk istismarı ve çocukların güvenliği",
       "aliases": [
         "çocuk istismarı",
-        "çocuk istismarı",
+        "çocuğa kötü muamele",
         "çocuk güvenliği",
         "çocuğu korumak",
-        "çocuğu için endişelenen",
-        "ihmal"
+        "bir çocuk için endişeleniyorum",
+        "çocuk ihmali"
       ],
       "glance": "Bir çocuğun zarar gördüğünden veya ihmal edildiğinden endişeleniyorsanız, tavsiye almak doğru bir davranıştır — bundan emin olmanıza gerek yoktur.",
       "overview": "Çocuk istismarı — veya çocuk kötü muamelesi — 18 yaşın altındaki herkese yönelik zarardır. Fiziksel, cinsel ve duygusal istismarı ve ihmali (çocuğun temel ihtiyaçlarının karşılanmaması) içerir. Ne yazık ki yaygın bir durumdur, ömür boyu sürecek zararlara yol açabilir ve asla çocuğun suçu değildir.\n\nHayatınızdaki bir çocuk ya da dikkatinizi çeken bir çocuk hakkında endişeleriniz olabilir. Bu endişeyle ilgili harekete geçmek için emin olmanıza ya da kanıtınız olmasına gerek yoktur — bu endişeye güvenip tavsiye istemek tam da yapılması gereken şeydir ve bu, bir çocuğu koruyabilir.\n\nVe eğer siz de çocukken istismara maruz kaldıysanız, bu zararın asla sizin suçunuz olmadığını ve her yaşta sizin için de destek mevcut olduğunu bilin.",
@@ -241,8 +245,8 @@
       "aliases": [
         "prezervatif",
         "prezervatifler",
+        "kondom",
         "dış prezervatif",
-        "kauçuk",
         "bariyer yöntemi"
       ],
       "glance": "Prezervatifler bir bariyer yöntemidir — ve aynı zamanda cinsel yolla bulaşan enfeksiyonlara karşı da koruma sağlayan tek doğum kontrol yöntemidir.",
@@ -269,7 +273,9 @@
       "title": "Doğum kontrolü",
       "aliases": [
         "doğum kontrolü",
-        "doğum kontrolü",
+        "gebelikten korunma",
+        "korunma yöntemleri",
+        "kontrasepsiyon",
         "aile planlaması"
       ],
       "glance": "Doğum kontrolü, gebeliği önlemenin çeşitli yöntemleridir — ve aralarından seçim yapabileceğiniz pek çok seçenek vardır.",
@@ -313,9 +319,9 @@
       "title": "Adet döngünüz ve sağlığınız",
       "aliases": [
         "iyi oluş",
-        "bisiklet ve sağlık",
         "adet döngüsü ve sağlık",
-        "yaşam belirtisi"
+        "döngü ve sağlık",
+        "genel sağlık ve adet"
       ],
       "glance": "Adet döngünüz, sağlığınızı her ay kontrol etmek gibi bir şeydir — bu döngüdeki değişikliklere dikkat etmek faydalı olabilir.",
       "overview": "Adet döngünüz, genel sağlığınızın geri kalanından ayrı değildir — onunla bağlantılıdır. Sizin için\ndüzenli olan bir döngü, genellikle vücudunuzun olması gerektiği gibi işlediğinin bir işaretidir. Bu nedenle\nbazı insanlar adet dönemini, genel sağlık durumuna dair bir tür aylık sinyal olarak görür.\n\nGünlük yaşam da bu konuda etkilidir. Vücut ağırlığı buna bir örnektir: aşırı zayıf veya aşırı kilolu olmak,\nyumurtlamayı yönlendiren hormonları etkileyebilir ve bu da adetlerin düzensizleşmesine neden olabilir. Bu durum her iki\nyönü de geçerlidir — dengeli beslenme ve aktif kalma gibi temel konulara özen göstermek,\ndöngüyü destekler; düzenli bir döngü ise bu unsurların makul bir dengede olduğunun işaretidir.\n\nBurada amaç, “mükemmel” bir döngü peşinde koşmak ya da değişiklikler nedeniyle kendinizi suçlamak değildir. Sadece,\ndöngünüze nazikçe dikkat etmek, durumunuz hakkında yararlı bir fikir verebilir — ve bir değişiklik olduğunda\nbir hekime danışmanız için bir işaret olabilir.",
@@ -328,9 +334,10 @@
       "aliases": [
         "ekonomik istismar",
         "finansal istismar",
-        "para yönetimi",
+        "ekonomik şiddet",
+        "paramı kontrol ediyor",
         "mali durumun kontrolü",
-        "adımı taşıyan borç"
+        "benim adıma borç"
       ],
       "glance": "Ekonomik istismar, bir kişinin paraya, işe veya kaynaklara erişimini kontrol etmektir — bu, tanınmış bir istismar türüdür.",
       "overview": "Ekonomik istismar, bir kişinin başka bir kişinin paraya ve parayla satın alınabilecek şeylere erişimini kontrol etmesidir. Bu, kontrolcü davranışın bir biçimidir ve genellikle diğer istismar türleriyle birlikte görülür.\n\nBu, tüm harcamaları kontrol etmek veya her kuruşun hesabını sormak, maaşınızı veya sosyal yardımlarınızı almak, sizin adınıza borç biriktirmek, banka hesaplarını veya belgeleri sizden saklamak ya da çalışmanızı veya okumanızı engellemek şeklinde olabilir. Bu durum, bir kişinin ayrılma imkânını veya günlük hayatını idare etme imkânını elinden alabileceğinden, istismarın bir tuzak gibi hissedilmesine neden olan yollardan biridir.\n\nBunlardan bazıları size tanıdık geliyorsa, bu “parayı iyi idare edemediğiniz” veya suçlu olduğunuz anlamına gelmez. Başka bir kişinin kaynaklarını kontrol etmek, o kişinin kendi yaptığı bir seçimdir — ve bu, istismar olarak kabul edilir.",
@@ -342,7 +349,9 @@
       "title": "Dış gebelik",
       "aliases": [
         "dış gebelik",
+        "ektopik gebelik",
         "ektopik",
+        "tüp gebelik",
         "tubal gebelik"
       ],
       "glance": "Ektopik gebelik rahim dışında gelişir — bu durum devam edemez ve acil tıbbi müdahale gerektirir.",
@@ -396,8 +405,8 @@
         "egzersiz",
         "fiziksel aktivite",
         "spor yapmak",
-        "hareket",
-        "egzersiz ve adet dönemleri"
+        "adetteyken spor",
+        "adet döneminde egzersiz"
       ],
       "glance": "Adet döngünüzün tamamı boyunca aktif kalabilirsiniz — düzenli hareket etmek krampları ve PMS belirtilerini hafifletebilir.",
       "overview": "Döngünüzün herhangi bir aşamasında fiziksel olarak aktif olabilirsiniz. Bazı kişiler, ayın belirli dönemlerinde daha fazla enerjiye sahip olduklarını ve\nbiraz daha fazla efor sarfedebildiklerini, diğer dönemlerde ise daha az efor sarfedebildiklerini fark ederler — her ikisi de normaldir ve\nhiçbiri hareket etmeyi bırakmak için bir neden değildir.\n\nDüzenli egzersiz, adet dönemiyle ilgili bazı semptomların hafiflemesine yardımcı olabilir. Düzenli egzersiz yapan kişiler\ngenellikle daha az ağrılı kramp yaşar ve aktif kalmak adet öncesi semptomları (PMS) da hafifletebilir. Enerjinizin\ndüşük olduğu günlerde, daha hafif hareketler de işe yarar — faydalı olması için yoğun olması gerekmez.\n\nHayatınızı adet döngünüze göre planlamanıza gerek yoktur ve hareket etmenin tek bir “doğru” yolu da yoktur. Ay boyunca\nkendi enerji düzeninizi gözlemlemek, kendinizi iyi hissedeceğiniz şekilde plan yapmanıza yardımcı olabilir.",
@@ -564,10 +573,11 @@
       "aliases": [
         "aşırı adet kanaması",
         "menoraji",
-        "aşırı adet kanaması",
-        "sel",
+        "yoğun adet kanaması",
+        "çok fazla adet kanaması",
         "şiddetli kanama",
-        "pıhtılar"
+        "pıhtılar",
+        "adette pıhtı"
       ],
       "glance": "Ağır adet kanaması, her adet döngüsünde çok fazla kan kaybı anlamına gelir — yaygın bir durumdur, ancak sizi etkiliyorsa kontrol ettirmenizde fayda vardır.",
       "overview": "Ağır adet kanamaları — tıbbi adı menoraji — adet dönemlerinde çok fazla kan kaybı yaşanması anlamına gelir.\nBazı kişiler için ağır kanama normaldir, ancak bu durum hayatınızı aksatıyorsa veya\nsizi bitkin bırakıyorsa, bir doktora danışmanızda fayda vardır.\n\nAdet kanamanızın ağır olduğuna dair bazı belirtiler: her 1 ila 2 saatte bir ped veya tampon değiştirmek zorunda kalmak,\niki farklı adet ürününü (örneğin tampon ve ped) aynı anda kullanmak, kanın\nkıyafetlerinize veya yatak çarşaflarınıza sızması, yaklaşık 2,5 cm’den (kabaca 10 peni madeni para büyüklüğünde) daha büyük kan pıhtıları gelmesi veya adetlerin\n7 günden fazla sürmesi.\n\nHer ay çok fazla kan kaybetmek, demir eksikliğine (anemi) yol açabileceğinden\nyorgunluk veya nefes darlığına neden olabilir. Bunun birçok olası nedeni vardır — miyomlardan veya\nendometriozis, adenomyozis ya da PCOS gibi durumlardan bazı ilaçlara kadar — ve çoğu zaman ciddi bir neden bulunmaz. Her\nhalükarda, ağır adet kanamaları genellikle tedavi edilebilir, bu yüzden bunlarla sadece yaşamak zorunda değilsiniz.",
@@ -592,9 +602,9 @@
       "title": "Dinleme ve duygusal destek",
       "aliases": [
         "nasıl dinlemeli",
-        "ortaklara duygusal destek",
+        "partnere duygusal destek",
         "iletişim",
-        "onun için orada olmak"
+        "onun yanında olmak"
       ],
       "glance": "Çoğu zaman çözüm üretilmesine değil, dinlenmeye ihtiyaç duyar; önce dinleyin ve tavsiyede bulunmadan önce sorun.",
       "overview": "Sevdiğimiz biri zorlandığında, içgüdümüz hemen devreye girip sorunu çözmek olur. Ama çoğu zaman en çok yardımcı olan şey,\ngerçekten duyulduğunu hissetmesidir: duygularının anlaşılır olduğunu ve bu duygularla yalnız olmadığını. Sorunu çok\nhızlı çözmeye çalışmak, \"duyguların kapatılması gereken bir sorun\" mesajı gibi algılanabilir.\n\nİyi dinlemek herkesin öğrenebileceği bir beceridir. Çoğunlukla dikkatle ilgilidir: telefonu bir kenara bırakmak, ona dönmek\nve sözünü bitirmesine izin vermek. Ona saygı duyulduğunu hissettirmek için söylediği her şeye katılmanız gerekmez.",
@@ -618,7 +628,9 @@
       "title": "Menopoz",
       "aliases": [
         "menopoz",
-        "değişiklik"
+        "klimakteryum",
+        "adetten kesilme",
+        "sıcak basmaları"
       ],
       "glance": "Menopoz, adet kanamalarının kalıcı olarak sona erdiği dönemdir — genellikle 45 ile 55 yaşları arasında yaşanan doğal bir aşamadır.",
       "overview": "Menopoz, adet kanamalarınızın kalıcı olarak sona erdiği dönemdir. Adet kanamaları ilk başta bir\nsüre gelip gidebileceğinden, arka arkaya 12 ay boyunca adet görmediğinizde menopozun başladığı kabul edilir. Genellikle\n45 ile 55 yaşları arasında gerçekleşir, ancak daha erken veya daha geç de olabilir.\n\nBu, yaşlanmanın doğal bir parçasıdır, bir hastalık değildir. Yumurtalıkların işlevinin azalması ve döngünün\nanahtar hormonu olan östrojen seviyesinin düşmesiyle gerçekleşir. Bu hormonal değişim, birçok\nkişinin fark ettiği değişikliklerin arkasındaki nedendir: sıcak basması ve gece terlemeleri, menopoz öncesinde adetlerdeki değişiklikler, uyku sorunları,\nruh hali değişimleri veya kaygı, zihin bulanıklığı, vajinal kuruluk ve ağrılar.\n\nYaşanımlar kişiden kişiye büyük farklılıklar gösterir — bazıları bu süreci kolayca atlatırken, diğerleri zorlanır ve belirtiler\nbirkaç yıl sürebilir. Bunların hiçbiri, sizin bir sorununuz olduğu anlamına gelmez. Destek ve seçenekler mevcuttur ve\nneler olduğunu anlamak iyi bir ilk adımdır.",
@@ -656,9 +668,10 @@
       "title": "Düşük",
       "aliases": [
         "düşük",
-        "düşük",
+        "kendiliğinden düşük",
+        "gebelik kaybı",
         "erken gebelik kaybı",
-        "gebeliğin kesilmesi"
+        "bebeği kaybetmek"
       ],
       "glance": "Düşük, 24. haftadan önce gebeliğin sonlanmasıdır — bu durum yaygındır ve neredeyse hiçbir zaman sizin hatanızdan kaynaklanmaz.",
       "overview": "Düşük, hamileliğin ilk 24 haftasında yaşanan gebelik kaybıdır. Bu durum, çoğu kişinin\nfarkında olduğundan daha yaygındır ve bilinmesi gereken en önemli şeylerden biri, bunun neredeyse hiçbir zaman sizin\nyaptığınız veya yapmadığınız bir şeyden kaynaklanmadığıdır — genellikle hamileliğin gelişimindeki,\nkimsenin kontrolü dışında olan bir sorun nedeniyle meydana gelir.\n\nEn yaygın belirtiler vajinal kanama ile karnınızın alt kısmında kramp veya ağrıdır. Hamileliğin\nerken dönemlerinde kanama her zaman bir düşük olduğu anlamına gelmez — birçok kişi az miktarda kanama yaşar ve\nsonrasında sağlıklı bir hamilelik geçirir — ancak her zaman bir doktora danışılmalıdır.\n\nKayıp nasıl gerçekleşirse gerçekleşsin, bununla birlikte gelen duygular gerçektir ve geçerlidir; yas tutmak da normal bir\ntepkidir. Bunu tek başınıza atlatmak zorunda değilsiniz — ebe veya aile hekiminizden ve\ngebelik kaybına odaklanmış yardım kuruluşlarından destek alabilirsiniz.",
@@ -715,10 +728,10 @@
       "aliases": [
         "doğum sırasında ağrı giderme",
         "epidural",
-        "gaz ve hava",
+        "güldürücü gaz",
         "Entonox",
         "doğum ağrılarının hafifletilmesi",
-        "doğum havuzu",
+        "suda doğum",
         "TENS"
       ],
       "glance": "Doğum ağrısını hafifletmenin çeşitli yolları vardır — doğru ya da yanlış bir seçim yoktur ve bu konuda esnek davranabilirsiniz.",
@@ -746,7 +759,8 @@
       "aliases": [
         "perimenopoz",
         "menopoz geçiş dönemi",
-        "değişiklik"
+        "premenopoz",
+        "menopoz öncesi"
       ],
       "glance": "Perimenopoz, adet döngüsünde ve hormonlarda değişikliklerin başladığı, menopoz öncesindeki geçiş dönemidir.",
       "overview": "Perimenopoz, menopozun öncesindeki dönemdir — yani “menopoz civarındaki” yıllardır. Bu dönem,\ndeğişiklikleri ilk fark ettiğiniz anda başlar ve son adet döneminizden tam bir yıl sonrasına kadar sürer;\nbu noktada menopoz aşamasına ulaşmış olursunuz. Birkaç yıl sürebilir.\n\nBu süre zarfında yumurtalıklar giderek daha az östrojen üretir ve östrojen seviyeleri eskisine göre\ndaha az öngörülebilir bir şekilde yükselip alçalır. En yaygın erken belirti, adet döngüsünde meydana gelen değişikliklerdir — adetler\nbirbirine yaklaşır veya aralıkları uzar, kanamalar daha az veya daha fazla olur. Sıcak basması,\nuyku değişiklikleri veya ruh hali dalgalanmaları gibi menopozla ilişkili birçok belirti, henüz adet görmeye devam ederken bu dönemde ortaya çıkabilir.\n\nYavaş yavaş ilerlemesi ve kişiden kişiye büyük farklılıklar göstermesi nedeniyle perimenopoz kafa karıştırıcı olabilir — değişiklikler\nherkeste aynı anda veya aynı sırayla ortaya çıkmaz. Bu aşamanın bir adı olduğunu ve bunun\nnormal bir geçiş süreci olduğunu bilmek, durumu anlamayı kolaylaştırabilir.",
@@ -789,10 +803,11 @@
       "title": "Doğum sonrası depresyon",
       "aliases": [
         "doğum sonrası depresyon",
-        "doğum sonrası depresyonu",
+        "lohusa depresyonu",
+        "postpartum depresyon",
         "PND",
-        "doğum sonrası depresyonu",
-        "doğum sonrası depresyon"
+        "lohusa hüznü",
+        "doğum sonrası hüzün"
       ],
       "glance": "Doğum sonrası depresyon, doğumdan sonra sık görülen ve tedavi edilebilir bir ruh hali bozukluğudur — bu sizin suçunuz değil ve yardım alabilirsiniz.",
       "overview": "Doğumdan sonraki ilk birkaç hafta içinde kendinizi moralsiz, endişeli veya sinirli hissetmek çok yaygındır — buna\ngenellikle “doğum sonrası hüzün” denir ve genellikle yaklaşık iki hafta içinde kendiliğinden geçer.\n\nDoğum sonrası depresyon ise farklıdır: daha derin veya daha uzun süren bir moral bozukluğudur. Bu yaygın bir durumdur,\nilk yılın herhangi bir döneminde başlayabilir ve babaları ile eşleri de etkileyebilir. Belirtileri arasında\nsürekli düşük ruh hali, hiçbir şeyden zevk alamama, bebeğiniz uyurken bile uyku sorunu yaşamak\nve bazen bebeğinizle bağ kurma konusunda zorluk hissetmek yer alır.\n\nBu durumun olması, **kesinlikle** kötü bir ebeveyn olduğunuz veya bebeğinizi sevmediğiniz anlamına gelmez — bu bir hastalıktır,\nbir başarısızlık değildir ve destek ve tedaviye iyi yanıt verir. Erken yardım istemek, hem sizin hem de bebeğiniz için\nyapılabilecek en güçlü ve şefkatli adımdır.",
@@ -804,7 +819,7 @@
       "title": "Preeklampsi",
       "aliases": [
         "preeklampsi",
-        "preeklampsi",
+        "gebelik zehirlenmesi",
         "Hamilelikte yüksek tansiyon",
         "toksemi"
       ],
@@ -819,10 +834,10 @@
       "aliases": [
         "hamilelik",
         "hamile olmak",
-        "beklemek",
+        "bebek beklemek",
         "gebelik",
         "üç aylık dönemler",
-        "son tarih",
+        "tahmini doğum tarihi",
         "kaç haftalık hamile"
       ],
       "glance": "Hamilelik genellikle son adet döneminizin ilk gününden itibaren sayıldığında yaklaşık 40 hafta sürer.",
@@ -849,10 +864,10 @@
       "title": "Erken doğum",
       "aliases": [
         "erken doğum",
-        "erken doğum",
-        "erken doğum",
-        "erken doğum",
-        "erken doğum",
+        "erken doğum eylemi",
+        "preterm doğum",
+        "erken doğum sancısı",
+        "erken gelen sancılar",
         "suyun erken gelmesi"
       ],
       "glance": "Erken doğum, 37. haftadan önce başlayan doğumdur — erken müdahale büyük fark yaratır, bu yüzden hemen harekete geçin.",
@@ -990,7 +1005,7 @@
         "cinsel şiddet",
         "cinsel saldırı",
         "tecavüz",
-        "onay",
+        "rıza",
         "cinsel istismar",
         "rıza dışı"
       ],
@@ -1004,12 +1019,12 @@
       "title": "Doğum belirtileri",
       "aliases": [
         "doğum belirtileri",
-        "emek",
+        "doğum eylemi",
         "doğum sancıları başlamak",
         "kasılmalar",
         "suyun gelmesi",
-        "dizi",
-        "gizli faz"
+        "nişan gelmesi",
+        "latent faz"
       ],
       "glance": "Doğumun başladığını gösteren belirtiler arasında düzenli kasılmalar, “nişan” (mukus tıkacının gelmesi), sırt ağrısı veya suyun gelmesi sayılabilir.",
       "overview": "Doğumun başladığını gösteren birkaç belirti vardır. Bunların başlıcası kasılmalardır — karnınızda\ndüzenli aralıklarla ortaya çıkan ve şiddeti giderek artan kasılmalar. Diğer belirtiler arasında “nişan” (rahim ağzınızdan\nayrılan mukus tıkacı), sürekli sırt ağrısı, tuvalete gitme ihtiyacı ve suyun gelmesi sayılabilir.\n\nAktif doğumdan önce genellikle erken (“latent”) bir aşama vardır; bu aşamada rahim ağzı yumuşar ve\naçılmaya başlar. Bu aşama saatler hatta günler sürebilir ve çoğu kişi için bu süre zarfında\nevde rahatça dinlenip bol sıvı tüketmek yeterlidir.\n\nHerkesin doğum süreci biraz farklı başlar, bu nedenle her belirtinin gerçekleşmesini beklemenize gerek yoktur.\nDoğumun başladığını düşündüğünüzde, ebe veya doğum servisi size ne yapmanız gerektiği ve\nne zaman hastaneye gelmeniz gerektiği konusunda rehberlik edecektir.",
@@ -1097,7 +1112,7 @@
         "stres ve adet dönemleri",
         "stres",
         "adet gecikmesi",
-        "geç dönem",
+        "regl gecikmesi",
         "Adet dönemim neden gecikti?"
       ],
       "glance": "Stres, kiloda büyük değişiklikler veya yoğun egzersiz, adet kanamasını geciktirebilir veya durdurabilir — genellikle sadece geçici olarak.",
@@ -1110,8 +1125,8 @@
       "title": "Regl döneminde ona destek olmak",
       "aliases": [
         "regl döneminde yardım etmek",
-        "ortaklara dönem desteği",
-        "dönem bakımı"
+        "partnere adet döneminde destek",
+        "adet döneminde ona bakmak"
       ],
       "glance": "Regl dönemleri gerçek acı ve yorgunluk getirebilir; küçük, pratik bakım büyük fark yaratır.",
       "overview": "Adet dönemi sadece birkaç günlük kanama değildir; birçok kişi için kramplar, sırt ağrısı, baş ağrıları,\nyorgunluk ve düşük enerjiyle birlikte gelir. Regl ağrısı yaygındır ve gerçekten tüketici olabilir — bu bir\nabartı değildir. Hasta olan herhangi bir partnere nasıl davranırsanız ona da öyle davranın: pratik bir nezaketle.\n\nBunu normalleştirin de. Regl dönemleri iğrenç, utanç verici ya da tabu değildir. Ped veya tampon satın alırken rahat olmak,\nevde biraz bulundurmak ya da hiç sorun etmeden ona bir sıcak su torbası uzatmak, ona güvende olduğunu ve\ndesteklendiğini hissettirir.",
@@ -1172,10 +1187,10 @@
       "aliases": [
         "ikizler",
         "ikiz gebelik",
-        "çoklu gebelik",
+        "çoğul gebelik",
         "ikiz bekliyor",
         "tek yumurta ikizleri",
-        "eş olmayan ikizler",
+        "çift yumurta ikizleri",
         "üçüzler"
       ],
       "glance": "İkiz gebeliği genellikle ilk kez gebelik yaşı belirleme ultrasonunda fark edilir ve bu durum, biraz daha fazla doğum öncesi bakım gerektirir.",
@@ -1188,9 +1203,9 @@
       "title": "Döngüsünü anlamak",
       "aliases": [
         "partnerler için döngü rehberi",
-        "ortaklar için döngü",
+        "partnerler için döngü",
         "onun döngüsü nasıl çalışıyor",
-        "onun döngüsünü destekliyor"
+        "onun döngüsünü desteklemek"
       ],
       "glance": "Vücudu dört aşamadan oluşan aylık bir döngüden geçer; temelleri bilmek, onu tahmin etmeden desteklemenize yardımcı olur.",
       "overview": "Adet döngüsü kabaca aylık bir ritimdir: ortalama yaklaşık 28 gün sürer, ama çoğu zaman 21 ile 35 gün arasında değişir ve\nonun için normal olan, *onun* için düzenli olandır. Dört evreden oluşur: **adet** evresi (regl dönemi), **foliküler**\nevre, döngünün ortasında **yumurtlama** ve bir sonraki adetten önceki **luteal** evre.\n\nEnerji, ruh hali, uyku ve cinsel istek bu evreler boyunca değişebilir, çünkü hormonlar yükselip alçalır — bu\nbiyolojidir; bir karakter kusuru ya da onunla dalga geçilecek bir şey değildir. Bazı kişiler adetten önceki günlerde gerçek bir düşüş\nhisseder; bazıları ise neredeyse hiç fark etmez. Hissetmenin tek bir \"doğru\" yolu yoktur.\n\nUzman olmanıza gerek yok. En çok yardımcı olan şey basittir: döngüsünün kabaca neresinde olduğunu bilin\n(bu uygulama, onun izniyle bunu size gösterebilir), bazı günlerin diğerlerinden daha zor olacağını bekleyin ve varsaymak yerine\n*onun* neyi yararlı bulduğunu kendisine sorun.",
@@ -1216,8 +1231,8 @@
       "aliases": [
         "vajinal sağlık",
         "vulva sağlığı",
-        "kişisel hijyen",
-        "temiz tutmak",
+        "genital hijyen",
+        "genital bölge temizliği",
         "vajinal duş",
         "vajinal akıntı"
       ],

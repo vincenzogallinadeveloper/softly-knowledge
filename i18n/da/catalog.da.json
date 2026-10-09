@@ -25,11 +25,11 @@
     "antenatal-care": {
       "title": "Graviditetsundersøgelser",
       "aliases": [
-        "prænatal pleje",
-        "svangerskabsomsorg",
-        "graviditetspleje",
+        "svangreomsorg",
+        "graviditetsundersøgelser",
         "jordemoderbesøg",
-        "bestille en tid",
+        "jordemoderkonsultation",
+        "lægeundersøgelse i graviditeten",
         "prænatalundersøgelser"
       ],
       "glance": "Graviditetsundersøgelser er de regelmæssige kontrolbesøg under graviditeten, der bidrager til at sikre, at både du og dit barn har det godt.",
@@ -42,11 +42,12 @@
       "title": "Dit barns bevægelser",
       "aliases": [
         "barnets bevægelser",
-        "barnets bevægelser",
+        "fosterbevægelser",
         "fostrets bevægelser",
         "spark",
         "at mærke barnet bevæge sig",
-        "begrænsede bevægelser"
+        "færre fosterbevægelser",
+        "nedsatte fosterbevægelser"
       ],
       "glance": "Når du mærker dit barn bevæge sig, er det et tegn på, at det har det godt — hvis bevægelserne bliver færre eller ændrer sig, skal du straks kontakte din jordemoder.",
       "overview": "At mærke dit barn bevæge sig er et af de betryggende tegn på, at det har det godt. De fleste begynder at\nmærke bevægelser et sted mellem 16. og 24. graviditetsuge — ofte senere i en første graviditet, så\ndet er almindeligt, at man først mærker det efter 20. uge, når det er første gang.\n\nDer er ikke noget fast antal bevægelser, du »bør« mærke, og der er ingen grund til at tælle sparkene op mod et bestemt mål.\nAlle babyer er forskellige, og det vigtigste er at lære **din** babys eget sædvanlige mønster at kende\ni løbet af dagen – de tidspunkter, hvor den er aktiv, og de tidspunkter, hvor den er stille.\n\nNår du kender det mønster, er det en ændring i forhold til det, du skal være opmærksom på. Stol på det, du ved\nom din egen baby.",
@@ -115,7 +116,7 @@
       "title": "Amning",
       "aliases": [
         "amning",
-        "sygepleje",
+        "amme",
         "modermælk",
         "brystamning",
         "at give din baby mad"
@@ -163,9 +164,10 @@
       "aliases": [
         "livmoderhalskræftscreening",
         "celleprøve",
-        "udstrygning",
-        "celleprøve",
-        "livmoderhalskræftundersøgelse"
+        "celleprøve fra livmoderhalsen",
+        "screening for livmoderhalskræft",
+        "livmoderhalskræftundersøgelse",
+        "pap-test"
       ],
       "glance": "Livmoderhalskræftscreening er en rutinemæssig undersøgelse af livmoderhalsens tilstand, der bidrager til at forebygge livmoderhalskræft.",
       "overview": "Livmoderhalskræftscreening er en undersøgelse, der kontrollerer livmoderhalsens tilstand — åbningen til livmoderen øverst i\nskeden. Det er ikke en kræftundersøgelse. Det er derimod en måde at opdage forandringer tidligt og dermed\nforhindre, at livmoderhalskræft overhovedet udvikler sig.\n\nAlle med en livmoderhals bliver indkaldt fra 25-års-alderen og op til 64 år. Du modtager en indkaldelse, når\ndet er tid, med jævne mellemrum, så du behøver ikke selv at huske at bestille tid –\nselvom det altid er dit valg, om du vil gå til undersøgelsen.\n\nSelve undersøgelsen går hurtigt og udføres af en sygeplejerske. Mange føler sig lidt nervøse ved det, hvilket er\nhelt forståeligt; at vide, hvad det går ud på – en rutinemæssig, forebyggende undersøgelse – kan gøre det lettere at\nhåndtere.",
@@ -177,11 +179,11 @@
       "title": "Børnemishandling og børns sikkerhed",
       "aliases": [
         "børnemishandling",
-        "børnemishandling",
         "børns sikkerhed",
         "beskyttelse af et barn",
         "bekymret for et barn",
-        "forsømmelse"
+        "omsorgssvigt",
+        "vold mod børn"
       ],
       "glance": "Hvis du er bekymret for, at et barn bliver udsat for overgreb eller omsorgssvigt, er det rigtigt at søge råd – du behøver ikke at være helt sikker.",
       "overview": "Børnemishandling — eller vold mod børn — er skade på enhver under 18 år. Det omfatter fysisk, seksuel og følelsesmæssig mishandling samt omsorgssvigt (manglende opfyldelse af et barns grundlæggende behov). Det er desværre udbredt, det kan forårsage livslang skade, og det er aldrig barnets skyld.\n\nMåske er du bekymret for et barn i dit liv eller for et barn, du har lagt mærke til. Du behøver ikke at være sikker eller have beviser for at handle på den bekymring — at stole på din fornemmelse og søge råd er præcis det rigtige at gøre, og det kan beskytte et barn.\n\nOg hvis du selv har været udsat for misbrug som barn, skal du vide, at det aldrig var din skyld, og at der også er hjælp at hente til dig, uanset hvilken alder du har.",
@@ -194,10 +196,10 @@
       "aliases": [
         "tvangskontrol",
         "kontrollerende adfærd",
-        "følelsesmæssigt misbrug",
+        "følelsesmæssig vold",
         "psykisk vold",
         "isolation",
-        "økonomisk misbrug",
+        "økonomisk vold",
         "gaslighting"
       ],
       "glance": "Tvangskontrol er et mønster af kontrollerende adfærd – isolering, overvågning, trusler – som er en anerkendt form for misbrug.",
@@ -243,8 +245,7 @@
         "kondom",
         "kondomer",
         "eksternt kondom",
-        "gummi",
-        "barriere-metoden"
+        "barrieremetode"
       ],
       "glance": "Kondomer er en barriereform for prævention — og den eneste form for prævention, der også beskytter mod seksuelt overførte infektioner.",
       "overview": "Et kondom er en tynd barriere — som regel af latex eller et alternativ af plast til personer med latexallergi\n— der bæres på penis under samleje. Det virker ganske enkelt: Det forhindrer sædceller i at trænge ind i skeden.\n\nDet, der gør kondomer specielle blandt præventionsmidler, er, at de er **den eneste metode, der også beskytter\nmod seksuelt overførte infektioner (STI'er), herunder hiv.** Derfor bruges de ofte\nsammen med en anden metode — den ene til at forhindre graviditet, begge to til at beskytte mod infektioner.\n\nNår kondomer bruges korrekt hver gang, er de ca. 98 % effektive til at forhindre graviditet. Ved typisk\nbrug — hvor de nogle gange bruges forkert eller ikke hver gang — falder effektiviteten til ca. 82 %. Det er\nkorrekt og konsekvent brug, der gør hele forskellen.",
@@ -299,6 +300,7 @@
     "contraceptive-implant": {
       "title": "Præventionsimplantatet",
       "aliases": [
+        "p-stav",
         "præventionsimplantat",
         "implantatet",
         "Nexplanon",
@@ -314,8 +316,10 @@
       "title": "Din menstruationscyklus og dit velbefindende",
       "aliases": [
         "trivsel",
-        "cykling og sundhed",
+        "velbefindende",
         "menstruationscyklus og sundhed",
+        "cyklus og helbred",
+        "menstruation og trivsel",
         "vitaltegn"
       ],
       "glance": "Din menstruationscyklus er lidt som en månedlig sundhedstjek – det kan være værd at lægge mærke til ændringer i den.",
@@ -328,9 +332,9 @@
       "title": "Økonomisk vold",
       "aliases": [
         "økonomisk vold",
-        "økonomisk misbrug",
-        "pengeforvaltning",
-        "styring af økonomien",
+        "økonomisk kontrol",
+        "kontrollerer pengene",
+        "styrer min økonomi",
         "gæld i mit navn"
       ],
       "glance": "Økonomisk misbrug er at kontrollere en persons adgang til penge, arbejde eller ressourcer — en anerkendt form for misbrug.",
@@ -356,9 +360,9 @@
       "title": "Nødprævention",
       "aliases": [
         "nødprævention",
+        "fortrydelsespille",
+        "fortrydelsespillen",
         "morgen-efter-pillen",
-        "morgen-efter-pillen",
-        "nødprævention",
         "Levonelle",
         "ellaOne"
       ],
@@ -450,7 +454,7 @@
     "folic-acid": {
       "title": "Folsyre og vitaminer under graviditeten",
       "aliases": [
-        "folinsyre",
+        "folsyre",
         "folat",
         "D-vitamin under graviditeten",
         "vitaminer til gravide",
@@ -459,7 +463,7 @@
       "glance": "Folsyre før og i den tidlige graviditet er med til at beskytte barnet — og så skal man tage et dagligt D-vitamin.",
       "overview": "Der er to kosttilskud, der er særligt vigtige under graviditeten, og det britiske sundhedsvæsen (NHS) anbefaler dem begge.\n\n**Folinsyre** er det vigtigste. At tage et kosttilskud på 400 mikrogram hver dag – helst allerede før du\nbliver gravid (ca. tre måneder før) og indtil slutningen af første trimester, dvs. 12 uger – hjælper med at\nbeskytte barnet mod neuralrørsdefekter såsom spina bifida. Da det virker så tidligt, er det\nen af de få ting, det er værd at begynde på *før* en graviditet, hvis du prøver at blive gravid.\n\n**D-vitamin** er det andet: et dagligt kosttilskud på 10 mikrogram anbefales gennem hele graviditeten\nog under amning for at støtte barnets knogler og udvikling.\n\nUd over disse to dækker en sund og varieret kost de fleste behov — du har ikke brug for mange ekstra kosttilskud.\nEt, du bør holde dig fra, er **vitamin A** (retinol): tag ikke kosttilskud, der indeholder det, og undgå\nlever, da for meget vitamin A kan skade barnet.",
       "deep": null,
-      "when_to_see_doctor": "- En **praktiserende læge, jordemoder eller apoteker** kan hjælpe dig med at vælge de rigtige kosttilskud, og nogle personer\n  anbefales at tage en **højere dosis folinsyre** (for eksempel ved diabetes, en højere BMI, visse\n  lægemidler eller en tidligere graviditet, der var præget af en neuralrørsdefekt) — så det er værd at spørge,\n  især før eller i den tidlige graviditet.",
+      "when_to_see_doctor": "- En **praktiserende læge, jordemoder eller apoteker** kan hjælpe dig med at vælge de rigtige kosttilskud, og nogle personer\n  anbefales at tage en **højere dosis folsyre** (for eksempel ved diabetes, en højere BMI, visse\n  lægemidler eller en tidligere graviditet, der var præget af en neuralrørsdefekt) — så det er værd at spørge,\n  især før eller i den tidlige graviditet.",
       "red_flags": null
     },
     "follicular-phase": {
@@ -564,11 +568,12 @@
       "title": "Kraftige menstruationer",
       "aliases": [
         "kraftige menstruationer",
+        "kraftig menstruation",
         "menorragi",
         "kraftig menstruationsblødning",
-        "oversvømmelse",
         "kraftig blødning",
-        "blodpropper"
+        "klumper i menstruationsblodet",
+        "størknet blod"
       ],
       "glance": "Kraftige menstruationer betyder, at man mister meget blod ved hver cyklus — det er almindeligt, men det er en god idé at få det undersøgt, hvis det påvirker dig.",
       "overview": "Kraftig menstruation — den medicinske betegnelse er menorrhagi — betyder, at man mister meget blod under menstruationen.\nFor nogle er kraftig blødning ganske enkelt det normale, men hvis det forstyrrer dit liv eller efterlader\ndig udmattet, er det værd at undersøge nærmere.\n\nNogle tegn på, at menstruationen er kraftig: at du er nødt til at skifte bind eller tampon hver 1. til 2. time,\nat bruge to typer menstruationsprodukter samtidig (f.eks. en tampon og et bind), at blodet trænger igennem til dit\ntøj eller sengetøj, at der kommer blodpropper, der er større end ca. 2,5 cm (omtrent en 10p-mønt), eller menstruationer,\nder varer mere end 7 dage.\n\nAt miste meget blod måned efter måned kan gøre dig træt eller forpustet, fordi det kan føre\ntil lavt jernindhold (anæmi). Der er mange mulige årsager – lige fra fibromer eller tilstande som\nendometriose, adenomyose eller PCOS til visse lægemidler – og ofte findes der ingen alvorlig årsag. Uanset\nhvad er der som regel noget, der kan gøres ved kraftige menstruationer, så det er ikke noget, du bare skal lære at leve med.",
@@ -619,7 +624,8 @@
       "title": "Overgangsalderen",
       "aliases": [
         "overgangsalderen",
-        "ændringen"
+        "menopause",
+        "klimakteriet"
       ],
       "glance": "Overgangsalderen er den periode, hvor menstruationen ophører for altid — en naturlig fase, som man normalt når mellem ca. 45 og 55 år.",
       "overview": "Overgangsalderen er det tidspunkt, hvor menstruationen ophører permanent. Da menstruationen i starten kan komme og gå i et\nstykke tid, regnes den for indtrådt, når der er gået 12 måneder i træk uden menstruation. Det sker normalt\nmellem ca. 45 og 55 år, selvom det kan ske tidligere eller senere.\n\nDet er en naturlig del af aldringen, ikke en sygdom. Det sker, når æggestokkene trapper ned, og niveauet af\nøstrogen – et vigtigt hormon i cyklusen – falder. Denne hormonelle forandring ligger bag de ændringer, som mange\nmennesker mærker: hedeture og nattesved, ændringer i menstruationen i tiden op til overgangsalderen, søvnproblemer,\nhumørsvingninger eller angst, hjerne-tåge, vaginal tørhed og smerter.\n\nOplevelserne varierer enormt — nogle kommer let igennem det, andre har det svært, og symptomerne kan vare\ni flere år. Intet af dette betyder, at der er noget galt med dig. Der findes støtte og muligheder, og\nat forstå, hvad der sker, er et godt første skridt.",
@@ -656,9 +662,11 @@
     "miscarriage": {
       "title": "Spontanabort",
       "aliases": [
-        "abort",
-        "abort",
+        "spontan abort",
+        "spontanabort",
+        "ufrivillig abort",
         "tidligt graviditetstab",
+        "at miste en graviditet",
         "at miste et barn under graviditeten"
       ],
       "glance": "Et spontanabort er tabet af et foster før 24. uge — det er almindeligt, og det er næsten aldrig noget, du selv har forårsaget.",
@@ -716,10 +724,11 @@
       "aliases": [
         "smertelindring under fødslen",
         "epidural",
-        "gas og luft",
+        "epiduralblokade",
+        "lattergas",
         "Entonox",
-        "smertelindring under fødslen",
-        "fødselsbassin",
+        "fødekar",
+        "vandfødsel",
         "TENS"
       ],
       "glance": "Der findes flere måder at lindre fødselssmerter på — der er ikke noget rigtigt eller forkert valg, og du kan være fleksibel.",
@@ -747,7 +756,8 @@
       "aliases": [
         "perimenopause",
         "overgangsalderen",
-        "ændringen"
+        "klimakteriet",
+        "starten på overgangsalderen"
       ],
       "glance": "Perimenopausen er den overgangsperiode, der går forud for overgangsalderen, hvor menstruationen og hormonbalancen begynder at ændre sig.",
       "overview": "Perimenopausen er den periode, der går forud for overgangsalderen — årene »omkring overgangsalderen«. Den\nbegynder, når du først bemærker forandringerne, og varer indtil et helt år efter din sidste menstruation, hvor\ndu så er nået til overgangsalderen. Den kan vare flere år.\n\nI denne periode producerer æggestokkene gradvist mindre østrogen, og niveauerne stiger og falder mindre\nforudsigeligt end før. Det mest almindelige tidlige tegn er, at menstruationerne ændrer sig – de kommer tættere\npå hinanden eller længere fra hinanden, bliver lettere eller kraftigere. Mange af de symptomer, der er forbundet med overgangsalderen, såsom\nhedeture, søvnforstyrrelser eller humørsvingninger, kan begynde her, mens du stadig har menstruation.\n\nDa det sker gradvist og varierer så meget, kan perimenopausen være forvirrende — forandringerne indtræffer ikke\npå én gang eller i samme rækkefølge for alle. At vide, at denne fase har et navn, og at det er en\nnormal overgang, kan gøre det lettere at forstå.",
@@ -759,10 +769,10 @@
       "title": "Menstruationssmerter",
       "aliases": [
         "menstruationssmerter",
-        "menstruationssmerter",
+        "menssmerter",
+        "menstruationskramper",
         "kramper",
-        "menstruationssmerter",
-        "menstruationssmerter",
+        "dysmenoré",
         "smertefulde menstruationer"
       ],
       "glance": "Menstruationssmerter er kramper i underlivet omkring menstruationen — det er almindeligt og ofte en normal del af cyklusen.",
@@ -775,15 +785,16 @@
       "title": "Planlægning af en graviditet",
       "aliases": [
         "planlægning af en graviditet",
-        "forudfattelse",
-        "forsøger at blive gravid",
         "før graviditeten",
-        "Forberedelse til graviditet"
+        "forsøger at blive gravid",
+        "prøver at blive gravid",
+        "forberedelse til graviditet",
+        "ønske om graviditet"
       ],
-      "glance": "Et par enkle foranstaltninger, inden man forsøger at blive gravid — folinsyre, rygestop og afholdenhed fra alkohol — giver graviditeten den bedste start.",
-      "overview": "Hvis du overvejer at prøve at få et barn, kan en række foranstaltninger på forhånd give graviditeten en\nsundere start — mange af dem har allerede en positiv virkning, før du overhovedet bliver gravid.\n\nDe vigtigste er: begynd at tage **folinsyre** (og D-vitamin), **hold op med at ryge** og **undgå alkohol**.\nDet hjælper også at stræbe efter en sund vægt, da det kan være\nsværere at blive gravid, hvis man er betydeligt under- eller overvægtig. Det er også en god idé at sikre, at din **MMR-vaccination** er opdateret, da visse\ninfektioner kan påvirke en graviditet.\n\nIntet af dette behøver at være perfekt eller stressende. Det er de små, velovervejede ændringer i god tid, der tæller —\nog at få et lille forspring er en af de bedste ting, du kan gøre for en fremtidig graviditet.",
+      "glance": "Et par enkle foranstaltninger, inden man forsøger at blive gravid — folsyre, rygestop og afholdenhed fra alkohol — giver graviditeten den bedste start.",
+      "overview": "Hvis du overvejer at prøve at få et barn, kan en række foranstaltninger på forhånd give graviditeten en\nsundere start — mange af dem har allerede en positiv virkning, før du overhovedet bliver gravid.\n\nDe vigtigste er: begynd at tage **folsyre** (og D-vitamin), **hold op med at ryge** og **undgå alkohol**.\nDet hjælper også at stræbe efter en sund vægt, da det kan være\nsværere at blive gravid, hvis man er betydeligt under- eller overvægtig. Det er også en god idé at sikre, at din **MMR-vaccination** er opdateret, da visse\ninfektioner kan påvirke en graviditet.\n\nIntet af dette behøver at være perfekt eller stressende. Det er de små, velovervejede ændringer i god tid, der tæller —\nog at få et lille forspring er en af de bedste ting, du kan gøre for en fremtidig graviditet.",
       "deep": null,
-      "when_to_see_doctor": "- Hvis du har en **langvarig helbredstilstand** eller tager **fast medicin**, skal du tale med din praktiserende læge, inden du\n  begynder at forsøge at blive gravid — visse helbredstilstande og lægemidler kræver, at man planlægger i god tid. **Du må ikke stoppe med at tage nogen form for ordineret\n  medicin** uden først at tale med din læge.\n- En praktiserende læge kan også rådgive dig om folinsyre (herunder om du har brug for en højere dosis) og om at nå en\n  sund vægt inden graviditeten.",
+      "when_to_see_doctor": "- Hvis du har en **langvarig helbredstilstand** eller tager **fast medicin**, skal du tale med din praktiserende læge, inden du\n  begynder at forsøge at blive gravid — visse helbredstilstande og lægemidler kræver, at man planlægger i god tid. **Du må ikke stoppe med at tage nogen form for ordineret\n  medicin** uden først at tale med din læge.\n- En praktiserende læge kan også rådgive dig om folsyre (herunder om du har brug for en højere dosis) og om at nå en\n  sund vægt inden graviditeten.",
       "red_flags": null
     },
     "postnatal-depression": {
@@ -805,9 +816,9 @@
       "title": "Præeklampsi",
       "aliases": [
         "præeklampsi",
-        "præeklampsi",
+        "svangerskabsforgiftning",
         "højt blodtryk under graviditeten",
-        "toksæmi"
+        "forhøjet blodtryk i graviditeten"
       ],
       "glance": "Præeklampsi er forhøjet blodtryk under graviditeten — ofte uden synlige symptomer i starten, og derfor er graviditetskontrol så vigtig.",
       "overview": "Præeklampsi er en graviditetskomplikation, der hovedsageligt viser sig som forhøjet blodtryk samt\nprotein i urinen. Den opstår normalt fra omkring 20. uge og undertiden efter fødslen.\n\nEn af de vigtigste ting at vide er, at tilstanden i den tidlige fase ofte **slet ikke giver nogen symptomer** —\ndu kan føle dig helt rask. Det er netop derfor, din jordemoder måler dit blodtryk og undersøger\ndin urin ved hvert rutinemæssigt graviditetsbesøg: Det er gennem disse kontroller, at tilstanden normalt opdages,\ninden du selv bemærker noget.\n\nNår symptomerne først opstår, er det vigtigt at kende dem, for præeklampsi kan blive alvorligt for både dig\nog dit barn. Tilstanden kan behandles meget effektivt, når den opdages, og at overholde dine graviditetskontrolbesøg er\nden bedste måde at opdage den i tide på.",
@@ -820,11 +831,12 @@
       "aliases": [
         "graviditet",
         "at være gravid",
-        "forventer",
-        "drægtighed",
+        "venter barn",
+        "svangerskab",
         "trimestre",
-        "forfaldsdato",
-        "hvor mange uger er jeg henne i graviditeten"
+        "terminsdato",
+        "termin",
+        "hvor mange uger er jeg henne"
       ],
       "glance": "En graviditet varer normalt omkring 40 uger, regnet fra den første dag i din sidste menstruation.",
       "overview": "Graviditeten er den periode, hvor din krop vokser og bærer et barn. Den varer normalt omkring 40 uger —\nalt fra 37 til 42 uger betragtes som en fuldgået og normal graviditet — og, måske overraskende nok, regnes den\nfra den første dag i din **sidste menstruation**, ikke fra undfangelsen. Det er blot den gængse måde, hvorpå datoer\nberegnes.\n\nDin **termin** er et skøn, ikke en frist: babyer kommer gerne lidt tidligere eller senere. Tidligt\ni graviditeten kan en »terminsscanning« (normalt omkring 12. uge) måle din baby og give en mere præcis\ndato, hvilket nogle gange ændrer det oprindelige skøn.\n\nMan taler ofte om graviditeten i tre faser, eller **trimester**, hvor hver har sine egne forandringer. Hele\nvejen igennem bliver du fulgt med regelmæssige graviditetskontrolbesøg hos en jordemoder (og en læge, hvis\ndet er nødvendigt) — den pleje, der hjælper med at holde dig og din baby sunde og raske.",
@@ -850,11 +862,10 @@
       "title": "For tidlig fødsel",
       "aliases": [
         "for tidlig fødsel",
-        "for tidlig fødsel",
-        "for tidlig fødsel",
-        "for tidlig fødsel",
+        "præmatur fødsel",
+        "for tidlige veer",
         "tidlig fødsel",
-        "vand, der går tidligt"
+        "vandet går for tidligt"
       ],
       "glance": "For tidlig fødsel er fødsel før 37. uge — handle hurtigt, da tidlig behandling gør en stor forskel.",
       "overview": "For tidlig fødsel (eller præterm fødsel) er en fødsel, der indtræder før den 37. graviditetsuge. Det forekommer ved\nca. 8 ud af 100 fødsler.\n\nBabyer, der fødes for tidligt, er mere sårbare, men mange klarer sig godt bagefter — især takket være den specialiserede\npleje, som neonatalafdelingerne yder. Det vigtigste er at handle hurtigt, hvis du tror, at fødslen er ved at gå i gang, så du\nkan blive undersøgt og om nødvendigt få behandling, der hjælper med at beskytte barnet.\n\nTegnene ligner tegn på fødsel på ethvert stadium, men før 37. uge bør man aldrig afvente dem —\nde er altid en grund til at kontakte lægen med det samme.",
@@ -907,12 +918,13 @@
     "recognising-abuse": {
       "title": "Sådan genkender du et voldeligt forhold",
       "aliases": [
-        "genkendelse af misbrug",
+        "genkende vold",
         "voldeligt forhold",
         "vold i hjemmet",
         "vold i parforhold",
-        "tegn på misbrug",
-        "bliver jeg udsat for misbrug"
+        "partnervold",
+        "tegn på vold",
+        "bliver jeg udsat for vold"
       ],
       "glance": "Misbrug kan være fysisk, seksuelt, følelsesmæssigt eller kontrollerende — og det er aldrig den person, der udsættes for det, der har skylden.",
       "overview": "Vold i et parforhold er ikke kun fysisk. Den kan antage flere former, ofte i kombination: fysisk vold, seksuel tvang, følelsesmæssig eller psykologisk vold samt kontrollerende adfærd – en partner, der bestemmer, hvor du skal hen, hvem du må se, eller hvad du må gøre. Alle disse former kan udgøre vold, selv når der ikke er synlige skader.\n\nDet er mere udbredt, end mange er klar over. På verdensplan oplever omkring 1 ud af 3 kvinder fysisk eller seksuel vold i løbet af deres liv, oftest fra en partner; situationen i Italien er den samme. Så hvis dette er en del af dit liv, er du ikke alene, og det er ikke noget, du selv har forårsaget.\n\nDet kan være svært at sætte ord på det – misbrug er ofte blandet med gode stunder, undskyldninger eller løfter om forandring, og det kan udvikle sig så langsomt, at det føles normalt. At stole på din egen fornemmelse af, at noget er galt, er en gyldig grund til at søge hjælp. Du behøver ikke at være helt sikker eller vente på, at det bliver »dårligt nok«, for at tale med nogen.",
@@ -926,9 +938,9 @@
         "kontrollerende adfærd",
         "tvangskontrol",
         "sundt forhold",
-        "advarselsskilte",
+        "advarselstegn",
         "hvor man kan få hjælp",
-        "misbrug"
+        "vold i parforhold"
       ],
       "glance": "Kærlighed er bygget på respekt og frihed - kontrol, jalousi og pres er ikke kærlighed, og hjælp findes.",
       "overview": "Et sundt forhold hviler på respekt, tillid, ligeværd og frihed: to mennesker, der hver især bevarer deres egne venskaber, valg og rum. Kontrol er det modsatte. Den gemmer sig ofte bag ord som kærlighed eller jalousi – \"Jeg tjekker din telefon, fordi jeg holder af dig\", \"Jeg vil ikke have, at du ser dem, fordi jeg elsker dig\" – men virkningen er, at hendes verden og hendes frihed bliver mindre.\n\nKontrol starter sjældent med vold. Den begynder som regel i det små – en kritik, en overskredet grænse, en \"spøg\", der svider – og vokser. Det er vigtigt at sætte ord på det tidligt, for tvingende kontrol er i sig selv en form for vold og et advarselstegn om noget værre. Det handler ikke om skyld; det handler om ærlighed og forandring.",
@@ -940,8 +952,8 @@
       "title": "Udarbejdelse af en sikkerhedsplan",
       "aliases": [
         "sikkerhedsplan",
-        "sikkerhed",
-        "sikkerhed",
+        "at være i sikkerhed",
+        "holde sig i sikkerhed",
         "sikkerhedsplanlægning",
         "at komme sikkert væk"
       ],
@@ -1006,12 +1018,14 @@
       "title": "Tegn på fødsel",
       "aliases": [
         "tegn på fødsel",
-        "arbejdskraft",
+        "fødsel",
         "at gå i fødsel",
-        "sammentrækninger",
-        "vandene går",
-        "serien",
-        "latent fase"
+        "fødslen går i gang",
+        "veer",
+        "plukveer",
+        "vandet går",
+        "slimproppen",
+        "latensfase"
       ],
       "glance": "Tegn på, at fødslen er ved at gå i gang, omfatter regelmæssige veer, at der kommer lidt slim, rygsmerter eller at vandet går.",
       "overview": "Der er nogle tegn på, at fødslen måske er ved at gå i gang. Det vigtigste tegn er veer — sammentrækninger på tværs af\ndin mave, der kommer med jævne mellemrum og bliver stærkere. Andre tegn omfatter »tegning« (slimproppen fra din\nlivmoderhals, der løsner sig), vedvarende rygsmerter, trang til at gå på toilettet og at vandet går.\n\nFør den aktive fødsel er der ofte en tidlig (\"latent\") fase, hvor livmoderhalsen blødgøres og begynder at\nåbne sig. Denne del kan vare timer eller endda dage, og for mange er det fint at holde sig komfortabelt\nhjemme i denne periode, hvile sig og sørge for at drikke nok.\n\nFødslen starter lidt forskelligt for alle, så du behøver ikke at afkrydse hvert eneste tegn. Når du\ntror, at det er ved at gå i gang, er din jordemoder eller fødeafdelingen der til at vejlede dig om, hvad du skal gøre, og\nhvornår du skal komme ind.",
@@ -1083,9 +1097,9 @@
       "aliases": [
         "dødfødsel",
         "dødfødt",
-        "tab af et spædbarn",
-        "abort i den sene graviditet",
-        "Baby født sovende"
+        "tab af et barn",
+        "sent graviditetstab",
+        "født død"
       ],
       "glance": "Dødfødsel er tabet af et barn efter 24 uger — det er sjældent, det er aldrig din skyld, og du kan altid regne med støtte.",
       "overview": "En dødfødsel er, når et barn fødes dødt efter 24 ugers graviditet. (Et tab før 24 uger\nkaldes et spontanabort.) Det er sjældent – omkring 1 ud af 250 fødsler – men for de familier, det\nrammer, er det et dybt tab, og alt ved den efterfølgende pleje har til formål at støtte jer\nfølsomt igennem det.\n\nNogle gange findes der en årsag – for eksempel et problem med moderkagen eller barnets udvikling, eller en\nsundhedsmæssig tilstand – og nogle gange, trods undersøgelser, **findes der slet ingen årsag**. Uanset årsagen er en\ndødfødsel ikke noget, som en forælder har forårsaget eller kunne have forhindret.\n\nÉn ting hjælper virkelig med at mindske risikoen, og det er simpelt: **at fortælle din jordemoder med det samme,\nhvis dit barns bevægelser bliver svagere eller ændrer sig.** Derudover spiller de daglige ting – at gå til\ngraviditetskontrol, ikke ryge, undgå alkohol og sove på siden fra 28. uge – alle\nen rolle.",
@@ -1098,9 +1112,11 @@
       "aliases": [
         "stress og menstruation",
         "stress",
-        "udeblivet menstruation",
-        "sen periode",
-        "Hvorfor er min menstruation forsinket?"
+        "udeblevet menstruation",
+        "menstruationen udebliver",
+        "forsinket menstruation",
+        "sen menstruation",
+        "hvorfor er min menstruation forsinket"
       ],
       "glance": "Stress, store vægtudsving eller meget motion kan forsinke menstruationen eller få den til at udeblive — ofte kun i en kort periode.",
       "overview": "Det er almindeligt, at menstruationen kommer for sent eller udbliver en måned, og årsagen har ofte mere at gøre\nmed livssituationen end med, at der er noget galt. Stress er en hyppig årsag — det samme system, der reagerer\npå pres, kan påvirke de hormoner, der styrer din cyklus.\n\nAndre hverdagsfaktorer kan også påvirke menstruationen: en stor vægtændring (op eller ned), meget\nmotion eller træthed. Hormonelle forandringer – såsom overgangsalderen eller\ntilstande som PCOS – kan også være årsagen, ligesom graviditet og visse præventionsmidler. Ofte varierer\nintervallet mellem menstruationerne blot lidt fra gang til gang, og det er normalt.\n\nDet betryggende er, at en enkelt forsinket eller udebleven menstruation normalt ikke er grund til bekymring, og\ntingene falder ofte på plads, som livet nu engang gør. Det, der er værd at holde øje med, er et mønster af ændringer snarere end en enkelt\nmåned.",
@@ -1111,9 +1127,10 @@
     "supporting-her-period": {
       "title": "Støtte hende i hendes menstruation",
       "aliases": [
-        "hjælper i hendes menstruation",
-        "periodestøtte til partnere",
-        "periodepleje"
+        "hjælpe hende under menstruationen",
+        "støtte under menstruation",
+        "menstruationsstøtte til partnere",
+        "omsorg under menstruation"
       ],
       "glance": "Menstruation kan give ægte smerte og træthed - lille, praktisk pleje gør en stor forskel.",
       "overview": "En menstruation er ikke bare et par dage med blødning; for mange følger der kramper, rygsmerter, hovedpine, træthed og lav energi med. Menstruationssmerter er almindelige og kan virkelig tære på kræfterne – det er ikke en overdrivelse. Behandl det, som du ville behandle en partner, der er syg: med praktisk omsorg.\n\nGør det også til noget normalt. Menstruation er ikke ulækkert, pinligt eller tabu. Når du uden videre køber bind eller tamponer, har nogle liggende derhjemme eller rækker hende en varmedunk uden at gøre et nummer ud af det, fortæller det hende, at hun er tryg og får støtte.",
@@ -1127,7 +1144,7 @@
         "at støtte nogen",
         "hjælp til en veninde",
         "hvordan man kan hjælpe",
-        "en person, der udsættes for misbrug",
+        "en person, der udsættes for vold",
         "hvordan man yder støtte"
       ],
       "glance": "Hvis en person, du kender, muligvis er udsat for misbrug, hjælper det at lytte uden at dømme – og at vide, hvor man kan henvise vedkommende hen.",
@@ -1177,7 +1194,7 @@
         "flerfoldsgraviditet",
         "venter tvillinger",
         "enæggede tvillinger",
-        "ikke-identiske tvillinger",
+        "tveæggede tvillinger",
         "trillinger"
       ],
       "glance": "At man er gravid med tvillinger, opdages som regel først ved den første ultralydsundersøgelse, og det betyder, at der er behov for lidt mere graviditetsopfølgning.",
@@ -1217,10 +1234,11 @@
       "title": "Sundhed i skeden og vulvaen",
       "aliases": [
         "vaginal sundhed",
+        "skedens sundhed",
         "vulvasundhed",
         "intimhygiejne",
         "at holde rent",
-        "skylning",
+        "udskylning af skeden",
         "udflåd"
       ],
       "glance": "Skeden renser sig selv — den har kun brug for skånsom pleje udefra, og udflåd er helt normalt.",

@@ -12,7 +12,8 @@
         "álcool durante a gravidez",
         "consumo de álcool durante a gravidez",
         "álcool e gravidez",
-        "álcool fetal",
+        "síndrome alcoólica fetal",
+        "SAF",
         "FASD"
       ],
       "glance": "A abordagem mais segura é não beber álcool durante a gravidez ou quando se está a tentar engravidar.",
@@ -25,10 +26,10 @@
       "title": "Cuidados pré-natais",
       "aliases": [
         "cuidados pré-natais",
-        "cuidados pré-natais",
-        "cuidados durante a gravidez",
-        "consultas com a parteira",
-        "marcar uma consulta",
+        "vigilância da gravidez",
+        "acompanhamento da gravidez",
+        "consultas com a enfermeira obstetra",
+        "primeira consulta de gravidez",
         "consultas pré-natais"
       ],
       "glance": "Os cuidados pré-natais consistem nas consultas regulares realizadas ao longo da gravidez que ajudam a garantir o bem-estar da mãe e do bebé.",
@@ -57,9 +58,9 @@
       "title": "Dores nas costas durante a gravidez",
       "aliases": [
         "dores nas costas durante a gravidez",
-        "dores nas costas durante a gravidez",
         "dores lombares na gravidez",
-        "dores nas costas durante a gravidez"
+        "lombalgia na gravidez",
+        "dor nas costas grávida"
       ],
       "glance": "A dor nas costas é muito comum durante a gravidez, à medida que os ligamentos se tornam mais flexíveis e a barriga cresce — geralmente é inofensiva.",
       "overview": "A dor nas costas é um dos sintomas mais comuns da gravidez. À medida que o seu corpo se prepara para o parto, os\nligamentos amolecem e alongam-se naturalmente, e a sua barriga em crescimento altera a forma como distribui o seu peso —\nambos os fatores exercem uma pressão adicional na parte inferior das costas e na pélvis.\n\nAlgumas medidas do dia a dia podem aliviar esta dor: prestar atenção à sua postura quando estiver de pé, sentada ou a levantar objetos;\nusar sapatos rasos que ofereçam bom apoio; um colchão firme ou uma almofada que ofereça bom apoio; e praticar atividades físicas suaves e regulares,\ncomo caminhadas, ioga para grávidas ou exercícios de uma aula. Se estiver realmente a causar incómodo, um\nfisioterapeuta obstétrico pode dar-lhe conselhos personalizados.\n\nNa maioria dos casos, a dor nas costas durante a gravidez não é motivo de preocupação — mas há alguns padrões que vale a pena verificar\nimediatamente, e é para isso que servem as orientações abaixo.",
@@ -86,8 +87,9 @@
       "aliases": [
         "sangramento durante a gravidez",
         "sangramento vaginal durante a gravidez",
-        "sangramento durante a gravidez",
-        "sangramento durante a gravidez"
+        "perdas de sangue na gravidez",
+        "spotting na gravidez",
+        "hemorragia na gravidez"
       ],
       "glance": "O sangramento durante a gravidez nem sempre é grave — é comum haver um ligeiro sangramento no início da gravidez — mas deve sempre consultar um médico.",
       "overview": "O sangramento vaginal durante a gravidez nem sempre é sinal de que algo está errado. Um\nsangramento ligeiro ou manchas de sangue são bastante comuns, sobretudo no início da gravidez, e muitas gravidezes continuam\na decorrer perfeitamente bem depois disso.\n\nDito isto, o sangramento pode, por vezes, ser um sinal de um problema — como um aborto espontâneo ou uma gravidez ectópica\n—, pelo que é algo que deve **ser sempre avaliado**, independentemente da quantidade. Só\nao consultar um médico é que se descobre a causa e se obtém rapidamente os cuidados adequados, caso sejam necessários.\n\nComo o mesmo sintoma pode significar coisas muito diferentes, o mais sensato não é adivinhar — é\nentrar em contacto com um profissional de saúde e ser examinada.",
@@ -98,11 +100,11 @@
     "breast-awareness": {
       "title": "Conhecer as suas mamas",
       "aliases": [
-        "consciencialização sobre o cancro da mama",
-        "exame mamário",
+        "conhecer as suas mamas",
+        "autopalpação da mama",
         "autoexame das mamas",
-        "autoexame das mamas",
-        "exame das mamas"
+        "exame das mamas",
+        "nódulo na mama"
       ],
       "glance": "A sensibilização para a saúde mamária consiste simplesmente em conhecer o aspeto e a textura normais das suas mamas, para que possa detetar eventuais alterações.",
       "overview": "A auto-avaliação mamária não é uma técnica especial — trata-se apenas de conhecer o que é normal para si, para que\nqualquer alteração se destaque. Examinar regularmente as suas mamas ou peito ajuda-a a familiarizar-se com o seu\naspecto e textura habituais; uma vez por mês é uma boa frequência.\n\nNão existe uma única forma «certa» de o fazer. Muitas pessoas olham-se ao espelho com os braços para baixo e depois levantados, e\napalpam cada mama, subindo até à axila. O que se pretende é ganhar familiaridade, não fazer um diagnóstico — o\nobjetivo é apenas detetar uma alteração precocemente, caso ocorra.\n\nAs mamas também mudam naturalmente ao longo do ciclo menstrual e ao longo da vida, pelo que algumas alterações são completamente\nnormais. O objetivo da atenção é conhecer o seu próprio estado normal suficientemente bem para detetar algo que não o seja.",
@@ -114,9 +116,10 @@
       "title": "Amamentação",
       "aliases": [
         "amamentação",
-        "enfermagem",
+        "amamentar",
+        "dar de mamar",
+        "aleitamento materno",
         "leite materno",
-        "amamentação",
         "alimentar o seu bebé"
       ],
       "glance": "O leite materno protege o bebé contra infeções e adapta-se à medida que este cresce — e qualquer quantidade traz benefícios.",
@@ -161,10 +164,12 @@
       "title": "Rastreio do colo do útero (citologia)",
       "aliases": [
         "rastreio do colo do útero",
+        "citologia",
+        "citologia cervical",
         "esfregaço",
-        "mancha",
         "exame de Papanicolau",
-        "citrologia cervical"
+        "Papanicolau",
+        "teste HPV"
       ],
       "glance": "O rastreio do colo do útero é um exame de rotina à saúde do colo do útero que ajuda a prevenir o cancro do colo do útero.",
       "overview": "O rastreio cervical é um exame que avalia a saúde do colo do útero — a abertura que dá acesso ao útero, na\nparte superior da vagina. Não se trata de um exame para detetar cancro. Pelo contrário, é uma forma de identificar alterações numa fase precoce e ajudar a\nprevenir, desde o início, o desenvolvimento do cancro do colo do útero.\n\nTodas as pessoas com colo do útero são convidadas a partir dos 25 até aos 64 anos. Recebes um convite quando\nchegar a altura, a intervalos regulares, pelo que não precisas de te lembrar de marcar a consulta de improviso —\nembora a decisão de ir ou não seja sempre tua.\n\nO exame em si é rápido e é realizado por uma enfermeira. Muitas pessoas sentem-se um pouco nervosas com isso, o que é\nperfeitamente compreensível; saber para que serve — um exame de rotina e preventivo — pode fazer com que pareça\nmais fácil de lidar.",
@@ -180,7 +185,7 @@
         "segurança infantil",
         "proteger uma criança",
         "preocupada com uma criança",
-        "negligenciar"
+        "negligência"
       ],
       "glance": "Se estiver preocupada com a possibilidade de uma criança estar a ser maltratada ou negligenciada, é correto procurar aconselhamento — não é necessário ter a certeza.",
       "overview": "O abuso infantil — ou maus-tratos infantis — consiste em causar danos a qualquer pessoa com menos de 18 anos. Inclui abuso físico, sexual e emocional, bem como negligência (não satisfazer as necessidades básicas da criança). Infelizmente, é comum, pode causar danos para toda a vida e a culpa nunca é da criança.\n\nPode estar preocupada com uma criança que faz parte da sua vida ou com uma criança que chamou a sua atenção. Não precisa de ter a certeza, nem de ter provas, para agir com base nessa preocupação — confiar nela e pedir conselho é exatamente o que se deve fazer, e isso pode proteger uma criança.\n\nE se você própria sofreu abusos na infância, saiba que o dano nunca foi culpa sua e que também há apoio disponível para si, em qualquer idade.",
@@ -241,8 +246,9 @@
       "aliases": [
         "preservativo",
         "preservativos",
+        "preservativo masculino",
         "preservativo externo",
-        "borracha",
+        "camisinha",
         "método de barreira"
       ],
       "glance": "Os preservativos são um método de barreira — e o único tipo de contraceção que também protege contra as IST.",
@@ -268,8 +274,10 @@
     "contraception": {
       "title": "Contracepção",
       "aliases": [
+        "contraceção",
         "contracepção",
-        "contracepção",
+        "métodos contracetivos",
+        "anticoncecionais",
         "planeamento familiar"
       ],
       "glance": "A contraceção consiste nas diferentes formas de prevenir a gravidez — e há muitas por onde escolher.",
@@ -313,7 +321,7 @@
       "title": "O teu ciclo e o teu bem-estar",
       "aliases": [
         "bem-estar",
-        "ciclismo e saúde",
+        "ciclo e saúde",
         "ciclo menstrual e saúde",
         "sinal vital"
       ],
@@ -327,9 +335,10 @@
       "title": "Abuso económico",
       "aliases": [
         "abuso económico",
+        "violência económica",
         "abuso financeiro",
-        "gestão financeira",
-        "gestão das finanças",
+        "controlo do dinheiro",
+        "controlo das finanças",
         "dívida em meu nome"
       ],
       "glance": "O abuso económico consiste em controlar o acesso de alguém ao dinheiro, ao trabalho ou aos recursos — uma forma reconhecida de abuso.",
@@ -356,8 +365,8 @@
       "aliases": [
         "contraceção de emergência",
         "pílula do dia seguinte",
-        "pílula do dia seguinte",
-        "pílula do dia seguinte",
+        "pílula dos cinco dias seguintes",
+        "pílula de emergência",
         "Levonelle",
         "ellaOne"
       ],
@@ -563,9 +572,9 @@
       "title": "Menstruações intensas",
       "aliases": [
         "menstruações intensas",
+        "menstruação abundante",
         "menorragia",
         "sangramento menstrual intenso",
-        "inundações",
         "hemorragia intensa",
         "coágulos"
       ],
@@ -618,7 +627,8 @@
       "title": "Menopausa",
       "aliases": [
         "menopausa",
-        "a mudança"
+        "climatério",
+        "afrontamentos"
       ],
       "glance": "A menopausa é o momento em que a menstruação cessa definitivamente — uma fase natural, que geralmente ocorre entre os 45 e os 55 anos, aproximadamente.",
       "overview": "A menopausa é o momento em que a menstruação cessa definitivamente. Como a menstruação pode ainda ocorrer de forma irregular durante algum\ntempo, considera-se que a menopausa foi atingida quando se passam 12 meses consecutivos sem menstruação. Normalmente,\nocorre entre os 45 e os 55 anos, embora possa ocorrer mais cedo ou mais tarde.\n\nÉ uma parte natural do envelhecimento, não uma doença. Ocorre à medida que os ovários vão perdendo a sua função e o nível de\nestrogénio — uma hormona fundamental do ciclo — diminui. Essa alteração hormonal está na origem das mudanças que muitas\npessoas notam: afrontamentos e suores noturnos, alterações na menstruação na fase que antecede a menopausa, dificuldades em dormir,\nmudanças de humor ou ansiedade, confusão mental, secura vaginal e dores.\n\nAs experiências variam enormemente — algumas pessoas passam por esta fase sem problemas, outras têm mais dificuldade, e os sintomas podem durar\nvários anos. Nada disso significa que haja algo de errado consigo. Existem apoio e opções disponíveis, e\ncompreender o que está a acontecer é um bom primeiro passo.",
@@ -644,7 +654,7 @@
         "período",
         "menstruação",
         "fase menstrual",
-        "hemorragia"
+        "sangramento"
       ],
       "glance": "A menstruação corresponde aos poucos dias de sangramento que marcam o início de cada ciclo, à medida que o revestimento do útero é eliminado.",
       "overview": "A fase menstrual corresponde ao período — os dias em que se tem sangramento. Começa no 1.º dia do ciclo,\nquando os níveis de estrogénio e progesterona baixam o suficiente para que o revestimento que se formou\nno interior do útero deixe de ser mantido e se desprenda, saindo do corpo através da\nvagina.\n\nA menstruação dura normalmente entre 2 a 7 dias, sendo que 5 dias é a duração típica. O fluxo é frequentemente\nmais intenso nos primeiros dois dias e mais leve a seguir. A menstruação começa geralmente por volta dos 12 anos,\nembora seja também normal começar mais cedo ou mais tarde.\n\nO que é «normal» varia muito de pessoa para pessoa. Acompanhar os teus próprios períodos ajuda-te a perceber\no que é habitual para ti, o que é muito mais significativo do que qualquer média.",
@@ -715,10 +725,11 @@
       "aliases": [
         "alívio da dor durante o parto",
         "epidural",
-        "gás e ar",
+        "óxido nitroso",
+        "gás hilariante",
         "Entonox",
         "alívio das dores do parto",
-        "piscina de parto",
+        "parto na água",
         "TENS"
       ],
       "glance": "Existem várias formas de aliviar as dores do parto — não há uma escolha certa ou errada, e pode manter-se flexível.",
@@ -746,7 +757,8 @@
       "aliases": [
         "perimenopausa",
         "transição da menopausa",
-        "a mudança"
+        "pré-menopausa",
+        "climatério"
       ],
       "glance": "A perimenopausa é a fase de transição que antecede a menopausa, durante a qual os períodos menstruais e as hormonas começam a sofrer alterações.",
       "overview": "A perimenopausa é o período que antecede a menopausa — os anos «em torno da menopausa». Começa\nquando se começa a notar as alterações e prolonga-se até um ano após a última menstruação, altura em\nque se atinge a menopausa. Pode durar vários anos.\n\nDurante este período, os ovários produzem gradualmente menos estrogénio, e os níveis oscilam de forma menos\nprevisível do que antes. O sinal precoce mais comum é a alteração dos períodos menstruais — tornando-se mais\nfrequentes ou mais espaçados, mais leves ou mais intensos. Muitos dos sintomas associados à menopausa, tais como\nondas de calor, alterações do sono ou mudanças de humor, podem começar nesta fase, enquanto ainda tem períodos menstruais.\n\nPor ser gradual e variar tanto, a perimenopausa pode ser confusa — as alterações não surgem\ntodas de uma vez nem na mesma ordem para todas as mulheres. Saber que esta fase tem um nome e que se trata de uma\ntransição normal pode ajudar a compreendê-la melhor.",
@@ -774,7 +786,8 @@
       "title": "Planear uma gravidez",
       "aliases": [
         "planear uma gravidez",
-        "preconceito",
+        "pré-conceção",
+        "consulta pré-concecional",
         "a tentar engravidar",
         "antes da gravidez",
         "preparar-se para a gravidez"
@@ -789,10 +802,10 @@
       "title": "Depressão pós-parto",
       "aliases": [
         "depressão pós-parto",
-        "depressão pós-parto",
-        "PND",
-        "depressão pós-parto",
-        "depressão pós-parto"
+        "depressão pós-natal",
+        "depressão após o parto",
+        "baby blues",
+        "PND"
       ],
       "glance": "A depressão pós-parto é um estado de desânimo comum e tratável que surge após o parto — não é culpa sua e há ajuda disponível.",
       "overview": "Sentir-se em baixo, ansiosa ou irritável nas primeiras semanas após o parto é muito comum — isto\né frequentemente designado por «baby blues» e, normalmente, passa por si só ao fim de cerca de duas semanas.\n\nA depressão pós-parto é diferente: trata-se de um estado de ânimo deprimido mais profundo ou que se prolonga por mais tempo. É uma condição comum,\npode surgir em qualquer momento durante o primeiro ano e também pode afetar pais e parceiros. Os sinais incluem um\nbaixo estado de ânimo persistente, dificuldade em desfrutar de qualquer coisa, problemas em dormir mesmo quando o bebé dorme,\ne, por vezes, sentimentos de dificuldade em criar laços com o bebé.\n\nTer esta condição **não** significa que seja uma má mãe ou que não ame o seu bebé — é uma doença,\nnão uma falha, e responde bem ao apoio e ao tratamento. Procurar ajuda logo no início é uma atitude forte e atenciosa,\ntanto para si como para o seu bebé.",
@@ -819,10 +832,10 @@
       "aliases": [
         "gravidez",
         "estar grávida",
-        "à espera de",
+        "à espera de bebé",
         "gestação",
         "trimestres",
-        "data de vencimento",
+        "data prevista do parto",
         "em que semana de gravidez"
       ],
       "glance": "A gravidez dura normalmente cerca de 40 semanas, contadas a partir do primeiro dia da sua última menstruação.",
@@ -836,8 +849,9 @@
       "aliases": [
         "teste de gravidez",
         "teste de gravidez caseiro",
-        "hCG teste",
-        "teste de gravidez"
+        "teste de farmácia",
+        "teste hCG",
+        "fazer o teste de gravidez"
       ],
       "glance": "Um teste de gravidez caseiro analisa a urina para detetar a presença da hormona da gravidez, o hCG — sendo mais fiável a partir da primeira falta da menstruação.",
       "overview": "Um teste de gravidez caseiro funciona através da deteção de uma hormona chamada hCG (gonadotrofina coriônica humana) na\nsua urina. O seu corpo começa a produzi-la alguns dias após a implantação do óvulo fertilizado, e a quantidade\naumenta rapidamente no início da gravidez.\n\nO teste é mais fiável a partir do **primeiro dia de atraso na menstruação** — cerca de duas semanas após a\nconcepção. Se o seu ciclo for irregular ou se não tiver a certeza de quando é que a sua menstruação deve ocorrer, esperar até, pelo\nmenos, 21 dias após a relação sexual desprotegida proporciona um resultado mais fiável. Não é necessário fazer o teste logo\nde manhã; a qualquer hora do dia serve.\n\nUm resultado **positivo** é quase certamente correto — muito poucos testes dão positivo quando não se está\ngrávida. Um resultado **negativo** é um pouco menos certo: se a menstruação ainda não chegar e achares\nque podes estar grávida, espera alguns dias e faz o teste novamente.",
@@ -849,11 +863,11 @@
       "title": "Parto prematuro",
       "aliases": [
         "parto prematuro",
-        "parto prematuro",
-        "parto prematuro",
-        "parto prematuro",
-        "parto prematuro",
-        "ruptura prematura das águas"
+        "trabalho de parto prematuro",
+        "parto pré-termo",
+        "nascimento prematuro",
+        "ameaça de parto prematuro",
+        "rutura prematura da bolsa"
       ],
       "glance": "O parto prematuro é aquele que ocorre antes das 37 semanas — aja rapidamente, pois os cuidados precoces fazem toda a diferença.",
       "overview": "O trabalho de parto prematuro (ou pré-termo) é aquele que se inicia antes da 37.ª semana de gravidez. Ocorre em\ncerca de 8 em cada 100 partos.\n\nOs bebés que nascem prematuramente são mais vulneráveis, mas muitos acabam por se desenvolver bem — especialmente com os\ncuidados especializados prestados pelas unidades neonatais. O importante é agir rapidamente se achar que o trabalho de parto pode estar a começar, para que\npossa ser avaliada e, se necessário, receber tratamentos que ajudem a proteger o bebé.\n\nOs sinais são semelhantes aos do trabalho de parto em qualquer fase, mas antes das 37 semanas nunca se deve esperar que passem por si —\nsão sempre motivo para contactar os serviços de saúde imediatamente.",
@@ -940,10 +954,10 @@
       "title": "Elaborar um plano de segurança",
       "aliases": [
         "plano de segurança",
-        "manter-se segura",
-        "manter-se segura",
+        "manter-se em segurança",
+        "proteger-me",
         "planeamento de segurança",
-        "partir em segurança"
+        "sair em segurança"
       ],
       "glance": "Um plano de segurança consiste em alguns passos práticos para a ajudar a manter-se mais segura — e os serviços especializados podem ajudá-la a elaborar um.",
       "overview": "Um plano de segurança consiste simplesmente em pensar antecipadamente em como se manter (e manter as crianças) mais segura. Não se trata de uma decisão de partir ou de ficar — trata-se de estar um pouco mais preparada, seja qual for a sua escolha.\n\nPara algumas pessoas, ajuda ter algumas coisas discretamente preparadas: uma pessoa de confiança que saiba o que se está a passar, documentos importantes e números de contacto acessíveis, um pequeno saco com o essencial, uma noção das formas mais seguras de sair de casa ou uma palavra ou sinal que indique a alguém que precisa de ajuda. O que faz sentido depende inteiramente da sua própria situação.\n\nNão tens de resolver isto sozinha, e muitas vezes é mais seguro não o fazeres. Os serviços de combate à violência têm experiência em elaborar planos de segurança com as pessoas, de forma confidencial e gratuita — incluindo para o período em que se prepara a saída, que pode ser um momento de maior risco e que vale a pena planear com apoio, em vez de o fazer à pressa.",
@@ -1006,11 +1020,12 @@
       "title": "Sinais de trabalho de parto",
       "aliases": [
         "sinais de trabalho de parto",
-        "trabalho",
+        "trabalho de parto",
         "entrar em trabalho de parto",
         "contrações",
-        "romper da bolsa",
-        "o espetáculo",
+        "rebentar das águas",
+        "rutura da bolsa",
+        "rolhão mucoso",
         "fase latente"
       ],
       "glance": "Os sinais de que o trabalho de parto está a começar incluem contrações regulares, a perda do rolhão mucoso, dores nas costas ou a ruptura da bolsa.",
@@ -1050,9 +1065,9 @@
     "spotting": {
       "title": "Manchas e sangramento entre menstruações",
       "aliases": [
-        "manchas",
+        "spotting",
+        "pequenas perdas de sangue",
         "sangramento entre períodos menstruais",
-        "sangramento intermenstrual",
         "sangramento intermenstrual",
         "sangramento após as relações sexuais"
       ],
@@ -1066,6 +1081,7 @@
       "title": "Perseguição",
       "aliases": [
         "perseguição",
+        "stalking",
         "ser perseguida",
         "assédio",
         "atenção indesejada",
@@ -1081,11 +1097,13 @@
     "stillbirth": {
       "title": "Morte fetal (nado-morto)",
       "aliases": [
+        "nado-morto",
         "natimorto",
-        "nascido morto",
+        "morte fetal tardia",
+        "morte fetal intrauterina",
+        "luto perinatal",
         "perda de um bebé",
-        "perda fetal na fase tardia da gravidez",
-        "bebé que nasceu a dormir"
+        "perda fetal na fase tardia da gravidez"
       ],
       "glance": "O natimorto é a perda de um bebé após as 24 semanas — é pouco comum, nunca é culpa sua e conta sempre com apoio.",
       "overview": "Fala-se de natimorto quando um bebé nasce já sem vida após 24 semanas de gravidez. (Uma perda antes das 24 semanas\né designada por aborto espontâneo.) É pouco comum — cerca de 1 em cada 250 nascimentos — mas, para as famílias que\npor isso passam, é uma perda profunda, e todos os cuidados que se seguem têm como objetivo acompanhá-la\ncom delicadeza durante este processo.\n\nPor vezes, é identificada uma causa — por exemplo, um problema com a placenta ou com o desenvolvimento do bebé, ou uma\ncondição de saúde — e, outras vezes, apesar dos exames, **não é identificada qualquer causa**. Seja qual for a razão, um\nnascimento de feto morto não é algo que os pais tenham causado ou que pudessem ter previsto para evitar.\n\nHá uma coisa que ajuda verdadeiramente a reduzir o risco, e é simples: **informar imediatamente a sua parteira\nse os movimentos do seu bebé abrandarem ou mudarem.** Além disso, as coisas do dia-a-dia — ir às\nconsultas pré-natais, não fumar, evitar o álcool e dormir de lado a partir da 28.ª semana — todas\nelas têm o seu papel.",
@@ -1099,8 +1117,9 @@
         "stress e menstruação",
         "stress",
         "ausência de menstruação",
-        "período tardio",
-        "Por que é que a minha menstruação está atrasada?"
+        "menstruação atrasada",
+        "atraso menstrual",
+        "porque é que a minha menstruação está atrasada?"
       ],
       "glance": "O stress, grandes variações de peso ou a prática intensiva de exercício físico podem atrasar ou interromper a menstruação — muitas vezes apenas por algum tempo.",
       "overview": "É comum que a menstruação se atrase ou que falte um mês, e muitas vezes a razão tem mais a ver\ncom o estilo de vida do que com algum problema de saúde. O stress é uma causa frequente — o mesmo sistema que responde\nà pressão pode influenciar as hormonas que regulam o ciclo menstrual.\n\nOutros fatores do dia a dia também podem alterar a menstruação: uma grande variação de peso (para cima ou para baixo), praticar muito\nexercício físico ou estar exausta. Alterações hormonais — como a aproximação da perimenopausa ou\ncondições como a síndrome dos ovários policísticos — também podem estar na origem disso, assim como a gravidez e alguns métodos contraceptivos. Muitas vezes, o intervalo\nentre os períodos menstruais varia apenas um pouco de vez em quando, e isso é normal.\n\nO que é tranquilizador é que um atraso pontual ou a ausência de um período não costuma ser motivo de preocupação, e\nas coisas costumam normalizar-se à medida que a vida segue o seu curso. O que vale a pena observar é um padrão de alteração, em vez de um único\nmês.",
@@ -1111,9 +1130,9 @@
     "supporting-her-period": {
       "title": "Apoiá-la durante a menstruação",
       "aliases": [
-        "ajudando durante a menstruação",
-        "suporte de período para parceiros",
-        "cuidados menstruais"
+        "ajudá-la durante a menstruação",
+        "apoio do parceiro durante a menstruação",
+        "cuidar dela durante a menstruação"
       ],
       "glance": "A menstruação pode trazer dor e cansaço reais – pequenos cuidados práticos fazem uma grande diferença.",
       "overview": "A menstruação não consiste apenas em alguns dias de sangramento; para muitos, vem com cólicas, dores nas costas, dores de cabeça,\ncansaço e baixa energia. A dor menstrual é comum e pode ser realmente desgastante – não é um\nexagero. Trate-o da mesma forma que trataria qualquer parceiro que não esteja bem: com gentileza prática.\n\nNormalize isso também. A menstruação não é nojenta, constrangedora ou tabu. Estar confortável comprando absorventes ou\ntampões, manter alguns em casa ou entregar-lhe uma bolsa de água quente sem complicações indica que ela está segura e\napoiada.",
@@ -1158,10 +1177,10 @@
     "the-premenstrual-days": {
       "title": "Os dias pré-menstruais",
       "aliases": [
-        "PMS para parceiros",
-        "apoiando-a antes da menstruação",
-        "suporte pré-menstrual",
-        "suporte à fase lútea"
+        "TPM para parceiros",
+        "apoiá-la antes da menstruação",
+        "apoio pré-menstrual",
+        "apoio na fase lútea"
       ],
       "glance": "Nos dias anteriores à menstruação, ela pode se sentir mais cansada, sensível ou deprimida – enfrente isso com paciência, não com piadas.",
       "overview": "Cerca de uma semana antes da menstruação, muitas pessoas têm sintomas pré-menstruais: alterações de humor, irritabilidade ou desânimo, cansaço, mamas doridas, inchaço, dores de cabeça ou dificuldade em dormir. É muito comum e é real — resulta da variação hormonal natural da fase lútea, e não de ela estar a «exagerar».\n\nNum número menor de pessoas, o humor em baixo é grave (uma condição chamada perturbação disfórica pré-menstrual, PDPM) e merece verdadeiro apoio e cuidados médicos. Seja como for, o seu papel não é diagnosticá-la nem «resolvê-la» — é ser estável e gentil.\n\nA coisa mais prejudicial que um parceiro pode fazer aqui é usar isto como arma: «isso é só da SPM», revirar os olhos ou tratar os sentimentos dela como inválidos por causa da altura do mês. Isso desvaloriza-a e acrescenta sofrimento a uma semana difícil. Os sentimentos dela continuam a contar, mesmo quando as hormonas fazem parte do quadro.",
@@ -1219,7 +1238,7 @@
         "saúde vaginal",
         "saúde da vulva",
         "higiene íntima",
-        "manter a limpeza",
+        "limpeza íntima",
         "ducha vaginal",
         "corrimento vaginal"
       ],

@@ -25,11 +25,11 @@
       "title": "Suivi prénatal",
       "aliases": [
         "suivi prénatal",
-        "suivi prénatal",
         "suivi de grossesse",
         "consultations chez la sage-femme",
-        "prendre rendez-vous",
-        "consultations prénatales"
+        "consultations prénatales",
+        "visites prénatales",
+        "première consultation de grossesse"
       ],
       "glance": "Les soins prénataux consistent en des examens réguliers tout au long de la grossesse qui permettent de veiller à votre bien-être et à celui de votre bébé.",
       "overview": "Les soins prénataux désignent les soins que vous recevez pendant votre grossesse afin de vous permettre, à vous et à votre bébé, de rester en aussi bonne santé que\npossible. Vous serez généralement suivie par une sage-femme, ainsi que par un médecin si nécessaire. Il est recommandé de commencer tôt :\ncontactez votre sage-femme ou votre médecin généraliste dès que vous apprenez que vous êtes enceinte.\n\nVotre premier rendez-vous officiel — le « rendez-vous d’inscription » — a généralement lieu entre la 8e et la 12e semaine. Par la suite,\non vous proposera des contrôles réguliers : au moins 10 rendez-vous et 2 échographies s’il s’agit de votre\npremier enfant, ou environ 7 si vous avez déjà accouché, avec une fréquence accrue vers la fin de la grossesse.\n\nLors de ces visites, votre sage-femme vérifie votre tension artérielle et analyse votre urine, mesure votre ventre pour suivre la\ncroissance de votre bébé, vous propose des tests de dépistage et discute avec vous des mouvements de votre bébé et de la façon dont vous\nvous sentez. De nombreux problèmes importants — comme la pré-éclampsie ou le diabète gestationnel — sont détectés à ce stade\navant même que vous ne remarquiez quoi que ce soit, et c’est précisément pour cela que ces rendez-vous sont essentiels.",
@@ -98,11 +98,12 @@
     "breast-awareness": {
       "title": "Bien connaître ses seins",
       "aliases": [
-        "sensibilisation au cancer du sein",
-        "l'auto-examen des seins",
+        "bien connaître ses seins",
+        "autopalpation des seins",
         "auto-examen des seins",
-        "auto-examen des seins",
-        "examen des seins"
+        "examen des seins",
+        "palper ses seins",
+        "boule dans le sein"
       ],
       "glance": "Bien connaître ses seins consiste simplement à connaître l'aspect et la texture habituels de vos seins, afin de pouvoir détecter tout changement.",
       "overview": "Bien connaître ses seins n'est pas une technique particulière : il s'agit simplement d'apprendre à reconnaître ce qui est normal chez vous, afin\nque tout changement soit immédiatement perceptible. Examiner régulièrement vos seins vous aide à vous familiariser avec leur\naspect et leur texture habituels ; une fois par mois est un bon rythme.\n\nIl n’y a pas une seule « bonne » façon de procéder. Beaucoup de personnes se regardent dans le miroir, les bras le long du corps puis levés, et\npalpent chaque sein, jusqu’à l’aisselle. Ce que vous cherchez à faire, c’est de vous familiariser avec vos seins, pas de poser un diagnostic — l’\nobjectif est simplement de repérer rapidement un changement s’il se produit.\n\nLes seins évoluent également naturellement au cours du cycle menstruel et tout au long de la vie ; certains changements sont donc tout à fait\nnormaux. L’intérêt de cette vigilance est de bien connaître votre état normal afin de repérer tout ce qui s’en écarte.",
@@ -114,9 +115,10 @@
       "title": "Allaitement maternel",
       "aliases": [
         "allaitement maternel",
-        "soins infirmiers",
+        "allaiter",
+        "donner le sein",
+        "allaitement",
         "lait maternel",
-        "allaitement maternel",
         "l'alimentation de votre bébé"
       ],
       "glance": "Le lait maternel protège le bébé contre les infections et s'adapte à mesure qu'il grandit — et quelle que soit la quantité, il présente des bienfaits.",
@@ -162,9 +164,11 @@
       "aliases": [
         "dépistage du cancer du col de l'utérus",
         "frottis",
-        "frottis",
-        "frottis cervical",
-        "frottis cervical"
+        "frottis cervico-utérin",
+        "frottis vaginal",
+        "test Pap",
+        "test HPV",
+        "dépistage du col"
       ],
       "glance": "Le dépistage du cancer du col de l'utérus est un examen de routine qui permet d'évaluer l'état de santé de votre col de l'utérus et de prévenir le cancer du col de l'utérus.",
       "overview": "Le dépistage du cancer du col de l'utérus est un examen qui permet de vérifier l'état de santé du col de l'utérus, c'est-à-dire l'ouverture de l'utérus située à l'\nextrémité du vagin. Il ne s'agit pas d'un test qui recherche un cancer. Il permet plutôt de détecter précocement d'éventuelles anomalies et de contribuer à\nprévenir l'apparition du cancer du col de l'utérus.\n\nToutes les personnes possédant un col de l'utérus sont invitées à y participer entre 25 et 64 ans. Vous recevez une invitation lorsque\nle moment est venu, à intervalles réguliers, vous n’avez donc pas besoin de vous souvenir de prendre rendez-vous spontanément —\nmême si c’est toujours à vous de décider si vous souhaitez y aller ou non.\n\nLe dépistage lui-même est rapide et réalisé par une infirmière. Beaucoup de personnes se sentent un peu nerveuses à cette idée, ce qui est\ntout à fait compréhensible ; savoir à quoi cela sert — un examen de routine à visée préventive — peut aider à le vivre\nplus sereinement.",
@@ -241,9 +245,10 @@
       "aliases": [
         "préservatif",
         "préservatifs",
+        "capote",
         "préservatif externe",
-        "caoutchouc",
-        "méthode de barrière"
+        "préservatif masculin",
+        "méthode barrière"
       ],
       "glance": "Les préservatifs constituent une méthode de barrière — et le seul moyen de contraception qui protège également contre les IST.",
       "overview": "Un préservatif est une fine barrière — généralement en latex, ou en matière synthétique pour les personnes allergiques au latex\n— que l'on enfile sur le pénis pendant les rapports sexuels. Son principe est simple : il empêche les spermatozoïdes de pénétrer dans le vagin.\n\nCe qui distingue les préservatifs des autres moyens de contraception, c’est qu’ils constituent **la seule méthode qui protège également\ncontre les infections sexuellement transmissibles (IST), y compris le VIH.** C’est pourquoi ils sont souvent utilisés\nen complément d’une autre méthode : l’une pour éviter la grossesse, l’autre pour se protéger contre les infections.\n\nUtilisés correctement à chaque rapport, les préservatifs ont une efficacité d’environ 98 % pour prévenir une grossesse. En\nutilisation typique — c’est-à-dire lorsqu’ils sont parfois mal utilisés ou pas systématiquement —, cette efficacité tombe à environ 82 %. C’est le fait de\nles utiliser correctement et systématiquement qui fait toute la différence.",
@@ -313,7 +318,7 @@
       "title": "Votre cycle et votre bien-être",
       "aliases": [
         "bien-être",
-        "vélo et santé",
+        "cycle et santé",
         "cycle menstruel et santé",
         "signe vital"
       ],
@@ -328,8 +333,8 @@
       "aliases": [
         "violence économique",
         "violence financière",
-        "gestion de l'argent",
-        "Gérer ses finances",
+        "contrôle de l'argent",
+        "contrôle des finances",
         "une dette à mon nom"
       ],
       "glance": "La violence économique consiste à contrôler l’accès d’une personne à l’argent, au travail ou aux ressources — il s’agit d’une forme de violence reconnue.",
@@ -356,10 +361,11 @@
       "aliases": [
         "contraception d'urgence",
         "pilule du lendemain",
-        "pilule du lendemain",
-        "pilule du lendemain",
+        "pilule du surlendemain",
+        "pilule d'urgence",
         "Levonelle",
-        "ellaOne"
+        "ellaOne",
+        "Norlevo"
       ],
       "glance": "La contraception d'urgence permet d'éviter une grossesse après un rapport sexuel non protégé — et plus on agit tôt, mieux c'est.",
       "overview": "La contraception d'urgence est un moyen de prévenir une grossesse après un rapport sexuel non protégé, ou lorsque votre\nméthode habituelle a pu échouer (oubli d'une pilule, préservatif déchiré). Il en existe deux types, et le délai\nest important pour les deux.\n\nLa première est la **pilule du lendemain**. Il en existe deux types : l’un (le lévonorgestrel) peut être pris jusqu’à\n3 jours — 72 heures — après le rapport sexuel, et l’autre (l’acétate d’ulipristal, commercialisé sous le nom d’ellaOne) jusqu’à 5 jours —\n120 heures. La deuxième option est le **stérilet au cuivre (DIU)**, qu’un professionnel de santé peut poser jusqu’à 5 jours\naprès un rapport sexuel ; c’est la forme la plus efficace de contraception d’urgence, et il peut ensuite rester en place comme\nmoyen de contraception au long cours si vous le souhaitez.\n\nPour toutes ces méthodes, **plus vous les utilisez tôt, plus elles ont tendance à être efficaces** — il vaut donc mieux agir\nrapidement plutôt que d’attendre. Vous pouvez vous procurer une contraception d’urgence en pharmacie, chez un médecin généraliste, dans un\ncentre de santé sexuelle ou dans un centre de consultation sans rendez-vous, souvent gratuitement.",
@@ -436,7 +442,7 @@
       "title": "Les premières règles",
       "aliases": [
         "premières règles",
-        "menarche",
+        "ménarche",
         "début des règles",
         "avoir ses règles"
       ],
@@ -564,8 +570,8 @@
       "aliases": [
         "règles abondantes",
         "ménorragie",
+        "hyperménorrhée",
         "saignements menstruels abondants",
-        "inondations",
         "saignements abondants",
         "caillots"
       ],
@@ -592,9 +598,10 @@
       "title": "Écoute et soutien émotionnel",
       "aliases": [
         "comment écouter",
-        "soutien émotionnel aux partenaires",
-        "communications",
-        "être là pour elle"
+        "soutien émotionnel du partenaire",
+        "communication",
+        "être là pour elle",
+        "écoute active"
       ],
       "glance": "La plupart du temps, elle a besoin d'être entendue, pas qu'on cherche à tout régler : écoutez d'abord et demandez avant de lui donner des conseils.",
       "overview": "Quand quelqu’un que nous aimons est en difficulté, notre instinct est d’intervenir et de résoudre le problème. Mais souvent, ce qui aide le plus\nc'est se sentir véritablement entendue : que ses sentiments ont un sens et qu'elle n'est pas seule avec eux. Vouloir tout régler trop\nvite peut être perçu comme « vos sentiments sont un problème à évacuer ».\n\nUne bonne écoute est une compétence que tout le monde peut acquérir. C'est surtout de l'attention : poser le téléphone, lui faire face,\net la laisser finir. Vous n'êtes pas obligé d'être d'accord sur tous les points pour qu'elle se sente respectée.",
@@ -618,7 +625,9 @@
       "title": "Ménopause",
       "aliases": [
         "ménopause",
-        "le changement"
+        "retour d'âge",
+        "climatère",
+        "bouffées de chaleur"
       ],
       "glance": "La ménopause correspond à l'arrêt définitif des règles : il s'agit d'une étape naturelle qui survient généralement entre 45 et 55 ans environ.",
       "overview": "La ménopause correspond au moment où les règles cessent définitivement. Comme les règles peuvent encore apparaître de manière irrégulière pendant un\ncertain temps au début, on considère que la ménopause est effective dès lors que vous n’avez pas eu de règles pendant 12 mois consécutifs. Elle survient généralement\nentre 45 et 55 ans environ, bien qu’elle puisse se produire plus tôt ou plus tard.\n\nIl s’agit d’un phénomène naturel lié au vieillissement, et non d’une maladie. Elle survient lorsque les ovaires cessent progressivement de fonctionner et que le taux d’\nœstrogènes — une hormone clé du cycle — diminue. Ce changement hormonal est à l’origine des changements que de nombreuses\npersonnes remarquent : bouffées de chaleur et sueurs nocturnes, modifications des règles avant la ménopause, troubles du sommeil,\nsautes d’humeur ou anxiété, troubles de la concentration, sécheresse vaginale et douleurs.\n\nLes expériences varient énormément : certaines personnes traversent cette période sans encombre, d’autres la trouvent difficile, et les symptômes peuvent durer\nplusieurs années. Rien de tout cela ne signifie qu’il y a un problème chez vous. Il existe des aides et des solutions, et\ncomprendre ce qui se passe est un bon premier pas.",
@@ -656,9 +665,10 @@
       "title": "Fausse couche",
       "aliases": [
         "fausse couche",
-        "fausse couche",
         "fausse couche précoce",
-        "faire une fausse couche"
+        "perte de grossesse",
+        "faire une fausse couche",
+        "interruption spontanée de grossesse"
       ],
       "glance": "Une fausse couche correspond à la perte d'une grossesse avant la 24e semaine ; c'est un phénomène courant, et ce n'est presque jamais de votre faute.",
       "overview": "Une fausse couche correspond à la perte d'une grossesse au cours des 24 premières semaines. C'est plus fréquent que beaucoup de gens\nne le pensent, et l'une des choses les plus importantes à savoir est que cela n'est presque jamais dû à quelque chose\nque vous avez fait ou n'avez pas fait — cela survient généralement en raison d'un problème lié au déroulement de la grossesse,\nqui échappe au contrôle de quiconque.\n\nLes signes les plus courants sont des saignements vaginaux, ainsi que des crampes ou des douleurs dans le bas du ventre. Des saignements en\ndébut de grossesse ne signifient pas toujours qu’une fausse couche est en cours — de nombreuses femmes ont de légers saignements et mènent\nensuite une grossesse saine — mais il faut toujours consulter un médecin.\n\nQuelle que soit la manière dont la perte survient, les sentiments qui l’accompagnent sont réels et légitimes, et le deuil est une\nréaction normale. Vous n’avez pas à traverser cette épreuve seule : vous pouvez bénéficier d’un soutien, que ce soit auprès de votre sage-femme ou de votre médecin généraliste,\nou auprès d’associations spécialisées dans l’accompagnement des pertes de grossesse.",
@@ -715,10 +725,11 @@
       "aliases": [
         "soulagement de la douleur pendant le travail",
         "péridurale",
-        "gaz et air",
+        "protoxyde d'azote",
+        "MEOPA",
         "Entonox",
         "soulagement des douleurs de l'accouchement",
-        "piscine d'accouchement",
+        "accouchement dans l'eau",
         "TENS"
       ],
       "glance": "Il existe plusieurs façons de soulager les douleurs de l'accouchement : il n'y a pas de bon ou de mauvais choix, et vous pouvez rester flexible.",
@@ -745,8 +756,8 @@
       "title": "Périménopause",
       "aliases": [
         "périménopause",
-        "transition ménopausique",
-        "le changement"
+        "préménopause",
+        "transition ménopausique"
       ],
       "glance": "La périménopause est la période de transition qui précède la ménopause, durant laquelle les règles et les hormones commencent à évoluer.",
       "overview": "La périménopause désigne la période qui précède la ménopause, c'est-à-dire les années « autour de la ménopause ». Elle\ncommence dès que vous remarquez les premiers changements et se prolonge jusqu'à un an après vos dernières règles, moment\noù vous êtes considérée comme ménopausée. Elle peut durer plusieurs années.\n\nAu cours de cette période, les ovaires produisent progressivement moins d’œstrogènes, et les taux fluctuent de manière moins\nprévisible qu’auparavant. Le premier signe le plus courant est une modification des règles : elles deviennent plus\nrapprochées ou plus espacées, plus légères ou plus abondantes. Bon nombre des symptômes liés à la ménopause, tels que les\nbouffées de chaleur, les troubles du sommeil ou les sautes d’humeur, peuvent apparaître dès cette période, alors que vous avez encore vos règles.\n\nComme elle est progressive et varie considérablement d’une personne à l’autre, la périménopause peut être source de confusion : les changements ne surviennent pas\ntous en même temps ni dans le même ordre pour tout le monde. Savoir que cette phase porte un nom et qu’il s’agit d’une\ntransition normale peut aider à mieux la comprendre.",
@@ -774,10 +785,11 @@
       "title": "Préparer une grossesse",
       "aliases": [
         "préparer une grossesse",
-        "idées préconçues",
+        "préconception",
+        "consultation préconceptionnelle",
         "essayer de tomber enceinte",
         "avant la grossesse",
-        "Se préparer à la grossesse"
+        "désir d'enfant"
       ],
       "glance": "Quelques mesures simples à prendre avant d'essayer de concevoir — prendre de l'acide folique, arrêter de fumer et ne plus boire d'alcool — permettent de donner à la grossesse le meilleur départ possible.",
       "overview": "Si vous envisagez d'essayer d'avoir un bébé, quelques mesures prises en amont peuvent permettre à votre grossesse de\ndémarrer sous de meilleurs auspices — dont beaucoup agissent avant même la conception.\n\nLes principales : commencez à prendre de l’**acide folique** (et de la vitamine D), **arrêtez de fumer** et **évitez l’alcool**.\nIl est également utile de viser un poids santé, car un surpoids ou une insuffisance pondérale importants peuvent\nrendre la conception plus difficile. Il est également recommandé de vérifier que votre **vaccination ROR** est à jour, car certaines\ninfections peuvent avoir des répercussions sur la grossesse.\n\nRien de tout cela ne doit être parfait ni source de stress. Ce sont les petits changements positifs mis en place à l’avance qui comptent —\net prendre un peu d’avance est l’une des meilleures choses que vous puissiez faire pour votre future grossesse.",
@@ -790,9 +802,9 @@
       "aliases": [
         "dépression postnatale",
         "dépression post-partum",
-        "PND",
-        "dépression post-partum",
-        "dépression postnatale"
+        "dépression après l'accouchement",
+        "baby blues",
+        "PND"
       ],
       "glance": "La dépression postnatale est un état de morosité courant et traitable qui survient après l'accouchement — ce n'est pas de votre faute, et vous pouvez obtenir de l'aide.",
       "overview": "Il est très fréquent de se sentir déprimée, anxieuse ou irritable au cours des deux premières semaines suivant l'accouchement — ce\nphénomène est souvent appelé « baby blues » et disparaît généralement de lui-même au bout d'environ deux semaines.\n\nLa dépression postnatale est différente : il s'agit d'une humeur maussade plus profonde ou qui dure plus longtemps. C’est un trouble courant,\nqui peut survenir à tout moment au cours de la première année et qui peut également toucher les pères et les conjoints. Parmi les signes, on peut citer une\nhumeur triste persistante, la difficulté à trouver du plaisir à quoi que ce soit, des troubles du sommeil même lorsque votre bébé dort,\net parfois des sentiments contradictoires concernant le lien affectif avec votre bébé.\n\nEn souffrir ne signifie **pas** que vous êtes un mauvais parent ou que vous n’aimez pas votre bébé — c’est une maladie,\npas un échec, et elle répond bien au soutien et au traitement. Demander de l’aide dès les premiers signes est un geste fort et bienveillant\n, tant pour vous que pour votre bébé.",
@@ -819,11 +831,12 @@
       "aliases": [
         "grossesse",
         "être enceinte",
-        "en attendant",
+        "attendre un bébé",
         "gestation",
         "trimestres",
-        "date d'échéance",
-        "À combien de semaines de grossesse ?"
+        "date prévue d'accouchement",
+        "terme",
+        "à combien de semaines de grossesse"
       ],
       "glance": "La grossesse dure généralement environ 40 semaines, à compter du premier jour de vos dernières règles.",
       "overview": "La grossesse est la période durant laquelle votre corps se développe et porte un bébé. Elle dure généralement environ 40 semaines —\nune grossesse est considérée comme à terme et normale lorsqu’elle dure entre 37 et 42 semaines — et, même si cela peut paraître surprenant, elle est comptée\nà partir du premier jour de vos **dernières règles**, et non à partir de la conception. C'est simplement la méthode standard utilisée pour\ncalculer les dates.\n\nVotre **date prévue d’accouchement** est une estimation, pas une date butoir : les bébés naissent souvent un peu plus tôt ou un peu plus tard. Au début\nde la grossesse, une « échographie de datation » (généralement vers la 12e semaine) permet de mesurer votre bébé et de donner une date plus précise,\nce qui modifie parfois l’estimation initiale.\n\nOn parle souvent de la grossesse en trois phases, ou **trimestres**, chacune comportant ses propres changements. Tout\nau long de votre grossesse, vous bénéficiez d’un suivi régulier assuré par une sage-femme (et un médecin si\nnécessaire) — un accompagnement qui contribue à votre bien-être et à celui de votre bébé.",
@@ -835,9 +848,10 @@
       "title": "Test de grossesse",
       "aliases": [
         "test de grossesse",
+        "test de grossesse urinaire",
         "test de grossesse à domicile",
-        "hCG test",
-        "test de grossesse"
+        "test hCG",
+        "prise de sang hCG"
       ],
       "glance": "Un test de grossesse à domicile détecte la présence de l'hormone de grossesse, l'hCG, dans vos urines ; il est particulièrement fiable dès le premier retard de règles.",
       "overview": "Un test de grossesse à domicile fonctionne en détectant une hormone appelée « hCG » (gonadotrophine chorionique humaine) dans\nvotre urine. Votre corps commence à la produire quelques jours après la nidation de l’ovule fécondé, et son taux\naugmente rapidement en début de grossesse.\n\nLe test est le plus fiable dès le **premier jour de retard de règles** — soit environ deux semaines après la\nconception. Si votre cycle est irrégulier ou si vous ne savez pas exactement quand vos règles doivent arriver, attendre au\nmoins 21 jours après un rapport sexuel non protégé permet d'obtenir un résultat plus fiable. Vous n’avez pas besoin de faire le test\ndès le réveil ; vous pouvez le faire à n’importe quel moment de la journée.\n\nUn résultat **positif** est presque certainement exact — très peu de tests s’avèrent positifs lorsque vous n’êtes pas\nenceinte. Un résultat **négatif** est un peu moins certain : si vos règles ne se manifestent toujours pas et que vous\npensez être enceinte, attendez quelques jours et refaites un test.",
@@ -851,8 +865,8 @@
         "accouchement prématuré",
         "travail prématuré",
         "naissance prématurée",
-        "naissance prématurée",
-        "début du travail",
+        "accouchement avant terme",
+        "menace d'accouchement prématuré",
         "perte des eaux prématurée"
       ],
       "glance": "Un accouchement prématuré est un accouchement survenant avant la 37e semaine — agissez rapidement, car une prise en charge précoce fait vraiment la différence.",
@@ -907,12 +921,13 @@
     "recognising-abuse": {
       "title": "Reconnaître une relation abusive",
       "aliases": [
-        "Reconnaître les violences",
+        "reconnaître les violences",
         "relation abusive",
+        "relation toxique",
         "violence conjugale",
-        "violence conjugale",
-        "Signes de maltraitance",
-        "Suis-je victime de maltraitance ?"
+        "violences domestiques",
+        "signes de violence",
+        "suis-je victime de violences ?"
       ],
       "glance": "La violence peut être physique, sexuelle, psychologique ou de contrôle — et ce n’est jamais la faute de la personne qui en est victime.",
       "overview": "La violence dans un couple n’est pas uniquement physique. Elle peut prendre plusieurs formes, souvent combinées : violence physique, contrainte sexuelle, violence émotionnelle ou psychologique, et comportements de contrôle — un partenaire qui décide où vous allez, qui vous voyez ou ce que vous pouvez faire. Chacune de ces situations peut constituer un acte de violence, même en l’absence de blessures visibles.\n\nCe phénomène est plus courant que beaucoup ne le pensent. Dans le monde, environ une femme sur trois subit des violences physiques ou sexuelles au cours de sa vie, le plus souvent de la part d’un partenaire ; la situation est similaire en Italie. Si vous êtes confrontée à cette réalité, sachez que vous n’êtes pas seule et que vous n’en êtes en aucun cas responsable.\n\nIl peut être difficile de mettre des mots sur ce que l’on vit : les violences s’entremêlent souvent à des moments agréables, à des excuses ou à des promesses de changement, et elles peuvent s’installer si progressivement qu’elles finissent par paraître normales. Faire confiance à votre intuition qui vous dit que quelque chose ne va pas est une raison valable pour demander de l’aide. Vous n’avez pas besoin d’être certaine de votre cas, ni d’attendre que la situation devienne « suffisamment grave » pour en parler à quelqu’un.",
@@ -926,9 +941,9 @@
         "comportement de contrôle",
         "contrôle coercitif",
         "relation saine",
-        "panneaux d'avertissement",
+        "signaux d'alerte",
         "où obtenir de l'aide",
-        "abus"
+        "violences"
       ],
       "glance": "L’amour se construit sur le respect et la liberté – le contrôle, la jalousie et la pression ne sont pas de l’amour et l’aide existe.",
       "overview": "Une relation saine repose sur le respect, la confiance, l'égalité et la liberté : deux personnes qui gardent chacune leur\npropres amitiés, choix et espace. Le contrôle est le contraire. Il se cache souvent derrière des mots comme amour ou\njalousie - \"Je vérifie ton téléphone parce que je m'en soucie\", \"Je ne veux pas que tu les voies parce que je t'aime\" - mais\nson effet est de rétrécir son monde et sa liberté.\n\nLe contrôle commence rarement par la violence. Cela commence généralement modestement : une critique, une frontière franchie, une\n\"blague\" qui pique - et grandit. Il est important de le nommer dès le début, car le contrôle coercitif est en soi une forme de\nviolence et un signe avant-coureur du pire. Il ne s’agit pas ici de culpabilité ; c'est une question d'honnêteté et de changement.",
@@ -940,9 +955,9 @@
       "title": "Élaborer un plan de sécurité",
       "aliases": [
         "plan de sécurité",
-        "Rester en sécurité",
-        "Rester en sécurité",
-        "plan de sécurité",
+        "se mettre en sécurité",
+        "rester en sécurité",
+        "planification de sécurité",
         "partir en toute sécurité"
       ],
       "glance": "Un plan de sécurité consiste en quelques mesures pratiques pour vous aider à rester en sécurité — et des services spécialisés peuvent vous aider à en élaborer un.",
@@ -1006,12 +1021,13 @@
       "title": "Signes annonciateurs de l'accouchement",
       "aliases": [
         "signes du travail",
-        "travail",
+        "travail d'accouchement",
+        "début de l'accouchement",
         "entrer en travail",
         "contractions",
         "perte des eaux",
-        "l'émission",
-        "phase latente"
+        "perte du bouchon muqueux",
+        "phase de latence"
       ],
       "glance": "Parmi les signes annonciateurs du début du travail, on peut citer des contractions régulières, la perte du bouchon muqueux, des maux de dos ou la rupture des eaux.",
       "overview": "Il existe quelques signes indiquant que le travail pourrait commencer. Le principal est celui des contractions : des resserrements au niveau\nde votre ventre qui surviennent régulièrement et s’intensifient. Parmi les autres signes, on peut citer la « perte muqueuse » (le bouchon muqueux de votre\ncol de l’utérus qui se détache), un mal de dos persistant, le besoin d’aller aux toilettes et la rupture de la poche des eaux.\n\nAvant le travail actif, il y a souvent une phase précoce (« latente »), durant laquelle le col de l'utérus s'assouplit et commence à\nse dilater. Cette phase peut durer des heures, voire des jours, et pour beaucoup de femmes, il est tout à fait possible de rester confortablement chez\nsoi pendant cette période, en se reposant et en s'hydratant régulièrement.\n\nLe travail commence un peu différemment pour chacune, vous n’avez donc pas besoin de cocher tous les signes. Lorsque vous\npensez que cela commence, votre sage-femme ou votre service de maternité est là pour vous guider sur ce qu’il faut faire et\nquand venir.",
@@ -1050,10 +1066,11 @@
     "spotting": {
       "title": "Spottings et saignements entre deux règles",
       "aliases": [
-        "saignements",
+        "spotting",
+        "petits saignements",
         "saignements entre deux règles",
         "saignements intermenstruels",
-        "saignements intermenstruels",
+        "métrorragie",
         "saignements après un rapport sexuel"
       ],
       "glance": "Les saignements intermenstruels correspondent à de légers saignements entre deux règles ou après un rapport sexuel — ils ne sont souvent pas graves, mais il est toujours préférable de consulter un médecin.",
@@ -1066,8 +1083,9 @@
       "title": "Harcèlement",
       "aliases": [
         "harcèlement",
-        "être victime de harcèlement",
-        "harcèlement",
+        "harcèlement obsessionnel",
+        "être suivie",
+        "stalking",
         "attention indésirable",
         "quelqu'un qui me suit",
         "cyberharcèlement"
@@ -1081,10 +1099,12 @@
     "stillbirth": {
       "title": "Mortinaissance",
       "aliases": [
+        "mortinaissance",
         "mort-né",
-        "mort-né",
+        "mort fœtale in utero",
+        "MFIU",
+        "deuil périnatal",
         "perte d'un bébé",
-        "fausse couche tardive",
         "bébé né sans vie"
       ],
       "glance": "La mortinatalité désigne la perte d'un bébé après 24 semaines de grossesse : c'est un événement rare, qui n'est jamais de votre faute et pour lequel vous pouvez toujours compter sur un soutien.",
@@ -1099,8 +1119,9 @@
         "le stress et les règles",
         "stress",
         "absence de règles",
-        "période tardive",
-        "Pourquoi mes règles sont-elles en retard ?"
+        "retard de règles",
+        "règles en retard",
+        "pourquoi mes règles sont-elles en retard ?"
       ],
       "glance": "Le stress, les variations importantes de poids ou une activité physique intense peuvent retarder ou interrompre les règles — souvent seulement pendant un certain temps.",
       "overview": "Il est fréquent que les règles soient en retard ou qu’un mois soit sauté, et la raison tient souvent davantage\naux aléas de la vie qu’à un problème de santé. Le stress en est une cause fréquente : le même système qui réagit\nà la pression peut influencer les hormones qui régissent votre cycle.\n\nD’autres facteurs du quotidien peuvent également perturber vos règles : une variation importante de poids (à la hausse ou à la baisse), une pratique intensive\nd’exercice physique ou un état de fatigue. Des changements hormonaux — tels que l’approche de la périménopause ou\ndes troubles comme le SOPK — peuvent également en être à l’origine, tout comme la grossesse et certaines méthodes contraceptives. Souvent, l’intervalle\nentre les règles varie simplement un peu de temps à autre, et c’est tout à fait normal.\n\nCe qui est rassurant, c’est que des règles en retard ou sautées une seule fois ne sont généralement pas une source d’inquiétude, et que\nles choses se stabilisent souvent quand la vie se calme. Ce qu’il convient de surveiller, c’est une tendance à long terme plutôt qu’un seul\nmois.",
@@ -1111,9 +1132,9 @@
     "supporting-her-period": {
       "title": "La soutenir pendant ses règles",
       "aliases": [
-        "aider pendant ses règles",
-        "accompagnement périodique des partenaires",
-        "soins menstruels"
+        "l'aider pendant ses règles",
+        "soutien du partenaire pendant les règles",
+        "prendre soin d'elle pendant ses règles"
       ],
       "glance": "Les règles peuvent entraîner de réelles douleurs et fatigues : de petits soins pratiques font une grande différence.",
       "overview": "Les règles ne se limitent pas à quelques jours de saignement ; pour beaucoup, cela s'accompagne de crampes, de maux de dos, de maux de tête,\nfatigue et manque d'énergie. Les douleurs menstruelles sont courantes et peuvent être véritablement épuisantes - ce n'est pas une\nexagération. Traitez-le comme vous traiteriez n'importe quel partenaire malade : avec une gentillesse pratique.\n\nNormalisez-le aussi. Les règles ne sont pas dégoûtantes, embarrassantes ou taboues. Être à l'aise pour acheter des serviettes ou\ndes tampons, en garder à la maison ou lui donner une bouillotte sans chichi lui dit qu'elle est en sécurité et\nsoutenue.",
@@ -1158,10 +1179,10 @@
     "the-premenstrual-days": {
       "title": "Les jours prémenstruels",
       "aliases": [
-        "PMS pour les partenaires",
+        "SPM pour le partenaire",
         "la soutenir avant ses règles",
         "soutien prémenstruel",
-        "soutien à la phase lutéale"
+        "soutien pendant la phase lutéale"
       ],
       "glance": "Dans les jours qui précèdent ses règles, elle peut se sentir plus fatiguée, plus endolorie ou plus déprimée : réagissez avec patience, pas avec des plaisanteries.",
       "overview": "Environ une semaine avant les règles, de nombreuses personnes présentent des symptômes prémenstruels : changements d'humeur, irritabilité\nou sensation de déprime, fatigue, seins douloureux, ballonnements, maux de tête ou troubles du sommeil. C'est très courant\net c'est réel – motivé par le changement hormonal naturel de la phase lutéale, et non par sa « réaction excessive ».\n\nPour un plus petit nombre de personnes, l'humeur dépressive est sévère (un trouble appelé trouble dysphorique prémenstruel, ou TDPM) et mérite un réel\nsoutien et des soins médicaux. Quoi qu'il en soit, votre travail ne consiste pas à la diagnostiquer ou à la soigner, mais à être stable et\ngentil.\n\nLa chose la plus dommageable qu'un partenaire puisse faire ici est de l'utiliser comme une arme : \"c'est juste ton SPM\", lever les yeux au ciel,\nou traiter ses sentiments comme invalides à cause de la date. Cela la dévalorise et ajoute de la souffrance à une\nsemaine difficile. Ses sentiments comptent toujours, même lorsque les hormones font partie du tableau.",
@@ -1175,9 +1196,9 @@
         "jumeaux",
         "grossesse gémellaire",
         "grossesse multiple",
-        "en attente de jumeaux",
-        "jumeaux identiques",
-        "jumeaux non identiques",
+        "attendre des jumeaux",
+        "vrais jumeaux",
+        "faux jumeaux",
         "triplés"
       ],
       "glance": "La grossesse gémellaire est généralement détectée pour la première fois lors de l'échographie de datation, ce qui implique un suivi prénatal un peu plus intense.",
@@ -1219,7 +1240,7 @@
         "santé vaginale",
         "santé de la vulve",
         "hygiène intime",
-        "rester propre",
+        "toilette intime",
         "douche vaginale",
         "pertes vaginales"
       ],

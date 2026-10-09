@@ -257,7 +257,6 @@
         "kondoom",
         "kondoomid",
         "välimine kondoom",
-        "kummi",
         "barjäärimeetod"
       ],
       "glance": "Kondoomid on barjäärimeetod – ja ainus rasestumisvastane vahend, mis kaitseb ka sugulisel teel levivate haiguste eest.",
@@ -336,7 +335,7 @@
         "tsükkel ja tervis",
         "menstruaaltsükkel ja tervis",
         "menstruatsioon ja tervis",
-        "elutähtis näitaja"
+        "tsükkel kui tervisenäitaja"
       ],
       "glance": "Sinu tsükkel on natuke nagu igakuine tervisekontroll – selle muutusi tasub tähele panna.",
       "overview": "Sinu menstruaaltsükkel ei ole ülejäänud tervisest eraldi – see on sellega seotud. Sinu jaoks regulaarne tsükkel on üldjuhul märk, et su keha toimib nii, nagu peab. Seetõttu peavad mõned menstruatsiooni omamoodi igakuiseks signaaliks üldise heaolu kohta.\n\nSelles mängib rolli igapäevaelu. Üks näide on kehakaal: märkimisväärne ala- või ülekaal võib mõjutada ovulatsiooni juhtivaid hormoone, mis võib muuta menstruatsiooni ebaregulaarseks. See toimib mõlemas suunas – põhiasjade eest hoolitsemine, näiteks tasakaalustatud toitumine ja liikumine, toetab tsüklit, ning ühtlane tsükkel on märk, et need asjad on mõistlikus tasakaalus.\n\nAsi ei ole „täiusliku“ tsükli tagaajamises ega enda süüdistamises muutuste pärast. Lihtsalt oma tsüklile õrnalt tähelepanu pöörates saad kasuliku pildi sellest, kuidas sul läheb – ja märguande pöörduda arsti poole, kui midagi muutub.",
@@ -397,7 +396,7 @@
         "endometrioos",
         "endo",
         "endometrioosi sümptomid",
-        "tugev menstruatsioonivalu"
+        "endometrioosi valu"
       ],
       "glance": "Endometrioos on haigus, mille korral emaka limaskestaga sarnane kude kasvab väljaspool emakat, põhjustades sageli valu.",
       "overview": "Endometrioos on pikaajaline haigus, mille korral emaka limaskestaga sarnased rakud kasvavad keha teistes osades, näiteks munasarjade ümbruses, vaagnas või soolel. See on sage – hinnanguliselt on see kogu maailmas umbes 1 naisel 10-st viljakas eas naisest.\n\nKuna see kude käitub natuke nagu emaka limaskest, võib see põhjustada põletikku ja aja jooksul armkoe teket. Kõige sagedasem sümptom on valu: sageli tugev menstruatsioonivalu, aga ka vaagna- või alaseljavalu muudel aegadel, valu seksi ajal või pärast seda ning valu urineerimisel või roojamisel. Sagedased on ka väga tugevad menstruatsioonid, sügav väsimus, madal meeleolu ja raskused rasestumisega. Sümptomid on väga erinevad – mõnel on tugev valu, teisel vähe.\n\nEndometrioosi mõistetakse sageli valesti ja selle äratundmiseni võib kuluda aastaid, osaliselt seetõttu, et menstruatsioonivalu peetakse nii sageli „normaalseks“. Tugevat valu, mis häirib su elu, ei pea sa lihtsalt taluma – seda tasub võtta tõsiselt.",
@@ -870,7 +869,7 @@
         "kõrge vererõhk raseduse ajal",
         "rasedusaegne kõrgvererõhk",
         "gestoos",
-        "rasedustoksikoos"
+        "hiline toksikoos"
       ],
       "glance": "Preeklampsia on raseduse ajal esinev kõrgenenud vererõhk – sageli ei avalda see esialgu mingeid sümptomeid, mistõttu on rasedusaegsed kontrollid väga olulised.",
       "overview": "Preeklampsia on rasedusega seotud seisund, mis avaldub peamiselt kõrgenenud vererõhuna ja valgu esinemisena uriinis. See ilmneb tavaliselt umbes 20. rasedusnädalast alates, mõnikord ka pärast sünnitust.\n\nÜks olulisemaid asju, mida tuleb teada, on see, et haiguse varases staadiumis **ei** tekita see sageli **üldse mingeid sümptomeid** – võid end täiesti hästi tunda. Just seetõttu kontrollib ämmaemand igal rutiinsel raseduskontrollil sinu vererõhku ja võtab uriiniproovi: just nende kontrollide abil avastatakse haigus tavaliselt enne, kui sa ise midagi märkad.\n\nKui sümptomid ilmnevad, on oluline neid tunda, sest preeklampsia võib muutuda tõsiseks nii sinu kui ka su lapse jaoks. Õigeaegselt avastatuna on seda võimalik edukalt ravida, ja rasedusaegsete kontrollvisiitide järgimine on parim viis selle varajaseks avastamiseks.",

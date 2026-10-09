@@ -337,8 +337,7 @@
         "savijauta",
         "ciklas ir sveikata",
         "menstruacinis ciklas ir sveikata",
-        "ciklas kaip sveikatos rodiklis",
-        "gyvybinis rodiklis"
+        "ciklas kaip sveikatos rodiklis"
       ],
       "glance": "Jūsų ciklas yra tarsi kasmėnesinis sveikatos patikrinimas – verta atkreipti dėmesį į jo pokyčius.",
       "overview": "Jūsų menstruacinis ciklas nėra atskirtas nuo likusios jūsų sveikatos – jis su ja susijęs. Jums įprastas, reguliarus ciklas paprastai rodo, kad organizmas veikia taip, kaip turėtų. Todėl kai kas menstruacijas laiko savotišku kasmėnesiniu signalu apie bendrą savijautą.\n\nĮtakos turi ir kasdienis gyvenimas. Vienas pavyzdys – kūno svoris: gerokai per mažas arba per didelis svoris gali paveikti ovuliaciją valdančius hormonus, todėl mėnesinės gali tapti nereguliarios. Tai veikia abiem kryptimis – rūpinimasis pagrindiniais dalykais, pavyzdžiui, subalansuota mityba ir judėjimu, palaiko ciklą, o pastovus ciklas rodo, kad šie dalykai yra pakankamoje pusiausvyroje.\n\nČia kalbama ne apie „tobulo“ ciklo siekimą ar savęs kaltinimą dėl pokyčių. Tiesiog švelnus dėmesys savo ciklui gali padėti suprasti, kaip jums sekasi, ir paskatinti pasitarti su gydytoju, jei kas nors pasikeičia.",
@@ -661,7 +660,6 @@
       "aliases": [
         "menopauzė",
         "klimaksas",
-        "perimenopauzė",
         "karščio bangos",
         "menopauzės simptomai"
       ],
@@ -1002,10 +1000,10 @@
       "title": "Saugumo plano sudarymas",
       "aliases": [
         "saugumo planas",
-        "saugumas",
-        "kaip apsisaugoti",
         "saugumo planavimas",
-        "kaip saugiai išeiti"
+        "kaip saugiai išeiti",
+        "kaip išlikti saugiai",
+        "saugus išėjimas"
       ],
       "glance": "Saugumo planas – tai keletas praktinių veiksmų, kurie padės jums užtikrinti didesnį saugumą, o kvalifikuotos tarnybos gali padėti jį parengti.",
       "overview": "Saugumo planas – tai tiesiog išankstinis apmąstymas, kaip padidinti savo (ir vaikų, jei jų turite) saugumą. Tai nėra sprendimas išeiti ar likti – tai būdas būti šiek tiek geriau pasiruošusiai, kad ir ką pasirinktumėte.\n\nKai kam padeda tyliai pasirūpinti keliais dalykais: patikimas žmogus, kuris žino, kas vyksta, svarbūs dokumentai ir telefono numeriai lengvai pasiekiamoje vietoje, nedidelis krepšys su būtiniausiais daiktais, žinojimas, kokiais keliais saugiausia išeiti iš namų, ar žodis ar ženklas, kuriuo galite kam nors pranešti, kad jums reikia pagalbos. Kas tinka, visiškai priklauso nuo jūsų situacijos.\n\nJums nereikia to spręsti vienai, ir dažnai saugiau to nedaryti vienai. Pagalbos smurtą patiriantiems tarnybos turi patirties kartu su žmonėmis rengiant saugumo planus – konfidencialiai ir nemokamai – taip pat ir laikotarpiui, kai išeinate: tai gali būti ypač rizikingas metas, kurį verta planuoti su pagalba, o ne skubotai.",
@@ -1208,7 +1206,7 @@
         "IUS",
         "varinė spiralė",
         "hormoninė spiralė",
-        "gimdos vidinė priemonė",
+        "intrauterinė priemonė",
         "intrauterinė sistema",
         "Mirena"
       ],

@@ -180,7 +180,7 @@
         "méhnyakszűrés",
         "citológia",
         "kenet",
-        "rákszűrés",
+        "méhnyakrákszűrés",
         "pap teszt",
         "pap kenet",
         "nőgyógyászati szűrés",
@@ -232,7 +232,6 @@
       "aliases": [
         "kombinált tabletta",
         "fogamzásgátló tabletta",
-        "tabletta",
         "kombinált orális fogamzásgátló",
         "fogamzásgátló",
         "COC",
@@ -267,7 +266,6 @@
       "aliases": [
         "óvszer",
         "óvszerek",
-        "gumi",
         "kondom",
         "külső óvszer",
         "barrier módszer",
@@ -350,7 +348,6 @@
         "jóllét",
         "ciklus és egészség",
         "menstruációs ciklus és egészség",
-        "életjel",
         "testsúly és menstruáció",
         "rendszertelen menstruáció"
       ],
@@ -741,7 +738,7 @@
         "menstruációs szakasz",
         "vérzés",
         "mens",
-        "megjött"
+        "megjött a menzesz"
       ],
       "glance": "A menstruáció az a néhány napos vérzés, amely minden ciklust elindít, amikor a méh nyálkahártyája leválik.",
       "overview": "A menstruációs szakasz maga a menstruáció – azok a napok, amikor vérzel. A ciklus 1. napján kezdődik, amikor az ösztrogén és a progeszteron szintje annyira lecsökkent, hogy a méhen belül felépült nyálkahártya fenntartása megszűnik, a nyálkahártya leválik, és a hüvelyen keresztül távozik a testből.\n\nA menstruáció általában körülbelül 2–7 napig tart, jellemzően nagyjából 5 napig. A vérzés gyakran az első egy-két napban a legerősebb, utána gyengébb. A menstruáció általában 12 éves kor körül kezdődik, bár a korábbi vagy későbbi kezdés is normális.\n\nHogy mi a „normális”, az emberenként nagyon eltérő. Ha követed a saját menstruációidat, könnyebben észreveszed, mi szokásos nálad, és ez sokkal többet mond bármilyen átlagnál.",
@@ -1076,7 +1073,6 @@
       "aliases": [
         "biztonsági terv",
         "biztonságban maradni",
-        "biztonság",
         "biztonsági tervezés",
         "biztonságos távozás",
         "hogyan menjek el",

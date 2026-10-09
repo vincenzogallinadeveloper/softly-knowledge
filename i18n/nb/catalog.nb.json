@@ -26,11 +26,11 @@
       "title": "Svangerskapsomsorg",
       "aliases": [
         "svangerskapsomsorg",
-        "svangerskapsomsorg",
-        "svangerskapsomsorg",
+        "svangerskapskontroll",
+        "svangerskapskontroller",
+        "jordmorkontroll",
         "jordmorbesøk",
-        "bestille time",
-        "svangerskapskontroller"
+        "første svangerskapskontroll"
       ],
       "glance": "Svangerskapsomsorg er de regelmessige kontrollene gjennom svangerskapet som bidrar til at både du og barnet ditt har det bra.",
       "overview": "Svangerskapsomsorg er den omsorgen du får under svangerskapet for å sikre at du og barnet ditt holder dere så sunne som\nmulig. Du vil vanligvis møte en jordmor, og også en lege hvis du trenger det. Det lønner seg å starte tidlig:\nta kontakt med jordmoren din eller fastlegen din så snart du vet at du er gravid.\n\nDin første ordentlige time – «innmeldingstimen» – er vanligvis mellom 8. og 12. uke. Etter\ndet blir du tilbudt regelmessige kontroller: minst 10 konsultasjoner og 2 ultralydundersøkelser hvis det er ditt\nførste barn, eller rundt 7 hvis du har født før, med flere mot slutten.\n\nVed disse besøkene sjekker jordmoren blodtrykket og urinen din, måler magen din for å følge\nbabyens vekst, tilbyr screeningtester og snakker med deg om babyens bevegelser og hvordan du\nhar det. Mange viktige ting – som svangerskapsforgiftning eller svangerskapsdiabetes – oppdages her\nfør du selv merker noe, og det er nettopp derfor disse kontrollene er så viktige.",
@@ -42,11 +42,12 @@
       "title": "Babyens bevegelser",
       "aliases": [
         "babyens bevegelser",
-        "babyens bevegelser",
         "fosterbevegelser",
         "spark",
+        "kjenne liv",
         "å kjenne at babyen beveger seg",
-        "begrensede bevegelser"
+        "færre fosterbevegelser",
+        "mindre liv i magen"
       ],
       "glance": "Når du kjenner at babyen beveger seg, er det et tegn på at alt står bra til — hvis bevegelsene avtar eller endrer seg, må du umiddelbart kontakte jordmoren din.",
       "overview": "Å kjenne at babyen beveger seg, er et av de betryggende tegnene på at alt går bra med den. De fleste begynner å\nkjenne bevegelser et sted mellom 16. og 24. svangerskapsuke – ofte senere i et første svangerskap, så\ndet er vanlig at man kjenner det først etter 20. uke første gang.\n\nDet er ikke noe fast antall bevegelser du «bør» kjenne, og det er ikke nødvendig å telle sparkene opp mot et bestemt mål.\nHver baby er forskjellig, og det som teller er å bli kjent med **din** babys eget vanlige mønster\ngjennom dagen – når den er aktiv og når den er rolig.\n\nNår du kjenner dette mønsteret, er det endringer i det du bør være oppmerksom på. Stol på det du vet\nom din egen baby.",
@@ -115,9 +116,9 @@
       "title": "Amning",
       "aliases": [
         "amming",
-        "sykepleie",
+        "amme",
         "morsmelk",
-        "amning",
+        "brystmelk",
         "å mate babyen din"
       ],
       "glance": "Morsmelk beskytter barnet mot infeksjoner og tilpasser seg etter hvert som barnet vokser — og uansett mengde har den positive effekter.",
@@ -163,9 +164,10 @@
       "aliases": [
         "livmorhalskreftscreening",
         "celleprøve",
-        "smøre",
-        "cervikaltest",
-        "celleprøve"
+        "celleprøve fra livmorhalsen",
+        "Livmorhalsprogrammet",
+        "HPV-test",
+        "cervikaltest"
       ],
       "glance": "Livmorhalskreftscreening er en rutinemessig undersøkelse av livmorhalsens helse som bidrar til å forebygge livmorhalskreft.",
       "overview": "Livmorhalsundersøkelse er en test som sjekker helsetilstanden til livmorhalsen – åpningen til livmoren øverst\ni skjeden. Det er ikke en krefttest. I stedet er det en måte å oppdage forandringer på et tidlig stadium og bidra til\nå forhindre at livmorhalskreft utvikler seg i utgangspunktet.\n\nAlle med livmorhals blir invitert fra de er 25 til 64 år. Du får tilsendt en invitasjon når\ndet er på tide, med jevne mellomrom, slik at du ikke trenger å huske å bestille time ut av det blå –\nselv om det alltid er ditt valg om du vil gå.\n\nSelve undersøkelsen går raskt og utføres av en sykepleier. Mange føler seg litt nervøse for det, noe som er\nhelt forståelig; å vite hva det er til – en rutinemessig, forebyggende undersøkelse – kan gjøre at det føles\nlettere å takle.",
@@ -177,11 +179,11 @@
       "title": "Barnemishandling og å ivareta barns sikkerhet",
       "aliases": [
         "barnemishandling",
-        "barnemishandling",
-        "barnesikkerhet",
+        "barns sikkerhet",
         "beskyttelse av et barn",
         "bekymret for et barn",
-        "forsømmelse"
+        "omsorgssvikt",
+        "vold mot barn"
       ],
       "glance": "Hvis du er bekymret for at et barn kan bli utsatt for overgrep eller omsorgssvikt, er det riktig å søke råd – du trenger ikke å være helt sikker.",
       "overview": "Barnemishandling — eller omsorgssvikt — er skade på personer under 18 år. Det omfatter fysisk, seksuell og emosjonell mishandling, samt omsorgssvikt (å ikke dekke barnets grunnleggende behov). Det er dessverre vanlig, kan forårsake livslang skade, og det er aldri barnets skyld.\n\nKanskje er du bekymret for et barn i ditt nærmiljø, eller for et barn du har lagt merke til. Du trenger ikke å være sikker eller ha bevis for å handle på denne bekymringen – å stole på den og be om råd er akkurat det rette å gjøre, og det kan beskytte et barn.\n\nOg hvis du selv har opplevd overgrep som barn, må du vite at det som skjedde aldri var din skyld, og at det finnes hjelp for deg også, uansett alder.",
@@ -194,10 +196,10 @@
       "aliases": [
         "tvangskontroll",
         "kontrollerende atferd",
-        "emosjonelt misbruk",
+        "psykisk vold",
         "psykisk mishandling",
         "isolasjon",
-        "økonomisk misbruk",
+        "økonomisk vold",
         "gaslighting"
       ],
       "glance": "Tvangskontroll er et mønster av kontrollerende atferd – isolering, overvåking, trusler – som er en anerkjent form for overgrep.",
@@ -243,8 +245,7 @@
         "kondom",
         "kondomer",
         "eksternt kondom",
-        "gummi",
-        "barriere-metode"
+        "barrieremetode"
       ],
       "glance": "Kondomer er en barriereprevensjonsmetode – og den eneste prevensjonsformen som også beskytter mot seksuelt overførbare sykdommer.",
       "overview": "Et kondom er en tynn barriere – vanligvis laget av lateks, eller et plastalternativ for de som har lateksallergi\n– som brukes på penis under samleie. Det fungerer enkelt: det hindrer sædceller i å komme inn i skjeden.\n\nDet som gjør kondomer spesielle blant prevensjonsmidler, er at de er **den eneste metoden som også beskytter\nmot seksuelt overførbare infeksjoner (SOI), inkludert HIV.** Derfor brukes de ofte\nsammen med en annen metode – én for å forhindre graviditet, og begge to for å beskytte mot infeksjoner.\n\nBrukt riktig hver gang er kondomer omtrent 98 % effektive når det gjelder å forhindre graviditet. Ved vanlig\nbruk – der de noen ganger brukes feil eller ikke hver gang – synker effektiviteten til rundt 82 %. Å bruke\ndet riktig og konsekvent er det som gjør hele forskjellen.",
@@ -299,6 +300,7 @@
     "contraceptive-implant": {
       "title": "Prevensjonsimplantatet",
       "aliases": [
+        "p-stav",
         "prevensjonsimplantat",
         "implantatet",
         "Nexplanon",
@@ -314,9 +316,10 @@
       "title": "Menstruasjonssyklusen din og ditt velvære",
       "aliases": [
         "velvære",
-        "sykling og helse",
         "menstruasjonssyklus og helse",
-        "livstegn"
+        "mens og helse",
+        "syklus og helse",
+        "vitalt tegn"
       ],
       "glance": "Menstruasjonssyklusen din er litt som en månedlig helsesjekk – det kan være lurt å legge merke til endringer i den.",
       "overview": "Menstruasjonssyklusen din er ikke atskilt fra resten av helsen din – den henger sammen med den. En syklus\nsom er regelmessig for deg, er vanligvis et tegn på at kroppen din fungerer som den skal. Derfor\nser noen på mensen som en slags månedlig indikator på den generelle velvære.\n\nHverdagen spiller inn. Kroppsvekt er ett eksempel: å være betydelig under- eller overvektig\nkan påvirke hormonene som styrer eggløsningen, noe som kan føre til uregelmessig menstruasjon. Dette går begge\nveier – å ta vare på det grunnleggende, som et balansert kosthold og å holde seg aktiv, støtter\nsyklusen, og en jevn syklus er et tegn på at disse tingene er i rimelig balanse.\n\nDette handler ikke om å jakte på en «perfekt» syklus eller å klandre deg selv for endringer. Det handler ganske enkelt om at\nå være litt oppmerksom på syklusen din kan gi et nyttig innblikk i hvordan du har det – og være en påminnelse om å\nta kontakt med en helsepersonell hvis noe endrer seg.",
@@ -328,9 +331,9 @@
       "title": "Økonomisk overgrep",
       "aliases": [
         "økonomisk vold",
-        "økonomisk misbruk",
-        "økonomistyring",
-        "økonomistyring",
+        "økonomisk overgrep",
+        "økonomisk kontroll",
+        "kontrollerer pengene",
         "gjeld i mitt navn"
       ],
       "glance": "Økonomisk misbruk innebærer å kontrollere noens tilgang til penger, arbeid eller ressurser – en anerkjent form for misbruk.",
@@ -356,9 +359,9 @@
       "title": "Nødprevensjon",
       "aliases": [
         "nødprevensjon",
-        "nødprevensjon",
-        "nødprevensjon",
-        "nødprevensjon",
+        "angrepille",
+        "angrepillen",
+        "dagen-derpå-pille",
         "Levonelle",
         "ellaOne"
       ],
@@ -564,11 +567,12 @@
       "title": "Kraftige menstruasjoner",
       "aliases": [
         "kraftige menstruasjoner",
+        "kraftig mens",
         "menorragi",
         "kraftig menstruasjonsblødning",
-        "oversvømmelse",
         "kraftig blødning",
-        "blodpropper"
+        "blodklumper i mensen",
+        "levret blod"
       ],
       "glance": "Kraftig menstruasjon innebærer at man mister mye blod hver syklus — dette er vanlig, men det er lurt å få det sjekket hvis det påvirker deg.",
       "overview": "Kraftig menstruasjon – det medisinske begrepet er menoragi – betyr at man mister mye blod under mensen.\nFor noen er kraftig blødning helt normalt, men hvis det forstyrrer hverdagen din eller gjør\ndeg utmattet, er det verdt å undersøke nærmere.\n\nNoen tegn på at menstruasjonen er kraftig: å måtte skifte bind eller tampong hver 1. til 2. time,\nå bruke to typer menstruasjonsprodukter samtidig (for eksempel en tampong og et bind), at blodet siver gjennom til\nklærne eller sengetøyet, at du får ut blodpropper som er større enn ca. 2,5 cm (omtrent en 10p-mynt), eller menstruasjoner\nsom varer i mer enn 7 dager.\n\nÅ miste mye blod måned etter måned kan gjøre deg trøtt eller gi deg kortpustethet, fordi det kan føre\ntil lavt jernnivå (anemi). Det finnes mange mulige årsaker – fra fibroider eller tilstander som\nendometriose, adenomyose eller PCOS, til visse medisiner – og ofte finner man ingen alvorlig årsak. Uansett\nkan kraftig menstruasjon vanligvis behandles, så det er ikke noe du bare må leve med.",
@@ -619,7 +623,8 @@
       "title": "Overgangsalderen",
       "aliases": [
         "overgangsalderen",
-        "endringen"
+        "menopause",
+        "klimakteriet"
       ],
       "glance": "Overgangsalderen er når menstruasjonen opphører for godt — en naturlig fase som vanligvis inntrer mellom 45 og 55 år.",
       "overview": "Overgangsalderen er det tidspunktet da menstruasjonen opphører for godt. Siden menstruasjonen kan komme og gå en\nstund i begynnelsen, regnes den som inntruffet når du har gått 12 måneder på rad uten menstruasjon. Det skjer vanligvis\nmellom 45 og 55 år, selv om det kan skje tidligere eller senere.\n\nDet er en naturlig del av aldringen, ikke en sykdom. Det skjer når eggstokkene trapper ned og nivået av\nøstrogen – et sentralt hormon i syklusen – synker. Denne hormonelle endringen ligger bak de forandringene mange\nmerker: hetetokter og nattesvette, endringer i menstruasjonen i forkant, søvnvansker,\nhumørsvingninger eller angst, «hjerne-tåke», vaginal tørrhet og smerter.\n\nOpplevelsene varierer enormt – noen kommer seg lett gjennom det, andre synes det er vanskelig, og symptomene kan vare i\nflere år. Ingenting av dette betyr at det er noe galt med deg. Det finnes støtte og alternativer, og\nå forstå hva som skjer er et godt første skritt.",
@@ -716,10 +721,11 @@
       "aliases": [
         "smertelindring under fødselen",
         "epidural",
-        "gass og luft",
+        "lystgass",
         "Entonox",
         "smertelindring ved fødsel",
-        "fødselsbasseng",
+        "fødebadekar",
+        "vannfødsel",
         "TENS"
       ],
       "glance": "Det finnes flere måter å lindre fødselssmerter på – det finnes ikke noe riktig eller galt valg, og du kan være fleksibel.",
@@ -747,7 +753,8 @@
       "aliases": [
         "perimenopause",
         "overgangsalderen",
-        "endringen"
+        "klimakteriet",
+        "starten på overgangsalderen"
       ],
       "glance": "Perimenopausen er overgangsfasen som leder frem til overgangsalderen, når menstruasjonen og hormonene begynner å endre seg.",
       "overview": "Perimenopausen er tidsperioden frem til overgangsalderen – årene «rundt overgangsalderen». Den\nbegynner når du først merker endringene og varer helt til ett år etter din siste menstruasjon, da\ndu har nådd overgangsalderen. Den kan vare i flere år.\n\nI løpet av denne tiden produserer eggstokkene gradvis mindre østrogen, og nivåene stiger og faller mindre\nforutsigbart enn før. Det vanligste tidlige tegnet er at menstruasjonene endrer seg – de kommer\ntettere eller sjeldnere, blir lettere eller kraftigere. Mange av symptomene knyttet til overgangsalderen, som\nhetetokter, søvnforstyrrelser eller humørsvingninger, kan begynne allerede nå, mens du fremdeles har menstruasjon.\n\nFordi det skjer gradvis og varierer så mye, kan perimenopausen være forvirrende – endringene kommer ikke\npå en gang eller i samme rekkefølge for alle. Å vite at denne fasen har et navn, og at det er en\nnormal overgang, kan gjøre det lettere å forstå den.",
@@ -775,10 +782,10 @@
       "title": "Planlegging av graviditet",
       "aliases": [
         "planlegging av graviditet",
-        "forhåndsoppfatning",
-        "prøver å bli gravid",
         "før graviditeten",
-        "forberede seg på graviditet"
+        "prøver å bli gravid",
+        "forberede seg på graviditet",
+        "ønsker å bli gravid"
       ],
       "glance": "Noen få enkle tiltak før du prøver å bli gravid – folsyre, å slutte å røyke og å kutte ut alkoholen – gir svangerskapet den beste starten.",
       "overview": "Hvis du vurderer å prøve å bli gravid, kan noen få tiltak på forhånd gi svangerskapet en\nsunnere start – mange av dem virker allerede før du blir gravid.\n\nDe viktigste er: begynn å ta **folsyre** (og vitamin D), **slutt å røyke** og **unngå alkohol**.\nÅ strebe etter en sunn vekt hjelper også, siden det å være betydelig undervektig eller overvektig kan gjøre det\nvanskeligere å bli gravid. Det er også lurt å sørge for at **MMR-vaksinasjonen** din er oppdatert, siden enkelte\ninfeksjoner kan påvirke et svangerskap.\n\nIngenting av dette trenger å være perfekt eller stressende. Det er de små, milde endringene du gjør i god tid som teller —\nog å få et lite forsprang er noe av det beste du kan gjøre for et fremtidig svangerskap.",
@@ -805,9 +812,8 @@
       "title": "Preeklampsi",
       "aliases": [
         "preeklampsi",
-        "preeklampsi",
-        "høyt blodtrykk under svangerskapet",
-        "toksemi"
+        "svangerskapsforgiftning",
+        "høyt blodtrykk under svangerskapet"
       ],
       "glance": "Preeklampsi er forhøyet blodtrykk under svangerskapet — ofte uten synlige symptomer i begynnelsen, og det er derfor svangerskapskontrollene er så viktige.",
       "overview": "Preeklampsi er en tilstand under svangerskapet som hovedsakelig kjennetegnes ved høyt blodtrykk, sammen med\nprotein i urinen. Den oppstår vanligvis fra rundt 20. uke, og noen ganger etter fødselen.\n\nNoe av det viktigste å vite er at tilstanden i begynnelsen ofte **ikke gir noen symptomer i det hele tatt** —\ndu kan føle deg helt frisk. Det er nettopp derfor jordmoren din måler blodtrykket ditt og tar\nurinprøver ved hver rutinemessige svangerskapskontroll: det er gjennom disse kontrollene tilstanden vanligvis oppdages\nfør du selv merker noe.\n\nNår symptomene først dukker opp, er det viktig å kjenne dem, fordi preeklampsi kan bli alvorlig både for deg\nog barnet ditt. Tilstanden er svært behandlingsbar når den oppdages i tide, og å følge opp svangerskapskontrollene dine er\nden aller beste måten å være på forkant med utviklingen på.",
@@ -820,10 +826,11 @@
       "aliases": [
         "graviditet",
         "å være gravid",
-        "i forventning om",
+        "venter barn",
         "svangerskap",
         "trimester",
-        "forfallsdato",
+        "termin",
+        "termindato",
         "hvor mange uker gravid"
       ],
       "glance": "Graviditeten varer vanligvis rundt 40 uker, regnet fra den første dagen i din siste menstruasjon.",
@@ -850,9 +857,8 @@
       "title": "For tidlig fødsel",
       "aliases": [
         "for tidlig fødsel",
-        "for tidlig fødsel",
-        "for tidlig fødsel",
-        "for tidlig fødsel",
+        "prematur fødsel",
+        "for tidlige rier",
         "tidlig fødsel",
         "vannet går tidlig"
       ],
@@ -926,9 +932,9 @@
         "kontrollerende atferd",
         "tvangskontroll",
         "sunt forhold",
-        "advarselsskilt",
+        "varseltegn",
         "hvor du kan få hjelp",
-        "misbruk"
+        "vold i nære relasjoner"
       ],
       "glance": "Kjærlighet er bygget på respekt og frihet - kontroll, sjalusi og press er ikke kjærlighet, og hjelp finnes.",
       "overview": "Et sunt forhold hviler på respekt, tillit, likhet og frihet: to personer som beholder hver sin\negne vennskap, valg og rom. Kontroll er det motsatte. Den gjemmer seg ofte bak ord som kjærlighet eller\nsjalusi - \"Jeg sjekker telefonen din fordi jeg bryr meg\", \"Jeg vil ikke at du skal se dem fordi jeg elsker deg\" - men\ndens effekt er å krympe hennes verden og hennes frihet.\n\nKontroll starter sjelden med vold. Det begynner vanligvis i det små - en kritikk, en grense krysset, en\n«vits» som svir — og vokser. Å navngi det tidlig betyr noe, fordi tvangskontroll i seg selv er en form for\nmishandling og et varseltegn om noe verre. Dette handler ikke om skyld; det handler om ærlighet og forandring.",
@@ -941,9 +947,9 @@
       "aliases": [
         "sikkerhetsplan",
         "å holde seg trygg",
-        "holde seg trygg",
         "sikkerhetsplanlegging",
-        "å forlate trygt"
+        "å komme seg trygt ut",
+        "å forlate en voldelig partner"
       ],
       "glance": "En sikkerhetsplan består av noen få praktiske tiltak som kan bidra til å øke din sikkerhet – og fagpersonell kan hjelpe deg med å lage en.",
       "overview": "En sikkerhetsplan handler ganske enkelt om å tenke gjennom på forhånd hvordan du kan ivareta din egen (og eventuelle barns) sikkerhet. Det er ikke en beslutning om å forlate eller bli – det handler om å være litt bedre forberedt, uansett hva du velger.\n\nFor noen kan det være nyttig å ha noen få ting på plass i det stille: en person du stoler på som vet hva som skjer, viktige dokumenter og telefonnumre der du kan nå dem, en liten veske med det viktigste, oversikt over de tryggeste veiene ut av hjemmet, eller et ord eller signal som forteller noen at du trenger hjelp. Hva som er fornuftig, avhenger helt av din egen situasjon.\n\nDu trenger ikke å finne ut av dette alene, og det er ofte tryggere å ikke gjøre det. Voldshjelpstjenester har lang erfaring med å lage sikkerhetsplaner sammen med brukerne, fortrolig og gratis – også for tiden rundt det å forlate forholdet, som kan være et øyeblikk med høyere risiko og som det er lurt å planlegge med støtte i stedet for i all hast.",
@@ -1006,12 +1012,14 @@
       "title": "Tegn på fødsel",
       "aliases": [
         "tegn på fødsel",
-        "arbeid",
+        "fødsel",
         "å gå i fødsel",
-        "sammentrekninger",
+        "fødselen starter",
+        "rier",
+        "kynnere",
         "vannet går",
-        "programmet",
-        "latent fase"
+        "slimproppen",
+        "latensfase"
       ],
       "glance": "Tegn på at fødselen er i gang er blant annet regelmessige veer, at slimproppen løsner, ryggsmerter eller at fostervannet går.",
       "overview": "Det er noen tegn på at fødselen kan være i ferd med å sette i gang. Det viktigste tegnet er veer – sammentrekninger i\nmagen som kommer med jevne mellomrom og blir sterkere. Andre tegn er «tegning» (at slimproppen fra\nlivmorhalsen løsner), vedvarende ryggsmerter, trang til å gå på toalettet og at vannet går.\n\nFør den aktive fødselen starter, er det ofte en tidlig («latent») fase, der livmorhalsen mykner opp og begynner å\nåpne seg. Denne fasen kan vare i timer eller til og med dager, og for mange er det helt greit å holde seg komfortabelt\nhjemme i løpet av denne tiden, hvile og drikke nok væske.\n\nFødselsforløpet starter litt forskjellig for alle, så du trenger ikke å krysse av for hvert eneste tegn. Når du\ntror at det begynner, er jordmoren din eller fødeavdelingen der for å veilede deg om hva du skal gjøre og\nnår du skal komme inn.",
@@ -1084,8 +1092,8 @@
         "dødfødsel",
         "dødfødt",
         "tap av et barn",
-        "abort sent i svangerskapet",
-        "Baby Born Sleeping"
+        "sent svangerskapstap",
+        "intrauterin fosterdød"
       ],
       "glance": "Dødfødsel er tapet av et barn etter 24 uker – det er uvanlig, det er aldri din skyld, og du vil alltid få støtte.",
       "overview": "En dødfødsel er når et barn blir født dødt etter 24 uker av svangerskapet. (Et tap før 24 uker\nkalles spontanabort.) Det er uvanlig – omtrent 1 av 250 fødsler – men for familiene det\nrammer, er det et dyptgripende tap, og alt ved den etterfølgende omsorgen er ment å støtte deg\npå en skånsom måte gjennom denne tiden.\n\nNoen ganger finner man en årsak – for eksempel et problem med morkaken eller babyens utvikling, eller en\nhelsetilstand – og noen ganger, til tross for undersøkelser, **finner man ingen årsak i det hele tatt**. Uansett årsak er en\ndødfødsel ikke noe foreldrene har forårsaket eller kunne ha forhindret.\n\nDet er én ting som virkelig bidrar til å redusere risikoen, og det er enkelt: **å fortelle jordmoren din med en gang\nhvis babyens bevegelser avtar eller endrer seg.** I tillegg spiller de hverdagslige tingene – å gå til\nsvangerskapskontroller, ikke røyke, unngå alkohol og sove på siden fra 28. uke – alle\nen rolle.",
@@ -1097,10 +1105,13 @@
       "title": "Stress, livet og mensen",
       "aliases": [
         "stress og menstruasjon",
+        "stress og mens",
         "stress",
         "uteblitt menstruasjon",
-        "sen periode",
-        "Hvorfor er mensen min forsinket?"
+        "uteblitt mens",
+        "sen mens",
+        "forsinket mens",
+        "hvorfor er mensen min forsinket"
       ],
       "glance": "Stress, store vektendringer eller mye trening kan forsinke menstruasjonen eller få den til å utebli – ofte bare en kort stund.",
       "overview": "Det er vanlig at mensen kommer for sent eller uteblir en måned, og årsaken har ofte mer å gjøre\nmed livssituasjonen enn at noe er galt. Stress er en vanlig årsak – det samme systemet som reagerer\npå press, kan påvirke hormonene som styrer mensen din.\n\nAndre hverdagslige ting kan også forskyve menstruasjonen: en stor vektendring (opp eller ned), mye\ntrening eller å være utslitt. Hormonelle endringer – som for eksempel når overgangsalderen nærmer seg, eller\ntilstander som PCOS – kan også ligge bak, i likhet med graviditet og enkelte prevensjonsmidler. Ofte varierer\nintervallet mellom menstruasjonene ganske enkelt litt fra gang til gang, og det er helt normalt.\n\nDet betryggende er at en enkelt forsinket eller uteblitt menstruasjon vanligvis ikke er grunn til bekymring, og\nting ordner seg ofte av seg selv etter hvert som livet går sin gang. Det som er verdt å holde øye med, er et mønster av endringer snarere enn en enkelt\nmåned.",
@@ -1111,9 +1122,10 @@
     "supporting-her-period": {
       "title": "Støtte henne under mensen",
       "aliases": [
-        "hjelper i løpet av mensen",
-        "periodestøtte for partnere",
-        "periodeomsorg"
+        "hjelpe henne under mensen",
+        "støtte under mensen",
+        "mensstøtte for partnere",
+        "omsorg under mensen"
       ],
       "glance": "Mensen kan gi ekte smerter og tretthet - små, praktiske omsorgshandlinger gjør stor forskjell.",
       "overview": "En menstruasjon er ikke bare noen få dager med blødning; for mange kommer det med kramper, ryggsmerter, hodepine,\ntretthet og lav energi. Menstruasjonssmerter er vanlig og kan være genuint drenerende - det er ikke en\noverdrivelse. Behandle det slik du ville behandlet enhver partner som er uvel: med praktisk vennlighet.\n\nNormaliser det også. Menstruasjoner er ikke ekle, pinlige eller et tabu. Å være komfortabel med å kjøpe bind eller\ntamponger, holde noen hjemme eller gi henne en varmeflaske uten oppstyr forteller henne at hun er trygg og\nstøttes.",
@@ -1159,9 +1171,9 @@
       "title": "De premenstruelle dagene",
       "aliases": [
         "PMS for partnere",
-        "støttet henne før mensen",
+        "støtte henne før mensen",
         "premenstruell støtte",
-        "luteal fase støtte"
+        "støtte i lutealfasen"
       ],
       "glance": "I dagene før mensen kan hun føle seg mer sliten, øm eller nedstemt - møte det med tålmodighet, ikke vitser.",
       "overview": "I uken eller så før en menstruasjon får mange premenstruelle symptomer: humørsvingninger, irritabilitet\neller nedstemthet, tretthet, ømme bryster, oppblåsthet, hodepine eller søvnproblemer. Det er veldig vanlig\nog det er ekte - drevet av det naturlige hormonskiftet i lutealfasen, ikke av at hun \"overreagerer\".\n\nFor et mindre antall mennesker er nedstemtheten alvorlig (en tilstand som kalles PMDD) og fortjener ekte\nstøtte og medisinsk behandling. Uansett, jobben din er ikke å diagnostisere eller fikse henne - det er å være stødig og\nsnill.\n\nDen mest skadelige tingen en partner kan gjøre her, er å bruke det som et våpen: «du har bare PMS», himling med øynene,\neller behandle følelsene hennes som ugyldige på grunn av datoen. Det avviser henne og legger vondt til en hard\nuke. Følelsene hennes teller fortsatt, selv når hormoner er en del av bildet.",
@@ -1177,7 +1189,7 @@
         "flerlingsgraviditet",
         "venter tvillinger",
         "eneggede tvillinger",
-        "ikke-identiske tvillinger",
+        "toeggede tvillinger",
         "trillinger"
       ],
       "glance": "At man er gravid med tvillinger, oppdages vanligvis først ved svangerskapsundersøkelsen, og det innebærer litt mer svangerskapsoppfølging.",
@@ -1217,10 +1229,11 @@
       "title": "Helse i skjeden og vulvaen",
       "aliases": [
         "vaginal helse",
+        "underlivshelse",
         "vulvahelse",
         "intimhygiene",
         "holde rent",
-        "skylning",
+        "skylling av skjeden",
         "utflod"
       ],
       "glance": "Skjeden renser seg selv — den trenger bare litt skånsom pleie på utsiden, og utflod er helt normalt.",

@@ -26,10 +26,11 @@
       "title": "Graviditetsvård",
       "aliases": [
         "graviditetsvård",
-        "graviditetsvård",
-        "graviditetsvård",
+        "mödravård",
+        "MVC",
+        "mödravårdscentral",
         "besök hos barnmorskan",
-        "boka tid",
+        "inskrivningsbesök",
         "graviditetskontroller"
       ],
       "glance": "Graviditetsvård är de regelbundna kontrollerna under graviditeten som bidrar till att du och ditt barn mår bra.",
@@ -42,11 +43,11 @@
       "title": "Ditt barns rörelser",
       "aliases": [
         "barnets rörelser",
-        "barnets rörelser",
         "fosterrörelser",
         "sparkar",
         "känna barnet röra sig",
-        "begränsade rörelser"
+        "minskade fosterrörelser",
+        "färre fosterrörelser"
       ],
       "glance": "Att känna att ditt barn rör sig är ett tecken på att det mår bra – om rörelserna avtar eller förändras ska du omedelbart kontakta din barnmorska.",
       "overview": "Att känna barnet röra sig är ett av de betryggande tecknen på att det mår bra. De flesta börjar\nkänna rörelser någonstans mellan graviditetsvecka 16 och 24 – ofta senare vid en första graviditet, så\nefter vecka 20 är det vanligt första gången.\n\nDet finns inget fastställt antal rörelser som du ”borde” känna, och du behöver inte räkna sparkar för att nå ett visst mål.\nAlla barn är olika, och det viktiga är att lära känna just **ditt** barns eget vanliga mönster\nunder dagen – när det är aktivt och när det är lugnt.\n\nNär du väl känner till det mönstret är det förändringar i det som du ska vara uppmärksam på. Lita på vad du vet\nom just ditt barn.",
@@ -115,9 +116,9 @@
       "title": "Amning",
       "aliases": [
         "amning",
-        "omvårdnad",
+        "amma",
         "bröstmjölk",
-        "amning",
+        "bröstmatning",
         "matning av ditt barn"
       ],
       "glance": "Bröstmjölk skyddar barnet mot infektioner och anpassar sig efterhand som barnet växer – och varje mängd har sina fördelar.",
@@ -162,10 +163,12 @@
       "title": "Cervixscreening (cytologisk undersökning)",
       "aliases": [
         "livmoderhalscancerundersökning",
+        "cellprov",
+        "cellprovtagning",
+        "gynekologisk cellprovskontroll",
+        "papprov",
         "cytologisk undersökning",
-        "fläck",
-        "cervixprov",
-        "cytologisk undersökning"
+        "cervixprov"
       ],
       "glance": "Livmoderhalscancerundersökning är en rutinmässig kontroll av livmoderhalsens hälsa som bidrar till att förebygga livmoderhalscancer.",
       "overview": "Livmoderhalscancerundersökning är ett test som kontrollerar livmoderhalsens hälsa – öppningen till livmodern längst\nupp i slidan. Det är inte ett test för att upptäcka cancer. Istället är det ett sätt att upptäcka förändringar i ett tidigt skede och bidra till att\nförhindra att livmoderhalscancer utvecklas från första början.\n\nAlla som har en livmoderhals kallas in från 25 till 64 års ålder. Du får en inbjudan när\ndet är dags, med jämna mellanrum, så du behöver inte komma ihåg att boka tid på egen hand –\näven om det alltid är upp till dig om du vill gå dit eller inte.\n\nSjälva undersökningen går snabbt och utförs av en sjuksköterska. Många känner sig lite nervösa inför det, vilket är\nhelt förståeligt; att veta vad det är till för – en rutinmässig, förebyggande kontroll – kan göra att det känns\nlättare att hantera.",
@@ -177,11 +180,11 @@
       "title": "Barnmisshandel och barns säkerhet",
       "aliases": [
         "barnmisshandel",
-        "barnmisshandel",
-        "barnsäkerhet",
+        "barns säkerhet",
         "skydda ett barn",
-        "oroad för ett barn",
-        "försumma"
+        "orolig för ett barn",
+        "vanvård",
+        "försummelse"
       ],
       "glance": "Om du är orolig för att ett barn kan utsättas för övergrepp eller försummelse är det rätt att söka råd – du behöver inte vara helt säker.",
       "overview": "Barnmisshandel – eller övergrepp mot barn – är skada som tillfogas någon under 18 år. Det omfattar fysisk, sexuell och psykisk misshandel samt försummelse (att inte tillgodose ett barns grundläggande behov). Det är tyvärr vanligt, kan orsaka livslånga skador och är aldrig barnets fel.\n\nDu kanske är orolig för ett barn i din närhet, eller för ett barn som du har lagt märke till. Du behöver inte vara säker eller ha bevis för att agera på den oron – att lita på din känsla och be om råd är precis det rätta att göra, och det kan skydda ett barn.\n\nOch om du själv har utsatts för övergrepp som barn, ska du veta att det aldrig var ditt fel och att det finns stöd även för dig, oavsett ålder.",
@@ -243,8 +246,8 @@
         "kondom",
         "kondomer",
         "extern kondom",
-        "gummi",
-        "barriärmetoden"
+        "barriärmetod",
+        "barriärskydd"
       ],
       "glance": "Kondomer är en barriärmetod – och den enda preventivmetoden som även skyddar mot sexuellt överförbara infektioner.",
       "overview": "En kondom är en tunn barriär – oftast av latex, eller ett plastalternativ för dem som är allergiska mot latex\n– som bärs på penis vid samlag. Den fungerar enkelt: den hindrar spermier från att tränga in i slidan.\n\nDet som gör kondomer speciella bland preventivmedlen är att de är **den enda metoden som också skyddar\nmot sexuellt överförbara infektioner (STI), inklusive HIV.** Det är därför de ofta används\ntillsammans med en annan metod – en för att förhindra graviditet, och båda tillsammans för att skydda mot infektioner.\n\nOm kondomer används korrekt varje gång är de cirka 98 % effektiva för att förhindra graviditet. Vid typisk\nanvändning – där de ibland används felaktigt eller inte varje gång – sjunker effektiviteten till cirka 82 %. Att använda\ndem på rätt sätt och konsekvent är det som gör skillnaden.",
@@ -299,6 +302,7 @@
     "contraceptive-implant": {
       "title": "Preventivimplantatet",
       "aliases": [
+        "p-stav",
         "preventivimplantat",
         "implantatet",
         "Nexplanon",
@@ -314,9 +318,10 @@
       "title": "Din menscykel och ditt välbefinnande",
       "aliases": [
         "välbefinnande",
-        "cykling och hälsa",
+        "menscykeln och hälsa",
         "menstruationscykeln och hälsa",
-        "vitalparameter"
+        "mens och hälsa",
+        "menscykeln som vitalparameter"
       ],
       "glance": "Din menscykel är lite som en månatlig hälsokontroll – det kan vara värt att lägga märke till förändringar i den.",
       "overview": "Din menstruationscykel är inte skild från din övriga hälsa – den hänger ihop med den. En cykel\nsom är regelbunden för dig är i allmänhet ett tecken på att din kropp fungerar som den ska. Det är därför\nvissa ser mensen som en slags månatlig indikator på det allmänna välbefinnandet.\n\nVardagslivet spelar in. Kroppsvikten är ett exempel: att vara betydligt underviktig eller överviktig\nkan påverka de hormoner som styr ägglossningen, vilket kan göra menstruationerna oregelbundna. Detta gäller åt båda\nhållen – att ta hand om grundläggande saker, som en balanserad kost och att hålla sig aktiv, stöder\ncykeln, och en regelbunden cykel är ett tecken på att dessa saker är i rimlig balans.\n\nDet handlar inte om att sträva efter en ”perfekt” cykel eller att klandra sig själv för förändringar. Det är helt enkelt så att\nen varsam uppmärksamhet på sin cykel kan ge en värdefull inblick i hur man mår – och vara en anledning att\nkontakta en läkare om något förändras.",
@@ -327,11 +332,12 @@
     "economic-abuse": {
       "title": "Ekonomiskt våld",
       "aliases": [
-        "ekonomiskt övergrepp",
+        "ekonomiskt våld",
         "ekonomiskt övergrepp",
         "ekonomisk kontroll",
-        "hantera ekonomin",
-        "skuld i mitt namn"
+        "kontrollerar pengarna",
+        "skuld i mitt namn",
+        "lån i mitt namn"
       ],
       "glance": "Ekonomiskt våld innebär att kontrollera någon annans tillgång till pengar, arbete eller resurser – en erkänd form av våld.",
       "overview": "Ekonomiskt våld innebär att någon kontrollerar en annan persons tillgång till pengar och de saker som pengarna kan köpa. Det är en form av kontrollerande beteende och förekommer ofta tillsammans med andra typer av våld.\n\nDet kan handla om att kontrollera alla utgifter eller tvinga dig att redogöra för varje öre, ta din lön eller dina bidrag, skuldsätta dig i ditt namn, undanhålla bankkonton eller dokument från dig, eller hindra dig från att arbeta eller studera. Eftersom det kan lämna en person utan möjlighet att lämna förhållandet eller klara av vardagen är det ett av de sätt på vilka misshandel kan kännas som en fälla.\n\nOm något av detta känns igen är det inte ett tecken på att du är ”dålig på att hantera pengar” eller att du bär skulden. Att kontrollera en annan persons resurser är ett val som den andra personen gör – och det betraktas som misshandel.",
@@ -564,11 +570,13 @@
       "title": "Kraftiga menstruationer",
       "aliases": [
         "kraftiga menstruationer",
+        "riklig mens",
+        "kraftig mens",
         "menorragi",
         "kraftiga menstruationsblödningar",
-        "översvämning",
         "kraftig blödning",
-        "blodproppar"
+        "blodklumpar i mensen",
+        "levrat blod"
       ],
       "glance": "Kraftiga menstruationer innebär att man förlorar mycket blod vid varje cykel – det är vanligt, men det är värt att undersöka saken om det påverkar dig.",
       "overview": "Kraftiga menstruationer – den medicinska benämningen är menorragi – innebär att man förlorar mycket blod under mensen.\nFör vissa är kraftig blödning helt normalt, men om det stör ditt liv eller gör att\ndu känner dig utmattad är det värt att undersöka saken.\n\nNågra tecken på att mensen är kraftig: att du behöver byta bindor eller tamponger var 1–2 timme,\natt använda två olika typer av mensprodukter samtidigt (till exempel en tampong och en binda), att blodet tränger igenom till\nkläderna eller sängkläderna, att du får blodproppar som är större än cirka 2,5 cm (ungefär en 10p-mynt) eller att mensen\nvarar i mer än 7 dagar.\n\nAtt förlora mycket blod månad efter månad kan göra dig trött eller andfådd, eftersom det kan leda\ntill järnbrist (anemi). Det finns många möjliga orsaker – från myom eller tillstånd som\nendometrios, adenomyos eller PCOS, till vissa läkemedel – och ofta hittas ingen allvarlig orsak. Oavsett\nvilket kan kraftiga menstruationer oftast behandlas, så det är inte något du bara måste leva med.",
@@ -619,7 +627,8 @@
       "title": "Klimakteriet",
       "aliases": [
         "klimakteriet",
-        "förändringen"
+        "övergångsåldern",
+        "menopaus"
       ],
       "glance": "Menopausen är den tidpunkt då menstruationerna upphör för gott – ett naturligt skede som vanligtvis inträffar mellan 45 och 55 års ålder.",
       "overview": "Menopausen är den tidpunkt då menstruationerna upphör för gott. Eftersom menstruationerna kan komma och gå under en\ntidsperiod i början räknas man som att man har nått menopausen när man har gått 12 månader i rad utan menstruation. Det inträffar vanligtvis\nmellan ungefär 45 och 55 års ålder, även om det kan ske tidigare eller senare.\n\nDet är en naturlig del av åldrandet, inte en sjukdom. Det sker när äggstockarna trappar ner sin aktivitet och nivån av\nöstrogen – ett viktigt hormon i cykeln – sjunker. Denna hormonella förändring ligger bakom de förändringar som många\nupplever: värmevallningar och nattliga svettningar, förändringar i menstruationen under upptakten, sömnsvårigheter,\nhumörsvängningar eller ångest, hjärndimma, vaginal torrhet och värk.\n\nUpplevelserna varierar enormt – vissa klarar det galant, andra har det svårt, och symtomen kan pågå i\nflera år. Inget av detta betyder att det är något fel på dig. Det finns stöd och alternativ, och\natt förstå vad som händer är ett bra första steg.",
@@ -657,8 +666,9 @@
       "title": "Missfall",
       "aliases": [
         "missfall",
-        "missfall",
-        "tidig missfall",
+        "graviditetsförlust",
+        "tidigt missfall",
+        "förlora en graviditet",
         "att förlora ett barn under graviditeten"
       ],
       "glance": "Ett missfall innebär att en graviditet avbryts före den 24:e veckan – det är vanligt och nästan aldrig något som du själv har orsakat.",
@@ -716,10 +726,12 @@
       "aliases": [
         "smärtlindring under förlossningen",
         "epidural",
-        "gas och luft",
+        "EDA",
+        "lustgas",
         "Entonox",
         "smärtlindring vid förlossning",
-        "födselbassäng",
+        "förlossningsbadkar",
+        "vattenfödsel",
         "TENS"
       ],
       "glance": "Det finns flera sätt att lindra förlossningssmärtorna – det finns inget rätt eller fel val, och du kan vara flexibel.",
@@ -747,7 +759,8 @@
       "aliases": [
         "perimenopaus",
         "klimakteriet",
-        "förändringen"
+        "övergångsåldern",
+        "tidigt klimakterium"
       ],
       "glance": "Perimenopausen är övergångsfasen inför menopausen, då menstruationen och hormonerna börjar förändras.",
       "overview": "Perimenopausen är den tidsperiod som föregår menopausen – åren ”runt menopausen”. Den\nbörjar när du först märker förändringarna och pågår fram till ett helt år efter din sista menstruation, då\ndu har nått menopausen. Den kan pågå i flera år.\n\nUnder denna tid producerar äggstockarna gradvis mindre östrogen, och nivåerna stiger och sjunker på ett mindre\nförutsägbart sätt än tidigare. Det vanligaste tidiga tecknet är att menstruationerna förändras – de kan komma\ntätare eller mer sällan, bli lättare eller rikligare. Många av de symtom som förknippas med klimakteriet, såsom\nvärmevallningar, sömnstörningar eller humörsvängningar, kan börja redan nu medan du fortfarande har menstruationer.\n\nEftersom det sker gradvis och varierar så mycket kan perimenopausen vara förvirrande – förändringarna inträffar inte\nalla på en gång eller i samma ordning för alla. Att veta att denna fas har ett namn, och att det är en\nnormal övergång, kan göra det lättare att förstå.",
@@ -775,10 +788,11 @@
       "title": "Att planera en graviditet",
       "aliases": [
         "planera en graviditet",
-        "föreställning",
+        "inför graviditet",
         "försöker bli gravid",
         "före graviditeten",
-        "förbereda sig inför graviditeten"
+        "förbereda sig inför graviditeten",
+        "vill bli gravid"
       ],
       "glance": "Några enkla åtgärder innan du försöker bli gravid – att ta folsyra, sluta röka och sluta dricka alkohol – ger graviditeten den bästa starten.",
       "overview": "Om du funderar på att försöka få barn kan några åtgärder i förväg ge graviditeten en\nhälsosammare start – många av dem börjar redan innan du blir gravid.\n\nDe viktigaste är: börja ta **folsyra** (och vitamin D), **sluta röka** och **undvik alkohol**.\nAtt sträva efter en hälsosam vikt hjälper också, eftersom kraftig undervikt eller övervikt kan göra det\nsvårare att bli gravid. Det är också värt att se till att din **MMR-vaccination** är uppdaterad, eftersom vissa\ninfektioner kan påverka en graviditet.\n\nInget av detta behöver vara perfekt eller stressande. Små, vänliga förändringar i god tid är det som spelar roll —\noch att få en liten försprång är en av de finaste sakerna du kan göra för en framtida graviditet.",
@@ -790,10 +804,10 @@
       "title": "Förlossningsdepression",
       "aliases": [
         "förlossningsdepression",
-        "förlossningsdepression",
+        "postpartumdepression",
         "PND",
-        "förlossningsdepression",
-        "förlossningsdepression"
+        "baby blues",
+        "depression efter förlossningen"
       ],
       "glance": "Förlossningsdepression är ett vanligt, behandlingsbart tillstånd med nedstämdhet efter förlossningen – det är inte ditt fel, och det finns hjälp att få.",
       "overview": "Det är mycket vanligt att känna sig nedstämd, orolig eller irriterad under de första veckorna efter förlossningen – detta\nkallas ofta för ”babyblues” och går vanligtvis över av sig själv inom ungefär två veckor.\n\nFörlossningsdepression är något annat: en nedstämdhet som är djupare eller varar längre. Det är ett vanligt tillstånd,\ndet kan uppstå när som helst under det första året och kan även drabba pappor och partners. Tecken på detta är bland annat en\nihållande nedstämdhet, svårigheter att njuta av något, sömnproblem även när barnet sover,\noch ibland svåra känslor när det gäller att knyta an till barnet.\n\nAtt drabbas av det betyder **inte** att du är en dålig förälder eller att du inte älskar ditt barn – det är en sjukdom,\ninte ett misslyckande, och den svarar väl på stöd och behandling. Att söka hjälp tidigt är ett starkt och omtänksamt\nsteg, både för dig och ditt barn.",
@@ -805,9 +819,9 @@
       "title": "Preeklampsi",
       "aliases": [
         "preeklampsi",
-        "preeklampsi",
+        "havandeskapsförgiftning",
         "högt blodtryck under graviditeten",
-        "toxemi"
+        "graviditetstoxikos"
       ],
       "glance": "Preeklampsi är förhöjt blodtryck under graviditeten – ofta utan synliga symtom i början, vilket är anledningen till att mödravårdsbesök är så viktiga.",
       "overview": "Preeklampsi är ett tillstånd under graviditeten som främst yttrar sig i form av högt blodtryck, tillsammans med\nprotein i urinen. Det uppträder vanligtvis från omkring vecka 20 och ibland även efter förlossningen.\n\nEn av de viktigaste sakerna att veta är att det i ett tidigt skede ofta inte ger **några symtom alls** –\ndu kan må helt bra. Det är just därför som din barnmorska kontrollerar ditt blodtryck och undersöker\ndin urin vid varje rutinmässigt mödravårdsbesök: det är genom dessa kontroller som tillståndet vanligtvis upptäcks\ninnan du själv märker något.\n\nNär symtomen väl uppträder är det viktigt att känna till dem, eftersom preeklampsi kan bli allvarligt för både dig\noch ditt barn. Sjukdomen är mycket lätt att behandla om den upptäcks i tid, och att gå på dina mödravårdsbesök regelbundet är\ndet allra bästa sättet att upptäcka den i tid.",
@@ -820,10 +834,11 @@
       "aliases": [
         "graviditet",
         "att vara gravid",
-        "förväntar sig",
-        "dräktighet",
+        "väntar barn",
+        "havandeskap",
         "trimestrar",
-        "förfallodag",
+        "beräknad förlossning",
+        "BF",
         "hur många veckor gravid"
       ],
       "glance": "En graviditet varar vanligtvis cirka 40 veckor, räknat från den första dagen i din senaste menstruation.",
@@ -850,9 +865,9 @@
       "title": "För tidiga värkar",
       "aliases": [
         "för tidiga värkar",
-        "för tidiga värkar",
+        "för tidig förlossning",
         "för tidig födsel",
-        "för tidig födsel",
+        "prematur förlossning",
         "tidig förlossning",
         "att vattnet går i förtid"
       ],
@@ -1007,12 +1022,14 @@
       "title": "Tecken på förlossning",
       "aliases": [
         "tecken på förlossning",
-        "arbete",
+        "förlossning",
+        "förlossningen startar",
         "att få värkar",
+        "värkar",
         "sammandragningar",
         "vattnet går",
-        "programmet",
-        "latent fas"
+        "slemproppen",
+        "latensfas"
       ],
       "glance": "Tecken på att förlossningen är på väg att sätta igång är bland annat regelbundna sammandragningar, att slemproppen lossnar, ryggont eller att vattnet går.",
       "overview": "Det finns några tecken på att förlossningen kan vara på väg att börja. Det viktigaste tecknet är sammandragningar – en känsla av att magen dras ihop\nsom uppträder regelbundet och blir starkare. Andra tecken är att slemproppen från\nlivmoderhalsen lossnar (”teckning”), ihållande ryggvärk, behov av att gå på toaletten och att vattnet går.\n\nInnan den aktiva förlossningen börjar finns det ofta en tidig (”latent”) fas, då livmoderhalsen mjuknar och börjar\nöppna sig. Denna del kan ta timmar eller till och med dagar, och för många går det bra att stanna hemma och ha det bekvämt\nunder tiden, vila och se till att dricka tillräckligt.\n\nAlla förlossningar börjar lite olika, så du behöver inte bocka av varje tecken. När du\ntror att det börjar är din barnmorska eller förlossningsavdelningen där för att vägleda dig om vad du ska göra och\nnär du ska komma in.",
@@ -1098,10 +1115,13 @@
       "title": "Stress, livet och mensen",
       "aliases": [
         "stress och menstruation",
+        "stress och mens",
         "stress",
+        "utebliven mens",
         "utebliven menstruation",
-        "sen period",
-        "Varför är min mens försenad?"
+        "sen mens",
+        "försenad mens",
+        "varför är min mens försenad"
       ],
       "glance": "Stress, stora viktförändringar eller mycket träning kan fördröja mensen eller göra att den uteblir – ofta bara under en kortare tid.",
       "overview": "Det är vanligt att mensen kommer sent eller uteblir en månad, och orsaken har ofta mer att göra\nmed livet i allmänhet än med att något är fel. Stress är en vanlig orsak – samma system som reagerar\npå påfrestningar kan påverka de hormoner som styr din menstruationscykel.\n\nAndra vardagliga faktorer kan också påverka menstruationen: en stor viktförändring (upp eller ner), att träna mycket\neller att vara utmattad. Hormonella förändringar – till exempel när man närmar sig klimakteriet eller\ntillstånd som PCOS – kan också ligga bakom, liksom graviditet och vissa preventivmedel. Ofta varierar\nintervallet mellan menstruationerna helt enkelt lite då och då, och det är normalt.\n\nDet som är betryggande är att en enstaka försenad eller utebliven menstruation vanligtvis inte är något att oroa sig för, och\nsaker och ting brukar ofta stabilisera sig i takt med att livet går vidare. Det som är värt att hålla ett öga på är ett mönster av förändringar snarare än en enskild\nmånad.",
@@ -1176,9 +1196,10 @@
         "tvillingar",
         "tvillinggraviditet",
         "flerbarnsgraviditet",
+        "flerbördsgraviditet",
         "väntar tvillingar",
         "enäggstvillingar",
-        "olika tvillingar",
+        "tvåäggstvillingar",
         "trillingar"
       ],
       "glance": "Att man väntar tvillingar upptäcks oftast vid den första ultraljudsundersökningen, och det innebär lite mer mödravård.",
@@ -1218,10 +1239,11 @@
       "title": "Hälsa i slidan och på vulva",
       "aliases": [
         "vaginal hälsa",
+        "underlivshälsa",
         "vulvans hälsa",
         "intimhygien",
         "hålla rent",
-        "sköljning",
+        "vaginalsköljning",
         "flytningar"
       ],
       "glance": "Slidan rengör sig själv – det räcker med skonsam vård på utsidan, och flytningar är helt normalt.",

@@ -57,9 +57,9 @@
       "title": "Mal di schiena in gravidanza",
       "aliases": [
         "mal di schiena in gravidanza",
-        "mal di schiena in gravidanza",
-        "mal di schiena in gravidanza",
-        "mal di schiena in gravidanza"
+        "lombalgia in gravidanza",
+        "dolore lombare in gravidanza",
+        "mal di schiena incinta"
       ],
       "glance": "Il mal di schiena è molto comune in gravidanza, poiché i legamenti si ammorbidiscono e il pancione cresce — di solito è innocuo.",
       "overview": "Il mal di schiena è uno dei disturbi più comuni durante la gravidanza. Man mano che il corpo si prepara al parto, i\nlegamenti si ammorbidiscono e si allungano naturalmente, mentre il pancione in crescita modifica la distribuzione del peso —\nentrambi questi fattori esercitano una pressione aggiuntiva sulla parte bassa della schiena e sul bacino.\n\nAlcune semplici abitudini quotidiane possono alleviare il dolore: prestare attenzione alla postura quando si sta in piedi, seduti o si sollevano oggetti;\nindossare scarpe piatte che sostengano bene il piede; utilizzare un materasso rigido o un cuscino che offra un buon sostegno; e praticare un’attività fisica leggera e regolare\ncome camminare, lo yoga in gravidanza o gli esercizi proposti in un corso. Se il dolore diventa davvero fastidioso, un\nfisioterapista ostetrico può fornire consigli su misura.\n\nNella maggior parte dei casi il mal di schiena in gravidanza non è motivo di preoccupazione — ma alcuni sintomi meritano di essere controllati\ntempestivamente, ed è proprio a questo che servono le indicazioni riportate di seguito.",
@@ -353,10 +353,10 @@
     "emergency-contraception": {
       "title": "Contraccezione d'emergenza",
       "aliases": [
-        "contraccezione d’emergenza",
+        "contraccezione d'emergenza",
         "pillola del giorno dopo",
-        "pillola del giorno dopo",
-        "pillola del giorno dopo",
+        "pillola dei cinque giorni dopo",
+        "contraccettivo d'emergenza",
         "Levonelle",
         "ellaOne"
       ],
@@ -616,7 +616,9 @@
       "title": "Menopausa",
       "aliases": [
         "menopausa",
-        "il cambiamento"
+        "climaterio",
+        "fine delle mestruazioni",
+        "vampate di calore"
       ],
       "glance": "La menopausa è il momento in cui le mestruazioni cessano definitivamente: si tratta di una fase naturale, che di solito si raggiunge tra i 45 e i 55 anni circa.",
       "overview": "La menopausa è il momento in cui le mestruazioni cessano definitivamente. Poiché all’inizio le mestruazioni possono presentarsi a intermittenza per un\ncerto periodo, si considera raggiunta la menopausa solo dopo 12 mesi consecutivi senza mestruazioni. Di solito\nsi verifica tra i 45 e i 55 anni circa, anche se può verificarsi prima o dopo.\n\nÈ una fase naturale dell’invecchiamento, non una malattia. Si verifica quando le ovaie smettono gradualmente di funzionare e il livello di\nestrogeni — un ormone fondamentale del ciclo — diminuisce. Questo cambiamento ormonale è alla base dei cambiamenti che molte\npersone notano: vampate di calore e sudorazioni notturne, alterazioni del ciclo mestruale nel periodo che precede la menopausa, difficoltà a dormire,\nsbalzi d’umore o ansia, annebbiamento mentale, secchezza vaginale e dolori.\n\nLe esperienze variano enormemente: alcune persone la superano senza problemi, altre la trovano difficile e i sintomi possono durare\ndiversi anni. Nulla di tutto ciò significa che ci sia qualcosa che non va in te. Esistono sostegno e alternative, e\ncapire cosa sta succedendo è un buon primo passo.",
@@ -744,7 +746,8 @@
       "aliases": [
         "perimenopausa",
         "transizione menopausale",
-        "il cambiamento"
+        "premenopausa",
+        "climaterio"
       ],
       "glance": "La perimenopausa è la fase di transizione che precede la menopausa, durante la quale il ciclo mestruale e i livelli ormonali iniziano a cambiare.",
       "overview": "La perimenopausa è il periodo che precede la menopausa, ovvero gli anni “intorno alla menopausa”.\nInizia quando si notano i primi cambiamenti e prosegue fino a un anno intero dopo l’ultimo ciclo mestruale,\nmomento in cui si è raggiunta la menopausa. Può durare diversi anni.\n\nDurante questo periodo le ovaie producono gradualmente meno estrogeni e i livelli oscillano in modo meno\nprevedibile rispetto a prima. Il primo segno più comune è il cambiamento del ciclo mestruale: le mestruazioni possono diventare più\nfrequenti o più distanziate, più leggere o più abbondanti. Molti dei sintomi associati alla menopausa, come\nle vampate di calore, i disturbi del sonno o gli sbalzi d’umore, possono manifestarsi già in questa fase, mentre si ha ancora il ciclo mestruale.\n\nPoiché è un processo graduale e molto variabile, la perimenopausa può creare confusione: i cambiamenti non si verificano\ntutti in una volta né nello stesso ordine per tutte le donne. Sapere che questa fase ha un nome e che si tratta di una\ntransizione normale può aiutare a comprenderla meglio.",
@@ -1079,8 +1082,9 @@
       "aliases": [
         "natimortalità",
         "nato morto",
-        "perdita di un neonato",
-        "aborto tardivo",
+        "morte endouterina fetale",
+        "MEF",
+        "lutto perinatale",
         "bambino nato senza vita"
       ],
       "glance": "La natimortalità è la perdita di un bambino dopo la 24ª settimana di gravidanza: è un evento raro, non è mai colpa tua e ricevi sempre tutto il sostegno necessario.",
@@ -1214,8 +1218,9 @@
         "salute vaginale",
         "salute della vulva",
         "igiene intima",
-        "mantenere pulito",
+        "detergenza intima",
         "lavaggio vaginale",
+        "lavande vaginali",
         "perdite vaginali"
       ],
       "glance": "La vagina si pulisce da sola: basta una cura delicata della zona esterna, e le perdite sono normali.",
