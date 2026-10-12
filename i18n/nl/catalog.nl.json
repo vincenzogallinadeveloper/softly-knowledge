@@ -6,6 +6,22 @@
     "review": "Machine-translated (DeepL) from en — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyose",
+      "aliases": [
+        "adenomyose",
+        "adeno",
+        "adenomyoom",
+        "endometriose in de baarmoederwand",
+        "endometriosis interna",
+        "baarmoederslijmvlies in de spierwand"
+      ],
+      "glance": "Bij adenomyose groeit het slijmvlies van de baarmoeder in de spierwand van de baarmoeder. Het kan zware, pijnlijke menstruaties veroorzaken.",
+      "overview": "Adenomyose is een aandoening waarbij het weefsel dat normaal de binnenkant van de baarmoeder bekleedt (het\nbaarmoederslijmvlies), in de spier van de baarmoederwand groeit. Het wordt vaker vastgesteld bij vrouwen boven de 30\nen bij vrouwen die zijn bevallen, maar het kan iedereen treffen die menstrueert. De oorzaak is niet duidelijk.\n\nDe meest voorkomende tekenen zijn hevige menstruatiepijn — soms zo erg dat je je gewone dingen niet kunt doen — en\nzware menstruaties. Sommige mensen hebben ook op andere momenten van de maand pijn in het bekken (onder in de buik),\neen opgeblazen of zwaar, vol gevoel in de buik, of pijn tijdens seks. Anderen hebben helemaal geen klachten.\n\nHet is een andere aandoening dan endometriose, waarbij weefsel dat lijkt op baarmoederslijmvlies buiten de\nbaarmoeder groeit, bijvoorbeeld op de eierstokken. Sommige klachten overlappen, en dat is een van de redenen waarom\nonderzoek nodig kan zijn om te achterhalen waar de pijn vandaan komt.",
+      "deep": "Een huisarts vraagt meestal naar je menstruaties en voelt misschien voorzichtig aan je buik; er kan een inwendig\nonderzoek worden voorgesteld, en je kunt vragen om een vrouwelijke arts of om iemand die bij je blijft. Een echo of\neen MRI-scan kan helpen om adenomyose op te sporen of andere oorzaken uit te sluiten.\n\nEr zijn behandelingen die de klachten kunnen verlichten. Opties die een zorgverlener met je kan bespreken zijn het\nhormoonspiraaltje (IUS), dat het baarmoederslijmvlies dunner maakt en menstruaties lichter en minder pijnlijk kan\nmaken; andere hormonale anticonceptie, zoals de combinatiepil, de minipil (de pil die alleen progestageen bevat) of\nde pleister; niet-hormonale medicijnen tegen hevig bloedverlies of pijn; en, als dat niet helpt, een operatie.\nOmdat hormonale methoden menstruaties lichter kunnen maken of laten stoppen, slikken sommige mensen de pil met minder\nof geen stopweken — zie „De pil zonder stopweek slikken“.\n\nWarmte op je buik, een TENS-apparaat en gewone pijnstillers kunnen de ergste pijn wegnemen. Een eenvoudig overzicht\nbijhouden van je pijn, bloedverlies en andere klachten helpt jou en je arts te zien hoe het gaat en of een\nbehandeling werkt.",
+      "when_to_see_doctor": "Het is de moeite waard om naar de huisarts te gaan als:\n\n- je menstruaties pijnlijker, zwaarder of onregelmatig worden\n- zware menstruaties je leven beïnvloeden, of al een tijd aanhouden\n- je pijn hebt tijdens seks\n- je je al ongeveer 3 weken opgeblazen voelt\n- je tussen menstruaties door of na seks bloedt\n\nVraag om een spoedafspraak, of neem contact op met de huisartsenpost, als je bekken- of menstruatiepijn hevig is of\nerger dan normaal en pijnstillers niet hebben geholpen.",
+      "red_flags": "- Zoek **dringend** medische hulp — neem contact op met een arts of de **huisartsenpost**, of bel **{{emergency}}** / ga naar de spoedeisende hulp als het ernstig is — als je\n  **zo hevig bloedt dat je gedurende een paar uur achter elkaar elk uur een maandverband of meer doorweekt**, of als je\n  je **duizelig, licht in het hoofd of kortademig** voelt. Dit kunnen tekenen zijn van overmatig bloedverlies."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alcohol tijdens de zwangerschap",
       "aliases": [
@@ -264,6 +280,24 @@
       "deep": "Hoe respect er in de praktijk uitziet:\n\n- **Vraag het en check in.** \"Is dit oké?\" en aandacht besteden aan hoe ze reageert – woorden en lichaam.\n- **Accepteer een \"nee\" met respect.** Geen pruilen, druk of bestraffing. Haar antwoord is het einde.\n- **Enthousiasme is belangrijk.** Als ze onzeker, aarzelend lijkt of er gewoon in meegaat, stop dan en vraag het.\n- **Haar lichaam, haar beslissing** — over intimiteit, anticonceptie, zwangerschap, haar gezondheid, haar uiterlijk, haar\n  keuzes. Je krijgt een stem in je gedeelde leven, nooit een veto over haar lichaam.\n- **Respect is dagelijks.** Hoe je met haar en over haar praat, en hoe je in kleine dingen met haar grenzen omgaat, is\n  de basis waar al het andere op rust.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "De pil zonder stopweek slikken",
+      "aliases": [
+        "doorslikken",
+        "pil doorslikken",
+        "pil zonder stopweek",
+        "geen stopweek",
+        "menstruatie overslaan",
+        "geen menstruatie met de pil",
+        "verlengd pilgebruik",
+        "langcyclus"
+      ],
+      "glance": "Als je de pil slikt met een kortere stopweek, minder stopweken of helemaal geen, bloed je minder vaak of helemaal niet. Dat is iets om met een zorgverlener te bespreken.",
+      "overview": "De combinatiepil wordt vaak 21 dagen geslikt, gevolgd door een stopweek van 7 dagen, of als een strip voor ‘elke\ndag’ met een paar placebopillen (pillen zonder hormonen). In de stopweek, of tijdens de placebopillen, krijg je\nmeestal een bloeding. Die lijkt op een menstruatie, maar komt door de daling van de hormonen als je even stopt met\nde pil, en niet door je natuurlijke cyclus.\n\nSommige mensen slikken de combinatiepil in plaats daarvan op een ‘aangepaste’ manier: met een verkorte stopweek,\nminder stopweken, of zonder stopweek tussen de strips. Daardoor kun je minder vaak of helemaal niet bloeden, en het\nkan klachten verlichten die bij de stopweek horen, zoals hoofdpijn en bloedingen. Of het bij je past, hangt af van\njou en van je soort pil, dus het is goed om het te bespreken met een arts, verpleegkundige of apotheker.\n\nDe pil die alleen progestageen bevat (minipil) is anders: die slik je elke dag, zonder stopweek. Die pil, het\nhormoonspiraaltje (IUS) en het implantaat kunnen allemaal je menstruatie veranderen: die kan lichter of\nonregelmatig worden, of helemaal stoppen.",
+      "deep": "Als je menstruatie stopt door een hormonale methode, is dat een verwacht effect van de hormonen en geen teken dat er\niets mis is. Licht bloedverlies of spotting komt vaak voor, vooral in de eerste maanden van een nieuwe methode of\neen nieuwe manier van innemen, en wordt met de tijd vaak minder. Als het bloedverlies aanhoudt, kan een zorgverlener\nje de mogelijkheden uitleggen — misschien stelt die een korte stopperiode voor, of een andere pil of methode.\n\nBij sommige aandoeningen waarbij menstruaties veel pijn of hevig bloedverlies geven — zoals endometriose,\nadenomyose, of heel pijnlijke of zware menstruaties — kunnen zorgverleners hormonale opties voorstellen die\nmenstruaties lichter maken of laten stoppen, en de pil slikken met minder of geen stopweken kan daar een van zijn.\nHormonen kunnen klachten verlichten, maar genezen deze aandoeningen niet.\n\nZonder regelmatige bloeding is er geen cyclus om te volgen, maar als je pijn, bloedverlies en andere klachten\nnoteert, zie je toch hoe het met je gaat, en dat is handig om mee te nemen naar afspraken. Hoe goed de pil\nbeschermt tegen zwangerschap, hangt nog steeds af van het innemen zoals aangeraden; de bijsluiter bij je pil, of een\napotheker, legt uit wat je moet doen als je er een vergeet.",
+      "when_to_see_doctor": "Het is goed om met een arts, verpleegkundige of apotheker te praten als:\n\n- je je pil met minder of geen stopweken wilt slikken, of de manier waarop je hem slikt wilt veranderen\n- bloedverlies of spotting aanhoudt, heviger wordt of je dwarszit (bij een hormoonspiraaltje is het verstandig om\n  onregelmatig bloedverlies dat langer dan ongeveer 6 maanden duurt door een arts te laten nakijken)\n- je na seks bloedt, of nieuwe pijn onder in je buik hebt\n- je pillen bent vergeten en seks hebt gehad, of denkt dat je zwanger zou kunnen zijn\n- de pijn of andere klachten waarvoor je hormonen gebruikt terugkomen of erger worden",
+      "red_flags": "- De combinatiepil verhoogt het risico op een **bloedstolsel (trombose)** een klein beetje. Zoek **dringend**\n  medische hulp als je **pijn en zwelling in één been** hebt, of warme, rode of donker verkleurde huid aan je been.\n- Bel meteen **{{emergency}}** of ga direct naar de spoedeisende hulp als je **pijn op de borst** hebt,\n  **plotseling kortademig** bent of **bloed ophoest** — dit kunnen tekenen zijn van een stolsel in de longen."
     },
     "contraception": {
       "title": "Anticonceptie",

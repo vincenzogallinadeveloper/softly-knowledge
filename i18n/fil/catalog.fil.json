@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyosis",
+      "aliases": [
+        "adenomyosis",
+        "adeno",
+        "adenomyoma",
+        "adenomyosis sa matris",
+        "masakit at malakas na regla",
+        "lumaki ang matris"
+      ],
+      "glance": "Ang adenomyosis ay kapag tumutubo ang lining ng matris papasok sa muscle ng pader ng matris. Maaari itong magdulot ng malakas at masakit na regla.",
+      "overview": "Ang adenomyosis ay kondisyon kung saan ang tissue na karaniwang bumabalot sa loob ng matris (uterus) ay tumutubo papasok sa muscle ng pader ng matris. Mas madalas itong ma-diagnose sa mga babaeng lampas 30 taong gulang at sa mga nanganak na, pero maaari itong maranasan ng sinumang nireregla. Hindi pa malinaw ang sanhi nito.\n\nAng pinakakaraniwang senyales ay matinding sakit ng regla — minsan ay sobrang sakit na pumipigil sa iyong gawin ang karaniwan mong mga gawain — at malakas na regla. May ilan ding nakararanas ng pananakit sa pelvis (sa puson) sa ibang panahon ng buwan, pakiramdam na bloated o mabigat at puno ang tiyan, o pananakit habang nakikipagtalik. Ang iba naman ay walang anumang sintomas.\n\nIba itong kondisyon sa endometriosis, kung saan tumutubo sa labas ng matris ang tissue na kahawig ng lining ng matris, halimbawa sa obaryo. Nagkakapareho ang ilan sa kanilang mga sintomas, at isa iyon sa mga dahilan kung bakit maaaring kailanganin ang mga pagsusuri para malaman kung ano ang sanhi ng pananakit.",
+      "deep": "Kadalasan ay tatanungin ka ng family doctor tungkol sa iyong regla at maaaring marahang kapain ang iyong tiyan; maaaring imungkahi ang internal na pagsusuri, at maaari kang humiling ng babaeng doktor o na may kasama ka. Makatutulong ang ultrasound o MRI scan para makita ang adenomyosis o maalis ang posibilidad ng ibang sanhi.\n\nMay mga gamutang nakatutulong sa mga sintomas. Kabilang sa mga opsyong maaaring talakayin ng isang health professional ang hormonal IUD (IUS), na nagpapanipis sa lining ng matris at maaaring gawing mas mahina at hindi gaanong masakit ang regla; ibang hormonal na kontrasepsyon, tulad ng combined pill, progestogen-only pill (mini pill) o patch; mga gamot na walang hormone para sa malakas na pagdurugo o pananakit; at, kung hindi makatulong ang mga ito, operasyon. Dahil maaaring gawing mas mahina o mapatigil ng mga hormonal na paraan ang regla, may ilang umiinom ng pildoras nang mas kaunti ang pahinga o wala talaga — tingnan ang \"Pag-inom ng pildoras nang walang pahinga.\"\n\nMakapagpapagaan ng pananakit ang init sa tiyan, isang TENS machine at mga karaniwang pain reliever. Ang simpleng pagtatala ng iyong pananakit, pagdurugo at iba pang sintomas sa paglipas ng panahon ay tumutulong sa iyo at sa iyong doktor na makita kung kumusta ka at kung gumagana ang isang gamutan.",
+      "when_to_see_doctor": "Mainam na magpatingin sa family doctor kung:\n\n- naging mas masakit, mas malakas o iregular ang iyong regla\n- nakaaapekto na sa iyong buhay ang malakas na regla, o matagal na itong nangyayari\n- may pananakit ka habang nakikipagtalik\n- mga 3 linggo ka nang bloated ang pakiramdam\n- dinudugo ka sa pagitan ng regla o pagkatapos makipagtalik\n\nHumingi ng agarang appointment, o kumontak ng doktor sa serbisyong tumatanggap ng pasyente sa labas ng regular na oras, kung matindi o mas malala kaysa karaniwan ang pananakit mo sa pelvis o ang sakit ng regla at hindi nakatulong ang mga pain reliever.",
+      "red_flags": "- Humingi ng **agarang** medikal na tulong — kumontak ng doktor o ng **serbisyong tumatanggap ng pasyente sa labas ng regular na oras**, o tumawag sa **{{emergency}}** / pumunta sa emergency room ng ospital kung malubha — kung **napakalakas ng pagdurugo mo na lubusang nababasa ang isang napkin o higit pa bawat oras nang ilang oras na sunud-sunod**, o pakiramdam mo ay **parang hihimatayin, nahihilo, o hinihingal**. Maaaring senyales ito ng pagkawala ng sobrang dugo."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alak habang buntis",
       "aliases": [
@@ -276,6 +292,24 @@
       "deep": "Ganito ang hitsura ng paggalang sa praktika:\n\n- **Magtanong, at kumustahin siya.** “Okay lang ba ito?” at pansinin kung paano siya tumutugon — sa salita at sa katawan.\n- **Tanggapin nang maayos ang “hindi.”** Walang pagmamaktol, pamimilit, o pagpaparusa. Ang sagot niya ang katapusan ng usapan.\n- **Mahalaga ang sigla.** Kung mukhang hindi siya sigurado, nag-aalangan o sumasabay lang, tumigil at magtanong.\n- **Katawan niya, desisyon niya** — tungkol sa intimacy, kontrasepsyon, pagbubuntis, sa kanyang kalusugan, sa kanyang hitsura, sa kanyang mga pagpili. May boses ka sa inyong pinagsasaluhang buhay, pero hindi ka kailanman may veto sa katawan niya.\n- **Araw-araw ang paggalang.** Kung paano ka makipag-usap sa kanya, kung paano mo siya pinag-uusapan, at kung paano mo iginagalang ang kanyang mga hangganan sa maliliit na bagay ang pundasyong kinasasaligan ng lahat ng iba pa.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Pag-inom ng pildoras nang walang pahinga",
+      "aliases": [
+        "continuous pill",
+        "tuloy-tuloy na pag-inom ng pills",
+        "pills nang walang break",
+        "walang pahinga sa pills",
+        "laktawan ang regla gamit ang pills",
+        "walang regla habang nagpi-pills",
+        "extended regimen",
+        "pagpigil sa regla"
+      ],
+      "glance": "Ang pag-inom ng pildoras nang mas maikli ang pahinga, mas kaunti ang pahinga o wala talaga ay nangangahulugang mas madalang kang dudugo, o hindi na talaga. Bagay ito na mainam pag-usapan kasama ang isang health professional.",
+      "overview": "Ang combined pill ay kadalasang iniinom nang 21 araw at sinusundan ng 7 araw na pahinga, o bilang isang \"everyday\" na pakete na may kasamang ilang dummy pill (walang hormone). Sa panahon ng pahinga, o ng mga dummy pill, karaniwan kang dinudugo. Mukha itong regla, pero dulot ito ng pagbaba ng hormone kapag pansamantala mong itinigil ang pildoras, hindi ng iyong natural na siklo.\n\nMay ilan namang umiinom ng combined pill sa paraang \"tailored\" (iniangkop): mas maikli ang pahinga, mas kaunti ang pahinga, o walang pahinga sa pagitan ng mga pakete. Maaari itong mangahulugang mas madalang na pagdurugo, o wala talaga, at maaari nitong maibsan ang mga sintomas na kasama ng pahinga, tulad ng sakit ng ulo at pagdurugo. Kung bagay ito sa iyo ay nakadepende sa iyo at sa uri ng iyong pildoras, kaya mainam itong pag-usapan kasama ang doktor, nars o parmasyutiko.\n\nIba ang progestogen-only pill (mini pill): iniinom ito araw-araw, nang walang pahinga. Ito, ang hormonal IUD (IUS) at ang implant ay maaaring magbago sa iyong regla: maaari itong humina o maging iregular, o tuluyang tumigil.",
+      "deep": "Kapag tumigil ang regla dahil sa isang hormonal na paraan, inaasahang epekto iyon ng mga hormone at hindi senyales na may mali. Karaniwan ang bahagyang pagdurugo o spotting, lalo na sa mga unang buwan ng isang bagong paraan o ng bagong paraan ng pag-inom, at madalas itong humuhupa sa paglipas ng panahon. Kung nagpapatuloy ang pagdurugo, maipaliliwanag ng isang health professional ang mga opsyon — maaari silang magmungkahi ng maikling pahinga, o ibang pildoras o paraan.\n\nPara sa ilang kondisyon kung saan maraming sakit o malakas na pagdurugo ang dala ng regla — tulad ng endometriosis, adenomyosis, o napakasakit o napakalakas na regla — maaaring magmungkahi ang mga health professional ng mga hormonal na opsyon na nagpapahina o nagpapatigil sa regla, at maaaring isa rito ang pag-inom ng pildoras nang mas kaunti ang pahinga o wala talaga. Maaaring maibsan ng mga hormone ang mga sintomas, pero hindi nito pinagagaling ang mga kondisyong ito.\n\nKapag walang regular na pagdurugo, walang siklong susundan, pero ang pagtatala ng pananakit, pagdurugo at iba pang sintomas ay nagpapakita pa rin kung kumusta ka, at nakatutulong itong dalhin sa mga appointment. Ang bisa ng pildoras laban sa pagbubuntis ay nakadepende pa rin sa pag-inom nito ayon sa payo; ipinaliliwanag ng leaflet na kasama ng iyong pildoras, o ng isang parmasyutiko, kung ano ang gagawin kapag may nakaligtaan kang isa.",
+      "when_to_see_doctor": "Mainam na kumausap ng doktor, nars o parmasyutiko kung:\n\n- gusto mong uminom ng pildoras nang mas kaunti ang pahinga o wala talaga, o baguhin ang paraan ng pag-inom mo\n- nagpapatuloy, lumalakas, o nakaaabala sa iyo ang pagdurugo o spotting (kung may hormonal IUD ka, mainam na ipatingin ang iregular na pagdurugong tumatagal nang mahigit mga 6 na buwan)\n- dinudugo ka pagkatapos makipagtalik, o may bago kang pananakit sa puson\n- may nakaligtaan kang pildoras at nakipagtalik ka, o sa tingin mo ay maaaring buntis ka\n- bumabalik o lumalala ang pananakit o iba pang sintomas na dahilan ng pag-inom mo ng hormone",
+      "red_flags": "- Bahagyang pinatataas ng combined pill ang panganib ng **pamumuo ng dugo (blood clot)**. Humingi ng **agarang** medikal na tulong kung may **pananakit at pamamaga sa isang binti**, o mainit, namumula o nangingitim na balat sa binti.\n- Tumawag agad sa **{{emergency}}** o pumunta kaagad sa emergency room ng ospital kung may **pananakit ng dibdib**, **biglaang hirap sa paghinga** o **umuubo ka ng dugo** — maaaring senyales ito ng namuong dugo sa baga."
     },
     "contraception": {
       "title": "Kontrasepsyon",

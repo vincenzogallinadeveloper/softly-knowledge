@@ -6,6 +6,22 @@
     "review": "Machine-translated (DeepL) from en — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiosis",
+      "aliases": [
+        "adenomiosis",
+        "adeno",
+        "adenomioma",
+        "endometriosis interna",
+        "endometriosis uterina",
+        "útero adenomiótico"
+      ],
+      "glance": "La adenomiosis se produce cuando el revestimiento del útero crece dentro del músculo de la pared del útero. Puede causar menstruaciones abundantes y dolorosas.",
+      "overview": "La adenomiosis es una afección en la que el tejido que normalmente recubre el interior del útero crece dentro del\nmúsculo de la pared uterina. Se diagnostica con más frecuencia en mujeres de más de 30 años y en las que han dado a\nluz, pero puede afectar a cualquier persona que tenga la menstruación. Su causa no está clara.\n\nLos signos más frecuentes son un dolor menstrual intenso —a veces tanto que te impide hacer tus cosas de siempre— y\nmenstruaciones abundantes. Algunas personas también tienen dolor pélvico (en la parte baja de la barriga) en otros\nmomentos del mes, sensación de hinchazón o de barriga pesada y llena, o dolor durante las relaciones sexuales. Otras\nno tienen ningún síntoma.\n\nEs una afección distinta de la endometriosis, en la que un tejido parecido al revestimiento del útero crece fuera\ndel útero, por ejemplo en los ovarios. Algunos de sus síntomas coinciden, y esa es una de las razones por las que\npueden hacer falta pruebas para saber qué está causando el dolor.",
+      "deep": "Normalmente, el médico de cabecera te preguntará por tus menstruaciones y puede que te palpe la barriga con\nsuavidad; quizá te proponga una exploración interna, y puedes pedir que te atienda una médica o que alguien te\nacompañe. Una ecografía o una resonancia magnética pueden ayudar a detectar la adenomiosis o a descartar otras causas.\n\nHay tratamientos que pueden aliviar los síntomas. Entre las opciones que un profesional sanitario puede comentarte\nestán el DIU hormonal (SIU), que adelgaza el revestimiento del útero y puede hacer que las menstruaciones sean más\nligeras y menos dolorosas; otros anticonceptivos hormonales, como la píldora combinada, la píldora que solo contiene\nprogestágeno o el parche; medicamentos no hormonales para el sangrado abundante o el dolor; y, si nada de esto\nayuda, la cirugía. Como los métodos hormonales pueden hacer que las menstruaciones sean más ligeras o que\ndesaparezcan, algunas personas toman la píldora con menos descansos o sin ninguno:\nconsulta «Tomar la píldora sin descansos».\n\nEl calor en la barriga, un aparato TENS y los analgésicos habituales pueden aliviar el dolor. Llevar un registro\nsencillo de tu dolor, tu sangrado y otros síntomas a lo largo del tiempo te ayuda a ti y a tu médico a ver cómo van\nlas cosas y si un tratamiento está funcionando.",
+      "when_to_see_doctor": "Merece la pena acudir al médico de cabecera si:\n\n- tus menstruaciones se vuelven más dolorosas, más abundantes o irregulares\n- las menstruaciones abundantes están afectando a tu vida, o llevas tiempo con ellas\n- tienes dolor durante las relaciones sexuales\n- llevas unas 3 semanas sintiéndote hinchada\n- sangras entre menstruaciones o después de las relaciones sexuales\n\nPide una cita urgente, o contacta con un médico de guardia, si el dolor pélvico o menstrual es intenso o peor de lo\nhabitual y los analgésicos no te han ayudado.",
+      "red_flags": "- Busca ayuda médica **urgente** —ponte en contacto con un médico o con un **servicio médico de guardia**, o llama al **{{emergency}}** / acude al servicio de urgencias si es grave— si\n  **sangras tanto que empapas una compresa o más cada hora durante varias horas seguidas**, o\n  te sientes **a punto de desmayarte, mareada o con dificultad para respirar**. Estos pueden ser síntomas de una pérdida excesiva de sangre."
+    },
     "alcohol-in-pregnancy": {
       "title": "El alcohol durante el embarazo",
       "aliases": [
@@ -270,6 +286,24 @@
       "deep": "Cómo se ve el respeto en la práctica:\n\n- **Pregunta y comprueba cómo está.** \"¿Te parece bien?\", y presta atención a cómo responde: palabras y cuerpo.\n- **Acepta el \"no\" con elegancia.** Sin pucheros, presión ni castigo. Su respuesta es el final.\n- **El entusiasmo importa.** Si ella parece insegura, vacilante o simplemente se deja llevar, detente y pregunta.\n- **Su cuerpo, su decisión** — sobre intimidad, anticoncepción, embarazo, su salud, su apariencia, sus\n  decisiones. Tienes voz en tu vida compartida, nunca un veto sobre su cuerpo.\n- **El respeto es diario.** La forma en que le hablas a ella, sobre ella y tratas sus límites en pequeñas cosas es\n  la base sobre la que descansa todo lo demás.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Tomar la píldora sin descansos",
+      "aliases": [
+        "píldora continua",
+        "píldora sin descanso",
+        "tomar la píldora seguida",
+        "enlazar cajas de la píldora",
+        "saltarse la regla",
+        "sin regla con la píldora",
+        "pauta extendida",
+        "suprimir la menstruación"
+      ],
+      "glance": "Tomar la píldora con descansos más cortos, con menos descansos o sin ninguno hace que sangres con menos frecuencia, o que no sangres. Es algo que conviene hablar con un profesional sanitario.",
+      "overview": "La píldora combinada suele tomarse durante 21 días seguidos de 7 días de descanso, o en un envase «de toma diaria»\nque incluye algunas pastillas sin hormonas (placebo). Durante el descanso, o mientras tomas las pastillas placebo,\nnormalmente tienes un sangrado. Parece una menstruación, pero se debe a la bajada de hormonas al hacer la pausa, no\na tu ciclo natural.\n\nAlgunas personas toman la píldora combinada de forma «personalizada»: con un descanso más corto, con menos\ndescansos o sin descanso entre un envase y otro. Esto puede suponer sangrar con menos frecuencia, o nada, y puede\naliviar los síntomas que aparecen con el descanso, como los dolores de cabeza y el sangrado. Que te vaya bien\ndepende de ti y de tu tipo de píldora, así que conviene hablarlo con un médico, una enfermera o un farmacéutico.\n\nLa píldora que solo contiene progestágeno es diferente: se toma todos los días, sin descanso. Esta píldora, el DIU\nhormonal (SIU) y el implante pueden cambiar tus menstruaciones: pueden volverse más ligeras o irregulares, o\ndesaparecer por completo.",
+      "deep": "Cuando la menstruación desaparece por un método hormonal, es un efecto esperado de las hormonas y no una señal de\nque algo vaya mal. Es frecuente tener un sangrado ligero o manchado, sobre todo en los primeros meses de un método\nnuevo o de una nueva forma de tomarlo, y a menudo mejora con el tiempo. Si el sangrado continúa, un profesional\nsanitario puede explicarte las opciones: quizá te sugiera un descanso corto, u otra píldora u otro método.\n\nEn algunas afecciones en las que la menstruación trae mucho dolor o sangrado abundante —como la endometriosis, la\nadenomiosis o las menstruaciones muy dolorosas o abundantes—, los profesionales sanitarios pueden proponer opciones\nhormonales que hagan las menstruaciones más ligeras o las detengan, y tomar la píldora con menos descansos o sin\nninguno puede ser una de ellas. Las hormonas pueden aliviar los síntomas, pero no curan estas afecciones.\n\nSin un sangrado regular no hay un ciclo que seguir, pero anotar el dolor, el sangrado y otros síntomas sigue\nmostrando cómo estás, y es útil llevarlo a las consultas. Lo bien que te protege la píldora frente al embarazo\nsigue dependiendo de que la tomes como te han indicado; el prospecto de tu píldora, o un farmacéutico, te explica\nqué hacer si se te olvida una.",
+      "when_to_see_doctor": "Conviene hablar con un médico, una enfermera o un farmacéutico si:\n\n- quieres tomar la píldora con menos descansos o sin ninguno, o cambiar la forma de tomarla\n- el sangrado o el manchado continúa, aumenta o te molesta (con el DIU hormonal, conviene que un profesional revise\n  un sangrado irregular que dure más de unos 6 meses)\n- sangras después de las relaciones sexuales, o tienes un dolor nuevo en la parte baja de la barriga\n- se te han olvidado pastillas y has tenido relaciones sexuales, o crees que podrías estar embarazada\n- el dolor u otros síntomas por los que tomas hormonas vuelven o empeoran",
+      "red_flags": "- La píldora combinada aumenta ligeramente el riesgo de **coágulo de sangre (trombosis)**. Busca ayuda médica\n  **urgente** si tienes **dolor e hinchazón en una sola pierna**, o la piel de la pierna caliente, enrojecida u\n  oscurecida.\n- Llama al **{{emergency}}** o acude a urgencias de inmediato si tienes **dolor en el pecho**,\n  **falta de aire repentina** o **toses sangre**: pueden ser signos de un coágulo en los pulmones."
     },
     "contraception": {
       "title": "Anticoncepción",

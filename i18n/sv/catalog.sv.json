@@ -7,6 +7,22 @@
     "partial": false
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyos",
+      "aliases": [
+        "adenomyos",
+        "adeno",
+        "adenomyom",
+        "endometrios i livmoderväggen",
+        "inre endometrios",
+        "kraftig och smärtsam mens"
+      ],
+      "glance": "Adenomyos innebär att livmoderslemhinnan växer in i muskeln i livmoderns vägg. Det kan ge kraftiga och smärtsamma menstruationer.",
+      "overview": "Adenomyos är ett tillstånd där vävnaden som normalt klär livmoderns insida växer in i muskeln i\nlivmoderns vägg. Det upptäcks oftare hos kvinnor över 30 och hos dem som har fött barn, men det kan\ndrabba alla som har mens. Orsaken är inte klarlagd.\n\nDe vanligaste tecknen är svår mensvärk – ibland så svår att du inte kan göra det du brukar – och kraftiga\nmenstruationer. Vissa har också smärta i bäckenet (nedre delen av magen) vid andra tider i månaden, en\nuppblåst eller tung, full känsla i magen, eller smärta vid samlag. Andra har inga symtom alls.\n\nDet är ett annat tillstånd än endometrios, där vävnad som liknar livmoderslemhinnan växer utanför\nlivmodern, till exempel på äggstockarna. En del av symtomen överlappar, och det är en anledning till att\ndet kan behövas undersökningar för att ta reda på vad smärtan beror på.",
+      "deep": "En läkare brukar fråga om din mens och kan försiktigt känna på magen; en gynekologisk undersökning kan\nföreslås, och du kan be om en kvinnlig läkare eller om att ha någon med dig. En ultraljudsundersökning\neller en magnetkameraundersökning (MR) kan hjälpa till att hitta adenomyos eller utesluta andra orsaker.\n\nDet finns behandlingar som kan lindra symtomen. Alternativ som en läkare kan ta upp är hormonspiralen\n(IUS), som gör livmoderslemhinnan tunnare och kan göra mensen lättare och mindre smärtsam; andra\nhormonella preventivmedel, till exempel kombinationsp-piller, minipiller eller p-plåster;\nicke-hormonella läkemedel mot kraftig blödning eller smärta; och, om detta inte hjälper, en operation.\nEftersom hormonella metoder kan göra mensen lättare eller få den att upphöra tar vissa p-piller med\nfärre uppehåll eller utan uppehåll – se ”Att ta p-piller utan uppehåll”.\n\nVärme på magen, en TENS-apparat och vanliga smärtstillande medel kan lindra det värsta. Att enkelt\nanteckna smärta, blödning och andra symtom över tid hjälper dig och din läkare att se hur det går och om\nen behandling fungerar.",
+      "when_to_see_doctor": "Det är värt att uppsöka en allmänläkare om:\n\n- din mens blir mer smärtsam, kraftigare eller oregelbunden\n- kraftiga menstruationer påverkar ditt liv, eller har pågått en tid\n- du har smärta vid samlag\n- du har känt dig uppblåst i ungefär 3 veckor\n- du blöder mellan menstruationerna eller efter samlag\n\nBe om en akut tid, eller kontakta en jourmottagning, om smärtan i bäckenet eller mensvärken är svår eller\nvärre än vanligt och smärtstillande inte har hjälpt.",
+      "red_flags": "- Sök **akut** medicinsk hjälp – kontakta en läkare eller en **jourmottagning**, eller ring **{{emergency}}** / åk till akuten om det är allvarligt – om du\n  **blöder så kraftigt att du blöder igenom en binda eller flera varje timme under flera timmar i rad**, eller om du\n  känner dig **svimfärdig, yr eller andfådd**. Detta kan vara tecken på att du förlorar för mycket blod."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol under graviditeten",
       "aliases": [
@@ -268,6 +284,24 @@
       "deep": "Så här ser respekt ut i praktiken:\n\n- **Fråga, och stäm av.** \"Är det här okej?\" och var uppmärksam på hur hon svarar — med ord och med kroppen.\n- **Ta ett \"nej\" med värdighet.** Inget tjurande, ingen press, inget straff. Hennes svar är slutgiltigt.\n- **Entusiasm spelar roll.** Om hon verkar osäker, tveksam eller bara går med på det, sluta och fråga.\n- **Hennes kropp, hennes beslut** — om intimitet, preventivmedel, graviditet, hennes hälsa, hennes utseende, hennes val. Du har en röst i ert gemensamma liv, aldrig ett veto över hennes kropp.\n- **Respekt är vardaglig.** Hur du talar till henne, om henne och hur du respekterar hennes gränser i det lilla är grunden som allt annat vilar på.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Att ta p-piller utan uppehåll",
+      "aliases": [
+        "p-piller utan uppehåll",
+        "ta p-piller i sträck",
+        "långtidsanvändning av p-piller",
+        "hoppa över mensen",
+        "skjuta upp mensen",
+        "ingen mens på p-piller",
+        "kontinuerlig p-pilleranvändning",
+        "förlängd regim"
+      ],
+      "glance": "Att ta p-piller med kortare uppehåll, färre uppehåll eller inga alls gör att du blöder mer sällan, eller inte alls. Det är något att diskutera med en läkare eller barnmorska.",
+      "overview": "Kombinationsp-piller tas ofta i 21 dagar följt av ett uppehåll på 7 dagar, eller som en förpackning för\n”varje dag” som innehåller några sockerpiller (placebotabletter). Under uppehållet, eller dagarna med\nsockerpiller, får du oftast en blödning. Den ser ut som en mens, men den beror på att hormonnivån sjunker\nnär du gör uppehåll med p-pillret, inte på din naturliga cykel.\n\nVissa tar i stället kombinationsp-piller på ett ”anpassat” sätt: med kortare uppehåll, färre uppehåll\neller inget uppehåll alls mellan förpackningarna. Det kan innebära att du blöder mer sällan, eller inte\nalls, och det kan lindra besvär som hör ihop med uppehållet, till exempel huvudvärk och blödning. Om det\npassar dig beror på dig och på vilken typ av p-piller du har, så det är värt att prata igenom det med en\nläkare, sjuksköterska eller apotekare.\n\nMinipiller är annorlunda: de tas varje dag, utan uppehåll. Minipiller, hormonspiralen (IUS) och\nimplantatet kan alla förändra din mens: den kan bli lättare eller oregelbunden, eller upphöra helt.",
+      "deep": "När mensen upphör på grund av en hormonell metod är det en förväntad effekt av hormonerna och inte ett\ntecken på att något är fel. Lätt blödning eller fläckblödning är vanligt, särskilt de första månaderna\nmed en ny metod eller ett nytt sätt att ta den, och det brukar ge med sig med tiden. Om blödningen\nfortsätter kan en läkare förklara vilka alternativ som finns – till exempel ett kort uppehåll, eller ett\nannat p-piller eller en annan metod.\n\nVid vissa tillstånd där mensen ger mycket smärta eller kraftig blödning – till exempel endometrios,\nadenomyos eller mycket smärtsamma eller kraftiga menstruationer – kan läkare föreslå hormonella\nalternativ som gör mensen lättare eller får den att upphöra, och att ta p-piller med färre uppehåll eller\nutan uppehåll kan vara ett av dem. Hormoner kan lindra symtomen, men de botar inte dessa tillstånd.\n\nUtan en regelbunden blödning finns det ingen cykel att följa, men att anteckna smärta, blödning och andra\nsymtom visar ändå hur du mår, och det är bra att ta med till besök i vården. Hur väl p-pillret skyddar\nmot graviditet beror fortfarande på att du tar det enligt anvisningarna; bipacksedeln, eller ett apotek,\nförklarar vad du ska göra om du glömmer ett piller.",
+      "when_to_see_doctor": "Det är värt att prata med en läkare, sjuksköterska eller apotekare om:\n\n- du vill ta dina p-piller med färre uppehåll eller utan uppehåll, eller ändra hur du tar dem\n- blödning eller fläckblödning fortsätter, blir kraftigare eller besvärar dig (med hormonspiral är det\n  värt att låta undersöka oregelbunden blödning som håller på i mer än ungefär 6 månader)\n- du blöder efter samlag eller har ny smärta i nedre delen av magen\n- du har glömt piller och haft samlag, eller tror att du kan vara gravid\n- smärtan eller de andra symtom som du tar hormoner för kommer tillbaka eller blir värre",
+      "red_flags": "- Kombinationsp-piller ökar risken för **blodpropp** något. Sök **akut** vård om du får\n  **smärta och svullnad i ena benet**, eller varm, röd eller mörkare hud på benet.\n- Ring **{{emergency}}** eller åk till akuten direkt om du får **bröstsmärta**, **plötslig andnöd** eller\n  **hostar upp blod** – det kan vara tecken på en blodpropp i lungorna."
     },
     "contraception": {
       "title": "Preventivmedel",

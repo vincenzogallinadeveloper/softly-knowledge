@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomioze",
+      "aliases": [
+        "adenomioze",
+        "adeno",
+        "adenomioma",
+        "iekšējā endometrioze",
+        "sāpīgas un bagātīgas menstruācijas",
+        "palielināta dzemde"
+      ],
+      "glance": "Adenomioze ir stāvoklis, kad dzemdes gļotāda ieaug dzemdes sienas muskulī. Tā var izraisīt bagātīgas, sāpīgas menstruācijas.",
+      "overview": "Adenomioze ir slimība, kad audi, kas parasti izklāj dzemdes iekšpusi, ieaug dzemdes sienas muskulī. To biežāk diagnosticē sievietēm pēc 30 gadu vecuma un tām, kuras ir dzemdējušas, taču tā var skart ikvienu, kam ir menstruācijas. Tās cēlonis nav skaidrs.\n\nBiežākās pazīmes ir stipras menstruāciju sāpes — dažkārt tik stipras, ka neļauj veikt ierastās ikdienas darbības — un bagātīgas menstruācijas. Dažām sievietēm ir arī sāpes iegurnī (vēdera lejasdaļā) citā mēneša laikā, vēdera uzpūšanās vai smaguma un pilnuma sajūta vēderā vai sāpes dzimumakta laikā. Citām simptomu nav nemaz.\n\nTā ir cita slimība nekā endometrioze, kad dzemdes gļotādai līdzīgi audi aug ārpus dzemdes, piemēram, uz olnīcām. Daži šo slimību simptomi pārklājas, un tas ir viens no iemesliem, kāpēc var būt vajadzīgi izmeklējumi, lai noskaidrotu, kas izraisa sāpes.",
+      "deep": "Ģimenes ārsts parasti pajautās par jūsu menstruācijām un var saudzīgi aptaustīt vēderu; var tikt ieteikta ginekoloģiskā izmeklēšana, un jūs varat lūgt, lai jūs apskata sieviete ārste vai lai blakus būtu kāds cits. Ultraskaņas izmeklējums vai magnētiskās rezonanses izmeklējums var palīdzēt atklāt adenomiozi vai izslēgt citus cēloņus.\n\nSimptomus var mazināt ārstēšana. Ārsts var pārrunāt ar jums šādas iespējas: hormonālo spirāli (IUS), kas padara plānāku dzemdes gļotādu un var padarīt menstruācijas mazāk bagātīgas un mazāk sāpīgas; citu hormonālo kontracepciju, piemēram, kombinētās kontracepcijas tabletes, tikai progestogēnu saturošās tabletes (minitabletes) vai plāksteri; nehormonālas zāles pret bagātīgu asiņošanu vai sāpēm; un, ja tas nepalīdz, operāciju. Tā kā hormonālās metodes var padarīt menstruācijas mazāk bagātīgas vai tās apturēt, dažas sievietes lieto tabletes ar mazāk pārtraukumiem vai bez tiem — skatiet „Kontracepcijas tablešu lietošana bez pārtraukumiem”.\n\nSiltums uz vēdera, TENS aparāts un parastie pretsāpju līdzekļi var mazināt sāpes. Vienkārša sāpju, asiņošanas un citu simptomu pierakstīšana laika gaitā palīdz jums un jūsu ārstam redzēt, kā jums klājas un vai ārstēšana darbojas.",
+      "when_to_see_doctor": "Ir vērts vērsties pie ģimenes ārsta, ja:\n\n- menstruācijas kļūst sāpīgākas, bagātīgākas vai neregulāras\n- bagātīgas menstruācijas ietekmē jūsu dzīvi vai tās ir bagātīgas jau kādu laiku\n- jums ir sāpes dzimumakta laikā\n- jau apmēram 3 nedēļas jūtat vēdera uzpūšanos\n- jums ir asiņošana starp menstruācijām vai pēc dzimumakta\n\nLūdziet steidzamu pieņemšanu vai sazinieties ar dežūrārstu, ja sāpes iegurnī vai menstruāciju sāpes ir stipras vai stiprākas nekā parasti un pretsāpju līdzekļi nav palīdzējuši.",
+      "red_flags": "- **Steidzami** meklējiet medicīnisko palīdzību — sazinieties ar ārstu vai **dežūrārstu**, bet, ja stāvoklis ir smags, zvaniet uz numuru **{{emergency}}** vai dodieties uz neatliekamās palīdzības nodaļu —, ja **asiņošana ir tik stipra, ka dažas stundas pēc kārtas katru stundu pilnībā piesūcas viena higiēniskā pakete vai vairāk**, vai ja jūtat, ka **tūlīt noģībsiet, jums reibst galva vai trūkst elpas**. Tās var būt pazīmes, ka zaudējat pārāk daudz asiņu."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohols grūtniecības laikā",
       "aliases": [
@@ -277,6 +293,24 @@
       "deep": "Kā cieņa izskatās praksē:\n\n- **Jautājiet un pārliecinieties.** „Vai tā ir labi?” — un pievērsiet uzmanību tam, kā viņa reaģē, gan vārdos, gan ķermeņa valodā.\n- **Pieņemiet „nē” mierīgi.** Bez apvainošanās, spiediena vai sodīšanas. Ar viņas atbildi jautājums ir izlemts.\n- **Svarīga ir patiesa vēlēšanās.** Ja viņa šķiet nedroša, vilcinās vai vienkārši pakļaujas, apstājieties un pajautājiet.\n- **Viņas ķermenis — viņas lēmums** par tuvību, kontracepciju, grūtniecību, viņas veselību, izskatu un izvēlēm. Jums ir balss jūsu kopīgajā dzīvē, bet nekad ne veto tiesības pār viņas ķermeni.\n- **Cieņa ir ikdienas lieta.** Tas, kā jūs runājat ar viņu, kā runājat par viņu un kā sīkumos ievērojat viņas robežas, ir pamats, uz kura balstās viss pārējais.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Kontracepcijas tablešu lietošana bez pārtraukumiem",
+      "aliases": [
+        "tabletes bez pārtraukuma",
+        "nepārtraukta tablešu lietošana",
+        "kontracepcijas tabletes bez pārtraukumiem",
+        "menstruāciju izlaišana ar tabletēm",
+        "bez menstruācijām, lietojot tabletes",
+        "pagarināts lietošanas režīms",
+        "menstruāciju nomākšana",
+        "antibeibī tabletes bez pārtraukuma"
+      ],
+      "glance": "Lietojot kontracepcijas tabletes ar īsākiem pārtraukumiem, retākiem pārtraukumiem vai bez tiem, asiņošana ir retāka vai tās nav vispār. Par to ir vērts aprunāties ar ārstu.",
+      "overview": "Kombinētās kontracepcijas tabletes bieži lieto 21 dienu, pēc tam ir 7 dienu pārtraukums, vai arī lieto „ikdienas” iepakojumu, kurā ir dažas tabletes bez hormoniem (placebo). Pārtraukuma laikā vai lietojot placebo tabletes, parasti sākas asiņošana. Tā izskatās pēc menstruācijām, taču to izraisa hormonu līmeņa kritums, kad uz laiku pārtraucat lietot tabletes, nevis jūsu dabiskais cikls.\n\nDažas sievietes kombinētās kontracepcijas tabletes lieto „pielāgotā” veidā: ar īsāku pārtraukumu, retākiem pārtraukumiem vai bez pārtraukuma starp iepakojumiem. Tas var nozīmēt, ka asiņošana ir retāka vai tās nav vispār, un var mazināt ar pārtraukumu saistītos simptomus, piemēram, galvassāpes un asiņošanu. Vai tas jums der, ir atkarīgs no jums un no jūsu tablešu veida, tāpēc ir vērts to pārrunāt ar ārstu, medmāsu vai farmaceitu.\n\nTikai progestogēnu saturošās tabletes (minitabletes) ir citādas: tās lieto katru dienu bez pārtraukuma. Tās, hormonālā spirāle (IUS) un implants var mainīt jūsu menstruācijas: tās var kļūt mazāk bagātīgas vai neregulāras vai pavisam izbeigties.",
+      "deep": "Ja menstruācijas izbeidzas hormonālas metodes dēļ, tā ir sagaidāma hormonu iedarbība, nevis pazīme, ka kaut kas nav kārtībā. Neliela asiņošana vai smērēšanās ir bieža, īpaši pirmajos mēnešos pēc jaunas metodes vai jauna lietošanas veida sākšanas, un ar laiku tā bieži mazinās. Ja asiņošana turpinās, ārsts var izskaidrot iespējas — piemēram, ieteikt īsu pārtraukumu vai citas tabletes vai citu metodi.\n\nDažu slimību gadījumā, kad menstruācijas rada stipras sāpes vai bagātīgu asiņošanu, — piemēram, endometrioze, adenomioze vai ļoti sāpīgas vai bagātīgas menstruācijas —, ārsti var ieteikt hormonālus līdzekļus, kas padara menstruācijas mazāk bagātīgas vai tās aptur, un viens no tiem var būt tablešu lietošana ar mazāk pārtraukumiem vai bez tiem. Hormoni var mazināt simptomus, taču šīs slimības tie neizārstē.\n\nBez regulāras asiņošanas nav cikla, kam sekot, taču sāpju, asiņošanas un citu simptomu pierakstīšana joprojām parāda, kā jums klājas, un šos pierakstus ir noderīgi ņemt līdzi uz vizītēm. Tas, cik labi tabletes pasargā no grūtniecības, joprojām ir atkarīgs no tā, vai tās lietojat atbilstoši norādījumiem; ko darīt, ja esat aizmirsusi iedzert kādu tableti, paskaidro tablešu lietošanas instrukcija vai farmaceits.",
+      "when_to_see_doctor": "Ir vērts aprunāties ar ārstu, medmāsu vai farmaceitu, ja:\n\n- vēlaties lietot tabletes ar mazāk pārtraukumiem vai bez tiem vai mainīt to lietošanas veidu\n- asiņošana vai smērēšanās turpinās, kļūst stiprāka vai jūs traucē (ja jums ir hormonālā spirāle, neregulāru asiņošanu, kas ilgst vairāk nekā apmēram 6 mēnešus, ir vērts parādīt ārstam)\n- jums ir asiņošana pēc dzimumakta vai jaunas sāpes vēdera lejasdaļā\n- esat aizmirsusi iedzert tabletes un jums ir bijis dzimumakts vai domājat, ka varētu būt stāvoklī\n- sāpes vai citi simptomi, kuru dēļ lietojat hormonus, atgriežas vai pastiprinās",
+      "red_flags": "- Kombinētās kontracepcijas tabletes nedaudz palielina **asins recekļu (trombozes)** risku. **Steidzami** meklējiet medicīnisko palīdzību, ja jums ir **sāpes un pietūkums vienā kājā** vai kājas āda ir silta, apsārtusi vai kļuvusi tumšāka.\n- Nekavējoties zvaniet uz numuru **{{emergency}}** vai dodieties uz neatliekamās palīdzības nodaļu, ja jums ir **sāpes krūtīs**, **pēkšņs elpas trūkums** vai jūs **atklepojat asinis** — tās var būt pazīmes, ka plaušās ir asins receklis."
     },
     "contraception": {
       "title": "Kontracepcija",

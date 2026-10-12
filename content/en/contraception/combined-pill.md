@@ -10,6 +10,7 @@ relations:
   - { type: is-a, target: contraception }
   - { type: related-to, target: ovulation }
   - { type: see-also, target: progestogen-only-pill }
+  - { type: see-also, target: continuous-pill }
 
 sources:
   - org: NHS

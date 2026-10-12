@@ -6,6 +6,23 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiosia",
+      "aliases": [
+        "adenomiosia",
+        "adeno",
+        "adenomioma",
+        "barne-endometriosia",
+        "hileko ugari eta mingarriak",
+        "umetoki handitua",
+        "adenomiosis"
+      ],
+      "glance": "Adenomiosia umetokiaren barne-geruza umetokiaren hormako giharrean barrura hazten denean gertatzen da. Hileko ugari eta mingarriak eragin ditzake.",
+      "overview": "Adenomiosia normalean umetokiaren barrualdea estaltzen duen ehuna umetokiaren hormako giharrean barrura hazten den gaixotasuna da. 30 urtetik gorako emakumeetan eta erditu direnetan diagnostikatzen da maizago, baina hilekoa duen edonori eragin diezaioke. Ez dago argi zerk eragiten duen.\n\nSeinale ohikoenak hileko min bizia (batzuetan ohiko gauzak egitea eragozteraino) eta hileko ugariak dira. Pertsona batzuek pelbiseko mina ere izaten dute (sabelaren beheko aldean) hilabeteko beste une batzuetan, sabela puztuta edo astun eta beteta dagoen sentsazioa, edo mina sexu-harremanetan. Beste batzuek ez dute inolako sintomarik.\n\nEndometriosiaz bestelako gaixotasuna da; endometriosian, umetokiaren barne-geruzaren antzeko ehuna umetokitik kanpo hazten da, adibidez obulutegietan. Bien sintoma batzuk bat datoz, eta horregatik, besteak beste, probak behar izan daitezke mina zerk eragiten duen jakiteko.",
+      "deep": "Familia-medikuak normalean zure hilekoei buruz galdetuko dizu, eta baliteke sabela kontu handiz ukitzea; barne-azterketa bat proposa dezake, eta emakumezko mediku bat eska dezakezu, edo norbait zurekin egotea. Ekografia batek edo erresonantzia magnetiko batek adenomiosia aurkitzen edo beste kausa batzuk baztertzen lagun dezake.\n\nBadira sintomekin laguntzen duten tratamenduak. Osasun-profesional batek aipa ditzakeen aukeren artean daude DIU hormonala (IUS), umetokiaren barne-geruza mehetzen duena eta hilekoak arinago eta ez hain mingarri egin ditzakeena; beste antisorgailu hormonal batzuk, hala nola pilula konbinatua, progestageno hutsezko pilula (minipilula) edo adabakia; hormonarik gabeko botikak odoljario ugarirako edo minerako; eta, horiek laguntzen ez badute, kirurgia. Metodo hormonalek hilekoak arindu edo geldiarazi ditzaketenez, batzuek pilula atsedenaldi gutxiagorekin edo atsedenaldirik gabe hartzen dute; ikus \"Pilula atsedenaldirik gabe hartzea\".\n\nSabelean beroa jartzeak, TENS gailu batek eta ohiko analgesikoek mina arin dezakete. Denboran zehar zure mina, odoljarioa eta beste sintomak modu sinplean erregistratzeak zuri eta zure medikuari laguntzen dizue gauzak nola doazen eta tratamendu batek funtzionatzen duen ikusten.",
+      "when_to_see_doctor": "Merezi du familia-medikuarengana joatea:\n\n- hilekoak mingarriagoak, ugariagoak edo irregularrak bihurtzen badira\n- hileko ugariek zure bizitzari eragiten badiote, edo denbora daramate horrela\n- sexu-harremanetan mina baduzu\n- 3 aste inguru badaramatzazu sabela puztuta sentitzen\n- hilekoen artean edo sexu-harremanen ondoren odola galtzen baduzu\n\nEskatu premiazko hitzordua, edo jarri harremanetan guardiako zerbitzu batekin, pelbiseko mina edo hileko mina bizia bada edo ohi baino okerragoa, eta analgesikoek lagundu ez badute.",
+      "red_flags": "- Eskatu **premiazko** laguntza medikoa (jarri harremanetan mediku batekin edo **guardiako zerbitzu batekin**, edo, larria bada, deitu **{{emergency}}** zenbakira / joan ospitaleko larrialdi-zerbitzura) **hainbesteko odoljarioa baduzu non konpresa bat edo gehiago guztiz blaitzen baituzu orduro, segidan ordu gutxi batzuetan**, edo **konortea galtzeko sentsazioa, zorabioa edo arnasestua** baduzu. Odol gehiegi galtzearen seinale izan daitezke."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohola haurdunaldian",
       "aliases": [
@@ -280,6 +297,24 @@
       "deep": "Hau da errespetua praktikan:\n\n- **Galdetu, eta egiaztatu.** \"Ondo al dago hau?\" galdetu, eta erreparatu nola erantzuten duen, hitzekin eta gorputzarekin.\n- **Onartu ezetza begirunez.** Muturrik, presiorik eta zigorrik gabe. Haren erantzunarekin amaitzen da kontua.\n- **Gogoak garrantzia du.** Ziur ez dagoela, zalantzan dagoela edo besterik gabe onartzen ari dela badirudi, gelditu eta galdetu.\n- **Haren gorputza, haren erabakia**: intimitateari, antisorgailuei, haurdunaldiari, haren osasunari, itxurari eta aukerei buruz. Zuk ahotsa duzu elkarrekin duzuen bizitzan, baina inoiz ez betorik haren gorputzaren gainean.\n- **Errespetua egunerokoa da.** Harekin nola hitz egiten duzun, hari buruz nola hitz egiten duzun eta gauza txikietan haren mugak nola tratatzen dituzun dira gainerako guztiaren oinarria.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Pilula atsedenaldirik gabe hartzea",
+      "aliases": [
+        "pilula jarraia",
+        "etenik gabeko pilula",
+        "pilula atsedenaldirik gabe",
+        "hilekoa saltatzea pilularekin",
+        "hilekorik ez pilularekin",
+        "erregimen luzatua",
+        "hilekoaren ezabapena",
+        "píldora continua"
+      ],
+      "glance": "Pilula atsedenaldi laburragoekin, atsedenaldi gutxiagorekin edo batere gabe hartzeak esan nahi du odoljarioa gutxiagotan izango duzula, edo batere ez. Osasun-profesional batekin hitz egiteko gaia da.",
+      "overview": "Pilula konbinatua askotan 21 egunez hartzen da, eta ondoren 7 eguneko atsedenaldia egiten da, edo bestela \"egunero\" hartzeko kaxa batean hartzen da, hormonarik gabeko pilula batzuk (plazeboak) dituena. Atsedenaldian, edo plazeboak hartzen dituzun bitartean, normalean odoljarioa izaten duzu. Hilekoaren itxura du, baina pilula eteten duzunean hormonak jaisteak eragiten du, ez zure ziklo naturalak.\n\nBeste batzuek pilula konbinatua modu \"pertsonalizatuan\" hartzen dute: atsedenaldi laburragoarekin, atsedenaldi gutxiagorekin edo kaxen artean atsedenaldirik gabe. Horrek esan dezake odoljarioa gutxiagotan izatea, edo batere ez, eta atsedenaldiarekin datozen sintomak arin ditzake, hala nola buruko mina eta odoljarioa. Zuretzat egokia den ala ez zure eta zure pilula motaren araberakoa da; beraz, merezi du medikuarekin, erizainarekin edo farmazialariarekin hitz egitea.\n\nProgestageno hutsezko pilula (minipilula) desberdina da: egunero hartzen da, atsedenaldirik gabe. Pilula horrek, DIU hormonalak (IUS) eta inplanteak hilekoak alda ditzakete: arinago edo irregularrago bihur daitezke, edo erabat gelditu.",
+      "deep": "Metodo hormonal baten ondorioz hilekoa gelditzen denean, hormonen espero daitekeen ondorioa da, ez zerbait gaizki dagoenaren seinale. Odoljario arina edo odol-orbanak ohikoak dira, batez ere metodo berri baten edo hartzeko modu berri baten lehen hilabeteetan, eta askotan denborarekin baretzen dira. Odoljarioak jarraitzen badu, osasun-profesional batek aukerak azal diezazkizuke: atsedenaldi labur bat iradoki dezake, edo beste pilula edo metodo bat.\n\nHilekoak min handia edo odoljario ugaria dakarten zenbait gaixotasunetan (endometriosia, adenomiosia edo hileko oso mingarri edo ugariak, adibidez), osasun-profesionalek hilekoak arintzen edo geldiarazten dituzten aukera hormonalak proposa ditzakete, eta pilula atsedenaldi gutxiagorekin edo batere gabe hartzea horietako bat izan daiteke. Hormonek sintomak arin ditzakete, baina ez dituzte gaixotasun horiek sendatzen.\n\nOdoljario erregularrik gabe ez dago jarraitzeko ziklorik, baina mina, odoljarioa eta beste sintomak idazteak oraindik ere erakusten du nola zauden, eta kontsultetara eramateko baliagarria da. Pilulak haurdunalditik zenbat babesten zaituen aholkatu bezala hartzearen araberakoa da oraindik ere; pilulekin datorren prospektuak, edo farmazialari batek, azaltzen du zer egin bat ahazten baduzu.",
+      "when_to_see_doctor": "Merezi du mediku, erizain edo farmazialari batekin hitz egitea:\n\n- pilula atsedenaldi gutxiagorekin edo batere gabe hartu nahi baduzu, edo hartzeko modua aldatu nahi baduzu\n- odoljarioak edo odol-orbanek jarraitzen badute, ugariagoak badira edo traba egiten badizute (DIU hormonalarekin, merezi du medikuak aztertzea 6 hilabete inguru baino gehiago irauten duen odoljario irregularra)\n- sexu-harremanen ondoren odola galtzen baduzu, edo sabelaren beheko aldean min berria baduzu\n- pilulak ahaztu badituzu eta sexu-harremanak izan badituzu, edo haurdun egon zaitezkeela uste baduzu\n- hormonak hartzeko arrazoi diren mina edo beste sintomak itzultzen badira edo okerrera egiten badute",
+      "red_flags": "- Pilula konbinatuak apur bat handitzen du **odol-koaguluen (tronbosiaren)** arriskua. Eskatu **premiazko** laguntza medikoa **hanka batean mina eta hantura** baduzu, edo hankako larruazala bero, gorri edo ilunduta badago.\n- Deitu berehala **{{emergency}}** zenbakira edo joan ospitaleko larrialdi-zerbitzura **bularreko mina** edo **bat-bateko arnasestua** baduzu, edo **eztulka odola botatzen baduzu**; biriketako koagulu baten seinale izan daitezke."
     },
     "contraception": {
       "title": "Antisorgailuak",

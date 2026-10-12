@@ -6,6 +6,22 @@
     "review": "Machine-translated (DeepL) from en — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomioza",
+      "aliases": [
+        "adenomioza",
+        "adenomyosis",
+        "gruczolistość macicy",
+        "endometrioza wewnętrzna",
+        "adenomioma",
+        "adeno"
+      ],
+      "glance": "Adenomioza to stan, w którym błona śluzowa macicy wrasta w mięśniową ścianę macicy. Może powodować obfite i bolesne miesiączki.",
+      "overview": "Adenomioza to schorzenie, w którym tkanka normalnie wyściełająca macicę wrasta w mięsień tworzący ścianę macicy. Częściej rozpoznaje się ją u kobiet po 30. roku życia i u osób, które rodziły, ale może dotyczyć każdej osoby, która miesiączkuje. Jej przyczyna nie jest jasna.\n\nNajczęstsze objawy to silne bóle menstruacyjne — czasem tak dokuczliwe, że uniemożliwiają Ci wykonywanie zwykłych czynności — oraz obfite miesiączki. Niektóre osoby odczuwają też ból miednicy (w dolnej części brzucha) w innych momentach miesiąca, wzdęcia lub uczucie ciężkości i pełności w brzuchu albo ból podczas stosunku. Inne nie mają żadnych objawów.\n\nTo inne schorzenie niż endometrioza, w której tkanka podobna do błony śluzowej macicy rośnie poza macicą, na przykład na jajnikach. Część objawów obu chorób się pokrywa, co jest jednym z powodów, dla których mogą być potrzebne badania, by ustalić, co powoduje ból.",
+      "deep": "Lekarz pierwszego kontaktu zwykle zapyta o Twoje miesiączki i może delikatnie zbadać Twój brzuch; może też zaproponować badanie wewnętrzne (ginekologiczne) — możesz poprosić, żeby badała Cię lekarka albo żeby ktoś był przy Tobie. USG lub rezonans magnetyczny mogą pomóc wykryć adenomiozę lub wykluczyć inne przyczyny.\n\nLeczenie może złagodzić objawy. Wśród możliwości, które lekarz może z Tobą omówić, są: wkładka hormonalna (IUS), która powoduje ścieńczenie błony śluzowej macicy i może sprawić, że miesiączki będą skąpsze i mniej bolesne; inne metody antykoncepcji hormonalnej, takie jak pigułka złożona, pigułka zawierająca wyłącznie progestagen czy plaster; niehormonalne leki na obfite krwawienie lub ból; a jeśli to nie pomaga — leczenie operacyjne. Ponieważ metody hormonalne mogą sprawić, że miesiączki będą skąpsze lub ustaną, niektóre osoby przyjmują pigułkę z rzadszymi przerwami albo bez przerw — zobacz „Przyjmowanie pigułki bez przerw”.\n\nCiepło na brzuch, urządzenie TENS i zwykłe leki przeciwbólowe mogą złagodzić ból. Prowadzenie prostych notatek o bólu, krwawieniu i innych objawach w dłuższym czasie pomaga Tobie i lekarzowi zobaczyć, jak zmienia się Twój stan i czy leczenie działa.",
+      "when_to_see_doctor": "Warto zgłosić się do lekarza pierwszego kontaktu, jeśli:\n\n- Twoje miesiączki stają się bardziej bolesne, obfitsze lub nieregularne\n- obfite miesiączki wpływają na Twoje życie lub utrzymują się już od jakiegoś czasu\n- odczuwasz ból podczas stosunku\n- od około 3 tygodni czujesz się wzdęta\n- krwawisz między miesiączkami lub po stosunku\n\nPoproś o pilną wizytę albo skontaktuj się z nocną i świąteczną opieką zdrowotną, jeśli ból miednicy lub ból menstruacyjny jest silny albo silniejszy niż zwykle, a leki przeciwbólowe nie pomogły.",
+      "red_flags": "- Zasięgnij **pilnej** pomocy medycznej — skontaktuj się z lekarzem lub **nocną i świąteczną opieką zdrowotną**, a jeśli stan jest poważny, zadzwoń pod numer **{{emergency}}** lub udaj się na szpitalny oddział ratunkowy — jeśli\n  **krwawienie jest tak obfite, że przez kilka godzin z rzędu przemaczasz jedną lub więcej podpasek na godzinę** lub\n  masz **uczucie omdlewania, zawroty głowy lub duszności**. Mogą to być objawy nadmiernej utraty krwi."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol w ciąży",
       "aliases": [
@@ -267,6 +283,24 @@
       "deep": "Jak szacunek wygląda w praktyce:\n\n- **Pytaj i upewniaj się.** „Czy tak jest w porządku?” – i zwracaj uwagę na to, jak reaguje: na jej słowa i ciało.\n- **Przyjmuj „nie” z klasą.** Żadnych fochów, nacisków ani kar. Jej odpowiedź zamyka sprawę.\n- **Entuzjazm ma znaczenie.** Jeśli wydaje się niepewna, waha się albo po prostu ulega, zatrzymaj się i zapytaj.\n- **Jej ciało, jej decyzja** — w sprawach intymności, antykoncepcji, ciąży, jej zdrowia, wyglądu i jej\n  wyborów. Masz głos we wspólnym życiu, ale nigdy prawa weta wobec jej ciała.\n- **Szacunek jest codziennością.** To, jak do niej mówisz, jak o niej mówisz i jak szanujesz jej granice w drobnych sprawach,\n  jest fundamentem, na którym opiera się wszystko inne.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Przyjmowanie pigułki bez przerw",
+      "aliases": [
+        "pigułka bez przerwy",
+        "antykoncepcja ciągła",
+        "pigułka w trybie ciągłym",
+        "tabletki antykoncepcyjne bez przerwy",
+        "pominięcie miesiączki pigułką",
+        "przesunięcie miesiączki tabletkami",
+        "brak miesiączki na pigułce",
+        "schemat przedłużony"
+      ],
+      "glance": "Przyjmowanie pigułki z krótszymi przerwami, rzadszymi przerwami albo bez przerw oznacza rzadsze krwawienia albo ich brak. Warto to omówić z lekarzem.",
+      "overview": "Pigułkę złożoną często przyjmuje się przez 21 dni, po czym następuje 7-dniowa przerwa, albo w opakowaniu „codziennym”, które zawiera kilka tabletek placebo. W czasie przerwy lub przyjmowania tabletek placebo zwykle pojawia się krwawienie. Wygląda jak miesiączka, ale wywołuje je spadek poziomu hormonów po odstawieniu pigułki, a nie Twój naturalny cykl.\n\nNiektóre osoby przyjmują pigułkę złożoną w sposób „dopasowany”: z krótszą przerwą, rzadszymi przerwami albo bez przerwy między opakowaniami. Może to oznaczać rzadsze krwawienia albo ich brak, a także złagodzić dolegliwości związane z przerwą, takie jak bóle głowy i krwawienie. To, czy taki sposób jest dla Ciebie odpowiedni, zależy od Ciebie i od rodzaju pigułki, dlatego warto omówić to z lekarzem, pielęgniarką lub farmaceutą.\n\nPigułka zawierająca wyłącznie progestagen działa inaczej: przyjmuje się ją codziennie, bez przerwy. Zarówno ona, jak i wkładka hormonalna (IUS) oraz implant mogą zmienić Twoje miesiączki: mogą stać się skąpsze lub nieregularne albo całkiem ustać.",
+      "deep": "Gdy miesiączki ustają z powodu metody hormonalnej, jest to spodziewane działanie hormonów, a nie znak, że dzieje się coś złego. Niewielkie krwawienia lub plamienia są częste, zwłaszcza w pierwszych miesiącach stosowania nowej metody lub nowego sposobu jej przyjmowania, i często z czasem ustępują. Jeśli krwawienie się utrzymuje, lekarz może wyjaśnić możliwe rozwiązania — może zaproponować krótką przerwę albo inną pigułkę lub metodę.\n\nW niektórych schorzeniach, w których miesiączkom towarzyszy silny ból lub obfite krwawienie — takich jak endometrioza, adenomioza czy bardzo bolesne lub obfite miesiączki — lekarze mogą proponować metody hormonalne, dzięki którym miesiączki są skąpsze lub ustają, a przyjmowanie pigułki z rzadszymi przerwami albo bez przerw może być jedną z nich. Hormony mogą łagodzić objawy, ale nie wyleczą tych schorzeń.\n\nBez regularnego krwawienia nie ma cyklu, który można śledzić, ale notowanie bólu, krwawienia i innych objawów nadal pokazuje, jak się czujesz, i przydaje się podczas wizyt u lekarza. Skuteczność pigułki w zapobieganiu ciąży nadal zależy od przyjmowania jej zgodnie z zaleceniami; ulotka dołączona do opakowania lub farmaceuta wyjaśni, co zrobić, jeśli pominiesz tabletkę.",
+      "when_to_see_doctor": "Warto porozmawiać z lekarzem, pielęgniarką lub farmaceutą, jeśli:\n\n- chcesz przyjmować pigułkę z rzadszymi przerwami albo bez przerw lub zmienić sposób jej przyjmowania\n- krwawienie lub plamienie utrzymuje się, nasila albo Ci przeszkadza (przy wkładce hormonalnej nieregularne krwawienia trwające dłużej niż około 6 miesięcy warto skonsultować z lekarzem)\n- krwawisz po stosunku lub pojawił się u Ciebie nowy ból w dolnej części brzucha\n- pominęłaś tabletki i odbyłaś stosunek albo podejrzewasz, że możesz być w ciąży\n- ból lub inne objawy, z powodu których przyjmujesz hormony, wracają lub się nasilają",
+      "red_flags": "- Pigułka złożona nieznacznie zwiększa ryzyko powstania **zakrzepu krwi**. Zasięgnij **pilnej** pomocy medycznej, jeśli masz **ból i obrzęk jednej nogi** albo ciepłą, zaczerwienioną lub ściemniałą skórę na nodze.\n- Natychmiast zadzwoń pod numer **{{emergency}}** lub udaj się na szpitalny oddział ratunkowy, jeśli masz **ból w klatce piersiowej**, **nagłą duszność** lub **kaszlesz krwią** — mogą to być objawy zakrzepu w płucach."
     },
     "contraception": {
       "title": "Antykoncepcja",

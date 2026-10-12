@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyóza",
+      "aliases": [
+        "adenomyóza",
+        "adenomyosis",
+        "vnútorná endometrióza",
+        "adenomyóm",
+        "endometrióza maternice",
+        "adeno"
+      ],
+      "glance": "Adenomyóza je stav, keď sliznica maternice vrastá do svaloviny steny maternice. Môže spôsobovať silnú a bolestivú menštruáciu.",
+      "overview": "Adenomyóza je ochorenie, pri ktorom tkanivo, ktoré normálne vystiela maternicu, vrastá do svaloviny v stene maternice. Častejšie sa zistí u žien nad 30 rokov a u žien, ktoré rodili, ale môže postihnúť kohokoľvek, kto má menštruáciu. Jej príčina nie je jasná.\n\nNajčastejšími príznakmi sú silná menštruačná bolesť, niekedy taká silná, že ti bráni v bežných činnostiach, a silná menštruácia. Niektoré ženy majú aj bolesť v panve (v dolnej časti brucha) v iných obdobiach mesiaca, pocit nafúknutia alebo ťažoby a plnosti v bruchu, alebo bolesť počas sexu. Iné nemajú vôbec žiadne príznaky.\n\nJe to iné ochorenie ako endometrióza, pri ktorej tkanivo podobné sliznici maternice rastie mimo maternice, napríklad na vaječníkoch. Niektoré ich príznaky sa prekrývajú, čo je jeden z dôvodov, prečo môžu byť potrebné vyšetrenia, aby sa zistilo, čo bolesť spôsobuje.",
+      "deep": "Všeobecný lekár sa ťa zvyčajne opýta na menštruáciu a môže ti jemne prehmatať brucho; môže navrhnúť aj vnútorné (gynekologické) vyšetrenie a ty môžeš požiadať o lekárku alebo o to, aby bol pri tebe niekto ďalší. Ultrazvuk alebo magnetická rezonancia môžu pomôcť adenomyózu odhaliť alebo vylúčiť iné príčiny.\n\nPríznaky môže zmierniť liečba. Medzi možnosti, o ktorých sa s tebou môže lekár porozprávať, patrí hormonálne teliesko (IUS), ktoré stenčuje sliznicu maternice a môže menštruáciu zoslabiť a urobiť menej bolestivou; iná hormonálna antikoncepcia, napríklad kombinovaná tabletka, tabletka len s progestagénom alebo náplasť; nehormonálne lieky na silné krvácanie alebo bolesť; a ak to nepomáha, operácia. Keďže hormonálne metódy môžu menštruáciu zoslabiť alebo zastaviť, niektoré ženy užívajú tabletku s menším počtom prestávok alebo úplne bez nich: pozri „Užívanie tabletky bez prestávok“.\n\nTeplo na brucho, prístroj TENS a bežné lieky proti bolesti môžu bolesť zmierniť. Jednoduché záznamy o bolesti, krvácaní a ďalších príznakoch v priebehu času pomôžu tebe aj lekárovi vidieť, ako sa ti darí a či liečba zaberá.",
+      "when_to_see_doctor": "Oplatí sa ísť k všeobecnému lekárovi, ak:\n\n- tvoja menštruácia začne byť bolestivejšia, silnejšia alebo nepravidelná\n- silná menštruácia ovplyvňuje tvoj život alebo trvá už dlhší čas\n- máš bolesti počas sexu\n- sa už asi 3 týždne cítiš nafúknutá\n- krvácaš medzi menštruáciami alebo po sexe\n\nPožiadaj o urgentné vyšetrenie alebo kontaktuj lekársku pohotovosť, ak je bolesť v panve alebo menštruačná bolesť silná alebo horšia ako zvyčajne a lieky proti bolesti nepomohli.",
+      "red_flags": "- Vyhľadaj **urgentnú** lekársku pomoc (kontaktuj lekára alebo **lekársku pohotovosť**, alebo ak je to vážne, zavolaj **{{emergency}}** / choď na urgentný príjem), ak **krvácaš tak silno, že niekoľko hodín po sebe každú hodinu presiakneš vložku alebo viac**, alebo sa cítiš **na odpadnutie, máš závrat alebo si zadýchaná**. Môžu to byť znaky, že strácaš priveľa krvi."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol v tehotenstve",
       "aliases": [
@@ -289,6 +305,23 @@
       "deep": "Ako vyzerá rešpekt v praxi:\n\n- **Pýtaj sa a priebežne sa uisťuj.** „Je to v poriadku?“ a všímaj si, ako reaguje, slovami aj telom.\n- **Prijmi „nie“ s pokojom.** Žiadne urazené tváre, nátlak ani trest. Jej odpoveď je konečná.\n- **Na nadšení záleží.** Ak sa zdá neistá, váha alebo sa len prispôsobuje, prestaň a opýtaj sa.\n- **Jej telo, jej rozhodnutie**: o intimite, antikoncepcii, tehotenstve, jej zdraví, jej vzhľade, jej voľbách. V spoločnom živote máš svoj hlas, ale nikdy nie právo veta nad jej telom.\n- **Rešpekt je každodenný.** To, ako sa s ňou rozprávaš, ako o nej hovoríš a ako rešpektuješ jej hranice v maličkostiach, je základ, na ktorom stojí všetko ostatné.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Užívanie tabletky bez prestávok",
+      "aliases": [
+        "tabletka bez prestávky",
+        "dlhodobé užívanie tabletky",
+        "kontinuálne užívanie tabletky",
+        "vynechanie menštruácie",
+        "posunutie menštruácie tabletkou",
+        "bez menštruácie na tabletke",
+        "predĺžený režim"
+      ],
+      "glance": "Užívanie tabletky s kratšími prestávkami, menej prestávkami alebo úplne bez nich znamená, že krvácaš menej často alebo vôbec. Je dobré prebrať to s lekárom.",
+      "overview": "Kombinovaná tabletka sa často užíva 21 dní, po ktorých nasleduje 7-dňová prestávka, alebo v „každodennom“ balení, ktoré obsahuje niekoľko neúčinných (placebo) tabliet. Počas prestávky alebo placebo tabliet zvyčajne príde krvácanie. Vyzerá ako menštruácia, no nespôsobuje ho tvoj prirodzený cyklus, ale pokles hormónov, keď tabletku prerušíš.\n\nNiektoré ženy namiesto toho užívajú kombinovanú tabletku „na mieru“: s kratšou prestávkou, menej prestávkami alebo bez prestávky medzi baleniami. To môže znamenať, že krvácaš menej často alebo vôbec, a môže to zmierniť ťažkosti spojené s prestávkou, napríklad bolesti hlavy a krvácanie. Či ti to vyhovuje, závisí od teba aj od typu tabletky, preto sa oplatí prebrať to s lekárom, sestrou alebo lekárnikom.\n\nTabletka len s progestagénom je iná: užíva sa každý deň, bez prestávky. Tá, ako aj hormonálne teliesko (IUS) a implantát môžu zmeniť tvoju menštruáciu: môže zoslabnúť, byť nepravidelná alebo úplne prestať.",
+      "deep": "Keď menštruácia prestane pre hormonálnu metódu, ide o očakávaný účinok hormónov, nie o znak, že je niečo zle. Slabé krvácanie alebo špinenie je časté, hlavne v prvých mesiacoch novej metódy alebo nového spôsobu užívania, a často sa časom upraví. Ak krvácanie pokračuje, lekár ti vysvetlí možnosti: môže navrhnúť krátku prestávku alebo inú tabletku či metódu.\n\nPri niektorých ochoreniach, keď menštruácia prináša veľa bolesti alebo silné krvácanie, napríklad pri endometrióze, adenomyóze alebo veľmi bolestivej či silnej menštruácii, môžu lekári navrhnúť hormonálne možnosti, ktoré menštruáciu zoslabia alebo zastavia, a užívanie tabletky s menším počtom prestávok alebo bez nich môže byť jednou z nich. Hormóny môžu zmierniť príznaky, ale tieto ochorenia nevyliečia.\n\nBez pravidelného krvácania nie je cyklus, ktorý by sa dal sledovať, ale zapisovanie bolesti, krvácania a ďalších príznakov aj tak ukazuje, ako sa ti darí, a oplatí sa vziať si to so sebou k lekárovi. To, ako spoľahlivo ťa tabletka chráni pred tehotenstvom, stále závisí od toho, či ju užívaš podľa pokynov; príbalový leták alebo lekárnik ti vysvetlí, čo robiť, ak tabletku vynecháš.",
+      "when_to_see_doctor": "Oplatí sa porozprávať s lekárom, sestrou alebo lekárnikom, ak:\n\n- by si chcela užívať tabletku s menším počtom prestávok alebo bez nich, alebo zmeniť spôsob, akým ju užívaš\n- krvácanie alebo špinenie pokračuje, zosilňuje alebo ťa obťažuje (pri hormonálnom teliesku sa oplatí dať skontrolovať nepravidelné krvácanie, ktoré trvá dlhšie ako približne 6 mesiacov)\n- krvácaš po sexe alebo máš novú bolesť v dolnej časti brucha\n- si vynechala tabletky a mala si sex, alebo si myslíš, že by si mohla byť tehotná\n- sa bolesť alebo iné príznaky, kvôli ktorým užívaš hormóny, vracajú alebo zhoršujú",
+      "red_flags": "- Kombinovaná tabletka mierne zvyšuje riziko **krvnej zrazeniny**. Vyhľadaj **urgentnú** lekársku pomoc, ak máš **bolesť a opuch jednej nohy** alebo teplú, červenú či stmavnutú kožu na nohe.\n- Okamžite zavolaj **{{emergency}}** alebo choď na urgentný príjem, ak máš **bolesť na hrudi**, **náhlu dýchavičnosť** alebo **vykašliavaš krv**: môžu to byť znaky zrazeniny v pľúcach."
     },
     "contraception": {
       "title": "Antikoncepcia",

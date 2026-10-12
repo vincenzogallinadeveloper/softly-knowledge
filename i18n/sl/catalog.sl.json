@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomioza",
+      "aliases": [
+        "adenomioza",
+        "adenomyosis",
+        "notranja endometrioza",
+        "adenomiom",
+        "endometrioza maternice",
+        "adeno"
+      ],
+      "glance": "Adenomioza pomeni, da sluznica maternice vrašča v mišično steno maternice. Lahko povzroča močne in boleče menstruacije.",
+      "overview": "Adenomioza je bolezen, pri kateri tkivo, ki običajno obdaja notranjost maternice, vrašča v mišico maternične stene. Pogosteje jo odkrijejo pri ženskah, starejših od 30 let, in pri tistih, ki so rodile, lahko pa prizadene vsako osebo, ki ima menstruacijo. Njen vzrok ni jasen.\n\nNajpogostejša znaka sta hude menstrualne bolečine – včasih tako hude, da vas ovirajo pri običajnih opravilih – in močne menstruacije. Nekatere imajo tudi bolečine v medenici (v spodnjem delu trebuha) v drugih obdobjih meseca, občutek napihnjenosti ali teže in polnosti v trebuhu ali bolečine med spolnim odnosom. Druge sploh nimajo simptomov.\n\nTo je drugačna bolezen kot endometrioza, pri kateri tkivo, podobno maternični sluznici, raste zunaj maternice, na primer na jajčnikih. Nekateri simptomi obeh bolezni se prekrivajo, kar je eden od razlogov, zakaj so lahko potrebne preiskave, da se ugotovi, kaj povzroča bolečino.",
+      "deep": "Osebni zdravnik vas bo običajno vprašal o menstruaciji in vam morda nežno pretipal trebuh; lahko vam predlaga tudi notranji (ginekološki) pregled – prosite lahko, da vas pregleda zdravnica ali da je ob vas še kdo. Ultrazvok ali magnetna resonanca lahko pomagata odkriti adenomiozo ali izključiti druge vzroke.\n\nZdravljenje lahko olajša simptome. Med možnostmi, o katerih se lahko z vami pogovori zdravnik, so hormonska spirala (IUS), ki stanjša maternično sluznico in lahko menstruacije naredi šibkejše in manj boleče; druga hormonska kontracepcija, na primer kombinirana tabletka, tabletka s samim progestagenom ali obliž; nehormonska zdravila za močne krvavitve ali bolečine; in, če to ne pomaga, operacija. Ker lahko hormonske metode menstruacije oslabijo ali ustavijo, nekatere ženske jemljejo tabletko z manj premori ali brez njih – glejte »Jemanje tabletke brez premorov«.\n\nToplota na trebuhu, naprava TENS in običajna zdravila proti bolečinam lahko omilijo bolečino. Preprosto beleženje bolečin, krvavitev in drugih simptomov skozi čas pomaga vam in zdravniku videti, kako se stanje razvija in ali zdravljenje deluje.",
+      "when_to_see_doctor": "Vredno je obiskati osebnega zdravnika, če:\n\n- vaše menstruacije postanejo bolj boleče, močnejše ali neredne\n- močne menstruacije vplivajo na vaše življenje ali trajajo že nekaj časa\n- imate bolečine med spolnim odnosom\n- se že približno 3 tedne počutite napihnjeni\n- krvavite med menstruacijama ali po spolnem odnosu\n\nProsite za nujen pregled ali se obrnite na dežurno službo, če so bolečine v medenici ali menstrualne bolečine hude ali hujše kot običajno in zdravila proti bolečinam niso pomagala.",
+      "red_flags": "- Poiščite **nujno** zdravniško pomoč – obrnite se na zdravnika ali **dežurno službo**, v hujših primerih pa pokličite **{{emergency}}** ali pojdite v urgentni center –, če **krvavite tako močno, da vsako uro popolnoma prepojite vložek ali več, in to nekaj ur zapored**, ali če **imate občutek, da boste omedleli, se vam vrti ali ste zadihani**. To so lahko znaki, da izgubljate preveč krvi."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol med nosečnostjo",
       "aliases": [
@@ -284,6 +300,23 @@
       "deep": "Kako je spoštovanje videti v praksi:\n\n- **Vprašajte in se sproti prepričajte.** »Ti je to v redu?« – in bodite pozorni na to, kako se odzove, z besedami in s telesom.\n- **»Ne« sprejmite brez zamere.** Brez kujanja, pritiska ali kaznovanja. Njen odgovor je zadnja beseda.\n- **Navdušenje je pomembno.** Če se zdi negotova, okleva ali le pristaja, se ustavite in jo vprašajte.\n- **Njeno telo, njena odločitev** – glede intimnosti, kontracepcije, nosečnosti, njenega zdravja, videza in odločitev. V skupnem življenju imate pravico do svojega mnenja, nikoli pa pravice do veta nad njenim telesom.\n- **Spoštovanje je vsakdanje.** Kako govorite z njo in o njej ter kako spoštujete njene meje v malenkostih, je temelj, na katerem stoji vse drugo.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Jemanje tabletke brez premorov",
+      "aliases": [
+        "tabletka brez premora",
+        "neprekinjeno jemanje tabletke",
+        "kontinuirano jemanje tabletke",
+        "izpustitev menstruacije",
+        "prestavitev menstruacije s tabletko",
+        "brez menstruacije s tabletko",
+        "podaljšan režim jemanja"
+      ],
+      "glance": "Jemanje tabletke s krajšimi premori, manj premori ali brez njih pomeni, da krvavite redkeje ali sploh ne. O tem se je dobro pogovoriti z zdravnikom.",
+      "overview": "Kombinirano tabletko se pogosto jemlje 21 dni, nato sledi 7-dnevni premor, ali pa v »vsakodnevnem« pakiranju, ki vsebuje nekaj neaktivnih (placebo) tablet. Med premorom ali placebo tabletami običajno pride do krvavitve. Videti je kot menstruacija, vendar je ne povzroči vaš naravni ciklus, temveč padec hormonov, ko tabletko prekinete.\n\nNekatere ženske kombinirano tabletko jemljejo »prilagojeno«: s krajšim premorom, manj premori ali brez premora med pakiranji. To lahko pomeni, da krvavite redkeje ali sploh ne, in lahko omili težave, povezane s premorom, na primer glavobole in krvavitev. Ali vam to ustreza, je odvisno od vas in od vrste tabletke, zato se je o tem vredno pogovoriti z zdravnikom, medicinsko sestro ali farmacevtom.\n\nTabletka s samim progestagenom je drugačna: jemlje se vsak dan, brez premora. Ta tabletka, hormonska spirala (IUS) in vsadek lahko spremenijo vaše menstruacije: lahko postanejo šibkejše ali neredne ali pa povsem prenehajo.",
+      "deep": "Ko menstruacije prenehajo zaradi hormonske metode, je to pričakovan učinek hormonov in ne znak, da je kaj narobe. Rahle krvavitve ali madeženje so pogosti, zlasti v prvih mesecih nove metode ali novega načina jemanja, in se sčasoma pogosto umirijo. Če se krvavitve nadaljujejo, vam lahko zdravnik razloži možnosti – morda vam bo predlagal kratek premor ali drugo tabletko oziroma metodo.\n\nPri nekaterih boleznih, pri katerih menstruacije prinašajo veliko bolečin ali močne krvavitve – na primer pri endometriozi, adenomiozi ali zelo bolečih ali močnih menstruacijah –, lahko zdravniki predlagajo hormonske možnosti, ki menstruacije oslabijo ali ustavijo, in jemanje tabletke z manj premori ali brez njih je lahko ena od njih. Hormoni lahko omilijo simptome, teh bolezni pa ne pozdravijo.\n\nBrez redne krvavitve ni ciklusa, ki bi mu sledili, vendar beleženje bolečin, krvavitev in drugih simptomov še vedno pokaže, kako ste, in koristno je, da to vzamete s seboj na preglede. Kako dobro vas tabletka ščiti pred nosečnostjo, je še vedno odvisno od tega, ali jo jemljete po navodilih; navodilo, priloženo tabletkam, ali farmacevt vam pojasni, kaj storiti, če kakšno pozabite vzeti.",
+      "when_to_see_doctor": "Vredno se je pogovoriti z zdravnikom, medicinsko sestro ali farmacevtom, če:\n\n- bi tabletko radi jemali z manj premori ali brez njih ali spremenili način jemanja\n- se krvavitev ali madeženje nadaljuje, okrepi ali vas moti (pri hormonski spirali je vredno dati pregledati neredne krvavitve, ki trajajo dlje kot približno 6 mesecev)\n- krvavite po spolnem odnosu ali imate novo bolečino v spodnjem delu trebuha\n- ste pozabili vzeti tabletke in imeli spolni odnos ali mislite, da ste morda noseči\n- se bolečine ali drugi simptomi, zaradi katerih jemljete hormone, vračajo ali slabšajo",
+      "red_flags": "- Kombinirana tabletka nekoliko poveča tveganje za **krvni strdek**. Poiščite **nujno** zdravniško pomoč, če imate **bolečino in oteklino v eni nogi** ali toplo, rdečo ali temnejšo kožo na nogi.\n- Takoj pokličite **{{emergency}}** ali pojdite v urgentni center, če imate **bolečino v prsih**, **nenadno zadihanost** ali **izkašljujete kri** – to so lahko znaki strdka v pljučih."
     },
     "contraception": {
       "title": "Kontracepcija",

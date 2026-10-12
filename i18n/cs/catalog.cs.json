@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyóza",
+      "aliases": [
+        "adenomyóza",
+        "adenomyosis",
+        "vnitřní endometrióza",
+        "adenomyom",
+        "endometrióza dělohy",
+        "adeno"
+      ],
+      "glance": "Adenomyóza je stav, kdy děložní sliznice vrůstá do svaloviny děložní stěny. Může způsobovat silnou a bolestivou menstruaci.",
+      "overview": "Adenomyóza je onemocnění, při kterém tkáň, jež normálně vystýlá dělohu, vrůstá do svaloviny děložní stěny. Častěji se zjišťuje u žen nad 30 let a u žen, které rodily, ale může postihnout kohokoli, kdo menstruuje. Její příčina není jasná.\n\nNejčastějšími příznaky jsou silná menstruační bolest – někdy tak silná, že vám brání v běžných činnostech – a silná menstruace. Některé ženy mají také bolest v pánvi (v podbřišku) i v jiných dnech měsíce, pocit nafouknutí nebo tíhy a plnosti v břiše nebo bolest při sexu. Jiné nemají vůbec žádné příznaky.\n\nJde o jiné onemocnění než endometrióza, při které tkáň podobná děložní sliznici roste mimo dělohu, například na vaječnících. Některé jejich příznaky se překrývají, což je jeden z důvodů, proč mohou být potřeba vyšetření, aby se zjistilo, co bolest způsobuje.",
+      "deep": "Praktický lékař se vás obvykle zeptá na menstruaci a může vám jemně prohmatat břicho; může také navrhnout vnitřní (gynekologické) vyšetření – můžete požádat o lékařku nebo o to, aby u vás někdo byl. Ultrazvuk nebo magnetická rezonance mohou pomoci adenomyózu odhalit nebo vyloučit jiné příčiny.\n\nPříznaky může zmírnit léčba. Mezi možnosti, které s vámi zdravotník může probrat, patří hormonální tělísko (IUS), které ztenčuje děložní sliznici a může menstruaci zeslabit a zmírnit její bolestivost; jiná hormonální antikoncepce, například kombinovaná pilulka, pilulka pouze s gestagenem nebo náplast; nehormonální léky na silné krvácení nebo bolest; a pokud to nepomáhá, operace. Protože hormonální metody mohou menstruaci zeslabit nebo zastavit, některé ženy užívají pilulku s menším počtem pauz nebo úplně bez nich – viz „Užívání pilulky bez pauzy“.\n\nTeplo na břicho, přístroj TENS a běžné léky proti bolesti mohou bolest zmírnit. Jednoduché záznamy o bolesti, krvácení a dalších příznacích v průběhu času pomohou vám i lékaři vidět, jak se vám daří a zda léčba zabírá.",
+      "when_to_see_doctor": "Vyplatí se navštívit praktického lékaře, pokud:\n\n- vaše menstruace začne být bolestivější, silnější nebo nepravidelná\n- silná menstruace ovlivňuje váš život nebo trvá už delší dobu\n- máte bolest při sexu\n- se už asi 3 týdny cítíte nafouklá\n- krvácíte mezi menstruacemi nebo po sexu\n\nPožádejte o neodkladné vyšetření nebo kontaktujte lékařskou pohotovostní službu, pokud je bolest v pánvi nebo menstruační bolest silná nebo horší než obvykle a léky proti bolesti nepomohly.",
+      "red_flags": "- Vyhledejte **neodkladnou** lékařskou pomoc – kontaktujte lékaře nebo **lékařskou pohotovostní službu**, nebo pokud je to vážné, volejte **{{emergency}}** / jeďte na pohotovost –, pokud **krvácíte tak silně, že vložku nebo víc promočíte každou hodinu několik hodin po sobě**, nebo máte **pocit na omdlení, závrať nebo jste dušná**. Mohou to být známky ztráty příliš velkého množství krve."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol v těhotenství",
       "aliases": [
@@ -294,6 +310,23 @@
       "deep": "Jak respekt vypadá v praxi:\n\n- **Ptejte se a průběžně si ověřujte.** „Je to v pořádku?“ – a všímejte si, jak reaguje, slovy i tělem.\n- **Přijměte „ne“ s grácií.** Žádné trucování, nátlak ani trestání. Její odpověď je konečná.\n- **Na nadšení záleží.** Pokud se zdá nejistá, váhá nebo jen přitakává, přestaňte a zeptejte se.\n- **Její tělo, její rozhodnutí** – o intimitě, antikoncepci, těhotenství, jejím zdraví, vzhledu i jejích volbách. Ve vašem společném životě máte hlas, nikdy ale právo veta nad jejím tělem.\n- **Respekt je každodenní.** Jak s ní mluvíte, jak o ní mluvíte a jak respektujete její hranice v maličkostech – to je základ, na kterém stojí všechno ostatní.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Užívání pilulky bez pauzy",
+      "aliases": [
+        "pilulka bez pauzy",
+        "dlouhodobé užívání pilulky",
+        "kontinuální užívání pilulky",
+        "vynechání menstruace",
+        "oddálení menstruace pilulkou",
+        "bez menstruace na pilulce",
+        "prodloužený režim"
+      ],
+      "glance": "Užívání pilulky s kratší pauzou, s menším počtem pauz nebo úplně bez nich znamená, že krvácíte méně často, nebo vůbec. Je dobré to probrat se zdravotníkem.",
+      "overview": "Kombinovaná pilulka se často užívá 21 dní, po nichž následuje 7denní pauza, nebo v „každodenním“ balení, které obsahuje několik neúčinných (placebo) tablet. Během pauzy nebo při užívání placebo tablet obvykle přijde krvácení. Vypadá jako menstruace, ale nezpůsobuje ho váš přirozený cyklus, nýbrž pokles hormonů, když pilulku přerušíte.\n\nNěkteré ženy místo toho užívají kombinovanou pilulku „na míru“: s kratší pauzou, s menším počtem pauz nebo bez pauzy mezi baleními. To může znamenat, že krvácíte méně často nebo vůbec, a může to zmírnit potíže spojené s pauzou, například bolesti hlavy a krvácení. Zda vám to vyhovuje, záleží na vás i na typu pilulky, proto je dobré to probrat s lékařem, zdravotní sestrou nebo lékárníkem.\n\nPilulka pouze s gestagenem je jiná: užívá se každý den, bez pauzy. Ta, stejně jako hormonální tělísko (IUS) a implantát, může změnit vaši menstruaci: může zeslábnout, být nepravidelná nebo úplně ustat.",
+      "deep": "Když menstruace ustane kvůli hormonální metodě, jde o očekávaný účinek hormonů, ne o známku, že je něco v nepořádku. Slabé krvácení nebo špinění je časté, hlavně v prvních měsících nové metody nebo nového způsobu užívání, a často se časem upraví. Pokud krvácení pokračuje, zdravotník vám vysvětlí možnosti – může navrhnout krátkou pauzu nebo jinou pilulku či metodu.\n\nU některých onemocnění, kdy menstruace přináší silnou bolest nebo silné krvácení – například u endometriózy, adenomyózy nebo velmi bolestivé či silné menstruace –, mohou lékaři navrhnout hormonální možnosti, které menstruaci zeslabí nebo zastaví, a užívání pilulky s menším počtem pauz nebo bez nich může být jednou z nich. Hormony mohou zmírnit příznaky, ale tato onemocnění nevyléčí.\n\nBez pravidelného krvácení není žádný cyklus, který by se dal sledovat, ale zaznamenávání bolesti, krvácení a dalších příznaků i tak ukazuje, jak se vám daří, a hodí se vzít je s sebou k lékaři. Jak spolehlivě pilulka chrání před těhotenstvím, stále závisí na tom, zda ji užíváte podle pokynů; příbalový leták nebo lékárník vám vysvětlí, co dělat, když tabletu vynecháte.",
+      "when_to_see_doctor": "Vyplatí se promluvit si s lékařem, zdravotní sestrou nebo lékárníkem, pokud:\n\n- byste chtěla užívat pilulku s menším počtem pauz nebo bez nich, nebo změnit způsob, jakým ji užíváte\n- krvácení nebo špinění pokračuje, zesiluje nebo vás obtěžuje (u hormonálního tělíska je dobré nechat zkontrolovat nepravidelné krvácení, které trvá déle než zhruba 6 měsíců)\n- krvácíte po sexu nebo máte novou bolest v podbřišku\n- jste vynechala pilulky a měla jste sex, nebo si myslíte, že byste mohla být těhotná\n- se bolest nebo jiné příznaky, kvůli kterým hormony užíváte, vracejí nebo zhoršují",
+      "red_flags": "- Kombinovaná pilulka mírně zvyšuje riziko vzniku **krevní sraženiny**. Vyhledejte **neodkladnou** lékařskou pomoc, pokud máte **bolest a otok jedné nohy** nebo teplou, zarudlou či ztmavlou kůži na noze.\n- Ihned volejte **{{emergency}}** nebo jeďte na pohotovost, pokud máte **bolest na hrudi**, **náhlou dušnost** nebo **vykašláváte krev** – mohou to být známky sraženiny v plicích."
     },
     "contraception": {
       "title": "Antikoncepce",

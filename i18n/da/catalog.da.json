@@ -7,6 +7,22 @@
     "partial": false
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyose",
+      "aliases": [
+        "adenomyose",
+        "adeno",
+        "adenomyom",
+        "endometriose i livmodervæggen",
+        "endometriosis interna",
+        "kraftige og smertefulde menstruationer"
+      ],
+      "glance": "Adenomyose er, når livmoderslimhinden vokser ind i muskulaturen i livmoderens væg. Det kan give kraftige og smertefulde menstruationer.",
+      "overview": "Adenomyose er en tilstand, hvor det væv, der normalt beklæder livmoderen indvendigt, vokser ind i\nmuskulaturen i livmoderens væg. Den bliver oftere opdaget hos kvinder over 30 og hos dem, der har født,\nmen den kan ramme alle, der har menstruation. Årsagen er ikke klarlagt.\n\nDe mest almindelige tegn er stærke menstruationssmerter — nogle gange så slemme, at du ikke kan gøre de\nting, du plejer — og kraftige menstruationer. Nogle har også smerter i bækkenet (nederst i maven) på andre\ntidspunkter af måneden, en oppustet eller tung, fyldt fornemmelse i maven eller smerter under samleje.\nAndre har slet ingen symptomer.\n\nDet er en anden tilstand end endometriose, hvor væv, der ligner livmoderslimhinden, vokser uden for\nlivmoderen, for eksempel på æggestokkene. Nogle af symptomerne overlapper, og det er en af grundene til,\nat der kan være brug for undersøgelser for at finde ud af, hvad smerterne skyldes.",
+      "deep": "Din læge vil som regel spørge ind til din menstruation og kan forsigtigt mærke på din mave; der kan også\nblive foreslået en gynækologisk undersøgelse, og du kan bede om en kvindelig læge eller om at have nogen\nmed. En ultralydsscanning eller en MR-scanning kan hjælpe med at finde adenomyose eller udelukke andre årsager.\n\nDer findes behandlinger, der kan lindre symptomerne. Muligheder, som en læge kan tale med dig om, er bl.a.\nhormonspiralen (IUS), der gør livmoderslimhinden tyndere og kan gøre menstruationen lettere og mindre\nsmertefuld; anden hormonel prævention, f.eks. kombinationspillen, minipillen eller p-plasteret;\nikke-hormonel medicin mod kraftig blødning eller smerter; og, hvis det ikke hjælper, en operation. Fordi\nhormonelle metoder kan gøre menstruationen lettere eller få den til at udeblive, tager nogle p-pillen med\nfærre pauser eller helt uden — se »At tage p-pillen uden pauser«.\n\nVarme på maven, en TENS-maskine og almindelige smertestillende midler kan tage toppen af smerterne. Hvis\ndu løbende noterer dine smerter, din blødning og andre symptomer på en enkel måde, kan du og din læge\nbedre se, hvordan det går, og om en behandling virker.",
+      "when_to_see_doctor": "Det er en god idé at opsøge din praktiserende læge, hvis:\n\n- din menstruation bliver mere smertefuld, kraftigere eller uregelmæssig\n- kraftige menstruationer påvirker dit liv eller har stået på i et stykke tid\n- du har smerter under samleje\n- du har følt dig oppustet i omkring 3 uger\n- du bløder mellem menstruationerne eller efter samleje\n\nBed om en akut tid, eller kontakt lægevagten, hvis dine smerter i bækkenet eller dine\nmenstruationssmerter er stærke eller værre end normalt, og smertestillende ikke har hjulpet.",
+      "red_flags": "- Søg **akut** lægehjælp — kontakt en læge eller **lægevagten**, eller ring til **{{emergency}}** / tag til akutmodtagelsen, hvis det er alvorligt — hvis du\n  **bløder så kraftigt, at du gennembløder et bind eller flere hver time i flere timer i træk**, eller hvis du\n  føler dig **ved at besvime, er svimmel eller har åndenød**. Dette kan være tegn på, at du mister for meget blod."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol under graviditeten",
       "aliases": [
@@ -266,6 +282,23 @@
       "deep": "Sådan ser respekt ud i praksis:\n\n- **Spørg, og tjek ind.** \"Er det her okay?\" – og vær opmærksom på, hvordan hun reagerer, både i ord og kropssprog.\n- **Tag et \"nej\" pænt.** Ingen surmulen, intet pres og ingen straf. Hendes svar er det endelige.\n- **Entusiasme betyder noget.** Hvis hun virker usikker, tøvende eller bare følger med, så stop op og spørg.\n- **Hendes krop, hendes beslutning** – om intimitet, prævention, graviditet, hendes helbred, hendes udseende, hendes valg. Du har en stemme i jeres fælles liv, men aldrig vetoret over hendes krop.\n- **Respekt er hver dag.** Hvordan du taler til hende og om hende, og hvordan du respekterer hendes grænser i små ting, er fundamentet, som alt andet hviler på.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "At tage p-pillen uden pauser",
+      "aliases": [
+        "p-piller uden pause",
+        "p-pillen i forlængelse",
+        "langcyklus",
+        "springe menstruationen over",
+        "udskyde menstruationen",
+        "ingen menstruation på p-piller",
+        "kontinuerlig p-pille"
+      ],
+      "glance": "At tage p-pillen med kortere pauser, færre pauser eller helt uden pause betyder, at du bløder sjældnere eller slet ikke. Det er noget, du kan drøfte med en læge.",
+      "overview": "Kombinationspillen tages ofte i 21 dage efterfulgt af 7 dages pause, eller som en »hver dag«-pakning,\nhvor der er nogle få placebopiller. I pausen, eller mens du tager placebopillerne, får du som regel en\nblødning. Den ligner en menstruation, men den skyldes faldet i hormoner, når du holder pause med pillen,\nog ikke din naturlige cyklus.\n\nNogle tager i stedet kombinationspillen på en »tilpasset« måde: med en kortere pause, færre pauser eller\ningen pause mellem pakningerne. Det kan betyde, at du bløder sjældnere eller slet ikke, og det kan lette\ngener, der følger med pausen, f.eks. hovedpine og blødning. Om det passer til dig, afhænger af dig og af\ndin type p-pille, så det er en god idé at tale det igennem med en læge, sygeplejerske eller apoteker.\n\nMinipillen er anderledes: Den tages hver dag uden pause. Minipillen, hormonspiralen (IUS) og implantatet\nkan alle ændre din menstruation: Den kan blive lettere eller uregelmæssig eller helt holde op.",
+      "deep": "Når menstruationen udebliver på grund af en hormonel metode, er det en forventet virkning af hormonerne\nog ikke et tegn på, at noget er galt. Let blødning eller pletblødning er almindeligt, især i de første\nmåneder med en ny metode eller en ny måde at tage den på, og det aftager ofte med tiden. Hvis blødningen\nbliver ved, kan en læge forklare mulighederne — det kan f.eks. være en kort pause eller en anden pille\neller metode.\n\nVed nogle tilstande, hvor menstruationen giver mange smerter eller kraftig blødning — f.eks. endometriose,\nadenomyose eller meget smertefulde eller kraftige menstruationer — kan læger foreslå hormonelle\nmuligheder, der gør menstruationen lettere eller får den til at udeblive, og at tage p-pillen med færre\npauser eller helt uden kan være en af dem. Hormoner kan lindre symptomerne, men de helbreder ikke disse\ntilstande.\n\nUden en regelmæssig blødning er der ingen cyklus at følge, men når du noterer smerter, blødning og andre\nsymptomer, kan du stadig se, hvordan du har det, og det er nyttigt at have med til lægebesøg. Hvor godt\npillen beskytter mod graviditet, afhænger stadig af, at du tager den som anvist; indlægssedlen i\npakningen, eller apoteket, forklarer, hvad du skal gøre, hvis du glemmer en pille.",
+      "when_to_see_doctor": "Det er en god idé at tale med en læge, sygeplejerske eller apoteker, hvis:\n\n- du gerne vil tage din p-pille med færre pauser eller helt uden, eller ændre den måde, du tager den på\n- blødning eller pletblødning bliver ved, bliver kraftigere eller generer dig (med hormonspiralen er det\n  værd at få undersøgt uregelmæssig blødning, der varer mere end ca. 6 måneder)\n- du bløder efter samleje eller har nye smerter nederst i maven\n- du har glemt piller og har haft samleje, eller tror, du kan være gravid\n- de smerter eller andre symptomer, du tager hormoner for, kommer igen eller bliver værre",
+      "red_flags": "- Kombinationspillen øger risikoen for en **blodprop** en smule. Søg **akut** lægehjælp, hvis du får\n  **smerter og hævelse i det ene ben**, eller varm, rød eller mørkfarvet hud på benet.\n- Ring til **{{emergency}}** eller tag på akutmodtagelsen med det samme, hvis du får **brystsmerter**,\n  **pludselig åndenød** eller **hoster blod op** — det kan være tegn på en blodprop i lungerne."
     },
     "contraception": {
       "title": "Prævention",

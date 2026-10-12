@@ -6,6 +6,21 @@
     "review": "Machine-translated (DeepL) from en — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiose",
+      "aliases": [
+        "adenomiose",
+        "adeno",
+        "adenomioma",
+        "endometriose interna",
+        "endometriose do útero"
+      ],
+      "glance": "A adenomiose acontece quando o revestimento do útero cresce para dentro do músculo da parede do útero. Pode causar menstruações intensas e dolorosas.",
+      "overview": "A adenomiose é uma doença em que o tecido que normalmente reveste o interior do útero cresce para dentro do músculo\nda parede uterina. É diagnosticada com mais frequência em mulheres com mais de 30 anos e em mulheres que já tiveram\nfilhos, mas pode afetar qualquer pessoa que menstrue. A causa não é clara.\n\nOs sinais mais comuns são dores menstruais intensas — por vezes ao ponto de a impedirem de fazer as suas atividades\nhabituais — e menstruações intensas. Algumas pessoas têm também dor pélvica (na parte de baixo da barriga) noutras\nalturas do mês, uma sensação de inchaço ou de barriga pesada e cheia, ou dor durante as relações sexuais. Outras não\ntêm qualquer sintoma.\n\nÉ uma doença diferente da endometriose, em que um tecido semelhante ao revestimento do útero cresce fora do útero,\npor exemplo nos ovários. Alguns dos sintomas sobrepõem-se, e essa é uma das razões pelas quais podem ser necessários\nexames para perceber o que está a causar a dor.",
+      "deep": "Normalmente, o médico de família vai perguntar-lhe pelas suas menstruações e pode palpar-lhe a barriga com cuidado;\npode ser-lhe proposto um exame ginecológico (interno), e pode pedir para ser observada por uma médica ou que alguém\nfique consigo. Uma ecografia ou uma ressonância magnética podem ajudar a detetar a adenomiose ou a excluir outras\ncausas.\n\nHá tratamentos que podem ajudar com os sintomas. Entre as opções que um profissional de saúde pode discutir consigo\nestão o DIU hormonal (SIU), que torna o revestimento do útero mais fino e pode deixar as menstruações mais leves e\nmenos dolorosas; outros contraceptivos hormonais, como a pílula combinada, a pílula apenas com progestogénio ou o\nadesivo; medicamentos não hormonais para o sangramento intenso ou para a dor; e, se isto não ajudar, a cirurgia.\nComo os métodos hormonais podem tornar as menstruações mais leves ou pará-las, algumas pessoas tomam a pílula com\nmenos pausas ou sem pausas — veja «Tomar a pílula sem pausas».\n\nCalor na barriga, um aparelho TENS e os analgésicos habituais podem aliviar a dor. Manter um registo simples da dor,\ndo sangramento e de outros sintomas ao longo do tempo ajuda-a a si e ao seu médico a perceber como as coisas estão a\ncorrer e se um tratamento está a resultar.",
+      "when_to_see_doctor": "Vale a pena consultar um médico de família se:\n\n- as suas menstruações ficarem mais dolorosas, mais intensas ou irregulares\n- as menstruações intensas estiverem a afetar a sua vida, ou se já as tiver há algum tempo\n- tiver dor durante as relações sexuais\n- se sentir inchada há cerca de 3 semanas\n- tiver sangramento entre menstruações ou após as relações sexuais\n\nPeça uma consulta urgente, ou contacte o atendimento médico fora de horas, se a dor pélvica ou menstrual for intensa\nou pior do que o habitual e os analgésicos não tiverem ajudado.",
+      "red_flags": "- Procure ajuda médica **urgente** — contacte um médico ou o **atendimento médico fora de horas**, ou ligue para o **{{emergency}}** / dirija-se ao serviço de urgências se for grave — se estiver\n  **a sangrar tanto que encharca um penso ou mais a cada hora, durante algumas horas seguidas**, ou se\n  se sentir **fraca, tonta ou com falta de ar**. Estes podem ser sinais de perda excessiva de sangue."
+    },
     "alcohol-in-pregnancy": {
       "title": "Álcool durante a gravidez",
       "aliases": [
@@ -270,6 +285,24 @@
       "deep": "Como é o respeito na prática:\n\n- **Pergunte e faça o check-in.** \"Está tudo bem?\" e prestando atenção em como ela responde – palavras e corpo.\n- **Aceite \"não\" graciosamente.** Sem fazer beicinho, pressão ou punição. A resposta dela encerra o assunto.\n- **O entusiasmo é importante.** Se ela parecer insegura, hesitante ou apenas concordar, pare e pergunte.\n- **O corpo é dela, a decisão é dela** — sobre intimidade, contraceção, gravidez, a saúde dela, a aparência dela, as\n  escolhas dela. Você tem voz na vida que partilham, nunca direito de veto sobre o corpo dela.\n- **O respeito é diário.** Como você fala com ela, sobre ela e trata os limites dela nas pequenas coisas é\n  a base sobre a qual todo o resto se apoia.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Tomar a pílula sem pausas",
+      "aliases": [
+        "pílula contínua",
+        "pílula sem pausa",
+        "tomar a pílula seguida",
+        "emendar embalagens da pílula",
+        "saltar a menstruação",
+        "sem menstruação com a pílula",
+        "regime prolongado",
+        "suprimir a menstruação"
+      ],
+      "glance": "Tomar a pílula com pausas mais curtas, menos pausas ou nenhuma faz com que sangre com menos frequência, ou que deixe de sangrar. É algo a conversar com um profissional de saúde.",
+      "overview": "A pílula combinada é muitas vezes tomada durante 21 dias, seguidos de uma pausa de 7 dias, ou numa embalagem «de\ntoma diária» que inclui alguns comprimidos sem hormonas (placebo). Durante a pausa, ou enquanto toma os comprimidos\nplacebo, normalmente tem um sangramento. Parece uma menstruação, mas é causado pela descida das hormonas quando\ninterrompe a pílula, e não pelo seu ciclo natural.\n\nAlgumas pessoas tomam antes a pílula combinada de forma «personalizada»: com uma pausa mais curta, menos pausas ou\nsem pausa entre embalagens. Isto pode significar sangrar com menos frequência, ou deixar de sangrar, e pode aliviar\nsintomas que surgem com a pausa, como dores de cabeça e sangramento. Se é adequado para si depende de si e do tipo de\npílula, por isso vale a pena falar sobre isso com um médico, um enfermeiro ou um farmacêutico.\n\nA pílula apenas com progestogénio é diferente: toma-se todos os dias, sem pausa. Esta pílula, o DIU hormonal (SIU)\ne o implante podem alterar as suas menstruações: podem ficar mais leves ou irregulares, ou parar por completo.",
+      "deep": "Quando a menstruação para por causa de um método hormonal, isso é um efeito esperado das hormonas e não um sinal de\nque algo está mal. Sangramentos ligeiros ou manchas (spotting) são comuns, sobretudo nos primeiros meses de um novo\nmétodo ou de uma nova forma de o tomar, e muitas vezes acalmam com o tempo. Se o sangramento continuar, um\nprofissional de saúde pode explicar-lhe as opções — pode sugerir uma pausa curta, ou outra pílula ou outro método.\n\nEm algumas doenças em que as menstruações trazem muita dor ou sangramento intenso — como a endometriose, a\nadenomiose ou menstruações muito dolorosas ou intensas —, os profissionais de saúde podem sugerir opções hormonais\nque tornam as menstruações mais leves ou as param, e tomar a pílula com menos pausas ou sem pausas pode ser uma\ndelas. As hormonas podem aliviar os sintomas, mas não curam estas doenças.\n\nSem um sangramento regular, não há um ciclo para acompanhar, mas registar a dor, o sangramento e outros sintomas\ncontinua a mostrar como está, e é útil levar isso às consultas. A proteção da pílula contra a gravidez continua a\ndepender de a tomar como indicado; o folheto informativo da sua pílula, ou um farmacêutico, explica o que fazer se\nse esquecer de uma.",
+      "when_to_see_doctor": "Vale a pena falar com um médico, um enfermeiro ou um farmacêutico se:\n\n- quiser tomar a pílula com menos pausas ou sem pausas, ou mudar a forma como a toma\n- o sangramento ou as manchas continuarem, aumentarem ou a incomodarem (com o DIU hormonal, um sangramento irregular\n  que dure mais de cerca de 6 meses merece ser avaliado por um profissional de saúde)\n- tiver sangramento após as relações sexuais, ou uma dor nova na parte de baixo da barriga\n- se tiver esquecido de tomar comprimidos e tiver tido relações sexuais, ou achar que pode estar grávida\n- a dor ou os outros sintomas para os quais toma hormonas voltarem ou piorarem",
+      "red_flags": "- A pílula combinada aumenta ligeiramente o risco de **coágulo sanguíneo (trombose)**. Procure ajuda médica\n  **urgente** se tiver **dor e inchaço numa só perna**, ou a pele da perna quente, vermelha ou mais escura.\n- Ligue imediatamente para o **{{emergency}}** ou dirija-se logo ao serviço de urgências se tiver **dor no peito**,\n  **falta de ar súbita** ou se **tossir sangue** — podem ser sinais de um coágulo nos pulmões."
     },
     "contraception": {
       "title": "Contracepção",

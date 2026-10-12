@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomioza",
+      "aliases": [
+        "adenomioza",
+        "adenomyosis",
+        "unutarnja endometrioza",
+        "adenomiom",
+        "endometrioza maternice",
+        "adeno"
+      ],
+      "glance": "Adenomioza je stanje u kojem sluznica maternice urasta u mišić stijenke maternice. Može uzrokovati obilne i bolne menstruacije.",
+      "overview": "Adenomioza je stanje u kojem tkivo koje inače oblaže unutrašnjost maternice urasta u mišić stijenke maternice. Češće se dijagnosticira kod žena starijih od 30 godina i kod onih koje su rodile, ali može se javiti kod svake osobe koja ima menstruaciju. Uzrok nije jasan.\n\nNajčešći znakovi su jaka menstrualna bol, ponekad toliko jaka da te sprječava u uobičajenim aktivnostima, i obilne menstruacije. Neke žene imaju i bol u zdjelici (u donjem dijelu trbuha) i u drugim dijelovima mjeseca, osjećaj nadutosti ili težine i punoće u trbuhu, ili bol tijekom spolnog odnosa. Druge nemaju nikakve simptome.\n\nTo je drugačije stanje od endometrioze, kod koje tkivo slično sluznici maternice raste izvan maternice, primjerice na jajnicima. Neki se simptomi preklapaju, što je jedan od razloga zašto mogu biti potrebne pretrage kako bi se utvrdilo što uzrokuje bol.",
+      "deep": "Obiteljski liječnik obično će te pitati o menstruacijama i možda ti nježno opipati trbuh; može predložiti i unutarnji (ginekološki) pregled, a ti možeš zatražiti liječnicu ili da netko bude uz tebe. Ultrazvuk ili magnetska rezonancija mogu pomoći otkriti adenomiozu ili isključiti druge uzroke.\n\nLiječenje može ublažiti simptome. Među mogućnostima o kojima liječnik može razgovarati s tobom su hormonska spirala (IUS), koja stanjuje sluznicu maternice i može učiniti menstruacije slabijima i manje bolnima; druga hormonska kontracepcija, poput kombinirane pilule, pilule samo s progestagenom ili flastera; nehormonski lijekovi za obilno krvarenje ili bol; i, ako to ne pomogne, operacija. Budući da hormonske metode mogu oslabiti ili zaustaviti menstruacije, neke žene uzimaju pilulu s manje stanki ili bez njih: pogledaj „Uzimanje pilule bez stanke“.\n\nToplina na trbuhu, TENS uređaj i obični lijekovi protiv bolova mogu ublažiti bol. Jednostavno bilježenje boli, krvarenja i drugih simptoma kroz vrijeme pomaže tebi i liječniku da vidite kako se stanje razvija i djeluje li liječenje.",
+      "when_to_see_doctor": "Vrijedi se javiti obiteljskom liječniku ako:\n\n- ti menstruacije postanu bolnije, obilnije ili neredovite\n- ti obilne menstruacije utječu na život ili traju već neko vrijeme\n- imaš bol tijekom spolnog odnosa\n- već otprilike 3 tjedna osjećaš nadutost\n- krvariš između menstruacija ili nakon spolnog odnosa\n\nZatraži hitan pregled ili se javi dežurnoj službi ako je bol u zdjelici ili menstrualna bol jaka ili jača nego inače, a lijekovi protiv bolova nisu pomogli.",
+      "red_flags": "- Potraži **hitnu** liječničku pomoć (javi se liječniku ili **dežurnoj službi**, odnosno nazovi **{{emergency}}** / idi na hitni prijam ako je stanje ozbiljno) ako **krvariš toliko jako da nekoliko sati zaredom potpuno natopiš jedan ili više uložaka svakog sata** ili osjećaš **nesvjesticu, vrtoglavicu ili nedostatak zraka**. To mogu biti znakovi gubitka previše krvi."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol u trudnoći",
       "aliases": [
@@ -292,6 +308,23 @@
       "deep": "Kako poštovanje izgleda u praksi:\n\n- **Pitaj i provjeravaj.** „Je li ovo u redu?“ i obraćaj pozornost na to kako reagira, riječima i tijelom.\n- **Prihvati „ne“ dostojanstveno.** Bez duranja, pritiska ili kažnjavanja. Njezin odgovor je kraj priče.\n- **Oduševljenje je važno.** Ako se čini nesigurnom, oklijeva ili se samo prepušta, stani i pitaj.\n- **Njezino tijelo, njezina odluka**, kad je riječ o intimnosti, kontracepciji, trudnoći, njezinu zdravlju, izgledu i izborima. Imaš pravo glasa u vašem zajedničkom životu, ali nikad pravo veta nad njezinim tijelom.\n- **Poštovanje je svakodnevno.** Način na koji razgovaraš s njom, kako govoriš o njoj i kako poštuješ njezine granice u malim stvarima temelj je na kojem počiva sve ostalo.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Uzimanje pilule bez stanke",
+      "aliases": [
+        "pilula bez stanke",
+        "pilula bez pauze",
+        "kontinuirano uzimanje pilule",
+        "preskakanje menstruacije",
+        "odgoda menstruacije pilulom",
+        "bez menstruacije na piluli",
+        "produljeni režim"
+      ],
+      "glance": "Uzimanje pilule s kraćim stankama, manje stanki ili bez njih znači da krvariš rjeđe ili uopće ne. O tome vrijedi razgovarati s liječnikom.",
+      "overview": "Kombinirana pilula često se uzima 21 dan, nakon čega slijedi stanka od 7 dana, ili u „svakodnevnom“ pakiranju koje sadrži nekoliko neaktivnih (placebo) tableta. Tijekom stanke ili placebo tableta obično dobiješ krvarenje. Izgleda kao menstruacija, ali ga ne uzrokuje tvoj prirodni ciklus, nego pad hormona kada prekineš pilulu.\n\nNeke žene umjesto toga uzimaju kombiniranu pilulu „prilagođeno“: s kraćom stankom, manje stanki ili bez stanke između pakiranja. To može značiti rjeđe krvarenje ili nikakvo, a može i ublažiti tegobe koje dolaze sa stankom, poput glavobolje i krvarenja. Odgovara li ti to, ovisi o tebi i o vrsti pilule, pa vrijedi razgovarati o tome s liječnikom, medicinskom sestrom ili ljekarnikom.\n\nPilula samo s progestagenom je drukčija: uzima se svaki dan, bez stanke. Ona, hormonska spirala (IUS) i implantat mogu promijeniti tvoje menstruacije: mogu postati slabije ili neredovite, ili potpuno prestati.",
+      "deep": "Kada menstruacije prestanu zbog hormonske metode, to je očekivani učinak hormona, a ne znak da nešto nije u redu. Lagano krvarenje ili točkasto krvarenje često je, osobito u prvim mjesecima nove metode ili novog načina uzimanja, i s vremenom se često smiri. Ako se krvarenje nastavi, liječnik ti može objasniti mogućnosti: može predložiti kratku stanku ili drugu pilulu ili metodu.\n\nKod nekih stanja u kojima menstruacije donose mnogo boli ili obilno krvarenje, poput endometrioze, adenomioze ili vrlo bolnih ili obilnih menstruacija, liječnici mogu predložiti hormonske mogućnosti koje menstruacije čine slabijima ili ih zaustavljaju, a uzimanje pilule s manje stanki ili bez njih može biti jedna od njih. Hormoni mogu ublažiti simptome, ali ta stanja ne izliječe.\n\nBez redovitog krvarenja nema ciklusa koji bi se pratio, ali bilježenje boli, krvarenja i drugih simptoma i dalje pokazuje kako si, a korisno ga je ponijeti na preglede. Koliko te pilula dobro štiti od trudnoće i dalje ovisi o tome uzimaš li je prema uputama; uputa u pakiranju pilula ili ljekarnik objasnit će ti što učiniti ako propustiš tabletu.",
+      "when_to_see_doctor": "Vrijedi razgovarati s liječnikom, medicinskom sestrom ili ljekarnikom ako:\n\n- bi htjela uzimati pilulu s manje stanki ili bez njih ili promijeniti način na koji je uzimaš\n- se krvarenje ili točkasto krvarenje nastavlja, pojačava ili ti smeta (uz hormonsku spiralu neredovito krvarenje koje traje dulje od otprilike 6 mjeseci vrijedi dati provjeriti liječniku)\n- krvariš nakon spolnog odnosa ili imaš novu bol u donjem dijelu trbuha\n- si propustila pilule i imala spolni odnos ili misliš da bi mogla biti trudna\n- se bol ili drugi simptomi zbog kojih uzimaš hormone vraćaju ili pogoršavaju",
+      "red_flags": "- Kombinirana pilula malo povećava rizik od **krvnog ugruška**. Potraži **hitnu** liječničku pomoć ako imaš **bol i oteklinu u jednoj nozi** ili toplu, crvenu ili potamnjelu kožu na nozi.\n- Odmah nazovi **{{emergency}}** ili idi na hitni prijam ako imaš **bol u prsima**, **iznenadan nedostatak zraka** ili **iskašljavaš krv**. To mogu biti znakovi ugruška u plućima."
     },
     "contraception": {
       "title": "Kontracepcija",

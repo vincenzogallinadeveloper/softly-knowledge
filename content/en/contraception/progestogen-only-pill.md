@@ -10,6 +10,7 @@ relations:
   - { type: is-a, target: contraception }
   - { type: related-to, target: cervical-mucus }
   - { type: see-also, target: combined-pill }
+  - { type: see-also, target: continuous-pill }
 
 sources:
   - org: NHS

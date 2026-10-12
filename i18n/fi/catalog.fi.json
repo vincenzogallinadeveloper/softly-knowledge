@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyoosi",
+      "aliases": [
+        "adenomyoosi",
+        "adeno",
+        "adenomyooma",
+        "sisäinen endometrioosi",
+        "kohdun seinämän endometrioosi",
+        "kivuliaat runsaat kuukautiset"
+      ],
+      "glance": "Adenomyoosissa kohdun limakalvo kasvaa kohdun seinämän lihakseen. Se voi aiheuttaa runsaita ja kivuliaita kuukautisia.",
+      "overview": "Adenomyoosi on sairaus, jossa kohdun sisäpintaa normaalisti verhoava kudos kasvaa kohdun seinämän lihakseen. Se todetaan useammin yli 30-vuotiailla naisilla ja synnyttäneillä, mutta se voi koskea ketä tahansa, jolla on kuukautiset. Sen syy ei ole selvä.\n\nYleisimmät merkit ovat kovat kuukautiskivut – joskus niin pahat, ettet pysty tekemään tavallisia asioitasi – ja runsaat kuukautiset. Joillakin on myös lantion kipua (alavatsassa) muina aikoina kuukaudesta, turvonnutta oloa tai painon ja täyteyden tunnetta vatsassa tai kipua yhdynnän aikana. Toisilla ei ole oireita lainkaan.\n\nSe on eri sairaus kuin endometrioosi, jossa kohdun limakalvon kaltaista kudosta kasvaa kohdun ulkopuolella, esimerkiksi munasarjoissa. Osa oireista on samanlaisia, ja se on yksi syy siihen, että voidaan tarvita tutkimuksia sen selvittämiseksi, mistä kipu johtuu.",
+      "deep": "Omalääkäri yleensä kysyy kuukautisistasi ja saattaa tunnustella vatsaasi varovasti; myös gynekologista sisätutkimusta voidaan ehdottaa, ja voit pyytää naispuolista lääkäriä tai jonkun olemaan läsnä. Ultraäänitutkimus tai magneettikuvaus voi auttaa löytämään adenomyoosin tai sulkemaan pois muita syitä.\n\nOireisiin on hoitoja, jotka voivat auttaa. Vaihtoehtoja, joista lääkäri voi keskustella kanssasi, ovat esimerkiksi hormonikierukka (IUS), joka ohentaa kohdun limakalvoa ja voi tehdä kuukautisista niukemmat ja vähemmän kivuliaat; muut hormonaaliset ehkäisymenetelmät, kuten yhdistelmäehkäisypilleri, minipilleri tai ehkäisylaastari; ei-hormonaaliset lääkkeet runsaaseen vuotoon tai kipuun; ja jos nämä eivät auta, leikkaus. Koska hormonaaliset menetelmät voivat tehdä kuukautisista niukemmat tai lopettaa ne, jotkut ottavat pillereitä harvemmilla tauoilla tai kokonaan ilman taukoja – katso ”Ehkäisypillerit ilman taukoa”.\n\nLämpö vatsalla, TENS-laite ja tavalliset kipulääkkeet voivat lievittää pahinta kipua. Kun kirjaat kipua, vuotoa ja muita oireita yksinkertaisesti ajan mittaan, sinä ja lääkärisi näette, miten menee ja tehoaako hoito.",
+      "when_to_see_doctor": "Omalääkärille kannattaa hakeutua, jos:\n\n- kuukautisesi muuttuvat kivuliaammiksi, runsaammiksi tai epäsäännöllisiksi\n- runsaat kuukautiset vaikuttavat elämääsi tai ovat jatkuneet jo jonkin aikaa\n- sinulla on kipua yhdynnän aikana\n- olet tuntenut olosi turvonneeksi noin 3 viikon ajan\n- sinulla on vuotoa kuukautisten välillä tai yhdynnän jälkeen\n\nPyydä kiireellistä vastaanottoaikaa tai ota yhteyttä päivystysvastaanotolle, jos lantion kipu tai kuukautiskipu on kovaa tai tavallista pahempaa eivätkä kipulääkkeet ole auttaneet.",
+      "red_flags": "- Hakeudu **kiireellisesti** hoitoon – ota yhteyttä lääkäriin tai **päivystysvastaanotolle** tai soita **hätänumeroon {{emergency}}** / mene sairaalan päivystykseen, jos tilanne on vakava – jos **vuoto on niin runsasta, että vähintään yksi side kastuu täysin läpi joka tunti muutaman tunnin ajan peräkkäin**, tai sinulla on **pyörtymisen tunnetta, huimausta tai hengenahdistusta**. Nämä voivat olla merkkejä liiallisesta verenmenetyksestä."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkoholi raskauden aikana",
       "aliases": [
@@ -293,6 +309,24 @@
       "deep": "Miltä kunnioitus näyttää käytännössä:\n\n- **Kysy ja varmista.** ”Onko tämä ok?” – ja kiinnitä huomiota siihen, miten hän reagoi, sekä sanoin että kehollaan.\n- **Ota ”ei” vastaan arvokkaasti.** Ei murjottamista, painostusta tai rankaisemista. Hänen vastauksensa on viimeinen sana.\n- **Innostuksella on merkitystä.** Jos hän vaikuttaa epävarmalta, empivältä tai vain myötäilee, lopeta ja kysy.\n- **Hänen kehonsa, hänen päätöksensä** – läheisyydestä, ehkäisystä, raskaudesta, terveydestään, ulkonäöstään ja valinnoistaan. Sinulla on äänivaltaa yhteisessä elämässänne, mutta ei koskaan veto-oikeutta hänen kehoonsa.\n- **Kunnioitus on jokapäiväistä.** Se, miten puhut hänelle ja hänestä ja miten suhtaudut hänen rajoihinsa pienissä asioissa, on perusta, jonka varassa kaikki muu on.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Ehkäisypillerit ilman taukoa",
+      "aliases": [
+        "ehkäisypillerit ilman taukoa",
+        "pitkäsyklinen käyttö",
+        "pillerit putkeen",
+        "jatkuva pillerin käyttö",
+        "kuukautisten siirtäminen",
+        "kuukautisten väliin jättäminen",
+        "ei kuukautisia pillereillä",
+        "taukoviikon pois jättäminen"
+      ],
+      "glance": "Kun ehkäisypillereitä otetaan lyhyemmillä tauoilla, harvemmilla tauoilla tai kokonaan ilman taukoja, vuotoa tulee harvemmin tai ei lainkaan. Siitä kannattaa keskustella lääkärin tai hoitajan kanssa.",
+      "overview": "Yhdistelmäehkäisypilleriä otetaan usein 21 päivää, minkä jälkeen pidetään 7 päivän tauko, tai ”jokapäiväisenä” pakkauksena, jossa on muutama lumepilleri. Tauon tai lumepillereiden aikana tulee yleensä vuoto. Se näyttää kuukautisilta, mutta sen aiheuttaa hormonitason lasku, kun pidät taukoa pillereistä, eikä luonnollinen kiertosi.\n\nJotkut ottavat yhdistelmäehkäisypilleriä sen sijaan ”räätälöidysti”: lyhyemmällä tauolla, harvemmilla tauoilla tai ilman taukoa pakkausten välillä. Silloin vuotoa voi tulla harvemmin tai ei lainkaan, ja se voi lievittää taukoon liittyviä oireita, kuten päänsärkyä ja vuotoa. Se, sopiiko tämä sinulle, riippuu sinusta ja pillerityypistäsi, joten asiasta kannattaa jutella lääkärin, hoitajan tai farmaseutin kanssa.\n\nMinipilleri on erilainen: sitä otetaan joka päivä ilman taukoa. Minipilleri, hormonikierukka (IUS) ja ehkäisykapseli voivat kaikki muuttaa kuukautisiasi: ne voivat muuttua niukemmiksi tai epäsäännöllisiksi tai loppua kokonaan.",
+      "deep": "Kun kuukautiset loppuvat hormonaalisen menetelmän vuoksi, se on hormonien odotettu vaikutus eikä merkki siitä, että jokin olisi vialla. Vähäinen vuoto tai tiputteluvuoto on yleistä etenkin uuden menetelmän tai uuden käyttötavan ensimmäisinä kuukausina, ja se tasaantuu usein ajan myötä. Jos vuoto jatkuu, lääkäri voi kertoa vaihtoehdoista – hän voi ehdottaa esimerkiksi lyhyttä taukoa tai toista pilleriä tai menetelmää.\n\nJoissakin sairauksissa, joissa kuukautisiin liittyy paljon kipua tai runsasta vuotoa – kuten endometrioosissa, adenomyoosissa tai hyvin kivuliaissa tai runsaissa kuukautisissa – lääkärit voivat ehdottaa hormonaalisia vaihtoehtoja, jotka tekevät kuukautisista niukemmat tai lopettavat ne, ja pillereiden ottaminen harvemmilla tauoilla tai ilman taukoja voi olla yksi niistä. Hormonit voivat lievittää oireita, mutta ne eivät paranna näitä sairauksia.\n\nKun säännöllistä vuotoa ei ole, ei ole kiertoakaan seurattavana, mutta kivun, vuodon ja muiden oireiden kirjaaminen näyttää silti, miten voit, ja siitä on hyötyä vastaanotolla. Se, kuinka hyvin pilleri suojaa raskaudelta, riippuu edelleen siitä, että otat sitä ohjeiden mukaan; pakkausseloste tai apteekin farmaseutti kertoo, mitä tehdä, jos pilleri unohtuu.",
+      "when_to_see_doctor": "Lääkärin, hoitajan tai farmaseutin kanssa kannattaa jutella, jos:\n\n- haluaisit ottaa pillereitä harvemmilla tauoilla tai ilman taukoja tai muuttaa niiden ottotapaa\n- vuoto tai tiputteluvuoto jatkuu, runsastuu tai vaivaa sinua (hormonikierukan kanssa yli noin 6 kuukautta jatkunut epäsäännöllinen vuoto kannattaa tarkistuttaa)\n- sinulla on vuotoa yhdynnän jälkeen tai uutta kipua alavatsassa\n- pillereitä on unohtunut ja olet ollut yhdynnässä, tai epäilet olevasi raskaana\n- kipu tai muut oireet, joihin otat hormoneja, palaavat tai pahenevat",
+      "red_flags": "- Yhdistelmäehkäisypilleri suurentaa hieman **veritulpan** riskiä. Hakeudu **kiireellisesti** hoitoon, jos sinulla on **kipua ja turvotusta toisessa jalassa** tai jalan iho on lämmin, punoittava tai tummunut.\n- Soita **hätänumeroon {{emergency}}** tai mene heti sairaalan päivystykseen, jos sinulla on **rintakipua**, **äkillistä hengenahdistusta** tai **yskit verta** – ne voivat olla merkkejä veritulpasta keuhkoissa."
     },
     "contraception": {
       "title": "Ehkäisy",

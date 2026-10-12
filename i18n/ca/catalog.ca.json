@@ -6,6 +6,21 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiosi",
+      "aliases": [
+        "adenomiosi",
+        "adeno",
+        "adenomioma",
+        "endometriosi interna",
+        "endometriosi de l'úter"
+      ],
+      "glance": "L'adenomiosi és quan el revestiment de l'úter creix dins del múscul de la paret de l'úter. Pot causar regles abundants i doloroses.",
+      "overview": "L'adenomiosi és una afecció en què el teixit que normalment recobreix l'interior de l'úter creix dins del múscul de\nla paret uterina. Es diagnostica més sovint en dones de més de 30 anys i en dones que han parit, però pot afectar\nqualsevol persona que tingui la regla. No se'n coneix bé la causa.\n\nEls signes més habituals són un dolor de regla fort —de vegades tant que t'impedeix fer les coses de cada dia— i\nregles abundants. Algunes persones també tenen dolor pèlvic (a la part baixa de la panxa) en altres moments del mes,\nsensació d'inflor o de panxa pesant i plena, o dolor durant les relacions sexuals. D'altres no tenen cap símptoma.\n\nÉs una afecció diferent de l'endometriosi, en què un teixit semblant al revestiment de l'úter creix fora de l'úter,\nper exemple als ovaris. Alguns dels seus símptomes coincideixen, i aquest és un dels motius pels quals poden caldre\nproves per saber què causa el dolor.",
+      "deep": "Normalment el metge de capçalera et preguntarà per les regles i potser et palparà la panxa amb suavitat; és possible\nque et proposi una exploració interna, i pots demanar que t'atengui una metgessa o que algú et faci companyia. Una\necografia o una ressonància magnètica poden ajudar a detectar l'adenomiosi o a descartar altres causes.\n\nHi ha tractaments que poden ajudar amb els símptomes. Entre les opcions que un professional sanitari pot comentar\namb tu hi ha el DIU hormonal (SIU), que aprima el revestiment de l'úter i pot fer que les regles siguin més lleugeres\ni menys doloroses; altres anticonceptius hormonals, com la píndola combinada, la píndola només de progestagen o el\npegat; medicaments no hormonals per al sagnat abundant o el dolor; i, si res d'això no ajuda, la cirurgia. Com que\nels mètodes hormonals poden fer les regles més lleugeres o aturar-les, algunes persones prenen la píndola amb menys\ndescansos o sense cap: consulta «Prendre la píndola sense descansos».\n\nLa calor a la panxa, un aparell de TENS i els analgèsics habituals poden alleujar el dolor. Portar un registre\nsenzill del dolor, el sagnat i altres símptomes al llarg del temps t'ajuda a tu i al metge a veure com van les coses\ni si un tractament funciona.",
+      "when_to_see_doctor": "Val la pena anar al metge de capçalera si:\n\n- les regles se't tornen més doloroses, més abundants o irregulars\n- les regles abundants t'afecten la vida, o fa temps que les tens\n- tens dolor durant les relacions sexuals\n- fa unes 3 setmanes que et notes inflada\n- sagnes entre regles o després de les relacions sexuals\n\nDemana una visita urgent, o contacta amb un metge de guàrdia, si el dolor pèlvic o de regla és fort o pitjor que de\ncostum i els analgèsics no t'han ajudat.",
+      "red_flags": "- Demana ajuda mèdica **urgent** (contacta amb un metge o amb un **servei de guàrdia**, o truca al **{{emergency}}** / ves a urgències si és greu) si **sagnes tant que xopes una compresa o més cada hora durant unes quantes hores seguides**, o et notes **a punt de desmaiar-te, marejada o amb falta d'aire**. Poden ser signes que estàs perdent massa sang."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alcohol i embaràs",
       "aliases": [
@@ -290,6 +305,24 @@
       "deep": "Com es veu el respecte a la pràctica:\n\n- **Pregunta i comprova.** «Et va bé això?», i fixa't en com respon, amb paraules i amb el cos.\n- **Accepta un «no» amb elegància.** Res de morros, pressions ni càstigs. La seva resposta és el punt final.\n- **L'entusiasme importa.** Si sembla insegura, dubta o simplement s'hi deixa portar, para i pregunta.\n- **El seu cos, la seva decisió**: sobre la intimitat, l'anticoncepció, l'embaràs, la seva salut, el seu aspecte i les seves decisions. Tu tens veu en la vida que compartiu, però mai dret de veto sobre el seu cos.\n- **El respecte és de cada dia.** Com li parles, com parles d'ella i com respectes els seus límits en les coses petites és la base sobre la qual es construeix tota la resta.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Prendre la píndola sense descansos",
+      "aliases": [
+        "píndola contínua",
+        "píndola sense descans",
+        "prendre la píndola seguida",
+        "encadenar capses de píndoles",
+        "saltar-se la regla",
+        "sense regla amb la píndola",
+        "pauta allargada",
+        "suprimir la regla"
+      ],
+      "glance": "Prendre la píndola amb descansos més curts, menys descansos o cap fa que sagnis menys sovint, o gens. És una cosa per parlar amb un professional sanitari.",
+      "overview": "La píndola combinada sovint es pren durant 21 dies seguits d'un descans de 7 dies, o en un envàs «de presa diària»\nque inclou unes quantes pastilles sense hormones (placebo). Durant el descans, o mentre prens les pastilles placebo,\nnormalment tens un sagnat. S'assembla a una regla, però el provoca la baixada d'hormones quan fas la pausa, no el teu\ncicle natural.\n\nAlgunes persones prenen la píndola combinada d'una manera «personalitzada»: amb un descans més curt, menys descansos\no sense descans entre un envàs i l'altre. Això pot voler dir sagnar menys sovint, o gens, i pot alleujar símptomes\nque arriben amb el descans, com el mal de cap i el sagnat. Si et va bé depèn de tu i del tipus de píndola, així que\nval la pena parlar-ne amb un metge, una infermera o un farmacèutic.\n\nLa píndola només de progestagen és diferent: es pren cada dia, sense descans. Aquesta píndola, el DIU hormonal (SIU)\ni l'implant poden canviar-te les regles: poden tornar-se més lleugeres o irregulars, o aturar-se del tot.",
+      "deep": "Quan la regla s'atura per un mètode hormonal, és un efecte esperat de les hormones i no un senyal que alguna cosa\nvagi malament. És freqüent tenir un sagnat lleu o tacament, sobretot els primers mesos d'un mètode nou o d'una nova\nmanera de prendre'l, i sovint millora amb el temps. Si el sagnat continua, un professional sanitari et pot explicar\nles opcions: potser et proposarà un descans curt, o una altra píndola o un altre mètode.\n\nEn algunes afeccions en què la regla porta molt de dolor o un sagnat abundant —com l'endometriosi, l'adenomiosi o\nles regles molt doloroses o abundants—, els professionals sanitaris poden proposar opcions hormonals que facin les\nregles més lleugeres o les aturin, i prendre la píndola amb menys descansos o sense cap pot ser-ne una. Les hormones\npoden alleujar els símptomes, però no curen aquestes afeccions.\n\nSense un sagnat regular no hi ha cap cicle per seguir, però anotar el dolor, el sagnat i altres símptomes continua\nmostrant com estàs, i és útil portar-ho a les visites. Fins a quin punt la píndola et protegeix de l'embaràs continua\ndepenent de prendre-la tal com t'han indicat; el prospecte de les teves píndoles, o un farmacèutic, t'explica què has\nde fer si te n'oblides una.",
+      "when_to_see_doctor": "Val la pena parlar amb un metge, una infermera o un farmacèutic si:\n\n- vols prendre la píndola amb menys descansos o sense cap, o canviar com la prens\n- el sagnat o el tacament continua, augmenta o et molesta (amb el DIU hormonal, val la pena que un professional\n  revisi un sagnat irregular que duri més de 6 mesos, aproximadament)\n- sagnes després de les relacions sexuals, o tens un dolor nou a la part baixa de la panxa\n- t'has descuidat de prendre alguna píndola i has tingut relacions sexuals, o creus que podries estar embarassada\n- el dolor o els altres símptomes pels quals prens hormones tornen o empitjoren",
+      "red_flags": "- La píndola combinada augmenta lleugerament el risc d'un **coàgul de sang (trombosi)**. Demana ajuda mèdica\n  **urgent** si tens **dolor i inflor en una sola cama**, o la pell de la cama calenta, vermella o més fosca.\n- Truca al **{{emergency}}** o ves a urgències immediatament si tens **dolor al pit**, **falta d'aire sobtada** o\n  si **tosses sang**: poden ser signes d'un coàgul als pulmons."
     },
     "contraception": {
       "title": "Anticoncepció",

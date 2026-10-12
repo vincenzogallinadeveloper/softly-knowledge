@@ -6,6 +6,23 @@
     "review": "Machine-translated (DeepL) from en — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyozis",
+      "aliases": [
+        "adenomyozis",
+        "adenomiyozis",
+        "adeno",
+        "adenomyom",
+        "iç endometriozis",
+        "rahim kasında endometriozis",
+        "adenomyosis"
+      ],
+      "glance": "Adenomyozis, rahim iç zarının rahim duvarındaki kasın içine doğru büyümesidir. Ağır ve ağrılı adet kanamalarına neden olabilir.",
+      "overview": "Adenomyozis, normalde rahmin (uterus) içini kaplayan dokunun rahim duvarındaki kasın içine doğru büyüdüğü bir rahatsızlıktır. Daha çok 30 yaşın üzerindeki kadınlarda ve doğum yapmış kişilerde teşhis edilir, ancak adet gören herkesi etkileyebilir. Nedeni net değildir.\n\nEn yaygın belirtiler şiddetli adet ağrısı (bazen olağan işlerinizi yapmanızı engelleyecek kadar kötü) ve ağır adet kanamalarıdır. Bazı kişilerde ayın diğer zamanlarında da pelvik ağrı (karnın alt kısmında), karında şişkinlik ya da ağırlık ve dolgunluk hissi veya cinsel ilişki sırasında ağrı olabilir. Bazılarında ise hiçbir belirti yoktur.\n\nRahim iç zarına benzer bir dokunun rahim dışında, örneğin yumurtalıklarda büyüdüğü endometriozisten farklı bir durumdur. İkisinin bazı belirtileri örtüşür; ağrıya neyin neden olduğunu anlamak için tetkiklerin gerekebilmesinin bir nedeni de budur.",
+      "deep": "Aile hekimi genellikle adet dönemlerinizi sorar ve karnınızı nazikçe elle muayene edebilir; iç muayene önerilebilir ve muayeneyi kadın bir doktorun yapmasını ya da yanınızda birinin bulunmasını isteyebilirsiniz. Ultrason veya MR, adenomyozisi saptamaya ya da başka nedenleri dışlamaya yardımcı olabilir.\n\nBelirtilere yardımcı olabilecek tedaviler vardır. Bir hekimin sizinle konuşabileceği seçenekler arasında rahim iç zarını incelten ve adet kanamasını daha hafif ve daha az ağrılı hale getirebilen hormonal spiral (IUS); kombine doğum kontrol hapı, sadece progestojen içeren hap veya bant gibi diğer hormonal doğum kontrol yöntemleri; ağır kanama ya da ağrı için hormon içermeyen ilaçlar ve bunlar işe yaramazsa cerrahi bulunur. Hormonal yöntemler adet kanamasını hafifletebildiği veya durdurabildiği için bazı kişiler hapı daha az ara vererek ya da hiç ara vermeden kullanır; bkz. “Hapı ara vermeden kullanmak”.\n\nKarna sıcak uygulamak, bir TENS cihazı ve bilinen ağrı kesiciler ağrıyı hafifletebilir. Ağrınızın, kanamanızın ve diğer belirtilerinizin zaman içinde basit bir kaydını tutmak, hem sizin hem de doktorunuzun durumun nasıl gittiğini ve bir tedavinin işe yarayıp yaramadığını görmesine yardımcı olur.",
+      "when_to_see_doctor": "Aşağıdaki durumlarda bir aile hekimine başvurmanızda fayda vardır:\n\n- Adet kanamalarınız daha ağrılı, daha yoğun veya düzensiz hale geldiyse\n- Ağır adet kanamaları hayatınızı etkiliyorsa ya da bir süredir devam ediyorsa\n- Cinsel ilişki sırasında ağrınız oluyorsa\n- Yaklaşık 3 haftadır kendinizi şişkin hissediyorsanız\n- Adetler arasında veya cinsel ilişkiden sonra kanamanız oluyorsa\n\nPelvik ağrınız veya adet ağrınız şiddetliyse ya da her zamankinden kötüyse ve ağrı kesiciler işe yaramadıysa, acil bir randevu isteyin veya nöbetçi doktora başvurun.",
+      "red_flags": "- **Acil** tıbbi yardım alın — bir hekime veya **nöbetçi doktora** başvurun ya da durum ciddiyse **{{emergency}}** numarasını arayın / acil servise gidin — eğer\n  **kanamanız o kadar şiddetliyse ki birkaç saat boyunca her saatte bir ped veya daha fazlasını ıslatıyorsanız** ya da\n  **bayılma hissi, baş dönmesi veya nefes darlığı** hissediyorsanız. Bunlar aşırı kan kaybının belirtileri olabilir."
+    },
     "alcohol-in-pregnancy": {
       "title": "Hamilelikte alkol",
       "aliases": [
@@ -268,6 +285,24 @@
       "deep": "Pratikte saygı nasıl görünür:\n\n- **Sorun ve yoklayın.** \"Böyle iyi mi?\" diye sormak ve nasıl tepki verdiğine — sözlerine ve bedenine — dikkat etmek.\n- **\"Hayır\"ı nezaketle karşılayın.** Surat asmak, baskı yapmak ya da cezalandırmak yok. Onun cevabı son sözdür.\n- **İsteklilik önemlidir.** Emin değil, tereddütlü ya da sadece akışa uyuyor gibi görünüyorsa, durun ve sorun.\n- **Onun bedeni, onun kararı** — yakınlık, doğum kontrolü, hamilelik, sağlığı, görünümü ve seçimleri\n  konusunda. Ortak yaşamınızda söz hakkınız vardır, ama onun bedeni üzerinde asla veto hakkınız yoktur.\n- **Saygı her gün gösterilir.** Onunla ve onun hakkında nasıl konuştuğunuz, küçük şeylerde sınırlarına nasıl davrandığınız,\n  diğer her şeyin üzerine kurulduğu temeldir.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Hapı ara vermeden kullanmak",
+      "aliases": [
+        "sürekli hap kullanımı",
+        "ara vermeden hap",
+        "arasız doğum kontrol hapı",
+        "hapla adet erteleme",
+        "hapla adet görmemek",
+        "adet kanamasını baskılama",
+        "uzatılmış rejim",
+        "kutular arasında ara vermemek"
+      ],
+      "glance": "Hapa daha kısa, daha seyrek ya da hiç ara vermeden devam etmek, kanamanın daha seyrek olması ya da hiç olmaması anlamına gelir. Bu, bir hekimle görüşülmesi gereken bir konudur.",
+      "overview": "Kombine doğum kontrol hapı genellikle 21 gün kullanılıp ardından 7 gün ara verilerek ya da birkaç etkisiz (plasebo) hap içeren ve “her gün” alınan bir kutu şeklinde kullanılır. Ara döneminde veya plasebo hapları alırken genellikle bir kanama olur. Bu kanama adete benzer, ancak doğal döngünüzden değil, hapa ara verdiğinizde hormonların düşmesinden kaynaklanır.\n\nBazı kişiler ise kombine hapı “kişiye göre uyarlanmış” bir şekilde kullanır: daha kısa bir arayla, daha az ara vererek ya da kutular arasında hiç ara vermeden. Bu, kanamanın daha seyrek olması ya da hiç olmaması anlamına gelebilir ve baş ağrısı ile kanama gibi ara dönemine eşlik eden belirtileri hafifletebilir. Bunun size uygun olup olmadığı size ve kullandığınız hap türüne bağlıdır; bu yüzden bir doktor, hemşire veya eczacıyla konuşmanızda fayda vardır.\n\nSadece progestojen içeren hap farklıdır: her gün, ara vermeden alınır. Bu hap, hormonal spiral (IUS) ve implant adet kanamalarınızı değiştirebilir: kanamalar hafifleyebilir, düzensizleşebilir ya da tamamen durabilir.",
+      "deep": "Adet kanaması hormonal bir yöntem nedeniyle durduğunda, bu bir sorun olduğunun işareti değil, hormonların beklenen bir etkisidir. Hafif kanama veya lekelenme yaygındır; özellikle yeni bir yöntemin ya da yeni bir kullanım şeklinin ilk aylarında görülür ve çoğu zaman zamanla azalır. Kanama devam ederse bir hekim size seçenekleri açıklayabilir; kısa bir ara, başka bir hap ya da başka bir yöntem önerebilir.\n\nAdet dönemlerinin çok ağrı veya ağır kanama getirdiği bazı durumlarda (örneğin endometriozis, adenomyozis ya da çok ağrılı veya çok yoğun adet kanamalarında) hekimler adet kanamasını hafifleten veya durduran hormonal seçenekler önerebilir; hapı daha az ara vererek ya da hiç ara vermeden kullanmak da bunlardan biri olabilir. Hormonlar belirtileri hafifletebilir, ancak bu durumları tamamen tedavi etmez.\n\nDüzenli bir kanama olmadığında takip edilecek bir döngü de olmaz, ancak ağrıyı, kanamayı ve diğer belirtileri not etmek yine de nasıl olduğunuzu gösterir ve randevulara götürmek için faydalıdır. Hapın gebelikten koruma gücü yine talimatlara uygun kullanılmasına bağlıdır; bir hapı unutursanız ne yapmanız gerektiğini hap kutusundaki prospektüs ya da bir eczacı açıklar.",
+      "when_to_see_doctor": "Aşağıdaki durumlarda bir doktor, hemşire veya eczacıyla konuşmanızda fayda vardır:\n\n- Hapınızı daha az ara vererek ya da hiç ara vermeden kullanmak veya kullanım şeklinizi değiştirmek istiyorsanız\n- Kanama veya lekelenme devam ediyorsa, artıyorsa ya da sizi rahatsız ediyorsa (hormonal spiralde, yaklaşık 6 aydan uzun süren düzensiz kanamayı kontrol ettirmekte fayda vardır)\n- Cinsel ilişkiden sonra kanamanız oluyorsa veya karnınızın alt kısmında yeni bir ağrı başladıysa\n- Hap unuttuysanız ve cinsel ilişkiye girdiyseniz ya da hamile olabileceğinizi düşünüyorsanız\n- Hormon kullanmanıza neden olan ağrı veya diğer belirtiler geri geliyor ya da kötüleşiyorsa",
+      "red_flags": "- Kombine doğum kontrol hapı **kan pıhtısı** riskini biraz artırır. **Tek bacağınızda ağrı ve şişlik** varsa ya da bacağınızdaki deri sıcak, kırmızı veya koyulaşmışsa **acil** tıbbi yardım alın.\n- **Göğüs ağrısı** veya **ani nefes darlığı** yaşarsanız ya da **öksürükle kan gelirse** hemen **{{emergency}}** numarasını arayın veya acil servise gidin; bunlar akciğerlerde pıhtı belirtisi olabilir."
     },
     "contraception": {
       "title": "Doğum kontrolü",

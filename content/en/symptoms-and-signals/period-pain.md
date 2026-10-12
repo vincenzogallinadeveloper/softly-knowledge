@@ -12,6 +12,7 @@ relations:
   - { type: related-to, target: menstrual-cycle }
   - { type: see-also, target: luteal-phase }
   - { type: symptom-of, target: endometriosis }
+  - { type: see-also, target: adenomyosis }
 
 sources:
   - org: NHS

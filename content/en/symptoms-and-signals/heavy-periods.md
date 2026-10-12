@@ -12,6 +12,7 @@ relations:
   - { type: symptom-of, target: endometriosis }
   - { type: see-also, target: period-pain }
   - { type: see-also, target: spotting }
+  - { type: see-also, target: adenomyosis }
 
 sources:
   - org: NHS

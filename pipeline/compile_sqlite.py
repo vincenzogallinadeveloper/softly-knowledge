@@ -65,6 +65,7 @@ CREATE TABLE atoms (
 );
 
 CREATE TABLE atom_text (
+  rid                INTEGER PRIMARY KEY,  -- stable row id: the FTS index points at it (VACUUM keeps it)
   atom_id            TEXT NOT NULL REFERENCES atoms(id),
   lang               TEXT NOT NULL REFERENCES languages(code),
   title              TEXT NOT NULL,
@@ -74,7 +75,7 @@ CREATE TABLE atom_text (
   deep               TEXT,
   when_to_see_doctor TEXT,
   red_flags          TEXT,
-  PRIMARY KEY (atom_id, lang)
+  UNIQUE (atom_id, lang)
 );
 
 CREATE TABLE atom_phases (
@@ -140,13 +141,25 @@ CREATE TABLE helplines (
   dv_chat         INTEGER             -- 0/1
 );
 
+-- Search reads the text straight from atom_text through this view (an external-content FTS
+-- table), instead of keeping a second full copy of every article in every language.
+CREATE VIEW atom_fts_src AS
+SELECT rid, title,
+       replace(replace(replace(coalesce(aliases, ''), '["', ''), '"]', ''), '", "', ' ') AS aliases,
+       trim(coalesce(glance, '') || ' ' || coalesce(overview, '') || ' ' || coalesce(deep, '') || ' ' ||
+            coalesce(when_to_see_doctor, '') || ' ' || coalesce(red_flags, '')) AS body,
+       atom_id, lang
+FROM atom_text;
+
 CREATE VIRTUAL TABLE atom_fts USING fts5 (
   title,
   aliases,
   body,
   atom_id UNINDEXED,
   lang    UNINDEXED,
-  tokenize = "unicode61 remove_diacritics 2"
+  tokenize = "unicode61 remove_diacritics 2",
+  content = 'atom_fts_src',
+  content_rowid = 'rid'
 );
 """
 
@@ -298,17 +311,6 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG,
                 (source_id, rtype, target_id),
             )
 
-        # Full-text index.
-        for atom in published:
-            r = atom.renditions
-            body = "\n\n".join(r[f] for f in _BODY_FIELDS if r.get(f))
-            aliases = " ".join(atom.frontmatter.get("aliases") or [])
-            conn.execute(
-                "INSERT INTO atom_fts(title, aliases, body, atom_id, lang) "
-                "VALUES (?, ?, ?, ?, ?)",
-                (atom.frontmatter["title"], aliases, body, atom.id, lang),
-            )
-
         # Learning paths — only published paths, whose steps are all published
         # atoms (validated; guarded again so a stray draft step can't leak).
         published_paths = sorted(
@@ -375,15 +377,6 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG,
                         vals["when_to_see_doctor"], vals["red_flags"],
                     ),
                 )
-                body = "\n\n".join(
-                    vals[f] for f in _BODY_FIELDS if vals.get(f)
-                )
-                conn.execute(
-                    "INSERT INTO atom_fts(title, aliases, body, atom_id, lang) "
-                    "VALUES (?, ?, ?, ?, ?)",
-                    (vals["title"], " ".join(vals["aliases"] or []), body,
-                     atom.id, tgt_lang),
-                )
 
             for cat in corpus.categories:
                 tr = cat_cats.get(cat.id) or {}
@@ -446,6 +439,8 @@ def compile_db(corpus: Corpus, out_path: Path, lang: str = SOURCE_LANG,
         for key, value in meta.items():
             conn.execute("INSERT INTO meta(key, value) VALUES (?, ?)", (key, value))
 
+        # Index every atom_text row (all languages) in one pass, then compact the index.
+        conn.execute("INSERT INTO atom_fts(atom_fts) VALUES ('rebuild')")
         conn.execute("INSERT INTO atom_fts(atom_fts) VALUES ('optimize')")
         conn.commit()
         conn.execute("VACUUM")

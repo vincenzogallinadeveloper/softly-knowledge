@@ -6,6 +6,23 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Lạc nội mạc trong cơ tử cung",
+      "aliases": [
+        "lạc nội mạc trong cơ tử cung",
+        "lạc nội mạc tử cung trong cơ tử cung",
+        "bệnh tuyến cơ tử cung",
+        "adenomyosis",
+        "u tuyến cơ tử cung",
+        "adenomyoma",
+        "đau bụng kinh dữ dội và ra nhiều"
+      ],
+      "glance": "Lạc nội mạc trong cơ tử cung là khi lớp niêm mạc tử cung phát triển vào trong lớp cơ của thành tử cung. Bệnh có thể khiến kinh nguyệt ra nhiều và đau.",
+      "overview": "Lạc nội mạc trong cơ tử cung (adenomyosis) là bệnh lý trong đó mô vốn lót bên trong tử cung phát triển vào trong lớp cơ của thành tử cung. Bệnh thường được chẩn đoán hơn ở phụ nữ trên 30 tuổi và ở những người đã từng sinh con, nhưng có thể gặp ở bất kỳ ai có kinh nguyệt. Nguyên nhân hiện chưa rõ.\n\nDấu hiệu thường gặp nhất là đau bụng kinh dữ dội — đôi khi đến mức bạn không thể làm những việc thường ngày — và kinh nguyệt ra nhiều. Một số người còn bị đau vùng chậu (ở bụng dưới) vào những thời điểm khác trong tháng, cảm giác bụng chướng hoặc nặng, đầy tức, hoặc đau khi quan hệ tình dục. Có người lại không có triệu chứng nào.\n\nĐây là một bệnh khác với lạc nội mạc tử cung, trong đó mô giống niêm mạc tử cung phát triển bên ngoài tử cung, ví dụ trên buồng trứng. Hai bệnh có một số triệu chứng giống nhau, và đó là một lý do có thể cần làm xét nghiệm để biết cơn đau do đâu.",
+      "deep": "Bác sĩ gia đình thường sẽ hỏi về kỳ kinh của bạn và có thể nhẹ nhàng sờ nắn bụng; bác sĩ cũng có thể đề nghị khám trong (khám phụ khoa), và bạn có thể yêu cầu bác sĩ nữ hoặc có người ở cùng trong lúc khám. Siêu âm hoặc chụp MRI có thể giúp phát hiện lạc nội mạc trong cơ tử cung hoặc loại trừ những nguyên nhân khác.\n\nCó những phương pháp điều trị giúp giảm triệu chứng. Các lựa chọn bác sĩ có thể trao đổi với bạn gồm vòng tránh thai nội tiết (IUS), giúp làm mỏng niêm mạc tử cung và có thể khiến kinh nguyệt ra ít hơn, bớt đau hơn; các biện pháp tránh thai nội tiết khác, như thuốc tránh thai kết hợp, thuốc tránh thai chỉ chứa progestogen (viên thuốc mini) hoặc miếng dán tránh thai; thuốc không chứa nội tiết tố cho tình trạng ra máu nhiều hoặc đau; và nếu những cách này không hiệu quả thì phẫu thuật. Vì các biện pháp nội tiết có thể khiến kinh nguyệt ra ít hơn hoặc ngừng hẳn, một số người uống thuốc tránh thai với ít khoảng nghỉ hơn hoặc không nghỉ — xem “Uống thuốc tránh thai không nghỉ”.\n\nChườm ấm bụng, máy TENS và thuốc giảm đau thông thường có thể giúp dịu cơn đau phần nào. Ghi lại đơn giản tình trạng đau, ra máu và các triệu chứng khác theo thời gian sẽ giúp bạn và bác sĩ thấy tình hình diễn biến ra sao và phương pháp điều trị có hiệu quả hay không.",
+      "when_to_see_doctor": "Bạn nên đi khám bác sĩ gia đình nếu:\n\n- kỳ kinh trở nên đau hơn, ra nhiều hơn hoặc không đều\n- kinh nguyệt ra nhiều đang ảnh hưởng đến cuộc sống của bạn, hoặc đã kéo dài một thời gian\n- bạn bị đau khi quan hệ tình dục\n- bạn cảm thấy chướng bụng đã khoảng 3 tuần\n- bạn ra máu giữa các kỳ kinh hoặc sau khi quan hệ tình dục\n\nHãy xin một buổi khám gấp, hoặc liên hệ dịch vụ y tế ngoài giờ, nếu cơn đau vùng chậu hoặc đau bụng kinh dữ dội hay nặng hơn bình thường và thuốc giảm đau không đỡ.",
+      "red_flags": "- Hãy tìm trợ giúp y tế **khẩn cấp** — liên hệ bác sĩ hoặc **dịch vụ y tế ngoài giờ**, hoặc gọi **{{emergency}}** / đến khoa cấp cứu nếu tình trạng nghiêm trọng — nếu bạn **ra máu nhiều đến mức thấm đẫm một miếng băng vệ sinh trở lên mỗi giờ, liên tục trong vài giờ**, hoặc bạn cảm thấy **choáng như sắp ngất, chóng mặt hoặc hụt hơi**. Đây có thể là dấu hiệu mất quá nhiều máu."
+    },
     "alcohol-in-pregnancy": {
       "title": "Rượu bia khi mang thai",
       "aliases": [
@@ -289,6 +306,24 @@
       "deep": "Sự tôn trọng trong thực tế trông như thế nào:\n\n- **Hãy hỏi, và hỏi lại trong lúc đó.** “Như thế này có ổn không?” và chú ý đến cách cô ấy phản hồi — cả lời nói lẫn cơ thể.\n- **Đón nhận lời “không” một cách tử tế.** Không phụng phịu, không gây áp lực, không trừng phạt. Câu trả lời của cô ấy là dấu chấm hết.\n- **Sự hào hứng rất quan trọng.** Nếu cô ấy có vẻ không chắc chắn, ngập ngừng hoặc chỉ đang chiều theo, hãy dừng lại và hỏi.\n- **Cơ thể của cô ấy, quyết định của cô ấy** — về sự thân mật, tránh thai, mang thai, sức khỏe, ngoại hình và những lựa chọn của cô ấy. Bạn có tiếng nói trong cuộc sống chung, nhưng không bao giờ có quyền phủ quyết đối với cơ thể cô ấy.\n- **Tôn trọng là điều của mỗi ngày.** Cách bạn nói chuyện với cô ấy, nói về cô ấy, và tôn trọng ranh giới của cô ấy trong những điều nhỏ nhặt là nền tảng cho mọi thứ khác.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Uống thuốc tránh thai không nghỉ",
+      "aliases": [
+        "uống thuốc tránh thai liên tục",
+        "uống thuốc tránh thai không nghỉ",
+        "bỏ tuần nghỉ thuốc",
+        "uống thuốc tránh thai để không có kinh",
+        "dùng thuốc tránh thai để lùi kinh",
+        "uống nối vỉ",
+        "chế độ uống kéo dài",
+        "continuous pill"
+      ],
+      "glance": "Uống thuốc tránh thai với khoảng nghỉ ngắn hơn, ít khoảng nghỉ hơn hoặc không nghỉ có nghĩa là ra máu thưa hơn, hoặc hoàn toàn không ra máu. Đây là điều nên trao đổi với bác sĩ hoặc điều dưỡng.",
+      "overview": "Thuốc tránh thai kết hợp thường được uống 21 ngày rồi nghỉ 7 ngày, hoặc dùng dạng vỉ “uống hằng ngày” có kèm vài viên giả dược (không chứa nội tiết tố). Trong thời gian nghỉ, hoặc khi uống các viên giả dược, bạn thường sẽ ra máu. Lần ra máu này trông giống kỳ kinh, nhưng là do nội tiết tố giảm xuống khi bạn tạm ngừng thuốc, chứ không phải do chu kỳ tự nhiên của bạn.\n\nThay vào đó, một số người uống thuốc tránh thai kết hợp theo cách “điều chỉnh riêng”: với khoảng nghỉ ngắn hơn, ít khoảng nghỉ hơn, hoặc uống nối vỉ không nghỉ. Cách này có thể giúp ra máu thưa hơn, hoặc không ra máu chút nào, và có thể làm dịu những triệu chứng đi kèm khoảng nghỉ, như đau đầu và ra máu. Cách này có hợp với bạn hay không tùy thuộc vào bạn và loại thuốc bạn dùng, vì vậy nên trao đổi với bác sĩ, điều dưỡng hoặc dược sĩ.\n\nThuốc tránh thai chỉ chứa progestogen (viên thuốc mini) thì khác: thuốc được uống mỗi ngày, không có khoảng nghỉ. Loại thuốc này, vòng tránh thai nội tiết (IUS) và que cấy tránh thai đều có thể làm thay đổi kinh nguyệt của bạn: kinh có thể ra ít hơn hoặc không đều, hoặc ngừng hẳn.",
+      "deep": "Khi kinh nguyệt ngừng do một biện pháp nội tiết, đó là tác dụng được dự đoán trước của nội tiết tố chứ không phải dấu hiệu có gì bất ổn. Ra máu nhẹ hoặc ra máu lấm tấm là thường gặp, nhất là trong vài tháng đầu dùng biện pháp mới hoặc cách uống mới, và thường giảm dần theo thời gian. Nếu tình trạng ra máu vẫn tiếp diễn, bác sĩ hoặc điều dưỡng có thể giải thích các lựa chọn — họ có thể đề nghị nghỉ thuốc một thời gian ngắn, hoặc đổi sang loại thuốc hay biện pháp khác.\n\nVới một số bệnh lý mà kỳ kinh gây rất đau hoặc ra máu nhiều — như lạc nội mạc tử cung, lạc nội mạc trong cơ tử cung, hoặc kinh nguyệt rất đau hay ra rất nhiều — bác sĩ có thể đề xuất các lựa chọn nội tiết giúp kinh ra ít hơn hoặc ngừng hẳn, và uống thuốc tránh thai với ít khoảng nghỉ hơn hoặc không nghỉ có thể là một trong số đó. Nội tiết tố có thể làm dịu triệu chứng, nhưng không chữa khỏi những bệnh này.\n\nKhi không có lần ra máu đều đặn thì không có chu kỳ để theo dõi, nhưng việc ghi lại tình trạng đau, ra máu và các triệu chứng khác vẫn cho thấy bạn đang thế nào, và rất hữu ích để mang theo khi đi khám. Hiệu quả tránh thai của thuốc vẫn phụ thuộc vào việc uống đúng hướng dẫn; tờ hướng dẫn đi kèm thuốc, hoặc dược sĩ, sẽ giải thích cần làm gì nếu bạn quên một viên.",
+      "when_to_see_doctor": "Bạn nên trao đổi với bác sĩ, điều dưỡng hoặc dược sĩ nếu:\n\n- bạn muốn uống thuốc với ít khoảng nghỉ hơn hoặc không nghỉ, hoặc muốn thay đổi cách uống\n- tình trạng ra máu hoặc ra máu lấm tấm kéo dài, nhiều hơn, hoặc làm bạn khó chịu (với vòng tránh thai nội tiết, ra máu không đều kéo dài hơn khoảng 6 tháng thì nên đi khám để kiểm tra)\n- bạn ra máu sau khi quan hệ tình dục, hoặc mới bị đau bụng dưới\n- bạn đã quên uống thuốc và có quan hệ tình dục, hoặc nghĩ rằng mình có thể đang mang thai\n- cơn đau hoặc các triệu chứng khác mà bạn dùng nội tiết tố để điều trị quay trở lại hoặc nặng hơn",
+      "red_flags": "- Thuốc tránh thai kết hợp làm tăng nhẹ nguy cơ hình thành **cục máu đông**. Hãy tìm trợ giúp y tế **khẩn cấp** nếu bạn bị **đau và sưng ở một bên chân**, hoặc da ở chân đó nóng, đỏ hoặc sẫm màu.\n- Gọi **{{emergency}}** hoặc đến khoa cấp cứu ngay lập tức nếu bạn bị **đau tức ngực**, **khó thở đột ngột** hoặc **ho ra máu** — đây có thể là dấu hiệu của cục máu đông trong phổi."
     },
     "contraception": {
       "title": "Tránh thai",

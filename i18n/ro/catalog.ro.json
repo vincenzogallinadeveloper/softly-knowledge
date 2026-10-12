@@ -6,6 +6,21 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomioza",
+      "aliases": [
+        "adenomioza",
+        "adenomioză",
+        "adenomioză uterină",
+        "endometrioză internă",
+        "adenomiom"
+      ],
+      "glance": "Adenomioza apare atunci când mucoasa uterului crește în mușchiul peretelui uterin. Poate provoca menstruații abundente și dureroase.",
+      "overview": "Adenomioza este o afecțiune în care țesutul care în mod normal căptușește uterul pe interior crește în mușchiul din peretele uterului. Este diagnosticată mai des la femeile de peste 30 de ani și la cele care au născut, dar poate afecta pe oricine are menstruație. Cauza ei nu este clară.\n\nCele mai frecvente semne sunt durerile menstruale puternice, uneori atât de mari încât te împiedică să îți faci activitățile obișnuite, și menstruațiile abundente. Unele femei au și durere pelviană (în partea de jos a burții) în alte momente ale lunii, o senzație de balonare sau de greutate și plenitudine în burtă ori durere în timpul actului sexual. Altele nu au deloc simptome.\n\nEste o afecțiune diferită de endometrioză, în care un țesut asemănător mucoasei uterine crește în afara uterului, de exemplu pe ovare. Unele dintre simptomele lor se suprapun, iar acesta este unul dintre motivele pentru care pot fi necesare investigații ca să se afle ce cauzează durerea.",
+      "deep": "De obicei, medicul de familie te va întreba despre menstruații și îți poate palpa ușor burta; ți se poate propune un examen intern (ginecologic), iar tu poți cere să te consulte o doctoriță sau ca cineva să stea cu tine. O ecografie sau un RMN pot ajuta la depistarea adenomiozei sau la excluderea altor cauze.\n\nTratamentele pot ajuta la ameliorarea simptomelor. Printre opțiunile pe care le poate discuta cu tine un medic se numără steriletul hormonal (SIU), care subțiază mucoasa uterului și poate face menstruațiile mai ușoare și mai puțin dureroase; alte metode contraceptive hormonale, cum ar fi pilula combinată, pilula doar cu progestativ sau plasturele contraceptiv; medicamente nehormonale pentru sângerarea abundentă sau durere; iar dacă acestea nu ajută, intervenția chirurgicală. Pentru că metodele hormonale pot face menstruațiile mai ușoare sau le pot opri, unele femei iau pilula cu mai puține pauze sau fără pauze; vezi „Pilula luată fără pauze”.\n\nCăldura pe burtă, un aparat TENS și calmantele obișnuite pot atenua durerea. Dacă ții o evidență simplă a durerii, a sângerărilor și a altor simptome în timp, îți va fi mai ușor, ție și medicului, să vedeți cum evoluează lucrurile și dacă un tratament funcționează.",
+      "when_to_see_doctor": "Merită să mergi la medicul de familie dacă:\n\n- menstruațiile devin mai dureroase, mai abundente sau neregulate\n- menstruațiile abundente îți afectează viața sau durează de ceva vreme\n- ai durere în timpul actului sexual\n- te simți balonată de aproximativ 3 săptămâni\n- sângerezi între menstruații sau după actul sexual\n\nCere o programare urgentă sau contactează un serviciu de gardă dacă durerea pelviană sau menstruală este puternică ori mai rea decât de obicei și calmantele nu au ajutat.",
+      "red_flags": "- Cere ajutor medical **urgent** (contactează un medic sau un **serviciu de gardă** ori sună la **{{emergency}}** / mergi la urgențe dacă situația este gravă) dacă **sângerezi atât de abundent încât îmbibi un absorbant sau mai mult în fiecare oră, câteva ore la rând** ori dacă simți că **leșini, ai amețeli sau îți lipsește aerul**. Acestea pot fi semne că pierzi prea mult sânge."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alcoolul în sarcină",
       "aliases": [
@@ -293,6 +308,24 @@
       "deep": "Cum arată respectul în practică:\n\n- **Întreabă și verifică pe parcurs.** „E în regulă așa?” și atenție la cum răspunde ea, prin cuvinte și prin limbajul corpului.\n- **Acceptă un „nu” cu eleganță.** Fără bosumflare, presiuni sau pedepse. Răspunsul ei încheie discuția.\n- **Entuziasmul contează.** Dacă pare nesigură, ezitantă sau doar se lasă dusă de val, oprește-te și întreab-o.\n- **Corpul ei, decizia ei**: despre intimitate, contracepție, sarcină, sănătatea ei, înfățișarea ei, alegerile ei. Ai un cuvânt de spus în viața voastră comună, dar niciodată un drept de veto asupra corpului ei.\n- **Respectul se arată zilnic.** Felul în care vorbești cu ea, felul în care vorbești despre ea și felul în care îi respecți limitele în lucrurile mărunte sunt temelia pe care se sprijină tot restul.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Pilula luată fără pauze",
+      "aliases": [
+        "pilula fără pauză",
+        "pilula în regim continuu",
+        "pilulă continuă",
+        "sărirea menstruației cu pilula",
+        "fără menstruație cu pilula",
+        "regim prelungit",
+        "suprimarea menstruației",
+        "anticoncepționale fără pauză"
+      ],
+      "glance": "Dacă iei pilula cu pauze mai scurte, cu mai puține pauze sau fără pauză, sângerezi mai rar sau deloc. Merită să discuți despre asta cu un medic.",
+      "overview": "Pilula combinată se ia adesea timp de 21 de zile, urmate de o pauză de 7 zile, sau sub forma unui ambalaj „pentru fiecare zi”, care include câteva pastile inactive (placebo). În timpul pauzei sau al pastilelor inactive, de obicei apare o sângerare. Seamănă cu o menstruație, dar este provocată de scăderea hormonilor atunci când întrerupi pilula, nu de ciclul tău natural.\n\nUnele femei iau în schimb pilula combinată într-un mod „personalizat”: cu o pauză mai scurtă, cu mai puține pauze sau fără pauză între cutii. Asta poate însemna sângerări mai rare sau deloc și poate ameliora simptomele care apar în pauză, cum ar fi durerile de cap și sângerarea. Dacă ți se potrivește depinde de tine și de tipul tău de pilulă, așa că merită să discuți despre asta cu un medic, o asistentă medicală sau un farmacist.\n\nPilula doar cu progestativ este diferită: se ia în fiecare zi, fără pauză. Ea, steriletul hormonal (SIU) și implantul îți pot schimba menstruațiile: acestea pot deveni mai ușoare sau neregulate ori se pot opri complet.",
+      "deep": "Când menstruațiile se opresc din cauza unei metode hormonale, acesta este un efect așteptat al hormonilor, nu un semn că ceva nu este în regulă. Sângerările ușoare sau spottingul sunt frecvente, mai ales în primele luni cu o metodă nouă sau cu un mod nou de administrare, și adesea se reduc cu timpul. Dacă sângerarea continuă, un medic îți poate explica opțiunile: îți poate sugera o pauză scurtă sau o altă pilulă ori metodă.\n\nÎn unele afecțiuni în care menstruațiile aduc multă durere sau sângerări abundente, cum ar fi endometrioza, adenomioza sau menstruațiile foarte dureroase ori abundente, medicii pot sugera opțiuni hormonale care fac menstruațiile mai ușoare sau le opresc, iar luarea pilulei cu mai puține pauze sau fără pauze poate fi una dintre ele. Hormonii pot ameliora simptomele, dar nu vindecă aceste afecțiuni.\n\nFără o sângerare regulată nu există un ciclu de urmărit, dar notarea durerii, a sângerărilor și a altor simptome îți arată în continuare cum te simți și este utilă de dus la consultații. Cât de bine te protejează pilula de sarcină depinde în continuare de faptul că o iei așa cum ți s-a recomandat; prospectul pastilelor sau un farmacist îți explică ce să faci dacă uiți una.",
+      "when_to_see_doctor": "Merită să vorbești cu un medic, o asistentă medicală sau un farmacist dacă:\n\n- ai vrea să iei pilula cu mai puține pauze sau fără pauze ori să schimbi felul în care o iei\n- sângerarea sau spottingul continuă, se intensifică sau te deranjează (în cazul steriletului hormonal, sângerările neregulate care durează mai mult de aproximativ 6 luni merită verificate de un medic)\n- sângerezi după actul sexual sau ai o durere nouă în partea de jos a burții\n- ai uitat pastile și ai avut contact sexual sau crezi că ai putea fi însărcinată\n- durerea sau celelalte simptome pentru care iei hormoni revin sau se agravează",
+      "red_flags": "- Pilula combinată crește ușor riscul de **cheaguri de sânge (tromboză)**. Cere ajutor medical **urgent** dacă ai **durere și umflare la un singur picior** sau pielea piciorului este caldă, roșie ori închisă la culoare.\n- Sună imediat la **{{emergency}}** sau mergi la urgențe dacă ai **durere în piept**, **lipsă bruscă de aer** sau **tușești sânge**: acestea pot fi semne ale unui cheag în plămâni."
     },
     "contraception": {
       "title": "Contracepția",

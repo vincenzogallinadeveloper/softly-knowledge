@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomüoos",
+      "aliases": [
+        "adenomüoos",
+        "adeno",
+        "adenomüoom",
+        "sisemine endometrioos",
+        "emakaseina endometrioos",
+        "valulik rohke menstruatsioon"
+      ],
+      "glance": "Adenomüoos tähendab, et emaka limaskest kasvab emaka seina lihasesse. See võib põhjustada rohket ja valulikku menstruatsiooni.",
+      "overview": "Adenomüoos on haigus, mille korral kude, mis tavaliselt vooderdab emakat seestpoolt, kasvab emaka seina lihasesse. Seda diagnoositakse sagedamini üle 30-aastastel naistel ja neil, kes on sünnitanud, kuid see võib tabada igaüht, kellel on menstruatsioon. Selle põhjus ei ole selge.\n\nKõige sagedasemad märgid on tugev menstruatsioonivalu – mõnikord nii tugev, et see takistab sul tavapäraseid asju tegemast – ja rohke menstruatsioon. Mõnel on ka vaagnavalu (alakõhus) kuu teistel aegadel, puhitus- või raskus- ja täistunne kõhus või valu seksi ajal. Teistel pole üldse sümptomeid.\n\nSee on teine haigus kui endometrioos, mille korral emaka limaskestaga sarnane kude kasvab väljaspool emakat, näiteks munasarjadel. Osa sümptomeid kattuvad ja see on üks põhjus, miks võib olla vaja uuringuid, et selgitada välja, mis valu põhjustab.",
+      "deep": "Perearst küsib tavaliselt su menstruatsiooni kohta ja võib õrnalt su kõhtu katsuda; võidakse soovitada ka günekoloogilist läbivaatust ning sa võid paluda naissoost arsti või et keegi oleks sinuga kaasas. Ultraheliuuring või magnetresonantstomograafia (MRT) aitab adenomüoosi leida või muid põhjuseid välistada.\n\nSümptomite leevendamiseks on olemas ravi. Võimalused, millest arst võib sinuga rääkida, on näiteks hormoonspiraal (IUS), mis õhendab emaka limaskesta ning võib muuta menstruatsiooni nõrgemaks ja vähem valulikuks; muud hormonaalsed rasestumisvastased vahendid, nagu kombineeritud rasestumisvastased tabletid, minipill või rasestumisvastane plaaster; mittehormonaalsed ravimid rohke veritsuse või valu vastu; ja kui need ei aita, operatsioon. Kuna hormonaalsed meetodid võivad menstruatsiooni nõrgemaks muuta või selle ära lõpetada, võtavad mõned tablette vähemate pausidega või üldse ilma pausita – vaata „Rasestumisvastaste tablettide võtmine ilma pausita“.\n\nSoojus kõhule, TENS-aparaat ja tavalised valuvaigistid aitavad valu leevendada. Kui paned aja jooksul lihtsalt kirja oma valu, veritsuse ja muud sümptomid, aitab see sul ja arstil näha, kuidas läheb ja kas ravi toimib.",
+      "when_to_see_doctor": "Tasub pöörduda perearsti poole, kui:\n\n- su menstruatsioon muutub valulikumaks, rohkemaks või ebaregulaarseks\n- rohke menstruatsioon mõjutab su elu või on kestnud juba mõnda aega\n- sul on valu seksi ajal\n- sul on olnud puhitus umbes 3 nädalat\n- sul on veritsust menstruatsioonide vahel või pärast seksi\n\nPalu kiiret vastuvõtuaega või võta ühendust valvearstiga, kui vaagna- või menstruatsioonivalu on tugev või tavalisest hullem ja valuvaigistid ei ole aidanud.",
+      "red_flags": "- Otsi **kiiresti** arstiabi – võta ühendust arsti või **valvearstiga** või helista numbrile **{{emergency}}** / mine erakorralise meditsiini osakonda, kui olukord on tõsine –, kui **veritsus on nii tugev, et hügieenisidemeid (üks või rohkem) saab täiesti läbimärjaks iga tunni järel paar tundi järjest**, või kui sul on **minestamistunne, pearinglus või õhupuudus**. Need võivad olla liigse verekaotuse märgid."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol raseduse ajal",
       "aliases": [
@@ -278,6 +294,24 @@
       "deep": "Kuidas austus praktikas välja näeb:\n\n- **Küsi ja uuri üle.** „Kas see sobib?“ – ja pane tähele, kuidas ta reageerib, nii sõnade kui ka kehaga.\n- **Võta „ei“ vastu väärikalt.** Ei mingit mossitamist, survet ega karistamist. Tema vastusega on asi otsustatud.\n- **Innukus on oluline.** Kui ta tundub ebakindel, kõhklev või lihtsalt läheb kaasa, peatu ja küsi.\n- **Tema keha, tema otsus** – intiimsuse, rasestumisvastaste vahendite, raseduse, tema tervise, välimuse ja valikute osas. Sul on ühises elus sõnaõigus, kuid mitte kunagi vetoõigust tema keha üle.\n- **Austus on igapäevane.** See, kuidas sa temaga räägid, temast räägid ja kuidas suhtud tema piiridesse väikestes asjades, on alus, millel kõik muu põhineb.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Rasestumisvastaste tablettide võtmine ilma pausita",
+      "aliases": [
+        "pill ilma pausita",
+        "tabletid ilma pausita",
+        "pidev pillivõtmine",
+        "antibeebipill järjest",
+        "menstruatsiooni vahelejätmine",
+        "menstruatsiooni edasilükkamine",
+        "menstruatsioonita pillil",
+        "pikendatud skeem"
+      ],
+      "glance": "Kui võtta tablette lühemate pausidega, harvemate pausidega või üldse ilma pausita, tuleb veritsus harvemini või ei tule üldse. Seda tasub arutada arstiga.",
+      "overview": "Kombineeritud rasestumisvastaseid tablette võetakse sageli 21 päeva, millele järgneb 7-päevane paus, või „igapäevase“ pakendina, milles on mõned toimeaineta tabletid (platseebotabletid). Pausi või toimeaineta tablettide ajal tuleb tavaliselt veritsus. See näeb välja nagu menstruatsioon, kuid selle põhjustab hormoonitaseme langus, kui teed tablettide võtmises pausi, mitte sinu loomulik tsükkel.\n\nMõned võtavad kombineeritud tablette hoopis „kohandatud“ viisil: lühema pausiga, harvemate pausidega või ilma pausita pakendite vahel. See võib tähendada, et veritsus tuleb harvemini või ei tule üldse, ning see võib leevendada pausiga kaasnevaid vaevusi, näiteks peavalu ja veritsust. Kas see sulle sobib, sõltub sinust ja sinu tableti tüübist, seega tasub seda arutada arsti, õe või apteekriga.\n\nMinipill on teistsugune: seda võetakse iga päev, ilma pausita. Minipill, hormoonspiraal (IUS) ja implantaat võivad kõik su menstruatsiooni muuta: see võib muutuda nõrgemaks või ebaregulaarseks või hoopis lakata.",
+      "deep": "Kui menstruatsioon lakkab hormonaalse meetodi tõttu, on see hormoonide oodatud toime, mitte märk sellest, et midagi oleks valesti. Kerge veritsus või määrimine on sage, eriti uue meetodi või uue võtmisviisi esimestel kuudel, ja see taandub sageli aja jooksul. Kui veritsus jätkub, saab arst selgitada võimalusi – näiteks lühikest pausi või teist tabletti või meetodit.\n\nMõne haiguse puhul, mille korral menstruatsioon toob kaasa palju valu või rohket veritsust – näiteks endometrioos, adenomüoos või väga valulik või rohke menstruatsioon –, võivad arstid soovitada hormonaalseid võimalusi, mis muudavad menstruatsiooni nõrgemaks või lõpetavad selle, ning tablettide võtmine vähemate pausidega või ilma pausita võib olla üks neist. Hormoonid võivad sümptomeid leevendada, kuid need ei ravi neid haigusi välja.\n\nKui regulaarset veritsust ei ole, pole ka tsüklit, mida jälgida, kuid valu, veritsuse ja muude sümptomite ülesmärkimine näitab ikkagi, kuidas sul läheb, ning seda on kasulik vastuvõtule kaasa võtta. See, kui hästi tablett rasestumise eest kaitseb, sõltub endiselt sellest, kas võtad seda juhiste järgi; pakendi infoleht või apteeker selgitab, mida teha, kui unustad tableti võtmata.",
+      "when_to_see_doctor": "Tasub rääkida arsti, õe või apteekriga, kui:\n\n- soovid võtta tablette vähemate pausidega või ilma pausita või muuta nende võtmise viisi\n- veritsus või määrimine jätkub, muutub rohkemaks või häirib sind (hormoonspiraali puhul tasub lasta üle vaadata ebaregulaarne veritsus, mis kestab üle umbes 6 kuu)\n- sul on veritsust pärast seksi või uus valu alakõhus\n- oled unustanud tablette võtta ja oled seksinud või arvad, et võid olla rase\n- valu või muud sümptomid, mille tõttu hormoone võtad, tulevad tagasi või süvenevad",
+      "red_flags": "- Kombineeritud tabletid suurendavad veidi **verehüübe (tromboosi)** riski. Otsi **kiiresti** arstiabi, kui sul on **valu ja turse ühes jalas** või jala nahk on soe, punane või tumenenud.\n- Helista kohe numbrile **{{emergency}}** või mine erakorralise meditsiini osakonda, kui sul on **valu rinnus**, **äkiline õhupuudus** või **köhid verd** – need võivad olla kopsus oleva verehüübe märgid."
     },
     "contraception": {
       "title": "Rasestumisvastased vahendid",

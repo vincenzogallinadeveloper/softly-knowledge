@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adanmhióis",
+      "aliases": [
+        "adanmhióis",
+        "adenomyosis",
+        "adeno",
+        "adenomyoma",
+        "míostruithe troma pianmhara",
+        "broinn mhéadaithe"
+      ],
+      "glance": "Is éard is adanmhióis ann nuair a fhásann líneáil na broinne isteach i matán bhalla na broinne. Féadann sí míostruithe troma, pianmhara a chur faoi deara.",
+      "overview": "Riocht í an adanmhióis ina bhfásann an fíochán a bhíonn de ghnáth ar líneáil na broinne (an t-útaras) isteach sa mhatán i mballa na broinne. Is minice a dhéantar í a dhiagnóisiú i mná os cionn 30 bliain d'aois, agus i ndaoine a rug leanbh, ach féadann sí tarlú d'aon duine a fhaigheann míostruithe. Níl a cúis soiléir.\n\nIs iad na comharthaí is coitianta ná pian mhíosta dhian — uaireanta chomh dona sin go gcuireann sí stop leat do ghnáthrudaí a dhéanamh — agus míostruithe troma. Bíonn pian sa pheilvis (in íochtar an bhoilg) ar dhaoine áirithe freisin ag amanna eile den mhí, mothú go bhfuil an bolg ata, nó trom agus lán, nó pian le linn gnéis. Ní bhíonn aon siomptóim ar chor ar bith ar dhaoine eile.\n\nRiocht difriúil í ó endiméadrióis, ina bhfásann fíochán cosúil le líneáil na broinne lasmuigh den bhroinn, mar shampla ar na hubhagáin. Tá roinnt dá gcuid siomptóm cosúil le chéile, agus sin cúis amháin go mb'fhéidir go mbeadh gá le tástálacha chun a fháil amach cad is cúis leis an bpian.",
+      "deep": "De ghnáth cuirfidh dochtúir teaghlaigh (GP) ceisteanna ort faoi do mhíostruithe agus b'fhéidir go mbraithfidh sé nó sí do bholg go réidh; d'fhéadfaí scrúdú inmheánach a mholadh, agus féadann tú dochtúir mná a iarraidh, nó go mbeadh duine in éineacht leat. Féadann scanadh ultrafhuaime nó scanadh MRI cabhrú le hadanmhióis a aimsiú nó cúiseanna eile a chur as an áireamh.\n\nFéadann cóireálacha cabhrú leis na siomptóim. I measc na roghanna a d'fhéadfadh cliniceoir a phlé tá an fheiste hormónach (IUS), a dhéanann líneáil na broinne níos tanaí agus a fhéadann míostruithe a dhéanamh níos éadroime agus gan a bheith chomh pianmhar; frithghiniúint hormónach eile, mar an piolla comhcheangailte, an piolla progeistigine amháin (an mionphiolla) nó an paiste; cógais neamhhormónacha le haghaidh fuiliú trom nó pian; agus, mura gcabhraíonn siad seo, máinliacht. Toisc gur féidir le modhanna hormónacha míostruithe a dhéanamh níos éadroime nó stop a chur leo, glacann daoine áirithe an piolla le níos lú sosanna nó gan sos ar bith — féach \"An piolla a ghlacadh gan sos.\"\n\nFéadann teas ar an mbolg, meaisín TENS agus gnáthphianmhúcháin maolú a dhéanamh ar an bpian. Má choinníonn tú taifead simplí ar do phian, ar d'fhuiliú agus ar shiomptóim eile le himeacht ama, cabhraíonn sé leat féin agus le do dhochtúir a fheiceáil conas atá cúrsaí ag dul agus an bhfuil cóireáil ag obair.",
+      "when_to_see_doctor": "Is fiú dul chuig dochtúir teaghlaigh (GP) sna cásanna seo:\n\n- éiríonn do mhíostruithe níos pianmhaire, níos troime nó neamhrialta\n- tá míostruithe troma ag cur isteach ar do shaol, nó tá siad mar sin le tamall\n- bíonn pian ort le linn gnéis\n- tá tú ag mothú ata le thart ar 3 seachtaine\n- bíonn fuiliú agat idir míostruithe nó tar éis gnéis\n\nIarr coinne phráinneach, nó déan teagmháil le dochtúir ón tseirbhís lasmuigh d'uaireanta, má tá an phian sa pheilvis nó an phian mhíosta dian nó níos measa ná mar is gnách agus nár chabhraigh pianmhúcháin.",
+      "red_flags": "- Faigh cabhair leighis **phráinneach** — déan teagmháil le dochtúir nó le **seirbhís lasmuigh d'uaireanta**, nó cuir glao ar **{{emergency}}** / téigh chuig roinn éigeandála an ospidéil má tá sé dian — má tá tú **ag fuiliú chomh trom sin go maothaíonn tú ceap sláintíochta amháin nó níos mó go hiomlán gach uair an chloig, ar feadh cúpla uair an chloig as a chéile**, nó má bhraitheann tú **go bhfuil tú ar tí titim i laige, meadhránach, nó gearr san anáil**. Féadann siad seo a bheith ina gcomharthaí go bhfuil barraíocht fola á cailleadh agat."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alcól le linn toirchis",
       "aliases": [
@@ -278,6 +294,24 @@
       "deep": "Seo an chuma atá ar mheas sa chleachtadh:\n\n- **Fiafraigh, agus seiceáil arís.** “An bhfuil sé seo ceart go leor?” agus aird a thabhairt ar an gcaoi a bhfreagraíonn sí — focail agus corp.\n- **Glac le “níl” go séimh.** Gan pus, brú ná pionós. Is é a freagra deireadh an scéil.\n- **Tá fonn tábhachtach.** Má bhíonn cuma éiginnte nó leisciúil uirthi, nó má dhealraíonn sé nach bhfuil sí ach ag dul leis, stop agus fiafraigh.\n- **A corp féin, a cinneadh féin** — faoi dhlúthchaidreamh, frithghiniúint, toircheas, a sláinte, a cuma, a roghanna. Tá guth agat sa saol a roinneann sibh, ach ní bhíonn cumhacht chrosta agat riamh ar a corp.\n- **Is rud laethúil é meas.** An chaoi a labhraíonn tú léi agus fúithi, agus an chaoi a bpléann tú lena teorainneacha i rudaí beaga — sin an bunús a bhfuil gach rud eile ag brath air.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "An piolla a ghlacadh gan sos",
+      "aliases": [
+        "piolla gan sos",
+        "piolla leanúnach",
+        "paicéid as a chéile",
+        "gan sos ón bpiolla",
+        "míostruithe a sheachaint leis an bpiolla",
+        "gan míostrú ar an bpiolla",
+        "continuous pill",
+        "réimeas sínte"
+      ],
+      "glance": "Má ghlacann tú an piolla le sosanna níos giorra, le níos lú sosanna nó gan sos ar bith, bíonn fuiliú agat níos annamh, nó ní bhíonn sé ann ar chor ar bith. Is fiú é a phlé le cliniceoir.",
+      "overview": "Is minic a ghlactar an piolla comhcheangailte ar feadh 21 lá agus ansin sos 7 lá, nó mar phaicéad \"laethúil\" ina bhfuil roinnt piollaí bréige gan hormóin. Le linn an tsosa, nó na bpiollaí bréige, bíonn fuiliú agat de ghnáth. Tá cuma míostraithe air, ach is é an titim sna hormóin nuair a stopann tú an piolla ar feadh tamaill is cúis leis, seachas do thimthriall nádúrtha.\n\nGlacann daoine áirithe an piolla comhcheangailte ar bhealach \"saincheaptha\" ina ionad sin: le sos níos giorra, le níos lú sosanna, nó gan sos ar bith idir paicéid. Féadann sé seo a chiallú go mbíonn fuiliú agat níos annamh, nó nach mbíonn ar chor ar bith, agus féadann sé siomptóim a thagann leis an sos a mhaolú, mar thinneas cinn agus fuiliú. Braitheann sé ortsa agus ar an gcineál piolla atá agat an oireann sé duit, mar sin is fiú é a phlé le dochtúir, le haltra nó le cógaiseoir.\n\nTá an piolla progeistigine amháin (an mionphiolla) difriúil: glactar é gach lá, gan sos. Féadann sé, an fheiste hormónach (IUS) agus an t-ionchlannán athrú a dhéanamh ar do mhíostruithe: féadann siad éirí níos éadroime nó neamhrialta, nó stopadh ar fad.",
+      "deep": "Nuair a stopann míostruithe mar gheall ar mhodh hormónach, is éifeacht a mbeifí ag súil léi ó na hormóin í sin, seachas comhartha go bhfuil rud éigin cearr. Bíonn fuiliú éadrom nó spotáil coitianta, go háirithe sna chéad mhíonna de mhodh nua nó de bhealach nua chun é a ghlacadh, agus is minic a shocraíonn sé le himeacht ama. Má leanann an fuiliú ar aghaidh, féadann cliniceoir na roghanna a mhíniú — b'fhéidir go molfadh sé nó sí sos gearr, nó piolla nó modh eile.\n\nI gcás roinnt riochtaí ina dtugann míostruithe go leor péine nó fuiliú trom leo — mar endiméadrióis, adanmhióis, nó míostruithe an-phianmhara nó an-troma — féadann cliniceoirí roghanna hormónacha a mholadh a dhéanann míostruithe níos éadroime nó a stopann iad, agus d'fhéadfadh an piolla a ghlacadh le níos lú sosanna nó gan sos ar bith a bheith ar cheann acu. Féadann hormóin siomptóim a mhaolú, ach ní leigheasann siad na riochtaí seo.\n\nGan fuiliú rialta, níl aon timthriall le leanúint, ach má nótálann tú pian, fuiliú agus siomptóim eile, léiríonn sé fós conas atá ag éirí leat, agus is fiú é a thabhairt leat chuig coinní. Braitheann an chosaint a thugann an piolla ar thoircheas fós ar é a ghlacadh mar a mholtar; míníonn an bhileog a thagann le do phiollaí, nó cógaiseoir, cad ba cheart a dhéanamh má dhéanann tú dearmad ar cheann.",
+      "when_to_see_doctor": "Is fiú labhairt le dochtúir, le haltra nó le cógaiseoir sna cásanna seo:\n\n- ba mhaith leat do phiolla a ghlacadh le níos lú sosanna nó gan sos ar bith, nó an bealach a ghlacann tú é a athrú\n- leanann fuiliú nó spotáil ar aghaidh, éiríonn sé níos troime, nó cuireann sé isteach ort (leis an bhfeiste hormónach, is fiú fuiliú neamhrialta a mhaireann níos mó ná thart ar 6 mhí a bheith seiceáilte ag dochtúir)\n- bíonn fuiliú agat tar éis gnéis, nó tá pian nua in íochtar do bhoilg\n- rinne tú dearmad ar phiollaí agus bhí gnéas agat, nó ceapann tú go bhféadfá a bheith torrach\n- tagann an phian nó na siomptóim eile a nglacann tú hormóin ina gcoinne ar ais nó éiríonn siad níos measa",
+      "red_flags": "- Ardaíonn an piolla comhcheangailte an baol **téachtán fola** beagán. Faigh cabhair leighis **phráinneach** má bhíonn **pian agus at i gcos amháin** ort, nó craiceann te, dearg nó níos dorcha ar an gcos.\n- Cuir glao ar **{{emergency}}** nó téigh chuig roinn éigeandála an ospidéil láithreach má bhíonn **pian cliabhraigh** nó **giorra anála tobann** ort, nó má **chasachtann tú fuil aníos** — féadann siad seo a bheith ina gcomharthaí ar théachtán sna scamhóga."
     },
     "contraception": {
       "title": "Frithghiniúint",

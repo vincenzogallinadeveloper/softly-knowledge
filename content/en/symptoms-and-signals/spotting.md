@@ -11,6 +11,7 @@ relations:
   - { type: related-to, target: menstrual-phase }
   - { type: see-also, target: cervical-mucus }
   - { type: symptom-of, target: pcos }
+  - { type: see-also, target: continuous-pill }
 
 sources:
   - org: NHS

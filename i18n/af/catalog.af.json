@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiose",
+      "aliases": [
+        "adenomiose",
+        "adenomyosis",
+        "adeno",
+        "adenomioom",
+        "interne endometriose",
+        "endometriose in die baarmoederspier"
+      ],
+      "glance": "Adenomiose is wanneer die baarmoedervoering in die spier van die baarmoederwand ingroei. Dit kan swaar, pynlike maandstondes veroorsaak.",
+      "overview": "Adenomiose is 'n toestand waar die weefsel wat normaalweg die binnekant van die baarmoeder (uterus) uitvoer, in die spier van die baarmoederwand ingroei. Dit word meer dikwels by vroue ouer as 30 gediagnoseer, en by mense wat al geboorte gegee het, maar dit kan enigiemand raak wat maandstondes het. Die oorsaak is nie duidelik nie.\n\nDie algemeenste tekens is erge menstruasiepyn (soms so erg dat dit jou keer om jou gewone dinge te doen) en swaar maandstondes. Sommige mense het ook bekkenpyn (in die onderbuik) op ander tye van die maand, 'n opgeblase of swaar, vol gevoel in die maag, of pyn tydens seks. Ander het glad nie simptome nie.\n\nDit is 'n ander toestand as endometriose, waar weefsel soortgelyk aan die baarmoedervoering buite die baarmoeder groei, byvoorbeeld op die eierstokke. Party van hul simptome oorvleuel, en dit is een rede waarom toetse nodig kan wees om uit te vind wat die pyn veroorsaak.",
+      "deep": "'n Huisdokter sal gewoonlik oor jou maandstondes vra en dalk saggies aan jou maag voel; 'n inwendige ondersoek kan voorgestel word, en jy kan vra dat 'n vroulike dokter jou ondersoek of dat iemand by jou bly. 'n Ultraklank- of MRI-skandering kan help om adenomiose op te spoor of ander oorsake uit te sluit.\n\nBehandelings kan met die simptome help. Opsies wat 'n klinikus met jou kan bespreek, sluit in die hormonale lussie (IUS), wat die baarmoedervoering dunner maak en maandstondes ligter en minder pynlik kan maak; ander hormonale voorbehoeding, soos die gekombineerde pil, die pil met net progestogeen of die pleister; nie-hormonale medisyne vir swaar bloeding of pyn; en, as dit nie help nie, chirurgie. Omdat hormonale metodes maandstondes ligter kan maak of kan stop, neem sommige mense die pil met minder pouses of glad sonder pouses: sien “Die pil sonder pouses neem”.\n\nHitte op die maag, 'n TENS-masjien en gewone pynpille kan die ergste van die pyn wegneem. Om 'n eenvoudige rekord van jou pyn, bloeding en ander simptome oor tyd te hou, help jou en jou dokter om te sien hoe dit gaan en of 'n behandeling werk.",
+      "when_to_see_doctor": "Dit is die moeite werd om 'n huisdokter te sien as:\n\n- jou maandstondes pynliker, swaarder of onreëlmatig word\n- swaar maandstondes jou lewe raak, of al 'n geruime tyd aanhou\n- jy pyn tydens seks het\n- jy al ongeveer 3 weke opgeblase voel\n- jy tussen maandstondes of ná seks bloei\n\nVra vir 'n dringende afspraak, of kontak 'n na-uurse dokter, as jou bekken- of menstruasiepyn erg of erger as gewoonlik is en pynpille nie gehelp het nie.",
+      "red_flags": "- Kry **dringend** mediese hulp (kontak 'n dokter of 'n **na-uurse diens**, of bel **{{emergency}}** / gaan na die hospitaal se noodafdeling as dit ernstig is) as jy **so swaar bloei dat jy elke uur 'n maandverband of meer heeltemal deurweek, 'n paar uur agtereenvolgens**, of as jy **voel jy gaan flou word, duiselig voel of kortasem is**. Dit kan tekens wees dat jy te veel bloed verloor."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol tydens swangerskap",
       "aliases": [
@@ -284,6 +300,24 @@
       "deep": "Hoe respek in die praktyk lyk:\n\n- **Vra, en maak seker.** “Is dit oukei?”, en let op hoe sy reageer, met woorde en met haar lyf.\n- **Aanvaar “nee” met grasie.** Geen dikmond, druk of straf nie. Haar antwoord is die einde van die saak.\n- **Entoesiasme maak saak.** As sy onseker of huiwerig lyk, of net saamgaan, stop en vra.\n- **Haar liggaam, haar besluit**: oor intimiteit, voorbehoeding, swangerskap, haar gesondheid, haar voorkoms, haar keuses. Jy het 'n stem in julle gedeelde lewe, maar nooit 'n veto oor haar liggaam nie.\n- **Respek is daagliks.** Hoe jy met haar en oor haar praat, en hoe jy haar grense in klein dingetjies respekteer, vorm die fondament waarop alles anders rus.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Die pil sonder pouses neem",
+      "aliases": [
+        "pil sonder pouse",
+        "aaneenlopende pil",
+        "pil deurlopend neem",
+        "pakkies rug-aan-rug",
+        "maandstonde oorslaan met die pil",
+        "geen maandstonde op die pil",
+        "verlengde regimen",
+        "menstruasie onderdruk"
+      ],
+      "glance": "As jy die pil met korter pouses, minder pouses of glad sonder pouses neem, bloei jy minder dikwels, of glad nie. Dit is iets om met 'n klinikus te bespreek.",
+      "overview": "Die gekombineerde pil word dikwels vir 21 dae geneem, gevolg deur 'n pouse van 7 dae, of as 'n “elke dag”-pakkie wat 'n paar placebopille (pille sonder hormone) insluit. Tydens die pouse, of die placebopille, kry jy gewoonlik 'n bloeding. Dit lyk soos 'n maandstonde, maar dit word veroorsaak deur die daling in hormone wanneer jy die pil onderbreek, eerder as deur jou natuurlike siklus.\n\nSommige mense neem eerder die gekombineerde pil op 'n “aangepaste” manier: met 'n korter pouse, minder pouses, of geen pouse tussen pakkies nie. Dit kan beteken dat jy minder dikwels bloei, of glad nie, en dit kan simptome verlig wat met die pouse saamkom, soos hoofpyn en bloeding. Of dit by jou pas, hang van jou en van jou soort pil af, so dit is die moeite werd om dit met 'n dokter, verpleegster of apteker deur te praat.\n\nDie pil met net progestogeen is anders: dit word elke dag geneem, sonder 'n pouse. Dit, die hormonale lussie (IUS) en die inplanting kan almal jou maandstondes verander: hulle kan ligter of onreëlmatig word, of heeltemal ophou.",
+      "deep": "Wanneer maandstondes weens 'n hormonale metode ophou, is dit 'n verwagte effek van die hormone eerder as 'n teken dat iets fout is. Ligte bloeding of spotting kom algemeen voor, veral in die eerste maande van 'n nuwe metode of 'n nuwe manier om dit te neem, en dit bedaar dikwels mettertyd. As die bloeding aanhou, kan 'n klinikus die opsies verduidelik: hulle kan 'n kort pouse voorstel, of 'n ander pil of metode.\n\nBy sommige toestande waar maandstondes baie pyn of swaar bloeding meebring, soos endometriose, adenomiose, of baie pynlike of swaar maandstondes, kan klinici hormonale opsies voorstel wat maandstondes ligter maak of stop, en om die pil met minder pouses of glad sonder pouses te neem, kan een daarvan wees. Hormone kan simptome verlig, maar hulle genees nie hierdie toestande nie.\n\nSonder 'n gereelde bloeding is daar geen siklus om te volg nie, maar om pyn, bloeding en ander simptome aan te teken, wys steeds hoe dit met jou gaan, en dit is nuttig om na afsprake saam te neem. Hoe goed die pil teen swangerskap beskerm, hang steeds daarvan af of jy dit neem soos voorgeskryf; die pamflet by jou pille, of 'n apteker, verduidelik wat om te doen as jy een vergeet.",
+      "when_to_see_doctor": "Dit is die moeite werd om met 'n dokter, verpleegster of apteker te praat as:\n\n- jy jou pil met minder pouses of glad sonder pouses wil neem, of wil verander hoe jy dit neem\n- bloeding of spotting aanhou, swaarder word of jou pla (met die hormonale lussie is dit die moeite werd om onreëlmatige bloeding wat langer as ongeveer 6 maande duur, te laat nagaan)\n- jy ná seks bloei, of nuwe pyn in jou onderbuik het\n- jy pille vergeet het en seks gehad het, of dink jy kan swanger wees\n- die pyn of ander simptome waarvoor jy hormone neem, terugkom of erger word",
+      "red_flags": "- Die gekombineerde pil verhoog die risiko van 'n **bloedklont** effens. Kry **dringend** mediese hulp as jy **pyn en swelling in een been** het, of warm, rooi of donker vel op die been.\n- Bel **{{emergency}}** of gaan dadelik na die hospitaal se noodafdeling as jy **borspyn** het, **skielik kortasem** is of **bloed ophoes**: dit kan tekens van 'n bloedklont in die longe wees."
     },
     "contraception": {
       "title": "Voorbehoeding",

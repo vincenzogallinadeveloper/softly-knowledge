@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiozė",
+      "aliases": [
+        "adenomiozė",
+        "adeno",
+        "adenomioma",
+        "vidinė endometriozė",
+        "gausios ir skausmingos mėnesinės",
+        "padidėjusi gimda"
+      ],
+      "glance": "Adenomiozė – tai būklė, kai gimdos gleivinė įauga į gimdos sienelės raumenį. Ji gali sukelti gausias, skausmingas mėnesines.",
+      "overview": "Adenomiozė – tai būklė, kai audinys, kuris paprastai iškloja gimdos vidų, įauga į gimdos sienelės raumenį. Dažniau ji diagnozuojama vyresnėms nei 30 metų moterims ir toms, kurios yra gimdžiusios, tačiau gali pasireikšti bet kam, kas turi mėnesines. Jos priežastis nėra aiški.\n\nDažniausi požymiai – stiprūs menstruaciniai skausmai (kartais tokie stiprūs, kad negalite užsiimti įprasta veikla) ir gausios mėnesinės. Kai kurioms moterims ir kitu mėnesio metu skauda dubenį (apatinę pilvo dalį), jaučiamas pilvo pūtimas ar sunkumo, pilnumo jausmas pilve arba skausmas lytinių santykių metu. Kitoms jokių simptomų nebūna.\n\nTai kita liga nei endometriozė, kai gimdos gleivinei panašus audinys auga už gimdos ribų, pavyzdžiui, ant kiaušidžių. Kai kurie šių ligų simptomai panašūs, todėl, be kita ko, gali prireikti tyrimų, kad paaiškėtų, kas sukelia skausmą.",
+      "deep": "Šeimos gydytojas paprastai paklausia apie jūsų mėnesines ir gali švelniai apčiuopti pilvą; gali būti pasiūlyta ginekologinė apžiūra, ir galite paprašyti, kad jus apžiūrėtų moteris gydytoja arba kad šalia būtų kas nors kitas. Ultragarsinis tyrimas arba magnetinio rezonanso tomografija (MRT) gali padėti nustatyti adenomiozę arba atmesti kitas priežastis.\n\nSimptomus palengvinti gali gydymas. Gydytojas gali aptarti tokias galimybes: hormoninę spiralę (IUS), kuri suplonina gimdos gleivinę ir gali padaryti mėnesines negausesnes bei mažiau skausmingas; kitą hormoninę kontracepciją, pavyzdžiui, kombinuotas kontraceptines tabletes, tik progestogeno turinčias kontraceptines tabletes („mini tabletes“) ar pleistrą; nehormoninius vaistus nuo gausaus kraujavimo ar skausmo; o jei tai nepadeda, operaciją. Kadangi hormoniniai metodai gali padaryti mėnesines negausesnes arba jas sustabdyti, kai kurios moterys tabletes vartoja su mažiau pertraukų arba visai be jų – žr. „Kontraceptinių tablečių vartojimas be pertraukų“.\n\nŠiluma ant pilvo, TENS aparatas ir įprasti nuskausminamieji vaistai gali sušvelninti skausmą. Paprastas skausmo, kraujavimo ir kitų simptomų žymėjimas laikui bėgant padeda jums ir gydytojui matyti, kaip sekasi ir ar gydymas veikia.",
+      "when_to_see_doctor": "Verta apsilankyti pas šeimos gydytoją, jei:\n\n- mėnesinės tampa skausmingesnės, gausesnės ar nereguliarios\n- gausios mėnesinės trikdo jūsų gyvenimą arba jos gausios jau kurį laiką\n- jaučiate skausmą lytinių santykių metu\n- maždaug 3 savaites jaučiate pilvo pūtimą\n- kraujuojate tarp mėnesinių arba po lytinių santykių\n\nPrašykite skubaus vizito arba kreipkitės į budintį gydytoją, jei dubens ar menstruacinis skausmas stiprus arba stipresnis nei įprastai, o nuskausminamieji vaistai nepadėjo.",
+      "red_flags": "- Kreipkitės **skubios** medicininės pagalbos – susisiekite su gydytoju ar **budinčiu gydytoju**, o jei būklė sunki, skambinkite **{{emergency}}** / vykite į skubiosios pagalbos skyrių – jei **kraujuojate taip gausiai, kad kelias valandas iš eilės kas valandą visiškai permirksta vienas ar daugiau higieninių paketų**, arba jei **jaučiatės lyg tuoj nualpsite, svaigsta galva ar dūstate**. Tai gali būti per didelio kraujo netekimo požymiai."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkoholis nėštumo metu",
       "aliases": [
@@ -282,6 +298,24 @@
       "deep": "Kaip pagarba atrodo praktikoje:\n\n- **Klauskite ir pasitikslinkite.** „Ar taip gerai?“ – ir stebėkite, kaip ji reaguoja: žodžiais ir kūnu.\n- **Priimkite „ne“ oriai.** Be surūgusios minos, spaudimo ar bausmių. Jos atsakymas yra galutinis.\n- **Entuziazmas svarbus.** Jei ji atrodo nesava, dvejoja ar tiesiog nusileidžia, sustokite ir paklauskite.\n- **Jos kūnas – jos sprendimas** – dėl intymumo, kontracepcijos, nėštumo, jos sveikatos, išvaizdos ir pasirinkimų. Bendrame gyvenime turite teisę į savo nuomonę, bet niekada – teisės vetuoti tai, kas susiję su jos kūnu.\n- **Pagarba – kasdienis dalykas.** Tai, kaip su ja kalbate, kaip apie ją kalbate ir kaip gerbiate jos ribas smulkmenose, yra pamatas, ant kurio laikosi visa kita.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Kontraceptinių tablečių vartojimas be pertraukų",
+      "aliases": [
+        "tabletės be pertraukos",
+        "nepertraukiamas tablečių vartojimas",
+        "kontraceptinės tabletės be pertraukų",
+        "mėnesinių praleidimas su tabletėmis",
+        "be mėnesinių vartojant tabletes",
+        "ilgalaikis vartojimo režimas",
+        "mėnesinių slopinimas",
+        "tabletės be placebo"
+      ],
+      "glance": "Vartojant kontraceptines tabletes su trumpesnėmis pertraukomis, rečiau darant pertraukas arba visai be jų, kraujuojama rečiau arba visai nekraujuojama. Tai verta aptarti su gydytoju.",
+      "overview": "Kombinuotos kontraceptinės tabletės dažnai vartojamos 21 dieną, po to daroma 7 dienų pertrauka, arba vartojama „kasdienė“ pakuotė, kurioje yra kelios tabletės be hormonų (placebo). Per pertrauką arba vartojant placebo tabletes paprastai prasideda kraujavimas. Jis panašus į mėnesines, tačiau jį sukelia hormonų kiekio sumažėjimas, kai laikinai nustojate gerti tabletes, o ne natūralus jūsų ciklas.\n\nKai kurios moterys kombinuotas kontraceptines tabletes vartoja „pritaikytu“ būdu: su trumpesne pertrauka, rečiau darydamos pertraukas arba visai be pertraukos tarp pakuočių. Dėl to kraujavimas gali būti retesnis arba jo gali visai nebūti, be to, gali palengvėti su pertrauka susiję simptomai, pavyzdžiui, galvos skausmas ir kraujavimas. Ar tai jums tinka, priklauso nuo jūsų ir nuo jūsų tablečių rūšies, todėl verta tai aptarti su gydytoju, slaugytoja ar vaistininku.\n\nTik progestogeno turinčios kontraceptinės tabletės („mini tabletės“) yra kitokios: jos geriamos kasdien, be pertraukos. Jos, hormoninė spiralė (IUS) ir implantas gali pakeisti mėnesines: jos gali tapti negausesnės ar nereguliarios arba visai liautis.",
+      "deep": "Kai mėnesinės liaujasi dėl hormoninio metodo, tai yra tikėtinas hormonų poveikis, o ne ženklas, kad kažkas negerai. Negausus kraujavimas ar tepimas yra dažnas, ypač per pirmuosius mėnesius pradėjus naują metodą ar naują vartojimo būdą, ir laikui bėgant dažnai praeina. Jei kraujavimas tęsiasi, gydytojas gali paaiškinti galimybes – gali pasiūlyti trumpą pertrauką arba kitas tabletes ar kitą metodą.\n\nSergant kai kuriomis ligomis, kai mėnesinės sukelia stiprų skausmą ar gausų kraujavimą, – pavyzdžiui, endometrioze, adenomioze ar esant labai skausmingoms ar gausioms mėnesinėms, – gydytojai gali pasiūlyti hormoninių priemonių, kurios mėnesines padaro negausesnes arba jas sustabdo, ir viena iš jų gali būti tablečių vartojimas su mažiau pertraukų arba visai be jų. Hormonai gali palengvinti simptomus, tačiau šių ligų neišgydo.\n\nBe reguliaraus kraujavimo nėra ciklo, kurį galėtumėte stebėti, tačiau skausmo, kraujavimo ir kitų simptomų žymėjimas vis tiek parodo, kaip jaučiatės, ir šiuos įrašus naudinga pasiimti į vizitus pas gydytoją. Tai, kaip gerai tabletės apsaugo nuo nėštumo, vis tiek priklauso nuo to, ar jas vartojate pagal nurodymus; tablečių pakuotės lapelyje arba vaistininkas paaiškina, ką daryti, jei pamiršote išgerti tabletę.",
+      "when_to_see_doctor": "Verta pasitarti su gydytoju, slaugytoja ar vaistininku, jei:\n\n- norėtumėte vartoti tabletes su mažiau pertraukų arba visai be jų, ar pakeisti vartojimo būdą\n- kraujavimas ar tepimas tęsiasi, stiprėja arba jus vargina (turint hormoninę spiralę, verta, kad gydytojas įvertintų nereguliarų kraujavimą, trunkantį ilgiau nei maždaug 6 mėnesius)\n- kraujuojate po lytinių santykių arba atsirado naujas skausmas apatinėje pilvo dalyje\n- pamiršote išgerti tablečių ir turėjote lytinių santykių arba manote, kad galite būti nėščia\n- skausmas ar kiti simptomai, dėl kurių vartojate hormonus, sugrįžta arba pablogėja",
+      "red_flags": "- Kombinuotos kontraceptinės tabletės šiek tiek padidina **kraujo krešulių (trombozės)** riziką. Kreipkitės **skubios** medicininės pagalbos, jei jaučiate **vienos kojos skausmą ir tinimą** arba kojos oda šilta, paraudusi ar patamsėjusi.\n- Nedelsiant skambinkite **{{emergency}}** arba vykite į skubiosios pagalbos skyrių, jei jaučiate **krūtinės skausmą**, **staigų dusulį** arba **atsikosėjate krauju** – tai gali būti krešulio plaučiuose požymiai."
     },
     "contraception": {
       "title": "Kontracepcija",

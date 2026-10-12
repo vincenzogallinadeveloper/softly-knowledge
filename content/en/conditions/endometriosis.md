@@ -10,6 +10,8 @@ relations:
   - { type: related-to, target: menstrual-cycle }
   - { type: related-to, target: menstrual-phase }
   - { type: see-also, target: period-pain }
+  - { type: see-also, target: adenomyosis }
+  - { type: see-also, target: continuous-pill }
 
 sources:
   - org: WHO

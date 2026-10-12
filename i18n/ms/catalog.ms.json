@@ -6,6 +6,21 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiosis",
+      "aliases": [
+        "adenomiosis",
+        "adenomyosis",
+        "adeno",
+        "adenomioma",
+        "endometriosis dalaman"
+      ],
+      "glance": "Adenomiosis ialah keadaan apabila lapisan dalam rahim tumbuh ke dalam otot dinding rahim. Ia boleh menyebabkan haid yang banyak dan menyakitkan.",
+      "overview": "Adenomiosis ialah keadaan apabila tisu yang biasanya melapisi bahagian dalam rahim (uterus) tumbuh ke dalam otot pada dinding rahim. Ia lebih kerap didiagnosis pada wanita berumur lebih 30 tahun dan pada mereka yang pernah bersalin, tetapi ia boleh berlaku kepada sesiapa sahaja yang mengalami haid. Puncanya tidak jelas.\n\nTanda yang paling biasa ialah sakit haid yang teruk — kadangkala sehingga menghalang anda melakukan aktiviti biasa — dan haid yang banyak. Sesetengah orang juga mengalami sakit pelvis (di bahagian bawah perut) pada waktu lain dalam bulan itu, perut terasa kembung atau berat dan penuh, atau sakit semasa hubungan seks. Ada juga yang tidak mengalami sebarang gejala.\n\nIa keadaan yang berbeza daripada endometriosis, iaitu apabila tisu yang serupa dengan lapisan dinding rahim tumbuh di luar rahim, contohnya pada ovari. Sesetengah gejalanya bertindih, dan itulah salah satu sebab ujian mungkin diperlukan untuk mengetahui punca kesakitan.",
+      "deep": "Doktor klinik biasanya akan bertanya tentang haid anda dan mungkin merasa perut anda dengan lembut; pemeriksaan dalaman mungkin dicadangkan, dan anda boleh meminta doktor wanita atau meminta seseorang menemani anda. Imbasan ultrabunyi atau MRI boleh membantu mengenal pasti adenomiosis atau menolak punca lain.\n\nRawatan boleh membantu mengurangkan gejala. Pilihan yang mungkin dibincangkan oleh doktor termasuk IUD hormon (IUS), yang menipiskan lapisan dinding rahim dan boleh menjadikan haid lebih sedikit dan kurang sakit; kontraseptif hormon lain, seperti pil kombinasi, pil progestogen sahaja (pil mini) atau tampalan kontraseptif; ubat bukan hormon untuk pendarahan yang banyak atau kesakitan; dan, jika semua ini tidak membantu, pembedahan. Oleh sebab kaedah hormon boleh menjadikan haid lebih sedikit atau menghentikannya, sesetengah orang mengambil pil dengan kurang rehat atau tanpa rehat — lihat “Mengambil pil perancang tanpa rehat”.\n\nTuaman panas pada perut, mesin TENS dan ubat tahan sakit biasa boleh mengurangkan kesakitan. Menyimpan rekod ringkas tentang kesakitan, pendarahan dan gejala lain dari semasa ke semasa membantu anda dan doktor melihat perkembangannya dan sama ada sesuatu rawatan berkesan.",
+      "when_to_see_doctor": "Wajar berjumpa doktor klinik jika:\n\n- haid anda menjadi lebih sakit, lebih banyak atau tidak teratur\n- haid yang banyak menjejaskan kehidupan anda, atau sudah berlarutan untuk beberapa lama\n- anda mengalami sakit semasa hubungan seks\n- anda berasa kembung selama kira-kira 3 minggu\n- anda mengalami pendarahan di antara haid atau selepas hubungan seks\n\nMinta temu janji segera, atau hubungi perkhidmatan luar waktu pejabat, jika sakit pelvis atau sakit haid anda teruk atau lebih teruk daripada biasa dan ubat tahan sakit tidak membantu.",
+      "red_flags": "- Dapatkan bantuan perubatan **segera** — hubungi doktor atau **perkhidmatan luar waktu pejabat**, atau\n  hubungi **{{emergency}}** / pergi ke jabatan kecemasan jika keadaannya teruk — jika anda **berdarah\n  terlalu banyak sehingga tuala wanita basah kuyup, satu atau lebih setiap jam, selama beberapa jam\n  berturut-turut**, atau anda berasa **hendak pengsan, pening, atau sesak nafas**. Ini boleh menjadi tanda\n  kehilangan terlalu banyak darah."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol semasa hamil",
       "aliases": [
@@ -287,6 +302,24 @@
       "deep": "Bagaimana rasa hormat kelihatan dalam amalan:\n\n- **Tanya, dan periksa semula.** \"Okey tak ni?\" dan beri perhatian kepada responsnya — kata-kata dan\n  bahasa badannya.\n- **Terima \"tidak\" dengan baik.** Jangan merajuk, mendesak, atau menghukum. Jawapannya adalah muktamad.\n- **Kerelaan itu penting.** Jika dia kelihatan tidak pasti, teragak-agak atau sekadar menurut, berhenti\n  dan tanya.\n- **Tubuhnya, keputusannya** — tentang keintiman, kontraseptif, kehamilan, kesihatannya, penampilannya,\n  pilihannya. Anda ada suara dalam kehidupan yang dikongsi bersama, tetapi tidak sekali-kali kuasa veto\n  ke atas tubuhnya.\n- **Rasa hormat ialah amalan setiap hari.** Cara anda bercakap dengannya, bercakap tentangnya, dan\n  menghormati batasannya dalam perkara kecil ialah asas bagi segala-galanya.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Mengambil pil perancang tanpa rehat",
+      "aliases": [
+        "pil berterusan",
+        "pil perancang tanpa rehat",
+        "pil tanpa rehat",
+        "langkau haid dengan pil",
+        "tiada haid semasa ambil pil",
+        "tangguh haid dengan pil",
+        "regimen lanjutan",
+        "pil back-to-back"
+      ],
+      "glance": "Mengambil pil dengan tempoh rehat yang lebih singkat, lebih jarang atau tanpa rehat bermaksud pendarahan berlaku kurang kerap, atau langsung tidak berlaku. Ia perkara yang wajar dibincangkan dengan doktor atau jururawat.",
+      "overview": "Pil kombinasi selalunya diambil selama 21 hari diikuti rehat 7 hari, atau dalam pek “setiap hari” yang mengandungi beberapa biji pil plasebo (pil kosong). Semasa tempoh rehat, atau semasa mengambil pil plasebo, biasanya anda akan mengalami pendarahan. Ia kelihatan seperti haid, tetapi ia disebabkan oleh penurunan hormon apabila anda berhenti mengambil pil, bukan oleh kitaran semula jadi anda.\n\nSesetengah orang pula mengambil pil kombinasi secara “disesuaikan”: dengan tempoh rehat yang lebih singkat, kurang kerap berehat, atau tanpa rehat antara pek. Ini boleh menjadikan pendarahan kurang kerap, atau langsung tiada, dan boleh melegakan gejala yang datang bersama tempoh rehat, seperti sakit kepala dan pendarahan. Sama ada cara ini sesuai untuk anda bergantung pada diri anda dan jenis pil anda, jadi wajar membincangkannya dengan doktor, jururawat atau ahli farmasi.\n\nPil progestogen sahaja (pil mini) berbeza: ia diambil setiap hari, tanpa rehat. Pil ini, IUD hormon (IUS) dan implan kontraseptif semuanya boleh mengubah haid anda: haid mungkin menjadi lebih sedikit atau tidak teratur, atau berhenti sepenuhnya.",
+      "deep": "Apabila haid berhenti disebabkan kaedah hormon, itu kesan yang dijangka daripada hormon dan bukan tanda ada sesuatu yang tidak kena. Pendarahan ringan atau tompok darah adalah biasa, terutamanya pada bulan-bulan pertama menggunakan kaedah baharu atau cara pengambilan yang baharu, dan selalunya akan berkurangan dengan masa. Jika pendarahan berterusan, doktor atau jururawat boleh menerangkan pilihan yang ada — mereka mungkin mencadangkan rehat yang singkat, atau pil atau kaedah yang lain.\n\nBagi sesetengah keadaan apabila haid membawa kesakitan yang teruk atau pendarahan yang banyak — seperti endometriosis, adenomiosis, atau haid yang sangat sakit atau sangat banyak — doktor mungkin mencadangkan pilihan hormon yang menjadikan haid lebih sedikit atau menghentikannya, dan mengambil pil dengan kurang rehat atau tanpa rehat boleh menjadi salah satu daripadanya. Hormon boleh melegakan gejala, tetapi ia tidak menyembuhkan keadaan-keadaan ini.\n\nTanpa pendarahan yang teratur, tiada kitaran untuk diikuti, tetapi mencatat kesakitan, pendarahan dan gejala lain masih menunjukkan keadaan anda, dan berguna untuk dibawa semasa temu janji. Sejauh mana pil melindungi daripada kehamilan masih bergantung pada pengambilannya seperti yang dinasihatkan; risalah bersama pil anda, atau ahli farmasi, menerangkan apa yang perlu dilakukan jika anda terlupa mengambil sebiji.",
+      "when_to_see_doctor": "Wajar berbincang dengan doktor, jururawat atau ahli farmasi jika:\n\n- anda ingin mengambil pil dengan kurang rehat atau tanpa rehat, atau mengubah cara anda mengambilnya\n- pendarahan atau tompok darah berterusan, bertambah banyak atau mengganggu anda (bagi IUD hormon, pendarahan tidak teratur yang berlarutan lebih daripada kira-kira 6 bulan wajar diperiksa)\n- anda mengalami pendarahan selepas hubungan seks, atau sakit baharu di bahagian bawah perut\n- anda terlupa mengambil pil dan telah melakukan hubungan seks, atau fikir anda mungkin hamil\n- kesakitan atau gejala lain yang menjadi sebab anda mengambil hormon kembali atau bertambah teruk",
+      "red_flags": "- Pil kombinasi sedikit meningkatkan risiko **darah beku (trombosis)**. Dapatkan bantuan perubatan **segera** jika anda mengalami **sakit dan bengkak pada sebelah kaki**, atau kulit kaki terasa panas, merah atau menjadi gelap.\n- Hubungi **{{emergency}}** atau pergi ke jabatan kecemasan dengan serta-merta jika anda mengalami **sakit dada**, **sesak nafas secara tiba-tiba** atau **batuk berdarah** — ini boleh menjadi tanda darah beku di dalam paru-paru."
     },
     "contraception": {
       "title": "Kontraseptif",

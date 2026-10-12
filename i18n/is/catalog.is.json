@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenómýósa",
+      "aliases": [
+        "adenómýósa",
+        "adenomyosis",
+        "adeno",
+        "adenómýóma",
+        "legslímuflakk í legvegg",
+        "miklar og sársaukafullar blæðingar"
+      ],
+      "glance": "Adenómýósa er þegar legslímhúðin vex inn í vöðvann í legveggnum. Hún getur valdið miklum og sársaukafullum blæðingum.",
+      "overview": "Adenómýósa er ástand þar sem vefurinn sem venjulega klæðir legið að innan vex inn í vöðvann í legveggnum. Hún greinist oftar hjá konum yfir 30 ára aldri og hjá þeim sem hafa fætt barn, en hún getur komið fyrir alla sem fara á blæðingar. Orsökin er ekki ljós.\n\nAlgengustu einkennin eru miklir túrverkir, stundum svo slæmir að þú getur ekki sinnt því sem þú gerir venjulega, og miklar blæðingar. Sumar finna líka fyrir verkjum í grindarholi (neðarlega í kviðnum) á öðrum tímum mánaðarins, þembu eða þyngsla- og fyllingartilfinningu í kviðnum, eða verkjum við kynlíf. Aðrar eru alveg einkennalausar.\n\nÞetta er annar sjúkdómur en legslímuflakk, þar sem vefur líkur legslímhúðinni vex utan legsins, til dæmis á eggjastokkunum. Sum einkennin skarast, og það er ein ástæða þess að rannsóknir geta verið nauðsynlegar til að komast að því hvað veldur verkjunum.",
+      "deep": "Heimilislæknir spyr yfirleitt um blæðingarnar og þreifar ef til vill varlega á kviðnum; einnig getur verið stungið upp á innri skoðun, og þú getur beðið um kvenkyns lækni eða að einhver sé hjá þér. Ómskoðun eða segulómun getur hjálpað til við að finna adenómýósu eða útiloka aðrar orsakir.\n\nTil eru meðferðir sem geta dregið úr einkennunum. Meðal valkosta sem læknir getur rætt við þig eru hormónalykkjan (IUS), sem þynnir legslímhúðina og getur gert blæðingar minni og minna sársaukafullar; aðrar hormónagetnaðarvarnir, svo sem samsetta pillan, prógestógenpillan (minipillan) eða getnaðarvarnarplásturinn; lyf án hormóna við miklum blæðingum eða verkjum; og ef þetta hjálpar ekki, skurðaðgerð. Þar sem hormónaaðferðir geta gert blæðingar minni eða stöðvað þær taka sumar pilluna með færri hléum eða engum, sjá „Að taka pilluna án hlés“.\n\nHiti á kviðinn, TENS-tæki og venjuleg verkjalyf geta slegið á verkina. Að halda einfalda skrá yfir verki, blæðingar og önnur einkenni yfir tíma hjálpar þér og lækninum að sjá hvernig gengur og hvort meðferð virkar.",
+      "when_to_see_doctor": "Það er þess virði að leita til heimilislæknis ef:\n\n- blæðingarnar verða sársaukafyllri, meiri eða óreglulegar\n- miklar blæðingar hafa áhrif á líf þitt, eða hafa staðið yfir um nokkurt skeið\n- þú finnur fyrir verkjum við kynlíf\n- þú hefur verið með þembu í um það bil 3 vikur\n- þér blæðir á milli tíða eða eftir kynlíf\n\nBiddu um tíma samdægurs (bráðatíma), eða hafðu samband við vaktþjónustu utan dagvinnutíma, ef verkir í grindarholi eða túrverkir eru miklir eða verri en venjulega og verkjalyf hafa ekki hjálpað.",
+      "red_flags": "- Leitaðu **tafarlaust** læknishjálpar, hafðu samband við lækni eða **vaktþjónustu utan dagvinnutíma**, eða hringdu í **{{emergency}}** / farðu á bráðamóttöku ef ástandið er alvarlegt, ef **blæðingin er svo mikil að eitt dömubindi eða fleiri verða gegnblaut á hverri klukkustund fáeinar klukkustundir í röð**, eða ef þú finnur fyrir **yfirliðstilfinningu, sundli eða mæði**. Þetta geta verið merki um að þú sért að missa of mikið blóð."
+    },
     "alcohol-in-pregnancy": {
       "title": "Áfengi á meðgöngu",
       "aliases": [
@@ -278,6 +294,23 @@
       "deep": "Hvernig virðing lítur út í reynd:\n\n- **Spurðu, og athugaðu reglulega.** „Er þetta í lagi?“ og taktu eftir því hvernig hún bregst við, bæði í orðum og með líkamanum.\n- **Taktu „nei“ af háttvísi.** Engin fýla, enginn þrýstingur og engin refsing. Svar hennar er endanlegt.\n- **Áhugi skiptir máli.** Ef hún virðist óviss, hikandi eða bara að láta sig hafa það, hættu og spurðu.\n- **Hennar líkami, hennar ákvörðun**: um nánd, getnaðarvarnir, meðgöngu, heilsu sína, útlit sitt og val sitt. Þú hefur rödd í sameiginlegu lífi ykkar, en aldrei neitunarvald yfir líkama hennar.\n- **Virðing er dagleg.** Hvernig þú talar við hana og um hana og hvernig þú virðir mörk hennar í smáu er grunnurinn sem allt annað hvílir á.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Að taka pilluna án hlés",
+      "aliases": [
+        "pillan án hlés",
+        "samfelld pillutaka",
+        "taka pilluna samfleytt",
+        "sleppa blæðingum",
+        "fresta blæðingum",
+        "engar blæðingar á pillunni",
+        "lengd pillutaka"
+      ],
+      "glance": "Að taka pilluna með styttri hléum, færri hléum eða engum þýðir að þér blæðir sjaldnar, eða alls ekki. Það er eitthvað til að ræða við heilbrigðisstarfsmann.",
+      "overview": "Samsetta pillan er oft tekin í 21 dag og síðan er gert 7 daga hlé, eða úr „hversdags“-pakka sem inniheldur nokkrar lyfleysutöflur. Í hléinu, eða á meðan lyfleysutöflurnar eru teknar, færðu yfirleitt blæðingu. Hún líkist venjulegum blæðingum en stafar af því að hormónin falla þegar þú gerir hlé á pillunni, ekki af náttúrulegum tíðahring þínum.\n\nSumar taka samsettu pilluna í staðinn á „sérsniðinn“ hátt: með styttra hléi, færri hléum eða engu hléi á milli pakka. Það getur þýtt að þér blæði sjaldnar, eða alls ekki, og það getur dregið úr einkennum sem fylgja hléinu, eins og höfuðverk og blæðingu. Hvort þetta henti þér fer eftir þér og tegund pillunnar, svo það er þess virði að ræða það við lækni, hjúkrunarfræðing eða lyfjafræðing.\n\nPrógestógenpillan (minipillan) er öðruvísi: hún er tekin daglega, án hlés. Hún, hormónalykkjan (IUS) og hormónastafurinn geta öll breytt blæðingunum: þær geta orðið minni eða óreglulegar, eða hætt alveg.",
+      "deep": "Þegar blæðingar hætta vegna hormónaaðferðar eru það væntanleg áhrif hormónanna en ekki merki um að eitthvað sé að. Smáblæðingar eða blettablæðingar eru algengar, sérstaklega fyrstu mánuðina með nýja aðferð eða nýja leið til að taka hana, og þær jafna sig oft með tímanum. Ef blæðingin heldur áfram getur heilbrigðisstarfsmaður útskýrt valkostina, til dæmis stutt hlé eða aðra pillu eða aðferð.\n\nVið sumum sjúkdómum þar sem blæðingum fylgja miklir verkir eða miklar blæðingar, eins og legslímuflakki, adenómýósu eða mjög sársaukafullum eða miklum blæðingum, geta læknar stungið upp á hormónaúrræðum sem gera blæðingar minni eða stöðva þær, og að taka pilluna með færri hléum eða engum getur verið eitt þeirra. Hormón geta dregið úr einkennum en þau lækna ekki þessa sjúkdóma.\n\nÁn reglulegra blæðinga er enginn tíðahringur til að fylgjast með, en að skrá verki, blæðingar og önnur einkenni sýnir samt hvernig þér líður, og það er gagnlegt að hafa með sér í læknisheimsóknir. Hversu vel pillan verndar gegn þungun veltur áfram á því að hún sé tekin samkvæmt leiðbeiningum; fylgiseðillinn með pillunum, eða lyfjafræðingur, útskýrir hvað á að gera ef þú gleymir einni.",
+      "when_to_see_doctor": "Það er þess virði að ræða við lækni, hjúkrunarfræðing eða lyfjafræðing ef:\n\n- þú vilt taka pilluna með færri hléum eða engum, eða breyta því hvernig þú tekur hana\n- blæðingar eða blettablæðingar halda áfram, aukast eða angra þig (með hormónalykkju er rétt að láta skoða óreglulegar blæðingar sem standa lengur en um 6 mánuði)\n- þér blæðir eftir kynlíf eða þú færð nýja verki neðarlega í kviðnum\n- þú hefur gleymt pillum og stundað kynlíf, eða heldur að þú gætir verið þunguð\n- verkirnir eða önnur einkenni sem þú tekur hormón við koma aftur eða versna",
+      "red_flags": "- Samsetta pillan eykur lítillega hættuna á **blóðtappa**. Leitaðu **tafarlaust** læknishjálpar ef þú færð **verk og bólgu í öðrum fætinum**, eða ef húðin á fætinum verður heit, rauð eða dökk.\n- Hringdu í **{{emergency}}** eða farðu strax á bráðamóttöku ef þú færð **brjóstverk**, **skyndilega mæði** eða **hóstar upp blóði**; þetta geta verið merki um blóðtappa í lungum."
     },
     "contraception": {
       "title": "Getnaðarvarnir",

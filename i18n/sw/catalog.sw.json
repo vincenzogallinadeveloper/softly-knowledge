@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyosis",
+      "aliases": [
+        "adenomyosis",
+        "adeno",
+        "adenomyoma",
+        "adenomiosisi",
+        "endometriosis ya ndani",
+        "endometriosis ndani ya msuli wa mfuko wa uzazi"
+      ],
+      "glance": "Adenomyosis ni hali ambapo ukuta wa ndani wa mfuko wa uzazi hukua na kuingia ndani ya msuli wa ukuta wa mfuko wa uzazi. Inaweza kusababisha hedhi nzito na zenye maumivu.",
+      "overview": "Adenomyosis ni hali ambapo tishu ambazo kwa kawaida hufunika upande wa ndani wa mfuko wa uzazi (uterasi) hukua na kuingia ndani ya msuli ulio kwenye ukuta wa mfuko wa uzazi. Hutambuliwa mara nyingi zaidi kwa wanawake wenye umri wa zaidi ya miaka 30, na kwa watu waliowahi kujifungua, lakini inaweza kumpata mtu yeyote anayepata hedhi. Chanzo chake hakiko wazi.\n\nDalili za kawaida zaidi ni maumivu makali ya hedhi — wakati mwingine makali kiasi cha kukuzuia kufanya shughuli zako za kawaida — na hedhi nzito. Baadhi ya watu pia hupata maumivu ya nyonga (sehemu ya chini ya tumbo) nyakati nyingine za mwezi, hisia ya tumbo kuvimba au kuwa zito na kujaa, au maumivu wakati wa kujamiiana. Wengine hawana dalili zozote.\n\nNi hali tofauti na endometriosis, ambapo tishu zinazofanana na ukuta wa ndani wa mfuko wa uzazi hukua nje ya mfuko wa uzazi, kwa mfano kwenye ovari. Baadhi ya dalili za hali hizi mbili zinafanana, na hiyo ni mojawapo ya sababu kwa nini vipimo vinaweza kuhitajika ili kujua kinachosababisha maumivu.",
+      "deep": "Daktari wa familia kwa kawaida atakuuliza kuhusu hedhi zako na anaweza kupapasa tumbo lako kwa upole; anaweza kupendekeza uchunguzi wa ndani, na unaweza kuomba uchunguzwe na daktari mwanamke au mtu awe pamoja nawe. Kipimo cha ultrasound au MRI kinaweza kusaidia kugundua adenomyosis au kuondoa uwezekano wa sababu nyingine.\n\nMatibabu yanaweza kusaidia kupunguza dalili. Chaguo ambazo mhudumu wa afya anaweza kujadili nawe ni pamoja na kitanzi cha homoni (IUS), ambacho hupunguza unene wa ukuta wa ndani wa mfuko wa uzazi na kinaweza kufanya hedhi kuwa nyepesi na zenye maumivu kidogo; njia nyingine za uzazi wa mpango za homoni, kama vile kidonge cha mchanganyiko, kidonge cha projestojeni pekee au kibandiko; dawa zisizo za homoni kwa kutokwa na damu nyingi au maumivu; na, ikiwa hizi hazisaidii, upasuaji. Kwa kuwa njia za homoni zinaweza kufanya hedhi kuwa nyepesi au kuzisimamisha, baadhi ya watu humeza kidonge na mapumziko machache au bila mapumziko kabisa — angalia \"Kumeza kidonge bila mapumziko.\"\n\nJoto juu ya tumbo, mashine ya TENS na dawa za kawaida za kupunguza maumivu zinaweza kupunguza ukali wa maumivu. Kuweka kumbukumbu rahisi za maumivu yako, kutokwa na damu na dalili nyingine kwa muda hukusaidia wewe na daktari wako kuona hali inavyoendelea na kama matibabu yanafanya kazi.",
+      "when_to_see_doctor": "Inafaa kumwona daktari wa familia ikiwa:\n\n- hedhi zako zinakuwa na maumivu zaidi, nzito zaidi au zisizo na mpangilio\n- hedhi nzito zinaathiri maisha yako, au zimeendelea kwa muda\n- una maumivu wakati wa kujamiiana\n- umejisikia tumbo limevimba kwa takriban wiki 3\n- unatokwa na damu kati ya hedhi au baada ya kujamiiana\n\nOmba miadi ya haraka, au wasiliana na huduma ya matibabu ya nje ya saa za kazi, ikiwa maumivu yako ya nyonga au ya hedhi ni makali au mabaya kuliko kawaida na dawa za kupunguza maumivu hazijasaidia.",
+      "red_flags": "- Pata msaada wa kitabibu **wa haraka** — wasiliana na daktari au **huduma ya nje ya saa za kazi**, au piga **{{emergency}}** / nenda idara ya dharura hospitalini ikiwa hali ni mbaya sana — ikiwa **unatokwa na damu nyingi kiasi kwamba pedi moja au zaidi inalowa damu kabisa kila saa kwa saa chache mfululizo**, au unahisi **kama unataka kuzimia, kizunguzungu, au kukosa pumzi**. Hizi zinaweza kuwa ishara za kupoteza damu nyingi mno."
+    },
     "alcohol-in-pregnancy": {
       "title": "Pombe wakati wa ujauzito",
       "aliases": [
@@ -281,6 +297,24 @@
       "deep": "Heshima inavyoonekana kwa vitendo:\n\n- **Uliza, na endelea kuhakikisha.** \"Je, hivi ni sawa?\" na kuzingatia jinsi anavyoitikia — kwa maneno na kwa mwili.\n- **Pokea \"hapana\" kwa staha.** Bila kununa, kushinikiza, au kuadhibu. Jibu lake ndilo mwisho wa jambo hilo.\n- **Shauku ni muhimu.** Ikiwa anaonekana hana uhakika, anasita au anakubali tu kwa kufuata mkondo, acha na umuulize.\n- **Mwili wake, uamuzi wake** — kuhusu ukaribu wa kimapenzi, uzazi wa mpango, ujauzito, afya yake, mwonekano wake, maamuzi yake. Una sauti katika maisha yenu ya pamoja, lakini kamwe huna kura ya turufu juu ya mwili wake.\n- **Heshima ni ya kila siku.** Jinsi unavyozungumza naye, unavyomzungumzia, na unavyoheshimu mipaka yake katika mambo madogo ndio msingi ambao kila kitu kingine hujengwa juu yake.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Kumeza kidonge bila mapumziko",
+      "aliases": [
+        "kidonge bila mapumziko",
+        "kumeza vidonge mfululizo",
+        "kuruka hedhi kwa vidonge",
+        "kusogeza hedhi kwa vidonge",
+        "kutopata hedhi ukitumia vidonge",
+        "kuzuia hedhi",
+        "mpango mrefu wa vidonge",
+        "continuous pill"
+      ],
+      "glance": "Kumeza kidonge na mapumziko mafupi zaidi, mapumziko machache au bila mapumziko kabisa humaanisha kutokwa na damu mara chache, au kutotokwa kabisa. Ni jambo la kujadili na mhudumu wa afya.",
+      "overview": "Kidonge cha mchanganyiko mara nyingi humezwa kwa siku 21 kisha mapumziko ya siku 7, au katika pakiti ya \"kila siku\" yenye vidonge vichache visivyo na dawa (placebo). Wakati wa mapumziko, au wakati wa kumeza vidonge hivyo visivyo na dawa, kwa kawaida hutokwa na damu. Damu hii inaonekana kama hedhi, lakini husababishwa na kushuka kwa homoni unaposimamisha kidonge kwa muda, si na mzunguko wako wa asili.\n\nBadala yake, baadhi ya watu humeza kidonge cha mchanganyiko kwa njia \"iliyorekebishwa\": na mapumziko mafupi zaidi, mapumziko machache, au bila mapumziko kati ya pakiti. Hii inaweza kumaanisha kutokwa na damu mara chache, au kutotokwa kabisa, na inaweza kupunguza dalili zinazokuja na mapumziko, kama vile maumivu ya kichwa na kutokwa na damu. Kama njia hii inakufaa inategemea wewe na aina ya kidonge chako, kwa hiyo inafaa kulizungumzia na daktari, muuguzi au mfamasia.\n\nKidonge cha projestojeni pekee ni tofauti: humezwa kila siku, bila mapumziko. Kidonge hiki, kitanzi cha homoni (IUS) na kipandikizi vyote vinaweza kubadilisha hedhi zako: zinaweza kuwa nyepesi au zisizo na mpangilio, au kusimama kabisa.",
+      "deep": "Hedhi zinaposimama kwa sababu ya njia ya homoni, hiyo ni athari inayotarajiwa ya homoni na si ishara kwamba kuna tatizo. Kutokwa na damu kidogo au matone ya damu ni jambo la kawaida, hasa katika miezi ya kwanza ya njia mpya au ya namna mpya ya kuitumia, na mara nyingi hupungua kadiri muda unavyopita. Ikiwa kutokwa na damu kunaendelea, mhudumu wa afya anaweza kukueleza chaguo zilizopo — anaweza kupendekeza mapumziko mafupi, au kidonge au njia nyingine.\n\nKwa baadhi ya hali ambapo hedhi huleta maumivu mengi au kutokwa na damu nyingi — kama vile endometriosis, adenomyosis, au hedhi zenye maumivu makali sana au nzito sana — wahudumu wa afya wanaweza kupendekeza chaguo za homoni zinazofanya hedhi kuwa nyepesi au kuzisimamisha, na kumeza kidonge na mapumziko machache au bila mapumziko kabisa kunaweza kuwa mojawapo. Homoni zinaweza kupunguza dalili, lakini haziponyi hali hizi.\n\nBila kutokwa na damu kwa mpangilio, hakuna mzunguko wa kufuatilia, lakini kuandika maumivu, kutokwa na damu na dalili nyingine bado huonyesha hali yako inavyoendelea, na ni muhimu kwenda navyo kwenye miadi. Jinsi kidonge kinavyokukinga dhidi ya mimba bado hutegemea kukimeza kama ulivyoelekezwa; kijikaratasi kilicho ndani ya pakiti ya vidonge vyako, au mfamasia, hueleza la kufanya ukisahau kidonge kimoja.",
+      "when_to_see_doctor": "Inafaa kuzungumza na daktari, muuguzi au mfamasia ikiwa:\n\n- ungependa kumeza kidonge chako na mapumziko machache au bila mapumziko kabisa, au kubadilisha jinsi unavyokimeza\n- kutokwa na damu au matone ya damu kunaendelea, kunaongezeka, au kunakusumbua (ukitumia kitanzi cha homoni, kutokwa na damu bila mpangilio kunakodumu zaidi ya takriban miezi 6 kunastahili kuchunguzwa na daktari)\n- unatokwa na damu baada ya kujamiiana, au una maumivu mapya sehemu ya chini ya tumbo\n- umesahau vidonge na ukajamiiana, au unadhani huenda una mimba\n- maumivu au dalili nyingine unazotumia homoni kwa ajili yake zinarudi au zinazidi kuwa mbaya",
+      "red_flags": "- Kidonge cha mchanganyiko huongeza kidogo hatari ya **damu kuganda (bonge la damu)**. Pata msaada wa kitabibu **wa haraka** ikiwa una **maumivu na uvimbe kwenye mguu mmoja**, au ngozi ya mguu yenye joto, nyekundu au iliyobadilika rangi kuwa nyeusi zaidi.\n- Piga **{{emergency}}** au nenda idara ya dharura hospitalini mara moja ikiwa una **maumivu ya kifua**, **kukosa pumzi ghafla** au **unakohoa damu** — hizi zinaweza kuwa ishara za bonge la damu kwenye mapafu."
     },
     "contraception": {
       "title": "Uzazi wa mpango",

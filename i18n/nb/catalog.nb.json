@@ -7,6 +7,22 @@
     "partial": false
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomyose",
+      "aliases": [
+        "adenomyose",
+        "adeno",
+        "adenomyom",
+        "endometriose i livmorveggen",
+        "indre endometriose",
+        "kraftig og smertefull mens"
+      ],
+      "glance": "Adenomyose er når livmorslimhinnen vokser inn i muskelen i livmorveggen. Det kan gi kraftige og smertefulle menstruasjoner.",
+      "overview": "Adenomyose er en tilstand der vevet som vanligvis kler innsiden av livmoren, vokser inn i muskelen i\nlivmorveggen. Den blir oftere oppdaget hos kvinner over 30 og hos dem som har født, men den kan ramme\nalle som har menstruasjon. Årsaken er ikke klarlagt.\n\nDe vanligste tegnene er sterke menstruasjonssmerter – noen ganger så ille at du ikke klarer å gjøre det\ndu pleier – og kraftige menstruasjoner. Noen har også smerter i bekkenet (nederst i magen) på andre\ntider av måneden, en oppblåst eller tung, full følelse i magen, eller smerter ved samleie. Andre har\ningen symptomer i det hele tatt.\n\nDet er en annen tilstand enn endometriose, der vev som ligner livmorslimhinnen vokser utenfor livmoren,\nfor eksempel på eggstokkene. Noen av symptomene overlapper, og det er en av grunnene til at det kan\ntrengs undersøkelser for å finne ut hva smertene skyldes.",
+      "deep": "Fastlegen vil vanligvis spørre om menstruasjonen din og kan forsiktig kjenne på magen; en gynekologisk\nundersøkelse kan bli foreslått, og du kan be om en kvinnelig lege eller om å ha noen med deg. Ultralyd\neller MR kan hjelpe med å finne adenomyose eller utelukke andre årsaker.\n\nDet finnes behandlinger som kan hjelpe mot symptomene. Alternativer legen kan ta opp med deg, er blant\nannet hormonspiralen (IUS), som gjør livmorslimhinnen tynnere og kan gjøre menstruasjonen lettere og\nmindre smertefull; annen hormonell prevensjon, som kombinasjonspillen, minipillen eller p-plasteret;\nikke-hormonelle medisiner mot kraftig blødning eller smerter; og, hvis dette ikke hjelper, kirurgi.\nFordi hormonelle metoder kan gjøre menstruasjonen lettere eller få den til å stoppe, tar noen p-pillen\nmed færre pauser eller uten pause – se «Å ta p-pillen uten pause».\n\nVarme på magen, en TENS-maskin og vanlige smertestillende kan dempe smertene. Å føre en enkel oversikt\nover smerter, blødning og andre symptomer over tid hjelper deg og legen med å se hvordan det går, og om\nen behandling virker.",
+      "when_to_see_doctor": "Det er lurt å oppsøke fastlegen hvis:\n\n- menstruasjonene blir mer smertefulle, kraftigere eller uregelmessige\n- kraftige menstruasjoner påvirker livet ditt, eller har vart en stund\n- du har smerter ved samleie\n- du har følt deg oppblåst i omtrent 3 uker\n- du blør mellom menstruasjonene eller etter samleie\n\nBe om en hastetime, eller kontakt legevakten, hvis smertene i bekkenet eller menstruasjonssmertene er\nsterke eller verre enn vanlig og smertestillende ikke har hjulpet.",
+      "red_flags": "- Skaff deg **akutt** medisinsk hjelp — kontakt lege eller **legevakten**, eller ring **{{emergency}}** / oppsøk akuttmottaket hvis tilstanden er alvorlig — hvis du\n  **blør så kraftig at du gjennomvætter et bind eller flere hver time i flere timer på rad**, eller hvis du\n  føler deg **nær ved å besvime, svimmel eller kortpustet**. Dette kan være tegn på at du mister for mye blod."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol i svangerskapet",
       "aliases": [
@@ -266,6 +282,24 @@
       "deep": "Hvordan ser respekt ut i praksis:\n\n- **Spør og sjekk inn.** \"Er dette greit?\" og ta hensyn til hvordan hun reagerer - ord og kropp.\n- **Godta et \"nei\" med verdighet.** Ingen surmuling, press eller straff. Svaret hennes er slutten på det.\n- **Entusiasme betyr noe.** Hvis hun virker usikker, nølende eller bare blir med på det, stopp og spør.\n- **Kroppen hennes, hennes valg** - om intimitet, prevensjon, graviditet, helsen hennes, utseendet hennes, hennes\n  valg. Du får en stemme i deres felles liv, aldri veto over kroppen hennes.\n- **Respekt er daglig.** Hvordan du snakker til henne, om henne og behandler grensene hennes i små ting er\n  grunnlaget alt annet hviler på.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Å ta p-pillen uten pause",
+      "aliases": [
+        "p-pille uten pause",
+        "langtidsbruk av p-piller",
+        "ta p-piller sammenhengende",
+        "hoppe over mensen",
+        "utsette mensen",
+        "ingen mens på p-piller",
+        "kontinuerlig p-pillebruk",
+        "forlenget bruk"
+      ],
+      "glance": "Å ta p-pillen med kortere pauser, færre pauser eller uten pause betyr at du blør sjeldnere, eller ikke i det hele tatt. Det er noe du kan ta opp med legen.",
+      "overview": "Kombinasjonspillen tas ofte i 21 dager etterfulgt av 7 dagers pause, eller som en «hverdagspakning» med\nnoen få placebopiller (narrepiller). I pausen, eller mens du tar placebopillene, får du vanligvis en\nblødning. Den ligner en menstruasjon, men den skyldes at hormonnivået faller når du tar pause fra\npillen, og ikke din naturlige syklus.\n\nNoen tar i stedet kombinasjonspillen på en «tilpasset» måte: med kortere pause, færre pauser eller\ningen pause mellom pakningene. Det kan bety at du blør sjeldnere, eller ikke i det hele tatt, og det kan\nlindre plager som kommer i pausen, for eksempel hodepine og blødning. Om det passer for deg, avhenger av\ndeg og av hvilken type p-pille du bruker, så det er lurt å snakke gjennom det med lege, sykepleier eller\nfarmasøyt.\n\nMinipillen er annerledes: den tas hver dag, uten pause. Minipillen, hormonspiralen (IUS) og implantatet\nkan alle endre menstruasjonen: den kan bli lettere eller uregelmessig, eller stoppe helt.",
+      "deep": "Når menstruasjonen stopper på grunn av en hormonell metode, er det en forventet virkning av hormonene og\nikke et tegn på at noe er galt. Lett blødning eller flekkblødning er vanlig, særlig de første månedene\nmed en ny metode eller en ny måte å ta den på, og det går ofte over med tiden. Hvis blødningen\nfortsetter, kan legen forklare hvilke muligheter som finnes – for eksempel en kort pause, eller en annen\npille eller metode.\n\nVed noen tilstander der menstruasjonen gir mye smerter eller kraftig blødning – som endometriose,\nadenomyose eller svært smertefulle eller kraftige menstruasjoner – kan leger foreslå hormonelle\nalternativer som gjør menstruasjonen lettere eller får den til å stoppe, og å ta p-pillen med færre\npauser eller uten pause kan være ett av dem. Hormoner kan lindre symptomene, men de kurerer ikke disse\ntilstandene.\n\nUten en regelmessig blødning er det ingen syklus å følge, men å notere smerter, blødning og andre\nsymptomer viser likevel hvordan du har det, og det er nyttig å ta med til legetimer. Hvor godt pillen\nbeskytter mot graviditet, avhenger fortsatt av at du tar den som anbefalt; pakningsvedlegget, eller\napoteket, forklarer hva du skal gjøre hvis du glemmer en pille.",
+      "when_to_see_doctor": "Det er lurt å snakke med lege, sykepleier eller farmasøyt hvis:\n\n- du vil ta p-pillen med færre pauser eller uten pause, eller endre måten du tar den på\n- blødning eller flekkblødning fortsetter, blir kraftigere eller plager deg (med hormonspiral er\n  uregelmessig blødning som varer mer enn omtrent 6 måneder verdt å få sjekket)\n- du blør etter samleie, eller har nye smerter nederst i magen\n- du har glemt piller og hatt samleie, eller tror du kan være gravid\n- smertene eller de andre symptomene du tar hormoner mot, kommer tilbake eller blir verre",
+      "red_flags": "- Kombinasjonspillen øker risikoen for **blodpropp** noe. Skaff deg **akutt** medisinsk hjelp hvis du\n  får **smerter og hevelse i det ene beinet**, eller varm, rød eller mørkere hud på beinet.\n- Ring **{{emergency}}** eller dra til akuttmottaket med en gang hvis du får **brystsmerter**,\n  **plutselig åndenød** eller **hoster opp blod** – dette kan være tegn på en blodpropp i lungene."
     },
     "contraception": {
       "title": "Prevensjon",

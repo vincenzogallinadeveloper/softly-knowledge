@@ -7,6 +7,22 @@
     "partial": true
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiosis",
+      "aliases": [
+        "adenomiosis",
+        "adenomyosis",
+        "adeno",
+        "adenomioma",
+        "adenomiosis uteri",
+        "endometriosis interna"
+      ],
+      "glance": "Adenomiosis adalah kondisi ketika lapisan rahim tumbuh ke dalam otot dinding rahim. Kondisi ini dapat menyebabkan haid yang banyak dan terasa nyeri.",
+      "overview": "Adenomiosis adalah kondisi ketika jaringan yang biasanya melapisi bagian dalam rahim (uterus) tumbuh ke dalam otot dinding rahim. Kondisi ini lebih sering didiagnosis pada perempuan berusia di atas 30 tahun dan pada orang yang pernah melahirkan, tetapi dapat dialami siapa saja yang mengalami haid. Penyebabnya belum jelas.\n\nTanda yang paling umum adalah nyeri haid yang hebat — kadang sampai membuat Anda tidak bisa menjalani aktivitas seperti biasa — dan haid yang banyak. Sebagian orang juga mengalami nyeri panggul (di perut bagian bawah) di waktu lain dalam sebulan, perut terasa kembung atau berat dan penuh, atau nyeri saat berhubungan seks. Ada juga yang sama sekali tidak mengalami gejala.\n\nAdenomiosis berbeda dengan endometriosis, yaitu kondisi ketika jaringan yang mirip lapisan rahim tumbuh di luar rahim, misalnya di indung telur (ovarium). Sebagian gejalanya mirip, dan itulah salah satu alasan mengapa pemeriksaan mungkin diperlukan untuk mengetahui apa penyebab nyerinya.",
+      "deep": "Dokter umum biasanya akan menanyakan tentang haid Anda dan mungkin meraba perut Anda dengan lembut; pemeriksaan dalam mungkin disarankan, dan Anda boleh meminta dokter perempuan atau meminta seseorang mendampingi Anda. USG atau pemeriksaan MRI dapat membantu menemukan adenomiosis atau menyingkirkan penyebab lain.\n\nAda pengobatan yang dapat membantu meredakan gejala. Pilihan yang mungkin dibahas oleh tenaga medis antara lain spiral hormonal (IUS), yang menipiskan lapisan rahim dan dapat membuat haid lebih sedikit dan tidak terlalu nyeri; kontrasepsi hormonal lainnya, seperti pil kombinasi, pil progestogen saja (pil mini), atau koyo kontrasepsi (patch); obat nonhormonal untuk perdarahan yang banyak atau nyeri; dan, jika semua itu tidak membantu, operasi. Karena metode hormonal dapat membuat haid lebih sedikit atau berhenti, sebagian orang minum pil dengan jeda yang lebih jarang atau tanpa jeda sama sekali — lihat “Minum pil KB tanpa jeda”.\n\nKompres hangat di perut, alat TENS, dan obat pereda nyeri yang biasa dapat mengurangi nyeri. Mencatat nyeri, perdarahan, dan gejala lainnya secara sederhana dari waktu ke waktu membantu Anda dan dokter melihat perkembangannya dan apakah suatu pengobatan berhasil.",
+      "when_to_see_doctor": "Sebaiknya Anda menemui dokter umum jika:\n\n- haid Anda menjadi lebih nyeri, lebih banyak, atau tidak teratur\n- haid yang banyak memengaruhi kehidupan Anda, atau sudah berlangsung cukup lama\n- Anda merasakan nyeri saat berhubungan seks\n- Anda merasa kembung selama sekitar 3 minggu\n- Anda mengalami perdarahan di antara periode menstruasi atau setelah berhubungan seks\n\nMintalah janji temu yang mendesak, atau hubungi layanan dokter jaga, jika nyeri panggul atau nyeri haid Anda hebat atau lebih parah dari biasanya dan obat pereda nyeri tidak membantu.",
+      "red_flags": "- Segera dapatkan bantuan medis **darurat** — hubungi dokter atau **layanan dokter jaga**, atau hubungi **{{emergency}}** / kunjungi Unit Gawat Darurat (UGD) jika kondisinya parah — jika Anda **mengalami pendarahan sangat hebat hingga membasahi satu pembalut atau lebih setiap jam selama beberapa jam berturut-turut**, atau Anda merasa **hampir pingsan, pusing, atau sesak napas**. Hal-hal ini bisa menjadi tanda-tanda kehilangan darah yang terlalu banyak."
+    },
     "alcohol-in-pregnancy": {
       "title": "Minuman beralkohol selama kehamilan",
       "aliases": [
@@ -266,6 +282,24 @@
       "deep": "Seperti apa rasa hormat dalam praktiknya:\n\n- **Bertanya, dan pastikan lagi.** \"Apakah ini oke?\" dan perhatikan bagaimana dia merespons — lewat kata-kata maupun bahasa tubuhnya.\n- **Terima kata \"tidak\" dengan lapang dada.** Tanpa merajuk, menekan, atau menghukum. Jawabannya adalah akhir dari pembahasan.\n- **Antusiasme itu penting.** Jika dia tampak tidak yakin, ragu-ragu, atau sekadar ikut saja, berhentilah dan tanyakan.\n- **Tubuhnya, keputusannya** — tentang keintiman, kontrasepsi, kehamilan, kesehatannya, penampilannya, dan\n  pilihan-pilihannya. Anda punya suara dalam kehidupan bersama, tetapi tidak pernah punya hak veto atas tubuhnya.\n- **Rasa hormat itu setiap hari.** Cara Anda berbicara kepadanya, membicarakan dirinya, dan menghargai batasannya dalam hal-hal kecil adalah\n  fondasi tempat segala hal lain bertumpu.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Minum pil KB tanpa jeda",
+      "aliases": [
+        "pil KB terus-menerus",
+        "pil kontinu",
+        "minum pil tanpa jeda",
+        "pil KB tanpa jeda",
+        "melewatkan haid dengan pil KB",
+        "tidak haid saat minum pil KB",
+        "menunda haid dengan pil KB",
+        "regimen diperpanjang"
+      ],
+      "glance": "Minum pil dengan jeda yang lebih singkat, lebih jarang, atau tanpa jeda sama sekali berarti perdarahan lebih jarang terjadi, atau tidak terjadi sama sekali. Hal ini perlu dibicarakan dengan tenaga medis.",
+      "overview": "Pil kombinasi sering diminum selama 21 hari lalu diikuti jeda 7 hari, atau dalam kemasan “setiap hari” yang berisi beberapa pil plasebo (pil kosong). Selama jeda, atau saat minum pil plasebo, biasanya terjadi perdarahan. Perdarahan ini tampak seperti haid, tetapi disebabkan oleh turunnya kadar hormon saat Anda berhenti minum pil, bukan oleh siklus alami Anda.\n\nSebagian orang memilih minum pil kombinasi dengan cara yang “disesuaikan”: dengan jeda yang lebih singkat, jeda yang lebih jarang, atau tanpa jeda di antara kemasan. Cara ini dapat membuat perdarahan lebih jarang, atau tidak terjadi sama sekali, dan dapat meredakan keluhan yang muncul saat jeda, seperti sakit kepala dan perdarahan. Cocok atau tidaknya bagi Anda bergantung pada kondisi Anda dan jenis pil Anda, jadi sebaiknya bicarakan dengan dokter, perawat, atau apoteker.\n\nPil progestogen saja (pil mini) berbeda: pil ini diminum setiap hari, tanpa jeda. Pil ini, spiral hormonal (IUS), dan implan kontrasepsi dapat mengubah haid Anda: haid bisa menjadi lebih sedikit atau tidak teratur, atau berhenti sama sekali.",
+      "deep": "Ketika haid berhenti karena metode hormonal, itu adalah efek hormon yang memang diharapkan, bukan tanda ada yang salah. Perdarahan ringan atau bercak sering terjadi, terutama pada bulan-bulan pertama menggunakan metode baru atau cara minum yang baru, dan sering kali mereda seiring waktu. Jika perdarahan terus berlanjut, tenaga medis dapat menjelaskan pilihan yang ada — mereka mungkin menyarankan jeda singkat, atau pil atau metode yang berbeda.\n\nUntuk beberapa kondisi ketika haid disertai nyeri hebat atau perdarahan yang banyak — seperti endometriosis, adenomiosis, atau haid yang sangat nyeri atau sangat banyak — tenaga medis mungkin menyarankan pilihan hormonal yang membuat haid lebih sedikit atau berhenti, dan minum pil dengan jeda lebih jarang atau tanpa jeda bisa menjadi salah satunya. Hormon dapat meredakan gejala, tetapi tidak menyembuhkan kondisi-kondisi ini.\n\nTanpa perdarahan yang teratur, tidak ada siklus yang bisa diikuti, tetapi mencatat nyeri, perdarahan, dan gejala lainnya tetap menunjukkan bagaimana keadaan Anda, dan berguna untuk dibawa saat konsultasi. Seberapa baik pil melindungi dari kehamilan tetap bergantung pada cara Anda meminumnya sesuai anjuran; brosur di dalam kemasan pil, atau apoteker, menjelaskan apa yang harus dilakukan jika Anda lupa minum satu pil.",
+      "when_to_see_doctor": "Sebaiknya Anda berbicara dengan dokter, perawat, atau apoteker jika:\n\n- Anda ingin minum pil dengan jeda lebih jarang atau tanpa jeda, atau ingin mengubah cara minumnya\n- perdarahan atau bercak terus berlanjut, bertambah banyak, atau mengganggu Anda (jika menggunakan spiral hormonal, perdarahan tidak teratur yang berlangsung lebih dari sekitar 6 bulan sebaiknya diperiksakan)\n- Anda mengalami perdarahan setelah berhubungan seks, atau muncul nyeri baru di perut bagian bawah\n- Anda lupa minum pil lalu berhubungan seks, atau merasa mungkin hamil\n- nyeri atau gejala lain yang menjadi alasan Anda menggunakan hormon muncul kembali atau memburuk",
+      "red_flags": "- Pil kombinasi sedikit meningkatkan risiko **gumpalan darah (trombosis)**. Segera dapatkan bantuan medis **darurat** jika Anda mengalami **nyeri dan bengkak di satu kaki**, atau kulit kaki terasa hangat, kemerahan, atau menjadi lebih gelap.\n- Segera hubungi **{{emergency}}** atau pergi ke Unit Gawat Darurat (UGD) jika Anda mengalami **nyeri dada**, **sesak napas mendadak**, atau **batuk darah** — ini bisa menjadi tanda adanya gumpalan darah di paru-paru."
     },
     "contraception": {
       "title": "Kontrasepsi",

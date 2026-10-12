@@ -6,6 +6,22 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiose",
+      "aliases": [
+        "adenomiose",
+        "adeno",
+        "adenomioma",
+        "endometriose interna",
+        "útero aumentado",
+        "regras abundantes e dolorosas"
+      ],
+      "glance": "A adenomiose é cando o revestimento do útero medra dentro do músculo da parede do útero. Pode causar regras abundantes e dolorosas.",
+      "overview": "A adenomiose é unha afección na que o tecido que normalmente reviste o útero medra dentro do músculo da parede do útero. Diagnostícase máis a miúdo en mulleres de máis de 30 anos e en quen xa deu a luz, pero pode afectar a calquera persoa que teña a regra. A súa causa non está clara.\n\nOs sinais máis comúns son unha dor menstrual forte (ás veces tanto que che impide facer as túas cousas de sempre) e regras abundantes. Algunhas persoas tamén teñen dor pélvica (na parte baixa da barriga) noutros momentos do mes, sensación de barriga inchada ou de peso e plenitude na barriga, ou dor durante as relacións sexuais. Outras non teñen ningún síntoma.\n\nÉ unha afección diferente da endometriose, na que un tecido parecido ao revestimento do útero medra fóra do útero, por exemplo nos ovarios. Algúns dos seus síntomas coinciden, e esa é unha das razóns polas que poden facer falta probas para saber que está a causar a dor.",
+      "deep": "O teu médico/a de familia adoita preguntarche polas regras e pode palparche suavemente a barriga; tamén pode propoñerche unha exploración interna, e podes pedir que te atenda unha médica ou que alguén estea contigo. Unha ecografía ou unha resonancia magnética poden axudar a detectar a adenomiose ou a descartar outras causas.\n\nHai tratamentos que axudan cos síntomas. Entre as opcións que pode comentar contigo un profesional sanitario están o DIU hormonal (SIU), que fai máis fino o revestimento do útero e pode facer que as regras sexan máis lixeiras e menos dolorosas; outros anticonceptivos hormonais, como a pílula combinada, a pílula só de proxestóxeno (minipílula) ou o parche; medicamentos non hormonais para o sangrado abundante ou a dor; e, se isto non axuda, a cirurxía. Como os métodos hormonais poden facer as regras máis lixeiras ou detelas, algunhas persoas toman a pílula con menos descansos ou sen ningún: mira «Tomar a pílula sen descansos».\n\nA calor na barriga, un aparello de TENS e os analxésicos habituais poden aliviar a dor. Levar un rexistro sinxelo da dor, do sangrado e doutros síntomas co paso do tempo axúdavos a ti e ao teu médico/a a ver como van as cousas e se un tratamento está a funcionar.",
+      "when_to_see_doctor": "Paga a pena consultar co teu médico/a de familia se:\n\n- as túas regras se volven máis dolorosas, máis abundantes ou irregulares\n- as regras abundantes están a afectar a túa vida, ou xa levas tempo con elas\n- tes dor durante as relacións sexuais\n- levas unhas 3 semanas sentíndote inchada\n- sangras entre regras ou despois das relacións sexuais\n\nPide unha cita urxente, ou contacta co servizo de garda, se a dor pélvica ou menstrual é forte ou peor do habitual e os analxésicos non axudaron.",
+      "red_flags": "- Busca axuda médica **urxente** (contacta cun médico ou cun **servizo de garda**, ou chama ao **{{emergency}}** / vai a urxencias do hospital se é grave) se **sangras tanto que empapas por completo unha compresa ou máis cada hora durante unhas poucas horas seguidas**, ou se tes **sensación de desmaio, mareo ou falta de alento**. Poden ser sinais de que estás a perder demasiado sangue."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alcol no embarazo",
       "aliases": [
@@ -281,6 +297,24 @@
       "deep": "Como é o respecto na práctica:\n\n- **Pregunta e comproba.** «Está ben isto?», e presta atención a como responde, coas palabras e co corpo.\n- **Acepta un «non» con boas maneiras.** Sen poñer mala cara, sen presionar e sen castigar. A súa resposta pon fin ao tema.\n- **O entusiasmo importa.** Se parece insegura, dubidosa ou que simplemente se deixa levar, para e pregunta.\n- **O seu corpo, a súa decisión**: sobre a intimidade, a anticoncepción, o embarazo, a súa saúde, o seu aspecto e as súas eleccións. Ti tes voz na vida que compartides, nunca un veto sobre o seu corpo.\n- **O respecto é diario.** Como lle falas, como falas dela e como respectas os seus límites nas cousas pequenas é a base sobre a que se apoia todo o demais.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Tomar a pílula sen descansos",
+      "aliases": [
+        "pílula continua",
+        "pílula sen descanso",
+        "tomar a pílula seguida",
+        "saltar a regra coa pílula",
+        "sen regra coa pílula",
+        "pauta prolongada",
+        "supresión da regra",
+        "pastilla anticonceptiva sen descanso"
+      ],
+      "glance": "Tomar a pílula con descansos máis curtos, con menos descansos ou sen ningún supón sangrar con menos frecuencia, ou nada. É algo que convén falar cun profesional sanitario.",
+      "overview": "A pílula combinada adoita tomarse durante 21 días seguidos dun descanso de 7 días, ou nun envase «diario» que inclúe algúns comprimidos sen hormonas (placebo). Durante o descanso, ou cos comprimidos placebo, normalmente tes un sangrado. Parece unha regra, pero débese á baixada de hormonas cando paras a pílula, non ao teu ciclo natural.\n\nAlgunhas persoas toman a pílula combinada dun xeito «personalizado»: cun descanso máis curto, con menos descansos ou sen descanso entre envases. Isto pode supoñer sangrar con menos frecuencia, ou nada, e pode aliviar síntomas que aparecen co descanso, como as dores de cabeza e o sangrado. Que che conveña depende de ti e do teu tipo de pílula, así que paga a pena falalo cun médico, unha enfermeira ou un farmacéutico.\n\nA pílula só de proxestóxeno (minipílula) é diferente: tómase todos os días, sen descanso. Esta pílula, o DIU hormonal (SIU) e o implante poden cambiar as túas regras: poden volverse máis lixeiras ou irregulares, ou desaparecer por completo.",
+      "deep": "Cando a regra desaparece por un método hormonal, é un efecto esperable das hormonas, non un sinal de que algo vaia mal. É habitual ter un sangrado leve ou manchado, sobre todo nos primeiros meses dun método novo ou dunha forma nova de tomalo, e a miúdo vai a menos co tempo. Se o sangrado continúa, un profesional sanitario pode explicarche as opcións: pode suxerirche un descanso curto, ou outra pílula ou outro método.\n\nNalgunhas afeccións nas que a regra trae moita dor ou sangrado abundante (como a endometriose, a adenomiose ou as regras moi dolorosas ou moi abundantes), os profesionais sanitarios poden propoñer opcións hormonais que fan as regras máis lixeiras ou as deteñen, e tomar a pílula con menos descansos ou sen ningún pode ser unha delas. As hormonas poden aliviar os síntomas, pero non curan estas afeccións.\n\nSen un sangrado regular non hai un ciclo que seguir, pero anotar a dor, o sangrado e outros síntomas segue mostrando como estás, e é útil levalo ás consultas. Canto te protexe a pílula fronte ao embarazo segue dependendo de tomala segundo as indicacións; o prospecto das túas pílulas, ou un farmacéutico, explica que facer se esqueces unha.",
+      "when_to_see_doctor": "Paga a pena falar cun médico, unha enfermeira ou un farmacéutico se:\n\n- queres tomar a pílula con menos descansos ou sen ningún, ou cambiar a forma de tomala\n- o sangrado ou o manchado continúa, aumenta ou che molesta (co DIU hormonal, paga a pena facer revisar un sangrado irregular que dure máis de 6 meses aproximadamente)\n- sangras despois das relacións sexuais, ou tes unha dor nova na parte baixa da barriga\n- esqueciches pílulas e tiveches relacións sexuais, ou pensas que poderías estar embarazada\n- a dor ou os outros síntomas polos que tomas hormonas volven ou empeoran",
+      "red_flags": "- A pílula combinada aumenta lixeiramente o risco de **coágulos de sangue (trombose)**. Busca axuda médica **urxente** se tes **dor e inchazo nunha perna**, ou a pel da perna quente, vermella ou máis escura.\n- Chama ao **{{emergency}}** ou vai a urxencias do hospital de inmediato se tes **dor no peito**, **falta de alento repentina** ou **tuses sangue**: poden ser sinais dun coágulo nos pulmóns."
     },
     "contraception": {
       "title": "Anticoncepción",

@@ -6,6 +6,21 @@
     "review": "Translated by Claude from en (no MT service); red flags back-checked — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiózis",
+      "aliases": [
+        "adenomiózis",
+        "adenomyosis",
+        "méh adenomiózis",
+        "belső endometriózis",
+        "adenomióma"
+      ],
+      "glance": "Adenomiózisról akkor beszélünk, ha a méh nyálkahártyája belenő a méhfal izomzatába. Erős és fájdalmas menstruációt okozhat.",
+      "overview": "Az adenomiózis olyan állapot, amelyben a méh belsejét normálisan bélelő szövet belenő a méhfal izomzatába. Gyakrabban diagnosztizálják 30 év feletti nőknél és azoknál, akik már szültek, de bárkit érinthet, akinek van menstruációja. Az oka nem tisztázott.\n\nA leggyakoribb jelek az erős menstruációs fájdalom – néha olyan erős, hogy nem tudod tőle végezni a szokásos dolgaidat – és az erős menstruációs vérzés. Van, akinek a hónap más időszakaiban is van kismedencei fájdalma (az alhasban), puffadást vagy nehéz, teli érzést tapasztal a hasában, vagy fájdalmat érez szex közben. Másoknak egyáltalán nincsenek tünetei.\n\nEz más betegség, mint az endometriózis, amelyben a méh nyálkahártyájához hasonló szövet a méhen kívül nő, például a petefészkeken. A tüneteik egy része átfedésben van, és ez az egyik oka annak, hogy vizsgálatokra lehet szükség ahhoz, hogy kiderüljön, mi okozza a fájdalmat.",
+      "deep": "A háziorvos általában megkérdez a menstruációdról, és óvatosan megtapinthatja a hasadat; belső (nőgyógyászati) vizsgálatot is javasolhat, és kérheted, hogy női orvos vizsgáljon meg, vagy hogy valaki veled legyen. Ultrahang vagy MR-vizsgálat segíthet kimutatni az adenomiózist vagy kizárni más okokat.\n\nA kezelések enyhíthetik a tüneteket. Azok között a lehetőségek között, amelyekről egy orvos beszélhet veled, ott van a hormonális spirál (IUS), amely elvékonyítja a méh nyálkahártyáját, és gyengébbé, kevésbé fájdalmassá teheti a menstruációt; más hormonális fogamzásgátlók, például a kombinált fogamzásgátló tabletta, a csak progesztogént tartalmazó tabletta vagy a fogamzásgátló tapasz; nem hormonális gyógyszerek az erős vérzésre vagy a fájdalomra; és ha ezek nem segítenek, a műtét. Mivel a hormonális módszerek gyengébbé tehetik vagy megszüntethetik a menstruációt, van, aki kevesebb szünettel vagy szünet nélkül szedi a tablettát – lásd: „A tabletta szedése szünet nélkül”.\n\nA hasra tett meleg, egy TENS-készülék és a szokásos fájdalomcsillapítók enyhíthetik a fájdalmat. Ha egyszerűen feljegyzed a fájdalmat, a vérzést és a többi tünetet az idő során, neked és az orvosodnak is könnyebb látni, hogyan alakulnak a dolgok, és hogy hat-e egy kezelés.",
+      "when_to_see_doctor": "Érdemes háziorvoshoz fordulnod, ha:\n\n- a menstruációd fájdalmasabbá, erősebbé vagy rendszertelenné válik\n- az erős menstruáció hatással van az életedre, vagy már egy ideje tart\n- szex közben fájdalmat érzel\n- körülbelül 3 hete puffadtnak érzed magad\n- a menstruációid között vagy szex után vérzel\n\nKérj sürgős időpontot, vagy fordulj az ügyeleti szolgálathoz, ha a kismedencei vagy menstruációs fájdalmad erős vagy rosszabb a szokásosnál, és a fájdalomcsillapítók nem segítettek.",
+      "red_flags": "- Kérj **sürgős** orvosi segítséget – fordulj orvoshoz vagy egy **ügyeleti szolgálathoz**, súlyos esetben pedig hívd a **{{emergency}}** segélyhívó számot / menj a sürgősségi osztályra –, ha **olyan erősen vérzel, hogy több órán át óránként egy vagy több betétet átáztatsz**, vagy **ájulásérzésed van, szédülsz, vagy kifulladsz**. Ezek a túl nagy vérveszteség jelei lehetnek."
+    },
     "alcohol-in-pregnancy": {
       "title": "Alkohol a terhesség alatt",
       "aliases": [
@@ -292,6 +307,24 @@
       "deep": "Így néz ki a tisztelet a gyakorlatban:\n\n- **Kérdezz, és figyelj rá menet közben is.** „Így jó?” – és figyeld, hogyan reagál, szavakkal és a testével.\n- **Fogadd el méltósággal a „nemet”.** Semmi durcáskodás, nyomás vagy büntetés. Az ő válasza lezárja a kérdést.\n- **A lelkesedés számít.** Ha bizonytalannak, tétovának tűnik, vagy csak belemegy, állj meg, és kérdezz.\n- **Az ő teste, az ő döntése** – az intimitásról, a fogamzásgátlásról, a terhességről, az egészségéről, a külsejéről, a döntéseiről. A közös életetekbe van beleszólásod, de a teste felett soha nincs vétójogod.\n- **A tisztelet mindennapos.** Az, ahogyan beszélsz vele, ahogyan beszélsz róla, és ahogyan az apró dolgokban tiszteletben tartod a határait, az az alap, amelyre minden más épül.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "A tabletta szedése szünet nélkül",
+      "aliases": [
+        "folyamatos tablettaszedés",
+        "tabletta szünet nélkül",
+        "fogamzásgátló szünet nélkül",
+        "menstruáció kihagyása tablettával",
+        "menstruáció nélkül a tablettával",
+        "hosszított szedési rend",
+        "menstruáció elnyomása",
+        "tablettaszünet nélkül"
+      ],
+      "glance": "Ha rövidebb szünetekkel, kevesebb szünettel vagy szünet nélkül szeded a tablettát, ritkábban vagy egyáltalán nem vérzel. Ezt érdemes egy egészségügyi szakemberrel megbeszélni.",
+      "overview": "A kombinált tablettát gyakran 21 napig szedik, majd 7 nap szünet következik, vagy „minden napra” szóló csomagban, amelyben néhány hatóanyag nélküli (placebo) tabletta is van. A szünet vagy a hatóanyag nélküli tabletták alatt általában vérzésed van. Ez menstruációnak tűnik, de nem a természetes ciklusod okozza, hanem a hormonszint esése, amikor szüneteteted a tablettát.\n\nVan, aki ehelyett „személyre szabott” módon szedi a kombinált tablettát: rövidebb szünettel, kevesebb szünettel vagy a csomagok között szünet nélkül. Ez azt jelentheti, hogy ritkábban vagy egyáltalán nem vérzel, és enyhítheti a szünettel járó tüneteket, például a fejfájást és a vérzést. Hogy neked megfelel-e, az rajtad és a tablettád típusán múlik, ezért érdemes megbeszélni egy orvossal, ápolóval vagy gyógyszerésszel.\n\nA csak progesztogént tartalmazó tabletta más: minden nap, szünet nélkül kell szedni. Ez a tabletta, a hormonális spirál (IUS) és az implantátum egyaránt megváltoztathatja a menstruációdat: gyengébbé vagy rendszertelenné válhat, vagy teljesen elmaradhat.",
+      "deep": "Ha a menstruáció egy hormonális módszer miatt marad el, az a hormonok várható hatása, nem pedig annak a jele, hogy valami baj van. A gyenge vérzés vagy pecsételés gyakori, főleg egy új módszer vagy egy új szedési mód első hónapjaiban, és idővel gyakran megszűnik. Ha a vérzés nem múlik el, egy egészségügyi szakember elmagyarázza a lehetőségeket – javasolhat egy rövid szünetet, vagy másik tablettát vagy módszert.\n\nBizonyos betegségeknél, amelyekben a menstruáció sok fájdalommal vagy erős vérzéssel jár – ilyen az endometriózis, az adenomiózis, vagy a nagyon fájdalmas vagy erős menstruáció –, az orvosok olyan hormonális lehetőségeket javasolhatnak, amelyek gyengébbé teszik vagy megszüntetik a menstruációt, és ezek egyike lehet a tabletta kevesebb szünettel vagy szünet nélkül történő szedése. A hormonok enyhíthetik a tüneteket, de nem gyógyítják meg ezeket a betegségeket.\n\nRendszeres vérzés nélkül nincs követhető ciklus, de a fájdalom, a vérzés és a többi tünet feljegyzése így is megmutatja, hogyan vagy, és hasznos elvinni az orvosi vizsgálatokra. Hogy a tabletta mennyire véd a terhesség ellen, továbbra is azon múlik, hogy előírás szerint szeded-e; a tablettához mellékelt betegtájékoztató vagy egy gyógyszerész elmondja, mit tegyél, ha kihagysz egyet.",
+      "when_to_see_doctor": "Érdemes beszélned egy orvossal, ápolóval vagy gyógyszerésszel, ha:\n\n- kevesebb szünettel vagy szünet nélkül szeretnéd szedni a tablettát, vagy változtatnál a szedés módján\n- a vérzés vagy pecsételés nem múlik el, erősödik, vagy zavar téged (hormonális spirál esetén a körülbelül 6 hónapnál tovább tartó rendszertelen vérzést érdemes orvossal kivizsgáltatni)\n- szex után vérzel, vagy új fájdalmat érzel az alhasadban\n- kihagytál tablettákat, és volt szexuális együttléted, vagy úgy gondolod, terhes lehetsz\n- visszatér vagy rosszabbodik a fájdalom vagy más tünet, ami miatt a hormonokat szeded",
+      "red_flags": "- A kombinált tabletta kissé növeli a **vérrögképződés (trombózis)** kockázatát. Kérj **sürgős** orvosi segítséget, ha **fáj és bedagad az egyik lábad**, vagy a lábadon a bőr meleg, vörös vagy sötétebb színű.\n- Azonnal hívd a **{{emergency}}** segélyhívó számot, vagy menj a sürgősségi osztályra, ha **mellkasi fájdalmad** vagy **hirtelen légszomjad** van, vagy **vért köhögsz fel** – ezek tüdőben lévő vérrög jelei lehetnek."
     },
     "contraception": {
       "title": "Fogamzásgátlás",

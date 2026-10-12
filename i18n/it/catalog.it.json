@@ -6,6 +6,20 @@
     "review": "Machine-translated (DeepL) from en — needs native review."
   },
   "atoms": {
+    "adenomyosis": {
+      "title": "Adenomiosi",
+      "aliases": [
+        "adenomiosi",
+        "adeno",
+        "adenomioma",
+        "endometriosi interna"
+      ],
+      "glance": "L'adenomiosi è quando il rivestimento dell'utero cresce dentro il muscolo della parete dell'utero. Può causare mestruazioni abbondanti e dolorose.",
+      "overview": "L'adenomiosi è una condizione in cui il tessuto che normalmente riveste l'utero cresce dentro il\nmuscolo della parete dell'utero. Viene diagnosticata più spesso nelle donne sopra i 30 anni e in chi\nha avuto figli, ma può riguardare chiunque abbia le mestruazioni. La causa non è chiara.\n\nI segni più comuni sono un dolore mestruale forte, a volte tanto da impedirti di fare le cose di\ntutti i giorni, e mestruazioni abbondanti. Alcune persone hanno anche dolore pelvico (nella parte\nbassa della pancia) in altri momenti del mese, una sensazione di gonfiore o di pesantezza alla\npancia, oppure dolore durante i rapporti. Altre non hanno nessun sintomo.\n\nÈ una condizione diversa dall'endometriosi, in cui un tessuto simile al rivestimento dell'utero cresce\nfuori dall'utero, per esempio sulle ovaie. Alcuni sintomi si somigliano, ed è uno dei motivi per cui\npossono servire degli esami per capire da cosa dipende il dolore.",
+      "deep": "Di solito il medico ti chiede delle mestruazioni e può palparti delicatamente la pancia; può proporti\nuna visita interna, e puoi chiedere una dottoressa o che qualcuno resti con te. Un'ecografia o una\nrisonanza magnetica possono aiutare a trovare l'adenomiosi o a escludere altre cause.\n\nEsistono trattamenti che aiutano con i sintomi. Tra le opzioni di cui il medico può parlarti ci sono\nla spirale ormonale (IUS), che assottiglia il rivestimento dell'utero e può rendere le mestruazioni\npiù leggere e meno dolorose; altri contraccettivi ormonali, come la pillola combinata, la pillola\nsolo progestinica o il cerotto; farmaci non ormonali per il sanguinamento abbondante o il dolore; e,\nse tutto questo non basta, la chirurgia. Poiché i metodi ormonali possono rendere le mestruazioni più\nleggere o fermarle, alcune persone prendono la pillola con meno pause o senza pause: vedi «Prendere la\npillola senza pause».\n\nIl calore sulla pancia, un apparecchio TENS e i comuni antidolorifici possono alleviare il dolore.\nTenere una semplice traccia di dolore, sanguinamento e altri sintomi nel tempo aiuta te e il medico a\ncapire come va e se un trattamento sta funzionando.",
+      "when_to_see_doctor": "Vale la pena rivolgersi al medico se:\n\n- le mestruazioni diventano più dolorose, più abbondanti o irregolari\n- le mestruazioni abbondanti condizionano la tua vita, o vanno avanti da tempo\n- hai dolore durante i rapporti\n- ti senti gonfia da circa 3 settimane\n- hai perdite di sangue tra una mestruazione e l'altra o dopo i rapporti\n\nChiedi una visita urgente, o contatta la guardia medica, se il dolore pelvico o mestruale è forte o\npeggiore del solito e gli antidolorifici non sono serviti.",
+      "red_flags": "- Richiedi assistenza medica **urgente** — contatta un medico o la **guardia medica**, oppure chiama il **{{emergency}}** / recati al pronto soccorso se i sintomi sono gravi — se\n  **sanguini così abbondantemente da bagnare completamente un assorbente o più di uno ogni ora per alcune ore di seguito**, oppure\n  ti senti **svenire, hai le vertigini o ti manca il respiro**. Questi possono essere segni di una perdita eccessiva di sangue."
+    },
     "alcohol-in-pregnancy": {
       "title": "L'alcol in gravidanza",
       "aliases": [
@@ -263,6 +277,24 @@
       "deep": "Come si vede il rispetto nella pratica:\n\n- **Chiedi, e verifica.** \"Va bene così?\" e presta attenzione a come risponde — con le parole e con il corpo.\n- **Accetta il \"no\" con grazia.** Niente musi, pressioni o punizioni. La sua risposta è definitiva.\n- **L'entusiasmo conta.** Se sembra insicura, esitante o solo accondiscendente, fermati e chiedi.\n- **Il suo corpo, la sua scelta** — sull'intimità, la contraccezione, la gravidanza, la sua salute, il suo aspetto, le sue scelte. Hai voce nella vostra vita insieme, mai un veto sul suo corpo.\n- **Il rispetto è quotidiano.** Come le parli, come parli di lei e come tratti i suoi limiti nelle piccole cose è la base su cui poggia tutto il resto.",
       "when_to_see_doctor": null,
       "red_flags": null
+    },
+    "continuous-pill": {
+      "title": "Prendere la pillola senza pause",
+      "aliases": [
+        "pillola continuativa",
+        "pillola in continuo",
+        "pillola senza pausa",
+        "pillola senza interruzione",
+        "saltare le mestruazioni",
+        "niente mestruazioni con la pillola",
+        "soppressione delle mestruazioni",
+        "regime esteso"
+      ],
+      "glance": "Prendere la pillola con pause più brevi, meno pause o nessuna significa sanguinare meno spesso, o per niente. È una scelta da valutare con il medico.",
+      "overview": "La pillola combinata si prende spesso per 21 giorni seguiti da 7 giorni di pausa, oppure in una\nconfezione da 28 compresse, alcune delle quali sono placebo (senza ormoni). Durante la pausa, o con le compresse\nplacebo, di solito hai un sanguinamento. Sembra una mestruazione, ma è dovuto al calo degli ormoni\nquando sospendi la pillola, non al tuo ciclo naturale.\n\nAlcune persone prendono invece la pillola combinata in modo «personalizzato»: con una pausa più breve,\nmeno pause o nessuna pausa tra una confezione e l'altra. Questo può voler dire sanguinare meno spesso,\no per niente, e può alleviare i disturbi legati alla pausa, come il mal di testa e il sanguinamento.\nSe fa per te dipende da te e dal tipo di pillola, quindi vale la pena parlarne con il medico, il\nginecologo o il farmacista.\n\nLa pillola solo progestinica è diversa: si prende tutti i giorni, senza pause. Questa pillola, la\nspirale ormonale (IUS) e l'impianto possono cambiare le mestruazioni: possono diventare più leggere o\nirregolari, oppure fermarsi del tutto.",
+      "deep": "Quando le mestruazioni si fermano per via di un metodo ormonale, è un effetto atteso degli ormoni e\nnon un segno che qualcosa non va. Piccole perdite di sangue o spotting sono frequenti, soprattutto nei\nprimi mesi di un nuovo metodo o di un nuovo modo di prenderlo, e spesso si riducono col tempo. Se le\nperdite continuano, il medico può spiegarti le possibilità: potrebbe proporti una breve pausa, oppure\nun'altra pillola o un altro metodo.\n\nPer alcune condizioni in cui le mestruazioni portano molto dolore o sanguinamento abbondante, come\nl'endometriosi, l'adenomiosi o mestruazioni molto dolorose o abbondanti, il medico può proporre\nopzioni ormonali che rendono le mestruazioni più leggere o le fermano, e prendere la pillola con meno\npause o senza pause può essere una di queste. Gli ormoni possono alleviare i sintomi, ma non guariscono\nqueste condizioni.\n\nSenza un sanguinamento regolare non c'è un ciclo da seguire, ma annotare dolore, perdite e altri\nsintomi mostra comunque come stai, ed è utile da portare alle visite. Quanto la pillola protegge da una\ngravidanza dipende sempre dal prenderla come indicato; il foglietto illustrativo, o il farmacista, ti\nspiega cosa fare se ne dimentichi una.",
+      "when_to_see_doctor": "Vale la pena parlarne con il medico, il ginecologo o il farmacista se:\n\n- vorresti prendere la pillola con meno pause o senza pause, o cambiare il modo in cui la prendi\n- le perdite o lo spotting continuano, aumentano o ti danno fastidio (con la spirale ormonale, perdite\n  irregolari che durano più di circa 6 mesi vanno controllate)\n- hai perdite di sangue dopo i rapporti, o un nuovo dolore nella parte bassa della pancia\n- hai dimenticato delle pillole e hai avuto rapporti, o pensi di poter essere incinta\n- il dolore o gli altri sintomi per cui prendi gli ormoni tornano o peggiorano",
+      "red_flags": "- La pillola combinata aumenta leggermente il rischio di **coaguli di sangue (trombosi)**. Chiedi aiuto medico **urgente** se hai\n  **dolore e gonfiore a una gamba**, oppure la pelle della gamba calda, arrossata o più scura.\n- Chiama subito il **{{emergency}}** o vai al pronto soccorso se hai **dolore al petto**,\n  **affanno improvviso** o **tossisci sangue**: possono essere segni di un coagulo nei polmoni."
     },
     "contraception": {
       "title": "Contraccezione",
